@@ -10,6 +10,7 @@ import 'package:flutter_local_notifications/flutter_local_notifications.dart'; /
 import 'package:shared_preferences/shared_preferences.dart'; //Kullanıcı tercihlerini kaydeder
 import 'package:timezone/data/latest_all.dart' as tz; //arka plan bildirimleri için
 import 'package:timezone/timezone.dart' as tz; //arka plan bildirimleri için
+import 'package:share_plus/share_plus.dart'; //ayet paylaşabilmek için
 
 // --- TEMA YÖNETİMİ ---
 // ValueNotifier: İçindeki değer (renk) değiştiğinde, onu dinleyen widget'lara 
@@ -173,6 +174,30 @@ class _AnaSayfaState extends State<AnaSayfa> {
     ];
 
     String seciliDeger = sehirler.contains(aktifSehir) ? aktifSehir : 'Ankara';
+
+    // --- GÜNÜN AYETİ HAVUZU ---
+  final List<Map<String, String>> _ayetListesi = [
+    {
+      "sure": "Bakara Suresi, 152. Ayet",
+      "meal": "Öyleyse yalnız beni anın ki ben de sizi anayım. Bana şükredin, sakın nankörlük etmeyin."
+    },
+    {
+      "sure": "İnşirah Suresi, 5-6. Ayet",
+      "meal": "Elbette zorluğun yanında bir kolaylık vardır. Gerçekten, zorlukla beraber bir kolaylık daha vardır."
+    },
+    {
+      "sure": "Tâhâ Suresi, 46. Ayet",
+      "meal": "Korkmayın! Çünkü ben sizinle beraberim; işitirim ve görürüm."
+    },
+    {
+      "sure": "Zümer Suresi, 53. Ayet",
+      "meal": "Ey kendi aleyhlerine haddi aşan kullarım! Allah'ın rahmetinden ümidinizi kesmeyin."
+    },
+    {
+      "sure": "Rad Suresi, 28. Ayet",
+      "meal": "Onlar, inananlar ve kalpleri Allah'ı anmakla huzura kavuşanlardır. Biliniz ki, kalpler ancak Allah'ı anmakla huzur bulur."
+    }
+  ];
 
     return showDialog<String>(
       context: context,
@@ -340,7 +365,8 @@ class _AnaSayfaState extends State<AnaSayfa> {
         // Sayacı da başlattık
         sayaciBaslat(); 
 
-        
+        // YENİ: Alarmları sisteme kur!
+        _gunlukBildirimleriZamanla();
         
         return true; // <--- İŞLEM BAŞARILI, TRUE DÖNDÜR
       } else {
@@ -361,6 +387,29 @@ class _AnaSayfaState extends State<AnaSayfa> {
       kalanSureyiHesapla();
     });
     kalanSureyiHesapla(); // İlk saniyeyi beklemeden hemen ilk hesaplamayı yap.
+  }
+// --- EKSİK OLAN ARKA PLAN BİLDİRİM DÖNGÜSÜ ---
+  Future<void> _gunlukBildirimleriZamanla() async {
+    if (vakitler == null) return;
+
+    await bildirimServisi.cancelAll(); // Eski alarmları temizle
+    final suAn = DateTime.now();
+
+    Map<String, String> vakitListesi = {
+      'İmsak': vakitler!['Fajr'], 'Güneş': vakitler!['Sunrise'], 'Öğle': vakitler!['Dhuhr'],
+      'İkindi': vakitler!['Asr'], 'Akşam': vakitler!['Maghrib'], 'Yatsı': vakitler!['Isha'],
+    };
+
+    int id = 0;
+    vakitListesi.forEach((vakitAdi, saatMetni) async {
+      List<String> saatDakika = saatMetni.split(':');
+      DateTime vakitZamani = DateTime(suAn.year, suAn.month, suAn.day, int.parse(saatDakika[0]), int.parse(saatDakika[1]));
+
+      if (vakitZamani.isAfter(suAn)) {
+        await _tekilAlarmKur(id, vakitAdi, vakitZamani);
+      }
+      id++; 
+    });
   }
 
   Future<void> _tekilAlarmKur(int id, String vakitAdi, DateTime zaman) async {
@@ -532,14 +581,23 @@ class _AnaSayfaState extends State<AnaSayfa> {
                   ? Padding(padding: const EdgeInsets.all(20), child: Text(hataMesaji, textAlign: TextAlign.center)) // Hata varsa metni bas
                   : Column(
                       children: [
+                        const SizedBox(height: 20),
+                        _anaSayacKarti(), // SADECE 1 TANE KALDI
                         
-                        const SizedBox(height: 20),
-                        _anaSayacKarti(), // Özel tasarım ana sayaç widget'ımız
-                        const SizedBox(height: 20),
-                        Padding(
+                        _gununAyetiKarti(), 
+
+                        _gununHadisiKarti(),
+                        
+                        const SizedBox(height: 10), 
+                        
+                        Padding( // SADECE 1 TANE KALDI
                           padding: const EdgeInsets.only(left: 20, bottom: 10),
-                          child: Align(alignment: Alignment.centerLeft, child: Text("Bugünün Vakitleri", style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold, color: Theme.of(context).colorScheme.primary))),
+                          child: Align(
+                            alignment: Alignment.centerLeft, 
+                            child: Text("Bugünün Vakitleri", style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold, color: Theme.of(context).colorScheme.primary))
+                          ),
                         ),
+                        const SizedBox(height: 20),
                         // Expanded & ListView: Kartların ekrandan taşmasını engeller, kaydırılabilir liste yapar.
                         Expanded(
                           child: ListView(
@@ -593,6 +651,346 @@ class _AnaSayfaState extends State<AnaSayfa> {
         leading: Icon(ikon, color: Theme.of(context).colorScheme.primary, size: 32), 
         title: Text(isim, style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold, color: yaziRengi)),
         trailing: Text(saat ?? '', style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold, color: yaziRengi)),
+      ),
+    );
+  }
+  Widget _gununAyetiKarti() {
+    // AYET HAVUZUNU DOĞRUDAN FONKSİYONUN İÇİNE ALDIK (Hata riski sıfırlandı)
+    final List<Map<String, String>> ayetListesi = [
+      {
+        "sure": "Bakara Suresi, 152. Ayet",
+        "meal": "Öyleyse yalnız beni anın ki ben de sizi anayım. Bana şükredin, sakın nankörlük etmeyin."
+      },
+      {
+        "sure": "İnşirah Suresi, 5-6. Ayet",
+        "meal": "Elbette zorluğun yanında bir kolaylık vardır. Gerçekten, zorlukla beraber bir kolaylık daha vardır."
+      },
+      {
+        "sure": "Tâhâ Suresi, 46. Ayet",
+        "meal": "Korkmayın! Çünkü ben sizinle beraberim; işitirim ve görürüm."
+      },
+      {
+        "sure": "Zümer Suresi, 53. Ayet",
+        "meal": "Ey kendi aleyhlerine haddi aşan kullarım! Allah'ın rahmetinden ümidinizi kesmeyin."
+      },
+      {
+        "sure": "Rad Suresi, 28. Ayet",
+        "meal": "Onlar, inananlar ve kalpleri Allah'ı anmakla huzura kavuşanlardır. Biliniz ki, kalpler ancak Allah'ı anmakla huzur bulur."
+      },
+      {
+        "sure": "Bakara Suresi, 153. Ayet",
+        "meal": "Ey iman edenler! Sabır ve namazla yardım dileyin. Şüphesiz Allah sabredenlerin yanındadır."
+      },
+      {
+        "sure": "Tevbe Suresi, 40. Ayet",
+        "meal": "Üzülme, çünkü Allah bizimle beraberdir."
+      },
+      {
+        "sure": "Duhâ Suresi, 3. Ayet",
+        "meal": "Rabbin seni ne terk etti, ne de sana darıldı."
+      },
+      {
+        "sure": "Talâk Suresi, 3. Ayet",
+        "meal": "Kim Allah’a tevekkül ederse, O kendisine yeter. Şüphesiz Allah, emrini yerine getirendir."
+      },
+      {
+        "sure": "Necm Suresi, 39. Ayet",
+        "meal": "Bilsin ki insan için kendi çalışmasından başka bir şey yoktur."
+      },
+      {
+        "sure": "İbrahim Suresi, 7. Ayet",
+        "meal": "Andolsun, eğer şükrederseniz elbette size nimetimi artırırım."
+      },
+      {
+        "sure": "Bakara Suresi, 216. Ayet",
+        "meal": "Sizin hayır bildiğinizde şer, şer bildiğinizde hayır vardır. Allah bilir, siz bilemezsiniz."
+      },
+      {
+        "sure": "Mü’minûn Suresi, 118. Ayet",
+        "meal": "De ki: Rabbim, bağışla ve merhamet et! Sen merhametlilerin en hayırlısısın."
+      },
+      {
+        "sure": "Yusuf Suresi, 87. Ayet",
+        "meal": "Allah'ın rahmetinden ümit kesmeyin. Çünkü kafirler topluluğundan başkası Allah'ın rahmetinden ümit kesmez."
+      },
+      {
+        "sure": "İnşirah Suresi, 7-8. Ayet",
+        "meal": "Boş kaldın mı hemen başka bir işe koyul ve yalnız Rabbine yönel."
+      },
+      {
+        "sure": "Kaf Suresi, 16. Ayet",
+        "meal": "Andolsun, insanı biz yarattık ve nefsinin ona verdiği vesveseyi de biz biliriz. Çünkü biz ona şah damarından daha yakınız."
+      },
+      {
+        "sure": "Hicr Suresi, 99. Ayet",
+        "meal": "Sana ölüm gelinceye kadar Rabbine ibadet et."
+      },
+      {
+        "sure": "Ankebût Suresi, 69. Ayet",
+        "meal": "Bizim uğrumuzda cihat edenler var ya, biz onları mutlaka yollarımıza ileteceğiz."
+      },
+      {
+        "sure": "Bakara Suresi, 286. Ayet",
+        "meal": "Allah kimseye gücünün yettiğinden fazlasını yüklemez."
+      },
+      {
+        "sure": "Âl-i İmrân Suresi, 139. Ayet",
+        "meal": "Gevşemeyin, hüzünlenmeyin. Eğer (gerçekten) iman etmişseniz, üstün olan sizsiniz."
+      },
+      {
+        "sure": "En'âm Suresi, 17. Ayet",
+        "meal": "Eğer Allah sana bir zarar dokunduracak olsa, onu O'ndan başka giderecek yoktur."
+      },
+      {
+        "sure": "Mülk Suresi, 19. Ayet",
+        "meal": "Üstlerinde kanat çırparak uçan kuşlara bakmazlar mı? Onları (havada) Rahman olan Allah’tan başkası tutmuyor."
+      },
+      {
+        "sure": "Şuarâ Suresi, 80. Ayet",
+        "meal": "Hastalandığım zaman bana şifa veren O’dur."
+      },
+      {
+        "sure": "Nahl Suresi, 128. Ayet",
+        "meal": "Şüphesiz Allah, takva sahipleriyle ve iyilikte bulunanlarla beraberdir."
+      },
+      {
+        "sure": "Meryem Suresi, 96. Ayet",
+        "meal": "İnanıp hayırlı işler yapanlar için Rahman olan Allah, (gönüllerde) bir sevgi yaratacaktır."
+      }
+    ];
+
+    // 1. Yılın kaçıncı gününde olduğumuzu bul
+    final suAn = DateTime.now();
+    final yilinIlkGunu = DateTime(suAn.year, 1, 1);
+    final int kacinciGun = suAn.difference(yilinIlkGunu).inDays;
+
+    // 2. Modül işlemi (Artık liste burada olduğu için int hatası vermeyecek)
+    final int ayetIndeksi = kacinciGun % ayetListesi.length;
+    final Map<String, String> bugununAyeti = ayetListesi[ayetIndeksi];
+
+    return Padding(
+      padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 8.0),
+      child: Card(
+        color: Theme.of(context).colorScheme.primaryContainer.withOpacity(0.6),
+        elevation: 0,
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(16),
+          side: BorderSide(color: Theme.of(context).colorScheme.primary.withOpacity(0.3), width: 1),
+        ),
+        child: Padding(
+          padding: const EdgeInsets.all(20.0),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: [
+              Row(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  const Spacer(), // Yazıyı ortalamak için boşluk itici
+                  Icon(Icons.format_quote, color: Theme.of(context).colorScheme.primary),
+                  const SizedBox(width: 8),
+                  Text("Günün Ayeti", style: TextStyle(fontWeight: FontWeight.bold, color: Theme.of(context).colorScheme.primary, fontSize: 16)),
+                  const SizedBox(width: 8),
+                  Icon(Icons.format_quote, color: Theme.of(context).colorScheme.primary),
+                  const Spacer(), // Yazıyı ortalamak için boşluk itici
+                  
+                  // YENİ: Paylaş Butonu
+                  IconButton(
+                    icon: Icon(Icons.share, color: Theme.of(context).colorScheme.primary, size: 20),
+                    tooltip: 'Ayeti Paylaş',
+                    padding: EdgeInsets.zero,
+                    constraints: const BoxConstraints(), // Butonun etrafındaki gereksiz boşluğu alır
+                    onPressed: () {
+                      // Tıklandığında telefonun kendi paylaşım menüsünü açar
+                      Share.share('"${bugununAyeti["meal"]}"\n\n- ${bugununAyeti["sure"]}\n\nNamaz Vakitleri Uygulamasından paylaşıldı.');
+                    },
+                  ),
+                ],
+              ),
+              const SizedBox(height: 12),
+              Text(
+                '"${bugununAyeti["meal"]}"',
+                textAlign: TextAlign.center,
+                style: const TextStyle(fontSize: 16, fontStyle: FontStyle.italic, height: 1.4),
+              ),
+              const SizedBox(height: 12),
+              Text(
+                "- ${bugununAyeti["sure"]}",
+                textAlign: TextAlign.center,
+                style: TextStyle(fontSize: 14, fontWeight: FontWeight.bold, color: Theme.of(context).colorScheme.secondary),
+              ),
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+  Widget _gununHadisiKarti() {
+    // --- HADİS HAVUZU ---
+    final List<Map<String, String>> hadisListesi = [
+      {
+        "kaynak": "Buhârî, Îmân, 1",
+        "hadis": "Ameller niyetlere göredir. Herkes sadece niyetinin karşılığını alır."
+      },
+      {
+        "kaynak": "Müslim, Birr, 32",
+        "hadis": "Kim bir müminin dünyevi sıkıntılarından birini giderirse, Allah da onun kıyamet günündeki sıkıntılarından birini giderir."
+      },
+      {
+        "kaynak": "Tirmizî, Birr, 16",
+        "hadis": "Sizin en hayırlınız, ahlâkı en güzel olanınızdır."
+      },
+      {
+        "kaynak": "Ebû Dâvûd, Edeb, 60",
+        "hadis": "İnsanlara merhamet etmeyene Allah merhamet etmez."
+      },
+      {
+        "kaynak": "Buhârî, Rikak, 3",
+        "hadis": "İki nimet vardır ki insanların çoğu bu konuda aldanmıştır: Sağlık ve boş vakit."
+      },
+      {
+    "kaynak": "Buhârî, İlim, 10",
+    "hadis": "Allah, kimin için hayır dilerse onu dinde derin anlayış sahibi kılar."
+  },
+  {
+    "kaynak": "Müslim, Îmân, 71",
+    "hadis": "Hiçbiriniz, kendisi için istediğini kardeşi için de istemedikçe (gerçek manada) iman etmiş olmaz."
+  },
+  {
+    "kaynak": "Tirmizî, Zühd, 11",
+    "hadis": "Kendisini ilgilendirmeyen şeyleri terk etmesi, bir kişinin müslümanlığının güzelliğindendir."
+  },
+  {
+    "kaynak": "İbn Mâce, Mukaddime, 17",
+    "hadis": "İlim öğrenmek, her müslüman üzerine farzdır."
+  },
+  {
+    "kaynak": "Ebû Dâvûd, Edeb, 20",
+    "hadis": "Hayra vesile olan, o hayrı işlemiş gibidir."
+  },
+  {
+    "kaynak": "Buhârî, Edeb, 69",
+    "hadis": "Kolaylaştırınız, zorlaştırmayınız; müjdeleyiniz, nefret ettirmeyiniz."
+  },
+  {
+    "kaynak": "Müslim, Îmân, 164",
+    "hadis": "Müslüman, dilinden ve elinden insanların güvende olduğu kişidir."
+  },
+  {
+    "kaynak": "Tirmizî, Birr, 18",
+    "hadis": "Nerede olursan ol, Allah’tan kork. Kötülüğün peşinden hemen bir iyilik yap ki onu silsin."
+  },
+  {
+    "kaynak": "Ebû Dâvûd, Edeb, 7",
+    "hadis": "Küçüklerimize merhamet etmeyen, büyüklerimize saygı göstermeyen bizden değildir."
+  },
+  {
+    "kaynak": "Buhârî, Îmân, 1",
+    "hadis": "Doğruluktan ayrılmayın. Çünkü doğruluk iyiliğe, iyilik de cennete götürür."
+  },
+  {
+    "kaynak": "Müslim, Zikir, 38",
+    "hadis": "Dua, ibadetin özüdür."
+  },
+  {
+    "kaynak": "Tirmizî, Birr, 36",
+    "hadis": "Güler yüzle insanlara selam vermen de bir sadakadır."
+  },
+  {
+    "kaynak": "Buhârî, Edeb, 31",
+    "hadis": "Komşusu açken tok yatan bizden değildir."
+  },
+  {
+    "kaynak": "İbn Mâce, Zühd, 15",
+    "hadis": "Dünyada bir garip veya bir yolcu gibi ol."
+  },
+  {
+    "kaynak": "Müslim, Birr, 2",
+    "hadis": "İyilik, güzel ahlaktır. Günah ise vicdanını rahatsız eden şeydir."
+  },
+  {
+    "kaynak": "Ebû Dâvûd, Edeb, 81",
+    "hadis": "Bizi aldatan bizden değildir."
+  },
+  {
+    "kaynak": "Buhârî, Edeb, 18",
+    "hadis": "Söz taşıyan (koğuculuk yapan) cennete giremez."
+  },
+  {
+    "kaynak": "Tirmizî, Zühd, 52",
+    "hadis": "Zenginlik mal çokluğu değil, gönül zenginliğidir."
+  },
+  {
+    "kaynak": "Müslim, Îmân, 93",
+    "hadis": "Kalbinde zerre kadar kibir olan kimse cennete giremez."
+  },
+  {
+    "kaynak": "Buhârî, Edeb, 27",
+    "hadis": "Gerçek pehlivan, güreşte rakibini yenen değil, öfke anında kendine hâkim olandır."
+  }
+    ];
+
+    // Yılın kaçıncı gününde olduğumuzu buluyoruz
+    final suAn = DateTime.now();
+    final yilinIlkGunu = DateTime(suAn.year, 1, 1);
+    final int kacinciGun = suAn.difference(yilinIlkGunu).inDays;
+
+    // Modül işlemi ile sıradaki hadisi seçiyoruz
+    final int hadisIndeksi = kacinciGun % hadisListesi.length;
+    final Map<String, String> bugununHadisi = hadisListesi[hadisIndeksi];
+
+    return Padding(
+      padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 8.0),
+      child: Card(
+        // Ayet kartından biraz farklı hissettirmesi için opacity (saydamlık) değerini biraz düşürdük
+        color: Theme.of(context).colorScheme.secondaryContainer.withOpacity(0.5), 
+        elevation: 0,
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(16),
+          side: BorderSide(color: Theme.of(context).colorScheme.secondary.withOpacity(0.3), width: 1),
+        ),
+        child: Padding(
+          padding: const EdgeInsets.all(20.0),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: [
+              Row(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  const Spacer(),
+                  Icon(Icons.menu_book, color: Theme.of(context).colorScheme.secondary), // Kitap ikonu
+                  const SizedBox(width: 8),
+                  Text("Günün Hadisi", style: TextStyle(fontWeight: FontWeight.bold, color: Theme.of(context).colorScheme.secondary, fontSize: 16)),
+                  const SizedBox(width: 8),
+                  Icon(Icons.menu_book, color: Theme.of(context).colorScheme.secondary),
+                  const Spacer(),
+                  
+                  // Paylaş Butonu
+                  IconButton(
+                    icon: Icon(Icons.share, color: Theme.of(context).colorScheme.secondary, size: 20),
+                    tooltip: 'Hadisi Paylaş',
+                    padding: EdgeInsets.zero,
+                    constraints: const BoxConstraints(),
+                    onPressed: () {
+                      Share.share('"${bugununHadisi["hadis"]}"\n\n- ${bugununHadisi["kaynak"]}\n\nNamaz Vakitleri Uygulamasından paylaşıldı.');
+                    },
+                  ),
+                ],
+              ),
+              const SizedBox(height: 12),
+              Text(
+                '"${bugununHadisi["hadis"]}"',
+                textAlign: TextAlign.center,
+                style: const TextStyle(fontSize: 16, fontStyle: FontStyle.italic, height: 1.4),
+              ),
+              const SizedBox(height: 12),
+              Text(
+                "- ${bugununHadisi["kaynak"]}",
+                textAlign: TextAlign.center,
+                style: TextStyle(fontSize: 14, fontWeight: FontWeight.bold, color: Theme.of(context).colorScheme.primary),
+              ),
+            ],
+          ),
+        ),
       ),
     );
   }
