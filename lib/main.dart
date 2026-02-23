@@ -420,11 +420,32 @@ class OzelGunlerSayfasi extends StatelessWidget {
         "ikon": "calendar_month"
       },
       {
+        "isim": "Regaib Kandili", 
+        "tarih": "22 Ocak 2026", 
+        "hicriTarih": "3 Recep 1447",
+        "aciklama": "Rahmet ve mağfiret gecesi, üç ayların ilk kandilidir. 'Regaib' çokça rağbet edilen, arzulanan anlamına gelir.", 
+        "ikon": "mosque"
+      },
+      {
+        "isim": "Miraç Kandili", 
+        "tarih": "13 Şubat 2026", 
+        "hicriTarih": "26 Recep 1447",
+        "aciklama": "Peygamber Efendimiz'in (s.a.v) Mescid-i Haram'dan Mescid-i Aksa'ya, oradan da göğe yükseldiği mucizevi gecedir.", 
+        "ikon": "auto_awesome"
+      },
+      {
         "isim": "Ramazan Başlangıcı", 
         "tarih": "17 Şubat 2026", 
         "hicriTarih": "1 Ramazan 1447",
         "aciklama": "On bir ayın sultanı, oruç ibadetinin yerine getirildiği mübarek aydır.", 
         "ikon": "brightness_3"
+      },
+      {
+        "isim": "Berat Kandili", 
+        "tarih": "3 Mart 2026", 
+        "hicriTarih": "14 Şaban 1447",
+        "aciklama": "Günahlardan arınma, af, şefaat ve mağfiret gecesidir.", 
+        "ikon": "nightlight_round"
       },
       {
         "isim": "Kadir Gecesi", 
@@ -444,8 +465,29 @@ class OzelGunlerSayfasi extends StatelessWidget {
         "isim": "Kurban Bayramı", 
         "tarih": "26 Mayıs 2026", 
         "hicriTarih": "10 Zilhicce 1447",
-        "aciklama": "Yardımlaşma ve dayanışmanın zirveye çıktığı bayramdır.", 
+        "aciklama": "Yardımlaşma ve dayanışmanın zirveye çıktığı, kurban ibadetinin yerine getirildiği bayramdır.", 
         "ikon": "volunteer_activism"
+      },
+      {
+        "isim": "Hicri Yılbaşı", 
+        "tarih": "16 Haziran 2026", 
+        "hicriTarih": "1 Muharrem 1448",
+        "aciklama": "Peygamber Efendimiz'in (s.a.v) Mekke'den Medine'ye hicretini esas alan Hicri takvimin ilk günüdür.", 
+        "ikon": "event"
+      },
+      {
+        "isim": "Aşure Günü", 
+        "tarih": "25 Haziran 2026", 
+        "hicriTarih": "10 Muharrem 1448",
+        "aciklama": "Peygamberlerin hayatında birçok önemli hadisenin gerçekleştiği, bereket ve paylaşma günüdür.", 
+        "ikon": "local_dining"
+      },
+      {
+        "isim": "Mevlid Kandili", 
+        "tarih": "25 Ağustos 2026", 
+        "hicriTarih": "11 Rebiülevvel 1448",
+        "aciklama": "Alemlere rahmet olarak gönderilen Peygamber Efendimiz'in (s.a.v) dünyaya teşrif ettiği (doğduğu) gecedir.", 
+        "ikon": "menu_book"
       }
     ]
     ''';
@@ -594,26 +636,35 @@ class OzelGunlerSayfasi extends StatelessWidget {
 // --- YENİ EKLENEN: VERİ MODELİ (DTO) ---
 // --- VERİ MODELİ (GÜNCELLENDİ: Hicri Tarih Eklendi) ---
 // --- VERİ MODELİ (GÜNCELLENDİ: Hicri Tarih Eklendi) ---
+// --- VERİ MODELİ (GÜNCELLENDİ: Yeni İkonlar Eklendi) ---
 class DiniGun {
   final String isim;
   final String tarih;
-  final String hicriTarih; // YENİ: Hicri tarihi tutacak değişken
+  final String hicriTarih; 
   final String aciklama;
   final IconData ikon;
 
   DiniGun({required this.isim, required this.tarih, required this.hicriTarih, required this.aciklama, required this.ikon});
 
   factory DiniGun.fromJson(Map<String, dynamic> json) {
-    IconData seciliIkon = Icons.event;
+    IconData seciliIkon = Icons.event; // Varsayılan ikon
     if (json['ikon'] == 'brightness_3') seciliIkon = Icons.brightness_3;
     if (json['ikon'] == 'star') seciliIkon = Icons.star;
     if (json['ikon'] == 'celebration') seciliIkon = Icons.celebration;
     if (json['ikon'] == 'volunteer_activism') seciliIkon = Icons.volunteer_activism;
+    if (json['ikon'] == 'calendar_month') seciliIkon = Icons.calendar_month;
+    
+    // YENİ EKLENEN İKONLAR: Kandiller ve diğer özel günler için
+    if (json['ikon'] == 'mosque') seciliIkon = Icons.mosque; // Camii ikonu
+    if (json['ikon'] == 'auto_awesome') seciliIkon = Icons.auto_awesome; // Parıltı/Mucize ikonu
+    if (json['ikon'] == 'nightlight_round') seciliIkon = Icons.nightlight_round; // Gece/Kandil ikonu
+    if (json['ikon'] == 'local_dining') seciliIkon = Icons.local_dining; // Aşure/İkram ikonu
+    if (json['ikon'] == 'menu_book') seciliIkon = Icons.menu_book; // Kitap/Mevlid ikonu
 
     return DiniGun(
       isim: json['isim'],
       tarih: json['tarih'],
-      hicriTarih: json['hicriTarih'], // YENİ: JSON'dan gelen hicri tarihi alıyoruz
+      hicriTarih: json['hicriTarih'], 
       aciklama: json['aciklama'],
       ikon: seciliIkon,
     );
