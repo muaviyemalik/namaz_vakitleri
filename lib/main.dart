@@ -579,44 +579,37 @@ class _AnaSayfaState extends State<AnaSayfa> {
               ? const CircularProgressIndicator() // Yükleniyorsa dönen çark
               : hataMesaji.isNotEmpty
                   ? Padding(padding: const EdgeInsets.all(20), child: Text(hataMesaji, textAlign: TextAlign.center)) // Hata varsa metni bas
-                  : Column(
+                  : // Column ve Expanded yerine tüm sayfayı tek bir ListView yapıyoruz:
+                   ListView(
+                      padding: const EdgeInsets.only(bottom: 20), // En alta biraz boşluk
                       children: [
                         const SizedBox(height: 20),
-                        _anaSayacKarti(), // SADECE 1 TANE KALDI
                         
-                        _gununAyetiKarti(), 
-
-                        _gununHadisiKarti(),
+                        _anaSayacKarti(), // Ana Sayaç
+                        _gununAyetiKarti(), // Günün Ayeti
+                        _gununHadisiKarti(), // Günün Hadisi
                         
                         const SizedBox(height: 10), 
                         
-                        Padding( // SADECE 1 TANE KALDI
+                        Padding(
                           padding: const EdgeInsets.only(left: 20, bottom: 10),
                           child: Align(
                             alignment: Alignment.centerLeft, 
                             child: Text("Bugünün Vakitleri", style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold, color: Theme.of(context).colorScheme.primary))
                           ),
                         ),
-                        const SizedBox(height: 20),
-                        // Expanded & ListView: Kartların ekrandan taşmasını engeller, kaydırılabilir liste yapar.
-                        Expanded(
-                          child: ListView(
-                            children: [
-                              // DÜZELTME 2: Akşam vakti için sunset_call yerine nightlight_round kullanıldı.
-                              _vakitKarti('İmsak', vakitler!['Fajr'], Icons.nights_stay, siradakiVakitIsmi == 'İmsak'),
-                              _vakitKarti('Güneş', vakitler!['Sunrise'], Icons.wb_sunny_outlined, siradakiVakitIsmi == 'Güneş'),
-                              _vakitKarti('Öğle', vakitler!['Dhuhr'], Icons.wb_sunny, siradakiVakitIsmi == 'Öğle'),
-                              _vakitKarti('İkindi', vakitler!['Asr'], Icons.wb_twilight, siradakiVakitIsmi == 'İkindi'),
-                              _vakitKarti('Akşam', vakitler!['Maghrib'], Icons.nightlight_round, siradakiVakitIsmi == 'Akşam'),
-                              _vakitKarti('Yatsı', vakitler!['Isha'], Icons.bedtime, siradakiVakitIsmi == 'Yatsı'),
-                              const SizedBox(height: 20),
-                            ],
-                          ),
-                        ),
+                        
+                        // Artık Expanded'a gerek yok, kartları direkt listeye diziyoruz
+                        _vakitKarti('İmsak', vakitler!['Fajr'], Icons.nights_stay, siradakiVakitIsmi == 'İmsak'),
+                        _vakitKarti('Güneş', vakitler!['Sunrise'], Icons.wb_sunny_outlined, siradakiVakitIsmi == 'Güneş'),
+                        _vakitKarti('Öğle', vakitler!['Dhuhr'], Icons.wb_sunny, siradakiVakitIsmi == 'Öğle'),
+                        _vakitKarti('İkindi', vakitler!['Asr'], Icons.wb_twilight, siradakiVakitIsmi == 'İkindi'),
+                        _vakitKarti('Akşam', vakitler!['Maghrib'], Icons.nightlight_round, siradakiVakitIsmi == 'Akşam'),
+                        _vakitKarti('Yatsı', vakitler!['Isha'], Icons.bedtime, siradakiVakitIsmi == 'Yatsı'),
                       ],
                     ),
+                    ),
         ),
-    ),
     );
   }
 
