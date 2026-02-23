@@ -793,6 +793,7 @@ class OzelGunlerSayfasi extends StatelessWidget {
 // --- VERİ MODELİ (GÜNCELLENDİ: Hicri Tarih Eklendi) ---
 // --- VERİ MODELİ (GÜNCELLENDİ: Hicri Tarih Eklendi) ---
 // --- VERİ MODELİ (GÜNCELLENDİ: Yeni İkonlar Eklendi) ---
+//dnm
 class DiniGun {
   final String isim;
   final String tarih;
