@@ -212,6 +212,7 @@ class _AnaSayfaState extends State<AnaSayfa> {
     );
   }
   // --- DEĞİŞKENLER (STATE) ---
+
   Map<String, dynamic>? vakitler; // JSON'dan gelecek vakitleri tutacak. Başlangıçta null.
   bool yukleniyor = true; // Ekranda yüklenme çarkını gösterme kontrolü.
   String hataMesaji = ''; // İnternet/API hatalarını tutacak metin.
@@ -220,6 +221,8 @@ class _AnaSayfaState extends State<AnaSayfa> {
   String siradakiVakitIsmi = ''; // Ekrana basılacak sıradaki vaktin adı.
   String kalanSureMetni = ''; // Ekrana basılacak 00:00:00 formatındaki süre.
   String aktifSehir = 'Ankara'; // Varsayılan şehir. GPS bulana kadar bu görünecek.
+  String miladiTarih = ""; //Mevcut miladi tarih
+  String hicriTarih = ""; // Mevcut hicri tarih
 
   // initState(): Ekran oluşturulmadan hemen ÖNCE BİR KERE çalışır (C# Constructor / Form_Load gibi).
   @override
@@ -286,10 +289,20 @@ class _AnaSayfaState extends State<AnaSayfa> {
       // İhtimal 1: Sunucu 200 (OK) döndürdü, veri başarıyla geldi.
       if (cevap.statusCode == 200) {
         final jsonVeri = json.decode(cevap.body); // Metni JSON sözlüğüne çevir.
+        final gunlukVeri = jsonVeri['data'];
+        final tarihVerisi = gunlukVeri['date']; // API'deki tarih bölümü
         
         // setState(): Değişkenleri günceller ve arayüze "Kendini yeni verilerle tekrar çiz" der.
         setState(() {
           vakitler = jsonVeri['data']['timings'];
+
+          // YENİ: Tarihleri alıyoruz
+          // Miladi formatı direkt GG-AA-YYYY olarak verir (Örn: 23-02-2026)
+          miladiTarih = tarihVerisi['gregorian']['date'];
+          String hGun = tarihVerisi['hijri']['day'];
+          String hAy = tarihVerisi['hijri']['month']['en']; // Arapça okunuşun Latin harfleri
+          String hYil = tarihVerisi['hijri']['year'];
+          hicriTarih = "$hGun $hAy $hYil";
           yukleniyor = false; // Yükleme bitti, çarkı gizle.
         });
         
@@ -434,6 +447,7 @@ class _AnaSayfaState extends State<AnaSayfa> {
                   ? Padding(padding: const EdgeInsets.all(20), child: Text(hataMesaji, textAlign: TextAlign.center)) // Hata varsa metni bas
                   : Column(
                       children: [
+                        
                         const SizedBox(height: 20),
                         _anaSayacKarti(), // Özel tasarım ana sayaç widget'ımız
                         const SizedBox(height: 20),
@@ -473,6 +487,7 @@ class _AnaSayfaState extends State<AnaSayfa> {
           padding: const EdgeInsets.all(24.0),
           child: Column(
             children: [
+              Text('$miladiTarih', style: const TextStyle(fontSize: 16, color: Colors.white70)),
               Text('$siradakiVakitIsmi Vaktine Kalan Süre', style: const TextStyle(fontSize: 16, color: Colors.white70)),
               const SizedBox(height: 10),
               Text(kalanSureMetni, style: const TextStyle(fontSize: 50, fontWeight: FontWeight.bold, color: Colors.white, letterSpacing: 2)),
