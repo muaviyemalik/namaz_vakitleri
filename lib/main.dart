@@ -1124,7 +1124,7 @@ class OzelGunlerSayfasi extends StatelessWidget {
       },
       {
         "isim": "Ramazan Başlangıcı", 
-        "tarih": "17 Şubat 2026", 
+        "tarih": "19 Şubat 2026", 
         "hicriTarih": "1 Ramazan 1447",
         "aciklama": "On bir ayın sultanı, oruç ibadetinin yerine getirildiği mübarek aydır.", 
         "ikon": "brightness_3"
@@ -1145,14 +1145,14 @@ class OzelGunlerSayfasi extends StatelessWidget {
       },
       {
         "isim": "Ramazan Bayramı", 
-        "tarih": "19 Mart 2026", 
+        "tarih": "20 Mart 2026", 
         "hicriTarih": "1 Şevval 1447",
         "aciklama": "Oruç ibadetinin ardından Müslümanların sevincini paylaştığı günlerdir.", 
         "ikon": "celebration"
       },
       {
         "isim": "Kurban Bayramı", 
-        "tarih": "26 Mayıs 2026", 
+        "tarih": "27 Mayıs 2026", 
         "hicriTarih": "10 Zilhicce 1447",
         "aciklama": "Yardımlaşma ve dayanışmanın zirveye çıktığı, kurban ibadetinin yerine getirildiği bayramdır.", 
         "ikon": "volunteer_activism"
@@ -1360,7 +1360,7 @@ class DiniGun {
     );
   }
 }
-// --- YENİ: MİNİMALİST ZEN KIBLE PUSULASI ---
+// --- YENİ: YÖN OKLU VE KABE SİMGELİ KIBLE PUSULASI ---
 class KibleSayfasi extends StatefulWidget {
   const KibleSayfasi({super.key});
 
@@ -1371,7 +1371,7 @@ class KibleSayfasi extends StatefulWidget {
 class _KibleSayfasiState extends State<KibleSayfasi> {
   double? _kibleAcisi;
   bool _konumAraniyor = true;
-  bool _titrediMi = false; // Titreşimin sürekli tekrarlamasını engellemek için
+  bool _titrediMi = false;
 
   @override
   void initState() {
@@ -1379,7 +1379,6 @@ class _KibleSayfasiState extends State<KibleSayfasi> {
     _kibleIcinKonumBul();
   }
 
-  // Kıble açısını bulmak için kullanıcının anlık konumunu alıyoruz
   Future<void> _kibleIcinKonumBul() async {
     try {
       Position pozisyon = await Geolocator.getCurrentPosition(desiredAccuracy: LocationAccuracy.medium);
@@ -1394,7 +1393,6 @@ class _KibleSayfasiState extends State<KibleSayfasi> {
     }
   }
 
-  // Dünyanın eğimini hesaba katan gerçek Kıble trigonometrisi
   double _kibleHesapla(double enlem, double boylam) {
     const double kabeEnlem = 21.422487;
     const double kabeBoylam = 39.826206;
@@ -1412,6 +1410,25 @@ class _KibleSayfasiState extends State<KibleSayfasi> {
     double kibleDerece = kibleRadyan * (180.0 / math.pi);
 
     return (kibleDerece + 360.0) % 360.0;
+  }
+
+  // YENİ: Kodla çizdiğimiz tatlı ve şık Kabe Simgesi
+  Widget _kabeSimgesi() {
+    return Container(
+      width: 28,
+      height: 28,
+      decoration: BoxDecoration(
+        color: Colors.black, // Kabe'nin örtüsü
+        borderRadius: BorderRadius.circular(4),
+        boxShadow: const [BoxShadow(color: Colors.black45, blurRadius: 4, offset: Offset(0, 2))],
+      ),
+      child: Column(
+        children: [
+          const SizedBox(height: 6),
+          Container(height: 4, color: Colors.amber), // Kabe'nin altın sarısı şeridi
+        ],
+      ),
+    );
   }
 
   @override
@@ -1435,7 +1452,6 @@ class _KibleSayfasiState extends State<KibleSayfasi> {
             ? const Center(child: CircularProgressIndicator())
             : _kibleAcisi == null
                 ? const Center(child: Text("Konum alınamadığı için Kıble hesaplanamıyor."))
-                // Pusula sensöründen gelen veriyi anlık dinleyen StreamBuilder
                 : StreamBuilder<CompassEvent>(
                     stream: FlutterCompass.events,
                     builder: (context, snapshot) {
@@ -1445,17 +1461,16 @@ class _KibleSayfasiState extends State<KibleSayfasi> {
                       double? cihazAcisi = snapshot.data?.heading;
                       if (cihazAcisi == null) return const Center(child: Text("Cihazınızda pusula sensörü bulunamadı."));
 
-                      // Cihazın baktığı yön ile Kabe arasındaki farkı bul
+                      // Kabe ile aramızdaki açı farkı
                       double fark = (_kibleAcisi! - cihazAcisi + 360) % 360;
-                      // Kabe'ye dönük müyüz? (Hassasiyet: +- 3 derece)
+                      // Hassasiyet: +- 3 derece
                       bool kibleyiBulduMu = (fark < 3 || fark > 357);
 
-                      // Kıbleyi bulunca tok bir titreşim ver
                       if (kibleyiBulduMu && !_titrediMi) {
-                        HapticFeedback.heavyImpact();
+                        HapticFeedback.vibrate(); // Telefonda %100 çalışan klasik titreşim
                         _titrediMi = true;
                       } else if (!kibleyiBulduMu && _titrediMi) {
-                        _titrediMi = false; // Yön bozulursa titreşim kilidini aç
+                        _titrediMi = false;
                       }
 
                       return Column(
@@ -1466,60 +1481,73 @@ class _KibleSayfasiState extends State<KibleSayfasi> {
                             style: TextStyle(
                               fontSize: 22,
                               fontWeight: FontWeight.bold,
-                              color: kibleyiBulduMu ? Theme.of(context).colorScheme.primary : Colors.grey.shade600,
+                              color: kibleyiBulduMu ? Colors.green.shade600 : Colors.grey.shade600,
                             ),
                           ),
-                          const SizedBox(height: 40),
+                          const SizedBox(height: 20),
                           
-                          // Zen Çemberi Tasarımı
-                          Stack(
-                            alignment: Alignment.center,
-                            children: [
-                              // Dış Halka (Sabit)
-                              Container(
-                                width: 250,
-                                height: 250,
-                                decoration: BoxDecoration(
-                                  shape: BoxShape.circle,
-                                  border: Border.all(
-                                    color: kibleyiBulduMu 
-                                        ? Theme.of(context).colorScheme.primary.withOpacity(0.5) 
-                                        : Colors.grey.shade300,
-                                    width: 2,
+                          // SABİT HEDEF OKU (Yeşil ışık yanacak kısım)
+                          AnimatedContainer(
+                            duration: const Duration(milliseconds: 300),
+                            decoration: BoxDecoration(
+                              shape: BoxShape.circle,
+                              boxShadow: kibleyiBulduMu 
+                                  ? [const BoxShadow(color: Colors.green, blurRadius: 20, spreadRadius: 5)] 
+                                  : [],
+                            ),
+                            child: Icon(
+                              Icons.keyboard_arrow_up_rounded,
+                              size: 60,
+                              color: kibleyiBulduMu ? Colors.green : Theme.of(context).colorScheme.primary,
+                            ),
+                          ),
+                          
+                          const SizedBox(height: 10),
+
+                          // DÖNEN PUSULA KADRANI
+                          // Transform.rotate kullanarak 359'dan 0'a geçerken çıldırmasını önlüyoruz
+                          Transform.rotate(
+                            angle: -cihazAcisi * (math.pi / 180),
+                            child: Stack(
+                              alignment: Alignment.center,
+                              children: [
+                                // Pusulanın Dış Çerçevesi
+                                Container(
+                                  width: 280,
+                                  height: 280,
+                                  decoration: BoxDecoration(
+                                    shape: BoxShape.circle,
+                                    color: Colors.white,
+                                    border: Border.all(color: Colors.grey.shade300, width: 3),
+                                    boxShadow: [BoxShadow(color: Colors.grey.shade200, blurRadius: 10)],
                                   ),
                                 ),
-                              ),
-                              
-                              // Ortadaki Kabe İkonu (Sadece doğru yöndeyken görünür)
-                              AnimatedOpacity(
-                                opacity: kibleyiBulduMu ? 1.0 : 0.0,
-                                duration: const Duration(milliseconds: 500),
-                                child: Icon(Icons.mosque, size: 60, color: Theme.of(context).colorScheme.primary),
-                              ),
+                                
+                                // İç Çapraz Çizgiler (Çok hafif opaklıkta)
+                                Container(width: 1, height: 260, color: Colors.grey.shade300),
+                                Container(width: 260, height: 1, color: Colors.grey.shade300),
 
-                              // Dönen Pusula İbresi (Kıble Noktası)
-                              AnimatedRotation(
-                                turns: fark / 360, // Açıyı tur sayısına çevirir
-                                duration: const Duration(milliseconds: 200), // Yağ gibi akan animasyon
-                                child: Container(
-                                  width: 250,
-                                  height: 250,
-                                  alignment: Alignment.topCenter,
+                                // Yön Harfleri (Kuzey, Güney, Doğu, Batı)
+                                Positioned(top: 10, child: Text("K", style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18, color: Colors.red.shade700))),
+                                Positioned(bottom: 10, child: Text("G", style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18, color: Colors.grey.shade700))),
+                                Positioned(right: 15, child: Text("D", style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18, color: Colors.grey.shade700))),
+                                Positioned(left: 15, child: Text("B", style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18, color: Colors.grey.shade700))),
+
+                                // KABE SİMGESİ (Pusula üzerinde doğru açıya sabitlenir ve pusulayla döner)
+                                Transform.rotate(
+                                  angle: _kibleAcisi! * (math.pi / 180),
                                   child: Container(
-                                    margin: const EdgeInsets.only(top: 10),
-                                    width: kibleyiBulduMu ? 24 : 16,
-                                    height: kibleyiBulduMu ? 24 : 16,
-                                    decoration: BoxDecoration(
-                                      shape: BoxShape.circle,
-                                      color: kibleyiBulduMu ? Theme.of(context).colorScheme.primary : Colors.grey.shade400,
-                                      boxShadow: kibleyiBulduMu ? [
-                                        BoxShadow(color: Theme.of(context).colorScheme.primary.withOpacity(0.6), blurRadius: 15, spreadRadius: 5)
-                                      ] : [],
+                                    width: 280,
+                                    height: 280,
+                                    alignment: Alignment.topCenter,
+                                    child: Padding(
+                                      padding: const EdgeInsets.only(top: 25), // Kabe'yi çizgiye yaklaştırır
+                                      child: _kabeSimgesi(), // Yazdığımız özel Kabe widget'ı
                                     ),
                                   ),
                                 ),
-                              ),
-                            ],
+                              ],
+                            ),
                           ),
                         ],
                       );
