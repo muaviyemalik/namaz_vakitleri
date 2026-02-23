@@ -282,40 +282,75 @@ class _AnaSayfaState extends State<AnaSayfa> {
   // 6. API'DEN VERİ ÇEKME (Asenkron - Future)
   // async/await: İnternetten cevap gelene kadar uygulamanın arayüzünü kilitlememek (donmamasını sağlamak) için.
   Future<void> vakitleriGetir() async {
+    setState(() { yukleniyor = true; });
+
     try {
-      final url = Uri.parse('https://api.aladhan.com/v1/timingsByCity?city=$aktifSehir&country=Turkey&method=13');
-      final cevap = await http.get(url); // await: Cevap gelene kadar burada bekle.
+      final prefs = await SharedPreferences.getInstance();
+      final now = DateTime.now();
+      
+      // Her ay ve şehir için ayrı bir kayıt anahtarı oluşturuyoruz
+      // Örn: vakitler_Ankara_2_2026
+      final String hafizaAnahtari = 'vakitler_${aktifSehir}_${now.month}_${now.year}';
+      
+      // 1. Önce telefonun hafızasında bu aya ait veri var mı diye bak
+      String? telefondakiVeri = prefs.getString(hafizaAnahtari);
 
-      // İhtimal 1: Sunucu 200 (OK) döndürdü, veri başarıyla geldi.
-      if (cevap.statusCode == 200) {
-        final jsonVeri = json.decode(cevap.body); // Metni JSON sözlüğüne çevir.
-        final gunlukVeri = jsonVeri['data'];
-        final tarihVerisi = gunlukVeri['date']; // API'deki tarih bölümü
+      // 2. İnternetten YENİ AYLIK veriyi çekmeyi dene (calendarByCity API'si)
+      final url = Uri.parse(
+        'http://api.aladhan.com/v1/calendarByCity?city=$aktifSehir&country=Turkey&method=13&month=${now.month}&year=${now.year}'
+      );
+
+      try {
+        // İnternet için 5 saniye mühlet veriyoruz, uyarı vermezse internet vardır
+        final cevap = await http.get(url).timeout(const Duration(seconds: 5));
+        if (cevap.statusCode == 200) {
+          telefondakiVeri = cevap.body; // İnternetteki taze veriyi aldık
+          await prefs.setString(hafizaAnahtari, telefondakiVeri); // Hafızaya kazıdık
+        }
+      } catch (e) {
+        debugPrint("İnternet bağlantısı yok, telefondaki kayıtlı verilerle devam ediliyor.");
+      }
+
+      // 3. Elimizde veri varsa (ister internetten taze gelmiş olsun, ister hafızadan) ekrana bas
+      if (telefondakiVeri != null) {
+        final jsonVeri = json.decode(telefondakiVeri);
+        final aylikListe = jsonVeri['data'] as List; // Bu ayın tüm günleri bir listede
         
-        // setState(): Değişkenleri günceller ve arayüze "Kendini yeni verilerle tekrar çiz" der.
-        setState(() {
-          vakitler = jsonVeri['data']['timings'];
+        // Bugün ayın kaçıysa (Örn: 23'ü), listedeki o indeksi (22. indeks) bul
+        final bugunIndex = now.day - 1;
+        final gunlukVeri = aylikListe[bugunIndex];
+        
+        final tarihVerisi = gunlukVeri['date'];
+        final vakitlerVerisi = gunlukVeri['timings'];
 
-          // YENİ: Tarihleri alıyoruz
-          // Miladi formatı direkt GG-AA-YYYY olarak verir (Örn: 23-02-2026)
+        setState(() {
+          // Gelen veriler "06:16 (+03)" şeklinde olduğu için ilk 5 karakteri (saati) alıyoruz
+          vakitler = {
+            'Fajr': vakitlerVerisi['Fajr'].substring(0, 5),
+            'Sunrise': vakitlerVerisi['Sunrise'].substring(0, 5),
+            'Dhuhr': vakitlerVerisi['Dhuhr'].substring(0, 5),
+            'Asr': vakitlerVerisi['Asr'].substring(0, 5),
+            'Maghrib': vakitlerVerisi['Maghrib'].substring(0, 5),
+            'Isha': vakitlerVerisi['Isha'].substring(0, 5),
+          };
+
           miladiTarih = tarihVerisi['gregorian']['date'];
+          
           String hGun = tarihVerisi['hijri']['day'];
-          String hAy = tarihVerisi['hijri']['month']['en']; // Arapça okunuşun Latin harfleri
+          String hAy = tarihVerisi['hijri']['month']['en'];
           String hYil = tarihVerisi['hijri']['year'];
           hicriTarih = "$hGun $hAy $hYil";
-          yukleniyor = false; // Yükleme bitti, çarkı gizle.
+          
+          yukleniyor = false;
         });
-        
-        sayaciBaslat(); // Veriler elimizde olduğuna göre sayacı tetikleyebiliriz.
-      } 
-      // İhtimal 2: Sunucu hata döndürdü (404, 500 vb.)
-      else {
-        setState(() { hataMesaji = 'Veri alınamadı: ${cevap.statusCode}'; yukleniyor = false; });
+      } else {
+        // Hem internet yok, hem de daha önce o şehre ait hiç kayıt yapılmamış
+        setState(() { yukleniyor = false; });
+        // (Burada istersen ekrana "Lütfen internete bağlanın" uyarısı çıkarabilirsin)
       }
-    } 
-    // İhtimal 3: İnternet yok veya API sunucusu kapalı.
-    catch (e) {
-      setState(() { hataMesaji = 'Bağlantı hatası: $e'; yukleniyor = false; });
+    } catch (e) {
+      debugPrint("Kritik Hata: $e");
+      setState(() { yukleniyor = false; });
     }
   }
 
