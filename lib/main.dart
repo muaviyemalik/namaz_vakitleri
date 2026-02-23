@@ -317,84 +317,81 @@ class _AnaSayfaState extends State<AnaSayfa> {
   }
 
   // --- YENİ EKLENEN: OTOMATİK KONUM BULMA MOTORU ---
+  // --- YENİ GÜNCELLENEN: OTOMATİK KONUM BULMA MOTORU ---
   Future<void> _otomatikKonumBul() async {
     setState(() {
-      yukleniyor = true; // Arama başladığında ekranda çark dönsün
-      hataMesaji = '';
+      yukleniyor = true; 
+      // hataMesaji'ni bilerek doldurmuyoruz ki UI çökmesin!
     });
 
     try {
-      // 1. Cihazda GPS (Konum servisi) açık mı kontrolü
       bool servisAcikMi = await Geolocator.isLocationServiceEnabled();
       if (!servisAcikMi) {
-        setState(() {
-          hataMesaji = "Konum servisleri kapalı. Lütfen telefonunuzun GPS'ini açın.";
-          yukleniyor = false;
-        });
+        _konumHatasiBildir("Konum servisleri kapalı. Kayıtlı şehirden devam ediliyor.");
         return;
       }
 
-      // 2. Kullanıcıdan konum izni iste
       LocationPermission izin = await Geolocator.checkPermission();
       if (izin == LocationPermission.denied) {
         izin = await Geolocator.requestPermission();
         if (izin == LocationPermission.denied) {
-          setState(() {
-            hataMesaji = "Konum izni reddedildi. Şehrinizi listeden seçebilirsiniz.";
-            yukleniyor = false;
-          });
+          _konumHatasiBildir("Konum izni reddedildi. Kayıtlı şehirden devam ediliyor.");
           return;
         }
       }
 
       if (izin == LocationPermission.deniedForever) {
-        setState(() {
-          hataMesaji = "Konum izinleri kalıcı olarak reddedildi. Ayarlardan açmanız gerekmektedir.";
-          yukleniyor = false;
-        });
+        _konumHatasiBildir("Konum izinleri kalıcı olarak reddedildi.");
         return;
       }
 
-      // 3. İzinler tamamsa koordinatı (enlem ve boylam) al (Bu işlem 3-5 saniye sürebilir)
+      // Bu işlem 3-5 saniye sürebilir
       Position pozisyon = await Geolocator.getCurrentPosition(desiredAccuracy: LocationAccuracy.medium);
 
-      // 4. Koordinatı (Örn: 39.9, 32.8) Şehir ismine (Örn: "Ankara") çevir
       List<Placemark> yerIsimleri = await placemarkFromCoordinates(pozisyon.latitude, pozisyon.longitude);
       
       if (yerIsimleri.isNotEmpty) {
         Placemark yer = yerIsimleri[0];
         
-        // geocoding paketi şehri bazen "administrativeArea", bazen "subAdministrativeArea" içinde döndürür.
         String bulunanSehir = yer.administrativeArea ?? yer.subAdministrativeArea ?? "";
-        
-        // Gelen veriyi (Örn: "Ankara Province") bizim API'nin anlayacağı temiz formata ("Ankara") getir.
         bulunanSehir = bulunanSehir.replaceAll(" Province", "").replaceAll(" Province", "");
 
-        // 5. Şehri bulduk! Şimdi uygulamaya bu şehri seçmesini söyleyelim:
         setState(() {
           aktifSehir = bulunanSehir;
         });
 
-        // Yeni şehri hafızaya kaydet ve o şehrin vakitlerini API'den çek!
         final prefs = await SharedPreferences.getInstance();
         await prefs.setString('secili_sehir', bulunanSehir);
         
-        await vakitleriGetir();
+        await vakitleriGetir(); // Yeni şehrin verilerini çek
         
       } else {
-        setState(() {
-          hataMesaji = "Bulunduğunuz şehir tespit edilemedi.";
-          yukleniyor = false;
-        });
+        _konumHatasiBildir("Bulunduğunuz şehir tespit edilemedi.");
       }
 
     } catch (e) {
       debugPrint("Konum hatası: $e");
-      setState(() {
-        hataMesaji = "Konum bulunurken beklenmeyen bir hata oluştu: $e";
-        yukleniyor = false;
-      });
+      // Linux DBus veya diğer hatalarda ekranı bozmadan uyarı ver
+      _konumHatasiBildir("Konum bulunamadı (PC'de normaldir). Eski şehirden devam ediliyor.");
     }
+  }
+
+  // YENİ EKLENEN YARDIMCI FONKSİYON: Ekranı bozmadan şık uyarı verir
+  void _konumHatasiBildir(String uyariMetni) {
+    setState(() {
+      yukleniyor = false; // Yüklenme çarkını durdur, eski ekrana dön
+    });
+    
+    if (!mounted) return;
+    
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(
+        content: Text(uyariMetni),
+        backgroundColor: Colors.orange.shade800, // Dikkat çekici ama rahatsız etmeyen turuncu
+        behavior: SnackBarBehavior.floating,
+        margin: const EdgeInsets.all(10),
+      ),
+    );
   }
 
   // 6. API'DEN VERİ ÇEKME (Asenkron - Future)
