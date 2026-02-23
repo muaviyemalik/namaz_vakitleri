@@ -395,7 +395,7 @@ class _AnaSayfaState extends State<AnaSayfa> {
   }
 }
 
-// --- YENİ EKLENEN: ÖZEL GÜNLER SAYFASI ---
+// --- ÖZEL GÜNLER SAYFASI (GÜNCELLENDİ: Tıklanabilir ve Detaylı) ---
 class OzelGunlerSayfasi extends StatelessWidget {
   const OzelGunlerSayfasi({super.key});
 
@@ -409,7 +409,6 @@ class OzelGunlerSayfasi extends StatelessWidget {
         foregroundColor: Colors.white,
         elevation: 10,
       ),
-      // Arka plan renk geçişini bu sayfaya da uyguluyoruz
       body: Container(
         decoration: BoxDecoration(
           gradient: LinearGradient(
@@ -420,27 +419,89 @@ class OzelGunlerSayfasi extends StatelessWidget {
         child: ListView(
           padding: const EdgeInsets.all(16.0),
           children: [
-            // Şimdilik örnek tarihleri elle giriyoruz
-            _gunKarti(context, 'Üç Aylar Başlangıcı', '19 Aralık 2025', Icons.calendar_month),
-            _gunKarti(context, 'Ramazan Başlangıcı', '17 Şubat 2026', Icons.brightness_3),
-            _gunKarti(context, 'Kadir Gecesi', '15 Mart 2026', Icons.star),
-            _gunKarti(context, 'Ramazan Bayramı', '19 Mart 2026', Icons.celebration),
-            _gunKarti(context, 'Kurban Bayramı', '26 Mayıs 2026', Icons.volunteer_activism),
+            // Fonksiyona artık 5. parametre olarak günün "anlam ve önemini" (Açıklama) gönderiyoruz.
+            _gunKarti(context, 'Üç Aylar Başlangıcı', '19 Aralık 2025', Icons.calendar_month, 
+              'Recep, Şaban ve Ramazan aylarını kapsayan, rahmet ve bereketin bol olduğu manevi iklimin başlangıcıdır. Bol bol ibadet ve dua ile geçirilir.'),
+            _gunKarti(context, 'Ramazan Başlangıcı', '17 Şubat 2026', Icons.brightness_3, 
+              'On bir ayın sultanı, Kur\'an-ı Kerim\'in indirilmeye başlandığı ve oruç ibadetinin yerine getirildiği mübarek aydır.'),
+            _gunKarti(context, 'Kadir Gecesi', '15 Mart 2026', Icons.star, 
+              'Kur\'an-ı Kerim\'de "Bin aydan daha hayırlı" olduğu müjdelenen, meleklerin yeryüzüne indiği çok faziletli ve eşsiz bir gecedir.'),
+            _gunKarti(context, 'Ramazan Bayramı', '19 Mart 2026', Icons.celebration, 
+              'Bir ay süren oruç ibadetinin ardından Müslümanların sevincini paylaştığı, küslerin barıştığı, akraba ziyaretlerinin yapıldığı şükür günleridir.'),
+            _gunKarti(context, 'Kurban Bayramı', '26 Mayıs 2026', Icons.volunteer_activism, 
+              'Hz. İbrahim\'in sadakati ve Hz. İsmail\'in teslimiyetinin hatırlandığı, kurban kesilerek yardımlaşma ve dayanışmanın zirveye çıktığı bayramdır.'),
           ],
         ),
       ),
     );
   }
 
-  // Özel günler için oluşturduğumuz yeni kart tasarımı
-  Widget _gunKarti(BuildContext context, String isim, String tarih, IconData ikon) {
+  // YENİDEN DÜZENLENDİ: Parametrelere 'aciklama' eklendi
+  Widget _gunKarti(BuildContext context, String isim, String tarih, IconData ikon, String aciklama) {
     return Card(
       color: Colors.white,
       child: ListTile(
         leading: Icon(ikon, color: Theme.of(context).colorScheme.primary, size: 32),
         title: Text(isim, style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
         subtitle: Text(tarih, style: TextStyle(fontSize: 16, color: Theme.of(context).colorScheme.primary)),
+        // trailing: Kartın en sağına "tıklanabilir" olduğunu belli eden küçük bir ok koyar.
+        trailing: const Icon(Icons.arrow_forward_ios, size: 16, color: Colors.grey),
+        // onTap: Bu karta tıklandığında ne olacağını belirler.
+        onTap: () {
+          // Tıklanınca aşağıdan panel açan metodu çağırıyoruz.
+          _altPanelAc(context, isim, tarih, aciklama, ikon);
+        },
       ),
+    );
+  }
+
+  // --- YENİ EKLENEN: AŞAĞIDAN AÇILAN DETAY PANELİ ---
+  void _altPanelAc(BuildContext context, String isim, String tarih, String aciklama, IconData ikon) {
+    // showModalBottomSheet: Ekrana alttan kayarak giren bir panel çizer.
+    showModalBottomSheet(
+      context: context,
+      isScrollControlled: true, // Eğer metin çok uzunsa panelin yukarı doğru büyümesine izin verir.
+      shape: const RoundedRectangleBorder(
+        borderRadius: BorderRadius.vertical(top: Radius.circular(24)), // Üst köşeleri şık bir şekilde yuvarlatır.
+      ),
+      builder: (context) {
+        return Padding(
+          // Ekranın altından ve yanlardan güvenli boşluklar bırakır.
+          padding: const EdgeInsets.only(left: 24, right: 24, top: 24, bottom: 40),
+          child: Column(
+            mainAxisSize: MainAxisSize.min, // Sadece içindeki içerik kadar yer kapla.
+            children: [
+              // Üstteki küçük gri çektirme çizgisi (Modern tasarım detayı)
+              Container(
+                width: 40, height: 4,
+                decoration: BoxDecoration(color: Colors.grey.shade400, borderRadius: BorderRadius.circular(10)),
+              ),
+              const SizedBox(height: 20),
+              Icon(ikon, size: 64, color: Theme.of(context).colorScheme.primary),
+              const SizedBox(height: 16),
+              Text(isim, style: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold), textAlign: TextAlign.center),
+              const SizedBox(height: 8),
+              Text(tarih, style: TextStyle(fontSize: 16, color: Theme.of(context).colorScheme.primary, fontWeight: FontWeight.bold)),
+              const Divider(height: 32, thickness: 1), // Araya ince bir çizgi
+              Text(aciklama, style: const TextStyle(fontSize: 16, height: 1.5), textAlign: TextAlign.center),
+              const SizedBox(height: 32),
+              // Kapatma Butonu
+              SizedBox(
+                width: double.infinity, // Butonu tam genişliğe yay
+                child: ElevatedButton(
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: Theme.of(context).colorScheme.primary,
+                    foregroundColor: Colors.white,
+                    padding: const EdgeInsets.symmetric(vertical: 16),
+                  ),
+                  onPressed: () => Navigator.pop(context), // Paneli kapatıp geri döner
+                  child: const Text('Kapat', style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold)),
+                ),
+              )
+            ],
+          ),
+        );
+      }
     );
   }
 }
