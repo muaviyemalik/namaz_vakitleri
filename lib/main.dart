@@ -11,6 +11,9 @@ import 'package:shared_preferences/shared_preferences.dart'; //Kullanıcı terci
 import 'package:timezone/data/latest_all.dart' as tz; //arka plan bildirimleri için
 import 'package:timezone/timezone.dart' as tz; //arka plan bildirimleri için
 import 'package:share_plus/share_plus.dart'; //ayet paylaşabilmek için
+import 'dart:math' as math; // Trigonometrik Kıble hesaplamaları için
+import 'package:flutter/services.dart'; // HapticFeedback (Titreşim) için
+import 'package:flutter_compass/flutter_compass.dart'; // Pusula sensörü için
 
 // --- TEMA YÖNETİMİ ---
 // ValueNotifier: İçindeki değer (renk) değiştiğinde, onu dinleyen widget'lara 
@@ -107,7 +110,8 @@ class _AnaMenuState extends State<AnaMenu> {
   // Alt menüde gösterilecek sayfaların listesi
   final List<Widget> _sayfalar = [
     const AnaSayfa(), // Zaten var olan namaz vakitleri sayfamız
-    const OzelGunlerSayfasi(), // Birazdan en alta ekleyeceğimiz yeni sayfa
+    const OzelGunlerSayfasi(), //Özel Günler sayfası
+    const KibleSayfasi(), //Pusula sayfası
   ];
 
   @override
@@ -137,6 +141,10 @@ class _AnaMenuState extends State<AnaMenu> {
           BottomNavigationBarItem(
             icon: Icon(Icons.event),
             label: 'Özel Günler',
+          ),
+          BottomNavigationBarItem(
+            icon: Icon(Icons.explore),
+            label: 'Kıble',
           ),
         ],
       ),
@@ -1352,6 +1360,175 @@ class DiniGun {
       hicriTarih: json['hicriTarih'], 
       aciklama: json['aciklama'],
       ikon: seciliIkon,
+    );
+  }
+}
+// --- YENİ: MİNİMALİST ZEN KIBLE PUSULASI ---
+class KibleSayfasi extends StatefulWidget {
+  const KibleSayfasi({super.key});
+
+  @override
+  State<KibleSayfasi> createState() => _KibleSayfasiState();
+}
+
+class _KibleSayfasiState extends State<KibleSayfasi> {
+  double? _kibleAcisi;
+  bool _konumAraniyor = true;
+  bool _titrediMi = false; // Titreşimin sürekli tekrarlamasını engellemek için
+
+  @override
+  void initState() {
+    super.initState();
+    _kibleIcinKonumBul();
+  }
+
+  // Kıble açısını bulmak için kullanıcının anlık konumunu alıyoruz
+  Future<void> _kibleIcinKonumBul() async {
+    try {
+      Position pozisyon = await Geolocator.getCurrentPosition(desiredAccuracy: LocationAccuracy.medium);
+      setState(() {
+        _kibleAcisi = _kibleHesapla(pozisyon.latitude, pozisyon.longitude);
+        _konumAraniyor = false;
+      });
+    } catch (e) {
+      setState(() {
+        _konumAraniyor = false;
+      });
+    }
+  }
+
+  // Dünyanın eğimini hesaba katan gerçek Kıble trigonometrisi
+  double _kibleHesapla(double enlem, double boylam) {
+    const double kabeEnlem = 21.422487;
+    const double kabeBoylam = 39.826206;
+
+    double enlemR = enlem * (math.pi / 180.0);
+    double boylamR = boylam * (math.pi / 180.0);
+    double kabeEnlemR = kabeEnlem * (math.pi / 180.0);
+    double kabeBoylamR = kabeBoylam * (math.pi / 180.0);
+
+    double y = math.sin(kabeBoylamR - boylamR) * math.cos(kabeEnlemR);
+    double x = math.cos(enlemR) * math.sin(kabeEnlemR) -
+        math.sin(enlemR) * math.cos(kabeEnlemR) * math.cos(kabeBoylamR - boylamR);
+
+    double kibleRadyan = math.atan2(y, x);
+    double kibleDerece = kibleRadyan * (180.0 / math.pi);
+
+    return (kibleDerece + 360.0) % 360.0;
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text('Kıble', style: TextStyle(fontWeight: FontWeight.bold)),
+        centerTitle: true,
+        backgroundColor: Theme.of(context).colorScheme.primary,
+        foregroundColor: Colors.white,
+      ),
+      body: Container(
+        width: double.infinity,
+        decoration: BoxDecoration(
+          gradient: LinearGradient(
+            begin: Alignment.topCenter, end: Alignment.bottomCenter,
+            colors: [Theme.of(context).colorScheme.primaryContainer.withOpacity(0.3), Colors.white],
+          ),
+        ),
+        child: _konumAraniyor
+            ? const Center(child: CircularProgressIndicator())
+            : _kibleAcisi == null
+                ? const Center(child: Text("Konum alınamadığı için Kıble hesaplanamıyor."))
+                // Pusula sensöründen gelen veriyi anlık dinleyen StreamBuilder
+                : StreamBuilder<CompassEvent>(
+                    stream: FlutterCompass.events,
+                    builder: (context, snapshot) {
+                      if (snapshot.hasError) return const Center(child: Text('Sensör hatası.'));
+                      if (snapshot.connectionState == ConnectionState.waiting) return const Center(child: CircularProgressIndicator());
+
+                      double? cihazAcisi = snapshot.data?.heading;
+                      if (cihazAcisi == null) return const Center(child: Text("Cihazınızda pusula sensörü bulunamadı."));
+
+                      // Cihazın baktığı yön ile Kabe arasındaki farkı bul
+                      double fark = (_kibleAcisi! - cihazAcisi + 360) % 360;
+                      // Kabe'ye dönük müyüz? (Hassasiyet: +- 3 derece)
+                      bool kibleyiBulduMu = (fark < 3 || fark > 357);
+
+                      // Kıbleyi bulunca tok bir titreşim ver
+                      if (kibleyiBulduMu && !_titrediMi) {
+                        HapticFeedback.heavyImpact();
+                        _titrediMi = true;
+                      } else if (!kibleyiBulduMu && _titrediMi) {
+                        _titrediMi = false; // Yön bozulursa titreşim kilidini aç
+                      }
+
+                      return Column(
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        children: [
+                          Text(
+                            kibleyiBulduMu ? "Kıble'desiniz" : "Kıbleyi Bulmak İçin Dönün",
+                            style: TextStyle(
+                              fontSize: 22,
+                              fontWeight: FontWeight.bold,
+                              color: kibleyiBulduMu ? Theme.of(context).colorScheme.primary : Colors.grey.shade600,
+                            ),
+                          ),
+                          const SizedBox(height: 40),
+                          
+                          // Zen Çemberi Tasarımı
+                          Stack(
+                            alignment: Alignment.center,
+                            children: [
+                              // Dış Halka (Sabit)
+                              Container(
+                                width: 250,
+                                height: 250,
+                                decoration: BoxDecoration(
+                                  shape: BoxShape.circle,
+                                  border: Border.all(
+                                    color: kibleyiBulduMu 
+                                        ? Theme.of(context).colorScheme.primary.withOpacity(0.5) 
+                                        : Colors.grey.shade300,
+                                    width: 2,
+                                  ),
+                                ),
+                              ),
+                              
+                              // Ortadaki Kabe İkonu (Sadece doğru yöndeyken görünür)
+                              AnimatedOpacity(
+                                opacity: kibleyiBulduMu ? 1.0 : 0.0,
+                                duration: const Duration(milliseconds: 500),
+                                child: Icon(Icons.mosque, size: 60, color: Theme.of(context).colorScheme.primary),
+                              ),
+
+                              // Dönen Pusula İbresi (Kıble Noktası)
+                              AnimatedRotation(
+                                turns: fark / 360, // Açıyı tur sayısına çevirir
+                                duration: const Duration(milliseconds: 200), // Yağ gibi akan animasyon
+                                child: Container(
+                                  width: 250,
+                                  height: 250,
+                                  alignment: Alignment.topCenter,
+                                  child: Container(
+                                    margin: const EdgeInsets.only(top: 10),
+                                    width: kibleyiBulduMu ? 24 : 16,
+                                    height: kibleyiBulduMu ? 24 : 16,
+                                    decoration: BoxDecoration(
+                                      shape: BoxShape.circle,
+                                      color: kibleyiBulduMu ? Theme.of(context).colorScheme.primary : Colors.grey.shade400,
+                                      boxShadow: kibleyiBulduMu ? [
+                                        BoxShadow(color: Theme.of(context).colorScheme.primary.withOpacity(0.6), blurRadius: 15, spreadRadius: 5)
+                                      ] : [],
+                                    ),
+                                  ),
+                                ),
+                              ),
+                            ],
+                          ),
+                        ],
+                      );
+                    },
+                  ),
+      ),
     );
   }
 }
