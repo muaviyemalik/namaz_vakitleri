@@ -395,9 +395,57 @@ class _AnaSayfaState extends State<AnaSayfa> {
   }
 }
 
-// --- ÖZEL GÜNLER SAYFASI (GÜNCELLENDİ: Tıklanabilir ve Detaylı) ---
+// --- ÖZEL GÜNLER SAYFASI (GÜNCELLENDİ: İnternetten Veri Çekme Mantığı) ---
 class OzelGunlerSayfasi extends StatelessWidget {
   const OzelGunlerSayfasi({super.key});
+
+  // --- API SİMÜLASYONU (Asenkron Veri Çekme) ---
+  // C#'taki Task<List<DiniGun>> yapısının karşılığıdır.
+  Future<List<DiniGun>> _ozelGunleriGetirAPI() async {
+    // Gerçek bir API'den çekiyor olsaydık bu iki satırı kullanacaktık:
+    // final cevap = await http.get(Uri.parse('https://senin-api-siten.com/dini-gunler'));
+    // final String jsonMetni = cevap.body;
+
+    // Arayüzü dondurmamak için asenkron (arka planda) 1 saniye bekletiyoruz (İnternet gecikmesi)
+    await Future.delayed(const Duration(seconds: 1));
+
+    // Sunucudan (API) bize döndüğünü varsaydığımız JSON formatında bir veri kümesi (Array)
+    String sahteJsonResponse = '''
+    [
+      {
+        "isim": "Ramazan Başlangıcı", 
+        "tarih": "17 Şubat 2026", 
+        "aciklama": "On bir ayın sultanı, oruç ibadetinin yerine getirildiği mübarek aydır.", 
+        "ikon": "brightness_3"
+      },
+      {
+        "isim": "Kadir Gecesi", 
+        "tarih": "15 Mart 2026", 
+        "aciklama": "Kur'an-ı Kerim'in indirildiği, bin aydan daha hayırlı olan gecedir.", 
+        "ikon": "star"
+      },
+      {
+        "isim": "Ramazan Bayramı", 
+        "tarih": "19 Mart 2026", 
+        "aciklama": "Oruç ibadetinin ardından Müslümanların sevincini paylaştığı günlerdir.", 
+        "ikon": "celebration"
+      },
+      {
+        "isim": "Kurban Bayramı", 
+        "tarih": "26 Mayıs 2026", 
+        "aciklama": "Yardımlaşma ve dayanışmanın zirveye çıktığı bayramdır.", 
+        "ikon": "volunteer_activism"
+      }
+    ]
+    ''';
+
+    // 1. JSON metnini List<dynamic> yapısına dönüştür (Decode)
+    List<dynamic> cozulmusJson = json.decode(sahteJsonResponse);
+    
+    // 2. Listedeki her bir elemanı (Map) DiniGun nesnesine çevir ve bir List<DiniGun> olarak geri döndür.
+    // C#'taki LINQ Select() metodu ile birebir aynı işi yapar.
+    return cozulmusJson.map((jsonElemani) => DiniGun.fromJson(jsonElemani)).toList();
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -407,7 +455,6 @@ class OzelGunlerSayfasi extends StatelessWidget {
         centerTitle: true,
         backgroundColor: Theme.of(context).colorScheme.primary,
         foregroundColor: Colors.white,
-        elevation: 10,
       ),
       body: Container(
         decoration: BoxDecoration(
@@ -416,27 +463,58 @@ class OzelGunlerSayfasi extends StatelessWidget {
             colors: [Theme.of(context).colorScheme.primaryContainer.withOpacity(0.3), Colors.white],
           ),
         ),
-        child: ListView(
-          padding: const EdgeInsets.all(16.0),
-          children: [
-            // Fonksiyona artık 5. parametre olarak günün "anlam ve önemini" (Açıklama) gönderiyoruz.
-            _gunKarti(context, 'Üç Aylar Başlangıcı', '19 Aralık 2025', Icons.calendar_month, 
-              'Recep, Şaban ve Ramazan aylarını kapsayan, rahmet ve bereketin bol olduğu manevi iklimin başlangıcıdır. Bol bol ibadet ve dua ile geçirilir.'),
-            _gunKarti(context, 'Ramazan Başlangıcı', '17 Şubat 2026', Icons.brightness_3, 
-              'On bir ayın sultanı, Kur\'an-ı Kerim\'in indirilmeye başlandığı ve oruç ibadetinin yerine getirildiği mübarek aydır.'),
-            _gunKarti(context, 'Kadir Gecesi', '15 Mart 2026', Icons.star, 
-              'Kur\'an-ı Kerim\'de "Bin aydan daha hayırlı" olduğu müjdelenen, meleklerin yeryüzüne indiği çok faziletli ve eşsiz bir gecedir.'),
-            _gunKarti(context, 'Ramazan Bayramı', '19 Mart 2026', Icons.celebration, 
-              'Bir ay süren oruç ibadetinin ardından Müslümanların sevincini paylaştığı, küslerin barıştığı, akraba ziyaretlerinin yapıldığı şükür günleridir.'),
-            _gunKarti(context, 'Kurban Bayramı', '26 Mayıs 2026', Icons.volunteer_activism, 
-              'Hz. İbrahim\'in sadakati ve Hz. İsmail\'in teslimiyetinin hatırlandığı, kurban kesilerek yardımlaşma ve dayanışmanın zirveye çıktığı bayramdır.'),
-          ],
+        // FUTUREBUILDER: Arka planda çalışan bir fonksiyonu dinler. 
+        // Veri beklerken çark gösterir, veri gelince ekranı çizer.
+        child: FutureBuilder<List<DiniGun>>(
+          future: _ozelGunleriGetirAPI(), // Hangi asenkron fonksiyonu bekleyecek?
+          builder: (context, snapshot) {
+            
+            // Durum 1: İnternetten veri hala iniyor
+            if (snapshot.connectionState == ConnectionState.waiting) {
+              return Center(
+                child: Column(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    const CircularProgressIndicator(),
+                    const SizedBox(height: 16),
+                    Text('Sunucudan veriler alınıyor...', style: TextStyle(color: Theme.of(context).colorScheme.primary)),
+                  ],
+                ),
+              );
+            }
+            
+            // Durum 2: API'den hata döndü (Bağlantı koptu vb.)
+            if (snapshot.hasError) {
+              return Center(child: Text('Bir hata oluştu: ${snapshot.error}', style: const TextStyle(color: Colors.red)));
+            }
+            
+            // Durum 3: Veriler başarıyla geldi ve çözümlendi
+            if (snapshot.hasData) {
+              List<DiniGun> gelenListe = snapshot.data!; // Artık elimizde nesne listemiz var
+              
+              // ListView.builder: Tıpkı bir 'foreach' döngüsü gibi, elindeki liste kadar kart çizer.
+              // Ekrandan taşan binlerce veri olsa bile sadece ekranda görünenleri belleğe alır (Çok performanslıdır).
+              return ListView.builder(
+                padding: const EdgeInsets.all(16.0),
+                itemCount: gelenListe.length, // Kaç tane dönecek?
+                itemBuilder: (context, index) {
+                  // O anki satırın nesnesini alıyoruz
+                  DiniGun oAnkiGun = gelenListe[index]; 
+                  
+                  // Ve kartımıza gönderiyoruz
+                  return _gunKarti(context, oAnkiGun.isim, oAnkiGun.tarih, oAnkiGun.ikon, oAnkiGun.aciklama);
+                },
+              );
+            }
+            
+            return const Center(child: Text('Gösterilecek veri bulunamadı.'));
+          },
         ),
       ),
     );
   }
 
-  // YENİDEN DÜZENLENDİ: Parametrelere 'aciklama' eklendi
+  // --- KART VE PANEL KODLARI AYNEN KORUNDU ---
   Widget _gunKarti(BuildContext context, String isim, String tarih, IconData ikon, String aciklama) {
     return Card(
       color: Colors.white,
@@ -444,57 +522,42 @@ class OzelGunlerSayfasi extends StatelessWidget {
         leading: Icon(ikon, color: Theme.of(context).colorScheme.primary, size: 32),
         title: Text(isim, style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
         subtitle: Text(tarih, style: TextStyle(fontSize: 16, color: Theme.of(context).colorScheme.primary)),
-        // trailing: Kartın en sağına "tıklanabilir" olduğunu belli eden küçük bir ok koyar.
         trailing: const Icon(Icons.arrow_forward_ios, size: 16, color: Colors.grey),
-        // onTap: Bu karta tıklandığında ne olacağını belirler.
-        onTap: () {
-          // Tıklanınca aşağıdan panel açan metodu çağırıyoruz.
-          _altPanelAc(context, isim, tarih, aciklama, ikon);
-        },
+        onTap: () => _altPanelAc(context, isim, tarih, aciklama, ikon),
       ),
     );
   }
 
-  // --- YENİ EKLENEN: AŞAĞIDAN AÇILAN DETAY PANELİ ---
   void _altPanelAc(BuildContext context, String isim, String tarih, String aciklama, IconData ikon) {
-    // showModalBottomSheet: Ekrana alttan kayarak giren bir panel çizer.
     showModalBottomSheet(
       context: context,
-      isScrollControlled: true, // Eğer metin çok uzunsa panelin yukarı doğru büyümesine izin verir.
-      shape: const RoundedRectangleBorder(
-        borderRadius: BorderRadius.vertical(top: Radius.circular(24)), // Üst köşeleri şık bir şekilde yuvarlatır.
-      ),
+      isScrollControlled: true,
+      shape: const RoundedRectangleBorder(borderRadius: BorderRadius.vertical(top: Radius.circular(24))),
       builder: (context) {
         return Padding(
-          // Ekranın altından ve yanlardan güvenli boşluklar bırakır.
           padding: const EdgeInsets.only(left: 24, right: 24, top: 24, bottom: 40),
           child: Column(
-            mainAxisSize: MainAxisSize.min, // Sadece içindeki içerik kadar yer kapla.
+            mainAxisSize: MainAxisSize.min,
             children: [
-              // Üstteki küçük gri çektirme çizgisi (Modern tasarım detayı)
-              Container(
-                width: 40, height: 4,
-                decoration: BoxDecoration(color: Colors.grey.shade400, borderRadius: BorderRadius.circular(10)),
-              ),
+              Container(width: 40, height: 4, decoration: BoxDecoration(color: Colors.grey.shade400, borderRadius: BorderRadius.circular(10))),
               const SizedBox(height: 20),
               Icon(ikon, size: 64, color: Theme.of(context).colorScheme.primary),
               const SizedBox(height: 16),
               Text(isim, style: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold), textAlign: TextAlign.center),
               const SizedBox(height: 8),
               Text(tarih, style: TextStyle(fontSize: 16, color: Theme.of(context).colorScheme.primary, fontWeight: FontWeight.bold)),
-              const Divider(height: 32, thickness: 1), // Araya ince bir çizgi
+              const Divider(height: 32, thickness: 1),
               Text(aciklama, style: const TextStyle(fontSize: 16, height: 1.5), textAlign: TextAlign.center),
               const SizedBox(height: 32),
-              // Kapatma Butonu
               SizedBox(
-                width: double.infinity, // Butonu tam genişliğe yay
+                width: double.infinity,
                 child: ElevatedButton(
                   style: ElevatedButton.styleFrom(
                     backgroundColor: Theme.of(context).colorScheme.primary,
                     foregroundColor: Colors.white,
                     padding: const EdgeInsets.symmetric(vertical: 16),
                   ),
-                  onPressed: () => Navigator.pop(context), // Paneli kapatıp geri döner
+                  onPressed: () => Navigator.pop(context),
                   child: const Text('Kapat', style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold)),
                 ),
               )
@@ -502,6 +565,33 @@ class OzelGunlerSayfasi extends StatelessWidget {
           ),
         );
       }
+    );
+  }
+}
+
+// --- YENİ EKLENEN: VERİ MODELİ (DTO) ---
+class DiniGun {
+  final String isim;
+  final String tarih;
+  final String aciklama;
+  final IconData ikon;
+
+  DiniGun({required this.isim, required this.tarih, required this.aciklama, required this.ikon});
+
+  // Gelen JSON sözlüğünü (Map) Dart nesnesine dönüştüren yapıcı metot.
+  factory DiniGun.fromJson(Map<String, dynamic> json) {
+    // API'den ikon ismi string ("star") olarak geleceği için onu Flutter ikonuna çeviriyoruz.
+    IconData seciliIkon = Icons.event;
+    if (json['ikon'] == 'brightness_3') seciliIkon = Icons.brightness_3;
+    if (json['ikon'] == 'star') seciliIkon = Icons.star;
+    if (json['ikon'] == 'celebration') seciliIkon = Icons.celebration;
+    if (json['ikon'] == 'volunteer_activism') seciliIkon = Icons.volunteer_activism;
+
+    return DiniGun(
+      isim: json['isim'],
+      tarih: json['tarih'],
+      aciklama: json['aciklama'],
+      ikon: seciliIkon,
     );
   }
 }
