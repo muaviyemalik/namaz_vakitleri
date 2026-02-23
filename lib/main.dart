@@ -283,7 +283,7 @@ class _AnaSayfaState extends State<AnaSayfa> {
   // async/await: İnternetten cevap gelene kadar uygulamanın arayüzünü kilitlememek (donmamasını sağlamak) için.
   Future<void> vakitleriGetir() async {
     try {
-      final url = Uri.parse('http://api.aladhan.com/v1/timingsByCity?city=$aktifSehir&country=Turkey&method=13');
+      final url = Uri.parse('https://api.aladhan.com/v1/timingsByCity?city=$aktifSehir&country=Turkey&method=13');
       final cevap = await http.get(url); // await: Cevap gelene kadar burada bekle.
 
       // İhtimal 1: Sunucu 200 (OK) döndürdü, veri başarıyla geldi.
