@@ -333,6 +333,7 @@ class _AnaSayfaState extends State<AnaSayfa> {
             'Maghrib': vakitlerVerisi['Maghrib'].substring(0, 5),
             'Isha': vakitlerVerisi['Isha'].substring(0, 5),
           };
+          
 
           miladiTarih = tarihVerisi['gregorian']['date'];
           
@@ -343,6 +344,8 @@ class _AnaSayfaState extends State<AnaSayfa> {
           
           yukleniyor = false;
         });
+
+        sayaciBaslat();
       } else {
         // Hem internet yok, hem de daha önce o şehre ait hiç kayıt yapılmamış
         setState(() { yukleniyor = false; });
