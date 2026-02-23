@@ -413,26 +413,37 @@ class OzelGunlerSayfasi extends StatelessWidget {
     String sahteJsonResponse = '''
     [
       {
+        "isim": "Üç Aylar Başlangıcı", 
+        "tarih": "19 Aralık 2025", 
+        "hicriTarih": "1 Recep 1447",
+        "aciklama": "Recep, Şaban ve Ramazan aylarını kapsayan manevi iklimin başlangıcıdır.", 
+        "ikon": "calendar_month"
+      },
+      {
         "isim": "Ramazan Başlangıcı", 
         "tarih": "17 Şubat 2026", 
+        "hicriTarih": "1 Ramazan 1447",
         "aciklama": "On bir ayın sultanı, oruç ibadetinin yerine getirildiği mübarek aydır.", 
         "ikon": "brightness_3"
       },
       {
         "isim": "Kadir Gecesi", 
         "tarih": "15 Mart 2026", 
+        "hicriTarih": "27 Ramazan 1447",
         "aciklama": "Kur'an-ı Kerim'in indirildiği, bin aydan daha hayırlı olan gecedir.", 
         "ikon": "star"
       },
       {
         "isim": "Ramazan Bayramı", 
         "tarih": "19 Mart 2026", 
+        "hicriTarih": "1 Şevval 1447",
         "aciklama": "Oruç ibadetinin ardından Müslümanların sevincini paylaştığı günlerdir.", 
         "ikon": "celebration"
       },
       {
         "isim": "Kurban Bayramı", 
         "tarih": "26 Mayıs 2026", 
+        "hicriTarih": "10 Zilhicce 1447",
         "aciklama": "Yardımlaşma ve dayanışmanın zirveye çıktığı bayramdır.", 
         "ikon": "volunteer_activism"
       }
@@ -502,7 +513,7 @@ class OzelGunlerSayfasi extends StatelessWidget {
                   DiniGun oAnkiGun = gelenListe[index]; 
                   
                   // Ve kartımıza gönderiyoruz
-                  return _gunKarti(context, oAnkiGun.isim, oAnkiGun.tarih, oAnkiGun.ikon, oAnkiGun.aciklama);
+                  return _gunKarti(context, oAnkiGun.isim, oAnkiGun.tarih, oAnkiGun.hicriTarih, oAnkiGun.ikon, oAnkiGun.aciklama);
                 },
               );
             }
@@ -514,21 +525,30 @@ class OzelGunlerSayfasi extends StatelessWidget {
     );
   }
 
-  // --- KART VE PANEL KODLARI AYNEN KORUNDU ---
-  Widget _gunKarti(BuildContext context, String isim, String tarih, IconData ikon, String aciklama) {
+  // --- KART TASARIMI (GÜNCELLENDİ) ---
+  Widget _gunKarti(BuildContext context, String isim, String tarih, String hicriTarih, IconData ikon, String aciklama) {
     return Card(
       color: Colors.white,
       child: ListTile(
         leading: Icon(ikon, color: Theme.of(context).colorScheme.primary, size: 32),
         title: Text(isim, style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
-        subtitle: Text(tarih, style: TextStyle(fontSize: 16, color: Theme.of(context).colorScheme.primary)),
+        // YENİ: Alt başlık (subtitle) kısmında artık alt alta iki yazı göstermek için Column kullanıyoruz.
+        subtitle: Column(
+          crossAxisAlignment: CrossAxisAlignment.start, // Yazıları sola yasla
+          children: [
+            const SizedBox(height: 4), // İsimle tarih arasına minik bir boşluk
+            Text(tarih, style: TextStyle(fontSize: 16, color: Theme.of(context).colorScheme.primary, fontWeight: FontWeight.bold)),
+            Text(hicriTarih, style: TextStyle(fontSize: 14, color: Colors.grey.shade600)), // İstediğin gri ve biraz daha küçük fontlu hicri tarih
+          ],
+        ),
         trailing: const Icon(Icons.arrow_forward_ios, size: 16, color: Colors.grey),
-        onTap: () => _altPanelAc(context, isim, tarih, aciklama, ikon),
+        onTap: () => _altPanelAc(context, isim, tarih, hicriTarih, aciklama, ikon),
       ),
     );
   }
 
-  void _altPanelAc(BuildContext context, String isim, String tarih, String aciklama, IconData ikon) {
+  // --- DETAY PANELİ TASARIMI (GÜNCELLENDİ) ---
+  void _altPanelAc(BuildContext context, String isim, String tarih, String hicriTarih, String aciklama, IconData ikon) {
     showModalBottomSheet(
       context: context,
       isScrollControlled: true,
@@ -545,7 +565,10 @@ class OzelGunlerSayfasi extends StatelessWidget {
               const SizedBox(height: 16),
               Text(isim, style: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold), textAlign: TextAlign.center),
               const SizedBox(height: 8),
-              Text(tarih, style: TextStyle(fontSize: 16, color: Theme.of(context).colorScheme.primary, fontWeight: FontWeight.bold)),
+              Text(tarih, style: TextStyle(fontSize: 18, color: Theme.of(context).colorScheme.primary, fontWeight: FontWeight.bold)),
+              const SizedBox(height: 4),
+              // Panelin içine de hicri tarihi ekliyoruz
+              Text(hicriTarih, style: TextStyle(fontSize: 16, color: Colors.grey.shade600)),
               const Divider(height: 32, thickness: 1),
               Text(aciklama, style: const TextStyle(fontSize: 16, height: 1.5), textAlign: TextAlign.center),
               const SizedBox(height: 32),
@@ -568,19 +591,19 @@ class OzelGunlerSayfasi extends StatelessWidget {
     );
   }
 }
-
 // --- YENİ EKLENEN: VERİ MODELİ (DTO) ---
+// --- VERİ MODELİ (GÜNCELLENDİ: Hicri Tarih Eklendi) ---
+// --- VERİ MODELİ (GÜNCELLENDİ: Hicri Tarih Eklendi) ---
 class DiniGun {
   final String isim;
   final String tarih;
+  final String hicriTarih; // YENİ: Hicri tarihi tutacak değişken
   final String aciklama;
   final IconData ikon;
 
-  DiniGun({required this.isim, required this.tarih, required this.aciklama, required this.ikon});
+  DiniGun({required this.isim, required this.tarih, required this.hicriTarih, required this.aciklama, required this.ikon});
 
-  // Gelen JSON sözlüğünü (Map) Dart nesnesine dönüştüren yapıcı metot.
   factory DiniGun.fromJson(Map<String, dynamic> json) {
-    // API'den ikon ismi string ("star") olarak geleceği için onu Flutter ikonuna çeviriyoruz.
     IconData seciliIkon = Icons.event;
     if (json['ikon'] == 'brightness_3') seciliIkon = Icons.brightness_3;
     if (json['ikon'] == 'star') seciliIkon = Icons.star;
@@ -590,6 +613,7 @@ class DiniGun {
     return DiniGun(
       isim: json['isim'],
       tarih: json['tarih'],
+      hicriTarih: json['hicriTarih'], // YENİ: JSON'dan gelen hicri tarihi alıyoruz
       aciklama: json['aciklama'],
       ikon: seciliIkon,
     );
