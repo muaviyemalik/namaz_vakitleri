@@ -6,16 +6,40 @@ import 'dart:async'; // Timer (Zamanlayıcı) kullanmak için.
 import 'package:geolocator/geolocator.dart'; // Konum koordinatlarını almak için
 import 'package:geocoding/geocoding.dart'; // Koordinatı şehir ismine çevirmek için
 import 'dart:io'; //Uygulamanın çalıştığı işletim sistemini bulmak için
+import 'package:flutter_local_notifications/flutter_local_notifications.dart'; // YENİ: Bildirim kütüphanesi
+
 // --- TEMA YÖNETİMİ ---
 // ValueNotifier: İçindeki değer (renk) değiştiğinde, onu dinleyen widget'lara 
 // "Güncellen!" mesajı gönderen özel bir yapıdır.
 final ValueNotifier<Color> seciliTemaRengi = ValueNotifier<Color>(Colors.teal);
 
+// YENİ: Bildirimleri yönetecek ana motorumuz (Global)
+final FlutterLocalNotificationsPlugin bildirimServisi = FlutterLocalNotificationsPlugin();
+
 // 2. BAŞLANGIÇ NOKTASI (Entry Point)
 // C#'taki static void Main() metodunun karşılığıdır.
-void main() {
-  // runApp(): Flutter'a ekrana çizmeye başlayacağı ilk sınıfı söyler.
-  // const: Bellekte sadece bir kez oluşturulmasını sağlar, performansı artırır.
+// 2. BAŞLANGIÇ NOKTASI (Entry Point - Güncellendi)
+// asenkron (async) yaptık çünkü bildirim ayarlarının yüklenmesini bekleyeceğiz.
+void main() async {
+  // YENİ: main() içinde 'await' kullanıyorsak, Flutter motorunun tamamen hazır 
+  // olduğundan emin olmak için bu satırı yazmak zorundayız.
+  WidgetsFlutterBinding.ensureInitialized();
+
+  // YENİ: BİLDİRİM AYARLARI
+  // Android için varsayılan uygulama ikonunu kullan diyoruz.
+  const AndroidInitializationSettings androidAyarlari = AndroidInitializationSettings('@mipmap/ic_launcher');
+  // Senin şu an test ettiğin Pop!_OS (Linux) için gerekli ayarlar
+  const LinuxInitializationSettings linuxAyarlari = LinuxInitializationSettings(defaultActionName: 'Uygulamayı Aç');
+  
+  // İşletim sistemlerini birleştir
+  const InitializationSettings baslangicAyarlari = InitializationSettings(
+    android: androidAyarlari,
+    linux: linuxAyarlari,
+  );
+
+  // DÜZELTME: 'initializationSettings' etiketi zorunludur!
+  await bildirimServisi.initialize(settings: baslangicAyarlari);
+
   runApp(const NamazVakitleriApp());
 }
 
@@ -198,6 +222,31 @@ class _AnaSayfaState extends State<AnaSayfa> {
     super.dispose();
   }
 
+  // --- YENİ EKLENEN: BİLDİRİM GÖNDERME FONKSİYONU ---
+  Future<void> _testBildirimiGonder() async {
+    const AndroidNotificationDetails androidDetay = AndroidNotificationDetails(
+      'ezan_kanali', 
+      'Ezan Vakitleri',
+      channelDescription: 'Vakit girdiğinde haber verir',
+      importance: Importance.max,
+      priority: Priority.high,
+    );
+    const LinuxNotificationDetails linuxDetay = LinuxNotificationDetails();
+
+    const NotificationDetails bildirimDetaylari = NotificationDetails(
+      android: androidDetay, 
+      linux: linuxDetay
+    );
+
+    // Kütüphanenin beklediği tam format:
+    await bildirimServisi.show(
+      id: 0, 
+      title: 'Vakit Geldi!', 
+      body: '$siradakiVakitIsmi vakti girdi. Haydi namaza!', 
+      notificationDetails: bildirimDetaylari,
+    );
+  }
+
   // 6. API'DEN VERİ ÇEKME (Asenkron - Future)
   // async/await: İnternetten cevap gelene kadar uygulamanın arayüzünü kilitlememek (donmamasını sağlamak) için.
   Future<void> vakitleriGetir() async {
@@ -277,6 +326,10 @@ class _AnaSayfaState extends State<AnaSayfa> {
     Duration fark = siradakiVakitZamani.difference(suAn);
     String formatliFark = '${fark.inHours.toString().padLeft(2, '0')}:${(fark.inMinutes % 60).toString().padLeft(2, '0')}:${(fark.inSeconds % 60).toString().padLeft(2, '0')}';
     
+    if (formatliFark == "00:00:00") {
+      _testBildirimiGonder(); // Bildirim metodunu çağır
+    }
+
     // Ekranda değişen sadece bu iki değişken olduğu için sadece bunları setState içine alıyoruz.
     setState(() { siradakiVakitIsmi = siradakiVakitAd; kalanSureMetni = formatliFark; });
   }
@@ -295,6 +348,14 @@ class _AnaSayfaState extends State<AnaSayfa> {
         elevation: 10,
         // actions: AppBar'ın sağ tarafına buton eklememizi sağlar.
         actions: [
+          // YENİ: Bildirimi manuel test etmek için zil butonu
+          IconButton(
+            icon: const Icon(Icons.notifications_active),
+            tooltip: 'Bildirimi Test Et',
+            onPressed: () {
+              _testBildirimiGonder(); // Butona basınca bildirimi fırlat
+            },
+          ),
           PopupMenuButton<Color>(
             icon: const Icon(Icons.palette), // Fırça paleti ikonu
             tooltip: 'Tema Seç',
