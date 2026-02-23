@@ -44,12 +44,65 @@ class NamazVakitleriApp extends StatelessWidget {
               shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
             ),
           ),
-          home: const AnaSayfa(),
+          home: const AnaMenu(), // Artık ilk olarak alt menüyü çizen sınıfımız açılacak
         );
       },
     );
   }
 }
+
+// --- YENİ EKLENEN: ALT MENÜ YÖNETİCİSİ ---
+class AnaMenu extends StatefulWidget {
+  const AnaMenu({super.key});
+
+  @override
+  State<AnaMenu> createState() => _AnaMenuState();
+}
+
+class _AnaMenuState extends State<AnaMenu> {
+  int _seciliSayfaIndeksi = 0; // Başlangıçta 0. sekme (Vakitler) açık olsun
+
+  // Alt menüde gösterilecek sayfaların listesi
+  final List<Widget> _sayfalar = [
+    const AnaSayfa(), // Zaten var olan namaz vakitleri sayfamız
+    const OzelGunlerSayfasi(), // Birazdan en alta ekleyeceğimiz yeni sayfa
+  ];
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      // IndexedStack: Sayfalar arası geçişte sayacın sıfırlanmasını ve 
+      // GPS/API'nin tekrar tekrar çağrılmasını engeller. Sayfayı hafızada tutar.
+      body: IndexedStack(
+        index: _seciliSayfaIndeksi,
+        children: _sayfalar,
+      ),
+      bottomNavigationBar: BottomNavigationBar(
+        currentIndex: _seciliSayfaIndeksi,
+        onTap: (index) {
+          setState(() {
+            _seciliSayfaIndeksi = index; // Tıklanan sekmeye geç
+          });
+        },
+        // Temanın dinamik rengini alt menüye de yansıtıyoruz
+        selectedItemColor: Theme.of(context).colorScheme.primary,
+        unselectedItemColor: Colors.grey,
+        items: const [
+          BottomNavigationBarItem(
+            icon: Icon(Icons.access_time),
+            label: 'Vakitler',
+          ),
+          BottomNavigationBarItem(
+            icon: Icon(Icons.event),
+            label: 'Özel Günler',
+          ),
+        ],
+      ),
+    );
+  }
+}
+
+
 
 // 4. DURUMU DEĞİŞEBİLEN EKRAN (StatefulWidget)
 // API'den veri gelince ve sayaç her saniye aktığında ekranın güncellenmesi gerektiği için bunu kullanıyoruz.
@@ -337,6 +390,56 @@ class _AnaSayfaState extends State<AnaSayfa> {
         leading: Icon(ikon, color: Theme.of(context).colorScheme.primary, size: 32), 
         title: Text(isim, style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold, color: yaziRengi)),
         trailing: Text(saat ?? '', style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold, color: yaziRengi)),
+      ),
+    );
+  }
+}
+
+// --- YENİ EKLENEN: ÖZEL GÜNLER SAYFASI ---
+class OzelGunlerSayfasi extends StatelessWidget {
+  const OzelGunlerSayfasi({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text('Dini Günler', style: TextStyle(fontWeight: FontWeight.bold)),
+        centerTitle: true,
+        backgroundColor: Theme.of(context).colorScheme.primary,
+        foregroundColor: Colors.white,
+        elevation: 10,
+      ),
+      // Arka plan renk geçişini bu sayfaya da uyguluyoruz
+      body: Container(
+        decoration: BoxDecoration(
+          gradient: LinearGradient(
+            begin: Alignment.topCenter, end: Alignment.bottomCenter,
+            colors: [Theme.of(context).colorScheme.primaryContainer.withOpacity(0.3), Colors.white],
+          ),
+        ),
+        child: ListView(
+          padding: const EdgeInsets.all(16.0),
+          children: [
+            // Şimdilik örnek tarihleri elle giriyoruz
+            _gunKarti(context, 'Üç Aylar Başlangıcı', '19 Aralık 2025', Icons.calendar_month),
+            _gunKarti(context, 'Ramazan Başlangıcı', '17 Şubat 2026', Icons.brightness_3),
+            _gunKarti(context, 'Kadir Gecesi', '15 Mart 2026', Icons.star),
+            _gunKarti(context, 'Ramazan Bayramı', '19 Mart 2026', Icons.celebration),
+            _gunKarti(context, 'Kurban Bayramı', '26 Mayıs 2026', Icons.volunteer_activism),
+          ],
+        ),
+      ),
+    );
+  }
+
+  // Özel günler için oluşturduğumuz yeni kart tasarımı
+  Widget _gunKarti(BuildContext context, String isim, String tarih, IconData ikon) {
+    return Card(
+      color: Colors.white,
+      child: ListTile(
+        leading: Icon(ikon, color: Theme.of(context).colorScheme.primary, size: 32),
+        title: Text(isim, style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
+        subtitle: Text(tarih, style: TextStyle(fontSize: 16, color: Theme.of(context).colorScheme.primary)),
       ),
     );
   }
