@@ -308,6 +308,87 @@ class _AnaSayfaState extends State<AnaSayfa> {
     );
   }
 
+  // --- YENİ EKLENEN: OTOMATİK KONUM BULMA MOTORU ---
+  Future<void> _otomatikKonumBul() async {
+    setState(() {
+      yukleniyor = true; // Arama başladığında ekranda çark dönsün
+      hataMesaji = '';
+    });
+
+    try {
+      // 1. Cihazda GPS (Konum servisi) açık mı kontrolü
+      bool servisAcikMi = await Geolocator.isLocationServiceEnabled();
+      if (!servisAcikMi) {
+        setState(() {
+          hataMesaji = "Konum servisleri kapalı. Lütfen telefonunuzun GPS'ini açın.";
+          yukleniyor = false;
+        });
+        return;
+      }
+
+      // 2. Kullanıcıdan konum izni iste
+      LocationPermission izin = await Geolocator.checkPermission();
+      if (izin == LocationPermission.denied) {
+        izin = await Geolocator.requestPermission();
+        if (izin == LocationPermission.denied) {
+          setState(() {
+            hataMesaji = "Konum izni reddedildi. Şehrinizi listeden seçebilirsiniz.";
+            yukleniyor = false;
+          });
+          return;
+        }
+      }
+
+      if (izin == LocationPermission.deniedForever) {
+        setState(() {
+          hataMesaji = "Konum izinleri kalıcı olarak reddedildi. Ayarlardan açmanız gerekmektedir.";
+          yukleniyor = false;
+        });
+        return;
+      }
+
+      // 3. İzinler tamamsa koordinatı (enlem ve boylam) al (Bu işlem 3-5 saniye sürebilir)
+      Position pozisyon = await Geolocator.getCurrentPosition(desiredAccuracy: LocationAccuracy.medium);
+
+      // 4. Koordinatı (Örn: 39.9, 32.8) Şehir ismine (Örn: "Ankara") çevir
+      List<Placemark> yerIsimleri = await placemarkFromCoordinates(pozisyon.latitude, pozisyon.longitude);
+      
+      if (yerIsimleri.isNotEmpty) {
+        Placemark yer = yerIsimleri[0];
+        
+        // geocoding paketi şehri bazen "administrativeArea", bazen "subAdministrativeArea" içinde döndürür.
+        String bulunanSehir = yer.administrativeArea ?? yer.subAdministrativeArea ?? "";
+        
+        // Gelen veriyi (Örn: "Ankara Province") bizim API'nin anlayacağı temiz formata ("Ankara") getir.
+        bulunanSehir = bulunanSehir.replaceAll(" Province", "").replaceAll(" Province", "");
+
+        // 5. Şehri bulduk! Şimdi uygulamaya bu şehri seçmesini söyleyelim:
+        setState(() {
+          aktifSehir = bulunanSehir;
+        });
+
+        // Yeni şehri hafızaya kaydet ve o şehrin vakitlerini API'den çek!
+        final prefs = await SharedPreferences.getInstance();
+        await prefs.setString('secili_sehir', bulunanSehir);
+        
+        await vakitleriGetir();
+        
+      } else {
+        setState(() {
+          hataMesaji = "Bulunduğunuz şehir tespit edilemedi.";
+          yukleniyor = false;
+        });
+      }
+
+    } catch (e) {
+      debugPrint("Konum hatası: $e");
+      setState(() {
+        hataMesaji = "Konum bulunurken beklenmeyen bir hata oluştu: $e";
+        yukleniyor = false;
+      });
+    }
+  }
+
   // 6. API'DEN VERİ ÇEKME (Asenkron - Future)
   // async/await: İnternetten cevap gelene kadar uygulamanın arayüzünü kilitlememek (donmamasını sağlamak) için.
   // void yerine bool yaptık
@@ -501,6 +582,15 @@ class _AnaSayfaState extends State<AnaSayfa> {
         // actions: AppBar'ın sağ tarafına buton eklememizi sağlar.
         actions: [
 
+          // YENİ EKLENEN: Otomatik Konum Bulma Butonu (GPS İkonu)
+          IconButton(
+            icon: const Icon(Icons.my_location),
+            tooltip: 'Konumumu Bul',
+            onPressed: () {
+              // Tıklandığında yazdığımız motoru çalıştırır
+              _otomatikKonumBul();
+            },
+          ),
           // Şehir Değiştirme Butonu
           IconButton(
             icon: const Icon(Icons.location_city),
