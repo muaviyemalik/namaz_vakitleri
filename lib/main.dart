@@ -8,6 +8,8 @@ import 'package:geocoding/geocoding.dart'; // Koordinatı şehir ismine çevirme
 import 'dart:io'; //Uygulamanın çalıştığı işletim sistemini bulmak için
 import 'package:flutter_local_notifications/flutter_local_notifications.dart'; // YENİ: Bildirim kütüphanesi
 import 'package:shared_preferences/shared_preferences.dart'; //Kullanıcı tercihlerini kaydeder
+import 'package:timezone/data/latest_all.dart' as tz; //arka plan bildirimleri için
+import 'package:timezone/timezone.dart' as tz; //arka plan bildirimleri için
 
 // --- TEMA YÖNETİMİ ---
 // ValueNotifier: İçindeki değer (renk) değiştiğinde, onu dinleyen widget'lara 
@@ -44,13 +46,15 @@ Future<void> temaRenginiYukle() async {
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   
-  // Önce bildirimleri hazırla
+  // YENİ: Saat dilimi (timezone) veritabanını başlat
+  tz.initializeTimeZones();
+  tz.setLocalLocation(tz.getLocation('Europe/Istanbul'));
+
   const AndroidInitializationSettings androidAyarlari = AndroidInitializationSettings('@mipmap/ic_launcher');
   const LinuxInitializationSettings linuxAyarlari = LinuxInitializationSettings(defaultActionName: 'Uygulamayı Aç');
   const InitializationSettings baslangicAyarlari = InitializationSettings(android: androidAyarlari, linux: linuxAyarlari);
+  
   await bildirimServisi.initialize(settings: baslangicAyarlari);
-
-  // YENİ: Kayıtlı temayı yükle
   await temaRenginiYukle();
 
   runApp(const NamazVakitleriApp());
@@ -281,42 +285,32 @@ class _AnaSayfaState extends State<AnaSayfa> {
 
   // 6. API'DEN VERİ ÇEKME (Asenkron - Future)
   // async/await: İnternetten cevap gelene kadar uygulamanın arayüzünü kilitlememek (donmamasını sağlamak) için.
-  Future<void> vakitleriGetir() async {
+  // void yerine bool yaptık
+  Future<bool> vakitleriGetir() async {
     setState(() { yukleniyor = true; });
 
     try {
       final prefs = await SharedPreferences.getInstance();
       final now = DateTime.now();
-      
-      // Her ay ve şehir için ayrı bir kayıt anahtarı oluşturuyoruz
-      // Örn: vakitler_Ankara_2_2026
       final String hafizaAnahtari = 'vakitler_${aktifSehir}_${now.month}_${now.year}';
       
-      // 1. Önce telefonun hafızasında bu aya ait veri var mı diye bak
       String? telefondakiVeri = prefs.getString(hafizaAnahtari);
 
-      // 2. İnternetten YENİ AYLIK veriyi çekmeyi dene (calendarByCity API'si)
-      final url = Uri.parse(
-        'http://api.aladhan.com/v1/calendarByCity?city=$aktifSehir&country=Turkey&method=13&month=${now.month}&year=${now.year}'
-      );
+      final url = Uri.parse('http://api.aladhan.com/v1/calendarByCity?city=$aktifSehir&country=Turkey&method=13&month=${now.month}&year=${now.year}');
 
       try {
-        // İnternet için 5 saniye mühlet veriyoruz, uyarı vermezse internet vardır
         final cevap = await http.get(url).timeout(const Duration(seconds: 5));
         if (cevap.statusCode == 200) {
-          telefondakiVeri = cevap.body; // İnternetteki taze veriyi aldık
-          await prefs.setString(hafizaAnahtari, telefondakiVeri); // Hafızaya kazıdık
+          telefondakiVeri = cevap.body;
+          await prefs.setString(hafizaAnahtari, telefondakiVeri);
         }
       } catch (e) {
-        debugPrint("İnternet bağlantısı yok, telefondaki kayıtlı verilerle devam ediliyor.");
+        debugPrint("İnternet yok, hafızaya bakılıyor.");
       }
 
-      // 3. Elimizde veri varsa (ister internetten taze gelmiş olsun, ister hafızadan) ekrana bas
       if (telefondakiVeri != null) {
         final jsonVeri = json.decode(telefondakiVeri);
-        final aylikListe = jsonVeri['data'] as List; // Bu ayın tüm günleri bir listede
-        
-        // Bugün ayın kaçıysa (Örn: 23'ü), listedeki o indeksi (22. indeks) bul
+        final aylikListe = jsonVeri['data'] as List;
         final bugunIndex = now.day - 1;
         final gunlukVeri = aylikListe[bugunIndex];
         
@@ -324,7 +318,6 @@ class _AnaSayfaState extends State<AnaSayfa> {
         final vakitlerVerisi = gunlukVeri['timings'];
 
         setState(() {
-          // Gelen veriler "06:16 (+03)" şeklinde olduğu için ilk 5 karakteri (saati) alıyoruz
           vakitler = {
             'Fajr': vakitlerVerisi['Fajr'].substring(0, 5),
             'Sunrise': vakitlerVerisi['Sunrise'].substring(0, 5),
@@ -333,7 +326,6 @@ class _AnaSayfaState extends State<AnaSayfa> {
             'Maghrib': vakitlerVerisi['Maghrib'].substring(0, 5),
             'Isha': vakitlerVerisi['Isha'].substring(0, 5),
           };
-          
 
           miladiTarih = tarihVerisi['gregorian']['date'];
           
@@ -345,15 +337,20 @@ class _AnaSayfaState extends State<AnaSayfa> {
           yukleniyor = false;
         });
 
-        sayaciBaslat();
+        // Sayacı da başlattık
+        sayaciBaslat(); 
+
+        
+        
+        return true; // <--- İŞLEM BAŞARILI, TRUE DÖNDÜR
       } else {
-        // Hem internet yok, hem de daha önce o şehre ait hiç kayıt yapılmamış
         setState(() { yukleniyor = false; });
-        // (Burada istersen ekrana "Lütfen internete bağlanın" uyarısı çıkarabilirsin)
+        return false; // <--- İŞLEM BAŞARISIZ (İnternet ve veri yok), FALSE DÖNDÜR
       }
     } catch (e) {
       debugPrint("Kritik Hata: $e");
       setState(() { yukleniyor = false; });
+      return false; // <--- HATA OLDU, FALSE DÖNDÜR
     }
   }
 
@@ -365,6 +362,30 @@ class _AnaSayfaState extends State<AnaSayfa> {
     });
     kalanSureyiHesapla(); // İlk saniyeyi beklemeden hemen ilk hesaplamayı yap.
   }
+
+  Future<void> _tekilAlarmKur(int id, String vakitAdi, DateTime zaman) async {
+    const AndroidNotificationDetails androidDetay = AndroidNotificationDetails(
+      'ezan_kanali_arka_plan', 
+      'Arka Plan Ezan Vakitleri',
+      channelDescription: 'Uygulama kapalıyken vakit girdiğinde haber verir',
+      importance: Importance.max,
+      priority: Priority.high,
+    );
+    const NotificationDetails bildirimDetaylari = NotificationDetails(android: androidDetay);
+
+    // YENİ SÜRÜM KURALLARI: Bütün parametreler isimlendirildi (named arguments) 
+    // ve kaldırılan uiLocalNotificationDateInterpretation ayarı silindi.
+    await bildirimServisi.zonedSchedule(
+      id: id,
+      title: 'Vakit Geldi!',
+      body: '$vakitAdi vakti girdi. Haydi namaza!',
+      scheduledDate: tz.TZDateTime.from(zaman, tz.local),
+      notificationDetails: bildirimDetaylari,
+      androidScheduleMode: AndroidScheduleMode.exactAllowWhileIdle, // Uykuda bile uyandırır
+    );
+  }
+
+  
 
   // 8. ZAMAN HESAPLAMASI (İşin Beyni)
   void kalanSureyiHesapla() {
@@ -435,16 +456,42 @@ class _AnaSayfaState extends State<AnaSayfa> {
           IconButton(
             icon: const Icon(Icons.location_city),
             onPressed: () async {
+              // Dialog'dan yeni şehri bekle
               String? yeniSehir = await _sehirDegistirDialog(context);
-              if (yeniSehir != null && yeniSehir.isNotEmpty) {
-                setState(() { 
-                  aktifSehir = yeniSehir; 
-                  yukleniyor = true;
+              
+              // Eğer kullanıcı iptal demediyse ve farklı bir şehir seçtiyse:
+              if (yeniSehir != null && yeniSehir != aktifSehir) {
+                
+                String eskiSehir = aktifSehir; // Eski şehri yedekle (Örn: Ankara)
+                
+                setState(() {
+                  aktifSehir = yeniSehir; // Yeni şehri ayarla (Örn: İstanbul)
                 });
-                // Yeni şehri hafızaya kaydet ve API'den çek
-                final SharedPreferences hafiza = await SharedPreferences.getInstance();
-                await hafiza.setString('secili_sehir', yeniSehir);
-                await vakitleriGetir();
+                
+                // Verileri çekmeyi dene ve sonucu dinle
+                bool basariliMi = await vakitleriGetir();
+                
+                // Eğer internet yoksa ve o şehrin verisi daha önce inmemişse:
+                if (!basariliMi) {
+                  setState(() {
+                    aktifSehir = eskiSehir; // Sessizce eski şehre geri dön
+                  });
+                  
+                  if (!context.mounted) return;
+                  
+                  ScaffoldMessenger.of(context).showSnackBar(
+                    SnackBar(
+                      content: Text("İnternet bağlantısı yok! $yeniSehir verileri alınamadı."),
+                      backgroundColor: Colors.redAccent,
+                      behavior: SnackBarBehavior.floating,
+                      margin: const EdgeInsets.all(10),
+                    ),
+                  );
+                } else {
+                  // YENİ EKLENEN KISIM BURASI: Veri başarıyla çekildiyse şehri hafızaya kazı!
+                  final prefs = await SharedPreferences.getInstance();
+                  await prefs.setString('secili_sehir', yeniSehir);
+                }
               }
             },
           ),
