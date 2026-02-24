@@ -33,7 +33,11 @@ class OzelGunlerSayfasi extends StatelessWidget {
         decoration: BoxDecoration(
           gradient: LinearGradient(
             begin: Alignment.topCenter, end: Alignment.bottomCenter,
-            colors: [Theme.of(context).colorScheme.primaryContainer.withOpacity(0.3), Colors.white],
+            colors: [
+              Theme.of(context).colorScheme.primaryContainer.withOpacity(0.3), 
+              // YENİ ALT RENK
+              Theme.of(context).brightness == Brightness.dark ? Colors.grey.shade900 : Colors.white
+            ],
           ),
         ),
         child: FutureBuilder<List<DiniGun>>(
@@ -77,20 +81,24 @@ class OzelGunlerSayfasi extends StatelessWidget {
   }
 
   Widget _gunKarti(BuildContext context, String isim, String tarih, String hicriTarih, IconData ikon, String aciklama, String aktifDil) {
+    bool karanlikMi = Theme.of(context).brightness == Brightness.dark;
+
     return Card(
-      color: Colors.white,
+      // YENİ: Colors.white kodunu sildik, yerine akıllı kart rengini ekledik
+      color: Theme.of(context).cardColor, 
+      elevation: karanlikMi ? 1 : 4,
       child: ListTile(
         leading: Icon(ikon, color: Theme.of(context).colorScheme.primary, size: 32),
-        title: Text(isim, style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
+        title: Text(isim, style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold, color: karanlikMi ? Colors.white : Colors.black87)),
         subtitle: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             const SizedBox(height: 4), 
             Text(tarih, style: TextStyle(fontSize: 16, color: Theme.of(context).colorScheme.primary, fontWeight: FontWeight.bold)),
-            Text(hicriTarih, style: TextStyle(fontSize: 14, color: Colors.grey.shade600)),
+            Text(hicriTarih, style: TextStyle(fontSize: 14, color: karanlikMi ? Colors.grey.shade400 : Colors.grey.shade600)),
           ],
         ),
-        trailing: const Icon(Icons.arrow_forward_ios, size: 16, color: Colors.grey),
+        trailing: Icon(Icons.arrow_forward_ios, size: 16, color: karanlikMi ? Colors.grey.shade500 : Colors.grey),
         onTap: () => _altPanelAc(context, isim, tarih, hicriTarih, aciklama, ikon, aktifDil),
       ),
     );

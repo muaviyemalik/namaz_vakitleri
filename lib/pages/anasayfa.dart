@@ -561,12 +561,17 @@ Future<void> _widgetHadisiniGuncelle() async {
         ],
       ),
       // Container ile arka plana renk geçişi (Gradient) ekliyoruz.
-      body: 
-      Container(
+      body: Container(
         decoration: BoxDecoration(
           gradient: LinearGradient(
             begin: Alignment.topCenter, end: Alignment.bottomCenter,
-            colors: [Theme.of(context).colorScheme.primaryContainer.withOpacity(0.3), Colors.white],
+            colors: [
+              // Üst renk: Temanın ana renginin saydam hali (Bu zaten iyi)
+              Theme.of(context).colorScheme.primaryContainer.withOpacity(0.3), 
+              
+              // YENİ ALT RENK: Karanlık modda koyu gri, aydınlıkta beyaz!
+              Theme.of(context).brightness == Brightness.dark ? Colors.grey.shade900 : Colors.white
+            ],
           ),
         ),
         child: Center(
@@ -610,20 +615,37 @@ Future<void> _widgetHadisiniGuncelle() async {
     );
   }
 
-  // 10. ÖZEL BİLEŞENLER (Kod tekrarını önlemek için dışarı çıkardığımız Widget'lar)
-  Widget _anaSayacKarti() {
+ Widget _anaSayacKarti() {
+    // O anki temanın karanlık olup olmadığını tespit ediyoruz
+    bool karanlikMi = Theme.of(context).brightness == Brightness.dark;
+    
+    // Göz yormaması için Karanlık Modda saf beyaz yerine yumuşak gri tonları kullanıyoruz
+    Color anaMetinRengi = karanlikMi ? Colors.grey.shade300 : Colors.white;
+    Color altMetinRengi = karanlikMi ? Colors.grey.shade400 : Colors.white70;
+
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 16.0),
       child: Card(
-        color: Theme.of(context).colorScheme.primary,
+        color: karanlikMi 
+            ? Theme.of(context).colorScheme.primary.withOpacity(0.6) 
+            : Theme.of(context).colorScheme.primary,
+        elevation: karanlikMi ? 2 : 6,
         child: Padding(
           padding: const EdgeInsets.all(24.0),
           child: Column(
             children: [
-              Text('$miladiTarih', style: const TextStyle(fontSize: 16, color: Colors.white70)),
-              Text('${siradakiVakitIsmi.tr()} ${"time_remaining".tr()}', style: const TextStyle(fontSize: 16, color: Colors.white70)),
+              Text('$miladiTarih', style: TextStyle(fontSize: 16, color: altMetinRengi)),
+              Text('${siradakiVakitIsmi.tr()} ${"time_remaining".tr()}', style: TextStyle(fontSize: 16, color: altMetinRengi)),
               const SizedBox(height: 10),
-              Text(kalanSureMetni, style: const TextStyle(fontSize: 50, fontWeight: FontWeight.bold, color: Colors.white, letterSpacing: 2)),
+              Text(
+                kalanSureMetni, 
+                style: TextStyle(
+                  fontSize: 50, 
+                  fontWeight: FontWeight.bold, 
+                  color: anaMetinRengi, // Parlamayan, yumuşatılmış ana renk
+                  letterSpacing: 2
+                )
+              ),
             ],
           ),
         ),
@@ -632,11 +654,21 @@ Future<void> _widgetHadisiniGuncelle() async {
   }
 
   Widget _vakitKarti(String isim, String? saat, IconData ikon, bool aktifMi) {
-    Color kartRengi = aktifMi ? Theme.of(context).colorScheme.primaryContainer : Colors.white;
-    Color yaziRengi = aktifMi ? Theme.of(context).colorScheme.onPrimaryContainer : Colors.black87;
+    bool karanlikMi = Theme.of(context).brightness == Brightness.dark;
+
+    // YENİ: Aktif kart belirgin olsun, pasif kartlar Colors.white yerine temaya uysun!
+    Color kartRengi = aktifMi 
+        ? Theme.of(context).colorScheme.primaryContainer 
+        : Theme.of(context).cardColor; 
+
+    // YENİ: Yazı rengi de karanlık/aydınlık moda göre otomatik şekillensin
+    Color yaziRengi = aktifMi 
+        ? Theme.of(context).colorScheme.onPrimaryContainer 
+        : (karanlikMi ? Colors.white70 : Colors.black87);
 
     return Card(
       color: kartRengi,
+      elevation: karanlikMi ? 1 : 4, // Karanlıkta gölgeyi kısıyoruz ki parlamasın
       child: ListTile(
         leading: Icon(ikon, color: Theme.of(context).colorScheme.primary, size: 32), 
         title: Text(isim, style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold, color: yaziRengi)),

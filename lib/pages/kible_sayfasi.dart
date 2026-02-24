@@ -70,11 +70,15 @@ class _KibleSayfasiState extends State<KibleSayfasi> {
         foregroundColor: Colors.white,
       ),
       body: Container(
-        width: double.infinity,
+        width: double.infinity, // Bu sayfada genişlik ayarı vardı, onu koruyoruz
         decoration: BoxDecoration(
           gradient: LinearGradient(
             begin: Alignment.topCenter, end: Alignment.bottomCenter,
-            colors: [Theme.of(context).colorScheme.primaryContainer.withOpacity(0.3), Colors.white],
+            colors: [
+              Theme.of(context).colorScheme.primaryContainer.withOpacity(0.3), 
+              // YENİ ALT RENK
+              Theme.of(context).brightness == Brightness.dark ? Colors.grey.shade900 : Colors.white
+            ],
           ),
         ),
         child: _konumAraniyor

@@ -19,7 +19,11 @@ class AyarlarSayfasi extends StatelessWidget {
         decoration: BoxDecoration(
           gradient: LinearGradient(
             begin: Alignment.topCenter, end: Alignment.bottomCenter,
-            colors: [Theme.of(context).colorScheme.primaryContainer.withOpacity(0.3), Colors.white],
+            colors: [
+              Theme.of(context).colorScheme.primaryContainer.withOpacity(0.3), 
+              // YENİ ALT RENK
+              Theme.of(context).brightness == Brightness.dark ? Colors.grey.shade900 : Colors.white
+            ],
           ),
         ),
         child: ListView(
@@ -27,15 +31,28 @@ class AyarlarSayfasi extends StatelessWidget {
           children: [
             // DİL SEÇİM KARTI
             Card(
-              color: Colors.white,
+              color: Theme.of(context).cardColor,
+              elevation: Theme.of(context).brightness == Brightness.dark ? 1 : 4,
               child: ListTile(
                 leading: Icon(Icons.language, color: Theme.of(context).colorScheme.primary, size: 30),
-                title: Text('language'.tr(), style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 16)),
+                title: Text(
+                  'language'.tr(), 
+                  style: TextStyle(
+                    fontWeight: FontWeight.bold, 
+                    fontSize: 16,
+                    color: Theme.of(context).brightness == Brightness.dark ? Colors.white : Colors.black87
+                  )
+                ),
                 trailing: DropdownButton<String>(
                   // O anki aktif dili seçili olarak gösterir
                   value: context.locale.languageCode, 
                   underline: const SizedBox(), // Altındaki klasik çizgiyi gizleyip daha şık yapıyoruz
                   icon: Icon(Icons.arrow_drop_down, color: Theme.of(context).colorScheme.primary),
+                  dropdownColor: Theme.of(context).cardColor,
+                  style: TextStyle(
+                    fontSize: 16,
+                    color: Theme.of(context).brightness == Brightness.dark ? Colors.white : Colors.black87
+                  ),
                   onChanged: (String? yeniDilKodu) {
                     if (yeniDilKodu != null) {
                       // YENİ: Dili anında değiştirir ve hafızaya kaydeder!
