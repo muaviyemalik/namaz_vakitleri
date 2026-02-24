@@ -42,7 +42,7 @@ class _AnaSayfaState extends State<AnaSayfa> {
       builder: (context) => StatefulBuilder(
         builder: (context, setStateDialog) {
           return AlertDialog(
-            title: const Text('Şehir Seçin'),
+            title: Text('select_city'.tr()),
             content: DropdownButton<String>(
               value: seciliDeger,
               isExpanded: true,
@@ -66,11 +66,11 @@ class _AnaSayfaState extends State<AnaSayfa> {
             actions: [
               TextButton(
                 onPressed: () => Navigator.pop(context), 
-                child: const Text('İptal')
+                child: Text('cancel'.tr()),
               ),
               ElevatedButton(
                 onPressed: () => Navigator.pop(context, seciliDeger),
-                child: const Text('Tamam'),
+                child: Text('ok'.tr()),
               ),
             ],
           );
@@ -194,7 +194,7 @@ Future<void> _widgetHadisiniGuncelle() async {
     try {
       bool servisAcikMi = await Geolocator.isLocationServiceEnabled();
       if (!servisAcikMi) {
-        _konumHatasiBildir("Konum servisleri kapalı. Kayıtlı şehirden devam ediliyor.");
+        _konumHatasiBildir('loc_service_off'.tr());
         return;
       }
 
@@ -202,13 +202,13 @@ Future<void> _widgetHadisiniGuncelle() async {
       if (izin == LocationPermission.denied) {
         izin = await Geolocator.requestPermission();
         if (izin == LocationPermission.denied) {
-          _konumHatasiBildir("Konum izni reddedildi. Kayıtlı şehirden devam ediliyor.");
+          _konumHatasiBildir('loc_perm_denied'.tr());
           return;
         }
       }
 
       if (izin == LocationPermission.deniedForever) {
-        _konumHatasiBildir("Konum izinleri kalıcı olarak reddedildi.");
+        _konumHatasiBildir('loc_perm_forever'.tr());
         return;
       }
 
@@ -233,13 +233,13 @@ Future<void> _widgetHadisiniGuncelle() async {
         await vakitleriGetir(); // Yeni şehrin verilerini çek
         
       } else {
-        _konumHatasiBildir("Bulunduğunuz şehir tespit edilemedi.");
+        _konumHatasiBildir('city_not_found'.tr());
       }
 
     } catch (e) {
       debugPrint("Konum hatası: $e");
       // Linux DBus veya diğer hatalarda ekranı bozmadan uyarı ver
-      _konumHatasiBildir("Konum bulunamadı (PC'de normaldir). Eski şehirden devam ediliyor.");
+      _konumHatasiBildir('loc_error'.tr());
     }
   }
 
@@ -472,7 +472,7 @@ Future<void> _widgetHadisiniGuncelle() async {
           // YENİ EKLENEN: Otomatik Konum Bulma Butonu (GPS İkonu)
           IconButton(
             icon: const Icon(Icons.my_location),
-            tooltip: 'Konumumu Bul',
+            tooltip: 'find_location'.tr(),
             onPressed: () {
               // Tıklandığında yazdığımız motoru çalıştırır
               _otomatikKonumBul();
@@ -481,6 +481,7 @@ Future<void> _widgetHadisiniGuncelle() async {
           // Şehir Değiştirme Butonu
           IconButton(
             icon: const Icon(Icons.location_city),
+            tooltip: 'select_city'.tr(),
             onPressed: () async {
               // Dialog'dan yeni şehri bekle
               String? yeniSehir = await _sehirDegistirDialog(context);
@@ -507,7 +508,7 @@ Future<void> _widgetHadisiniGuncelle() async {
                   
                   ScaffoldMessenger.of(context).showSnackBar(
                     SnackBar(
-                      content: Text("İnternet bağlantısı yok! $yeniSehir verileri alınamadı."),
+                      content: Text("no_internet_city".tr(args: [yeniSehir])),
                       backgroundColor: Colors.redAccent,
                       behavior: SnackBarBehavior.floating,
                       margin: const EdgeInsets.all(10),
@@ -524,7 +525,7 @@ Future<void> _widgetHadisiniGuncelle() async {
 
           PopupMenuButton<Color>(
             icon: const Icon(Icons.palette), // Fırça paleti ikonu
-            tooltip: 'Tema Seç',
+            tooltip: 'theme'.tr(),
             // onSelected: Listeden bir renk seçildiğinde çalışır.
             onSelected: (Color yeniRenk) {
   seciliTemaRengi.value = yeniRenk; // Ekranı günceller
@@ -532,12 +533,12 @@ Future<void> _widgetHadisiniGuncelle() async {
 },
             // Seçenekleri oluşturuyoruz:
             itemBuilder: (BuildContext context) => <PopupMenuEntry<Color>>[
-              const PopupMenuItem<Color>(value: Colors.teal, child: Text('Zümrüt Yeşili')),
-              const PopupMenuItem<Color>(value: Colors.blue, child: Text('Okyanus Mavisi')),
-              const PopupMenuItem<Color>(value: Colors.deepPurple, child: Text('Gece Moru')),
-              const PopupMenuItem<Color>(value: Colors.orange, child: Text('Gün Batımı Turuncusu')),
-              const PopupMenuItem<Color>(value: Colors.brown, child: Text('Toprak Rengi')),
-              const PopupMenuItem<Color>(value: Color.fromARGB(255, 248, 108, 204), child:Text('Toz Pembe')),
+              const PopupMenuItem<Color>(value: Colors.teal, child: Text('theme_teal')),
+              const PopupMenuItem<Color>(value: Colors.blue, child: Text('theme_blue')),
+              const PopupMenuItem<Color>(value: Colors.deepPurple, child: Text('theme_purple')),
+              const PopupMenuItem<Color>(value: Colors.orange, child: Text('theme_orange')),
+              const PopupMenuItem<Color>(value: Colors.brown, child: Text('theme_brown')),
+              const PopupMenuItem<Color>(value: Color.fromARGB(255, 248, 108, 204), child:Text('theme_pink')),
             ],
           ),
         ],
@@ -667,7 +668,7 @@ Future<void> _widgetHadisiniGuncelle() async {
                   
                   IconButton(
                     icon: Icon(Icons.share, color: Theme.of(context).colorScheme.primary, size: 20),
-                    tooltip: 'Paylaş',
+                    tooltip: 'share'.tr(),
                     padding: EdgeInsets.zero,
                     constraints: const BoxConstraints(),
                     onPressed: () {
@@ -735,7 +736,7 @@ Future<void> _widgetHadisiniGuncelle() async {
                   
                   IconButton(
                     icon: Icon(Icons.share, color: Theme.of(context).colorScheme.secondary, size: 20),
-                    tooltip: 'Paylaş',
+                    tooltip: 'share'.tr(),
                     padding: EdgeInsets.zero,
                     constraints: const BoxConstraints(),
                     onPressed: () {
