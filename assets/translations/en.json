@@ -16,5 +16,6 @@
   "isha": "Isha",
   "next_time": "Next Prayer",
   "time_remaining": "Time Remaining",
-  "today_times": "Today's Times"
+  "today_times": "Today's Times",
+  "qibla_not_found": "Unable to calculate the Qibla because the location could not be determined."
 }

@@ -16,5 +16,6 @@
   "isha": "Yatsı",
   "next_time": "Sıradaki Vakit",
   "time_remaining": "Kalan Süre",
-  "today_times": "Bugünün Vakitleri"
+  "today_times": "Bugünün Vakitleri",
+  "qibla_not_found": "Konum alınamadığı için Kıble hesaplanamıyor."
 }

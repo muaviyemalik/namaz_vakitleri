@@ -80,7 +80,7 @@ class _KibleSayfasiState extends State<KibleSayfasi> {
         child: _konumAraniyor
             ? const Center(child: CircularProgressIndicator())
             : _kibleAcisi == null
-                ? const Center(child: Text("Konum alınamadığı için Kıble hesaplanamıyor."))
+                ? Center(child: Text('qibla_not_found'.tr()),)
                 : StreamBuilder<CompassEvent>(
                     stream: FlutterCompass.events,
                     builder: (context, snapshot) {
