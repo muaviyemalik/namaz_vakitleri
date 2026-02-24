@@ -49,5 +49,10 @@
   "theme_dark_amber": "Kehribar Işıltısı",
   "theme_dark_violet": "Koyu Menekşe",
   "found_qible": "Kıbledesiniz !",
-  "turn_qible": "Kıbleyi Bulmak İçin Dönün"
+  "turn_qible": "Kıbleyi Bulmak İçin Dönün",
+  "early_warning": "Erken Uyarı",
+  "off": "Kapalı",
+  "min_before_15": "15 dk önce",
+  "min_before_30": "30 dk önce",
+  "min_before_45": "45 dk önce"
 }

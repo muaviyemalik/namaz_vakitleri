@@ -102,7 +102,52 @@ class AyarlarSayfasi extends StatelessWidget {
                 );
               }
             ),
-            
+            const SizedBox(height: 10), // Araya ufak bir boşluk
+
+            // ERKEN UYARI KARTI
+            ValueListenableBuilder<int>(
+              valueListenable: erkenUyariSuresi,
+              builder: (context, aktifSure, child) {
+                return Card(
+                  color: Theme.of(context).cardColor,
+                  elevation: Theme.of(context).brightness == Brightness.dark ? 1 : 4,
+                  child: ListTile(
+                    leading: Icon(Icons.alarm_on, color: Theme.of(context).colorScheme.primary, size: 30),
+                    title: Text(
+                      'early_warning'.tr(),
+                      style: TextStyle(
+                        fontWeight: FontWeight.bold, 
+                        fontSize: 16,
+                        color: Theme.of(context).brightness == Brightness.dark ? Colors.white : Colors.black87
+                      ),
+                    ),
+                    trailing: DropdownButton<int>(
+                      value: aktifSure,
+                      underline: const SizedBox(), 
+                      icon: Icon(Icons.arrow_drop_down, color: Theme.of(context).colorScheme.primary),
+                      dropdownColor: Theme.of(context).cardColor, 
+                      style: TextStyle(
+                        fontSize: 16,
+                        color: Theme.of(context).brightness == Brightness.dark ? Colors.white : Colors.black87
+                      ),
+                      onChanged: (int? yeniSure) {
+                        if (yeniSure != null) {
+                          // Seçilen dakikayı değişkene ata ve telefona kaydet
+                          erkenUyariSuresi.value = yeniSure;
+                          erkenUyariKaydet(yeniSure);
+                        }
+                      },
+                      items: [
+                        DropdownMenuItem(value: 0, child: Text('off'.tr())),
+                        DropdownMenuItem(value: 15, child: Text('min_before_15'.tr())),
+                        DropdownMenuItem(value: 30, child: Text('min_before_30'.tr())),
+                        DropdownMenuItem(value: 45, child: Text('min_before_45'.tr())),
+                      ],
+                    ),
+                  ),
+                );
+              }
+            ),
             // İPUCU: İleride AnaSayfa'nın AppBar'ındaki "Tema Seçimi" ikonunu da 
             // buraya yeni bir Card olarak taşıyabilirsin!
           ],

@@ -47,5 +47,10 @@
   "theme_dark_amber": "琥珀光",
   "theme_dark_violet": "暗紫罗兰",
   "found_qible": "您已面向克尔白方向！",
-  "turn_qible": "转动以寻找克尔白方向"
+  "turn_qible": "转动以寻找克尔白方向",
+  "early_warning": "提前提醒",
+  "off": "关闭",
+  "min_before_15": "提前 15 分钟",
+  "min_before_30": "提前 30 分钟",
+  "min_before_45": "提前 45 分钟"
 }

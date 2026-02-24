@@ -17,6 +17,23 @@ final ValueNotifier<Color> seciliTemaRengiAydinlik = ValueNotifier<Color>(Colors
 final ValueNotifier<Color> seciliTemaRengiKaranlik = ValueNotifier<Color>(Colors.indigo); // Gece rengi
 final ValueNotifier<ThemeMode> aktifTemaModu = ValueNotifier<ThemeMode>(ThemeMode.light);
 final FlutterLocalNotificationsPlugin bildirimServisi = FlutterLocalNotificationsPlugin();
+//Erken Uyarı Sistemi için
+final ValueNotifier<int> erkenUyariSuresi = ValueNotifier<int>(0);
+
+// YENİ: Erken Uyarı Süresini Kaydetme
+Future<void> erkenUyariKaydet(int dakika) async {
+  final SharedPreferences hafiza = await SharedPreferences.getInstance();
+  await hafiza.setInt('kayitli_erken_uyari', dakika);
+}
+
+// YENİ: Erken Uyarı Süresini Yükleme
+Future<void> erkenUyariYukle() async {
+  final SharedPreferences hafiza = await SharedPreferences.getInstance();
+  final int? kayitliDakika = hafiza.getInt('kayitli_erken_uyari');
+  if (kayitliDakika != null) {
+    erkenUyariSuresi.value = kayitliDakika;
+  }
+}
 
 Future<void> temaModunuKaydet(bool isDark) async {
   final SharedPreferences hafiza = await SharedPreferences.getInstance();
@@ -66,6 +83,7 @@ void main() async {
   await bildirimServisi.initialize(settings: baslangicAyarlari);
   await temaRenginiYukle();
   await temaModunuYukle();
+  await erkenUyariYukle();
 
   runApp(
     EasyLocalization(
