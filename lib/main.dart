@@ -45,7 +45,7 @@ void main() async {
 
   runApp(
     EasyLocalization(
-      supportedLocales: const [Locale('tr'), Locale('en')],
+      supportedLocales: const [Locale('tr'), Locale('en'), Locale('zh')],
       path: 'assets/translations',
       fallbackLocale: const Locale('tr'),
       child: const NamazVakitleriApp(),
