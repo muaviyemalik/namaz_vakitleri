@@ -158,7 +158,7 @@ class _AnaMenuState extends State<AnaMenu> {
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.event),
-            label: 'Özel Günler',
+            label: 'special_days'.tr(),
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.explore),
@@ -1022,43 +1022,30 @@ Future<void> _widgetHadisiniGuncelle() async {
   }
 }
 
-// --- ÖZEL GÜNLER SAYFASI (GÜNCELLENDİ: İnternetten Veri Çekme Mantığı) ---
+// --- ÖZEL GÜNLER SAYFASI (GÜNCELLENDİ: 2026 Tarihleri ve Dil Desteği) ---
 class OzelGunlerSayfasi extends StatelessWidget {
   const OzelGunlerSayfasi({super.key});
 
-  // --- API SİMÜLASYONU (Asenkron Veri Çekme) ---
-  // C#'taki Task<List<DiniGun>> yapısının karşılığıdır.
-  Future<List<DiniGun>> _ozelGunleriGetirAPI() async {
-    // Gerçek bir API'den çekiyor olsaydık bu iki satırı kullanacaktık:
-    // final cevap = await http.get(Uri.parse('https://senin-api-siten.com/dini-gunler'));
-    // final String jsonMetni = cevap.body;
-
-    // Arayüzü dondurmamak için asenkron (arka planda) 1 saniye bekletiyoruz (İnternet gecikmesi)
+  // API'ye dil parametresi (aktifDil) gönderiyormuşuz gibi düşünüyoruz
+  Future<List<DiniGun>> _ozelGunleriGetirAPI(String aktifDil) async {
     await Future.delayed(const Duration(seconds: 1));
 
-    // Sunucudan (API) bize döndüğünü varsaydığımız JSON formatında bir veri kümesi (Array)
-    String sahteJsonResponse = '''
+    // --- TÜRKÇE (2026 YILI KESİNLEŞMİŞ DİYANET TAKVİMİ) ---
+    String sahteJsonResponseTR = '''
     [
       {
-        "isim": "Üç Aylar Başlangıcı", 
-        "tarih": "19 Aralık 2025", 
-        "hicriTarih": "1 Recep 1447",
-        "aciklama": "Recep, Şaban ve Ramazan aylarını kapsayan manevi iklimin başlangıcıdır.", 
-        "ikon": "calendar_month"
-      },
-      {
-        "isim": "Regaib Kandili", 
-        "tarih": "22 Ocak 2026", 
-        "hicriTarih": "3 Recep 1447",
-        "aciklama": "Rahmet ve mağfiret gecesi, üç ayların ilk kandilidir. 'Regaib' çokça rağbet edilen, arzulanan anlamına gelir.", 
-        "ikon": "mosque"
-      },
-      {
         "isim": "Miraç Kandili", 
-        "tarih": "13 Şubat 2026", 
+        "tarih": "15 Ocak 2026", 
         "hicriTarih": "26 Recep 1447",
         "aciklama": "Peygamber Efendimiz'in (s.a.v) Mescid-i Haram'dan Mescid-i Aksa'ya, oradan da göğe yükseldiği mucizevi gecedir.", 
         "ikon": "auto_awesome"
+      },
+      {
+        "isim": "Berat Kandili", 
+        "tarih": "2 Şubat 2026", 
+        "hicriTarih": "14 Şaban 1447",
+        "aciklama": "Günahlardan arınma, af, şefaat ve mağfiret gecesidir.", 
+        "ikon": "nightlight_round"
       },
       {
         "isim": "Ramazan Başlangıcı", 
@@ -1068,15 +1055,8 @@ class OzelGunlerSayfasi extends StatelessWidget {
         "ikon": "brightness_3"
       },
       {
-        "isim": "Berat Kandili", 
-        "tarih": "3 Mart 2026", 
-        "hicriTarih": "14 Şaban 1447",
-        "aciklama": "Günahlardan arınma, af, şefaat ve mağfiret gecesidir.", 
-        "ikon": "nightlight_round"
-      },
-      {
         "isim": "Kadir Gecesi", 
-        "tarih": "15 Mart 2026", 
+        "tarih": "16 Mart 2026", 
         "hicriTarih": "27 Ramazan 1447",
         "aciklama": "Kur'an-ı Kerim'in indirildiği, bin aydan daha hayırlı olan gecedir.", 
         "ikon": "star"
@@ -1111,27 +1091,99 @@ class OzelGunlerSayfasi extends StatelessWidget {
       },
       {
         "isim": "Mevlid Kandili", 
-        "tarih": "25 Ağustos 2026", 
+        "tarih": "24 Ağustos 2026", 
         "hicriTarih": "11 Rebiülevvel 1448",
-        "aciklama": "Alemlere rahmet olarak gönderilen Peygamber Efendimiz'in (s.a.v) dünyaya teşrif ettiği (doğduğu) gecedir.", 
+        "aciklama": "Alemlere rahmet olarak gönderilen Peygamber Efendimiz'in (s.a.v) dünyaya teşrif ettiği gecedir.", 
         "ikon": "menu_book"
       }
     ]
     ''';
 
-    // 1. JSON metnini List<dynamic> yapısına dönüştür (Decode)
-    List<dynamic> cozulmusJson = json.decode(sahteJsonResponse);
-    
-    // 2. Listedeki her bir elemanı (Map) DiniGun nesnesine çevir ve bir List<DiniGun> olarak geri döndür.
-    // C#'taki LINQ Select() metodu ile birebir aynı işi yapar.
+    // --- İNGİLİZCE (2026 YILI DİNİ GÜNLERİ) ---
+    String sahteJsonResponseEN = '''
+    [
+      {
+        "isim": "Al-Isra wal-Mi'raj", 
+        "tarih": "15 January 2026", 
+        "hicriTarih": "26 Rajab 1447",
+        "aciklama": "The miraculous night journey and ascension of Prophet Muhammad (PBUH) to the heavens.", 
+        "ikon": "auto_awesome"
+      },
+      {
+        "isim": "Mid-Sha'ban (Berat)", 
+        "tarih": "2 February 2026", 
+        "hicriTarih": "14 Sha'ban 1447",
+        "aciklama": "The night of forgiveness, mercy, and intercession.", 
+        "ikon": "nightlight_round"
+      },
+      {
+        "isim": "Start of Ramadan", 
+        "tarih": "19 February 2026", 
+        "hicriTarih": "1 Ramadan 1447",
+        "aciklama": "The sultan of eleven months, the blessed month of fasting.", 
+        "ikon": "brightness_3"
+      },
+      {
+        "isim": "Laylat al-Qadr", 
+        "tarih": "16 March 2026", 
+        "hicriTarih": "27 Ramadan 1447",
+        "aciklama": "The Night of Decree, when the Quran was revealed, better than a thousand months.", 
+        "ikon": "star"
+      },
+      {
+        "isim": "Eid al-Fitr", 
+        "tarih": "20 March 2026", 
+        "hicriTarih": "1 Shawwal 1447",
+        "aciklama": "The festival of breaking the fast, where Muslims share their joy after a month of fasting.", 
+        "ikon": "celebration"
+      },
+      {
+        "isim": "Eid al-Adha", 
+        "tarih": "27 May 2026", 
+        "hicriTarih": "10 Dhu al-Hijjah 1447",
+        "aciklama": "The festival of sacrifice, marking the peak of solidarity and the Hajj pilgrimage.", 
+        "ikon": "volunteer_activism"
+      },
+      {
+        "isim": "Islamic New Year", 
+        "tarih": "16 June 2026", 
+        "hicriTarih": "1 Muharram 1448",
+        "aciklama": "The first day of the Hijri calendar, based on the Prophet's migration to Medina.", 
+        "ikon": "event"
+      },
+      {
+        "isim": "Day of Ashura", 
+        "tarih": "25 June 2026", 
+        "hicriTarih": "10 Muharram 1448",
+        "aciklama": "A day of blessings and sharing, marking significant events in the lives of the Prophets.", 
+        "ikon": "local_dining"
+      },
+      {
+        "isim": "Mawlid al-Nabi", 
+        "tarih": "24 August 2026", 
+        "hicriTarih": "11 Rabi' al-Awwal 1448",
+        "aciklama": "The night celebrating the birth of Prophet Muhammad (PBUH), sent as a mercy to the worlds.", 
+        "ikon": "menu_book"
+      }
+    ]
+    ''';
+
+    // Telefonun diline göre doğru JSON tablosunu seçiyoruz
+    String seciliJson = (aktifDil == 'en') ? sahteJsonResponseEN : sahteJsonResponseTR;
+
+    List<dynamic> cozulmusJson = json.decode(seciliJson);
     return cozulmusJson.map((jsonElemani) => DiniGun.fromJson(jsonElemani)).toList();
   }
 
   @override
   Widget build(BuildContext context) {
+    // 1. Telefonun o anki dilini al ('tr' veya 'en')
+    String aktifDil = context.locale.languageCode;
+
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Dini Günler', style: TextStyle(fontWeight: FontWeight.bold)),
+        // JSON'daki special_days anahtarını kullanıyoruz (Yoksa doğrudan tr() fonksiyonuna yönlendiririz)
+        title: Text('special_days'.tr(), style: const TextStyle(fontWeight: FontWeight.bold)),
         centerTitle: true,
         backgroundColor: Theme.of(context).colorScheme.primary,
         foregroundColor: Colors.white,
@@ -1143,13 +1195,10 @@ class OzelGunlerSayfasi extends StatelessWidget {
             colors: [Theme.of(context).colorScheme.primaryContainer.withOpacity(0.3), Colors.white],
           ),
         ),
-        // FUTUREBUILDER: Arka planda çalışan bir fonksiyonu dinler. 
-        // Veri beklerken çark gösterir, veri gelince ekranı çizer.
         child: FutureBuilder<List<DiniGun>>(
-          future: _ozelGunleriGetirAPI(), // Hangi asenkron fonksiyonu bekleyecek?
+          // Fonksiyonumuza dili parametre olarak gönderiyoruz
+          future: _ozelGunleriGetirAPI(aktifDil), 
           builder: (context, snapshot) {
-            
-            // Durum 1: İnternetten veri hala iniyor
             if (snapshot.connectionState == ConnectionState.waiting) {
               return Center(
                 child: Column(
@@ -1157,42 +1206,103 @@ class OzelGunlerSayfasi extends StatelessWidget {
                   children: [
                     const CircularProgressIndicator(),
                     const SizedBox(height: 16),
-                    Text('Sunucudan veriler alınıyor...', style: TextStyle(color: Theme.of(context).colorScheme.primary)),
+                    Text('loading'.tr(), style: TextStyle(color: Theme.of(context).colorScheme.primary)),
                   ],
                 ),
               );
             }
             
-            // Durum 2: API'den hata döndü (Bağlantı koptu vb.)
             if (snapshot.hasError) {
-              return Center(child: Text('Bir hata oluştu: ${snapshot.error}', style: const TextStyle(color: Colors.red)));
+              return Center(child: Text('Hata / Error: ${snapshot.error}', style: const TextStyle(color: Colors.red)));
             }
             
-            // Durum 3: Veriler başarıyla geldi ve çözümlendi
             if (snapshot.hasData) {
-              List<DiniGun> gelenListe = snapshot.data!; // Artık elimizde nesne listemiz var
+              List<DiniGun> gelenListe = snapshot.data!; 
               
-              // ListView.builder: Tıpkı bir 'foreach' döngüsü gibi, elindeki liste kadar kart çizer.
-              // Ekrandan taşan binlerce veri olsa bile sadece ekranda görünenleri belleğe alır (Çok performanslıdır).
               return ListView.builder(
                 padding: const EdgeInsets.all(16.0),
-                itemCount: gelenListe.length, // Kaç tane dönecek?
+                itemCount: gelenListe.length, 
                 itemBuilder: (context, index) {
-                  // O anki satırın nesnesini alıyoruz
                   DiniGun oAnkiGun = gelenListe[index]; 
-                  
-                  // Ve kartımıza gönderiyoruz
-                  return _gunKarti(context, oAnkiGun.isim, oAnkiGun.tarih, oAnkiGun.hicriTarih, oAnkiGun.ikon, oAnkiGun.aciklama);
+                  return _gunKarti(context, oAnkiGun.isim, oAnkiGun.tarih, oAnkiGun.hicriTarih, oAnkiGun.ikon, oAnkiGun.aciklama, aktifDil);
                 },
               );
             }
             
-            return const Center(child: Text('Gösterilecek veri bulunamadı.'));
+            return const Center(child: Text('No data found.'));
           },
         ),
       ),
     );
   }
+
+  // --- KART TASARIMI ---
+  Widget _gunKarti(BuildContext context, String isim, String tarih, String hicriTarih, IconData ikon, String aciklama, String aktifDil) {
+    return Card(
+      color: Colors.white,
+      child: ListTile(
+        leading: Icon(ikon, color: Theme.of(context).colorScheme.primary, size: 32),
+        title: Text(isim, style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
+        subtitle: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            const SizedBox(height: 4), 
+            Text(tarih, style: TextStyle(fontSize: 16, color: Theme.of(context).colorScheme.primary, fontWeight: FontWeight.bold)),
+            Text(hicriTarih, style: TextStyle(fontSize: 14, color: Colors.grey.shade600)),
+          ],
+        ),
+        trailing: const Icon(Icons.arrow_forward_ios, size: 16, color: Colors.grey),
+        onTap: () => _altPanelAc(context, isim, tarih, hicriTarih, aciklama, ikon, aktifDil),
+      ),
+    );
+  }
+
+  // --- DETAY PANELİ TASARIMI ---
+  void _altPanelAc(BuildContext context, String isim, String tarih, String hicriTarih, String aciklama, IconData ikon, String aktifDil) {
+    // Dile göre buton yazısını ayarlıyoruz
+    String kapatYazisi = (aktifDil == 'en') ? 'Close' : 'Kapat';
+
+    showModalBottomSheet(
+      context: context,
+      isScrollControlled: true,
+      shape: const RoundedRectangleBorder(borderRadius: BorderRadius.vertical(top: Radius.circular(24))),
+      builder: (context) {
+        return Padding(
+          padding: const EdgeInsets.only(left: 24, right: 24, top: 24, bottom: 40),
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              Container(width: 40, height: 4, decoration: BoxDecoration(color: Colors.grey.shade400, borderRadius: BorderRadius.circular(10))),
+              const SizedBox(height: 20),
+              Icon(ikon, size: 64, color: Theme.of(context).colorScheme.primary),
+              const SizedBox(height: 16),
+              Text(isim, style: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold), textAlign: TextAlign.center),
+              const SizedBox(height: 8),
+              Text(tarih, style: TextStyle(fontSize: 18, color: Theme.of(context).colorScheme.primary, fontWeight: FontWeight.bold)),
+              const SizedBox(height: 4),
+              Text(hicriTarih, style: TextStyle(fontSize: 16, color: Colors.grey.shade600)),
+              const Divider(height: 32, thickness: 1),
+              Text(aciklama, style: const TextStyle(fontSize: 16, height: 1.5), textAlign: TextAlign.center),
+              const SizedBox(height: 32),
+              SizedBox(
+                width: double.infinity,
+                child: ElevatedButton(
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: Theme.of(context).colorScheme.primary,
+                    foregroundColor: Colors.white,
+                    padding: const EdgeInsets.symmetric(vertical: 16),
+                  ),
+                  onPressed: () => Navigator.pop(context),
+                  child: Text(kapatYazisi, style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold)),
+                ),
+              )
+            ],
+          ),
+        );
+      }
+    );
+  }
+}
 
   // --- KART TASARIMI (GÜNCELLENDİ) ---
   Widget _gunKarti(BuildContext context, String isim, String tarih, String hicriTarih, IconData ikon, String aciklama) {
@@ -1259,7 +1369,6 @@ class OzelGunlerSayfasi extends StatelessWidget {
       }
     );
   }
-}
 // --- YENİ EKLENEN: VERİ MODELİ (DTO) ---
 // --- VERİ MODELİ (GÜNCELLENDİ: Hicri Tarih Eklendi) ---
 // --- VERİ MODELİ (GÜNCELLENDİ: Hicri Tarih Eklendi) ---
