@@ -10,6 +10,7 @@ import 'package:easy_localization/easy_localization.dart';
 import 'pages/anasayfa.dart';
 import 'pages/ozelGunler_sayfasi.dart';
 import 'pages/kible_sayfasi.dart';
+import 'pages/ayarlar_sayfasi.dart';
 
 // --- GLOBAL DEĞİŞKENLER (Tema ve Bildirim Motoru) ---
 final ValueNotifier<Color> seciliTemaRengi = ValueNotifier<Color>(Colors.teal);
@@ -98,6 +99,7 @@ class _AnaMenuState extends State<AnaMenu> {
     const AnaSayfa(), 
     const OzelGunlerSayfasi(), 
     const KibleSayfasi(), 
+    const AyarlarSayfasi()
   ];
 
   @override
@@ -128,6 +130,10 @@ class _AnaMenuState extends State<AnaMenu> {
           BottomNavigationBarItem(
             icon: const Icon(Icons.explore),
             label: 'qibla'.tr(),
+          ),
+          BottomNavigationBarItem(
+            icon: const Icon(Icons.settings),
+            label: 'settings'.tr(),
           ),
         ],
       ),

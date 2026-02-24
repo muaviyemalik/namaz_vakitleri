@@ -36,5 +36,10 @@
   "theme_pink": "Toz Pembe",
   "find_location": "Konumumu Bul",
   "share": "Paylaş",
-  "theme": "Tema Seç"
+  "theme": "Tema Seç",
+  "settings": "Ayarlar",
+  "language": "Uygulama Dili",
+  "turkish": "Türkçe",
+  "english": "İngilizce",
+  "chinese": "Çince"
 }

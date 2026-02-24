@@ -36,5 +36,10 @@
   "theme_pink": "Dusty Pink",
   "find_location": "Find My Location",
   "share": "Share",
-  "theme": "Theme"
+  "theme": "Theme",
+  "settings": "Settings",
+  "language": "App Language",
+  "turkish": "Turkish",
+  "english": "English",
+  "chinese": "Chinese"
 }

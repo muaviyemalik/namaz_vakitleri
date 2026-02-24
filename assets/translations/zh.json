@@ -32,5 +32,10 @@
   "theme_brown": "大地棕",
   "theme_pink": "灰粉色",
   "find_location": "查找我的位置",
-  "share": "分享"
+  "share": "分享",
+  "settings": "设置",
+  "language": "应用语言",
+  "turkish": "土耳其语",
+  "english": "英语",
+  "chinese": "中文"
 }
