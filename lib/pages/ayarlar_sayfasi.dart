@@ -12,8 +12,15 @@ class AyarlarSayfasi extends StatelessWidget {
       appBar: AppBar(
         title: Text('settings'.tr(), style: const TextStyle(fontWeight: FontWeight.bold)),
         centerTitle: true,
-        backgroundColor: Theme.of(context).colorScheme.primary,
+        // YENİ 1: Aydınlık modda ana renk, Karanlık modda mat ve şık bir koyu gri!
+        backgroundColor: Theme.of(context).brightness == Brightness.dark 
+            ? Colors.grey.shade900 
+            : Theme.of(context).colorScheme.primary, 
+            
         foregroundColor: Colors.white,
+        
+        // YENİ 2: Karanlık modda barın altındaki gölgeyi sıfırlıyoruz ki arka planla tam birleşsin
+        elevation: Theme.of(context).brightness == Brightness.dark ? 0 : 10,
       ),
       body: Container(
         decoration: BoxDecoration(
