@@ -39,5 +39,13 @@
   "language": "应用语言",
   "turkish": "土耳其语",
   "english": "英语",
-  "chinese": "中文"
+  "chinese": "中文",
+  "dark_mode": "深色模式",
+  "theme_dark_indigo": "夜蓝色",
+  "theme_dark_crimson": "绯红之夜",
+  "theme_dark_emerald": "翡翠森林",
+  "theme_dark_amber": "琥珀光",
+  "theme_dark_violet": "暗紫罗兰",
+  "found_qible": "您已面向克尔白方向！",
+  "turn_qible": "转动以寻找克尔白方向"
 }

@@ -104,7 +104,7 @@ class _KibleSayfasiState extends State<KibleSayfasi> {
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
                           Text(
-                            kibleyiBulduMu ? "Kıble'desiniz" : "Kıbleyi Bulmak İçin Dönün",
+                            kibleyiBulduMu ? 'found_qible'.tr() : 'turn_qible'.tr(),
                             style: TextStyle(
                               fontSize: 22,
                               fontWeight: FontWeight.bold,

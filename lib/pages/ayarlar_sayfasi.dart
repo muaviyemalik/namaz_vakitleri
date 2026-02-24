@@ -1,6 +1,7 @@
 // lib/pages/ayarlar_sayfasi.dart
 import 'package:flutter/material.dart';
 import 'package:easy_localization/easy_localization.dart';
+import 'package:namaz_vakitleri/main.dart';
 
 class AyarlarSayfasi extends StatelessWidget {
   const AyarlarSayfasi({super.key});
@@ -48,6 +49,34 @@ class AyarlarSayfasi extends StatelessWidget {
                   ],
                 ),
               ),
+            ),
+
+            const SizedBox(height: 10), // Araya ufak bir boşluk
+
+            // KARANLIK MOD KARTI
+            ValueListenableBuilder<ThemeMode>(
+              valueListenable: aktifTemaModu,
+              builder: (context, aktifMod, child) {
+                bool karanlikMi = aktifMod == ThemeMode.dark;
+                
+                return Card(
+                  color: Theme.of(context).cardColor,
+                  child: SwitchListTile(
+                    activeColor: Theme.of(context).colorScheme.primary,
+                    secondary: Icon(
+                      karanlikMi ? Icons.nightlight_round : Icons.wb_sunny, 
+                      color: karanlikMi ? Colors.amber.shade300 : Colors.orange, 
+                      size: 30
+                    ),
+                    title: Text('dark_mode'.tr(), style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 16)),
+                    value: karanlikMi,
+                    onChanged: (bool isDark) {
+                      aktifTemaModu.value = isDark ? ThemeMode.dark : ThemeMode.light;
+                      temaModunuKaydet(isDark); // Hafızaya yaz
+                    },
+                  ),
+                );
+              }
             ),
             
             // İPUCU: İleride AnaSayfa'nın AppBar'ındaki "Tema Seçimi" ikonunu da 

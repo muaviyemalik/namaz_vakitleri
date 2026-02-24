@@ -524,22 +524,39 @@ Future<void> _widgetHadisiniGuncelle() async {
           ),
 
           PopupMenuButton<Color>(
-            icon: const Icon(Icons.palette), // Fırça paleti ikonu
-            tooltip: 'theme'.tr(),
-            // onSelected: Listeden bir renk seçildiğinde çalışır.
+            icon: const Icon(Icons.palette), 
+            tooltip: 'select_theme'.tr(),
             onSelected: (Color yeniRenk) {
-  seciliTemaRengi.value = yeniRenk; // Ekranı günceller
-  temaRenginiKaydet(yeniRenk);     // YENİ: Hafızaya yazar
-},
-            // Seçenekleri oluşturuyoruz:
-            itemBuilder: (BuildContext context) => <PopupMenuEntry<Color>>[
-               PopupMenuItem<Color>(value: Colors.teal, child: Text('theme_teal'.tr())),
-               PopupMenuItem<Color>(value: Colors.blue, child: Text('theme_blue'.tr())),
-               PopupMenuItem<Color>(value: Colors.deepPurple, child: Text('theme_purple'.tr())),
-               PopupMenuItem<Color>(value: Colors.orange, child: Text('theme_orange'.tr())),
-               PopupMenuItem<Color>(value: Colors.brown, child: Text('theme_brown'.tr())),
-               PopupMenuItem<Color>(value: Color.fromARGB(255, 248, 108, 204), child:Text('theme_pink'.tr())),
-            ],
+              // O anki temanın ne olduğunu bul
+              bool karanlikMi = Theme.of(context).brightness == Brightness.dark;
+              
+              // Seçimi ona göre global değişkene yaz ve kaydet
+              if (karanlikMi) {
+                seciliTemaRengiKaranlik.value = yeniRenk;
+              } else {
+                seciliTemaRengiAydinlik.value = yeniRenk;
+              }
+              temaRenginiKaydet(yeniRenk, karanlikMi); 
+            },
+            // Menüyü de anlık temaya göre çiziyoruz!
+            itemBuilder: (BuildContext context) => Theme.of(context).brightness == Brightness.dark
+              ? <PopupMenuEntry<Color>>[
+                  // KARANLIK MOD RENKLERİ
+                  PopupMenuItem<Color>(value: Colors.indigo, child: Text('theme_dark_indigo'.tr())),
+                  PopupMenuItem<Color>(value: Colors.red.shade900, child: Text('theme_dark_crimson'.tr())),
+                  PopupMenuItem<Color>(value: Colors.green.shade900, child: Text('theme_dark_emerald'.tr())),
+                  PopupMenuItem<Color>(value: Colors.amber.shade700, child: Text('theme_dark_amber'.tr())),
+                  PopupMenuItem<Color>(value: Colors.deepPurple.shade900, child: Text('theme_dark_violet'.tr())),
+                ]
+              : <PopupMenuEntry<Color>>[
+                  // AYDINLIK MOD RENKLERİ
+                  PopupMenuItem<Color>(value: Colors.teal, child: Text('theme_teal'.tr())),
+                  PopupMenuItem<Color>(value: Colors.blue, child: Text('theme_blue'.tr())),
+                  PopupMenuItem<Color>(value: Colors.deepPurple, child: Text('theme_purple'.tr())),
+                  PopupMenuItem<Color>(value: Colors.orange, child: Text('theme_orange'.tr())),
+                  PopupMenuItem<Color>(value: Colors.brown, child: Text('theme_brown'.tr())),
+                  PopupMenuItem<Color>(value: const Color.fromARGB(255, 248, 108, 204), child: Text('theme_pink'.tr())),
+                ],
           ),
         ],
       ),

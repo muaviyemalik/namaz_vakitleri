@@ -41,5 +41,13 @@
   "language": "Uygulama Dili",
   "turkish": "Türkçe",
   "english": "İngilizce",
-  "chinese": "Çince"
+  "chinese": "Çince",
+  "dark_mode": "Karanlık Mod",
+  "theme_dark_indigo": "Gece Mavisi",
+  "theme_dark_crimson": "Kızıl Gece",
+  "theme_dark_emerald": "Zümrüt Ormanı",
+  "theme_dark_amber": "Kehribar Işıltısı",
+  "theme_dark_violet": "Koyu Menekşe",
+  "found_qible": "Kıbledesiniz !",
+  "turn_qible": "Kıbleyi Bulmak İçin Dönün"
 }
