@@ -533,12 +533,12 @@ Future<void> _widgetHadisiniGuncelle() async {
 },
             // Seçenekleri oluşturuyoruz:
             itemBuilder: (BuildContext context) => <PopupMenuEntry<Color>>[
-              const PopupMenuItem<Color>(value: Colors.teal, child: Text('theme_teal')),
-              const PopupMenuItem<Color>(value: Colors.blue, child: Text('theme_blue')),
-              const PopupMenuItem<Color>(value: Colors.deepPurple, child: Text('theme_purple')),
-              const PopupMenuItem<Color>(value: Colors.orange, child: Text('theme_orange')),
-              const PopupMenuItem<Color>(value: Colors.brown, child: Text('theme_brown')),
-              const PopupMenuItem<Color>(value: Color.fromARGB(255, 248, 108, 204), child:Text('theme_pink')),
+               PopupMenuItem<Color>(value: Colors.teal, child: Text('theme_teal'.tr())),
+               PopupMenuItem<Color>(value: Colors.blue, child: Text('theme_blue'.tr())),
+               PopupMenuItem<Color>(value: Colors.deepPurple, child: Text('theme_purple'.tr())),
+               PopupMenuItem<Color>(value: Colors.orange, child: Text('theme_orange'.tr())),
+               PopupMenuItem<Color>(value: Colors.brown, child: Text('theme_brown'.tr())),
+               PopupMenuItem<Color>(value: Color.fromARGB(255, 248, 108, 204), child:Text('theme_pink'.tr())),
             ],
           ),
         ],
