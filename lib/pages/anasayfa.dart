@@ -122,26 +122,35 @@ class _AnaSayfaState extends State<AnaSayfa> {
   }
 
   // --- YENİ EKLENEN: BİLDİRİM GÖNDERME FONKSİYONU ---
-  Future<void> _vakitBildirimiGonder() async {
+  Future<void> _vakitBildirimiGonder({bool erkenUyariMi = false}) async {
+    // Hafızadaki erken uyarı dakikasını çekiyoruz (15, 30 veya 45)
+    int erkenDakika = erkenUyariSuresi.value;
+    
+    // YENİ: Başlık ve içerik, erken uyarı olup olmadığına göre değişiyor
+    String baslik = erkenUyariMi ? 'early_warning'.tr() : 'Vakit Geldi!';
+    String icerik = erkenUyariMi 
+        ? '${siradakiVakitIsmi.tr()} vaktine $erkenDakika dakika kaldı. Hazırlanma vakti!' 
+        : '${siradakiVakitIsmi.tr()} vakti girdi. Haydi namaza!';
+
     const AndroidNotificationDetails androidDetay = AndroidNotificationDetails(
       'ezan_kanali', 
       'Ezan Vakitleri',
-      channelDescription: 'Vakit girdiğinde haber verir',
+      channelDescription: 'Vakit girdiğinde veya yaklaşırken haber verir',
       importance: Importance.max,
       priority: Priority.high,
     );
     const LinuxNotificationDetails linuxDetay = LinuxNotificationDetails();
 
-    const NotificationDetails bildirimDetaylari = NotificationDetails(
+    final NotificationDetails bildirimDetaylari = NotificationDetails(
       android: androidDetay, 
       linux: linuxDetay
     );
 
-    // Kütüphanenin beklediği tam format:
     await bildirimServisi.show(
-      id: 0, 
-      title: 'Vakit Geldi!', 
-      body: '$siradakiVakitIsmi vakti girdi. Haydi namaza!', 
+      // Erken uyarıların ID'sini 1 yapıyoruz ki, asıl ezan bildirimi geldiğinde onu ezmesin, ayrı düşsün
+      id: erkenUyariMi ? 1 : 0, 
+      title: baslik, 
+      body: icerik, 
       notificationDetails: bildirimDetaylari,
     );
   }
@@ -423,35 +432,42 @@ Future<void> _widgetHadisiniGuncelle() async {
     }
 
     // EDGE CASE (Uç İhtimal): Saat 23:00 ve Yatsı okundu. İleride vakit yok.
-    // Bu durumda sıradaki vakit, YARININ İmsak vaktidir.
     if (siradakiVakitZamani == null) {
-      siradakiVakitAd = 'İmsak'; 
+      siradakiVakitAd = 'İmsak';
       List<String> imsakSaat = vakitler!['Fajr'].split(':');
-      // Bugüne 1 gün ekleyip (add) yarının tarihini elde ediyoruz.
       siradakiVakitZamani = DateTime(suAn.year, suAn.month, suAn.day, int.parse(imsakSaat[0]), int.parse(imsakSaat[1])).add(const Duration(days: 1));
     }
 
-    // İki zaman arasındaki farkı bul ve formatla (00:00:00 görünümü için padLeft kullanıyoruz)
+    // İki zaman arasındaki farkı bul ve formatla
     Duration fark = siradakiVakitZamani.difference(suAn);
     String formatliFark = '${fark.inHours.toString().padLeft(2, '0')}:${(fark.inMinutes % 60).toString().padLeft(2, '0')}:${(fark.inSeconds % 60).toString().padLeft(2, '0')}';
     
-    // --- GÜNCELLENEN: GÜVENLİ OTOMATİK BİLDİRİM ---
+    // --- 1. NORMAL BİLDİRİM TETİĞİ (Tam Vakit Girdiğinde) ---
     if (formatliFark == "00:00:00") {
-      // Sadece o saniyede bir kez çalışması için kontrol
       _vakitBildirimiGonder();
+    }
+
+    // --- 2. YENİ: ERKEN UYARI TETİĞİ (Zaman Makinesi) ---
+    int erkenDakika = erkenUyariSuresi.value;
+    if (erkenDakika > 0) {
+      int erkenUyariSaniyesi = erkenDakika * 60; // Seçilen dakikayı saniyeye çevir (Örn: 15 * 60 = 900)
+      
+      // Kalan toplam saniye (fark.inSeconds), tam olarak erken uyarı saniyesine eşitse bildirim gönder.
+      if (fark.inSeconds == erkenUyariSaniyesi) {
+         _vakitBildirimiGonder(erkenUyariMi: true); 
+      }
     }
 
     // Ekranda değişen sadece bu iki değişken olduğu için sadece bunları setState içine alıyoruz.
     setState(() { siradakiVakitIsmi = siradakiVakitAd; kalanSureMetni = formatliFark; });
 
+    // Widget Güncellemesi
     if (Platform.isAndroid || Platform.isIOS) {
       HomeWidget.saveWidgetData<String>('kayitli_vakit_ad', siradakiVakitAd);
-      
       String siradakiVakitSaati = vakitListesi[siradakiVakitAd] ?? vakitler!['Fajr'];
-      // YENİ EKLENEN: Vakit değiştiyse Ana Ekran Widget'ına yeni vakti gönder
       HomeWidget.saveWidgetData<String>('kayitli_vakit_saat', siradakiVakitSaati);
       HomeWidget.updateWidget(name: 'VakitWidget');
-  }
+    }
   }
 
   // 9. EKRAN ÇİZİMİ (UI)
