@@ -1,0 +1,9 @@
+{
+  "app_name": "Namaz Vakitleri",
+  "times": "Vakitler",
+  "special_days": "Özel Günler",
+  "qibla": "Kıble",
+  "qibla_found": "Kıble'desiniz",
+  "qibla_search": "Kıbleyi Bulmak İçin Dönün",
+  "loading": "Yükleniyor..."
+}

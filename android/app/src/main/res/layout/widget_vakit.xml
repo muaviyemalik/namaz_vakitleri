@@ -1,0 +1,38 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF"
+    android:padding="16dp"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/tv_vakit_baslik"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sıradaki Vakit"
+        android:textColor="#757575"
+        android:textSize="12sp"
+        android:textAllCaps="true"
+        android:letterSpacing="0.1" />
+
+    <TextView
+        android:id="@+id/tv_vakit_ad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:text="Vakit Bekleniyor"
+        android:textStyle="bold"
+        android:textColor="#004D40"
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/tv_vakit_saat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:text="--:--"
+        android:textStyle="bold"
+        android:textColor="#009688"
+        android:textSize="28sp" />
+</LinearLayout>

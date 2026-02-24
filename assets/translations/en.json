@@ -1,0 +1,9 @@
+{
+  "app_name": "Prayer Times",
+  "times": "Times",
+  "special_days": "Special Days",
+  "qibla": "Qibla",
+  "qibla_found": "You are facing the Qibla",
+  "qibla_search": "Turn to find the Qibla",
+  "loading": "Loading..."
+}

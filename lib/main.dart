@@ -14,6 +14,8 @@ import 'package:share_plus/share_plus.dart'; //ayet paylaşabilmek için
 import 'dart:math' as math; // Trigonometrik Kıble hesaplamaları için
 import 'package:flutter/services.dart'; // HapticFeedback (Titreşim) için
 import 'package:flutter_compass/flutter_compass.dart'; // Pusula sensörü için
+import 'package:home_widget/home_widget.dart'; //widget için
+import 'package:easy_localization/easy_localization.dart'; //yabancı dil desteği için
 
 // --- TEMA YÖNETİMİ ---
 // ValueNotifier: İçindeki değer (renk) değiştiğinde, onu dinleyen widget'lara 
@@ -50,7 +52,9 @@ Future<void> temaRenginiYukle() async {
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   
-  // YENİ: Saat dilimi (timezone) veritabanını başlat
+  // YENİ: Dil motorunu başlat
+  await EasyLocalization.ensureInitialized();
+
   tz.initializeTimeZones();
   tz.setLocalLocation(tz.getLocation('Europe/Istanbul'));
 
@@ -61,7 +65,15 @@ void main() async {
   await bildirimServisi.initialize(settings: baslangicAyarlari);
   await temaRenginiYukle();
 
-  runApp(const NamazVakitleriApp());
+  // YENİ: Uygulamayı EasyLocalization sarmalayıcısı ile çalıştır
+  runApp(
+    EasyLocalization(
+      supportedLocales: const [Locale('tr'), Locale('en')], // Desteklenen diller
+      path: 'assets/translations', // JSON dosyalarının olduğu klasör
+      fallbackLocale: const Locale('tr'), // Cihaz farklı bir dildeyse (örn: Almanca) varsayılan olarak Türkçe aç
+      child: const NamazVakitleriApp(),
+    ),
+  );
 }
 
 // 3. UYGULAMANIN KÖK DİZİNİ (Root Widget)
@@ -78,6 +90,12 @@ class NamazVakitleriApp extends StatelessWidget {
       builder: (context, aktifRenk, child) {
         return MaterialApp(
           debugShowCheckedModeBanner: false,
+
+          // YENİ: Dil delegasyonları ve ayarları
+          localizationsDelegates: context.localizationDelegates,
+          supportedLocales: context.supportedLocales,
+          locale: context.locale,
+
           title: 'Namaz Vakitleri',
           theme: ThemeData(
             // seedColor kısmına artık sabit 'Colors.teal' yerine 'aktifRenk' veriyoruz.
@@ -133,10 +151,10 @@ class _AnaMenuState extends State<AnaMenu> {
         // Temanın dinamik rengini alt menüye de yansıtıyoruz
         selectedItemColor: Theme.of(context).colorScheme.primary,
         unselectedItemColor: Colors.grey,
-        items: const [
+        items:  [
           BottomNavigationBarItem(
             icon: Icon(Icons.access_time),
-            label: 'Vakitler',
+            label: 'times'.tr(),
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.event),
@@ -316,6 +334,57 @@ class _AnaSayfaState extends State<AnaSayfa> {
     );
   }
 
+Future<void> _widgetAyetiniGuncelle() async {
+    // 1. Ayet Havuzumuzu buraya da ekliyoruz
+    final List<Map<String, String>> ayetler = [
+      {"sure": "Bakara Suresi, 152. Ayet", "meal": "Öyleyse yalnız beni anın ki ben de sizi anayım. Bana şükredin, sakın nankörlük etmeyin."},
+      {"sure": "İnşirah Suresi, 5-6. Ayet", "meal": "Elbette zorluğun yanında bir kolaylık vardır. Gerçekten, zorlukla beraber bir kolaylık daha vardır."},
+      {"sure": "Tâhâ Suresi, 46. Ayet", "meal": "Korkmayın! Çünkü ben sizinle beraberim; işitirim ve görürüm."},
+      {"sure": "Zümer Suresi, 53. Ayet", "meal": "Ey kendi aleyhlerine haddi aşan kullarım! Allah'ın rahmetinden ümidinizi kesmeyin."},
+      {"sure": "Rad Suresi, 28. Ayet", "meal": "Onlar, inananlar ve kalpleri Allah'ı anmakla huzura kavuşanlardır. Biliniz ki, kalpler ancak Allah'ı anmakla huzur bulur."},
+    ];
+
+    // Yılın gününe göre ayeti seçiyoruz (Karttaki mantığın aynısı)
+    final suAn = DateTime.now();
+    final yilinIlkGunu = DateTime(suAn.year, 1, 1);
+    final kacinciGun = suAn.difference(yilinIlkGunu).inDays;
+    final secilenAyet = ayetler[kacinciGun % ayetler.length];
+
+    // Gösterilecek tam metni hazırla
+    String widgetMetni = '"${secilenAyet["meal"]}"\n\n- ${secilenAyet["sure"]}';
+
+    // 2. Veriyi Android'in (Kotlin) okuyacağı o ortak hafızaya KAYDET!
+    await HomeWidget.saveWidgetData<String>('kayitli_ayet', widgetMetni);
+    
+    // 3. Android'e "Hey! AyetWidget'ı yenile!" diye sinyal gönder
+    await HomeWidget.updateWidget(name: 'AyetWidget');
+  }
+
+Future<void> _widgetHadisiniGuncelle() async {
+    // 1. Hadis Havuzu (Ekrandakiyle aynı)
+    final List<Map<String, String>> hadisler = [
+      {"kaynak": "Buhârî, Îmân, 1", "hadis": "Ameller niyetlere göredir. Herkes sadece niyetinin karşılığını alır."},
+      {"kaynak": "Müslim, Birr, 32", "hadis": "Kim bir müminin dünyevi sıkıntılarından birini giderirse, Allah da onun kıyamet günündeki sıkıntılarından birini giderir."},
+      {"kaynak": "Tirmizî, Birr, 16", "hadis": "Sizin en hayırlınız, ahlâkı en güzel olanınızdır."},
+      {"kaynak": "Ebû Dâvûd, Edeb, 60", "hadis": "İnsanlara merhamet etmeyene Allah merhamet etmez."},
+      {"kaynak": "Buhârî, Rikak, 3", "hadis": "İki nimet vardır ki insanların çoğu bu konuda aldanmıştır: Sağlık ve boş vakit."},
+      {"kaynak": "Buhârî, İlim, 10", "hadis": "Allah, kimin için hayır dilerse onu dinde derin anlayış sahibi kılar."},
+      {"kaynak": "Müslim, Îmân, 71", "hadis": "Hiçbiriniz, kendisi için istediğini kardeşi için de istemedikçe (gerçek manada) iman etmiş olmaz."},
+    ];
+
+    final suAn = DateTime.now();
+    final yilinIlkGunu = DateTime(suAn.year, 1, 1);
+    final kacinciGun = suAn.difference(yilinIlkGunu).inDays;
+    final secilenHadis = hadisler[kacinciGun % hadisler.length];
+
+    String widgetMetni = '"${secilenHadis["hadis"]}"\n\n- ${secilenHadis["kaynak"]}';
+
+    // 2. Android'in ortak hafızasına "kayitli_hadis" adıyla kaydet
+    await HomeWidget.saveWidgetData<String>('kayitli_hadis', widgetMetni);
+    
+    // 3. Android'e HadisWidget'ı güncellemesini söyle
+    await HomeWidget.updateWidget(name: 'HadisWidget');
+  }
   // --- YENİ EKLENEN: OTOMATİK KONUM BULMA MOTORU ---
   // --- YENİ GÜNCELLENEN: OTOMATİK KONUM BULMA MOTORU ---
   Future<void> _otomatikKonumBul() async {
@@ -453,6 +522,10 @@ class _AnaSayfaState extends State<AnaSayfa> {
 
         // YENİ: Alarmları sisteme kur!
         _gunlukBildirimleriZamanla();
+
+        //Widget için
+        _widgetAyetiniGuncelle();
+        _widgetHadisiniGuncelle();
         
         return true; // <--- İŞLEM BAŞARILI, TRUE DÖNDÜR
       } else {
@@ -570,6 +643,15 @@ class _AnaSayfaState extends State<AnaSayfa> {
 
     // Ekranda değişen sadece bu iki değişken olduğu için sadece bunları setState içine alıyoruz.
     setState(() { siradakiVakitIsmi = siradakiVakitAd; kalanSureMetni = formatliFark; });
+
+    // YENİ EKLENEN: Vakit değiştiyse Ana Ekran Widget'ına yeni vakti gönder
+    HomeWidget.saveWidgetData<String>('kayitli_vakit_ad', siradakiVakitAd);
+    
+    // API'den "16:35" olan formatı bulup gönderiyoruz
+    String siradakiVakitSaati = vakitListesi[siradakiVakitAd] ?? vakitler!['Fajr'];
+    HomeWidget.saveWidgetData<String>('kayitli_vakit_saat', siradakiVakitSaati);
+    
+    HomeWidget.updateWidget(name: 'VakitWidget');
   }
 
   // 9. EKRAN ÇİZİMİ (UI)
@@ -1435,7 +1517,7 @@ class _KibleSayfasiState extends State<KibleSayfasi> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Kıble', style: TextStyle(fontWeight: FontWeight.bold)),
+        title: Text('qibla'.tr(), style: const TextStyle(fontWeight: FontWeight.bold)),
         centerTitle: true,
         backgroundColor: Theme.of(context).colorScheme.primary,
         foregroundColor: Colors.white,
