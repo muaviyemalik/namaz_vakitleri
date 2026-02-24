@@ -1,21 +1,3 @@
-# namaz_vakitleri
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
 # 🕌 Namaz Vakitleri & Kıble Pusulası (Prayer Times App)
 
 Modern arayüzü, temiz kod mimarisi ve kapsamlı özellikleriyle Flutter kullanılarak geliştirilmiş çok dilli bir İslami yaşam uygulaması. Uygulama, kullanıcılara namaz vakitlerini takip etme, kıble yönünü bulma, günlük ayet/hadis okuma ve dini günleri takip etme imkanı sunar.
@@ -64,3 +46,11 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 1. Repoyu klonlayın:
    ```bash
    git clone [https://github.com/KULLANICI_ADIN/namaz_vakitleri.git](https://github.com/KULLANICI_ADIN/namaz_vakitleri.git)
+2. Proje dizinine gidin ve bağımlılıkları indirin:
+   ```bash
+   cd namaz_vakitleri
+   flutter pub get
+3. Uygulamayı derleyin ve çalıştırın:
+   ```bash
+   flutter run
+(Not: Widget ve arka plan bildirim özelliklerinin tam çalışması için gerçek bir Android/iOS cihazda test edilmesi önerilir.)
