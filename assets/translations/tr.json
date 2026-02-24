@@ -7,5 +7,14 @@
   "qibla_search": "Kıbleyi Bulmak İçin Dönün",
   "loading": "Yükleniyor...",
   "ayah_of_the_day": "Günün Ayeti",
-  "hadith_of_the_day": "Günün Hadisi"
+  "hadith_of_the_day": "Günün Hadisi",
+  "fajr": "İmsak",
+  "sunrise": "Güneş",
+  "dhuhr": "Öğle",
+  "asr": "İkindi",
+  "maghrib": "Akşam",
+  "isha": "Yatsı",
+  "next_time": "Sıradaki Vakit",
+  "time_remaining": "Kalan Süre",
+  "today_times": "Bugünün Vakitleri"
 }

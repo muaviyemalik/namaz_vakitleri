@@ -7,5 +7,14 @@
   "qibla_search": "Turn to find the Qibla",
   "loading": "Loading...",
   "ayah_of_the_day": "Ayah of the Day",
-  "hadith_of_the_day": "Hadith of the Day"
+  "hadith_of_the_day": "Hadith of the Day",
+  "fajr": "Fajr",
+  "sunrise": "Sunrise",
+  "dhuhr": "Dhuhr",
+  "asr": "Asr",
+  "maghrib": "Maghrib",
+  "isha": "Isha",
+  "next_time": "Next Prayer",
+  "time_remaining": "Time Remaining",
+  "today_times": "Today's Times"
 }
