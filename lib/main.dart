@@ -335,54 +335,72 @@ class _AnaSayfaState extends State<AnaSayfa> {
   }
 
 Future<void> _widgetAyetiniGuncelle() async {
-    // 1. Ayet Havuzumuzu buraya da ekliyoruz
-    final List<Map<String, String>> ayetler = [
+    String aktifDil = context.locale.languageCode;
+
+    final List<Map<String, String>> ayetListesiTR = [
       {"sure": "Bakara Suresi, 152. Ayet", "meal": "Öyleyse yalnız beni anın ki ben de sizi anayım. Bana şükredin, sakın nankörlük etmeyin."},
       {"sure": "İnşirah Suresi, 5-6. Ayet", "meal": "Elbette zorluğun yanında bir kolaylık vardır. Gerçekten, zorlukla beraber bir kolaylık daha vardır."},
       {"sure": "Tâhâ Suresi, 46. Ayet", "meal": "Korkmayın! Çünkü ben sizinle beraberim; işitirim ve görürüm."},
       {"sure": "Zümer Suresi, 53. Ayet", "meal": "Ey kendi aleyhlerine haddi aşan kullarım! Allah'ın rahmetinden ümidinizi kesmeyin."},
-      {"sure": "Rad Suresi, 28. Ayet", "meal": "Onlar, inananlar ve kalpleri Allah'ı anmakla huzura kavuşanlardır. Biliniz ki, kalpler ancak Allah'ı anmakla huzur bulur."},
+      {"sure": "Rad Suresi, 28. Ayet", "meal": "Onlar, inananlar ve kalpleri Allah'ı anmakla huzura kavuşanlardır. Biliniz ki, kalpler ancak Allah'ı anmakla huzur bulur."}
     ];
 
-    // Yılın gününe göre ayeti seçiyoruz (Karttaki mantığın aynısı)
+    final List<Map<String, String>> ayetListesiEN = [
+      {"sure": "Surah Al-Baqarah, 152", "meal": "So remember Me; I will remember you. And be grateful to Me and do not deny Me."},
+      {"sure": "Surah Ash-Sharh, 5-6", "meal": "For indeed, with hardship [will be] ease. Indeed, with hardship [will be] ease."},
+      {"sure": "Surah Taha, 46", "meal": "Fear not. Indeed, I am with you both; I hear and I see."},
+      {"sure": "Surah Az-Zumar, 53", "meal": "O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allah."},
+      {"sure": "Surah Ar-Ra'd, 28", "meal": "Those who have believed and whose hearts are assured by the remembrance of Allah. Unquestionably, by the remembrance of Allah hearts are assured."}
+    ];
+
+    final List<Map<String, String>> aktifListe = (aktifDil == 'en') ? ayetListesiEN : ayetListesiTR;
+
     final suAn = DateTime.now();
     final yilinIlkGunu = DateTime(suAn.year, 1, 1);
     final kacinciGun = suAn.difference(yilinIlkGunu).inDays;
-    final secilenAyet = ayetler[kacinciGun % ayetler.length];
+    final secilenAyet = aktifListe[kacinciGun % aktifListe.length];
 
     // Gösterilecek tam metni hazırla
     String widgetMetni = '"${secilenAyet["meal"]}"\n\n- ${secilenAyet["sure"]}';
-
     // 2. Veriyi Android'in (Kotlin) okuyacağı o ortak hafızaya KAYDET!
     await HomeWidget.saveWidgetData<String>('kayitli_ayet', widgetMetni);
-    
     // 3. Android'e "Hey! AyetWidget'ı yenile!" diye sinyal gönder
     await HomeWidget.updateWidget(name: 'AyetWidget');
   }
 
 Future<void> _widgetHadisiniGuncelle() async {
-    // 1. Hadis Havuzu (Ekrandakiyle aynı)
-    final List<Map<String, String>> hadisler = [
+    String aktifDil = context.locale.languageCode;
+
+    final List<Map<String, String>> hadisListesiTR = [
       {"kaynak": "Buhârî, Îmân, 1", "hadis": "Ameller niyetlere göredir. Herkes sadece niyetinin karşılığını alır."},
       {"kaynak": "Müslim, Birr, 32", "hadis": "Kim bir müminin dünyevi sıkıntılarından birini giderirse, Allah da onun kıyamet günündeki sıkıntılarından birini giderir."},
       {"kaynak": "Tirmizî, Birr, 16", "hadis": "Sizin en hayırlınız, ahlâkı en güzel olanınızdır."},
       {"kaynak": "Ebû Dâvûd, Edeb, 60", "hadis": "İnsanlara merhamet etmeyene Allah merhamet etmez."},
       {"kaynak": "Buhârî, Rikak, 3", "hadis": "İki nimet vardır ki insanların çoğu bu konuda aldanmıştır: Sağlık ve boş vakit."},
       {"kaynak": "Buhârî, İlim, 10", "hadis": "Allah, kimin için hayır dilerse onu dinde derin anlayış sahibi kılar."},
-      {"kaynak": "Müslim, Îmân, 71", "hadis": "Hiçbiriniz, kendisi için istediğini kardeşi için de istemedikçe (gerçek manada) iman etmiş olmaz."},
+      {"kaynak": "Müslim, Îmân, 71", "hadis": "Hiçbiriniz, kendisi için istediğini kardeşi için de istemedikçe (gerçek manada) iman etmiş olmaz."}
     ];
+
+    final List<Map<String, String>> hadisListesiEN = [
+      {"kaynak": "Sahih al-Bukhari, Belief, 1", "hadis": "Deeds are considered by their intentions, and a person will get the reward according to his intention."},
+      {"kaynak": "Sahih Muslim, Piety, 32", "hadis": "Whoever relieves a believer of some worldly distress, Allah will relieve him of some of the distress of the Day of Resurrection."},
+      {"kaynak": "Jami` at-Tirmidhi, Righteousness, 16", "hadis": "The best among you are those who have the best manners and character."},
+      {"kaynak": "Sunan Abi Dawud, General Behavior, 60", "hadis": "He who does not show mercy to people, Allah will not show mercy to him."},
+      {"kaynak": "Sahih al-Bukhari, Softening of the Hearts, 3", "hadis": "There are two blessings which many people lose: health and free time."},
+      {"kaynak": "Sahih al-Bukhari, Knowledge, 10", "hadis": "If Allah wants to do good to a person, He makes him comprehend the religion."},
+      {"kaynak": "Sahih Muslim, Faith, 71", "hadis": "None of you truly believes until he loves for his brother what he loves for himself."}
+    ];
+
+    final List<Map<String, String>> aktifListe = (aktifDil == 'en') ? hadisListesiEN : hadisListesiTR;
 
     final suAn = DateTime.now();
     final yilinIlkGunu = DateTime(suAn.year, 1, 1);
     final kacinciGun = suAn.difference(yilinIlkGunu).inDays;
-    final secilenHadis = hadisler[kacinciGun % hadisler.length];
+    final secilenHadis = aktifListe[kacinciGun % aktifListe.length];
 
     String widgetMetni = '"${secilenHadis["hadis"]}"\n\n- ${secilenHadis["kaynak"]}';
 
-    // 2. Android'in ortak hafızasına "kayitli_hadis" adıyla kaydet
     await HomeWidget.saveWidgetData<String>('kayitli_hadis', widgetMetni);
-    
-    // 3. Android'e HadisWidget'ı güncellemesini söyle
     await HomeWidget.updateWidget(name: 'HadisWidget');
   }
   // --- YENİ EKLENEN: OTOMATİK KONUM BULMA MOTORU ---
@@ -825,118 +843,36 @@ Future<void> _widgetHadisiniGuncelle() async {
     );
   }
   Widget _gununAyetiKarti() {
-    // AYET HAVUZUNU DOĞRUDAN FONKSİYONUN İÇİNE ALDIK (Hata riski sıfırlandı)
-    final List<Map<String, String>> ayetListesi = [
-      {
-        "sure": "Bakara Suresi, 152. Ayet",
-        "meal": "Öyleyse yalnız beni anın ki ben de sizi anayım. Bana şükredin, sakın nankörlük etmeyin."
-      },
-      {
-        "sure": "İnşirah Suresi, 5-6. Ayet",
-        "meal": "Elbette zorluğun yanında bir kolaylık vardır. Gerçekten, zorlukla beraber bir kolaylık daha vardır."
-      },
-      {
-        "sure": "Tâhâ Suresi, 46. Ayet",
-        "meal": "Korkmayın! Çünkü ben sizinle beraberim; işitirim ve görürüm."
-      },
-      {
-        "sure": "Zümer Suresi, 53. Ayet",
-        "meal": "Ey kendi aleyhlerine haddi aşan kullarım! Allah'ın rahmetinden ümidinizi kesmeyin."
-      },
-      {
-        "sure": "Rad Suresi, 28. Ayet",
-        "meal": "Onlar, inananlar ve kalpleri Allah'ı anmakla huzura kavuşanlardır. Biliniz ki, kalpler ancak Allah'ı anmakla huzur bulur."
-      },
-      {
-        "sure": "Bakara Suresi, 153. Ayet",
-        "meal": "Ey iman edenler! Sabır ve namazla yardım dileyin. Şüphesiz Allah sabredenlerin yanındadır."
-      },
-      {
-        "sure": "Tevbe Suresi, 40. Ayet",
-        "meal": "Üzülme, çünkü Allah bizimle beraberdir."
-      },
-      {
-        "sure": "Duhâ Suresi, 3. Ayet",
-        "meal": "Rabbin seni ne terk etti, ne de sana darıldı."
-      },
-      {
-        "sure": "Talâk Suresi, 3. Ayet",
-        "meal": "Kim Allah’a tevekkül ederse, O kendisine yeter. Şüphesiz Allah, emrini yerine getirendir."
-      },
-      {
-        "sure": "Necm Suresi, 39. Ayet",
-        "meal": "Bilsin ki insan için kendi çalışmasından başka bir şey yoktur."
-      },
-      {
-        "sure": "İbrahim Suresi, 7. Ayet",
-        "meal": "Andolsun, eğer şükrederseniz elbette size nimetimi artırırım."
-      },
-      {
-        "sure": "Bakara Suresi, 216. Ayet",
-        "meal": "Sizin hayır bildiğinizde şer, şer bildiğinizde hayır vardır. Allah bilir, siz bilemezsiniz."
-      },
-      {
-        "sure": "Mü’minûn Suresi, 118. Ayet",
-        "meal": "De ki: Rabbim, bağışla ve merhamet et! Sen merhametlilerin en hayırlısısın."
-      },
-      {
-        "sure": "Yusuf Suresi, 87. Ayet",
-        "meal": "Allah'ın rahmetinden ümit kesmeyin. Çünkü kafirler topluluğundan başkası Allah'ın rahmetinden ümit kesmez."
-      },
-      {
-        "sure": "İnşirah Suresi, 7-8. Ayet",
-        "meal": "Boş kaldın mı hemen başka bir işe koyul ve yalnız Rabbine yönel."
-      },
-      {
-        "sure": "Kaf Suresi, 16. Ayet",
-        "meal": "Andolsun, insanı biz yarattık ve nefsinin ona verdiği vesveseyi de biz biliriz. Çünkü biz ona şah damarından daha yakınız."
-      },
-      {
-        "sure": "Hicr Suresi, 99. Ayet",
-        "meal": "Sana ölüm gelinceye kadar Rabbine ibadet et."
-      },
-      {
-        "sure": "Ankebût Suresi, 69. Ayet",
-        "meal": "Bizim uğrumuzda cihat edenler var ya, biz onları mutlaka yollarımıza ileteceğiz."
-      },
-      {
-        "sure": "Bakara Suresi, 286. Ayet",
-        "meal": "Allah kimseye gücünün yettiğinden fazlasını yüklemez."
-      },
-      {
-        "sure": "Âl-i İmrân Suresi, 139. Ayet",
-        "meal": "Gevşemeyin, hüzünlenmeyin. Eğer (gerçekten) iman etmişseniz, üstün olan sizsiniz."
-      },
-      {
-        "sure": "En'âm Suresi, 17. Ayet",
-        "meal": "Eğer Allah sana bir zarar dokunduracak olsa, onu O'ndan başka giderecek yoktur."
-      },
-      {
-        "sure": "Mülk Suresi, 19. Ayet",
-        "meal": "Üstlerinde kanat çırparak uçan kuşlara bakmazlar mı? Onları (havada) Rahman olan Allah’tan başkası tutmuyor."
-      },
-      {
-        "sure": "Şuarâ Suresi, 80. Ayet",
-        "meal": "Hastalandığım zaman bana şifa veren O’dur."
-      },
-      {
-        "sure": "Nahl Suresi, 128. Ayet",
-        "meal": "Şüphesiz Allah, takva sahipleriyle ve iyilikte bulunanlarla beraberdir."
-      },
-      {
-        "sure": "Meryem Suresi, 96. Ayet",
-        "meal": "İnanıp hayırlı işler yapanlar için Rahman olan Allah, (gönüllerde) bir sevgi yaratacaktır."
-      }
+    // 1. O anki aktif dili buluyoruz ('tr' veya 'en')
+    String aktifDil = context.locale.languageCode;
+
+    // --- TÜRKÇE AYET HAVUZU ---
+    final List<Map<String, String>> ayetListesiTR = [
+      {"sure": "Bakara Suresi, 152. Ayet", "meal": "Öyleyse yalnız beni anın ki ben de sizi anayım. Bana şükredin, sakın nankörlük etmeyin."},
+      {"sure": "İnşirah Suresi, 5-6. Ayet", "meal": "Elbette zorluğun yanında bir kolaylık vardır. Gerçekten, zorlukla beraber bir kolaylık daha vardır."},
+      {"sure": "Tâhâ Suresi, 46. Ayet", "meal": "Korkmayın! Çünkü ben sizinle beraberim; işitirim ve görürüm."},
+      {"sure": "Zümer Suresi, 53. Ayet", "meal": "Ey kendi aleyhlerine haddi aşan kullarım! Allah'ın rahmetinden ümidinizi kesmeyin."},
+      {"sure": "Rad Suresi, 28. Ayet", "meal": "Onlar, inananlar ve kalpleri Allah'ı anmakla huzura kavuşanlardır. Biliniz ki, kalpler ancak Allah'ı anmakla huzur bulur."}
     ];
 
-    // 1. Yılın kaçıncı gününde olduğumuzu bul
+    // --- İNGİLİZCE AYET HAVUZU (Senin İngilizce pratik alanın!) ---
+    final List<Map<String, String>> ayetListesiEN = [
+      {"sure": "Surah Al-Baqarah, 152", "meal": "So remember Me; I will remember you. And be grateful to Me and do not deny Me."},
+      {"sure": "Surah Ash-Sharh, 5-6", "meal": "For indeed, with hardship [will be] ease. Indeed, with hardship [will be] ease."},
+      {"sure": "Surah Taha, 46", "meal": "Fear not. Indeed, I am with you both; I hear and I see."},
+      {"sure": "Surah Az-Zumar, 53", "meal": "O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allah."},
+      {"sure": "Surah Ar-Ra'd, 28", "meal": "Those who have believed and whose hearts are assured by the remembrance of Allah. Unquestionably, by the remembrance of Allah hearts are assured."}
+    ];
+
+    // 2. Dile göre doğru listeyi seç
+    final List<Map<String, String>> aktifListe = (aktifDil == 'en') ? ayetListesiEN : ayetListesiTR;
+
     final suAn = DateTime.now();
     final yilinIlkGunu = DateTime(suAn.year, 1, 1);
     final int kacinciGun = suAn.difference(yilinIlkGunu).inDays;
 
-    // 2. Modül işlemi (Artık liste burada olduğu için int hatası vermeyecek)
-    final int ayetIndeksi = kacinciGun % ayetListesi.length;
-    final Map<String, String> bugununAyeti = ayetListesi[ayetIndeksi];
+    final int ayetIndeksi = kacinciGun % aktifListe.length;
+    final Map<String, String> bugununAyeti = aktifListe[ayetIndeksi];
 
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 8.0),
@@ -955,23 +891,22 @@ Future<void> _widgetHadisiniGuncelle() async {
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  const Spacer(), // Yazıyı ortalamak için boşluk itici
+                  const Spacer(), 
                   Icon(Icons.format_quote, color: Theme.of(context).colorScheme.primary),
                   const SizedBox(width: 8),
-                  Text("Günün Ayeti", style: TextStyle(fontWeight: FontWeight.bold, color: Theme.of(context).colorScheme.primary, fontSize: 16)),
+                  // JSON'DAN BAŞLIĞI ÇEKİYORUZ
+                  Text("ayah_of_the_day".tr(), style: TextStyle(fontWeight: FontWeight.bold, color: Theme.of(context).colorScheme.primary, fontSize: 16)),
                   const SizedBox(width: 8),
                   Icon(Icons.format_quote, color: Theme.of(context).colorScheme.primary),
-                  const Spacer(), // Yazıyı ortalamak için boşluk itici
+                  const Spacer(), 
                   
-                  // YENİ: Paylaş Butonu
                   IconButton(
                     icon: Icon(Icons.share, color: Theme.of(context).colorScheme.primary, size: 20),
-                    tooltip: 'Ayeti Paylaş',
+                    tooltip: 'Paylaş',
                     padding: EdgeInsets.zero,
-                    constraints: const BoxConstraints(), // Butonun etrafındaki gereksiz boşluğu alır
+                    constraints: const BoxConstraints(),
                     onPressed: () {
-                      // Tıklandığında telefonun kendi paylaşım menüsünü açar
-                      Share.share('"${bugununAyeti["meal"]}"\n\n- ${bugununAyeti["sure"]}\n\nNamaz Vakitleri Uygulamasından paylaşıldı.');
+                      Share.share('"${bugununAyeti["meal"]}"\n\n- ${bugununAyeti["sure"]}\n\n${"app_name".tr()}');
                     },
                   ),
                 ],
@@ -995,123 +930,44 @@ Future<void> _widgetHadisiniGuncelle() async {
     );
   }
   Widget _gununHadisiKarti() {
-    // --- HADİS HAVUZU ---
-    final List<Map<String, String>> hadisListesi = [
-      {
-        "kaynak": "Buhârî, Îmân, 1",
-        "hadis": "Ameller niyetlere göredir. Herkes sadece niyetinin karşılığını alır."
-      },
-      {
-        "kaynak": "Müslim, Birr, 32",
-        "hadis": "Kim bir müminin dünyevi sıkıntılarından birini giderirse, Allah da onun kıyamet günündeki sıkıntılarından birini giderir."
-      },
-      {
-        "kaynak": "Tirmizî, Birr, 16",
-        "hadis": "Sizin en hayırlınız, ahlâkı en güzel olanınızdır."
-      },
-      {
-        "kaynak": "Ebû Dâvûd, Edeb, 60",
-        "hadis": "İnsanlara merhamet etmeyene Allah merhamet etmez."
-      },
-      {
-        "kaynak": "Buhârî, Rikak, 3",
-        "hadis": "İki nimet vardır ki insanların çoğu bu konuda aldanmıştır: Sağlık ve boş vakit."
-      },
-      {
-    "kaynak": "Buhârî, İlim, 10",
-    "hadis": "Allah, kimin için hayır dilerse onu dinde derin anlayış sahibi kılar."
-  },
-  {
-    "kaynak": "Müslim, Îmân, 71",
-    "hadis": "Hiçbiriniz, kendisi için istediğini kardeşi için de istemedikçe (gerçek manada) iman etmiş olmaz."
-  },
-  {
-    "kaynak": "Tirmizî, Zühd, 11",
-    "hadis": "Kendisini ilgilendirmeyen şeyleri terk etmesi, bir kişinin müslümanlığının güzelliğindendir."
-  },
-  {
-    "kaynak": "İbn Mâce, Mukaddime, 17",
-    "hadis": "İlim öğrenmek, her müslüman üzerine farzdır."
-  },
-  {
-    "kaynak": "Ebû Dâvûd, Edeb, 20",
-    "hadis": "Hayra vesile olan, o hayrı işlemiş gibidir."
-  },
-  {
-    "kaynak": "Buhârî, Edeb, 69",
-    "hadis": "Kolaylaştırınız, zorlaştırmayınız; müjdeleyiniz, nefret ettirmeyiniz."
-  },
-  {
-    "kaynak": "Müslim, Îmân, 164",
-    "hadis": "Müslüman, dilinden ve elinden insanların güvende olduğu kişidir."
-  },
-  {
-    "kaynak": "Tirmizî, Birr, 18",
-    "hadis": "Nerede olursan ol, Allah’tan kork. Kötülüğün peşinden hemen bir iyilik yap ki onu silsin."
-  },
-  {
-    "kaynak": "Ebû Dâvûd, Edeb, 7",
-    "hadis": "Küçüklerimize merhamet etmeyen, büyüklerimize saygı göstermeyen bizden değildir."
-  },
-  {
-    "kaynak": "Buhârî, Îmân, 1",
-    "hadis": "Doğruluktan ayrılmayın. Çünkü doğruluk iyiliğe, iyilik de cennete götürür."
-  },
-  {
-    "kaynak": "Müslim, Zikir, 38",
-    "hadis": "Dua, ibadetin özüdür."
-  },
-  {
-    "kaynak": "Tirmizî, Birr, 36",
-    "hadis": "Güler yüzle insanlara selam vermen de bir sadakadır."
-  },
-  {
-    "kaynak": "Buhârî, Edeb, 31",
-    "hadis": "Komşusu açken tok yatan bizden değildir."
-  },
-  {
-    "kaynak": "İbn Mâce, Zühd, 15",
-    "hadis": "Dünyada bir garip veya bir yolcu gibi ol."
-  },
-  {
-    "kaynak": "Müslim, Birr, 2",
-    "hadis": "İyilik, güzel ahlaktır. Günah ise vicdanını rahatsız eden şeydir."
-  },
-  {
-    "kaynak": "Ebû Dâvûd, Edeb, 81",
-    "hadis": "Bizi aldatan bizden değildir."
-  },
-  {
-    "kaynak": "Buhârî, Edeb, 18",
-    "hadis": "Söz taşıyan (koğuculuk yapan) cennete giremez."
-  },
-  {
-    "kaynak": "Tirmizî, Zühd, 52",
-    "hadis": "Zenginlik mal çokluğu değil, gönül zenginliğidir."
-  },
-  {
-    "kaynak": "Müslim, Îmân, 93",
-    "hadis": "Kalbinde zerre kadar kibir olan kimse cennete giremez."
-  },
-  {
-    "kaynak": "Buhârî, Edeb, 27",
-    "hadis": "Gerçek pehlivan, güreşte rakibini yenen değil, öfke anında kendine hâkim olandır."
-  }
+    // 1. O anki aktif dili buluyoruz
+    String aktifDil = context.locale.languageCode;
+
+    // --- TÜRKÇE HADİS HAVUZU ---
+    final List<Map<String, String>> hadisListesiTR = [
+      {"kaynak": "Buhârî, Îmân, 1", "hadis": "Ameller niyetlere göredir. Herkes sadece niyetinin karşılığını alır."},
+      {"kaynak": "Müslim, Birr, 32", "hadis": "Kim bir müminin dünyevi sıkıntılarından birini giderirse, Allah da onun kıyamet günündeki sıkıntılarından birini giderir."},
+      {"kaynak": "Tirmizî, Birr, 16", "hadis": "Sizin en hayırlınız, ahlâkı en güzel olanınızdır."},
+      {"kaynak": "Ebû Dâvûd, Edeb, 60", "hadis": "İnsanlara merhamet etmeyene Allah merhamet etmez."},
+      {"kaynak": "Buhârî, Rikak, 3", "hadis": "İki nimet vardır ki insanların çoğu bu konuda aldanmıştır: Sağlık ve boş vakit."},
+      {"kaynak": "Buhârî, İlim, 10", "hadis": "Allah, kimin için hayır dilerse onu dinde derin anlayış sahibi kılar."},
+      {"kaynak": "Müslim, Îmân, 71", "hadis": "Hiçbiriniz, kendisi için istediğini kardeşi için de istemedikçe (gerçek manada) iman etmiş olmaz."}
     ];
 
-    // Yılın kaçıncı gününde olduğumuzu buluyoruz
+    // --- İNGİLİZCE HADİS HAVUZU ---
+    final List<Map<String, String>> hadisListesiEN = [
+      {"kaynak": "Sahih al-Bukhari, Belief, 1", "hadis": "Deeds are considered by their intentions, and a person will get the reward according to his intention."},
+      {"kaynak": "Sahih Muslim, Piety, 32", "hadis": "Whoever relieves a believer of some worldly distress, Allah will relieve him of some of the distress of the Day of Resurrection."},
+      {"kaynak": "Jami` at-Tirmidhi, Righteousness, 16", "hadis": "The best among you are those who have the best manners and character."},
+      {"kaynak": "Sunan Abi Dawud, General Behavior, 60", "hadis": "He who does not show mercy to people, Allah will not show mercy to him."},
+      {"kaynak": "Sahih al-Bukhari, Softening of the Hearts, 3", "hadis": "There are two blessings which many people lose: health and free time."},
+      {"kaynak": "Sahih al-Bukhari, Knowledge, 10", "hadis": "If Allah wants to do good to a person, He makes him comprehend the religion."},
+      {"kaynak": "Sahih Muslim, Faith, 71", "hadis": "None of you truly believes until he loves for his brother what he loves for himself."}
+    ];
+
+    // 2. Dile göre doğru listeyi seç
+    final List<Map<String, String>> aktifListe = (aktifDil == 'en') ? hadisListesiEN : hadisListesiTR;
+
     final suAn = DateTime.now();
     final yilinIlkGunu = DateTime(suAn.year, 1, 1);
     final int kacinciGun = suAn.difference(yilinIlkGunu).inDays;
 
-    // Modül işlemi ile sıradaki hadisi seçiyoruz
-    final int hadisIndeksi = kacinciGun % hadisListesi.length;
-    final Map<String, String> bugununHadisi = hadisListesi[hadisIndeksi];
+    final int hadisIndeksi = kacinciGun % aktifListe.length;
+    final Map<String, String> bugununHadisi = aktifListe[hadisIndeksi];
 
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 8.0),
       child: Card(
-        // Ayet kartından biraz farklı hissettirmesi için opacity (saydamlık) değerini biraz düşürdük
         color: Theme.of(context).colorScheme.secondaryContainer.withOpacity(0.5), 
         elevation: 0,
         shape: RoundedRectangleBorder(
@@ -1127,21 +983,21 @@ Future<void> _widgetHadisiniGuncelle() async {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   const Spacer(),
-                  Icon(Icons.menu_book, color: Theme.of(context).colorScheme.secondary), // Kitap ikonu
+                  Icon(Icons.menu_book, color: Theme.of(context).colorScheme.secondary),
                   const SizedBox(width: 8),
-                  Text("Günün Hadisi", style: TextStyle(fontWeight: FontWeight.bold, color: Theme.of(context).colorScheme.secondary, fontSize: 16)),
+                  // JSON'DAN BAŞLIĞI ÇEKİYORUZ
+                  Text("hadith_of_the_day".tr(), style: TextStyle(fontWeight: FontWeight.bold, color: Theme.of(context).colorScheme.secondary, fontSize: 16)),
                   const SizedBox(width: 8),
                   Icon(Icons.menu_book, color: Theme.of(context).colorScheme.secondary),
                   const Spacer(),
                   
-                  // Paylaş Butonu
                   IconButton(
                     icon: Icon(Icons.share, color: Theme.of(context).colorScheme.secondary, size: 20),
-                    tooltip: 'Hadisi Paylaş',
+                    tooltip: 'Paylaş',
                     padding: EdgeInsets.zero,
                     constraints: const BoxConstraints(),
                     onPressed: () {
-                      Share.share('"${bugununHadisi["hadis"]}"\n\n- ${bugununHadisi["kaynak"]}\n\nNamaz Vakitleri Uygulamasından paylaşıldı.');
+                      Share.share('"${bugununHadisi["hadis"]}"\n\n- ${bugununHadisi["kaynak"]}\n\n${"app_name".tr()}');
                     },
                   ),
                 ],

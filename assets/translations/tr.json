@@ -5,5 +5,7 @@
   "qibla": "Kıble",
   "qibla_found": "Kıble'desiniz",
   "qibla_search": "Kıbleyi Bulmak İçin Dönün",
-  "loading": "Yükleniyor..."
+  "loading": "Yükleniyor...",
+  "ayah_of_the_day": "Günün Ayeti",
+  "hadith_of_the_day": "Günün Hadisi"
 }

@@ -5,5 +5,7 @@
   "qibla": "Qibla",
   "qibla_found": "You are facing the Qibla",
   "qibla_search": "Turn to find the Qibla",
-  "loading": "Loading..."
+  "loading": "Loading...",
+  "ayah_of_the_day": "Ayah of the Day",
+  "hadith_of_the_day": "Hadith of the Day"
 }
