@@ -99,6 +99,19 @@ class _AnaSayfaState extends State<AnaSayfa> {
   }
 
   Future<void> _uygulamaVerileriniYukle() async {
+    // --- UYGULAMA AÇILIŞINDA BİLDİRİM İZNİ İSTEME ---
+    if (Platform.isAndroid) {
+      await bildirimServisi
+          .resolvePlatformSpecificImplementation<AndroidFlutterLocalNotificationsPlugin>()
+          ?.requestNotificationsPermission();
+    } else if (Platform.isIOS) {
+      // iOS için
+      await bildirimServisi
+          .resolvePlatformSpecificImplementation<IOSFlutterLocalNotificationsPlugin>()
+          ?.requestPermissions(alert: true, badge: true, sound: true);
+    }
+    // ------------------------------------------------
+
     final SharedPreferences hafiza = await SharedPreferences.getInstance();
     
     // Kayıtlı şehri al, yoksa Ankara'yı varsayılan yap
@@ -463,7 +476,9 @@ Future<void> _widgetHadisiniGuncelle() async {
 
     // Widget Güncellemesi
     if (Platform.isAndroid || Platform.isIOS) {
-      HomeWidget.saveWidgetData<String>('kayitli_vakit_ad', siradakiVakitAd);
+      // DÜZELTİLEN KISIM: siradakiVakitAd değişkeninin sonuna .tr() eklendi
+      HomeWidget.saveWidgetData<String>('kayitli_vakit_ad', siradakiVakitAd.tr()); 
+      
       String siradakiVakitSaati = vakitListesi[siradakiVakitAd] ?? vakitler!['Fajr'];
       HomeWidget.saveWidgetData<String>('kayitli_vakit_saat', siradakiVakitSaati);
       HomeWidget.updateWidget(name: 'VakitWidget');
