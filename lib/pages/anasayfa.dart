@@ -552,46 +552,38 @@ Future<void> _widgetHadisiniGuncelle() async {
                   
                   // DEV ZİKİR BUTONU
                   GestureDetector(
-                    onTap: () {
-                      setModalState(() { zikirSayaci++; });
-                      _zikirKaydet(zikirSayaci);
-                      
-                      // Akıllı Titreşim: 33, 66, 99'da sert titrer, diğerlerinde hafif titrer
-                      if (zikirSayaci % zikirHedefi == 0 && zikirSayaci > 0) {
-                        HapticFeedback.heavyImpact(); // Hedefe ulaşıldı titreşimi
-                      } else {
-                        HapticFeedback.lightImpact(); // Normal boncuk titreşimi
-                      }
-                    },
-                    // YENİ: Zıplama animasyonlu Akıllı Metin
-                      child: Center(
-                        child: AnimatedSwitcher(
-                          // Animasyonun hızı (150 milisaniye çok tatlı bir tokluk verir)
-                          duration: const Duration(milliseconds: 150), 
-                          
-                          // Büyüyüp küçülme (Zıplama) efekti
-                          transitionBuilder: (Widget child, Animation<double> animation) {
-                            return ScaleTransition(
-                              scale: animation,
-                              child: child,
-                            );
-                          },
-                          
-                          child: Text(
-                            '$zikirSayaci', 
-                            // ÇOK ÖNEMLİ: Flutter'ın sayının değiştiğini anlaması ve 
-                            // animasyonu tetiklemesi için bu 'key' şarttır!
-                            key: ValueKey<int>(zikirSayaci), 
-                            
-                            style: TextStyle(
-                              fontSize: 60, 
-                              fontWeight: FontWeight.bold, 
-                              color: Theme.of(context).colorScheme.onPrimaryContainer
-                            )
-                          ),
-                        ),
-                      ),
-                  ),
+  onTap: () {
+    setModalState(() { zikirSayaci++; });
+    _zikirKaydet(zikirSayaci);
+    // ... titreşim kodların ...
+  },
+  // ÇÖZÜM BURADA:
+  child: Container(
+    width: 250, // Genişliği artırdık
+    height: 250, // Yüksekliği artırdık
+    decoration: BoxDecoration(
+      shape: BoxShape.circle, // Alanı yuvarlak yaptık (daha şık durur)
+      color: Theme.of(context).colorScheme.primary.withOpacity(0.05), // Çok hafif bir dolgu rengi
+      // İstersen buraya bir çerçeve de ekleyebilirsin:
+      border: Border.all(color: Theme.of(context).colorScheme.primary.withOpacity(0.2), width: 2),
+    ),
+    child: Center(
+      child: AnimatedSwitcher(
+        duration: const Duration(milliseconds: 150),
+        transitionBuilder: (child, animation) => ScaleTransition(scale: animation, child: child),
+        child: Text(
+          '$zikirSayaci',
+          key: ValueKey<int>(zikirSayaci),
+          style: TextStyle(
+            fontSize: 80, // Sayıyı da biraz devleştirelim
+            fontWeight: FontWeight.bold, 
+            color: Theme.of(context).colorScheme.primary
+          ),
+        ),
+      ),
+    ),
+  ),
+),
                   const Spacer(),
                   
                   // ALT BUTONLAR (Sıfırla ve Hedef)
