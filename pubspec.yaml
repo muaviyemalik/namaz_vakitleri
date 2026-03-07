@@ -111,3 +111,4 @@ flutter:
   assets:
     - assets/icon.png
     - assets/translations/
+    - assets/images/

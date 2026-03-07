@@ -54,5 +54,7 @@
   "off": "Off",
   "min_before_15": "15 mins before",
   "min_before_30": "30 mins before",
-  "min_before_45": "45 mins before"
+  "min_before_45": "45 mins before",
+  "tasbih": "Tasbih",
+  "reset": "Reset"
 }

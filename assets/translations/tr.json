@@ -54,5 +54,7 @@
   "off": "Kapalı",
   "min_before_15": "15 dk önce",
   "min_before_30": "30 dk önce",
-  "min_before_45": "45 dk önce"
+  "min_before_45": "45 dk önce",
+  "tasbih": "Zikirmatik",
+  "reset": "Sıfırla"
 }

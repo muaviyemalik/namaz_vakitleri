@@ -12,6 +12,7 @@ import 'package:timezone/timezone.dart' as tz;
 import 'package:share_plus/share_plus.dart';
 import 'package:home_widget/home_widget.dart';
 import 'package:easy_localization/easy_localization.dart';
+import 'package:flutter/services.dart';
 
 import '../data/veri_havuzu.dart';
 import '../main.dart';
@@ -485,11 +486,128 @@ Future<void> _widgetHadisiniGuncelle() async {
     }
   }
 
+  void _zikirmatikPaneliniAc(BuildContext context) {
+    showModalBottomSheet(
+      context: context,
+      backgroundColor: Colors.transparent, // Arka planı saydam yapıyoruz ki kendi kartımızı çizelim
+      isScrollControlled: true, // Panelin yüksekliğini ayarlayabilmek için
+      builder: (BuildContext context) {
+        return StatefulBuilder(
+          builder: (BuildContext context, StateSetter setModalState) {
+            bool karanlikMi = Theme.of(context).brightness == Brightness.dark;
+            
+            return Container(
+              height: MediaQuery.of(context).size.height * 0.45, // Ekranın %45'ini kaplasın
+              decoration: BoxDecoration(
+                color: Theme.of(context).cardColor,
+                borderRadius: const BorderRadius.only(topLeft: Radius.circular(30), topRight: Radius.circular(30)),
+                boxShadow: [BoxShadow(color: Colors.black26, blurRadius: 10, spreadRadius: 0)],
+              ),
+              child: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  // Üstteki küçük tutma çubuğu (Görsel detay)
+                  Container(
+                    width: 40, height: 5,
+                    margin: const EdgeInsets.only(top: 10, bottom: 20),
+                    decoration: BoxDecoration(color: Colors.grey.shade400, borderRadius: BorderRadius.circular(10)),
+                  ),
+                  Text('tasbih'.tr(), style: const TextStyle(fontSize: 22, fontWeight: FontWeight.bold)),
+                  const Spacer(),
+                  
+                  // DEV ZİKİR BUTONU
+                  GestureDetector(
+                    onTap: () {
+                      setModalState(() { zikirSayaci++; });
+                      _zikirKaydet(zikirSayaci);
+                      
+                      // Akıllı Titreşim: 33, 66, 99'da sert titrer, diğerlerinde hafif titrer
+                      if (zikirSayaci % 33 == 0 && zikirSayaci > 0) {
+                        HapticFeedback.heavyImpact();
+                      } else {
+                        HapticFeedback.lightImpact();
+                      }
+                    },
+                    // YENİ: Zıplama animasyonlu Akıllı Metin
+                      child: Center(
+                        child: AnimatedSwitcher(
+                          // Animasyonun hızı (150 milisaniye çok tatlı bir tokluk verir)
+                          duration: const Duration(milliseconds: 150), 
+                          
+                          // Büyüyüp küçülme (Zıplama) efekti
+                          transitionBuilder: (Widget child, Animation<double> animation) {
+                            return ScaleTransition(
+                              scale: animation,
+                              child: child,
+                            );
+                          },
+                          
+                          child: Text(
+                            '$zikirSayaci', 
+                            // ÇOK ÖNEMLİ: Flutter'ın sayının değiştiğini anlaması ve 
+                            // animasyonu tetiklemesi için bu 'key' şarttır!
+                            key: ValueKey<int>(zikirSayaci), 
+                            
+                            style: TextStyle(
+                              fontSize: 60, 
+                              fontWeight: FontWeight.bold, 
+                              color: Theme.of(context).colorScheme.onPrimaryContainer
+                            )
+                          ),
+                        ),
+                      ),
+                  ),
+                  const Spacer(),
+                  
+                  // SIFIRLA BUTONU
+                  TextButton.icon(
+                    onPressed: () {
+                      setModalState(() { zikirSayaci = 0; });
+                      _zikirKaydet(0);
+                      HapticFeedback.vibrate();
+                    }, 
+                    icon: Icon(Icons.refresh, color: karanlikMi ? Colors.white70 : Colors.black54), 
+                    label: Text('reset'.tr(), style: TextStyle(color: karanlikMi ? Colors.white70 : Colors.black54))
+                  ),
+                  const SizedBox(height: 20),
+                ],
+              ),
+            );
+          }
+        );
+      }
+    );
+  }
+
   // 9. EKRAN ÇİZİMİ (UI)
   @override
   Widget build(BuildContext context) {
     // Scaffold: Sayfanın inşaat iskelesidir (AppBar ve Body barındırır).
     return Scaffold(
+      floatingActionButtonLocation: FloatingActionButtonLocation.startFloat,
+      floatingActionButton: FloatingActionButton(
+        onPressed: () => _zikirmatikPaneliniAc(context),
+        
+        // Butonun arka plan rengi: Gündüz beyaz, Gece koyu gri
+        backgroundColor: Theme.of(context).brightness == Brightness.dark 
+            ? Colors.grey.shade800 
+            : Colors.white, 
+            
+        elevation: Theme.of(context).brightness == Brightness.dark ? 2 : 6,
+        tooltip: 'tasbih'.tr(),
+        
+        // YENİ: Temaya göre değişen Akıllı Görsel (Adaptive Asset)
+        child: Padding(
+          padding: const EdgeInsets.all(8.0),
+          child: Image.asset(
+            // Eğer karanlık moddaysak karanlık resmi, değilsek aydınlık resmi yükle
+            Theme.of(context).brightness == Brightness.dark 
+                ? 'assets/images/zikir_karanlik.png' 
+                : 'assets/images/zikir_aydinlik.png',
+            fit: BoxFit.contain, 
+          ),
+        ),
+      ),
       appBar: AppBar(
         title: Text(aktifSehir, style: const TextStyle(fontWeight: FontWeight.bold)),
         centerTitle: true,
@@ -847,6 +965,21 @@ Future<void> _widgetHadisiniGuncelle() async {
         ),
       ),
     );
+  }
+  int zikirSayaci = 0;
+
+  // Zikri hafızadan yükleme fonksiyonu
+  Future<void> _zikirYukle() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      zikirSayaci = prefs.getInt('kayitli_zikir') ?? 0;
+    });
+  }
+
+  // Zikri hafızaya kaydetme fonksiyonu
+  Future<void> _zikirKaydet(int deger) async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setInt('kayitli_zikir', deger);
   }
 }
 // 4. DURUMU DEĞİŞEBİLEN EKRAN (StatefulWidget)

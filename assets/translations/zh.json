@@ -52,5 +52,7 @@
   "off": "关闭",
   "min_before_15": "提前 15 分钟",
   "min_before_30": "提前 30 分钟",
-  "min_before_45": "提前 45 分钟"
+  "min_before_45": "提前 45 分钟",
+  "tasbih": "念珠",
+  "reset": "重置"
 }
