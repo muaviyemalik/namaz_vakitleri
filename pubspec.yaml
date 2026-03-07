@@ -44,6 +44,7 @@ dependencies:
   flutter_compass: ^0.8.1
   home_widget: ^0.9.0
   easy_localization: ^3.0.8
+  perfect_volume_control: ^1.0.6
 
 dev_dependencies:
   flutter_test:

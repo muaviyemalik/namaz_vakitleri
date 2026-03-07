@@ -13,6 +13,7 @@ import 'package:share_plus/share_plus.dart';
 import 'package:home_widget/home_widget.dart';
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/services.dart';
+import 'package:perfect_volume_control/perfect_volume_control.dart';
 
 import '../data/veri_havuzu.dart';
 import '../main.dart';
@@ -79,6 +80,21 @@ class _AnaSayfaState extends State<AnaSayfa> {
       ),
     );
   }
+
+  // --- ZİKİR HAFIZA FONKSİYONLARI ---
+
+// Sayacı kaydetmek için
+Future<void> _zikirKaydet(int deger) async {
+  final prefs = await SharedPreferences.getInstance();
+  await prefs.setInt('kayitli_zikir', deger);
+}
+
+// Hedefi kaydetmek için
+Future<void> _hedefKaydet(int deger) async {
+  final prefs = await SharedPreferences.getInstance();
+  await prefs.setInt('kayitli_hedef', deger);
+}
+
   // --- DEĞİŞKENLER (STATE) ---
 
   Map<String, dynamic>? vakitler; // JSON'dan gelecek vakitleri tutacak. Başlangıçta null.
@@ -97,6 +113,25 @@ class _AnaSayfaState extends State<AnaSayfa> {
   void initState() {
     super.initState();
     _uygulamaVerileriniYukle();
+    _zikirYukle();
+
+    // YENİ: Ses tuşlarını dinlemeye başla
+    PerfectVolumeControl.stream.listen((value) {
+      // Sadece zikirmatik paneli açıkken veya isteğe bağlı olarak her zaman çalıştırabilirsin
+      // Biz burada her ses tuşuna basıldığında sayacı artıralım:
+      setState(() {
+        PerfectVolumeControl.hideUI = true;
+        zikirSayaci++;
+      });
+      _zikirKaydet(zikirSayaci);
+      
+      // Hedef kontrolü ve titreşim
+      if (zikirSayaci % zikirHedefi == 0 && zikirSayaci > 0) {
+        HapticFeedback.heavyImpact();
+      } else {
+        HapticFeedback.lightImpact();
+      }
+    });
   }
 
   Future<void> _uygulamaVerileriniYukle() async {
@@ -522,10 +557,10 @@ Future<void> _widgetHadisiniGuncelle() async {
                       _zikirKaydet(zikirSayaci);
                       
                       // Akıllı Titreşim: 33, 66, 99'da sert titrer, diğerlerinde hafif titrer
-                      if (zikirSayaci % 33 == 0 && zikirSayaci > 0) {
-                        HapticFeedback.heavyImpact();
+                      if (zikirSayaci % zikirHedefi == 0 && zikirSayaci > 0) {
+                        HapticFeedback.heavyImpact(); // Hedefe ulaşıldı titreşimi
                       } else {
-                        HapticFeedback.lightImpact();
+                        HapticFeedback.lightImpact(); // Normal boncuk titreşimi
                       }
                     },
                     // YENİ: Zıplama animasyonlu Akıllı Metin
@@ -559,15 +594,58 @@ Future<void> _widgetHadisiniGuncelle() async {
                   ),
                   const Spacer(),
                   
-                  // SIFIRLA BUTONU
-                  TextButton.icon(
-                    onPressed: () {
-                      setModalState(() { zikirSayaci = 0; });
-                      _zikirKaydet(0);
-                      HapticFeedback.vibrate();
-                    }, 
-                    icon: Icon(Icons.refresh, color: karanlikMi ? Colors.white70 : Colors.black54), 
-                    label: Text('reset'.tr(), style: TextStyle(color: karanlikMi ? Colors.white70 : Colors.black54))
+                  // ALT BUTONLAR (Sıfırla ve Hedef)
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                    children: [
+                      // SIFIRLA BUTONU
+                      TextButton.icon(
+                        onPressed: () {
+                          setModalState(() { zikirSayaci = 0; });
+                          _zikirKaydet(0);
+                          HapticFeedback.vibrate();
+                        }, 
+                        icon: Icon(Icons.refresh, color: karanlikMi ? Colors.white70 : Colors.black54), 
+                        label: Text('reset'.tr(), style: TextStyle(color: karanlikMi ? Colors.white70 : Colors.black54))
+                      ),
+
+                      // YENİ: HEDEF BELİRLEME BUTONU (Açılır Menü)
+                      PopupMenuButton<int>(
+                        initialValue: zikirHedefi,
+                        onSelected: (int yeniHedef) {
+                          setModalState(() { zikirHedefi = yeniHedef; });
+                          _hedefKaydet(yeniHedef); // Seçilen hedefi hafızaya al
+                          HapticFeedback.vibrate();
+                        },
+                        color: Theme.of(context).cardColor,
+                        itemBuilder: (BuildContext context) => <PopupMenuEntry<int>>[
+                          const PopupMenuItem<int>(value: 33, child: Text('Hedef: 33')),
+                          const PopupMenuItem<int>(value: 66, child: Text('Hedef: 66')),
+                          const PopupMenuItem<int>(value: 99, child: Text('Hedef: 99')),
+                          const PopupMenuItem<int>(value: 100, child: Text('Hedef: 100')),
+                          const PopupMenuItem<int>(value: 500, child: Text('Hedef: 500')),
+                          const PopupMenuItem<int>(value: 1000, child: Text('Hedef: 1000')),
+                        ],
+                        // Butonun Görünümü
+                        child: Container(
+                          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                          decoration: BoxDecoration(
+                            color: Theme.of(context).colorScheme.primary.withOpacity(0.1),
+                            borderRadius: BorderRadius.circular(20),
+                          ),
+                          child: Row(
+                            children: [
+                              Icon(Icons.flag, color: Theme.of(context).colorScheme.primary, size: 20),
+                              const SizedBox(width: 8),
+                              Text(
+                                'Hedef: $zikirHedefi', 
+                                style: TextStyle(fontWeight: FontWeight.bold, color: Theme.of(context).colorScheme.primary)
+                              ),
+                            ],
+                          ),
+                        ),
+                      ),
+                    ],
                   ),
                   const SizedBox(height: 20),
                 ],
@@ -967,19 +1045,15 @@ Future<void> _widgetHadisiniGuncelle() async {
     );
   }
   int zikirSayaci = 0;
+  int zikirHedefi = 33; // YENİ: Varsayılan hedef 33
 
-  // Zikri hafızadan yükleme fonksiyonu
+  // Mevcut _zikirYukle fonksiyonunu şu şekilde güncelle:
   Future<void> _zikirYukle() async {
     final prefs = await SharedPreferences.getInstance();
     setState(() {
       zikirSayaci = prefs.getInt('kayitli_zikir') ?? 0;
+      zikirHedefi = prefs.getInt('kayitli_hedef') ?? 33; // Hedefi de hafızadan çek
     });
-  }
-
-  // Zikri hafızaya kaydetme fonksiyonu
-  Future<void> _zikirKaydet(int deger) async {
-    final prefs = await SharedPreferences.getInstance();
-    await prefs.setInt('kayitli_zikir', deger);
   }
 }
 // 4. DURUMU DEĞİŞEBİLEN EKRAN (StatefulWidget)
