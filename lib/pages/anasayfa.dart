@@ -767,7 +767,7 @@ Future<void> _widgetHadisiniGuncelle() async {
               ? <PopupMenuEntry<Color>>[
                   // KARANLIK MOD RENKLERİ
                   PopupMenuItem<Color>(value: Colors.indigo, child: Text('theme_dark_indigo'.tr())),
-                  PopupMenuItem<Color>(value: Colors.red.shade900, child: Text('theme_dark_crimson'.tr())),
+                  PopupMenuItem<Color>(value: const Color.fromARGB(255, 184, 8, 8), child: Text('theme_dark_crimson'.tr())),
                   PopupMenuItem<Color>(value: Colors.green.shade900, child: Text('theme_dark_emerald'.tr())),
                   PopupMenuItem<Color>(value: Colors.amber.shade700, child: Text('theme_dark_amber'.tr())),
                   PopupMenuItem<Color>(value: Colors.deepPurple.shade900, child: Text('theme_dark_violet'.tr())),
