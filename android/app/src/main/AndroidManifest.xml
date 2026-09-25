@@ -2,11 +2,26 @@
 <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
 <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-<uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- Zamanlanmış ezan alarmlarının cihaz yeniden başlatıldığında yeniden
+         kurulabilmesi için gereklidir; flutter_local_notifications bunu
+         zorunlu olarak ister. -->
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <!-- Bildirim titremesi / HapticFeedback için gereklidir. -->
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <!-- Cihaz uyku modundayken alarmı tam zamanlı tetikleyebilmek için. -->
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <!-- Android 12+ (API 31) exact alarm kurmayı ayrı bir izinle kısıtlar.
+         Bu izinler tanımlı değilse zonedSchedule
+         PlatformException(exact_alarms_not_permitted) fırlatır ve ezan
+         alarmları hiç kurulmaz. -->
+    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM"/>
+    <uses-permission android:name="android.permission.USE_EXACT_ALARM"/>
 
     <application
         android:label="Namaz Vakitleri"
         android:name="${applicationName}"
+        android:usesCleartextTraffic="false"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
@@ -40,19 +55,19 @@
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
             </intent-filter>
             <meta-data android:name="android.appwidget.provider" android:resource="@xml/widget_ayet_info" />
-        </receiver>
-        <receiver android:name=".HadisWidget" android:exported="true">
+            </receiver>
+            <receiver android:name=".HadisWidget" android:exported="true">
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
             </intent-filter>
             <meta-data android:name="android.appwidget.provider" android:resource="@xml/widget_hadis_info" />
-        </receiver>
-        <receiver android:name=".VakitWidget" android:exported="true">
+            </receiver>
+            <receiver android:name=".VakitWidget" android:exported="true">
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
             </intent-filter>
             <meta-data android:name="android.appwidget.provider" android:resource="@xml/widget_vakit_info" />
-        </receiver>
+            </receiver>
     </application>
     <!-- Required to query activities that can process text, see:
          https://developer.android.com/training/package-visibility and

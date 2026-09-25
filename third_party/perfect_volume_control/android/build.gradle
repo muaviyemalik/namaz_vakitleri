@@ -1,0 +1,41 @@
+// perfect_volume_control 1.0.6 paketi pub.dev'de terk edilmiş durumda ve
+// AGP 8+ ile derlenemiyordu. Kalan iki engel:
+//
+//  1) android {} bloğunda `namespace` tanımlı değil. AGP 8, namespace zorunlu
+//     kıldığı için "Namespace not specified" hatasıyla derlemeyi durduruyordu.
+//  2) `jcenter()` deposu 2021'de kapatıldı; bağımlılık çözümü orada aranıyordu.
+//     Ayrıca buildscript bloğu AGP 4.1.0'ı sabitliyordu.
+//
+// Bu dosya, paketi değiştirmeden yalnızca derlenebilir hale getirmek için
+// düzeltilmiştir. Kaynak kod (PerfectVolumeControlPlugin.java) olduğu gibi
+// bırakılmıştır.
+group 'top.huic.perfect_volume_control.perfect_volume_control'
+version '1.0'
+
+rootProject.allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+apply plugin: 'com.android.library'
+
+android {
+    namespace 'top.huic.perfect_volume_control.perfect_volume_control'
+    compileSdk 34
+
+    defaultConfig {
+        minSdk 21
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    lint {
+        // Plugin kodu Android Lint'in "obsolete sdk" kuralına takılmasın.
+        disable 'GradleDependency', 'OldTargetApi'
+    }
+}

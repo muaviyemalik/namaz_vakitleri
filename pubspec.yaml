@@ -46,6 +46,18 @@ dependencies:
   easy_localization: ^3.0.8
   perfect_volume_control: ^1.0.6
 
+# perfect_volume_control 1.0.6 pub.dev'de terk edilmiş durumda: android/build.gradle
+# dosyasında `namespace` tanımı yok ve `jcenter()` (2021'de kapatıldı) deposunu
+# kullanıyor. Bu yüzden AGP 8+ ile "Namespace not specified" hatası vererek
+# projenin tamamının derlenmesini engelliyordu.
+#
+# Paket, kaynak kodu değiştirilmeden yalnızca derlenebilir hale getirilerek
+# third_party/ altına kopyalandı. dependency_overrides ile pub.dev'deki
+# sürüm yerine yerel kopya kullanılıyor.
+dependency_overrides:
+  perfect_volume_control:
+    path: third_party/perfect_volume_control
+
 dev_dependencies:
   flutter_test:
     sdk: flutter

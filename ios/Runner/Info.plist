@@ -26,6 +26,17 @@
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<!-- geolocator bu anahtarı görmezse ilk konum isteğinde uygulamayı
+	     sistem seviyesinde kapatır (crash). Konum, yalnızca şehir tespiti ve
+	     namaz vakitleri hesabı için kullanılır. -->
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Namaz vakitlerini ve kıble yönünü bulmak için bulunduğunuz şehri tespit etmemize izin verin.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Ezan vakti geldiğinde sizi uyandırabilmemiz için konum bilgisi kullanılır.</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+	</array>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>

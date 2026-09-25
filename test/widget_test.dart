@@ -1,30 +1,43 @@
-// This is a basic Flutter widget test.
-//
-// To perform an interaction with a widget in your test, use the WidgetTester
-// utility in the flutter_test package. For example, you can send tap and scroll
-// gestures. You can also use WidgetTester to find child widgets in the widget
-// tree, read text, and verify that the values of widget properties are correct.
-
-import 'package:flutter/material.dart';
+// Bu dosya, `flutter create` ile gelen ve uygulamayla hiç ilgisi olmayan
+// varsayılan "counter" testiydi; sayaç uygulaması olmadığı için zaten
+// başarısızdı. Yerine uygulamanın gerçek, platform eklentisi gerektirmeyen
+// iş mantığını sınayan testler yazıldı.
 import 'package:flutter_test/flutter_test.dart';
-
-import 'package:namaz_vakitleri/main.dart';
+import 'package:namaz_vakitleri/utils/kible_hesapla.dart';
 
 void main() {
-  testWidgets('Counter increments smoke test', (WidgetTester tester) async {
-    // Build our app and trigger a frame.
-    await tester.pumpWidget(const NamazVakitleriApp());
+  group('KibleHesaplayici', () {
+    test('Kuzey Kutbu yakininda kible yonu guneydoguya yakin olmali', () {
+      // Enlem 89.9, boylam 0 noktasindan Kabe guneydogu yonunde yer alir;
+      // bu nedenle beklenen aci 0 degil, yaklasik 140 derecedir.
+      final double aci = KibleHesaplayici.hesapla(89.9, 0.0);
+      expect(aci, closeTo(140.15, 0.5));
+    });
 
-    // Verify that our counter starts at 0.
-    expect(find.text('0'), findsOneWidget);
-    expect(find.text('1'), findsNothing);
+    test('Istanbul icin kible yonu dogu-kuzeydogu tarafindadir', () {
+      // Istanbul Kible acisi yaklasik 158 derece (guneydogu-kuzeydogu).
+      final double aci = KibleHesaplayici.hesapla(41.0082, 28.9784);
+      expect(aci, greaterThan(140));
+      expect(aci, lessThan(175));
+    });
 
-    // Tap the '+' icon and trigger a frame.
-    await tester.tap(find.byIcon(Icons.add));
-    await tester.pump();
+    test('sonuc her zaman 0-360 araligindadir', () {
+      // Kureyi oldukca cesitli noktalarla dolasp.
+      for (double enlem = -80; enlem <= 80; enlem += 20) {
+        for (double boylam = -180; boylam <= 180; boylam += 20) {
+          final double aci = KibleHesaplayici.hesapla(enlem, boylam);
+          expect(aci, greaterThanOrEqualTo(0), reason: 'enlem=$enlem boylam=$boylam');
+          expect(aci, lessThan(360), reason: 'enlem=$enlem boylam=$boylam');
+        }
+      }
+    });
 
-    // Verify that our counter has incremented.
-    expect(find.text('0'), findsNothing);
-    expect(find.text('1'), findsOneWidget);
+    test('Kabe noktasindan kible aci sifirdir', () {
+      final double aci = KibleHesaplayici.hesapla(
+        KibleHesaplayici.kabeEnlem,
+        KibleHesaplayici.kabeBoylam,
+      );
+      expect(aci, closeTo(0, 0.001));
+    });
   });
 }

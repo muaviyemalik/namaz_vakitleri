@@ -105,6 +105,7 @@ Future<void> _hedefKaydet(int deger) async {
   String siradakiVakitIsmi = ''; // Ekrana basılacak sıradaki vaktin adı.
   String kalanSureMetni = ''; // Ekrana basılacak 00:00:00 formatındaki süre.
   String aktifSehir = 'Ankara'; // Varsayılan şehir. GPS bulana kadar bu görünecek.
+  String aktifUlke = 'Turkey'; // Aladhan API'si şehirle birlikte ülkeyi de ister.
   String miladiTarih = ""; //Mevcut miladi tarih
   String hicriTarih = ""; // Mevcut hicri tarih
 
@@ -140,6 +141,17 @@ Future<void> _hedefKaydet(int deger) async {
       await bildirimServisi
           .resolvePlatformSpecificImplementation<AndroidFlutterLocalNotificationsPlugin>()
           ?.requestNotificationsPermission();
+
+      // Android 12 (API 31) ve üzeri, "exact" alarm kurulmasını ayrı bir izinle
+      // kısıtlar. Bu izin verilmeden zonedSchedule(exactAllowWhileIdle) çağrısı
+      // PlatformException(exact_alarms_not_permitted) fırlatır ve ezan alarmları
+      // hiç kurulmaz. Kullanıcıya sistem ayarlarına yönlendirme sunuyoruz.
+      final androidEklenti = bildirimServisi
+          .resolvePlatformSpecificImplementation<AndroidFlutterLocalNotificationsPlugin>();
+      final bool alarmIzniVar = await androidEklenti?.canScheduleExactNotifications() ?? true;
+      if (!alarmIzniVar) {
+        await androidEklenti?.requestExactAlarmsPermission();
+      }
     } else if (Platform.isIOS) {
       // iOS için
       await bildirimServisi
@@ -152,9 +164,11 @@ Future<void> _hedefKaydet(int deger) async {
     
     // Kayıtlı şehri al, yoksa Ankara'yı varsayılan yap
     String kayitliSehir = hafiza.getString('secili_sehir') ?? 'Ankara';
+    String kayitliUlke = hafiza.getString('secili_ulke') ?? 'Turkey';
     
     setState(() { 
       aktifSehir = kayitliSehir; 
+      aktifUlke = kayitliUlke;
     });
     
     // Şehri belirledikten sonra vakitleri getir
@@ -281,12 +295,20 @@ Future<void> _widgetHadisiniGuncelle() async {
         String bulunanSehir = yer.administrativeArea ?? yer.subAdministrativeArea ?? "";
         bulunanSehir = bulunanSehir.replaceAll(" Province", "").replaceAll(" Province", "");
 
+        // Aladhan API'si "city" ile birlikte "country" parametresini de bekliyor.
+        // Ülkeyi sabit "Turkey" bırakmak, yurt dışındaki kullanıcılara yanlış
+        // vakitleri hesaplıyordu. Artık GPS'ten gelen gerçek ülkeyi kullanıyoruz.
+        String bulunanUlke = (yer.isoCountryCode ?? yer.country ?? 'Turkey').toString();
+        if (bulunanUlke.trim().isEmpty) bulunanUlke = 'Turkey';
+
         setState(() {
           aktifSehir = bulunanSehir;
+          aktifUlke = bulunanUlke;
         });
 
         final prefs = await SharedPreferences.getInstance();
         await prefs.setString('secili_sehir', bulunanSehir);
+        await prefs.setString('secili_ulke', bulunanUlke);
         
         await vakitleriGetir(); // Yeni şehrin verilerini çek
         
@@ -319,6 +341,26 @@ Future<void> _widgetHadisiniGuncelle() async {
     );
   }
 
+  // Aladhan vakit saatlerini "04:52 (EEST)" gibi bir zaman dilimi etiketiyle
+  // birlikte döndürebiliyor. Önceden substring(0, 5) ile kırpılıyordu; bu
+  // alan null ya da beklenenden kısa geldiğinde RangeError ile uygulamayı
+  // çökertiyordu. Artık her zaman geçerli bir "SS:DD" üretiyoruz.
+  String _saatiTemizle(dynamic hamDeger) {
+    if (hamDeger == null) return '00:00';
+    String metin = hamDeger.toString().trim();
+    // "04:52 (EEST)" -> "04:52"
+    int bosluk = metin.indexOf(' ');
+    if (bosluk > 0) metin = metin.substring(0, bosluk);
+    // Saniye varsa at: "04:52:11" -> "04:52"
+    List<String> parcalar = metin.split(':');
+    if (parcalar.length >= 2) {
+      String saat = parcalar[0].padLeft(2, '0');
+      String dakika = parcalar[1].length >= 2 ? parcalar[1].substring(0, 2) : parcalar[1].padLeft(2, '0');
+      return '$saat:$dakika';
+    }
+    return '00:00';
+  }
+
   // 6. API'DEN VERİ ÇEKME (Asenkron - Future)
   // async/await: İnternetten cevap gelene kadar uygulamanın arayüzünü kilitlememek (donmamasını sağlamak) için.
   // void yerine bool yaptık
@@ -328,26 +370,64 @@ Future<void> _widgetHadisiniGuncelle() async {
     try {
       final prefs = await SharedPreferences.getInstance();
       final now = DateTime.now();
-      final String hafizaAnahtari = 'vakitler_${aktifSehir}_${now.month}_${now.year}';
+      final String hafizaAnahtari = 'vakitler_${aktifSehir}_${aktifUlke}_${now.month}_${now.year}';
       
       String? telefondakiVeri = prefs.getString(hafizaAnahtari);
 
-      final url = Uri.parse('http://api.aladhan.com/v1/calendarByCity?city=$aktifSehir&country=Turkey&method=13&month=${now.month}&year=${now.year}');
+      // Aladhan API yalnızca HTTPS üzerinden çalışır. HTTP adresi 301 ile
+      // yönlendiriliyor ve Android 9+ (API 28) cleartext trafiği engellediği
+      // için istek hiçbir zaman API'ye ulaşamıyordu.
+      // Uri.https() parametreleri otomatik olarak URL-encode eder; şehir
+      // adlarındaki boşluk ve Türkçe karakterler (ş, ğ, ı, İ, ç, ö, ü)
+      // aksi halde isteği bozuyordu.
+      final url = Uri.https(
+        'api.aladhan.com',
+        '/v1/calendarByCity',
+        {
+          'city': aktifSehir,
+          'country': aktifUlke,
+          'method': '13', // Diyanet (Türkiye) hesaplama yöntemi
+          'month': now.month.toString(),
+          'year': now.year.toString(),
+        },
+      );
 
       try {
-        final cevap = await http.get(url).timeout(const Duration(seconds: 5));
+        final cevap = await http.get(
+          url,
+          headers: const {'Accept': 'application/json'},
+        ).timeout(const Duration(seconds: 10));
+
         if (cevap.statusCode == 200) {
-          telefondakiVeri = cevap.body;
-          await prefs.setString(hafizaAnahtari, telefondakiVeri);
+          // Aladhan hata durumunda da HTTP 200 dönebilir; gerçek durum
+          // cevabın içindeki "code" alanında taşınır. Onu da doğruluyoruz.
+          final kontrol = json.decode(cevap.body);
+          if (kontrol is Map && kontrol['code'] == 200 && kontrol['data'] is List) {
+            telefondakiVeri = cevap.body;
+            await prefs.setString(hafizaAnahtari, telefondakiVeri);
+          } else {
+            debugPrint("Aladhan API mantıksal hata döndü: ${kontrol['status']}");
+          }
+        } else {
+          debugPrint("Aladhan API HTTP hatası: ${cevap.statusCode}");
         }
       } catch (e) {
-        debugPrint("İnternet yok, hafızaya bakılıyor.");
+        debugPrint("İnternet yok, hafızaya bakılıyor: $e");
       }
 
       if (telefondakiVeri != null) {
         final jsonVeri = json.decode(telefondakiVeri);
         final aylikListe = jsonVeri['data'] as List;
         final bugunIndex = now.day - 1;
+
+        // API beklenenden kısa bir liste döndürürse (ör. ay başında geçersiz
+        // tarih) doğrudan indekslemek RangeError verip uygulamayı düşürüyordu.
+        if (bugunIndex < 0 || bugunIndex >= aylikListe.length) {
+          debugPrint("API cevabında $bugunIndex. gün bulunamadı, liste uzunluğu: ${aylikListe.length}");
+          setState(() { yukleniyor = false; });
+          return false;
+        }
+
         final gunlukVeri = aylikListe[bugunIndex];
         
         final tarihVerisi = gunlukVeri['date'];
@@ -355,12 +435,12 @@ Future<void> _widgetHadisiniGuncelle() async {
 
         setState(() {
           vakitler = {
-            'Fajr': vakitlerVerisi['Fajr'].substring(0, 5),
-            'Sunrise': vakitlerVerisi['Sunrise'].substring(0, 5),
-            'Dhuhr': vakitlerVerisi['Dhuhr'].substring(0, 5),
-            'Asr': vakitlerVerisi['Asr'].substring(0, 5),
-            'Maghrib': vakitlerVerisi['Maghrib'].substring(0, 5),
-            'Isha': vakitlerVerisi['Isha'].substring(0, 5),
+            'Fajr': _saatiTemizle(vakitlerVerisi['Fajr']),
+            'Sunrise': _saatiTemizle(vakitlerVerisi['Sunrise']),
+            'Dhuhr': _saatiTemizle(vakitlerVerisi['Dhuhr']),
+            'Asr': _saatiTemizle(vakitlerVerisi['Asr']),
+            'Maghrib': _saatiTemizle(vakitlerVerisi['Maghrib']),
+            'Isha': _saatiTemizle(vakitlerVerisi['Isha']),
           };
 
           miladiTarih = tarihVerisi['gregorian']['date'];
@@ -417,15 +497,21 @@ Future<void> _widgetHadisiniGuncelle() async {
       };
 
     int id = 0;
-    vakitListesi.forEach((vakitAdi, saatMetni) async {
+    // forEach içindeki async geri çağrılarını beklenmediği için alarmlar
+    // yarış koşuluyla kuruluyor, üstelik id değişkeni her seferinde artıyordu.
+    // Sıralı bir döngüyle hepsinin tamamlanmasını bekliyoruz.
+    for (final MapEntry<String, String> vakit in vakitListesi.entries) {
+      final String vakitAdi = vakit.key;
+      final String saatMetni = vakit.value;
       List<String> saatDakika = saatMetni.split(':');
+      if (saatDakika.length < 2) continue;
       DateTime vakitZamani = DateTime(suAn.year, suAn.month, suAn.day, int.parse(saatDakika[0]), int.parse(saatDakika[1]));
 
       if (vakitZamani.isAfter(suAn)) {
         await _tekilAlarmKur(id, vakitAdi.tr(), vakitZamani);
       }
-      id++; 
-    });
+      id++;
+    }
   }
   }
 
@@ -441,14 +527,33 @@ Future<void> _widgetHadisiniGuncelle() async {
 
     // YENİ SÜRÜM KURALLARI: Bütün parametreler isimlendirildi (named arguments) 
     // ve kaldırılan uiLocalNotificationDateInterpretation ayarı silindi.
-    await bildirimServisi.zonedSchedule(
-      id: id,
-      title: 'Vakit Geldi!',
-      body: '$vakitAdi vakti girdi. Haydi namaza!',
-      scheduledDate: tz.TZDateTime.from(zaman, tz.local),
-      notificationDetails: bildirimDetaylari,
-      androidScheduleMode: AndroidScheduleMode.exactAllowWhileIdle, // Uykuda bile uyandırır
-    );
+    // Kullanıcı "exact alarms" iznini reddettiyse tam zamanlı mod PlatformException
+    // fırlatıyordu; bu durumda yaklaşık zamanlı moda düşüyoruz ki en azından
+    // bildirim yine de gelsin.
+    try {
+      await bildirimServisi.zonedSchedule(
+        id: id,
+        title: 'Vakit Geldi!',
+        body: '$vakitAdi vakti girdi. Haydi namaza!',
+        scheduledDate: tz.TZDateTime.from(zaman, tz.local),
+        notificationDetails: bildirimDetaylari,
+        androidScheduleMode: AndroidScheduleMode.exactAllowWhileIdle, // Uykuda bile uyandırır
+      );
+    } on PlatformException catch (e) {
+      debugPrint("Tam zamanlı alarm kurulamadı ($e), yaklaşık moda geçiliyor.");
+      try {
+        await bildirimServisi.zonedSchedule(
+          id: id,
+          title: 'Vakit Geldi!',
+          body: '$vakitAdi vakti girdi. Haydi namaza!',
+          scheduledDate: tz.TZDateTime.from(zaman, tz.local),
+          notificationDetails: bildirimDetaylari,
+          androidScheduleMode: AndroidScheduleMode.inexactAllowWhileIdle,
+        );
+      } catch (e2) {
+        debugPrint("Alarm kurulamadı: $e2");
+      }
+    }
   }
 
   
