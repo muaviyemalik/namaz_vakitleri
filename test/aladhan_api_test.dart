@@ -73,12 +73,13 @@ void main() {
 
   test('meta.timezone doğru ülke saat dilimini veriyor', () async {
     // Bu, saat dilimi hatasının çözülmesinin temelidir: uygulama alarmları
-    // bu değere göre zamanlar.
+    // bu değere göre zamanlar. Güney yarımküre örneği de dahil (Sydney).
     const testler = [
       (Sehir(ad: 'Tokyo', enlem: 35.6762, boylam: 139.6503), 'Asia/Tokyo'),
       (Sehir(ad: 'New York', enlem: 40.7128, boylam: -74.0060), 'America/New_York'),
       (Sehir(ad: 'Cairo', enlem: 30.0444, boylam: 31.2357), 'Africa/Cairo'),
       (Sehir(ad: 'Berlin', enlem: 52.5200, boylam: 13.4050), 'Europe/Berlin'),
+      (Sehir(ad: 'Sydney', enlem: -33.8688, boylam: 151.2093), 'Australia/Sydney'),
     ];
     for (final t in testler) {
       final veri = await aylikVakitler(t.$1);
@@ -88,13 +89,14 @@ void main() {
     }
   });
 
-  test('dört kıtadan örnek şehirler vakit üretiyor', () async {
-    // Kullanıcının istediği dört bölgenin her birinden birer örnek.
+  test('beş kıtadan örnek şehirler vakit üretiyor', () async {
+    // Kullanıcının istediği bölgelerin her birinden birer örnek.
     const testler = [
       (Sehir(ad: 'İstanbul', enlem: 41.0082, boylam: 28.9784), 'Europe'),
       (Sehir(ad: 'New York', enlem: 40.7128, boylam: -74.0060), 'Americas'),
       (Sehir(ad: 'Tokyo', enlem: 35.6762, boylam: 139.6503), 'Asia'),
       (Sehir(ad: 'Lagos', enlem: 6.5244, boylam: 3.3792), 'Africa'),
+      (Sehir(ad: 'Sydney', enlem: -33.8688, boylam: 151.2093), 'Oceania'),
     ];
     for (final t in testler) {
       final veri = await aylikVakitler(t.$1);
@@ -102,6 +104,26 @@ void main() {
       expect(liste.length, 30, reason: '${t.$2}/${t.$1.ad} veri eksik');
       print('  ${t.$2.padRight(10)} ${t.$1.ad.padRight(12)} '
           'Fajr=${liste[0]['timings']['Fajr']}  tz=${liste[0]['meta']['timezone']}');
+      await Future<void>.delayed(const Duration(milliseconds: 400));
+    }
+  });
+
+  test('Okyanusya şehirleri koordinatla vakit üretiyor', () async {
+    // Okyanusya, kuzey ve güney yarımküre arasında yer alıyor; saat dilimi
+    // ve tarih kayması açısından en zor bölge. Birkaç ülkeden örnek alıyoruz.
+    const testler = [
+      Sehir(ad: 'Sydney', enlem: -33.8688, boylam: 151.2093),
+      Sehir(ad: 'Auckland', enlem: -36.8485, boylam: 174.7633),
+      Sehir(ad: 'Suva', enlem: -18.1416, boylam: 178.4419),
+    ];
+    for (final s in testler) {
+      final veri = await aylikVakitler(s);
+      final liste = veri['data'] as List;
+      expect(liste.length, 30, reason: '${s.ad} veri eksik');
+      // Güney yarımkürede olması gereken: saat dilimi Avrupa'nın tersi
+      final tz = liste[0]['meta']['timezone'];
+      expect(tz, isNotNull);
+      print('  ${s.ad.padRight(10)} Fajr=${liste[0]['timings']['Fajr']}  tz=$tz');
       await Future<void>.delayed(const Duration(milliseconds: 400));
     }
   });

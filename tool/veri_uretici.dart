@@ -24,8 +24,15 @@
 import 'dart:convert';
 import 'dart:io';
 
-/// Uygulamanin destekledigi bolgeler. Okyanusya ve Antarktika istenmedi.
-const Set<String> istenenBolgeler = {'Europe', 'Americas', 'Asia', 'Africa'};
+/// Uygulamanin destekledigi bolgeler: Avrupa, Amerika, Asya, Afrika ve
+/// Okyanusya. Kutup bolgeleri (Polar) ve Antarktika kapsam disarida.
+const Set<String> istenenBolgeler = {
+  'Europe',
+  'Americas',
+  'Asia',
+  'Africa',
+  'Oceania',
+};
 
 void main(List<String> args) {
   if (args.isEmpty) {

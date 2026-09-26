@@ -65,8 +65,8 @@ class _UlkeSeciciDialogState extends State<_UlkeSeciciDialog> {
     for (final u in sonuc) {
       gruplar.putIfAbsent(u.bolge, () => []).add(u);
     }
-    // Kıta sırası: Avrupa, Asya, Afrika, Amerika
-    const bolgeSirasi = ['Europe', 'Asia', 'Africa', 'Americas'];
+    // Kıta sırası: Avrupa, Asya, Afrika, Amerika, Okyanusya
+    const bolgeSirasi = ['Europe', 'Asia', 'Africa', 'Americas', 'Oceania'];
     final siraliBolgeler = bolgeSirasi.where(gruplar.containsKey).toList()
       ..addAll(gruplar.keys.where((k) => !bolgeSirasi.contains(k)));
 

@@ -1,0 +1,25 @@
+13.4924|144.8447|Adacao
+13.4656|144.7480|Agana Heights Village
+13.3830|144.6600|Agat Village
+13.5289|144.9182|Anao
+13.4882|144.7764|Apotgan
+13.4283|144.6525|Apra Harbor
+13.4721|144.7165|Asan-Maina Village
+13.4691|144.7990|Barrigada Village
+13.5717|144.8806|Chaguian
+13.4474|144.7590|Chalan Pago-Ordot Village
+13.5178|144.8391|Dededo Village
+13.4757|144.7489|Hagåtña
+13.4728|144.7580|Hagåtña Village
+13.2736|144.7484|Inarajan Village
+13.4476|144.8011|Mangilao Village
+13.2658|144.6691|Merizo Village
+13.4686|144.7821|Mongmong-Toto-Maite Village
+13.4626|144.6933|Piti Village
+13.3861|144.6723|Santa Rita Village
+13.4633|144.7541|Sinajana Village
+13.3551|144.7584|Talofofo Village
+13.4875|144.7814|Tamuning
+13.4877|144.7814|Tamuning-Tumon-Harmon Village
+13.5360|144.8886|Yigo Village
+13.4097|144.7770|Yona Village

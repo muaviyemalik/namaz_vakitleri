@@ -8,7 +8,7 @@ Modern arayüzü, temiz kod mimarisi ve kapsamlı özellikleriyle Flutter kullan
 
 ## ✨ Öne Çıkan Özellikler
 
-* 🌍 **219 Ülke, 136.589 Şehir:** Avrupa, Amerika, Asya ve Afrika kıtalarındaki 219 ülkenin **tüm şehirleri** uygulamada dahildir. Ülke seçimi **Ayarlar** menüsünden yapılır (kıta gruplarına ayrılmış, aramalı liste); şehir seçimi ana ekrandaki şehir düğmesiyle yapılır. Şehirler Türkçe karakterden bağımsız aranır ("suleyman" yazan kullanıcı "Süleyman" bulur).
+* 🌍 **245 Ülke, 141.135 Şehir:** Avrupa, Amerika, Asya, Afrika ve Okyanusya kıtalarındaki 245 ülkenin **tüm şehirleri** uygulamada dahildir. Ülke seçimi **Ayarlar** menüsünden yapılır (kıta gruplarına ayrılmış, aramalı liste); şehir seçimi ana ekrandaki şehir düğmesiyle yapılır. Şehirler Türkçe karakterden bağımsız aranır ("suleyman" yazan kullanıcı "Süleyman" bulur).
 * 🗺️ **GPS ile Konum Bulma:** `geolocator` ve `geocoding` ile kullanıcının bulunduğu ülkeyi ve şehri otomatik tespit etme. Vakitler tam GPS koordinatı üzerinden hesaplanır.
 * 🕋 **Kıble Pusulası:** Cihazın donanımsal pusula sensörü (`flutter_compass`) ve özel trigonometrik hesaplamalar ile tam isabetli yön bulma. Hedefe ulaşıldığında titreşimli (`HapticFeedback`) geri bildirim.
 * ⏱️ **Canlı Geri Sayım ve Vakitler:** Aladhan API entegrasyonu ile günlük namaz vakitlerinin çekilmesi ve sıradaki vakte kalan sürenin dinamik hesaplanması.
@@ -34,20 +34,20 @@ Proje, Sorumlulukların Ayrılması (Separation of Concerns) prensibine uygun ol
 
 Uygulama, Aladhan API'nin şartlarından dolayı **koordinat tabanlı** çalışır:
 
-Aladhan'in `calendarByCity` uç noktası dahili bir geocoder kullanır ve büyük veri setindeki küçük şehirlerin çoğunu çözemez; bu istekler `503 Geocoding is temporarily unavailable` ile başarısız olur. Bu nedenle uygulama, aynı aylık veriyi (30 gün) koordinatla döndüren `/v1/calendar` uç noktasını kullanır. **136.589 şehir** bu sayede sorunsuz çalışır.
+Aladhan'in `calendarByCity` uç noktası dahili bir geocoder kullanır ve büyük veri setindeki küçük şehirlerin çoğunu çözemez; bu istekler `503 Geocoding is temporarily unavailable` ile başarısız olur. Bu nedenle uygulama, aynı aylık veriyi (30 gün) koordinatla döndüren `/v1/calendar` uç noktasını kullanır. **141.135 şehir** bu sayede sorunsuz çalışır.
 
 Koordinat yaklaşımının ikinci bir faydası daha var: `meta.timezone` her zaman doğru geldiği için ezan alarmları seçilen şehrin saat diliminde doğru zamanlanır.
 
 | | |
 | :--- | :--- |
-| **Kapsam** | Avrupa (53), Amerika (56), Asya (50), Afrika (60) → **219 ülke** |
-| **Şehir sayısı** | **136.589** |
+| **Kapsam** | Avrupa (53), Amerika (56), Asya (50), Afrika (60), Okyanusya (26) → **245 ülke** |
+| **Şehir sayısı** | **141.135** |
 | **Kaynak** | [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) (ODbL-1.0) |
 | **Üretim** | `dart run tool/veri_uretici.dart <kaynak-json>` |
 
-**Dosya düzeni:** `assets/data/ulkeler.json` (ülke listesi, 58 KB) uygulama açılışında yüklenir. Şehirler ülke başına ayrı dosyalarda tutulur (`assets/data/sehirler/TR.txt`) ve **yalnızca seçilen ülke açıldığında** okunup önbelleğe alınır. En kalabalık ülke dosyası (ABD, 12.097 şehir) 334 KB'dir; uygulama açılışında 3.6 MB'lık şehir verisinin tamamı yüklenmez.
+**Dosya düzeni:** `assets/data/ulkeler.json` (ülke listesi, 65 KB) uygulama açılışında yüklenir. Şehirler ülke başına ayrı dosyalarda tutulur (`assets/data/sehirler/TR.txt`) ve **yalnızca seçilen ülke açıldığında** okunup önbelleğe alınır. En kalabalık ülke dosyası (ABD, 12.097 şehir) 334 KB'dir; uygulama açılışında 3.8 MB'lık şehir verisinin tamamı yüklenmez.
 
-**Not:** Okyanusya (Avustralya, Yeni Zelanda vb.) kapsam dışıdır. `United States Minor Outlying Islands` kalıcı nüfusu ve şehri olmadığı için listede yoktur.
+**Kapsam dışı bırakılanlar:** Kutup bölgeleri (Polar) ve şehir/koordinat verisi bulunmayan iki yerleşim — `United States Minor Outlying Islands` (kalıcı nüfusu yok) ve `Tokelau`.
 
 ## 📦 Kullanılan Temel Paketler
 

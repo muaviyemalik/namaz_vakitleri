@@ -181,18 +181,30 @@ void main() {
       };
     });
 
-    test('ülke listesi 219 ülke içeriyor', () {
-      // 220 kaynak ülkenin 1'i (UM - ABD Minor Outlying Islands) kalıcı
-      // nüfusu ve şehri olmadığı için üretici tarafından çıkarıldı.
-      expect(ulkelerJson.length, 219);
+    test('ülke listesi 245 ülke içeriyor', () {
+      // 250 kaynak ülkenin 5'i çıkarıldı:
+      //   UM - United States Minor Outlying Islands (kalıcı nüfusu yok)
+      //   TK - Tokelau (veri setinde şehir ve koordinat bulunmuyor)
+      // Polar bölge ve boş bölge etiketli kayıtlar zaten filtreleniyor.
+      expect(ulkelerJson.length, 245);
       expect(ulkelerJson.containsKey('UM'), isFalse);
+      expect(ulkelerJson.containsKey('TK'), isFalse);
     });
 
-    test('yalnızca istenen bölgeler var (Okyanusya yok)', () {
+    test('beş kıtanın tamamı mevcut', () {
       final bolgeler = ulkelerJson.values.map((u) => u['bolge']).toSet();
-      expect(bolgeler, containsAll(['Europe', 'Americas', 'Asia', 'Africa']));
-      expect(bolgeler, isNot(contains('Oceania')));
-      expect(ulkelerJson.containsKey('AU'), isFalse, reason: 'Avustralya eklenmemeli');
+      expect(bolgeler, containsAll(['Europe', 'Americas', 'Asia', 'Africa', 'Oceania']));
+      // Kutup bölgesi kapsam dışı
+      expect(bolgeler, isNot(contains('Polar')));
+    });
+
+    test('Okyanusya ülkeleri gerçekten eklenmiş', () {
+      final okyanusya = ulkelerJson.values
+          .where((u) => u['bolge'] == 'Oceania')
+          .toList();
+      expect(okyanusya.length, 26);
+      final kodlar = okyanusya.map((u) => u['iso2']).toSet();
+      expect(kodlar, containsAll(['AU', 'NZ', 'FJ', 'PG', 'WS', 'TO']));
     });
 
     test('her ülkenin ISO2 kodu 2 karakter', () {
@@ -216,9 +228,10 @@ void main() {
     });
 
     test('şehir dosyaları ayrıştırılabilir ve koordinatları geçerli', () {
-      // Rastgele 12 ülke örnekliyoruz (hepsi 136 bin şehrin bir kısmı).
+      // Rastgele 13 ülke örnekliyoruz (hepsi 141 bin şehrin bir kısmı),
+      // beş kıtadan temsilciler dahil.
       const ornekUlkeler = [
-        'TR', 'US', 'BR', 'DE', 'EG', 'NG', 'JP', 'CN', 'IN', 'FR', 'ZA', 'KZ',
+        'TR', 'US', 'BR', 'DE', 'EG', 'NG', 'JP', 'CN', 'IN', 'FR', 'ZA', 'KZ', 'AU',
       ];
       var toplam = 0;
       for (final iso in ornekUlkeler) {

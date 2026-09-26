@@ -1,0 +1,37 @@
+1.8529|172.9437|Abaiang
+0.4000|173.8667|Abemama
+1.3532|173.0426|Ambo Village
+0.1643|173.6058|Aranuka
+-2.6349|176.8223|Arorae
+1.3292|172.9752|Bairiki Village
+-0.8550|169.5380|Banaba
+1.9833|-157.3653|Banana Village
+1.3454|173.0346|Banraeaba Village
+-1.3296|175.9807|Beru
+1.3580|172.9211|Betio Village
+1.3673|173.1241|Bikenibeu Village
+1.3808|173.1389|Bonriki Village
+1.3908|173.1308|Buota Village
+3.1721|172.7968|Butaritari
+1.3615|173.0811|Eita Village
+-2.8100|-171.6780|Kanton
+1.9400|-157.4750|Kiritimati
+0.2652|173.3888|Kuria
+1.9849|-157.4750|London Village
+0.9187|172.9976|Maiana
+3.3882|172.9966|Makin
+2.0108|173.2764|Marakei
+3.9081|-159.3883|Napari Village
+1.3636|173.1394|Nawerewere Village
+-1.3657|176.4641|Nikunau
+-0.6667|174.3500|Nonouti
+-1.8859|175.5639|Onotoa
+2.0538|173.2635|Rawannawi Village
+-1.4224|174.8981|Tabiteuea
+3.8667|-159.3333|Tabuaeran
+2.0164|-157.4877|Tabwakea Village
+-2.5011|175.9862|Tamana
+1.3278|172.9770|Tarawa
+1.3331|173.0116|Teaoraereke Village
+1.3629|173.1623|Temaiku Village
+4.6876|-160.3880|Teraina

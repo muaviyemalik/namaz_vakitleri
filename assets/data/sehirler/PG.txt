@@ -1,0 +1,100 @@
+-10.0833|148.9167|Abau
+-3.1370|142.3491|Aitape
+-3.2500|142.0833|Aitape Lumi
+-10.2500|150.0833|Alotau
+-6.0500|144.5667|Angalimp South Wahgi
+-6.2298|155.5660|Arawa
+-5.5333|144.1500|Baiyer Mul
+-4.5000|145.0000|Bogia
+-7.4167|146.7500|Bulolo
+-6.2281|155.5658|Central Bougainville
+-6.1667|145.0833|Chuave
+-9.0779|143.2089|Daru
+-5.9833|145.2333|Daulo
+-5.6833|144.3667|Dei
+-9.5833|150.7500|Esa’ala
+-6.4167|147.5000|Finschhafen
+-4.4833|151.8667|Gazelle
+-8.3333|147.0000|Goilala
+-6.0500|145.3833|Goroka
+-6.2500|144.8833|Gumine
+-5.8333|144.2833|Hagen
+-6.2167|145.6667|Henganofi
+-7.1833|146.9500|Huon Gulf
+-6.2821|143.9935|Ialibu
+-6.3840|144.0838|Ialibu Pangia
+-9.3333|148.5833|Ijivitari
+-5.5333|144.5667|Jimi
+-6.0833|147.0000|Kabwum
+-6.6667|144.0000|Kagua Erave
+-6.4167|145.9167|Kainantu
+-9.1365|147.2791|Kairuku-Hiri
+-5.8333|143.5500|Kandep
+-6.2066|149.5474|Kandrian
+-6.0833|149.9167|Kandrian Gloucester
+-6.5833|144.8333|Karimui Nomane
+-3.0000|151.4167|Kavieng
+-7.7960|146.0930|Kerema
+-5.9333|144.8833|Kerowagi
+-6.2146|155.6325|Kieta
+-7.2500|144.3333|Kikori
+-5.5508|150.1377|Kimbe
+-8.4833|151.0667|Kiriwina Goodenough
+-6.1219|141.2906|Kiunga
+-8.8778|147.7364|Kokoda
+-4.4000|152.2833|Kokopo
+-6.1167|143.0000|Komo Margarima
+-5.2500|144.0000|Kompiam Ambum
+-5.4167|142.5000|Koroba-Lake Kopiago
+-5.9167|145.0500|Kundiawa
+-6.5000|146.8333|Lae
+-5.3833|143.1667|Lagaip Porgera
+-2.0341|147.2717|Lorengau
+-6.4500|145.2500|Lufa
+-5.2215|145.7869|Madang
+-2.0963|146.9661|Manus
+-6.6415|146.8604|Markham
+-6.1475|143.6563|Mendi
+-7.2500|146.1667|Menyamya
+-7.1667|142.0333|Middle Fly
+-4.9167|144.7500|Middle Ramu
+-8.7106|141.6367|Morehead
+-5.8575|144.2306|Mount Hagen
+-4.3333|152.8333|Namatanai
+-9.4226|147.1664|National Capital
+-6.4667|146.9667|Nawae
+-6.3333|143.3333|Nipa Kutubu
+-5.4219|154.6728|North Bougainville
+-5.7290|141.3748|North Fly
+-5.8000|144.6833|North Wahgi
+-3.6667|142.4167|Nuku
+-6.5543|145.9733|Obura Wonenara
+-6.6333|145.5000|Okapa
+-6.3164|155.4848|Panguna
+-5.5000|151.3333|Pomio
+-8.7654|148.2325|Popondetta
+-5.4630|143.1480|Porgera
+-9.4772|147.1509|Port Moresby
+-4.1833|152.1667|Rabaul
+-5.7230|146.4615|Rai Coast
+-9.7500|147.8333|Rigo
+-10.6104|150.6621|Samarai
+-10.4964|150.5470|Samarai Murua
+-6.0833|145.0167|Sinasina Yonggamugl
+-9.0000|147.9167|Sohe
+-6.7459|155.6964|South Bougainville
+-8.6167|142.1167|South Fly
+-4.8000|145.5500|Sumkar
+-5.6667|149.5833|Talasea
+-5.9833|144.1500|Tambul Nebilyer
+-5.8450|142.9467|Tari
+-6.2833|142.8333|Tari Pori
+-4.9167|141.6667|Telefomin
+-6.1500|147.5333|Tewai Siassi
+-6.1167|145.5167|Unggai Bena
+-5.5333|145.1667|Usino Bundi
+-2.6837|141.3020|Vanimo
+-3.3667|141.3500|Vanimo Green
+-5.3333|143.6500|Wabag
+-5.6667|143.9167|Wapenamanda
+-7.3378|146.7165|Wau
