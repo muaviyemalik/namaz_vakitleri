@@ -3,13 +3,14 @@
 10.5167|-61.4167|Chaguanas
 10.4225|-61.4675|Couva
 10.2085|-61.4527|Debe
+10.7208|-61.5662|Diego Martin
 10.6492|-61.4989|Laventille
 10.3062|-61.4467|Marabella
 10.2798|-61.4459|Mon Repos
 10.6625|-61.5370|Mucurapo
 10.6530|-61.3630|Paradise
-10.6997|-61.5472|Petit Valley
 10.1667|-61.4667|Peñal
+10.6997|-61.5472|Petit Valley
 10.1741|-61.6841|Point Fortin
 10.6667|-61.5189|Port of Spain
 10.2718|-61.3710|Princes Town

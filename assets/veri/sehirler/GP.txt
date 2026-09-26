@@ -17,14 +17,14 @@
 16.3211|-61.6636|Morne-à-l'Eau
 16.1695|-61.7404|Petit-Bourg
 16.3921|-61.5371|Petit-Canal
-16.2270|-61.8063|Pointe-Noire
 16.2331|-61.5623|Pointe-à-Pitre
+16.2270|-61.8063|Pointe-Noire
 16.4201|-61.5704|Port-Louis
 16.0406|-61.7365|Saint-Claude
-16.2783|-61.3362|Saint-François
-15.9654|-61.3556|Saint-Louis
 16.2565|-61.4720|Sainte-Anne
 16.2937|-61.7660|Sainte-Rose
+16.2783|-61.3362|Saint-François
+15.9654|-61.3556|Saint-Louis
 15.8554|-61.6533|Terre-de-Bas
 15.8580|-61.6096|Terre-de-Haut
 15.9931|-61.6905|Trois-Rivières

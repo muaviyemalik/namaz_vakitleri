@@ -1,6 +1,7 @@
 7.3650|80.6172|Akurana
 7.4105|80.6092|Alawatugoda
 6.2355|80.0538|Ambalangoda
+6.1196|81.0214|Ambalantota
 7.3525|80.6138|Ambatenna
 7.2975|81.6820|Ampara
 7.0833|81.7500|Ampara District
@@ -11,6 +12,7 @@
 6.8964|79.9181|Battaramulla South
 7.7102|81.6924|Batticaloa
 7.7500|81.4997|Batticaloa District
+6.0496|80.7325|Beliatta
 6.4260|79.9958|Bentota
 6.4788|79.9828|Beruwala
 7.5758|79.7953|Chilaw
@@ -76,6 +78,7 @@
 7.7500|80.2500|Kurunegala District
 7.3283|80.6736|Madawala
 6.8495|79.9251|Maharagama
+8.9894|79.8784|Mannar
 7.4698|80.6217|Matale
 7.6598|80.7073|Matale District
 5.9485|80.5353|Matara
@@ -89,6 +92,7 @@
 6.8714|81.3487|Monaragala
 6.6667|81.3333|Moneragala
 6.7815|79.8835|Moratuwa
+9.2680|80.8150|Mullaittivu
 6.9330|79.9297|Mulleriyawa
 7.0370|80.5163|Nawalapitiya
 7.2083|79.8358|Negombo
@@ -109,6 +113,7 @@
 7.9397|81.0027|Polonnaruwa
 8.0000|81.0000|Polonnaruwa District
 7.3809|80.5891|Poojapitiya
+6.8762|81.8267|Pottuvil
 7.1053|80.6367|Pussellawa
 8.0362|79.8283|Puttalam
 8.0454|79.9319|Puttalam District

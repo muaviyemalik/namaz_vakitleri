@@ -1,21 +1,25 @@
 33.7278|35.9311|Aanjar
+34.1794|36.4208|Aarsâl
 33.1102|35.4025|Ain Ebel
+33.8053|35.6000|Aley
 33.8339|35.5442|Baabda
 34.0058|36.2181|Baalbek
 34.2553|35.6581|Batroûn
-34.2508|36.0106|Bcharré
+34.2508|36.0106|Bcharré|Bsharri
 33.8933|35.5016|Beirut
 33.7950|35.6511|Bhamdoun
 33.8086|35.6597|Bhamdoûn el Mhatta
+34.1211|35.6481|Byblos|Jbaïl
 34.5333|36.1667|Caza de Aakkar
 33.8459|35.6679|Caza de Baabda
 34.0982|36.2716|Caza de Baalbek
 33.1596|35.4114|Caza de Bent Jbaïl
 33.3944|35.4448|Caza de Nabatîyé
+33.9647|36.0175|Chmistâr
+34.3942|36.3847|El Hermel
 33.1181|35.1397|En Nâqoûra
 33.5175|35.3689|Ghazieh
 33.4073|35.4817|Habboûch
-34.1211|35.6481|Jbaïl
 33.9808|35.6178|Jounieh
 33.3603|35.5911|Marjayoûn
 33.3789|35.4839|Nabatîyé et Tahta

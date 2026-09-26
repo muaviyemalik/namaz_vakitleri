@@ -254,16 +254,36 @@ void main() {
       expect(toplam, greaterThan(20000), reason: 'toplam şehir beklenenden az');
     });
 
-    test('şehir dosyaları alfabetik sıralı (arama için)', () {
+    test('şehir dosyaları arama anahtarına göre sıralı', () {
+      // Sıralama anahtarı, aramanın kullandığı normalize() ile aynıdır.
+      // Ham kod noktası sırası kullanılsaydı sonuç yanlış olurdu:
+      //   "Afşin" vs "Afyonkarahisar" -> ham sırada 'ş' (U+015F) 'y' (U+0079)
+      //   kod noktasından büyük olduğu için "Afyonkarahisar" öne geçerdi.
+      //   Oysa Türkçe alfabede ş, y'den önce gelir; normalize() da ş->s
+      //   ile doğru sırayı verir. Kullanıcı listede "Afşin"'i önce görür.
       for (final iso in ['TR', 'DE', 'JP', 'BR']) {
         final satirlar = File('assets/veri/sehirler/$iso.txt')
             .readAsLinesSync(encoding: utf8)
             .where((l) => l.trim().isNotEmpty)
-            .map((l) => Sehir.satirdan(l).ad.toLowerCase())
+            .map((l) => UlkeVerisi.normalize(Sehir.satirdan(l).ad))
             .toList();
         final sirali = [...satirlar]..sort();
-        expect(satirlar, sirali, reason: '$iso alfabetik değil');
+        expect(satirlar, sirali, reason: '$iso arama anahtarına göre sıralı değil');
       }
+    });
+
+    test('Türkiye dosyasında Afşin, Afyonkarahisar öncesinde', () {
+      // Bu, yukarıdaki sıralama kuralının somut bir örneğidir.
+      final adlar = File('assets/veri/sehirler/TR.txt')
+          .readAsLinesSync(encoding: utf8)
+          .where((l) => l.trim().isNotEmpty)
+          .map((l) => Sehir.satirdan(l).ad)
+          .toList();
+      final afsin = adlar.indexWhere((a) => a == 'Afşin');
+      final afyon = adlar.indexWhere((a) => a == 'Afyonkarahisar');
+      expect(afsin, isNonNegative, reason: 'Afşin bulunamadı');
+      expect(afyon, isNonNegative, reason: 'Afyonkarahisar bulunamadı');
+      expect(afsin, lessThan(afyon));
     });
   });
 }

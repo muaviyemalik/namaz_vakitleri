@@ -9,17 +9,17 @@
 29.3375|47.6581|Al Jahrā’
 29.1450|48.1303|Al Mahbūlah
 29.0961|48.1328|Al Manqaf
-28.6392|47.9306|Al Wafrah
 29.2393|48.0886|Al-Masayel
+28.6392|47.9306|Al Wafrah
 29.1458|48.0947|Ar Riqqah
 29.3117|48.0742|Ar Rumaythīyah
 29.2950|47.9331|Ar Rābiyah
-29.3339|48.0761|As Sālimīyah
 29.3472|47.9617|Ash Shāmīyah
+29.3339|48.0761|As Sālimīyah
 29.4425|48.2747|Az Zawr
 29.3032|48.0488|Bayān
 29.2692|47.9781|Janūb as Surrah
 29.3697|47.9783|Kuwait City
-29.2958|48.0786|Salwá
 29.2572|48.0572|Şabāḩ as Sālim
+29.2958|48.0786|Salwá
 29.3328|48.0286|Ḩawallī

@@ -1,9 +1,10 @@
 -28.7666|28.2494|Butha-Buthe
--28.8718|28.0450|Leribe
+-28.8718|28.0450|Hlotse|Leribe
+-29.2786|27.5242|Mabote
 -29.8230|27.2374|Mafeteng
 -28.8866|27.8991|Maputsoe
 -29.3167|27.4833|Maseru
--30.1514|27.4769|Mohale’s Hoek
+-30.1514|27.4769|Mohale's Hoek
 -29.2894|29.0675|Mokhotlong
 -29.6167|27.7667|Nako
 -30.1154|28.6894|Qacha’s Nek

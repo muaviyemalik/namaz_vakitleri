@@ -19,16 +19,16 @@
 14.7046|-61.1568|Le Morne-Vert
 14.8220|-61.2375|Le Prêcheur
 14.6744|-61.0169|Le Robert
-14.5421|-60.9006|Le Vauclin
 14.4995|-61.1148|Les Anses-d'Arlet
 14.5329|-61.0788|Les Trois-Îlets
+14.5421|-60.9006|Le Vauclin
 14.8474|-61.1671|Macouba
 14.5027|-60.9382|Rivière-Pilote
 14.5262|-61.0035|Rivière-Salée
-14.5618|-60.9645|Saint-Esprit
-14.6835|-61.0819|Saint-Joseph
-14.7717|-61.2148|Saint-Pierre
 14.4314|-60.8928|Sainte-Anne
 14.4904|-60.9879|Sainte-Luce
 14.7730|-61.0496|Sainte-Marie
+14.5618|-60.9645|Saint-Esprit
+14.6835|-61.0819|Saint-Joseph
+14.7717|-61.2148|Saint-Pierre
 14.6518|-61.1413|Schœlcher

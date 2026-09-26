@@ -46,8 +46,8 @@
 27.4661|89.6419|Thimphu
 27.1333|91.6167|Thrimshing
 26.9833|89.9667|Thumgaon
-27.5833|91.4667|Trashi Yangtse
 27.3331|91.5542|Trashigang
+27.5833|91.4667|Trashi Yangtse
 27.4994|90.5047|Trongsa
 27.4333|89.6500|Tshalunang
 27.0219|90.1229|Tsirang

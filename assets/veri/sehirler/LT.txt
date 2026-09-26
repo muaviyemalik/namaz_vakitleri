@@ -2,12 +2,13 @@
 56.2500|22.7500|Akmenė
 54.8804|23.9084|Aleksotas
 54.3963|24.0414|Alytus
+54.7078|25.3171|Antakalnis
 55.5256|25.1026|Anyksciai
 55.2620|23.4770|Ariogala
 54.5795|24.5268|Aukstadvaris
 54.6000|25.1932|Baltoji Vokė
-56.2000|24.7500|Birzai
 54.6167|24.0333|Birštonas
+56.2000|24.7500|Birzai
 55.4139|22.6089|Būgai
 54.9153|23.9683|Dainava (Kaunas)
 54.3667|24.3333|Daugai
@@ -33,6 +34,7 @@
 54.4170|23.2230|Kalvarija
 54.4147|23.2248|Kalvarija Municipality
 54.9706|24.0618|Karmėlava
+54.6903|25.2190|Karoliniškės
 54.9027|23.9096|Kaunas
 54.7490|23.4900|Kazlų Rūda
 54.7475|23.4927|Kazlų Rūda Municipality
@@ -55,7 +57,9 @@
 56.3167|22.3333|Mazeikiai
 55.2333|25.4167|Moletai
 54.6795|25.2686|Naujamiestis
+54.6643|25.2842|Naujininkai
 56.3167|22.9000|Naujoji Akmene
+54.6951|25.4197|Naujoji Vilnia
 54.8478|25.4699|Nemenčinė
 55.3667|21.0667|Neringa
 55.3086|20.9965|Nida
@@ -66,8 +70,8 @@
 55.9175|21.0686|Palanga
 55.7333|24.3500|Panevėžys
 55.7330|24.3761|Panevėžys District Municipality
-56.0667|24.4000|Pasvalys
 54.7343|25.2191|Pašilaičiai
+56.0667|24.4000|Pasvalys
 54.6998|25.1839|Pilaitė
 56.0466|21.8162|Plateliai
 55.9114|21.8442|Plunge
@@ -84,15 +88,23 @@
 54.5161|24.8308|Rūdiškės
 54.9500|23.0500|Sakiai
 56.0565|21.5689|Salantai
+54.3000|25.3833|Šalčininkai
 54.9493|23.8832|Sargėnai
 56.1685|22.0907|Seda
+55.7493|23.7561|Šeduva
 54.6090|24.9800|Senieji Trakai
+54.7097|25.2505|Šeškinė
+55.9333|23.3167|Šiauliai
+54.9291|23.8860|Šilainiai
+55.4667|22.2000|Šilalė
 55.3489|21.4831|Silute
 54.3820|23.6460|Simnas
 55.0500|24.9500|Sirvintos
 54.6140|25.3957|Skaidiškės
 56.2667|21.5333|Skuodas
 55.1500|26.1667|Svencionys
+55.1616|26.0018|Švenčionėliai
+56.0261|21.0841|Šventoji
 55.2522|22.2897|Taurage
 55.9814|22.2472|Telsiai
 54.6378|24.9343|Trakai
@@ -114,15 +126,7 @@
 54.7333|25.3833|Vilnius District Municipality
 54.6286|22.8227|Virbalis
 55.6000|26.4167|Visaginas
-55.7333|26.2500|Zarasai
-54.3000|25.3833|Šalčininkai
-55.7493|23.7561|Šeduva
-54.7097|25.2505|Šeškinė
-55.9333|23.3167|Šiauliai
-54.9291|23.8860|Šilainiai
-55.4667|22.2000|Šilalė
-56.0261|21.0841|Šventoji
-55.1616|26.0018|Švenčionėliai
 56.3615|23.2509|Žagarė
+55.7333|26.2500|Zarasai
 55.3594|21.7036|Žemaičių Naumiestis
 54.8073|24.4407|Žiežmariai

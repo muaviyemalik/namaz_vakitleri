@@ -1,16 +1,17 @@
 34.1463|73.2117|Abbottabad
 27.9368|69.3194|Adilpur
+29.1427|71.2577|Ahmadpur East|Ahmedpur East
 30.6779|71.7434|Ahmadpur Sial
-29.1427|71.2577|Ahmedpur East
-34.0034|72.1256|Akora
+34.0034|72.1256|Akora|Akora Khattak
+30.8770|74.0552|Alahabad
 30.4898|67.5218|Alik Ghund
-29.3824|70.9111|Alipur Chatha
+29.3824|70.9111|Alipur|Alipur Chatha
 33.5361|70.3461|Alizai
 34.0058|71.9297|Aman Garh
 34.1873|73.0908|Amirabad
 30.2906|73.0657|Arifwala
 34.1077|72.2452|Ashanagro Koto
-33.7667|72.3598|Attock Tehsil
+33.7667|72.3598|Attock City|Attock Tehsil
 26.2116|65.4294|Awārān
 31.9904|74.6641|Baddomalhi
 24.6560|68.8370|Badin
@@ -35,23 +36,28 @@
 31.6269|71.0647|Bhakkar
 32.2658|72.8981|Bhalwal
 26.5583|67.7214|Bhan
+32.8605|72.7568|Bhaun
 31.5688|72.6492|Bhawana
 32.4821|72.9086|Bhera
-32.9746|74.0785|Bhimbar
+32.9746|74.0785|Bhimbar|Bhimber
 26.9104|68.1947|Bhiria
 25.8056|68.4914|Bhit Shah
 32.4297|74.3635|Bhopalwala
 27.1830|68.6358|Bozdar Wada
 24.8667|68.3333|Bulri
 34.4430|72.4993|Buner
+36.2733|72.2593|Buni
 30.1667|72.6500|Burewala
+33.9811|73.7761|Bāgh
 29.9848|69.6994|Bārkhān District
 27.8584|68.8338|Chak
-30.7520|73.0283|Chak Azam Saffo
+30.7520|73.0283|Chak Azam Saffo|Chak Azam Sahu
+31.5451|73.8289|Chak Five Hundred Seventy-five
 31.5681|73.1832|Chak Jhumra
 30.4292|73.0452|Chak One Hundred Twenty Nine Left
+33.2641|73.7853|Chaksawari
 30.4239|72.6974|Chak Thirty-one -Eleven Left
-31.1777|71.2048|Chak Two Hundred Forty-Nine TDA
+31.1777|71.2048|Chak Two Hundred Forty-Nine TDA|Fatehpur
 32.9329|72.8539|Chakwal
 30.9177|66.4526|Chaman
 25.2936|68.8118|Chamber
@@ -71,6 +77,7 @@
 28.9876|63.5909|Chāgai
 29.4749|67.6517|Dadhar
 26.7303|67.7769|Dadu
+28.0536|69.7025|Daharki
 30.5705|70.9372|Daira Din Panah
 29.5577|70.3761|Dajal
 28.8885|64.4062|Dalbandin
@@ -78,18 +85,21 @@
 24.7938|68.1798|Daromehar
 31.7845|71.1020|Darya Khan
 26.6776|68.2867|Darya Khan Marri
-32.3242|74.3504|Daska
+32.3242|74.3504|Daska|Daska Kalan
 32.8750|71.5701|Daud Khel
 26.5016|67.9708|Daulatpur
 33.1928|73.1410|Daultala
 26.4553|68.3183|Daur
+33.3122|73.7035|Dayal
 29.0362|69.1585|Dera Bugti
 28.9425|69.0688|Dera Bugti District
 30.0459|70.6403|Dera Ghazi Khan
 31.8313|70.9017|Dera Ismail Khan
 31.8596|70.6488|Dera Ismāīl Khān District
+28.5466|68.2231|Dera Murad Jamali
 29.5799|71.7521|Dhanot
 32.4061|74.1371|Dhaunkal
+34.0392|73.5769|Dhirkot
 32.8445|72.5236|Dhok Awan
 25.5048|69.5709|Dhoro Naro
 25.1566|69.1110|Digri
@@ -104,18 +114,20 @@
 31.8344|71.4364|Dullewala
 29.7497|73.2429|Dunga Bunga
 29.8027|71.7434|Dunyapur
+35.0003|72.4522|Dursh Khela
 32.0424|74.2600|Eminabad
 31.4155|73.0897|Faisalabad
 29.4680|73.0349|Faqirwali
 31.8864|72.4136|Faruka
+33.5649|72.6428|Fatehjang
 32.1763|75.0658|Fazilpur
 29.3000|70.4333|Ferozewala
 29.1934|72.8552|Fort Abbas
 25.1188|66.7322|Gadani
 27.3517|68.5215|Gambat
-30.8338|71.9049|Garh Maharaja
 28.0603|67.9803|Garhi Khairo
 27.9063|68.5121|Garhiyasin
+30.8338|71.9049|Garh Maharaja
 24.7418|67.5853|Gharo
 28.1388|69.0824|Ghauspur
 28.0044|69.3157|Ghotki
@@ -132,27 +144,36 @@
 25.1216|62.3254|Gwadar
 32.6404|74.5690|Hadali
 32.0710|73.6880|Hafizabad
+33.7739|73.8944|Hajira
+33.8769|72.3276|Haji Shah
 25.8146|68.4220|Hala
 33.5320|71.0595|Hangu
+30.6325|72.8703|Harappa
 33.9978|72.9349|Haripur
 30.1008|67.9382|Harnai
 32.2787|71.5543|Harnoli
 29.6121|73.1380|Harunabad
 33.8195|72.6890|Hasan Abdal
 29.6922|72.5457|Hasilpur
-30.4510|73.6937|Haveli Lakha
 34.0535|73.1599|Havelian
-33.9099|72.4918|Hazro
+30.4510|73.6937|Haveli Lakha
+33.9099|72.4918|Hazro|Hazro City
 27.2109|68.4160|Hingorja
-30.7417|73.8233|Hujra Shah Muqeem
+25.0255|66.8853|Hub
+30.7417|73.8233|Hujra Shah Muqeem|Hujra Shah Muqim
 25.3924|68.3737|Hyderabad
 33.7215|73.0433|Islamabad
+33.1897|73.8383|Islamgarh
 24.6990|70.1798|Islamkot
 28.2819|68.4376|Jacobabad
+35.6884|74.6241|Jaglot
+33.9642|72.2210|Jahangira
+30.0393|71.8167|Jahanian
 31.8054|72.2774|Jahanian Shah
 32.6412|74.2056|Jalalpur Jattan
 29.5051|71.2220|Jalalpur Pirwala
 29.6424|70.5952|Jampur
+34.0015|71.3801|Jamrud
 25.4361|68.2802|Jamshoro
 33.4330|72.0188|Jand
 31.8210|73.9181|Jandiala Sher Khan
@@ -162,7 +183,7 @@
 32.2902|72.2818|Jauharabad
 28.3688|67.5430|Jhal Magsi
 31.3057|72.3259|Jhang
-31.2698|72.3169|Jhang Sadar
+31.2698|72.3169|Jhang Sadar|Jhang Sadr
 32.3619|72.6227|Jhawarian
 32.9345|73.7310|Jhelum
 25.9553|68.8887|Jhol
@@ -173,6 +194,7 @@
 30.4047|71.8627|Kabirwala
 24.4804|68.9855|Kadhan
 31.3671|74.3690|Kahna Nau
+29.6243|71.9144|Kahror Pakka
 33.5918|73.3874|Kahuta
 34.9980|72.0730|Kakad Wari Dir Upper
 32.9616|71.5464|Kalabagh
@@ -192,8 +214,10 @@
 27.0592|68.2102|Kandiaro
 30.7647|74.1229|Kanganpur
 24.8608|67.0104|Karachi
+24.9628|67.1194|Karachi University Employees Co-operative Housing Society
 33.1163|71.0935|Karak
 26.8971|68.4064|Karaundi
+36.3269|74.6614|Karimabad
 24.8082|68.6048|Kario Ghanwar
 31.2246|70.9515|Karor
 28.4326|69.5836|Kashmor
@@ -202,45 +226,48 @@
 24.1442|67.4509|Keti Bandar
 30.7524|67.7113|Khadan Khak
 26.1471|68.7178|Khadro
+33.8459|73.8272|Khai Gala
 28.0644|69.7036|Khairpur
 27.5295|68.7592|Khairpur Mir’s
 27.0906|67.7349|Khairpur Nathan Shah
-29.5814|72.2380|Khairpur Tamiwali
+29.5814|72.2380|Khairpur Tamewah|Khairpur Tamiwali
 34.0600|72.8896|Khalabat
 32.7426|72.7348|Khandowa
 30.3017|71.9321|Khanewal
-31.8329|73.6221|Khanga Dogran
+31.8329|73.6221|Khanga Dogran|Khangah Dogran
 29.9145|71.1607|Khangarh
 28.6474|70.6569|Khanpur
 27.8409|69.4130|Khanpur Mahar
 28.5846|65.4150|Kharan
 32.8161|73.8870|Kharian
 32.6491|73.0106|Khewra
-31.4994|73.2676|Khurrianwala
-32.2967|72.3525|Khushab
+31.4994|73.2676|Khurarianwala|Khurrianwala
+32.2967|72.3525|Khushab|Khushāb
 27.8119|66.6110|Khuzdar
 27.4868|66.5870|Khuzdār District
 27.9631|64.5711|Khārān District
 33.5820|71.4493|Kohat
 29.8965|69.2532|Kohlu
 29.6238|71.9167|Kohror Pakka
-30.4691|70.9670|Kot Addu Tehsil
+30.4691|70.9670|Kot Addu|Kot Addu Tehsil
 27.3416|68.7082|Kot Diji
 32.3331|74.5469|Kot Ghulam Muhammad
+33.5184|73.9022|Kotli
+33.4456|73.9156|Kotli District
+32.5889|74.4947|Kotli Loharan
 30.2038|66.9872|Kot Malik Barkhurdar
 32.1884|73.0299|Kot Mumin
 31.1707|74.1013|Kot Radha Kishan
 32.4121|74.6286|Kot Rajkour
+25.3657|68.3083|Kotri
 28.5521|70.4684|Kot Samaba
 30.7737|70.9313|Kot Sultan
-33.5184|73.9022|Kotli
-33.4456|73.9156|Kotli District
-32.5889|74.4947|Kotli Loharan
-25.3657|68.3083|Kotri
 31.9306|70.4596|Kulachi
 32.4577|71.4789|Kundian
 32.5298|73.9749|Kunjah
 25.1787|69.5657|Kunri
+33.3844|73.2637|Kuri Dulal
+25.9412|68.8177|Kurkali Sindh Pakistan
 33.3829|71.3373|Lachi
 32.1569|74.1156|Ladhewala Waraich
 31.5580|74.3507|Lahore
@@ -251,6 +278,7 @@
 34.0988|71.1411|Landi Kotal
 27.5590|68.2120|Larkana
 25.7863|66.6033|Lasbela
+32.6968|71.9327|Lawa
 30.9613|70.9390|Layyah
 30.9680|70.9430|Layyah District
 32.2039|72.9512|Liliani
@@ -261,12 +289,15 @@
 27.7531|68.4517|Madeji
 29.8012|72.1740|Mailsi
 32.5545|73.2127|Malakwal
+32.5549|73.2122|Malakwal City
 24.9434|67.2059|Malir Cantonment
 30.8304|72.7994|Mamu Kanjan
 31.5880|73.6893|Mananwala
 32.5870|73.4912|Mandi Bahauddin
 32.5833|73.5000|Mandi Bahauddin District
 31.8931|72.3817|Mangla
+31.5333|74.5500|Manhala
+25.9083|68.2368|Manjhand
 31.3877|71.4405|Mankera
 34.3302|73.1968|Mansehra
 34.1979|72.0496|Mardan
@@ -278,7 +309,8 @@
 32.7852|73.8231|Mehmand Chak
 28.1077|68.0255|Mehrabpur
 30.4407|72.3568|Mian Channun
-31.2024|73.9486|Mianke Mor
+31.2024|73.9486|Mianke Mor|Phool Nagar
+28.1534|68.6418|Mian Sahib
 32.5776|71.5285|Mianwali
 30.1636|73.5686|Minchinabad
 34.7795|72.3627|Mingora
@@ -292,12 +324,14 @@
 25.3098|69.0502|Mirwah Gorchani
 32.2454|72.1061|Mitha Tiwana
 24.7370|69.7971|Mithi
+31.4810|74.3256|Model Town
 26.6632|68.0002|Moro
 30.8056|70.8491|Moza Shahwala
 30.1968|71.4782|Multan
 30.0833|71.6667|Multan District
 31.8026|74.2577|Muridke
 33.9084|73.3903|Murree
+34.0337|72.4818|Musa Banda/Musa khan kallay
 30.8922|73.4989|Mustafabad
 30.0726|71.1938|Muzaffargarh
 34.3700|73.4708|Muzaffarābād
@@ -314,20 +348,25 @@
 26.8401|68.1226|Naushahro Firoz
 26.2394|68.4037|Nawabshah
 33.3061|73.4833|Nazir Town
-27.3417|68.0319|New Bādāh
-33.1478|73.7519|New Mirpur
+27.3417|68.0319|New Badah|New Bādāh
+33.1478|73.7519|New Mirpur|New Mirpur City
+28.8270|62.7504|Nok Kundi
 34.2520|71.9666|Noorabad
 32.9509|69.9576|North Wazīristān Agency
 34.0158|71.9812|Nowshera
 33.9983|71.9983|Nowshera Cantonment
+34.0191|71.9745|Nowshera Kalan
 29.5522|66.0229|Nushki
+34.4985|73.0140|Oghi
 30.8103|73.4515|Okara
 25.2102|64.6363|Ormara
 34.0097|71.7944|Pabbi
 26.7746|68.3009|Pad Idan
 32.1050|70.9706|Paharpur
+24.8742|67.0642|Pakistan Employees Cooperative Housing Society
 30.7903|70.8714|Pakki Shagwanwali
 30.3431|73.3894|Pakpattan
+33.7153|73.6837|Pallandri
 26.7375|64.2038|Panjgūr
 27.8562|69.1111|Pano Aqil
 25.2630|63.4692|Pasni
@@ -342,13 +381,14 @@
 30.7666|72.4346|Pir Mahal
 30.5818|66.9941|Pishin
 25.5112|69.3780|Pithoro
+30.1778|73.0651|Qabula
 30.2918|71.6716|Qadirpur Ran
 32.8000|74.1000|Qila Didar Singh
 30.9539|68.3400|Qila Saifullāh
+27.8744|67.7089|Qubo Saeed Khan
 30.1841|67.0014|Quetta
 30.1746|66.7620|Quetta District
 31.7551|72.9140|Rabwah
-28.4199|70.3034|Rahim Yar Khan
 28.4602|70.5284|Rahimyar Khan
 31.2490|74.2153|Raiwind
 31.2208|74.2548|Raja Jang
@@ -365,7 +405,7 @@
 27.6920|68.8950|Rohri
 28.6873|69.9535|Rojhan
 27.9671|68.8039|Rustam
-28.3091|70.1265|Sadiqabad
+28.3091|70.1265|Saddiqabad|Sadiqabad
 30.6659|73.1019|Sahiwal
 26.1384|68.2744|Sakrand
 25.2814|69.3962|Samaro
@@ -383,13 +423,15 @@
 34.2160|71.5548|Shabqadar
 27.8473|67.9068|Shahdad Kot
 25.9254|68.6228|Shahdadpur
+31.5709|73.4853|Shahkot
 31.5617|73.4875|Shahkot Tehsil
 32.2682|72.4688|Shahpur
 26.1541|68.6501|Shahpur Chakar
 29.5752|71.0221|Shahr Sultan
 32.2636|75.1601|Shakargarh
-31.4612|74.1009|Sharqpur
-31.7129|73.9856|Sheikhupura
+33.4341|73.3628|Sharifabad
+31.4612|74.1009|Sharqpur|Sharqpur Sharif
+31.7129|73.9856|Sheikhupura|Shekhupura
 27.9556|68.6382|Shikarpur
 34.6787|72.9849|Shingli Bala
 34.3296|71.1785|Shinpokh
@@ -399,17 +441,19 @@
 29.5430|67.8773|Sibi
 31.8254|72.5406|Sillanwali
 26.0301|68.8087|Sinjhoro
+27.0333|67.8500|Sita Road|Sīta Road
 35.2979|75.6337|Skardu
 27.3047|68.3971|Sobhodero
-32.4621|74.1821|Sodhra
+32.4621|74.1821|Sodhra|Sodhri
 28.5204|68.5430|Sohbatpur
+32.5970|74.1465|Sook Kalan
 32.3040|69.6821|South Wazīristān Agency
 31.8654|73.5088|Sukheke Mandi
 27.7032|68.8589|Sukkur
 28.4928|66.2600|Surab
 32.7182|74.4477|Surkhpur
 34.1202|72.4698|Swabi
-27.0333|67.8500|Sīta Road
+28.9469|61.5866|Taftan
 32.9277|72.4159|Talagang
 30.5269|72.2408|Talamba
 24.8845|68.8144|Talhar
@@ -430,6 +474,7 @@
 28.2403|68.7755|Thul
 30.9713|72.4827|Toba Tek Singh
 34.0703|72.6215|Topi
+33.9905|72.2863|Tordher
 26.0012|63.0485|Turbat
 28.1643|69.7311|Ubauro
 25.3633|69.7418|Umarkot
@@ -440,9 +485,11 @@
 34.1878|71.7627|Utmanzai
 30.0445|72.3556|Vihari
 33.8100|72.7097|Wah
+33.7709|72.7512|Wah Cantt
 32.2989|69.5725|Wana
 27.4480|67.7965|Warah
 31.5500|73.8333|Warburton
+27.7273|64.8097|Washuk
 32.4432|74.1200|Wazirabad
 31.0000|72.0000|West Punjab
 29.1212|71.7446|Yazman

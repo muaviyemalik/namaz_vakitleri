@@ -21,6 +21,7 @@
 8.4826|-82.7909|Aserrío de Gariché
 8.0421|-80.9253|Atalaya
 7.3248|-80.4536|Ave María
+8.4640|-82.5262|Bágala
 9.1418|-81.8942|Bahía Azul
 7.7052|-80.4534|Bahía Honda
 8.7706|-82.4331|Bajo Boquete
@@ -42,8 +43,8 @@
 8.2191|-82.2159|Boca Chica
 8.5299|-82.0313|Boca de Balsa
 8.0300|-77.5898|Boca de Cupé
-8.0080|-80.4532|Boca de Parita
 8.3530|-82.1138|Boca del Monte
+8.0080|-80.4532|Boca de Parita
 9.3403|-82.2420|Bocas del Toro
 9.3500|-82.6000|Bonyik
 8.5051|-82.5703|Boquerón
@@ -55,7 +56,6 @@
 8.4138|-81.4844|Buenos Aires
 8.4825|-82.6199|Bugaba
 8.5214|-82.6364|Bugabita Arriba
-8.4640|-82.5262|Bágala
 8.5434|-80.1977|Caballero
 9.1086|-79.3369|Cabra Número Uno
 8.5470|-80.1676|Cabuya
@@ -70,19 +70,20 @@
 8.3832|-81.9934|Camarón Arriba
 7.2653|-80.4911|Cambutal
 8.0417|-77.8868|Camogantí
+7.4471|-80.2648|Cañas
+8.7431|-82.9128|Cañas Gordas
+8.5170|-80.4292|Cañaveral
+8.3200|-81.2115|Cañazas
+9.2224|-78.8951|Cañita
 8.1247|-80.9637|Canto del Llano
 8.2986|-80.5548|Capellanía
 8.7564|-79.8800|Capira
 9.4646|-78.9593|Cartí Sugdup
 9.3622|-79.8323|Cativá
 9.1523|-82.2645|Cauchero
-7.4471|-80.2648|Cañas
-8.7431|-82.9128|Cañas Gordas
-8.5170|-80.4292|Cañaveral
-8.3200|-81.2115|Cañazas
-9.2224|-78.8951|Cañita
 7.7810|-80.5306|Cedro Arriba
 8.5403|-82.8002|Celmira
+8.0829|-77.5421|Cémaco
 8.7408|-79.8530|Cermeño
 9.1573|-79.4210|Cerro Azul
 8.4580|-82.0308|Cerro Banco
@@ -119,7 +120,6 @@
 9.3522|-79.9044|Cristóbal
 8.5751|-78.2567|Cucunatí
 8.9709|-79.5461|Curundú
-8.0829|-77.5421|Cémaco
 8.4273|-82.4309|David
 8.9500|-79.7000|Distrito Arraiján
 8.9475|-82.1242|Distrito Chiriquí Grande
@@ -134,8 +134,8 @@
 8.7490|-82.3684|Distrito de Boquete
 8.6879|-82.6794|Distrito de Bugaba
 8.3968|-80.8512|Distrito de Calobre
-8.7623|-79.8828|Distrito de Capira
 8.3560|-81.2863|Distrito de Cañazas
+8.7623|-79.8828|Distrito de Capira
 9.1230|-80.1184|Distrito de Chagres
 8.6000|-79.9167|Distrito de Chame
 9.2500|-82.6333|Distrito de Changuinola
@@ -173,8 +173,8 @@
 8.7167|-82.7667|Distrito de Renacimiento
 7.9144|-81.1613|Distrito de Río de Jesús
 8.5320|-80.0691|Distrito de San Carlos
-8.2697|-81.0011|Distrito de San Francisco
 8.2777|-81.8738|Distrito de San Félix
+8.2697|-81.0011|Distrito de San Francisco
 8.2937|-82.0892|Distrito de San Lorenzo
 8.7206|-80.9586|Distrito de Santa Fé
 9.4833|-79.3167|Distrito de Santa Isabel
@@ -191,10 +191,10 @@
 7.9606|-80.9480|El Barrito
 8.7613|-80.0129|El Cacao
 7.7184|-80.5976|El Calabacito
-7.7257|-80.6435|El Capurí
-7.7312|-80.2969|El Carate
 7.6177|-80.2332|El Cañafístulo
 8.4019|-80.5179|El Caño
+7.7257|-80.6435|El Capurí
+7.7312|-80.2969|El Carate
 7.6856|-80.6593|El Cedro
 8.3988|-80.1872|El Chirú
 8.9496|-79.5472|El Chorrillo
@@ -221,6 +221,7 @@
 8.0290|-81.4438|El María
 7.6758|-80.3213|El Muñoz
 8.2381|-81.7322|El Nancito
+7.9534|-81.1215|El Pájaro
 8.3010|-82.8534|El Palmar
 8.5375|-81.0694|El Pantano
 7.6917|-80.3279|El Pedregoso
@@ -229,7 +230,6 @@
 8.2292|-81.8328|El Porvenir
 8.3769|-80.7943|El Potrero
 9.2667|-79.1167|El Progreso
-7.9534|-81.1215|El Pájaro
 8.4801|-80.1543|El Retiro
 8.1842|-81.4333|El Rincón
 8.1685|-80.6590|El Roble
@@ -244,8 +244,9 @@
 8.3798|-82.8739|Finca Blanco
 7.4816|-80.4069|Flores
 8.0668|-78.3644|Garachiné
-9.2435|-79.6486|Gatuncillo
 9.2892|-79.7720|Gatún
+9.2435|-79.6486|Gatuncillo
+8.5609|-82.7414|Gómez
 9.0918|-79.5193|Gonzalillo
 8.5747|-82.5373|Guabal
 9.4897|-82.6128|Guabito
@@ -258,7 +259,6 @@
 8.6219|-82.5794|Guayabal
 8.5483|-80.0135|Guayabito
 8.5197|-80.5841|Guzman
-8.5609|-82.7414|Gómez
 8.4428|-81.7720|Hato Chami
 8.3352|-81.9703|Hato Corotú
 8.9194|-79.7391|Hato Montaña
@@ -284,6 +284,10 @@
 7.9371|-81.0164|La Garceana
 8.3425|-78.9343|La Guinea
 8.8485|-79.8040|La Herradura
+7.5859|-80.1321|Lajamina
+8.2498|-81.8778|Lajas Adentro
+8.1699|-81.6965|Lajas de Tolé
+8.2906|-81.7705|Lajero Arriba
 8.3388|-80.7295|La Laguna
 7.7310|-80.2530|La Laja
 7.4371|-80.8912|La Loma
@@ -293,19 +297,11 @@
 8.0249|-80.8632|La Montañuela
 7.7167|-80.3833|La Palma
 7.7976|-80.3034|La Pasera
-8.8507|-79.8237|La Pesa
 8.1278|-81.0269|La Peña
+8.8507|-79.8237|La Pesa
 8.5930|-80.4435|La Pintada
 8.2163|-80.8273|La Raya de Calobre
 8.1643|-80.8214|La Raya de Santa María
-7.7511|-80.2922|La Tiza
-7.9146|-80.7033|La Trinidad
-7.4361|-80.5870|La Tronosa
-8.4306|-80.8575|La Yeguada
-7.5859|-80.1321|Lajamina
-8.2498|-81.8778|Lajas Adentro
-8.1699|-81.6965|Lajas de Tolé
-8.2906|-81.7705|Lajero Arriba
 8.5500|-80.0833|Las Colinas
 7.8228|-80.4300|Las Cruces
 9.0892|-79.5281|Las Cumbres
@@ -324,9 +320,14 @@
 7.7647|-80.2748|Las Tablas
 7.7340|-80.3738|Las Trancas
 8.4594|-80.0007|Las Uvas
+7.7511|-80.2922|La Tiza
+7.9146|-80.7033|La Trinidad
+7.4361|-80.5870|La Tronosa
+8.4306|-80.8575|La Yeguada
 7.7542|-81.1156|Leones Arriba
-8.1001|-82.8668|Limones
+8.7487|-79.9097|Lídice
 7.8176|-80.9133|Limón de Tijeras
+8.1001|-82.8668|Limones
 7.7860|-80.4106|Llano Abajo
 7.9764|-80.4165|Llano Bonito
 7.9518|-80.6424|Llano de La Cruz
@@ -339,6 +340,7 @@
 8.7182|-81.4049|Loma Yuca
 8.1090|-81.0135|Los Algarrobos
 8.5303|-82.4230|Los Anastacios
+8.5227|-82.2000|Los Ángeles
 7.5166|-80.1352|Los Asientos
 8.1172|-80.7077|Los Canelos
 8.0233|-81.1194|Los Castillos
@@ -352,13 +354,11 @@
 8.3990|-80.1573|Los Pollos
 7.7830|-80.6452|Los Pozos
 7.9333|-80.4167|Los Santos
-8.5227|-82.2000|Los Ángeles
-8.7487|-79.9097|Lídice
 7.7317|-80.5536|Macaracas
 8.3246|-82.8157|Manaca Civil
 8.3342|-82.8100|Manaca Norte
-7.6781|-81.0041|Mariato
 9.4399|-79.7545|María Chiquita
+7.6781|-81.0041|Mariato
 8.4506|-82.4006|Mata del Nance
 9.0147|-79.8507|Mendoza
 8.4991|-77.9790|Metetí
@@ -399,21 +399,22 @@
 9.2284|-80.0850|Palmas Bellas
 8.7340|-82.4589|Palmira
 8.7396|-82.4523|Palmira Centro
-8.9936|-79.5197|Panamá
+8.9936|-79.5197|Panama City|Panamá
 7.6851|-80.1608|Paraíso
 8.4598|-81.1959|Paredón Arriba
+8.0505|-80.5541|París
 7.9939|-80.5210|Parita
 7.6285|-80.1724|Paritilla
 9.0167|-79.4833|Parque Lefevre
-8.0505|-80.5541|París
+8.9365|-78.9092|Pásiga
 8.5652|-82.8221|Paso Canoas Arriba
 7.5303|-80.0270|Pedasí
 8.3659|-82.4352|Pedregal
+7.7193|-80.2837|Peña Blanca
+8.0150|-80.8037|Peñas Chatas
 8.5189|-80.3573|Penonomé
 7.7746|-80.3249|Perales
 7.9086|-80.6143|Pesé
-7.7193|-80.2837|Peña Blanca
-8.0150|-80.8037|Peñas Chatas
 8.5242|-80.9115|Piedras Gordas
 7.6422|-80.6679|Pitaloza Arriba
 8.4617|-82.1592|Plan de Chorcha
@@ -430,6 +431,7 @@
 8.8805|-79.8280|Potrero Grande
 8.0632|-80.6227|Potuga
 8.4467|-82.8386|Progreso
+7.9788|-77.4876|Púcuro
 8.8807|-82.2241|Pueblo Nuevo
 8.2508|-81.6626|Pueblo Viejo
 8.2777|-82.8621|Puerto Armuelles
@@ -442,21 +444,17 @@
 9.1410|-82.1272|Punta Laurel
 8.9166|-82.1849|Punta Peña
 9.0363|-82.2495|Punta Róbalo
-8.9365|-78.9092|Pásiga
-7.9788|-77.4876|Púcuro
 9.2966|-79.7061|Quebrada Bonita Adentro
 8.4333|-81.7833|Quebrada Canoa
+7.7124|-80.7422|Quebrada del Rosario
 8.0355|-81.3869|Quebrada de Oro
 8.0942|-81.6792|Quebrada de Piedra
-7.7124|-80.7422|Quebrada del Rosario
 8.8404|-81.9964|Quebrada Tula
 8.3717|-82.5267|Querévalo
 8.4710|-82.3935|Quinteño
 8.2244|-81.8275|Remedios
 8.4637|-82.2795|Rincón
 7.8444|-80.6040|Rincón Hondo
-8.1120|-81.3168|Rodeo Viejo
-8.6382|-82.4997|Rovira Arriba
 9.0167|-79.5000|Río Abajo
 9.3715|-79.7881|Río Alejandro
 8.9667|-79.7610|Río Congo
@@ -467,6 +465,8 @@
 7.7119|-80.3590|Río Hondo
 9.3030|-79.7923|Río Rita
 8.8174|-82.8573|Río Sereno
+8.1120|-81.3168|Rodeo Viejo
+8.6382|-82.4997|Rovira Arriba
 7.8354|-80.3649|Sabana Grande
 9.3427|-79.8096|Sabanitas
 7.8201|-78.1101|Sambú
@@ -475,8 +475,8 @@
 8.2106|-81.2757|San Bartolo
 8.4732|-79.9610|San Carlos
 8.9512|-79.5373|San Felipe
-8.0667|-81.3667|San Francisco
 8.2906|-81.8670|San Félix
+8.0667|-81.3667|San Francisco
 9.2890|-78.1521|San Ignacio de Tupile
 8.5303|-82.8272|San Isidro
 8.9333|-79.7333|San José
@@ -491,29 +491,29 @@
 8.4534|-82.5018|San Pablo Viejo Abajo
 8.1401|-81.0866|San Pedro del Espino
 9.3000|-82.7000|San San Drui
-9.1144|-79.5975|San Vicente
-8.9114|-79.6736|San Vicente de Bique
 7.9330|-80.3637|Santa Ana Arriba
 9.0288|-79.7544|Santa Clara
 8.2322|-81.9132|Santa Cruz
 8.5106|-81.0780|Santa Fé
 9.5392|-79.1957|Santa Isabel
-8.5141|-82.6987|Santa Marta
 8.1114|-80.6658|Santa María
+8.5141|-82.6987|Santa Marta
 8.8568|-79.8795|Santa Rita
 9.3303|-79.7936|Santa Rita Arriba
 8.5996|-82.6849|Santa Rosa
 8.1000|-80.9833|Santiago de Veraguas
 8.5080|-82.7130|Santo Domingo
 8.3896|-82.6506|Santo Tomás
+9.1144|-79.5975|San Vicente
+8.9114|-79.6736|San Vicente de Bique
 7.7389|-80.2485|Sesteadero
 9.3833|-82.6522|Sieyic
 8.4868|-82.6654|Sioguí Abajo
 8.5387|-82.6862|Sioguí Arriba
 8.3723|-81.5814|Sitio Prado
 8.0122|-81.3216|Soná
-8.5464|-82.6517|Sortova
 8.6319|-80.0089|Sorá
+8.5464|-82.6517|Sortova
 7.7137|-80.9783|Tebario
 9.3833|-82.5833|Teribe
 8.4751|-82.5606|Tijeras

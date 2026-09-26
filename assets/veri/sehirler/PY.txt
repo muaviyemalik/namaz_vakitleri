@@ -6,10 +6,11 @@
 -25.3125|-57.3847|Areguá
 -26.4833|-55.2500|Arquitecto Tomás Romero Pereira
 -25.0548|-57.0987|Arroyos y Esteros
+-25.2865|-57.6470|Asunción
 -25.2788|-57.1719|Atyrá
 -20.2286|-58.1678|Bahía Negra
--22.1333|-56.5167|Bella Vista
 -23.4661|-57.2619|Belén
+-22.1333|-56.5167|Bella Vista
 -24.9667|-57.5667|Benjamín Aceval
 -26.1839|-56.0817|Buena Vista
 -25.3858|-57.1422|Caacupé
@@ -17,11 +18,11 @@
 -26.2352|-57.1821|Caapucú
 -26.1958|-56.3681|Caazapá
 -25.3552|-57.4455|Capiatá
+-24.8000|-56.0333|Capiíbary
 -23.2667|-55.5333|Capitán Bado
 -21.6783|-57.9146|Capitán Carmelo Peralta
 -27.2000|-55.8000|Capitán Miranda
 -19.9167|-60.7833|Capitán Pablo Lagerenza
--24.8000|-56.0333|Capiíbary
 -25.2384|-56.8269|Caraguatay
 -25.8000|-57.2333|Carapeguá
 -25.1975|-56.3988|Carayaó
@@ -43,6 +44,7 @@
 -25.7586|-56.6168|Coronel Martínez
 -25.4444|-56.4403|Coronel Oviedo
 -24.0804|-54.9393|Corpus Christi
+-25.3718|-55.7046|Doctor Juan Eulogio Estigarribia
 -25.4305|-55.2541|Doctor Juan León Mallorquín
 -25.3838|-55.8321|Doctor Juan Manuel Frutos
 -26.7673|-55.2787|Edelira
@@ -66,21 +68,22 @@
 -23.3428|-57.0597|Horqueta
 -25.6910|-56.2678|Independencia
 -25.3085|-56.8999|Isla Pucú
+-25.5005|-57.3672|Itá
 -25.4616|-56.8533|Itacurubí de la Cordillera
 -24.5354|-56.8235|Itacurubí del Rosario
 -24.9861|-55.1496|Itakyry
 -25.8517|-56.6138|Itapé
 -25.3926|-57.3542|Itauguá
 -26.0551|-56.4846|Iturbe
--25.5005|-57.3672|Itá
 -27.0560|-55.7413|Jesús
 -27.3866|-56.8472|Juan de Ayolas
 -25.4439|-57.4430|Julián Augusto Saldívar
 -25.8863|-56.8408|La Colmena
--24.1296|-54.6138|La Paloma
 -25.3468|-57.6065|Lambaré
+-24.1296|-54.6138|La Paloma
 -23.8833|-56.4822|Lima
 -25.1661|-57.4856|Limpio
+-22.3829|-59.8355|Loma Plata
 -25.2665|-57.4927|Luque
 -25.2079|-57.5320|Mariano Roque Alonso
 -22.0306|-60.6111|Mariscal José Félix Estigarribia
@@ -121,8 +124,8 @@
 -25.3397|-57.5088|San Lorenzo
 -26.5000|-57.0500|San Miguel
 -26.9667|-56.8167|San Patricio
--24.0853|-57.0874|San Pedro de Ycuamandiyú
 -26.8327|-56.2058|San Pedro del Paraná
+-24.0853|-57.0874|San Pedro de Ycuamandiyú
 -25.4133|-56.7971|Santa Elena
 -26.7833|-56.9333|Santa María
 -25.7833|-55.0667|Santa Rita
@@ -142,6 +145,7 @@
 -25.5614|-57.2834|Yaguarón
 -24.8333|-56.3500|Yataity del Norte
 -26.0167|-57.0500|Ybycuí
+-22.9661|-56.5407|Yby Yaú
 -26.4500|-56.4000|Yegros
 -24.1237|-55.6442|Ygatimi
 -25.4619|-55.0001|Yguazú

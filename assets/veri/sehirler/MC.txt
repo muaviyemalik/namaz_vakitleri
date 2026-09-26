@@ -3,15 +3,16 @@
 43.7327|7.4137|La Colle
 43.7351|7.4199|La Condamine
 43.7319|7.4168|La Gare
-43.7365|7.4195|La Source
 43.7467|7.4333|Larvotto
+43.7365|7.4195|La Source
 43.7345|7.4215|Malbousquet
+43.7372|7.4215|Monaco
 43.7311|7.4200|Monaco-Ville
 43.7365|7.4153|Moneghetti
 43.7397|7.4272|Monte-Carlo
 43.7389|7.4185|Moulins
 43.7347|7.4253|Port-Hercule
-43.7453|7.4318|Saint-Roman
 43.7372|7.4208|Sainte-Dévote
+43.7453|7.4318|Saint-Roman
 43.7392|7.4251|Spélugues
 43.7401|7.4175|Vallon de la Rousse

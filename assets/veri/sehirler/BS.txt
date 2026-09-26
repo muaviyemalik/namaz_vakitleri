@@ -11,6 +11,7 @@
 26.5333|-78.7000|Freeport
 23.5162|-75.7866|George Town
 26.6100|-78.2786|High Rock
+25.0500|-77.4167|Killarney
 26.5333|-78.6667|Lucaya
 26.5412|-77.0636|Marsh Harbour
 20.9498|-73.6735|Matthew Town

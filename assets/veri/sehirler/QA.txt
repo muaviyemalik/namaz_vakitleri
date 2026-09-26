@@ -1,15 +1,36 @@
 25.8288|51.2457|Al Ghuwayrīyah
+25.2799|51.5404|Al Ghānim
+25.2586|51.5310|Al Hilāl al Gharbīyah
+25.2604|51.5463|Al Hilāl ash Sharqīyah
 25.6107|51.0911|Al Jumaylīyah
 25.6839|51.5058|Al Khawr
+25.2681|51.5322|Al Manşūrah
+25.2514|51.5557|Al Maţār al ‘Atīq
 25.1715|51.6034|Al Wakrah
 25.1511|51.5372|Al Wukayr
+25.3376|51.5095|Al ‘Unayzah
+25.2670|51.5432|An Najmah
 25.2919|51.4244|Ar Rayyān
 26.1398|51.2149|Ar Ruways
 25.3709|51.2226|Ash Shīḩānīyah
+25.2862|51.5007|As Sadd
+25.2604|51.5140|As Sulţah al Jadīdah
+25.2196|51.5532|Ath Thumāmah Khamsūn
+25.2390|51.5633|Ath Thumāmah Sab‘ah wa Arba‘ūn
+25.2340|51.5405|Ath Thumāmah Sittah wa Arba‘ūn
+25.5774|51.4831|Az̧ Z̧a‘āyin
 25.2855|51.5310|Doha
 25.4248|50.7823|Dukhān
+25.2873|51.4714|Farīj al Amīr
+25.3131|51.4929|Farīj Kulayb
 26.0256|51.3697|Fuwayriţ
+25.4175|51.5075|Lusail
 26.1293|51.2009|Madīnat ash Shamāl
+25.3205|51.4779|Madīnat Khalīfah
 24.9923|51.5507|Musay‘īd
+25.2617|51.3968|Mu‘aydhir Rawḑat Rāshid
+25.2462|51.5323|Nu‘ayjah
 25.2142|50.8072|Umm Bāb
+25.5872|51.1499|Umm Ghuwaylīnah
+25.3416|51.4706|Umm Lakhbā
 25.4152|51.4065|Umm Şalāl Muḩammad

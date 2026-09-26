@@ -1,24 +1,25 @@
 -21.0316|55.5442|Bras-Panon
 -21.1403|55.3731|Cilaos
 -21.2107|55.4113|Entre-Deux
--21.2347|55.3164|L'Étang-Salé
 -21.1530|55.5618|La Plaine-des-Palmistes
 -20.9967|55.3094|La Possession
 -20.9460|55.2626|Le Port
--21.2250|55.4877|Le Tampon
 -21.2019|55.3217|Les Avirons
 -21.1138|55.2553|Les Trois-Bassins
+-21.2250|55.4877|Le Tampon
+-21.2347|55.3164|L'Étang-Salé
 -21.3330|55.5294|Petite-Île
+-21.2196|55.3151|Piton Saint-Leu
 -20.9568|55.5549|Saint-André
 -21.0886|55.4664|Saint-Benoît
 -20.9646|55.4184|Saint-Denis
+-20.9463|55.4410|Sainte-Marie
+-21.1778|55.6594|Sainte-Rose
+-20.9506|55.5111|Sainte-Suzanne
 -21.2921|55.5616|Saint-Joseph
 -21.1815|55.2608|Saint-Leu
 -21.2255|55.3400|Saint-Louis
 -21.0366|55.1754|Saint-Paul
 -21.3084|55.6612|Saint-Philippe
 -21.3089|55.3395|Saint-Pierre
--20.9463|55.4410|Sainte-Marie
--21.1778|55.6594|Sainte-Rose
--20.9506|55.5111|Sainte-Suzanne
 -21.0524|55.4321|Salazie

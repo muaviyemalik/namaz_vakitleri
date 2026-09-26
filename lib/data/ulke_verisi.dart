@@ -98,16 +98,56 @@ class Sehir {
   final double enlem;
   final double boylam;
 
-  const Sehir({required this.ad, required this.enlem, required this.boylam});
+  /// Aramada da eslesmesi istenen alternatif adlar.
+  ///
+  /// Veri kaynaklari ayni sehiri farkli adlarla saklar: GeoNames Almanca
+  /// "Munchen" icin uluslararasi adi "Munich" olarak yazar, dr5hn ise
+  /// "Nurnberg" ve "Nuremberg" olarak iki ayri kayit tutar. Bu durumda
+  /// kullanici kendi dilinde yazip sehiri bulamaz, ya da ayni sehir
+  /// listede iki kez gorunur.
+  ///
+  /// Cozum: kayit tek satirda tutulur, alternatif adlar 4. alanda virgulle
+  /// ayrilmis olarak saklanir. Hem "Munchen" hem "Munich" yazan kullanici
+  /// ayni kaydi bulur ve listede mukerrer gorunmez.
+  final List<String> takmaAdlar;
+
+  const Sehir({
+    required this.ad,
+    required this.enlem,
+    required this.boylam,
+    this.takmaAdlar = const [],
+  });
 
   /// "41.9786|34.0110|Abana" satirini cozer.
+  ///
+  /// Dorduncu alan varsa virgulle ayrilmis takma adlar olarak okunur:
+  /// "48.1374|11.5755|Munchen,Munich"
   factory Sehir.satirdan(String satir) {
     final parca = satir.split('|');
     return Sehir(
       ad: parca.length > 2 ? parca[2] : '',
       enlem: double.parse(parca[0]),
       boylam: double.parse(parca[1]),
+      takmaAdlar: parca.length > 3 && parca[3].trim().isNotEmpty
+          ? parca[3]
+              .split(',')
+              .map((s) => s.trim())
+              .where((s) => s.isNotEmpty)
+              .toList(growable: false)
+          : const [],
     );
+  }
+
+  /// Bu sehiri veri dosyasi bicimine cevirir. [satirdan]'in tersidir.
+  String satira() {
+    final buf = StringBuffer()
+      ..write(enlem.toStringAsFixed(4))
+      ..write('|')
+      ..write(boylam.toStringAsFixed(4))
+      ..write('|')
+      ..write(ad);
+    if (takmaAdlar.isNotEmpty) buf.write('|${takmaAdlar.join(",")}');
+    return buf.toString();
   }
 
   /// Aladhan sorgusu icin gerekli parametreler.
@@ -192,6 +232,9 @@ class UlkeVerisi {
   /// Sehir adına göre arar. Türkçe karakterleri duyarsızlaştırır, böylece
   /// "suleyman" yazan kullanıcı "Süleyman" bulur.
   ///
+  /// Takma adlar da taranır: "München" yazan kullanıcı "Munich" kaydını,
+  /// "Munich" yazan kullanıcı "München" kaydını bulur.
+  ///
   /// Çevrimdışı: nokta, tırnak ve tire gibi ayırıcı işaretler temizlenir;
   /// çünkü veri setinde "St. John's", "Côte d'Ivoire" gibi yazımlar var.
   static List<Sehir> ara(List<Sehir> kaynak, String sorgu, {int enFazla = 300}) {
@@ -201,7 +244,8 @@ class UlkeVerisi {
     }
     final sonuc = <Sehir>[];
     for (final s in kaynak) {
-      if (normalize(s.ad).contains(temiz)) {
+      if (normalize(s.ad).contains(temiz) ||
+          s.takmaAdlar.any((t) => normalize(t).contains(temiz))) {
         sonuc.add(s);
         if (sonuc.length >= enFazla) break;
       }
@@ -230,26 +274,61 @@ class UlkeVerisi {
       // Latin-1/Latin Extended ek harflerini temel harflere indirge:
       // ş->s, ğ->g, ı->i, ö->o, ü->u, ç->c, â->a, é->e vb.
       var r = rune;
+      // Aksanlı ve noktalı harfleri temel harflere indirger.
+      //
+      // Türkçe: ş ğ ı İ ö ü ç
+      // Fransızca/Almanca: â ê î ô û ë ï ä ö ü ç (Côte d'Îvoire, Zürich)
+      // Portekizce: ã õ â ê
+      // İspanyolca: ñ á é í ó ú ü
+      // Türkçede şapkalı a/i/u da vardır: Hakkâri, Şanlıurfa, Ağrı.
+      // Kullanıcı "Hakkari" yazdığında "Hakkâri" bulunabilmeli.
       const ceviri = <int, int>{
+        // Türkçe
         0x015F: 0x73, // ş
+        0x011E: 0x67, // Ğ
         0x011F: 0x67, // ğ
         0x0131: 0x69, // ı
         0x0130: 0x69, // İ
-        0x00F6: 0x6F, 0x00F8: 0x6F, 0x00FC: 0x75, 0x00E7: 0x63, // ö ü ç
-        0x00E0: 0x61, 0x00E1: 0x61, 0x00E2: 0x61, 0x00E3: 0x61, 0x00E4: 0x61, 0x00E5: 0x61,
-        0x00E8: 0x65, 0x00E9: 0x65, 0x00EA: 0x65, 0x00EB: 0x65,
-        0x00EC: 0x69, 0x00ED: 0x69, 0x00EE: 0x69, 0x00EF: 0x69,
-        0x00F2: 0x6F, 0x00F3: 0x6F, 0x00F4: 0x6F,
-        0x00F9: 0x75, 0x00FA: 0x75, 0x00FB: 0x75,
+        0x015E: 0x73, // Ş
+        0x00F6: 0x6F, // ö
+        0x00D6: 0x6F, // Ö
+        0x00FC: 0x75, // ü
+        0x00DC: 0x75, // Ü
+        0x00E7: 0x63, // ç
         0x00C7: 0x63, // Ç
-        0x00D1: 0x6E, 0x00F1: 0x6E, // Ñ ñ
-        0x015E: 0x73, 0x015B: 0x73, // Ş ş
+        // Türkçe + diğer dillerde şapkalı ve aksanlı i/ı
+        0x00E2: 0x61, // â
+        0x00E3: 0x61, // ã
+        0x00E4: 0x61, // ä
+        0x00E5: 0x61, // å
+        0x00E0: 0x61, // à
+        0x00E1: 0x61, // á
+        0x00EE: 0x69, // î
+        0x00EF: 0x69, // ï
+        0x00EC: 0x69, // ì
+        0x00ED: 0x69, // í
+        0x00F2: 0x6F, // ò
+        0x00F3: 0x6F, // õ
+        0x00F4: 0x6F, // ô
+        0x00F8: 0x6F, // ø
+        0x00F9: 0x75, // ù
+        0x00FA: 0x75, // ú
+        0x00FB: 0x75, // û
+        0x00E8: 0x65, // è
+        0x00E9: 0x65, // é
+        0x00EA: 0x65, // ê
+        0x00EB: 0x65, // ë
+        0x00D1: 0x6E, // Ñ
+        0x00F1: 0x6E, // ñ
+        // Orta Avrupa
         0x0159: 0x72, 0x0158: 0x72, // Ř ř
+        0x0161: 0x73, 0x0165: 0x73, // š ś
         0x0107: 0x63, 0x010D: 0x63, // Č č
         0x0111: 0x64, 0x011B: 0x65, // ē ė
         0x0142: 0x6C, 0x0141: 0x6C, // Ł ł
-        0x017E: 0x7A, 0x017A: 0x7A, 0x0179: 0x7A, // Ž ž Ź
+        0x017E: 0x7A, 0x017A: 0x7A, 0x0179: 0x7A, 0x017D: 0x7A, // Ž ž Ź ż
         0x016F: 0x75, 0x0170: 0x75, 0x0171: 0x75, // ů ű ű
+        0x0105: 0x61, // ą
       };
       if (ceviri.containsKey(r)) r = ceviri[r]!;
       // Nokta, tirnak, kesme, tire gibi ayirici isaretleri at

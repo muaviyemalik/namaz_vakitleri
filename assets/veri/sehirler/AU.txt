@@ -28,8 +28,8 @@
 -34.7099|118.1235|Albany
 -35.0248|117.8847|Albany city centre
 -27.3536|152.9685|Albany Creek
--34.8720|138.5197|Albert Park
 -34.8593|138.5214|Alberton
+-34.8720|138.5197|Albert Park
 -37.7802|144.8172|Albion
 -34.5713|150.7757|Albion Park
 -34.5663|150.7918|Albion Park Rail
@@ -63,10 +63,10 @@
 -37.7833|145.0333|Alphington
 -36.8341|146.9794|Alpine
 -28.8419|153.4402|Alstonville
--23.3000|150.3500|Alton Downs
 -37.8696|144.8304|Altona
 -37.8841|144.7837|Altona Meadows
 -37.8349|144.8474|Altona North
+-23.3000|150.3500|Alton Downs
 -13.8541|136.4213|Alyangula
 -35.1696|149.1280|Amaroo
 -34.0894|150.7966|Ambarvale
@@ -75,8 +75,8 @@
 -34.6763|138.6620|Andrews Farm
 -34.5013|139.0462|Angaston
 -34.8599|138.5580|Angle Park
--34.6410|138.6461|Angle Vale
 -38.4073|144.1859|Anglesea
+-34.6410|138.6461|Angle Vale
 -32.7814|152.0859|Anna Bay
 -33.8833|151.1667|Annandale
 -33.6576|150.9476|Annangrove
@@ -197,8 +197,8 @@
 -28.2130|153.5363|Banora Point
 -27.3824|153.0790|Banyo
 -37.7339|145.0858|Banyule
--32.9413|151.7654|Bar Beach
 -36.1911|146.9538|Baranduda
+-32.9413|151.7654|Bar Beach
 -23.0520|145.4349|Barcaldine
 -25.1729|142.4648|Barcoo
 -34.0341|151.0119|Barden Ridge
@@ -223,8 +223,8 @@
 -38.2745|144.4885|Barwon Heads
 -35.0883|150.5553|Basin View
 -38.4851|145.4639|Bass Coast
--33.8986|150.9954|Bass Hill
 -31.9058|115.9450|Bassendean
+-33.8986|150.9954|Bass Hill
 -33.3833|151.4667|Bateau Bay
 -35.7376|150.1984|Batehaven
 -32.0555|115.8474|Bateman
@@ -238,12 +238,12 @@
 -33.7588|150.9929|Baulkham Hills
 -37.9700|146.1440|Baw Baw
 -38.2000|145.1500|Baxter
--33.6598|151.2988|Bay View
 -20.7516|116.8014|Baynton
 -34.9731|117.9345|Bayonet Head
 -37.9399|145.0193|Bayside
 -37.8500|145.2667|Bayswater
 -37.8261|145.2983|Bayswater North
+-33.6598|151.2988|Bay View
 -16.9623|145.7259|Bayview Heights
 -28.7857|114.6019|Beachlands
 -27.1281|153.0524|Beachmere
@@ -258,8 +258,8 @@
 -41.1622|146.8215|Beauty Point
 -32.0248|115.9599|Beckenham
 -31.9113|115.8892|Bedford
--35.0220|138.5682|Bedford Park
 -32.1741|116.0504|Bedfordale
+-35.0220|138.5682|Bedford Park
 -31.8651|115.9366|Beechboro
 -36.3583|146.6858|Beechworth
 -33.7495|151.0648|Beecroft
@@ -276,12 +276,10 @@
 -37.9109|145.3536|Belgrave
 -37.9262|145.3437|Belgrave Heights
 -37.9333|145.3333|Belgrave South
--38.1079|144.3384|Bell Park
--38.0956|144.3197|Bell Post Hill
--33.7413|150.9546|Bella Vista
 -12.5171|130.9836|Bellamack
 -34.3667|150.9167|Bellambi
 -27.0639|153.1496|Bellara
+-33.7413|150.9546|Bella Vista
 -32.8599|151.3187|Bellbird
 -27.6367|152.8866|Bellbird Park
 -27.5594|152.8828|Bellbowrie
@@ -292,6 +290,8 @@
 -37.7531|145.0385|Bellfield
 -30.3739|152.7249|Bellingen
 -27.0844|152.8900|Bellmere
+-38.1079|144.3384|Bell Park
+-38.0956|144.3197|Bell Post Hill
 -33.0274|151.6601|Belmont
 -33.0208|151.6685|Belmont North
 -33.0493|151.6569|Belmont South
@@ -356,21 +356,21 @@
 -33.8925|151.0207|Birrong
 -26.7432|153.1191|Birtinya
 -38.3333|145.1667|Bittern
--34.9603|138.5767|Black Forest
--37.5500|143.8667|Black Hill
--26.3989|152.8756|Black Mountain
--19.2252|146.6179|Black River
--37.9736|145.0164|Black Rock
 -24.4233|145.4630|Blackall
--24.7879|145.9728|Blackall Tambo
 -32.9989|151.5802|Blackalls Park
+-24.7879|145.9728|Blackall Tambo
 -37.8190|145.1533|Blackburn
 -37.8093|145.1518|Blackburn North
 -37.8398|145.1555|Blackburn South
 -34.5716|150.8380|Blackbutt
 -33.7379|150.8181|Blackett
+-34.9603|138.5767|Black Forest
 -33.6357|150.2832|Blackheath
+-37.5500|143.8667|Black Hill
 -43.0031|147.3169|Blackmans Bay
+-26.3989|152.8756|Black Mountain
+-19.2252|146.6179|Black River
+-37.9736|145.0164|Black Rock
 -21.0547|149.1897|Blacks Beach
 -33.0717|151.6553|Blacksmiths
 -41.4598|147.0841|Blackstone Heights
@@ -443,9 +443,9 @@
 -35.1559|147.3470|Bourkelands
 -34.0166|150.8403|Bow Bowing
 -20.0137|148.2475|Bowen
+-33.4834|150.1344|Bowenfels
 -27.4437|153.0373|Bowen Hills
 -33.5719|150.6256|Bowen Mountain
--33.4834|150.1344|Bowenfels
 -34.4775|150.4204|Bowral
 -30.6500|152.8515|Bowraville
 -37.8189|145.1255|Box Hill
@@ -465,10 +465,10 @@
 -32.6555|151.3511|Branxton
 -24.9135|152.2725|Branyan
 -27.5975|152.7475|Brassall
--27.2925|152.9678|Bray Park
 -37.7867|144.8548|Braybrook
--41.3907|147.9748|Break O'Day
+-27.2925|152.9678|Bray Park
 -33.8429|151.1107|Breakfast Point
+-41.3907|147.9748|Break O'Day
 -27.3211|152.9839|Brendale
 -32.0435|115.8525|Brentwood
 -29.9505|147.1476|Brewarrina
@@ -527,8 +527,8 @@
 -32.4070|152.2118|Bulahdelah
 -20.7258|116.8567|Bulgarra
 -27.4499|153.0577|Bulimba
--32.0562|115.8624|Bull Creek
 -33.7292|150.4177|Bullaburra
+-32.0562|115.8624|Bull Creek
 -37.7667|145.0833|Bulleen
 -34.3383|150.9135|Bulli
 -27.8308|142.9128|Bulloo
@@ -621,8 +621,6 @@
 -32.1129|116.0020|Camillo
 -27.6346|152.9209|Camira
 -33.8213|151.2161|Cammeray
--27.4935|153.0763|Camp Hill
--27.4000|152.8833|Camp Mountain
 -36.3234|144.7084|Campaspe
 -35.2891|149.1538|Campbell
 -37.6639|144.9595|Campbellfield
@@ -630,6 +628,8 @@
 -34.0667|150.8167|Campbelltown
 -34.0833|150.8333|Campbelltown Municipality
 -33.8897|151.1764|Camperdown
+-27.4935|153.0763|Camp Hill
+-27.4000|152.8833|Camp Mountain
 -33.9125|151.1028|Campsie
 -33.8659|151.1159|Canada Bay
 -37.5761|143.8774|Canadian
@@ -637,8 +637,8 @@
 -33.8826|150.9241|Canley Heights
 -33.8866|150.9480|Canley Vale
 -32.0492|115.9194|Canning
--32.0580|115.9181|Canning Vale
 -32.0162|115.9365|Cannington
+-32.0580|115.9181|Canning Vale
 -27.4724|153.0948|Cannon Hill
 -20.2768|148.6976|Cannonvale
 -33.5625|148.6643|Canowindra
@@ -646,9 +646,9 @@
 -33.2744|151.5461|Canton Beach
 -28.0169|153.1652|Canungra
 -27.5433|153.2029|Capalaba
--38.5429|145.3441|Cape Woolamai
 -33.5270|115.6181|Capel
 -23.0859|148.0221|Capella
+-38.5429|145.3441|Cape Woolamai
 -16.8706|145.6810|Caravonica
 -27.6833|153.2500|Carbrook
 -32.9420|151.6544|Cardiff
@@ -690,8 +690,8 @@
 -17.9678|145.9656|Cassowary Coast
 -37.5849|141.4030|Casterton
 -33.7865|151.2092|Castle Cove
--33.7333|151.0000|Castle Hill
 -33.7999|151.2231|Castlecrag
+-33.7333|151.0000|Castle Hill
 -37.0671|144.2168|Castlemaine
 -33.6898|150.6789|Castlereagh
 -33.8324|121.9156|Castletown
@@ -770,6 +770,7 @@
 -31.9344|115.7617|City Beach
 -32.1026|115.8443|City of Cockburn
 -31.9498|115.8538|City of Perth
+-37.8338|144.9383|City of Port Phillip
 -33.8678|151.2084|City of Sydney
 -34.9313|138.5509|City of West Torrens
 -34.9899|138.6016|Clapham
@@ -835,8 +836,8 @@
 -27.6128|152.8601|Collingwood Park
 -20.5522|147.8440|Collinsville
 -34.8873|138.6122|Collinswood
--34.4010|150.4857|Colo Vale
 -34.9863|138.5975|Colonel Light Gardens
+-34.4010|150.4857|Colo Vale
 -33.7828|150.7968|Colyton
 -33.9994|151.0639|Como
 -33.8472|151.1038|Concord
@@ -854,8 +855,8 @@
 -23.1443|150.7611|Cooee Bay
 -33.9205|151.2552|Coogee
 -35.2601|149.0657|Cook
--13.6815|143.5316|Cook Shire
 -32.9324|151.7711|Cooks Hill
+-13.6815|143.5316|Cook Shire
 -15.4657|145.2498|Cooktown
 -31.8279|149.7156|Coolah
 -34.6005|147.1371|Coolamon
@@ -969,6 +970,7 @@
 -43.1533|147.0725|Cygnet
 -33.9288|151.2258|Daceyville
 -31.9518|115.8088|Daglish
+-26.9833|152.8000|D’Aguilar
 -27.6303|153.1578|Daisy Hill
 -27.2259|152.9910|Dakabin
 -27.1817|151.2620|Dalby
@@ -989,8 +991,8 @@
 -37.6581|144.4434|Darley
 -32.1944|115.9919|Darling Downs
 -27.5966|151.9305|Darling Heights
--33.8706|151.2389|Darling Point
 -33.8794|151.2192|Darlinghurst
+-33.8706|151.2389|Darling Point
 -33.8910|151.1955|Darlington
 -34.5694|145.9987|Darlington Point
 -27.5669|152.9539|Darra
@@ -998,8 +1000,8 @@
 -33.7430|151.2008|Davidson
 -33.4856|151.3615|Davistown
 -34.6906|138.6686|Davoren Park
--34.9898|138.5841|Daw Park
 -32.6323|115.6290|Dawesville
+-34.9898|138.5841|Daw Park
 -27.1963|152.8225|Dayboro
 -37.3411|144.1426|Daylesford
 -31.8525|115.9749|Dayton
@@ -1007,10 +1009,10 @@
 -35.3193|149.1031|Deakin
 -33.7354|150.8596|Dean Park
 -27.1935|153.0263|Deception Bay
--33.7511|151.2889|Dee Why
 -27.6672|152.7487|Deebing Heights
--37.7672|144.7666|Deer Park
 -19.2474|146.6757|Deeragun
+-37.7672|144.7666|Deer Park
+-33.7511|151.2889|Dee Why
 -37.5891|143.8147|Delacombe
 -37.7198|144.7773|Delahey
 -27.0002|152.7955|Delaneys Creek
@@ -1100,13 +1102,12 @@
 -27.4966|153.0280|Dutton Park
 -42.9054|147.3158|Dynnyrne
 -22.5882|148.3492|Dysart
--26.9833|152.8000|D’Aguilar
--27.4315|153.0723|Eagle Farm
--37.9000|147.6833|Eagle Point
--34.0375|150.8136|Eagle Vale
 -27.6833|153.2167|Eagleby
+-27.4315|153.0723|Eagle Farm
 -36.7161|144.2505|Eaglehawk
 -37.7638|145.0638|Eaglemont
+-37.9000|147.6833|Eagle Point
+-34.0375|150.8136|Eagle Vale
 -16.9508|145.7331|Earlville
 -33.9209|151.1251|Earlwood
 -36.0814|146.9299|East Albury
@@ -1121,6 +1122,7 @@
 -24.8640|113.6777|East Carnarvon
 -34.3761|150.9108|East Corrimal
 -41.1879|146.3866|East Devonport
+-27.6285|152.7783|Eastern Heights
 -32.0365|115.7671|East Fremantle
 -38.1557|144.3720|East Geelong
 -37.3456|148.5830|East Gippsland
@@ -1132,6 +1134,7 @@
 -31.0824|152.8525|East Kempsey
 -33.7553|151.1815|East Killara
 -33.5055|150.7943|East Kurrajong
+-33.9320|151.2121|Eastlakes
 -41.4384|147.1510|East Launceston
 -33.7666|151.1868|East Lindfield
 -28.8259|153.2888|East Lismore
@@ -1145,8 +1148,6 @@
 -31.0855|150.9372|East Tamworth
 -27.5709|151.9742|East Toowoomba
 -31.9889|115.9039|East Victoria Park
--27.6285|152.7783|Eastern Heights
--33.9320|151.2121|Eastlakes
 -33.7918|151.0806|Eastwood
 -33.3166|115.7050|Eaton
 -27.3392|152.9599|Eatons Hill
@@ -1158,8 +1159,8 @@
 -37.4833|145.0833|Eden Park
 -27.7027|153.1694|Edens Landing
 -33.8797|150.8778|Edensor Park
--16.9000|145.7500|Edge Hill
 -33.8795|151.2368|Edgecliff
+-16.9000|145.7500|Edge Hill
 -31.7655|115.7822|Edgewater
 -32.9251|151.6161|Edgeworth
 -38.0372|145.1097|Edithvale
@@ -1174,8 +1175,8 @@
 -34.0552|150.7137|Elderslie
 -32.9896|151.6364|Eleebana
 -32.9162|151.6766|Elermore Vale
--25.2792|152.8091|Eli Waters
 -27.0167|152.9500|Elimbah
+-25.2792|152.8091|Eli Waters
 -33.8718|151.2271|Elizabeth Bay
 -34.6998|138.6913|Elizabeth Downs
 -34.7251|138.6821|Elizabeth East
@@ -1186,8 +1187,8 @@
 -34.7318|138.6619|Elizabeth South
 -34.7486|138.6682|Elizabeth Vale
 -32.9151|151.3116|Ellalong
--27.6153|152.9438|Ellen Grove
 -31.7674|115.9694|Ellenbrook
+-27.6153|152.9438|Ellen Grove
 -38.3711|143.5800|Elliminyt
 -24.9162|152.4899|Elliott Heads
 -33.5393|135.0951|Elliston
@@ -1266,16 +1267,16 @@
 -34.8890|138.6470|Felixstow
 -32.9922|151.6001|Fennell Bay
 -32.8643|151.8131|Fern Bay
--34.3829|150.8857|Fern Hill
 -32.0349|115.9223|Ferndale
+-34.3829|150.8857|Fern Hill
 -37.8846|145.2954|Ferntree Gully
 -27.4548|152.6532|Fernvale
 -37.8833|145.3333|Ferny Creek
 -27.4008|152.9348|Ferny Grove
 -27.3959|152.9374|Ferny Hills
 -34.8662|138.5618|Ferryden Park
--27.5278|152.9619|Fig Tree Pocket
 -34.4356|150.8583|Figtree
+-27.5278|152.9619|Fig Tree Pocket
 -34.9000|138.5333|Findon
 -32.7497|152.1710|Fingal Bay
 -35.6550|145.5711|Finley
@@ -1301,11 +1302,11 @@
 -37.8000|144.9000|Footscray
 -33.3790|147.8645|Forbes
 -35.1682|149.1461|Forde
+-27.6633|153.0038|Forestdale
 -26.6886|153.0045|Forest Glen
 -35.1481|147.4671|Forest Hill
 -27.6256|152.9688|Forest Lake
 -33.8814|151.1800|Forest Lodge
--27.6633|153.0038|Forestdale
 -33.7667|151.2083|Forestville
 -35.3150|149.1286|Forrest
 -32.1552|115.9342|Forrestdale
@@ -1359,7 +1360,6 @@
 -33.4243|115.6409|Gelorup
 -37.9532|145.5554|Gembrook
 -33.6397|115.3836|Geographe
--41.1198|147.0173|George Town
 -33.9088|150.9885|Georges Hall
 -32.9081|151.7312|Georgetown
 -28.7790|114.6146|Geraldton
@@ -1373,7 +1373,6 @@
 -32.7616|151.5286|Gillieston Heights
 -35.4199|149.1348|Gilmore
 -28.0333|153.3000|Gilston
--24.9936|151.9581|Gin Gin
 -31.1843|115.6594|Gingin
 -35.2109|149.0960|Giralang
 -28.8169|153.2779|Girards Hill
@@ -1389,21 +1388,14 @@
 -26.8976|152.9532|Glass House Mountains
 -33.8788|151.1843|Glebe
 -34.0860|150.7851|Glen Alpine
--23.8974|151.2713|Glen Eden
--37.8995|145.0410|Glen Eira
--31.9193|116.1073|Glen Forrest
--37.8924|145.0413|Glen Huntly
--29.7349|151.7385|Glen Innes
--29.6312|151.9396|Glen Innes Severn
--37.8667|145.0667|Glen Iris
--34.9596|138.6487|Glen Osmond
--37.8781|145.1648|Glen Waverley
 -35.0079|138.6259|Glenalta
 -33.7667|150.6167|Glenbrook
 -32.9319|151.6410|Glendale
 -31.9199|115.8195|Glendalough
 -33.7483|150.8541|Glendenning
 -27.9333|152.9833|Gleneagle
+-23.8974|151.2713|Glen Eden
+-37.8995|145.0410|Glen Eira
 -34.9808|138.5150|Glenelg
 -34.9764|138.5296|Glenelg East
 -34.9679|138.5175|Glenelg North
@@ -1412,25 +1404,31 @@
 -37.8333|145.0500|Glenferrie
 -33.9667|150.9000|Glenfield
 -35.1373|147.3329|Glenfield Park
+-31.9193|116.1073|Glen Forrest
 -38.1167|146.5667|Glengarry
 -34.9871|138.5367|Glengowrie
 -33.7000|151.0000|Glenhaven
+-37.8924|145.0413|Glen Huntly
+-29.7349|151.7385|Glen Innes
+-29.6312|151.9396|Glen Innes Severn
+-37.8667|145.0667|Glen Iris
 -33.7907|150.6693|Glenmore Park
 -33.3537|151.4262|Glenning Valley
 -42.8319|147.2295|Glenorchy
 -33.6018|151.0089|Glenorie
+-34.9596|138.6487|Glen Osmond
 -36.0502|146.9106|Glenroy
 -34.9427|138.6337|Glenside
 -34.9501|138.6384|Glenunga
 -27.5682|151.8934|Glenvale
 -26.7667|153.0167|Glenview
+-37.8781|145.1648|Glen Waverley
 -33.7333|150.9328|Glenwood
 -33.5362|150.7739|Glossodia
 -32.0077|151.9633|Gloucester
 -34.8961|138.6525|Glynde
 -31.7761|115.8662|Gnangara
 -34.0866|118.2983|Gnowangerup
--34.1739|142.2219|Gol Gol
 -28.0003|153.4309|Gold Coast
 -32.4250|115.7610|Golden Bay
 -26.8218|153.1197|Golden Beach
@@ -1438,6 +1436,7 @@
 -37.8523|143.8635|Golden Plains
 -37.5749|143.8687|Golden Point
 -36.7726|144.2527|Golden Square
+-34.1739|142.2219|Gol Gol
 -24.8231|152.3315|Gooburrum
 -27.6105|152.8990|Goodna
 -34.9509|138.5923|Goodwood
@@ -1475,18 +1474,18 @@
 -38.0518|144.4614|Greater Geelong
 -35.7584|147.1973|Greater Hume Shire
 -36.4274|145.4152|Greater Shepparton
--30.0775|114.9585|Green Head
--33.9029|150.8671|Green Valley
 -33.9003|151.0556|Greenacre
 -34.8685|138.6280|Greenacres
 -27.7167|152.9833|Greenbank
 -33.8746|150.8919|Greenfield Park
 -32.5243|115.7631|Greenfields
+-30.0775|114.9585|Green Head
 -31.9007|116.0495|Greenmount
 -34.4570|138.9272|Greenock
 -37.7046|145.1030|Greensborough
 -27.5082|153.0495|Greenslopes
 -37.6333|144.8667|Greenvale
+-33.9029|150.8671|Green Valley
 -35.4183|149.0666|Greenway
 -34.9075|150.7311|Greenwell Point
 -33.8395|151.1830|Greenwich
@@ -1552,9 +1551,9 @@
 -27.5333|151.9667|Harlaxton
 -31.8831|152.6592|Harrington
 -34.0241|150.7350|Harrington Park
--33.8229|151.0078|Harris Park
 -32.1108|115.9356|Harrisdale
 -35.1991|149.1563|Harrison
+-33.8229|151.0078|Harris Park
 -27.5833|151.9333|Harristown
 -33.1498|115.9338|Harvey
 -33.7335|150.8354|Hassall Grove
@@ -1565,14 +1564,14 @@
 -33.3408|150.7830|Hawkesbury
 -32.6675|152.1783|Hawks Nest
 -34.9738|138.6074|Hawthorn
--37.8248|145.0464|Hawthorn East
--37.8329|145.0367|Hawthorn South
 -35.0223|138.6304|Hawthorndene
 -27.4670|153.0578|Hawthorne
+-37.8248|145.0464|Hawthorn East
+-37.8329|145.0367|Hawthorn South
 -34.5428|144.8383|Hay
--21.2965|149.2737|Hay Point
 -35.5313|138.6504|Hayborough
 -33.8787|151.2053|Haymarket
+-21.2965|149.2737|Hay Point
 -33.7245|150.4584|Hazelbrook
 -38.2676|146.4829|Hazelwood North
 -34.9395|138.6588|Hazelwood Park
@@ -1613,7 +1612,6 @@
 -37.9813|146.7856|Heyfield
 -38.1329|141.6295|Heywood
 -35.2324|149.0272|Higgins
--31.9444|116.0034|High Wycombe
 -34.8529|138.6975|Highbury
 -37.9500|145.0500|Highett
 -27.4634|151.9539|Highfields
@@ -1622,16 +1620,17 @@
 -28.0139|153.3331|Highland Park
 -38.1706|144.3114|Highton
 -27.3723|152.8020|Highvale
+-31.9444|116.0034|High Wycombe
 -32.1782|115.9849|Hilbert
--30.2574|115.1537|Hill River
--34.3479|150.4955|Hill Top
 -31.8070|115.7404|Hillarys
 -34.7359|138.6872|Hillbank
 -27.6686|153.0261|Hillcrest
 -32.2833|115.7636|Hillman
+-30.2574|115.1537|Hill River
 -33.9515|151.2278|Hillsdale
 -37.6905|144.7417|Hillside
 -33.4827|145.5352|Hillston
+-34.3479|150.4955|Hill Top
 -31.1276|150.9071|Hillvue
 -32.0621|115.7805|Hilton
 -33.9188|150.8631|Hinchinbrook
@@ -1658,9 +1657,9 @@
 -33.9833|150.9667|Holsworthy
 -35.2244|149.0119|Holt
 -12.4485|131.0056|Holtze
--19.6592|147.4123|Home Hill
 -33.8667|151.0833|Homebush
 -33.8627|151.0670|Homebush West
+-19.6592|147.4123|Home Hill
 -27.8704|153.3516|Hope Island
 -15.1359|145.1925|Hope Vale
 -34.8333|138.7000|Hope Valley
@@ -1705,8 +1704,8 @@
 -36.2085|146.6863|Indigo
 -27.5030|152.9752|Indooroopilly
 -18.6455|146.1625|Ingham
--34.8333|138.6333|Ingle Farm
 -34.0000|150.8667|Ingleburn
+-34.8333|138.6333|Ingle Farm
 -31.9166|115.8798|Inglewood
 -31.8927|115.7951|Innaloo
 -24.8683|152.4799|Innes Park
@@ -1735,10 +1734,10 @@
 -27.5563|152.9340|Jamboree Heights
 -33.2053|138.6050|Jamestown
 -33.7680|150.6768|Jamisontown
--38.3445|144.2952|Jan Juc
 -32.1016|115.8708|Jandakot
 -26.7841|151.1124|Jandowae
 -31.8637|116.0504|Jane Brook
+-38.3445|144.2952|Jan Juc
 -34.0164|151.0607|Jannali
 -32.3358|116.0595|Jarrahdale
 -19.2457|146.6529|Jensen
@@ -1844,19 +1843,19 @@
 -34.9258|138.6615|Kensington Gardens
 -27.5328|152.4720|Kensington Grove
 -34.9202|138.6543|Kensington Park
--33.5388|118.6699|Kent Shire
--34.9216|138.6201|Kent Town
 -33.6553|151.0050|Kenthurst
 -41.4634|146.1773|Kentish
+-33.5388|118.6699|Kent Shire
+-34.9216|138.6201|Kent Town
 -32.0333|115.9667|Kenwick
 -27.4138|152.9470|Keperra
 -24.8761|152.3752|Kepnock
 -35.7349|143.9203|Kerang
 -34.7831|138.8509|Kersbrook
 -31.6360|152.7266|Kew
--37.7976|145.0538|Kew East
 -16.7822|145.6846|Kewarra Beach
 -31.9789|115.9516|Kewdale
+-37.7976|145.0538|Kew East
 -37.9912|145.1738|Keysborough
 -36.4473|145.4142|Kialla
 -34.6712|150.8457|Kiama
@@ -1874,29 +1873,29 @@
 -37.8000|145.3167|Kilsyth
 -37.8203|145.3160|Kilsyth South
 -33.0482|136.3180|Kimba
--23.8771|151.2472|Kin Kora
--31.4924|152.7566|King Creek
--39.8721|143.9915|King Island
 -26.5399|151.8373|Kingaroy
 -42.9745|147.2511|Kingborough
+-31.4924|152.7566|King Creek
+-39.8721|143.9915|King Island
 -37.5329|145.3396|Kinglake
 -37.4667|145.2333|Kinglake West
 -26.8017|153.1426|Kings Beach
--33.7501|150.9354|Kings Langley
--41.4704|147.1620|Kings Meadows
--33.7432|150.9076|Kings Park
 -37.7141|145.0351|Kingsbury
 -28.2598|153.5782|Kingscliff
 -35.6559|137.6393|Kingscote
 -33.9240|151.2275|Kingsford
 -33.9393|151.0993|Kingsgrove
+-33.7501|150.9354|Kings Langley
 -31.8104|115.8008|Kingsley
+-41.4704|147.1620|Kings Meadows
+-33.7432|150.9076|Kings Park
 -27.4756|151.8141|Kingsthorpe
 -35.3152|149.1466|Kingston
 -42.9802|147.3194|Kingston Beach
 -36.8307|139.8522|Kingston South East
 -37.8082|144.8791|Kingsville
 -33.7665|150.7144|Kingswood Park
+-23.8771|151.2472|Kin Kora
 -31.7187|115.7384|Kinross
 -27.2259|153.0835|Kippa-Ring
 -23.9033|151.2354|Kirkwood
@@ -1911,7 +1910,6 @@
 -33.9795|151.1212|Kogarah Bay
 -33.9255|117.0398|Kojonup
 -32.4843|119.0242|Kondinin
--38.1994|145.4908|Koo-Wee-Rup
 -34.5021|150.8085|Koonawarra
 -31.8414|115.8665|Koondoola
 -23.3689|150.5492|Koongal
@@ -1919,6 +1917,7 @@
 -30.6041|117.4074|Koorda
 -35.1407|147.3768|Kooringal
 -31.0586|151.0535|Kootingal
+-38.1994|145.4908|Koo-Wee-Rup
 -38.2918|142.3673|Koroit
 -30.2462|153.1149|Korora
 -38.4319|145.8236|Korumburra
@@ -1926,12 +1925,12 @@
 -32.9428|151.6959|Kotara
 -32.9526|151.6908|Kotara South
 -15.2788|141.8129|Kowanyama
--33.7270|151.1488|Ku-ring-gai
 -32.6610|118.5754|Kulin
 -26.6578|153.0561|Kuluin
 -15.7782|128.7421|Kununurra
 -27.6068|153.0937|Kuraby
 -16.8198|145.6382|Kuranda
+-33.7270|151.1488|Ku-ring-gai
 -34.0109|151.2051|Kurnell
 -33.8424|151.2226|Kurraba Point
 -33.5277|150.6291|Kurrajong Heights
@@ -1955,13 +1954,13 @@
 -33.2430|151.5043|Lake Haven
 -34.4843|150.8665|Lake Heights
 -34.5466|150.8564|Lake Illawarra
+-32.9618|151.6497|Lakelands
 -26.3848|152.9321|Lake Macdonald
 -33.0376|151.5347|Lake Macquarie Shire
--33.1972|151.5824|Lake Munmorah
--37.5499|143.8473|Lake Wendouree
--32.9618|151.6497|Lakelands
 -33.9197|151.0759|Lakemba
+-33.1972|151.5824|Lake Munmorah
 -37.8668|148.0016|Lakes Entrance
+-37.5499|143.8473|Lake Wendouree
 -31.6321|152.7582|Lakewood
 -37.6667|145.0167|Lalor
 -33.7609|150.9312|Lalor Park
@@ -1975,8 +1974,8 @@
 -33.8232|151.1703|Lane Cove
 -33.8054|151.1664|Lane Cove North
 -33.8161|151.1515|Lane Cove West
--38.2660|145.5621|Lang Lang
 -32.0409|115.9416|Langford
+-38.2660|145.5621|Lang Lang
 -38.1667|145.1667|Langwarrin
 -38.1895|145.1935|Langwarrin South
 -33.9007|150.9508|Lansvale
@@ -2059,14 +2058,15 @@
 -34.0447|151.0465|Loftus
 -27.7629|153.0449|Logan
 -27.6439|153.1072|Logan Central
--27.7241|153.0900|Logan Reserve
+-27.6392|153.1094|Logan City
 -27.6844|153.1864|Loganholme
 -27.6754|153.1347|Loganlea
+-27.7241|153.0900|Logan Reserve
 -33.6466|150.7352|Londonderry
 -35.7083|150.2448|Long Beach
+-41.6051|147.1189|Longford
 -36.7430|144.2579|Long Gully
 -33.3592|151.4883|Long Jetty
--41.6051|147.1189|Longford
 -23.8760|143.8671|Longreach
 -33.8329|151.1653|Longueville
 -38.1128|145.7685|Longwarry
@@ -2181,8 +2181,8 @@
 -34.9476|138.5596|Marleston
 -31.8416|115.7569|Marmion
 -36.7333|144.1333|Marong
--26.5777|153.0188|Maroochy River
 -26.6601|153.0995|Maroochydore
+-26.5777|153.0188|Maroochy River
 -37.8029|145.2660|Maroondah
 -33.9500|151.2333|Maroubra
 -12.4004|130.8929|Marrara
@@ -2215,11 +2215,11 @@
 -35.2167|138.5833|McLaren Flat
 -35.2189|138.5433|McLaren Vale
 -33.8449|151.2031|McMahons Point
--37.6512|144.9186|Meadow Heights
--32.4972|115.7533|Meadow Springs
 -33.8167|151.0886|Meadowbank
 -27.6640|153.1447|Meadowbrook
+-37.6512|144.9186|Meadow Heights
 -35.1802|138.7625|Meadows
+-32.4972|115.7533|Meadow Springs
 -41.6495|146.5457|Meander Valley
 -32.2341|115.7990|Medina
 -34.8960|138.6050|Medindie
@@ -2258,24 +2258,23 @@
 -28.0717|153.4416|Miami
 -41.1955|146.3532|Miandetta
 -37.5366|144.9020|Mickleham
--34.4157|139.4164|Mid Murray
--32.6020|149.7675|Mid-Western Regional
 -33.7928|151.2125|Middle Cove
+-22.8123|148.6993|Middlemount
 -27.5560|152.9222|Middle Park
 -27.6071|151.9669|Middle Ridge
 -31.8500|116.0167|Middle Swan
--22.8123|148.6993|Middlemount
 -35.5105|138.7038|Middleton
 -33.9170|150.8419|Middleton Grange
 -31.8891|116.0107|Midland
+-34.4157|139.4164|Mid Murray
 -31.8888|116.0329|Midvale
 -42.7948|147.5288|Midway Point
+-32.6020|149.7675|Mid-Western Regional
 -34.1855|142.1625|Mildura
 -34.8645|141.8523|Mildura Shire
 -34.9265|138.5703|Mile End
 -26.6584|150.1882|Miles
 -12.1019|134.9190|Milingimbi
--37.6667|145.0667|Mill Park
 -20.7417|116.8173|Millars Well
 -24.8754|152.3222|Millbank
 -33.3062|115.7350|Millbridge
@@ -2285,6 +2284,7 @@
 -37.5939|140.3495|Millicent
 -27.8791|151.2706|Millmerran
 -12.3919|130.8625|Millner
+-37.6667|145.0667|Mill Park
 -17.6532|145.4140|Millstream
 -34.9550|138.5889|Millswood
 -33.4460|149.1854|Millthorpe
@@ -2325,8 +2325,8 @@
 -35.3411|150.4695|Mollymook
 -35.3297|150.4717|Mollymook Beach
 -33.0923|148.8700|Molong
--33.6776|151.3031|Mona Vale
 -35.4158|149.0906|Monash
+-33.6776|151.3031|Mona Vale
 -37.8743|145.4259|Monbulk
 -26.2119|152.6824|Monkland
 -37.8179|145.1080|Mont Albert
@@ -2349,8 +2349,8 @@
 -37.9415|145.0578|Moorabbin
 -37.6334|144.2195|Moorabool
 -37.8638|140.7426|Moorak
--24.7107|152.2090|Moore Park Beach
 -33.9437|150.9566|Moorebank
+-24.7107|152.2090|Moore Park Beach
 -16.9349|145.7314|Mooroobool
 -38.2167|145.1167|Moorooduc
 -27.5344|153.0246|Moorooka
@@ -2378,9 +2378,10 @@
 -38.2348|146.3950|Morwell
 -33.8284|151.2487|Mosman
 -32.0142|115.7661|Mosman Park
--34.5537|150.3712|Moss Vale
 -16.4629|145.3714|Mossman
+-34.5537|150.3712|Moss Vale
 -12.5056|130.9731|Moulden
+-26.7028|153.1013|Mountain Creek
 -37.0761|144.1883|Mount Alexander
 -34.0529|150.7598|Mount Annan
 -35.1368|147.3530|Mount Austin
@@ -2438,7 +2439,6 @@
 -27.7311|153.2055|Mount Warren Park
 -34.5480|150.8375|Mount Warrigal
 -37.8771|145.1294|Mount Waverley
--26.7028|153.1013|Mountain Creek
 -24.5722|149.9673|Moura
 -41.4024|147.1506|Mowbray
 -38.1878|142.4622|Moyne
@@ -2529,21 +2529,20 @@
 -33.8378|151.2175|Neutral Bay
 -23.8836|151.2356|New Auckland
 -27.7936|152.8844|New Beith
--27.4678|153.0483|New Farm
--37.4607|144.5993|New Gisborne
--32.9284|151.7085|New Lambton
--32.9247|151.6936|New Lambton Heights
--42.7826|147.0587|New Norfolk
--42.8576|147.3087|New Town
 -38.1717|146.2926|Newborough
 -32.9295|151.7801|Newcastle
 -32.9288|151.7774|Newcastle city centre
 -32.9277|151.7884|Newcastle East
 -38.1662|144.3943|Newcomb
+-27.4678|153.0483|New Farm
+-37.4607|144.5993|New Gisborne
 -33.8349|151.0570|Newington
+-32.9284|151.7085|New Lambton
+-32.9247|151.6936|New Lambton Heights
 -23.3564|119.7355|Newman
 -27.4353|153.0078|Newmarket
 -41.3897|147.1140|Newnham
+-42.7826|147.0587|New Norfolk
 -33.6564|151.3140|Newport
 -27.4531|153.0418|Newstead
 -34.8821|138.6825|Newton
@@ -2555,8 +2554,8 @@
 -12.1816|136.7784|Nhulunbuy
 -33.3764|151.3486|Niagara Park
 -35.1873|149.0965|Nicholls
--34.2121|142.2144|Nichols Point
 -37.8167|147.7333|Nicholson
+-34.2121|142.2144|Nichols Point
 -20.7456|116.7954|Nickol
 -37.7375|144.8921|Niddrie
 -12.3830|130.8517|Nightcliff
@@ -2575,12 +2574,14 @@
 -33.2679|151.5535|Noraville
 -38.1014|144.3542|Norlane
 -23.3304|150.5275|Norman Gardens
--27.4792|153.0625|Norman Park
 -33.7237|151.0958|Normanhurst
+-27.4792|153.0625|Norman Park
 -17.6718|141.0772|Normanton
 -35.4462|138.3213|Normanville
 -34.9073|138.5914|North Adelaide
 -36.0575|146.9299|North Albury
+-31.6990|116.6496|Northam
+-28.0496|114.4959|Northampton Shire
 -33.4561|151.4351|North Avoca
 -33.7863|151.2480|North Balgowlah
 -31.8630|115.7562|North Beach
@@ -2588,12 +2589,20 @@
 -30.3130|153.0693|North Boambee Valley
 -33.8879|151.2808|North Bondi
 -27.6039|152.7948|North Booval
+-33.8131|151.2173|Northbridge
 -35.0028|138.5221|North Brighton
 -25.2444|151.3230|North Burnett
 -32.0951|115.7597|North Coogee
+-37.7667|145.0000|Northcote
 -33.7643|151.2973|North Curl Curl
 -33.7594|151.0925|North Epping
+-33.3007|138.4775|Northern Areas
+-36.8496|142.8730|Northern Grampians
+-41.8799|147.4578|Northern Midlands
+-10.9719|142.3536|Northern Peninsula Area
+-34.8498|138.6255|Northfield
 -32.0333|115.7500|North Fremantle
+-34.8578|138.6291|Northgate
 -38.1095|144.3513|North Geelong
 -33.4140|151.3516|North Gosford
 -31.6368|152.8136|North Haven
@@ -2605,6 +2614,7 @@
 -21.1201|149.1794|North Mackay
 -27.7676|153.0165|North Maclean
 -33.7756|151.2692|North Manly
+-33.7838|150.9986|Northmead
 -37.7980|144.9451|North Melbourne
 -33.7094|151.2961|North Narrabeen
 -34.8582|150.5748|North Nowra
@@ -2626,17 +2636,6 @@
 -33.7956|151.2007|North Willoughby
 -34.4057|150.8976|North Wollongong
 -38.5777|145.5930|North Wonthaggi
--31.6990|116.6496|Northam
--28.0496|114.4959|Northampton Shire
--33.8131|151.2173|Northbridge
--37.7667|145.0000|Northcote
--33.3007|138.4775|Northern Areas
--36.8496|142.8730|Northern Grampians
--41.8799|147.4578|Northern Midlands
--10.9719|142.3536|Northern Peninsula Area
--34.8498|138.6255|Northfield
--34.8578|138.6291|Northgate
--33.7838|150.9986|Northmead
 -24.8931|152.3409|Norville
 -34.9273|138.6285|Norwood
 -34.9080|138.6356|Norwood Payneham St Peters
@@ -2654,20 +2653,18 @@
 -34.4682|138.9977|Nuriootpa
 -31.5637|147.1937|Nyngan
 -38.3336|145.6725|Nyora
--35.2565|149.1125|O'Connor
--35.1188|138.4734|O'Sullivan Beach
--34.5623|150.8219|Oak Flats
--37.7184|144.9195|Oak Park
 -34.0793|150.5132|Oakdale
 -34.8528|138.6433|Oakden
 -42.9018|147.4560|Oakdowns
 -27.4331|151.7206|Oakey
+-34.5623|150.8219|Oak Flats
 -32.2009|115.9339|Oakford
 -33.7388|150.8384|Oakhurst
 -35.0067|138.5446|Oaklands Park
 -37.8981|145.0884|Oakleigh
 -37.9000|145.1167|Oakleigh East
 -37.9242|145.0915|Oakleigh South
+-37.7184|144.9195|Oak Park
 -33.6156|150.8801|Oakville
 -33.7959|151.0271|Oatlands
 -33.9800|151.0720|Oatley
@@ -2675,7 +2672,9 @@
 -38.2577|144.5192|Ocean Grove
 -31.7587|115.7360|Ocean Reef
 -28.5093|153.5376|Ocean Shores
+-35.2565|149.1125|O'Connor
 -38.0592|145.4095|Officer
+-35.0667|138.5500|O’Halloran Hill
 -31.9694|152.5881|Old Bar
 -42.7776|147.2666|Old Beach
 -35.0846|150.6457|Old Erowal Bay
@@ -2691,11 +2690,11 @@
 -21.6376|115.1122|Onslow
 -19.2968|146.8209|Oonoonba
 -21.1739|149.1480|Ooralea
--34.0056|150.7403|Oran Park
 -34.9960|117.8593|Orana
 -33.2840|149.1002|Orange
 -33.3283|149.1229|Orange Municipality
 -34.0311|150.6018|Orangeville
+-34.0056|150.7403|Oran Park
 -37.6964|148.4570|Orbost
 -33.7823|150.7109|Orchard Hills
 -32.2333|115.8223|Orelia
@@ -2706,6 +2705,7 @@
 -32.5318|138.6647|Orroroo/Carrieton
 -34.7980|138.4980|Osborne
 -31.9007|115.8108|Osborne Park
+-35.1188|138.4734|O'Sullivan Beach
 -34.8476|138.5358|Ottoway
 -33.3142|151.3303|Ourimbah
 -35.0709|142.3203|Ouyen
@@ -2714,7 +2714,6 @@
 -33.7707|150.7950|Oxley Park
 -31.0632|150.9006|Oxley Vale
 -34.0041|151.0759|Oyster Bay
--35.0667|138.5500|O’Halloran Hill
 -26.6181|153.0778|Pacific Paradise
 -27.9399|153.3144|Pacific Pines
 -31.8065|115.7688|Padbury
@@ -2727,35 +2726,35 @@
 -38.0167|145.5167|Pakenham Upper
 -33.5966|151.3238|Palm Beach
 -16.7500|145.6667|Palm Cove
--18.7489|146.6038|Palm Island
 -35.1945|149.1194|Palmerston
+-18.7489|146.6038|Palm Island
 -26.6858|152.9614|Palmwoods
 -32.0450|115.7859|Palmyra
 -33.9537|150.9973|Panania
 -34.9908|138.5995|Panorama
 -37.6408|145.2399|Panton Hill
--34.8121|138.6580|Para Hills
--34.8047|138.6428|Para Hills West
--34.8209|138.6611|Para Vista
 -23.2042|117.6697|Paraburdoo
 -34.8736|138.6690|Paradise
 -27.8866|153.3933|Paradise Point
 -34.7825|138.6108|Parafield Gardens
+-34.8121|138.6580|Para Hills
+-34.8047|138.6428|Para Hills West
 -34.7570|138.6082|Paralowie
 -12.4305|130.8414|Parap
+-34.8209|138.6611|Para Vista
 -34.1764|140.7858|Paringa
 -23.3533|150.5189|Park Avenue
--41.0548|145.8820|Park Grove
--34.9944|138.5532|Park Holme
--37.7769|145.2146|Park Orchards
--27.7167|153.0333|Park Ridge
--27.7271|153.0332|Park Ridge South
 -37.9919|145.0813|Parkdale
 -31.8747|116.1380|Parkerville
 -32.8232|148.0251|Parkes
+-41.0548|145.8820|Park Grove
+-34.9944|138.5532|Park Holme
 -23.3000|150.5167|Parkhurst
 -27.6434|153.0298|Parkinson
 -33.7244|150.9182|Parklea
+-37.7769|145.2146|Park Orchards
+-27.7167|153.0333|Park Ridge
+-27.7271|153.0332|Park Ridge South
 -20.7377|139.4887|Parkside
 -37.7833|144.9500|Parkville
 -27.9546|153.3630|Parkwood
@@ -2815,8 +2814,9 @@
 -32.5317|117.2000|Pingelly
 -32.6298|115.8735|Pinjarra
 -20.7203|139.5081|Pioneer
--33.5872|150.8586|Pitt Town
 -27.7164|151.6340|Pittsworth
+-33.5872|150.8586|Pitt Town
+-33.6662|151.3017|Pittwater
 -27.5667|152.4167|Plainland
 -34.6251|117.5975|Plantagenet Shire
 -34.6942|138.6421|Playford
@@ -2836,6 +2836,7 @@
 -14.6570|141.8335|Pormpuraaw
 -34.8462|138.5030|Port Adelaide
 -34.8480|138.5077|Port Adelaide Enfield
+-38.1154|144.6556|Portarlington
 -32.5553|137.7136|Port Augusta
 -32.4861|137.7583|Port Augusta West
 -33.6007|137.9360|Port Broughton
@@ -2847,6 +2848,7 @@
 -20.7926|118.6326|Port Hedland
 -34.4818|150.9012|Port Kembla
 -32.3734|115.7515|Port Kennedy
+-33.3571|149.9815|Portland
 -34.7285|135.8575|Port Lincoln
 -31.4308|152.9089|Port Macquarie
 -31.4211|152.5192|Port Macquarie-Hastings
@@ -2861,8 +2863,6 @@
 -41.1665|146.5528|Port Sorell
 -32.7285|151.8995|Port Stephens Shire
 -35.2618|138.4644|Port Willunga
--38.1154|144.6556|Portarlington
--33.3571|149.9815|Portland
 -33.8670|151.2259|Potts Point
 -28.3874|153.5586|Pottsville
 -28.3885|153.5656|Pottsville Beach
@@ -2888,9 +2888,9 @@
 -35.3549|149.2320|Queanbeyan
 -35.3462|149.2460|Queanbeyan East
 -35.3550|149.2041|Queanbeyan West
--33.8995|151.2472|Queens Park
 -33.7828|151.2850|Queenscliff
 -38.2690|144.6625|Queenscliffe
+-33.8995|151.2472|Queens Park
 -34.8609|138.5105|Queenstown
 -20.0745|146.2817|Queenton
 -26.1506|143.5794|Quilpie
@@ -2921,14 +2921,14 @@
 -32.7333|151.6167|Raworth
 -32.7595|151.7505|Raymond Terrace
 -34.1524|150.6531|Razorback
--34.3094|142.1897|Red Cliffs
--35.3262|149.1191|Red Hill
 -37.5765|143.8386|Redan
 -27.6000|152.8667|Redbank
 -27.6461|152.8596|Redbank Plains
 -31.9384|115.9464|Redcliffe
+-34.3094|142.1897|Red Cliffs
 -33.8928|151.2041|Redfern
 -33.0118|151.7114|Redhead
+-35.3262|149.1191|Red Hill
 -27.5379|153.2483|Redland
 -27.6113|153.3002|Redland Bay
 -16.9254|145.6956|Redlynch
@@ -2999,7 +2999,6 @@
 -33.7328|150.7910|Ropes Crossing
 -37.7390|145.0674|Rosanna
 -33.8688|151.2706|Rose Bay
--34.9304|138.6283|Rose Park
 -33.9186|151.1961|Rosebery
 -38.3554|144.9068|Rosebud
 -38.3644|144.8775|Rosebud West
@@ -3009,6 +3008,7 @@
 -34.1041|150.7928|Rosemeadow
 -26.6303|152.9997|Rosemount
 -28.2401|152.0133|Rosenthal Heights
+-34.9304|138.6283|Rose Park
 -42.8210|147.2526|Rosetta
 -33.7833|151.1833|Roseville
 -33.7785|151.1968|Roseville Chase
@@ -3068,7 +3068,6 @@
 -32.0238|115.8658|Salter Point
 -27.3727|152.8670|Samford Valley
 -32.0700|115.7977|Samson
--33.2147|151.5210|San Remo
 -35.1036|150.6267|Sanctuary Point
 -42.9333|147.5000|Sandford
 -27.3220|153.0695|Sandgate
@@ -3078,6 +3077,7 @@
 -27.0837|153.1324|Sandstone Point
 -42.8945|147.3244|Sandy Bay
 -30.1468|153.1924|Sandy Beach
+-33.2147|151.5210|San Remo
 -33.9899|151.1333|Sans Souci
 -30.2261|153.1363|Sapphire Beach
 -33.4756|151.3521|Saratoga
@@ -3146,8 +3146,8 @@
 -32.8788|151.6910|Shortland
 -27.6213|152.7877|Silkstone
 -37.8167|145.4167|Silvan
--32.5086|115.7360|Silver Sands
 -33.9152|150.6096|Silverdale
+-32.5086|115.7360|Silver Sands
 -33.8334|151.0473|Silverwater
 -31.7426|115.8063|Sinagra
 -32.6055|150.9187|Singleton
@@ -3176,6 +3176,7 @@
 -42.7891|147.6949|Sorell
 -38.3396|144.7413|Sorrento
 -36.0865|146.9091|South Albury
+-37.8228|144.9643|Southbank
 -33.4384|149.5720|South Bathurst
 -33.5167|150.1167|South Bowenfels
 -35.0277|138.5280|South Brighton
@@ -3184,6 +3185,11 @@
 -26.4008|151.6017|South Burnett
 -24.8935|113.6585|South Carnarvon
 -33.9311|151.2560|South Coogee
+-28.5026|151.9216|Southern Downs
+-37.5299|142.0253|Southern Grampians
+-35.3673|140.5203|Southern Mallee
+-42.4179|147.4341|Southern Midlands
+-32.1066|115.9590|Southern River
 -32.0691|115.7545|South Fremantle
 -38.6990|146.0670|South Gippsland
 -23.8622|151.2680|South Gladstone
@@ -3209,6 +3215,8 @@
 -33.7735|150.6947|South Penrith
 -31.9988|115.8722|South Perth
 -34.9768|138.5559|South Plympton
+-27.9672|153.3980|Southport
+-26.2100|152.6472|Southside
 -31.1100|150.9225|South Tamworth
 -27.5710|151.9465|South Toowoomba
 -19.2662|146.8333|South Townsville
@@ -3218,14 +3226,6 @@
 -33.6181|150.8044|South Windsor
 -37.8383|144.9915|South Yarra
 -32.5851|115.7802|South Yunderup
--37.8228|144.9643|Southbank
--28.5026|151.9216|Southern Downs
--37.5299|142.0253|Southern Grampians
--35.3673|140.5203|Southern Mallee
--42.4179|147.4341|Southern Midlands
--32.1066|115.9590|Southern River
--27.9672|153.3980|Southport
--26.2100|152.6472|Southside
 -28.7353|114.6365|Spalding
 -32.1053|115.7780|Spearwood
 -32.9638|151.6262|Speers Point
@@ -3233,26 +3233,37 @@
 -35.0052|117.9000|Spencer Park
 -37.8297|144.8852|Spotswood
 -41.2352|146.3511|Spreyton
--34.0685|150.7118|Spring Farm
--27.4614|153.0231|Spring Hill
 -36.0309|146.9478|Springdale Heights
+-34.0685|150.7118|Spring Farm
 -27.6536|152.9172|Springfield
 -27.6676|152.9249|Springfield Lakes
+-27.4614|153.0231|Spring Hill
 -24.1148|148.0885|Springsure
 -35.1669|147.3306|Springvale
 -37.9667|145.1500|Springvale South
 -33.7000|150.5500|Springwood
+-27.4104|153.0111|Stafford
+-27.3935|153.0105|Stafford Heights
 -34.8308|138.7107|St Agnes
+-37.7450|144.8005|St Albans
 -38.1880|144.3921|St Albans Park
 -34.0224|150.8296|St Andrews
+-33.7221|150.9260|Stanhope Gardens
+-33.8941|151.1642|Stanmore
+-28.6543|151.9339|Stanthorpe
+-34.2261|150.9858|Stanwell Park
+-37.0563|142.7809|Stawell
 -33.7973|150.7847|St Clair
 -27.9476|148.6099|St George
 -18.9820|125.0087|St George Ranges
 -34.9520|138.6479|St Georges
+-35.0899|150.5980|St. Georges Basin
 -37.6899|145.1232|St Helena
 -41.3203|148.2389|St Helens
 -34.1047|150.8137|St Helens Park
 -33.4956|151.3462|St Huberts Island
+-35.3497|149.0493|Stirling
+-32.4799|137.8380|Stirling North
 -33.7038|151.1646|St Ives Chase
 -32.0000|115.9098|St James
 -33.8830|150.9018|St Johns Park
@@ -3261,28 +3272,18 @@
 -33.8234|151.1984|St Leonards
 -35.0042|138.5798|St Marys
 -34.9111|138.6536|St Morris
--34.9050|138.6225|St Peters
--35.0899|150.5980|St. Georges Basin
--27.4104|153.0111|Stafford
--27.3935|153.0105|Stafford Heights
--33.7221|150.9260|Stanhope Gardens
--33.8941|151.1642|Stanmore
--28.6543|151.9339|Stanthorpe
--34.2261|150.9858|Stanwell Park
--37.0563|142.7809|Stawell
--35.3497|149.0493|Stirling
--32.4799|137.8380|Stirling North
 -32.9091|151.7836|Stockton
 -30.8667|121.7667|Stoneville
 -37.8613|145.0378|Stonnington
 -34.9342|138.6767|Stonyfell
+-34.9050|138.6225|St Peters
 -37.9634|147.0826|Stratford
 -35.2598|138.8925|Strathalbyn
 -36.7240|145.3294|Strathbogie
 -36.7657|144.3155|Strathdale
 -33.8798|151.0756|Strathfield
--33.8925|151.0833|Strathfield South
 -36.8067|144.3549|Strathfieldsaye
+-33.8925|151.0833|Strathfield South
 -35.9253|145.4786|Strathmerton
 -37.7356|144.9206|Strathmore
 -27.3041|152.9898|Strathpine
@@ -3295,10 +3296,8 @@
 -31.9596|115.8156|Subiaco
 -32.1428|115.8500|Success
 -28.6881|153.6098|Suffolk Park
--33.8915|151.1382|Summer Hill
 -41.4675|147.1280|Summerhill
 -33.1409|151.5656|Summerland Point
--23.8752|151.2575|Sun Valley
 -37.5774|144.7261|Sunbury
 -27.5800|153.0606|Sunnybank
 -27.6103|153.0539|Sunnybank Hills
@@ -3311,6 +3310,7 @@
 -26.5610|152.8511|Sunshine Coast
 -37.7699|144.8279|Sunshine North
 -37.7912|144.8164|Sunshine West
+-23.8752|151.2575|Sun Valley
 -38.3400|144.1153|Surf Coast
 -28.0027|153.4300|Surfers Paradise
 -35.6953|150.1995|Surfside
@@ -3323,13 +3323,13 @@
 -35.1667|149.2500|Sutton
 -24.8857|152.3318|Svensson Heights
 -31.7704|116.0875|Swan
--35.1006|143.1681|Swan Hill
--31.8833|116.0500|Swan View
 -31.9688|115.7673|Swanbourne
+-35.1006|143.1681|Swan Hill
 -33.0876|151.6375|Swansea
+-31.8833|116.0500|Swan View
 -33.9167|151.1680|Sydenham
 -33.8678|151.2073|Sydney
--33.8648|151.2077|Sydney Central Business
+-33.8648|151.2077|Sydney Central Business|Sydney Central Business District
 -33.8498|151.0683|Sydney Olympic Park
 -34.0124|151.0972|Sylvania
 -34.0187|151.1086|Sylvania Waters
@@ -3400,6 +3400,7 @@
 -33.6833|151.2333|Terry Hills
 -26.3910|153.0343|Tewantin
 -24.9000|152.3500|Thabeban
+-34.9167|138.5667|Thebarton
 -37.8500|145.3167|The Basin
 -35.7184|139.7033|The Coorong
 -33.3388|151.4978|The Entrance
@@ -3410,14 +3411,13 @@
 -33.5912|150.9610|The Hills Shire
 -32.9382|151.7591|The Junction
 -34.0799|150.5700|The Oaks
+-35.4496|149.1197|Theodore
 -37.8919|145.4022|The Patch
 -33.7023|150.9109|The Ponds
 -23.3920|150.4962|The Range
 -35.2730|147.1138|The Rock
 -33.8592|151.2081|The Rocks
 -31.7549|116.0024|The Vines
--34.9167|138.5667|Thebarton
--35.4496|149.1197|Theodore
 -34.2045|150.5677|Thirlmere
 -34.3160|150.9214|Thirroul
 -37.6833|145.0167|Thomastown
@@ -3434,8 +3434,8 @@
 -23.0383|148.3446|Tieri
 -32.9073|151.7509|Tighes Hill
 -38.4843|142.9803|Timboon
--25.9191|153.0032|Tin Can Bay
 -25.5520|152.6659|Tinana
+-25.9191|153.0032|Tin Can Bay
 -27.4736|153.1270|Tingalpa
 -32.9973|151.6702|Tingira Heights
 -31.9363|152.4143|Tinonee
@@ -3445,9 +3445,9 @@
 -35.8115|145.5692|Tocumwal
 -17.1856|145.4771|Tolga
 -35.1452|147.3516|Tolland
--22.6939|117.7931|Tom Price
 -35.8233|150.1879|Tomakin
 -35.0523|150.5865|Tomerong
+-22.6939|117.7931|Tom Price
 -36.2547|144.9562|Tongala
 -31.4699|116.3880|Toodyay
 -27.0866|152.3764|Toogoolawah
@@ -3489,6 +3489,7 @@
 -37.8167|144.7500|Truganina
 -12.6342|141.8696|Trunding
 -31.8981|115.8350|Tuart Hill
+-35.4165|149.0695|Tuggeranong
 -33.2804|151.4804|Tuggerawong
 -28.1500|153.5000|Tugun
 -37.7013|144.8810|Tullamarine
@@ -3538,8 +3539,8 @@
 -30.4970|153.0142|Urunga
 -33.3798|115.6292|Usher
 -28.7833|114.6500|Utakarra
--34.8860|138.6271|Vale Park
 -33.0150|151.6429|Valentine
+-34.8860|138.6271|Vale Park
 -30.5926|153.0113|Valla Beach
 -33.7000|150.5833|Valley Heights
 -34.8399|138.6607|Valley View
@@ -3598,8 +3599,8 @@
 -38.1758|144.3039|Wandana Heights
 -32.5259|116.5667|Wandering
 -32.1943|115.8763|Wandi
--37.7833|145.4333|Wandin North
 -28.8194|114.6346|Wandina
+-37.7833|145.4333|Wandin North
 -26.1228|149.9603|Wandoan
 -37.3719|145.0321|Wandong
 -36.6160|146.4284|Wangaratta
@@ -3614,8 +3615,8 @@
 -35.3530|149.0621|Waramanga
 -26.7227|153.1269|Warana
 -32.9067|151.7265|Waratah
--32.9000|151.7117|Waratah West
 -41.3071|145.4583|Waratah/Wynyard
+-32.9000|151.7117|Waratah West
 -37.7537|145.6904|Warburton
 -33.8582|151.1309|Wareemba
 -29.5435|150.5754|Warialda
@@ -3651,11 +3652,11 @@
 -35.2381|149.1527|Watson
 -37.7167|145.0833|Watsonia
 -37.6998|145.0847|Watsonia North
+-37.6667|145.1833|Wattleglen
 -33.9544|150.9445|Wattle Grove
 -34.9252|138.6750|Wattle Park
 -32.5203|151.1936|Wattle Ponds
 -37.5080|140.4211|Wattle Range
--37.6667|145.1833|Wattleglen
 -31.4579|152.7262|Wauchope
 -38.2167|144.2833|Waurn Ponds
 -27.3939|153.0470|Wavell Heights
@@ -3663,8 +3664,8 @@
 -33.8386|151.2005|Waverton
 -34.9447|138.5913|Wayville
 -33.8790|148.0112|Weddin
--30.2266|149.4404|Wee Waa
 -35.2500|149.0500|Weetangera
+-30.2266|149.4404|Wee Waa
 -12.6367|141.8756|Weipa
 -32.2667|115.8333|Wellard
 -16.6318|139.4014|Wellesley Islands
@@ -3690,10 +3691,16 @@
 -28.8620|153.5329|West Ballina
 -33.4092|149.5632|West Bathurst
 -34.9460|138.5094|West Beach
+-34.9716|138.5952|Westbourne Park
+-27.6167|151.8667|Westbrook
+-41.5291|146.8391|Westbury
 -33.6579|115.3229|West Busselton
 -42.4525|145.5226|West Coast
+-26.8000|150.1500|Westcourt
 -34.8945|138.5593|West Croydon
+-31.0905|150.8568|Westdale
 -27.4792|153.0096|West End
+-26.8067|150.3859|Western Downs
 -37.7975|144.8773|West Footscray
 -23.8612|151.2453|West Gladstone
 -33.4258|151.3170|West Gosford
@@ -3702,15 +3709,22 @@
 -42.8766|147.3069|West Hobart
 -33.9339|150.8323|West Hoxton
 -31.0576|152.8279|West Kempsey
+-27.5486|152.9128|Westlake
 -34.8730|138.4946|West Lakes
 -34.8601|138.4897|West Lakes Shore
 -30.7471|121.4525|West Lamington
 -41.4509|147.1311|West Launceston
 -31.9414|115.8312|West Leederville
+-33.7118|151.0714|Westleigh
 -21.1547|149.1618|West Mackay
+-33.8038|150.9877|Westmead
+-37.6760|144.8870|Westmeadows
 -37.8101|144.9500|West Melbourne
+-31.8674|115.8392|Westminster
 -42.8500|147.2818|West Moonah
 -34.8859|150.5833|West Nowra
+-35.3358|149.0593|Weston
+-30.8844|118.7297|Westonia
 -33.7457|151.0476|West Pennant Hills
 -31.9490|115.8420|West Perth
 -33.7667|151.1333|West Pymble
@@ -3725,29 +3739,16 @@
 -34.4248|150.8642|West Wollongong
 -26.6664|152.9256|West Woombye
 -33.9237|147.2047|West Wyalong
--34.9716|138.5952|Westbourne Park
--27.6167|151.8667|Westbrook
--41.5291|146.8391|Westbury
--26.8000|150.1500|Westcourt
--31.0905|150.8568|Westdale
--26.8067|150.3859|Western Downs
--27.5486|152.9128|Westlake
--33.7118|151.0714|Westleigh
--33.8038|150.9877|Westmead
--37.6760|144.8870|Westmeadows
--31.8674|115.8392|Westminster
--35.3358|149.0593|Weston
--30.8844|118.7297|Westonia
 -33.8428|150.9006|Wetherill Park
 -33.7570|150.8040|Whalan
 -33.6124|151.3254|Whale Beach
 -33.7312|151.2805|Wheeler Heights
 -37.9000|145.1833|Wheelers Hill
+-32.9744|151.7161|Whitebridge
 -32.0603|115.7706|White Gum Valley
 -36.7287|144.3053|White Hills
--16.9744|145.7633|White Rock
--32.9744|151.7161|Whitebridge
 -37.8287|145.1543|Whitehorse
+-16.9744|145.7633|White Rock
 -16.8951|145.7334|Whitfield
 -20.6978|148.0135|Whitsunday
 -20.1194|148.9133|Whitsundays
@@ -3773,8 +3774,8 @@
 -33.7253|150.7926|Willmot
 -33.8017|151.1878|Willoughby
 -33.7984|151.2052|Willoughby East
--27.8450|153.2631|Willow Vale
 -27.6822|152.6741|Willowbank
+-27.8450|153.2631|Willow Vale
 -35.2713|138.5542|Willunga
 -32.0206|115.9118|Wilson
 -27.5431|151.9168|Wilsonton
@@ -3811,9 +3812,9 @@
 -33.8328|151.1898|Wollstonecraft
 -26.3177|151.8724|Wondai
 -25.3176|152.8591|Wondunna
--37.7333|145.2667|Wonga Park
 -17.9133|146.0961|Wongaling Beach
 -30.7314|116.8485|Wongan-Ballidu
+-37.7333|145.2667|Wonga Park
 -27.8755|153.2286|Wongawallan
 -38.6059|145.5935|Wonthaggi
 -28.7669|114.6334|Wonthella
@@ -3848,8 +3849,8 @@
 -33.2413|151.4756|Woongarrah
 -34.3493|150.9144|Woonona
 -24.1501|149.4498|Woorabinda
--37.7806|145.5382|Woori Yallock
 -27.0693|153.2043|Woorim
+-37.7806|145.5382|Woori Yallock
 -31.8038|116.3131|Wooroloo
 -28.7668|114.6581|Woorree
 -16.9500|145.7500|Woree
@@ -3868,21 +3869,21 @@
 -38.1167|147.0333|Wurruk
 -11.7608|130.6256|Wurrumiyanga
 -26.7565|153.1281|Wurtulla
--37.8000|147.5833|Wy Yung
 -31.1953|117.4468|Wyalkatchem
 -33.1825|151.4880|Wyee
 -33.1459|151.5078|Wyee Point
 -37.8928|144.6357|Wyndham
--37.8914|144.6237|Wyndham Vale
 -15.5129|126.5878|Wyndham-East Kimberley
--34.7994|138.6871|Wynn Vale
+-37.8914|144.6237|Wyndham Vale
 -27.4453|153.1581|Wynnum
 -27.4582|153.1532|Wynnum West
+-34.7994|138.6871|Wynn Vale
 -40.9897|145.7262|Wynyard
 -33.4039|151.3625|Wyoming
 -33.2825|151.4233|Wyong
 -33.2747|151.4890|Wyongah
 -27.6558|151.8553|Wyreema
+-37.8000|147.5833|Wy Yung
 -36.3137|146.8396|Yackandandah
 -33.9049|151.0200|Yagoona
 -35.0039|117.8783|Yakamia
@@ -3900,16 +3901,16 @@
 -35.4939|138.3423|Yankalilla
 -26.5513|153.0970|Yaroomba
 -37.8018|144.9959|Yarra
--37.6579|145.3742|Yarra Glen
--37.7819|145.6143|Yarra Junction
--37.7501|145.7371|Yarra Ranges
 -16.9946|145.8806|Yarrabah
 -27.8086|153.1116|Yarrabilba
+-37.6579|145.3742|Yarra Glen
 -38.2052|146.0608|Yarragon
+-37.7819|145.6143|Yarra Junction
 -35.2998|149.1059|Yarralumla
 -38.5648|146.6756|Yarram
 -26.8417|151.9814|Yarraman
 -37.6375|145.1349|Yarrambat
+-37.7501|145.7371|Yarra Ranges
 -31.0430|152.7619|Yarravel
 -37.8167|144.9000|Yarraville
 -34.0535|151.0356|Yarrawarrah

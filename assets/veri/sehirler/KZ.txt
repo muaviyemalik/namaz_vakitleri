@@ -9,6 +9,7 @@
 50.2797|57.2072|Aktobe
 48.1667|75.3000|Aktogay
 43.2567|76.9286|Almaty
+49.7363|84.2542|Altay
 50.2459|82.3625|Altayskiy
 48.2601|72.8585|Aqadyr
 45.0000|72.7833|Aqbaqay
@@ -20,6 +21,7 @@
 50.2492|66.9203|Arkalyk
 42.4301|68.8087|Arys
 43.5537|68.8979|Ashchysay
+51.1801|71.4460|Astana|Nur-Sultan
 51.5309|69.7968|Astrakhan
 40.8946|68.3643|Asyqata
 49.5569|83.0636|Asūbulaq
@@ -31,6 +33,7 @@
 47.9645|80.4344|Ayagoz
 52.8355|62.5208|Ayat
 45.8461|62.1526|Ayteke Bi
+45.6167|63.3167|Baikonur
 44.8084|76.2721|Bakanas
 52.5178|68.7516|Balkashino
 44.9023|78.2316|Balpyk Bī
@@ -59,7 +62,7 @@
 43.3557|76.8548|Burunday
 53.0838|70.3138|Būrabay
 50.2000|51.1667|Chapaev
-41.2583|67.9699|Chardara
+41.2583|67.9699|Chardara|Shardara
 43.0340|69.3805|Chayan
 43.3763|76.6246|Chemolgan
 51.0988|54.0843|Chingirlau
@@ -71,7 +74,7 @@
 45.2533|82.4804|Druzhba
 45.0833|64.6667|Dzhalagash
 50.2568|52.5990|Dzhambeyty
-52.1902|61.1989|Dzhetygara
+52.1902|61.1989|Dzhetygara|Zhitikara
 51.0541|69.4793|Egindiköl
 51.7237|75.3229|Ekibastuz
 48.8298|58.1504|Embi
@@ -86,10 +89,11 @@
 42.7440|73.4685|Granitogorsk
 48.5500|51.7833|Inderbor
 53.3336|75.4578|Irtyshsk
+49.3301|81.5727|Kalbatau
 51.9535|76.0272|Kalkaman
 49.4691|57.4191|Kandyagash
 43.5279|68.5829|Kantagi
-43.8668|77.0630|Kapshagay
+43.8668|77.0630|Kapshagay|Konayev
 49.8019|73.1021|Karagandy
 52.6600|65.4842|Karasu
 43.1787|70.4677|Karatau
@@ -123,6 +127,8 @@
 52.6329|70.4191|Makinsk
 49.8144|84.2910|Maleyevsk
 46.6000|49.2667|Maloye Ganyushkino
+43.6909|51.3224|Mangistau
+46.7817|82.0226|Maqanshy
 47.6500|53.3167|Maqat
 40.7500|68.5833|Maqtaaral Aūdany
 50.7475|56.5061|Martuk
@@ -137,8 +143,9 @@
 40.6634|68.5451|Myrzakent
 49.7065|72.7081|Novodolinskiy
 53.1981|66.7694|Novoishimskiy
-51.1801|71.4460|Nur-Sultan
+45.8481|62.1525|Novokazalinsk
 49.6835|83.0167|Ognevka
+43.5979|51.2417|Ömirzaq
 51.2333|51.3667|Oral
 52.4477|61.7494|Ordzhonikidze
 50.5622|72.5709|Osakarovka
@@ -163,13 +170,16 @@
 52.4511|64.6198|Qusmuryn
 50.3441|83.5129|Ridder
 52.9729|63.1168|Rudnyy
+49.8025|72.8319|Saran
 45.4113|79.9155|Sarkand
+45.4132|79.9171|Sarqant
 41.4604|69.1679|Saryaghash
 41.6667|68.8333|Saryaghash Aūdany
 43.0000|71.5000|Sarykemer
 44.3618|77.9728|Saryozek
 46.1192|73.6192|Saryshaghan
 42.5533|69.9984|Sastobe
+47.9041|67.5411|Satpayev
 47.0000|77.2667|Sayaq
 48.8561|46.8336|Saykhin
 44.3278|53.5325|Sayötesh
@@ -185,13 +195,18 @@
 49.5872|81.0488|Shar
 46.8169|75.0403|Shashūbay
 52.9359|70.1890|Shchuchinsk
+43.5962|78.2575|Shelek
+50.6290|81.9109|Shemonaikha
 50.6281|81.9121|Shemonaīkha
 44.1667|52.1167|Shetpe
+44.1706|66.7338|Shiyeli
 51.6995|70.9946|Shortandy
-49.1439|56.4820|Shubarkuduk
+43.6051|73.7622|Shu
 48.8822|68.8072|Shubarköl
+49.1439|56.4820|Shubarkuduk
 48.5802|57.1829|Shubarshi
 44.8306|70.0019|Shyghanaq
+42.3099|69.6004|Shymkent
 44.1688|66.7389|Shīeli
 54.5148|69.4273|Smirnovo
 49.7908|72.8374|Soran
@@ -205,6 +220,7 @@
 53.6374|71.8740|Talshik
 42.9000|71.3667|Taraz
 44.7738|65.5523|Tasböget
+44.7702|65.5546|Tasbuget
 51.1107|50.2945|Tasqala
 44.3468|51.3493|Taūshyq
 44.8332|78.8309|Tekeli
@@ -220,14 +236,17 @@
 42.5334|70.3496|Turar Ryskulov
 43.4006|77.5933|Turgen
 43.2973|68.2518|Turkestan
+43.2946|68.2569|Turkistan
 42.4858|70.2960|Tyul’kubas
 47.7252|84.2063|Tūghyl
+45.2119|73.9786|Ülken
 47.0930|81.6294|Urzhar
+45.2526|77.9828|Ushtobe
 45.2520|77.9801|Ush-Tyube
 49.9714|82.6059|Ust-Kamenogorsk
 48.6833|73.2833|Verkhniye Kayrakty
 53.2927|68.1050|Volodarskoye
-43.9065|67.2464|Yanykurgan
+43.9065|67.2464|Yanykurgan|Zhangaqorghan
 54.3453|68.4574|Yavlenka
 43.1803|51.6812|Yeraliyev
 51.6236|73.1026|Yermentau
@@ -240,17 +259,16 @@
 43.3412|52.8619|Zhanaozen
 49.6295|83.5247|Zhanga Buqtyrma
 43.5622|69.7343|Zhangatas
+49.4221|46.8471|Zhänibek
 51.9106|67.3166|Zhaqsy
 44.1666|80.0066|Zharkent
 48.8569|72.8360|Zharyk
 53.5388|75.3133|Zhelezinka
 43.5942|52.0789|Zhetibay
+40.7763|68.3277|Zhetysay
 50.9311|81.3615|Zhezkent
 47.7833|67.7667|Zhezqazghan
 51.7421|71.7125|Zholymbet
 45.4878|64.0781|Zhosaly
-49.4221|46.8471|Zhänibek
 49.7265|84.2732|Zyryanovsk
-43.5979|51.2417|Ömirzaq
-45.2119|73.9786|Ülken
 50.5493|81.8500|Ūst’-Talovka

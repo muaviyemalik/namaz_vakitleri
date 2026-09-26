@@ -1,20 +1,33 @@
 31.5792|-7.3131|Abadou
 31.1078|-8.4908|Adassil
+33.3749|-7.5356|Ad Darwa
 30.4202|-9.5982|Agadir
-30.2249|-7.7960|Agadir Melloul
 30.5833|-9.5000|Agadir-Ida-ou-Tnan
+30.2249|-7.7960|Agadir Melloul
 30.6936|-6.4463|Agdz
+33.6300|-5.5800|Agouraï
 33.1614|-5.8463|Aguelmous
 34.9537|-2.1003|Ahfir
+33.8876|-6.9681|Aïn Attig
+34.0097|-2.0324|Aïn Beni Mathar
+33.8033|-6.7946|Ain El Aouda
+33.6374|-7.4497|Aïn Harrouda
+33.2898|-5.3386|Aïn Leuh
+33.9357|-5.2133|Aïn Taoujdat
+30.3416|-9.5036|Ait Melloul
+31.5652|-7.6616|Ait Ourir
+30.5019|-8.7992|Ait Yazza
 28.0946|-12.0516|Akhfennir
 34.6537|-3.8675|Aknoul
 35.0109|-3.0094|Al Aaroui
+32.5047|-7.1924|Al Brouj
 32.5021|-6.6877|Al Fqih Ben Çalah
-35.2516|-3.9372|Al Hoceïma
 31.3408|-7.9108|Al-Haouz
 35.0000|-4.2500|Al-Hoceima
+35.2516|-3.9372|Al Hoceïma
 33.3200|-4.1800|Almis Marmoucha
 31.1141|-5.1715|Alnif
+31.2167|-8.2318|Amizmiz
 31.6800|-4.1700|Aoufous
 30.6731|-8.1809|Aoulouz
 30.4924|-9.6355|Aourir
@@ -24,28 +37,40 @@
 31.4353|-4.2326|Arfoud
 30.7825|-9.1197|Argana
 35.4652|-6.0342|Asilah
+31.2465|-7.9789|Asni
+28.6099|-9.4299|Assa
 28.1667|-9.4167|Assa-Zag
 33.2895|-8.3425|Azemmour
 31.9616|-6.5711|Azilal
 31.9167|-6.5000|Azilal Province
+35.5530|-5.2447|Azla
 33.4344|-5.2213|Azrou
-34.0097|-2.0324|Aïn Beni Mathar
-33.2898|-5.3386|Aïn Leuh
+32.7713|-6.3923|Bejaâd
+33.0663|-7.2416|Ben Ahmed
+32.2409|-7.9540|Ben Guerir
+35.2600|-2.9300|Beni Enzar
 32.3372|-6.3498|Beni Mellal
+33.6841|-7.3392|Beni Yakhlef
+30.2622|-9.5038|Ben Jerrar
 33.5000|-7.1667|Benslimane
+35.0443|-3.4542|Ben Taieb
 34.6100|-2.5700|Berkane
 33.2655|-7.5875|Berrechid
 33.2658|-7.5814|Berrechid Province
 33.8519|-4.8723|Bhalil
 30.7238|-9.2110|Bigoudine
+33.3736|-7.9946|Bir Jdid
 35.1051|-3.8403|Bni Bouayach
 31.2655|-9.1786|Bouabout
 32.5338|-1.9621|Bouarfa
 34.3600|-4.8100|Bouarouss
+29.1771|-9.7118|Bou Izakarn
 25.6617|-13.6842|Boujdour
 32.9005|-6.7746|Boujniba
+34.1185|-6.7389|Bouknadel
 32.8599|-8.0556|Boulaouane
 33.1667|-4.0000|Boulemane
+32.7236|-5.1025|Boumia
 33.4498|-7.6524|Bouskoura
 33.7894|-7.1597|Bouznika
 34.9673|-5.5729|Brikcha
@@ -56,34 +81,48 @@
 35.1688|-5.2636|Chefchaouene
 31.2636|-8.8441|Chichaoua
 30.0295|-9.3091|Chtouka-Ait-Baha
+30.4114|-9.5534|Dakhla
+33.5153|-7.8168|Dar Bouazza
 32.3125|-6.9049|Dar Ould Zidouh
+30.3734|-9.5476|Dchira El Jihadia
 33.9823|-3.0426|Debdou
 31.7344|-7.0050|Demnate
 35.1104|-5.2901|Derdara
+33.8848|-5.5966|Douar Toulal
 34.9767|-3.3884|Driouch
+32.0810|-8.6246|Echemmaia Est
 34.5832|-2.5061|El Aïoun
+33.2773|-7.2324|El Gara
 33.6879|-5.3710|El Hajeb
+33.9448|-6.9311|El Harhoura
 33.2568|-8.5088|El Jadid
-32.5729|-6.0195|El Ksiba
 32.9000|-8.5000|El-Jadida
+32.0512|-7.4108|El Kelaa des Srarhna
+32.5729|-6.0195|El Ksiba
+33.7464|-7.3019|El Mansouria
 31.7500|-4.5000|Errachidia
-27.7500|-11.0000|Es-Semara
 31.5068|-9.7566|Essaouira
+27.7500|-11.0000|Es-Semara
 35.7400|-5.6800|Fahs-Anjra
 34.0400|-4.8700|Fes
+34.0701|-4.9547|Fès al Bali
 32.8333|-2.2500|Figuig
 35.8491|-5.3575|Fnidek
 32.5011|-6.6841|Fquih Ben Salah
-34.0701|-4.9547|Fès al Bali
 34.5442|-4.8036|Galaz
 34.4774|-5.3023|Ghouazi
+31.6923|-4.9526|Goulmima
 28.7500|-10.0000|Guelmim
 25.1428|-12.3717|Gueltat Zemmour
 34.2257|-3.3536|Guercif
+35.7021|-5.8904|Gueznaia
 34.6159|-5.7404|Had Kourt
+33.4197|-7.8524|Had Soualem
 33.3333|-5.2500|Ifrane
 32.1531|-5.6245|Imilchil
+31.1721|-8.8473|Imi-n-Tanout
 22.6558|-15.6072|Imlili
+33.7287|-5.0109|Imouzzer Kandar
 35.1464|-3.8506|Imzouren
 30.3554|-9.5364|Inezgane
 30.1000|-9.0333|Inezgane-Ait Melloul
@@ -92,6 +131,7 @@
 31.0272|-5.1164|Jebel Tiskaouine
 34.2366|-2.0428|Jerada
 31.4944|-4.4060|Jorf
+34.3709|-5.2138|Karia Ba Mohamed
 32.5977|-6.2684|Kasba Tadla
 32.1667|-7.7500|Kelaa-Des-Sraghna
 31.2457|-6.1326|Kelaat Mgouna
@@ -103,85 +143,120 @@
 32.8811|-6.9063|Khouribga
 32.9333|-6.6000|Khouribga Province
 35.0004|-5.9038|Ksar El Kebir
+31.8353|-7.3143|Laâttaouia
 27.8333|-12.3333|Laayoune
+33.5414|-7.5285|Lahraouyine
+34.8461|-6.0664|Lalla Mimouna
 35.1667|-5.8333|Larache
-35.8574|-5.3586|M'Diq-Fnideq
+30.2976|-9.4660|Lqoliaa
 35.0103|-2.3370|Madagh
 31.6362|-8.0104|Marrakech
 31.6342|-7.9999|Marrakesh
 35.6166|-5.2752|Martil
+35.6831|-5.3287|Mdiq
+35.8574|-5.3586|M'Diq-Fnideq
+31.6008|-7.9865|Méchouar-Kasba
 34.5737|-5.9558|Mechraa Bel Ksiri
 33.5201|-7.5035|Mediouna
+34.2560|-6.6734|Mehdya
 33.9776|-5.5250|Meknes
+33.8626|-6.9296|Mers El Kheir
 29.8200|-5.7200|Mhamid
 34.9402|-3.5331|Midar
 32.6805|-4.7369|Midelt
 33.0489|-3.9895|Missour
 33.6861|-7.3830|Mohammedia
+31.2824|-4.2654|Moulay Ali Cherif
 34.4892|-5.1302|Moulay Bouchta
 34.1456|-5.1026|Moulay-Yacoub
+33.1643|-5.5672|Mrirt
+30.3773|-9.4734|My Drarga
 35.0000|-3.0000|Nador
+34.0547|-5.0072|New Fes
 33.4584|-7.6473|Nouaceur
+30.3653|-9.4104|Oadar Temsia
 32.7337|-9.0306|Oualidia
 31.8700|-6.7500|Ouaoula
 30.9189|-6.8934|Ouarzazat
 30.9413|-6.9028|Ouarzazate
 34.2000|-4.2800|Oued Amlil
+23.6420|-14.4493|Oued-Ed-Dahab
 35.4484|-5.0963|Oued Laou
 32.8627|-6.5736|Oued Zem
-23.6420|-14.4493|Oued-Ed-Dahab
 34.7958|-5.5785|Ouezzane
 34.7976|-5.5860|Ouezzane Province
 29.6278|-9.5396|Ouijjane
+33.9141|-5.4897|Ouislane
+34.6814|-1.9086|Oujda
 34.2360|-2.2940|Oujda-Angad
 31.2060|-7.8609|Oukaïmedene
+32.2000|-6.8000|Oulad Ayad
+30.6404|-8.4688|Oulad Barhil
 32.9596|-8.2274|Oulad Frej
 33.9463|-4.9951|Oulad Tayeb
 30.3947|-9.2090|Oulad Teïma
 33.4258|-6.0014|Oulmes
 34.5348|-4.9688|Ourtzagh
+33.3450|-3.7039|Outat Oulad Al Haj
 34.0132|-6.8326|Rabat
+33.9740|-5.0961|Ras el Ma
+31.2832|-4.2656|Reçani
 29.5802|-9.7009|Reggada
 32.2458|-7.9314|Rehamna
-31.2832|-4.2656|Reçani
+33.8152|-4.4072|Ribat Al Khayr
+32.2564|-4.5015|Rich
+33.9033|-5.3687|Sabaa Aiyoun
 32.1667|-8.8333|Safi
 35.0819|-2.2290|Saidia
 34.0531|-6.7985|Sale
+33.9972|-6.7405|Salé Al Jadida
+32.1078|-9.0837|Sebt Gzoula
 33.7998|-4.6800|Sefrou
 35.0731|-2.9423|Selouane
 35.0745|-4.2158|Senada
 33.0010|-7.6166|Settat
 33.0833|-7.4167|Settat Province
 31.2251|-7.6775|Setti Fatma
+34.0077|-6.5308|Sidi Allal El Bahraoui
 32.6490|-8.4269|Sidi Bennour
 34.5628|-5.3621|Sidi Bousber
 29.3798|-10.1730|Sidi Ifni
 32.3895|-6.4210|Sidi Jaber
+34.5833|-5.7500|Sidi-Kacem
 34.2215|-5.7077|Sidi Qacem
+33.4774|-7.9364|Sidi Rahal
 31.6503|-7.4729|Sidi Rahhal
 34.6869|-5.4454|Sidi Redouane
 34.2648|-5.9260|Sidi Slimane
+34.9082|-2.3506|Sidi Slimane Echcharaa
 32.8246|-8.5112|Sidi Smai’il
+34.1870|-6.6818|Sidi Taibi
 34.3049|-6.3040|Sidi Yahia El Gharb
-34.5833|-5.7500|Sidi-Kacem
 33.8527|-7.0317|Skhirate
 33.7700|-6.8700|Skhirate-Temara
 26.7384|-11.6719|Smara
 31.2101|-9.7086|Smimou
+34.6847|-6.0034|Souk El Arbaa
+34.4916|-5.5085|Souk et Tnine Jorf el Mellah
 34.6866|-6.0027|Souq Larb’a al Gharb
+32.2973|-6.7030|Souq Sebt Oulad Nemma
+30.9032|-6.9158|Tabount
 30.7748|-9.4595|Tadrart
 29.7245|-8.9747|Tafraout
 30.5426|-9.7111|Taghazout
 34.0496|-4.4216|Tahla
 30.5292|-7.9126|Taliouine
 33.5900|-4.1900|Talzemt
+31.8190|-7.5145|Tamallalt
 31.0009|-9.6780|Tamanar
+31.7550|-8.1100|Tamansourt
+33.8181|-6.9166|Tamesna
 34.9363|-4.7794|Tamorot
 30.6960|-9.8297|Tamri
-28.0833|-11.0833|Tan-Tan
 29.7755|-9.1680|Tanalt
 35.5900|-5.9000|Tanger-Assilah
 35.7673|-5.7998|Tangier
+28.0833|-11.0833|Tan-Tan
 31.2222|-9.0794|Taouloukoult
 34.5000|-4.8333|Taounate
 34.4073|-2.8973|Taourirt
@@ -197,10 +272,12 @@
 33.9287|-6.9066|Temara
 34.6745|-5.2733|Teroual
 35.5833|-5.5000|Tetouan
+35.5784|-5.3684|Tétouan
 31.4659|-7.6120|Tidili Mesfioua
 33.8947|-6.3065|Tiflet
 30.8837|-9.0455|Timezgadiouine
 32.2037|-6.4666|Timoulilt
+30.2094|-9.3792|Tine Biougra
 31.5147|-5.5328|Tinghir
 31.5196|-5.5300|Tinghir Province
 35.2362|-3.9545|Tirhanimîne
@@ -210,9 +287,10 @@
 33.9065|-4.0270|Tmourghout
 32.2463|-8.5294|Youssoufia
 30.3484|-5.8365|Zagora
+34.9428|-2.7329|Zaïo
 33.3798|-7.6193|Zawyat an Nwaçer
 32.6444|-5.9183|Zawyat ech Cheïkh
-34.9428|-2.7329|Zaïo
+35.1556|-3.0024|Zeghanghane
 31.4447|-7.3922|Zerkten
 35.4300|-5.4000|Zinat
 34.8032|-5.3446|Zoumi

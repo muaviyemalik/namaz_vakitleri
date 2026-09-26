@@ -5,15 +5,15 @@
 8.5116|-77.2772|Acandí
 1.8361|-75.8550|Acevedo
 8.5695|-74.5571|Achí
-4.3765|-74.6700|Agua de Dios
 8.3084|-73.6166|Aguachica
 6.1602|-73.5275|Aguada
 5.6116|-75.4562|Aguadas
+4.3765|-74.6700|Agua de Dios
 5.1728|-72.5471|Aguazul
 10.0367|-73.2356|Agustín Codazzi
 3.2219|-75.2375|Aipe
-1.2632|-75.9537|Albania
 4.8943|-74.4439|Albán
+1.2632|-75.9537|Albania
 4.6746|-75.7719|Alcalá
 0.8828|-77.7010|Aldana
 6.3667|-75.0833|Alejandría
@@ -29,6 +29,7 @@
 6.0400|-75.7031|Amagá
 6.9102|-75.0776|Amalfi
 4.7840|-74.7627|Ambalema
+4.3964|-75.4450|Anaime
 4.5510|-74.5352|Anapoima
 1.2633|-77.5138|Ancuya
 4.1403|-76.1474|Andalucía
@@ -42,8 +43,8 @@
 6.3333|-75.9167|Anza
 4.6223|-75.1805|Anzoátegui
 7.8830|-76.6259|Apartadó
-4.5195|-74.5929|Apulo
 5.1066|-75.9424|Apía
+4.5195|-74.5929|Apulo
 5.4034|-72.9019|Aquitania
 10.5918|-74.1898|Aracataca
 5.2552|-75.5098|Aranzazu
@@ -75,27 +76,28 @@
 1.6715|-78.1398|Barbacoas
 6.4381|-75.3314|Barbosa
 6.6357|-73.2228|Barichara
-4.5696|-72.9668|Barranca de Upía
 7.0653|-73.8547|Barrancabermeja
+4.5696|-72.9668|Barranca de Upía
 10.9718|-72.6911|Barrancas
 8.9460|-74.1065|Barranco de Loba
 3.0990|-69.5830|Barranco Minas
 10.9685|-74.7813|Barranquilla
 9.7041|-73.2793|Becerril
 4.9953|-75.8128|Belalcázar
-6.3616|-75.5873|Bello
-6.6051|-75.6662|Belmira
-4.7195|-74.7566|Beltrán
 5.9889|-72.9125|Belén
 1.4167|-75.9167|Belén de Los Andaquies
 5.2009|-75.8687|Belén de Umbría
+6.3616|-75.5873|Bello
+6.6051|-75.6662|Belmira
+4.7195|-74.7566|Beltrán
 5.2276|-73.1253|Berbeo
 5.7357|-75.9896|Betania
-6.1128|-75.9838|Betulia
 5.9110|-72.8093|Betéitiva
+6.1128|-75.9838|Betulia
 4.8725|-74.5392|Bituima
 6.3303|-72.5850|Boavita
 7.6022|-72.6884|Bochalema
+4.6097|-74.0817|Bogotá
 4.6126|-74.0705|Bogotá D.C.
 4.7318|-74.3413|Bojacá
 6.5564|-76.8839|Bojayá
@@ -115,8 +117,10 @@
 3.9860|-74.4828|Cabrera
 4.2817|-72.7940|Cabuyaro
 3.3253|-67.6240|Cacahual
+7.6825|-75.2248|Cáceres
 5.2667|-74.5667|Cachipay
 7.7500|-73.1667|Cachirá
+7.2679|-72.6420|Cácota
 6.4280|-75.9972|Caicedo
 4.3324|-75.8267|Caicedonia
 8.7883|-75.1358|Caimito
@@ -125,6 +129,7 @@
 4.9186|-74.0280|Cajicá
 10.2338|-74.9424|Calamar
 4.5000|-75.6333|Calarca
+4.5286|-75.6402|Calarcá
 6.0911|-75.6357|Caldas
 2.7974|-76.4832|Caldono
 3.4103|-76.5810|Cali
@@ -132,10 +137,11 @@
 3.9251|-76.6265|Calima
 3.0359|-76.4079|Caloto
 7.0391|-75.2894|Campamento
-10.3784|-74.9026|Campo de la Cruz
 2.6867|-75.3256|Campoalegre
+10.3784|-74.9026|Campo de la Cruz
 4.9773|-73.1671|Campohermoso
 8.6761|-76.2042|Canalete
+6.8095|-76.0395|Cañasgordas
 10.4739|-74.8858|Candelaria
 7.3793|-73.9155|Cantagallo
 5.3464|-74.4915|Caparrapí
@@ -148,7 +154,9 @@
 4.1472|-74.7201|Carmen de Apicalá
 5.3486|-73.9017|Carmen de Carupa
 7.1578|-76.9708|Carmen del Darien
+6.0824|-75.3351|Carmen de Viboral|El Carmen de Viboral
 6.7481|-75.3213|Carolina
+10.3982|-75.4933|Cartagena
 10.3997|-75.5144|Cartagena de Indias
 1.3349|-74.8429|Cartagena del Chairá
 4.7464|-75.9117|Cartago
@@ -156,12 +164,12 @@
 5.0796|-75.1206|Casabianca
 3.8272|-73.6883|Castilla la Nueva
 7.9865|-75.1935|Caucasia
-6.8095|-76.0395|Cañasgordas
 6.7543|-72.9744|Cepitá
 8.8848|-75.7905|Cereté
 5.9365|-72.9913|Cerinza
 6.8431|-72.6940|Cerrito
 10.3259|-74.8693|Cerro de San Antonio
+5.3707|-76.6044|Cértegui
 1.3594|-77.2837|Chachagüí
 4.9483|-74.5939|Chaguaní
 9.5477|-75.3113|Chalán
@@ -169,17 +177,19 @@
 3.7500|-75.5833|Chaparral
 6.1751|-73.1759|Charalá
 7.2802|-72.9678|Charta
+4.8445|-74.0585|Chía
 7.6664|-76.6811|Chigorodó
+9.1489|-75.6284|Chimá
 6.3629|-73.4253|Chima
 9.2578|-73.8123|Chimichagua
-9.1489|-75.6284|Chimá
+7.6073|-72.6011|Chinácota
 5.1791|-73.3715|Chinavita
 4.9752|-75.7042|Chinchiná
-7.6073|-72.6011|Chinácota
 9.0387|-75.3427|Chinú
 4.4425|-74.0442|Chipaque
 6.0620|-73.6372|Chipatá
 5.6136|-73.8385|Chiquinquirá
+5.6041|-73.4852|Chíquiza
 9.3624|-73.6031|Chiriguaná
 6.5564|-72.5038|Chiscas
 6.0779|-72.4677|Chita
@@ -190,23 +200,21 @@
 4.8856|-73.3689|Chivor
 4.5290|-73.9227|Choachí
 5.1447|-73.6858|Chocontá
-4.8445|-74.0585|Chía
-5.6041|-73.4852|Chíquiza
 9.2776|-74.6431|Cicuco
+10.8333|-74.0833|Ciénaga
+8.8358|-75.6042|Ciénaga de Oro
+5.4087|-73.2957|Ciénega
 6.3142|-73.9497|Cimitarra
 4.5994|-75.6854|Circasia
 6.5451|-75.0941|Cisneros
 5.8539|-76.0253|Ciudad Bolívar
-10.8333|-74.0833|Ciénaga
-8.8358|-75.6042|Ciénaga de Oro
-5.4087|-73.2957|Ciénega
 10.5664|-75.3250|Clemencia
 6.0058|-75.1698|Cocorná
 4.3733|-74.8865|Coello
 5.0605|-73.9792|Cogua
 3.3750|-74.8019|Colombia
-9.5118|-75.3623|Coloso
 1.6285|-77.0293|Colón
+9.5118|-75.3623|Coloso
 5.6333|-73.3167|Combita
 6.3941|-75.2583|Concepción
 6.0464|-75.9070|Concordia
@@ -218,6 +226,7 @@
 8.8224|-73.2285|Convención
 6.3623|-75.4992|Copacabana
 5.4768|-74.0442|Coper
+9.5515|-74.8980|Córdoba
 3.1360|-76.2065|Corinto
 6.2946|-73.0402|Coromoro
 9.3185|-75.2933|Corozal
@@ -229,11 +238,13 @@
 3.7278|-75.1740|Coyaima
 6.3017|-70.2041|Cravo Norte
 0.8757|-77.7364|Cuaspud
-3.7954|-73.8406|Cubarral
 7.0058|-72.1057|Cubará
+3.7954|-73.8406|Cubarral
 5.5437|-73.4543|Cucaita
 5.2496|-73.7661|Cucunubá
+7.8939|-72.5078|Cúcuta
 7.5394|-72.7724|Cucutilla
+5.5801|-72.9669|Cuítiva
 4.2381|-73.3410|Cumaral
 4.4455|-69.7990|Cumaribo
 0.9087|-77.7914|Cumbal
@@ -242,14 +253,9 @@
 1.0333|-75.9191|Curillo
 6.6052|-73.0681|Curití
 9.1999|-73.5427|Curumaní
-5.5801|-72.9669|Cuítiva
-7.6825|-75.2248|Cáceres
-7.2679|-72.6420|Cácota
-5.3707|-76.6044|Cértegui
-9.5515|-74.8980|Córdoba
-7.8939|-72.5078|Cúcuta
 7.0337|-76.3416|Dabeiba
 3.6568|-76.6886|Dagua
+3.9314|-76.4848|Darien
 11.2725|-73.3091|Dibulla
 10.8978|-72.8867|Distracción
 3.6053|-74.8059|Dolores
@@ -259,6 +265,7 @@
 7.7131|-72.6576|Durania
 6.3260|-75.7683|Ebéjico
 2.2583|-75.7725|El Agrado
+4.9195|-76.0568|El Águila
 7.6035|-74.8095|El Bagre
 9.0011|-73.9758|El Banco
 4.7489|-76.2444|El Cairo
@@ -268,7 +275,6 @@
 5.8333|-76.2500|El Carmen de Atrato
 9.7174|-75.1202|El Carmen de Bolívar
 6.6974|-73.5112|El Carmen de Chucurí
-6.0824|-75.3351|El Carmen de Viboral
 3.5636|-73.7949|El Castillo
 3.6427|-76.2096|El Cerrito
 2.4793|-78.1097|El Charco
@@ -282,6 +288,7 @@
 6.5081|-72.4804|El Espino
 6.2486|-73.5296|El Guacamayo
 10.0175|-74.9348|El Guamo
+2.0136|-75.9397|Elias
 10.6530|-72.9246|El Molino
 9.6572|-73.7468|El Paso
 1.5709|-75.3140|El Paujil
@@ -289,8 +296,8 @@
 8.9869|-73.9470|El Peñón
 10.3333|-74.6667|El Piñon
 7.4713|-73.2031|El Playón
-2.3302|-72.6277|El Retorno
 10.6113|-74.2682|El Retén
+2.3302|-72.6277|El Retorno
 9.1019|-75.1951|El Roble
 4.8531|-74.2600|El Rosal
 1.8459|-77.4062|El Rosario
@@ -299,8 +306,6 @@
 2.4520|-76.8103|El Tambo
 8.5756|-73.0949|El Tarra
 7.9325|-72.6012|El Zulia
-4.9195|-76.0568|El Águila
-2.0136|-75.9397|Elias
 6.1373|-73.0985|Encino
 6.6465|-72.7071|Enciso
 6.5833|-75.5833|Entrerrios
@@ -314,9 +319,9 @@
 4.2500|-74.8333|Flandes
 1.7162|-75.5962|Florencia
 5.8590|-72.9251|Floresta
+5.8049|-73.9703|Florián
 3.3094|-76.1899|Florida
 7.0632|-73.0859|Floridablanca
-5.8049|-73.9703|Florián
 4.5281|-73.7888|Fomeque
 10.8297|-72.7978|Fonseca
 6.7461|-71.8567|Fortul
@@ -329,27 +334,30 @@
 10.5207|-74.1850|Fundación
 1.0008|-77.4492|Funes
 4.7164|-74.2120|Funza
-4.3365|-74.3638|Fusagasugá
 5.4199|-73.7700|Fúquene
+4.3365|-74.3638|Fusagasugá
 4.6667|-73.5000|Gachala
 4.9911|-73.8715|Gachancipá
 5.7442|-73.5425|Gachantivá
 4.8710|-73.6173|Gachetá
+6.6627|-73.3423|Galán
 10.8979|-74.8870|Galapa
 9.1609|-75.0481|Galeras
-6.6627|-73.3423|Galán
 4.7629|-73.6109|Gama
 8.3297|-73.7177|Gamarra
 5.9027|-73.3679|Gambita
 5.8031|-72.7372|Gameza
 5.0824|-73.3633|Garagoa
 2.1961|-75.6292|Garzón
+4.2274|-75.7548|Génova
 2.3867|-75.5461|Gigante
 3.7430|-76.1941|Ginebra
 6.6667|-75.9535|Giraldo
 4.3180|-74.8350|Girardot
 6.3679|-75.4623|Girardota
+4.3008|-74.8075|Girardot City
 7.0682|-73.1698|Girón
+6.6818|-75.2191|Gómez Plata
 8.3674|-73.4003|González
 7.8875|-72.7975|Gramalote
 6.1435|-75.1853|Granada
@@ -375,16 +383,14 @@
 4.5157|-74.7893|Guataquí
 4.9366|-73.8331|Guatavita
 5.0062|-73.4727|Guateque
+5.3157|-75.7983|Guática
 5.9550|-73.7002|Guavatá
 4.8788|-74.4831|Guayabal de Siquima
 4.2147|-73.8172|Guayabetal
 4.9642|-73.4875|Guayatá
-4.1849|-74.0117|Gutiérrez
-5.3157|-75.7983|Guática
-4.2274|-75.7548|Génova
-6.6818|-75.2191|Gómez Plata
 6.0251|-73.5731|Güepsa
 6.4655|-72.4154|Güicán
+4.1849|-74.0117|Gutiérrez
 8.3233|-73.1489|Hacarí
 8.9564|-74.0782|Hatillo de Loba
 6.5611|-73.3589|Hato
@@ -400,13 +406,14 @@
 4.1770|-74.5325|Icononzo
 0.9704|-77.5215|Iles
 1.0552|-77.4967|Imués
-2.5545|-76.0672|Inzá
 3.8653|-67.9239|Inírida
+2.5545|-76.0672|Inzá
 0.8250|-77.6397|Ipiales
 2.6483|-75.6364|Iquira
 1.9289|-76.2158|Isnos
 5.1605|-76.6840|Istmina
 6.1787|-75.6312|Itagui
+6.1846|-75.5991|Itagüí
 7.1712|-75.7640|Ituango
 5.6120|-72.9793|Iza
 2.8506|-76.3251|Jambaló
@@ -420,9 +427,12 @@
 10.8293|-75.0335|Juan de Acosta
 4.7073|-73.6955|Junín
 7.1042|-77.7620|Juradó
+4.6165|-74.1460|Kennedy
 8.0479|-75.3010|La Apartada
 2.1976|-75.9889|La Argentina
+7.2456|-72.5529|Labateca
 5.8637|-73.9617|La Belleza
+5.5622|-72.5750|Labranzagrande
 4.6868|-73.9359|La Calera
 5.0808|-73.4808|La Capilla
 6.0000|-75.4331|La Ceja
@@ -443,6 +453,7 @@
 5.3806|-75.5884|La Merced
 4.6537|-74.4732|La Mesa
 1.4639|-75.3036|La Montañita
+6.2183|-73.8112|Landázuri
 5.3173|-74.4300|La Palma
 10.1049|-73.2206|La Paz
 -1.6560|-70.2219|La Pedrera
@@ -460,18 +471,18 @@
 2.0620|-76.7681|La Vega
 -0.1831|-71.0376|La Victoria
 4.8997|-75.8825|La Virginia
-7.2456|-72.5529|Labateca
-5.5622|-72.5750|Labranzagrande
-6.2183|-73.8112|Landázuri
 7.1132|-73.2178|Lebrija
 1.9350|-77.3063|Leiva
 3.5276|-74.0233|Lejanías
 5.3071|-73.7115|Lenguazaque
+4.8624|-74.9098|Lérida
 -4.2153|-69.9406|Leticia
+4.8356|-75.1083|Líbano
 6.6779|-75.8122|Liborina
 1.3508|-77.5234|Linares
 4.2588|-77.3652|Litoral del San Juan
 5.4961|-76.5494|Lloró
+3.0000|-77.2500|López de Micay
 9.2365|-75.8135|Lorica
 1.4947|-77.5214|Los Andes
 8.8940|-76.3546|Los Córdobas
@@ -480,9 +491,6 @@
 6.7973|-73.1249|Los Santos
 7.9677|-72.8452|Lourdes
 10.6171|-75.1515|Luruaco
-4.8624|-74.9098|Lérida
-4.8356|-75.1083|Líbano
-3.0000|-77.2500|López de Micay
 4.9505|-73.3203|Macanal
 6.5057|-72.5930|Macaravita
 6.5520|-74.7874|Maceo
@@ -493,25 +501,26 @@
 10.2329|-75.1899|Mahates
 11.3784|-72.2395|Maicao
 8.5350|-74.7150|Majagual
+6.6990|-72.7323|Málaga
 10.8595|-74.7739|Malambo
 1.1411|-77.8648|Mallama
 10.4640|-74.9822|Manatí
 11.7751|-72.4445|Manaure
 10.3928|-73.0325|Manaure Balcón del Cesar
+4.8164|-72.2795|Maní
 5.0689|-75.5174|Manizales
 4.9572|-73.5858|Manta
 5.2331|-75.1517|Manzanares
-4.8164|-72.2795|Maní
-2.8100|-70.2857|Mapiripana
 2.8912|-72.1333|Mapiripán
+2.8100|-70.2857|Mapiripana
 9.0633|-74.2813|Margarita
+9.9923|-75.3436|María la Baja
 6.1961|-75.3031|Marinilla
 5.5519|-74.0086|Maripí
 5.4755|-75.5971|Marmato
 5.2907|-75.0803|Marquetalia
 4.9524|-75.7527|Marsella
 5.2839|-75.2602|Marulanda
-9.9923|-75.3436|María la Baja
 7.3560|-73.0530|Matanza
 6.2518|-75.5636|Medellín
 4.5100|-73.3498|Medina
@@ -535,25 +544,24 @@
 5.7508|-72.8034|Mongua
 5.6975|-72.8336|Monguí
 5.8431|-73.5777|Moniquirá
+9.2262|-76.1359|Moñitos
 5.9370|-75.5274|Montebello
 8.2971|-74.4733|Montecristo
 7.9792|-75.4202|Montelíbano
 4.5268|-75.8226|Montenegro
-4.8201|-72.8790|Monterrey
 8.7480|-75.8814|Montería
+4.8201|-72.8790|Monterrey
 8.2752|-73.8688|Morales
 1.4875|-75.7258|Morelia
 2.4298|-69.8328|Morichal
 9.3335|-75.3054|Morroa
 4.6894|-74.2360|Mosquera
 5.5766|-73.3670|Motavita
-9.2262|-76.1359|Moñitos
 4.8739|-75.1715|Murillo
 6.8470|-76.7154|Murindó
 7.2441|-76.4356|Mutatá
 7.2981|-72.7988|Mutiscua
 5.5353|-74.1078|Muzo
-6.6990|-72.7323|Málaga
 5.6089|-75.1766|Nariño
 2.5439|-75.8086|Nataga
 3.5521|-75.1135|Natagaima
@@ -568,11 +576,11 @@
 5.0670|-74.3844|Nocaima
 5.5754|-74.8883|Norcasia
 8.5269|-74.0374|Norosí
+4.9551|-76.6053|Nóvita
 9.8017|-74.3930|Nueva Granada
 5.3537|-73.4566|Nuevo Colón
 5.6359|-72.1954|Nunchía
 5.7125|-77.2708|Nuquí
-4.9551|-76.6053|Nóvita
 4.5959|-75.9488|Obando
 6.3400|-73.1221|Ocamonte
 8.2377|-73.3560|Ocaña
@@ -591,7 +599,10 @@
 5.1397|-73.3974|Pachavita
 5.1306|-74.1583|Pacho
 0.1564|-70.8927|Pacoa
+5.5063|-75.4905|Pácora
 3.2204|-76.3139|Padilla
+5.1343|-75.1400|Padua
+5.1011|-73.0512|Páez
 2.4497|-75.7739|Paicol
 8.9565|-73.6255|Pailitas
 5.3705|-74.1522|Paime
@@ -611,21 +622,23 @@
 4.1803|-74.4710|Pandi
 6.4453|-72.4627|Panqueba
 1.6833|-70.7097|Papunaua
+6.4375|-73.1803|Páramo
 4.3758|-73.2155|Paratebueno
 4.3072|-74.3006|Pasca
 1.2147|-77.2786|Pasto
 2.1402|-77.0174|Patía
 5.6586|-73.9825|Pauna
 5.6249|-72.4235|Paya
+4.2975|-75.0967|Payandé
 5.8811|-71.8917|Paz de Ariporo
 6.0022|-72.7886|Paz de Río
 10.1874|-74.9150|Pedraza
 8.6882|-73.6645|Pelaya
+6.2343|-75.2257|Peñol
 5.3884|-75.2042|Pensilvania
 7.0212|-75.9093|Peque
 4.7690|-75.7222|Pereira
 5.5021|-73.0879|Pesca
-6.2343|-75.2257|Peñol
 1.1158|-76.3261|Piamonte
 6.9744|-73.0228|Piedecuesta
 4.5000|-74.9167|Piedras
@@ -639,6 +652,7 @@
 2.2664|-75.8044|Pital
 1.8539|-76.0514|Pitalito
 10.4617|-74.6162|Pivijay
+4.9550|-77.3641|Pizarro
 3.1033|-75.8168|Planadas
 8.4115|-75.5851|Planeta Rica
 9.7727|-74.7455|Plato
@@ -689,18 +703,16 @@
 2.3385|-76.3876|Puracé
 3.8587|-74.9313|Purificación
 9.2366|-75.7219|Purísima
-5.5063|-75.4905|Pácora
-5.1011|-73.0512|Páez
-6.4375|-73.1803|Páramo
 5.0826|-74.5212|Quebradanegra
 4.3323|-73.8614|Quetame
 5.7607|-76.8370|Quibdó
 4.5934|-75.8376|Quimbaya
 5.3396|-75.7302|Quinchía
-4.7452|-74.5338|Quipile
 5.5194|-74.1776|Quípama
+4.7452|-74.5338|Quipile
 7.5775|-72.4757|Ragonvalia
 5.4002|-73.3354|Ramiriquí
+5.5379|-73.6320|Ráquira
 5.2295|-72.7610|Recetor
 8.7223|-73.8489|Regidor
 7.0283|-74.6938|Remedios
@@ -710,10 +722,14 @@
 6.0591|-75.5149|Retiro
 4.2808|-74.7647|Ricaurte
 3.5000|-75.8333|Rioblanco
+8.1788|-73.5122|Río de Oro
 4.1571|-76.2885|Riofrío
 11.5444|-72.9072|Riohacha
+5.1833|-76.4833|Río Iro
 6.1667|-75.4167|Rionegro
+5.5167|-76.7500|Río Quito
 5.4216|-75.7032|Riosucio
+8.5874|-73.8390|Río Viejo
 5.1124|-75.7586|Risaralda
 2.7772|-75.2564|Rivera
 1.9176|-78.3819|Roberto Payán
@@ -722,17 +738,14 @@
 5.3817|-73.1968|Rondón
 2.2609|-76.7399|Rosas
 4.2122|-75.3421|Rovira
-5.5379|-73.6320|Ráquira
-8.1788|-73.5122|Río de Oro
-5.1833|-76.4833|Río Iro
-5.5167|-76.7500|Río Quito
-8.5874|-73.8390|Río Viejo
 7.3915|-73.4957|Sabana de Torres
 10.8008|-74.7705|Sabanagrande
 6.8489|-75.8171|Sabanalarga
 10.1107|-74.2601|Sabanas de San Angel
 6.1515|-75.6166|Sabaneta
 5.6964|-73.7693|Saboyá
+6.0991|-72.2488|Sácama
+5.5845|-73.5418|Sáchica
 8.9462|-75.4428|Sahagún
 1.9933|-76.0453|Saladoblanco
 5.3701|-75.4155|Salamina
@@ -741,8 +754,8 @@
 4.6364|-75.5674|Salento
 5.9671|-75.9875|Salgar
 5.4927|-73.4854|Samacá
-1.3385|-77.5957|Samaniego
 5.5406|-74.9935|Samaná
+1.3385|-77.5957|Samaniego
 9.1836|-75.3817|Sampués
 1.8792|-76.2683|San Agustín
 7.7611|-73.3922|San Alberto
@@ -762,6 +775,7 @@
 5.3169|-74.0714|San Cayetano
 9.8781|-75.2525|San Cristóbal
 10.3362|-73.1820|San Diego
+1.2863|-77.4692|Sandoná
 5.2240|-73.0770|San Eduardo
 10.3983|-75.1511|San Estanislao
 2.1432|-67.3412|San Felipe
@@ -775,19 +789,19 @@
 5.0822|-75.7911|San José
 1.4739|-77.0808|San José de Albán
 6.8220|-75.6976|San José de la Montaña
-6.6305|-72.7315|San José de Miranda
-6.0175|-73.5470|San José de Pare
-7.7872|-75.5331|San José de Uré
 1.3078|-76.1655|San José del Fragua
 2.5729|-72.6459|San José del Guaviare
 4.8962|-76.2342|San José del Palmar
+6.6305|-72.7315|San José de Miranda
+6.0175|-73.5470|San José de Pare
+7.7872|-75.5331|San José de Uré
 3.2903|-73.8207|San Juan de Arama
 9.2735|-75.2410|San Juan de Betulia
+10.7711|-73.0031|San Juan del Cesar
 4.8308|-74.6825|San Juan de Río Seco
 8.7592|-76.5297|San Juan de Urabá
-10.7711|-73.0031|San Juan del Cesar
-9.9498|-75.0743|San Juan Nepomuceno
 4.4586|-73.6756|San Juanito
+9.9498|-75.0743|San Juan Nepomuceno
 1.5573|-77.2460|San Lorenzo
 6.0422|-74.9933|San Luis
 4.8205|-73.1685|San Luis de Gaceno
@@ -805,6 +819,7 @@
 9.3956|-75.0648|San Pedro
 1.5515|-77.1195|San Pedro de Cartago
 6.4594|-75.5578|San Pedro de los Milagros
+8.2752|-76.3764|San Pedro de Urabá
 8.4229|-76.3175|San Pedro de Uraba
 8.9583|-75.8363|San Pelayo
 6.3123|-75.0243|San Rafael
@@ -812,36 +827,36 @@
 1.9167|-76.6667|San Sebastián
 9.2392|-74.3519|San Sebastián de Buenavista
 5.2427|-74.9077|San Sebastián de Mariquita
-6.8810|-73.4098|San Vicente de Chucurí
-2.1153|-74.7778|San Vicente del Caguán
-6.3224|-75.3302|San Vicente Ferrer
-9.3269|-74.3291|San Zenón
-1.2863|-77.4692|Sandoná
 9.5148|-74.3433|Santa Ana
 5.8894|-75.5825|Santa Bárbara
 9.5211|-74.6491|Santa Bárbara de Pinto
 10.6045|-75.2956|Santa Catalina
+1.5209|-77.2621|Santacruz
 6.5569|-75.8281|Santa Fe de Antioquia
 6.3392|-73.6167|Santa Helena Del Opón
 4.7263|-75.2239|Santa Isabel
 10.3242|-74.9602|Santa Lucía
-11.2435|-74.2083|Santa Marta
 4.8228|-73.2537|Santa María
-10.4731|-75.3616|Santa Rosa
-4.8681|-75.6214|Santa Rosa de Cabal
-6.6474|-75.4603|Santa Rosa de Osos
-5.8740|-72.9822|Santa Rosa de Viterbo
-7.9644|-74.0544|Santa Rosa del Sur
-5.1336|-70.8623|Santa Rosalia
-5.7021|-73.6298|Santa Sofía
-1.5209|-77.2621|Santacruz
+11.2435|-74.2083|Santa Marta
 6.0446|-73.5111|Santana
 3.0095|-76.4849|Santander de Quilichao
+10.4731|-75.3616|Santa Rosa
+4.8681|-75.6214|Santa Rosa de Cabal
+7.9644|-74.0544|Santa Rosa del Sur
+6.6474|-75.4603|Santa Rosa de Osos
+5.8740|-72.9822|Santa Rosa de Viterbo
+5.1336|-70.8623|Santa Rosalia
+5.7021|-73.6298|Santa Sofía
 7.8693|-72.7375|Santiago
 9.5239|-75.5814|Santiago de Tolú
 6.4728|-75.1655|Santo Domingo
 10.7577|-74.7545|Santo Tomás
 5.0532|-75.9906|Santuario
+6.2854|-75.3338|San Vicente
+6.8810|-73.4098|San Vicente de Chucurí
+2.1153|-74.7778|San Vicente del Caguán
+6.3224|-75.3302|San Vicente Ferrer
+9.3269|-74.3291|San Zenón
 1.0373|-77.6209|Sapuyes
 6.9632|-71.8823|Saravena
 8.0829|-72.8007|Sardinata
@@ -874,6 +889,7 @@
 0.8758|-75.6197|Solita
 4.9850|-73.4324|Somondoco
 5.7500|-75.0000|Sonson
+5.7106|-75.3107|Sonsón
 6.5227|-75.7461|Sopetrán
 10.3318|-75.1185|Soplaviento
 4.9075|-73.9384|Sopó
@@ -883,6 +899,7 @@
 2.2500|-76.5833|Sotará
 6.0822|-73.3701|Suaita
 10.3021|-74.9193|Suan
+2.9539|-76.6964|Suárez
 1.9750|-75.7956|Suaza
 4.9261|-74.1730|Subachoque
 2.0618|-76.9144|Sucre
@@ -895,14 +912,13 @@
 5.6154|-73.6170|Sutamarchán
 5.2478|-73.8524|Sutatausa
 5.0231|-73.4523|Sutatenza
-2.9539|-76.6964|Suárez
-6.0991|-72.2488|Sácama
-5.5845|-73.5418|Sáchica
 4.9173|-74.0936|Tabio
 5.2660|-76.5649|Tadó
 9.3035|-74.5648|Talaigua Nuevo
 8.8642|-73.7811|Tamalameque
+5.8300|-72.1629|Támara
 6.4607|-71.7362|Tame
+5.6646|-75.7134|Támesis
 1.5703|-77.2804|Taminango
 1.0919|-77.3864|Tangua
 -0.7483|-69.8966|Taraira
@@ -928,8 +944,8 @@
 8.6389|-72.7358|Tibú
 7.8786|-76.2131|Tierralta
 1.9714|-75.9312|Timana
-2.7717|-77.6654|Timbiquí
 2.3528|-76.6819|Timbío
+2.7717|-77.6654|Timbiquí
 5.5792|-73.6449|Tinjacá
 6.4203|-72.6918|Tipacoque
 8.5567|-74.2635|Tiquisio
@@ -941,6 +957,7 @@
 7.0131|-75.6953|Toledo
 9.4508|-75.4386|Tolú Viejo
 7.1573|-72.9656|Tona
+5.7598|-72.8258|Tópaga
 5.3346|-74.3029|Topaipí
 3.0000|-76.1667|Toribio
 4.6117|-76.0814|Toro
@@ -954,16 +971,13 @@
 1.7911|-78.7927|Tumaco
 5.5353|-73.3678|Tunja
 5.7297|-73.9414|Tununguá
+1.0865|-77.6186|Túquerres
 10.3571|-75.3804|Turbaco
 10.2717|-75.4422|Turbaná
 8.0926|-76.7282|Turbo
 5.3236|-73.4907|Turmequé
 5.6897|-73.2278|Tuta
 6.0323|-72.8564|Tutazá
-5.8300|-72.1629|Támara
-5.6646|-75.7134|Támesis
-5.7598|-72.8258|Tópaga
-1.0865|-77.6186|Túquerres
 4.7478|-72.5369|Ubalá
 4.4867|-73.9375|Ubaque
 4.7074|-75.7778|Ulloa
@@ -977,14 +991,16 @@
 6.3170|-76.1342|Urrao
 10.5589|-73.0123|Urumita
 10.7431|-74.9760|Usiacurí
+5.1698|-74.5013|Útica
 7.2938|-75.3919|Valdivia
 8.2335|-76.2143|Valencia
+0.4525|-76.9192|Valle del Guamuez
 6.4198|-73.1295|Valle de San José
 4.1987|-75.1173|Valle de San Juan
-0.4525|-76.9192|Valle del Guamuez
 10.4631|-73.2532|Valledupar
 5.6150|-75.6242|Valparaíso
 6.7614|-74.7947|Vegachí
+6.2327|-73.7258|Vélez
 4.6918|-74.9367|Venadillo
 5.9542|-75.7990|Venecia
 5.3599|-73.5503|Ventaquemada
@@ -997,15 +1013,16 @@
 3.7328|-76.4936|Vijes
 7.9147|-72.9719|Villa Caro
 5.6706|-73.5155|Villa de Leyva
-5.3154|-73.8204|Villa de San Diego de Ubate
 7.7582|-72.4818|Villa del Rosario
-2.5142|-76.8494|Villa Rica
+5.3093|-73.8157|Villa de San Diego de Ubaté
+5.3154|-73.8204|Villa de San Diego de Ubate
 0.8966|-76.7279|Villagarzón
 5.2737|-74.1961|Villagómez
 4.9650|-75.1565|Villahermosa
 4.9508|-75.4368|Villamaría
 10.4476|-75.2657|Villanueva
 5.2162|-73.5949|Villapinzón
+2.5142|-76.8494|Villa Rica
 3.8310|-74.6526|Villarrica
 4.0742|-73.4915|Villavicencio
 3.2189|-75.2183|Villavieja
@@ -1014,7 +1031,6 @@
 5.4364|-73.2961|Viracachá
 3.1243|-73.7516|Vistahermosa
 5.0624|-75.8716|Viterbo
-6.2327|-73.7258|Vélez
 5.4595|-74.3382|Yacopí
 1.1158|-77.4017|Yacuanquer
 2.6636|-75.5175|Yaguará
@@ -1035,4 +1051,3 @@
 4.7588|-74.3802|Zipacón
 5.0221|-74.0048|Zipaquirá
 10.7642|-74.1572|Zona Bananera
-5.1698|-74.5013|Útica

@@ -42,6 +42,7 @@
 -19.4500|29.8167|Gweru
 -19.4566|29.6450|Gweru District
 -17.8277|31.0534|Harare
+-17.8415|30.8767|Harare Western Suburbs
 -18.2773|32.0515|Headlands
 -16.4130|29.5858|Hurungwe
 -18.3645|26.4988|Hwange
@@ -75,6 +76,7 @@
 -20.7258|30.0096|Mberengwa
 -16.8939|30.1683|Mhangura
 -16.7725|31.5838|Mount Darwin
+-17.7417|30.9389|Mount Hampden
 -17.0471|32.6528|Mudzi
 -17.6432|31.7840|Murehwa
 -17.8006|31.8308|Murehwa District

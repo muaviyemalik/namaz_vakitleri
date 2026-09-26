@@ -9,6 +9,7 @@
 17.7501|-64.8238|Northcentral
 18.3738|-64.9559|Northside
 17.7383|-64.8906|Northwest
+17.7275|-64.7470|Saint Croix
 17.7543|-64.7795|Sion Farm
 17.7065|-64.8145|Southcentral
 18.3053|-64.9172|Southside

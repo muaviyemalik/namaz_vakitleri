@@ -61,13 +61,49 @@ Kullanıcı **Ayarlar → Hesaplama Yöntemi** ekranından 24 resmi yöntem aras
 | | |
 | :--- | :--- |
 | **Kapsam** | Avrupa (53), Amerika (56), Asya (50), Afrika (60), Okyanusya (26) → **245 ülke** |
-| **Şehir sayısı** | **141.135** |
-| **Kaynak** | [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) (ODbL-1.0) |
-| **Üretim** | `dart run tool/veri_uretici.dart <kaynak-json>` |
+| **Şehir sayısı** | **148.967** |
+| **Kaynak** | [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) (ODbL-1.0) + [GeoNames cities15000](https://www.geonames.org/webservices/) (CC BY 4.0) |
+| **Üretim** | `tool/veri_uretici.dart` → `tool/sehir_birlestir.dart` → `tool/mukerrer_birlestir.dart` |
 
-**Dosya düzeni:** `assets/veri/ulkeler.json` (ülke listesi, 65 KB) uygulama açılışında yüklenir. Şehirler ülke başına ayrı dosyalarda tutulur (`assets/veri/sehirler/TR.txt`) ve **yalnızca seçilen ülke açıldığında** okunup önbelleğe alınır. En kalabalık ülke dosyası (ABD, 12.097 şehir) 334 KB'dir; uygulama açılışında 3.8 MB'lık şehir verisinin tamamı yüklenmez.
+**Dosya düzeni:** `assets/veri/ulkeler.json` (ülke listesi, 65 KB) uygulama açılışında yüklenir. Şehirler ülke başına ayrı dosyalarda tutulur (`assets/veri/sehirler/TR.txt`) ve **yalnızca seçilen ülke açıldığında** okunup önbelleğe alınır. En kalabalık ülke dosyası (ABD, 12.167 şehir) 337 KB'dir; uygulama açılışında 3.8 MB'lık şehir verisinin tamamı yüklenmez.
 
 **Kapsam dışı bırakılanlar:** Kutup bölgeleri (Polar) ve şehir/koordinat verisi bulunmayan iki yerleşim — `United States Minor Outlying Islands` (kalıcı nüfusu yok) ve `Tokelau`.
+
+### 🗃️ Şehir verisi nasıl üretiliyor
+
+Ana veri kaynağı (dr5hn) ilçe ve köy düzeyine odaklanır. Türkiye için 905
+kayıt içerir ama bunların içinde Bursa, Konya, Gaziantep, Kahramanmaraş,
+Diyarbakır gibi 13 büyük il **yoktur** — kullanıcı "Kahramanmaraş" aradığında
+sonuç çıkmaz. ABD'de düz "New York" kaydı da yoktur (yalnızca "New York City").
+
+Bu nedenle veri üç aşamadan geçer:
+
+| Aşama | Araç | Ne yapar |
+| :--- | :--- | :--- |
+| 1 | `tool/veri_uretici.dart` | dr5hn verisinden 245 ülke ve şehir dosyalarını üretir |
+| 2 | `tool/sehir_birlestir.dart` | GeoNames cities15000'ı (nüfus ≥ 15.000) **birleştirir**: küçük yerleşimler korunur, büyük şehirler eklenir. Türkiye için resmî 81 il kanonik yazımla garanti edilir |
+| 3 | `tool/mukerrer_birlestir.dart` | Aynı koordinatı taşıyan mükerrer kayıtları birleştirir; büyük şehirlerde yerel adı ana ad, uluslararası adı takma ad yapar |
+
+**Mükerrer kayıtlar:** İki kaynak aynı şehri farklı yazımlarla saklıyor.
+BAE'de "Adh Dhayd"/"Al Dhaid", Almanya'da "Nürnberg"/"Nuremberg", Belarus'ta
+"Polotsk"/"Polatsk" gibi **1.342** çift bulundu; hepsi aynı koordinatı
+taşıyordu ve tek satıra birleştirildi.
+
+**Takma adlar:** Kayıt biçimi `enlem|boylam|ad|takma1,takma2` şeklindedir.
+Alman kullanıcı "München", İngiliz kullanıcı "Munich" yazdığında aynı kayıt
+bulunur ve listede mükerrer görünmez. Türkiye'de de `İzmit|Kocaeli`,
+`Adapazarı|Sakarya`, `Antakya|Hatay` biçimindedir.
+
+**Arama:** `UlkeVerisi.normalize` Türkçe karakterleri, şapkalı ve aksanlı
+harfleri indirger (`ş→s`, `ı→i`, `â→a`, `é→e` …). Kullanıcı "Hakkari"
+yazınca "Hakkâri", "suleyman" yazınca "Süleyman" bulunur. Sıralama da aynı
+anahtarla yapılır; bu sayede Türkçe alfabeye uygun sıra gelir
+("Afşin", "Afyonkarahisar" öncesinde).
+
+**Koruma:** `test/sehir_kapsam_test.dart` 81 ilin tamamının, öndeki büyük
+şehirlerin, mükerrer ad veya koordinat olmadığının ve takma adların
+çalıştığının doğrulamasını yapar. Veri kaynağı yenilenirse aynı kayıp
+sessizce tekrarlanamaz.
 
 ## 📦 Kullanılan Temel Paketler
 
@@ -148,6 +184,8 @@ dart run tool/dil_katalogu_uret.dart <countries-json> <iso639-json>
 - RTL dillerde `MaterialApp.builder` ile `Directionality` uygulanır; aksi hâlde menüler ve listeler okunmaz hâle gelir.
 
 **İçerik çevrileri:** Ayet metinleri şu an uygulama içine gömülü olarak gelir ve yalnızca TR/EN/ZH dillerinde gösterilir. Ayetler için [AlQuran Cloud](https://alquran.cloud) üzerinden çok dilli çeviriye geçilmesi planlanmaktadır (25 dilin 21'inde kaynaklı çeviri mevcut; kalan 4 dilde İngilizceye düşülür). Hadis metinlerinin güvenilir bir çok dilli kaynağı bulunmadığı için yalnızca TR/EN/ZH dillerinde gösterilecektir.
+
+> ⚠️ **İçerik verisi 2 harfli kodla anahtarlıdır.** Arayüz 3 harfli (`tur`) çalışırken gömülü içerik ISO 639-1 (`tr`) anahtarlarıyla yazılmıştır — bkz. `lib/data/veri_havuzu.dart` ve `lib/data/ozel_gunler.dart`. Bu iki kod dünyası arasındaki köprü `lib/utils/icerik_dili.dart` içindeki `icerikDilKodu()`'dur ve **katalogdan** beslenir (152 dilin `kod`/`iso1` alanları). Köprü atlanırsa `ayetler['tur']` null döner, `?? ayetler['en']!` devreye girer ve Türkçe seçili kullanıcı Türkçe yerine İngilizce ayet, hadis ve özel gün metinleri görür. Yeni içerik dili eklerken veri anahtarını değiştirmek yerine bu fonksiyonu kullanın; regresyon testi `test/icerik_dili_test.dart` dosyasındadır.
 
 ## 📸 Ekran Görüntüleri
 

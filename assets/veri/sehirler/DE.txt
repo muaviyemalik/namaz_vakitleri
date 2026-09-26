@@ -49,8 +49,8 @@
 48.7354|12.9100|Aholming
 50.2376|10.9542|Ahorn
 50.4823|6.9880|Ahrbrück
-53.6752|10.2259|Ahrensburg
 54.0086|10.5743|Ahrensbök
+53.6752|10.2259|Ahrensburg
 52.9587|9.0793|Ahsen-Oetzen
 48.4575|11.1341|Aichach
 48.6356|9.5637|Aichelberg
@@ -109,19 +109,13 @@
 49.7681|8.3403|Alsheim
 51.7016|11.6765|Alsleben
 53.6108|10.0131|Alsterdorf
-54.3667|9.6500|Alt Duvenstedt
-53.7471|11.3406|Alt Meteln
-52.5373|14.5122|Alt Tucheband
-52.0193|10.3029|Alt Wallmoden
-52.5461|13.5013|Alt-Hohenschönhausen
-53.8136|13.5879|Alt-Sanitz
-52.4886|13.4586|Alt-Treptow
 48.7227|9.3808|Altbach
-48.6311|8.9963|Altdorf
 51.6500|14.0333|Altdöbern
+48.6311|8.9963|Altdorf
+49.3856|11.3573|Altdorf bei Nürnberg
+54.3667|9.6500|Alt Duvenstedt
 54.3299|13.1264|Altefähr
 48.9167|12.2000|Alteglofsheim
-50.6222|8.7532|Alten Buseck
 51.2947|7.6734|Altena
 50.5169|6.9921|Altenahr
 51.8011|10.4415|Altenau
@@ -129,8 +123,9 @@
 50.7656|13.7533|Altenberg
 52.0500|7.4667|Altenberge
 49.8286|9.4014|Altenbuch
-50.9876|12.4368|Altenburg
 51.3863|8.5058|Altenbüren
+50.9876|12.4368|Altenburg
+50.6222|8.7532|Alten Buseck
 50.3667|7.9833|Altendiez
 50.0842|11.1679|Altendorf
 50.5667|10.9667|Altenfeld
@@ -155,22 +150,30 @@
 52.4112|13.5355|Altglienicke
 48.2333|11.0667|Althegnenberg
 48.7233|8.7943|Althengstett
+52.5461|13.5013|Alt-Hohenschönhausen
 48.9156|9.5698|Althütte
 50.9333|12.3500|Altkirchen
 52.5650|13.7281|Altlandsberg
 49.5075|8.0733|Altleiningen
 49.3017|8.4992|Altlußheim
+53.7471|11.3406|Alt Meteln
 50.9667|12.9500|Altmittweida
 48.3877|11.2569|Altomünster
 53.5500|9.9333|Altona
+53.5502|9.9465|Altona-Altstadt
+53.5632|9.9426|Altona-Nord
+48.2253|12.6767|Altötting
 49.9570|6.9122|Altrich
 49.4356|8.4947|Altrip
+53.8136|13.5879|Alt-Sanitz
 47.9333|9.5333|Altshausen
 53.6281|11.4158|Altstadt
 50.9389|6.9575|Altstadt Nord
 50.9333|6.9595|Altstadt Sud
+52.4886|13.4586|Alt-Treptow
+52.5373|14.5122|Alt Tucheband
 47.8041|10.2143|Altusried
-48.2253|12.6767|Altötting
+52.0193|10.3029|Alt Wallmoden
 53.7833|9.9167|Alveslohe
 50.0888|9.0646|Alzenau in Unterfranken
 49.7466|8.1151|Alzey
@@ -180,10 +183,10 @@
 47.9914|12.3079|Amerang
 49.4233|10.8501|Ammerndorf
 49.4412|11.7618|Ammerthal
+50.7959|8.9233|Amöneburg
 48.2540|12.4152|Ampfing
 48.5788|9.8739|Amstetten
 47.7000|9.7500|Amtzell
-50.7959|8.9233|Amöneburg
 47.9746|11.1828|Andechs
 50.4311|7.4043|Andernach
 53.0150|13.9992|Angermünde
@@ -195,8 +198,8 @@
 50.5795|13.0063|Annaberg-Buchholz
 51.7330|13.0473|Annaburg
 49.2061|7.9753|Annweiler am Trifels
-51.2667|10.3333|Anrode
 51.5667|8.3333|Anröchte
+51.2667|10.3333|Anrode
 49.3048|10.5931|Ansbach
 47.7513|11.3085|Antdorf
 48.1517|11.8533|Anzing
@@ -205,6 +208,7 @@
 53.4333|9.6167|Apensen
 47.9000|10.9333|Apfeldorf
 50.9016|10.8898|Apfelstädt
+51.4833|7.5500|Aplerbeck
 51.0262|11.5164|Apolda
 51.8763|12.5501|Apollensdorf
 53.3906|9.7456|Appel
@@ -214,6 +218,7 @@
 51.3761|9.9687|Arenshausen
 48.2770|12.6054|Aresing
 49.9667|7.6000|Argenthal
+49.9128|8.6570|Arheilgen
 49.8097|8.0567|Armsheim
 49.1301|12.9982|Arnbruck
 52.6756|12.0051|Arneburg
@@ -251,7 +256,6 @@
 51.9195|11.5991|Atzendorf
 47.9500|7.8333|Au
 48.9500|8.2333|Au am Rhein
-48.5584|11.7414|Au in der Hallertau
 49.5527|10.0653|Aub
 50.5903|12.7066|Aue
 48.8035|13.0995|Auerbach
@@ -264,6 +268,7 @@
 50.8119|13.1020|Augustusburg
 52.3983|9.2919|Auhagen
 49.0079|10.6224|Auhausen
+48.5584|11.7414|Au in der Hallertau
 54.0833|9.7833|Aukrug
 51.4264|10.9297|Auleben
 47.9508|9.6374|Aulendorf
@@ -271,6 +276,7 @@
 50.1782|9.5755|Aura im Sinngrund
 53.4692|7.4823|Aurich
 52.0905|11.1119|Ausleben
+51.0686|13.7559|Äußere Neustadt
 48.7241|13.2029|Außernzell
 53.3547|8.7749|Axstedt
 47.9701|11.7775|Aying
@@ -285,6 +291,7 @@
 49.4000|12.3833|Bach
 50.0573|7.7695|Bacharach
 48.6322|10.3204|Bachhagel
+48.5463|10.3128|Bächingen an der Brenz
 48.9474|9.4372|Backnang
 48.9375|12.0449|Bad Abbach
 47.8638|12.0106|Bad Aibling
@@ -293,6 +300,7 @@
 47.7315|7.5576|Bad Bellingen
 52.1418|12.5927|Bad Belzig
 52.3007|7.1576|Bad Bentheim
+52.6333|7.9833|Badbergen
 49.1024|8.0009|Bad Bergzabern
 50.8998|11.2825|Bad Berka
 51.0522|8.3923|Bad Berleburg
@@ -308,6 +316,7 @@
 50.3085|9.7898|Bad Brückenau
 48.0623|9.6124|Bad Buchau
 50.2970|8.2690|Bad Camberg
+52.0833|10.2333|Baddeckenstedt
 48.5883|9.7039|Bad Ditzenbach
 54.1071|11.9005|Bad Doberan
 51.7330|9.0197|Bad Driburg
@@ -317,9 +326,13 @@
 48.0209|8.5306|Bad Dürrheim
 52.2422|9.0982|Bad Eilsen
 50.2819|12.2343|Bad Elster
+50.0000|6.6167|Badem
 50.3354|7.7137|Bad Ems
+48.7606|8.2398|Baden-Baden
 50.7500|8.5000|Bad Endbach
 47.9090|12.2980|Bad Endorf
+51.7700|10.2049|Badenhausen
+47.8022|7.6724|Badenweiler
 52.3167|8.3333|Bad Essen
 52.8664|9.6956|Bad Fallingbostel
 47.7733|12.0097|Bad Feilnbach
@@ -344,11 +357,11 @@
 53.7713|11.4717|Bad Kleinen
 50.9167|11.8667|Bad Klosterlausnitz
 47.6667|11.0500|Bad Kohlgrub
-49.8414|7.8671|Bad Kreuznach
 49.7432|9.0075|Bad König
 50.3008|10.4689|Bad Königshofen im Grabfeld
 51.1343|11.7220|Bad Kösen
 50.9303|12.0100|Bad Köstritz
+49.8414|7.8671|Bad Kreuznach
 50.9314|8.4250|Bad Laasphe
 52.1000|8.0833|Bad Laer
 51.1077|10.6460|Bad Langensalza
@@ -363,10 +376,10 @@
 50.6495|7.9496|Bad Marienberg
 51.8959|8.9831|Bad Meinberg
 49.4925|9.7736|Bad Mergentheim
-51.5505|14.7124|Bad Muskau
 52.1955|9.4642|Bad Münder am Deister
 49.8116|7.8452|Bad Münster am Stein-Ebernburg
 50.5567|6.7642|Bad Münstereifel
+51.5505|14.7124|Bad Muskau
 50.3646|8.7386|Bad Nauheim
 52.3370|9.3790|Bad Nenndorf
 50.5432|7.1113|Bad Neuenahr-Ahrweiler
@@ -382,11 +395,13 @@
 52.1167|8.1667|Bad Rothenfelde
 52.2833|14.0667|Bad Saarow
 51.5950|10.5555|Bad Sachsa
+47.5537|7.9461|Bad Säckingen
 52.0578|10.0058|Bad Salzdetfurth
 50.6239|9.5082|Bad Salzschlirf
 52.0862|8.7443|Bad Salzuflen
 50.8134|10.2361|Bad Salzungen
 51.5833|8.1667|Bad Sassendorf
+48.0168|9.5006|Bad Saulgau|Saulgau
 50.9174|14.1549|Bad Schandau
 50.6026|12.6729|Bad Schlema
 51.6852|12.7348|Bad Schmiedeberg
@@ -401,11 +416,11 @@
 50.3665|11.6444|Bad Steben
 51.7333|11.1167|Bad Suderode
 51.0893|11.6247|Bad Sulza
-47.5537|7.9461|Bad Säckingen
 54.1108|12.6605|Bad Sülze
 48.6905|8.6928|Bad Teinach-Zavelstein
 51.1545|10.8387|Bad Tennstedt
 47.7611|11.5589|Bad Tölz
+48.5999|9.7959|Bad Überkingen
 48.4911|9.4001|Bad Urach
 50.1787|8.7376|Bad Vilbel
 47.9203|9.7549|Bad Waldsee
@@ -415,16 +430,9 @@
 52.9561|11.9490|Bad Wilsnack
 49.2297|9.1565|Bad Wimpfen
 49.5027|10.4154|Bad Windsheim
-47.9080|9.8969|Bad Wurzach
 48.0067|10.5967|Bad Wörishofen
+47.9080|9.8969|Bad Wurzach
 53.1833|8.0000|Bad Zwischenahn
-48.5999|9.7959|Bad Überkingen
-52.6333|7.9833|Badbergen
-52.0833|10.2333|Baddeckenstedt
-50.0000|6.6167|Badem
-48.7606|8.2398|Baden-Baden
-51.7700|10.2049|Badenhausen
-47.8022|7.6724|Badenweiler
 50.9096|6.1887|Baesweiler
 48.1206|7.7398|Bahlingen
 52.3859|11.0004|Bahrdorf
@@ -457,6 +465,7 @@
 53.2935|10.3881|Bardowick
 52.6195|8.8000|Barenburg
 53.2290|10.5216|Barendorf
+50.5000|13.0333|Bärenstein
 53.7678|10.1875|Bargfeld-Stegen
 53.4667|9.4500|Bargstedt
 53.7286|10.2669|Bargteheide
@@ -464,9 +473,11 @@
 54.5000|9.8333|Barkelsby
 52.2019|11.6177|Barleben
 53.6052|10.0399|Barmbek-Nord
+53.5801|10.0407|Barmbek-Süd
 53.7921|9.7674|Barmstedt
-52.7101|8.5026|Barnstorf
+49.8108|12.4332|Bärnau
 51.3440|11.6373|Barnstädt
+52.7101|8.5026|Barnstorf
 51.9904|9.1164|Barntrup
 53.5667|10.1667|Barsbüttel
 52.3000|9.4500|Barsinghausen
@@ -533,6 +544,7 @@
 49.1983|8.2794|Bellheim
 52.3000|8.1333|Belm
 50.1061|7.4621|Beltheim
+52.3500|9.8333|Bemerode
 48.5718|9.2683|Bempflingen
 53.3358|9.9615|Bendestorf
 50.4229|7.5792|Bendorf
@@ -553,7 +565,6 @@
 49.1069|11.4414|Berching
 47.6324|13.0019|Berchtesgaden
 49.8142|12.1416|Berg
-48.6333|11.2500|Berg im Gau
 51.4556|11.0071|Berga
 47.8500|9.7500|Bergatreute
 52.6233|7.7455|Berge
@@ -564,6 +575,7 @@
 48.4060|7.9867|Berghaupten
 50.9557|6.6399|Bergheim
 48.4640|9.7611|Berghülen
+48.6333|11.2500|Berg im Gau
 50.9856|7.1330|Bergisch Gladbach
 51.6163|7.6445|Bergkamen
 48.2567|11.3649|Bergkirchen
@@ -577,9 +589,9 @@
 53.7333|10.6500|Berkenthin
 48.0426|10.0823|Berkheim
 52.5244|13.4105|Berlin
-52.4425|13.5823|Berlin Köpenick
-52.4938|13.4447|Berlin Treptow
 51.4577|10.2384|Berlingerode
+52.4425|13.5823|Berlin Köpenick
+52.4938|13.4447|Berlin Treptow|Treptow
 51.0614|11.2429|Berlstedt
 47.7333|9.3500|Bermatingen
 47.8002|8.0383|Bernau
@@ -627,6 +639,7 @@
 47.8297|10.7262|Bidingen
 49.7667|10.0833|Biebelried
 49.7809|8.4670|Biebesheim
+50.0415|8.2488|Biebrich
 50.9113|8.5302|Biedenkopf
 52.1500|11.7167|Biederitz
 52.0333|8.5333|Bielefeld
@@ -638,10 +651,11 @@
 47.8306|10.6402|Biessenhofen
 48.9092|8.2520|Bietigheim
 48.9441|9.1175|Bietigheim-Bissingen
-50.9698|6.9300|Bilderstoeckchen
+50.9698|6.9300|Bilderstöckchen|Bilderstoeckchen
 51.9783|7.2926|Billerbeck
 49.3486|9.2539|Billigheim
 49.1367|8.0906|Billigheim-Ingenheim
+53.5500|10.1333|Billstedt
 51.6297|10.1586|Bilshausen
 49.3683|9.0581|Binau
 49.9817|11.6139|Bindlach
@@ -654,10 +668,10 @@
 52.5833|7.7333|Bippen
 48.7473|9.6611|Birenbach
 52.2479|7.6483|Birgte
-50.8167|7.7333|Birken-Honigsessen
 49.5625|8.7069|Birkenau
 48.8667|8.6333|Birkenfeld
 49.4814|8.2619|Birkenheide
+50.8167|7.7333|Birken-Honigsessen
 52.6833|13.2833|Birkenwerder
 50.3582|8.0027|Birlenbach
 50.1833|6.6333|Birresborn
@@ -687,10 +701,12 @@
 50.0667|9.2333|Blankenbach
 52.5929|13.4552|Blankenburg
 52.6186|13.3906|Blankenfelde
+52.3364|13.4132|Blankenfelde-Mahlow
 50.8599|11.3439|Blankenhain
 50.4333|6.6500|Blankenheim
 50.0390|7.3021|Blankenrath
 53.4039|13.2684|Blankensee
+51.0530|13.7983|Blasewitz
 48.4121|9.7843|Blaubeuren
 49.2978|9.9739|Blaufelden
 53.2897|10.7337|Bleckede
@@ -707,11 +723,16 @@
 47.8406|8.5333|Blumberg
 51.6875|12.2725|Bobbau
 49.5875|8.3578|Bobenheim-Roxheim
+47.7556|10.9888|Böbing
 48.2709|10.8339|Bobingen
+48.8195|9.9213|Böbingen an der Rems
 53.8045|11.3591|Bobitz
+48.6821|9.0117|Böblingen
+48.9332|12.8830|Böbrach
 51.8388|6.6153|Bocholt
 51.4817|7.2165|Bochum
 51.5017|7.1756|Bochum-Hordel
+51.4880|7.3122|Bochum-Werne
 50.5421|12.6864|Bockau
 51.1994|12.9562|Bockelwitz
 49.8333|7.6833|Bockenau
@@ -719,6 +740,7 @@
 49.6067|8.1849|Bockenheim
 48.3147|11.9869|Bockhorn
 53.0330|7.5758|Bockhorst
+51.3470|6.6159|Bockum
 48.3889|8.9770|Bodelshausen
 51.6404|9.5557|Bodenfelde
 49.9353|8.3200|Bodenheim
@@ -732,6 +754,9 @@
 51.7500|9.3833|Boffzen
 48.9112|12.6896|Bogen
 48.1522|11.6159|Bogenhausen
+51.2006|12.3862|Böhlen
+49.3806|8.3039|Böhl-Iggelheim
+48.6833|9.9333|Böhmenkirch
 52.3667|8.3167|Bohmte
 52.3943|13.5734|Bohnsdorf
 53.3815|10.7238|Boizenburg
@@ -746,9 +771,14 @@
 47.4667|10.2333|Bolsterlang
 52.9000|9.6500|Bomlitz
 48.5206|8.8370|Bondorf
+54.0833|10.0667|Bönebüttel
 50.5239|7.4893|Bonefeld
+51.6000|7.7667|Bönen
 50.7344|7.0955|Bonn
 47.8186|8.3414|Bonndorf
+50.7040|7.0540|Bonn Hardtberg
+49.0402|9.0939|Bönnigheim
+53.6667|9.9167|Bönningstedt
 48.4400|10.7053|Bonstetten
 48.0752|10.1952|Boos
 54.0167|10.0333|Boostedt
@@ -757,6 +787,8 @@
 54.6333|8.9333|Bordelum
 54.1761|10.0315|Bordesholm
 51.5692|9.2411|Borgentreich
+52.9121|7.5358|Börger
+54.1418|11.9253|Börgerende-Rethwisch
 53.5547|10.0345|Borgfelde
 52.1034|8.3021|Borgholzhausen
 54.3327|9.7095|Borgstedt
@@ -770,14 +802,26 @@
 50.7631|6.9909|Bornheim
 54.0667|10.2333|Bornhöved
 50.1269|7.7658|Bornich
+50.7501|13.1408|Börnichen
+53.4762|10.2816|Börnsen
 53.8097|12.9672|Borrentin
 51.3500|12.5333|Borsdorf
 52.6703|8.9690|Borstel
 53.6833|9.8167|Borstel-Hohenraden
 50.7732|13.1792|Borstendorf
+48.7538|9.6318|Börtlingen
+52.0692|10.5843|Börßum
 54.0979|10.4357|Bosau
+54.1500|10.4833|Bösdorf
+53.0000|7.9500|Bösel
+50.3970|12.1000|Bösenbrunn
+48.2333|8.5500|Bösingen
+53.1333|9.3167|Bötersen
 53.0667|9.5000|Bothel
+52.4173|9.7961|Bothfeld
+48.1000|8.8000|Böttingen
 51.5239|6.9285|Bottrop
+48.0764|7.7248|Bötzingen
 49.2773|6.8013|Bous
 54.3333|9.8333|Bovenau
 51.5884|9.9222|Bovenden
@@ -791,9 +835,9 @@
 52.4088|7.9729|Bramsche
 53.3660|8.6900|Bramstedt
 49.9597|11.9107|Brand
-50.8664|13.3229|Brand-Erbisdorf
 53.8500|9.7167|Brande-Hörnerkirchen
 52.4167|12.5500|Brandenburg an der Havel
+50.8664|13.3229|Brand-Erbisdorf
 51.3360|12.6102|Brandis
 54.2394|13.1692|Brandshagen
 47.7400|12.0917|Brannenburg
@@ -802,6 +846,7 @@
 49.9058|6.9813|Brauneberg
 50.5155|8.3892|Braunfels
 51.7265|10.6109|Braunlage
+47.9296|8.4481|Bräunlingen
 49.1992|9.7906|Braunsbach
 51.2860|11.8899|Braunsbedra
 52.2659|10.5267|Braunschweig
@@ -863,63 +908,77 @@
 49.3833|7.4333|Bruchmühlbach-Miesau
 49.1243|8.5980|Bruchsal
 49.1167|7.8000|Bruchweiler-Bärenbach
-48.0212|11.9078|Bruck
-49.2493|12.3071|Bruck in der Oberpfalz
+52.1977|12.7687|Brück
 48.5224|11.9945|Bruckberg
+49.4317|7.3600|Brücken
+49.2493|12.3071|Bruck in der Oberpfalz
 47.8786|11.9110|Bruckmühl
+53.7372|11.7147|Brüel
+54.1758|10.0691|Brügge
+52.0425|9.7745|Brüggen
+49.3972|8.5336|Brühl
 51.8963|11.7175|Brumby
 49.2363|12.1916|Brunn
 48.2296|10.9733|Brunnen
 48.0065|11.6840|Brunnthal
 53.8950|9.1048|Brunsbüttel
-50.1333|7.2333|Bruttig-Fankel
-47.9296|8.4481|Bräunlingen
-52.1977|12.7687|Brück
-49.4317|7.3600|Brücken
-53.7372|11.7147|Brüel
-54.1758|10.0691|Brügge
-52.0425|9.7745|Brüggen
-49.3972|8.5336|Brühl
 53.6759|11.2438|Brüsewitz
 53.3997|14.1253|Brüssow
+50.1333|7.2333|Bruttig-Fankel
 49.6275|11.0172|Bubenreuth
 48.4333|10.2500|Bubesheim
 48.1167|8.8333|Bubsheim
 48.2248|10.1806|Buch
+50.8833|11.5167|Bucha
 49.5391|9.5556|Buch am Ahorn
 48.2151|11.9951|Buch am Buchrain
-50.8833|11.5167|Bucha
 48.3123|12.2734|Buchbach
 49.7598|10.1369|Buchbrunn
 48.7833|10.8333|Buchdorf
-49.5242|9.3229|Buchen im Odenwald
-47.9614|8.0091|Buchenbach
+50.1729|7.0832|Büchel
+53.4801|10.6176|Büchen
+49.2678|11.0589|Büchenbach
 47.6959|10.2393|Buchenberg
+49.9210|7.2800|Büchenbeuren
+49.5242|9.3229|Buchen im Odenwald|Buchen in Odenwald
 50.9509|7.0058|Buchforst
 50.9515|7.0209|Buchheim
 53.0088|9.5629|Buchholz
 53.3264|9.8681|Buchholz in der Nordheide
+48.6711|13.5210|Büchlberg
 48.0372|10.7255|Buchloe
+52.2606|9.0494|Bückeburg
+52.7788|9.1337|Bücken
 49.5932|11.0504|Buckenhof
 52.4320|13.4602|Buckow
+52.1703|11.0188|Büddenstedt
+54.3184|9.6730|Büdelsdorf
 50.0167|8.1667|Budenheim
+50.2901|9.1114|Büdingen
+51.5774|7.0518|Buer
 51.0000|10.7333|Bufleben
 47.8475|7.6380|Buggingen
+48.6968|8.1352|Bühl
+48.6857|8.1888|Bühlertal
+49.0417|9.9086|Bühlertann
+49.0033|9.9206|Bühlerzell
+52.8063|8.2188|Bühren
 50.0545|7.1373|Bullay
-53.1833|7.2667|Bunde
+52.1984|8.5864|Bünde
 49.8428|7.3783|Bundenbach
 49.0955|7.8084|Bundenthal
 50.7510|8.0794|Burbach
+51.5511|8.5596|Büren
 51.8345|14.1486|Burg
+48.4316|10.4099|Burgau
 54.4333|11.2000|Burg auf Fehmarn
 52.2715|11.8549|Burg bei Magdeburg
-53.4958|13.3112|Burg Stargard
-48.4316|10.4099|Burgau
 47.5366|10.2888|Burgberg
 49.4510|10.3239|Burgbernheim
 50.4546|7.2772|Burgbrohl
 52.4463|10.0064|Burgdorf
 49.8283|10.7434|Burgebrach
+50.9422|11.7563|Bürgel
 47.7769|10.8172|Burggen
 49.7331|10.6007|Burghaslach
 50.6968|9.7245|Burghaun
@@ -937,8 +996,9 @@
 50.2833|8.0833|Burgschwalbach
 50.1497|9.6512|Burgsinn
 50.5419|8.4041|Burgsolms
+49.7148|9.2692|Bürgstadt
+53.4958|13.3112|Burg Stargard
 48.9280|9.3724|Burgstetten
-50.9133|12.8060|Burgstädt
 49.3520|11.3115|Burgthann
 51.2227|11.9840|Burgwerben
 49.8273|10.5963|Burgwindheim
@@ -949,71 +1009,25 @@
 48.2911|9.1129|Burladingen
 53.7737|13.2732|Burow
 51.0847|7.1139|Burscheid
+49.6427|8.4594|Bürstadt
 48.3405|10.4528|Burtenbach
 54.1035|10.0824|Busdorf
 49.1302|7.8293|Busenberg
+47.6964|8.6876|Büsingen
+54.1340|8.8576|Büsum
 53.5472|8.3350|Butjadingen
+49.9033|8.5233|Büttelborn
 51.0765|11.3435|Buttelstedt
 49.8036|11.0300|Buttenheim
 48.6000|10.7167|Buttenwiesen
+49.5991|9.8799|Bütthard
 50.7577|9.9528|Buttlar
 51.1223|11.4172|Buttstädt
+51.2597|10.3064|Büttstedt
 50.4340|8.6712|Butzbach
+53.8483|11.9826|Bützow
 48.0000|10.1333|Buxheim
 53.4672|9.6864|Buxtehude
-48.5463|10.3128|Bächingen an der Brenz
-50.5000|13.0333|Bärenstein
-49.8108|12.4332|Bärnau
-47.7556|10.9888|Böbing
-48.8195|9.9213|Böbingen an der Rems
-48.6821|9.0117|Böblingen
-48.9332|12.8830|Böbrach
-49.3806|8.3039|Böhl-Iggelheim
-51.2006|12.3862|Böhlen
-48.6833|9.9333|Böhmenkirch
-54.0833|10.0667|Bönebüttel
-51.6000|7.7667|Bönen
-49.0402|9.0939|Bönnigheim
-53.6667|9.9167|Bönningstedt
-52.9121|7.5358|Börger
-54.1418|11.9253|Börgerende-Rethwisch
-50.7501|13.1408|Börnichen
-53.4762|10.2816|Börnsen
-48.7538|9.6318|Börtlingen
-52.0692|10.5843|Börßum
-54.1500|10.4833|Bösdorf
-53.0000|7.9500|Bösel
-50.3970|12.1000|Bösenbrunn
-48.2333|8.5500|Bösingen
-53.1333|9.3167|Bötersen
-48.1000|8.8000|Böttingen
-48.0764|7.7248|Bötzingen
-50.1729|7.0832|Büchel
-53.4801|10.6176|Büchen
-49.2678|11.0589|Büchenbach
-49.9210|7.2800|Büchenbeuren
-48.6711|13.5210|Büchlberg
-52.2606|9.0494|Bückeburg
-52.7788|9.1337|Bücken
-52.1703|11.0188|Büddenstedt
-54.3184|9.6730|Büdelsdorf
-50.2901|9.1114|Büdingen
-48.6968|8.1352|Bühl
-48.6857|8.1888|Bühlertal
-49.0417|9.9086|Bühlertann
-49.0033|9.9206|Bühlerzell
-52.8063|8.2188|Bühren
-52.1984|8.5864|Bünde
-51.5511|8.5596|Büren
-50.9422|11.7563|Bürgel
-49.7148|9.2692|Bürgstadt
-49.6427|8.4594|Bürstadt
-47.6964|8.6876|Büsingen
-54.1340|8.8576|Büsum
-49.9033|8.5233|Büttelborn
-49.5991|9.8799|Bütthard
-51.2597|10.3064|Büttstedt
-53.8483|11.9826|Bützow
 53.7693|9.0627|Cadenberge
 49.4573|10.8533|Cadolzburg
 51.7440|13.9533|Calau
@@ -1051,6 +1065,7 @@
 50.1451|7.1638|Cochem
 51.8825|11.4108|Cochstedt
 51.9435|7.1681|Coesfeld
+50.8510|8.7809|Cölbe
 52.3171|11.6053|Colbitz
 51.1282|12.8029|Colditz
 49.3548|10.4116|Colmberg
@@ -1073,12 +1088,12 @@
 50.5167|12.9500|Crottendorf
 51.1000|14.5167|Cunewalde
 53.8718|8.6909|Cuxhaven
-50.8510|8.7809|Cölbe
 50.7333|7.9667|Daaden
 53.6611|11.9002|Dabel
 48.2600|11.4340|Dachau
 50.2542|7.7272|Dachsenhausen
 51.0777|10.8548|Dachwig
+53.8833|9.5333|Dägeling
 52.4581|13.2870|Dahlem
 51.3650|12.9988|Dahlen
 53.1877|10.7365|Dahlenburg
@@ -1090,6 +1105,7 @@
 52.5427|13.0584|Dallgow-Döberitz
 52.5216|8.1979|Damme
 54.5847|10.0178|Damp
+54.4278|10.1260|Dänischenhagen
 50.9253|10.0160|Dankmarshausen
 52.4247|10.9129|Danndorf
 53.0967|11.0900|Dannenberg
@@ -1214,19 +1230,26 @@
 48.8267|9.0670|Ditzingen
 53.6231|12.0747|Dobbertin
 48.8000|8.5000|Dobel
+51.1221|13.1103|Döbeln
 51.6258|13.5623|Doberlug-Kirchhain
+51.5124|12.3475|Döbernitz
 51.4987|12.7479|Doberschütz
 54.3189|10.2801|Dobersdorf
 51.9052|12.6107|Dobien
 47.6095|8.1671|Dogern
+50.2833|11.9500|Döhlau
 50.9167|13.9333|Dohma
 50.9562|13.8584|Dohna
 52.6500|7.5833|Dohren
+51.4670|12.0573|Dölbau
 52.4067|10.1810|Dollbergen
 53.5333|9.5500|Dollern
 54.7780|9.6798|Dollerup
+51.4078|12.0283|Döllnitz
+51.0833|10.8167|Döllstädt
 49.2535|10.2854|Dombühl
 52.0920|11.4376|Domersleben
+53.1408|11.2502|Dömitz
 50.1500|7.4000|Dommershausen
 51.6407|12.8794|Dommitzsch
 53.4872|11.7710|Domsühl
@@ -1235,6 +1258,7 @@
 48.7180|10.7793|Donauwörth
 49.9667|10.4167|Donnersdorf
 48.6854|9.8105|Donzdorf
+52.0411|9.0028|Dörentrup
 50.6636|12.8365|Dorfchemnitz
 48.2704|12.1606|Dorfen
 50.9333|13.5667|Dorfhain
@@ -1247,11 +1271,18 @@
 48.4670|9.9443|Dornstadt
 48.4720|8.4982|Dornstetten
 53.6465|7.4296|Dornum
+52.9647|7.3227|Dörpen
+49.0897|7.9614|Dörrenbach
 51.6617|6.9651|Dorsten
+51.5014|7.4108|Dorstfeld
 51.5149|7.4660|Dortmund
 53.6879|8.5673|Dorum
+52.8500|9.2333|Dörverden
+49.3835|9.7073|Dörzbach
 49.4503|8.6747|Dossenheim
+52.9333|8.3833|Dötlingen
 48.2285|8.7923|Dotternhausen
+50.0744|8.1950|Dotzheim
 49.1076|13.0119|Drachselsried
 53.4167|10.2667|Drage
 52.6869|9.2108|Drakenburg
@@ -1282,37 +1313,21 @@
 49.1167|11.9167|Duggendorf
 52.0045|9.6958|Duingen
 51.4325|6.7652|Duisburg
+51.8315|7.2808|Dülmen
+53.5838|10.0645|Dulsberg
+53.5763|11.2050|Dümmer
 54.0148|12.2282|Dummerstorf
+50.2606|7.1652|Düngenheim
 48.2124|8.5062|Dunningen
+52.9275|8.6419|Dünsen
 53.6000|7.6500|Dunum
 47.6944|10.3445|Durach
 48.4935|8.0174|Durbach
-48.8563|9.7965|Durlangen
-48.9333|8.2667|Durmersheim
-53.7081|10.1044|Duvenstedt
-48.4536|9.0555|Dußlingen
-53.8833|9.5333|Dägeling
-54.4278|10.1260|Dänischenhagen
-51.1221|13.1103|Döbeln
-51.5124|12.3475|Döbernitz
-50.2833|11.9500|Döhlau
-51.4670|12.0573|Dölbau
-51.4078|12.0283|Döllnitz
-51.0833|10.8167|Döllstädt
-53.1408|11.2502|Dömitz
-52.0411|9.0028|Dörentrup
-52.9647|7.3227|Dörpen
-49.0897|7.9614|Dörrenbach
-52.8500|9.2333|Dörverden
-49.3835|9.7073|Dörzbach
-52.9333|8.3833|Dötlingen
-51.8315|7.2808|Dülmen
-53.5763|11.2050|Dümmer
-50.2606|7.1652|Düngenheim
-52.9275|8.6419|Dünsen
 48.0562|8.7934|Dürbheim
 50.8043|6.4930|Düren
+48.8563|9.7965|Durlangen
 48.1167|9.5333|Dürmentingen
+48.9333|8.2667|Durmersheim
 48.6408|9.6354|Dürnau
 51.0486|14.6038|Dürrhennersdorf
 48.4667|10.4286|Dürrlauingen
@@ -1321,6 +1336,8 @@
 51.2217|6.7762|Düsseldorf
 51.4000|6.6000|Düsseldorf District
 51.2381|6.7868|Düsseldorf-Pempelfort
+53.7081|10.1044|Duvenstedt
+48.4536|9.0555|Dußlingen
 51.2828|10.7300|Ebeleben
 49.9857|10.6744|Ebelsbach
 52.1855|11.5748|Ebendorf
@@ -1404,14 +1421,15 @@
 48.2775|11.7821|Eichenried
 50.4954|9.6967|Eichenzell
 50.3500|12.1667|Eichigt
-48.0943|7.7424|Eichstetten
 48.8885|11.1967|Eichstätt
+48.0943|7.7424|Eichstetten
 52.3667|13.6167|Eichwalde
 51.9477|11.6754|Eickendorf
 52.5504|10.1844|Eicklingen
 53.6070|9.9054|Eidelstedt
 47.8580|8.8978|Eigeltingen
 50.8936|7.0797|Eil
+53.5678|10.0472|Eilbek
 51.4598|12.6334|Eilenburg
 52.1471|11.2104|Eilsleben
 52.0745|9.7212|Eime
@@ -1436,6 +1454,7 @@
 50.7667|9.8000|Eiterfeld
 50.7667|7.4500|Eitorf
 48.3596|11.8911|Eitting
+53.4522|9.9514|Eißendorf
 52.0833|10.2833|Elbe
 51.7704|10.8056|Elbingerode
 53.2319|11.4180|Eldena
@@ -1456,6 +1475,7 @@
 48.9616|10.1317|Ellwangen
 48.3397|10.3189|Ellzee
 54.1558|12.0108|Elmenhorst
+54.2895|10.1899|Elmschenhagen
 53.7540|9.6534|Elmshorn
 49.3667|7.9333|Elmstein
 53.2412|9.3506|Elsdorf
@@ -1577,6 +1597,7 @@
 49.2988|12.9157|Eschlkam
 51.1839|10.0533|Eschwege
 50.8185|6.2718|Eschweiler
+48.4098|9.9514|Eselsberg
 53.6487|7.6127|Esens
 49.5834|12.5216|Eslarn
 51.2537|8.1695|Eslohe
@@ -1610,6 +1631,7 @@
 49.9859|9.8090|Eußenheim
 51.9260|7.8469|Everswinkel
 52.1889|10.7108|Evessen
+51.5518|7.4809|Eving
 52.6924|8.5467|Eydelstedt
 53.2000|10.1500|Eyendorf
 52.7794|9.2132|Eystrup
@@ -1666,6 +1688,7 @@
 48.2905|10.6559|Fischach
 49.0877|7.7116|Fischbach
 47.7195|11.9508|Fischbachau
+51.3035|6.5884|Fischeln
 48.2869|8.1096|Fischerbach
 49.3984|10.5132|Flachslanden
 50.3453|8.0503|Flacht
@@ -1679,18 +1702,21 @@
 50.4239|9.5666|Flieden
 54.2500|10.0667|Flintbek
 47.7258|12.1242|Flintsbach
+50.8561|13.0741|Flöha
 49.6906|8.1492|Flomborn
 49.7850|8.0400|Flonheim
+50.0131|8.4278|Flörsheim
 50.3167|8.8667|Florstadt
 49.7333|12.3500|Flossenbürg
-49.7240|12.2759|Floß
-50.8561|13.0741|Flöha
-50.0131|8.4278|Flörsheim
 52.0833|10.4833|Flöthe
+49.7240|12.2759|Floß
 54.3000|9.6000|Fockbek
+49.8593|6.7648|Föhren
 48.6833|8.3500|Forbach
 48.1667|7.7000|Forchheim
 49.2887|9.5603|Forchtenberg
+51.8972|11.6335|Förderstedt
+50.3417|11.2318|Föritz
 49.1586|8.5808|Forst
 48.1687|11.9124|Forstinning
 49.7581|8.1742|Framersheim
@@ -1703,6 +1729,7 @@
 49.8873|10.3143|Frankenwinheim
 52.3471|14.5506|Frankfurt (Oder)
 50.1155|8.6842|Frankfurt am Main
+49.7461|8.8586|Fränkisch-Crumbach
 51.3114|11.9293|Frankleben
 54.1850|12.8821|Franzburg
 52.6024|13.4302|Französisch Buchholz
@@ -1717,7 +1744,6 @@
 50.9149|6.8118|Frechen
 49.0650|8.1139|Freckenfeld
 51.9277|9.8935|Freden
-49.8000|7.9000|Frei-Laubersheim
 50.9109|13.3388|Freiberg
 48.9320|9.2024|Freiberg am Neckar
 47.9959|7.8522|Freiburg
@@ -1727,6 +1753,7 @@
 54.7275|9.4941|Freienwill
 49.6213|11.9082|Freihung
 47.8409|12.9811|Freilassing
+49.8000|7.9000|Frei-Laubersheim
 49.5065|8.2119|Freinsheim
 49.2717|8.2719|Freisbach
 49.5500|7.2500|Freisen
@@ -1776,24 +1803,16 @@
 51.1318|9.2756|Fritzlar
 51.0572|12.5575|Frohburg
 52.6334|13.2902|Frohnau
+51.4756|7.7695|Fröndenberg
 50.7000|8.7000|Fronhausen
 47.8705|9.5694|Fronreute
 48.5463|12.5312|Frontenhausen
 51.7958|11.3791|Frose
-49.7461|8.8586|Fränkisch-Crumbach
-51.4756|7.7695|Fröndenberg
 49.9226|12.1458|Fuchsmühl
 50.1082|9.9337|Fuchsstadt
 53.6346|10.0161|Fuhlsbüttel
 50.5516|9.6752|Fulda
 51.3833|9.5667|Fuldatal
-48.4062|12.3812|Furth
-49.3096|12.8416|Furth im Wald
-48.0516|8.2072|Furtwangen
-49.4611|8.2922|Fußgönheim
-49.8593|6.7648|Föhren
-51.8972|11.6335|Förderstedt
-50.3417|11.2318|Föritz
 48.8321|10.7654|Fünfstetten
 49.7774|7.8926|Fürfeld
 52.5167|7.6767|Fürstenau
@@ -1806,12 +1825,16 @@
 48.5216|13.3175|Fürstenzell
 49.6508|8.7847|Fürth
 50.7833|7.6667|Fürthen
+49.3096|12.8416|Furth im Wald
+48.0516|8.2072|Furtwangen
 47.5714|10.7017|Füssen
+49.4611|8.2922|Fußgönheim
 51.5333|14.6667|Gablenz
 48.4500|10.8167|Gablingen
 48.5000|11.2333|Gachenbach
 53.7014|11.1168|Gadebusch
 49.8458|9.9057|Gadheim
+53.6856|11.8964|Gägelow
 48.8000|8.3333|Gaggenau
 49.3664|8.7497|Gaiberg
 47.6833|8.9833|Gaienhofen
@@ -1829,8 +1852,8 @@
 51.1894|10.9433|Gangloffsömmern
 52.4137|9.5899|Garbsen
 52.4266|9.6038|Garbsen-Mitte
+48.2490|11.6510|Garching|Garching bei München
 48.1345|12.5815|Garching an der Alz
-48.2490|11.6510|Garching bei München
 52.5252|11.3952|Gardelegen
 54.3306|8.7806|Garding
 53.2373|10.1014|Garlstorf
@@ -1840,6 +1863,7 @@
 53.2847|10.1614|Garstedt
 49.4594|8.4038|Gartenstadt
 53.0247|11.4620|Gartow
+48.6418|8.9007|Gärtringen
 53.2083|14.3923|Gartz
 54.3184|13.3513|Garz
 51.8222|11.2866|Gatersleben
@@ -1848,8 +1872,8 @@
 49.9567|8.0157|Gau-Algesheim
 49.8353|8.0206|Gau-Bickelheim
 49.9158|8.2728|Gau-Bischofsheim
-49.7847|8.1942|Gau-Odernheim
 49.6333|10.0000|Gaukönigshofen
+49.7847|8.1942|Gau-Odernheim
 48.0692|11.3770|Gauting
 51.1149|10.9345|Gebesee
 50.7500|7.8167|Gebhardshain
@@ -1968,8 +1992,8 @@
 51.7984|10.1878|Gittelde
 51.5708|6.9859|Gladbeck
 50.7685|8.5808|Gladenbach
-49.4722|7.4420|Glan-Münchweiler
 52.0847|7.9994|Glandorf
+49.4722|7.4420|Glan-Münchweiler
 50.8520|13.7798|Glashütte
 49.8874|11.4487|Glashütten
 50.0000|9.1500|Glattbach
@@ -1982,9 +2006,9 @@
 53.5441|10.2005|Glinde
 52.2386|11.6836|Glindenberg
 47.9875|11.8672|Glonn
-54.5691|13.4655|Glowe
 51.9100|11.6747|Glöthe
 48.5000|10.4833|Glött
+54.5691|13.4655|Glowe
 54.8352|9.5485|Glücksburg
 53.7889|9.4258|Glückstadt
 47.7512|11.7381|Gmund am Tegernsee
@@ -1993,12 +2017,16 @@
 54.1333|9.8167|Gnutz
 51.6787|6.1589|Goch
 50.0167|10.2833|Gochsheim
+51.1780|14.3195|Göda
 54.2835|10.9404|Goel
+48.8612|9.8840|Göggingen
+51.3660|12.3670|Gohlis
 49.9995|9.1844|Goldbach
 52.7169|11.8606|Goldbeck
 53.5888|12.0885|Goldberg
 52.7883|8.4320|Goldenstedt
 50.0109|11.6875|Goldkronach
+49.5950|8.0508|Göllheim
 51.9000|9.5500|Golmbach
 52.2762|12.6005|Golzow
 51.9720|13.6012|Golßen
@@ -2008,29 +2036,50 @@
 49.2911|8.2658|Gommersheim
 49.0592|8.6583|Gondelsheim
 50.1500|7.5000|Gondershausen
+49.4481|8.2386|Gönnheim
+50.0017|8.1965|Gonsenheim
+48.7035|9.6521|Göppingen
+51.0455|13.6611|Gorbitz
+47.7067|10.5101|Görisried
+51.1552|14.9885|Görlitz
+53.9909|13.2705|Görmin
 50.7590|13.0373|Gornau
 50.7000|12.8833|Gornsdorf
+51.4622|10.9371|Görsbach
+47.6427|8.0748|Görwihl
+51.6638|11.9976|Görzig
+52.1718|12.3751|Görzke
 51.2000|11.8667|Goseck
 48.1343|8.7543|Gosheim
 51.9042|10.4277|Goslar
+50.0167|9.7833|Gössenheim
 49.1500|7.9333|Gossersweiler-Stein
 50.9482|10.7019|Gotha
 48.0500|7.7333|Gottenheim
 48.9667|12.9667|Gotteszell
 48.6374|12.5356|Gottfrieding
+51.5344|9.9323|Göttingen
 47.7351|8.7769|Gottmadingen
+50.8890|12.4329|Gößnitz
+49.7690|11.3384|Gößweinstein
 50.6354|11.4774|Goßwitz
 48.1873|10.8222|Graben
 49.1669|8.4924|Graben-Neudorf
-48.5240|9.4616|Grabenstetten
 47.8453|12.5433|Grabenstätt
+48.5240|9.4616|Grabenstetten
 53.2797|11.5650|Grabow
 53.5686|12.5948|Grabowhöfe
 50.9363|10.8351|Grabsleben
+48.1188|11.4294|Gräfelfing
 48.7143|8.9122|Grafenau
+49.6443|11.2497|Gräfenberg
+50.1227|9.7405|Gräfendorf
 50.2031|11.5936|Grafengehaig
+50.8167|10.7000|Gräfenhain
+51.7289|12.4565|Gräfenhainichen
 48.2843|7.7668|Grafenhausen
 50.0000|10.2000|Grafenrheinfeld
+50.7478|10.8106|Gräfenroda
 49.2000|12.8833|Grafenwiesen
 49.7173|11.9064|Grafenwöhr
 52.4448|10.9451|Grafhorst
@@ -2047,6 +2096,7 @@
 52.3064|11.0146|Grasleben
 47.7810|12.4536|Grassau
 48.8036|13.1537|Grattersdorf
+50.3902|8.4569|Grävenwiesbach
 50.7424|9.4731|Grebenau
 50.4892|9.3385|Grebenhain
 51.4465|9.4125|Grebenstein
@@ -2076,52 +2126,34 @@
 47.9940|12.1773|Griesstätt
 51.2337|12.7196|Grimma
 54.1121|13.0405|Grimmen
+48.2000|11.3667|Gröbenzell
+51.4305|12.1162|Gröbers
+51.6823|11.8745|Gröbzig
+51.4000|13.5667|Gröden
 51.1554|12.2828|Groitzsch
 49.9083|7.9160|Grolsheim
+54.1500|10.9667|Grömitz
 52.0846|9.7768|Gronau
+51.9374|11.2160|Gröningen
+53.6416|10.4078|Grönwohld
 52.4250|13.4667|Gropiusstadt
 48.3323|8.8870|Grosselfingen
 54.3833|11.0833|Grossenbrode
-52.2328|11.5220|Groß Ammensleben
-51.8847|11.4703|Groß Börnecke
-51.5667|14.5667|Groß Düben
-53.8000|10.7500|Groß Grönau
-52.9667|8.6167|Groß Ippener
-54.0126|13.4785|Groß Kiesow
-52.4028|12.7794|Groß Kreutz
-54.0500|10.0833|Groß Kummerfeld
-52.1659|13.6593|Groß Köris
-53.3465|11.5492|Groß Laasch
-52.2333|14.5333|Groß Lindow
-53.5356|13.5935|Groß Miltzow
-52.3655|9.4783|Groß Munzel
-53.4734|13.2248|Groß Nemerow
-52.6476|10.4637|Groß Oesingen
-53.1195|12.0497|Groß Pankow
-51.9333|11.1167|Groß Quenstedt
-54.4415|9.4351|Groß Rheide
-52.1214|11.3837|Groß Rodensleben
-51.9170|11.8918|Groß Rosenburg
-52.1914|11.4549|Groß Santersleben
-52.3736|10.9193|Groß Twülpstedt
-54.4000|9.7667|Groß Wittensee
-53.7514|12.4925|Groß Wokern
-49.8006|8.8243|Groß-Bieberau
-49.9214|8.4825|Groß-Gerau
-49.7211|8.4828|Groß-Rohrheim
-49.8690|8.9321|Groß-Umstadt
-49.8741|8.8290|Groß-Zimmern
 48.2275|10.7795|Großaitingen
 51.2586|9.7845|Großalmerode
+52.2328|11.5220|Groß Ammensleben
 51.2042|12.6985|Großbardau
 50.2667|10.3667|Großbardorf
 51.2500|10.2167|Großbartloff
 52.3586|13.3099|Großbeeren
 48.5905|9.3078|Großbettlingen
+49.8006|8.8243|Groß-Bieberau
 51.4757|10.4810|Großbodungen
+51.8847|11.4703|Groß Börnecke
 51.1878|12.7510|Großbothen
 49.0015|9.2935|Großbottwar
 50.5834|11.0096|Großbreitenbach
+51.5667|14.5667|Groß Düben
 51.2542|14.4590|Großdubrau
 50.3010|10.4098|Großeibstadt
 53.9833|9.9667|Großenaspe
@@ -2135,7 +2167,9 @@
 50.9000|12.2000|Großenstein
 54.7000|9.2500|Großenwiehe
 49.0537|9.5136|Großerlach
+49.9214|8.4825|Groß-Gerau
 52.3326|9.5011|Großgoltern
+53.8000|10.7500|Groß Grönau
 49.4000|10.7833|Großhabersdorf
 53.6667|10.2833|Großhansdorf
 51.1069|14.0991|Großharthau
@@ -2144,64 +2178,73 @@
 50.9860|14.7878|Großhennersdorf
 49.7283|9.2228|Großheubach
 50.4500|7.8833|Großholbach
+52.9667|8.6167|Groß Ippener
 49.5383|8.2247|Großkarlbach
 47.8910|12.0810|Großkarolinenfeld
 51.2907|11.9327|Großkayna
+54.0126|13.4785|Groß Kiesow
 51.3790|13.7250|Großkmehlen
 51.2600|12.0301|Großkorbetha
+52.1659|13.6593|Groß Köris
+52.4028|12.7794|Groß Kreutz
 50.0833|8.9833|Großkrotzenburg
 51.4173|12.1464|Großkugel
+54.0500|10.0833|Groß Kummerfeld
+53.3465|11.5492|Groß Laasch
 49.7562|10.2407|Großlangheim
 51.3069|12.1719|Großlehna
+52.2333|14.5333|Groß Lindow
 50.0279|6.7987|Großlittgen
 50.5000|7.6333|Großmaischeid
+53.5356|13.5935|Groß Miltzow
 51.2130|11.2958|Großmonra
+52.3655|9.4783|Groß Munzel
 51.2000|13.9333|Großnaundorf
+53.4734|13.2248|Groß Nemerow
 49.5753|8.3122|Großniedesheim
+52.6476|10.4637|Groß Oesingen
 50.7000|13.0833|Großolbersdorf
+51.6153|11.4898|Großörner
 49.9198|9.0760|Großostheim
-51.1208|14.4406|Großpostwitz
+53.1195|12.0497|Groß Pankow
 51.2667|12.5000|Großpösna
-49.4345|11.0227|Großreuth bei Schweinau
-49.6654|9.7336|Großrinderfeld
-49.2030|6.8415|Großrosseln
-51.0930|11.0998|Großrudestedt
+51.1208|14.4406|Großpostwitz
+51.9333|11.1167|Groß Quenstedt
 51.5876|14.0109|Großräschen
+49.4345|11.0227|Großreuth bei Schweinau
+54.4415|9.4351|Groß Rheide
+49.6654|9.7336|Großrinderfeld
+52.1214|11.3837|Groß Rodensleben
+49.7211|8.4828|Groß-Rohrheim
 51.1453|14.0192|Großröhrsdorf
+51.9170|11.8918|Groß Rosenburg
+49.2030|6.8415|Großrosseln
 50.6333|13.1167|Großrückerswalde
+51.0930|11.0998|Großrudestedt
+52.1914|11.4549|Groß Santersleben
 50.9660|13.2859|Großschirma
-51.0694|14.6430|Großschweidnitz
 50.9000|14.6833|Großschönau
+51.0694|14.6430|Großschweidnitz
 54.7000|9.5167|Großsolt
 51.3833|13.6667|Großthiemig
+52.3736|10.9193|Groß Twülpstedt
+49.8690|8.9321|Groß-Umstadt
 49.8794|9.1534|Großwallstadt
 47.6760|11.3011|Großweil
 51.1585|13.0452|Großweitzschen
+54.4000|9.7667|Groß Wittensee
+53.7514|12.4925|Groß Wokern
 53.0667|13.1000|Großwoltersdorf
-51.6153|11.4898|Großörner
+49.8741|8.8290|Groß-Zimmern
 50.1028|11.9290|Grub
 54.2333|11.0333|Grube
 48.5948|9.6439|Gruibingen
-52.4834|13.2659|Grunewald
-48.1188|11.4294|Gräfelfing
-49.6443|11.2497|Gräfenberg
-50.1227|9.7405|Gräfendorf
-50.8167|10.7000|Gräfenhain
-51.7289|12.4565|Gräfenhainichen
-50.7478|10.8106|Gräfenroda
-50.3902|8.4569|Grävenwiesbach
-48.2000|11.3667|Gröbenzell
-51.4305|12.1162|Gröbers
-51.6823|11.8745|Gröbzig
-51.4000|13.5667|Gröden
-54.1500|10.9667|Grömitz
-51.9374|11.2160|Gröningen
-53.6416|10.4078|Grönwohld
 52.4164|13.5804|Grünau
 50.4500|12.3619|Grünbach
 50.5940|8.9587|Grünberg
 47.6286|10.0084|Grünenbach
 53.5695|9.6122|Grünendeich
+52.4834|13.2659|Grunewald
 50.5802|12.8070|Grünhain
 50.7672|13.1537|Grünhainichen
 52.4234|13.8132|Grünheide
@@ -2212,9 +2255,12 @@
 48.9333|9.7444|Gschwend
 47.8845|12.4181|Gstadt am Chiemsee
 51.9499|14.7145|Guben
+50.3909|8.0073|Gückingen
 51.1771|9.3675|Gudensberg
 53.5492|9.6096|Guderhandviertel
 53.5556|10.7702|Gudow
+49.0664|9.0017|Güglingen
+53.4500|10.5000|Gülzow
 51.0261|7.5647|Gummersbach
 52.9833|12.2500|Gumtow
 48.0425|7.8657|Gundelfingen
@@ -2222,48 +2268,27 @@
 49.6961|8.2025|Gundersheim
 48.5000|10.4000|Gundremmingen
 49.7975|8.3456|Guntersblum
-49.1166|10.7597|Gunzenhausen
-49.6333|6.9000|Gusenburg
-49.7000|6.7167|Gusterath
-48.2484|8.2129|Gutach
-48.1167|7.9833|Gutach im Breisgau
-49.8833|7.8000|Gutenberg
-49.6167|10.6333|Gutenstetten
-48.1167|9.9833|Gutenzell-Hürbel
-51.2590|14.5613|Guttau
-51.2000|9.4833|Guxhagen
-53.2167|9.3167|Gyhum
-53.6856|11.8964|Gägelow
-48.6418|8.9007|Gärtringen
-51.1780|14.3195|Göda
-48.8612|9.8840|Göggingen
-49.5950|8.0508|Göllheim
-49.4481|8.2386|Gönnheim
-48.7035|9.6521|Göppingen
-47.7067|10.5101|Görisried
-51.1552|14.9885|Görlitz
-53.9909|13.2705|Görmin
-51.4622|10.9371|Görsbach
-47.6427|8.0748|Görwihl
-51.6638|11.9976|Görzig
-52.1718|12.3751|Görzke
-50.0167|9.7833|Gössenheim
-51.5344|9.9323|Göttingen
-50.8890|12.4329|Gößnitz
-49.7690|11.3384|Gößweinstein
-50.3909|8.0073|Gückingen
-49.0664|9.0017|Güglingen
-53.4500|10.5000|Gülzow
 49.8697|9.9050|Güntersleben
 51.3457|12.1717|Günthersdorf
 47.8249|10.4355|Günzach
 48.4560|10.2769|Günzburg
+49.1166|10.7597|Gunzenhausen
+49.6333|6.9000|Gusenburg
 51.7964|11.6125|Güsten
 53.5385|10.6761|Güster
+49.7000|6.7167|Gusterath
 53.7972|12.1734|Güstrow
+48.2484|8.2129|Gutach
+48.1167|7.9833|Gutach im Breisgau
 48.0500|8.1500|Gütenbach
+49.8833|7.8000|Gutenberg
+49.6167|10.6333|Gutenstetten
+48.1167|9.9833|Gutenzell-Hürbel
 51.9069|8.3785|Gütersloh
+51.2590|14.5613|Guttau
 53.7243|13.1066|Gützkow
+51.2000|9.4833|Guxhagen
+53.2167|9.3167|Gyhum
 48.4584|11.8280|Haag an der Amper
 48.1620|12.1794|Haag in Oberbayern
 51.1938|7.0133|Haan
@@ -2278,14 +2303,15 @@
 53.6027|7.2853|Hage
 48.9000|12.2167|Hagelstadt
 52.1963|7.9804|Hagen
-53.3571|8.6434|Hagen im Bremischen
 49.0173|8.2502|Hagenbach
-52.4337|9.3247|Hagenburg
 49.5333|10.7667|Hagenbüchach
+52.4337|9.3247|Hagenburg
+53.3571|8.6434|Hagen im Bremischen
 53.4313|11.1916|Hagenow
 47.6767|9.3179|Hagnau
 49.5339|11.8030|Hahnbach
 49.8608|8.2369|Hahnheim
+51.3654|14.8610|Hähnichen
 50.3000|8.0667|Hahnstätten
 49.9644|9.2072|Haibach
 48.8257|13.7765|Haidmühle
@@ -2293,9 +2319,9 @@
 48.3661|8.8036|Haigerloch
 48.3154|11.5545|Haimhausen
 48.2167|12.9000|Haiming
-50.2428|9.1429|Hain-Gründau
 51.0277|8.9744|Haina
 50.9101|14.7039|Hainewalde
+50.2428|9.1429|Hain-Gründau
 50.9704|13.1229|Hainichen
 48.9584|10.6249|Hainsfarth
 48.5207|8.6443|Haiterbach
@@ -2311,8 +2337,8 @@
 48.3275|11.7514|Hallbergmoos
 51.9912|9.5653|Halle
 51.4816|11.9795|Halle (Saale)
-51.4792|11.9161|Halle Neustadt
 51.1112|8.6201|Hallenberg
+51.4792|11.9161|Halle Neustadt
 49.7591|10.9795|Hallerndorf
 49.9290|10.8754|Hallstadt
 50.9500|13.3500|Halsbrücke
@@ -2323,11 +2349,11 @@
 53.8333|10.5833|Hamberge
 53.3083|8.8252|Hambergen
 49.1900|8.5406|Hambrücken
+52.6333|9.9833|Hambühren
 53.5753|10.0153|Hamburg
 53.5500|10.0000|Hamburg-Altstadt
 53.5500|10.0167|Hamburg-Mitte
 53.5894|9.9840|Hamburg-Nord
-52.6333|9.9833|Hambühren
 54.2252|9.5187|Hamdorf
 52.1040|9.3562|Hameln
 51.6803|7.8209|Hamm
@@ -2345,10 +2371,13 @@
 54.1333|9.4167|Hanerau-Hademarschen
 49.3826|7.2105|Hangard
 49.3167|8.3408|Hanhofen
+52.4843|10.0913|Hänigsen
 52.7333|10.6000|Hankensbüttel
 52.3705|9.7332|Hannover
 51.4151|9.6505|Hannoversch Münden
 52.5185|13.3418|Hansaviertel
+52.8530|11.1529|Hansestadt Salzwedel
+53.5941|9.4730|Hansestadt Stade
 53.2667|10.0167|Hanstedt
 53.0464|10.3744|Hanstedt Eins
 49.4937|11.4712|Happurg
@@ -2359,6 +2388,7 @@
 48.1833|8.4167|Hardt
 52.7926|7.2414|Haren
 49.8623|7.8288|Hargesheim
+51.4982|7.2883|Harpen
 52.9094|8.5896|Harpstedt
 54.8000|9.3833|Harrislee
 50.0333|11.5667|Harsdorf
@@ -2372,6 +2402,7 @@
 49.2942|8.3450|Harthausen
 47.9333|7.6333|Hartheim
 50.7580|12.4269|Hartmannsdorf
+53.5782|9.9889|Harvestehude
 49.9053|8.2642|Harxheim
 51.6419|11.1433|Harzgerode
 52.2375|7.9611|Hasbergen
@@ -2403,7 +2434,9 @@
 48.5998|10.3740|Haunsheim
 49.4000|7.4833|Hauptstuhl
 48.2843|8.1760|Hausach
+53.4742|9.8829|Hausbruch
 47.6813|7.8399|Hausen
+47.7500|8.1667|Häusern
 47.7466|11.8407|Hausham
 51.1521|14.0863|Hauswalde
 48.6496|13.6265|Hauzenberg
@@ -2498,7 +2531,7 @@
 50.3946|10.3520|Hendungen
 49.4985|11.3906|Henfenfeld
 48.7726|13.0549|Hengersberg
-50.7756|7.2831|Hennef
+50.7756|7.2831|Hennef|Hennef (Sieg)
 52.6360|13.2042|Hennigsdorf
 54.2833|9.1667|Hennstedt
 49.8167|7.4333|Hennweiler
@@ -2616,20 +2649,29 @@
 50.4000|9.1333|Hirzenhain
 53.1525|11.0442|Hitzacker
 53.9240|9.8526|Hitzhusen
+49.7845|9.8822|Höchberg
 54.0266|9.2762|Hochdonn
 48.0256|9.7878|Hochdorf
 49.4194|8.2817|Hochdorf-Assenheim
+47.7333|8.1667|Höchenschwand
 51.4194|6.7546|Hochfeld
+50.3667|10.4500|Höchheim
 50.0144|8.3522|Hochheim am Main
 51.1490|14.5706|Hochkirch
 49.4421|7.8950|Hochspeyer
 49.2475|8.2089|Hochstadt
 50.1501|11.1712|Hochstadt am Main
+49.7062|10.8133|Höchstadt an der Aisch
+48.6112|10.5682|Höchstädt an der Donau
+50.1016|12.0871|Höchstädt bei Thiersheim
 49.8000|7.5000|Hochstetten-Dhaun
+49.7997|8.9994|Höchst im Odenwald
+51.2242|13.9093|Höckendorf
 49.3233|8.5519|Hockenheim
 52.7651|9.5950|Hodenhagen
 50.3130|11.9126|Hof
 50.5863|9.8353|Hofbieber
+48.8000|8.5833|Höfen an der Enz
 51.4961|9.3850|Hofgeismar
 50.0902|8.4493|Hofheim am Taunus
 50.1367|10.5232|Hofheim in Unterfranken
@@ -2637,9 +2679,12 @@
 48.2585|8.0660|Hofstetten
 48.3227|7.8997|Hohberg
 51.4117|12.8051|Hohburg
-52.6763|13.2777|Hohen Neuendorf
+49.2897|7.6067|Höheinöd
+49.2333|7.5500|Höheischweiler
+53.5840|9.9758|Hoheluft-Ost
 53.9890|9.5277|Hohenaspe
 48.8498|13.4883|Hohenau
+50.9332|7.0414|Höhenberg
 50.0950|12.2201|Hohenberg an der Eger
 51.4310|14.0098|Hohenbocka
 48.0478|11.7022|Hohenbrunn
@@ -2650,11 +2695,13 @@
 47.8500|10.9000|Hohenfurch
 52.2576|10.0642|Hohenhameln
 48.4241|11.5252|Hohenkammer
+48.0193|11.7191|Höhenkirchen-Siegertsbrunn
 51.5000|13.5500|Hohenleipisch
 50.7113|12.0543|Hohenleuben
 48.1561|11.9946|Hohenlinden
 53.9667|9.6167|Hohenlockstedt
 51.1577|12.1000|Hohenmölsen
+52.6763|13.2777|Hohen Neuendorf
 47.8000|11.0000|Hohenpeißenberg
 48.3833|12.1333|Hohenpolding
 50.8006|12.7129|Hohenstein-Ernstthal
@@ -2665,10 +2712,13 @@
 49.2000|12.9333|Hohenwarth
 52.2297|11.7153|Hohenwarthe
 54.0889|9.6536|Hohenwestedt
-54.3000|9.5000|Hohn
+50.6167|7.9833|Höhn
 50.7404|12.6806|Hohndorf
 52.3694|9.3717|Hohnhorst
+51.5027|11.7384|Höhnstedt
 50.9799|14.1141|Hohnstein
+50.4347|7.6690|Höhr-Grenzhausen
+50.7191|8.9196|Höingen
 53.6500|10.3167|Hoisdorf
 52.5833|8.1167|Holdorf
 52.0872|10.1601|Holle
@@ -2697,12 +2747,17 @@
 49.3264|7.3387|Homburg
 52.5833|6.9500|Hoogstede
 47.6167|10.6333|Hopferau
+49.6025|9.4286|Höpfingen
 49.6167|7.2000|Hoppstädten-Weiersbach
 48.4442|8.6913|Horb am Neckar
 47.9333|7.8667|Horben
+51.4837|7.5003|Hörde
 51.4978|7.1762|Hordel
+51.6683|10.2837|Hörden
+49.1658|8.3264|Hördt
 48.3951|10.6828|Horgau
 47.8053|9.4973|Horgenzell
+48.5500|11.8667|Hörgertshausen
 50.5874|7.5303|Horhausen
 51.2634|14.2552|Horka
 50.6741|12.8819|Hormersdorf
@@ -2712,82 +2767,59 @@
 52.0309|10.6049|Hornburg
 53.5067|9.5755|Horneburg
 52.0451|11.1710|Hornhausen
+50.5183|8.6298|Hörnsheim
 53.9099|11.5321|Hornstorf
 49.2804|8.7809|Horrenberg
+50.9199|10.5844|Hörselgau
 53.8120|9.6231|Horst
 53.1833|9.2333|Horstedt
+52.2976|7.5838|Hörstel
 52.0810|7.3054|Horstmar
+50.0065|9.2076|Hösbach
 50.5050|9.4797|Hosenfeld
+47.9538|12.3292|Höslwang
+52.1197|11.0224|Hötensleben
+49.0626|11.0053|Höttingen
+51.8167|8.6500|Hövelhof
+51.7750|9.3816|Höxter
 52.8078|9.1403|Hoya
 51.4379|14.2355|Hoyerswerda
 51.7829|11.3124|Hoym
+51.5321|7.4151|Huckarde
+51.0555|6.2266|Hückelhoven
+51.1498|7.3447|Hückeswagen
 53.1077|8.4632|Hude
 52.4959|8.3580|Huede
+49.8167|7.8000|Hüffelsheim
+49.2919|9.0817|Hüffenhardt
+47.9254|8.4883|Hüfingen
+48.8000|8.1167|Hügelsheim
 47.7667|11.1667|Huglfing
 48.8251|10.7033|Huisheim
+48.5198|9.4079|Hülben
+52.2833|8.6667|Hüllhorst
+52.2495|9.3615|Hülsede
 50.9318|6.9947|Humboldtkolonie
 53.6477|10.0415|Hummelsbüttel
 48.8916|12.6738|Hunderdorf
 51.4333|10.2833|Hundeshagen
 48.8423|13.1768|Hunding
 50.4500|7.9833|Hundsangen
-50.4737|8.8933|Hungen
-48.1184|10.8111|Hurlach
-52.5667|9.2500|Husum
-48.6728|13.4715|Hutthurm
-51.9659|10.9146|Huy-Neinstedt
-51.3654|14.8610|Hähnichen
-52.4843|10.0913|Hänigsen
-47.7500|8.1667|Häusern
-49.7845|9.8822|Höchberg
-47.7333|8.1667|Höchenschwand
-50.3667|10.4500|Höchheim
-49.7997|8.9994|Höchst im Odenwald
-49.7062|10.8133|Höchstadt an der Aisch
-48.6112|10.5682|Höchstädt an der Donau
-50.1016|12.0871|Höchstädt bei Thiersheim
-51.2242|13.9093|Höckendorf
-48.8000|8.5833|Höfen an der Enz
-49.2897|7.6067|Höheinöd
-49.2333|7.5500|Höheischweiler
-50.9332|7.0414|Höhenberg
-48.0193|11.7191|Höhenkirchen-Siegertsbrunn
-50.6167|7.9833|Höhn
-51.5027|11.7384|Höhnstedt
-50.4347|7.6690|Höhr-Grenzhausen
-50.7191|8.9196|Höingen
-49.6025|9.4286|Höpfingen
-51.6683|10.2837|Hörden
-49.1658|8.3264|Hördt
-48.5500|11.8667|Hörgertshausen
-50.5183|8.6298|Hörnsheim
-50.9199|10.5844|Hörselgau
-52.2976|7.5838|Hörstel
-50.0065|9.2076|Hösbach
-47.9538|12.3292|Höslwang
-52.1197|11.0224|Hötensleben
-49.0626|11.0053|Höttingen
-51.8167|8.6500|Hövelhof
-51.7750|9.3816|Höxter
-51.0555|6.2266|Hückelhoven
-51.1498|7.3447|Hückeswagen
-49.8167|7.8000|Hüffelsheim
-49.2919|9.0817|Hüffenhardt
-47.9254|8.4883|Hüfingen
-48.8000|8.1167|Hügelsheim
-48.5198|9.4079|Hülben
-52.2833|8.6667|Hüllhorst
-52.2495|9.3615|Hülsede
 50.6797|9.7673|Hünfeld
+50.4737|8.8933|Hungen
 51.6341|6.6974|Hünxe
+48.1184|10.8111|Hurlach
 50.7167|6.3667|Hürtgenwald
 50.8708|6.8676|Hürth
 54.7500|9.5333|Hürup
+52.5667|9.2500|Husum
 49.4167|7.4833|Hütschenhausen
 51.7688|10.9038|Hüttenrode
+48.6728|13.4715|Hutthurm
 48.2796|9.9425|Hüttisheim
 48.8927|10.1006|Hüttlingen
-52.2796|7.7146|Ibbenbüren
+51.9659|10.9146|Huy-Neinstedt
+52.2796|7.7146|Ibbenbueren|Ibbenbüren
 48.3712|10.3071|Ichenhausen
 50.8760|10.9703|Ichtershausen
 47.9500|11.4333|Icking
@@ -2871,9 +2903,11 @@
 50.7451|12.8541|Jahnsdorf
 53.0500|11.0833|Jameln
 48.7333|13.7000|Jandelsbrunn
+51.8607|14.4981|Jänschwalde
 53.9239|13.3403|Jarmen
 54.7371|9.4181|Jarplund-Weding
 53.5795|13.9396|Jatznick
+52.5241|11.4991|Jävenitz
 52.5000|10.7667|Jembke
 53.2667|7.3833|Jemgum
 50.9288|11.5899|Jena
@@ -2899,29 +2933,27 @@
 50.4325|12.7114|Johanngeorgenstadt
 48.5333|12.9500|Johanniskirchen
 52.4465|13.5066|Johannisthal
-53.5320|9.6808|Jork
-50.3959|11.2210|Judenbach
-49.8936|8.0847|Jugenheim
-53.6779|6.9958|Juist
-48.2543|12.9579|Julbach
-48.3279|9.0410|Jungingen
-51.8607|14.4981|Jänschwalde
-52.5241|11.4991|Jävenitz
 49.0322|8.5735|Jöhlingen
 50.5123|13.0946|Jöhstadt
 53.8782|12.6162|Jördenstorf
+53.5320|9.6808|Jork
 54.5571|9.3977|Jübek
 51.1000|6.5000|Jüchen
 50.4799|10.5018|Jüchsen
+50.3959|11.2210|Judenbach
+49.8936|8.0847|Jugenheim
 51.4667|9.8000|Jühnde
+53.6779|6.9958|Juist
+48.2543|12.9579|Julbach
 50.9215|6.3627|Jülich
+48.3279|9.0410|Jungingen
 50.3441|6.5814|Jünkerath
 53.9542|11.8966|Jürgenshagen
 51.9961|13.0798|Jüterbog
 51.2293|6.6188|Kaarst
 50.3833|7.7333|Kadenbach
-50.0698|9.0055|Kahl am Main
 50.8065|11.5852|Kahla
+50.0698|9.0055|Kahl am Main
 48.9302|9.6390|Kaisersbach
 50.2315|7.1386|Kaisersesch
 49.4430|7.7716|Kaiserslautern
@@ -2949,6 +2981,7 @@
 49.0828|8.1972|Kandel
 47.7139|7.6624|Kandern
 51.2667|11.1333|Kannawurf
+51.5713|6.3673|Kapellen
 48.2838|7.7660|Kappel-Grafenhausen
 54.6612|9.9313|Kappeln
 48.5918|8.1169|Kappelrodeck
@@ -2997,7 +3030,7 @@
 50.2916|6.9195|Kelberg
 51.4353|11.0414|Kelbra
 48.9173|11.8862|Kelheim
-50.1370|8.4502|Kelkheim (Taunus)
+50.1370|8.4502|Kelkheim|Kelkheim (Taunus)
 49.6343|6.8239|Kell
 54.1934|11.0617|Kellenhusen
 53.9520|9.7196|Kellinghusen
@@ -3059,8 +3092,8 @@
 48.8792|10.4003|Kirchheim am Ries
 49.5372|8.1808|Kirchheim an der Weinstraße
 48.1766|11.7556|Kirchheim bei München
-48.6468|9.4538|Kirchheim unter Teck
 49.6625|8.0151|Kirchheimbolanden
+48.6468|9.4538|Kirchheim unter Teck
 51.0856|8.0889|Kirchhundem
 50.0443|10.7178|Kirchlauter
 52.2000|8.6333|Kirchlengern
@@ -3092,30 +3125,30 @@
 52.4542|13.1445|Kladow
 54.3090|10.2137|Klausdorf
 49.9000|6.8833|Klausen
-52.7680|7.4618|Klein Berßen
-53.0833|11.1932|Klein Gusborn
-53.7222|9.6542|Klein Nordende
-53.7975|9.6865|Klein Offenseth-Sparrieshoop
-51.7871|7.0437|Klein Reken
-53.6053|11.3458|Klein Rogahn
-53.9667|10.3167|Klein Rönnau
-52.3415|10.4290|Klein Schwülper
-52.0701|11.3659|Klein Wanzleben
-49.9383|8.2119|Klein-Winternheim
 48.2185|10.8692|Kleinaitingen
+52.7680|7.4618|Klein Berßen
 49.1578|7.0373|Kleinblittersdorf
 53.5311|9.9936|Kleiner Grasbrook
 51.4156|10.7645|Kleinfurra
+53.0833|11.1932|Klein Gusborn
 49.7211|9.2135|Kleinheubach
 50.1167|9.2667|Kleinkahl
 49.7709|10.2843|Kleinlangheim
 52.4079|13.2251|Kleinmachnow
 50.5134|7.6083|Kleinmaischeid
+53.7222|9.6542|Klein Nordende
+53.7975|9.6865|Klein Offenseth-Sparrieshoop
 50.0000|9.0667|Kleinostheim
+51.7871|7.0437|Klein Reken
 49.7003|9.8447|Kleinrinderfeld
+53.6053|11.3458|Klein Rogahn
+53.9667|10.3167|Klein Rönnau
+52.3415|10.4290|Klein Schwülper
 49.5956|11.1577|Kleinsendelbach
 49.8746|9.1693|Kleinwallstadt
+52.0701|11.3659|Klein Wanzleben
 51.4161|10.6590|Kleinwenden
+49.9383|8.2119|Klein-Winternheim
 50.9167|11.1500|Klettbach
 51.7883|6.1387|Kleve
 51.8881|12.3707|Klieken
@@ -3127,12 +3160,13 @@
 53.4776|12.6213|Klink
 51.0684|13.5137|Klipphausen
 51.3511|14.6053|Klitten
-52.3204|12.7432|Kloster Lehnin
 48.1559|10.8299|Klosterlechfeld
+52.3204|12.7432|Kloster Lehnin
 51.5833|11.5000|Klostermansfeld
 50.1667|7.2000|Klotten
-52.9363|7.3409|Kluse
 52.6272|11.1642|Klötze
+51.1105|13.7686|Klotzsche
+52.9363|7.3409|Kluse
 49.8450|6.8509|Klüsserath
 53.9647|11.1637|Klütz
 49.9833|10.5500|Knetzgau
@@ -3142,30 +3176,64 @@
 50.3536|7.5788|Koblenz
 47.6593|11.3683|Kochel
 51.2427|14.8934|Kodersdorf
+50.3333|11.8500|Köditz
+50.1000|11.5333|Ködnitz
+48.9333|12.2000|Köfering
 48.5585|9.3358|Kohlberg
 47.8496|12.0670|Kolbermoor
-48.0523|8.8896|Kolbingen
+50.5500|7.9333|Kölbingen
 49.9167|10.2333|Kolitzheim
 51.7500|14.2500|Kolkwitz
+51.1874|11.2449|Kölleda
 53.7294|9.4788|Kollmar
 49.0466|12.8612|Kollnburg
+53.7575|9.6977|Kölln-Reisiek
+50.9333|6.9500|Köln
+48.6833|9.3667|Köngen
+49.8458|8.2467|Köngernheim
+49.6203|9.5958|Königheim
+48.9659|8.6057|Königsbach-Stein
+48.7432|10.1119|Königsbronn
+51.2645|13.9054|Königsbrück
+48.2751|10.8918|Königsbrunn
+47.8155|11.4806|Königsdorf
+50.6614|11.0975|Königsee
+49.9460|11.1652|Königsfeld
+48.1381|8.4197|Königsfeld im Schwarzwald
+51.1833|14.8667|Königshain
+52.2512|10.8168|Königslutter am Elm
+49.6085|11.6314|Königstein
+50.1794|8.4713|Königstein im Taunus
+50.5500|13.0500|Königswalde
+51.3103|14.3280|Königswartha
+50.6838|7.1867|Königswinter
+52.3014|13.6330|Königs Wusterhausen
+50.6498|11.4881|Könitz
+51.6712|11.7707|Könnern
 52.5853|13.2276|Konradshöhe
 50.2667|11.8500|Konradsreuth
 47.6603|9.1758|Konstanz
 49.7004|6.5765|Konz
 49.0724|12.7111|Konzell
+52.4455|13.5746|Köpenick
 48.8430|9.3626|Korb
 51.2756|8.8730|Korbach
 49.8333|6.6333|Kordel
+51.1667|9.5167|Körle
+51.2313|10.5888|Körner
 48.8322|9.1214|Korntal
 48.8616|9.1857|Kornwestheim
+49.9245|6.2597|Körperich
 51.1914|6.5135|Korschenbroich
 54.5058|9.7565|Kosel
 54.0519|14.0020|Koserow
 51.6171|12.6820|Kossa
+51.7518|11.9709|Köthen
 50.3500|7.2500|Kottenheim
 48.1167|11.1333|Kottgeisering
 49.4833|7.5333|Kottweiler-Schwanden
+51.3124|12.1304|Kötzschau
+49.1765|12.8552|Kötzting
 50.8757|11.9294|Kraftsdorf
 48.1819|12.4307|Kraiburg am Inn
 49.1462|8.7328|Kraichtal
@@ -3198,6 +3266,7 @@
 49.7099|7.9169|Kriegsfeld
 50.0841|8.4698|Kriftel
 54.0524|12.0531|Kritzmow
+50.6774|11.5385|Krölpa
 50.0832|9.2061|Krombach
 51.0000|11.3667|Kromsdorf
 50.2396|11.3331|Kronach
@@ -3206,106 +3275,73 @@
 50.1793|8.5037|Kronberg Tal
 47.9043|10.1572|Kronburg
 54.3333|10.0833|Kronshagen
+54.0696|11.7947|Kröpelin
+54.0885|12.1154|Kröpeliner-Tor-Vorstadt
 54.4167|9.5167|Kropp
+53.4898|10.3170|Kröppelshagen-Fahrendorf
 51.9421|11.3084|Kroppenstedt
 51.9631|12.7455|Kropstädt
+54.1166|13.7507|Kröslin
 51.4621|12.4536|Krostitz
+49.9833|7.0833|Kröv
 50.3833|7.3333|Kruft
 48.2418|10.3632|Krumbach
 49.8333|12.1000|Krummennaab
 53.7833|10.6500|Krummesse
 51.2972|11.8441|Krumpa
-50.6774|11.5385|Krölpa
-54.0696|11.7947|Kröpelin
-53.4898|10.3170|Kröppelshagen-Fahrendorf
-54.1166|13.7507|Kröslin
-49.9833|7.0833|Kröv
 47.5052|11.2792|Krün
 51.1667|14.5000|Kubschütz
 48.6358|9.7999|Kuchen
 53.5833|10.4000|Kuddewörde
 50.1927|11.2760|Kueps Oberfranken
 49.1458|8.3144|Kuhardt
+48.4910|11.1869|Kühbach
+50.6086|10.4894|Kühndorf
+53.5775|8.8009|Kührstedt
+51.2758|10.2804|Küllstedt
 49.9000|11.9000|Kulmain
 50.1007|11.4503|Kulmbach
+49.6694|9.5236|Külsheim
 48.5094|12.1564|Kumhausen
 53.6926|9.7910|Kummerfeld
+49.4192|11.8883|Kümmersbruck
 50.2332|11.5312|Kunreuth
+50.5442|9.7179|Künzell
+49.2818|9.6835|Künzelsau
+48.6667|13.0833|Künzing
 50.1396|11.5776|Kupferberg
 49.2278|9.6900|Kupferzell
 48.8279|8.2542|Kuppenheim
+49.8500|10.0333|Kürnach
+49.0775|8.8456|Kürnbach
 50.9123|14.1069|Kurort Gohrisch
 50.8575|14.7092|Kurort Jonsdorf
 50.4194|12.9684|Kurort Oberwiesenthal
 50.8411|14.7412|Kurort Oybin
+51.0500|7.2667|Kürten
 49.5377|7.4047|Kusel
 52.5799|11.0906|Kusey
+52.9778|11.0624|Küsten
 48.5229|9.1198|Kusterdingen
 53.4815|9.3212|Kutenholz
 48.3420|10.6946|Kutzenhausen
 50.0386|6.5948|Kyllburg
 52.9421|12.3970|Kyritz
-50.3333|11.8500|Köditz
-50.1000|11.5333|Ködnitz
-48.9333|12.2000|Köfering
-50.5500|7.9333|Kölbingen
-51.1874|11.2449|Kölleda
-53.7575|9.6977|Kölln-Reisiek
-50.9333|6.9500|Köln
-48.6833|9.3667|Köngen
-49.8458|8.2467|Köngernheim
-49.6203|9.5958|Königheim
-52.3014|13.6330|Königs Wusterhausen
-48.9659|8.6057|Königsbach-Stein
-48.7432|10.1119|Königsbronn
-48.2751|10.8918|Königsbrunn
-51.2645|13.9054|Königsbrück
-47.8155|11.4806|Königsdorf
-50.6614|11.0975|Königsee
-49.9460|11.1652|Königsfeld
-48.1381|8.4197|Königsfeld im Schwarzwald
-51.1833|14.8667|Königshain
-52.2512|10.8168|Königslutter am Elm
-49.6085|11.6314|Königstein
-50.1794|8.4713|Königstein im Taunus
-50.5500|13.0500|Königswalde
-51.3103|14.3280|Königswartha
-50.6838|7.1867|Königswinter
-50.6498|11.4881|Könitz
-51.6712|11.7707|Könnern
-52.4455|13.5746|Köpenick
-51.1667|9.5167|Körle
-51.2313|10.5888|Körner
-49.9245|6.2597|Körperich
-51.7518|11.9709|Köthen
-51.3124|12.1304|Kötzschau
-49.1765|12.8552|Kötzting
-48.4910|11.1869|Kühbach
-50.6086|10.4894|Kühndorf
-53.5775|8.8009|Kührstedt
-51.2758|10.2804|Küllstedt
-49.6694|9.5236|Külsheim
-49.4192|11.8883|Kümmersbruck
-50.5442|9.7179|Künzell
-49.2818|9.6835|Künzelsau
-48.6667|13.0833|Künzing
-49.8500|10.0333|Kürnach
-49.0775|8.8456|Kürnbach
-51.0500|7.2667|Kürten
-52.9778|11.0624|Küsten
 53.9256|12.3469|Laage
 52.3558|8.2539|Laar
 52.3151|9.7974|Laatzen
 48.8000|12.3167|Laberweinting
 54.4000|10.2167|Laboe
 47.9459|10.2394|Lachen
-49.3305|8.1998|Lachen-Speyerdorf
 52.6167|10.2500|Lachendorf
+49.3305|8.1998|Lachen-Speyerdorf
 52.1333|7.7500|Ladbergen
 54.8408|9.0213|Ladelund
 49.4731|8.6090|Ladenburg
 52.0555|7.3578|Laer
 51.9922|8.7930|Lage
+53.8833|9.5833|Lägerdorf
+52.7455|7.5704|Lähden
 50.3000|7.6167|Lahnstein
 48.3404|7.8689|Lahr
 48.4894|9.6861|Laichingen
@@ -3345,6 +3381,7 @@
 49.2260|9.4184|Langenbrettach
 49.2540|9.8567|Langenburg
 51.1797|11.9614|Langendorf
+51.4602|7.3258|Langendreer
 51.3454|11.7433|Langeneichstädt
 48.1485|9.3776|Langenenslingen
 49.6167|10.5167|Langenfeld
@@ -3396,8 +3433,8 @@
 53.3720|10.5565|Lauenburg
 52.3555|9.2064|Lauenhagen
 48.6500|8.1333|Lauf
-49.5139|11.2825|Lauf an der Pegnitz
 50.0167|9.3000|Laufach
+49.5139|11.2825|Lauf an der Pegnitz
 50.5160|8.4598|Laufdorf
 47.9357|12.9286|Laufen
 47.5651|8.0604|Laufenburg
@@ -3477,6 +3514,7 @@
 52.0125|8.6983|Leopoldshöhe
 52.6438|14.3601|Letschin
 52.4462|11.4852|Letzlingen
+51.0112|13.8203|Leuben
 50.7231|12.3566|Leubnitz
 50.5500|7.3000|Leubsdorf
 49.5974|12.2584|Leuchtenberg
@@ -3520,6 +3558,7 @@
 49.3500|7.6500|Linden
 49.3803|8.0986|Lindenberg
 49.6837|8.7815|Lindenfels
+52.3720|9.7068|Linden-Nord
 54.7000|9.2000|Lindewitt
 52.3579|9.2832|Lindhorst
 51.0196|7.3776|Lindlar
@@ -3535,20 +3574,32 @@
 50.3167|6.6000|Lissendorf
 55.0192|8.4313|List
 49.9144|11.0103|Litzendorf
+51.0995|14.6674|Löbau
 49.3752|8.8888|Lobbach
+50.8956|11.6019|Lobeda
+51.6353|11.9011|Löbejün
+51.6539|12.1465|Löberitz
+50.8938|12.2637|Löbichau
+51.5924|12.4635|Löbnitz
 51.1336|12.4486|Lobstädt
+51.0436|13.6944|Löbtau
 52.1151|12.0784|Loburg
 51.3974|12.0530|Lochau
+49.0036|9.1064|Löchgau
+53.2869|11.7811|Löcknitz
 54.0225|14.0075|Loddin
+50.2333|7.4333|Löf
 48.7721|8.3846|Loffenau
+47.8841|8.3438|Löffingen
 49.1760|13.1055|Lohberg
 54.1880|9.0707|Lohe-Rickelshof
 51.2667|9.5333|Lohfelden
 50.8387|7.2140|Lohmar
 50.9883|14.0027|Lohmen
-52.6662|8.2375|Lohne
-49.9892|9.5722|Lohr am Main
+50.5130|8.2720|Löhnberg
+52.1885|8.6922|Löhne
 50.7333|8.6333|Lohra
+49.9892|9.5722|Lohr am Main
 51.3833|14.4000|Lohsa
 48.6167|12.4333|Loiching
 53.4421|13.3880|Loitz
@@ -3556,23 +3607,45 @@
 51.1954|13.3092|Lommatzsch
 49.8904|7.1176|Longkamp
 49.8084|6.7683|Longuich
+52.7368|7.7581|Löningen
 49.6988|10.7671|Lonnerstadt
 50.3100|7.4051|Lonnig
 48.5434|9.9200|Lonsee
 48.7983|9.6914|Lorch
+47.6150|7.6646|Lörrach
 49.6500|8.5667|Lorsch
 52.9250|7.6434|Lorup
+49.8983|8.2947|Lörzweiler
+51.0539|13.8139|Loschwitz
 49.5099|6.7455|Losheim
 52.2087|11.7379|Lostau
 52.2833|7.9167|Lotte
 47.6333|8.5667|Lottstetten
+49.0956|9.3800|Löwenstein
 48.7500|12.8333|Lower Bavaria
 53.4667|8.6500|Loxstedt
 48.4000|8.4500|Loßburg
+50.6218|12.7315|Lößnitz
+52.6159|13.3535|Lübars
+52.3070|8.6142|Lübbecke
+51.9381|13.8883|Lübben
+51.8622|13.9517|Lübbenau|Lubnjow
+53.8689|10.6873|Lübeck
 54.1351|13.6169|Lubmin
+53.8526|11.5244|Lübow
+53.7256|11.4147|Lübstorf
+53.3012|11.0837|Lübtheen
+53.4626|12.0292|Lübz
+52.9681|11.1540|Lüchow
 51.0973|12.3334|Lucka
 51.8524|13.7073|Luckau
 52.0903|13.1677|Luckenwalde
+51.2198|7.6273|Lüdenscheid
+52.8088|10.6661|Lüder
+52.5091|11.7430|Lüderitz
+53.8683|11.7490|Lüdersdorf
+52.3599|9.2542|Lüdersfeld
+51.7683|7.4438|Lüdinghausen
 49.2207|6.8120|Ludweiler-Warndt
 48.8973|9.1916|Ludwigsburg
 52.3032|13.2540|Ludwigsfelde
@@ -3581,62 +3654,30 @@
 50.4860|11.3873|Ludwigsstadt
 52.8807|11.4862|Luftkurort Arendsee
 50.7384|12.7486|Lugau
+51.9583|9.2471|Lügde
 52.2254|9.0926|Luhden
 49.5837|12.1492|Luhe-Wildenau
 49.2493|6.9006|Luisenthal
 54.3313|9.0252|Lunden
-53.4362|8.7519|Lunestedt
-50.9627|12.7559|Lunzenau
-49.1551|11.7564|Lupburg
-53.5927|9.8770|Lurup
-49.2448|8.2741|Lustadt
-51.9894|10.2693|Lutter am Barenberge
-50.1270|7.0074|Lutzerath
-53.2124|13.3148|Lychen
-53.8833|9.5833|Lägerdorf
-52.7455|7.5704|Lähden
-51.0995|14.6674|Löbau
-51.6353|11.9011|Löbejün
-51.6539|12.1465|Löberitz
-50.8938|12.2637|Löbichau
-51.5924|12.4635|Löbnitz
-49.0036|9.1064|Löchgau
-53.2869|11.7811|Löcknitz
-50.2333|7.4333|Löf
-47.8841|8.3438|Löffingen
-50.5130|8.2720|Löhnberg
-52.1885|8.6922|Löhne
-52.7368|7.7581|Löningen
-47.6150|7.6646|Lörrach
-49.8983|8.2947|Lörzweiler
-49.0956|9.3800|Löwenstein
-50.6218|12.7315|Lößnitz
-52.6159|13.3535|Lübars
-52.3070|8.6142|Lübbecke
-51.9381|13.8883|Lübben
-51.8622|13.9517|Lübbenau
-53.8689|10.6873|Lübeck
-53.8526|11.5244|Lübow
-53.7256|11.4147|Lübstorf
-53.3012|11.0837|Lübtheen
-53.4626|12.0292|Lübz
-52.9681|11.1540|Lüchow
-51.2198|7.6273|Lüdenscheid
-52.8088|10.6661|Lüder
-52.5091|11.7430|Lüderitz
-53.8683|11.7490|Lüdersdorf
-52.3599|9.2542|Lüdersfeld
-51.7683|7.4438|Lüdinghausen
-51.9583|9.2471|Lügde
 53.2509|10.4141|Lüneburg
 51.6163|7.5287|Lünen
+53.4362|8.7519|Lunestedt
 52.4296|7.4265|Lünne
+50.9627|12.7559|Lunzenau
+49.1551|11.7564|Lupburg
 54.5500|9.5000|Lürschau
+53.5927|9.8770|Lurup
+50.8437|12.0652|Lusan
+49.2448|8.2741|Lustadt
+51.4988|7.3481|Lütgendortmund
 54.2919|10.5894|Lütjenburg
 53.6500|10.3667|Lütjensee
+51.9894|10.2693|Lutter am Barenberge
 49.7423|8.7669|Lützelbach
 51.2567|12.1416|Lützen
+50.1270|7.0074|Lutzerath
 53.6534|11.1758|Lützow
+53.2124|13.3148|Lychen
 51.3667|12.6333|Machern
 49.4667|7.5833|Mackenbach
 50.9070|11.4480|Magdala
@@ -3644,6 +3685,7 @@
 48.7447|8.9667|Magstadt
 48.2864|7.8141|Mahlberg
 52.5093|13.6137|Mahlsdorf
+49.9109|12.5245|Mähring
 47.6500|10.0500|Maierhöfen
 48.9275|10.4987|Maihingen
 49.3053|8.1317|Maikammer
@@ -3697,36 +3739,37 @@
 50.5354|12.8615|Markersbach
 51.1333|14.8833|Markersdorf
 48.9049|9.0806|Markgröningen
+52.5984|13.3577|Märkisches Viertel
 51.2755|12.3691|Markkleeberg
 48.5500|12.5667|Marklkofen
 52.6686|9.1422|Marklohe
 50.3114|12.3295|Markneukirchen
 51.3015|12.2202|Markranstädt
 50.9167|10.2000|Marksuhl
+49.4416|10.3636|Marktbergel
 49.0095|10.8447|Markt Berolzheim
 49.6479|10.4249|Markt Bibart
+49.6654|10.1481|Marktbreit
 49.6866|10.2916|Markt Einersheim
 49.4937|10.6526|Markt Erlbach
-48.3606|11.3779|Markt Indersdorf
-49.5909|10.3556|Markt Nordheim
-47.9473|10.3961|Markt Rettenbach
-48.1895|11.8691|Markt Schwaben
-49.7011|10.5556|Markt Taschendorf
-48.1368|10.5820|Markt Wald
-49.4416|10.3636|Marktbergel
-49.6654|10.1481|Marktbreit
 50.1836|11.1944|Marktgraitz
 49.8454|9.6036|Marktheidenfeld
+48.3606|11.3779|Markt Indersdorf
 48.2552|12.8447|Marktl
 50.1731|11.6339|Marktleugast
 50.1301|12.0023|Marktleuthen
+49.5909|10.3556|Markt Nordheim
 47.7796|10.6171|Marktoberdorf
 48.9257|10.4708|Marktoffingen
 50.0044|12.0859|Marktredwitz
+47.9473|10.3961|Markt Rettenbach
 50.2500|11.3833|Marktrodach
 47.6966|13.0434|Marktschellenberg
 50.0947|11.6547|Marktschorgast
+48.1895|11.8691|Markt Schwaben
 49.6961|10.1363|Marktsteft
+49.7011|10.5556|Markt Taschendorf
+48.1368|10.5820|Markt Wald
 50.1667|11.1669|Marktzeuln
 51.6567|7.0904|Marl
 49.6179|11.0632|Marloffstein
@@ -3883,6 +3926,8 @@
 49.0717|8.1453|Minfeld
 48.9536|12.2421|Mintraching
 53.5051|11.5029|Mirow
+52.3901|9.8520|Misburg
+52.3968|9.8603|Misburg-Nord
 47.6000|10.1167|Missen-Wilhams
 49.9126|11.4659|Mistelgau
 52.5200|13.4049|Mitte
@@ -3905,20 +3950,40 @@
 52.2000|14.4000|Mixdorf
 52.5264|13.3390|Moabit
 51.1333|13.1833|Mochau
+52.1410|11.9520|Möckern
+49.3249|9.3584|Möckmühl
 51.5076|12.8142|Mockrehna
+48.6433|10.4317|Mödingen
 51.4534|6.6326|Moers
 50.4944|7.7597|Mogendorf
+48.8232|9.9625|Mögglingen
+48.8874|9.1269|Möglingen
+51.7313|12.3528|Möhlau
 50.6697|12.2652|Mohlsdorf
+51.5000|8.1333|Möhnesee
+49.6333|11.0000|Möhrendorf
 54.6667|9.7167|Mohrkirch
 53.4062|9.6988|Moisburg
 52.8580|7.9255|Molbergen
 54.2667|10.0667|Molfsee
+53.5239|12.9287|Möllenhagen
+53.6170|10.6874|Mölln
 51.0000|10.7833|Molschleben
+50.0692|9.1637|Mömbris
+49.8597|9.0833|Mömlingen
 49.8803|8.2650|Mommenheim
+49.7933|9.2686|Mönchberg
+51.1854|6.4417|Mönchengladbach
+50.9667|11.1500|Mönchenholzhausen
+54.1515|12.2167|Mönchhagen
+48.7760|10.5804|Mönchsdeggingen
+49.0185|10.3586|Mönchsroth
+48.1004|8.4222|Mönchweiler
 48.8439|10.8583|Monheim
 51.0916|6.8922|Monheim am Rhein
+54.3500|10.1833|Mönkeberg
 50.5546|6.2400|Monschau
-49.6372|8.2119|Monsheim
+48.8667|8.8667|Mönsheim
 50.4359|7.8232|Montabaur
 49.8924|7.0732|Monzelfeld
 49.7976|7.5928|Monzingen
@@ -3931,84 +3996,46 @@
 48.2771|11.8445|Moosinning
 48.6766|12.4974|Moosthenning
 49.8077|7.1271|Morbach
+49.9947|8.5836|Mörfelden-Walldorf
 51.6992|9.8711|Moringen
 51.1592|13.6802|Moritzburg
+49.5992|8.7347|Mörlenbach
 50.8666|7.7279|Morsbach
 52.9535|9.0796|Morsum
 49.3536|9.1511|Mosbach
-50.3956|9.7725|Motten
-50.9038|7.4031|Much
-49.5344|9.2044|Mudau
-50.8252|7.9435|Mudersbach
-48.8667|8.2833|Muggensturm
-49.1544|10.7185|Muhr am See
-50.8079|13.4148|Mulda
-51.6719|12.3455|Muldenstein
-49.3403|9.8008|Mulfingen
-49.0008|9.2078|Mundelsheim
-48.2357|9.6440|Munderkingen
-48.1374|11.5755|Munich
-54.8000|9.5667|Munkbrarup
-48.9167|10.6000|Munningen
-52.9857|10.0876|Munster
-47.5549|8.0218|Murg
-47.6808|11.2012|Murnau am Staffelsee
-48.9621|9.2592|Murr
-48.9819|9.5705|Murrhardt
-51.1930|12.1206|Muschwitz
-48.8259|9.7971|Mutlangen
-49.4414|8.3561|Mutterstadt
-51.2616|12.8912|Mutzschen
-50.6186|12.2653|Mylau
-49.9109|12.5245|Mähring
-52.5984|13.3577|Märkisches Viertel
-52.1410|11.9520|Möckern
-49.3249|9.3584|Möckmühl
-48.6433|10.4317|Mödingen
-48.8232|9.9625|Mögglingen
-48.8874|9.1269|Möglingen
-51.7313|12.3528|Möhlau
-51.5000|8.1333|Möhnesee
-49.6333|11.0000|Möhrendorf
-53.5239|12.9287|Möllenhagen
-53.6170|10.6874|Mölln
-50.0692|9.1637|Mömbris
-49.8597|9.0833|Mömlingen
-49.7933|9.2686|Mönchberg
-51.1854|6.4417|Mönchengladbach
-50.9667|11.1500|Mönchenholzhausen
-54.1515|12.2167|Mönchhagen
-48.7760|10.5804|Mönchsdeggingen
-49.0185|10.3586|Mönchsroth
-48.1004|8.4222|Mönchweiler
-54.3500|10.1833|Mönkeberg
-48.8667|8.8667|Mönsheim
-49.9947|8.5836|Mörfelden-Walldorf
-49.5992|8.7347|Mörlenbach
 52.2140|11.7928|Möser
 48.4057|9.0542|Mössingen
+50.3956|9.7725|Motten
 48.8092|10.5902|Möttingen
 48.8935|12.3736|Mötzing
 48.5332|8.7745|Mötzingen
+50.9038|7.4031|Much
 51.2969|11.8076|Mücheln
 51.3167|14.7000|Mücka
+49.5344|9.2044|Mudau
 52.5277|10.3601|Müden
+50.8252|7.9435|Mudersbach
 51.2362|13.0457|Mügeln
 52.4114|13.6640|Müggelheim
-53.7638|12.2139|Mühl Rosin
+48.8667|8.2833|Muggensturm
 48.9475|8.8368|Mühlacker
 51.8500|12.7500|Mühlanger
 50.9000|12.7667|Mühlau
 51.4345|13.2218|Mühlberg
 48.2467|12.5215|Mühldorf
-53.7578|11.2501|Mühlen Eichsen
 48.2500|8.1167|Mühlenbach
+53.7578|11.2501|Mühlen Eichsen
 49.2486|8.7267|Mühlhausen
 47.8110|8.8122|Mühlhausen-Ehingen
 48.3786|8.6974|Mühlheim am Bach
 50.1167|8.8333|Mühlheim am Main
 47.9167|9.0167|Mühlingen
+53.7638|12.2139|Mühl Rosin
 50.5392|11.9283|Mühltroff
+49.1544|10.7185|Muhr am See
+50.8079|13.4148|Mulda
+51.6719|12.3455|Muldenstein
+49.3403|9.8008|Mulfingen
 51.4322|6.8797|Mülheim
 50.3851|7.4989|Mülheim-Kärlich
 47.8082|7.6303|Müllheim
@@ -4016,23 +4043,37 @@
 50.7500|12.5667|Mülsen
 50.1895|11.7882|Münchberg
 52.5070|14.1372|Müncheberg
+48.1374|11.5755|München|Munich
 50.8211|11.9323|Münchenbernsdorf
 50.9608|8.7184|Münchhausen
 48.7667|11.6833|Münchsmünster
 49.6394|10.5950|Münchsteinach
 49.5500|7.8833|Münchweiler an der Alsenz
 49.2180|7.7030|Münchweiler an der Rodalbe
+49.0008|9.2078|Mundelsheim
+48.2357|9.6440|Munderkingen
+54.8000|9.5667|Munkbrarup
 50.2464|10.2019|Münnerstadt
+48.9167|10.6000|Munningen
 47.9000|11.3667|Münsing
 48.4113|9.4970|Münsingen
 48.2290|10.6362|Münster
-49.9434|7.8943|Münster-Sarmsheim
 53.9023|9.5412|Münsterdorf
 48.3097|10.4550|Münsterhausen
 50.2464|7.3621|Münstermaifeld
+49.9434|7.8943|Münster-Sarmsheim
 47.8547|7.7842|Münstertal/Schwarzwald
 50.4535|8.7743|Münzenberg
+47.5549|8.0218|Murg
+47.6808|11.2012|Murnau am Staffelsee
+48.9621|9.2592|Murr
+48.9819|9.5705|Murrhardt
 50.6833|7.7833|Müschenbach
+51.1930|12.1206|Muschwitz
+48.8259|9.7971|Mutlangen
+49.4414|8.3561|Mutterstadt
+51.2616|12.8912|Mutzschen
+50.6186|12.2653|Mylau
 49.4535|12.1800|Nabburg
 51.3167|7.6167|Nachrodt-Wiblingwerde
 51.8008|11.3349|Nachterstedt
@@ -4070,6 +4111,7 @@
 49.0469|9.1900|Neckarwestheim
 49.3192|9.1328|Neckarzimmern
 53.9833|10.2500|Negernbötel
+51.4505|7.9703|Neheim
 48.4310|9.0699|Nehren
 49.3167|8.8847|Neidenstein
 48.5787|9.5645|Neidlingen
@@ -4088,36 +4130,29 @@
 50.4937|6.6290|Nettersheim
 51.3167|6.2833|Nettetal
 50.6141|12.2438|Netzschkau
-53.2290|10.8853|Neu Darchau
-50.0483|8.6941|Neu Isenburg
-53.1747|11.2945|Neu Kaliß
-53.4667|9.8000|Neu Wulmstorf
-51.9276|14.0881|Neu Zauche
-50.3167|8.5000|Neu-Anspach
-52.5668|13.5125|Neu-Hohenschönhausen
-50.8885|6.2769|Neu-Pattern
-48.3928|10.0111|Neu-Ulm
 49.9804|12.4437|Neualbenreuth
+50.3167|8.5000|Neu-Anspach
 54.5500|9.5333|Neuberend
 47.7737|12.1400|Neubeuern
 48.0771|11.6581|Neubiberg
+52.9582|7.4484|Neubörger
 53.5641|13.2753|Neubrandenburg
-49.7309|9.6716|Neubrunn
 52.3709|10.4176|Neubrück
+49.7309|9.6716|Neubrunn
 54.0318|11.6739|Neubukow
 48.6609|8.6961|Neubulach
 48.5065|13.4472|Neuburg
 48.7322|11.1871|Neuburg an der Donau
-52.9582|7.4484|Neubörger
+53.2290|10.8853|Neu Darchau
 49.2918|9.2698|Neudenau
 50.9125|10.9135|Neudietendorf
 54.4333|9.9500|Neudorf-Bornstein
 50.0167|11.5000|Neudrossenfeld
-52.1500|11.6333|Neue Neustadt
 50.9575|6.9361|Neuehrenfeld
-47.8143|7.5601|Neuenburg am Rhein
 48.8452|8.5957|Neuenbürg
+47.8143|7.5601|Neuenburg am Rhein
 49.2833|10.7833|Neuendettelsau
+52.1500|11.6333|Neue Neustadt
 52.5299|13.6891|Neuenhagen
 52.1378|8.3884|Neuenkirchen
 50.0919|11.5803|Neuenmarkt
@@ -4133,6 +4168,7 @@
 48.1288|9.4755|Neufra
 48.4000|12.2167|Neufraunhofen
 50.9773|14.6088|Neugersdorf
+53.4658|9.8434|Neugraben-Fischbek
 52.5960|14.2377|Neuhardenberg
 53.6999|7.7029|Neuharlingersiel
 50.6833|10.9333|Neuhaus
@@ -4140,21 +4176,25 @@
 50.5101|11.1379|Neuhaus am Rennweg
 53.8004|9.0335|Neuhaus an der Oste
 49.6280|11.5507|Neuhaus an der Pegnitz
-50.3124|11.2402|Neuhaus-Schierschnitz
+50.3836|7.7096|Neuhäusel
 48.7926|8.7765|Neuhausen
 48.6833|9.2833|Neuhausen auf den Fildern
+50.3124|11.2402|Neuhaus-Schierschnitz
 50.4531|9.6175|Neuhof
 49.4569|10.6455|Neuhof an der Zenn
 49.4278|8.4247|Neuhofen
-50.3836|7.7096|Neuhäusel
+52.5668|13.5125|Neu-Hohenschönhausen
 50.0000|9.4167|Neuhütten
+50.0483|8.6941|Neu Isenburg
 53.8227|12.7902|Neukalen
+53.1747|11.2945|Neu Kaliß
 53.3364|7.5619|Neukamperfehn
 51.1499|12.4109|Neukieritzsch
 47.6574|9.7033|Neukirch
 51.0973|14.3079|Neukirch/Lausitz
 49.2602|12.9692|Neukirchen
 49.2910|12.4364|Neukirchen-Balbini
+51.4466|6.5519|Neukirchen-Vluyn
 53.8655|11.6851|Neukloster
 52.4772|13.4313|Neukölln
 48.9280|10.0689|Neuler
@@ -4174,17 +4214,22 @@
 49.6120|11.1297|Neunkirchen am Brand
 49.9230|11.6479|Neunkirchen am Main
 49.5246|11.3195|Neunkirchen am Sand
+48.2410|12.6900|Neuötting
+50.8885|6.2769|Neu-Pattern
 49.1178|8.3194|Neupotz
 48.7486|13.7470|Neureichenau
 48.0932|11.4656|Neuried
 52.9282|12.8031|Neuruppin
 51.0395|14.5356|Neusalza-Spremberg
+48.3925|10.8333|Neusäß
 48.8842|13.4758|Neuschönau
 49.3719|10.2256|Neusitz
 49.9333|11.9667|Neusorg
 51.1981|6.6850|Neuss
 53.5520|9.9856|Neustadt
 50.8500|9.1167|Neustadt (Hessen)
+50.9490|6.9479|Neustadt/Nord
+50.9251|6.9476|Neustadt/Süd
 49.9302|9.5681|Neustadt am Main
 50.5833|10.9333|Neustadt am Rennsteig
 52.5046|9.4587|Neustadt am Rübenberge
@@ -4192,21 +4237,22 @@
 48.8070|11.7695|Neustadt an der Donau
 50.7364|11.7462|Neustadt an der Orla
 49.7329|12.1777|Neustadt an der Waldnaab
+49.3501|8.1389|Neustadt an der Weinstraße
 50.3297|11.1206|Neustadt bei Coburg
+53.3785|11.5926|Neustadt-Glewe
 54.1071|10.8145|Neustadt in Holstein
 51.0284|14.2179|Neustadt in Sachsen
 50.4610|12.3322|Neustadt Vogtland
-53.3785|11.5926|Neustadt-Glewe
-50.9490|6.9479|Neustadt/Nord
-50.9251|6.9476|Neustadt/Süd
 53.3613|13.0729|Neustrelitz
 48.9874|12.2010|Neutraubling
 52.6648|14.2280|Neutrebbin
+48.3928|10.0111|Neu-Ulm
 48.6667|8.6000|Neuweiler
 50.4336|7.4706|Neuwied
 54.3667|10.0167|Neuwittenbek
+53.4667|9.8000|Neu Wulmstorf
+51.9276|14.0881|Neu Zauche
 52.0902|14.6480|Neuzelle
-48.2410|12.6900|Neuötting
 53.6207|13.3366|Neverin
 49.8124|6.5830|Newel
 50.4142|7.3273|Nickenich
@@ -4215,9 +4261,6 @@
 50.6927|6.4844|Nideggen
 54.7866|8.8285|Niebüll
 51.2334|9.3103|Niedenstein
-50.2110|9.1080|Nieder-Gründau
-49.9776|8.0725|Nieder-Ingelheim
-49.9117|8.2053|Nieder-Olm
 48.6000|12.3167|Niederaichbach
 48.7656|13.0241|Niederalteich
 51.1773|13.5456|Niederau
@@ -4239,6 +4282,8 @@
 50.9000|12.7167|Niederfrohna
 50.2200|10.9909|Niederfüllbach
 51.9794|12.9854|Niedergörsdorf
+50.2110|9.1080|Nieder-Gründau
+49.9776|8.0725|Nieder-Ingelheim
 50.8150|7.0378|Niederkassel
 49.5833|7.7000|Niederkirchen
 49.4150|8.2100|Niederkirchen bei Deidesheim
@@ -4255,6 +4300,7 @@
 49.2952|9.6160|Niedernhall
 50.1631|8.3134|Niedernhausen
 52.3521|9.1479|Niedernwöhren
+49.9117|8.2053|Nieder-Olm
 51.3722|10.4237|Niederorschel
 50.0831|8.6285|Niederrad
 48.0576|10.1832|Niederrieden
@@ -4283,6 +4329,7 @@
 52.0739|12.6895|Niemegk
 52.6461|9.2209|Nienburg
 51.8375|11.7698|Nienburg/Saale
+53.6177|9.9503|Niendorf
 54.1487|12.1743|Nienhagen
 52.2924|9.1644|Nienstädt
 54.3145|12.9245|Niepars
@@ -4295,6 +4342,7 @@
 49.6500|6.4500|Nittel
 49.1942|12.2674|Nittenau
 49.0246|11.9613|Nittendorf
+50.8667|12.2833|Nöbdenitz
 50.9762|12.4861|Nobitz
 49.5869|7.1428|Nohfelden
 50.9614|11.2597|Nohra
@@ -4314,42 +4362,37 @@
 52.4308|7.0683|Nordhorn
 51.7383|7.5220|Nordkirchen
 53.7667|8.8333|Nordleda
+48.8512|10.4887|Nördlingen
 48.4000|8.0833|Nordrach
+52.3856|9.7159|Nordstadt
 52.1620|9.7835|Nordstemmen
 52.0833|7.4833|Nordwalde
 49.8109|7.8148|Norheim
+51.6288|9.9359|Nörten-Hardenberg
+50.2167|7.4833|Nörtershausen
 51.7066|10.0000|Northeim
 53.2461|7.5718|Nortmoor
 54.1674|9.8544|Nortorf
 52.6150|7.8607|Nortrup
+50.8060|6.6395|Nörvenich
 51.0580|13.2965|Nossen
 53.4066|10.6541|Nostorf
 53.4833|9.6000|Nottensdorf
 51.9333|7.3500|Nottuln
 48.6708|9.4572|Notzingen
+54.2667|9.6167|Nübbel
 51.9303|12.5955|Nudersdorf
+50.2206|10.1230|Nüdlingen
 48.6225|8.8901|Nufringen
+50.9043|7.5406|Nümbrecht
+51.2999|13.3856|Nünchritz
+49.4542|11.0775|Nürnberg|Nuremberg
+48.6257|9.3420|Nürtingen
 53.6565|10.5839|Nusse
+53.8667|9.9167|Nützen
 47.9056|12.5961|Nußdorf
 47.7423|12.1561|Nußdorf am Inn
 49.3239|8.6956|Nußloch
-50.8667|12.2833|Nöbdenitz
-48.8512|10.4887|Nördlingen
-51.6288|9.9359|Nörten-Hardenberg
-50.2167|7.4833|Nörtershausen
-50.8060|6.6395|Nörvenich
-54.2667|9.6167|Nübbel
-50.2206|10.1230|Nüdlingen
-50.9043|7.5406|Nümbrecht
-51.2999|13.3856|Nünchritz
-49.4542|11.0775|Nürnberg
-48.6257|9.3420|Nürtingen
-53.8667|9.9167|Nützen
-49.6831|8.1553|Ober-Flörsheim
-50.3735|8.6909|Ober-Mörlen
-49.9372|8.1889|Ober-Olm
-49.8308|8.7489|Ober-Ramstadt
-49.8638|8.1353|Ober-Saulheim
 47.5981|11.0669|Oberammergau
 49.4228|10.9577|Oberasbach
 47.6482|12.1724|Oberaudorf
@@ -4366,9 +4409,10 @@
 50.3917|7.8172|Oberelbert
 50.4412|10.1169|Oberelsbach
 50.2604|7.4446|Oberfell
+49.6831|8.1553|Ober-Flörsheim
 48.4231|11.0685|Obergriesbach
-51.1329|14.4049|Obergurig
 47.8454|10.4182|Obergünzburg
+51.1329|14.4049|Obergurig
 48.0245|11.5974|Oberhaching
 50.1261|11.8051|Oberhaid
 48.3736|8.1254|Oberharmersbach
@@ -4387,6 +4431,7 @@
 51.2700|10.5975|Obermehler
 48.1469|10.8063|Obermeitingen
 49.5312|10.9089|Obermichelbach
+50.3735|8.6909|Ober-Mörlen
 49.7280|7.7727|Obermoschel
 52.2018|8.7040|Obernbeck
 49.6586|10.1642|Obernbreit
@@ -4398,35 +4443,38 @@
 52.2721|9.1291|Obernkirchen
 48.5549|13.6373|Obernzell
 49.4519|10.4667|Obernzenn
+49.9372|8.1889|Ober-Olm
 47.9436|10.7427|Oberostendorf
 49.0704|7.9695|Oberotterbach
 48.2372|10.8575|Oberottmarshausen
 48.0220|11.8133|Oberpframmern
 49.8769|10.0868|Oberpleichfeld
 48.7018|12.8248|Oberpöring
+49.8308|8.7489|Ober-Ramstadt
 48.7333|8.6667|Oberreichenbach
 47.5630|9.9445|Oberreute
 47.9333|7.9500|Oberried
 48.0889|10.4261|Oberrieden
 48.9265|9.0270|Oberriexingen
+51.4370|11.3075|Oberröblingen
 49.0144|9.6672|Oberrot
 48.0899|7.6360|Oberrotweil
-51.4370|11.3075|Oberröblingen
+49.8638|8.1353|Ober-Saulheim
 49.7083|10.4342|Oberscheinfeld
 48.2500|11.5667|Oberschleißheim
 48.7957|12.6420|Oberschneiding
-49.8605|10.4100|Oberschwarzach
-48.2382|11.1557|Oberschweinbach
 50.8976|13.2538|Oberschöna
 52.4611|13.5211|Oberschöneweide
+49.8605|10.4100|Oberschwarzach
+48.2382|11.1557|Oberschweinbach
 50.2088|9.6154|Obersinn
+47.7333|11.2167|Obersöchering
 49.0567|9.8992|Obersontheim
 48.1860|9.6924|Oberstadion
 47.5557|10.0224|Oberstaufen
 47.4072|10.2794|Oberstdorf
 49.0261|9.3208|Oberstenfeld
 50.4034|10.2878|Oberstreu
-47.7333|11.2167|Obersöchering
 48.6167|11.9500|Obersüßbach
 48.2605|12.2790|Obertaufkirchen
 47.7241|9.4698|Oberteuringen
@@ -4462,8 +4510,8 @@
 51.8289|8.1472|Oelde
 53.9274|9.5638|Oelixdorf
 50.4147|12.1695|Oelsnitz
-51.6420|7.2645|Oer-Erkenschwick
 53.4833|9.0500|Oerel
+51.6420|7.2645|Oer-Erkenschwick
 50.1500|10.1333|Oerlenbach
 51.9545|8.6622|Oerlinghausen
 48.9527|10.6046|Oettingen in Bayern
@@ -4480,13 +4528,17 @@
 48.4167|9.0333|Ofterdingen
 47.5000|10.2333|Ofterschwang
 49.3653|8.5831|Oftersheim
+51.1500|7.0000|Ohligs
 48.4322|7.9938|Ohlsbach
 53.6259|10.0314|Ohlsdorf
 47.6333|11.2333|Ohlstadt
 48.6460|9.5270|Ohmden
+47.6619|8.8867|Öhningen
 51.1720|14.0467|Ohorn
+49.1988|9.5072|Öhringen
 50.6587|13.3425|Olbernhau
 50.8730|14.7704|Olbersdorf
+48.9667|8.7500|Ölbronn-Dürrn
 48.2000|11.3333|Olching
 53.1412|8.2147|Oldenburg
 54.2958|10.9016|Oldenburg in Holstein
@@ -4498,6 +4550,7 @@
 51.3561|8.4890|Olsberg
 49.5388|7.6586|Olsbrücken
 47.6333|9.8333|Opfenbach
+48.2864|9.8026|Öpfingen
 51.0686|7.0039|Opladen
 51.0667|14.5000|Oppach
 48.4733|8.1597|Oppenau
@@ -4548,6 +4601,7 @@
 47.9500|9.3833|Ostrach
 51.2064|12.8842|Ostrau
 53.1333|7.6167|Ostrhauderfehn
+49.2191|8.7119|Östringen
 51.0145|14.9306|Ostritz
 54.3999|13.6105|Ostseebad Binz
 53.9878|11.2019|Ostseebad Boltenhagen
@@ -4558,6 +4612,9 @@
 54.3785|13.6939|Ostseebad Sellin
 54.0767|13.9113|Ostseebad Zinnowitz
 53.5432|10.1694|Oststeinbek
+53.5517|9.8863|Othmarschen
+48.8909|8.2344|Ötigheim
+48.9667|8.8000|Ötisheim
 48.7365|9.7484|Ottenbach
 51.1833|13.8333|Ottendorf-Okrilla
 48.7356|8.1298|Ottenhofen
@@ -4575,10 +4632,11 @@
 48.6702|8.1132|Ottersweier
 51.2000|12.6167|Otterwisch
 47.9413|10.2997|Ottobeuren
-48.0649|11.6633|Ottobrunn
+48.0649|11.6633|Ottobrunn|Ottobrunn bei München
 50.8060|9.3857|Ottrau
 49.4013|7.1642|Ottweiler
 48.7613|12.8088|Otzing
+50.5000|7.8333|Ötzingen
 53.3419|8.4218|Ovelgönne
 50.9327|7.2839|Overath
 48.5874|9.4498|Owen
@@ -4590,6 +4648,7 @@
 51.0181|11.4275|Oßmanstedt
 54.0500|9.9167|Padenstedt
 51.7191|8.7544|Paderborn
+47.9000|11.1833|Pähl
 54.2667|9.3000|Pahlen
 48.9973|11.8195|Painten
 48.0020|12.6370|Palling
@@ -4642,17 +4701,19 @@
 53.0758|11.8574|Perleberg
 48.7818|13.4384|Perlesreut
 49.3000|10.7500|Petersaurach
+50.5600|9.7129|Petersberg
 48.5167|11.0333|Petersdorf
 52.5208|13.7875|Petershagen
 48.4097|11.4706|Petershausen
+47.6741|9.1779|Petershausen-West
 49.3548|12.3593|Pettendorf
 47.9123|12.8151|Petting
 49.8300|10.9284|Pettstadt
-49.8500|7.9500|Pfaffen-Schwabenheim
 48.1188|10.4550|Pfaffenhausen
 49.0644|8.9764|Pfaffenhofen
 48.5305|11.5050|Pfaffenhofen an der Ilm
 48.3545|10.1618|Pfaffenhofen an der Roth
+49.8500|7.9500|Pfaffen-Schwabenheim
 47.9333|7.7500|Pfaffenweiler
 48.0546|12.1092|Pfaffing
 50.8613|12.5150|Pfaffroda
@@ -4691,6 +4752,7 @@
 50.3926|7.3925|Plaidt
 48.1067|11.4248|Planegg
 49.3944|8.5961|Plankstadt
+52.4811|13.4728|Plänterwald
 53.5515|11.5093|Plate
 52.9592|12.0295|Plattenburg
 48.7787|12.8751|Plattling
@@ -4706,31 +4768,35 @@
 48.1956|11.8007|Pliening
 48.5593|9.2075|Pliezhausen
 48.7107|9.4195|Plochingen
-49.6898|6.7124|Pluwig
-52.4811|13.4728|Plänterwald
 54.1624|10.4233|Plön
 51.7500|11.6833|Plötzkau
 52.0521|11.8020|Plötzky
 49.9198|11.8688|Plößberg
 48.7987|9.5959|Plüderhausen
+49.6898|6.7124|Pluwig
 50.6408|13.2178|Pobershau
 50.7000|13.2333|Pockau
 48.4015|13.3132|Pocking
 52.4718|14.5346|Podelzig
+50.3931|12.3291|Pöhl
+50.5114|12.8189|Pöhla
 48.1700|11.8186|Poing
 50.2997|7.3132|Polch
+53.7730|10.3828|Pölitz
 50.9126|6.9906|Poll
 51.8987|9.4039|Polle
 51.5797|11.5993|Polleben
 52.3853|9.1881|Pollhagen
 48.2167|12.5667|Polling
 48.9207|10.7115|Polsingen
+50.9500|12.2000|Pölzig
 49.5044|11.5110|Pommelsbrunn
 49.7667|10.8167|Pommersfelden
 50.8576|12.4231|Ponitz
 53.6592|10.0847|Poppenbüttel
 50.1000|10.1424|Poppenhausen
 49.4756|11.7978|Poppenricht
+48.6167|11.4667|Pörnbach
 50.9418|14.1269|Porschdorf
 52.2296|8.9161|Porta Westfalica
 50.8864|7.0583|Porz am Rhein
@@ -4740,9 +4806,11 @@
 48.4167|12.9000|Postmünster
 52.3989|13.0657|Potsdam
 49.7713|11.4078|Pottenstein
+48.5838|11.0876|Pöttmes
 50.6000|8.0000|Pottum
 51.6232|12.4013|Pouch
 49.9364|11.1221|Poxdorf
+50.6936|11.5923|Pößneck
 50.7603|7.6487|Pracht
 49.0954|12.8261|Prackenbach
 51.8423|12.6437|Pratau
@@ -4773,44 +4841,38 @@
 54.3690|13.0237|Prohn
 53.9500|10.4667|Pronstorf
 49.8631|10.1267|Prosselsheim
-47.8932|12.2024|Prutting
 52.6372|13.9878|Prötzel
 50.2079|6.4202|Prüm
+47.8932|12.2024|Prutting
+49.7500|12.2333|Püchersreuth
 48.1500|11.3500|Puchheim
 50.6000|7.6167|Puderbach
 50.9997|6.8063|Pulheim
 48.0612|11.5215|Pullach im Isartal
 49.9333|12.0000|Pullenreuth
+48.0247|10.9221|Pürgen
 49.5240|10.8319|Puschendorf
 51.2550|14.3011|Puschwitz
 54.3551|13.4763|Putbus
 53.2490|12.0418|Putlitz
+49.2855|6.8872|Püttlingen
 48.0758|11.7157|Putzbrunn
 49.2962|11.2866|Pyrbaum
-47.9000|11.1833|Pähl
-50.3931|12.3291|Pöhl
-50.5114|12.8189|Pöhla
-53.7730|10.3828|Pölitz
-50.9500|12.2000|Pölzig
-48.6167|11.4667|Pörnbach
-48.5838|11.0876|Pöttmes
-50.6936|11.5923|Pößneck
-49.7500|12.2333|Püchersreuth
-48.0247|10.9221|Pürgen
-49.2855|6.8872|Püttlingen
 52.6750|7.9498|Quakenbrück
 54.3333|9.9833|Quarnbek
 51.7884|11.1501|Quedlinburg
 49.3667|7.6333|Queidersbach
 51.4763|12.1346|Queis
 51.7492|12.1280|Quellendorf
+51.4522|7.2663|Querenburg
 51.3812|11.6005|Querfurt
 54.7500|9.7167|Quern
 53.7283|9.9093|Quickborn
 49.3167|7.0500|Quierschied
 51.2833|14.7667|Quitzdorf
-53.6014|11.5049|Raben Steinfeld
 50.6775|8.8643|Rabenau
+53.6014|11.5049|Raben Steinfeld
+51.2500|14.2333|Räckelwitz
 51.4333|12.3833|Rackwitz
 53.3167|10.2833|Radbruch
 52.4500|8.9667|Raddestorf
@@ -4825,6 +4887,7 @@
 51.7667|6.8500|Raesfeld
 51.7117|12.2753|Raguhn
 52.4337|8.6126|Rahden
+53.6019|10.1567|Rahlstedt
 52.4412|13.6871|Rahnsdorf
 48.6903|10.9161|Rain
 54.2813|10.2492|Raisdorf
@@ -4913,9 +4976,9 @@
 49.7121|8.8390|Reichelsheim
 47.6889|9.0635|Reichenau
 49.1833|12.3500|Reichenbach
+50.6228|12.3034|Reichenbach/Vogtland
 48.7101|9.4643|Reichenbach an der Fils
 49.5000|7.5500|Reichenbach-Steegen
-50.6228|12.3034|Reichenbach/Vogtland
 49.7319|9.9148|Reichenberg
 49.5138|11.3727|Reichenschwand
 52.2667|14.0000|Reichenwalde
@@ -4949,6 +5012,7 @@
 50.5333|11.6500|Remptendorf
 51.1798|7.1925|Remscheid
 50.8500|12.5667|Remse
+48.8721|9.2733|Remseck am Neckar
 48.5885|8.0132|Renchen
 54.3066|9.6631|Rendsburg
 50.5000|7.5000|Rengsdorf
@@ -4976,11 +5040,12 @@
 48.6660|7.9366|Rheinau
 50.6256|6.9491|Rheinbach
 51.5465|6.5953|Rheinberg
+50.0113|7.6725|Rheinböllen
 50.6167|7.2333|Rheinbreitbach
 50.5000|7.3333|Rheinbrohl
-50.0113|7.6725|Rheinböllen
 52.2851|7.4405|Rheine
 47.5601|7.7871|Rheinfelden
+51.4006|6.7119|Rheinhausen
 53.0997|12.8988|Rheinsberg
 48.9685|8.3070|Rheinstetten
 49.1181|8.2781|Rheinzabern
@@ -5033,32 +5098,47 @@
 48.2477|7.7782|Ringsheim
 52.1860|9.0792|Rinteln
 49.7930|6.7921|Riol
+53.5831|9.7571|Rissen
 54.7580|8.8691|Risum-Lindholm
 53.1829|8.7355|Ritterhude
 50.0000|6.5000|Rittersdorf
 50.4803|12.7934|Rittersgrün
+53.3755|12.6037|Röbel
+51.4594|11.6823|Röblingen am See
+49.2710|6.8346|Röchling-Höhe
 51.0501|12.7975|Rochlitz
 50.4305|8.7369|Rockenberg
 49.6297|7.8213|Rockenhausen
 49.2394|7.6396|Rodalben
+49.7284|10.2436|Rödelsee
 49.8956|9.6264|Roden
 50.1500|9.0333|Rodenbach
 52.3115|9.3564|Rodenberg
+50.8933|6.9948|Rodenkirchen
+50.2952|11.0412|Rödental
+49.4300|8.2614|Rödersheim-Gronau
 50.5308|12.4133|Rodewisch
 50.0263|8.8859|Rodgau
 49.1943|12.5196|Roding
+52.2500|8.4833|Rödinghausen
 51.8961|12.2006|Rodleben
 50.6500|6.2000|Roetgen
+48.4244|10.4427|Röfingen
+52.3167|11.7667|Rogätz
 48.2759|10.2314|Roggenburg
 53.6929|11.0144|Roggendorf
 54.0707|12.2042|Roggentin
-52.3167|11.7667|Rogätz
 48.7677|11.9715|Rohr
 48.2893|12.5560|Rohrbach
 48.5667|8.7000|Rohrdorf
 48.6865|11.1562|Rohrenfels
+48.3297|11.4467|Röhrmoos
+48.7386|13.5227|Röhrnbach
+52.7108|9.2314|Röhrsen
 49.3647|9.3400|Roigheim
 51.5753|12.2633|Roitzsch
+49.7731|9.2461|Röllbach
+50.3964|10.5389|Römhild
 51.0333|6.6833|Rommerskirchen
 50.7134|9.2201|Romrod
 50.8634|12.1867|Ronneburg
@@ -5076,6 +5156,8 @@
 50.4187|11.4932|Rosenthal am Rennsteig
 51.0173|12.3635|Rositz
 52.4724|12.7189|Roskow
+50.0833|11.9833|Röslau
+50.8956|7.1818|Rösrath
 51.0000|13.0667|Rossau
 48.5833|12.9500|Rossbach
 54.0887|12.1405|Rostock
@@ -5083,7 +5165,11 @@
 49.2500|10.0167|Rot am See
 53.1112|9.4108|Rotenburg
 50.9956|9.7284|Rotenburg an der Fulda
+52.4167|10.5333|Rötgesbüttel
 49.2476|11.0911|Roth
+51.1978|12.4145|Rötha
+47.6230|9.9739|Röthenbach
+49.4830|11.2412|Röthenbach an der Pegnitz
 49.4992|8.9192|Rothenberg
 49.9653|9.3939|Rothenbuch
 51.3340|14.9687|Rothenburg
@@ -5091,17 +5177,22 @@
 53.5350|10.0408|Rothenburgsort
 49.8914|9.5926|Rothenfels
 50.8500|11.6000|Rothenstein
+53.5671|9.9810|Rotherbaum
+49.9833|10.2167|Röthlein
 47.9201|12.0877|Rott
 47.6897|11.7706|Rottach-Egern
 48.2349|9.6896|Rottenacker
-50.6878|11.1667|Rottenbach
+49.6643|10.9261|Röttenbach
 47.7333|10.9667|Rottenbuch
 48.4763|8.9353|Rottenburg
 48.7023|12.0272|Rottenburg an der Laaber
 49.7923|10.0259|Rottendorf
 48.3582|13.2016|Rotthalmünster
+49.5097|9.9708|Röttingen
 51.5164|10.9466|Rottleberode
 48.1678|8.6272|Rottweil
+49.3432|12.5296|Rötz
+54.1767|12.2428|Rövershagen
 49.8637|7.8098|Roxheim
 49.8597|8.7617|Roßdorf
 48.4294|10.4691|Roßhaupten
@@ -5110,13 +5201,20 @@
 51.2989|11.4344|Roßleben
 49.3957|10.8885|Roßtal
 51.0659|13.1831|Roßwein
+51.7559|10.8466|Rübeland
+49.4976|11.2475|Rückersdorf
 48.6000|11.7667|Rudelzhausen
 47.8167|10.5833|Ruderatshofen
 48.8852|9.5293|Rudersberg
 48.6500|13.4167|Ruderting
+49.8455|7.8145|Rüdesheim
+49.9789|7.9244|Rüdesheim am Rhein
+52.7214|13.6250|Rüdnitz
 50.7204|11.3405|Rudolstadt
 52.4241|13.4853|Rudow
 50.2000|11.4667|Rugendorf
+49.4000|10.5833|Rügland
+52.4856|10.8864|Rühen
 50.8930|10.3657|Ruhla
 51.4575|13.8664|Ruhland
 48.9833|12.9835|Ruhmannsfelden
@@ -5124,7 +5222,11 @@
 48.5398|12.6830|Ruhstorf
 54.1000|10.2167|Ruhwinkel
 53.2865|10.5297|Rullstorf
+49.1531|8.2929|Rülzheim
 52.5015|13.4934|Rummelsburg
+49.9331|7.8598|Rümmelsheim
+47.6412|7.6420|Rümmingen
+53.7833|10.3500|Rümpel
 49.2151|12.7621|Runding
 50.4057|8.1546|Runkel
 50.4667|7.8833|Ruppach-Goldhausen
@@ -5132,45 +5234,9 @@
 48.8828|9.8151|Ruppertshofen
 49.1971|7.6896|Ruppertsweiler
 50.8437|7.4841|Ruppichteroth
+49.9896|8.4225|Rüsselsheim|Rüsselsheim am Main
 48.2667|7.7333|Rust
 48.8081|8.9454|Rutesheim
-51.2500|14.2333|Räckelwitz
-53.3755|12.6037|Röbel
-51.4594|11.6823|Röblingen am See
-49.2710|6.8346|Röchling-Höhe
-49.7284|10.2436|Rödelsee
-50.2952|11.0412|Rödental
-49.4300|8.2614|Rödersheim-Gronau
-52.2500|8.4833|Rödinghausen
-48.4244|10.4427|Röfingen
-48.3297|11.4467|Röhrmoos
-48.7386|13.5227|Röhrnbach
-52.7108|9.2314|Röhrsen
-49.7731|9.2461|Röllbach
-50.3964|10.5389|Römhild
-50.0833|11.9833|Röslau
-50.8956|7.1818|Rösrath
-52.4167|10.5333|Rötgesbüttel
-51.1978|12.4145|Rötha
-47.6230|9.9739|Röthenbach
-49.4830|11.2412|Röthenbach an der Pegnitz
-49.9833|10.2167|Röthlein
-49.6643|10.9261|Röttenbach
-49.5097|9.9708|Röttingen
-49.3432|12.5296|Rötz
-54.1767|12.2428|Rövershagen
-51.7559|10.8466|Rübeland
-49.4976|11.2475|Rückersdorf
-49.8455|7.8145|Rüdesheim
-49.9789|7.9244|Rüdesheim am Rhein
-52.7214|13.6250|Rüdnitz
-49.4000|10.5833|Rügland
-52.4856|10.8864|Rühen
-49.1531|8.2929|Rülzheim
-49.9331|7.8598|Rümmelsheim
-47.6412|7.6420|Rümmingen
-53.7833|10.3500|Rümpel
-49.9896|8.4225|Rüsselsheim
 51.4909|8.4360|Rüthen
 48.9010|11.9320|Saal
 50.3167|10.3577|Saal an der Saale
@@ -5234,12 +5300,12 @@
 49.6167|7.5167|Sankt Julian
 50.5833|7.3833|Sankt Katharinen
 50.5275|10.7630|Sankt Kilian
-49.2659|8.6180|Sankt Leon-Rot
 47.9153|12.7193|Sankt Leonhard am Wonneberg
+49.2659|8.6180|Sankt Leon-Rot
 53.8920|9.2530|Sankt Margarethen
+48.0080|8.0928|Sankt Märgen
 49.3003|8.1053|Sankt Martin
 53.9833|9.1167|Sankt Michaelisdonn
-48.0080|8.0928|Sankt Märgen
 48.0147|8.0329|Sankt Peter
 54.3036|8.6414|Sankt Peter-Ording
 50.4108|7.5617|Sankt Sebastian
@@ -5257,7 +5323,6 @@
 53.3833|9.6000|Sauensiek
 47.9717|11.6538|Sauerlach
 47.9437|9.1083|Sauldorf
-48.0168|9.5006|Saulgau
 47.6664|11.0247|Saulgrub
 50.7112|13.4217|Sayda
 54.5157|13.6445|Saßnitz
@@ -5266,6 +5331,7 @@
 54.3128|9.7159|Schacht-Audorf
 54.7585|9.1833|Schafflund
 51.3813|11.7730|Schafstädt
+47.9903|11.4559|Schäftlarn
 50.3954|11.0073|Schalkau
 51.2412|7.5279|Schalksmühle
 47.9586|7.7576|Schallstadt
@@ -5273,6 +5339,7 @@
 54.0333|10.7500|Scharbeutz
 50.7041|13.0565|Scharfenstein
 53.2924|10.5019|Scharnebeck
+51.5492|7.5391|Scharnhorst
 54.1333|10.8833|Schashagen
 50.2783|11.7417|Schauenstein
 48.8500|13.0667|Schaufling
@@ -5316,8 +5383,8 @@
 49.6500|12.1667|Schirmitz
 50.0821|12.2274|Schirnding
 51.3968|12.2214|Schkeuditz
-51.3919|11.9522|Schkopau
 51.0417|11.8214|Schkölen
+51.3919|11.9522|Schkopau
 52.0222|10.5397|Schladen
 53.7336|10.8256|Schlagsdorf
 48.6043|9.2227|Schlaitdorf
@@ -5369,19 +5436,55 @@
 51.8945|11.4449|Schneidlingen
 47.6833|12.8000|Schneizlreuth
 49.2000|10.1833|Schnelldorf
+53.6374|9.9197|Schnelsen
 53.1168|9.7952|Schneverdingen
 48.2728|9.9929|Schnürpflingen
 54.5092|9.0062|Schobüll
 51.5317|11.7548|Schochwitz
+50.4935|8.4718|Schöffengrund
+48.8388|13.2286|Schöfweg
+50.0855|9.2470|Schöllkrippen
+48.7541|13.1778|Schöllnach
+48.7871|8.6449|Schömberg
 48.1423|8.2029|Schonach im Schwarzwald
+48.6587|9.0601|Schönaich
+49.4367|8.8088|Schönau
+47.6005|12.9870|Schönau am Königssee
+51.0640|14.8840|Schönau-Berzdorf
+47.7862|7.8944|Schönau im Schwarzwald
+51.0667|14.5667|Schönbach
+50.8675|12.4913|Schönberg
+51.6002|13.4897|Schönborn
+51.1667|11.8667|Schönburg
 48.0530|11.0914|Schondorf am Ammersee
 50.2681|9.8628|Schondra
+52.0168|11.7307|Schönebeck
+52.4667|13.3500|Schöneberg
+50.3905|12.3273|Schöneck
+50.1591|6.4682|Schönecken
+52.3890|13.5037|Schönefeld
+52.4729|13.6923|Schöneiche
+49.4074|7.3723|Schönenberg-Kübelberg
+51.6790|13.6025|Schönewalde
+51.3000|13.7000|Schönfeld
 47.8124|10.8966|Schongau
+48.1414|11.2040|Schöngeising
+52.5808|12.0392|Schönhausen
+50.5046|12.5216|Schönheide
+52.1380|10.9674|Schöningen
+54.3333|10.2333|Schönkirchen
+49.5103|12.5476|Schönsee
+51.1200|10.5774|Schönstedt
 47.9833|12.2500|Schonstett
+49.3500|12.6000|Schönthal
 50.0501|10.3081|Schonungen
+48.1055|8.2039|Schönwald
+54.1833|10.7500|Schönwalde am Bungsberg
 47.6510|7.8209|Schopfheim
 48.4548|8.5513|Schopfloch
 49.3500|7.6833|Schopp
+52.1431|10.7745|Schöppenstedt
+52.1000|7.2333|Schöppingen
 48.8054|9.5272|Schorndorf
 49.8458|8.1750|Schornsheim
 53.5333|7.9500|Schortens
@@ -5393,13 +5496,17 @@
 48.5607|11.2607|Schrobenhausen
 49.3453|9.9794|Schrozberg
 54.5167|9.4833|Schuby
+54.2590|9.6303|Schülp
 52.3582|13.5984|Schulzendorf
 48.2667|7.9500|Schuttertal
 48.4500|7.8833|Schutterwald
+52.3228|7.2218|Schüttorf
 53.9405|12.1072|Schwaan
 49.3305|11.0235|Schwabach
 49.9288|8.0953|Schwabenheim
 48.4016|11.3573|Schwabhausen
+48.7995|9.7981|Schwäbisch Gmünd
+49.1113|9.7391|Schwäbisch Hall
 48.1793|10.7568|Schwabmünchen
 47.8333|10.8333|Schwabsoien
 54.3971|9.1865|Schwabstedt
@@ -5449,47 +5556,7 @@
 49.3822|8.5823|Schwetzingen
 48.8764|9.0744|Schwieberdingen
 48.2715|12.2598|Schwindegg
-48.7995|9.7981|Schwäbisch Gmünd
-49.1113|9.7391|Schwäbisch Hall
 47.5931|7.8784|Schwörstadt
-47.9903|11.4559|Schäftlarn
-50.4935|8.4718|Schöffengrund
-48.8388|13.2286|Schöfweg
-50.0855|9.2470|Schöllkrippen
-48.7541|13.1778|Schöllnach
-48.7871|8.6449|Schömberg
-48.6587|9.0601|Schönaich
-49.4367|8.8088|Schönau
-47.6005|12.9870|Schönau am Königssee
-47.7862|7.8944|Schönau im Schwarzwald
-51.0640|14.8840|Schönau-Berzdorf
-51.0667|14.5667|Schönbach
-50.8675|12.4913|Schönberg
-51.6002|13.4897|Schönborn
-51.1667|11.8667|Schönburg
-52.0168|11.7307|Schönebeck
-52.4667|13.3500|Schöneberg
-50.3905|12.3273|Schöneck
-50.1591|6.4682|Schönecken
-52.3890|13.5037|Schönefeld
-52.4729|13.6923|Schöneiche
-49.4074|7.3723|Schönenberg-Kübelberg
-51.6790|13.6025|Schönewalde
-51.3000|13.7000|Schönfeld
-48.1414|11.2040|Schöngeising
-52.5808|12.0392|Schönhausen
-50.5046|12.5216|Schönheide
-52.1380|10.9674|Schöningen
-54.3333|10.2333|Schönkirchen
-49.5103|12.5476|Schönsee
-51.1200|10.5774|Schönstedt
-49.3500|12.6000|Schönthal
-48.1055|8.2039|Schönwald
-54.1833|10.7500|Schönwalde am Bungsberg
-52.1431|10.7745|Schöppenstedt
-52.1000|7.2333|Schöppingen
-54.2590|9.6303|Schülp
-52.3228|7.2218|Schüttorf
 50.9754|14.2758|Sebnitz
 50.5772|8.0497|Seck
 49.4422|9.3342|Seckach
@@ -5600,11 +5667,16 @@
 47.7968|9.0974|Sipplingen
 53.2762|9.5043|Sittensen
 50.6318|11.1722|Sitzendorf
+47.9312|12.2296|Söchtenau
+50.3938|8.8047|Södel
 53.1427|10.1481|Soderstorf
 51.5756|8.1062|Soest
+52.8500|7.5167|Sögel
 51.0409|14.4190|Sohland
 51.1164|14.7837|Sohland am Rotstein
+52.1890|10.2324|Söhlde
 49.9333|7.3167|Sohren
+47.9333|7.8167|Sölden
 51.1734|7.0845|Solingen
 51.3098|10.4881|Sollstedt
 50.5362|8.4070|Solms
@@ -5612,6 +5684,7 @@
 52.9864|9.8434|Soltau
 52.8737|10.7616|Soltendieck
 49.8292|10.2079|Sommerach
+51.1591|11.1152|Sömmerda
 49.7036|10.0260|Sommerhausen
 50.0696|9.2568|Sommerkahl
 52.1667|11.0833|Sommersdorf
@@ -5627,6 +5700,8 @@
 48.5523|10.2910|Sontheim an der Brenz
 47.5182|10.2826|Sonthofen
 51.0717|9.9356|Sontra
+49.8831|8.2011|Sörgenloch
+54.7167|9.6667|Sörup
 50.4992|12.6512|Sosa
 53.1167|9.2333|Sottrum
 48.1081|12.2101|Soyen
@@ -5658,14 +5733,12 @@
 49.8667|7.9833|Sprendlingen
 52.2084|9.5542|Springe
 51.3467|7.2434|Sprockhövel
-53.5551|10.0123|St. Georg
-53.5570|9.9640|St. Pauli
 52.5366|13.1506|Staaken
+54.0412|12.0234|Stäbelow
 53.5934|9.4763|Stade
 49.9122|8.1253|Stadecken-Elsheim
 50.0032|11.1976|Stadelhofen
 52.8757|10.5562|Stadensen
-50.9582|14.0309|Stadt Wehlen
 50.8226|9.0129|Stadtallendorf
 48.3664|10.8464|Stadtbergen
 52.3233|9.2031|Stadthagen
@@ -5679,6 +5752,7 @@
 52.5829|13.4781|Stadtrandsiedlung Malchow
 50.8568|11.7268|Stadtroda
 50.1643|11.5035|Stadtsteinach
+50.9582|14.0309|Stadt Wehlen
 54.7333|9.0500|Stadum
 52.3833|13.2167|Stahnsdorf
 48.3000|9.9914|Staig
@@ -5723,9 +5797,9 @@
 48.0147|10.1608|Steinheim
 48.6909|10.0638|Steinheim am Albuch
 48.9682|9.2771|Steinheim am der Murr
-52.6833|10.4000|Steinhorst
 52.4000|14.1667|Steinhöfel
 48.0868|12.0314|Steinhöring
+52.6833|10.4000|Steinhorst
 51.0631|14.3454|Steinigtwolmsdorf
 48.3833|12.0833|Steinkirchen
 48.9010|8.1969|Steinmauern
@@ -5747,20 +5821,28 @@
 48.1242|9.0777|Stetten am Kalten Markt
 49.9709|10.7217|Stettfeld
 52.5702|9.0242|Steyerberg
+53.5551|10.0123|St. Georg
 47.5932|10.0037|Stiefenhofen
 49.0613|10.0927|Stimpfach
 47.8511|9.0091|Stockach
 53.8922|10.6471|Stockelsdorf
 50.3064|11.2817|Stockheim
+52.6407|9.3403|Stöckse
 49.9701|9.0715|Stockstadt am Main
 49.8094|8.4728|Stockstadt am Rhein
+49.0000|10.3000|Stödtlen
 50.7737|6.2260|Stolberg
 50.7100|12.7803|Stollberg
 54.1333|10.2167|Stolpe
 51.0490|14.0794|Stolpen
 52.5167|9.0667|Stolzenau
 52.2566|13.9334|Storkow
+49.7323|12.2055|Störnstein
+47.7387|10.6888|Stötten am Auerberg
+47.8833|10.7167|Stöttwang
 50.7825|7.2513|Stoßdorf
+51.1144|11.9240|Stößen
+53.5570|9.9640|St. Pauli
 51.4419|6.2664|Straelen
 53.5750|11.3036|Stralendorf
 54.3091|13.0818|Stralsund
@@ -5774,36 +5856,37 @@
 48.8307|12.7210|Straßkirchen
 48.0049|11.5141|Straßlach-Dingharting
 51.3525|13.2266|Strehla
+51.9141|10.9444|Ströbeck
 50.4578|7.6004|Stromberg
 49.8443|10.9721|Strullendorf
 50.9333|14.0167|Struppen
 53.8667|10.0500|Struvenhütten
-51.9141|10.9444|Ströbeck
 48.3167|13.0833|Stubenberg
+47.7458|8.4481|Stühlingen
 53.0333|8.7500|Stuhr
 49.4167|12.1333|Stulln
 48.7823|9.1770|Stuttgart
 48.8087|9.1572|Stuttgart Feuerbach
 48.8423|9.2303|Stuttgart Mühlhausen
 48.7836|9.2103|Stuttgart-Ost
-54.0412|12.0234|Stäbelow
-52.6407|9.3403|Stöckse
-49.0000|10.3000|Stödtlen
-49.7323|12.2055|Störnstein
-47.7387|10.6888|Stötten am Auerberg
-47.8833|10.7167|Stöttwang
-51.1144|11.9240|Stößen
-47.7458|8.4481|Stühlingen
 50.5333|12.5333|Stützengrün
 50.6333|10.8667|Stützerbach
 52.3010|7.2257|Suddendorf
+54.6333|9.7833|Süderbrarup
 52.8959|10.4514|Suderburg
+53.2167|10.3000|Südergellersen
+54.8739|8.9111|Süderlügum
+54.3497|9.2191|Süderstapel
+51.9333|6.8667|Südlohn
+52.3597|9.7508|Südstadt
 52.7934|8.8361|Sudwalde
 49.6028|10.4356|Sugenheim
 50.6091|10.6940|Suhl
 52.9333|10.7667|Suhlendorf
 53.5443|11.5619|Sukow
+53.8000|10.2333|Sülfeld
 52.6837|8.8095|Sulingen
+53.5093|11.3746|Sülstorf
 48.3624|8.6331|Sulz am Neckar
 50.1340|8.5280|Sulzbach
 49.9115|9.1532|Sulzbach am Main
@@ -5816,38 +5899,24 @@
 49.1047|8.8558|Sulzfeld
 49.7069|10.1325|Sulzfeld am Main
 49.9500|10.3333|Sulzheim
+48.8785|12.3513|Sünching
 51.3281|8.0037|Sundern
+52.2876|11.3245|Süplingen
+52.2281|10.9039|Süpplingen
 47.8667|12.7000|Surberg
 52.9780|7.5153|Surwold
+54.0814|10.7017|Süsel
+52.8616|8.9221|Süstedt
 52.9167|7.2833|Sustrum
+48.6793|9.7553|Süßen
 48.3333|10.5000|Swabia
 52.9134|8.8221|Syke
 54.8611|8.4114|Sylt-Ost
 50.5430|12.0793|Syrau
-47.9312|12.2296|Söchtenau
-50.3938|8.8047|Södel
-52.8500|7.5167|Sögel
-52.1890|10.2324|Söhlde
-47.9333|7.8167|Sölden
-51.1591|11.1152|Sömmerda
-49.8831|8.2011|Sörgenloch
-54.7167|9.6667|Sörup
-54.6333|9.7833|Süderbrarup
-53.2167|10.3000|Südergellersen
-54.8739|8.9111|Süderlügum
-54.3497|9.2191|Süderstapel
-51.9333|6.8667|Südlohn
-53.8000|10.2333|Sülfeld
-53.5093|11.3746|Sülstorf
-48.8785|12.3513|Sünching
-52.2876|11.3245|Süplingen
-52.2281|10.9039|Süpplingen
-54.0814|10.7017|Süsel
-52.8616|8.9221|Süstedt
-48.6793|9.7553|Süßen
 50.8753|10.5161|Tabarz
 48.0782|12.5701|Tacherting
 47.9594|12.7293|Taching am See
+48.8497|9.8382|Täferrot
 48.8167|10.9667|Tagmersheim
 49.0833|9.1931|Talheim
 50.7925|10.6157|Tambach-Dietharz
@@ -5859,6 +5928,7 @@
 50.4946|11.8573|Tanna
 50.6074|12.9380|Tannenberg
 50.4367|12.4575|Tannenbergsthal
+49.5318|12.3277|Tännesberg
 48.9787|10.3613|Tannhausen
 48.0000|10.0833|Tannheim
 48.6732|10.6838|Tapfheim
@@ -5934,12 +6004,12 @@
 52.5000|7.4833|Thuine
 50.6708|12.9509|Thum
 50.2010|10.3191|Thundorf in Unterfranken
-48.7663|13.3155|Thurmansbang
-50.0254|11.3935|Thurnau
-48.6167|13.5333|Thyrnau
 49.9414|9.8586|Thüngen
 49.8783|9.8492|Thüngersheim
 50.3569|7.2769|Thür
+48.7663|13.3155|Thurmansbang
+50.0254|11.3935|Thurnau
+48.6167|13.5333|Thyrnau
 52.5167|10.8000|Tiddische
 48.5000|12.1000|Tiefenbach
 48.8240|8.8013|Tiefenbronn
@@ -5961,8 +6031,12 @@
 48.5171|10.9286|Todtenweis
 47.7401|8.0018|Todtmoos
 47.8294|7.9438|Todtnau
+48.2602|12.5846|Töging am Inn
 54.5799|9.6384|Tolk
 51.2860|12.0973|Tollwitz
+51.3209|6.4941|Tönisvorst
+54.3188|8.9423|Tönning
+50.3907|11.8733|Töpen
 53.2643|10.1145|Toppenstedt
 51.5602|12.9962|Torgau
 53.6341|14.0135|Torgelow
@@ -6014,42 +6088,42 @@
 53.6071|13.2910|Trollenhagen
 51.6167|12.8167|Trossin
 48.0767|8.6441|Trossingen
+50.0167|11.9500|Tröstau
 48.0280|12.5580|Trostberg an der Alz
 49.1392|7.5437|Trulben
 48.0000|10.2167|Trunkelsberg
 50.7833|10.4167|Trusetal
-50.0167|11.9500|Tröstau
 51.5833|14.6167|Tschernitz
-52.2892|12.1842|Tucheim
-49.5279|10.8597|Tuchenbach
-48.0333|8.6000|Tuningen
-47.9351|12.0152|Tuntenhausen
-48.1022|10.5607|Tussenhausen
-53.9157|13.2481|Tutow
-47.9846|8.8177|Tuttlingen
-47.9094|11.2803|Tutzing
-52.7993|8.6416|Twistringen
-48.0667|12.6667|Tyrlaching
-48.8497|9.8382|Täferrot
-49.5318|12.3277|Tännesberg
-48.2602|12.5846|Töging am Inn
-51.3209|6.4941|Tönisvorst
-54.3188|8.9423|Tönning
-50.3907|11.8733|Töpen
 48.5227|9.0522|Tübingen
 48.1667|9.5000|Tübingen Region
+52.2892|12.1842|Tucheim
+49.5279|10.8597|Tuchenbach
 52.5758|10.8782|Tülau
+48.0333|8.6000|Tuningen
+47.9351|12.0152|Tuntenhausen
 48.1053|11.0830|Türkenfeld
 48.0640|10.6416|Türkheim
 50.8589|6.7553|Türnich
+48.1022|10.5607|Tussenhausen
+53.9157|13.2481|Tutow
 54.4000|10.0000|Tüttendorf
+47.9846|8.8177|Tuttlingen
+47.9094|11.2803|Tutzing
 48.2122|12.5995|Tüßling
+52.7993|8.6416|Twistringen
+48.0667|12.6667|Tyrlaching
+50.9177|6.1234|Übach-Palenberg
+49.2419|6.6984|Überherrn
+47.7698|9.1714|Überlingen
+47.8167|12.4833|Übersee
 49.1630|8.6317|Ubstadt-Weiher
 52.4997|8.9093|Uchte
+50.0918|10.2686|Üchtelhausen
 52.5401|11.5996|Uchtspringe
 51.4639|9.4634|Udenhausen
 49.8647|8.1717|Udenheim
 51.3624|10.0721|Uder
+50.1500|6.8000|Üdersdorf
 51.5941|13.2998|Uebigau
 53.7379|14.0447|Ueckermünde
 51.6652|6.2737|Uedem
@@ -6059,6 +6133,7 @@
 49.8100|8.2886|Uelversheim
 52.9657|10.5611|Uelzen
 52.6180|11.8089|Uenglingen
+51.3548|6.6392|Uerdingen
 53.6877|9.6639|Uetersen
 49.7947|9.7306|Uettingen
 52.4651|10.2047|Uetze
@@ -6067,6 +6142,7 @@
 51.4986|10.9807|Uftrungen
 48.7047|9.5857|Uhingen
 47.7333|9.2500|Uhldingen-Mühlhofen
+47.7167|8.3167|Ühlingen-Birkendorf
 51.3647|14.5060|Uhyst
 51.2065|11.9222|Uichteritz
 48.3984|9.9916|Ulm
@@ -6077,6 +6153,7 @@
 52.5911|10.4320|Ummern
 49.8381|8.2189|Undenheim
 48.0057|10.2667|Ungerhausen
+54.0891|13.4024|Universitäts- und Hansestadt Greifswald
 50.5965|7.2189|Unkel
 48.1673|9.5222|Unlingen
 51.5380|7.6897|Unna
@@ -6136,6 +6213,7 @@
 49.5968|11.0722|Uttenreuth
 48.1500|9.6167|Uttenweiler
 48.0261|11.0861|Utting am Ammersee
+50.3500|6.7500|Üxheim
 54.0000|9.3833|Vaale
 50.8279|10.0219|Vacha
 47.8426|12.6061|Vachendorf
@@ -6182,48 +6260,49 @@
 51.2544|6.3944|Viersen
 47.9500|10.9167|Vilgertshofen
 48.5089|10.6147|Villenbach
-48.0623|8.4936|Villingen-Schwenningen
 48.2000|8.5833|Villingendorf
+48.0623|8.4936|Villingen-Schwenningen
 50.3929|8.1931|Villmar
 48.4530|12.3560|Vilsbiburg
 49.6148|11.8026|Vilseck
 48.4488|12.1069|Vilsheim
 48.6270|13.1922|Vilshofen
 49.1564|7.5519|Vinningen
+54.5667|9.1833|Viöl
 52.8333|8.3167|Visbek
 52.9855|9.5826|Visselhövede
-54.5667|9.1833|Viöl
 52.1653|8.8600|Vlotho
 51.8470|12.3521|Vockerode
 51.5970|6.6863|Voerde
+53.2745|10.3537|Vögelsen
 47.7667|9.7667|Vogt
 47.9469|12.1813|Vogtareuth
 48.0969|7.6418|Vogtsburg
 48.7698|11.6184|Vohburg an der Donau
 49.6238|12.3381|Vohenstrauß
+51.2056|8.9451|Vöhl
+48.0500|8.3000|Vöhrenbach
+48.3345|8.6639|Vöhringen
 51.3917|11.3089|Voigtstedt
 49.8635|10.2281|Volkach
 48.6000|11.8833|Volkenschwand
+50.8000|10.0500|Völkershausen
 47.8167|8.8667|Volkertshausen
+49.2516|6.8587|Völklingen
 51.4089|9.1181|Volkmarsen
+53.6497|10.1842|Volksdorf
 51.5627|11.5566|Volkstedt
 53.3333|8.9167|Vollersode
+52.1386|11.0988|Völpke
 52.4333|7.7500|Voltlage
 49.8167|7.9333|Volxheim
 49.8214|11.7363|Vorbach
 52.3652|10.5204|Vordorf
 49.5572|11.4942|Vorra
+48.0667|7.8500|Vörstetten
 53.1833|9.1500|Vorwerk
 52.0379|6.8280|Vreden
 52.8833|7.7667|Vrees
-53.2745|10.3537|Vögelsen
-51.2056|8.9451|Vöhl
-48.0500|8.3000|Vöhrenbach
-48.3345|8.6639|Vöhringen
-50.8000|10.0500|Völkershausen
-49.2516|6.8587|Völklingen
-52.1386|11.0988|Völpke
-48.0667|7.8500|Vörstetten
 54.5333|9.9833|Waabs
 51.5564|10.0571|Waake
 47.7725|11.6731|Waakirchen
@@ -6234,6 +6313,7 @@
 49.7518|10.7134|Wachenroth
 50.6333|7.1000|Wachtberg
 51.4092|6.3389|Wachtendonk
+50.2551|9.2956|Wächtersbach
 54.0208|9.3760|Wacken
 49.9744|8.1167|Wackernheim
 53.6768|12.9816|Wackerow
@@ -6261,14 +6341,13 @@
 49.8464|11.3481|Waischenfeld
 52.9272|7.2832|Walchum
 47.9333|9.1667|Wald
-49.5700|8.8317|Wald-Michelbach
 49.9500|7.8333|Waldalgesheim
 49.9753|9.3019|Waldaschaff
-50.5500|7.4167|Waldbreitbach
-49.7586|9.8036|Waldbrunn
-50.8758|7.6169|Waldbröl
-47.7571|9.7134|Waldburg
 49.8167|7.7167|Waldböckelheim
+50.5500|7.4167|Waldbreitbach
+50.8758|7.6169|Waldbröl
+49.7586|9.8036|Waldbrunn
+47.7571|9.7134|Waldburg
 49.7883|9.8467|Waldbüttelbrunn
 51.2062|9.0629|Waldeck
 50.2500|8.3333|Waldems
@@ -6283,6 +6362,7 @@
 48.0958|7.9637|Waldkirch
 48.7327|13.6008|Waldkirchen
 48.2085|12.3989|Waldkraiburg
+49.5700|8.8317|Wald-Michelbach
 49.3833|7.3333|Waldmohr
 49.3780|12.7090|Waldmünchen
 49.7462|6.7454|Waldrach
@@ -6350,6 +6430,7 @@
 50.1667|9.7833|Wartmannsroth
 54.0743|9.8974|Wasbek
 52.4133|10.5936|Wasbüttel
+48.7599|9.6874|Wäschenbeuren
 50.4333|7.2833|Wassenach
 51.1001|6.1548|Wassenberg
 48.4410|10.2693|Wasserburg
@@ -6362,6 +6443,7 @@
 52.5369|10.1507|Wathlingen
 54.1667|10.0500|Wattenbek
 49.5217|8.0617|Wattenheim
+51.4806|7.1425|Wattenscheid
 53.7759|12.4070|Wattmannshagen
 50.0926|6.3630|Waxweiler
 48.8923|10.6133|Wechingen
@@ -6401,17 +6483,17 @@
 49.4787|9.8998|Weikersheim
 48.1172|10.9216|Weil
 47.5933|7.6208|Weil am Rhein
-48.7495|8.8718|Weil der Stadt
-48.6227|9.0635|Weil im Schönbuch
 49.6681|9.2164|Weilbach
 50.4844|8.2625|Weilburg
+48.7495|8.8718|Weil der Stadt
 49.9570|7.8648|Weiler
-47.5826|9.9135|Weiler-Simmerberg
 49.4833|7.6333|Weilerbach
 49.7500|11.1167|Weilersbach
+47.5826|9.9135|Weiler-Simmerberg
 50.7529|6.8459|Weilerswist
 47.6667|8.2333|Weilheim
 48.6157|9.5375|Weilheim an der Teck
+48.6227|9.0635|Weil im Schönbuch
 50.4314|8.3767|Weilmünster
 49.0388|10.4505|Weiltingen
 50.9803|11.3290|Weimar
@@ -6502,6 +6584,7 @@
 51.8365|10.7822|Wernigerode
 50.7240|10.3509|Wernshausen
 52.8721|7.5083|Werpeloh
+51.1846|6.8125|Wersten
 47.6030|10.4097|Wertach
 49.7590|9.5085|Wertheim
 52.0777|8.4179|Werther
@@ -6518,7 +6601,6 @@
 52.5171|13.2764|Westend
 47.9333|10.7167|Westendorf
 54.2745|9.8958|Westensee
-54.5080|9.1857|Wester-Ohrstedt
 50.5594|7.9748|Westerburg
 51.9633|11.3926|Westeregeln
 53.2333|10.2500|Westergellersen
@@ -6528,6 +6610,7 @@
 53.8571|9.6796|Westerhorn
 52.3167|7.8833|Westerkappeln
 54.9079|8.3033|Westerland
+54.5080|9.1857|Wester-Ohrstedt
 54.2833|9.6500|Westerrönfeld
 53.2568|7.9274|Westerstede
 48.5192|9.9549|Westerstetten
@@ -6596,6 +6679,7 @@
 47.7667|10.4000|Wildpoldsried
 47.7015|10.9375|Wildsteig
 49.2089|7.8735|Wilgartswiesen
+53.4928|10.0137|Wilhelmsburg
 47.8661|9.4262|Wilhelmsdorf
 49.4706|8.7536|Wilhelmsfeld
 53.5300|8.1125|Wilhelmshaven
@@ -6685,6 +6769,7 @@
 53.6928|10.1312|Wohldorf-Ohlstedt
 53.5167|10.2833|Wohltorf
 50.4286|8.8292|Wohnbach
+54.1667|9.0000|Wöhrden
 53.4606|13.5836|Woldegk
 48.2932|8.2158|Wolfach
 47.8203|9.7949|Wolfegg
@@ -6692,9 +6777,11 @@
 52.1644|10.5410|Wolfenbüttel
 51.5065|11.5130|Wolferode
 48.4794|11.7095|Wolfersdorf
+50.4000|8.8167|Wölfersheim
 48.9035|10.7813|Wolferstadt
 47.8935|10.2672|Wolfertschwenden
 51.3261|9.1701|Wolfhagen
+50.8083|10.7790|Wölfis
 49.2268|10.7277|Wolframs-Eschenbach
 47.9129|11.4217|Wolfratshausen
 52.4245|10.7815|Wolfsburg
@@ -6706,54 +6793,22 @@
 50.6555|13.0713|Wolkenstein
 51.4218|10.7381|Wolkramshausen
 50.3667|10.2333|Wollbach
+49.8167|7.9667|Wöllstein
 51.9500|11.4833|Wolmirsleben
 52.2486|11.6295|Wolmirstedt
 48.6038|11.6257|Wolnzach
 49.1675|9.8447|Wolpertshausen
 47.8947|9.6120|Wolpertswende
+52.4167|9.2333|Wölpinghausen
 52.1910|10.9388|Wolsdorf
 52.4555|13.7499|Woltersdorf
 50.0167|10.4667|Wonfurt
 49.9761|11.3005|Wonsees
 51.4200|10.3633|Worbis
 47.9167|10.2000|Woringen
+51.8417|12.4212|Wörlitz
 49.6328|8.3592|Worms
 53.2167|8.9333|Worpswede
-53.6500|8.5167|Wremen
-52.9044|10.5749|Wrestedt
-53.0313|10.2985|Wriedel
-52.7209|14.1342|Wriezen
-53.9333|9.7667|Wrist
-51.8194|11.9306|Wulfen
-53.3000|10.1500|Wulfsen
-51.6600|10.1744|Wulften
-53.5444|13.1692|Wulkenzin
-53.3167|8.6667|Wulsbüttel
-50.0392|12.0034|Wunsiedel
-52.4238|9.4359|Wunstorf
-51.2563|7.1482|Wuppertal
-48.3533|12.7860|Wurmannsquick
-48.8667|8.8167|Wurmberg
-48.0000|8.7833|Wurmlingen
-48.3500|12.3333|Wurmsham
-50.4636|11.5378|Wurzbach
-51.3707|12.7394|Wurzen
-52.8912|12.4602|Wusterhausen
-54.1131|13.6161|Wusterhusen
-52.5500|12.9500|Wustermark
-52.3667|12.3849|Wusterwitz
-52.9237|11.1285|Wustrow
-47.6602|8.3675|Wutöschingen
-48.1662|7.6492|Wyhl
-54.6914|8.5670|Wyk auf Föhr
-50.2551|9.2956|Wächtersbach
-48.7599|9.6874|Wäschenbeuren
-54.1667|9.0000|Wöhrden
-50.4000|8.8167|Wölfersheim
-50.8083|10.7790|Wölfis
-49.8167|7.9667|Wöllstein
-52.4167|9.2333|Wölpinghausen
-51.8417|12.4212|Wörlitz
 49.8486|8.1242|Wörrstadt
 49.0305|10.2724|Wört
 48.2453|11.9021|Wörth
@@ -6763,14 +6818,41 @@
 48.6230|12.3394|Wörth an der Isar
 48.0725|11.2018|Wörthsee
 49.0121|8.6075|Wössingen
+53.6500|8.5167|Wremen
+52.9044|10.5749|Wrestedt
+53.0313|10.2985|Wriedel
+52.7209|14.1342|Wriezen
+53.9333|9.7667|Wrist
+51.8194|11.9306|Wulfen
 50.3320|10.3408|Wülfershausen
 51.2820|7.0382|Wülfrath
+53.3000|10.1500|Wulfsen
+51.6600|10.1744|Wulften
+53.5444|13.1692|Wulkenzin
 51.3667|13.4000|Wülknitz
+53.3167|8.6667|Wulsbüttel
 51.5200|8.6993|Wünnenberg
 50.7966|12.0982|Wünschendorf
+50.0392|12.0034|Wunsiedel
+52.4238|9.4359|Wunstorf
+51.2563|7.1482|Wuppertal
+48.3533|12.7860|Wurmannsquick
+48.8667|8.8167|Wurmberg
+48.0000|8.7833|Wurmlingen
+48.3500|12.3333|Wurmsham
 50.8181|6.1347|Würselen
+50.4636|11.5378|Wurzbach
 49.7939|9.9512|Würzburg
+51.3707|12.7394|Wurzen
 49.0808|9.4606|Wüstenrot
+52.8912|12.4602|Wusterhausen
+54.1131|13.6161|Wusterhusen
+52.5500|12.9500|Wustermark
+52.3667|12.3849|Wusterwitz
+52.9237|11.1285|Wustrow
+47.6602|8.3675|Wutöschingen
+48.1662|7.6492|Wyhl
+54.6914|8.5670|Wyk auf Föhr
 51.6588|6.4530|Xanten
 51.3515|13.5046|Zabeltitz
 49.0561|8.9269|Zaberfeld
@@ -6794,12 +6876,12 @@
 50.2619|9.6724|Zeitlofs
 51.0496|12.1369|Zeitz
 48.6923|8.0630|Zell
+50.6564|10.6605|Zella-Mehlis
 49.8121|9.8696|Zell am Main
 50.1353|11.8227|Zell im Fichtelgebirge
 47.7056|7.8525|Zell im Wiesental
-48.6488|9.5714|Zell unter Aichelberg
-50.6564|10.6605|Zella-Mehlis
 49.8974|9.8175|Zellingen
+48.6488|9.5714|Zell unter Aichelberg
 49.9500|7.0167|Zeltingen-Rachtig
 49.9000|6.7000|Zemmer
 48.7913|13.2597|Zenting
@@ -6808,6 +6890,7 @@
 53.0684|10.8833|Zernien
 53.4167|7.9833|Zetel
 50.6528|11.9838|Zeulenroda
+50.6503|11.9838|Zeulenroda-Triebes
 52.3480|13.6217|Zeuthen
 53.2966|9.2768|Zeven
 50.6097|11.6168|Ziegenrück
@@ -6823,10 +6906,13 @@
 51.5679|12.9535|Zinna
 49.4424|10.9541|Zirndorf
 50.8977|14.8076|Zittau
+50.6591|13.2298|Zöblitz
 48.4500|11.7667|Zolling
+51.6289|12.1174|Zörbig
 51.6333|10.6333|Zorge
 48.0843|11.8245|Zorneding
 49.8900|8.2247|Zornheim
+51.3580|12.1165|Zöschen
 52.2160|13.4491|Zossen
 51.1383|12.8185|Zschadrass
 51.5000|12.6000|Zschepplin
@@ -6840,6 +6926,7 @@
 53.8643|11.6143|Zurow
 48.5310|10.6356|Zusamaltheim
 48.4001|10.5992|Zusmarshausen
+53.9771|13.5486|Züssow
 49.2964|8.8225|Zuzenhausen
 49.2469|7.3698|Zweibrücken
 49.2564|9.5181|Zweiflingen
@@ -6849,25 +6936,5 @@
 49.0169|13.2377|Zwiesel
 49.7239|8.6108|Zwingenberg
 51.4647|12.2684|Zwochau
-50.3510|12.4224|Zwota
 50.6303|12.8100|Zwönitz
-50.6591|13.2298|Zöblitz
-51.6289|12.1174|Zörbig
-51.3580|12.1165|Zöschen
-53.9771|13.5486|Züssow
-47.6619|8.8867|Öhningen
-49.1988|9.5072|Öhringen
-48.9667|8.7500|Ölbronn-Dürrn
-48.2864|9.8026|Öpfingen
-49.2191|8.7119|Östringen
-48.8909|8.2344|Ötigheim
-48.9667|8.8000|Ötisheim
-50.5000|7.8333|Ötzingen
-50.9177|6.1234|Übach-Palenberg
-49.2419|6.6984|Überherrn
-47.7698|9.1714|Überlingen
-47.8167|12.4833|Übersee
-50.0918|10.2686|Üchtelhausen
-50.1500|6.8000|Üdersdorf
-47.7167|8.3167|Ühlingen-Birkendorf
-50.3500|6.7500|Üxheim
+50.3510|12.4224|Zwota

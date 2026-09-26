@@ -23,8 +23,8 @@
 15.3548|-91.4581|Chiantla
 14.5429|-91.3264|Chicacao
 15.3479|-90.7997|Chicamán
-14.9433|-91.1112|Chichicastenango
 15.0089|-91.0638|Chiché
+14.9433|-91.1112|Chichicastenango
 14.6611|-90.8194|Chimaltenango
 14.7029|-90.4998|Chinautla
 15.0415|-91.0259|Chinique
@@ -70,12 +70,13 @@
 16.9226|-89.8994|Flores
 14.6561|-91.8256|Flores Costa Cuca
 14.4653|-90.4408|Fraijanes
+14.6167|-91.8333|Génova
 14.9165|-90.5229|Granados
+15.1195|-89.3572|Gualán
 14.2253|-90.6433|Guanagazapa
 14.8542|-90.0694|Guastatoya
 14.6407|-90.5133|Guatemala City
 14.0742|-90.4167|Guazacapán
-14.6167|-91.8333|Génova
 15.3192|-91.4724|Huehuetenango
 15.0492|-91.6394|Huitán
 14.6167|-89.6167|Ipala
@@ -86,22 +87,22 @@
 14.6347|-89.9889|Jalapa
 14.1417|-90.0086|Jalpatagua
 14.1000|-89.7500|Jerez
-14.5781|-90.7380|Jocotenango
 14.8207|-89.3899|Jocotán
+14.5781|-90.7380|Jocotenango
 14.9931|-90.8016|Joyabaj
 14.2917|-89.8958|Jutiapa
 14.2308|-90.9472|La Democracia
 14.8717|-91.5614|La Esperanza
 14.0821|-91.0538|La Gomera
 15.5142|-91.8694|La Libertad
+15.5667|-89.9667|Lanquín
 14.8010|-91.8223|La Reforma
 15.3167|-89.8833|La Tinta
-15.5667|-89.9667|Lanquín
-15.2564|-89.0972|Los Amates
 15.8283|-88.7504|Lívingston
+15.2564|-89.0972|Los Amates
 14.5480|-90.6748|Magdalena Milpas Altas
-15.2446|-91.4990|Malacatancito
 14.9113|-92.0579|Malacatán
+15.2446|-91.4990|Malacatancito
 14.2031|-90.8481|Masagua
 14.5292|-90.1842|Mataquescuintla
 14.5342|-91.5033|Mazatenango
@@ -122,8 +123,8 @@
 14.3785|-90.1726|Municipio de Casillas
 15.4871|-91.0379|Municipio de Chajul
 15.3483|-90.7994|Municipio de Chicaman
-14.8920|-91.0881|Municipio de Chichicastenango
 15.0120|-91.0384|Municipio de Chiché
+14.8920|-91.0881|Municipio de Chichicastenango
 15.0695|-91.0180|Municipio de Chinique
 14.0972|-90.3790|Municipio de Chiquimulilla
 14.5080|-90.7703|Municipio de Ciudad Vieja
@@ -192,6 +193,7 @@
 14.9334|-91.6940|Palestina de los Altos
 14.4036|-90.6966|Palín
 14.7418|-91.1568|Panajachel
+15.3986|-89.6415|Panzos
 15.4000|-89.6667|Panzós
 14.6089|-90.8030|Parramos
 13.9772|-90.2064|Pasaco
@@ -234,6 +236,7 @@
 14.6923|-91.1164|San Antonio Palopó
 14.9606|-91.7315|San Antonio Sacatepéquez
 14.5394|-91.4144|San Antonio Suchitepéquez
+14.7883|-90.1988|Sanarate
 15.0844|-91.4561|San Bartolo
 15.1915|-91.0781|San Bartolomé Jocotenango
 14.6069|-90.6781|San Bartolomé Milpas Altas
@@ -297,22 +300,20 @@
 14.7209|-91.2724|San Pablo La Laguna
 14.7794|-90.4532|San Pedro Ayampuc
 15.4833|-90.2667|San Pedro Carchá
+15.0953|-91.1513|San Pédro Jocopilas
 14.6930|-91.2720|San Pedro La Laguna
 15.4914|-91.7655|San Pedro Necta
 14.6667|-89.8500|San Pedro Pinula
 14.6861|-90.6425|San Pedro Sacatepéquez
-15.0953|-91.1513|San Pédro Jocopilas
 15.7015|-91.5355|San Rafael La Independencia
 14.4814|-90.1733|San Rafael Las Flores
 15.4049|-91.6645|San Rafael Petzal
 14.9305|-91.9139|San Rafael Pie de la Cuesta
 14.7646|-90.5949|San Raimundo
+14.7457|-90.1162|Sansare
 14.5618|-91.6487|San Sebastián
 15.7358|-91.5628|San Sebastián Coatán
 15.3877|-91.6153|San Sebastián Huehuetenango
-14.4147|-90.6361|San Vicente Pacaya
-14.7883|-90.1988|Sanarate
-14.7457|-90.1162|Sansare
 16.8000|-89.8333|Santa Ana
 15.6808|-91.8200|Santa Ana Huista
 14.7905|-90.9727|Santa Apolonia
@@ -330,8 +331,8 @@
 14.3881|-90.3697|Santa Cruz Naranjo
 15.3667|-90.4333|Santa Cruz Verapaz
 15.7306|-91.4585|Santa Eulalia
-15.1282|-91.2362|Santa Lucia La Reforma
 14.3351|-91.0234|Santa Lucía Cotzumalguapa
+15.1282|-91.2362|Santa Lucia La Reforma
 14.5765|-90.6763|Santa Lucía Milpas Altas
 14.7713|-91.2670|Santa Lucía Utatlán
 15.0299|-91.3292|Santa María Chiquimula
@@ -345,6 +346,7 @@
 14.4790|-91.4833|Santo Domingo Suchitepéquez
 14.6806|-90.7001|Santo Domingo Xenacoj
 14.6322|-91.4107|Santo Tomás La Unión
+14.4147|-90.6361|San Vicente Pacaya
 16.5245|-90.1880|Sayaxché
 15.4000|-89.8333|Senahú
 14.9939|-91.6237|Sibilia
@@ -371,6 +373,7 @@
 14.5251|-90.5854|Villa Nueva
 14.5020|-90.9540|Yepocapa
 14.2000|-89.7833|Yupiltepeque
+14.9687|-89.5273|Zacapa
 15.0268|-90.8782|Zacualpa
 14.1333|-89.8333|Zapotitlán
 14.6497|-90.8903|Zaragoza

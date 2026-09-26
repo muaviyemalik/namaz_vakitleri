@@ -4,9 +4,11 @@
 -33.6315|-64.0210|Adelia María
 -37.1605|-64.2251|Adolfo Alsina
 -37.9380|-60.9030|Adolfo Gonzáles Chaves
+-34.8004|-58.3838|Adrogué
 -34.5922|-58.5000|Agronomía
 -31.0666|-64.3002|Agua de Oro
 -27.4338|-65.6143|Aguilares
+-28.5600|-66.8074|Aimogasta
 -27.5698|-54.6826|Alba Posse
 -31.4372|-68.5256|Albardón
 -35.0277|-60.5841|Alberti
@@ -25,12 +27,15 @@
 -30.9559|-62.3373|Altos de Chipión
 -39.2369|-70.9197|Aluminé
 -29.0968|-56.5504|Alvear
+-28.4606|-62.8347|Añatuya
 -28.8125|-65.5015|Ancasti
 -37.1795|-70.6691|Andacollo
 -27.5818|-66.3163|Andalgalá
+-38.3544|-68.7884|Añelo
 -36.5257|-64.0102|Anguil
 -26.0594|-67.4064|Antofagasta de la Sierra
 -24.4328|-63.9954|Apolinario Saravia
+-27.9142|-55.7535|Apóstoles
 -32.2425|-60.1611|Aranguren
 -35.6390|-64.3562|Arata
 -28.5807|-66.7925|Arauco
@@ -48,21 +53,21 @@
 -36.9737|-59.0890|Ayacucho
 -28.0616|-55.6780|Azara
 -36.8278|-60.9925|Azul
--28.4606|-62.8347|Añatuya
--38.3544|-68.7884|Añelo
 -38.5880|-62.5079|Bahía Blanca
 -37.7545|-58.9308|Balcarce
 -31.0088|-62.6673|Balnearia
 -34.6093|-58.4238|Balvanera
+-34.7456|-58.3937|Banfield
 -33.9065|-59.8182|Baradero
 -34.6445|-58.4052|Barracas
 -36.8234|-69.9156|Barrancas
 -27.4813|-58.9393|Barranqueras
 -27.8854|-59.2824|Basail
+-27.6495|-67.0263|Belén
 -34.5554|-58.4714|Belgrano
--32.6259|-62.6887|Bell Ville
 -31.2818|-61.4109|Bella Italia
 -27.0342|-65.3020|Bella Vista
+-32.6259|-62.6887|Bell Ville
 -27.8291|-64.0610|Beltrán
 -37.5859|-60.5238|Benito Juárez
 -34.8433|-58.3074|Berazategui
@@ -70,8 +75,8 @@
 -26.2552|-53.6458|Bernardo de Irigoyen
 -35.0245|-63.5825|Bernardo Larroudé
 -37.9046|-63.7424|Bernasconi
--32.4510|-64.3887|Berrotarán
 -27.5507|-57.5346|Berón de Astrada
+-32.4510|-64.3887|Berrotarán
 -34.6304|-58.4397|Boedo
 -36.2891|-61.7874|Bolívar
 -29.8171|-57.4297|Bonpland
@@ -81,7 +86,9 @@
 -30.8659|-62.0374|Brinkmann
 -34.7226|-63.5092|Buchardo
 -34.7565|-65.2538|Buena Esperanza
+-34.6131|-58.3772|Buenos Aires
 -26.4992|-64.7421|Burruyacú
+-34.8258|-58.3950|Burzaco
 -37.0522|-69.8771|Buta Ranquil
 -34.6166|-58.4653|Caballito
 -25.1203|-66.1652|Cachí
@@ -101,8 +108,11 @@
 -24.9098|-65.6366|Campo Quijano
 -27.4549|-55.0212|Campo Ramón
 -27.3327|-55.0565|Campo Viera
+-32.8164|-61.3949|Cañada de Gómez
+-30.7334|-63.7238|Cañada de Luque
 -33.5654|-62.8893|Canals
 -27.4595|-55.7454|Candelaria
+-35.1553|-59.0307|Cañuelas
 -28.7744|-66.0475|Capayán
 -30.8609|-64.5251|Capilla del Monte
 -26.9300|-55.0608|Capioví
@@ -114,19 +124,19 @@
 -35.7222|-62.0378|Carlos Casares
 -35.3945|-63.0624|Carlos Tejedor
 -34.4184|-60.2379|Carmen de Areco
+-40.8025|-62.9835|Carmen de Patagones
 -32.9137|-64.0217|Carnerillo
 -31.8730|-63.1172|Carrilobo
 -32.4633|-58.4787|Caseros
 -33.0442|-61.1681|Casilda
+-34.6514|-58.6407|Castelar
 -36.0184|-57.9809|Castelli
 -30.5795|-65.7270|Castro Barros
+-28.4696|-65.7852|Catamarca|San Fernando del Valle de Catamarca
 -37.8791|-67.7956|Catriel
 -36.4060|-63.4217|Catriló
 -31.6518|-68.2810|Caucete
 -33.4761|-62.3389|Cavanagh
--32.8164|-61.3949|Cañada de Gómez
--30.7334|-63.7238|Cañada de Luque
--35.1553|-59.0307|Cañuelas
 -33.4333|-58.7500|Ceibas
 -38.8295|-68.1318|Centenario
 -29.8810|-61.9450|Ceres
@@ -137,13 +147,13 @@
 -34.5880|-58.4733|Chacarita
 -30.7505|-57.9796|Chajarí
 -30.3600|-66.3140|Chamical
+-33.3252|-62.0383|Chañar Ladeado
 -27.6550|-59.8629|Charadai
 -27.2144|-61.1880|Charata
 -33.0240|-64.0472|Charras
 -35.5954|-58.5600|Chascomús
 -28.9549|-58.5728|Chavarría
 -33.0787|-63.2766|Chazón
--33.3252|-62.0383|Chañar Ladeado
 -39.1150|-66.9271|Chichinales
 -25.1050|-65.5347|Chicoana
 -29.1620|-67.4974|Chilecito
@@ -157,20 +167,23 @@
 -38.8222|-68.0629|Cinco Saltos
 -32.3067|-62.6521|Cintra
 -38.9339|-67.9903|Cipolletti
+-32.8509|-68.8360|Ciudad de Las Heras
 -27.5744|-64.1311|Clodomira
 -25.2848|-57.7185|Clorinda
 -34.5602|-58.4854|Coghlan
 -34.5746|-58.4619|Colegiales
+-33.8523|-61.4012|Colón
 -27.4743|-54.5250|Colonia Aurora
 -36.1515|-63.8540|Colonia Barón
 -27.3310|-58.9462|Colonia Benítez
+-31.0220|-64.0617|Colonia Caroya
 -28.6000|-62.9500|Colonia Dora
--26.9304|-59.5186|Colonia Elisa
 -32.6714|-58.3254|Colonia Elía
+-26.9304|-59.5186|Colonia Elisa
 -31.2375|-63.0613|Colonia La Tordilla
 -31.5278|-62.7244|Colonia San Bartolomé
 -26.6983|-59.6315|Colonias Unidas
--33.8523|-61.4012|Colón
+-25.9734|-54.5630|Colonia Wanda
 -41.0299|-70.2678|Comallo
 -25.3345|-59.6821|Comandante Fontana
 -49.9851|-68.9147|Comandante Luis Piedra Buena
@@ -184,9 +197,11 @@
 -31.0484|-59.0844|Conscripto Bernardi
 -34.6258|-58.3939|Constitución
 -38.7242|-68.1528|Contraalmirante Cordero
+-31.4135|-64.1810|Córdoba
 -31.9726|-60.9198|Coronda
 -32.8477|-64.3611|Coronel Baigorria
 -39.1869|-65.9542|Coronel Belisle
+-35.1680|-58.2374|Coronel Brandsen
 -38.6403|-61.7729|Coronel Dorrego
 -27.6804|-60.9146|Coronel Du Graty
 -33.6227|-64.5971|Coronel Moldes
@@ -202,15 +217,15 @@
 -27.5000|-59.6000|Coté-Lai
 -32.0287|-60.3066|Crespo
 -33.0089|-61.8075|Cruz Alta
--28.8365|-59.0048|Cruz de los Milagros
 -30.7264|-64.8039|Cruz del Eje
+-28.8365|-59.0048|Cruz de los Milagros
 -31.4866|-64.5715|Cuesta Blanca
 -29.7917|-58.0546|Curuzú Cuatiá
 -38.9342|-69.2305|Cutral-Có
--31.4135|-64.1810|Córdoba
 -36.6193|-62.5235|Daireaux
 -32.6107|-63.5804|Dalmacio Vélez Sársfield
 -39.2033|-65.7395|Darwin
+-30.4204|-64.3498|Deán Funes
 -34.3766|-64.4950|Del Campillo
 -24.8333|-65.3333|Departamento Capital
 -29.3333|-62.5000|Departamento de Aguirre
@@ -220,13 +235,13 @@
 -28.0000|-65.9167|Departamento de Ambato
 -29.0000|-65.5000|Departamento de Ancasti
 -27.5833|-66.4667|Departamento de Andalgalá
+-38.1667|-69.0000|Departamento de Añelo
 -31.2000|-68.1333|Departamento de Angaco
 -24.9167|-64.0000|Departamento de Anta
 -26.0000|-67.5833|Departamento de Antofagasta de la Sierra
 -27.9167|-55.7500|Departamento de Apóstoles
 -28.5000|-66.8333|Departamento de Arauco
 -39.5000|-66.5000|Departamento de Avellaneda
--38.1667|-69.0000|Departamento de Añelo
 -27.5000|-64.3333|Departamento de Banda
 -32.5000|-61.7500|Departamento de Belgrano
 -28.5000|-58.8333|Departamento de Bella Vista
@@ -299,17 +314,18 @@
 -22.8000|-64.9167|Departamento de Iruya
 -27.3333|-58.0000|Departamento de Itatí
 -27.9008|-56.8660|Departamento de Ituzaingó
--33.3333|-63.6667|Departamento de Juárez Celman
 -30.5000|-68.5000|Departamento de Jáchal
+-33.3333|-63.6667|Departamento de Juárez Celman
 -31.5000|-60.6667|Departamento de La Capital
+-40.2500|-71.2000|Departamento de Lácar
 -27.7778|-65.5711|Departamento de La Cocha
--29.2500|-65.2500|Departamento de La Paz
--24.1667|-66.1667|Departamento de La Poma
--25.5000|-65.6667|Departamento de La Viña
 -49.7500|-72.0000|Departamento de Lago Argentino
 -43.3333|-70.6667|Departamento de Languiñeo
+-29.2500|-65.2500|Departamento de La Paz
+-24.1667|-66.1667|Departamento de La Poma
 -32.5000|-69.5000|Departamento de Las Heras
 -29.0000|-58.9167|Departamento de Lavalle
+-25.5000|-65.6667|Departamento de La Viña
 -27.5667|-55.3333|Departamento de Leandro N. Alem
 -27.3333|-59.3333|Departamento de Libertad
 -26.9167|-54.9167|Departamento de Libertador General San Martín
@@ -317,20 +333,19 @@
 -24.5000|-67.3333|Departamento de Los Andes
 -33.0000|-69.3333|Departamento de Luján
 -26.9289|-65.3385|Departamento de Lules
--40.2500|-71.2000|Departamento de Lácar
 -48.7500|-68.5000|Departamento de Magallanes
 -26.3333|-60.4167|Departamento de Maipú
 -36.2500|-69.2500|Departamento de Malargüe
 -33.0000|-62.2500|Departamento de Marcos Juárez
+-43.8333|-67.1667|Departamento de Mártires
 -28.0000|-58.2500|Departamento de Mburucuyá
 -29.0000|-57.8333|Departamento de Mercedes
 -25.5000|-64.6667|Departamento de Metán
 -31.0000|-65.3333|Departamento de Minas
--30.2500|-57.8333|Departamento de Monte Caseros
 -26.7167|-54.5833|Departamento de Montecarlo
+-30.2500|-57.8333|Departamento de Monte Caseros
 -27.1667|-65.5833|Departamento de Monteros
 -27.3333|-62.5000|Departamento de Moreno
--43.8333|-67.1667|Departamento de Mártires
 -26.9533|-61.2763|Departamento de Nueve de Julio
 -27.5500|-55.0833|Departamento de Oberá
 -27.2500|-60.6667|Departamento de O’Higgins
@@ -344,10 +359,6 @@
 -26.6667|-60.1667|Departamento de Quitilipi
 -43.1234|-65.1018|Departamento de Rawson
 -22.5000|-66.5000|Departamento de Rinconada
--33.1800|-68.4660|Departamento de Rivadavia
--27.8333|-63.9167|Departamento de Robles
--25.9167|-64.8333|Departamento de Rosario de la Frontera
--24.5833|-65.8333|Departamento de Rosario de Lerma
 -48.2500|-71.0000|Departamento de Río Chico
 -33.3333|-64.5000|Departamento de Río Cuarto
 -27.5833|-64.7500|Departamento de Río Hondo
@@ -355,6 +366,10 @@
 -30.0833|-63.0000|Departamento de Río Seco
 -31.7500|-63.5000|Departamento de Río Segundo
 -45.3333|-70.8333|Departamento de Río Senguerr
+-33.1800|-68.4660|Departamento de Rivadavia
+-27.8333|-63.9167|Departamento de Robles
+-25.9167|-64.8333|Departamento de Rosario de la Frontera
+-24.5833|-65.8333|Departamento de Rosario de Lerma
 -28.2500|-58.7500|Departamento de Saladas
 -31.7500|-65.2500|Departamento de San Alberto
 -34.0000|-69.0000|Departamento de San Carlos
@@ -401,12 +416,12 @@
 -31.6826|-68.8994|Departamento de Zonda
 -31.8163|-64.2899|Despeñaderos
 -31.4043|-62.3063|Devoto
--30.4204|-64.3498|Deán Funes
 -32.0664|-60.6384|Diamante
 -37.1497|-64.0118|Doblas
 -43.3068|-65.7065|Dolavón
 -36.4147|-58.3246|Dolores
 -31.9871|-58.9620|Domínguez
+-34.4946|-58.6273|Don Torcuato
 -27.6995|-55.2521|Dos Arroyos
 -27.0228|-54.6867|Dos de Mayo
 -35.9150|-64.2945|Eduardo Castex
@@ -418,16 +433,18 @@
 -25.0741|-65.4917|El Carril
 -26.3081|-59.3729|El Colorado
 -39.9269|-68.3421|El Cuy
+-26.4045|-54.6185|Eldorado
+-32.5720|-64.3948|Elena
 -25.3807|-64.6526|El Galpón
 -27.0287|-63.2320|El Hoyo
 -37.6452|-70.5801|El Huecú
 -42.0492|-71.1669|El Maitén
+-34.6177|-58.6015|El Palomar
 -25.2833|-64.0667|El Quebrachal
 -28.2152|-65.8742|El Rodeo
 -27.2985|-54.1988|El Soberbio
--32.2008|-61.7014|El Trébol
 -31.3836|-62.8294|El Tío
--32.5720|-64.3948|Elena
+-32.2008|-61.7014|El Trébol
 -35.3863|-64.2809|Embajador Martini
 -32.1800|-64.4181|Embalse
 -23.2100|-64.0996|Embarcación
@@ -459,6 +476,7 @@
 -39.3137|-65.7600|Fray Luis Beltrán
 -32.9157|-60.8100|Funes
 -43.2897|-65.4929|Gaimán
+-32.0293|-61.2210|Gálvez
 -27.4904|-61.6757|Gancedo
 -28.1721|-55.6541|Garruchos
 -26.8177|-54.9567|Garuhapé
@@ -478,14 +496,18 @@
 -23.2167|-62.3000|General Enrique Mosconi
 -38.9530|-67.9249|General Fernández Oro
 -32.7203|-59.3961|General Galarza
+-24.6745|-65.0466|General Güemes
 -36.6738|-58.6330|General Guido
 -26.5374|-59.3416|General José de San Martín
+-37.0020|-57.1358|General Juan Madariaga
 -37.3989|-61.9738|General La Madrid
 -34.9093|-59.3278|General Las Heras
 -36.6701|-57.6728|General Lavalle
 -34.0147|-63.9241|General Levalle
 -37.1558|-57.9066|General Madariaga
 -37.4603|-63.5854|General Manuel J. Campos
+-22.5962|-63.8110|General Mosconi
+-34.4526|-58.6431|General Pacheco
 -35.4736|-58.6969|General Paz
 -35.6566|-63.7568|General Pico
 -27.3167|-61.2833|General Pinedo
@@ -499,8 +521,8 @@
 -34.9775|-61.4015|General Viamonte
 -34.8736|-63.4866|General Villegas
 -44.0499|-70.5980|Gobernador Costa
--48.7506|-70.2474|Gobernador Gregores
 -33.0302|-60.6405|Gobernador Gálvez
+-48.7506|-70.2474|Gobernador Gregores
 -28.9116|-58.9359|Gobernador Juan E. Martínez
 -32.5445|-59.3548|Gobernador Mansilla
 -27.1864|-55.4643|Gobernador Roca
@@ -515,13 +537,13 @@
 -27.5232|-55.1608|Guaraní
 -33.4615|-62.4384|Guatimozín
 -37.6678|-63.5302|Guatraché
--32.0293|-61.2210|Gálvez
+-34.6424|-58.5921|Haedo
 -31.5123|-59.8355|Hasenkamp
 -31.0983|-60.0883|Helvecia
 -27.5652|-58.2556|Herlitzka
 -27.6082|-61.3444|Hermoso Campo
--32.4266|-63.7333|Hernando
 -32.3373|-60.0216|Hernández
+-32.4266|-63.7333|Hernando
 -26.4870|-58.3120|Herradura
 -32.4340|-58.6318|Herrera
 -30.0045|-61.8408|Hersilia
@@ -541,15 +563,17 @@
 -41.3292|-69.5502|Ingeniero Jacobacci
 -35.3858|-64.4652|Ingeniero Luiggi
 -39.0715|-67.2379|Ingeniero Luis A. Huergo
+-34.4778|-58.7065|Ingeniero Pablo Nogués
 -24.2255|-64.8390|Ingenio La Esperanza
 -32.9442|-62.2303|Inriville
 -35.2338|-63.5921|Intendente Alvear
 -32.6333|-61.3333|Iriondo Department
+-34.7000|-58.5874|Isidro Casanova
 -33.2410|-62.4030|Isla Verde
+-27.4257|-57.3376|Itá Ibaté
 -34.7924|-63.7820|Italó
 -27.2704|-58.2446|Itatí
 -34.6397|-58.7737|Ituzaingó
--27.4257|-57.3376|Itá Ibaté
 -38.0861|-63.4317|Jacinto Arauz
 -32.1612|-63.4669|James Craik
 -27.0435|-55.2270|Jardín América
@@ -557,6 +581,7 @@
 -25.1136|-64.1263|Joaquín V. González
 -34.5043|-58.8546|José C. Paz
 -44.0503|-70.4697|José de San Martín
+-25.9466|-60.6201|Juan José Castelli
 -33.2754|-66.3202|Juan Martín de Pueyrredón
 -30.4187|-57.8561|Juan Pujol
 -34.5461|-61.3308|Junín
@@ -566,6 +591,8 @@
 -38.9833|-64.0833|La Adela
 -27.7335|-64.2428|La Banda
 -34.6376|-58.3823|La Boca
+-33.1532|-62.8566|Laborde
+-34.1266|-63.3912|Laboulaye
 -24.5833|-65.4167|La Caldera
 -31.3438|-64.3353|La Calera
 -33.4199|-63.2977|La Carlota
@@ -579,36 +606,32 @@
 -26.8361|-59.0621|La Eduvigis
 -27.1072|-59.4478|La Escondida
 -31.0884|-64.4899|La Falda
+-34.7505|-58.5846|Laferrere
 -31.4067|-62.6340|La Francia
--31.0092|-64.2687|La Granja
--27.0379|-58.7035|La Leonesa
--35.6736|-64.9400|La Maruja
--34.7731|-58.7827|La Matanza
--24.3119|-64.9638|La Mendieta
--30.8942|-63.0011|La Para
--34.5964|-58.4778|La Paternal
--30.7418|-59.6452|La Paz
--34.7030|-58.6799|La Plata
--32.1000|-63.0309|La Playosa
--27.5500|-67.0167|La Puerta de San José
--33.1837|-66.3127|La Punta
--22.1024|-65.5930|La Quiaca
--29.4110|-66.8507|La Rioja
--27.1100|-60.5872|La Tigra
--33.0526|-65.6239|La Toma
--27.1263|-59.3735|La Verde
--33.1532|-62.8566|Laborde
--34.1266|-63.3912|Laboulaye
 -42.0668|-71.6038|Lago Puelo
+-31.0092|-64.2687|La Granja
 -31.7765|-63.8010|Laguna Larga
 -26.4957|-59.6808|Laguna Limpia
 -25.2477|-58.0938|Laguna Naick-Neck
 -31.3039|-60.6589|Laguna Paiva
 -24.2539|-61.2447|Laguna Yema
+-27.0379|-58.7035|La Leonesa
 -39.4230|-65.7021|Lamarque
+-35.6736|-64.9400|La Maruja
+-34.7731|-58.7827|La Matanza
+-24.3119|-64.9638|La Mendieta
 -34.7020|-58.4726|Lanús
 -27.1600|-59.3860|Lapachito
+-30.8942|-63.0011|La Para
+-34.5964|-58.4778|La Paternal
+-30.7418|-59.6452|La Paz
+-34.7030|-58.6799|La Plata
+-32.1000|-63.0309|La Playosa
 -37.4931|-61.4231|Laprida
+-27.5500|-67.0167|La Puerta de San José
+-33.1837|-66.3127|La Punta
+-22.1024|-65.5930|La Quiaca
+-29.4110|-66.8507|La Rioja
 -33.0359|-59.0012|Larroque
 -33.2816|-63.9761|Las Acequias
 -27.0897|-61.0816|Las Breñas
@@ -629,6 +652,10 @@
 -28.3529|-59.2580|Las Toscas
 -31.8026|-62.6165|Las Varas
 -31.8721|-62.7195|Las Varillas
+-27.1100|-60.5872|La Tigra
+-33.0526|-65.6239|La Toma
+-34.8756|-58.5419|La Unión
+-27.1263|-59.3735|La Verde
 -34.4925|-61.9592|Leandro N. Alem
 -32.6617|-62.2968|Leones
 -35.8637|-58.1566|Lezama
@@ -648,15 +675,17 @@
 -46.5497|-71.6309|Los Antiguos
 -31.1755|-58.1877|Los Charrúas
 -30.9250|-64.5021|Los Cocos
--30.5908|-58.4677|Los Conquistadores
 -32.3198|-64.2775|Los Cóndores
+-30.5908|-58.4677|Los Conquistadores
 -26.4077|-61.4137|Los Frentones
 -27.5505|-55.0791|Los Helechos
 -28.4654|-62.1086|Los Juríes
 -29.3685|-59.7363|Los Laureles
 -40.8440|-68.0872|Los Menucos
+-34.5032|-58.7060|Los Polvorines
 -32.9845|-62.0219|Los Surgentes
 -28.9848|-63.4489|Los Telares
+-35.0000|-61.0387|Los Toldos
 -27.9300|-65.8715|Los Varela
 -32.3843|-59.5301|Lucas González
 -34.5876|-59.4760|Luján
@@ -670,14 +699,19 @@
 -27.2069|-59.2870|Makallé
 -29.3464|-59.9696|Malabrigo
 -31.4647|-64.3584|Malagueño
+-35.4779|-69.5852|Malargüe
 -34.4859|-58.7980|Malvinas Argentinas
 -41.2491|-68.7032|Maquinchao
 -37.5098|-58.3005|Mar Chiquita
 -32.6978|-62.1067|Marcos Juárez
 -34.8208|-59.0287|Marcos Paz
+-36.7288|-56.6827|Mar de Ajó
+-38.0004|-57.5562|Mar del Plata
+-36.5743|-56.6939|Mar del Tuyú
 -27.2616|-58.9722|Margarita Belén
 -29.3767|-58.1944|Mariano I. Loza
 -38.7503|-70.0237|Mariano Moreno
+-27.4227|-55.3766|Mártires
 -30.9947|-62.8258|Marull
 -34.6589|-58.5229|Mataderos
 -34.4819|-64.1726|Mattaldi
@@ -695,19 +729,20 @@
 -34.6125|-58.3896|Monserrat
 -35.4986|-59.1252|Monte
 -32.9164|-62.4567|Monte Buey
+-26.5662|-54.7570|Montecarlo
 -30.2536|-57.6363|Monte Caseros
 -34.6188|-58.5174|Monte Castro
+-34.7296|-58.3542|Monte Chingolo
 -31.3431|-63.9444|Monte Cristo
 -38.9574|-61.4453|Monte Hermoso
 -33.2046|-62.6009|Monte Maíz
--26.5662|-54.7570|Montecarlo
 -27.1674|-65.4983|Monteros
 -34.5968|-58.9670|Moreno
+-34.6464|-58.6941|Morón
 -32.5948|-62.8346|Morrison
 -30.7116|-61.9986|Morteros
--34.6464|-58.6941|Morón
+-34.5562|-58.7074|Muñiz
 -28.3210|-66.1425|Mutquín
--27.4227|-55.3766|Mártires
 -26.7333|-60.6167|Napenay
 -32.9166|-65.3753|Naschel
 -35.0246|-59.7763|Navarro
@@ -715,6 +750,7 @@
 -38.9516|-68.0591|Neuquén
 -32.3660|-62.3113|Noetinger
 -32.3939|-59.7895|Nogoyá
+-41.8507|-70.9017|Ñorquinco
 -27.7507|-57.6207|Nuestra Señora del Rosario de Caa Catí
 -34.6501|-58.4425|Nueva Pompeya
 -35.4569|-60.9239|Nueve de Julio
@@ -727,14 +763,14 @@
 -32.8406|-62.8655|Ordóñez
 -31.8251|-60.5175|Oro Verde
 -34.5734|-58.4622|Palermo
--23.9777|-64.3031|Palma Sola
 -27.9419|-57.9006|Palmar Grande
+-23.9777|-64.3031|Palma Sola
 -25.5633|-59.3378|Palo Santo
 -24.2565|-65.2116|Palpalá
 -26.7004|-59.1233|Pampa Almirón
--26.2300|-61.8377|Pampa de los Guanacos
 -26.0498|-59.9373|Pampa del Indio
 -26.5052|-61.1744|Pampa del Infierno
+-26.2300|-61.8377|Pampa de los Guanacos
 -27.7237|-54.9151|Panambí
 -31.7327|-60.5290|Paraná
 -35.1460|-64.5009|Parera
@@ -750,14 +786,18 @@
 -28.7510|-58.6558|Pedro R. Fernández
 -35.9067|-62.5931|Pehuajó
 -36.2427|-63.8218|Pellegrini
+-33.0749|-68.8884|Perdriel
+-32.9984|-60.7679|Pérez
 -33.8556|-61.2003|Pergamino
 -46.5900|-70.9297|Perito Moreno
 -29.3413|-58.6106|Perugorría
 -27.6707|-55.2458|Picada Gobernador López
+-23.3164|-64.2183|Pichanal
 -46.7949|-67.9573|Pico Truncado
 -39.5161|-69.2876|Picún Leufú
 -40.0481|-70.0741|Piedra del Águila
 -31.1859|-59.9518|Piedras Blancas
+-37.6026|-62.4084|Pigüé
 -36.2142|-59.0600|Pila
 -34.4424|-59.0616|Pilar
 -41.1229|-70.7215|Pilcaniyeu
@@ -768,6 +808,7 @@
 -38.9667|-68.2333|Plottier
 -31.6833|-68.5833|Pocito
 -28.3945|-66.2205|Pomán
+-34.7495|-58.7016|Pontevedra
 -31.0139|-62.0665|Porteña
 -27.3671|-55.8961|Posadas
 -32.0186|-62.9198|Pozo del Molle
@@ -776,6 +817,7 @@
 -26.1409|-59.5954|Presidencia Roca
 -26.7852|-60.4388|Presidencia Roque Sáenz Peña
 -34.9423|-58.4657|Presidente Perón
+-22.0490|-63.6908|Profesor Salvador Mazza
 -32.3448|-58.4427|Pronunciamiento
 -38.0919|-64.3031|Puan
 -30.2209|-59.3898|Pueblo Libertador
@@ -796,8 +838,8 @@
 -27.3722|-59.0821|Puerto Tirol
 -27.5141|-58.9391|Puerto Vilelas
 -31.5371|-58.0153|Puerto Yeruá
+-38.8805|-62.0750|Punta Alta
 -35.4557|-57.7917|Punta Indio
--32.9984|-60.7679|Pérez
 -36.0546|-63.5643|Quemú Quemú
 -30.2140|-64.5006|Quilino
 -34.7397|-58.3532|Quilmes
@@ -813,18 +855,11 @@
 -34.5848|-58.4169|Recoleta
 -29.1500|-59.6500|Reconquista
 -29.2818|-65.0610|Recreo
+-34.7259|-58.3966|Remedios de Escalada de San Martín
 -27.4606|-58.9839|Resistencia
 -34.5894|-58.3974|Retiro
 -25.3621|-58.2775|Riacho Eh-Eh
 -27.5819|-58.7450|Riachuelo
--35.5778|-63.6644|Rivadavia
--34.1951|-61.1257|Rojas
--32.8985|-60.9068|Roldán
--35.5201|-59.7471|Roque Pérez
--32.9468|-60.6393|Rosario
--32.3029|-59.1454|Rosario del Tala
--34.2683|-62.7126|Rufino
--26.9833|-55.0500|Ruiz de Montoya
 -31.1649|-64.3224|Río Ceballos
 -38.9940|-64.0930|Río Colorado
 -33.1307|-64.3499|Río Cuarto
@@ -835,6 +870,17 @@
 -31.6526|-63.9099|Río Segundo
 -32.1730|-64.1141|Río Tercero
 -51.5359|-72.3367|Río Turbio
+-35.5778|-63.6644|Rivadavia
+-32.9949|-68.6860|Rodeo del Medio
+-34.1951|-61.1257|Rojas
+-32.8985|-60.9068|Roldán
+-35.5201|-59.7471|Roque Pérez
+-32.9468|-60.6393|Rosario
+-25.7986|-64.9739|Rosario de la Frontera
+-24.9858|-65.5784|Rosario de Lerma
+-32.3029|-59.1454|Rosario del Tala
+-34.2683|-62.7126|Rufino
+-26.9833|-55.0500|Ruiz de Montoya
 -34.5543|-58.5098|Saavedra
 -31.6630|-63.0451|Sacanta
 -28.2538|-58.6259|Saladas
@@ -854,6 +900,7 @@
 -34.2059|-59.8536|San Antonio de Areco
 -32.2138|-62.6324|San Antonio de Litín
 -24.2180|-66.3188|San Antonio de los Cobres
+-34.6627|-58.6982|San Antonio de Padua
 -40.7319|-64.9477|San Antonio Oeste
 -33.4976|-64.3149|San Basilio
 -31.7837|-60.4416|San Benito
@@ -861,11 +908,11 @@
 -31.1776|-65.1025|San Carlos
 -31.7286|-61.0919|San Carlos Centro
 -41.1456|-71.3082|San Carlos de Bariloche
+-36.2307|-61.1157|San Carlos de Bolívar
 -38.4026|-60.2776|San Cayetano
 -27.3712|-58.5121|San Cosme
 -34.6242|-58.4122|San Cristóbal
 -34.2451|-58.9007|San Fernando
--28.4696|-65.7852|San Fernando del Valle de Catamarca
 -31.4280|-62.0827|San Francisco
 -26.2426|-58.6304|San Francisco de Laishí
 -29.7883|-63.9441|San Francisco del Chañar
@@ -878,6 +925,8 @@
 -30.3845|-58.7517|San José de Feliciano
 -30.2406|-68.7469|San José de Jáchal
 -30.3544|-63.9487|San José de la Dormida
+-24.8971|-65.4844|San José de los Cerrillos
+-25.4971|-64.9711|San José de Metán
 -31.5375|-68.5364|San Juan
 -49.3055|-67.7274|San Julián
 -32.4465|-58.4357|San Justo
@@ -887,19 +936,20 @@
 -33.0810|-68.4681|San Martín
 -40.1579|-71.3534|San Martín de los Andes
 -34.5533|-58.7741|San Miguel
+-35.4392|-58.8074|San Miguel del Monte
 -26.8241|-65.2226|San Miguel de Tucumán
 -34.6039|-58.3906|San Nicolás
+-33.3342|-60.2108|San Nicolás de los Arroyos
 -33.7956|-60.1106|San Pedro
 -24.2313|-64.8661|San Pedro de Jujuy
 -34.6177|-68.3301|San Rafael
 -23.1370|-64.3243|San Ramón de la Nueva Orán
 -31.6249|-58.5052|San Salvador
 -24.1946|-65.2971|San Salvador de Jujuy
--34.6225|-58.3806|San Telmo
--35.0810|-58.7480|San Vicente
 -30.9000|-57.9316|Santa Ana
 -32.1748|-58.7862|Santa Anita
 -24.3092|-64.6625|Santa Clara
+-37.8344|-57.5075|Santa Clara del Mar
 -30.9443|-59.7883|Santa Elena
 -33.1766|-63.2828|Santa Eufemia
 -31.6488|-60.7087|Santa Fe
@@ -909,14 +959,19 @@
 -26.6955|-66.0473|Santa María
 -28.2632|-58.1189|Santa Rosa
 -32.0690|-64.5363|Santa Rosa de Calamuchita
+-32.3429|-65.2032|Santa Rosa del Conlara
 -31.1523|-63.4019|Santa Rosa de Río Primero
 -24.4517|-65.9745|Santa Rosa de Tastil
--32.3429|-65.2032|Santa Rosa del Conlara
 -27.8326|-61.1375|Santa Sylvina
+-36.5406|-56.6929|Santa Teresita
+-34.6225|-58.3806|San Telmo
 -27.7951|-64.2615|Santiago del Estero
 -31.3873|-63.4182|Santiago Temple
 -27.1413|-55.4087|Santo Pipó
+-34.6031|-58.5407|Santos Lugares
 -28.5494|-56.0408|Santo Tomé
+-35.0810|-58.7480|San Vicente
+-34.6816|-58.3464|Sarandí
 -45.5881|-69.0700|Sarmiento
 -31.7676|-61.8289|Sastre
 -31.7029|-62.4820|Saturnino M. Laspiur
@@ -951,10 +1006,13 @@
 -32.7329|-65.2911|Tilisarao
 -28.0632|-67.5649|Tinogasta
 -27.0269|-62.7064|Tintina
+-32.2879|-63.3560|Tío Pujio
+-36.6739|-64.3798|Toay
 -31.5557|-64.0095|Toledo
 -54.5108|-67.1955|Tolhuin
 -36.4124|-57.5734|Tordillo
 -38.2602|-62.9578|Tornquist
+-34.4751|-58.7537|Tortuguitas
 -29.2320|-61.7692|Tostado
 -32.5844|-61.1685|Totoras
 -26.2314|-65.2809|Trancas
@@ -967,7 +1025,9 @@
 -26.3407|-60.4321|Tres Isletas
 -36.4894|-63.1972|Tres Lomas
 -43.0858|-71.4639|Trevelin
--32.2879|-63.3560|Tío Pujio
+-34.8898|-58.5676|Tristán Suárez
+-33.5812|-69.0154|Tunuyán
+-33.3693|-69.1478|Tupungato
 -31.7936|-58.3135|Ubajay
 -33.0320|-63.5067|Ucacha
 -35.1528|-65.9460|Unión
@@ -976,8 +1036,10 @@
 -36.5068|-63.8623|Uriburu
 -54.8108|-68.3159|Ushuaia
 -40.6799|-66.1628|Valcheta
+-34.6714|-58.4090|Valentín Alsina
 -31.1173|-64.4808|Valle Hermoso
 -35.5514|-60.8465|Veinticinco de Mayo
+-34.6313|-58.5135|Vélez Sársfield
 -33.7456|-61.9689|Venado Tuerto
 -29.4593|-60.2126|Vera
 -34.6292|-58.5296|Versalles
@@ -989,23 +1051,25 @@
 -33.9196|-64.3922|Vicuña Mackenna
 -40.8135|-62.9967|Viedma
 -31.2946|-64.2954|Villa Allende
+-27.5738|-60.7153|Villa Ángela
 -32.1635|-63.8916|Villa Ascasubi
 -28.4961|-63.8161|Villa Atamisqui
 -31.5500|-68.7333|Villa Basilio Nievas
 -31.9142|-64.7325|Villa Berna
 -27.2917|-60.4126|Villa Berthet
 -29.2864|-67.0207|Villa Bustos
--31.4241|-64.4978|Villa Carlos Paz
 -34.0057|-61.6076|Villa Cañás
+-31.4241|-64.4978|Villa Carlos Paz
 -31.3226|-62.8135|Villa Concepción del Tío
 -33.2278|-60.3297|Villa Constitución
 -34.5981|-58.4617|Villa Crespo
 -31.7058|-65.0180|Villa Cura Brochero
--30.8552|-64.9995|Villa de Soto
 -32.1767|-64.4554|Villa del Dique
 -34.6059|-58.5106|Villa del Parque
 -31.5566|-63.5345|Villa del Rosario
 -30.8167|-63.7167|Villa del Totoral
+-34.5108|-58.6806|Villa de Mayo
+-30.8552|-64.9995|Villa de Soto
 -34.6005|-58.5544|Villa Devoto
 -31.9459|-65.1896|Villa Dolores
 -32.1632|-58.4008|Villa Elisa
@@ -1014,8 +1078,10 @@
 -24.7553|-59.4894|Villa General Guemes
 -34.6105|-58.4797|Villa General Mitre
 -32.6653|-66.4505|Villa General Roca
+-31.4396|-68.5205|Villa General San Martín
 -37.3662|-57.3898|Villa Gesell
 -31.0333|-64.4833|Villa Giardino
+-31.8653|-59.0269|Villaguay
 -31.2310|-59.9846|Villa Hernandarias
 -34.8383|-64.5869|Villa Huidobro
 -40.7617|-71.6463|Villa La Angostura
@@ -1038,19 +1104,17 @@
 -33.2011|-63.8623|Villa Reducción
 -39.1000|-67.0667|Villa Regina
 -34.6927|-58.4843|Villa Riachuelo
+-39.1425|-64.0162|Villarino
 -32.1879|-64.4803|Villa Rumipal
 -34.6164|-58.4935|Villa Santa Rita
+-34.6336|-58.5705|Villa Sarmiento
 -34.6679|-58.4676|Villa Soldati
 -30.2133|-61.8760|Villa Trinidad
 -30.3955|-64.1224|Villa Tulumba
 -34.5719|-58.5093|Villa Urquiza
 -34.3409|-64.9203|Villa Valeria
--27.5738|-60.7153|Villa Ángela
--31.8653|-59.0269|Villaguay
--39.1425|-64.0162|Villarino
 -28.7596|-68.2069|Vinchina
 -38.7500|-68.1833|Vista Alegre
--34.6313|-58.5135|Vélez Sársfield
 -25.9688|-54.5628|Wanda
 -33.1730|-62.7708|Wenceslao Escalante
 -36.2264|-64.2339|Winifreda
@@ -1061,4 +1125,3 @@
 -23.6434|-64.4719|Yuto
 -38.8992|-70.0544|Zapala
 -34.0023|-59.4219|Zárate
--41.8507|-70.9017|Ñorquinco

@@ -74,7 +74,6 @@
 13.3833|-88.3500|San Rafael Oriente
 13.6893|-89.1872|San Salvador
 13.7333|-88.8333|San Sebastián
-13.6333|-88.8000|San Vicente
 13.9942|-89.5597|Santa Ana
 13.3833|-88.4167|Santa Elena
 13.6247|-87.8936|Santa Rosa de Lima
@@ -82,6 +81,7 @@
 13.4833|-88.4667|Santiago de María
 13.5167|-88.9500|Santiago Nonualco
 13.6408|-89.1333|Santo Tomás
+13.6333|-88.8000|San Vicente
 13.8667|-88.6333|Sensuntepeque
 13.7167|-88.3667|Sesori
 13.7000|-88.0167|Sociedad

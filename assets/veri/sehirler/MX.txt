@@ -18,6 +18,7 @@
 16.5562|-92.8045|Acala
 17.5057|-99.1667|Acalco
 18.0185|-102.3403|Acalpican de Morelos
+20.0309|-100.7219|Acámbaro
 19.9552|-99.8443|Acambay
 18.7170|-99.1572|Acamilpa
 18.5651|-99.5660|Acamixtla
@@ -62,13 +63,12 @@
 18.6015|-99.5426|Acuitlapan
 18.9087|-99.7846|Acuitlapilco
 19.4718|-101.3292|Acuitzio
+19.4959|-101.3332|Acuítzio del Canje
 18.5056|-95.7743|Acula
 20.0987|-99.8276|Aculco de Espinoza
 18.7189|-97.3037|Acultzingo
-19.4959|-101.3332|Acuítzio del Canje
 19.2521|-98.1678|Acxotla del Monte
 19.3242|-98.2375|Acxotla del Río
-20.0309|-100.7219|Acámbaro
 21.1167|-100.8681|Adjuntas del Río
 17.2160|-93.4789|Adolfo López Mateos
 24.8964|-107.6328|Adolfo López Mateos (El Tamarindo)
@@ -87,6 +87,7 @@
 21.9579|-99.3942|Agua Buena
 19.9001|-100.1719|Agua Caliente
 26.5376|-108.3481|Agua Caliente Grande (De Gastélum)
+16.4739|-92.4087|Aguacatenango
 20.9469|-103.2061|Agua Colorada
 16.5909|-96.8020|Agua del Espino
 20.1622|-103.8275|Agua Delgada
@@ -94,35 +95,33 @@
 19.9789|-99.5783|Agua Escondida
 20.5878|-102.5583|Agua Fría
 22.1067|-101.9218|Agua Gorda
+26.3136|-99.5373|Agualeguas
+26.3108|-99.5392|Agualeguas Nuevo León
 25.1893|-101.0884|Agua Nueva
 19.6780|-105.1847|Agua Paloma
 20.7936|-102.8919|Agua Prieta
 20.8364|-103.1878|Agua Rica
 19.7311|-103.1964|Agua Salada
+17.0365|-100.0630|Aguas Blancas
+20.9703|-101.3725|Aguas Buenas
+21.8833|-102.3000|Aguascalientes
 22.2375|-101.0422|Agua Señora
 22.8926|-105.9736|Agua Verde
 15.6342|-92.1447|Agua Zarca
-16.4739|-92.4087|Aguacatenango
-26.3136|-99.5373|Agualeguas
-26.3108|-99.5392|Agualeguas Nuevo León
-17.0365|-100.0630|Aguas Blancas
-20.9703|-101.3725|Aguas Buenas
-16.8425|-99.6406|Aguas Calientes
-21.8833|-102.3000|Aguascalientes
 17.8108|-95.0150|Aguilera
 18.7374|-102.7893|Aguililla
 15.0752|-92.1986|Agustín de Iturbide
 25.9199|-109.1732|Ahome
 16.8286|-98.9856|Ahuacachahue (Ndog'yo Itún Tichi)
+19.7835|-97.2978|Ahuacatán
 18.8941|-99.7087|Ahuacatitlán
 19.9622|-99.9869|Ahuacatitlán Cuarto y Quinto Cuartel
 15.0403|-92.1804|Ahuacatlán
 21.2147|-99.5406|Ahuacatlán de Guadalupe
-19.7835|-97.2978|Ahuacatán
 17.7425|-98.9178|Ahuacuotzingo
 17.4304|-98.2903|Ahuajutla
-20.6167|-103.8667|Ahualulco de Mercado
 22.4002|-101.1661|Ahualulco del Sonido Trece
+20.6167|-103.8667|Ahualulco de Mercado
 18.4127|-98.0185|Ahuatempan
 21.0024|-98.1505|Ahuateno
 18.8583|-97.9176|Ahuatepec
@@ -148,12 +147,16 @@
 18.3791|-97.2587|Ajalpan
 20.2994|-103.2581|Ajijic
 16.9838|-92.9380|Ajilhó
-20.4760|-100.2158|Ajuchitlancito
 20.7071|-100.0201|Ajuchitlán
+20.4760|-100.2158|Ajuchitlancito
 18.1519|-100.4835|Ajuchitlán del Progreso
 19.5126|-101.7228|Ajuno
 20.2655|-89.3479|Akil
 20.3969|-87.3144|Akumal
+20.9115|-97.6755|Álamo
+27.0233|-108.9344|Álamos
+19.1962|-97.4386|Álamos Tepetitlán
+20.9892|-97.7059|Álamo Temapache
 22.1297|-99.6009|Alaquines
 17.0675|-96.2001|Albarradas
 21.7724|-101.0119|Alberto Carrera Torres
@@ -172,9 +175,9 @@
 25.8219|-103.1947|Alejo González (Bilbao)
 20.4118|-99.3839|Alfajayucan
 21.1494|-101.6061|Alfaro
+32.5467|-116.6172|Alfonso Garzón [Granjas Familiares]
 26.0653|-109.0197|Alfonso G. Calderón (Poblado Siete)
 25.7856|-108.6022|Alfonso G. Calderón Velarde
-32.5467|-116.6172|Alfonso Garzón [Granjas Familiares]
 16.6675|-93.5064|Alfonso Moguel
 26.0767|-99.5961|Alfonso Reyes
 19.5303|-90.1821|Alfredo V. Bonfil
@@ -207,6 +210,9 @@
 20.5681|-103.3725|Altus Bosques
 19.4312|-97.7956|Altzayanca
 18.7714|-95.7618|Alvarado
+14.9223|-92.3781|Álvaro Obregón
+18.3942|-92.7998|Álvaro Obregón (Santa Cruz)
+18.3929|-92.7912|Álvaro Obregón 2da. Sección (El Lechugal)
 19.8162|-104.0208|Amacuautitlán
 19.9333|-103.0667|Amacueca
 18.6961|-98.8117|Amacuitlapilco
@@ -216,29 +222,30 @@
 20.9275|-104.6003|Amajaquillo
 19.3167|-100.0167|Amanalco de Becerra
 21.7836|-105.2548|Amapa
+17.3667|-92.8167|Amatán
 20.9524|-104.7378|Amatanejo
 15.4333|-92.1167|Amatenango de la Frontera
 16.5272|-92.4347|Amatenango del Valle
 18.6822|-100.1858|Amatepec
 16.8203|-99.6661|Amatillo
+20.8333|-103.7167|Amatitán
 18.4337|-95.6839|Amatitlán
 18.1763|-98.0764|Amatitlán de Azueta
-20.8333|-103.7167|Amatitán
 21.3352|-97.7570|Amatlán
 20.8070|-104.4041|Amatlán de Cañas
 18.8466|-96.9159|Amatlán de los Reyes
 18.9754|-99.0374|Amatlán de Quetzalcoatl
-17.3667|-92.8167|Amatán
 19.3466|-98.1706|Amaxac de Guerrero
 18.7241|-98.7981|Amayuca
 20.7034|-100.2651|Amazcala
 20.2761|-103.9709|Ambrosio
 20.1876|-100.1449|Amealco
 20.6700|-103.7000|Ameca
-20.5483|-104.0475|Ameca Municipality
 19.1238|-98.7665|Amecameca
+20.5483|-104.0475|Ameca Municipality
 20.5526|-100.5837|Ameche
 20.5634|-97.8257|Ameluca
+16.6146|-92.9918|América Libre
 18.7427|-98.7709|Amilcingo
 20.0478|-97.7992|Amixtlán
 19.0502|-98.0415|Amozoc
@@ -246,12 +253,12 @@
 28.3833|-105.6167|Ampliación Colonia Lázaro Cárdenas
 25.2979|-99.7258|Ampliación de la Laguna
 22.2153|-99.2361|Ampliación la Hincada
-19.6164|-99.1472|Ampliación San Mateo (Colonia Solidaridad)
+19.6164|-99.1472|Ampliación San Mateo|Ampliación San Mateo (Colonia Solidaridad)
 19.5806|-98.9205|Ampliación Tezoyuca
 18.2936|-100.6397|Amuco de la Reforma
-16.6146|-92.9918|América Libre
 17.9756|-93.0242|Anacleto Canabal 2da. Sección
 18.0183|-92.9899|Anacleto Canabal 3ra. Sección
+28.4840|-106.7472|Anáhuac
 22.2028|-97.8551|Anahuac
 21.3850|-102.6342|Analco
 19.2644|-98.5003|Analco de Ponciano Arriaga (Santa Cruz Analco)
@@ -259,6 +266,8 @@
 18.7774|-98.9891|Anenecuilco
 19.5479|-102.2256|Angahuán
 20.1500|-101.7111|Angamacutiro de la Unión
+15.8662|-92.7232|Ángel Albino Corzo
+17.1264|-93.2750|Ángel Albino Corzo (Guadalupe)
 18.6080|-95.3972|Angel R. Cabada
 25.3659|-108.1611|Angostura
 16.9909|-96.7132|Animas Trujano
@@ -272,13 +281,12 @@
 19.0596|-95.9927|Antón Lizardo
 19.0145|-102.2043|Antúnez
 19.0128|-102.2039|Antúnez (Morelos)
-28.4840|-106.7472|Anáhuac
 16.8536|-99.5894|Apalani
 19.7113|-98.4509|Apan
 17.7412|-99.3291|Apango
 19.0683|-97.9403|Apango de Zaragoza
-17.0397|-99.1694|Apantla
 19.3582|-97.1910|Apantéopan
+17.0397|-99.1694|Apantla
 20.4036|-97.8466|Apapantilla
 20.4681|-100.3686|Apapátaro
 16.7107|-92.7934|Apas
@@ -351,15 +359,15 @@
 17.9774|-93.4104|Arroyo Hondo Abejonal
 17.9001|-95.9617|Arroyo Limón
 17.3917|-92.1044|Arroyo Palenque
+22.0545|-100.9052|Arroyos
 18.4867|-95.4133|Arroyo San Isidro
 21.5478|-99.6883|Arroyo Seco
 19.3308|-99.5369|Arroyo Vista Hermosa
 18.0764|-96.5442|Arroyo Zapotillo
-22.0545|-100.9052|Arroyos
 25.4453|-100.8467|Arteaga
 25.8353|-100.1428|Artemio Treviño
-25.8316|-103.3829|Arturo Martínez Adame
 18.9741|-98.1585|Artículo Primero Constitucional
+25.8316|-103.3829|Arturo Martínez Adame
 16.7797|-92.7203|Arvenza Uno
 31.2791|-107.7315|Ascensión
 22.2333|-102.0833|Asientos
@@ -373,8 +381,8 @@
 19.9266|-103.7425|Atacco
 20.0587|-102.1870|Atacheo de Regalado
 19.8437|-97.5601|Atalpan
-19.7389|-101.1158|Atapaneo
 19.6506|-102.4246|Atapán
+19.7389|-101.1158|Atapaneo
 21.2678|-99.7191|Atarjea
 19.9194|-103.9433|Atarjeas de Covarrubias
 18.6195|-92.1033|Atasta
@@ -417,6 +425,7 @@
 20.7729|-100.2395|Atongo
 19.9411|-100.2231|Atotonilco
 19.9703|-99.2387|Atotonilco de Tula
+20.5508|-102.5082|Atotonilco el Alto
 20.3483|-103.6708|Atotonilco el Bajo
 20.2863|-98.6685|Atotonilco el Grande
 20.3929|-103.1236|Atotonilquillo
@@ -435,8 +444,8 @@
 22.2875|-98.6508|Aurelio Manrique
 17.2358|-92.8739|Aurora Ermita
 17.1170|-92.4763|Aurora Esquipulas
-19.7667|-104.3667|Autlán de Navarro
 21.6897|-105.3075|Aután
+19.7667|-104.3667|Autlán de Navarro
 19.7246|-98.7586|Axapusco
 17.8039|-99.4617|Axaxacualco
 18.6022|-99.5181|Axixintla
@@ -480,27 +489,28 @@
 30.3557|-108.9315|Bacerac
 17.0396|-92.1899|Bachajón
 24.7134|-107.4694|Bachigualatito
+28.7680|-107.2556|Bachíniva
 25.6969|-108.8144|Bachoco
 25.7389|-109.1478|Bachomobampo Número Dos
-28.7680|-107.2556|Bachíniva
 26.9824|-109.6535|Bacobampo
 26.3175|-109.0851|Bacorehuis
 25.8094|-107.9150|Bacubirito
+27.5514|-110.0833|Bácum
 25.3652|-107.5508|Badiraguato
 25.8742|-109.1178|Bagojo Colectivo
-27.4095|-108.0674|Bahuichivo
 27.1423|-114.2958|Bahía Asunción
 28.8228|-111.9408|Bahía de Kino
 27.3517|-110.4547|Bahía de Lobos
 27.6906|-114.8966|Bahía Tortugas
-15.9234|-97.1211|Bajos de Chila
-16.9609|-99.9717|Bajos del Ejido
-16.4752|-92.0647|Bajucu
+27.4095|-108.0674|Bahuichivo
 20.9494|-101.4953|Bajío de Bonillas
 20.7131|-102.4286|Bajío de Ratones
 21.6752|-102.1161|Bajío de San José
 22.5650|-102.0078|Bajío de San Nicolás
 20.7089|-102.3903|Bajío Seco
+15.9234|-97.1211|Bajos de Chila
+16.9609|-99.9717|Bajos del Ejido
+16.4752|-92.0647|Bajucu
 17.8090|-91.5368|Balancán
 20.4425|-103.2672|Balcones de la Calera
 26.9515|-106.3492|Balleza
@@ -518,9 +528,9 @@
 19.2081|-104.6806|Barra de Navidad
 16.5086|-98.7322|Barra de Tecoanapa
 20.2333|-103.6333|Barranca de los Laureles
+21.9803|-103.9069|Barranca del Tule
 20.2681|-103.6647|Barranca de Otates
 20.2557|-103.6556|Barranca de Santa Clara
-21.9803|-103.9069|Barranca del Tule
 18.0692|-94.5869|Barrancas
 17.9710|-92.7617|Barrancas y Amate 3ra. Sección
 24.0834|-99.1253|Barretal
@@ -541,6 +551,7 @@
 24.8209|-100.1046|Barrio de Jalisco
 19.3678|-99.6869|Barrio de Jesús Fracción Primera
 19.4358|-99.5583|Barrio de la Barranca
+19.3914|-99.6581|Barrio del Cajón
 19.2825|-99.8283|Barrio de México
 19.0886|-98.2900|Barrio de Nuevo León
 19.5356|-99.9846|Barrio de Puentecillas
@@ -551,7 +562,6 @@
 19.5653|-99.7500|Barrio de San Pedro la Cabecera
 19.3736|-99.3311|Barrio de San Ramón
 22.1836|-103.2267|Barrio de Tapias
-19.3914|-99.6581|Barrio del Cajón
 19.4261|-100.1064|Barrio el Boncho
 19.4531|-100.0353|Barrio el Vivero
 19.4200|-100.0997|Barrio la Joya
@@ -572,21 +582,21 @@
 27.0285|-107.7412|Batopilas
 16.7997|-92.7119|Bautista Chico
 30.4793|-108.9398|Bavispe
+20.4417|-90.0274|Bécal
 19.8747|-89.2173|Becanchén
 15.4553|-92.1583|Bejucal de Ocampo
 18.7780|-100.4278|Bejucos
 19.6333|-98.7966|Belem
 21.5302|-102.4351|Belem del Refugio
-15.2994|-92.3806|Belisario Domínguez
-19.4333|-96.8665|Bella Esperanza
-15.5833|-92.2167|Bella Vista
-20.6900|-99.5714|Bella Vista del Río
-19.8213|-101.6795|Bellas Fuentes
-20.4341|-103.6374|Bellavista
-18.8764|-97.5439|Bellavista de Victoria (San José Bellavista)
-25.6981|-100.1353|Bello Amanecer
 17.7891|-92.6114|Belén
 19.3469|-98.1900|Belén Atzitzimititlán
+15.2994|-92.3806|Belisario Domínguez
+19.4333|-96.8665|Bella Esperanza
+19.8213|-101.6795|Bellas Fuentes
+20.4341|-103.6374|Bellavista
+20.6900|-99.5714|Bella Vista del Río
+18.8764|-97.5439|Bellavista de Victoria (San José Bellavista)
+25.6981|-100.1353|Bello Amanecer
 16.5160|-90.6537|Benemérito de las Américas
 18.1194|-96.0019|Benemérito Juárez
 31.6711|-116.5114|Benito García (El Zorrillo)
@@ -612,9 +622,9 @@
 18.0786|-93.9183|Blasillo 1ra. Sección (Nicolás Bravo)
 21.8415|-101.1165|Bledos
 19.8758|-99.9117|Bobashi de Guadalupe
-20.5121|-105.3144|Boca de Tomatlán
 19.1545|-96.8327|Boca del Monte
 19.1046|-96.1041|Boca del Rio
+20.5121|-105.3144|Boca de Tomatlán
 19.8386|-100.8172|Bocaneo (San Pedro)
 22.5182|-101.0219|Bocas
 16.9962|-92.8922|Bochil
@@ -622,8 +632,8 @@
 27.8413|-107.5892|Bocoyna
 21.0075|-89.1791|Bokoba
 21.8306|-103.7806|Bolaños
-20.0039|-89.7466|Bolonchén de Rejón
 20.8501|-89.8319|Bolón
+20.0039|-89.7466|Bolonchén de Rejón
 20.5154|-99.6668|Bomanxotha
 20.0140|-99.2728|Bomintzha
 20.4440|-99.7002|Bondojito
@@ -644,8 +654,8 @@
 20.3998|-100.4242|Bravo
 14.5359|-92.2241|Brisas Barra de Suchiate
 19.2244|-104.6564|Brisas de la Navidad
-15.8369|-97.0419|Brisas de Zicatela
 18.0156|-92.9708|Brisas del Carrizal
+15.8369|-97.0419|Brisas de Zicatela
 20.2515|-102.5712|Briseñas
 20.2682|-102.5619|Briseñas de Matamoros
 20.1833|-103.7000|Brizuela
@@ -653,29 +663,26 @@
 26.8634|-109.4343|Buayums
 20.7563|-105.3344|Bucerías
 21.2030|-88.7927|Buctzotz
-25.4619|-108.4783|Buen Retiro (El Retiro)
-16.9625|-98.5808|Buena Vista
-17.6556|-92.4439|Buena Vista (Apasco)
-17.7307|-92.6200|Buena Vista (Puxcatán)
-18.1442|-92.7497|Buena Vista 1ra. Sección
-17.2608|-99.5018|Buena Vista de la Salud
 30.0212|-107.1931|Buenaventura
 16.2428|-91.9878|Buenavista
+17.6556|-92.4439|Buena Vista (Apasco)
 17.1078|-93.0669|Buenavista (Matasanos)
+17.7307|-92.6200|Buena Vista (Puxcatán)
+18.1442|-92.7497|Buena Vista 1ra. Sección
 17.0009|-99.2133|Buenavista de Allende
 18.4603|-98.6373|Buenavista de Benito Juárez
 20.3733|-101.8702|Buenavista de Cortés
 18.4596|-99.4087|Buenavista de Cuéllar
 18.9450|-97.8278|Buenavista de Juárez
+17.2608|-99.5018|Buena Vista de la Salud
 23.1520|-103.1877|Buenavista de Trujillo
 18.9197|-98.1763|Buenavista Tetela
 19.2128|-102.5874|Buenavista Tomatlán
 32.4228|-116.9411|Buenos Aires
 20.8403|-97.6014|Buenos Aires (San Isidro)
+25.4619|-108.4783|Buen Retiro (El Retiro)
 24.9472|-98.7992|Burgos
 26.5557|-100.5060|Bustamante
-27.5514|-110.0833|Bácum
-20.4417|-90.0274|Bécal
 17.9683|-93.5014|C-32 (Licenciado Francisco Trujillo Gurría)
 17.9231|-93.4481|C-41 (Licenciado Carlos A. Madrazo)
 19.3721|-100.1367|Cabecera de Indígenas
@@ -687,8 +694,8 @@
 18.8310|-96.8419|Cacahuatal
 20.9836|-89.2269|Cacalchen
 19.2531|-99.7062|Cacalomacan
-18.5464|-99.6436|Cacalotenango
 23.0678|-105.8419|Cacalotán
+18.5464|-99.6436|Cacalotenango
 18.7875|-98.4861|Cacaloxúchitl
 17.1243|-100.3504|Cacalutla
 18.1946|-88.6953|Cacao
@@ -702,27 +709,28 @@
 17.2678|-99.4931|Cajelitos
 20.4317|-103.3094|Cajititlán
 17.1680|-96.2617|Cajonos
-19.8478|-97.4231|Cala Norte
-19.8328|-97.4211|Cala Sur
 18.0000|-89.7500|Calakmul
 20.5467|-100.1862|Calamanda
+19.8478|-97.4231|Cala Norte
+19.8328|-97.4211|Cala Sur
 19.1370|-97.1420|Calcahualco
 20.5681|-89.9124|Calcehtoc
 18.5556|-88.2552|Calderitas
 18.8583|-99.1819|Calera Chica
 18.9969|-103.8790|Caleras
 20.5613|-100.5601|Caleras de Ameche
-21.4600|-102.5881|Calerita
 18.4288|-95.1774|Calería
+21.4600|-102.5881|Calerita
 20.4415|-97.5510|Calichar Palma Sola
+17.0989|-92.7875|Cálido
 25.7609|-103.3756|California
 17.5313|-98.2779|Calihualá
 19.1632|-99.6181|Calimaya
 18.2952|-97.1638|Calipan
 19.3365|-99.6892|Calixtlahuaca
 20.3858|-89.9876|Calkiní
-19.4886|-99.6133|Calle Real
 19.6683|-103.2628|Callejones
+19.4886|-99.6133|Calle Real
 18.6350|-98.6341|Calmeca
 20.9022|-98.5703|Calnali
 21.0249|-88.1258|Calotmul
@@ -743,6 +751,7 @@
 19.0081|-96.5681|Camarón de Tejeda
 20.1492|-98.7222|Camelia (Barrio la Camelia)
 18.0283|-96.2081|Camelia Roja
+19.4272|-100.3989|Camémbaro
 18.7825|-97.1602|Camerino Z. Mendoza
 21.4653|-104.8008|Camichín de Jauja
 20.0380|-97.7585|Camocuautla
@@ -766,9 +775,23 @@
 25.7583|-109.3151|Campo Pesquero el Colorado
 20.7872|-103.4431|Campo Real
 27.4500|-110.1000|Campo Sesenta
-19.4272|-100.3989|Camémbaro
+19.9980|-99.2395|Cañada
+20.9044|-101.3126|Cañada de Bustos
+20.3755|-100.9455|Cañada de Caracheo
+19.6953|-99.3357|Cañada de Cisneros
+19.3127|-99.7897|Cañada de Guadarrama
+21.2414|-102.8372|Cañada de Islas
+21.7097|-105.3542|Cañada del Tabaco
+19.9653|-99.3939|Cañada de Madero
+20.9264|-101.9211|Cañada de Negros
+20.2964|-101.9636|Cañada de Ramírez
+21.3714|-101.8765|Cañada de Ricos
+20.5522|-102.3533|Cañada de San Ignacio
+21.0389|-102.5928|Cañada Grande
+21.1469|-102.6862|Cañadas de Obregón
 19.9787|-99.6055|Canalejas
 30.9870|-110.2906|Cananea
+23.7437|-103.2440|Cañas
 24.5258|-104.7733|Canatlán
 19.3003|-102.9489|Canchol
 16.9167|-92.4833|Cancuc
@@ -777,38 +800,42 @@
 18.0000|-90.7500|Candelaria
 15.9264|-96.4927|Candelaria Loxicha
 19.0419|-97.7008|Candelaria Portezuelo
+23.6037|-102.7270|Cañitas de Felipe Pescador
 21.2722|-101.8069|Canoas
 22.1233|-103.2456|Canoas de Arriba
+24.2947|-99.7200|Cañón de Vacas
 21.1575|-89.1013|Cansahcab
 19.8399|-101.7265|Cantabria
 20.4319|-89.0718|Cantamayec
 19.8408|-99.3092|Cantera de Villagrán
 20.4578|-99.2103|Cantinela
 17.2622|-92.4069|Cantioc
-23.6246|-103.3463|Cantuna
 15.1024|-92.5000|Cantón las Delicias
 15.0674|-92.5256|Cantón Rancho Nuevo
 15.1142|-92.3526|Cantón Villaflor
 25.8800|-99.1794|Cantú
+23.6246|-103.3463|Cantuna
 17.6486|-93.3946|Caobanal 1ra. Sección (Mezcalapa)
 18.4450|-89.1050|Caobas
 19.9646|-101.2312|Capacho
+19.5474|-102.0518|Capácuaro
 18.3450|-92.8036|Caparroso
 20.8269|-102.5922|Capilla de Guadalupe
 20.6633|-102.8430|Capilla de Milpillas
 17.7731|-91.1475|Capitán Felipe Castellanos Díaz (San Pedro)
 18.8064|-97.0272|Capoluca
 18.8702|-99.9608|Capula
-19.1935|-99.4659|Capulhuac de Mirafuentes
 17.3097|-96.4466|Capulálpam de Méndez
+19.1935|-99.4659|Capulhuac de Mirafuentes
 20.4780|-103.2695|Capulín
 20.8824|-101.3068|Capulín de Bustos
-19.5474|-102.0518|Capácuaro
 21.5125|-102.0747|Caquixtle de Arriba
+18.9851|-101.0416|Carácuaro
 19.8600|-102.0364|Carapán
 29.6831|-110.9562|Carbo
 20.8052|-100.1712|Carbonera
 22.1831|-102.2460|Carboneras
+20.6301|-101.2204|Cárdenas
 20.0569|-99.2302|Cardonal
 27.7460|-107.0780|Carichí
 20.6454|-97.3059|Caristay
@@ -830,13 +857,12 @@
 20.7063|-101.3060|Carrizal Grande
 17.8508|-99.7126|Carrizalillo
 21.9564|-102.2764|Cartagena [Fraccionamiento]
-18.9851|-101.0416|Carácuaro
 19.0422|-98.1189|Casa Blanca
 22.8850|-102.5212|Casa de Cerros
 20.4564|-103.1358|Casa de Teja
+18.5727|-99.3905|Casahuatlán
 19.8333|-99.2094|Casa Nueva
 25.9467|-100.4039|Casa Rosa
-18.5727|-99.3905|Casahuatlán
 23.7269|-98.7366|Casas
 30.3827|-107.9563|Casas Grandes
 19.1517|-100.1078|Casas Viejas
@@ -860,23 +886,6 @@
 20.3052|-98.9907|Caxuxi
 17.0474|-100.2686|Cayaco
 20.7042|-97.3099|Cazones de Herrera
-19.9980|-99.2395|Cañada
-20.9044|-101.3126|Cañada de Bustos
-20.3755|-100.9455|Cañada de Caracheo
-19.6953|-99.3357|Cañada de Cisneros
-19.3127|-99.7897|Cañada de Guadarrama
-21.2414|-102.8372|Cañada de Islas
-19.9653|-99.3939|Cañada de Madero
-20.9264|-101.9211|Cañada de Negros
-20.2964|-101.9636|Cañada de Ramírez
-21.3714|-101.8765|Cañada de Ricos
-20.5522|-102.3533|Cañada de San Ignacio
-21.7097|-105.3542|Cañada del Tabaco
-21.0389|-102.5928|Cañada Grande
-21.1469|-102.6862|Cañadas de Obregón
-23.7437|-103.2440|Cañas
-23.6037|-102.7270|Cañitas de Felipe Pescador
-24.2947|-99.7200|Cañón de Vacas
 14.8638|-92.2797|Cebadilla 1ra. Sección
 26.5258|-104.1295|Ceballos
 18.8148|-97.2253|Cecilio Terán
@@ -922,12 +931,12 @@
 20.4011|-101.3245|Cerro Colorado
 19.3171|-100.4654|Cerro Colorado de Ocampo
 20.8147|-100.5011|Cerro de la Cruz
+16.1101|-97.2044|Cerro del Aire
+19.2819|-99.7547|Cerro del Murciélago
 18.7508|-103.7215|Cerro de Ortega
 16.7765|-99.6304|Cerro de Piedra
 19.3704|-99.3516|Cerro de San Francisco
 22.2178|-100.7996|Cerro de San Pedro
-16.1101|-97.2044|Cerro del Aire
-19.2819|-99.7547|Cerro del Murciélago
 20.5929|-101.1268|Cerro Gordo
 20.2386|-97.6819|Cerro Grande
 19.2354|-96.3786|Cerro Guzmán
@@ -936,8 +945,8 @@
 18.1542|-96.5750|Cerro Quemado
 20.5260|-103.0845|Cerro Santa Fe
 23.9004|-106.9285|Ceuta
-21.0965|-89.5777|Chablekal
 17.8590|-91.7813|Chablé
+21.0965|-89.5777|Chablekal
 20.4283|-105.4678|Chacala
 16.8068|-98.4579|Chacalapa
 16.2992|-92.1834|Chacaljocóm
@@ -952,29 +961,29 @@
 16.8877|-92.5501|Chalam
 18.6895|-98.7743|Chalcatzingo
 18.9769|-99.5747|Chalchihuapan
-23.4750|-103.8829|Chalchihuites
 16.9667|-92.6500|Chalchihuitán
+23.4750|-103.8829|Chalchihuites
 21.3144|-98.7919|Chalchocoyo
 19.2617|-98.8978|Chalco
 18.9305|-99.4351|Chalma
 18.9343|-99.4232|Chalmita
 20.3097|-102.9162|Chalpicote
+20.1044|-100.8276|Chamácuaro
 20.1079|-103.2933|Chamacuero
 19.5272|-105.0733|Chamela Jalisco
 24.0993|-110.3739|Chametla
 19.3504|-90.7099|Champotón
 16.7842|-92.6896|Chamula
 15.0689|-92.3694|Chamulapita
-20.1044|-100.8276|Chamácuaro
-20.9914|-87.7856|Chan Cenote
 16.6575|-92.2575|Chanal
+20.9914|-87.7856|Chan Cenote
 19.4806|-104.1719|Chancol
 19.5097|-103.8311|Chancuellar
 18.2731|-100.5853|Changata
 20.4966|-88.5693|Chankom
 19.3798|-101.6656|Chapa
-19.8242|-99.5525|Chapa de Mota
 20.4863|-89.4678|Chapab
+19.8242|-99.5525|Chapa de Mota
 20.2933|-103.1897|Chapala
 21.1885|-104.6378|Chapalilla
 17.2963|-92.9452|Chapallal Grande
@@ -984,12 +993,12 @@
 21.1370|-98.2478|Chapopote Chico
 20.9317|-97.6827|Chapopote Núñez
 18.6259|-97.4047|Chapulco
-21.2091|-98.6702|Chapulhuacanito
 21.1573|-98.9036|Chapulhuacán
+21.2091|-98.6702|Chapulhuacanito
 17.3333|-93.1333|Chapultenango
 19.2022|-99.5618|Chapultepec
-19.2638|-102.0661|Charapendo
 19.6511|-102.2519|Charapán
+19.2638|-102.0661|Charapendo
 26.0214|-108.8309|Charay
 23.1294|-101.1135|Charcas
 20.4340|-100.4724|Charco Blanco
@@ -998,8 +1007,8 @@
 19.7497|-101.0457|Charo
 21.0201|-98.5273|Chatipán
 18.3004|-99.1154|Chaucingo
-19.4255|-96.7946|Chavarrillo
 18.7258|-99.4683|Chavarría
+19.4255|-96.7946|Chavarrillo
 19.1302|-96.8305|Chavaxtla
 20.0063|-102.4601|Chavinda
 21.7497|-101.9386|Chayotillo
@@ -1019,6 +1028,7 @@
 20.1972|-98.9539|Chicavasco
 18.7756|-90.9243|Chicbul
 20.9583|-98.6295|Chichatla
+20.6667|-88.5667|Chichén-Itzá
 18.4006|-97.0469|Chichicapa
 18.3042|-92.4314|Chichicastle 1ra. Sección
 19.3431|-96.4686|Chichicaxtle
@@ -1027,7 +1037,6 @@
 21.0372|-101.4427|Chichimequillas
 20.6318|-88.2169|Chichimila
 19.2007|-97.0669|Chichiquila
-20.6667|-88.5667|Chichén-Itzá
 16.9653|-93.1047|Chicoasén
 18.9014|-97.1081|Chicola
 19.4169|-98.9020|Chicoloapan
@@ -1051,10 +1060,10 @@
 26.1547|-109.0550|Chihuahuita
 20.3344|-88.4863|Chikindzonot
 17.9675|-97.8748|Chila
-20.2811|-98.2094|Chila de Juárez
-18.1097|-98.4857|Chila de la Sal
 18.2739|-99.7618|Chilacachapa
 20.1386|-104.6486|Chilacayote
+20.2811|-98.2094|Chila de Juárez
+18.1097|-98.4857|Chila de la Sal
 22.0314|-105.2306|Chilapa
 17.5992|-99.1739|Chilapa de Álvarez
 19.8465|-102.1172|Chilchota
@@ -1062,30 +1071,31 @@
 20.3306|-99.2312|Chilcuautla
 21.1344|-98.4356|Chililico
 16.8853|-92.4247|Chiloljá
+17.1167|-92.2833|Chilón
 17.5506|-99.5058|Chilpancingo
 18.9127|-99.8345|Chiltepec de Hidalgo
 19.5771|-96.8666|Chiltoyac
-17.1167|-92.2833|Chilón
 20.1881|-98.1600|Chimalapa
 19.4496|-99.3444|Chimalpa Viejo
 19.6652|-98.5122|Chimalpa y Tlalayote
 21.7481|-103.6947|Chimaltitán
 16.8900|-92.5314|Chimhucum
+19.7699|-90.4959|Chiná
 25.7000|-99.2345|China
 18.6222|-98.9977|Chinameca
 21.3596|-97.7348|Chinampa de Gorostiza
 21.8369|-101.8156|Chinampas
 18.2342|-98.2763|Chinantla
 19.8200|-97.3886|Chinautla
+27.3950|-108.5373|Chínipas
 26.3900|-108.3644|Chinobampo
-19.7699|-90.4959|Chiná
 20.0611|-97.6886|Chipahuatlán
 19.0061|-98.3306|Chipilo de Francisco Javier Mina
 21.4319|-101.9067|Chipinque de Arriba
 20.7456|-102.9872|Chiquihuitillo
+21.4327|-87.3356|Chiquilá
 20.2000|-103.8167|Chiquilistlán
 20.0856|-103.8939|Chiquilistlán Jalisco
-21.4327|-87.3356|Chiquilá
 19.7951|-101.2521|Chiquimitío
 16.9911|-91.9603|Chiquinival
 17.0719|-92.5981|Chiquinshulum
@@ -1096,8 +1106,8 @@
 20.7509|-89.8304|Chochola
 26.7090|-108.3255|Choix
 21.0425|-89.5588|Cholul
-21.0108|-89.2915|Cholul Cantón
 19.0641|-98.3035|Cholula
+21.0108|-89.2915|Cholul Cantón
 20.8953|-103.7353|Chome
 18.5752|-95.3935|Chonegal
 18.6542|-99.5738|Chontalcoatlán
@@ -1105,8 +1115,8 @@
 21.3920|-97.9788|Chontla
 19.8633|-99.9100|Chosto de los Jarros
 21.2578|-89.7984|Chuburná
-27.0316|-109.5842|Chucarit
 19.9001|-101.3338|Chucándiro
+27.0316|-109.5842|Chucarit
 27.0408|-103.3661|Chula Vista
 17.3842|-92.5739|Chulum Cárdenas
 17.3319|-92.5339|Chulum Juárez
@@ -1121,11 +1131,17 @@
 21.2617|-102.0144|Churintzio
 20.4119|-101.7421|Churipitzeo
 18.6633|-101.6474|Churumuco de Morelos
-27.3950|-108.5373|Chínipas
 21.7157|-103.3129|Cicacalco
+25.9547|-100.1669|Ciénega de Flores
+20.5750|-101.9700|Ciénega de Galvanes
+20.5206|-102.6571|Ciénega del Pastor
+25.0622|-106.3290|Ciénega de Nuestra Señora de Guadalupe
+16.8937|-96.7680|Ciénega de Zimatlán
+22.1943|-102.0194|Ciénega Grande
 21.2483|-100.2739|Cieneguilla
 24.0547|-104.0519|Cieneguillas
 22.7136|-102.4932|Cieneguitas
+19.2366|-104.5651|Cihuatlán
 19.2500|-104.5667|Cihuatlán Jalisco
 20.4689|-103.4172|Cima del Sol
 24.0766|-104.5047|Cinco de Febrero
@@ -1155,13 +1171,13 @@
 20.0186|-97.5211|Ciudad de Cuetzalan
 17.8079|-97.7796|Ciudad de Huajuapan de León
 18.3033|-99.3338|Ciudad de Huitzuco
+18.6459|-91.8299|Ciudad del Carmen
+28.1901|-105.4701|Ciudad Delicias
+22.4019|-99.6047|Ciudad del Maíz
 19.4934|-98.5366|Ciudad de Nanacamilpa
 19.8528|-97.4953|Ciudad de Tlatlauquitepec
 19.2672|-103.7378|Ciudad de Villa de Álvarez
 26.5007|-100.4265|Ciudad de Villaldama
-18.6459|-91.8299|Ciudad del Carmen
-22.4019|-99.6047|Ciudad del Maíz
-28.1901|-105.4701|Ciudad Delicias
 21.9404|-100.0115|Ciudad Fernández
 25.7970|-100.3179|Ciudad General Escobedo
 25.2586|-99.6837|Ciudad General Terán
@@ -1171,8 +1187,9 @@
 19.6519|-103.5000|Ciudad Guzmán CERESO
 14.6815|-92.1522|Ciudad Hidalgo
 25.2634|-111.7744|Ciudad Insurgentes
-25.5372|-103.5246|Ciudad Lerdo
+31.7202|-106.4608|Ciudad Juárez
 17.9707|-102.2212|Ciudad Lázaro Cárdenas
+25.5372|-103.5246|Ciudad Lerdo
 19.5579|-99.2567|Ciudad López Mateos
 22.2723|-97.8362|Ciudad Madero
 22.7430|-98.9739|Ciudad Mante
@@ -1193,12 +1210,6 @@
 22.9973|-99.7110|Ciudad Tula
 21.9963|-99.0109|Ciudad Valles
 23.7417|-99.1460|Ciudad Victoria
-25.9547|-100.1669|Ciénega de Flores
-20.5750|-101.9700|Ciénega de Galvanes
-25.0622|-106.3290|Ciénega de Nuestra Señora de Guadalupe
-16.8937|-96.7680|Ciénega de Zimatlán
-20.5206|-102.6571|Ciénega del Pastor
-22.1943|-102.0194|Ciénega Grande
 18.8611|-99.1600|Cliserio Alanís (San Gaspar)
 27.9210|-101.1758|Cloete
 19.6292|-99.1069|Coacalco
@@ -1257,35 +1268,39 @@
 18.7827|-98.7208|Cohuecán
 17.7202|-97.3188|Coixtlahuaca
 20.1186|-102.8518|Cojumatlán de Régules
-19.3789|-99.2659|Col. Bosques de las Lomas
 20.8164|-98.0970|Colatlán
-20.0783|-98.7267|Colinas de Plata
-20.6236|-100.4667|Colinas de Santa Cruz Segunda Sección
+19.3789|-99.2659|Col. Bosques de las Lomas
+19.2447|-103.7127|Colima
 25.8170|-100.1026|Colinas del Aeropuerto
-20.5042|-103.3983|Colinas del Roble
 25.6694|-100.1225|Colinas del Río Juárez
+20.5042|-103.3983|Colinas del Roble
 32.4031|-117.0306|Colinas del Sol
 20.7569|-105.1592|Colinas del Valle
+20.0783|-98.7267|Colinas de Plata
+20.6236|-100.4667|Colinas de Santa Cruz Segunda Sección
 19.9232|-96.7271|Colipa
 16.1881|-97.9718|Collantes
 27.7033|-99.7594|Colombia
 17.0884|-98.7590|Colombia de Guadalupe
+20.7832|-100.0515|Colón
 20.5556|-101.0356|Colonia 18 de Marzo
-19.7006|-99.1167|Colonia 2 de Septiembre
 25.6472|-108.6492|Colonia 24 de Febrero
 20.1661|-98.3900|Colonia 28 de Mayo (Santa Rosa)
+19.7006|-99.1167|Colonia 2 de Septiembre
 18.8273|-99.6930|Colonia 3 de Mayo
 19.9808|-99.1636|Colonia 3 de Mayo (La Cruz)
 28.2067|-105.4075|Colonia Abraham González (La Quemada)
 19.4006|-99.4594|Colonia Adolfo López Mateos
 18.2569|-96.1614|Colonia Adolfo Ruiz Cortines (Colonia Obrera)
 17.6203|-101.4589|Colonia Aeropuerto
+19.2281|-99.5558|Colonia Agrícola Álvaro Obregón
 19.3497|-99.4750|Colonia Agrícola Analco
 18.9297|-98.5444|Colonia Agrícola de Ocotepec (Colonia San José)
 25.1097|-107.9447|Colonia Agrícola México (Palmitas)
-19.2281|-99.5558|Colonia Agrícola Álvaro Obregón
 21.3778|-101.9161|Colonia Agua Caliente
 16.8815|-99.8178|Colonia Alborada
+19.3769|-99.4948|Colonia Álvaro Obregón
+18.9264|-99.0297|Colonia Ángel Bocanegra (Adolfo López Mateos)
 19.6800|-100.5261|Colonia Antorcha Campesina (Santa Rosa)
 19.7067|-100.5353|Colonia Aquiles Córdoba Morán
 19.2025|-99.5808|Colonia Arboledas (San Andrés)
@@ -1322,12 +1337,12 @@
 23.8108|-103.1818|Colonia Francisco García Salinas
 20.9794|-101.4164|Colonia Francisco Javier Mina
 21.1561|-102.8994|Colonia Ganadera
+31.8817|-116.5439|Colonia Gómez Morín
 20.5667|-103.2189|Colonia Guadalupana
 19.7131|-99.2497|Colonia Guadalupe
 19.4992|-98.9192|Colonia Guadalupe Victoria
 19.4022|-99.4542|Colonia Guadalupe Victoria (La Capilla)
 19.4214|-99.0136|Colonia Gustavo Baz Prada
-31.8817|-116.5439|Colonia Gómez Morín
 22.3928|-103.9911|Colonia Hatmasie
 22.3297|-102.0358|Colonia Hidalgo (El Tecolote)
 19.3567|-97.7839|Colonia Ignacio Allende
@@ -1349,22 +1364,22 @@
 19.8783|-102.2258|Colonia las Malvinas (Colonia Antorcha)
 19.9714|-105.3239|Colonia las Palmas Campamento SAGAR
 21.0303|-101.7058|Colonia Latinoamericana
+19.5131|-98.9200|Colonia Lázaro Cárdenas
+19.6317|-99.1533|Colonia Lázaro Cárdenas (Los Hornos)
+19.9892|-103.2558|Colonia Lázaro Cárdenas del Río
 17.9631|-94.9025|Colonia Lealtad
 19.6773|-97.2126|Colonia Libertad
 19.4916|-99.1248|Colonia Lindavista
 19.4458|-104.3656|Colonia Loma Alta
 30.7017|-116.0028|Colonia Lomas de San Ramón (Triquis)
 19.7261|-99.0903|Colonia los Aguiluchos
+20.5352|-100.4883|Colonia los Ángeles
 19.3117|-99.5411|Colonia los Cedros
 18.9539|-99.1925|Colonia los Cerritos
 19.7344|-98.7911|Colonia los Remedios
 20.5919|-105.2150|Colonia los Robles
 20.5503|-103.3517|Colonia los Sauces
-20.5352|-100.4883|Colonia los Ángeles
 16.9216|-100.0153|Colonia Luces en el Mar
-19.5131|-98.9200|Colonia Lázaro Cárdenas
-19.6317|-99.1533|Colonia Lázaro Cárdenas (Los Hornos)
-19.9892|-103.2558|Colonia Lázaro Cárdenas del Río
 20.0706|-103.0892|Colonia Madero
 19.1150|-96.8594|Colonia Manuel González
 24.7248|-107.6320|Colonia Michoacana
@@ -1410,10 +1425,12 @@
 19.5019|-96.8782|Colonia Santa Bárbara
 21.2525|-102.3514|Colonia Santa Cecilia
 20.0053|-99.3458|Colonia Sesenta y Dos
-28.2380|-105.4653|Colonia Terrazas
+20.0458|-97.0514|Colonias Pedernales
 20.1929|-99.1787|Colonia Teñhe
+28.2380|-105.4653|Colonia Terrazas
 19.9422|-104.2492|Colonia Trigomil
 19.5614|-98.8442|Colonia Tulteca Teopan
+19.4286|-96.9784|Colonia Úrsulo Galván
 21.9792|-100.0498|Colonia Veinte de Noviembre
 21.0100|-102.1978|Colonia Veintitrés de Mayo
 22.2371|-103.0839|Colonia Veintiuno de Marzo
@@ -1421,26 +1438,21 @@
 19.4908|-101.5939|Colonia Vista Bella (Lomas del Peaje)
 19.8277|-99.1244|Colonia Wenceslao Labra
 21.2130|-87.7242|Colonia Yucatán
-19.3769|-99.4948|Colonia Álvaro Obregón
-18.9264|-99.0297|Colonia Ángel Bocanegra (Adolfo López Mateos)
-19.4286|-96.9784|Colonia Úrsulo Galván
-20.0458|-97.0514|Colonias Pedernales
 19.1783|-100.2182|Colorines
 17.0410|-99.2127|Colotepec
-17.4124|-99.1671|Colotlipa
 22.1134|-103.2666|Colotlán
 22.2000|-103.3000|Colotlán Municipality
+17.4124|-99.1671|Colotlipa
 18.5090|-98.4808|Colucan
-20.7832|-100.0515|Colón
 19.5713|-101.9043|Comachuén
 19.3272|-103.7593|Comala
 15.6592|-92.1424|Comalapa
 18.2632|-93.2240|Comalcalco
 26.1819|-98.9204|Comales
 19.8589|-97.5994|Comaltepec
+19.7470|-101.6908|Comanjá
 21.3252|-101.7138|Comanja de Corona
 21.0651|-101.4730|Comanjilla
-19.7470|-101.6908|Comanjá
 19.1389|-96.7137|Comapa
 18.0613|-94.8855|Comején
 16.2471|-92.1351|Comitán
@@ -1449,6 +1461,7 @@
 20.7228|-100.7595|Comonfort
 21.2378|-104.9001|Compostela
 25.7468|-103.3025|Compuertas
+21.4448|-99.6358|Concá
 25.8564|-108.6294|Concentración 5 de Febrero
 16.8091|-92.9653|Concepción
 19.0944|-98.0614|Concepción Capulac (La Ex-Hacienda)
@@ -1465,7 +1478,6 @@
 17.8539|-96.8447|Concepción Pápalo
 27.5875|-105.3336|Conchos
 25.7798|-103.1170|Concordia
-21.4448|-99.6358|Concá
 19.2929|-102.3040|Condémbaro
 20.0127|-99.9620|Conejeras
 19.9757|-99.2434|Conejos
@@ -1488,16 +1500,19 @@
 19.9543|-100.1638|Contepec
 19.3293|-98.1664|Contla
 17.0937|-93.2106|Copainalá
+19.9233|-103.7481|Cópala
 16.6067|-98.9409|Copala
 20.8528|-104.7478|Copales
 17.9700|-99.0544|Copalillo
 17.4291|-98.7001|Copanatoyac
-20.2730|-98.0829|Copila
-16.7119|-93.1209|Copoya
 19.9006|-101.6595|Copándaro (Copándaro del Cuatro)
 19.8925|-101.2139|Copándaro de Galeana
+20.2730|-98.0829|Copila
+16.7119|-93.1209|Copoya
 19.2063|-103.8095|Coquimatlán
 22.3952|-100.6934|Corcovado
+18.8842|-96.9256|Córdoba
+18.9086|-96.9789|Córdoba (Santa Leticia)
 25.6279|-108.7149|Corerepe
 19.1209|-98.3059|Coronango
 20.4564|-97.7361|Coronel Tito Hernández
@@ -1505,14 +1520,14 @@
 21.5463|-98.5544|Corozal
 21.5678|-102.3714|Corral Blanco
 21.9503|-102.3322|Corral de Barrancos
+20.7736|-105.5167|Corral del Risco (Punta de Mita)
 21.4833|-102.1181|Corral de Piedra
 20.9758|-100.5947|Corral de Piedras de Arriba
-20.7736|-105.5167|Corral del Risco (Punta de Mita)
-18.2447|-100.5600|Corral Falso
-18.1146|-95.1154|Corral Nuevo
 20.8967|-100.6544|Corralejo de Arriba
 16.2385|-98.1895|Corralero
+18.2447|-100.5600|Corral Falso
 20.6494|-102.9106|Corralillos
+18.1146|-95.1154|Corral Nuevo
 18.1577|-92.9937|Corriente 1ra. Sección
 20.4836|-100.9624|Cortazar
 19.6091|-102.2348|Corupo
@@ -1523,11 +1538,12 @@
 19.3288|-96.9772|Cosautlán de Carvajal
 19.9342|-99.5190|Coscomate del Progreso
 19.0727|-97.0469|Coscomatepec de Bravo
+22.3667|-102.3000|Cosío
 18.6005|-96.6852|Cosolapa
 17.9991|-94.6359|Cosoleacaque
 18.1425|-97.7908|Cosoltepec
 25.1018|-108.1373|Costa Azul
-22.3667|-102.3000|Cosío
+24.5907|-107.3899|Costa Rica
 18.8356|-96.3964|Cotaxtla
 19.8092|-102.7020|Cotija de la Paz
 21.7515|-102.2683|Cotorina
@@ -1554,11 +1570,11 @@
 20.5004|-86.9427|Cozumel
 27.7505|-107.6352|Creel
 19.4911|-100.2431|Crescencio Morales (San Mateo)
+22.2296|-101.9962|Crisóstomos
 21.3211|-101.9733|Cristeros Fraccionamiento
-22.5817|-105.7244|Cristo Rey
 17.1919|-91.6292|Cristóbal Colón
 16.4325|-93.4569|Cristóbal Obregón
-22.2296|-101.9962|Crisóstomos
+22.5817|-105.7244|Cristo Rey
 15.7689|-96.1350|Crucecita
 21.8272|-102.7603|Crucero Las Pilas
 24.7566|-98.5374|Cruillas
@@ -1567,8 +1583,8 @@
 17.9083|-95.0108|Cruz del Milagro
 16.7224|-99.1236|Cruz Grande
 16.9972|-99.1796|Cruz Quemada
-19.1375|-97.1086|Cruz Verde
 16.7617|-92.5792|Cruztón
+19.1375|-97.1086|Cruz Verde
 18.8176|-97.5112|Cuacnopalan
 20.1720|-98.0315|Cuacuila
 19.1400|-100.0694|Cuadrilla de Dolores
@@ -1595,16 +1611,17 @@
 20.0250|-97.4872|Cuauhtamazaco
 19.7647|-97.3142|Cuauhtamingo
 24.2904|-103.8091|Cuauhtemoc
-18.9747|-98.9464|Cuauhtempan (San Andrés Cuauhtempan)
-17.5463|-99.2068|Cuauhtenango
 16.5500|-93.7161|Cuauhtémoc
 27.4333|-110.0167|Cuauhtémoc (Campo Cinco)
+18.9747|-98.9464|Cuauhtempan (San Andrés Cuauhtempan)
+17.5463|-99.2068|Cuauhtenango
 19.9161|-97.7910|Cuautempan
 16.7052|-98.9847|Cuautepec
 20.0356|-98.3101|Cuautepec de Hinojosa
 18.9546|-98.0157|Cuautinchán
 19.6705|-99.1799|Cuautitlán
 19.4333|-104.3000|Cuautitlán de García Barragán
+19.6439|-99.2160|Cuautitlán Izcalli
 20.2014|-104.4075|Cuautla
 19.6941|-98.7839|Cuautlacingo
 19.0900|-98.2732|Cuautlancingo
@@ -1617,8 +1634,8 @@
 18.4442|-98.1919|Cuayuca de Andrade
 21.0164|-98.8869|Cuazahuatl
 25.7868|-108.2597|Cubiri de Portelas
-20.4345|-90.0969|Cuch Holoch
 21.6157|-97.6610|Cucharas
+20.4345|-90.0969|Cuch Holoch
 20.6609|-101.4620|Cuchicuato
 16.7772|-92.7042|Cuchulumtic
 19.5828|-101.6311|Cucuchucho
@@ -1629,8 +1646,8 @@
 24.8712|-103.6973|Cuencamé de Ceniceros
 19.8003|-99.9478|Cuendo
 18.8616|-99.3261|Cuentepec
-18.9553|-99.2400|Cuernavaca
 20.6255|-101.6724|Cuerámaro
+18.9553|-99.2400|Cuernavaca
 18.3467|-95.2339|Cuesta Amarilla
 18.8454|-97.4675|Cuesta Blanca
 20.5644|-102.6717|Cuesta Chica
@@ -1650,8 +1667,9 @@
 20.3428|-102.7839|Cuitzeo
 19.9703|-101.1429|Cuitzeo del Porvenir
 19.0457|-97.1744|Cuiyachapa
-24.8254|-107.5345|Culiacancito
 24.7903|-107.3878|Culiacán
+24.8254|-107.5345|Culiacancito
+18.1412|-93.1322|Cúlico 2da. Sección
 16.7317|-98.3367|Cumbre de Barranca Honda
 21.9222|-102.2375|Cumbres III
 29.9959|-109.7809|Cumpas
@@ -1661,8 +1679,8 @@
 20.6233|-88.3464|Cuncunul
 18.0656|-93.1730|Cunduacán
 17.5272|-99.2658|Cuonetzingo
-20.2288|-101.0181|Cupareo
 19.8507|-101.0890|Cuparátaro
+20.2288|-101.0181|Cupareo
 18.2395|-93.1277|Cupilco
 18.7781|-102.1878|Cupuán del Río
 20.9275|-103.0239|Cuquío
@@ -1678,19 +1696,12 @@
 18.9194|-104.0687|Cuyutlán
 17.4821|-98.3446|Cuyuxtlahuaca
 20.7420|-89.3173|Cuzama
-17.0989|-92.7875|Cálido
-20.6301|-101.2204|Cárdenas
-19.9233|-103.7481|Cópala
-18.8842|-96.9256|Córdoba
-18.9086|-96.9789|Córdoba (Santa Leticia)
-18.1412|-93.1322|Cúlico 2da. Sección
 20.3111|-98.9401|Dajiedi
 17.1616|-91.6006|Damasco
 22.0972|-99.2922|Damian Carmona
 20.4393|-99.5859|Dantzibojay
 24.7217|-107.9753|Dautillos
 20.2799|-98.9796|Daxtha
-20.4561|-101.0078|De Parral
 20.4670|-102.1498|Degollado
 17.9417|-94.9981|Dehesa
 19.3692|-99.2909|Delegación Cuajimalpa de Morelos
@@ -1701,9 +1712,11 @@
 32.3550|-115.1962|Delta
 20.2721|-99.1210|Dengantzha
 19.9212|-99.5356|Denjhi
-21.0975|-100.5142|Derramadero Segundo (Infiernillo)
+20.4561|-101.0078|De Parral
 22.5703|-100.9323|Derramaderos
+21.0975|-100.5142|Derramadero Segundo (Infiernillo)
 19.9703|-99.8839|Detiña (San Antonio Detiña)
+20.3253|-99.0239|Déxtho de Victoria
 16.1118|-92.8793|Diamante de Echeverría
 21.4824|-101.7988|Dieciocho de Marzo
 16.2971|-93.1749|Dieciséis de Septiembre
@@ -1729,13 +1742,13 @@
 21.1561|-100.9325|Dolores Hidalgo Cuna de la Independencia Nacional
 15.8969|-92.7778|Dolores Jaltenango
 19.1400|-98.4568|Domingo Arenas
+19.4909|-100.2795|Donaciano Ojeda
+17.2295|-95.0529|Donaji
 19.8744|-98.9347|Don Antonio
 20.6979|-100.9021|Don Diego
 20.9028|-100.9187|Don Francisco
-18.3600|-90.8572|Don Samuel
-19.4909|-100.2795|Donaciano Ojeda
-17.2295|-95.0529|Donaji
 19.8429|-99.5865|Dongu
+18.3600|-90.8572|Don Samuel
 17.0206|-99.6497|Dos Arroyos
 18.4109|-95.7073|Dos Bocas
 18.0411|-93.0356|Dos Ceibas
@@ -1758,16 +1771,16 @@
 21.2490|-89.0421|Dzidzantun
 21.4336|-88.6684|Dzilam de Bravo
 21.2810|-88.9296|Dzilam González
+20.8409|-88.5291|Dzitás
 20.3186|-90.0561|Dzitbalché
 20.6472|-88.2445|Dzitnup
 21.0519|-89.6785|Dzityá
-20.8409|-88.5291|Dzitás
 19.8974|-88.8095|Dziuche
 21.0983|-88.8540|Dzoncauich
 21.4008|-87.8786|Dzonot Carretero
 19.6033|-88.4157|Dzula
 20.8647|-89.6538|Dzununcan
-20.3253|-99.0239|Déxtho de Victoria
+22.2181|-98.3771|Ébano
 19.6038|-99.0551|Ecatepec de Morelos
 18.9551|-98.7520|Ecatzingo de Hidalgo
 20.1619|-102.1934|Ecuandureo
@@ -1777,17 +1790,17 @@
 19.8361|-103.2692|Ejido Agua Zarca
 30.1494|-106.8836|Ejido Benito Juárez
 22.9000|-105.9714|Ejido Cajón Ojo de Agua Número Dos
-25.8505|-108.9593|Ejido Cinco de Mayo
 21.5039|-102.3500|Ejido Ciénega de Mora
+25.8505|-108.9593|Ejido Cinco de Mayo
 25.9409|-109.1588|Ejido Cohuibampo
 19.9338|-99.5472|Ejido de Coscomate del Progreso
 19.4308|-99.6128|Ejido de Dolores
 19.6377|-99.2718|Ejido de Guadalupe
 18.8864|-99.6269|Ejido de la Finca
-19.4242|-99.5283|Ejido de Mozoquilpan
-18.9489|-99.6425|Ejido de San Mateo Coapexco
 19.4847|-99.2785|Ejido del Tejocote
 19.7439|-99.9089|Ejido del Tunal Nenaxi
+19.4242|-99.5283|Ejido de Mozoquilpan
+18.9489|-99.6425|Ejido de San Mateo Coapexco
 32.0244|-114.9836|Ejido Doctor Alberto Oviedo Mota (El Indiviso)
 19.4358|-99.3058|Ejido el Castillo
 29.6833|-108.2667|Ejido El Largo
@@ -1801,15 +1814,15 @@
 21.1419|-100.9117|Ejido Jesús María
 32.5013|-115.0638|Ejido Jiquilpan
 21.9803|-102.2731|Ejido la Guayana (Rancho Seco)
+32.3196|-114.8957|Ejido Lagunitas
 21.1432|-101.7392|Ejido la Joya
-21.6061|-100.7611|Ejido la Pitahaya (Santo Domingo)
 19.0286|-96.7836|Ejido la Piña (Maromilla)
+21.6061|-100.7611|Ejido la Pitahaya (Santo Domingo)
 28.8476|-107.0215|Ejido La Quemada
 19.6450|-100.1064|Ejido la Soledad
-32.3196|-114.8957|Ejido Lagunitas
+32.6079|-115.0208|Ejido Lázaro Cárdenas
 19.6575|-99.6712|Ejido Loma de Malacota
 21.9592|-98.6503|Ejido los Huastecos
-32.6079|-115.0208|Ejido Lázaro Cárdenas
 25.9382|-109.2213|Ejido Mayocoba
 32.4651|-115.3100|Ejido Michoacán de Ocampo
 19.5700|-99.3975|Ejido Miraflores
@@ -1820,9 +1833,9 @@
 25.7166|-108.9785|Ejido Ohuira
 32.4756|-116.7892|Ejido Ojo de Agua
 19.5689|-99.4089|Ejido Palma (Ejido San Francisco)
+32.3514|-115.0658|Ejido Pátzcuaro
 32.2202|-115.0316|Ejido Plan de Ayala
 19.5664|-103.5172|Ejido Poblado Atenquique
-32.3514|-115.0658|Ejido Pátzcuaro
 32.4684|-115.0825|Ejido Quintana Roo
 32.4243|-115.1248|Ejido Saltillo
 19.5425|-98.8942|Ejido San Cristóbal
@@ -1850,11 +1863,15 @@
 18.2136|-91.5109|El Aguacatal
 20.7017|-103.2080|El Aguacate
 25.9596|-109.3297|El Aguajito
+15.0933|-92.1851|El Águila
+19.1669|-99.4064|El Águila (La Mesa)
 21.5154|-104.9444|El Ahuacate
 20.7747|-102.4958|El Alto
 20.3008|-102.4372|El Alvareño
 20.9133|-103.7250|El Amarillo
 20.6531|-102.0128|El Amarradero
+17.0250|-92.8342|El Ámbar
+16.0964|-92.8333|El Ámbar (El Ámbar de Echeverría)
 21.2556|-97.6565|El Anono
 16.5411|-97.1819|El Arador
 20.3717|-102.1761|El Arca
@@ -1896,10 +1913,10 @@
 20.1569|-101.3356|El Canario
 20.7427|-105.1805|El Cantón
 21.8393|-105.1212|El Capomal
-18.9494|-98.2689|El Capulo (La Quebradora)
 21.0404|-100.3222|El Capulín
 18.2297|-96.2781|El Capulín (La Nueva Pochota)
 20.6581|-102.2058|El Capulín de Chávez
+18.9494|-98.2689|El Capulo (La Quebradora)
 20.5672|-100.9829|El Caracol
 15.5755|-93.1286|El Carmen
 18.9203|-99.5567|El Carmen (El Desierto del Carmen)
@@ -1919,13 +1936,14 @@
 20.7058|-102.6922|El Cedazo
 24.8953|-100.1850|El Cedral
 18.0270|-92.9476|El Cedro
+19.0028|-102.1903|El Ceñidor
 16.8629|-91.5599|El Censo
 24.1025|-110.4144|El Centenario
 21.0222|-101.6892|El CERESO
 19.3234|-99.5425|El Cerrillo Vista Hermosa
 19.3553|-99.3483|El Cerrito
 22.1864|-103.3994|El Cerro Jalisco
-19.0028|-102.1903|El Ceñidor
+19.8825|-100.1397|El Césped
 20.2223|-97.4603|El Chacal
 22.1356|-104.2794|El Chalate
 24.9025|-99.5203|El Chamizal
@@ -1964,10 +1982,11 @@
 16.8769|-93.2139|El Copalar
 20.7275|-101.3457|El Copalillo
 22.1433|-102.0014|El Copetillo
+19.2831|-99.8353|El Cóporo
 19.8453|-104.2857|El Corcovado
 21.7203|-105.2449|El Corte
-16.9897|-99.1489|El Cortijo
 16.7806|-99.5021|El Cortés
+16.9897|-99.1489|El Cortijo
 20.3949|-100.1346|El Coto
 30.8288|-112.6153|El Coyote
 20.9461|-103.1125|El Coyotillo
@@ -1982,8 +2001,6 @@
 19.7797|-101.1169|El Cuitzillo Grande
 19.2917|-99.8350|El Curtidor
 21.5157|-87.6788|El Cuyo
-19.8825|-100.1397|El Césped
-19.2831|-99.8353|El Cóporo
 21.0042|-102.9747|El Derramadero
 30.8456|-112.6397|El Diamante (La Retranca)
 23.5559|-100.3788|El Dieciséis
@@ -2027,6 +2044,7 @@
 23.1289|-106.0589|El Huajote
 25.5200|-103.4867|El Huarache (El Guarache)
 20.2344|-98.9622|El Huaxtho
+19.7408|-96.7453|El Huérfano
 21.3407|-98.7535|El Huexco
 18.3875|-95.1792|El Huidero
 21.7772|-102.0058|El Huiroche
@@ -2034,10 +2052,8 @@
 20.0757|-98.8197|El Huixmí
 20.4193|-100.9598|El Huizache
 21.1757|-97.9417|El Humo
-19.7408|-96.7453|El Huérfano
 20.4658|-102.9753|El Jabalí
 19.4050|-100.0894|El Jacal
-20.9150|-101.6343|El Jaguey
 20.2469|-99.6152|El Jagüey
 21.1744|-101.9714|El Jaral
 21.6406|-102.2728|El Jaralillo
@@ -2058,16 +2074,16 @@
 25.8467|-103.2789|El Lequeitio
 18.9634|-102.1102|El Letrero
 17.4149|-92.4029|El Limar
-16.9703|-91.3782|El Limonar
 16.9956|-99.3775|El Limón
+16.9703|-91.3782|El Limonar
 24.9136|-107.5233|El Limón de los Ramos
 21.3128|-98.2200|El Lindero
 21.1214|-100.9511|El Llanito
 21.9167|-101.9667|El Llano
 20.8758|-103.0372|El Llano de Barajas
+19.2547|-99.4792|El Llano del Compromiso
 19.9350|-103.0094|El Llano de los Toros
 20.9289|-103.0992|El Llano de Plascencia
-19.2547|-99.4792|El Llano del Compromiso
 19.7839|-99.0864|El Llano Santa María
 21.1736|-101.7936|El Lobo
 20.3964|-102.5614|El Lopeño
@@ -2085,8 +2101,8 @@
 21.2106|-102.4522|El Mayoral de Abajo
 20.8672|-103.7792|El Medineño
 19.7707|-104.2931|El Mentidero
-21.4158|-101.8525|El Mesoncito
 16.8457|-99.0587|El Mesón
+21.4158|-101.8525|El Mesoncito
 16.8417|-99.7489|El Metlapil
 20.6861|-103.1258|El Mezquite Grande
 20.9621|-101.8086|El Mezquitillo
@@ -2109,9 +2125,9 @@
 23.9642|-104.6954|El Nayar
 17.7647|-95.7572|El Nigromante
 25.7336|-102.9430|El Nilo
+32.5075|-116.7919|El Niño
 25.6245|-108.4003|El Nio
 20.4878|-99.1919|El Nith
-32.5075|-116.7919|El Niño
 25.2856|-99.8764|El Nogalito
 16.9116|-92.8447|El Nopal
 19.5278|-103.4011|El Nuevo Poblado
@@ -2127,14 +2143,18 @@
 20.4775|-100.0546|El Organal
 26.8632|-105.8484|El Oro
 19.8027|-100.1308|El Oro de Hidalgo
+24.0346|-106.8449|Elota
+19.1882|-97.0377|Elotepec
+20.7270|-98.8769|Eloxochitlán
+18.1772|-96.8754|Eloxochitlán de Flores Magón
 15.5985|-92.0425|El Pacayal
 21.3600|-102.3658|El Padre Juan
 19.3514|-99.3567|El Palacio
 19.1397|-97.0531|El Palmar
 16.8456|-93.0164|El Palmar (San Gabriel)
+15.4973|-93.2139|El Palmarcito
 19.8908|-104.0397|El Palmar de San Antonio
 15.4986|-92.2552|El Palmar Grande
-15.4973|-93.2139|El Palmarcito
 25.8309|-100.5948|El Palmital
 19.9173|-99.6813|El Palmito
 20.2892|-97.6355|El Panorama
@@ -2143,17 +2163,17 @@
 20.1082|-102.5227|El Paracho
 17.2464|-92.5569|El Paraíso
 19.4289|-96.3550|El Paraíso (La Charca)
-27.0592|-109.9129|El Paredoncito
 19.8669|-98.2522|El Paredón
+27.0592|-109.9129|El Paredoncito
 16.3703|-93.0057|El Parral
 19.6046|-103.9598|El Paso Real
 25.1491|-99.9297|El Pastor
 19.5108|-101.4492|El Pedregal
 19.2528|-99.4650|El Pedregal de Guadalupe Hidalgo
+22.3253|-100.9501|El Peñasco
 16.9800|-99.3257|El Pericón
 25.6029|-103.3442|El Perú
 23.3642|-110.1683|El Pescadero
-22.3253|-100.9501|El Peñasco
 20.7102|-100.6370|El Picacho
 20.2420|-101.4021|El Pilar
 19.3514|-98.9483|El Pino
@@ -2181,8 +2201,8 @@
 19.4890|-100.0821|El Potrero de San Diego
 24.6900|-107.7092|El Potrero de Sataya
 16.9203|-92.4117|El Pozo
-19.3261|-103.3861|El Pozo Santo
 22.9147|-105.9133|El Pozole
+19.3261|-103.3861|El Pozo Santo
 16.8769|-93.2222|El Progreso
 18.8464|-99.6142|El Progreso Hidalgo
 21.4625|-102.4606|El Pueblito
@@ -2253,12 +2273,12 @@
 22.0286|-103.2344|El Saucillo de los Pérez
 20.7319|-102.5089|El Saucito
 22.7311|-102.0953|El Saucito (El Horno)
+20.4777|-100.1154|El Saúz
 29.0506|-106.2528|El Sauz
 20.4106|-100.7967|El Sauz (El Sauz de Villaseñor)
+31.8933|-116.6926|El Sauzal de Rodríguez
 20.0750|-102.2683|El Sauz de Abajo
 21.3308|-102.2322|El Sauz de Ibarra
-31.8933|-116.6926|El Sauzal de Rodríguez
-20.4777|-100.1154|El Saúz
 21.2733|-102.3081|El Seminario
 16.9800|-91.4911|El Sibal
 27.4680|-113.2999|El Silencio
@@ -2266,8 +2286,8 @@
 27.1022|-109.5008|El Siviral (Jigica)
 20.5828|-102.6281|El Sopial
 21.5067|-101.8925|El Soyate
-20.0590|-98.4930|El Susto
 17.2269|-100.6392|El Súchil
+20.0590|-98.4930|El Susto
 21.4747|-102.4164|El Tablero
 21.9581|-105.2322|El Tamarindo
 19.6236|-103.2681|El Taray
@@ -2329,14 +2349,6 @@
 20.6620|-97.9991|El Zapote Bravo
 20.2197|-104.3264|El Zapote de Chávez
 16.8370|-92.9515|El Zapotillo
-15.0933|-92.1851|El Águila
-19.1669|-99.4064|El Águila (La Mesa)
-17.0250|-92.8342|El Ámbar
-16.0964|-92.8333|El Ámbar (El Ámbar de Echeverría)
-24.0346|-106.8449|Elota
-19.1882|-97.0377|Elotepec
-20.7270|-98.8769|Eloxochitlán
-18.1772|-96.8754|Eloxochitlán de Flores Magón
 19.1733|-97.3920|Emancipación Quetzalapa
 22.1063|-102.3006|Emiliano Zapata
 18.9306|-98.9589|Emiliano Zapata (Casahuates)
@@ -2370,12 +2382,13 @@
 17.3781|-98.8467|Escalerilla Lagunas
 22.1117|-101.0730|Escalerillas
 23.2722|-106.2467|Escamillas
+18.6140|-90.7287|Escárcega
 20.4281|-100.2119|Escolasticas
 20.4984|-97.4234|Escolín de Olarte
 25.6743|-103.3483|Escuadrón Doscientos Uno
 22.8328|-105.7777|Escuinapa
+22.8347|-105.7777|Escuinapa de Hidalgo
 15.3333|-92.6333|Escuintla
-18.6140|-90.7287|Escárcega
 24.8221|-104.9900|Esfuerzos Unidos
 25.7433|-103.4310|Esmeralda
 18.8585|-97.3764|Esperanza
@@ -2401,8 +2414,8 @@
 30.3615|-111.1038|Estación Llano
 16.9947|-95.0367|Estación Mogoñé
 24.2931|-107.1594|Estación Obispo
-32.3120|-115.1382|Estación Pescaderos
 20.3947|-101.6919|Estación Pénjamo
+32.3120|-115.1382|Estación Pescaderos
 19.8829|-100.9486|Estación Queréndaro
 24.8372|-107.5800|Estación Rosales
 23.1897|-102.7847|Estación San José
@@ -2412,37 +2425,39 @@
 15.1064|-92.4509|Estación Tuzantán
 29.2612|-110.8865|Estación Zamora
 25.1244|-100.4764|Estados Unidos
-22.2806|-101.6574|Estancia de Guadalupe
-20.3842|-102.8375|Estancia de San Nicolás
 22.4880|-101.9953|Estancia de Ánimas
+22.2806|-101.6574|Estancia de Guadalupe
 20.5110|-100.7264|Estancia del Llano
+20.3842|-102.8375|Estancia de San Nicolás
 21.1672|-102.3239|Estancia Vieja de Arriba
 20.5231|-104.3400|Estanzuela
 20.1848|-100.5045|Estanzuela de Romero
 17.5449|-91.4050|Estapilla
-21.2537|-97.4508|Estero de Milpas
 20.8895|-97.6588|Estero del Ídolo
+21.2537|-97.4508|Estero de Milpas
 22.5201|-98.1261|Esteros
 20.3620|-103.7234|Estipa
 20.5292|-100.8655|Estrada
 17.3872|-91.9586|Estrella de Belén
 26.9109|-109.6261|Etchojoa
 26.7673|-109.6824|Etchoropo
-20.7667|-104.0833|Etzatlán
 19.8929|-102.1295|Etúcuaro
+20.7667|-104.0833|Etzatlán
 20.9966|-89.3425|Euan
 25.7989|-103.3736|Eureka de Media Luna (Eureka)
 17.5597|-92.9290|Eureka y Belén
+19.1388|-97.1225|Excola
 19.8089|-98.9725|Ex-Hacienda de Guadalupe
-19.8215|-99.1827|Ex-hacienda de Xalpa
 20.7408|-101.3353|Ex-Hacienda del Copal
+19.8215|-99.1827|Ex-hacienda de Xalpa
 18.8311|-98.9967|Ex-Hacienda el Hospital
 18.8485|-96.8244|Ex-hacienda la Concepción
 19.7067|-99.0725|Ex-Hacienda Santa Inés
 19.1739|-99.5653|Ex-Rancho San Dimas
 21.9594|-102.2742|Ex-Viñedos Guadalupe
-19.1388|-97.1225|Excola
 20.6648|-99.8996|Ezequiel Montes
+19.6345|-100.1360|Fábrica Concepción
+21.6722|-100.9017|Fábrica de Melchor
 15.0324|-92.1563|Faja de Oro
 25.8676|-109.0408|Felipe Angeles
 24.3331|-104.0110|Felipe Carrillo Puerto
@@ -2476,26 +2491,26 @@
 20.5867|-97.4283|Fraccionamiento la Florida
 21.0097|-101.8347|Fraccionamiento la Mezquitera
 25.5572|-103.3436|Fraccionamiento la Noria
-19.8292|-99.0828|Fraccionamiento la Trinidad
-19.3231|-98.2739|Fraccionamiento la Virgen
 19.4961|-96.8864|Fraccionamiento las Fuentes
 20.6475|-101.3956|Fraccionamiento las Liebres
+19.8292|-99.0828|Fraccionamiento la Trinidad
 19.7722|-101.1306|Fraccionamiento Laureles Eréndira
+19.3231|-98.2739|Fraccionamiento la Virgen
 18.9544|-99.2572|Fraccionamiento Lomas de Ahuatlán
-17.9778|-94.6392|Fraccionamiento los Prados
 18.9239|-96.9753|Fraccionamiento los Álamos
 23.1883|-106.3300|Fraccionamiento los Ángeles
+17.9778|-94.6392|Fraccionamiento los Prados
 19.7564|-101.2044|Fraccionamiento Metrópolis II
-25.7456|-100.1519|Fraccionamiento Misión de San Javier
 19.7656|-101.1217|Fraccionamiento Misión del Valle
+25.7456|-100.1519|Fraccionamiento Misión de San Javier
 19.9847|-102.2511|Fraccionamiento Monte Olivo
 18.1089|-92.8678|Fraccionamiento Ocuiltzapotlán Dos
 21.1125|-101.5808|Fraccionamiento Paraíso Real
 21.1683|-101.7581|Fraccionamiento Paseo de las Torres
 20.5361|-101.0000|Fraccionamiento Praderas de la Venta
 19.7522|-101.1914|Fraccionamiento Privadas del Sol
-19.3894|-99.6486|Fraccionamiento Real de San Pablo
 16.9328|-96.7678|Fraccionamiento Real del Valle
+19.3894|-99.6486|Fraccionamiento Real de San Pablo
 25.9042|-100.1597|Fraccionamiento Real Palmas
 17.1125|-96.7772|Fraccionamiento Riberas de San Jerónimo
 19.4111|-99.5742|Fraccionamiento Rinconada del Valle
@@ -2509,9 +2524,9 @@
 19.2892|-99.4800|Fraccionamiento y Club de Golf los Encinos
 22.2278|-100.9642|Fracción Milpillas
 19.6872|-99.1722|Fracción San Roque (El Prieto)
-16.8743|-93.2168|Francisco I. Madero
 17.9778|-97.9175|Francisco Ibarra Ramos
 18.4931|-97.4638|Francisco Ignacio Madero
+16.8743|-93.2168|Francisco I. Madero
 27.4622|-110.1089|Francisco Javier Mina
 17.3167|-93.2500|Francisco León
 21.7447|-101.8261|Francisco Primo de Verdad
@@ -2520,25 +2535,25 @@
 20.0309|-102.7016|Francisco Sarabia (Cerrito Pelón)
 19.5068|-100.2600|Francisco Serrato (San Bartolo)
 16.2143|-93.3370|Francisco Villa
-20.7261|-97.8188|Francisco Z. Mena
 32.0987|-116.5686|Francisco Zarco
+20.7261|-97.8188|Francisco Z. Mena
 20.9433|-101.4618|Franco
 20.6059|-100.9270|Franco Tavera
+19.7727|-98.5823|Fray Bernardino de Sahagún
 18.8806|-96.9769|Fredepo
 23.1813|-102.8714|Fresnillo
 19.5669|-99.9489|Fresno Nichi
+20.7995|-101.9964|Frías
 26.9281|-101.4521|Frontera
 16.8147|-90.8835|Frontera Corozal
 14.7774|-92.1774|Frontera Hidalgo
 30.8975|-109.5597|Fronteras
-20.7995|-101.9964|Frías
 19.6325|-99.1386|Fuentes del Valle
 20.5559|-99.9821|Fuentezuelas
-19.6345|-100.1360|Fábrica Concepción
-21.6722|-100.9017|Fábrica de Melchor
 18.1792|-96.0916|Gabino Barreda
 16.9406|-93.1756|Gabriel Esquinca
 23.8117|-104.0244|Gabriel Hernández (Mancinas)
+25.6616|-108.6366|Gabriel Leyva Solano
 25.8831|-109.0092|Gabriel Leyva Solano (Zapotillo Dos)
 25.7911|-108.5633|Gabriel Leyva Velázquez
 21.7626|-101.5625|Gachupines
@@ -2565,6 +2580,7 @@
 25.9361|-108.3964|Genaro Estrada
 18.8403|-96.7936|General Alatriste (San Joaquín)
 20.3040|-103.6092|General Andrés Figueroa
+24.8192|-107.6567|General Ángel Flores (La Palma)
 25.7924|-99.1815|General Bravo
 24.4292|-104.0459|General Calixto Contreras
 18.4307|-100.1011|General Canuto A. Neri
@@ -2580,18 +2596,17 @@
 18.8217|-96.8181|General Juan José Baz (San José del Corral)
 24.3255|-103.4057|General Juan José Ríos
 22.3781|-102.0575|General Lauro G. Caloca (El Rascón)
-17.6564|-91.5367|General Luis Felipe Domínguez Suárez
 25.2937|-103.9980|General Lázaro Cárdenas
 20.5639|-100.2439|General Lázaro Cárdenas (El Colorado)
+17.6564|-91.5367|General Luis Felipe Domínguez Suárez
 18.8935|-96.7924|General Miguel Alemán
+22.6646|-102.1101|General Pánfilo Natera
 16.4347|-94.2627|General Pascual Fentes
 20.1560|-99.3480|General Pedro María Anaya
-22.6646|-102.1101|General Pánfilo Natera
 25.8256|-99.0397|General Tapia
 25.2667|-99.6833|General Terán Nuevo León
 26.2167|-99.4833|General Treviño
 25.8949|-100.1080|General Zuazua
-24.8192|-107.6567|General Ángel Flores (La Palma)
 21.3306|-101.9236|Geovillas Laureles del Campanario
 20.7278|-105.2064|Getsemaní
 20.3737|-97.8855|Gilberto Camacho
@@ -2600,6 +2615,9 @@
 18.4336|-92.8718|Gobernador Cruz
 18.2469|-93.1853|Gobernadores
 31.6869|-114.4980|Golfo de Santa Clara
+29.3598|-107.7396|Gómez Farías
+25.5698|-103.4959|Gómez Palacio
+19.7725|-97.4869|Gómez Poniente
 23.1806|-102.4759|Gonzales Ortega
 22.8273|-98.4271|González
 19.3427|-97.2702|González Ortega
@@ -2607,13 +2625,13 @@
 26.4858|-100.1433|Graciano Bortoni
 22.6543|-98.5547|Graciano Sánchez
 19.2280|-97.8031|Grajales
-28.2484|-106.4936|Gran Morelos
 25.6413|-103.2671|Granada
 22.1008|-101.8633|Granadas
 21.3797|-101.9014|Granadillas
 29.8620|-109.3102|Granados
 19.5928|-98.9667|Granjas Ampliación Santa Rosa
 22.3927|-100.0689|Granjenal
+28.2484|-106.4936|Gran Morelos
 18.1964|-93.1022|Gregorio Méndez
 18.0193|-102.2122|Guacamayas
 20.5670|-104.3670|Guachinango
@@ -2627,10 +2645,10 @@
 19.6107|-99.9850|Guadalupe Coté
 22.2665|-102.0312|Guadalupe de Atlas
 20.3408|-102.3609|Guadalupe de Lerma
+20.5569|-100.6406|Guadalupe del Monte
 20.7550|-101.4035|Guadalupe de Paso Blanco
 20.6050|-101.4674|Guadalupe de Rivera
 20.8665|-100.5762|Guadalupe de Tambula
-20.5569|-100.6406|Guadalupe del Monte
 18.8937|-97.5876|Guadalupe Enríquez
 17.1727|-96.8102|Guadalupe Etla
 15.6990|-92.1641|Guadalupe Grijalva
@@ -2647,14 +2665,16 @@
 32.2892|-115.1053|Guadalupe Victoria
 26.0912|-106.9626|Guadalupe y Calvo
 19.3583|-98.5375|Guadalupe Zaragoza
-22.0503|-104.3158|Guamuchilillo
 16.3694|-94.6686|Guamúchil
+22.0503|-104.3158|Guamuchilillo
 25.9961|-106.1090|Guanaceví
 22.7165|-102.1433|Guanajuatillo
 21.0186|-101.2591|Guanajuato
+20.1920|-101.8740|Guándaro
 16.9802|-92.2879|Guaquitepec
 25.5675|-108.4676|Guasave
 25.5530|-108.4350|Guasavito
+27.8858|-110.5817|Guásimas (De Belem)
 18.1660|-92.9787|Guatacalca
 24.8073|-104.9199|Guatimapé
 20.4261|-104.7311|Guayabitos
@@ -2664,22 +2684,17 @@
 18.2173|-93.0323|Guaytalpa
 27.4400|-108.2334|Guazapares
 23.9186|-99.0061|Guemes
+23.9069|-99.0687|Güémez
 28.4289|-107.5038|Guerrero
 27.9689|-114.0443|Guerrero Negro
 18.1608|-94.2766|Guillermo Prieto
 24.0155|-99.2007|Guillermo Zúñiga
 16.4699|-96.7027|Guixé
 20.1115|-99.8386|Gunyo Poniente (San José Gunyo)
-19.4841|-99.1114|Gustavo A. Madero
 19.4939|-99.1107|Gustavo Adolfo Madero
+19.4841|-99.1114|Gustavo A. Madero
 25.2669|-108.0949|Gustavo Díaz Ordaz
 20.4535|-97.0859|Gutiérrez Zamora
-20.1920|-101.8740|Guándaro
-27.8858|-110.5817|Guásimas (De Belem)
-29.3598|-107.7396|Gómez Farías
-25.5698|-103.4959|Gómez Palacio
-19.7725|-97.4869|Gómez Poniente
-23.9069|-99.0687|Güémez
 17.9678|-93.3281|Habanero 1ra. Sección (Venustiano Carranza)
 21.2337|-101.7039|Hacienda Arriba
 17.1399|-96.7759|Hacienda Blanca
@@ -2694,17 +2709,19 @@
 26.4831|-100.1678|Hacienda San Juan
 25.9147|-100.1628|Hacienda San Pedro
 20.5181|-103.3806|Hacienda Santa Fe
+20.7725|-103.6086|Haciendas la Herradura
 19.1336|-96.1814|Hacienda Sotavento
 32.5650|-116.5250|Hacienda Tecate
 23.0833|-102.6833|Hacienda Toribio
 19.6008|-103.2144|Hacienda Vieja
 20.5400|-103.2442|Hacienda Vieja del Castillo
-20.7725|-103.6086|Haciendas la Herradura
 20.4777|-90.0810|Halachó
 19.9272|-90.3892|Hampolol
 18.4442|-90.7915|Haro
 20.1667|-90.1333|Hecelchakán
+25.6356|-100.1267|Héctor Caballero
 17.2597|-94.2885|Helio García Alfaro
+28.0431|-103.7911|Hércules
 25.9406|-109.1372|Heriberto Valdez Romero (El Guayabo)
 17.2519|-94.6113|Hermanos Cedillo
 16.5772|-93.3594|Hermenegildo Galeana
@@ -2712,6 +2729,8 @@
 18.0061|-94.6122|Hermenegildo J. Aldana
 32.5110|-114.9228|Hermosillo
 23.0334|-102.0376|Hernández
+16.0692|-92.2862|Héroes de Chapultepec
+20.3111|-101.5025|Héroes de Chapultepec (Rodeo de San Antonio)
 30.7183|-112.1582|Heroica Caborca
 16.5784|-96.7308|Heroica Ciudad de Ejutla de Crespo
 16.4487|-94.9862|Heroica Ciudad de Juchitán de Zaragoza
@@ -2768,12 +2787,13 @@
 19.8489|-102.0678|Huancito
 19.9914|-101.2761|Huandacareo
 19.3971|-100.4873|Huanguitío
-19.8968|-101.5045|Huaniqueo de Morales
 20.3678|-101.4987|Huanímaro
+19.8968|-101.5045|Huaniqueo de Morales
 17.9267|-93.7664|Huapacal 1ra. Sección
 18.1972|-93.1719|Huapacal 2da. Sección (Punta Brava)
 17.9229|-92.9109|Huapinol
 18.7712|-98.5446|Huaquechula
+29.9077|-109.3010|Huásabas
 20.2036|-98.5760|Huasca de Ocampo
 20.4795|-102.2481|Huascato
 26.8261|-109.6422|Huatabampo
@@ -2786,27 +2806,28 @@
 18.1315|-96.8409|Huautla de Jiménez
 19.2340|-97.0770|Huaxcaleca
 20.7318|-103.6629|Huaxtla
-20.0417|-88.5259|Huay Max
-18.5166|-88.4261|Huay-Pix
 17.9184|-95.2777|Huayacanes
 20.5367|-98.4808|Huayacocotla
+20.0417|-88.5259|Huay Max
+18.5166|-88.4261|Huay-Pix
 16.2193|-95.1286|Huazantlán del Río
 18.7530|-98.7754|Huazulco
 18.1567|-94.7931|Huazuntlán
 18.9369|-98.7825|Huecahuasco
+15.0198|-92.3825|Huehuetán
 20.5320|-98.0331|Huehuetla
 18.3735|-98.6900|Huehuetlan el Chico
 18.7469|-98.1577|Huehuetlán el Grande
 19.8282|-99.2037|Huehuetoca
-15.0198|-92.3825|Huehuetán
 18.4697|-97.9215|Huejonapan
-20.6569|-103.0422|Huejotitlán
 27.0562|-106.1782|Huejotitán
+20.6569|-103.0422|Huejotitlán
 19.1589|-98.4082|Huejotzingo
+22.3341|-103.2525|Huejúcar
 22.6167|-103.8833|Huejuquilla El Alto
 21.1400|-98.4194|Huejutla de Reyes
-22.3341|-103.2525|Huejúcar
 19.7150|-99.7358|Huemetla
+29.9113|-110.2132|Huépac
 25.9842|-108.8606|Huepaco
 18.9089|-98.7500|Huepalcalco (San Miguel)
 25.0378|-99.7086|Huertas Estación
@@ -2859,12 +2880,6 @@
 19.1717|-103.4900|Huizaches
 21.0172|-89.8755|Hunucmá
 20.8523|-88.0895|Hunuku
-29.9077|-109.3010|Huásabas
-29.9113|-110.2132|Huépac
-25.6356|-100.1267|Héctor Caballero
-28.0431|-103.7911|Hércules
-16.0692|-92.2862|Héroes de Chapultepec
-20.3111|-101.5025|Héroes de Chapultepec (Rodeo de San Antonio)
 20.2297|-102.6237|Ibarra
 21.1866|-101.6458|Ibarrilla
 19.8581|-102.0542|Ichán
@@ -2889,27 +2904,27 @@
 23.2407|-102.1446|Illescas
 30.7895|-110.8460|Imuris
 19.7877|-100.9691|Indaparapeo
-16.0861|-92.8382|Independencia
 25.9125|-105.2232|Indé
+16.0861|-92.8382|Independencia
 18.2825|-101.9011|Infiernillo (Morelos de Infiernillo)
 20.4333|-103.9830|Ipazoltic
 20.8864|-103.8244|Iprovipe I
 18.1958|-93.1206|Iquinuapa
+19.9616|-100.9220|Irámuco
 19.6933|-101.0584|Irapeo
 20.6767|-101.3563|Irapuato
 19.6458|-101.4119|Iratzio
 19.7008|-100.4785|Irimbo
 19.7345|-98.5964|Irolo
-19.9616|-100.9220|Irámuco
 20.2458|-101.4936|Isaac Arriaga (Santa Ana Mancera)
 18.0637|-95.5532|Isla
 18.7871|-91.4928|Isla Aguada
 22.7331|-105.8456|Isla del Bosque
 21.5239|-87.3780|Isla Holbox
 21.2311|-86.7310|Isla Mujeres
-18.2011|-96.4832|Isla Soyaltepec
 32.6110|-115.3315|Islas Agrarias Grupo A
 32.6003|-115.2717|Islas Agrarias Grupo B
+18.2011|-96.4832|Isla Soyaltepec
 32.3831|-114.8686|Islita
 25.6239|-100.0722|Ismael Flores
 19.3281|-101.7536|Istaro
@@ -2931,11 +2946,11 @@
 20.1109|-98.9398|Ixcuinquitlapilco
 19.3553|-97.1175|Ixhuacán de los Reyes
 18.0133|-94.8767|Ixhuapan
+17.2934|-93.0083|Ixhuatán
 18.8977|-97.1490|Ixhuatlancillo
-20.6888|-98.0118|Ixhuatlán de Madero
 19.0418|-96.9269|Ixhuatlán del Café
 18.0137|-94.3779|Ixhuatlán del Sureste
-17.2934|-93.0083|Ixhuatán
+20.6888|-98.0118|Ixhuatlán de Madero
 21.1523|-89.4818|Ixil
 20.4784|-99.2170|Ixmiquilpan
 17.5069|-98.0426|Ixpantepec Nieves
@@ -2946,12 +2961,12 @@
 18.8536|-97.0623|Ixtaczoquitlán
 19.8439|-97.3356|Ixtahuiata (La Legua)
 16.8032|-92.9053|Ixtapa
-17.6434|-101.5521|Ixtapa-Zihuatanejo
 19.3156|-98.8828|Ixtapaluca
 21.3077|-105.1577|Ixtapan de la Concepción
 18.8437|-99.6767|Ixtapan de la Sal
 19.2630|-100.2646|Ixtapan del Oro
 17.4985|-93.0015|Ixtapangajoya
+17.6434|-101.5521|Ixtapa-Zihuatanejo
 16.5605|-95.1038|Ixtepec
 19.8142|-97.3445|Ixticpan
 20.8837|-98.7038|Ixtlahuaca
@@ -2961,10 +2976,10 @@
 19.0012|-103.7364|Ixtlahuacán
 20.3467|-103.1914|Ixtlahuacán de los Membrillos
 20.8667|-103.2500|Ixtlahuacán del Río
-18.5583|-98.8469|Ixtlilco el Chico
 17.3321|-96.4881|Ixtlán de Juárez
 20.1689|-102.3948|Ixtlán de los Hervores
 21.0391|-104.3712|Ixtlán del Río
+18.5583|-98.8469|Ixtlilco el Chico
 19.9055|-97.8176|Ixtolco de Morelos
 20.9354|-89.0180|Izamal
 22.0100|-103.7464|Izolta
@@ -2973,9 +2988,6 @@
 21.3700|-98.9417|Iztacapa
 19.3553|-99.0622|Iztapalapa
 18.6016|-98.4615|Izúcar de Matamoros
-20.6375|-103.0781|J. Isabel Flores
-19.7667|-102.3972|J. Jesús Díaz Tzirio
-22.8872|-103.4853|J. Jesús González Ortega (San Mateo)
 25.7481|-103.2655|Jaboncillo
 21.0095|-99.1913|Jacala
 19.4956|-96.8528|Jacarandas
@@ -2993,6 +3005,7 @@
 19.1227|-104.2674|Jalipa
 16.4303|-91.9750|Jalisco
 18.9184|-99.4941|Jalmolonga (La Hacienda)
+21.1681|-102.4610|Jalostotitlán
 21.1674|-102.4639|Jalostotitlan
 21.1091|-98.7131|Jalpa
 19.6783|-99.8739|Jalpa de los Baños
@@ -3005,6 +3018,7 @@
 17.3549|-95.4143|Jaltepec de Candayoc
 17.6862|-97.0357|Jaltepetongo
 21.7752|-102.7885|Jaltiche de Arriba
+17.9654|-94.7140|Jáltipan de Morelos
 21.1328|-98.5390|Jaltocan
 22.0153|-102.1458|Jaltomate
 19.2309|-104.6853|Jaluco
@@ -3018,26 +3032,27 @@
 19.5733|-101.6519|Janitzio
 30.8891|-108.1943|Janos
 18.7183|-98.7776|Jantetelco
+19.5606|-101.6779|Jarácuaro
 20.3724|-101.0625|Jaral del Progreso
 25.6293|-100.1867|Jardines de la Silla
 25.6391|-100.1868|Jardines de la Silla (Jardines)
-20.5189|-103.4222|Jardines de San Sebastián
 20.5325|-103.3628|Jardines del Edén
 16.7285|-93.0346|Jardínes del Grijalva
+20.5189|-103.4222|Jardines de San Sebastián
 22.2961|-102.0633|Jarillas
 19.6803|-101.0854|Jaripeo
 21.3117|-101.9975|Jaritas
-19.5606|-101.6779|Jarácuaro
 25.9289|-103.3738|Jauja
 22.0282|-101.5919|Jaula de Abajo
 23.4062|-99.3807|Jaumave
+25.2950|-99.9517|Jáuregui
 20.5928|-100.7194|Jauregui
 20.0697|-98.4178|Javier Rojo Gómez
 27.1983|-109.7695|Jecopaco
+20.1547|-100.5086|Jerécuaro
 22.6497|-102.9903|Jerez de García Salinas
 16.2871|-92.9663|Jericó
 17.3681|-92.0608|Jerusalén
-20.1547|-100.5086|Jerécuaro
 17.4353|-95.0264|Jesús Carranza
 18.9453|-99.6306|Jesús Carranza (Rancho de Jesús)
 19.3750|-99.2944|Jesús del Monte
@@ -3054,6 +3069,7 @@
 19.2292|-98.3142|Jesús Tepactepec
 19.3717|-99.6408|Jicaltepec Autopan
 19.3731|-99.6275|Jicaltepec Cuexcontitlán
+20.2760|-101.3592|Jícamas
 18.6149|-99.2234|Jicarero
 17.1272|-98.2362|Jicayán de Tovar
 19.9660|-97.9734|Jicolapa
@@ -3065,13 +3081,17 @@
 23.2538|-103.7986|Jiménez del Teul
 19.7789|-103.7789|Jiquilpan
 15.3419|-92.7475|Jiquilpan (Estación Bonanza)
+19.9948|-102.7197|Jiquílpan de Juárez
+19.9917|-102.7184|Jiquilpan de Juárez
 16.6681|-93.6467|Jiquipilas
 19.5564|-99.6083|Jiquipilco
-19.9948|-102.7197|Jiquílpan de Juárez
+20.6375|-103.0781|J. Isabel Flores
 27.0617|-109.6050|Jitonhueca
 17.0672|-92.8611|Jitotol
 26.2151|-109.2633|Jitzamuri
 18.8814|-99.1778|Jiutepec
+19.7667|-102.3972|J. Jesús Díaz Tzirio
+22.8872|-103.4853|J. Jesús González Ortega (San Mateo)
 18.6385|-96.2332|Joachín
 20.4830|-100.4385|Joaquín Herrera
 16.3700|-93.3656|Joaquín Miguel Gutiérrez
@@ -3098,24 +3118,25 @@
 19.0503|-99.5337|Joquicingo
 19.3097|-98.8467|Jorge Jiménez Cantú
 19.8239|-99.2483|Jorobas
-18.1062|-88.7257|Jose Narciso Rovirosa
-20.9000|-103.8331|Josefa Ortíz de Domínguez
-17.2467|-92.3628|Joshil
 19.3681|-96.3695|José Cardel
 17.9469|-92.4666|José Colomo
 21.5217|-102.4714|José de Jesús Aguirre Teocaltiche
 26.7372|-105.1583|José Esteban Coronado
+20.9000|-103.8331|Josefa Ortíz de Domínguez
 18.0253|-94.6103|José F. Gutiérrez
 24.4542|-104.7089|José Guadalupe Aguilera (Santa Lucía)
 24.3191|-104.0800|José Guadalupe Rodríguez
-27.1308|-104.9239|José Mariano Jiménez
 16.0419|-91.8320|José María Morelos
 19.8639|-100.8792|José María Morelos (La Yegüería)
 19.6825|-98.5764|José María Morelos (San José)
 23.6056|-103.1103|José María Morelos (Santa Mónica)
 17.2411|-92.7023|José María Morelos y Pavón
+27.1308|-104.9239|José Mariano Jiménez
 16.5057|-93.7391|José María Pino Suárez
+18.1062|-88.7257|Jose Narciso Rovirosa
 23.9644|-104.5181|José Refugio Salcido
+17.2467|-92.3628|Joshil
+20.5000|-103.1667|Juanacatlán
 17.6094|-93.0283|Juan Aldama
 24.9397|-107.8208|Juan Aldama (El Tigre)
 19.1210|-98.3409|Juan C. Bonilla
@@ -3135,28 +3156,24 @@
 17.9928|-95.4010|Juan Rodríguez Clara
 27.4692|-100.3839|Juan Salazar
 18.5004|-88.4801|Juan Sarabia
-20.5000|-103.1667|Juanacatlán
+17.6057|-93.1943|Juárez
+19.3606|-98.5250|Juárez Coronaco
+25.6500|-100.0833|Juárez Nuevo León
 21.4086|-103.1166|Juchipila
 19.8398|-96.6946|Juchique de Ferrer
-19.1006|-98.8788|Juchitepec
 16.4360|-95.0198|Juchitán de Zaragoza
+19.1006|-98.8788|Juchitepec
 19.3777|-102.0792|Jucutacato
-28.4238|-105.4273|Julimes
 17.2189|-99.5247|Julián Blanco (Dos Caminos)
 16.4292|-93.7142|Julián Grajales
 20.3965|-99.1043|Julián Villagrán
+28.4238|-105.4273|Julimes
 18.9136|-98.7767|Jumiltepec
 19.4592|-100.4948|Jungapeo de Juárez
 26.8019|-109.7020|Juraré
 20.7128|-100.4557|Juriquilla
 16.5425|-92.0574|Justo Sierra
 20.6434|-100.9929|Juventino Rosas
-17.6057|-93.1943|Juárez
-19.3606|-98.5250|Juárez Coronaco
-25.6500|-100.0833|Juárez Nuevo León
-17.9654|-94.7140|Jáltipan de Morelos
-25.2950|-99.9517|Jáuregui
-20.2760|-101.3592|Jícamas
 20.9348|-89.5587|Kanasín
 20.1957|-89.3456|Kancab
 19.7149|-88.8621|Kancabchén
@@ -3199,6 +3216,9 @@
 16.5948|-94.6926|La Blanca
 26.8871|-109.6680|La Bocana
 25.2703|-100.0436|La Boquilla
+20.4667|-103.9167|Labor de Medina
+21.3672|-102.2192|Labor de Montoya
+20.4089|-101.4090|Labor de Peralta
 20.1250|-98.1247|La Boveda
 25.3708|-108.4192|La Brecha
 19.3561|-99.7481|La Cabecera
@@ -3211,15 +3231,17 @@
 20.8963|-97.7725|La Camelia
 25.2990|-98.6772|La Campana
 19.5098|-99.9423|La Campanilla
+19.4864|-99.5989|La Cañada
+20.0117|-103.7128|La Cañada Tezcaltilti
 16.7429|-92.5216|La Candelaria
 19.3331|-98.2256|La Candelaria Teotlalpan
 19.2404|-98.8477|La Candelaria Tlapala
+17.0214|-91.5952|Lacandón
 19.8637|-102.4084|La Cantera
+20.1286|-97.6534|Lacapan Camallagne
 20.5566|-101.3002|La Capilla
 23.4033|-99.9811|La Cardona
 19.9478|-99.8369|La Caridad
-19.4864|-99.5989|La Cañada
-20.0117|-103.7128|La Cañada Tezcaltilti
 20.8903|-102.7425|La Cebadilla
 17.1337|-92.5189|La Ceiba
 20.3803|-100.2651|La Ceja
@@ -3229,10 +3251,10 @@
 17.9079|-95.0550|La Cerquilla
 23.7213|-100.3701|La Chiripa
 25.5192|-99.9808|La Chueca Cadereyta Jiménez
-20.9463|-100.7897|La Cieneguita
-23.7305|-105.6888|La Ciudad
 18.9561|-99.5814|La Ciénega
 22.0631|-104.3258|La Ciénega de Huaistita
+20.9463|-100.7897|La Cieneguita
+23.7305|-105.6888|La Ciudad
 22.6136|-103.9242|La Cofradía
 19.8886|-103.7244|La Cofradía del Rosario
 25.2828|-100.0547|La Colmena de Arriba
@@ -3272,8 +3294,12 @@
 17.8660|-92.4881|La Curva
 20.4405|-100.1530|La D
 20.1051|-96.9608|La Defensa
+20.5217|-102.3469|Ladera Chica
 25.9914|-109.2727|La Despensa
 16.7672|-99.0106|La Dicha
+25.7960|-100.0922|Ladrillera
+21.0847|-101.5536|Ladrilleras del Refugio
+25.5981|-108.4494|Ladrilleras de Ocoro
 19.4124|-100.3921|La Encarnación
 21.1519|-101.7331|La Ermita
 19.0744|-101.5067|La Ermita (Nueva Jerusalén)
@@ -3302,23 +3328,26 @@
 25.8474|-103.2012|La Fe
 18.8905|-99.6403|La Finca
 25.6814|-103.3684|La Flor
-16.5092|-92.3125|La Floresta
 20.4675|-102.7350|La Floreña
+16.5092|-92.3125|La Floresta
 25.7681|-103.3242|La Florida
 21.5528|-104.9508|La Fortuna
 20.4847|-103.3958|La Fortuna Fraccionamiento
+19.3068|-97.2975|Lafragua
 19.9608|-103.7114|La Frontera
 20.5526|-100.0359|La Fuente
 19.4553|-100.3036|La Fundición (Quinta Manzana)
 18.6678|-98.4553|La Galarza
 19.7667|-103.1167|La Garita Jalisco
 20.9556|-103.1394|La Garruña
+18.0628|-92.8856|Lagartera 1ra. Sección
 20.3943|-100.8812|La Gavia
 20.6144|-102.2047|La Gila
 15.9639|-91.9650|La Gloria
 19.4115|-99.3856|La Glorieta
 19.7390|-101.0813|La Goleta
 25.4846|-103.6888|La Goma
+21.3564|-101.9292|Lagos de Moreno
 20.8632|-100.3757|La Gotera
 15.5103|-92.2260|La Grandeza
 20.7069|-102.4436|La Granjena
@@ -3326,6 +3355,25 @@
 19.5541|-99.9092|La Guadalupana
 16.6888|-98.2622|La Guadalupe
 22.1189|-103.7411|La Guásima
+18.5431|-96.7331|Laguna Chica (Pueblo Nuevo)
+20.7592|-102.8311|Laguna Colorada
+19.8033|-96.6439|Laguna de Farfán
+21.8005|-101.3569|Laguna de Guadalupe
+15.6275|-92.6414|Laguna del Cofre
+22.2195|-98.9876|Laguna del Mante
+27.0306|-103.3667|Laguna del Rey (Químicas del Rey)
+20.8203|-102.1378|Laguna de Piedra
+22.1145|-100.8471|Laguna de Santa Rita
+21.9460|-100.8593|Laguna de San Vicente
+19.4614|-99.8783|Laguna de Tabernillas (El Resbaloso)
+20.3539|-100.1351|Laguna de Vaquerías
+20.5413|-101.4845|Laguna Larga
+20.3927|-101.9406|Laguna Larga de Cortés
+23.0618|-102.4956|Laguna Seca
+18.3430|-95.1518|Laguneta
+20.3431|-99.0274|Lagunilla
+17.8244|-101.7107|Lagunillas
+20.3397|-103.9958|Lagunillas Jalisco
 25.5185|-99.7659|La Haciendita
 20.1133|-103.6014|La Hermosura
 19.0400|-99.5847|La Herradura
@@ -3353,9 +3401,9 @@
 20.7086|-103.0444|La Joya Grande
 28.4800|-107.3295|La Junta
 21.9621|-102.6963|La Labor
+21.1064|-101.5517|La Laborcita
 21.2331|-102.7833|La Labor de la Concepción
 21.3772|-102.3164|La Labor de los Alba
-21.1064|-101.5517|La Laborcita
 20.2072|-104.1514|La Ladera
 20.5242|-102.3517|La Ladera Grande
 16.6936|-91.9493|La Laguna
@@ -3366,6 +3414,7 @@
 20.5295|-100.7617|La Laja
 18.5704|-90.5140|La Libertad
 21.9272|-99.1028|La Lima
+16.1308|-94.0356|La Línea
 20.4755|-100.1615|La Lira
 20.4663|-99.9937|La Llave
 20.3581|-101.5403|La Lobera
@@ -3373,14 +3422,14 @@
 25.4640|-103.6735|La Loma
 24.3806|-107.2265|La Loma (La Loma de Quila)
 19.3800|-99.6489|La Loma Cuexcontitlán
+20.7300|-102.4017|La Loma del Nopal
 21.8706|-102.3500|La Loma de los Negritos
 20.7244|-102.2222|La Loma de los Rizo
-20.7300|-102.4017|La Loma del Nopal
 21.4406|-102.3128|La Lomita
 18.1807|-93.3218|La Lucha
 25.7262|-103.2454|La Luz
 17.5350|-98.3483|La Luz de Juárez
-16.1308|-94.0356|La Línea
+27.0509|-101.7955|Lamadrid
 25.6103|-100.1683|La Maestranza
 19.9480|-99.9995|La Magdalena
 19.4124|-99.3256|La Magdalena Chichicaspa
@@ -3398,8 +3447,8 @@
 19.4486|-100.3272|La Mesa (La Mesa de Cedano)
 23.6414|-100.0967|La Mesa de Berrones
 19.8525|-99.8903|La Mesa de Chosto
-22.1032|-101.0531|La Mesa de los Conejos
 20.6697|-102.7667|La Mesa del Guitarrero
+22.1032|-101.0531|La Mesa de los Conejos
 20.4895|-99.6768|La Mesilla
 20.8389|-103.5067|La Mesita
 20.4525|-103.1231|La Mezcalilla
@@ -3417,7 +3466,11 @@
 20.8427|-100.4975|La Monja
 20.7057|-104.0341|La Mora
 20.7056|-102.6903|La Mota
+27.0255|-100.5053|Lampazos de Naranjo
 19.4867|-104.3964|La Nance
+21.1848|-99.3199|Landa de Matamoros
+19.7394|-96.8501|Landero y Coss
+20.7539|-100.9059|Landín
 20.5265|-100.4505|La Negreta
 20.4775|-102.4006|La Nopalera
 21.1097|-101.8375|La Noria
@@ -3449,13 +3502,14 @@
 20.3449|-102.5306|La Paz de Ordaz
 16.6303|-96.7977|La Pe
 22.3935|-97.8821|La Pedrera
+20.3272|-102.9756|La Peña Jalisco
 22.4378|-101.5761|La Pendencia
 17.9435|-93.3615|La Península
+21.0388|-105.2479|La Peñita de Jaltomba
 25.4970|-103.3509|La Perla
 23.7866|-97.7771|La Pesca
-20.3272|-102.9756|La Peña Jalisco
-21.0388|-105.2479|La Peñita de Jaltomba
 20.3424|-102.0305|La Piedad
+20.3411|-102.0225|La Piedad de Cabadas
 22.0343|-100.8679|La Pila
 17.1411|-92.7622|La Pimienta
 25.9028|-103.2648|La Pinta
@@ -3474,9 +3528,9 @@
 20.7230|-103.5654|La Primavera
 30.9689|-116.1586|La Providencia
 20.0642|-98.7172|La Providencia Siglo XXI
-20.9278|-103.8439|La Puerta de San Pedro
 20.8040|-104.2258|La Puerta del Coche
 19.4602|-100.0158|La Puerta del Pilar
+20.9278|-103.8439|La Puerta de San Pedro
 22.3241|-102.2921|La Punta
 19.5244|-98.8173|La Purificación
 20.5144|-100.6725|La Purísima
@@ -3495,21 +3549,109 @@
 19.4852|-99.3298|La Rosa
 20.0840|-103.1090|La Rosa Amarilla
 20.7081|-102.2508|La Rosa de Castilla
+16.8839|-92.7133|Larráinzar
 20.1017|-103.2625|La Rueda
 21.1996|-100.6896|La Sabana
+18.4446|-92.8841|La Sábana
 20.3629|-99.6342|La Sabinita
+24.5756|-107.8006|Las Aguamitas
 20.2072|-98.8725|La Sala (La Caliente)
+21.3286|-101.9106|Las Alfalfas
+19.1519|-96.1978|Las Amapolas
+21.5892|-101.6555|Las Amarillas
+16.3667|-94.6167|Las Amilpas
 20.4922|-102.0442|La Sanguijuela
+22.0906|-102.2668|Las Ánimas
 20.8812|-101.6644|La Sardina
+24.3725|-107.5361|Las Arenitas
+21.6969|-98.9675|Las Armas
+20.5222|-103.2908|Las Asturias Fraccionamiento
 20.8983|-101.1912|La Sauceda
+20.8919|-102.7917|Las Azules
+24.8487|-99.4358|Las Barretas
+18.1862|-94.5954|Las Barrillas
+26.5882|-109.3362|Las Bocas
+30.9606|-116.1644|Las Brisas
+20.1994|-104.0225|Las Calaveras
+21.1400|-102.4617|Las Cañadas
+20.2959|-101.4182|Las Cañas
+19.6103|-103.4739|Las Canoas
+20.4486|-103.2464|Las Carretas
+23.0911|-102.6160|Las Catarinas
+15.6709|-92.2107|Las Chicharras
+17.9118|-94.0965|Las Choapas
+20.2488|-102.2451|Las Cieneguitas
+20.1961|-97.9767|Las Colonias de Hidalgo
+21.6077|-87.9904|Las Coloradas
+17.1956|-100.0084|Las Compuertas
+29.4328|-107.3896|Las Cruces
+25.4981|-103.5495|Las Cuevas
+32.4089|-116.9436|Las Delicias
 18.0233|-92.9631|La Selva
+23.8497|-103.1311|Las Esperanzas (El Ranchito)
+16.7003|-93.0264|Las Flechas
+22.1053|-103.2542|Las Golondrinas [Fraccionamiento]
+25.8777|-109.3377|Las Grullas Margen Derecha
+25.8531|-109.3292|Las Grullas Margen Izquierda
+18.0191|-102.2101|Las Guacamayas
+20.0369|-96.6220|Las Higueras
+25.2622|-97.4361|Las Higuerillas
+19.9722|-99.5561|Las Huertas
+20.6528|-101.3931|Las Huertas Tercera Sección
 18.9338|-97.0799|La Sidra
+20.6925|-105.2739|Las Jarretaderas
+19.4306|-104.7065|Las Juntas
+19.9983|-98.0733|Las Lajas
+20.8036|-100.4011|Las Lajitas
+20.2308|-101.4336|Las Letras
+20.8353|-101.4706|Las Liebres
+16.9819|-100.0950|Las Lomas
+17.8661|-94.7083|Las Lomas de Tacamichapan
+19.9507|-99.5611|Las Manzanas
+16.9595|-93.3201|Las Maravillas
+27.6183|-113.4536|Las Margaritas
+20.5992|-101.5428|Las Masas (La Luz Masas)
+29.3639|-110.9517|Las Mercedes [Agropecuaria]
+17.0079|-99.4579|Las Mesas
+23.5068|-100.1391|Las Mesas de San Juan
+25.3995|-103.2674|Las Mieleras
+19.7045|-97.1470|Las Minas
+25.6575|-108.4581|Las Moras
+18.1836|-98.0461|Las Nieves
+21.8894|-102.2174|Las Norias de Ojocaliente
 20.7384|-100.3947|La Solana
 20.6079|-101.4156|La Soledad
 20.0919|-99.8231|La Soledad Barrio
+16.7815|-92.5528|Las Ollas
 19.7508|-96.7142|La Sombra
+22.9367|-109.9424|Las Palmas
+23.5461|-100.1808|Las Palomas
+19.4497|-99.9994|Las Peñas
+22.8400|-102.6128|Las Pilas
+19.8967|-98.8869|Las Pintas
+20.5738|-103.3234|Las Pintas de Arriba
+20.5644|-103.3022|Las Pintitas
+16.8742|-99.7856|Las Plazuelas
+19.6947|-103.8333|Las Primaveras [Invernadero]
+25.6858|-108.4524|Las Quemazones
+20.2086|-101.4781|Las Ranas
+16.3657|-92.3704|Las Rosas
+18.1266|-95.8226|Las Sabanetas
+21.3181|-97.8808|Las Sabinas
+20.4175|-100.3842|Las Taponas
+16.7572|-91.6150|Las Tazas
+25.9517|-100.3181|Las Torres
+25.8061|-100.6225|Las Torres de Guadalupe
+19.5044|-96.8644|Las Trancas
+20.7111|-100.7808|Las Trojas
+17.1197|-100.4831|Las Tunas
 21.9051|-99.0989|La Subida
-18.4446|-92.8841|La Sábana
+28.1566|-105.3406|Las Varas
+29.4808|-108.0256|Las Varas (Estación Babícora)
+23.1503|-109.7061|Las Veredas
+16.7614|-99.2294|Las Vigas
+19.6372|-97.0982|Las Vigas de Ramírez
+26.0802|-106.7797|Las Yerbitas [Aserradero]
 18.3358|-96.4513|La Tabaquera
 20.4461|-103.4831|La Teja
 22.6971|-102.1167|La Tesorera
@@ -3551,146 +3693,31 @@
 21.3187|-104.0116|La Yesca
 22.7305|-102.4746|La Zacatecana
 20.3061|-102.8978|La Zapotera
-20.4667|-103.9167|Labor de Medina
-21.3672|-102.2192|Labor de Montoya
-20.4089|-101.4090|Labor de Peralta
-17.0214|-91.5952|Lacandón
-20.1286|-97.6534|Lacapan Camallagne
-20.5217|-102.3469|Ladera Chica
-25.7960|-100.0922|Ladrillera
-25.5981|-108.4494|Ladrilleras de Ocoro
-21.0847|-101.5536|Ladrilleras del Refugio
-19.3068|-97.2975|Lafragua
-18.0628|-92.8856|Lagartera 1ra. Sección
-21.3564|-101.9292|Lagos de Moreno
-18.5431|-96.7331|Laguna Chica (Pueblo Nuevo)
-20.7592|-102.8311|Laguna Colorada
-19.8033|-96.6439|Laguna de Farfán
-21.8005|-101.3569|Laguna de Guadalupe
-20.8203|-102.1378|Laguna de Piedra
-21.9460|-100.8593|Laguna de San Vicente
-22.1145|-100.8471|Laguna de Santa Rita
-19.4614|-99.8783|Laguna de Tabernillas (El Resbaloso)
-20.3539|-100.1351|Laguna de Vaquerías
-15.6275|-92.6414|Laguna del Cofre
-22.2195|-98.9876|Laguna del Mante
-27.0306|-103.3667|Laguna del Rey (Químicas del Rey)
-20.5413|-101.4845|Laguna Larga
-20.3927|-101.9406|Laguna Larga de Cortés
-23.0618|-102.4956|Laguna Seca
-18.3430|-95.1518|Laguneta
-20.3431|-99.0274|Lagunilla
-17.8244|-101.7107|Lagunillas
-20.3397|-103.9958|Lagunillas Jalisco
-27.0509|-101.7955|Lamadrid
-27.0255|-100.5053|Lampazos de Naranjo
-21.1848|-99.3199|Landa de Matamoros
-19.7394|-96.8501|Landero y Coss
-20.7539|-100.9059|Landín
-16.8839|-92.7133|Larráinzar
-24.5756|-107.8006|Las Aguamitas
-21.3286|-101.9106|Las Alfalfas
-19.1519|-96.1978|Las Amapolas
-21.5892|-101.6555|Las Amarillas
-16.3667|-94.6167|Las Amilpas
-24.3725|-107.5361|Las Arenitas
-21.6969|-98.9675|Las Armas
-20.5222|-103.2908|Las Asturias Fraccionamiento
-20.8919|-102.7917|Las Azules
-24.8487|-99.4358|Las Barretas
-18.1862|-94.5954|Las Barrillas
-26.5882|-109.3362|Las Bocas
-30.9606|-116.1644|Las Brisas
-20.1994|-104.0225|Las Calaveras
-19.6103|-103.4739|Las Canoas
-20.4486|-103.2464|Las Carretas
-23.0911|-102.6160|Las Catarinas
-21.1400|-102.4617|Las Cañadas
-20.2959|-101.4182|Las Cañas
-15.6709|-92.2107|Las Chicharras
-17.9118|-94.0965|Las Choapas
-20.2488|-102.2451|Las Cieneguitas
-20.1961|-97.9767|Las Colonias de Hidalgo
-21.6077|-87.9904|Las Coloradas
-17.1956|-100.0084|Las Compuertas
-29.4328|-107.3896|Las Cruces
-25.4981|-103.5495|Las Cuevas
-32.4089|-116.9436|Las Delicias
-23.8497|-103.1311|Las Esperanzas (El Ranchito)
-16.7003|-93.0264|Las Flechas
-22.1053|-103.2542|Las Golondrinas [Fraccionamiento]
-25.8777|-109.3377|Las Grullas Margen Derecha
-25.8531|-109.3292|Las Grullas Margen Izquierda
-20.0369|-96.6220|Las Higueras
-25.2622|-97.4361|Las Higuerillas
-19.9722|-99.5561|Las Huertas
-20.6528|-101.3931|Las Huertas Tercera Sección
-20.6925|-105.2739|Las Jarretaderas
-19.4306|-104.7065|Las Juntas
-19.9983|-98.0733|Las Lajas
-20.8036|-100.4011|Las Lajitas
-20.2308|-101.4336|Las Letras
-20.8353|-101.4706|Las Liebres
-16.9819|-100.0950|Las Lomas
-17.8661|-94.7083|Las Lomas de Tacamichapan
-19.9507|-99.5611|Las Manzanas
-16.9595|-93.3201|Las Maravillas
-27.6183|-113.4536|Las Margaritas
-20.5992|-101.5428|Las Masas (La Luz Masas)
-29.3639|-110.9517|Las Mercedes [Agropecuaria]
-17.0079|-99.4579|Las Mesas
-23.5068|-100.1391|Las Mesas de San Juan
-25.3995|-103.2674|Las Mieleras
-19.7045|-97.1470|Las Minas
-25.6575|-108.4581|Las Moras
-18.1836|-98.0461|Las Nieves
-21.8894|-102.2174|Las Norias de Ojocaliente
-16.7815|-92.5528|Las Ollas
-22.9367|-109.9424|Las Palmas
-23.5461|-100.1808|Las Palomas
-19.4497|-99.9994|Las Peñas
-22.8400|-102.6128|Las Pilas
-19.8967|-98.8869|Las Pintas
-20.5738|-103.3234|Las Pintas de Arriba
-20.5644|-103.3022|Las Pintitas
-16.8742|-99.7856|Las Plazuelas
-19.6947|-103.8333|Las Primaveras [Invernadero]
-25.6858|-108.4524|Las Quemazones
-20.2086|-101.4781|Las Ranas
-16.3657|-92.3704|Las Rosas
-18.1266|-95.8226|Las Sabanetas
-21.3181|-97.8808|Las Sabinas
-20.4175|-100.3842|Las Taponas
-16.7572|-91.6150|Las Tazas
-25.9517|-100.3181|Las Torres
-25.8061|-100.6225|Las Torres de Guadalupe
-19.5044|-96.8644|Las Trancas
-20.7111|-100.7808|Las Trojas
-17.1197|-100.4831|Las Tunas
-28.1566|-105.3406|Las Varas
-29.4808|-108.0256|Las Varas (Estación Babícora)
-23.1503|-109.7061|Las Veredas
-16.7614|-99.2294|Las Vigas
-19.6372|-97.0982|Las Vigas de Ramírez
-26.0802|-106.7797|Las Yerbitas [Aserradero]
-22.0906|-102.2668|Las Ánimas
+22.1714|-102.0270|Lázaro Cárdenas
+16.6761|-92.4892|Lázaro Cárdenas (Chilil)
+18.9322|-99.0253|Lázaro Cárdenas (El Empalme)
+19.8697|-101.0231|Lázaro Cárdenas (La Purísima)
+23.4506|-102.9625|Lázaro Cárdenas (Rancho Grande)
+20.2250|-97.5931|Lázaro Cárdenas (Santana)
+20.4417|-103.9689|Lázaro Cárdenas Jalisco
 20.0986|-97.6431|Leacaman
+21.0931|-101.6450|León
 20.9897|-87.2022|Leona Vicario
+21.1291|-101.6737|León de los Aldama
+25.4999|-103.6592|León Guzmán
 20.7124|-89.4972|Lepan
+25.5361|-103.5249|Lerdo
 18.6294|-95.5197|Lerdo de Tejada
 19.8040|-90.6009|Lerma
 19.2888|-99.5116|Lerma de Villada
 25.6616|-108.6370|Leyva Solano
-21.0931|-101.6450|León
-21.1291|-101.6737|León de los Aldama
-25.4999|-103.6592|León Guzmán
 17.4103|-92.7150|Libertad
+19.1345|-97.7673|Libertad Álvaro Obregón
 16.3739|-93.4750|Libertad Melchor Ocampo
 15.5395|-92.2758|Libertad Ventanas
-19.1345|-97.7673|Libertad Álvaro Obregón
-20.7064|-88.8096|Libre Unión
 19.4657|-97.6874|Libres
-24.6567|-107.5450|Licenciado Benito Juárez (Campo Gobierno)
+20.7064|-88.8096|Libre Unión
+24.6567|-107.5450|Licenciado Benito Juárez|Licenciado Benito Juárez (Campo Gobierno)
 30.9751|-116.1556|Licenciado Gustavo Díaz Ordaz
 18.6322|-91.0028|Licenciado Gustavo Díaz Ordaz (18 de Marzo)
 19.3382|-96.9234|Limones
@@ -3702,22 +3729,22 @@
 20.7833|-98.0136|Llano de Enmedio
 14.8660|-92.2971|Llano de la Lima
 16.7435|-99.5272|Llano de la Puerta
-19.4028|-99.6164|Llano de la Y
 19.4358|-99.3225|Llano de las Flores (Barrio del Hueso)
-19.7040|-99.4851|Llano de Zacapexco
+19.4028|-99.6164|Llano de la Y
 22.1271|-105.3058|Llano del Tigre
+19.7040|-99.4851|Llano de Zacapexco
 23.8637|-105.2056|Llano Grande
 20.3011|-99.7656|Llano Largo
 16.8661|-95.0539|Llano Suchiapa
 23.2661|-98.9184|Llera
 23.3177|-99.0261|Llera de Canales
 19.6214|-104.5344|Lo Arado
+22.8228|-103.4058|Lobatos
+21.3883|-88.1457|Loché
 24.6800|-107.5456|Lo de Jesús (Campo Romero)
 20.7683|-101.3411|Lo de Juárez
 21.5384|-104.9394|Lo de Lamedo
 20.9551|-105.3522|Lo de Marcos
-22.8228|-103.4058|Lobatos
-21.3883|-88.1457|Loché
 17.6097|-99.2119|Lodo Grande
 21.0092|-98.7312|Lolotla
 19.6894|-99.4492|Loma Alta
@@ -3733,29 +3760,30 @@
 20.6593|-101.5567|Loma de la Esperanza
 19.1056|-96.3937|Loma de los Carmona
 19.0356|-102.4428|Loma de los Hoyos
+27.1219|-109.4592|Loma del Refugio
+19.6006|-99.3506|Loma del Río
 19.2833|-99.8092|Loma de San Francisco
 19.6422|-99.3278|Loma de San José
 19.3419|-99.7917|Loma de San Miguel
 18.2190|-94.9737|Loma de Sogotegoyo
 21.0606|-101.4494|Loma de Yerbabuena
 20.2918|-101.0802|Loma de Zempoala
-27.1219|-109.4592|Loma del Refugio
-19.6006|-99.3506|Loma del Río
 18.9225|-97.2308|Loma Grande
 25.7111|-100.1347|Loma la Paz
 19.6275|-99.3461|Loma Larga
 19.8672|-99.1161|Loma Larga (Barrio de Loma Larga)
 20.4008|-100.0313|Loma Linda
-20.5722|-101.2942|Loma Pelada
-20.3756|-101.3106|Loma Tendida
 16.4400|-92.0644|Lomantán
+20.5722|-101.2942|Loma Pelada
 18.9714|-99.1897|Lomas de Ahuatepec
 19.3614|-98.9447|Lomas de Altavista
 18.1481|-94.5264|Lomas de Barrillas
 16.7161|-99.6102|Lomas de Chapultepec
 19.6875|-101.3303|Lomas de la Maestranza
-18.9144|-97.7172|Lomas de Romero
+22.5205|-97.8991|Lomas del Real
+20.4925|-103.4175|Lomas del Sur
 19.1933|-96.2106|Lomas de Río Medio Cuatro
+18.9144|-97.7172|Lomas de Romero
 20.5275|-103.4678|Lomas de San Agustín
 25.2106|-100.0025|Lomas de San Francisco
 16.9847|-99.8038|Lomas de San Juan
@@ -3768,34 +3796,38 @@
 19.7023|-99.1124|Lomas de Tenopalco
 19.2386|-99.2394|Lomas de Tepemecatl
 32.4831|-116.8017|Lomas de Tlatelolco
-22.5205|-97.8991|Lomas del Real
-20.4925|-103.4175|Lomas del Sur
 19.5045|-96.8890|Lomas Verdes
+20.3756|-101.3106|Loma Tendida
 19.1581|-102.0511|Lombardía
 18.0643|-92.9620|Lomitas
+22.4976|-98.4598|López Rayón
 26.0122|-111.3489|Loreto
 17.6006|-101.4175|Los Achotes
 21.1073|-104.3545|Los Aguajes
+28.3564|-100.9456|Los Álamos
 26.0500|-99.1833|Los Aldamas
 32.7000|-114.7333|Los Algodones
 17.6117|-101.4392|Los Almendros
 21.5098|-97.7571|Los Altos
+20.5536|-100.9417|Los Ángeles
 25.5221|-103.5676|Los Angeles
+25.2026|-99.7483|Los Ángeles Nuevo León
+18.8899|-98.1671|Los Ángeles Tetela
 19.7098|-99.5022|Los Arana
 21.0493|-101.6886|Los Arcos
 21.9230|-102.3855|Los Arquitos
 22.5009|-98.6142|Los Aztecas
 21.8461|-101.9653|Los Azulitos
 27.1167|-109.4672|Los Bahuises
-23.6827|-109.6995|Los Barriles
 20.7905|-100.3131|Los Baños
+23.6827|-109.6995|Los Barriles
 20.6850|-99.9561|Los Benitos
 19.3977|-100.0484|Los Berros
 23.2766|-109.7532|Los Cabos
 14.8674|-92.3020|Los Cafetales
 19.2096|-101.9132|Los Cajones
-26.1480|-98.3451|Los Cavazos
 21.7817|-102.4675|Los Caños
+26.1480|-98.3451|Los Cavazos
 20.3898|-103.2325|Los Cedros
 17.6346|-91.0376|Los Cenotes
 20.5620|-100.0634|Los Cerritos
@@ -3822,6 +3854,7 @@
 25.9050|-99.4025|Los Herreras
 30.1244|-109.7822|Los Hoyos
 19.8992|-102.4976|Los Hucuares
+19.4117|-96.5181|Los Ídolos
 19.4878|-89.9944|Los Laureles
 19.6003|-102.5304|Los Limones
 18.5006|-95.3883|Los Lirios
@@ -3841,6 +3874,7 @@
 20.4156|-101.9611|Los Ocotes
 20.4392|-103.2378|Los Olivos
 20.5343|-100.4079|Los Olvera
+16.9349|-99.8233|Los Órganos de San Agustín
 21.7043|-105.3762|Los Otates
 14.8572|-92.2582|Los Palacios
 25.7907|-100.4699|Los Parques
@@ -3851,8 +3885,8 @@
 20.5372|-103.9372|Los Pocitos
 16.6477|-92.4073|Los Pozos
 20.5751|-101.2657|Los Prietos
-25.6972|-99.6253|Los Ramones
 21.0194|-101.6441|Los Ramírez
+25.6972|-99.6253|Los Ramones
 19.9781|-102.6795|Los Remedios
 19.6852|-99.7645|Los Reyes
 19.3636|-98.9771|Los Reyes Acaquilpan
@@ -3878,12 +3912,6 @@
 32.3925|-116.9550|Los Valles
 20.4500|-103.9167|Los Vergara
 22.9614|-102.0556|Los Zacatones
-28.3564|-100.9456|Los Álamos
-20.5536|-100.9417|Los Ángeles
-25.2026|-99.7483|Los Ángeles Nuevo León
-18.8899|-98.1671|Los Ángeles Tetela
-19.4117|-96.5181|Los Ídolos
-16.9349|-99.8233|Los Órganos de San Agustín
 20.5127|-100.4764|Lourdes
 20.9846|-101.5297|Loza de Barrera
 21.0718|-101.5460|Loza de los Padres
@@ -3894,19 +3922,12 @@
 22.4324|-102.2486|Luis Moya
 30.4072|-115.8872|Luis Rodríguez (El Vergel)
 18.9455|-100.4245|Luvianos
-22.1714|-102.0270|Lázaro Cárdenas
-16.6761|-92.4892|Lázaro Cárdenas (Chilil)
-18.9322|-99.0253|Lázaro Cárdenas (El Empalme)
-19.8697|-101.0231|Lázaro Cárdenas (La Purísima)
-23.4506|-102.9625|Lázaro Cárdenas (Rancho Grande)
-20.2250|-97.5931|Lázaro Cárdenas (Santana)
-20.4417|-103.9689|Lázaro Cárdenas Jalisco
-22.4976|-98.4598|López Rayón
 25.8861|-109.1482|Macapule
 21.9806|-102.2514|Macario J. Gómez [Colonia]
 20.2742|-97.6919|Macedonio Alonso
 21.0595|-98.4945|Machetla
 19.4418|-100.2410|Macho de Agua
+18.0682|-96.2718|Macín Chico
 22.5006|-98.0854|Maclovio Herrera
 32.5419|-116.6361|Maclovio Herrera (Colonia Aviación)
 32.4731|-116.8028|Maclovio Rojas
@@ -3916,7 +3937,6 @@
 17.7605|-92.5954|Macuspana
 19.4992|-100.3550|Macutzio
 16.8576|-92.6942|Macvilhó
-18.0682|-96.2718|Macín Chico
 29.1937|-108.1468|Madera
 19.0846|-103.8712|Madrid
 19.6587|-96.7559|Mafafas
@@ -3958,6 +3978,8 @@
 20.1865|-99.2480|Mangas
 20.3877|-89.3919|Mani
 19.8401|-99.9273|Manto del Río Ejido
+16.1465|-93.0170|Manuel Ávila Camacho
+15.8097|-93.5893|Manuel Ávila Camacho (Ponte Duro)
 28.9443|-103.9189|Manuel Benavides
 20.7208|-101.8560|Manuel Doblado
 19.0678|-97.3919|Manuel Edgardo Ávalos (San Isidro)
@@ -3966,8 +3988,6 @@
 20.4462|-97.4833|Manuel María Contreras
 29.5644|-104.4164|Manuel Ojinaga
 20.2375|-101.5267|Manuel Villalongín
-16.1465|-93.0170|Manuel Ávila Camacho
-15.8097|-93.5893|Manuel Ávila Camacho (Ponte Duro)
 19.5624|-100.2770|Manzana de San Luis
 19.5494|-100.3558|Manzana la Cofradía
 19.5422|-99.6025|Manzana Quinta (La Cañada)
@@ -3978,20 +3998,25 @@
 18.0298|-94.5670|Mapachapa
 15.4336|-92.9004|Mapastepec
 26.1910|-104.0546|Mapimí
-19.8911|-100.4444|Maravatío de Ocampo
 20.2051|-100.9621|Maravatío del Encinal
-16.2039|-91.2609|Maravilla Tenejapa
+19.8911|-100.4444|Maravatío de Ocampo
 21.9541|-102.3298|Maravillas
+16.2039|-91.2609|Maravilla Tenejapa
 18.5789|-98.7436|Marcelino Rodríguez (San Ignacio)
 25.4945|-108.5159|Marcol
 20.9916|-101.2843|Marfil
 20.4531|-102.4742|Margaritas
+25.8692|-99.8086|María Aurora
+25.2381|-99.7942|María Auxiliadora
+20.1291|-96.9954|María de la Torre
+17.4493|-95.4282|María Lombardo de Caso
 26.9539|-106.3461|Mariano Balleza
 19.9648|-101.0621|Mariano Escobedo
 16.4812|-92.5847|Mariano Matamoros
+25.8795|-100.0303|Marín
 25.8637|-108.1574|Maripa
-17.3325|-92.3808|Mariscal Subikuski
 17.8597|-98.1408|Mariscala de Juárez
+17.3325|-92.3808|Mariscal Subikuski
 16.5833|-98.8169|Marquelia
 16.2147|-90.7592|Marqués de Comillas
 20.5114|-100.5595|Marroquín
@@ -4000,37 +4025,34 @@
 22.0679|-99.6255|Martinez
 20.0708|-97.0608|Martínez de la Torre
 22.7481|-102.4811|Martínez Domínguez
-25.8692|-99.8086|María Aurora
-25.2381|-99.7942|María Auxiliadora
-20.1291|-96.9954|María de la Torre
-17.4493|-95.4282|María Lombardo de Caso
-25.8795|-100.0303|Marín
 20.5261|-104.7878|Mascota
 26.7643|-109.2350|Masiaca
-19.2303|-96.8414|Mata de Indio
-19.1317|-96.2959|Mata Loma
-18.7775|-96.7133|Mata Naranjo
-19.2179|-96.8543|Mata Obscura
-18.7219|-96.6629|Mata Tenatito (Casco Hacienda)
 18.4347|-95.1658|Matacapan
 28.8429|-107.7550|Matachí
+19.2303|-96.8414|Mata de Indio
+19.1317|-96.2959|Mata Loma
 18.5841|-90.6467|Matamoros
+18.7775|-96.7133|Mata Naranjo
 21.8904|-101.6506|Matancillas (San Isidro Matancillas)
 21.6333|-101.6553|Matanzas
+19.2179|-96.8543|Mata Obscura
+18.7219|-96.6629|Mata Tenatito (Casco Hacienda)
 20.7098|-103.1501|Matatlán
 23.6482|-100.6433|Matehuala
+16.8790|-95.0394|Matías Romero
+16.8774|-95.0382|Matías Romero Avendaño
 19.7620|-98.0537|Matlahuacales Aquiles Serdán
 18.5595|-98.4882|Matzaco
 16.7892|-92.4769|Matzam
-16.8790|-95.0394|Matías Romero
 19.7042|-99.8222|Mavoro
 20.5846|-90.0010|Maxcanú
 18.0536|-99.5947|Maxela
+19.2630|-97.8282|Máximo Serdán
 19.0289|-99.5572|Maxtleca de Galeana
 18.9392|-88.3997|Maya Balam
-19.1529|-90.5064|Maya Tecún I
 18.1729|-99.4326|Mayanalán
 20.4684|-89.2139|Mayapan
+19.1529|-90.5064|Maya Tecún I
 19.4689|-99.7437|Mayorazgo de León
 25.6730|-102.8429|Mayran
 19.9156|-103.0194|Mazamitlongo
@@ -4038,19 +4060,19 @@
 15.3646|-92.1876|Mazapa de Madero
 24.6387|-101.5546|Mazapil
 19.1191|-97.7028|Mazapiltepec
+14.8632|-92.4503|Mazatán
 19.1787|-98.1868|Mazatecochco
 18.7279|-99.3634|Mazatepec
 18.2022|-93.0093|Mazateupa
 25.1891|-99.8286|Mazatlan
 17.4362|-99.4648|Mazatlán
 18.0326|-96.9140|Mazatlán Villa de Flores
-14.8632|-92.4503|Mazatán
-18.3074|-95.3304|Mazumiapam
 18.1163|-96.3096|Mazín Grande
+18.3074|-95.3304|Mazumiapam
 20.5268|-97.8564|Mecapalapa
+21.5364|-105.1195|Mecatán
 17.8899|-93.5250|Mecatepec
 20.9357|-98.4030|Mecatlán
-21.5364|-105.1195|Mecatán
 18.2200|-94.8379|Mecayapan
 21.5404|-102.5959|Mechoacanejo
 18.2386|-93.0819|Mecoacán
@@ -4064,10 +4086,12 @@
 19.7019|-99.1449|Melchor Ocampo
 26.0586|-99.5422|Melchor Ocampo Nuevo León
 23.6614|-110.4208|Melitón Albáñez Domínguez
+25.1182|-98.5867|Méndez
 20.9203|-101.3950|Menores
 28.2723|-105.4805|Meoqui
 20.7947|-97.6886|Mequetla
 16.0468|-96.0705|Merced del Potrero
+16.5675|-93.8172|Mérida
 20.4942|-100.8841|Merino
 19.5640|-96.6995|Mesa de Guadalupe
 29.6704|-108.2518|Mesa del Huracán
@@ -4091,6 +4115,7 @@
 20.5290|-101.0706|Mexicanos
 19.4285|-99.1277|Mexico City
 25.1995|-99.8072|Mexiquito
+21.0357|-104.4148|Méxpan
 19.4612|-99.8913|Mextepec
 21.2167|-102.7167|Mexticacán
 19.1756|-99.4453|Mezapa la Fábrica
@@ -4104,7 +4129,6 @@
 22.2061|-104.0453|Mezquitic
 21.2211|-102.3044|Mezquitic de la Magdalena
 20.5331|-98.6375|Mezquititlán
-28.0512|-110.6778|Mi Patria es Primero
 18.7620|-99.3594|Miacatlán
 18.5498|-97.4395|Miahuatlán
 16.3328|-96.5956|Miahuatlán de Porfirio Díaz
@@ -4129,13 +4153,14 @@
 20.5011|-102.5342|Milpillas
 26.2994|-100.8025|Mina
 19.4101|-99.7277|Mina México
-19.5525|-99.9439|Mina Vieja
 27.6514|-101.2821|Minas de Barroterán
 19.3667|-104.0667|Minatitlán
+19.5525|-99.9439|Mina Vieja
 19.6206|-100.2844|Mineral de Angangueo
 21.0646|-101.3381|Mineral de la Luz
 20.1383|-98.6736|Mineral del Monte
 18.1387|-94.7273|Minzapan
+28.0512|-110.6778|Mi Patria es Primero
 23.5757|-99.7544|Miquihuana
 23.3697|-109.7744|Miraflores
 22.3609|-97.9000|Miramar
@@ -4154,6 +4179,7 @@
 15.0256|-92.1408|Mixcum
 17.1467|-96.1067|Mixistlán de la Reforma
 20.2303|-99.2140|Mixquiahuala de Juarez
+20.2300|-99.2143|Mixquiahuala de Juárez
 19.7011|-97.2784|Mixquiapan
 18.9115|-97.8979|Mixtla
 18.5959|-96.9929|Mixtla de Altamirano
@@ -4184,31 +4210,31 @@
 19.9825|-99.3414|Monte Alegre
 20.3547|-101.5275|Monte Blanco
 19.1044|-99.5953|Monte Calvario
+19.4571|-98.9083|Montecillo
+16.3911|-98.4982|Montecillos
+15.6926|-92.6200|Montecristo
+15.6753|-92.6440|Montecristo de Guerrero
 20.9790|-101.4354|Monte del Coecillo
 22.3036|-103.5675|Monte Escobedo
 20.9981|-101.8633|Monte Grande
 25.6261|-100.1569|Monte Kristal
 17.8357|-92.6066|Monte Largo 1ra. Sección
-22.2197|-101.0288|Monte Obscuro
-15.6522|-92.0504|Monte Redondo
-18.9372|-97.0183|Monte Salas
-30.9140|-108.7157|Monte Verde
-19.7030|-96.6960|Monte Verde Chivería
-19.4571|-98.9083|Montecillo
-16.3911|-98.4982|Montecillos
-15.6926|-92.6200|Montecristo
-15.6753|-92.6440|Montecristo de Guerrero
 20.3084|-102.2081|Monteleón
 25.1670|-99.8443|Montemorelos
 20.7633|-100.4286|Montenegro
 17.5930|-95.8651|Montenegro la Lana
-16.0619|-93.3693|Monterrey
+22.2197|-101.0288|Monte Obscuro
 20.9911|-105.2999|Monteón
+15.6522|-92.0504|Monte Redondo
+16.0619|-93.3693|Monterrey
+18.9372|-97.0183|Monte Salas
+30.9140|-108.7157|Monte Verde
+19.7030|-96.6960|Monte Verde Chivería
 21.7560|-102.3022|Montoro
-27.5114|-110.0561|Mora Villalobos
 20.7782|-100.8093|Morales
 22.2255|-97.9121|Moralillo
 20.3262|-102.5925|Moras
+27.5114|-110.0561|Mora Villalobos
 19.7008|-101.1844|Morelia
 16.7231|-91.9678|Morelia (Victórico Rodolfo Grajales)
 18.2703|-100.5640|Morelita
@@ -4235,16 +4261,13 @@
 20.4879|-89.7139|Muna
 18.0883|-94.3902|Mundo Nuevo
 20.1286|-99.1995|Munitepec de Madero
+19.4746|-98.2096|Muñoz
 16.8064|-92.6101|Muquén
 21.0473|-89.3281|Muxupip
-19.4746|-98.2096|Muñoz
-19.2630|-97.8282|Máximo Serdán
-25.1182|-98.5867|Méndez
-16.5675|-93.8172|Mérida
-21.0357|-104.4148|Méxpan
 18.1697|-93.0184|Nacajuca
 16.7306|-92.7253|Nachig
 31.3270|-109.9467|Naco
+29.6873|-108.9802|Nácori Chico
 30.3749|-109.6890|Nacozari de García
 30.4000|-109.6500|Nacozari Viejo
 20.9247|-88.2958|Nacuche
@@ -4255,6 +4278,7 @@
 20.0037|-97.6758|Nanacatlán
 18.1341|-97.1250|Nanahuatípam
 18.0712|-94.4076|Nanchital de Lázaro Cárdenas del Río
+25.4545|-100.0700|Náñez González
 20.0532|-99.3686|Nantzha
 19.6367|-96.8525|Naolinco
 19.6547|-96.8732|Naolinco de Victoria
@@ -4294,9 +4318,9 @@
 19.8839|-97.4233|Nexpan
 19.8272|-97.5542|Nexticapan
 20.7673|-103.5241|Nextipac
-29.3531|-107.9344|Nicolas Bravo
 19.3525|-96.3383|Nicolás Blanco (San Pancho)
 16.5106|-92.9922|Nicolás Bravo
+29.3531|-107.9344|Nicolas Bravo
 18.2783|-93.1287|Nicolás Bravo 5ta. Sección (Punta Brava)
 20.5464|-103.4662|Nicolás R Casillas
 19.6418|-99.3068|Nicolás Romero
@@ -4324,8 +4348,8 @@
 23.0133|-100.4719|Norias del Refugio
 18.3014|-93.2094|Norte 1ra. Sección (San Julián)
 18.1997|-96.1081|Novara
-19.2979|-99.5048|Nueva Ameyalco
 15.9228|-92.3059|Nueva América
+19.2979|-99.5048|Nueva Ameyalco
 22.4974|-98.6310|Nueva Apolonia
 26.5622|-99.2286|Nueva Ciudad Guerrero
 15.6967|-92.7211|Nueva Colombia
@@ -4359,11 +4383,11 @@
 27.4763|-99.5164|Nuevo Laredo
 16.4863|-92.5714|Nuevo León
 17.4551|-92.3989|Nuevo Limar
+16.4694|-93.4381|Nuevo México
+20.7578|-103.4342|Nuevo México Jalisco
 32.1661|-114.9617|Nuevo Michoacán (Estación Riíto)
 15.5031|-92.9486|Nuevo Milenio Valdivia
 22.5360|-99.2193|Nuevo Morelos
-16.4694|-93.4381|Nuevo México
-20.7578|-103.4342|Nuevo México Jalisco
 17.1544|-93.4333|Nuevo Naranjo
 20.2105|-98.0066|Nuevo Necaxa
 17.6346|-93.0724|Nuevo Nicapa
@@ -4393,8 +4417,6 @@
 20.4005|-90.1480|Nunkiní
 19.6566|-102.1296|Nurío
 17.2095|-100.7562|Nuxco
-29.6873|-108.9802|Nácori Chico
-25.4545|-100.0700|Náñez González
 18.9234|-99.0293|Oacalco
 19.2017|-96.2192|Oasis
 17.0654|-96.7237|Oaxaca
@@ -4442,19 +4464,18 @@
 29.3137|-104.4484|Ojinaga
 20.9694|-97.5281|Ojite Rancho Nuevo
 24.3097|-103.3461|Ojitos
-21.8468|-100.7537|Ojo Caliente
+21.8739|-102.6768|Ojocaliente
 16.1577|-91.7579|Ojo de Agua
 20.2282|-100.8242|Ojo de Agua de Ballesteros
 19.7805|-100.7281|Ojo de Agua de Bucio
 21.9643|-101.9520|Ojo de Agua de Crucitas
 20.3936|-100.6325|Ojo de Agua de la Trinidad
+21.0139|-100.3169|Ojo de Agua del Refugio
 20.1658|-100.5691|Ojo de Agua de Mendoza
 22.6197|-105.6039|Ojo de Agua de Palmillas
 21.9853|-100.0795|Ojo de Agua de Solano
-21.0139|-100.3169|Ojo de Agua del Refugio
 20.0484|-102.8931|Ojo de Rana
 20.3869|-100.7966|Ojo Seco
-21.8739|-102.6768|Ojocaliente
 21.8642|-101.5933|Ojuelos de Jalisco
 18.1904|-92.9611|Olcuatitán
 17.8644|-98.7515|Olinalá
@@ -4533,19 +4554,20 @@
 22.2036|-101.0358|Paisanos
 20.1191|-102.5662|Pajacuarán
 18.2627|-94.6917|Pajapan
+27.8924|-101.4235|Palaú
 27.8923|-101.4232|Palau
 17.5095|-91.9825|Palenque
 18.2526|-92.0778|Palizada
 21.9933|-105.3894|Palma Grande
 22.7105|-101.7919|Palma Pegada
-19.7713|-96.4322|Palma Sola
 18.6959|-100.3685|Palmar Chico
 18.8357|-97.5470|Palmar de Bravo
 22.2197|-105.6475|Palmar de Cuautla
 18.5151|-96.7788|Palmar Grande
-22.3708|-101.0983|Palmar Primero
 18.9014|-97.6383|Palmarito Tochapan
+22.3708|-101.0983|Palmar Primero
 19.5900|-96.4366|Palmas de Abajo
+19.7713|-96.4322|Palma Sola
 19.6936|-99.9503|Palmillas
 20.7687|-100.8643|Palmillas de San Juan
 18.8828|-97.1114|Palmira
@@ -4555,19 +4577,20 @@
 17.4035|-99.4662|Palo Blanco
 21.0084|-100.7292|Palo Colorado
 19.3910|-96.6368|Palo Gacho
-18.0204|-93.7694|Palo Mulato
-22.3542|-100.1919|Palo Seco (El Gato)
 20.5925|-103.4606|Palomar
 17.1383|-95.0627|Palomares
 22.4812|-99.8492|Palomas
+18.0204|-93.7694|Palo Mulato
 20.8714|-103.1530|Palos Altos
 19.5394|-99.9167|Palos Amarillos (Palos Amarillos Yebuciví)
 17.5585|-101.3318|Palos Blancos
+22.3542|-100.1919|Palo Seco (El Gato)
 25.3794|-108.4583|Palos Verdes
 19.6918|-102.3458|Pamatácuaro
 21.2960|-88.2698|Panabá
 20.4697|-99.2667|Panales
 20.2956|-100.8231|Panales Jamaica (Cañones)
+20.5217|-99.6967|Pañhé
 19.9852|-101.7610|Panindícuaro
 19.3162|-98.2701|Panotla
 21.4282|-104.8612|Pantanal
@@ -4576,6 +4599,8 @@
 17.6397|-99.1097|Pantitlán
 17.7386|-101.6364|Pantla
 20.1950|-99.2708|Panuaya
+22.0537|-98.1850|Pánuco
+24.5397|-104.3271|Pánuco de Coronado
 18.1609|-96.0938|Papaloapan
 20.4243|-97.9553|Papaloctipan
 19.5634|-98.8568|Papalotla
@@ -4584,9 +4609,11 @@
 20.9015|-98.4519|Papatlatla
 20.1775|-97.9917|Papatlazolco
 19.6474|-102.0490|Paracho de Verduzco
+20.1438|-100.7635|Parácuaro
 19.1493|-102.2187|Paracuaro
 19.3518|-101.6920|Parahuén
 18.4012|-93.2141|Paraiso
+16.2258|-92.6432|Paraíso del Grijalva
 18.2529|-95.9361|Paraiso Novillero
 19.3994|-99.3269|Paraje el Mirador
 19.3806|-99.3450|Paraje la Pera
@@ -4594,11 +4621,14 @@
 18.8789|-96.8607|Paraje Nuevo
 19.4056|-99.3122|Paraje Trejo (El Chaparral)
 20.1923|-101.1655|Parangarico
-16.2258|-92.6432|Paraíso del Grijalva
+26.5001|-99.5216|Parás
+26.4989|-99.5225|Parás Nuevo León
 21.8838|-100.8562|Pardo
 22.1496|-102.4823|Paredes
 16.0508|-93.8667|Paredón
 27.0793|-109.9336|Paredón Colorado
+19.3326|-102.4522|Páreo
+19.2613|-100.4587|Parícuaro
 17.9155|-92.9161|Parilla
 21.1519|-98.3861|Parque de Poblamiento Solidaridad
 25.7886|-100.4478|Parque Industrial Ciudad Mitras
@@ -4606,23 +4636,19 @@
 26.9302|-105.6664|Parral
 25.4418|-102.1781|Parras de la Fuente
 17.8790|-92.9223|Parrilla II
-20.1438|-100.7635|Parácuaro
-26.5001|-99.5216|Parás
-26.4989|-99.5225|Parás Nuevo León
-19.2613|-100.4587|Parícuaro
 24.9277|-103.8075|Pasaje
 17.0547|-98.8097|Pascala del Oro
 20.6214|-103.1978|Paseo de las Cañadas
-25.7397|-100.1344|Paseo de San Javier
 20.5644|-103.3892|Paseo del Prado
+25.7397|-100.1344|Paseo de San Javier
 20.5692|-103.1906|Paseo Puente Viejo
 19.8911|-99.2381|Paseos de la Pradera
 22.0242|-102.2771|Paseos de la Providencia [Fraccionamiento]
 21.9922|-102.3436|Paseos de las Haciendas [Fraccionamiento]
-19.7819|-99.0175|Paseos de San Juan
 20.6039|-100.2403|Paseos del Marqués
 20.6642|-100.3981|Paseos del Pedregal
 20.5222|-103.3333|Paseos del Valle [Fraccionamiento]
+19.7819|-99.0175|Paseos de San Juan
 21.9736|-102.3169|Paso Blanco
 22.3253|-101.2617|Paso Bonito
 18.0127|-96.2379|Paso Canoa
@@ -4632,25 +4658,25 @@
 20.2728|-102.5453|Paso de Hidalgo (Paso de Álamos)
 17.9528|-93.6908|Paso de la Mina 2da. Sección (Barrial)
 17.9633|-93.6658|Paso de la Mina 3ra. Sección
+20.3162|-97.2722|Paso del Correo
+18.9710|-96.7242|Paso del Macho
+19.0350|-96.1355|Paso del Toro
 20.3423|-99.9271|Paso de Mata
 22.5159|-102.4696|Paso de Méndez
 18.8947|-100.9467|Paso de Núñez (Buenavista)
 19.2845|-96.4404|Paso de Ovejas
 20.9503|-101.2997|Paso de Pirules
 20.2719|-97.3335|Paso de Valencia
-20.3162|-97.2722|Paso del Correo
-18.9710|-96.7242|Paso del Macho
-19.0350|-96.1355|Paso del Toro
 15.6839|-92.0186|Paso Hondo
 18.2212|-99.2098|Paso Morelos
 25.2631|-104.0194|Paso Nacional
 17.0739|-95.0467|Paso Real de Sarabia
+16.7042|-92.7411|Pasté
 23.7442|-103.0970|Pastelera
-20.3055|-101.5959|Pastor Ortíz
-25.6823|-103.5102|Pastor Rovaix
 22.1360|-100.0569|Pastora
 22.4861|-102.0818|Pastoría
-16.7042|-92.7411|Pasté
+20.3055|-101.5959|Pastor Ortíz
+25.6823|-103.5102|Pastor Rovaix
 18.2238|-100.8739|Patambó
 19.9270|-99.8396|Pathé
 20.2482|-97.8530|Patla
@@ -4659,10 +4685,10 @@
 20.3715|-99.0517|Patria Nueva
 16.9278|-92.1136|Patria Nueva (San José el Contento)
 19.3923|-101.9165|Patuán
+19.5159|-101.6089|Pátzcuaro
 15.2025|-92.1799|Pavencul
 20.0528|-98.4314|Paxtepec
 21.0590|-101.4039|Paxtle
-20.5217|-99.6967|Pañhé
 18.0936|-93.1661|Pechucalco
 18.1269|-93.1906|Pechucalco 2da. Sección (Las Cruces)
 19.1413|-101.4689|Pedernales
@@ -4672,13 +4698,24 @@
 18.5964|-99.1731|Pedro Amaro
 20.4996|-100.1428|Pedro Escobedo
 23.4051|-100.1727|Pedro Ibarra Hernández
+28.2685|-105.4805|Pedro Meoqui
 20.9535|-102.6676|Pegueros
 18.0550|-93.8247|Pejelagartero 1ra. Sección (Plataforma)
 21.1974|-98.8302|Pemucho
+29.2898|-107.7113|Peña Blanca
+17.4778|-97.7942|Peña Colorada
+19.7733|-101.1894|Peña del Panal
+18.8672|-98.9683|Peña Flores (Palo Verde)
+21.0541|-99.8157|Peñamiller
 20.2941|-89.2895|Pencuyut
 20.1041|-101.9344|Penjamillo de Degollado
+20.4311|-101.7226|Pénjamo
+18.8643|-96.8933|Peñuela
+20.7168|-101.2975|Peñuelas
+21.7225|-102.2758|Peñuelas (El Cienegal)
 22.4939|-100.6113|Peotillos
 20.4735|-101.4081|Peralta
+19.9793|-99.1416|Pérez de Galeana
 19.5201|-102.4140|Peribán de Ramos
 22.0493|-105.3540|Pericos
 18.6067|-97.6310|Pericotepec
@@ -4694,21 +4731,13 @@
 18.0846|-97.9175|Petlalcingo
 20.1278|-88.9228|Peto
 19.8466|-97.4853|Pezmatlán
-29.2898|-107.7113|Peña Blanca
-17.4778|-97.7942|Peña Colorada
-19.7733|-101.1894|Peña del Panal
-18.8672|-98.9683|Peña Flores (Palo Verde)
-21.0541|-99.8157|Peñamiller
-18.8643|-96.8933|Peñuela
-20.7168|-101.2975|Peñuelas
-21.7225|-102.2758|Peñuelas (El Cienegal)
 18.0840|-98.2199|Piaxtla
 23.8325|-106.6592|Piaxtla de Abajo
 25.3247|-103.4859|Picardías
 19.4857|-90.1179|Pich
+19.5729|-101.8074|Pichátaro
 21.3880|-98.8534|Picholco
 17.5100|-93.1159|Pichucalco
-19.5729|-101.8074|Pichátaro
 20.7835|-100.4924|Pie de Gallo
 16.9886|-95.0128|Piedra Blanca
 18.1200|-96.4512|Piedra de Amolar
@@ -4725,8 +4754,9 @@
 19.5881|-96.9786|Piletas
 22.0372|-101.9592|Pilotos
 21.1345|-99.6259|Pinal de Amoles
-20.2458|-99.4211|Pino Suárez
+20.0475|-101.2410|Piñícuaro
 22.2957|-101.5758|Pinos
+20.2458|-99.4211|Pino Suárez
 16.4272|-97.9768|Pinotepa de Don Luis
 16.3401|-98.0530|Pinotepa Nacional
 20.7967|-100.4169|Pintillo
@@ -4737,8 +4767,8 @@
 25.4708|-108.3682|Pitahayal
 30.6766|-112.0547|Pitiquito
 20.7164|-88.2643|Pixoy
-20.0475|-101.2410|Piñícuaro
 18.2358|-100.9020|Placeres del Oro
+20.5868|-100.7962|Plancarte
 16.1311|-92.7914|Plan de Agua Prieta
 19.8930|-97.1089|Plan de Arroyos
 16.4715|-92.0273|Plan de Ayala
@@ -4747,7 +4777,6 @@
 19.7596|-96.6759|Plan de las Hayas
 19.4018|-96.6525|Plan del Río
 20.9217|-101.6969|Plan Guanajuato (La Sandía)
-20.5868|-100.7962|Plancarte
 17.0648|-99.9109|Platanillo
 23.2292|-102.8429|Plateros
 21.2718|-98.3746|Platón Sánchez
@@ -4756,9 +4785,9 @@
 19.4235|-96.3228|Playa de Chachalacas
 19.0831|-96.0978|Playa de la Libertad
 20.6274|-87.0799|Playa del Carmen
-17.8311|-95.8119|Playa Vicente
-32.3434|-117.0319|Playas de Rosarito
 17.8531|-92.9322|Playas del Rosario
+32.3434|-117.0319|Playas de Rosarito
+17.8311|-95.8119|Playa Vicente
 18.9294|-99.4344|Plaza Nueva
 15.9213|-96.4298|Pluma Hidalgo
 30.8019|-112.7183|Plutarco Elías Calles (La Y Griega)
@@ -4774,33 +4803,34 @@
 18.2893|-96.0911|Poblado Tres
 20.2354|-90.1022|Pocboc
 17.6647|-99.2228|Pochahuizco
+20.0029|-97.8541|Pochálcatl
 17.0207|-99.4273|Pochotillo
 22.2731|-104.1161|Pochotita
 17.6591|-98.8980|Pochutla
-20.0029|-97.8541|Pochálcatl
 21.9217|-102.3347|Pocitos
 19.4333|-99.1992|Polanco
+19.4161|-98.9909|Polígonos
 18.2811|-99.3925|Pololcingo
 20.2199|-99.8221|Polotitlán
 20.2253|-99.8154|Polotitlán de la Ilustración
 20.5280|-97.2588|Polutla
 19.2361|-100.0800|Polvillos (San Bartolo Quinta Sección)
 19.6089|-88.5615|Polyuc
-19.4161|-98.9909|Polígonos
 19.6220|-102.1029|Pomacuarán
 18.0497|-92.9306|Pomoca
 16.5903|-93.8669|Pomposo Castellanos
 20.1373|-90.1749|Pomuch
 22.2622|-98.5897|Ponciano Arriaga
 20.3000|-102.2667|Poncitlán
-19.0651|-98.7809|Popo Park
 20.7332|-88.2374|Popola
 20.9935|-87.5628|Popolnah
+19.0651|-98.7809|Popo Park
 18.9288|-99.7268|Porfirío Díaz
 24.3481|-107.3059|Portaceli
 25.9822|-100.1433|Portal de las Salinas
 20.6581|-103.9384|Portes Gil
 20.4869|-99.3061|Portezuelo
+32.4425|-117.0342|Pórticos de San Antonio
 25.7278|-108.3957|Portugués de Gálvez
 31.2404|-105.8766|Porvenir
 27.6260|-110.4158|Potam
@@ -4809,10 +4839,10 @@
 24.0214|-106.9740|Potrerillo del Norote
 20.3384|-103.3776|Potrerillos
 21.0815|-101.8699|Potrerillos (Guanajal)
-25.1100|-107.9011|Potrero de los Sánchez (Estación Techa)
 21.0797|-97.7281|Potrero del Llano
-18.8773|-96.8436|Potrero Viejo
+25.1100|-107.9011|Potrero de los Sánchez (Estación Techa)
 20.2541|-101.6575|Potreros
+18.8773|-96.8436|Potrero Viejo
 18.8259|-101.6133|Poturo
 20.5331|-97.4595|Poza Rica de Hidalgo
 21.8669|-105.2795|Pozo de Ibarra
@@ -4821,27 +4851,27 @@
 20.6200|-100.8956|Pozos
 22.9486|-102.5701|Pozos de Gamboa
 20.4927|-99.0597|Pozuelos
-25.8183|-100.4025|Praderas de San Francisco
 19.8847|-99.2303|Praderas del Potrero
+25.8183|-100.4025|Praderas de San Francisco
+21.0219|-100.3925|Prados del Rosario
 19.6400|-98.9752|Prados de San Juan
 25.7981|-100.2269|Prados de Santa Rosa
-21.0219|-100.3925|Prados del Rosario
 19.7215|-99.0837|Prados San Francisco
 16.7200|-96.6400|Praxedis de Guerrero
 31.3706|-106.0062|Praxedis G. Guerrero
 31.3667|-106.0167|Praxédis Guerrero
 20.6415|-100.7924|Presa Blanca
-20.8071|-100.2225|Presa de Rayas
 19.0679|-102.4091|Presa del Rosario
+20.8071|-100.2225|Presa de Rayas
 20.1595|-99.2524|Presas
 16.3358|-92.6686|Presidente Echeverría (Laja Tendida)
 19.3284|-88.5616|Presidente Juárez
 19.0693|-96.9721|Presidio
 18.6806|-96.7719|Presidio (Plan de Libres)
 20.0814|-98.7369|PRI Chacón
-15.1206|-92.4400|Primer Cantón
 18.9025|-99.7756|Primera de Analco
 20.4964|-100.8515|Primera Fracción de Crespo
+15.1206|-92.4400|Primer Cantón
 27.2368|-101.2236|Primero de Mayo
 21.4661|-101.8272|Primero de Mayo (Chupaderos)
 32.2223|-116.9139|Primo Tapia
@@ -4852,10 +4882,12 @@
 27.3403|-110.0936|Progreso (Campo 47)
 20.2493|-99.1899|Progreso de Alvaro Obregon
 18.9617|-97.7556|Progreso de Juárez
+20.2488|-99.1897|Progreso de Obregón
 20.2749|-97.7116|Progreso de Zaragoza
 19.6364|-99.3569|Progreso Industrial
 20.3544|-101.0190|Providencia
 21.0230|-101.4578|Providencia de Nápoles
+19.6028|-101.6742|Puácuaro
 18.2324|-88.6676|Pucté
 32.5665|-115.3534|Puebla
 20.2544|-97.2552|Pueblillo
@@ -4869,22 +4901,23 @@
 17.8457|-92.8793|Pueblo Nuevo de las Raíces
 19.7625|-99.0538|Pueblo Nuevo de Morelos
 19.3922|-99.5017|Pueblo Nuevo Tlalmimilolpan
+24.2925|-107.1514|Pueblos Unidos
 17.0977|-99.9881|Pueblo Viejo
 27.3552|-110.0344|Pueblo Yaqui
-24.2925|-107.1514|Pueblos Unidos
+20.0257|-99.9781|Puentecillas
+19.5050|-100.4050|Puentecillas (Tercera Manzana de Zirahuato)
 21.6987|-104.0800|Puente de Camotlán
 18.6147|-99.3181|Puente de Ixtla
 20.6055|-97.1960|Puente de Piedra
 20.5698|-103.1538|Puente Grande
 19.2002|-96.3483|Puente Jula
-20.0257|-99.9781|Puentecillas
-19.5050|-100.4050|Puentecillas (Tercera Manzana de Zirahuato)
-21.7185|-105.3353|Puerta de Mangos
-20.3120|-99.9163|Puerta de Palmillas
 20.7853|-103.4614|Puerta del Llano
 20.2585|-101.0260|Puerta del Monte
+21.7185|-105.3353|Puerta de Mangos
+20.3120|-99.9163|Puerta de Palmillas
 21.9603|-102.2689|Puertecito de la Virgen
 25.1922|-112.1168|Puerto Adolfo Lopez Mateos
+15.6690|-96.4909|Puerto Ángel
 20.5008|-87.2265|Puerto Aventuras
 18.4108|-93.1789|Puerto Ceiba
 20.8065|-100.4321|Puerto de Aguirre
@@ -4902,7 +4935,6 @@
 31.3172|-113.5380|Puerto Peñasco
 24.7887|-112.1050|Puerto San Carlos
 20.6167|-105.2333|Puerto Vallarta
-15.6690|-96.4909|Puerto Ángel
 21.5844|-104.8232|Puga
 16.8639|-92.8236|Pugchén Mumuntic
 22.1760|-98.5051|Pujal-Coy
@@ -4911,11 +4943,8 @@
 20.5907|-103.8983|Punta de la Vega
 20.1892|-96.9069|Puntilla Aldama
 18.5823|-100.8884|Purechucho
-19.7174|-104.6053|Purificación
-20.0791|-100.4529|Puroagua
-19.0963|-101.5223|Puruarán
-20.0889|-101.5158|Puruándiro
 19.9104|-102.0062|Purépero de Echáiz
+19.7174|-104.6053|Purificación
 25.6804|-103.3222|Purísima
 19.6916|-100.0021|Purísima Concepción Mayorazgo
 21.3109|-99.5122|Purísima de Arista
@@ -4924,29 +4953,24 @@
 20.6003|-100.1183|Purísima de Cubos (La Purísima)
 20.7933|-101.3303|Purísima del Progreso
 20.9470|-101.9094|Purísima del Rincón
+20.0791|-100.4529|Puroagua
+20.0889|-101.5158|Puruándiro
+19.0963|-101.5223|Puruarán
 20.3691|-89.5119|Pustunich
 17.0263|-97.9285|Putla Villa de Guerrero
 20.1559|-97.6156|Putlunichuchut (Vista Hermosa)
 17.4508|-92.6871|Puxcatán
 18.8100|-98.9825|Puxtla
-19.6028|-101.6742|Puácuaro
-22.0537|-98.1850|Pánuco
-24.5397|-104.3271|Pánuco de Coronado
-19.3326|-102.4522|Páreo
-19.5159|-101.6089|Pátzcuaro
-20.4311|-101.7226|Pénjamo
-19.9793|-99.1416|Pérez de Galeana
-32.4425|-117.0342|Pórticos de San Antonio
 20.1663|-97.9185|Quamila
 18.5243|-98.7902|Quebrantadero
 18.9547|-97.6586|Quecholac
 19.3727|-97.3478|Quechulac
 17.4142|-99.2422|Quechultenango
 15.9827|-96.6789|Quelové
-18.3425|-100.6344|Querendas
-30.0506|-111.0265|Querobabi
 19.6974|-100.8438|Queréndaro
+18.3425|-100.6344|Querendas
 15.8375|-92.7577|Querétaro
+30.0506|-111.0265|Querobabi
 19.3871|-103.5724|Quesería
 27.2636|-109.9492|Quetchehueca
 18.9406|-99.5969|Quetzalapa
@@ -4958,8 +4982,8 @@
 32.4375|-117.0658|Quinta del Cedro
 16.6067|-93.5619|Quintana Roo
 22.6629|-99.0358|Quintero
-19.6222|-99.4181|Quinto Barrio (Ejido Cahuacán)
 18.3727|-93.2188|Quintín Arauz
+19.6222|-99.4181|Quinto Barrio (Ejido Cahuacán)
 27.5199|-109.2523|Quiriego
 19.6656|-101.5229|Quiroga
 19.6500|-102.7500|Quitupan
@@ -4969,10 +4993,10 @@
 17.9182|-93.2683|Rafael Pascacio Gamboa
 16.4620|-91.9452|Rafael Ramírez
 23.3283|-102.6103|Rafael Yáñez Sosa (El Mezquite)
-25.5393|-100.9474|Ramos Arizpe
 25.9518|-97.7856|Ramírez
 24.1861|-103.6303|Ramón Corona
 16.4743|-91.4032|Ramón F. Balboa
+25.5393|-100.9474|Ramos Arizpe
 19.3939|-97.7594|Ranchería de Pocitos
 25.5869|-108.4177|Ranchito de Castro
 25.5024|-103.3279|Rancho Alegre
@@ -4987,8 +5011,8 @@
 18.5814|-97.2247|Rancho Nuevo
 20.6511|-101.5179|Rancho Nuevo de la Cruz
 20.9625|-101.6457|Rancho Nuevo de la Luz
-22.3406|-101.7853|Rancho Nuevo de Morelos (De Guadalupe)
 20.8236|-101.3686|Rancho Nuevo del Llanito
+22.3406|-101.7853|Rancho Nuevo de Morelos (De Guadalupe)
 31.9161|-116.5883|Rancho Verde
 21.0209|-100.7714|Rancho Viejo
 17.0326|-98.2239|Rancho Viejo (Rancho Nuevo de la Democracia)
@@ -4996,8 +5020,8 @@
 17.1883|-93.6058|Raudales Malpaso
 17.4060|-92.6852|Raya Zaragoza
 14.8672|-92.3147|Raymundo Enríquez
-25.0180|-100.0736|Rayones
 17.2014|-93.0111|Rayón
+25.0180|-100.0736|Rayones
 23.6900|-100.8868|Real de Catorce
 25.9383|-100.1811|Real del Sol
 20.5456|-103.3697|Real del Valle (El Paraíso) [Fraccionamiento]
@@ -5018,10 +5042,9 @@
 22.2533|-100.9497|Rinconada
 20.0261|-98.7114|Rinconada de los Ángeles
 20.4542|-103.2192|Rinconada la Loma [Fraccionamiento]
-20.0661|-98.7681|Rinconadas de San Francisco
 20.0853|-101.1983|Rinconadas del Bosque
 20.0636|-98.7633|Rinconadas del Venado I
-20.1200|-98.4017|Rincones de la Hacienda
+20.0661|-98.7681|Rinconadas de San Francisco
 17.2072|-92.9391|Rincón Chamula
 18.8995|-100.1366|Rincón de Aguirre
 19.0059|-96.5364|Rincón de Barrabás
@@ -5032,20 +5055,38 @@
 19.2740|-99.9965|Rincón de Guadalupe
 21.0232|-105.2705|Rincón de Guayabitos
 18.8984|-100.1654|Rincón de Jaimes
+20.6608|-100.8853|Rincón del Centeno
+19.0531|-103.9324|Rincón de López
 19.7393|-100.0302|Rincón de los Pirules
 19.1944|-97.1606|Rincón de los Reyes
-19.0531|-103.9324|Rincón de López
+22.3231|-101.1764|Rincón del Porvenir
 19.4136|-100.2975|Rincón de Nicolás Romero (Cedros Tercera Manzana)
 20.4219|-101.2510|Rincón de Parangueo
 22.2333|-102.3167|Rincón de Romos
 20.4234|-100.7547|Rincón de Tamayo
-20.6608|-100.8853|Rincón del Centeno
-22.3231|-101.1764|Rincón del Porvenir
+20.1200|-98.4017|Rincones de la Hacienda
 16.2301|-95.3133|Rincón Moreno
 19.4964|-99.2908|Rincón Verde
+16.2050|-91.6343|Río Blanco
+28.3125|-100.9167|Río Bravo
+17.3345|-91.6843|Río Chancalá
+17.6199|-95.9369|Río Chiquito
 20.1150|-98.7119|Rio de la Soledad
 23.5026|-103.0179|Rio de Medina
+17.7834|-92.9003|Río de Teapa
+23.3446|-102.9904|Río Florido
+19.3534|-98.6706|Río Frío de Juárez
+20.3442|-102.0056|Río Grande
+17.2461|-91.9331|Río Jordán
+21.5967|-88.1577|Río Lagartos
+21.2033|-100.9234|Río Laja
+19.2097|-96.2089|Río Medio [Granja]
+16.9687|-95.0653|Río Pachiñe
+18.1375|-93.2758|Río Seco 2da. Sección (Santiaguito)
+20.2109|-98.5008|Río Seco Puente de Doria
 21.9311|-99.9949|Rioverde
+24.9008|-99.5435|Río Verde
+17.9391|-92.9802|Río Viejo Primera Sección
 28.8146|-106.6499|Riva Palacio
 15.9709|-92.4832|Rizo de Oro
 21.1486|-101.7619|Rizos de la Joya (Rizos del Saucillo)
@@ -5068,25 +5109,8 @@
 27.2562|-106.2988|Rosario
 32.3604|-117.0464|Rosarito
 26.4825|-100.4259|Rubén Carlos Gallegos Reyes Villaldama
-32.5240|-116.0540|Rumorosa
 21.9511|-105.1438|Ruíz
-16.2050|-91.6343|Río Blanco
-28.3125|-100.9167|Río Bravo
-17.3345|-91.6843|Río Chancalá
-17.6199|-95.9369|Río Chiquito
-17.7834|-92.9003|Río de Teapa
-23.3446|-102.9904|Río Florido
-19.3534|-98.6706|Río Frío de Juárez
-20.3442|-102.0056|Río Grande
-17.2461|-91.9331|Río Jordán
-21.5967|-88.1577|Río Lagartos
-21.2033|-100.9234|Río Laja
-19.2097|-96.2089|Río Medio [Granja]
-16.9687|-95.0653|Río Pachiñe
-18.1375|-93.2758|Río Seco 2da. Sección (Santiaguito)
-20.2109|-98.5008|Río Seco Puente de Doria
-24.9008|-99.5435|Río Verde
-17.9391|-92.9802|Río Viejo Primera Sección
+32.5240|-116.0540|Rumorosa
 20.0345|-88.5389|Saban
 20.2222|-97.5353|Sabanas de Xalostoc
 18.9727|-91.1778|Sabancuy
@@ -5132,7 +5156,6 @@
 31.3424|-106.4798|Samalayuca
 18.0422|-92.9105|Samarkanda
 19.8753|-97.3669|San Acateno
-17.0039|-96.7081|San Agustin de las Juntas
 31.5167|-106.2555|San Agustín
 16.5109|-96.7892|San Agustín Amatengo
 17.6115|-98.0109|San Agustín Atenango
@@ -5142,6 +5165,7 @@
 16.4023|-97.8082|San Agustín Chayuco
 19.4803|-99.8022|San Agustín Citlali
 21.0073|-101.4371|San Agustín de las Flores
+17.0039|-96.7081|San Agustin de las Juntas
 19.3261|-100.1491|San Agustín de las Palmas
 19.8991|-101.1647|San Agustín del Maíz
 18.5168|-96.7208|San Agustín del Palmar
@@ -5157,7 +5181,9 @@
 20.1151|-98.8864|San Agustín Tlaxiaca
 17.0863|-96.6784|San Agustín Yatareni
 19.8755|-98.7143|San Agustín Zapotlán
+20.7759|-89.2109|Sanahcat
 18.8386|-99.7292|San Alejo
+24.8022|-107.1400|Sanalona
 28.5473|-106.5035|San Andrés
 20.9267|-98.5633|San Andrés (San Andrés Chichayotla)
 19.3783|-98.1065|San Andrés Ahuashuatepec
@@ -5198,12 +5224,13 @@
 19.8761|-99.7338|San Andrés Timilpan
 18.9669|-98.8078|San Andrés Tlalamac
 18.4487|-95.2133|San Andrés Tuxtla
-19.6733|-97.7269|San Andrés Yahuitlalpan
 17.2929|-96.1538|San Andrés Yaá
+19.6733|-97.7269|San Andrés Yahuitlalpan
 16.5992|-96.8589|San Andrés Zabache
 17.1870|-96.8642|San Andrés Zautla
 19.6694|-101.6322|San Andrés Ziróndaro
 21.2354|-87.4316|San Angel
+20.9019|-101.9189|San Ángel
 16.8090|-96.6927|San Antonino Castillo Velasco
 16.8198|-97.0272|San Antonino el Alto
 17.5187|-97.7265|San Antonino Monte Verde
@@ -5217,9 +5244,9 @@
 16.9967|-92.2967|San Antonio Bulujib
 20.4967|-100.5178|San Antonio Calichar
 18.5160|-97.2941|San Antonio Cañada
+18.6140|-92.2234|San Antonio Cárdenas
 18.6522|-99.2214|San Antonio Chiverías
 17.8619|-98.6800|San Antonio Coyahuacán
-18.6140|-92.2234|San Antonio Cárdenas
 23.4648|-100.2166|San Antonio de Alamitos
 20.7456|-100.9636|San Antonio de Corrales
 17.0292|-96.7009|San Antonio de la Cal
@@ -5227,20 +5254,20 @@
 25.2717|-100.5784|San Antonio de las Alazanas
 19.5622|-99.9711|San Antonio de las Huertas
 19.7181|-98.8568|San Antonio de las Palmas
+22.9386|-102.4871|San Antonio del Cipres
+25.6944|-103.2856|San Antonio del Coyote
+16.7603|-92.6531|San Antonio del Monte
 21.3894|-102.2553|San Antonio de los Barrera
 21.9983|-102.3266|San Antonio de los Horcones
 20.5805|-100.9102|San Antonio de los Morales
 22.1610|-102.4712|San Antonio de los Ríos
 21.0447|-101.6761|San Antonio de los Tepetates
 20.8177|-103.1462|San Antonio de los Vázquez
+19.4183|-99.6173|San Antonio del Puente
+18.4001|-100.3087|San Antonio del Rosario
 21.6747|-102.3001|San Antonio de Peñuelas
 20.3501|-102.4279|San Antonio de Rivas
 20.6078|-100.9485|San Antonio de Romerillo
-22.9386|-102.4871|San Antonio del Cipres
-25.6944|-103.2856|San Antonio del Coyote
-16.7603|-92.6531|San Antonio del Monte
-19.4183|-99.6173|San Antonio del Puente
-18.4001|-100.3087|San Antonio del Rosario
 20.6280|-101.2837|San Antonio el Chico
 20.4568|-98.0348|San Antonio el Grande
 19.2775|-99.4950|San Antonio el Llanito
@@ -5282,6 +5309,7 @@
 19.6917|-99.1072|San Antonio Xahuento
 19.3406|-97.1650|San Antonio Xoquitla
 20.2550|-98.9983|San Antonio Zaragoza
+19.7481|-98.9807|Sanata Lucía
 23.9906|-104.0172|San Atenógenes (La Villita)
 18.9869|-98.4811|San Baltazar Atlimeyaya
 16.7615|-96.4897|San Baltazar Chichicapam
@@ -5300,12 +5328,6 @@
 19.1016|-99.4041|San Bartolo del Progreso
 19.2989|-99.8239|San Bartolo el Viejo
 19.8664|-99.8939|San Bartolo Lanzados
-19.7864|-99.6688|San Bartolo Morelos
-19.6190|-99.6135|San Bartolo Oxtotitlán
-20.2234|-99.4891|San Bartolo Ozocalpan
-20.3984|-98.2008|San Bartolo Tutotepec
-16.4293|-95.9744|San Bartolo Yautepec
-19.2061|-99.0682|San Bartolome Xicomulco
 19.0094|-99.6786|San Bartolomé
 20.4956|-100.5483|San Bartolomé Aguas Calientes
 19.0696|-99.6098|San Bartolomé Atlatlahuca
@@ -5317,6 +5339,12 @@
 16.9030|-96.5017|San Bartolomé Quialana
 19.2525|-98.2917|San Bartolomé Tenango
 19.2274|-99.6296|San Bartolomé Tlaltelulco
+19.2061|-99.0682|San Bartolome Xicomulco
+19.7864|-99.6688|San Bartolo Morelos
+19.6190|-99.6135|San Bartolo Oxtotitlán
+20.2234|-99.4891|San Bartolo Ozocalpan
+20.3984|-98.2008|San Bartolo Tutotepec
+16.4293|-95.9744|San Bartolo Yautepec
 19.7071|-102.3217|San Benito
 17.9872|-95.9106|San Benito Encinal
 19.4059|-98.1668|San Benito Xaltocan
@@ -5341,6 +5369,7 @@
 19.3858|-99.6872|San Carlos Autopan
 16.4970|-96.1065|San Carlos Yautepec
 16.9612|-92.7602|San Cayetano
+21.7871|-100.6962|Sánchez
 21.6507|-99.8192|San Ciro de Acosta
 20.0843|-104.2516|San Clemente
 20.7372|-105.2708|San Clemente de Lima
@@ -5358,6 +5387,8 @@
 19.5801|-98.9305|San Cristóbal Nexquipayac
 20.0664|-97.9075|San Cristóbal Xochimilpa
 20.2245|-103.3697|San Cristóbal Zapotitlán
+19.0992|-98.2542|Sanctorum
+19.4933|-98.4716|Sanctórum
 19.2783|-98.2854|San Damián Texoloc
 18.9729|-99.5853|San Diego
 19.4512|-99.6212|San Diego Alcalá
@@ -5399,10 +5430,12 @@
 19.5908|-98.6153|San Felipe Sultepec
 17.1113|-96.8542|San Felipe Tejalápam
 19.8043|-98.7011|San Felipe Teotitlán
+18.1889|-96.5864|San Felipe Tílpam
 15.2762|-92.6130|San Felipe Tizapa
 19.2393|-99.6422|San Felipe Tlalmimilolpan
-18.1889|-96.5864|San Felipe Tílpam
 17.8879|-96.5247|San Felipe Usila
+18.8989|-98.3991|San Félix Hidalgo
+18.6203|-98.5503|San Félix Rijo
 16.8715|-93.2076|San Fernando
 27.6450|-113.4192|San Francisco
 21.0739|-101.4728|San Francisco (Baños de Agua Caliente)
@@ -5431,14 +5464,14 @@
 19.6203|-99.7747|San Francisco de Guzmán
 25.9369|-103.4169|San Francisco de Horizonte (Horizonte)
 20.6603|-100.5153|San Francisco de la Palma
-22.0331|-102.2290|San Francisco de los Romo
-20.3405|-102.5721|San Francisco de Rivas
-24.3616|-107.0763|San Francisco de Tacuichamona
 16.3399|-94.5153|San Francisco del Mar
 16.2319|-94.6330|San Francisco del Mar Viejo
 23.4744|-104.3949|San Francisco del Mezquital
 26.8942|-105.9059|San Francisco del Oro
+22.0331|-102.2290|San Francisco de los Romo
 21.0184|-101.8551|San Francisco del Rincón
+20.3405|-102.5721|San Francisco de Rivas
+24.3616|-107.0763|San Francisco de Tacuichamona
 20.7007|-88.4734|San Francisco Grande
 18.1973|-96.9480|San Francisco Huehuetlán
 19.0689|-97.4303|San Francisco Independencia (Santa María Aserradero)
@@ -5472,17 +5505,16 @@
 19.8329|-99.9883|San Francisco Tepeolulco
 19.0604|-99.5478|San Francisco Tepexoxica
 19.2486|-98.4383|San Francisco Tepeyecac
+20.7973|-103.4771|San Francisco Tesistán
 19.1167|-99.6014|San Francisco Tetetla
 19.4017|-98.1928|San Francisco Tlacuilohcan
 19.2947|-99.7677|San Francisco Tlalcilalcalpan
-19.6583|-98.7750|San Francisco Tlaltica
 19.3697|-98.4772|San Francisco Tláloc
+19.6583|-98.7750|San Francisco Tlaltica
 17.0709|-96.6681|San Francisco Tutla
 19.3729|-99.4453|San Francisco Xochicuautla
 19.9288|-98.9828|San Francisco Zacacalco
 19.8803|-97.5961|San Francisco Zacapexpan
-18.8989|-98.3991|San Félix Hidalgo
-18.6203|-98.5503|San Félix Rijo
 21.1295|-100.8350|San Gabriel
 19.8804|-98.6161|San Gabriel Azteca
 18.3260|-97.3470|San Gabriel Chilac
@@ -5520,8 +5552,8 @@
 19.7247|-100.6389|San Isidro Alta Huerta
 15.8095|-96.3586|San Isidro Apango
 19.6011|-99.8908|San Isidro Boxipe
-19.1549|-98.1049|San Isidro Buen Suceso
 20.7887|-100.4491|San Isidro Buenavista
+19.1549|-98.1049|San Isidro Buen Suceso
 20.3950|-100.5271|San Isidro de Gamboa
 20.6278|-100.7857|San Isidro de la Concepción
 21.1475|-100.6847|San Isidro de la Estacada
@@ -5579,10 +5611,6 @@
 17.6592|-98.1015|San Jorge Nuchita
 19.2542|-99.6278|San Jorge Pueblo Nuevo
 19.3209|-98.3132|San Jorge Tezoquipan
-20.6744|-102.5669|San Jose de Gracia Jalisco
-20.5531|-100.4152|San Jose de los Olvera
-23.2765|-103.0097|San Jose de Lourdes
-19.9988|-100.0492|San Jose Solís
 21.0692|-98.5944|San José
 20.1307|-97.2100|San José Acateno
 19.4343|-97.3899|San José Alchichica
@@ -5593,7 +5621,6 @@
 19.2758|-99.7200|San José Barbabosa
 19.7017|-99.7286|San José Boqui
 20.2624|-99.1008|San José Boxay
-18.4053|-97.2683|San José Buena Vista
 18.6595|-97.5791|San José Buenavista
 19.4083|-99.5814|San José Buenavista el Grande
 18.9947|-97.9117|San José Carpinteros
@@ -5620,6 +5647,7 @@
 23.5025|-100.2753|San José de Cuatro Caminos
 21.0631|-101.6742|San José de Durán (Los Troncoso)
 22.1500|-102.4167|San José de Gracia
+20.6744|-102.5669|San Jose de Gracia Jalisco
 20.5560|-100.8928|San José de Guanajuato
 27.9864|-110.8806|San José de Guaymas
 22.8507|-102.4224|San José de la Era
@@ -5628,22 +5656,19 @@
 20.5509|-102.0586|San José de la Paz
 20.6485|-102.9662|San José de las Flores
 20.6523|-101.0452|San José de las Pilas
-20.8557|-101.3090|San José de Llanos
-23.4051|-100.1069|San José de Medina
-20.6897|-101.2135|San José de Mendoza
-21.5964|-101.0039|San José de Rancho Nuevo (Los Arrieros)
-24.5714|-100.2400|San José de Raíces
-18.8472|-96.9539|San José de Tapia
-25.6486|-103.4026|San José de Viñedo
-25.2275|-103.4665|San José de Zaragoza
 23.0589|-109.6977|San José del Cabo
 21.1253|-101.9300|San José del Caliche (El Caliche)
 20.5333|-103.2333|San José del Castillo
 20.4192|-101.0422|San José del Cerrito de Camargo
 20.7372|-99.9244|San José del Jagüey
+20.8557|-101.3090|San José de Llanos
+20.5526|-100.4151|San José de los Olvera
+20.5531|-100.4152|San Jose de los Olvera
+23.2765|-103.0097|San Jose de Lourdes
 21.1282|-101.5974|San José del Potrero
 18.9344|-99.7923|San José del Progreso
 19.7206|-99.1967|San José del Puente
+20.5417|-103.2842|San José del Quince
 19.6622|-100.1531|San José del Rincón Centro
 20.9208|-101.2164|San José del Rodeo
 19.6026|-99.6663|San José del Sitio
@@ -5651,6 +5676,13 @@
 21.4744|-101.4706|San José del Torreón
 19.7906|-99.8400|San José del Tunal
 20.7638|-105.2281|San José del Valle
+23.4051|-100.1069|San José de Medina
+20.6897|-101.2135|San José de Mendoza
+24.5714|-100.2400|San José de Raíces
+21.5964|-101.0039|San José de Rancho Nuevo (Los Arrieros)
+18.8472|-96.9539|San José de Tapia
+25.6486|-103.4026|San José de Viñedo
+25.2275|-103.4665|San José de Zaragoza
 20.6534|-100.3822|San José el Alto
 18.9597|-99.5772|San José el Cuartel
 19.3034|-99.4795|San José el Llanito
@@ -5665,9 +5697,9 @@
 21.0015|-100.3842|San José Iturbide
 18.7160|-97.4594|San José Ixtapa
 17.7022|-101.6194|San José Ixtapa (Barrio Viejo)
+16.3778|-96.3359|San José Lachiguirí
 16.6803|-96.6385|San José la Garzona
 16.9794|-99.0667|San José la Hacienda
-16.3778|-96.3359|San José Lachiguirí
 15.6436|-92.2066|San José las Chicharras
 19.4794|-99.6705|San José las Lomas
 19.3672|-98.9337|San José las Palmas
@@ -5682,6 +5714,7 @@
 15.8366|-96.5915|San José Piedras Negras
 18.2731|-100.3907|San José Poliutla
 17.6700|-95.8801|San José Río Manzo
+19.9988|-100.0492|San Jose Solís
 18.8878|-97.2372|San José Súchil
 19.3356|-98.0645|San José Teacalco
 19.4314|-99.3589|San José Tejamanil
@@ -5726,8 +5759,8 @@
 16.8304|-96.6692|San Juan Chilateca
 19.7531|-99.9686|San Juan Coajomulco
 18.0500|-96.7630|San Juan Coatzospam
-16.4607|-97.9543|San Juan Colorado
 18.5772|-98.5583|San Juan Colón
+16.4607|-97.9543|San Juan Colorado
 20.2876|-103.3411|San Juan Cosalá
 19.6052|-99.9591|San Juan Cote Ejido
 17.1637|-95.7826|San Juan Cotzocón
@@ -5738,23 +5771,23 @@
 21.0562|-101.6354|San Juan de Abajo
 18.5497|-99.5558|San Juan de Dios (Naranjas de Dios)
 24.6327|-102.7818|San Juan de Guadalupe
-25.2527|-101.2201|San Juan de la Vaquería
-20.6252|-100.7614|San Juan de la Vega
 19.2476|-99.7583|San Juan de las Huertas
 19.5511|-99.8383|San Juan de las Manzanas
+25.2527|-101.2201|San Juan de la Vaquería
+20.6252|-100.7614|San Juan de la Vega
+17.2743|-96.7991|San Juan del Estado
+20.5137|-100.5398|San Juan del Llanito
 20.6051|-103.7195|San Juan de los Arcos
 18.0465|-97.0602|San Juan de los Cues
 19.8619|-99.9161|San Juan de los Jarros
 21.2458|-102.3308|San Juan de los Lagos
 19.1371|-102.4393|San Juan De Los Platanos
 18.5178|-95.4489|San Juan de los Reyes (Luis Valenzuela)
+17.4928|-95.7603|San Juan del Río
+24.7782|-104.4583|San Juan del Rio del Centauro del Norte
 21.1156|-101.5577|San Juan de Otates
 27.9294|-101.3050|San Juan de Sabinas
 19.3443|-101.4787|San Juan de Viña
-17.2743|-96.7991|San Juan del Estado
-20.5137|-100.5398|San Juan del Llanito
-24.7782|-104.4583|San Juan del Rio del Centauro del Norte
-17.4928|-95.7603|San Juan del Río
 17.2860|-97.3701|San Juan Diuxi
 18.6427|-98.3725|San Juan Epatlán
 17.8862|-95.1396|San Juan Evangelista
@@ -5763,7 +5796,11 @@
 16.9623|-95.0942|San Juan Guichicovi
 20.0300|-98.2819|San Juan Hueyapan
 18.7890|-98.4494|San Juan Huiluco
+19.9346|-99.7678|San Juanico Sector Uno
 17.7566|-98.2852|San Juan Ihualtepec
+27.9730|-107.6020|San Juanito
+20.8000|-104.0000|San Juanito de Escobedo
+19.6757|-101.2546|San Juanito Itzícuaro
 18.4607|-97.8310|San Juan Ixcaquixtla
 19.2319|-98.9987|San Juan Ixtayopan
 19.6981|-99.9300|San Juan Jalpa Centro
@@ -5772,16 +5809,18 @@
 16.4758|-98.0125|San Juan Jicayán
 16.9358|-95.9189|San Juan Juquila
 17.3373|-96.2742|San Juan Juquila Vijanos
-19.1303|-99.5708|San Juan la Isla
 16.1589|-97.1245|San Juan Lachao
+16.5895|-96.5505|San Juán Lachigalla
 16.9975|-97.9307|San Juan Lagunas
+19.1303|-99.5708|San Juan la Isla
 17.0299|-95.4461|San Juan Mazatlán
 17.1756|-95.9117|San Juan Metaltepec
 17.3168|-97.8615|San Juan Mixtepec -Dto. 08 -
 16.2767|-96.2992|San Juan Mixtepec -Dto. 26 -
+17.3973|-97.7062|San Juan Ñumí
 16.1332|-96.2592|San Juan Ozolotepec
-21.4715|-100.9202|San Juan Pan de Arriba
 19.1492|-98.4419|San Juan Pancoac
+21.4715|-100.9202|San Juan Pan de Arriba
 17.4692|-96.0361|San Juan Petlapa
 19.7758|-99.0198|San Juan Pueblo Nuevo
 19.3795|-98.0711|San Juan Quetzalcoapan
@@ -5819,20 +5858,14 @@
 19.7956|-97.3258|San Juan Xiutetelco
 19.0135|-99.5394|San Juan Xochiaca
 19.3116|-100.2593|San Juan Xoconusco
-19.2068|-98.9607|San Juan y San Pedro Tezompa
 17.4300|-96.2836|San Juan Yaee
 17.4018|-96.1688|San Juan Yatzona
 19.3489|-99.3405|San Juan Yautepec
+19.2068|-98.9607|San Juan y San Pedro Tezompa
 17.8053|-96.6064|San Juan Zapotitlán
 19.8121|-99.1453|San Juan Zitlaltepec
-17.3973|-97.7062|San Juan Ñumí
-19.9346|-99.7678|San Juanico Sector Uno
-27.9730|-107.6020|San Juanito
-20.8000|-104.0000|San Juanito de Escobedo
-19.6757|-101.2546|San Juanito Itzícuaro
-25.9364|-103.4208|San Julio
 21.0167|-102.1667|San Julián
-16.5895|-96.5505|San Juán Lachigalla
+25.9364|-103.4208|San Julio
 20.3129|-97.5813|San Leoncio Jamaya
 28.1535|-106.4770|San Lorenzo
 20.5973|-98.0688|San Lorenzo Achiotepec
@@ -5921,7 +5954,6 @@
 19.3232|-99.6791|San Marcos Yachihuacaltepec
 16.1434|-97.3572|San Marcos Zacatepec
 23.6712|-103.7501|San Martin
-19.2843|-98.4389|San Martin Texmelucan de Labastida
 20.2157|-101.6114|San Martín
 19.6814|-98.7281|San Martín Ahuatepec
 19.6867|-98.9728|San Martín Azcatepec
@@ -5946,6 +5978,7 @@
 17.3592|-98.2372|San Martín Peras
 19.0581|-99.9467|San Martín Tequesquipan (Tequesquipan)
 19.2693|-98.4283|San Martín Texmelucan
+19.2843|-98.4389|San Martin Texmelucan de Labastida
 16.8601|-96.6949|San Martín Tilcajete
 18.9775|-98.3969|San Martín Tlamapa
 18.9667|-98.4589|San Martín Tlapala
@@ -5981,10 +6014,10 @@
 19.3428|-99.7577|San Mateo Tlalchichilpan
 19.7065|-99.2482|San Mateo Xoloc
 18.1416|-96.8642|San Mateo Yoloxochitlán
-19.3254|-98.4986|San Matias Tlalancaleca
 19.2513|-98.4817|San Matías Atzala
 19.0849|-98.8531|San Matías Cuijingo
 19.3539|-98.1949|San Matías Tepetomatitlán
+19.3254|-98.4986|San Matias Tlalancaleca
 17.2527|-96.1528|San Melchor Betaza
 17.3632|-92.0076|San Miguel
 17.4368|-96.6087|San Miguel Abejones
@@ -6006,18 +6039,18 @@
 19.1519|-98.1031|San Miguel Canoa
 20.1591|-98.7285|San Miguel Cerezo (El Cerezo)
 16.7142|-94.7481|San Miguel Chimalapa
-19.4500|-98.8727|San Miguel Coatlinchán
 16.1970|-96.6946|San Miguel Coatlán
+19.4500|-98.8727|San Miguel Coatlinchán
 19.3611|-98.1325|San Miguel Contla
 20.4163|-103.3899|San Miguel Cuyutlán
 20.9153|-100.7439|San Miguel de Allende
 24.4125|-105.8415|San Miguel de Cruces
 29.4874|-110.7248|San Miguel de Horcasitas
 20.3705|-102.6627|San Miguel de la Paz
-20.0993|-104.6004|San Miguel de la Sierra Ayutla
-20.0561|-99.5911|San Miguel de La Victoria
-18.2520|-99.2008|San Miguel de las Palmas
 20.9908|-101.4856|San Miguel del Arenal
+20.0993|-104.6004|San Miguel de la Sierra Ayutla
+18.2520|-99.2008|San Miguel de las Palmas
+20.0561|-99.5911|San Miguel de La Victoria
 19.7207|-100.1088|San Miguel del Centro
 19.2412|-98.3335|San Miguel del Milagro
 19.9897|-97.6667|San Miguel del Progreso
@@ -6033,11 +6066,12 @@
 19.0950|-98.0667|San Miguel Espejo
 15.7864|-96.4042|San Miguel Figueroa
 19.5936|-99.3253|San Miguel Hila
+17.6358|-101.4375|San Miguelito
 18.0008|-97.7748|San Miguel Ixitlán
 18.8073|-100.1525|San Miguel Ixtapan
 19.7231|-99.0503|San Miguel Jaltocan
-17.2942|-93.3525|San Miguel la Sardina
 18.8832|-99.6969|San Miguel Laderas
+17.2942|-93.3525|San Miguel la Sardina
 20.5290|-97.4874|San Miguel Mecatepec
 19.4483|-99.4633|San Miguel Mimlapan
 16.7772|-96.9573|San Miguel Mixtepec
@@ -6075,23 +6109,22 @@
 19.2526|-100.0832|San Miguel Xoltepec
 19.1676|-98.3076|San Miguel Xoxtla
 19.5406|-99.7125|San Miguel Yuxtepec
-25.9483|-109.0474|San Miguel Zapotitlan
 20.3909|-102.9943|San Miguel Zapotitlán
+25.9483|-109.0474|San Miguel Zapotitlan
 19.0843|-97.3536|San Miguel Zoapan
 18.7543|-97.6548|San Miguel Zozutla
-17.6358|-101.4375|San Miguelito
-20.3298|-103.1288|San Nicolas
-19.1649|-97.5513|San Nicolas Buenos Aires
 18.9333|-99.5683|San Nicolás
+20.3298|-103.1288|San Nicolas
 19.3260|-99.8715|San Nicolás Amealco
+19.1649|-97.5513|San Nicolas Buenos Aires
 19.1374|-99.4295|San Nicolás Coatepec
 20.2326|-100.7811|San Nicolás de la Condesa
-20.0781|-100.1014|San Nicolás de la Torre
 21.2906|-102.5514|San Nicolás de las Flores
+20.0781|-100.1014|San Nicolás de la Torre
+21.2740|-100.5503|San Nicolás del Cármen
 20.2461|-100.9668|San Nicolás de los Agustinos
 25.7417|-100.3022|San Nicolás de los Garza
 19.0714|-98.4860|San Nicolás de los Ranchos
-21.2740|-100.5503|San Nicolás del Cármen
 20.0958|-98.3878|San Nicolás el Chico
 19.8059|-100.1175|San Nicolás el Oro
 19.6141|-100.0308|San Nicolás Guadalupe
@@ -6164,17 +6197,18 @@
 21.4832|-101.5405|San Pedro de Ibarra
 29.2868|-109.7370|San Pedro de la Cueva
 19.3881|-99.8178|San Pedro de la Hortaliza (Ejido Almoloyán)
+25.5641|-104.2928|San Pedro del Gallo
 19.6687|-99.8353|San Pedro de los Baños
 19.8991|-99.8583|San Pedro de los Metates
 20.2272|-100.9378|San Pedro de los Naranjos
 19.7864|-101.1378|San Pedro de los Sauces
-25.5641|-104.2928|San Pedro del Gallo
 19.4352|-100.0135|San Pedro del Rincón
 19.7781|-99.8125|San Pedro del Rosal
 20.2503|-99.9673|San Pedro Denxhi Centro
 19.5216|-98.1547|San Pedro Ecatepec
 19.5843|-99.8805|San Pedro el Alto
 25.6572|-100.4027|San Pedro Garza Garcia
+25.6616|-100.4034|San Pedro Garza García
 25.5381|-108.4567|San Pedro Guasave
 16.0270|-95.6673|San Pedro Huamelula
 19.9884|-98.8678|San Pedro Huaquilpan
@@ -6185,21 +6219,21 @@
 20.2747|-97.9345|San Pedro Itztla
 18.1457|-96.5095|San Pedro Ixcatlán
 17.0636|-96.8184|San Pedro Ixtlahuaca
+19.7150|-100.6449|San Pedro Jácuaro
 16.4518|-98.0143|San Pedro Jicayán
 16.3453|-97.0895|San Pedro Juchaltengo
-19.7150|-100.6449|San Pedro Jácuaro
-19.0653|-97.8381|San Pedro la Joya
 21.2192|-104.7523|San Pedro Lagunillas
+19.0653|-97.8381|San Pedro la Joya
 16.8229|-99.7316|San Pedro las Playas
 18.5820|-100.3071|San Pedro Limón
 19.6254|-99.8217|San Pedro Los Baños
 16.7432|-96.7112|San Pedro Martir
-19.3697|-98.5547|San Pedro Matamoros
-16.2706|-96.2841|San Pedro Mixtepec
-19.2817|-98.1669|San Pedro Muñoztla
 20.6180|-100.4702|San Pedro Mártir
 16.4152|-96.2445|San Pedro Mártir Quiechapa
 17.4324|-97.6110|San Pedro Mártir Yucuxaco
+19.3697|-98.5547|San Pedro Matamoros
+16.2706|-96.2841|San Pedro Mixtepec
+19.2817|-98.1669|San Pedro Muñoztla
 19.0836|-98.7372|San Pedro Nexapa
 17.0344|-92.7269|San Pedro Nichtalucum
 18.1864|-96.9117|San Pedro Ocopetatillo
@@ -6231,18 +6265,18 @@
 20.0581|-97.0983|San Pedro Tlapacoyan
 19.9451|-98.7529|San Pedro Tlaquilpan
 17.4363|-97.3440|San Pedro Topiltepec
-19.3111|-99.5720|San Pedro Totoltepec
 16.6691|-96.3076|San Pedro Totolápam
+19.3111|-99.5720|San Pedro Totoltepec
 16.5397|-98.0347|San Pedro Tulixtlahuaca
 19.2651|-99.5093|San Pedro Tultepec
 19.2278|-98.2281|San Pedro Xalcaltzinco
 19.8267|-99.1847|San Pedro Xalpa
 19.3079|-98.1386|San Pedro Xochiteotla
-17.5018|-97.4884|San Pedro y San Pablo Teposcolula
-18.0611|-97.7182|San Pedro y San Pablo Tequistepec
 19.0775|-98.4833|San Pedro Yancuitlalpan
 18.0788|-98.0649|San Pedro Yeloixtlahuaca
 17.5891|-96.5524|San Pedro Yólox
+17.5018|-97.4884|San Pedro y San Pablo Teposcolula
+18.0611|-97.7182|San Pedro y San Pablo Tequistepec
 18.9428|-98.1561|San Pedro Zacachimalpa
 19.0366|-99.5777|San Pedro Zictepec
 30.5723|-115.9461|San Quintín
@@ -6267,9 +6301,8 @@
 19.2700|-98.5165|San Salvador el Verde
 19.2603|-99.5908|San Salvador Tizatlalli
 20.5598|-100.9578|San Salvador Torrecillas
-20.5327|-103.4280|San Sebastian
-16.9519|-96.6143|San Sebastian Teitipac
 19.7510|-99.2144|San Sebastián
+20.5327|-103.4280|San Sebastian
 21.8214|-102.2711|San Sebastián [Fraccionamiento]
 16.9943|-96.5870|San Sebastián Abasolo
 18.4370|-97.0268|San Sebastián Alcomunga
@@ -6278,15 +6311,17 @@
 16.2021|-96.8264|San Sebastián Coatlán
 19.1033|-98.1608|San Sebastián de Aparicio
 20.2657|-99.9362|San Sebastián de Las Barrancas Sur
-21.1028|-100.4809|San Sebastián de Salitre
 17.6778|-98.0219|San Sebastián del Monte
 20.8511|-104.8190|San Sebastián del Oeste
+21.1028|-100.4809|San Sebastián de Salitre
+20.5328|-103.4294|San Sebastián el Grande
 17.1644|-96.7834|San Sebastián Etla
 16.5455|-98.1448|San Sebastián Ixcapa
 17.5166|-97.6837|San Sebastián Nicananduta
 16.9431|-97.7779|San Sebastián Nopalera
 16.1838|-96.4654|San Sebastián Río Hondo
 17.3472|-98.0317|San Sebastián Tecomaxtlahuaca
+16.9519|-96.6143|San Sebastian Teitipac
 20.2799|-99.6888|San Sebastián Tenochtitlán
 19.0324|-97.7902|San Sebastián Teteles
 18.3652|-96.8331|San Sebastián Tlacotepec
@@ -6294,38 +6329,14 @@
 19.0608|-97.7194|San Sebastián Villanueva
 19.6765|-98.8453|San Sebastián Xolalpa
 19.4800|-98.2928|San Simeón Xipetzingo
-18.9914|-99.5400|San Simonito
 18.9673|-97.7120|San Simón
 16.4066|-96.7193|San Simón Almolongas
 19.2634|-98.4758|San Simón Atzitzintla
 19.0228|-100.0065|San Simón de Guerrero
 19.2927|-100.0807|San Simón de la Laguna
 18.9965|-99.5034|San Simón el Alto
+18.9914|-99.5400|San Simonito
 19.3984|-98.2240|San Simón Tlatlahuquitepec
-21.9195|-102.7004|San Tadeo
-31.3252|-116.2466|San Vicente
-20.0372|-99.6417|San Vicente (Calpulalpan Tercera Manzana)
-18.2798|-98.0554|San Vicente Boquerón
-19.0238|-98.8018|San Vicente Chimalhuacán
-16.3885|-96.8439|San Vicente Coatlán
-18.4044|-97.8292|San Vicente Coyotepec
-20.6217|-101.2530|San Vicente de Flores
-18.6834|-98.9852|San Vicente de Juárez
-20.5686|-100.1650|San Vicente el Alto
-20.7270|-100.3458|San Vicente Ferrer
-16.1786|-92.2933|San Vicente la Mesilla
-16.7050|-97.0186|San Vicente Lachixío
-17.4565|-97.4432|San Vicente Nuñu
-18.3243|-99.4110|San Vicente Palapa
-16.7853|-98.0604|San Vicente Piñas
-21.7189|-98.5877|San Vicente Tancuayalab
-17.3225|-98.3642|San Vicente Zoyatlán
-20.9019|-101.9189|San Ángel
-20.7759|-89.2109|Sanahcat
-24.8022|-107.1400|Sanalona
-19.7481|-98.9807|Sanata Lucía
-19.0992|-98.2542|Sanctorum
-19.4933|-98.4716|Sanctórum
 25.8541|-97.6522|Santa Adelaida
 18.9875|-99.4133|Santa Ana
 18.9556|-98.3831|Santa Ana Acozautla
@@ -6373,8 +6384,8 @@
 19.1983|-98.2136|Santa Catarina Ayometla
 19.2095|-98.9299|Santa Catarina Ayotzingo
 16.3062|-96.6424|Santa Catarina Cuixtla
-25.3396|-105.7245|Santa Catarina de Tepehuanes
 19.4840|-98.7724|Santa Catarina del Monte
+25.3396|-105.7245|Santa Catarina de Tepehuanes
 16.2382|-97.2916|Santa Catarina Juquila
 16.0633|-96.7194|Santa Catarina Loxicha
 16.3359|-97.8371|Santa Catarina Mechoacán
@@ -6389,9 +6400,9 @@
 19.1925|-97.4339|Santa Cecilia Tepetitlán
 24.4750|-103.3569|Santa Clara
 19.7191|-99.6069|Santa Clara de Juárez
-19.6366|-102.4912|Santa Clara de Valladares
 19.4058|-101.6400|Santa Clara del Cobre
 19.8239|-100.8269|Santa Clara del Tule
+19.6366|-102.4912|Santa Clara de Valladares
 18.7689|-97.8812|Santa Clara Huitziltepec
 20.2034|-90.1177|Santa Cruz
 18.4056|-97.3261|Santa Cruz Acapa
@@ -6406,11 +6417,11 @@
 18.8892|-98.6592|Santa Cruz Cuautomatitla
 20.6687|-104.0016|Santa Cruz de Barcenas
 17.5810|-98.2238|Santa Cruz de Bravo
-20.6366|-100.9796|Santa Cruz de Juventino Rosas
 18.1504|-96.8354|Santa Cruz de Juárez
+20.6366|-100.9796|Santa Cruz de Juventino Rosas
 20.4881|-103.5497|Santa Cruz de la Loma (Tepetates)
-20.3175|-103.1586|Santa Cruz de la Soledad
 20.4806|-103.5028|Santa Cruz de las Flores Tlajomulco de Zúñiga Jalisco
+20.3175|-103.1586|Santa Cruz de la Soledad
 20.7466|-103.6428|Santa Cruz del Astillero
 19.7670|-99.2287|Santa Cruz del Monte
 20.5333|-103.4333|Santa Cruz del Valle
@@ -6440,18 +6451,19 @@
 16.3232|-96.6737|Santa Cruz Xitla
 17.0296|-96.7352|Santa Cruz Xoxocotlán
 17.0765|-98.1130|Santa Cruz Yucucani
+21.9195|-102.7004|San Tadeo
 16.8927|-91.5899|Santa Elena
 19.9980|-98.2414|Santa Elena Paliseca
 28.5945|-105.8880|Santa Eulalia
+30.6798|-115.9765|Santa Fé
+19.6726|-101.5549|Santa Fé de la Laguna
 20.4956|-100.8928|Santa Fe de la Purísima
 20.2036|-101.8269|Santa Fe del Río
 18.5492|-99.4247|Santa Fe Tepetlapa
 17.7661|-96.3161|Santa Fe y la Mar
-30.6798|-115.9765|Santa Fé
-19.6726|-101.5549|Santa Fé de la Laguna
 19.7333|-99.3667|Santa Gertrudis
-17.2695|-97.1512|Santa Inés de Zaragoza
 16.9239|-96.8624|Santa Inés del Monte
+17.2695|-97.1512|Santa Inés de Zaragoza
 19.2938|-98.3472|Santa Inés Tecuexcomac
 19.1547|-97.3887|Santa Inés Varela la Luz
 16.8044|-96.7549|Santa Inés Yatzeche
@@ -6473,12 +6485,6 @@
 16.1426|-97.2087|Santa Lucía Teotepec
 17.8082|-97.4739|Santa Magdalena Jicotlán
 16.9382|-95.6694|Santa Margarita Huitepec
-20.2377|-99.5496|Santa Maria Amealco
-19.1092|-97.5925|Santa Maria Coatepec
-20.1361|-99.4754|Santa Maria Macua
-19.4315|-98.9174|Santa Martha
-16.6495|-96.7745|Santa Martha Chichihualtepec
-18.9850|-98.3244|Santa Martha Hidalgo
 17.3523|-92.0768|Santa María
 16.1484|-97.5126|Santa María Acatepec
 19.8555|-98.7456|Santa María Actipac
@@ -6486,6 +6492,7 @@
 19.9769|-99.0447|Santa María Ajoloapan
 17.0926|-95.8542|Santa María Alotepec
 20.2295|-98.9983|Santa María Amajac
+20.2377|-99.5496|Santa Maria Amealco
 19.9552|-99.1868|Santa María Apaxco
 17.6223|-97.0852|Santa María Apazco
 18.9883|-99.6506|Santa María Aranzazú (Santa María)
@@ -6504,6 +6511,7 @@
 16.9064|-94.6833|Santa María Chimalapa
 19.4215|-98.9504|Santa María Chimalhuacán
 19.7819|-99.9286|Santa María Citendejé
+19.1092|-97.5925|Santa Maria Coatepec
 15.8974|-96.9395|Santa María Colotepec
 16.4515|-98.2855|Santa María Cortijo
 16.9666|-96.7051|Santa María Coyotepec
@@ -6512,14 +6520,14 @@
 19.8211|-99.1278|Santa María de Guadalupe
 28.1425|-110.6930|Santa María de Guaymas
 22.3879|-102.2570|Santa María de la Paz
-22.3000|-103.0333|Santa María de los Ángeles
 27.3012|-109.8026|Santa María del Buáraje
 19.6344|-99.7250|Santa María del Llano
 19.2897|-99.8235|Santa María del Monte
 25.9494|-105.3644|Santa María del Oro
+22.3000|-103.0333|Santa María de los Ángeles
 20.4403|-100.8003|Santa María del Refugio
-17.3485|-97.6025|Santa María del Rosario
 21.7962|-100.7382|Santa María del Río
+17.3485|-97.6025|Santa María del Rosario
 17.0471|-96.6357|Santa María del Tule
 20.8784|-102.3798|Santa María del Valle
 16.2850|-95.8800|Santa María Ecatepec
@@ -6545,6 +6553,7 @@
 19.2675|-99.5525|Santa María la Asunción
 20.0307|-98.7193|Santa María la Calera
 16.7269|-97.0189|Santa María Lachixío
+20.1361|-99.4754|Santa Maria Macua
 19.9740|-99.3739|Santa María Magdalena
 19.6380|-99.4135|Santa María Magdalena Cahuacán
 19.2371|-99.6242|Santa María Magdalena Ocotitlán
@@ -6556,10 +6565,10 @@
 19.0541|-97.9666|Santa María Nenetzintla
 19.1508|-98.4911|Santa María Nepopualco
 19.7359|-98.8483|Santa María Palapa
+17.7845|-96.7973|Santa María Pápalo
 16.8206|-95.1191|Santa María Petapa
 19.2406|-100.0975|Santa María Pipioltepec (Pipioltepec)
 17.2686|-95.6233|Santa María Puxmetacán
-17.7845|-96.7973|Santa María Pápalo
 19.8539|-99.3477|Santa María Quelites
 16.2898|-96.0416|Santa María Quiegolani
 19.1481|-99.5797|Santa María Rayón
@@ -6593,8 +6602,13 @@
 16.1278|-95.8524|Santa María Zapotitlán
 19.4173|-99.4933|Santa María Zolotepec
 16.5589|-96.3533|Santa María Zoquitlán
+19.4315|-98.9174|Santa Martha
+16.6495|-96.7745|Santa Martha Chichihualtepec
+18.9850|-98.3244|Santa Martha Hidalgo
 20.4327|-100.0261|Santa Matilde
 18.9931|-99.4236|Santa Mónica
+18.1750|-93.4318|Santana 2da. Sección B (La Palma)
+24.2168|-98.4843|Santander Jiménez
 16.1317|-91.9750|Santa Rita
 19.3321|-98.5769|Santa Rita Tlahuapan
 21.5518|-101.0921|Santa Rosa
@@ -6604,21 +6618,21 @@
 17.3031|-98.0169|Santa Rosa Caxtlahuaca
 19.7859|-100.0961|Santa Rosa de Lima
 20.7811|-101.5363|Santa Rosa de Rivas
+20.7421|-100.4478|Santa Rosa Jáuregui
 20.7412|-100.4484|Santa Rosa Jauregui
+27.3405|-112.2676|Santa Rosalía
+27.6789|-105.1716|Santa Rosalía de Camargo
+20.8181|-104.0847|Santa Rosalía Jalisco
 18.2310|-95.0871|Santa Rosa Loma Larga
 20.5659|-100.9236|Santa Rosa los Angeles
 19.9778|-88.2625|Santa Rosa Segundo
 18.7003|-99.1836|Santa Rosa Treinta
 20.4367|-99.8992|Santa Rosa Xajay
-27.3405|-112.2676|Santa Rosalía
-20.8181|-104.0847|Santa Rosalía Jalisco
 19.8450|-99.2333|Santa Teresa
 25.8726|-100.1153|Santa Teresita
 20.8800|-100.7786|Santa Teresita de Don Diego
-24.7231|-99.6478|Santa Verónica
 20.4203|-98.1048|Santa Úrsula
-18.1750|-93.4318|Santana 2da. Sección B (La Palma)
-24.2168|-98.4843|Santander Jiménez
+24.7231|-99.6478|Santa Verónica
 22.1195|-102.3377|Santiago
 18.9933|-97.9338|Santiago Acatlán
 20.1972|-99.2953|Santiago Acayutlán
@@ -6652,10 +6666,10 @@
 20.3841|-98.9651|Santiago de Anaya
 20.5996|-100.9941|Santiago de Cuenda
 20.9451|-97.4049|Santiago de la Peña
-21.5816|-104.6986|Santiago de Pochotitán
-20.5881|-100.3881|Santiago de Querétaro
 19.4014|-99.9419|Santiago del Monte
 17.4484|-98.0911|Santiago del Río
+21.5816|-104.6986|Santiago de Pochotitán
+20.5881|-100.3881|Santiago de Querétaro
 16.9484|-92.7207|Santiago el Pinar
 17.1525|-96.7897|Santiago Etla
 17.8278|-97.7327|Santiago Huajolotitlán
@@ -6714,6 +6728,7 @@
 19.1802|-99.4664|Santiago Tianguistenco de Galeana
 17.2846|-97.3388|Santiago Tilantongo
 17.2589|-98.2611|Santiago Tilapa
+19.1895|-99.4209|Santiago Tílapa
 17.4650|-97.3204|Santiago Tillo
 19.2686|-98.2231|Santiago Tlacochcalco
 19.2271|-99.6708|Santiago Tlacotepec
@@ -6724,7 +6739,6 @@
 19.7278|-98.7901|Santiago Tolman
 20.0362|-98.3556|Santiago Tulantepec
 18.4658|-95.3006|Santiago Tuxtla
-19.1895|-99.4209|Santiago Tílapa
 19.5952|-101.2848|Santiago Undameo
 16.0101|-96.2246|Santiago Xanica
 16.2263|-97.2695|Santiago Yaitepec
@@ -6769,6 +6783,10 @@
 16.4831|-94.3475|Santo Domingo Zanatepec
 25.4312|-103.2791|Santo Niño Aguanaval
 18.6739|-97.6761|Santo Nombre
+16.1069|-97.1444|Santos Reyes Nopala
+17.8053|-96.8616|Santos Reyes Pápalo
+17.4378|-97.9385|Santos Reyes Tepejillo
+17.7740|-98.0017|Santos Reyes Yucuná
 19.9036|-98.5688|Santo Tomas
 19.8452|-102.0857|Santo Tomás
 19.1727|-98.7787|Santo Tomás Atzingo
@@ -6781,13 +6799,27 @@
 17.1722|-96.8708|Santo Tomás Mazaltepec
 17.1220|-97.7734|Santo Tomás Ocotepec
 16.2706|-96.5819|Santo Tomás Tamazulapam
-16.1069|-97.1444|Santos Reyes Nopala
-17.8053|-96.8616|Santos Reyes Pápalo
-17.4378|-97.9385|Santos Reyes Tepejillo
-17.7740|-98.0017|Santos Reyes Yucuná
+31.3252|-116.2466|San Vicente
+20.0372|-99.6417|San Vicente (Calpulalpan Tercera Manzana)
+18.2798|-98.0554|San Vicente Boquerón
+19.0238|-98.8018|San Vicente Chimalhuacán
+16.3885|-96.8439|San Vicente Coatlán
+18.4044|-97.8292|San Vicente Coyotepec
+20.6217|-101.2530|San Vicente de Flores
+18.6834|-98.9852|San Vicente de Juárez
+20.5686|-100.1650|San Vicente el Alto
+20.7270|-100.3458|San Vicente Ferrer
+16.7050|-97.0186|San Vicente Lachixío
+16.1786|-92.2933|San Vicente la Mesilla
+17.4565|-97.4432|San Vicente Nuñu
+18.3243|-99.4110|San Vicente Palapa
+16.7853|-98.0604|San Vicente Piñas
+21.7189|-98.5877|San Vicente Tancuayalab
+17.3225|-98.3642|San Vicente Zoyatlán
 25.4525|-103.7161|Sapioris
 20.5226|-101.0616|Sarabia
 18.1995|-93.2923|Sargento López 2da. Sección (El Chuzo)
+31.1033|-111.3793|Sáric
 20.9352|-98.1970|Sasaltitla
 22.8303|-102.5026|Sauceda de La Borda
 28.0306|-105.2938|Saucillo
@@ -6805,6 +6837,8 @@
 25.8136|-103.5733|Seis de Octubre
 25.7639|-103.2389|Seis de Octubre (Santo Niño)
 19.7539|-100.3377|Senguio
+19.8442|-88.1352|Señor
+16.2963|-92.1116|Señor del Pozo
 21.8048|-105.3459|Sentispac
 18.5139|-88.5688|Sergio Butrón Casas
 20.6450|-100.4208|Sergio Villaseñor
@@ -6812,8 +6846,6 @@
 19.6290|-101.9006|Sevina
 19.6399|-90.6871|Seybaplaya
 20.8357|-89.3717|Seyé
-19.8442|-88.1352|Señor
-16.2963|-92.1116|Señor del Pozo
 17.2236|-92.4881|Shoctic
 16.9309|-92.1401|Sibacá
 16.8764|-92.4611|Sibaniljá Pocolum
@@ -6863,6 +6895,7 @@
 25.6625|-103.2756|Solima
 17.3936|-93.0130|Solosuchiapa
 19.1211|-97.7086|Soltepec
+23.6314|-103.6413|Sombrerete
 31.8617|-112.8513|Sonoita
 19.1122|-96.6353|Sonora
 18.5029|-95.0351|Sontecomapan
@@ -6881,13 +6914,14 @@
 28.7642|-109.6345|Soyopa
 28.3938|-109.8880|Suaqui Grande
 18.4955|-88.3913|Subteniente López
-19.7126|-90.0377|Suc-Tuc
 16.6077|-93.1000|Suchiapa
 14.6414|-92.2225|Suchiate
+23.6219|-103.9232|Súchil
 17.3861|-94.9881|Suchilapan del Río
 19.3754|-103.7114|Suchitlán
 21.1565|-88.3140|Sucilá
 21.1615|-88.0474|Sucopó
+19.7126|-90.0377|Suc-Tuc
 20.8143|-88.9003|Sudzal
 18.8586|-99.9659|Sultepec
 21.1059|-89.1549|Suma
@@ -6896,10 +6930,10 @@
 22.2110|-101.0860|Suspiro Picacho
 22.6094|-103.0967|Susticacán
 19.2151|-100.4080|Susupuato de Guerrero
-21.7871|-100.6962|Sánchez
-31.1033|-111.3793|Sáric
-23.6219|-103.9232|Súchil
 21.8629|-102.9111|Tabasco
+19.2403|-101.4473|Tacámbaro
+19.2350|-101.4582|Tacámbaro de Codallos
+19.7301|-102.5474|Tacátzcuaro
 19.6698|-101.3597|Tacicuaro
 22.8201|-102.4048|Tacoaleche
 19.8375|-97.4311|Tacopan
@@ -6907,26 +6941,27 @@
 17.0903|-92.3703|Tacuba Nueva
 25.6836|-103.0686|Tacubaya
 19.8570|-102.0508|Tacuro (Santa María Tacuro)
-19.2403|-101.4473|Tacámbaro
-19.2350|-101.4582|Tacámbaro de Codallos
-19.7301|-102.5474|Tacátzcuaro
 19.4188|-100.9082|Tafetán
 20.4492|-88.8307|Tahdzibichen
 20.2051|-88.9455|Tahdziu
 20.8736|-89.2547|Tahmek
+20.6527|-103.7015|Tala
 14.9633|-92.1472|Talismán
 21.1202|-98.6265|Talol
 20.3808|-104.8221|Talpa de Allende
 21.3394|-97.8119|Tamalín
+21.2322|-98.8795|Tamán
+19.9494|-102.2842|Tamándaro
+21.5665|-99.0776|Tamápatz
 21.9243|-99.3936|Tamasopo
 15.7719|-93.4072|Tamaulipas
 17.6702|-98.2208|Tamazola
 25.0559|-106.7673|Tamazula
 19.6764|-103.2500|Tamazula de Gordiano
 24.9682|-106.9672|Tamazula de Victoria
+17.0550|-96.0653|Tamazulápam del Espíritu Santo
 17.6771|-97.5731|Tamazulapam Villa del Progreso
 20.2000|-103.9670|Tamazulita Jalisco
-17.0550|-96.0653|Tamazulápam del Espíritu Santo
 21.2599|-98.7893|Tamazunchale
 21.9608|-99.3011|Tambaca
 21.6014|-99.0108|Tamcuime
@@ -6937,18 +6972,15 @@
 22.2951|-97.9360|Tampico
 22.1124|-97.8018|Tampico Alto
 23.8333|-98.1947|Tampiquito
-18.1617|-92.7835|Tamulte de las Sabanas
 22.0055|-98.7797|Tamuín
-21.2322|-98.8795|Tamán
-19.9494|-102.2842|Tamándaro
-21.5665|-99.0776|Tamápatz
+18.1617|-92.7835|Tamulte de las Sabanas
 19.7394|-102.0815|Tanaco
 19.8906|-97.4297|Tanamacoyan
 19.8461|-102.0980|Tanaquillo
 21.5979|-98.9677|Tancanhuitz
 21.1830|-98.4348|Tancazahuela
-21.2862|-97.7914|Tancoco
 19.3384|-102.3626|Tancítaro
+21.2862|-97.7914|Tancoco
 21.5653|-98.9803|Tandzumadz
 17.3762|-96.3011|Tanetze de Zaragoza
 19.8829|-102.2286|Tangancícuaro
@@ -6974,14 +7006,14 @@
 17.2536|-93.0093|Tapilula
 18.2044|-93.0142|Tapotzingo
 20.0009|-100.5186|Tarandacuao
+19.8436|-102.4648|Tarécuato
 19.8194|-101.7156|Tarejero
 20.7788|-101.3353|Taretán
-20.2834|-100.7548|Tarimoro
-19.8436|-102.4648|Tarécuato
 19.7958|-101.1778|Tarímbaro
+20.2834|-100.7548|Tarimoro
 20.5470|-99.3456|Tasquillo
-18.2462|-94.7612|Tatahuicapan
 17.5511|-95.6409|Tatahuicapá
+18.2462|-94.7612|Tatahuicapan
 16.3055|-97.5461|Tataltepec de Valdés
 19.6932|-97.1116|Tatatila
 19.8283|-97.5269|Tatauzoquico
@@ -6989,6 +7021,7 @@
 19.0613|-101.5591|Tavera
 20.4333|-99.1493|Taxadho
 18.1392|-93.0053|Taxco
+18.5571|-99.6051|Taxco de Alarcón
 18.4834|-99.5842|Taxco el Viejo
 25.9163|-108.9355|Taxtes
 22.0936|-102.8719|Tayahua
@@ -7008,6 +7041,8 @@
 19.4667|-103.3000|Tecalitlán
 18.4881|-99.6028|Tecalpulco
 19.0038|-96.9853|Tecama
+19.7129|-98.9690|Tecámac
+19.7131|-98.9683|Tecámac de Felipe Villanueva
 19.3599|-98.9596|Tecamachalco
 18.7610|-97.2252|Tecamalucan
 19.2325|-101.5444|Tecario
@@ -7026,14 +7061,15 @@
 18.3252|-97.0787|Tecoltepec
 18.2441|-93.0196|Tecoluta 2da. Sección
 20.4805|-97.0131|Tecolutla
+18.8947|-103.8735|Tecomán
+20.1151|-102.4963|Tecomatán
 18.8390|-99.7036|Tecomatepec
 19.5500|-104.4853|Tecomates
 18.0696|-98.3069|Tecomatlán
-20.1151|-102.4963|Tecomatán
 17.9558|-97.0226|Tecomavaca
 17.9212|-93.5632|Tecominoacán
-18.8947|-103.8735|Tecomán
 20.5330|-99.6466|Tecozautla
+17.2198|-100.6303|Técpan de Galeana
 18.4769|-97.0394|Tecpantzacoalco
 17.1368|-93.3113|Tecpatán
 22.3982|-105.4581|Tecuala
@@ -7042,8 +7078,6 @@
 19.0132|-98.3984|Tecuanipan
 20.4255|-103.0280|Tecuattitan
 18.1425|-99.5779|Tecuexcontitlán (Tecoescontitlán)
-19.7129|-98.9690|Tecámac
-19.7131|-98.9683|Tecámac de Felipe Villanueva
 18.4642|-97.3974|Tehuacán
 21.0534|-98.5085|Tehuetlán
 18.5517|-99.5811|Tehuilotepec
@@ -7088,10 +7122,11 @@
 18.8525|-99.2254|Temixco
 18.7722|-98.7775|Temoac
 19.4675|-99.5941|Temoaya
+27.2757|-108.2795|Témoris
+28.9547|-107.8296|Temósachic
 20.8039|-88.2015|Temozon
 21.5651|-98.3791|Tempoal
 21.5200|-98.3883|Tempoal de Sánchez
-28.9547|-107.8296|Temósachic
 19.8333|-90.0000|Tenabo
 20.2167|-104.1670|Tenamaxtlán
 19.2463|-96.8686|Tenampa
@@ -7101,8 +7136,8 @@
 16.9667|-92.4167|Tenango
 19.1045|-99.5898|Tenango de Arista
 20.3383|-98.2280|Tenango de Doria
-20.2058|-97.9881|Tenango de las Flores
 19.1577|-98.8569|Tenango del Aire
+20.2058|-97.9881|Tenango de las Flores
 20.5311|-100.6717|Tenango el Nuevo
 20.7703|-98.1443|Tenantitla
 21.5032|-102.6580|Tenayuca
@@ -7165,17 +7200,17 @@
 20.1344|-98.1713|Tepepa
 21.9567|-102.3217|Tepetates
 19.7958|-97.4972|Tepeteno de Iturbide
-20.9614|-98.3840|Tepetitla
-19.5727|-98.8705|Tepetitlán
 17.8199|-92.3727|Tepetitán
 20.0836|-97.4936|Tepetitán Reyeshogpan de Hidalgo
+20.9614|-98.3840|Tepetitla
+19.5727|-98.8705|Tepetitlán
 17.2154|-100.1177|Tepetixtla
 18.6410|-97.6928|Tepetlacolco
+19.6732|-96.7973|Tepetlán
 19.5750|-98.8191|Tepetlaoxtoc
 19.5744|-98.8183|Tepetlaoxtoc de Hidalgo
 17.6660|-98.3919|Tepetlapa
 19.0301|-98.8213|Tepetlixpa
-19.6732|-96.7973|Tepetlán
 19.9088|-100.1336|Tepetongo
 18.9381|-99.6125|Tepetzingo
 19.9532|-97.8473|Tepetzintla
@@ -7222,8 +7257,8 @@
 18.7682|-99.1775|Tetecalita
 18.9225|-99.1628|Tetecolala
 18.5089|-96.4588|Tetela
-19.8177|-97.8069|Tetela de Ocampo
 18.8931|-98.7297|Tetela del Volcán
+19.8177|-97.8069|Tetela de Ocampo
 18.2392|-98.0267|Tetelcingo
 19.2167|-98.9729|Tetelco
 19.8575|-97.4570|Teteles de Avila Castillo
@@ -7240,6 +7275,7 @@
 19.0404|-97.0639|Tetlaxco
 20.7733|-98.2688|Tetzacual
 20.6853|-103.8492|Teuchitlán Jalisco
+21.4634|-103.4613|Teúl de González Ortega
 18.4275|-95.2561|Texalpan de Abajo
 18.4294|-95.2442|Texalpan de Arriba
 20.9375|-89.8333|Texan de Palomeque
@@ -7249,8 +7285,8 @@
 18.0649|-97.9888|Texcalapa de Juárez
 20.0303|-98.3242|Texcaltepec
 14.7955|-92.1874|Texcaltic
-18.9400|-99.9376|Texcaltitlán
 18.4467|-95.2533|Texcaltitán Xoteapan (Texcaltitán)
+18.9400|-99.9376|Texcaltitlán
 19.1325|-99.5016|Texcalyacac
 21.0923|-98.8540|Texcapa
 18.9457|-99.8953|Texcapilla
@@ -7274,7 +7310,6 @@
 20.1907|-99.2743|Tezontepec de Aldama
 20.0564|-99.2047|Tezoquipa
 19.5928|-98.9108|Tezoyuca
-21.4634|-103.4613|Teúl de González Ortega
 18.9762|-98.4486|Tianguismanalco
 20.7280|-98.6321|Tianguistengo
 19.9142|-99.3258|Tianguistengo (La Romera)
@@ -7290,9 +7325,9 @@
 18.8644|-98.9481|Tierra Larga (Campo Nuevo)
 20.2433|-97.9567|Tierra Negra
 21.6690|-100.5729|Tierra Nueva
-16.3789|-93.8606|Tierra y Libertad
 20.7289|-102.8608|Tierras Coloradas
 19.7189|-100.6464|Tierras Coloradas (San Pedro)
+16.3789|-93.8606|Tierra y Libertad
 20.3323|-88.6896|Tiholop
 20.1964|-88.3736|Tihosuco
 20.7145|-97.5333|Tihuatlan
@@ -7357,6 +7392,7 @@
 20.3803|-97.9862|Tlacuilotepec
 21.1983|-102.1242|Tlacuitapan
 19.1221|-99.4153|Tlacuitlapa
+19.2869|-99.0051|Tláhuac
 26.1059|-103.4426|Tlahualilo de Zaragoza
 17.3750|-98.3375|Tlahuapa
 19.3649|-98.5734|Tlahuapan
@@ -7365,6 +7401,7 @@
 20.8981|-98.9626|Tlahuiltepa
 17.0975|-96.0628|Tlahuitoltepec
 18.9122|-97.7382|Tlaixpan
+20.4742|-103.4465|Tlajomulco de Zúñiga
 20.4736|-103.4431|Tlajomulco de Zuñiga
 18.4291|-100.4540|Tlalchapa
 20.9709|-98.3997|Tlalchiyahualica
@@ -7404,12 +7441,12 @@
 18.8631|-97.8870|Tlanepantla
 17.8081|-99.4514|Tlanipatla
 20.1386|-97.9231|Tlaola
-17.5453|-98.5760|Tlapa de Comonfort
 20.1351|-97.8335|Tlapacoya
 19.9627|-97.2114|Tlapacoyan
+17.5453|-98.5760|Tlapa de Comonfort
 19.2616|-96.9188|Tlapala
-19.9362|-99.0966|Tlapanaloya
 18.6959|-98.5356|Tlapanalá
+19.9362|-99.0966|Tlapanaloya
 18.2721|-100.4516|Tlapehuala
 20.6500|-103.3167|Tlaquepaque
 18.6343|-99.1632|Tlaquiltenango
@@ -7438,7 +7475,6 @@
 19.9708|-102.0584|Tlazazalca
 18.8056|-97.0987|Tlilapan
 18.2739|-96.9997|Tlixco
-19.2869|-99.0051|Tláhuac
 19.3886|-98.0274|Tocatlán
 18.8906|-98.5715|Tochimilco
 18.8393|-97.8228|Tochtepec
@@ -7457,12 +7493,12 @@
 20.5946|-101.3685|Tomelopitos
 19.3114|-101.8603|Tomendán
 28.3527|-107.8458|Tomochic
+16.0898|-93.7549|Tonalá
 19.4293|-97.1327|Tonalaco
 17.4906|-99.2419|Tonalapa
 18.0977|-99.5594|Tonalapa del Sur
 18.4683|-95.2200|Tonalapan
 19.9811|-97.8394|Tonalixco
-16.0898|-93.7549|Tonalá
 19.6879|-99.0534|Tonanitla
 18.7820|-99.6436|Tonatico
 19.7833|-103.9667|Tonaya
@@ -7524,8 +7560,8 @@
 17.9989|-98.4093|Tulcingo
 18.0437|-98.4407|Tulcingo de Valle
 21.0856|-100.4841|Tulillos de Abajo
-18.4694|-97.1400|Tulimanca
 18.0286|-99.2557|Tulimán
+18.4694|-97.1400|Tulimanca
 20.0603|-98.7672|Tulipanes
 19.6850|-99.1281|Tultepec
 19.9838|-103.5224|Tultitlán
@@ -7537,15 +7573,16 @@
 19.9083|-100.3664|Tungareo
 20.2494|-99.2443|Tunititlán
 20.9029|-88.7517|Tunkas
-20.5951|-101.6464|Tupataro
 19.8137|-100.3054|Tupátaro
+20.5951|-101.6464|Tupataro
 19.3653|-99.9601|Turcio Segunda Sección
 19.0540|-101.4190|Turicato
-26.1314|-106.7042|Turuachi
 19.5709|-101.9375|Turícuaro
+26.1314|-106.7042|Turuachi
 16.9217|-99.1564|Tutepec
 19.5500|-103.8667|Tuxcacuesco
 20.0667|-103.3667|Tuxcueca
+20.9578|-97.4081|Túxpam de Rodríguez Cano
 18.3493|-99.4797|Tuxpan
 21.8750|-104.0130|Tuxpan de Bolaños
 18.7823|-97.0128|Tuxpanguillo
@@ -7554,12 +7591,12 @@
 16.7597|-93.1131|Tuxtla
 14.9395|-92.1673|Tuxtla Chico
 20.0657|-97.5752|Tuzamapan
-19.2029|-100.5668|Tuzantla
 15.1471|-92.4224|Tuzantán
+19.2029|-100.5668|Tuzantla
 18.9011|-97.6669|Tuzuapan
-16.8553|-92.4597|Tz'Aquiviljok
-16.8417|-92.4601|Tzajalchén
 17.1356|-92.3933|Tzajalá
+16.8417|-92.4601|Tzajalchén
+16.8553|-92.4597|Tz'Aquiviljok
 16.9394|-92.4778|Tzeltal
 18.8407|-98.0484|Tzicatlacoyan
 18.4507|-98.7557|Tzicatlán
@@ -7577,19 +7614,18 @@
 16.8331|-92.5797|Tzontehuitz
 16.7397|-92.3092|Tzopilja
 20.0724|-89.0502|Tzucacab
-17.2198|-100.6303|Técpan de Galeana
-27.2757|-108.2795|Témoris
-20.9578|-97.4081|Túxpam de Rodríguez Cano
 20.6934|-89.5948|Uayalceh de Peón
 20.7178|-88.3169|Uayma
 17.0841|-91.4724|Ubilio García
 19.8985|-100.6860|Ucareo
 21.1268|-89.2683|Uci
-18.5026|-88.5184|Ucum
 21.0313|-89.7447|Ucú
+18.5026|-88.5184|Ucum
 19.2420|-89.3353|Ukúm
 20.8821|-89.7465|Uman
+20.8815|-89.7480|Umán
 19.3669|-98.9392|Unidad Acaquilpan
+20.0639|-98.4206|Unidades Habitacionales
 19.2413|-97.8107|Unidad Grajales INFONAVIT
 18.7544|-98.9161|Unidad Habitacional 10 de Abril
 20.0439|-99.2447|Unidad Habitacional Antonio Osorio de León (Bojay)
@@ -7599,10 +7635,8 @@
 19.2161|-99.5522|Unidad Habitacional Santa Teresa
 20.1047|-98.7228|Unidad Minera 11 de Julio
 19.8236|-99.2889|Unidad San Miguel Jagüeyes
-20.0639|-98.4206|Unidades Habitacionales
 22.4339|-97.9717|Unidos Avanzamos
 25.8322|-100.3842|Unión Agropecuarios Lázaro Cárdenas del Norte
-16.4858|-92.8182|Unión Buena Vista
 15.7953|-92.5442|Unión Buenavista
 21.9764|-105.4303|Unión de Corrientes
 21.1280|-102.0060|Unión de San Antonio
@@ -7613,6 +7647,7 @@
 15.0466|-92.2165|Unión Roja
 18.8728|-97.1192|Unión y Progreso
 20.6539|-100.0740|Urecho
+19.8456|-102.1052|Urén
 29.4271|-110.3876|Ures
 20.1409|-101.1825|Uriangato
 19.5710|-101.7161|Uricho
@@ -7620,10 +7655,10 @@
 27.2112|-107.9142|Urique
 20.2131|-100.8419|Urireo
 22.7278|-98.3219|Ursulo Galván
+19.4053|-96.3609|Úrsulo Galván
 27.8467|-108.3671|Uruachi
 19.4112|-102.0564|Uruapan
 19.7906|-101.0878|Uruétaro
-19.8456|-102.1052|Urén
 17.5003|-92.4381|Usipa
 19.8746|-103.5409|Usmajac
 19.0142|-102.2691|Uspero
@@ -7638,6 +7673,8 @@
 17.7813|-96.9785|Valerio Trujano
 22.0211|-102.3150|Valladolid
 25.5667|-100.2500|Valle Alto
+26.6603|-99.9874|Vallecillo
+17.9203|-101.3236|Vallecitos de Zaragoza
 26.9353|-105.3927|Valle de Allende
 20.8079|-105.2481|Valle de Banderas
 19.1950|-100.1313|Valle de Bravo
@@ -7645,21 +7682,19 @@
 19.8667|-102.8167|Valle de Juárez
 25.7933|-100.4778|Valle de Lincoln
 20.4267|-103.1989|Valle de los Girasoles [Fraccionamiento]
+16.9761|-99.9364|Valle del Río
+27.3188|-106.2955|Valle del Rosario
 20.3914|-101.1922|Valle de Santiago
 25.6325|-100.1469|Valle de Vaquerías
 18.5286|-99.0694|Valle de Vázquez
 27.4507|-105.8085|Valle de Zaragoza
-27.3188|-106.2955|Valle del Rosario
-16.9761|-99.9364|Valle del Río
 20.5244|-103.3619|Valle Dorado Inn
 25.6721|-97.8131|Valle Hermoso
 21.8311|-102.7503|Valle Huejúcar (Fraccionamiento Popular) [Fraccionamiento]
+25.8828|-109.0736|Vallejo (Porvenir Vallejo)
 18.1307|-100.3398|Valle Luz
 17.7758|-96.3017|Valle Nacional
 19.4725|-100.3553|Valle Verde
-26.6603|-99.9874|Vallecillo
-17.9203|-101.3236|Vallecitos de Zaragoza
-25.8828|-109.0736|Vallejo (Porvenir Vallejo)
 22.7710|-103.5699|Valparaíso
 20.5324|-101.1276|Valtierrilla
 25.9867|-98.2217|Vamos Tamaulipas
@@ -7696,6 +7731,7 @@
 21.2118|-100.2155|Victoria
 20.3346|-101.0317|Victoria de Cortazar
 24.0203|-104.6576|Victoria de Durango
+22.9489|-102.7022|Víctor Rosales
 14.8697|-92.3078|Vida Mejor I
 25.3392|-102.8049|Viesca
 27.6444|-113.3847|Villa Alberto Andrés Alvarado Arámburo
@@ -7704,6 +7740,7 @@
 20.3859|-97.8799|Villa Avila Camacho
 18.0742|-95.7122|Villa Azueta
 17.0325|-97.5706|Villa Chalcatongo de Hidalgo
+20.1485|-101.6346|Villachuato
 15.1865|-92.5905|Villa Comaltitlán
 20.3989|-103.6889|Villa Corona
 16.1851|-93.2688|Villa Corzo
@@ -7715,49 +7752,63 @@
 17.2062|-96.7989|Villa de Etla
 25.5144|-103.4892|Villa de Guadalupe
 20.5764|-97.4336|Villa de las Flores
+32.5075|-116.7383|Villa del Campo
+19.7288|-99.4636|Villa del Carbón
 20.4067|-103.5417|Villa de los Niños
+32.4239|-116.9717|Villa del Prado 2da Sección
 22.8304|-101.9108|Villa de Ramos
 21.8031|-100.9342|Villa de Reyes
 17.6930|-97.5737|Villa de Tamazulápam del Progreso
 16.0479|-97.5311|Villa de Tututepec de Melchor Ocampo
 16.9510|-96.7494|Villa de Zaachila
-32.5075|-116.7383|Villa del Campo
-19.7288|-99.4636|Villa del Carbón
-32.4239|-116.9717|Villa del Prado 2da Sección
 16.9958|-96.4323|Villa Díaz Ordaz
 20.1665|-102.9912|Villa Emiliano Zapata
 19.9702|-96.6116|Villa Emilio Carranza
+16.3415|-93.3319|Villaflores
 22.1617|-101.9556|Villa García
 22.5122|-101.9162|Villa González Ortega
+20.5145|-100.9975|Villagrán
 25.7522|-103.3521|Villa Gregorio García
 18.9621|-99.6406|Villa Guerrero
-16.9386|-99.3300|Villa Hermosa
+17.9869|-92.9303|Villahermosa
 17.6336|-101.4664|Villa Hermosa (Las Pozas)
+16.3337|-92.0777|Villahermosa Yaluma
 16.3046|-93.1547|Villa Hidalgo
 18.1617|-100.3150|Villa Hidalgo (El Cubo)
 20.0552|-97.0521|Villa Independencia
 23.7431|-103.8425|Villa Insurgentes (El Calabazal)
 19.9231|-101.7469|Villa Jiménez
 22.0945|-102.0693|Villa Juárez
-18.0986|-94.0459|Villa la Venta
 27.7427|-101.3530|Villa Las Esperanzas
 20.4811|-103.5308|Villa las Flores
+18.0986|-94.0459|Villa la Venta
+20.4619|-97.7002|Villa Lázaro Cárdenas
+26.4704|-100.3873|Villaldama
+26.4707|-100.3707|Villaldama Nuevo León
 21.8253|-102.1878|Villa Licenciado Jesús Terán (Calvillito)
 18.9167|-100.4000|Villa Luvianos
-20.4619|-97.7002|Villa Lázaro Cárdenas
 19.5283|-90.6992|Villa Madero
 19.6836|-101.3267|Villa Magna
 24.5601|-99.6156|Villa Mainero
+20.0204|-102.5965|Villamar
 19.3266|-98.3783|Villa Mariano Matamoros
 23.9915|-104.4805|Villa Montemorelos
-24.9300|-111.6281|Villa Morelos
+16.4800|-93.9278|Villamorelos
 18.2143|-100.5479|Villa Nicolás Bravo
+22.3553|-102.8826|Villanueva
 26.4409|-105.5064|Villa Ocampo
 29.1181|-109.9675|Villa Pesqueira
 20.6423|-99.8350|Villa Progreso
 19.7858|-104.7078|Villa Purificación
 17.1944|-100.6692|Villa Rotaria
 18.9797|-99.1853|Villa Santiago
+25.9153|-100.1853|Villas de Alcalá
+20.6872|-101.4053|Villas de Irapuato
+20.5311|-103.3828|Villas de la Hacienda [Fraccionamiento]
+19.8361|-99.0900|Villas de la Laguna
+19.6900|-101.2994|Villas de la Loma
+19.1803|-99.6122|Villas del Campo
+20.3778|-99.9094|Villas Fundadores [Fraccionamiento]
 16.5184|-96.9781|Villa Sola de Vega
 17.3649|-96.2472|Villa Talea de Castro
 18.2834|-93.3340|Villa Tecolutilla
@@ -7769,23 +7820,7 @@
 19.4369|-99.9959|Villa Victoria
 22.0372|-100.7309|Villa Zaragoza
 19.4442|-96.4077|Villa Zempoala
-20.1485|-101.6346|Villachuato
-16.3415|-93.3319|Villaflores
-20.5145|-100.9975|Villagrán
-17.9869|-92.9303|Villahermosa
-16.3337|-92.0777|Villahermosa Yaluma
-26.4704|-100.3873|Villaldama
-26.4707|-100.3707|Villaldama Nuevo León
-20.0204|-102.5965|Villamar
-16.4800|-93.9278|Villamorelos
-22.3553|-102.8826|Villanueva
-25.9153|-100.1853|Villas de Alcalá
-20.6872|-101.4053|Villas de Irapuato
-20.5311|-103.3828|Villas de la Hacienda [Fraccionamiento]
-19.8361|-99.0900|Villas de la Laguna
-19.6900|-101.2994|Villas de la Loma
-19.1803|-99.6122|Villas del Campo
-20.3778|-99.9094|Villas Fundadores [Fraccionamiento]
+32.6269|-115.5467|Viñas del Sol
 25.8008|-103.2724|Virginias
 19.5162|-99.2233|Vista Hermosa
 20.3686|-100.0125|Vista Hermosa (Cuasinada)
@@ -7796,12 +7831,6 @@
 16.8357|-93.1933|Viva Cárdenas
 14.9101|-92.3261|Viva México
 20.8322|-99.7201|Vizarrón
-32.6269|-115.5467|Viñas del Sol
-22.9489|-102.7022|Víctor Rosales
-20.1654|-88.4640|X Cabil
-20.8572|-87.6692|X-Cán
-19.3917|-88.0742|X-Hazil Sur
-19.6953|-88.3768|X-pichil
 16.9042|-96.3278|Xaaga
 19.1887|-97.1470|Xacaxomulco
 17.1544|-96.2675|Xagacía
@@ -7809,6 +7838,7 @@
 19.5312|-96.9159|Xalapa de Enríquez
 19.1831|-99.4184|Xalatlaco
 17.4735|-98.5735|Xalatzala
+21.4446|-104.8998|Xalisco
 17.9974|-99.5444|Xalitla
 19.0817|-98.5162|Xalitzintla
 18.7225|-98.8988|Xalostoc
@@ -7822,17 +7852,20 @@
 20.2965|-89.1867|Xaya
 18.2371|-97.9752|Xayacatlán de Bravo
 18.9414|-90.7219|Xbacab
+20.1654|-88.4640|X Cabil
+20.8572|-87.6692|X-Cán
 21.0766|-89.6303|Xcanatún
+19.3917|-88.0742|X-Hazil Sur
 19.9214|-99.6423|Xhimojay
 19.9816|-99.5278|Xhitey
 19.9706|-99.5461|Xhixhata
 21.3442|-99.9997|Xichú
 19.2703|-98.9509|Xico
 19.1737|-98.2338|Xicohtzinco
+17.5183|-92.7047|Xicoténcatl
 20.3181|-97.9089|Xicotepec
 20.2761|-97.9611|Xicotepec de Juárez
 18.0811|-98.5936|Xicotlán
-17.5183|-92.7047|Xicoténcatl
 21.3868|-98.9901|Xilitla
 20.1395|-98.0234|Xilocuautla
 20.0458|-97.4908|Xiloxochico de Rafael Ávila Camacho
@@ -7859,10 +7892,10 @@
 17.8118|-99.6398|Xochipala
 16.8168|-98.1869|Xochistlahuaca
 17.1825|-99.2264|Xochitepec
-18.7039|-97.7761|Xochitlan Todos Santos
-19.9414|-97.8636|Xochitlaxco (San Baltazar)
 20.2959|-99.1874|Xochitlán
 19.9500|-97.6437|Xochitlán de Vicente Suárez
+18.7039|-97.7761|Xochitlan Todos Santos
+19.9414|-97.8636|Xochitlaxco (San Baltazar)
 18.0944|-96.8485|Xochitonalco
 20.8092|-98.3512|Xococapa
 20.9386|-100.9815|Xoconoxtle el Grande
@@ -7877,6 +7910,7 @@
 20.2580|-98.1333|Xolotla
 19.6428|-98.8817|Xometla
 19.4000|-99.5330|Xonacatlan
+19.4051|-99.5281|Xonacatlán
 20.1283|-97.6106|Xonalpu
 19.7887|-97.5163|Xonocuautla
 18.5047|-97.0794|Xopilapa
@@ -7884,6 +7918,7 @@
 18.6841|-99.2458|Xoxocotla
 20.8757|-98.4239|Xoxolpa
 20.0075|-97.9406|Xoxonacatla
+19.6953|-88.3768|X-pichil
 18.5076|-89.3944|Xpujil
 18.5265|-98.4570|Xuchapa
 20.1013|-89.4627|Xul
@@ -7911,6 +7946,7 @@
 21.0614|-89.4193|Yaxkukul
 18.8823|-98.9027|Yecapixteca
 18.8833|-98.8650|Yecapixtla
+28.3715|-108.9278|Yécora
 19.8661|-96.7784|Yecuatla
 18.7952|-97.6616|Yehualtepec
 20.9632|-101.2745|Yerbabuena
@@ -7927,11 +7963,10 @@
 20.1708|-99.9522|Yosphí
 20.3279|-89.4543|Yotholin
 17.5107|-97.2696|Yucuita
-20.2108|-101.1321|Yuriria
 20.3361|-102.2838|Yurécuaro
+20.2108|-101.1321|Yuriria
 20.5823|-100.8639|Yustis
 17.0402|-97.2980|Yutanduchi de Guerrero
-28.3715|-108.9278|Yécora
 18.2503|-99.5276|Zacacoyuca
 20.2150|-98.2289|Zacacuautla
 20.0624|-88.5961|Zacalaca
@@ -7947,11 +7982,12 @@
 19.8219|-101.7893|Zacapu
 18.6687|-100.6065|Zacapuato
 16.9398|-95.2031|Zacatal
+22.7684|-102.5814|Zacatecas
 20.4974|-97.5242|Zacate Colorado
 18.6833|-95.9711|Zacate Colorado Segundo (Fraternidad)
-22.7684|-102.5814|Zacatecas
 19.2158|-98.2397|Zacatelco
 18.6541|-99.1898|Zacatepec
+18.6534|-99.1912|Zacatepec de Hidalgo
 19.0053|-97.1344|Zacatla
 19.9355|-97.9613|Zacatlán
 17.2710|-92.7994|Zacatonal de Juárez
@@ -7962,19 +7998,21 @@
 15.1682|-92.6270|Zacualpa
 19.3632|-103.8243|Zacualpan
 18.7839|-98.7658|Zacualpan de Amilpas
-21.1541|-98.8000|Zacualtipanito
 20.6500|-98.6563|Zacualtipán
+21.1541|-98.8000|Zacualtipanito
 18.9833|-97.8675|Zahuatlán de Morelos (San José)
 20.3137|-102.5097|Zalamea
 22.5099|-99.6562|Zamachihue
 19.9855|-102.2839|Zamora
-16.3320|-90.7656|Zamora Pico de Oro
+19.9840|-102.2863|Zamora de Hidalgo
 20.8082|-100.1180|Zamorano
+16.3320|-90.7656|Zamora Pico de Oro
 20.8581|-101.2728|Zangarro (Zangarro Nuevo)
 18.8402|-96.9930|Zapoapan
 18.2378|-95.1845|Zapoapan de Amapan
 18.3340|-95.0973|Zapoapan de Cabañas
 20.7203|-103.3919|Zapopan
+21.0894|-104.8625|Zapotán
 21.3053|-104.6090|Zapotanito
 20.3754|-101.6996|Zapote de Barajas
 20.4836|-101.6760|Zapote de Cestao
@@ -7982,18 +8020,17 @@
 20.4507|-101.3948|Zapote de Peralta
 20.3785|-101.2480|Zapotillo de Mogotes
 19.6333|-103.1667|Zapotiltic
+20.3264|-103.4784|Zapotitán de Hidalgo
 20.0021|-97.7138|Zapotitlán
 19.4167|-103.6000|Zapotitlán de Vadillo
 17.7562|-98.3896|Zapotitlán Lagunas
 17.8896|-97.8185|Zapotitlán Palmas
 17.4242|-98.7806|Zapotitlán Tablas
-20.3264|-103.4784|Zapotitán de Hidalgo
-20.6225|-103.0677|Zapotlanejo
 19.5467|-98.9031|Zapotlán
 19.9771|-98.8642|Zapotlán de Juárez
 20.4550|-102.9144|Zapotlán del Rey
+20.6225|-103.0677|Zapotlanejo
 19.7036|-103.4650|Zapotlán El Grande
-21.0894|-104.8625|Zapotán
 21.3547|-98.9214|Zapuyo
 17.0091|-91.6403|Zaragoza
 19.8739|-100.1178|Zaragoza (Puerto de Medina)
@@ -8013,19 +8050,20 @@
 20.7381|-99.3818|Zimapan
 19.4213|-98.1646|Zimatepec
 16.8694|-96.7844|Zimatlán de Álvarez
-19.2843|-99.7339|Zinacantepec
 16.7602|-92.7226|Zinacantán
+19.2843|-99.7339|Zinacantepec
 18.3352|-97.2462|Zinacatepec
-19.8601|-100.8286|Zinapécuaro
 20.1694|-101.9992|Zináparo
+19.8601|-100.8286|Zinapécuaro
+19.8601|-100.8273|Zinapécuaro de Figueroa
 19.7945|-101.5525|Zipiajo
 20.0621|-101.8903|Ziquítaro
 19.4189|-101.9088|Ziracuaretiro
 19.5212|-100.4066|Zirahuato de los Bernal
 19.4533|-101.7317|Zirahuén
-19.4079|-101.9584|Zirimícuaro
 18.3639|-101.1905|Zirándaro
 18.4762|-100.9792|Zirándaro de los Chávez
+19.4079|-101.9584|Zirimícuaro
 17.7197|-99.1957|Zitlala
 19.2039|-97.9072|Zitlaltépec
 17.5156|-99.1525|Zizicazapa
@@ -8060,14 +8098,3 @@
 19.7967|-99.0995|Zumpango
 17.6544|-99.5272|Zumpango del Río
 19.6998|-101.0111|Zurumbeneo
-20.9115|-97.6755|Álamo
-20.9892|-97.7059|Álamo Temapache
-27.0233|-108.9344|Álamos
-19.1962|-97.4386|Álamos Tepetitlán
-14.9223|-92.3781|Álvaro Obregón
-18.3942|-92.7998|Álvaro Obregón (Santa Cruz)
-18.3929|-92.7912|Álvaro Obregón 2da. Sección (El Lechugal)
-15.8662|-92.7232|Ángel Albino Corzo
-17.1264|-93.2750|Ángel Albino Corzo (Guadalupe)
-22.2181|-98.3771|Ébano
-19.4053|-96.3609|Úrsulo Galván

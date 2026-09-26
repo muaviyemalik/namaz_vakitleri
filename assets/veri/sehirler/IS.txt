@@ -1,6 +1,8 @@
 65.3551|-18.7957|Akrahreppur
 64.3218|-22.0749|Akranes
 65.6835|-18.0878|Akureyri
+64.1000|-22.0167|Álftanes
+63.8759|-20.5948|Ásahreppur
 64.4167|-20.3333|Bláskógabyggð
 64.7145|-21.2379|Borgarbyggð
 65.4340|-13.8293|Borgarfjarðarhreppur
@@ -11,27 +13,29 @@
 65.8732|-18.6084|Dalvíkurbyggð
 65.2669|-14.3948|Egilsstaðir
 65.0731|-14.0152|Eskifjörður
-64.8585|-22.5456|Eyja- og Miklaholtshreppur
 65.3333|-18.1667|Eyjafjarðarsveit
+64.8585|-22.5456|Eyja- og Miklaholtshreppur
 66.0596|-18.7822|Fjallabyggð
 65.0833|-14.0000|Fjarðabyggð
-64.8528|-15.2568|Fljótsdalshreppur
 65.2502|-15.3721|Fljótsdalshérað
+64.8528|-15.2568|Fljótsdalshreppur
 63.8957|-20.8016|Flóahreppur
 64.0887|-21.9230|Garðabær
 64.0656|-22.6466|Garður
-63.8385|-22.4393|Grindavík
 64.0853|-20.9671|Grímsnes- og Grafningshreppur
+63.8385|-22.4393|Grindavík
 65.9833|-18.1167|Grýtubakkahreppur
 64.0671|-21.9377|Hafnarfjörður
 64.9907|-22.7895|Helgafellssveit
-64.4094|-19.7224|Hrunamannahreppur
-64.4427|-21.6109|Hvalfjarðarsveit
-64.0004|-21.1860|Hveragerði
 64.2539|-15.2121|Höfn
 65.6483|-18.4960|Hörgársveit
+64.4094|-19.7224|Hrunamannahreppur
 65.2500|-20.9167|Húnaþing Vestra
 66.0415|-17.3383|Húsavík
+64.4427|-21.6109|Hvalfjarðarsveit
+64.0004|-21.1860|Hveragerði
+66.0759|-23.1279|Ísafjarðarbær
+66.0747|-23.1350|Ísafjörður
 64.0049|-22.5624|Keflavík
 64.3064|-21.4992|Kjósarhreppur
 64.1123|-21.9130|Kópavogur
@@ -40,6 +44,7 @@
 64.1500|-21.6500|Mosfellsbaer
 63.5000|-19.0000|Mýrdalshreppur
 65.1482|-13.6837|Neskaupstaður
+64.8943|-23.7092|Ólafsvík
 65.6099|-22.3332|Reykhólahreppur
 63.9981|-22.5611|Reykjanesbær
 64.1355|-21.8954|Reykjavík
@@ -59,15 +64,10 @@
 65.0754|-22.7298|Stykkishólmur
 65.7414|-18.0351|Svalbarðsstrandarhreppur
 65.5002|-19.4457|Sveitarfélagið Skagafjörður
-66.1167|-17.2000|Tjörneshreppur
 65.6167|-23.8833|Tálknafjarðarhreppur
+66.1167|-17.2000|Tjörneshreppur
 63.4388|-20.2690|Vestmannaeyjabær
 63.4427|-20.2734|Vestmannaeyjar
 63.9816|-22.3847|Vogar
-64.1000|-22.0167|Álftanes
-63.8759|-20.5948|Ásahreppur
-66.0759|-23.1279|Ísafjarðarbær
-66.0747|-23.1350|Ísafjörður
-64.8943|-23.7092|Ólafsvík
 65.3723|-17.5993|Þingeyjarsveit
 63.8559|-21.3834|Þorlákshöfn

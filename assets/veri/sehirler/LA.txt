@@ -2,8 +2,13 @@
 14.8107|106.8318|Attapeu
 20.2467|100.4540|Ban Houakhoua
 20.2700|100.4178|Ban Houayxay
+16.4437|105.1980|Ban Kèngkok
+20.3501|100.0902|Ban Khoan
+15.4655|106.1668|Ban Laongam
 18.2425|104.2128|Ban Nahin
 15.4332|106.3827|Ban Thatèng
+16.6759|104.9880|Ban Xénô
+18.5629|103.7267|Borikhan
 14.8920|105.8779|Champasak
 16.5494|104.8234|Kaysone Phomvihane
 15.4170|106.6946|Lamam
@@ -30,29 +35,30 @@
 16.3846|106.5042|Muang Nong
 16.6667|105.0500|Muang Outhoumphon
 20.0911|100.5994|Muang Paktha
-15.0981|106.4340|Muang Pakxong
 15.1314|105.8161|Muang Pakxé
+15.0981|106.4340|Muang Pakxong
 14.6845|106.0636|Muang Pathoumphon
 20.1874|100.9260|Muang Pha Oudôm
 16.4432|106.0302|Muang Phin
-14.5682|107.0109|Muang Phouvong
 18.4953|102.4153|Muang Phôn-Hông
 19.4494|103.1917|Muang Phônsavan
 15.1067|105.6489|Muang Phônthong
+14.5682|107.0109|Muang Phouvong
 14.8054|106.7816|Muang Samakhixai
 16.3587|106.8748|Muang Samouay
 14.7381|106.4133|Muang Sanamxai
 15.0294|107.2316|Muang Sanxai
 15.7159|106.3616|Muang Saravan
+21.1921|101.1479|Muang Sing
 16.1712|105.3073|Muang Songkhon
 14.6256|105.6752|Muang Soukhouma
 16.0776|106.7030|Muang Ta-Ôy
 17.4088|104.8264|Muang Thakhèk
 16.0913|105.8104|Muang Thapangthong
-19.0013|103.6157|Muang Thathôm
 15.4275|106.4815|Muang Thatèng
-16.0224|106.2384|Muang Toumlan
+19.0013|103.6157|Muang Thathôm
 20.5346|100.2962|Muang Tônpheung
+16.0224|106.2384|Muang Toumlan
 15.7500|105.9553|Muang Vapi
 16.9407|105.9368|Muang Vilabouli
 16.9443|104.9231|Muang Xaibouli
@@ -68,9 +74,10 @@
 19.2576|101.7103|Sainyabuli
 15.7165|106.4174|Salavan
 16.5703|104.7622|Savannakhet
+15.3458|106.7237|Sekong
 17.4103|104.8307|Thakhèk
 16.7000|105.6000|Thaphalanxay
-18.9235|102.4478|Vangviang
+18.9235|102.4478|Vangviang|Vang Vieng
 17.9667|102.6000|Vientiane
 20.4076|104.0656|Xam Neua
 20.4164|104.0450|Xam Nua

@@ -1,30 +1,33 @@
 -16.7776|-49.4684|Abadia de Goiás
 -18.3635|-47.4700|Abadia dos Dourados
 -16.2263|-48.6268|Abadiânia
--1.7181|-48.8825|Abaetetuba
 -19.1110|-45.4305|Abaeté
+-1.7181|-48.8825|Abaetetuba
 -7.3364|-39.0613|Abaiara
+-13.3213|-41.6976|Abaíra
 -8.8096|-39.2706|Abaré
 -23.2990|-50.3218|Abatiá
--13.3213|-41.6976|Abaíra
 -27.5898|-51.0402|Abdon Batista
--4.9438|-48.4228|Abel Figueiredo
 -26.5983|-52.2232|Abelardo Luz
+-4.9438|-48.4228|Abel Figueiredo
 -20.2726|-42.4391|Abre Campo
 -7.8686|-35.0817|Abreu e Lima
 -9.4367|-49.3173|Abreulândia
 -20.4036|-43.1008|Acaiaca
+-4.6921|-47.3430|Açailândia
 -11.6068|-38.0359|Acajutiba
+-1.9608|-48.1967|Acará
 -4.2057|-38.6916|Acarape
 -2.9542|-40.0860|Acaraú
 -6.3855|-36.6391|Acari
--1.9608|-48.1967|Acará
 -8.3155|-40.9128|Acauã
 -31.6460|-54.1071|Aceguá
 -6.1131|-39.5176|Acopiara
 -15.1734|-56.3043|Acorizal
 -9.9804|-66.8439|Acrelândia
 -17.4361|-50.2670|Acreúna
+-5.5767|-36.9086|Açu
+-19.0731|-42.5464|Açucena
 -21.5914|-51.0667|Adamantina
 -16.3858|-50.1885|Adelândia
 -21.2854|-49.6550|Adolfo
@@ -40,11 +43,40 @@
 -5.7482|-42.6746|Agricolândia
 -27.4639|-49.8376|Agrolândia
 -27.3166|-49.7312|Agronômica
--20.9696|-45.4172|Aguanil
+-6.6312|-50.6215|Água Azul do Norte
+-14.1358|-52.4909|Água Boa
+-9.2699|-37.9192|Água Branca
+-19.8979|-52.9509|Água Clara
+-19.9912|-48.1103|Água Comprida
+-26.7969|-51.6364|Água Doce
+-2.9125|-42.1412|Água Doce do Maranhão
+-18.5065|-40.9919|Água Doce do Norte
+-11.7476|-38.7350|Água Fria
+-14.9606|-47.8496|Água Fria de Goiás
 -22.0259|-47.0670|Aguaí
+-18.0800|-48.7995|Água Limpa
+-20.9696|-45.4172|Aguanil
+-6.2131|-38.3063|Água Nova
+-8.7075|-35.5306|Água Preta
+-23.5668|-46.5719|Agua Rasa
+-20.4333|-45.1667|Água Rasa
+-28.1854|-52.0129|Água Santa
+-9.1114|-37.1231|Águas Belas
+-15.8397|-48.0267|Águas Claras
+-21.9162|-46.6867|Águas da Prata
+-27.0723|-52.9639|Águas de Chapecó
+-22.4764|-46.6328|Águas de Lindóia
+-22.8576|-49.2536|Águas de Santa Bárbara
+-22.6024|-47.8748|Águas de São Pedro
+-17.0822|-40.9358|Águas Formosas
+-26.8576|-52.8506|Águas Frias
+-15.7661|-48.2861|Águas Lindas de Goiás
+-27.7423|-48.9202|Águas Mornas
+-15.7472|-41.4600|Águas Vermelhas
 -29.6263|-53.2240|Agudo
 -22.5894|-49.1616|Agudos
 -26.0462|-49.3119|Agudos do Sul
+-18.9831|-40.7403|Águia Branca
 -7.0762|-38.2426|Aguiar
 -6.4818|-47.5144|Aguiarnópolis
 -19.6255|-41.2096|Aimorés
@@ -60,17 +92,18 @@
 -12.0058|-38.3615|Alagoinhas
 -23.5374|-47.8627|Alambari
 -22.1991|-46.6208|Albertina
+-2.3277|-44.5062|Alcântara
+-3.5873|-40.5552|Alcântaras
 -7.6982|-36.0660|Alcantil
 -18.1995|-53.7581|Alcinópolis
 -17.4637|-39.3740|Alcobaça
--2.3277|-44.5062|Alcântara
--3.5873|-40.5552|Alcântaras
 -4.5852|-43.4628|Aldeias Altas
 -27.6590|-54.7594|Alecrim
 -20.7090|-41.5194|Alegre
 -29.7831|-55.7919|Alegrete
 -7.1623|-40.8249|Alegrete do Piauí
 -27.7997|-54.0585|Alegria
+-21.8094|-42.7574|Além Paraíba
 -0.8542|-54.9451|Alenquer
 -6.4000|-37.9686|Alexandria
 -16.1493|-48.4597|Alexânia
@@ -101,6 +134,7 @@
 -4.1407|-45.4615|Altamira do Maranhão
 -24.8126|-52.7074|Altamira do Paraná
 -6.9874|-39.7274|Altaneira
+-23.8744|-53.9017|Altãnia
 -21.2190|-46.1869|Alterosa
 -8.4515|-36.0816|Altinho
 -21.0041|-47.3980|Altinópolis
@@ -112,42 +146,44 @@
 -27.4100|-51.9314|Alto Bela Vista
 -11.8283|-51.7460|Alto Boa Vista
 -20.4467|-41.8710|Alto Caparaó
+-23.5476|-46.7120|Alto De Pinheiros
 -5.3490|-36.7968|Alto do Rodrigues
 -29.3644|-51.3007|Alto Feliz
 -16.8196|-53.6246|Alto Garças
 -14.2024|-49.4350|Alto Horizonte
 -20.4370|-41.9511|Alto Jequitibá
 -5.4079|-42.0661|Alto Longá
+-23.8865|-53.9685|Altônia
 -14.7685|-56.7211|Alto Paraguai
--23.0678|-52.3120|Alto Paraná
 -23.5550|-53.8077|Alto Paraíso
 -14.1820|-47.4590|Alto Paraíso de Goiás
+-23.0678|-52.3120|Alto Paraná
 -9.5348|-46.1390|Alto Parnaíba
 -24.1297|-53.3466|Alto Piquiri
 -21.0193|-43.4054|Alto Rio Doce
 -19.0325|-40.9914|Alto Rio Novo
+-5.0381|-42.4600|Altos
 -5.5241|-38.2092|Alto Santo
 -17.7662|-53.2801|Alto Taquari
--5.0381|-42.4600|Altos
--23.8744|-53.9017|Altãnia
--23.8865|-53.9685|Altônia
 -23.5226|-47.2837|Alumínio
--19.3987|-41.6814|Alvarenga
 -3.2208|-64.8042|Alvarães
+-19.3987|-41.6814|Alvarenga
+-20.2776|-49.9141|Álvares Florence
+-22.0794|-51.4719|Álvares Machado
+-22.0868|-49.7351|Álvaro de Carvalho
 -22.4567|-49.7624|Alvinlândia
 -20.1208|-43.1540|Alvinópolis
 -29.9890|-51.0372|Alvorada
--11.2993|-62.5015|Alvorada d'Oeste
 -18.7953|-43.3700|Alvorada de Minas
+-11.2993|-62.5015|Alvorada d'Oeste
 -8.3855|-43.8324|Alvorada do Gurguéia
 -14.5242|-46.6413|Alvorada do Norte
 -22.8093|-51.2742|Alvorada do Sul
--21.8094|-42.7574|Além Paraíba
 3.6542|-61.4169|Amajari
 -23.1271|-54.9579|Amambai
--23.1363|-52.8381|Amaporã
 1.8571|-50.8437|Amapá
 -1.6947|-45.9299|Amapá do Maranhão
+-23.1363|-52.8381|Amaporã
 -8.3719|-35.4899|Amaraji
 -30.8077|-52.2996|Amaral Ferrador
 -13.8139|-49.6320|Amaralina
@@ -155,8 +191,12 @@
 -5.5694|-46.6410|Amarante do Maranhão
 -13.0497|-39.6072|Amargosa
 -3.3893|-68.2270|Amaturá
+-12.3897|-38.7515|Amélia Rodrigues
+-11.4694|-41.4734|América Dourada
 -22.7141|-47.2901|Americana
 -16.2650|-49.9941|Americano do Brasil
+-21.7180|-48.0157|Américo Brasiliense
+-20.2745|-49.7554|Américo de Campos
 -27.3670|-53.1870|Ametista do Sul
 -3.2794|-39.8058|Amontada
 -16.6342|-51.0985|Amorinópolis
@@ -164,19 +204,16 @@
 -20.5238|-42.7988|Amparo da Serra
 -10.1374|-36.9222|Amparo de São Francisco
 -25.9124|-53.4937|Ampére
--12.3897|-38.7515|Amélia Rodrigues
--11.4694|-41.4734|América Dourada
--21.7180|-48.0157|Américo Brasiliense
--20.2745|-49.7554|Américo de Campos
 -9.6750|-36.3379|Anadia
 -14.6617|-41.1470|Anagé
 -24.6652|-53.1323|Anahy
--3.2741|-44.5328|Anajatuba
 -0.8601|-50.0397|Anajás
+-3.2741|-44.5328|Anajatuba
 -22.1200|-47.6894|Analândia
 -3.4799|-61.7169|Anamã
--1.3461|-48.3829|Ananindeua
 -6.1462|-48.2150|Ananás
+-1.3461|-48.3829|Ananindeua
+-16.3267|-48.9528|Anápolis
 -3.8858|-51.3380|Anapu
 -3.5607|-43.0431|Anapurus
 -20.7627|-55.7305|Anastácio
@@ -187,23 +224,25 @@
 -10.2222|-39.8639|Andorinha
 -22.0698|-46.5723|Andradas
 -20.8654|-51.3157|Andradina
--21.7113|-44.2791|Andrelândia
 -28.5883|-51.4998|André da Rocha
+-21.7113|-44.2791|Andrelândia
 -23.4745|-48.4256|Angatuba
+-17.7239|-42.2623|Angelândia
+-22.0278|-53.8667|Angélica
 -8.8915|-36.2767|Angelim
 -27.5345|-49.0856|Angelina
--17.7239|-42.2623|Angelândia
 -11.9628|-44.7498|Angical
 -6.0988|-42.7202|Angical do Piauí
 -6.3434|-47.9311|Angico
 -5.6740|-36.5488|Angicos
 -23.0067|-44.3181|Angra dos Reis
 -12.1822|-39.2138|Anguera
--22.0278|-53.8667|Angélica
+-23.2162|-51.9385|Ângulo
 -18.3150|-48.2219|Anhanguera
 -22.8329|-48.1638|Anhembi
 -22.3457|-51.4276|Anhumas
 -16.3858|-49.9794|Anicuns
+-9.2478|-43.0524|Anísio de Abreu
 -27.7262|-51.0584|Anita Garibaldi
 -27.9019|-49.1286|Anitápolis
 -3.7728|-61.6442|Anori
@@ -221,11 +260,9 @@
 -25.9643|-50.1299|Antônio Olinto
 -28.8732|-51.3174|Antônio Prado
 -21.0266|-42.1550|Antônio Prado de Minas
--16.3267|-48.9528|Anápolis
--9.2478|-43.0524|Anísio de Abreu
 -6.8092|-38.0718|Aparecida
--20.4841|-50.9188|Aparecida d'Oeste
 -16.8233|-49.2439|Aparecida de Goiânia
+-20.4841|-50.9188|Aparecida d'Oeste
 -18.2296|-51.2414|Aparecida do Rio Doce
 -10.0618|-47.9651|Aparecida do Rio Negro
 -20.0091|-51.3463|Aparecida do Taboado
@@ -240,31 +277,39 @@
 -18.7432|-52.0694|Aporé
 -13.8300|-39.7344|Apuarema
 -23.5616|-51.4536|Apucarana
--3.9500|-39.3037|Apuiarés
 -7.7892|-59.3410|Apuí
+-3.9500|-39.3037|Apuiarés
 -10.3162|-37.1045|Aquidabã
 -20.4579|-55.8380|Aquidauana
 -3.9016|-38.3913|Aquiraz
 -27.1414|-52.1812|Arabutã
+-6.8542|-35.3605|Araçagi
+-19.2420|-44.2243|Araçaí
 -10.9823|-37.1033|Aracaju
+-23.4229|-47.0782|Araçariguama
+-12.1468|-38.1723|Araçás
 -4.5651|-37.7669|Aracati
 -14.3901|-41.3633|Aracatu
+-21.1499|-50.5747|Araçatuba
 -11.1356|-39.0700|Araci
 -21.3524|-43.4086|Aracitaba
--4.4905|-38.6776|Aracoiaba
+-7.7939|-35.0765|Araçoiaba
+-23.5660|-47.6673|Araçoiaba da Serra
 -19.8195|-40.1910|Aracruz
+-16.3830|-49.7078|Araçu
+-16.9082|-41.9860|Araçuaí
 -15.9474|-52.0807|Aragarças
 -16.9542|-49.4060|Aragoiânia
 -6.8926|-48.6159|Aragominas
 -8.9135|-49.4091|Araguacema
+-12.7258|-49.7494|Araguaçu
 -15.7339|-51.8314|Araguaiana
+-7.3114|-48.6211|Araguaína
 -16.7843|-53.0798|Araguainha
 -3.0418|-45.7587|Araguanã
 -15.1299|-50.4984|Araguapaz
 -18.6472|-48.1872|Araguari
 -5.6407|-48.0886|Araguatins
--12.7258|-49.7494|Araguaçu
--7.3114|-48.6211|Araguaína
 -2.8979|-42.0230|Araioses
 -22.9095|-55.3701|Aral Moreira
 -12.0462|-38.5576|Aramari
@@ -280,9 +325,9 @@
 -23.4194|-51.4244|Arapongas
 -18.4906|-49.1376|Araporã
 -24.0690|-50.0373|Arapoti
--15.1748|-58.4973|Araputanga
 -19.0307|-46.0958|Arapuá
 -24.3199|-51.8114|Arapuã
+-15.1748|-58.4973|Araputanga
 -26.4683|-48.8008|Araquari
 -6.8283|-35.7583|Arara
 -28.9395|-49.5112|Araranguá
@@ -299,19 +344,10 @@
 -27.3771|-52.2901|Aratiba
 -4.4190|-39.0482|Aratuba
 -13.0936|-39.0826|Aratuípe
--25.5931|-49.4103|Araucária
 -11.2622|-37.6197|Arauá
--19.5933|-46.9406|Araxá
--6.8542|-35.3605|Araçagi
--23.4229|-47.0782|Araçariguama
--21.1499|-50.5747|Araçatuba
--19.2420|-44.2243|Araçaí
--7.7939|-35.0765|Araçoiaba
--23.5660|-47.6673|Araçoiaba da Serra
--16.3830|-49.7078|Araçu
--16.9082|-41.9860|Araçuaí
--12.1468|-38.1723|Araçás
+-25.5931|-49.4103|Araucária
 -19.8754|-45.1568|Araújos
+-19.5933|-46.9406|Araxá
 -21.3666|-46.9447|Arceburgo
 -21.7434|-50.4298|Arco-Íris
 -20.2435|-45.5676|Arcos
@@ -327,6 +363,7 @@
 -22.6063|-48.6527|Areiópolis
 -14.4503|-56.8461|Arenápolis
 -16.3610|-51.6046|Arenópolis
+-6.1944|-35.1603|Arês
 -21.6391|-42.8286|Argirita
 -17.8579|-42.5979|Aricanduva
 -15.8033|-45.9420|Arinos
@@ -334,9 +371,9 @@
 -9.9133|-63.0408|Ariquemes
 -21.1769|-48.7777|Ariranha
 -24.3518|-51.5319|Ariranha do Ivaí
--28.2241|-49.0078|Armazém
 -27.7496|-48.5071|Armação
 -22.7695|-41.9096|Armação dos Búzios
+-28.2241|-49.0078|Armazém
 -6.2361|-40.0940|Arneiroz
 -6.2035|-41.8693|Aroazes
 -7.5206|-35.6993|Aroeiras
@@ -347,20 +384,20 @@
 -29.4011|-51.9450|Arroio do Meio
 -31.4393|-52.3964|Arroio do Padre
 -29.5293|-49.8915|Arroio do Sal
--29.2621|-53.0606|Arroio do Tigre
 -30.0772|-51.7292|Arroio dos Ratos
+-29.2621|-53.0606|Arroio do Tigre
 -32.1795|-52.8665|Arroio Grande
 -26.9162|-51.3453|Arroio Trinta
+-23.5402|-46.4858|Artur Alvim
 -22.5731|-47.1725|Artur Nogueira
 -14.8102|-50.9450|Aruanã
 -23.3961|-46.3208|Arujá
 -27.0691|-52.4489|Arvoredo
 -28.8697|-52.1963|Arvorezinha
--6.1944|-35.1603|Arês
 -26.9858|-49.3708|Ascurra
 -20.1838|-50.7312|Aspásia
--6.8975|-39.8291|Assaré
 -23.3733|-50.8414|Assaí
+-6.8975|-39.8291|Assaré
 -22.6617|-50.4122|Assis
 -10.8833|-70.0131|Assis Brasil
 -24.4082|-53.5333|Assis Chateaubriand
@@ -373,13 +410,14 @@
 -27.4430|-49.7609|Atalanta
 -18.1835|-41.1672|Ataléia
 -23.1310|-46.5890|Atibaia
--2.5702|-42.7423|Atins
 -20.9547|-41.1910|Atílio Vivacqua
+-2.5702|-42.7423|Atins
 -5.5108|-47.9154|Augustinópolis
 -1.0217|-46.6350|Augusto Corrêa
 -18.1072|-44.1679|Augusto de Lima
 -28.5403|-53.9793|Augusto Pestana
 -5.9052|-37.3012|Augusto Severo
+-27.6954|-52.0656|Áurea
 -14.3631|-39.4796|Aurelino Leal
 -20.6856|-50.5547|Auriflama
 -16.6768|-50.5258|Aurilândia
@@ -387,17 +425,14 @@
 -2.3032|-47.7562|Aurora do Pará
 -12.6162|-46.4444|Aurora do Tocantins
 -3.5797|-59.1306|Autazes
+-22.1779|-49.3051|Avaí
 -21.4660|-49.9479|Avanhandava
 -23.0340|-48.8880|Avaré
--22.1779|-49.3051|Avaí
 -3.6672|-56.0164|Aveiro
 -10.1146|-43.8929|Avelino Lopes
 -16.4912|-49.7637|Avelinópolis
 -2.8459|-44.1052|Axixá
 -5.6485|-47.7728|Axixá do Tocantins
--4.6921|-47.3430|Açailândia
--5.5767|-36.9086|Açu
--19.0731|-42.5464|Açucena
 -7.2052|-47.7682|Babaçulândia
 -4.2917|-44.7917|Bacabal
 -2.8687|-44.3451|Bacabeira
@@ -405,14 +440,18 @@
 -2.6465|-44.6548|Bacurituba
 -20.9181|-49.4453|Bady Bassitt
 -21.9762|-44.8556|Baependi
--2.4017|-50.1663|Bagre
 -31.3314|-54.1069|Bagé
+-2.4017|-50.1663|Bagre
+-6.6629|-34.9727|Baía da Traição
+-6.4301|-35.0505|Baía Formosa
 -12.4833|-44.5311|Baianópolis
+-2.7906|-49.6717|Baião
+-23.3684|-46.3110|Bairro da Penha
+-23.4060|-46.3161|Bairro Parque Nossa Senhora do Carmo
 -11.9773|-40.1799|Baixa Grande
 -8.6917|-45.1258|Baixa Grande do Ribeiro
 -6.7073|-38.7575|Baixio
 -19.5189|-41.0158|Baixo Guandu
--2.7906|-49.6717|Baião
 -21.9009|-49.3351|Balbinos
 -19.2366|-43.8468|Baldim
 -16.3667|-52.4361|Baliza
@@ -420,9 +459,10 @@
 -26.4189|-48.6515|Balneário Barra do Sul
 -26.9906|-48.6347|Balneário Camboriú
 -29.1301|-49.6119|Balneário Gaivota
--30.2127|-50.2931|Balneário Pinhal
 -26.7558|-48.7600|Balneário Piçarras
+-30.2127|-50.2931|Balneário Pinhal
 -28.8268|-49.2542|Balneário Rincão
+-20.7024|-49.5504|Bálsamo
 -25.5215|-49.6774|Balsa Nova
 -7.5325|-46.0356|Balsas
 -20.1045|-45.9874|Bambuí
@@ -436,6 +476,14 @@
 -8.0042|-48.6822|Bandeirantes do Tocantins
 -7.4686|-50.6590|Bannach
 -10.6158|-38.6269|Banzaê
+-29.3964|-51.5462|Barão
+-23.5710|-49.5666|Barão de Antonina
+-19.8798|-43.4948|Barão de Cocais
+-27.5511|-52.4475|Barão de Cotegipe
+-6.6298|-43.2032|Barão de Grajaú
+-16.1944|-55.9675|Barão de Melgaço
+-21.2654|-42.2789|Barão de Monte Alto
+-30.3926|-51.7949|Barão do Triunfo
 -6.6185|-36.2696|Baraúna
 -21.2503|-43.8417|Barbacena
 -7.4360|-39.3527|Barbalha
@@ -447,11 +495,13 @@
 -22.0744|-48.7403|Bariri
 -11.0894|-43.1417|Barra
 -26.6854|-53.4139|Barra Bonita
--6.5409|-42.1150|Barra d'Alcântara
+-26.2401|-53.5259|Barracão
 -13.6261|-41.3269|Barra da Estiva
+-6.5409|-42.1150|Barra d'Alcântara
+-22.9983|-43.3655|Barra da Tijuca
 -8.3945|-35.6205|Barra de Guabiraba
--6.7904|-36.0018|Barra de Santa Rosa
 -7.5905|-35.9882|Barra de Santana
+-6.7904|-36.0018|Barra de Santa Rosa
 -9.4047|-35.5072|Barra de Santo Antônio
 -18.7550|-40.8908|Barra de São Francisco
 -9.8123|-35.9609|Barra de São Miguel
@@ -469,14 +519,13 @@
 -30.3443|-51.3612|Barra do Ribeiro
 -27.3985|-52.4089|Barra do Rio Azul
 -14.0751|-39.5907|Barra do Rocha
--24.8905|-48.4079|Barra do Turvo
 -10.9089|-37.0386|Barra dos Coqueiros
+-24.8905|-48.4079|Barra do Turvo
 -27.9156|-53.0329|Barra Funda
 -20.2786|-43.0717|Barra Longa
 -22.5442|-44.1714|Barra Mansa
--26.6322|-48.6847|Barra Velha
--26.2401|-53.5259|Barracão
 -4.2444|-42.2944|Barras
+-26.6322|-48.6847|Barra Velha
 -4.3705|-38.6102|Barreira
 -12.1528|-44.9900|Barreiras
 -9.9904|-45.6933|Barreiras do Piauí
@@ -488,22 +537,14 @@
 -21.1936|-48.1639|Barrinha
 -7.1354|-38.7337|Barro
 -11.7608|-41.9117|Barro Alto
--5.8506|-42.4588|Barro Duro
--14.7579|-39.4071|Barro Preto
 -11.6019|-39.1227|Barrocas
+-5.8506|-42.4588|Barro Duro
 -9.8500|-48.8344|Barrolândia
+-14.7579|-39.4071|Barro Preto
 -3.0189|-41.1361|Barroquinha
 -29.1353|-52.5751|Barros Cassal
 -21.1789|-43.9571|Barroso
 -23.5106|-46.8761|Barueri
--29.3964|-51.5462|Barão
--23.5710|-49.5666|Barão de Antonina
--19.8798|-43.4948|Barão de Cocais
--27.5511|-52.4475|Barão de Cotegipe
--6.6298|-43.2032|Barão de Grajaú
--16.1944|-55.9675|Barão de Melgaço
--21.2654|-42.2789|Barão de Monte Alto
--30.3926|-51.7949|Barão do Triunfo
 -21.9219|-50.7339|Bastos
 -21.7855|-52.5654|Bataguassu
 -22.2953|-53.2711|Bataiporã
@@ -513,12 +554,11 @@
 -4.3731|-38.8591|Baturité
 -22.3147|-49.0606|Bauru
 -7.1214|-34.9173|Bayeux
--6.6629|-34.9727|Baía da Traição
--6.4301|-35.0505|Baía Formosa
 -20.9494|-48.4792|Bebedouro
 -4.1797|-38.1306|Beberibe
 -12.2544|-42.7553|Beira Rio
 -3.0506|-40.1678|Bela Cruz
+-3.0880|-43.4567|Belágua
 -22.1089|-56.5211|Bela Vista
 -25.8740|-53.6275|Bela Vista da Caroba
 -16.9728|-48.9533|Bela Vista de Goiás
@@ -527,6 +567,13 @@
 -22.9967|-51.1906|Bela Vista do Paraíso
 -7.9161|-41.9009|Bela Vista do Piauí
 -26.4594|-50.5106|Bela Vista do Toldo
+-9.5442|-36.5020|Belém
+-23.5376|-46.5948|Belem
+-8.5785|-35.8250|Belém de Maria
+-8.7539|-38.9658|Belém de São Francisco
+-6.1886|-37.5358|Belém do Brejo do Cruz
+-7.4066|-40.9887|Belém do Piauí
+-8.5339|-38.9817|Belém do São Francisco
 -22.7642|-43.3994|Belford Roxo
 -21.9644|-43.4593|Belmiro Braga
 -15.8613|-38.8798|Belmonte
@@ -537,13 +584,6 @@
 -19.2556|-42.4429|Belo Oriente
 -20.4158|-44.0647|Belo Vale
 -3.0126|-54.9913|Belterra
--3.0880|-43.4567|Belágua
--9.5442|-36.5020|Belém
--8.5785|-35.8250|Belém de Maria
--8.7539|-38.9658|Belém de São Francisco
--6.1886|-37.5358|Belém do Brejo do Cruz
--7.4066|-40.9887|Belém do Piauí
--8.5339|-38.9817|Belém do São Francisco
 -5.4500|-42.3667|Beneditinos
 -7.1070|-44.5876|Benedito Leite
 -26.7859|-49.4360|Benedito Novo
@@ -564,9 +604,9 @@
 -7.7548|-43.7959|Bertolínia
 -16.9544|-40.5643|Bertópolis
 -4.3437|-61.7513|Beruri
--19.9678|-44.1983|Betim
 -8.2879|-37.9762|Betânia
 -8.0643|-40.8592|Betânia do Piauí
+-19.9678|-44.1983|Betim
 -8.2333|-35.7969|Bezerros
 -21.6301|-43.7551|Bias Fortes
 -21.7324|-43.1045|Bicas
@@ -604,11 +644,12 @@
 -27.7389|-49.9171|Bocaina do Sul
 -17.3892|-43.8357|Bocaiúva
 -25.1004|-48.8712|Bocaiúva do Sul
+-5.9339|-36.3972|Bodó
 -7.7888|-39.9526|Bodocó
 -20.4823|-56.6589|Bodoquena
--5.9339|-36.3972|Bodó
 -23.1224|-48.2806|Bofete
 -23.2833|-47.6722|Boituva
+-27.1788|-48.5020|Bombinhas
 -9.1697|-36.6797|Bom Conselho
 -19.6914|-45.2530|Bom Despacho
 -3.7741|-46.2171|Bom Jardim
@@ -627,9 +668,9 @@
 -21.1339|-41.6797|Bom Jesus do Itabapoana
 -21.0883|-41.6394|Bom Jesus do Norte
 -26.6905|-53.0967|Bom Jesus do Oeste
+-23.1350|-46.4653|Bom Jesus dos Perdões
 -26.1528|-53.5496|Bom Jesus do Sul
 -4.9918|-48.8237|Bom Jesus do Tocantins
--23.1350|-46.4653|Bom Jesus dos Perdões
 -4.3467|-45.0210|Bom Lugar
 -29.4617|-51.3640|Bom Princípio
 -3.2375|-41.6457|Bom Princípio do Piauí
@@ -640,7 +681,6 @@
 -21.0303|-44.7950|Bom Sucesso
 -24.3122|-49.1670|Bom Sucesso de Itararé
 -26.0824|-52.8510|Bom Sucesso do Sul
--27.1788|-48.5020|Bombinhas
 -20.3159|-44.2074|Bonfim
 -9.1646|-42.8825|Bonfim do Piauí
 -16.5973|-49.0149|Bonfinópolis
@@ -655,41 +695,48 @@
 -4.5665|-42.1360|Boqueirão do Piauí
 -11.1469|-37.6206|Boquim
 -12.8231|-42.7306|Boquira
+-22.2388|-50.4925|Borá
 -22.1931|-48.7789|Boracéia
 -4.3914|-59.5886|Borba
 -6.7991|-35.6209|Borborema
 -22.2511|-46.1671|Borda da Mata
 -22.6763|-48.9848|Borebi
 -23.9393|-51.6014|Borrazópolis
--22.2388|-50.4925|Borá
+-23.6093|-46.6230|Bosque Saúde
 -28.6711|-54.9619|Bossoroca
+-22.9509|-43.1823|Botafogo
 -21.6490|-46.4283|Botelhos
 -22.8858|-48.4450|Botucatu
 -16.9095|-43.0085|Botumirim
 -13.2955|-42.5259|Botuporã
 -27.2046|-49.1118|Botuverá
 -28.3658|-53.7689|Bozano
+-28.2750|-49.1656|Braço do Norte
+-27.3789|-49.9138|Braço do Trombudo
 -27.5722|-53.7621|Braga
--24.7902|-53.0886|Braganey
 -0.9681|-46.7338|Bragança
 -22.9527|-46.5442|Bragança Paulista
+-24.7902|-53.0886|Braganey
 -9.2117|-36.0896|Branquinha
--3.3377|-52.5745|Brasil Novo
--4.1333|-41.5877|Brasileira
+-23.5500|-46.6167|Brás
 -21.1199|-52.4383|Brasilândia
+-23.4486|-46.6884|Brasilandia
 -16.9306|-45.9639|Brasilândia de Minas
 -24.2168|-53.5725|Brasilândia do Sul
 -8.2605|-48.4345|Brasilândia do Tocantins
 -11.0161|-68.7481|Brasiléia
--12.2490|-58.0029|Brasnorte
+-4.1333|-41.5877|Brasileira
 -15.7797|-47.9297|Brasília
 -16.2525|-44.4571|Brasília de Minas
--16.3791|-49.3845|Brazabrantes
--22.4817|-45.6280|Brazópolis
--28.2750|-49.1656|Braço do Norte
--27.3789|-49.9138|Braço do Trombudo
+-3.3377|-52.5745|Brasil Novo
+-12.2490|-58.0029|Brasnorte
+-20.8784|-43.2244|Brás Pires
 -21.5658|-50.3523|Braúna
 -19.0218|-42.7140|Braúnas
+-16.3791|-49.3845|Brazabrantes
+-15.6794|-48.1967|Brazlândia
+-22.4817|-45.6280|Brazópolis
+-9.0360|-36.5606|Brejão
 -20.1562|-41.3065|Brejetuba
 -7.3446|-37.3346|Brejinho
 -11.0187|-48.6469|Brejinho de Nazaré
@@ -702,28 +749,27 @@
 -6.3955|-37.8607|Brejo dos Santos
 -10.4924|-36.4588|Brejo Grande
 -5.7437|-48.4557|Brejo Grande do Araguaia
--7.6223|-38.8820|Brejo Santo
 -12.4124|-43.9282|Brejolândia
--9.0360|-36.5606|Brejão
+-7.6223|-38.8820|Brejo Santo
 -13.0706|-39.8210|Brejões
 -3.7335|-49.3712|Breu Branco
 -1.6822|-50.4803|Breves
 -15.2111|-51.1478|Britânia
 -29.5575|-51.5919|Brochier
--21.0506|-47.6173|Brodowski
 -20.9914|-47.6586|Brodósqui
+-21.0506|-47.6173|Brodowski
 -22.2794|-48.0874|Brotas
 -12.1060|-42.5111|Brotas de Macaúbas
 -20.2045|-44.1539|Brumadinho
 -14.2036|-41.6653|Brumado
 -27.3478|-50.8363|Brunópolis
 -27.0980|-48.9128|Brusque
--20.8784|-43.2244|Brás Pires
 -22.5046|-46.3527|Bueno Brandão
--7.7200|-35.3200|Buenos Aires
 -17.8745|-44.0237|Buenópolis
+-7.7200|-35.3200|Buenos Aires
 -14.9594|-39.2997|Buerarema
 -19.3670|-42.3081|Bugre
+-8.6231|-37.1558|Buíque
 -9.5786|-68.1720|Bujari
 -1.5150|-48.0447|Bujaru
 -23.7975|-48.5928|Buri
@@ -731,20 +777,19 @@
 -3.9480|-42.8581|Buriti
 -18.1400|-49.0403|Buriti Alegre
 -5.8372|-43.8336|Buriti Bravo
+-4.5197|-46.3771|Buriticupu
 -16.1644|-50.4292|Buriti de Goiás
--5.3706|-48.1348|Buriti do Tocantins
 -3.1750|-41.8669|Buriti dos Lopes
 -5.2089|-41.2508|Buriti dos Montes
--4.5197|-46.3771|Buriticupu
+-5.3706|-48.1348|Buriti do Tocantins
 -14.4097|-46.3176|Buritinópolis
 -10.5708|-43.6886|Buritirama
 -5.5925|-46.9972|Buritirana
 -15.4139|-46.5547|Buritis
 -20.2135|-47.7078|Buritizal
 -17.4058|-45.3045|Buritizeiro
+-23.5702|-46.7263|Butanta
 -30.1197|-51.9622|Butiá
--8.6231|-37.1558|Buíque
--20.7024|-49.5504|Bálsamo
 -3.1298|-61.7441|Caapiranga
 -7.5156|-34.9083|Caaporã
 -22.6342|-54.8222|Caarapó
@@ -760,11 +805,15 @@
 -8.2773|-35.0909|Cabo de Santo Agostinho
 -22.8872|-42.0262|Cabo Frio
 -21.4870|-46.3800|Cabo Verde
+-22.4916|-49.3864|Cabrália Paulista
 -23.3075|-47.1328|Cabreúva
 -8.5142|-39.3100|Cabrobó
--22.4916|-49.3864|Cabrália Paulista
+-26.7753|-51.0150|Caçador
+-23.1008|-45.7069|Caçapava
+-30.6100|-53.4723|Caçapava do Sul
 -10.3258|-63.1495|Cacaulândia
 -29.8836|-54.8250|Cacequi
+-16.4226|-57.7108|Cáceres
 -12.6014|-38.9658|Cachoeira
 -18.5428|-50.9821|Cachoeira Alta
 -19.5187|-44.4625|Cachoeira da Prata
@@ -773,8 +822,8 @@
 -15.9716|-41.4930|Cachoeira de Pajeú
 -0.8461|-48.9312|Cachoeira do Arari
 -1.9404|-46.4691|Cachoeira do Piriá
--30.2081|-52.9707|Cachoeira do Sul
 -6.9449|-38.6990|Cachoeira dos Índios
+-30.2081|-52.9707|Cachoeira do Sul
 -18.4952|-49.6510|Cachoeira Dourada
 -3.1201|-43.9313|Cachoeira Grande
 -22.7011|-44.9923|Cachoeira Paulista
@@ -788,12 +837,14 @@
 -27.8173|-51.6827|Cacique Doble
 -11.4386|-61.4472|Cacoal
 -21.5294|-46.6439|Caconde
+-18.5567|-51.1308|Caçu
 -14.3883|-42.4152|Caculé
--14.2923|-41.0100|Caetanos
+-11.1418|-40.2914|Caém
 -19.3347|-44.4100|Caetanópolis
--13.9788|-42.4933|Caetité
+-14.2923|-41.0100|Caetanos
 -19.8702|-43.6506|Caeté
 -8.7731|-36.6225|Caetés
+-13.9788|-42.4933|Caetité
 -11.6936|-41.4683|Cafarnaum
 -22.7998|-51.7143|Cafeara
 -24.6930|-53.3509|Cafelândia
@@ -803,13 +854,13 @@
 -16.9599|-51.7915|Caiapônia
 -28.3043|-54.6559|Caibaté
 -27.0342|-53.2784|Caibi
+-6.5963|-35.3950|Caiçara
+-5.1753|-36.0837|Caiçara do Norte
+-5.8060|-36.0255|Caiçara do Rio do Vento
 -6.4583|-37.0978|Caicó
 -23.3642|-46.7406|Caieiras
 -13.5266|-38.9481|Cairu
 -21.7652|-51.9590|Caiuá
--6.5963|-35.3950|Caiçara
--5.1753|-36.0837|Caiçara do Norte
--5.8060|-36.0255|Caiçara do Rio do Vento
 -23.3519|-46.8813|Cajamar
 -2.8637|-44.5729|Cajapió
 -3.3851|-45.0220|Cajari
@@ -822,6 +873,8 @@
 -2.9875|-41.3544|Cajueiro da Praia
 -20.7874|-42.7626|Cajuri
 -21.2753|-47.3042|Cajuru
+-8.7358|-36.3315|Calçado
+2.3610|-51.4528|Calçoene
 -21.8867|-46.3592|Caldas
 -7.1510|-35.3487|Caldas Brandão
 -17.7313|-48.6548|Caldas Novas
@@ -831,9 +884,8 @@
 -23.6634|-51.3282|Califórnia
 -26.6404|-51.0244|Calmon
 -8.0191|-38.0980|Calumbi
--8.7358|-36.3315|Calçado
-2.3610|-51.4528|Calçoene
 -15.4277|-39.5082|Camacan
+-12.6975|-38.3242|Camaçari
 -20.6422|-45.1433|Camacho
 -7.9269|-36.7421|Camalaú
 -13.9447|-39.1039|Camamu
@@ -842,37 +894,36 @@
 -30.9197|-51.8530|Camaquã
 -7.9878|-34.9914|Camaragibe
 -28.6144|-52.2199|Camargo
--12.6975|-38.3242|Camaçari
 -23.0042|-50.0882|Cambará
 -29.0673|-50.1185|Cambará do Sul
+-23.2758|-51.2783|Cambé
 -23.6316|-51.5667|Cambira
 -27.0756|-48.7153|Camboriú
 -21.5753|-41.9111|Cambuci
--21.8538|-45.2717|Cambuquira
 -22.5824|-46.0612|Cambuí
--23.2758|-51.2783|Cambé
+-21.8538|-45.2717|Cambuquira
 -2.2958|-49.4921|Cametá
 -2.9022|-40.8411|Camocim
 -8.3586|-35.7619|Camocim de São Félix
--21.8141|-45.3975|Campanha
 -18.2749|-41.7391|Campanário
+-21.8141|-45.3975|Campanha
 -8.8939|-35.5324|Campestre
 -28.7065|-51.1192|Campestre da Serra
 -16.7834|-49.7096|Campestre de Goiás
 -6.1516|-47.2343|Campestre do Maranhão
+-13.8637|-48.5675|Campinaçu
 -24.6015|-52.7854|Campina da Lagoa
 -27.9873|-54.8302|Campina das Missões
 -23.6136|-48.4539|Campina do Monte Alegre
 -25.0848|-51.7842|Campina do Simão
 -7.2306|-35.8811|Campina Grande
 -25.3056|-49.0553|Campina Grande do Sul
--19.4611|-49.7397|Campina Verde
+-14.3071|-53.1559|Campinápolis
 -22.9056|-47.0608|Campinas
 -7.6791|-41.8794|Campinas do Piauí
 -27.7063|-52.6394|Campinas do Sul
--13.8637|-48.5675|Campinaçu
+-19.4611|-49.7397|Campina Verde
 -14.0450|-48.9752|Campinorte
--14.3071|-53.1559|Campinápolis
 -9.7819|-36.3508|Campo Alegre
 -17.6734|-47.7780|Campo Alegre de Goiás
 -9.5010|-42.9828|Campo Alegre de Lourdes
@@ -892,6 +943,7 @@
 -7.2207|-41.0451|Campo Grande do Piauí
 -25.4596|-49.5301|Campo Largo
 -3.8552|-42.6032|Campo Largo do Piauí
+-23.6363|-46.7657|Campo Limpo
 -16.3005|-49.0904|Campo Limpo de Goiás
 -23.2160|-46.7584|Campo Limpo Paulista
 -25.2682|-49.4758|Campo Magro
@@ -901,7 +953,6 @@
 -10.4815|-63.8519|Campo Novo de Rondônia
 -13.6266|-58.0213|Campo Novo do Parecis
 -6.2458|-36.2197|Campo Redondo
--15.3793|-54.9295|Campo Verde
 -19.6369|-46.1981|Campos Altos
 -13.0367|-46.7717|Campos Belos
 -28.8939|-53.0254|Campos Borges
@@ -914,26 +965,35 @@
 -22.6289|-50.0128|Campos Novos Paulista
 -6.9253|-40.2219|Campos Sales
 -14.1902|-49.6583|Campos Verdes
+-15.3793|-54.9295|Campo Verde
 -7.4352|-35.3017|Camutanga
--21.0206|-45.1833|Cana Verde
+-20.6613|-42.6379|Canaã
+-6.4987|-50.0933|Canaã dos Carajás
 -11.1811|-51.8638|CanaBrava do Norte
 -25.0147|-47.9267|Cananéia
 -9.1733|-37.5198|Canapi
+-13.1252|-44.2510|Canápolis
 -11.6847|-41.7689|Canarana
 -22.7400|-45.0321|Canas
+-21.0206|-45.1833|Cana Verde
 -7.5076|-43.6863|Canavieira
 -15.6750|-38.9472|Canavieiras
--20.6613|-42.6379|Canaã
--6.4987|-50.0933|Canaã dos Carajás
 -11.8950|-39.2039|Candeal
 -12.6557|-38.4870|Candeias
 -8.9451|-63.3573|Candeias do Jamari
 -29.7162|-52.8097|Candelária
 -14.4697|-42.8739|Candiba
+-24.5669|-51.3333|Cândido de Abreu
+-27.8951|-54.7413|Cândido Godói
+-1.4467|-45.7167|Cândido Mendes
+-22.7464|-50.3869|Cândido Mota
+-21.3419|-48.6329|Cândido Rodrigues
+-15.4608|-41.1635|Cândido Sales
 -31.4909|-53.7027|Candiota
 -25.5131|-52.0224|Candói
 -29.3471|-50.7754|Canela
 -27.2487|-48.7878|Canelinha
+-23.4970|-46.5204|Cangaiba
 -6.3800|-35.1289|Canguaretama
 -31.3950|-52.6756|Canguçu
 -10.1485|-37.0003|Canhoba
@@ -944,15 +1004,21 @@
 -29.9178|-51.1836|Canoas
 -26.1772|-50.3900|Canoinhas
 -10.7310|-39.4742|Cansanção
+2.6100|-60.5969|Cantá
 -18.5103|-42.6498|Cantagalo
 -3.6333|-44.3767|Cantanhede
 -8.1100|-42.9444|Canto do Buriti
-2.6100|-60.5969|Cantá
 -9.8798|-39.1472|Canudos
 -29.3206|-52.2248|Canudos do Vale
 -6.5339|-64.3831|Canutama
--13.1252|-44.2510|Canápolis
 -1.1958|-47.1808|Capanema
+-28.0683|-50.6292|Capão Alto
+-24.0058|-48.3494|Capão Bonito
+-28.1743|-51.4230|Capão Bonito do Sul
+-29.6612|-50.0142|Capão da Canoa
+-28.9499|-54.6037|Capão do Cipó
+-31.8432|-52.5532|Capão do Leão
+-23.6688|-46.7805|Capao Redondo
 -20.5261|-41.9022|Caparaó
 -9.3934|-36.1239|Capela
 -29.7124|-51.3808|Capela de Santana
@@ -964,9 +1030,9 @@
 -6.8915|-35.1830|Capim
 -19.5783|-44.1666|Capim Branco
 -11.3811|-40.0128|Capim Grosso
+-18.6922|-49.5794|Capinópolis
 -27.3436|-51.6119|Capinzal
 -4.7477|-44.2517|Capinzal do Norte
--18.6922|-49.5794|Capinópolis
 -4.4623|-38.9207|Capistrano
 -29.2802|-51.9832|Capitão
 -19.0429|-41.8261|Capitão Andrade
@@ -982,15 +1048,12 @@
 -10.4878|-67.8483|Capixaba
 -8.7347|-36.6267|Capoeiras
 -20.1851|-42.2528|Caputira
--28.0683|-50.6292|Capão Alto
--24.0058|-48.3494|Capão Bonito
--28.1743|-51.4230|Capão Bonito do Sul
--29.6612|-50.0142|Capão da Canoa
--28.9499|-54.6037|Capão do Cipó
--31.8432|-52.5532|Capão do Leão
+-29.7740|-50.3537|Caraá
 1.8158|-61.1278|Caracaraí
 -21.9671|-57.1267|Caracol
 -23.6203|-45.4131|Caraguatatuba
+-17.1809|-41.5496|Caraí
+-14.6063|-41.2576|Caraíbas
 -24.9526|-50.1159|Carambeí
 -20.8853|-43.7123|Caranaíba
 -20.9884|-43.8341|Carandaí
@@ -999,13 +1062,10 @@
 -23.5534|-46.8485|Carapicuíba
 -19.6888|-41.8878|Caratinga
 -4.8828|-66.8958|Carauari
--17.6584|-39.3599|Caravelas
--28.2839|-52.7864|Carazinho
--29.7740|-50.3537|Caraá
--17.1809|-41.5496|Caraí
--14.6063|-41.2576|Caraíbas
 -7.7909|-36.5028|Caraúbas
 -3.5370|-41.8459|Caraúbas do Piauí
+-17.6584|-39.3599|Caravelas
+-28.2839|-52.7864|Carazinho
 -17.4788|-43.0489|Carbonita
 -11.9980|-37.9247|Cardeal da Silva
 -20.0819|-49.9142|Cardoso
@@ -1019,15 +1079,16 @@
 -7.7014|-40.8960|Caridade do Piauí
 -14.3047|-43.7650|Carinhanha
 -10.3656|-37.7499|Carira
--11.9450|-49.2080|Cariri do Tocantins
--7.0417|-39.2542|Caririaçu
 -3.9359|-40.5468|Cariré
+-7.0417|-39.2542|Caririaçu
+-11.9450|-49.2080|Cariri do Tocantins
 -6.6562|-39.4750|Cariús
 -10.0379|-55.8509|Carlinda
+-23.4497|-49.7014|Carlópolis
 -29.2975|-51.5036|Carlos Barbosa
 -17.6782|-40.8852|Carlos Chagas
 -27.7118|-51.9064|Carlos Gomes
--23.4497|-49.7014|Carlópolis
+-19.0653|-43.1840|Carmésia
 -21.8997|-42.5376|Carmo
 -21.4332|-45.1804|Carmo da Cachoeira
 -20.5685|-44.8852|Carmo da Mata
@@ -1037,30 +1098,31 @@
 -20.9797|-46.1044|Carmo do Rio Claro
 -15.3536|-49.7075|Carmo do Rio Verde
 -7.0300|-48.3563|Carmolândia
--19.0653|-43.1840|Carmésia
 -10.6671|-36.9575|Carmópolis
 -20.5491|-44.6453|Carmópolis de Minas
+-8.7000|-37.6667|Carnaíba
+-6.5616|-36.5290|Carnaúba dos Dantas
 -5.2646|-36.7946|Carnaubais
 -4.1210|-41.0137|Carnaubal
 -8.4265|-38.7652|Carnaubeira da Penha
--8.7000|-37.6667|Carnaíba
--6.5616|-36.5290|Carnaúba dos Dantas
 -19.7142|-50.8087|Carneirinho
 -9.4647|-37.3556|Carneiros
 0.8839|-59.6958|Caroebe
 -7.3356|-47.4622|Carolina
 -7.8508|-35.2547|Carpina
 -21.4959|-44.6104|Carrancas
+-23.5511|-46.5383|Carrao
 -7.0292|-38.3295|Carrapateira
 -5.3103|-48.0336|Carrasco Bonito
 -8.1792|-36.0279|Caruaru
 -1.1803|-45.9597|Carutapera
--22.0310|-44.4754|Carvalhos
 -21.7749|-45.8269|Carvalhópolis
+-22.0310|-44.4754|Carvalhos
 -27.5990|-48.5262|Carvoeira
 -21.8140|-47.0826|Casa Branca
 -20.8407|-43.9395|Casa Grande
 -9.1044|-41.1574|Casa Nova
+-23.5010|-46.6574|Casa Verde
 -28.5759|-51.9198|Casca
 -18.5462|-47.8513|Cascalho Rico
 -4.2700|-38.2738|Cascavel
@@ -1069,13 +1131,15 @@
 -22.4806|-42.2042|Casimiro de Abreu
 -7.7581|-35.6992|Casinhas
 -6.7813|-35.8168|Casserengue
+-20.5929|-46.9176|Cássia
+-21.2592|-47.1378|Cássia dos Coqueiros
 -19.1133|-51.7342|Cassilândia
 -1.2723|-47.8563|Castanhal
 -10.8793|-58.6510|Castanheira
 -11.4266|-61.8892|Castanheiras
+-18.1558|-50.3400|Castelândia
 -20.6036|-41.1847|Castelo
 -5.2158|-41.5573|Castelo do Piauí
--18.1558|-50.3400|Castelândia
 -20.8722|-51.4875|Castilho
 -24.8304|-49.8554|Castro
 -12.7494|-39.3769|Castro Alves
@@ -1087,18 +1151,19 @@
 -20.0705|-43.4220|Catas Altas
 -20.6809|-43.4978|Catas Altas da Noruega
 -8.6667|-35.7167|Catende
+-22.9254|-43.1814|Catete
 -21.0654|-49.0498|Catiguá
 -7.1370|-37.5965|Catingueira
 -12.2961|-44.6753|Catolândia
 -6.3439|-37.7467|Catolé do Rocha
 -12.3531|-38.3789|Catu
+-28.1981|-54.0587|Catuípe
 -17.3633|-41.4818|Catuji
 -4.6047|-40.1863|Catunda
--13.1860|-42.3025|Caturama
 -16.4698|-49.5956|Caturaí
+-13.1860|-42.3025|Caturama
 -7.4199|-36.0419|Caturité
 -15.3236|-43.1139|Catuti
--28.1981|-54.0587|Catuípe
 -3.7361|-38.6531|Caucaia
 -13.7975|-47.4583|Cavalcante
 -21.9772|-44.9325|Caxambu
@@ -1106,16 +1171,12 @@
 -4.8589|-43.3561|Caxias
 -29.1681|-51.1794|Caxias do Sul
 -3.4086|-41.8877|Caxingó
--26.7753|-51.0150|Caçador
--23.1008|-45.7069|Caçapava
--30.6100|-53.4723|Caçapava do Sul
--18.5567|-51.1308|Caçu
--11.1418|-40.2914|Caém
 -5.6344|-35.4256|Ceará Mirim
 -1.9609|-44.5742|Cedral
 -6.5910|-39.1204|Cedro
 -10.2805|-36.8883|Cedro de São João
 -19.1147|-45.7007|Cedro do Abaeté
+-15.8091|-48.1310|Ceilândia
 -27.6344|-51.3364|Celso Ramos
 -27.7865|-52.0091|Centenário
 -22.8211|-51.5953|Centenário do Sul
@@ -1138,7 +1199,11 @@
 -28.1349|-54.7367|Cerro Largo
 -27.7727|-50.9404|Cerro Negro
 -23.2120|-47.8847|Cesário Lange
+-25.2983|-53.7485|Céu Azul
 -17.1182|-49.7300|Cezarina
+-21.6792|-43.2184|Chácara
+-7.9901|-35.1897|Chã de Alegria
+-8.2383|-35.4617|Chã Grande
 -20.0335|-41.6781|Chalé
 -28.1043|-53.0886|Chapada
 -11.5416|-47.8809|Chapada da Natividade
@@ -1146,11 +1211,12 @@
 -17.1629|-42.3772|Chapada do Norte
 -15.0201|-55.5374|Chapada dos Guimarães
 -15.5793|-45.4124|Chapada Gaúcha
--3.7417|-43.3603|Chapadinha
 -18.3704|-52.5656|Chapadão do Céu
 -27.5849|-49.5564|Chapadão do Lageado
 -19.0670|-52.7406|Chapadão do Sul
+-3.7417|-43.3603|Chapadinha
 -27.0964|-52.6183|Chapecó
+-9.2292|-36.3305|Chã Preta
 -22.5372|-47.7377|Charqueada
 -29.9547|-51.6253|Charqueadas
 -27.9454|-51.9905|Charrua
@@ -1160,36 +1226,37 @@
 -21.9725|-43.0074|Chiador
 -27.9763|-53.9205|Chiapetta
 -25.8143|-52.4568|Chopinzinho
+-4.7728|-39.1778|Choró
 -4.2918|-38.4890|Chorozinho
 -9.3055|-39.1565|Chorrochó
--4.7728|-39.1778|Choró
+-33.6911|-53.4567|Chuí
 -12.6724|-60.9262|Chupinguaia
 -30.7765|-52.0022|Chuvisca
--33.6911|-53.4567|Chuí
--21.6792|-43.2184|Chácara
--7.9901|-35.1897|Chã de Alegria
--8.2383|-35.4617|Chã Grande
--9.2292|-36.3305|Chã Preta
 -23.6633|-52.6050|Cianorte
+-10.6000|-38.3833|Cícero Dantas
+-23.6738|-46.6568|Cidade Ademar
+-23.7258|-46.7024|Cidade Dutra
 -23.3653|-52.9747|Cidade Gaúcha
+-23.5620|-46.4913|Cidade Lider
 -16.1618|-47.8000|Cidade Ocidental
+-23.5848|-46.4008|Cidade Tiradentes
 -5.0523|-47.8686|Cidelândia
 -30.0910|-50.2694|Cidreira
--20.9303|-43.3655|Cipotânea
 -11.0997|-38.5136|Cipó
+-20.9303|-43.3655|Cipotânea
 -28.3707|-51.9124|Ciríaco
 -20.3568|-47.2524|Claraval
 -17.0968|-44.2330|Claro dos Poções
--21.5763|-50.4620|Clementina
--26.3958|-52.4708|Clevelândia
 -11.4509|-54.9983|Cláudia
 -20.3901|-44.7914|Cláudio
+-21.5763|-50.4620|Clementina
+-26.3958|-52.4708|Clevelândia
 -14.6408|-39.5511|Coaraci
 -4.0850|-63.1414|Coari
 -3.4375|-41.5459|Cocal
 -4.6486|-41.9957|Cocal de Telha
--28.5999|-49.3258|Cocal do Sul
 -3.5738|-41.4518|Cocal dos Alves
+-28.5999|-49.3258|Cocal do Sul
 -13.8027|-51.1534|Cocalinho
 -15.6590|-48.5759|Cocalzinho de Goiás
 -14.5944|-45.2796|Cocos
@@ -1201,21 +1268,21 @@
 -5.1166|-42.2658|Coivaras
 -0.9089|-48.2534|Colares
 -19.5394|-40.6306|Colatina
+-10.5633|-55.4457|Colíder
 -20.7523|-48.5816|Colina
 -6.0258|-44.2492|Colinas
 -14.0122|-48.0512|Colinas do Sul
 -8.0945|-48.5214|Colinas do Tocantins
 -8.8765|-48.7579|Colméia
 -9.2919|-60.3046|Colniza
--25.3013|-49.1696|Colombo
--22.8375|-51.9731|Colorado
--13.0825|-60.4942|Colorado do Oeste
--18.2684|-42.8281|Coluna
--10.5633|-55.4457|Colíder
 -20.2930|-48.7233|Colômbia
+-25.3013|-49.1696|Colombo
 -8.1447|-43.7746|Colônia do Gurguéia
 -7.2264|-42.2126|Colônia do Piauí
 -8.9418|-35.7600|Colônia Leopoldina
+-22.8375|-51.9731|Colorado
+-13.0825|-60.4942|Colorado do Oeste
+-18.2684|-42.8281|Coluna
 -12.8232|-46.5342|Combinado
 -19.6533|-49.0874|Comendador Gomes
 -22.0365|-43.2531|Comendador Levy Gasparian
@@ -1240,8 +1307,8 @@
 -18.9001|-43.5023|Conceição do Mato Dentro
 -19.7855|-44.8702|Conceição do Pará
 -21.9013|-45.0797|Conceição do Rio Verde
--12.0988|-47.2705|Conceição do Tocantins
 -22.4504|-45.7798|Conceição dos Ouros
+-12.0988|-47.2705|Conceição do Tocantins
 -22.3461|-47.1362|Conchal
 -23.0153|-48.0106|Conchas
 -27.2294|-52.0011|Concórdia
@@ -1250,6 +1317,7 @@
 -11.8136|-37.6106|Conde
 -14.9328|-42.0069|Condeúba
 -28.1926|-53.4926|Condor
+-14.9876|-44.6097|Cônego Marinho
 -19.6569|-43.9813|Confins
 -10.3096|-51.7365|Confresa
 -7.7958|-36.6349|Congo
@@ -1267,19 +1335,21 @@
 -19.9317|-44.0536|Contagem
 -25.7141|-49.5080|Contenda
 -13.7960|-41.0500|Contendas do Sincorá
+-22.9690|-43.1856|Copacabana
 -21.1795|-45.4362|Coqueiral
 -29.1748|-52.1021|Coqueiro Baixo
--9.6466|-35.8094|Coqueiro Seco
 -28.1368|-52.7614|Coqueiros do Sul
+-9.6466|-35.8094|Coqueiro Seco
 -16.6862|-44.3628|Coração de Jesus
 -12.2333|-38.7500|Coração de Maria
 -24.7989|-53.3067|Corbélia
 -22.0286|-42.3608|Cordeiro
--14.9985|-41.8975|Cordeiros
 -22.4819|-47.4567|Cordeirópolis
+-14.9985|-41.8975|Cordeiros
 -26.9755|-52.6330|Cordilheira Alta
 -19.0993|-44.1646|Cordisburgo
 -21.7875|-45.6716|Cordislândia
+-22.8253|-43.3040|Cordovil
 -3.6883|-40.7272|Coreaú
 -7.0144|-37.9458|Coremas
 -19.8186|-55.0020|Corguinho
@@ -1296,9 +1366,9 @@
 -6.3199|-36.2300|Coronel Ezequiel
 -19.5186|-42.6289|Coronel Fabriciano
 -26.8943|-52.7633|Coronel Freitas
--9.0722|-42.2724|Coronel José Dias
 -6.2622|-38.4173|Coronel João Pessoa
 -10.3888|-37.9428|Coronel João Sá
+-9.0722|-42.2724|Coronel José Dias
 -23.6209|-49.3030|Coronel Macedo
 -26.5477|-52.6739|Coronel Martins
 -16.5892|-42.1974|Coronel Murta
@@ -1307,22 +1377,27 @@
 -23.3376|-55.3890|Coronel Sapucaia
 -25.9797|-52.5678|Coronel Vivida
 -21.0287|-44.2022|Coronel Xavier Chaves
+-19.8135|-45.9615|Córrego Danta
+-22.6300|-45.9968|Córrego do Bom Jesus
+-16.3957|-50.5732|Córrego do Ouro
+-20.4503|-45.5359|Córrego Fundo
 -27.6014|-48.5059|Corrego Grande
+-19.8287|-42.4421|Córrego Novo
 -27.5847|-50.3611|Correia Pinto
 -10.4722|-45.0469|Corrente
 -9.1338|-36.3203|Correntes
 -13.3433|-44.6367|Correntina
 -8.4425|-35.5338|Cortês
--22.2170|-47.5996|Corumbataí
--24.1201|-52.1462|Corumbataí do Sul
--18.1666|-48.5320|Corumbaíba
--12.8759|-61.1199|Corumbiara
 -19.0092|-57.6533|Corumbá
 -15.9219|-48.6298|Corumbá de Goiás
+-18.1666|-48.5320|Corumbaíba
+-22.2170|-47.5996|Corumbataí
+-24.1201|-52.1462|Corumbataí do Sul
+-12.8759|-61.1199|Corumbiara
 -26.4253|-49.2431|Corupá
 -10.1256|-36.1756|Coruripe
--20.4093|-49.7490|Cosmorama
 -22.6458|-47.1961|Cosmópolis
+-20.4093|-49.7490|Cosmorama
 -12.0617|-64.0732|Costa Marques
 -18.6374|-53.2736|Costa Rica
 -27.6359|-48.5212|Costeira do Pirajubae
@@ -1335,55 +1410,55 @@
 -28.1033|-52.3658|Coxilha
 -18.5067|-54.7600|Coxim
 -7.6675|-36.6182|Coxixola
+-9.6012|-36.8027|Craíbas
 -5.2508|-40.7433|Crateús
 -7.1471|-39.4713|Crato
 -21.3403|-47.7294|Cravinhos
 -13.4702|-39.7549|Cravolândia
--9.6012|-36.8027|Craíbas
 -28.6775|-49.3697|Criciúma
+-17.2415|-40.9750|Crisólita
+-11.4553|-38.1393|Crisópolis
 -27.4809|-54.1417|Crissiumal
 -20.8096|-45.5245|Cristais
 -20.3654|-47.3730|Cristais Paulista
 -31.0245|-52.0293|Cristal
--27.4251|-53.2436|Cristal do Sul
--16.7677|-47.6153|Cristalina
 -10.6257|-49.3686|Cristalândia
 -10.8201|-45.1105|Cristalândia do Piauí
+-27.4251|-53.2436|Cristal do Sul
+-16.7255|-42.8187|Cristália
+-16.7677|-47.6153|Cristalina
 -20.8369|-43.8293|Cristiano Otoni
 -17.1967|-48.6811|Cristianópolis
 -22.2159|-45.2882|Cristina
--8.6904|-44.0481|Cristino Castro
 -11.4756|-37.7553|Cristinápolis
--16.7255|-42.8187|Cristália
+-8.6904|-44.0481|Cristino Castro
 -12.2179|-44.2499|Cristópolis
--17.2415|-40.9750|Crisólita
--11.4553|-38.1393|Crisópolis
 -14.5489|-49.9692|Crixás
 -11.1643|-49.0725|Crixás do Tocantins
 -4.3909|-40.8680|Croatá
 -17.2476|-49.3298|Cromínia
 -20.4066|-44.3599|Crucilândia
 -2.8962|-40.3357|Cruz
+-22.7371|-50.7579|Cruzália
 -28.6440|-53.6063|Cruz Alta
+-27.6410|-52.6326|Cruzaltense
 -12.6700|-39.1019|Cruz das Almas
 -7.1400|-35.0864|Cruz do Espírito Santo
--25.9109|-51.2256|Cruz Machado
--27.6410|-52.6326|Cruzaltense
 -22.5732|-44.9711|Cruzeiro
 -18.9671|-46.6578|Cruzeiro da Fortaleza
 -25.6030|-53.1274|Cruzeiro do Iguaçu
 -23.7850|-53.0733|Cruzeiro do Oeste
 -7.6276|-72.6776|Cruzeiro do Sul
 -6.3202|-36.8473|Cruzeta
--24.0236|-51.4848|Cruzmaltina
--22.7371|-50.7579|Cruzália
 -21.7360|-44.7983|Cruzília
--6.8612|-36.3342|Cubati
+-25.9109|-51.2256|Cruz Machado
+-24.0236|-51.4848|Cruzmaltina
 -23.8950|-46.4253|Cubatão
+-6.8612|-36.3342|Cubati
 -15.4192|-55.8902|Cuiabá
--6.9064|-35.5342|Cuitegi
 -6.4836|-36.1536|Cuité
 -6.8979|-35.2604|Cuité de Mamanguape
+-6.9064|-35.5342|Cuitegi
 -8.9782|-62.4425|Cujubim
 -18.3160|-48.1638|Cumari
 -8.0061|-35.6972|Cumaru
@@ -1404,38 +1479,23 @@
 -6.2140|-36.4840|Currais Novos
 -6.7236|-35.2860|Curral de Cima
 -15.8463|-41.7540|Curral de Dentro
--7.8898|-40.7643|Curral Novo do Piauí
--7.5580|-38.1985|Curral Velho
 -1.5824|-49.9870|Curralinho
 -5.5849|-42.8608|Curralinhos
--1.8283|-44.8683|Cururupu
+-7.8898|-40.7643|Curral Novo do Piauí
+-7.5580|-38.1985|Curral Velho
+-23.6314|-46.6207|Cursino
 -1.7382|-55.1149|Curuá
 -0.6979|-47.8676|Curuçá
--18.7853|-44.4160|Curvelo
+-1.8283|-44.8683|Cururupu
 -15.6372|-57.8455|Curvelândia
+-18.7853|-44.4160|Curvelo
 -8.1288|-37.6621|Custódia
 0.9971|-50.5204|Cutias
--16.4226|-57.7108|Cáceres
--20.5929|-46.9176|Cássia
--21.2592|-47.1378|Cássia dos Coqueiros
--24.5669|-51.3333|Cândido de Abreu
--27.8951|-54.7413|Cândido Godói
--1.4467|-45.7167|Cândido Mendes
--22.7464|-50.3869|Cândido Mota
--21.3419|-48.6329|Cândido Rodrigues
--15.4608|-41.1635|Cândido Sales
--25.2983|-53.7485|Céu Azul
--10.6000|-38.3833|Cícero Dantas
--19.8135|-45.9615|Córrego Danta
--22.6300|-45.9968|Córrego do Bom Jesus
--16.3957|-50.5732|Córrego do Ouro
--20.4503|-45.5359|Córrego Fundo
--19.8287|-42.4421|Córrego Novo
--14.9876|-44.6097|Cônego Marinho
 -14.5495|-46.1937|Damianópolis
 -6.6784|-35.9220|Damião
 -16.2511|-49.3451|Damolândia
 -6.7607|-47.7569|Darcinópolis
+-14.4234|-39.9594|Dário Meira
 -18.4807|-43.6522|Datas
 -28.4178|-51.8168|David Canabarro
 -18.1360|-47.5775|Davinópolis
@@ -1472,12 +1532,12 @@
 -20.4559|-50.6280|Dirce Reis
 -9.3323|-42.4342|Dirceu Arcoverde
 -10.6793|-37.1682|Divina Pastora
+-20.9947|-42.9951|Divinésia
 -20.5900|-42.1755|Divino
 -18.7778|-41.4797|Divino das Laranjeiras
 -20.5975|-41.7219|Divino de São Lourenço
 -21.6646|-46.7045|Divinolândia
 -18.7756|-42.5707|Divinolândia de Minas
--20.9947|-42.9951|Divinésia
 -20.1436|-44.8907|Divinópolis
 -13.2238|-46.5270|Divinópolis de Goiás
 -9.6573|-49.3874|Divinópolis do Tocantins
@@ -1501,6 +1561,8 @@
 -4.0827|-47.8905|Dom Eliseu
 -6.9581|-41.7163|Dom Expedito Lopes
 -30.6139|-52.1932|Dom Feliciano
+-20.3633|-40.6592|Domingos Martins
+-4.1914|-41.3483|Domingos Mourão
 -8.8848|-41.7200|Dom Inocêncio
 -18.9293|-43.2660|Dom Joaquim
 -12.9338|-39.1462|Dom Macedo Costa
@@ -1509,8 +1571,6 @@
 -29.3568|-49.8729|Dom Pedro de Alcântara
 -20.1273|-42.9465|Dom Silvério
 -22.2319|-45.1488|Dom Viçoso
--20.3633|-40.6592|Domingos Martins
--4.1914|-41.3483|Domingos Mourão
 -26.9769|-49.8108|Dona Emma
 -21.3234|-42.8083|Dona Eusébia
 -29.5868|-53.3396|Dona Francisca
@@ -1542,7 +1602,6 @@
 -4.1114|-43.0318|Duque Bacelar
 -22.7856|-43.3117|Duque de Caxias
 -20.1518|-41.7824|Durandé
--14.4234|-39.9594|Dário Meira
 -22.4108|-50.1826|Echaporã
 -18.3733|-40.8306|Ecoporanga
 -17.4399|-49.7332|Edealina
@@ -1550,6 +1609,7 @@
 -6.6603|-69.8736|Eirunepé
 -23.7869|-54.2836|Eldorado
 -6.1059|-49.3033|Eldorado do Carajás
+-6.1042|-49.3553|Eldorado dos Carajás
 -30.0890|-51.5340|Eldorado do Sul
 -6.1936|-42.1661|Elesbão Veloso
 -23.0588|-47.3878|Elias Fausto
@@ -1567,6 +1627,7 @@
 -6.1164|-38.3113|Encanto
 -15.5684|-40.9079|Encruzilhada
 -30.6037|-52.6828|Encruzilhada do Sul
+-25.8645|-53.1590|Enéas Marques
 -23.7972|-52.2692|Engenheiro Beltrão
 -19.1135|-42.0179|Engenheiro Caldas
 -22.4890|-47.1726|Engenheiro Coelho
@@ -1574,61 +1635,63 @@
 -22.5481|-43.6727|Engenheiro Paulo de Frontin
 -27.6770|-52.9104|Engenho Velho
 -19.6596|-42.2410|Entre Folhas
+-28.4607|-54.3032|Entre-Ijuís
 -11.9419|-38.0844|Entre Rios
 -20.7028|-44.1069|Entre Rios de Minas
 -24.7041|-54.2156|Entre Rios do Oeste
 -27.5082|-52.7285|Entre Rios do Sul
--28.4607|-54.3032|Entre-Ijuís
 -7.3000|-70.2167|Envira
--25.8645|-53.1590|Enéas Marques
 -10.9354|-68.4441|Epitaciolândia
 -6.8858|-36.6617|Equador
 -27.8256|-52.3191|Erebango
 -27.6346|-52.2754|Erechim
 -5.9973|-38.3118|Ererê
+-13.4369|-42.1033|Érico Cardoso
+-23.4947|-46.4739|Ermelino Matarazzo
 -28.9744|-49.6494|Ermo
 -28.4232|-52.5737|Ernestina
 -27.3614|-52.5749|Erval Grande
+-20.8468|-42.6197|Ervália
 -27.4943|-53.5279|Erval Seco
 -27.2903|-51.3865|Erval Velho
--20.8468|-42.6197|Ervália
 -8.3592|-35.2236|Escada
 -27.9835|-51.1941|Esmeralda
 -19.7625|-44.3139|Esmeraldas
 -20.5935|-41.9198|Espera Feliz
--3.8490|-42.1710|Esperantina
--4.8667|-44.7083|Esperantinópolis
 -6.9986|-35.9078|Esperança
 -27.3210|-54.0111|Esperança do Sul
 -23.7101|-53.7936|Esperança Nova
+-3.8490|-42.1710|Esperantina
+-4.8667|-44.7083|Esperantinópolis
 -25.3501|-52.7792|Espigão Alto do Iguaçu
 -11.4662|-60.6992|Espigão d'Oeste
 -14.8598|-42.9918|Espinosa
--11.7961|-37.9450|Esplanada
--28.7247|-52.8497|Espumoso
 -6.2839|-35.3258|Espírito Santo
 -22.0060|-45.9900|Espírito Santo do Dourado
 -22.1890|-46.7842|Espírito Santo do Pinhal
 -22.6681|-49.4218|Espírito Santo do Turvo
+-11.7961|-37.9450|Esplanada
+-28.7247|-52.8497|Espumoso
 -27.9356|-52.2952|Estação
+-22.9182|-43.2040|Estácio
+-11.2383|-37.4205|Estância
+-29.6483|-51.1739|Estância Velha
 -29.8614|-51.1792|Esteio
 -22.4528|-46.0224|Estiva
 -22.2205|-46.9388|Estiva Gerbi
 -5.7833|-43.2500|Estreito
 -28.0611|-50.9383|Estrela
--20.2777|-50.4081|Estrela d'Oeste
 -21.6933|-42.4683|Estrela Dalva
 -9.3986|-36.7622|Estrela de Alagoas
+-20.2777|-50.4081|Estrela d'Oeste
 -19.5808|-45.8119|Estrela do Indaiá
 -13.7826|-49.1003|Estrela do Norte
 -18.7223|-47.6973|Estrela do Sul
 -29.2236|-53.1708|Estrela Velha
--11.2383|-37.4205|Estância
--29.6483|-51.1739|Estância Velha
 -10.5075|-39.0158|Euclides da Cunha
 -22.5171|-52.5910|Euclides da Cunha Paulista
--20.9990|-42.2462|Eugenópolis
 -28.5718|-54.2658|Eugênio de Castro
+-20.9990|-42.2462|Eugenópolis
 -16.3775|-39.5803|Eunápolis
 -3.8695|-38.4554|Eusébio
 -21.5723|-43.5534|Ewbank da Câmara
@@ -1646,9 +1709,11 @@
 -29.2250|-51.3478|Farroupilha
 -23.3883|-49.5100|Fartura
 -9.5203|-42.7893|Fartura do Piauí
+-10.5460|-38.2237|Fátima
+-22.3442|-54.3706|Fátima do Sul
 -24.0003|-51.3194|Faxinal
--29.5720|-53.4733|Faxinal do Soturno
 -26.8315|-52.2621|Faxinal dos Guedes
+-29.5720|-53.4733|Faxinal do Soturno
 -27.3718|-52.6690|Faxinalzinho
 -16.1287|-50.9260|Fazenda Nova
 -25.6647|-49.3043|Fazenda Rio Grande
@@ -1659,21 +1724,22 @@
 -9.9247|-36.6695|Feira Grande
 -7.9347|-35.3925|Feira Nova
 -6.9956|-46.6500|Feira Nova do Maranhão
+-18.1551|-43.2405|Felício dos Santos
 -5.5392|-37.6427|Felipe Guerra
 -16.6615|-40.7181|Felisburgo
 -18.6941|-44.9194|Felixlândia
 -29.4546|-51.2777|Feliz
 -10.2908|-36.3537|Feliz Deserto
 -11.9360|-54.2392|Feliz Natal
--18.1551|-43.2405|Felício dos Santos
+-23.9055|-52.0400|Fênix
 -25.4440|-50.5181|Fernandes Pinheiro
 -19.1030|-42.0946|Fernandes Tourinho
 -3.8507|-32.4200|Fernando de Noronha
 -3.8403|-32.4108|Fernando de Noronha (Distrito Estadual)
 -6.3529|-45.3281|Fernando Falcão
 -5.7202|-36.3974|Fernando Pedroza
--21.3094|-48.6958|Fernando Prestes
 -20.2839|-50.2464|Fernandópolis
+-21.3094|-48.6958|Fernando Prestes
 -22.3738|-49.5543|Fernão
 -23.5615|-46.3749|Ferraz de Vasconcelos
 0.9101|-51.3544|Ferreira Gomes
@@ -1688,10 +1754,11 @@
 -14.9136|-39.9119|Firmino Alves
 -16.5819|-50.3050|Firminópolis
 -9.2006|-35.7800|Flexeiras
+-23.3283|-52.3242|Floraí
+-6.1529|-36.8006|Florânia
+-21.7010|-51.3779|Flora Rica
 -26.2308|-53.3037|Flor da Serra do Sul
 -26.7564|-53.3368|Flor do Sertão
--21.7010|-51.3779|Flora Rica
--23.3283|-52.3242|Floraí
 -20.6539|-50.1584|Floreal
 -7.8681|-37.9747|Flores
 -29.0289|-51.1817|Flores da Cunha
@@ -1706,10 +1773,9 @@
 -6.7669|-43.0225|Floriano
 -27.8524|-52.0336|Floriano Peixoto
 -27.5967|-48.5492|Florianópolis
--6.1529|-36.8006|Florânia
--22.8722|-50.6898|Florínea
 -23.1126|-51.9786|Flórida
 -21.5419|-51.1807|Flórida Paulista
+-22.8722|-50.6898|Florínea
 -2.5139|-66.0917|Fonte Boa
 -29.0105|-52.3677|Fontoura Xavier
 -20.4644|-45.4264|Formiga
@@ -1726,9 +1792,9 @@
 -28.7475|-49.4722|Forquilhinha
 -3.7172|-38.5431|Fortaleza
 -20.8817|-46.7744|Fortaleza de Minas
--9.0881|-48.5564|Fortaleza do Tabocão
 -6.8672|-46.0210|Fortaleza dos Nogueiras
 -28.9127|-53.3389|Fortaleza dos Valos
+-9.0881|-48.5564|Fortaleza do Tabocão
 -4.4471|-37.8529|Fortim
 -5.7333|-44.1583|Fortuna
 -19.5484|-44.5023|Fortuna de Minas
@@ -1745,12 +1811,14 @@
 -17.3977|-44.2178|Francisco Dumont
 -7.3585|-40.7706|Francisco Macedo
 -23.2692|-46.7089|Francisco Morato
--7.1029|-41.1450|Francisco Santos
--16.4758|-43.4883|Francisco Sá
 -18.0098|-41.9844|Franciscópolis
+-16.4758|-43.4883|Francisco Sá
+-7.1029|-41.1450|Francisco Santos
 -23.3028|-46.7309|Franco da Rocha
 -3.7282|-40.8203|Frecheirinha
 -27.3592|-53.3944|Frederico Westphalen
+-22.7895|-43.1721|Freguesia
+-23.4988|-46.6998|Freguesia do Ó
 -27.7177|-48.5627|Freguesia do Ribeirao da Ilha
 -18.1401|-41.4929|Frei Gaspar
 -18.5140|-41.8710|Frei Inocêncio
@@ -1767,35 +1835,34 @@
 -6.1626|-37.8443|Frutuoso Gomes
 -19.9899|-40.3158|Fundão
 -19.3519|-44.0821|Funilândia
--10.5460|-38.2237|Fátima
--22.3442|-54.3706|Fátima do Sul
--23.9055|-52.0400|Fênix
 -21.4999|-50.5700|Gabriel Monteiro
 -7.5998|-35.8197|Gado Bravo
+-22.3432|-49.5787|Gália
 -18.8690|-41.5250|Galiléia
 -5.1217|-36.2631|Galinhos
 -26.4588|-52.6853|Galvão
+-16.0251|-48.0712|Gama
 -8.5844|-35.3867|Gameleira
 -16.4313|-48.6746|Gameleira de Goiás
 -14.9710|-43.3061|Gameleiras
 -13.7439|-39.4867|Gandu
 -8.8820|-36.5022|Garanhuns
 -9.9675|-37.0833|Gararu
+-22.2106|-49.6561|Garça
 -29.2561|-51.5336|Garibaldi
 -28.0274|-48.6145|Garopaba
 -2.2152|-47.1172|Garrafão do Norte
 -28.2560|-55.5156|Garruchos
 -26.0605|-48.8708|Garuva
--22.2106|-49.6561|Garça
 -26.9314|-48.9589|Gaspar
 -20.8063|-50.1924|Gastão Vidigal
+-12.9937|-53.5226|Gaúcha do Norte
 -27.6169|-52.1041|Gaurama
 -11.4889|-39.7741|Gavião
 -21.8088|-48.4690|Gavião Peixoto
--12.9937|-53.5226|Gaúcha do Norte
 -7.1659|-41.3880|Geminiano
--15.5154|-53.2979|General Carneiro
 -29.8392|-51.9472|General Câmara
+-15.5154|-53.2979|General Carneiro
 -10.6941|-36.9830|General Maynard
 -20.6483|-50.3606|General Salgado
 -4.0502|-39.4445|General Sampaio
@@ -1808,33 +1875,33 @@
 -28.0105|-54.3046|Giruá
 -16.8953|-43.6608|Glaucilândia
 -21.3187|-50.1778|Glicério
--29.8569|-50.7509|Glorinha
 -9.1110|-38.4066|Glória
--15.9131|-58.3045|Glória d'Oeste
 -22.4839|-54.0901|Glória de Dourados
+-15.9131|-58.3045|Glória d'Oeste
 -8.0387|-35.3401|Glória do Goitá
+-29.8569|-50.7509|Glorinha
 -1.2760|-45.7655|Godofredo Viana
 -24.1481|-51.9156|Godoy Moreira
 -19.0296|-41.2272|Goiabeira
+-21.5606|-43.1851|Goianá
 -7.5606|-35.0025|Goiana
+-16.5304|-49.0877|Goianápolis
 -18.1098|-48.1493|Goiandira
+-15.3175|-49.1175|Goianésia
+-3.9492|-48.8736|Goianésia do Pará
+-16.6786|-49.2539|Goiânia
 -6.2698|-35.1827|Goianinha
 -16.4961|-49.4264|Goianira
 -8.8366|-48.9936|Goianorte
--21.5606|-43.1851|Goianá
--16.5304|-49.0877|Goianápolis
--15.3175|-49.1175|Goianésia
--3.9492|-48.8736|Goianésia do Pará
+-15.9344|-50.1403|Goiás
 -8.0443|-47.4718|Goiatins
 -18.0125|-49.3547|Goiatuba
 -24.1887|-53.0992|Goioerê
 -25.0953|-52.0081|Goioxim
--15.9344|-50.1403|Goiás
--16.6786|-49.2539|Goiânia
--14.3000|-39.6014|Gongogi
--18.8787|-42.4951|Gonzaga
 -22.6748|-45.8378|Gonçalves
 -5.1567|-44.2866|Gonçalves Dias
+-14.3000|-39.6014|Gongogi
+-18.8787|-42.4951|Gonzaga
 -18.5358|-43.8536|Gouveia
 -18.5078|-50.1755|Gouvelândia
 -4.9840|-44.2051|Governador Archer
@@ -1849,6 +1916,8 @@
 -3.3680|-45.6571|Governador Newton Bello
 -2.0099|-45.8428|Governador Nunes Freire
 -18.8511|-41.9494|Governador Valadares
+-4.0662|-40.7950|Graça
+-5.4449|-44.2517|Graça Aranha
 -10.2350|-37.2039|Gracho Cardoso
 -5.8194|-46.1386|Grajaú
 -29.3625|-50.9032|Gramado
@@ -1858,23 +1927,25 @@
 -7.7438|-39.6402|Granito
 -3.1203|-40.8261|Granja
 -6.9174|-39.2794|Granjeiro
--28.3153|-49.0435|Gravatal
--29.9422|-50.9928|Gravataí
+-16.4901|-42.9654|Grão Mogol
+-28.1358|-49.3161|Grão Pará
 -8.2011|-35.5647|Gravatá
--4.0662|-40.7950|Graça
--5.4449|-44.2517|Graça Aranha
+-29.9422|-50.9928|Gravataí
+-28.3153|-49.0435|Gravatal
 -3.9211|-40.3770|Groaíras
 -4.9524|-37.2002|Grossos
 -18.4796|-47.7714|Grupiara
--16.4901|-42.9654|Grão Mogol
--28.1358|-49.3161|Grão Pará
 -28.5882|-51.6476|Guabiju
 -8.4167|-35.6667|Guabiraba
 -27.1119|-49.0222|Guabiruba
+-20.7680|-41.7112|Guaçuí
 -6.8230|-43.7776|Guadalupe
--21.8620|-49.8496|Guaimbê
--22.9055|-52.7488|Guairaçá
+-23.5433|-46.4108|Guaianases
+-30.1139|-51.3250|Guaíba
 -21.5541|-49.7626|Guaiçara
+-21.8620|-49.8496|Guaimbê
+-24.2617|-54.2382|Guaíra
+-22.9055|-52.7488|Guairaçá
 -4.0397|-38.6372|Guaiúba
 -2.9667|-57.6667|Guajará
 -10.7836|-65.3355|Guajará Mirim
@@ -1883,41 +1954,42 @@
 -25.1503|-50.8618|Guamiranga
 -14.2233|-42.7814|Guanambi
 -18.8571|-42.8052|Guanhães
--24.2173|-48.5452|Guapiara
+-20.7740|-45.8993|Guapé
 -20.7950|-49.2203|Guapiaçu
+-24.2173|-48.5452|Guapiara
 -22.5891|-42.9753|Guapimirim
 -23.4684|-50.0913|Guapirama
--23.3102|-52.8248|Guaporema
--28.8419|-51.9188|Guaporé
--20.7740|-45.8993|Guapé
 -16.8306|-49.5319|Guapó
+-28.8419|-51.9188|Guaporé
+-23.3102|-52.8248|Guaporema
+-20.4283|-47.8242|Guará
 -6.8547|-35.4900|Guarabira
+-21.1082|-51.3012|Guaraçaí
 -22.9734|-51.6974|Guaraci
 -20.5692|-43.0115|Guaraciaba
 -4.1669|-40.7475|Guaraciaba do Norte
 -17.0807|-43.6031|Guaraciama
+-8.7023|-48.4025|Guaraí
+-15.6596|-50.0666|Guaraíta
 -4.2218|-38.9645|Guaramiranga
 -26.4731|-49.0028|Guaramirim
+-21.2882|-46.8223|Guaranésia
 -21.3504|-43.0589|Guarani
--20.0703|-50.3629|Guarani d'Oeste
+-25.1008|-52.8781|Guaraniaçu
 -28.1507|-54.6003|Guarani das Missões
 -13.8849|-46.5071|Guarani de Goiás
--25.1008|-52.8781|Guaraniaçu
+-20.0703|-50.3629|Guarani d'Oeste
 -21.9228|-49.5852|Guarantã
 -9.7560|-54.7289|Guarantã do Norte
--21.2882|-46.8223|Guaranésia
 -20.6718|-40.5020|Guarapari
 -25.3905|-51.4654|Guarapuava
 -25.1516|-48.3595|Guaraqueçaba
+-21.7580|-43.0247|Guarará
 -21.2608|-50.6428|Guararapes
 -23.4150|-46.0350|Guararema
--21.7580|-43.0247|Guarará
 -16.5856|-39.7819|Guaratinga
 -22.8164|-45.1925|Guaratinguetá
 -25.8828|-48.5747|Guaratuba
--21.1082|-51.3012|Guaraçaí
--8.7023|-48.4025|Guaraí
--15.6596|-50.0666|Guaraíta
 -17.7639|-47.1478|Guarda-Mor
 -23.3734|-48.2247|Guareí
 -21.3957|-48.2043|Guariba
@@ -1926,26 +1998,21 @@
 -23.9931|-46.2564|Guarujá
 -26.4056|-53.4721|Guarujá do Sul
 -23.4628|-46.5333|Guarulhos
--20.4283|-47.8242|Guará
 -27.1105|-52.7894|Guatambú
 -21.4723|-47.9914|Guatapará
 -21.2918|-46.6811|Guaxupé
--20.7680|-41.7112|Guaçuí
--30.1139|-51.3250|Guaíba
--24.2617|-54.2382|Guaíra
 -21.6108|-55.9346|Guia Lopes da Laguna
 -21.1768|-42.7901|Guidoval
--18.8169|-46.7355|Guimarânia
 -2.1199|-44.6348|Guimarães
+-18.8169|-46.7355|Guimarânia
 -16.3453|-53.7618|Guiratinga
 -21.0129|-42.6989|Guiricema
 -19.0664|-49.8687|Gurinhatã
 -7.1239|-35.4244|Gurinhém
 -7.2610|-36.5001|Gurjão
--11.7292|-49.0686|Gurupi
 -1.1656|-51.6274|Gurupá
+-11.7292|-49.0686|Gurupi
 -20.6204|-50.7193|Guzolândia
--22.3432|-49.5787|Gália
 -29.5490|-51.4236|Harmonia
 -15.7342|-49.8311|Heitoraí
 -22.0416|-45.5443|Heliodora
@@ -1954,8 +2021,8 @@
 -32.0236|-53.3956|Herval
 -27.2041|-51.4203|Herval d'Oeste
 -29.4386|-52.6737|Herveiras
--14.7574|-49.3597|Hidrolina
 -4.4081|-40.4378|Hidrolândia
+-14.7574|-49.3597|Hidrolina
 -22.6382|-47.0650|Holambra
 -26.1378|-52.3961|Honório Serpa
 -4.1146|-38.5150|Horizonte
@@ -1968,69 +2035,71 @@
 -21.9075|-49.0592|Iacanga
 -14.0958|-46.6317|Iaciara
 -21.7780|-50.6152|Iacri
+-12.7672|-40.2117|Iaçu
 -19.3509|-42.2373|Iapu
 -22.8368|-49.1093|Iaras
 -9.1913|-36.9495|Iati
--12.7672|-40.2117|Iaçu
 -23.8486|-50.1878|Ibaiti
 -29.4089|-53.1825|Ibarama
 -4.7504|-38.6657|Ibaretama
+-21.9547|-47.9967|Ibaté
 -8.9725|-35.9394|Ibateguara
 -20.2339|-41.5106|Ibatiba
--21.9547|-47.9967|Ibaté
 -25.1649|-53.0127|Ibema
 -21.4514|-43.9432|Ibertioga
+-19.5437|-46.6173|Ibiá
+-28.1047|-51.8028|Ibiaçá
+-16.8100|-44.7923|Ibiaí
 -27.2094|-51.2223|Ibiam
 -3.9357|-40.9276|Ibiapina
 -7.4825|-38.3805|Ibiara
 -14.2028|-42.3021|Ibiassucê
--28.1047|-51.8028|Ibiaçá
--16.8100|-44.7923|Ibiaí
 -14.8650|-39.5875|Ibicaraí
 -27.0974|-51.3714|Ibicaré
 -13.3766|-41.3408|Ibicoara
--4.9619|-38.5202|Ibicuitinga
 -14.8417|-39.9867|Ibicuí
+-4.9619|-38.5202|Ibicuitinga
 -8.5406|-37.6903|Ibimirim
 -11.6408|-42.0111|Ibipeba
 -12.8865|-42.3712|Ibipitanga
 -23.2692|-51.0481|Ibiporã
 -12.5726|-40.8416|Ibiquera
+-21.0888|-49.2188|Ibirá
 -15.6669|-44.1328|Ibiracatu
 -20.4014|-47.1427|Ibiraci
+-19.8319|-40.3697|Ibiraçu
 -28.3873|-51.6271|Ibiraiaras
 -8.6129|-36.1540|Ibirajuba
 -27.0569|-49.5178|Ibirama
 -14.1642|-39.3736|Ibirapitanga
--28.6170|-52.4708|Ibirapuitã
 -17.7557|-39.9736|Ibirapuã
+-28.6170|-52.4708|Ibirapuitã
 -22.8091|-50.0782|Ibirarema
 -14.0669|-39.6406|Ibirataia
--19.8319|-40.3697|Ibiraçu
 -20.0219|-44.0589|Ibirité
 -28.6275|-53.0897|Ibirubá
--21.0888|-49.2188|Ibirá
 -12.5658|-42.3899|Ibitiara
 -21.7578|-48.8289|Ibitinga
 -20.5115|-41.6696|Ibitirama
 -11.6935|-41.8415|Ibititá
 -22.0672|-46.4074|Ibitiúra de Minas
 -21.1636|-44.7755|Ibituruna
--19.5437|-46.6173|Ibiá
 -23.6564|-47.2225|Ibiúna
 -12.1853|-43.2206|Ibotirama
 -4.7234|-37.4134|Icapuí
+-28.7133|-49.3000|Içara
 -16.2211|-44.8592|Icaraí de Minas
 -23.3724|-53.5949|Icaraíma
 -2.7758|-44.0658|Icatu
--11.7034|-39.1872|Ichu
--20.7476|-40.8657|Iconha
 -20.3800|-49.2051|Icém
+-11.7034|-39.1872|Ichu
 -6.3519|-38.7567|Icó
+-20.7476|-40.8657|Iconha
 -5.7678|-35.5281|Ielmo Marinho
 -22.6573|-51.0438|Iepê
 -9.5369|-36.6336|Igaci
 -13.8906|-42.7605|Igaporã
+-22.5092|-48.5578|Igaraçu do Tietê
 -7.1386|-38.1353|Igaracy
 -20.0383|-47.7469|Igarapava
 -20.0542|-44.3164|Igarapé
@@ -2039,43 +2108,43 @@
 -4.6497|-44.8391|Igarapé Grande
 -1.9750|-48.9597|Igarapé Miri
 -7.8342|-34.9064|Igarassu
--19.9601|-44.7211|Igaratinga
 -23.1299|-46.1465|Igaratá
--22.5092|-48.5578|Igaraçu do Tietê
+-19.9601|-44.7211|Igaratinga
 -13.8561|-39.1936|Igrapiúna
 -10.1666|-36.6172|Igreja Nova
 -29.5744|-50.7903|Igrejinha
 -22.8392|-42.2289|Iguaba Grande
+-14.7564|-40.0892|Iguaí
 -24.7081|-47.5553|Iguape
 -7.8418|-37.4082|Iguaraci
 -23.2338|-51.8534|Iguaraçu
 -20.1453|-45.7419|Iguatama
 -23.4260|-54.5584|Iguatemi
 -6.3555|-39.2768|Iguatu
--14.7564|-40.0892|Iguaí
 -21.1835|-44.9224|Ijaci
 -28.3878|-53.9147|Ijuí
+-23.7781|-45.3581|Ilhabela
 -24.8779|-47.7476|Ilha Comprida
 -10.4445|-36.5643|Ilha das Flores
 -7.7466|-34.8473|Ilha de Itamaracá
 -2.8402|-41.8288|Ilha Grande
 -20.4328|-51.3425|Ilha Solteira
--23.7781|-45.3581|Ilhabela
--26.8540|-48.8865|Ilhota
 -14.7936|-39.0395|Ilhéus
+-26.8540|-48.8865|Ilhota
 -20.9302|-45.8182|Ilicínea
 -28.9169|-52.1481|Ilópolis
 -7.3897|-37.5092|Imaculada
 -28.1962|-48.8232|Imaruí
 -24.4434|-50.7388|Imbaú
+-29.9272|-50.1283|Imbé
+-19.6186|-41.9677|Imbé de Minas
 -28.2400|-48.6703|Imbituba
 -25.2300|-50.6044|Imbituva
 -27.5112|-49.4066|Imbuia
--29.9272|-50.1283|Imbé
--19.6186|-41.9677|Imbé de Minas
 -29.3402|-51.7567|Imigrante
 -5.5264|-47.4917|Imperatriz
 -18.4989|-49.9016|Inaciolândia
+-25.6400|-51.2200|Inácio Martins
 -22.7151|-52.2413|Inajá
 -22.3404|-46.2850|Inconfidentes
 -15.5763|-42.1573|Indaiabira
@@ -2088,9 +2157,9 @@
 -17.1850|-49.9683|Indiara
 -11.5192|-37.5117|Indiaroba
 -15.3148|-58.6296|Indiavaí
--7.7173|-37.4246|Ingazeira
--21.4132|-44.9368|Ingaí
 -7.2544|-35.6290|Ingá
+-21.4132|-44.9368|Ingaí
+-7.7173|-37.4246|Ingazeira
 -27.9143|-54.0379|Inhacorá
 -11.7844|-38.3531|Inhambupe
 -1.4628|-47.9497|Inhangapi
@@ -2101,7 +2170,6 @@
 -16.3578|-49.4961|Inhumas
 -18.7115|-44.2757|Inimutaba
 -19.6715|-52.0439|Inocência
--25.6400|-51.2200|Inácio Martins
 -21.7200|-50.9474|Inúbia Paulista
 -26.9859|-51.2605|Iomerê
 -19.4056|-42.3607|Ipaba
@@ -2110,30 +2178,32 @@
 -5.4983|-36.8550|Ipanguaçu
 -4.8474|-40.8103|Ipaporanga
 -19.4683|-42.5367|Ipatinga
+-23.0567|-49.6264|Ipauçu
 -6.8088|-38.7323|Ipaumirim
 -23.0820|-49.6037|Ipaussu
--23.0567|-49.6264|Ipauçu
+-28.7162|-51.2779|Ipê
 -12.3378|-39.3284|Ipecaetá
 -23.3503|-47.6886|Iperó
 -22.4438|-47.6945|Ipeúna
 -18.7068|-49.9175|Ipiaçu
 -14.1345|-39.7395|Ipiaú
 -20.6398|-49.3978|Ipiguá
+-12.1583|-39.7372|Ipirá
 -27.3871|-51.7971|Ipira
 -25.0159|-50.5547|Ipiranga
 -15.1688|-49.6505|Ipiranga de Goiás
 -12.2400|-56.1400|Ipiranga do Norte
 -6.8463|-41.7469|Ipiranga do Piauí
 -27.9421|-52.4307|Ipiranga do Sul
--12.1583|-39.7372|Ipirá
 -7.1191|-71.3759|Ipixuna
 -2.9815|-48.1195|Ipixuna do Pará
 -8.3989|-35.0639|Ipojuca
--24.5044|-48.5525|Iporanga
--16.4554|-51.1598|Iporá
 -24.0451|-53.7198|Iporã
+-16.4554|-51.1598|Iporá
 -26.9916|-53.4902|Iporã do Oeste
+-24.5044|-48.5525|Iporanga
 -4.3493|-40.6593|Ipu
+-20.4381|-48.0122|Ipuã
 -26.6708|-52.4826|Ipuaçu
 -7.6519|-40.1489|Ipubi
 -6.7804|-37.1497|Ipueira
@@ -2141,24 +2211,22 @@
 -22.0073|-46.1247|Ipuiúna
 -27.0478|-52.1402|Ipumirim
 -11.7695|-42.4330|Ipupiara
--20.4381|-48.0122|Ipuã
--28.7162|-51.2779|Ipê
 -5.8127|-38.3528|Iracema
 -24.4367|-53.3384|Iracema do Oeste
--26.8549|-53.3185|Iraceminha
 -22.5806|-47.5186|Iracemápolis
+-26.8549|-53.3185|Iraceminha
+-27.2708|-53.2370|Iraí
+-19.0633|-47.4370|Iraí de Minas
 -13.1800|-39.9953|Irajuba
 -13.5463|-40.8283|Iramaia
 -3.2847|-60.1861|Iranduba
 -27.0363|-51.9178|Irani
--21.4490|-51.3396|Irapuru
 -21.2501|-49.4025|Irapuã
+-21.4490|-51.3396|Irapuru
 -12.2862|-41.5915|Iraquara
 -12.0500|-38.7667|Irará
 -25.4672|-50.6511|Irati
 -3.7461|-39.7833|Irauçuba
--27.2708|-53.2370|Iraí
--19.0633|-47.4370|Iraí de Minas
 -11.3042|-41.8558|Irecê
 -24.3441|-52.1065|Iretama
 -26.3332|-50.7833|Irineópolis
@@ -2166,13 +2234,14 @@
 -20.3453|-41.6411|Irupi
 -7.5452|-41.6429|Isaías Coelho
 -16.3578|-50.8950|Israelândia
+-27.2441|-52.3321|Itá
 -29.5631|-53.7458|Itaara
 -7.3286|-35.3325|Itabaiana
 -11.2699|-37.7921|Itabaianinha
 -16.7163|-39.5733|Itabela
+-23.8619|-49.1372|Itaberá
 -12.5275|-40.3069|Itaberaba
 -16.0203|-49.8103|Itaberaí
--23.8619|-49.1372|Itaberá
 -10.1088|-37.2000|Itabi
 -19.6192|-43.2269|Itabira
 -18.5298|-41.2537|Itabirinha
@@ -2191,29 +2260,33 @@
 -14.1628|-40.0061|Itagi
 -14.2836|-39.8428|Itagibá
 -16.1347|-39.8165|Itagimirim
+-19.8019|-40.8556|Itaguaçu
+-10.6426|-42.2108|Itaguaçu da Bahia
+-22.8522|-43.7753|Itaguaí
 -22.6610|-51.9829|Itaguajé
 -20.3787|-44.5461|Itaguara
 -15.9118|-49.6183|Itaguari
 -15.7694|-49.6004|Itaguaru
 -5.8141|-47.6542|Itaguatins
--19.8019|-40.8556|Itaguaçu
--10.6426|-42.2108|Itaguaçu da Bahia
--22.8522|-43.7753|Itaguaí
+-23.4178|-49.0906|Itaí
+-8.9475|-37.4228|Itaíba
+-4.7017|-37.8291|Itaiçaba
+-23.5858|-46.6824|Itaim Bibi
+-23.5031|-46.3857|Itaim Paulista
 -7.4552|-41.5416|Itainópolis
+-26.4761|-49.9046|Itaiópolis
 -5.2209|-45.7851|Itaipava do Grajaú
--25.1634|-54.3435|Itaipulândia
 -17.4274|-41.6551|Itaipé
+-25.1634|-54.3435|Itaipulândia
 -3.9694|-38.5281|Itaitinga
 -5.8602|-56.2318|Itaituba
--4.7017|-37.8291|Itaiçaba
--26.4761|-49.9046|Itaiópolis
+-19.1155|-51.2447|Itajá
 -26.9078|-48.6619|Itajaí
 -21.3181|-49.0544|Itajobi
 -21.9288|-48.7831|Itaju
--15.1550|-39.7160|Itaju do Colônia
 -22.4205|-45.4214|Itajubá
+-15.1550|-39.7160|Itaju do Colônia
 -14.6781|-39.3750|Itajuípe
--19.1155|-51.2447|Itajá
 -21.3840|-41.6673|Italva
 -7.7478|-34.8256|Itamaracá
 -17.0392|-39.5311|Itamaraju
@@ -2228,19 +2301,20 @@
 -21.0861|-47.0506|Itamogi
 -22.2873|-44.7527|Itamonte
 -12.3098|-38.1133|Itanagra
+-24.1831|-46.7889|Itanhaém
 -22.2958|-44.9347|Itanhandu
 -12.1700|-56.6800|Itanhangá
--24.1831|-46.7889|Itanhaém
--19.1548|-41.8333|Itanhomi
 -17.1664|-40.3300|Itanhém
+-19.1548|-41.8333|Itanhomi
 -16.5633|-41.5349|Itaobim
 -24.6116|-48.8439|Itaoca
 -21.7701|-42.0749|Itaocara
 -14.9508|-49.5494|Itapaci
--19.7509|-49.4285|Itapagipe
 -3.6867|-39.5861|Itapagé
+-19.7509|-49.4285|Itapagipe
 -3.7334|-39.5651|Itapajé
 -12.9060|-38.6638|Itaparica
+-14.9185|-39.4864|Itapé
 -15.8875|-39.6879|Itapebi
 -20.4540|-45.0881|Itapecerica
 -23.7169|-46.8492|Itapecerica da Serra
@@ -2248,8 +2322,8 @@
 -25.9780|-52.8258|Itapejara d'Oeste
 -27.1072|-48.6244|Itapema
 -21.0111|-40.8339|Itapemirim
--21.2050|-41.8878|Itaperuna
 -25.2200|-49.3478|Itaperuçu
+-21.2050|-41.8878|Itaperuna
 -7.3964|-37.1311|Itapetim
 -15.2489|-40.2478|Itapetinga
 -23.5917|-48.0531|Itapetininga
@@ -2265,20 +2339,22 @@
 -7.7764|-34.8922|Itapissuma
 -14.4637|-39.6257|Itapitanga
 -4.6192|-38.9313|Itapiúna
+-15.7494|-47.7686|Itapoã
+-26.0455|-48.6687|Itapoá
+-21.5956|-48.8128|Itápolis
+-21.9218|-54.8141|Itaporã
+-8.5018|-48.7521|Itaporã do Tocantins
 -7.3003|-38.2516|Itaporanga
 -11.0709|-37.3330|Itaporanga d'Ajuda
 -6.8115|-35.2448|Itapororoca
--21.9218|-54.8141|Itaporã
--8.5018|-48.7521|Itaporã do Tocantins
--26.0455|-48.6687|Itapoá
+-9.0339|-63.2321|Itapuã do Oeste
 -28.7718|-52.2001|Itapuca
+-22.2333|-48.7192|Itapuí
 -20.5963|-51.4254|Itapura
 -15.5694|-49.9348|Itapuranga
--9.0339|-63.2321|Itapuã do Oeste
--22.2333|-48.7192|Itapuí
--14.9185|-39.4864|Itapé
 -23.4581|-46.3292|Itaquaquecetuba
 -13.4472|-39.9103|Itaquara
+-23.5319|-46.4442|Itaquera
 -29.1253|-56.5531|Itaqui
 -23.4708|-54.1928|Itaquiraí
 -7.6678|-35.1017|Itaquitinga
@@ -2297,17 +2373,15 @@
 -23.1017|-48.6158|Itatinga
 -4.5678|-39.5782|Itatira
 -7.3750|-35.6283|Itatuba
-0.5773|-50.6783|Itaubal
--7.6033|-43.0256|Itaueira
--16.2143|-49.6007|Itauçu
--20.7081|-43.5928|Itaverava
--23.4178|-49.0906|Itaí
--8.9475|-37.4228|Itaíba
 -5.8419|-37.9249|Itaú
--20.7179|-46.7793|Itaú de Minas
 -11.0954|-55.5885|Itaúba
+0.5773|-50.6783|Itaubal
+-16.2143|-49.6007|Itauçu
+-20.7179|-46.7793|Itaú de Minas
+-7.6033|-43.0256|Itaueira
 -20.0744|-44.5863|Itaúna
 -22.7368|-52.8924|Itaúna do Sul
+-20.7081|-43.5928|Itaverava
 -16.6072|-41.8318|Itinga
 -4.5283|-47.4886|Itinga do Maranhão
 -17.3944|-54.7699|Itiquira
@@ -2330,49 +2404,52 @@
 -19.6946|-50.3822|Iturama
 -21.3482|-44.7239|Itutinga
 -20.3394|-47.7806|Ituverava
--27.2441|-52.3321|Itá
--21.5956|-48.8128|Itápolis
 -14.6502|-43.6487|Iuiu
--24.2823|-51.6328|Ivaiporã
--23.5972|-52.1943|Ivatuba
--23.3372|-53.4241|Ivaté
+-20.3458|-41.5358|Iúna
 -24.9938|-50.8619|Ivaí
+-24.2823|-51.6328|Ivaiporã
+-23.3372|-53.4241|Ivaté
+-23.5972|-52.1943|Ivatuba
 -22.3808|-53.7557|Ivinhema
 -16.6883|-50.9266|Ivolândia
 -29.5074|-53.5682|Ivorá
 -29.5911|-51.1606|Ivoti
--28.7133|-49.3000|Içara
--20.3458|-41.5358|Iúna
+-23.6505|-46.6459|Jabaquara
 -8.1803|-35.0014|Jaboatão
 -8.1457|-34.9738|Jaboatão dos Guararapes
--14.0385|-45.1841|Jaborandi
 -27.1285|-51.7987|Jaborá
+-14.0385|-45.1841|Jaborandi
 -23.6953|-50.0738|Jaboti
 -27.6097|-53.2702|Jaboticaba
 -21.2547|-48.3222|Jaboticabal
 -19.4191|-43.7455|Jaboticatubas
+-6.4167|-36.1940|Jaçanã
 -14.8352|-42.4011|Jacaraci
 -6.6122|-35.2928|Jacaraú
 -6.2222|-57.7528|Jacareacanga
--23.1907|-49.9541|Jacarezinho
--23.3053|-45.9658|Jacareí
 -9.6728|-37.2227|Jacaré dos Homens
+-23.3053|-45.9658|Jacareí
+-23.1907|-49.9541|Jacarezinho
 -20.9475|-49.5761|Jaci
 -15.9653|-54.9683|Jaciara
 -16.1921|-40.3317|Jacinto
 -29.0118|-49.8879|Jacinto Machado
 -11.1814|-40.5137|Jacobina
 -7.9649|-41.1740|Jacobina do Piauí
+-21.0110|-46.7184|Jacuí
+-8.8772|-35.4588|Jacuípe
 -29.0310|-53.0680|Jacuizinho
 -4.5688|-49.2228|Jacundá
 -24.6925|-48.0022|Jacupiranga
 -22.2963|-46.6104|Jacutinga
--21.0110|-46.7184|Jacuí
--8.8772|-35.4588|Jacuípe
 -23.0763|-51.5830|Jaguapitã
 -13.5306|-39.9708|Jaguaquara
--10.2639|-40.1958|Jaguarari
+-23.5110|-46.7471|Jaguara
 -19.6359|-42.7171|Jaguaraçu
+-32.5661|-53.3758|Jaguarão
+-10.2639|-40.1958|Jaguarari
+-18.9919|-39.9752|Jaguaré
+-23.5438|-46.7487|Jaguare
 -5.4833|-38.7559|Jaguaretama
 -29.4524|-54.6463|Jaguari
 -24.2442|-49.7093|Jaguariaíva
@@ -2382,8 +2459,7 @@
 -22.7056|-46.9858|Jaguariúna
 -4.8140|-37.7925|Jaguaruana
 -28.6214|-49.0253|Jaguaruna
--32.5661|-53.3758|Jaguarão
--18.9919|-39.9752|Jaguaré
+-15.2165|-43.6703|Jaíba
 -7.4565|-41.2202|Jaicós
 -20.2689|-50.5458|Jales
 -23.2815|-45.7122|Jambeiro
@@ -2397,9 +2473,9 @@
 -15.3376|-56.5428|Jangada
 -24.0884|-52.8029|Janiópolis
 -15.3213|-45.2013|Januária
+-20.1293|-45.5373|Japaraíba
 -9.0990|-35.2963|Japaratinga
 -10.5933|-36.9403|Japaratuba
--20.1293|-45.5373|Japaraíba
 -22.6431|-43.6533|Japeri
 -6.4380|-35.9219|Japi
 -23.6905|-50.1801|Japira
@@ -2409,83 +2485,66 @@
 -1.5535|-68.2453|Japurá
 -8.7388|-35.7985|Jaqueira
 -28.9347|-50.3643|Jaquirana
--20.2724|-54.2374|Jaraguari
 -15.7569|-49.3344|Jaraguá
 -26.4861|-49.0667|Jaraguá do Sul
+-20.2724|-54.2374|Jaraguari
 -9.6505|-36.9604|Jaramataia
 -7.6382|-39.2404|Jardim
 -24.2145|-51.7227|Jardim Alegre
+-23.7164|-46.7687|Jardim Angela
+-15.8653|-47.8148|Jardim Botânico
 -5.6386|-35.9503|Jardim de Angicos
 -6.3786|-37.3519|Jardim de Piranhas
 -6.1573|-42.4776|Jardim do Mulato
 -6.5844|-36.7744|Jardim do Seridó
+-23.4837|-46.4131|Jardim Helena
 -22.5694|-52.0652|Jardim Olinda
 -23.5667|-46.6644|Jardim Paulista
+-23.6807|-46.7394|Jardim Sao Luis
 -26.7355|-52.8946|Jardinópolis
 -29.2880|-54.2978|Jari
 -23.1014|-46.7283|Jarinu
 -10.4389|-62.4664|Jaru
--23.2542|-50.9800|Jataizinho
 -17.8583|-51.7053|Jataí
+-23.2542|-50.9800|Jataizinho
 -8.0530|-36.5710|Jataúba
 -22.7399|-53.8150|Jateí
 -7.7047|-38.9436|Jati
 -5.8623|-44.2692|Jatobá
 -4.8030|-41.8954|Jatobá do Piauí
--16.1675|-51.1017|Jaupaci
--15.3245|-58.8458|Jauru
--6.4167|-36.1940|Jaçanã
--15.2165|-43.6703|Jaíba
 -22.2964|-48.5578|Jaú
 -12.8394|-48.6320|Jaú do Tocantins
+-16.1675|-51.1017|Jaupaci
+-15.3245|-58.8458|Jauru
 -20.5558|-44.0311|Jeceaba
 -17.1873|-42.2122|Jenipapo de Minas
 -5.5070|-45.5424|Jenipapo dos Vieiras
 -20.4808|-42.6157|Jequeri
+-9.9115|-36.0990|Jequiá da Praia
+-13.8588|-40.0851|Jequié
 -17.1689|-44.4619|Jequitaí
 -19.2147|-44.0305|Jequitibá
 -16.4068|-41.0578|Jequitinhonha
--9.9115|-36.0990|Jequiá da Praia
--13.8588|-40.0851|Jequié
 -9.9209|-38.7263|Jeremoabo
 -6.5075|-37.8066|Jericó
 -20.3346|-47.5712|Jeriquara
--7.0988|-43.5468|Jerumenha
 -20.8124|-41.3954|Jerônimo Monteiro
+-7.0988|-43.5468|Jerumenha
 -22.0085|-45.2824|Jesuânia
 -24.4130|-53.4134|Jesuítas
 -15.9646|-49.3946|Jesúpolis
 -20.0207|-40.6814|Jetibá
--10.8853|-61.9517|Ji Paraná
 -2.8714|-40.4916|Jijoca de Jericoacoara
+-10.8853|-61.9517|Ji Paraná
 -13.3108|-39.5809|Jiquiriçá
 -14.0127|-39.8983|Jitaúna
--19.2032|-42.7067|Joanésia
--22.9303|-46.2756|Joanópolis
--17.6232|-44.0937|Joaquim Felício
--9.1035|-35.7374|Joaquim Gomes
--8.6244|-35.5333|Joaquim Nabuco
--3.5369|-42.0775|Joaquim Pires
--23.4222|-49.9025|Joaquim Távora
 -27.1781|-51.5047|Joaçaba
 -16.8038|-41.0110|Joaíma
--6.4843|-38.4641|Joca Claudino
--3.5421|-42.4358|Joca Marques
--26.3044|-48.8456|Joinville
--15.8749|-40.3053|Jordânia
--9.0917|-71.8407|Jordão
--5.0075|-44.7316|Joselândia
--16.5531|-42.5170|Josenópolis
--26.8385|-49.6462|José Boiteux
--21.0899|-49.7729|José Bonifácio
--6.3286|-38.3203|José da Penha
--4.7299|-42.6137|José de Freitas
--16.9050|-42.6690|José Gonçalves de Minas
--18.2637|-42.4653|José Raydan
--17.7842|-49.5844|Joviânia
+-19.2032|-42.7067|Joanésia
+-22.9303|-46.2756|Joanópolis
 -7.8558|-35.5883|João Alfredo
--8.5432|-42.4151|João Costa
 -5.5607|-35.8150|João Câmara
+-8.5432|-42.4151|João Costa
 -6.2851|-37.7936|João Dias
 -11.1488|-41.4044|João Dourado
 -5.2272|-47.1826|João Lisboa
@@ -2494,6 +2553,28 @@
 -7.1150|-34.8631|João Pessoa
 -17.5573|-45.9731|João Pinheiro
 -22.2444|-50.7875|João Ramalho
+-17.6232|-44.0937|Joaquim Felício
+-9.1035|-35.7374|Joaquim Gomes
+-8.6244|-35.5333|Joaquim Nabuco
+-3.5369|-42.0775|Joaquim Pires
+-23.4222|-49.9025|Joaquim Távora
+-6.4843|-38.4641|Joca Claudino
+-3.5421|-42.4358|Joca Marques
+-28.7293|-54.1225|Jóia
+-26.3044|-48.8456|Joinville
+-15.8749|-40.3053|Jordânia
+-9.0917|-71.8407|Jordão
+-26.8385|-49.6462|José Boiteux
+-21.0899|-49.7729|José Bonifácio
+-23.5674|-46.4326|Jose Bonifacio
+-6.3286|-38.3203|José da Penha
+-4.7299|-42.6137|José de Freitas
+-16.9050|-42.6690|José Gonçalves de Minas
+-5.0075|-44.7316|Joselândia
+-16.5531|-42.5170|Josenópolis
+-18.2637|-42.4653|José Raydan
+-17.7842|-49.5844|Joviânia
+-3.5333|-41.3000|Juá dos Vieiras
 -11.0983|-57.4916|Juara
 -7.1597|-35.5716|Juarez Távora
 -8.1018|-49.0799|Juarina
@@ -2502,32 +2583,36 @@
 -9.3968|-40.2338|Juazeiro
 -7.2131|-39.3153|Juazeiro do Norte
 -5.0249|-41.5284|Juazeiro do Piauí
--8.7507|-36.4775|Jucati
--6.0339|-37.0203|Jucurutu
--16.8483|-40.0841|Jucuruçu
 -6.4468|-39.6200|Jucás
+-8.7507|-36.4775|Jucati
+-16.8483|-40.0841|Jucuruçu
+-6.0339|-37.0203|Jucurutu
+-11.4033|-59.5081|Juína
 -21.7642|-43.3503|Juiz de Fora
+-10.5158|-44.1918|Júlio Borges
+-29.2645|-53.6246|Júlio de Castilhos
+-21.9769|-49.7862|Júlio Mesquita
 -23.1083|-47.7982|Jumirim
 -1.9418|-46.1171|Junco do Maranhão
 -6.9784|-36.7277|Junco do Seridó
+-8.9347|-35.5736|Jundiá
 -23.1864|-46.8842|Jundiaí
 -23.4792|-50.1806|Jundiaí do Sul
--8.9347|-35.5736|Jundiá
 -9.8852|-36.4564|Junqueiro
 -21.5147|-51.4336|Junqueirópolis
 -8.7155|-36.3940|Jupi
 -26.4110|-52.7310|Jupiá
--23.9586|-47.0137|Juquitiba
 -24.3208|-47.6347|Juquiá
+-23.9586|-47.0137|Juquitiba
 -16.8334|-43.5883|Juramento
 -24.4132|-52.8273|Juranda
 -8.7858|-36.1336|Jurema
 -7.3500|-35.2209|Juripiranga
 -7.4913|-37.7885|Juru
+-3.2753|-66.2421|Juruá
 -21.2265|-46.5145|Juruaia
 -10.2899|-58.6530|Juruena
 -2.3306|-56.0274|Juruti
--3.2753|-66.2421|Juruá
 -16.2052|-54.8803|Juscimeira
 -10.9641|-41.8557|Jussara
 -15.1545|-39.5156|Jussari
@@ -2535,13 +2620,8 @@
 -5.1833|-68.9000|Jutaí
 -22.8536|-54.5215|Juti
 -14.3993|-43.9505|Juvenília
--3.5333|-41.3000|Juá dos Vieiras
--11.4033|-59.5081|Juína
--28.7293|-54.1225|Jóia
--10.5158|-44.1918|Júlio Borges
--29.2645|-53.6246|Júlio de Castilhos
--21.9769|-49.7862|Júlio Mesquita
 -23.8671|-51.6803|Kaloré
+-8.1844|-66.0750|Lábrea
 -27.2535|-51.5850|Lacerdópolis
 -17.6437|-41.8326|Ladainha
 -19.1050|-57.5842|Ladário
@@ -2549,16 +2629,12 @@
 -17.9771|-46.7009|Lagamar
 -10.8984|-37.6799|Lagarto
 -27.8161|-50.3261|Lages
--4.2867|-45.2382|Lago da Pedra
--4.4703|-44.9100|Lago do Junco
--4.6110|-44.9784|Lago dos Rodrigues
--3.9907|-44.8831|Lago Verde
 -6.5952|-37.8499|Lagoa
 -4.4951|-42.5656|Lagoa Alegre
 -29.4940|-53.0347|Lagoa Bonita do Sul
--6.3704|-35.6364|Lagoa d'Anta
 -9.8297|-36.7378|Lagoa da Canoa
 -10.9931|-49.9370|Lagoa da Confusão
+-6.3704|-35.6364|Lagoa d'Anta
 -19.9980|-45.4995|Lagoa da Prata
 -6.6831|-35.3591|Lagoa de Dentro
 -7.9029|-35.2932|Lagoa de Itaenga
@@ -2571,36 +2647,42 @@
 -5.9554|-43.6311|Lagoa do Mato
 -9.1664|-36.4822|Lagoa do Ouro
 -5.4751|-42.5481|Lagoa do Piauí
--6.5192|-41.4206|Lagoa do Sítio
--10.3372|-47.4813|Lagoa do Tocantins
 -8.6797|-35.8898|Lagoa dos Gatos
+-6.5192|-41.4206|Lagoa do Sítio
 -17.0143|-44.6663|Lagoa dos Patos
 -28.5661|-52.8465|Lagoa dos Três Cantos
+-10.3372|-47.4813|Lagoa do Tocantins
 -20.9103|-44.0651|Lagoa Dourada
 -18.7649|-46.2901|Lagoa Formosa
 -17.7452|-46.5356|Lagoa Grande
 -4.9317|-45.3495|Lagoa Grande do Maranhão
 -6.1102|-36.5461|Lagoa Nova
+-29.2590|-52.7669|Lagoão
 -14.1098|-42.2170|Lagoa Real
 -6.1232|-35.4951|Lagoa Salgada
 -19.2121|-51.2589|Lagoa Santa
 -7.1708|-35.8536|Lagoa Seca
 -28.2200|-51.4723|Lagoa Vermelha
+-4.2867|-45.2382|Lago da Pedra
+-4.4703|-44.9100|Lago do Junco
+-4.6110|-44.9784|Lago dos Rodrigues
 -23.0844|-45.1997|Lagoinha
 -5.8070|-42.6280|Lagoinha do Piauí
--29.2590|-52.7669|Lagoão
+-15.7395|-47.8569|Lago Norte
+-15.8458|-47.8837|Lago Sul
+-3.9907|-44.8831|Lago Verde
 -28.4825|-48.7808|Laguna
 -22.7104|-55.0825|Laguna Carapã
 -10.1871|-40.9708|Laje
--21.2376|-42.1327|Laje do Muriaé
 -29.4669|-51.9614|Lajeado
 -27.7033|-53.2074|Lajeado do Bugre
 -26.8505|-52.5406|Lajeado Grande
 -6.1063|-46.9022|Lajeado Novo
+-17.5711|-40.3112|Lajedão
 -12.4270|-41.1510|Lajedinho
 -8.6636|-36.3200|Lajedo
 -13.3712|-40.2300|Lajedo do Tabocal
--17.5711|-40.3112|Lajedão
+-21.2376|-42.1327|Laje do Muriaé
 -5.7834|-36.1729|Lajes
 -6.1273|-36.1252|Lajes Pintadas
 -20.1241|-41.6153|Lajinha
@@ -2623,12 +2705,13 @@
 -12.8944|-38.3272|Lauro de Freitas
 -28.3928|-49.3967|Lauro Muller
 -12.8366|-46.3931|Lavandeira
+-21.1707|-51.0518|Lavínia
 -21.2674|-45.0419|Lavras
 -6.7533|-38.9644|Lavras da Mangabeira
 -30.8498|-54.0283|Lavras do Sul
 -22.5171|-44.8805|Lavrinhas
--21.1707|-51.0518|Lavínia
 -19.6749|-45.0613|Leandro Ferreira
+-22.9844|-43.2231|Leblon
 -26.8852|-50.6781|Lebon Régis
 -22.1856|-47.3903|Leme
 -17.0525|-42.7459|Leme do Prado
@@ -2644,6 +2727,7 @@
 -24.0814|-51.6441|Lidianópolis
 -4.5530|-44.4799|Lima Campos
 -21.7904|-43.8958|Lima Duarte
+-23.4928|-46.6692|Limão
 -22.5647|-47.4017|Limeira
 -19.3879|-50.6128|Limeira do Oeste
 -7.8509|-35.4451|Limoeiro
@@ -2651,9 +2735,9 @@
 -1.8965|-49.5102|Limoeiro do Ajuru
 -5.1741|-38.0266|Limoeiro do Norte
 -25.2680|-53.5687|Lindoeste
--29.5748|-51.2279|Lindolfo Collor
 -22.5125|-46.6535|Lindóia
 -27.0325|-52.0406|Lindóia do Sul
+-29.5748|-51.2279|Lindolfo Collor
 -29.4553|-51.2188|Linha Nova
 -19.3911|-40.0722|Linhares
 -21.6786|-49.7425|Lins
@@ -2673,42 +2757,43 @@
 -23.0825|-46.9331|Louveira
 -16.3333|-55.9333|Lucas
 -13.0410|-56.1558|Lucas do Rio Verde
+-21.7203|-51.0189|Lucélia
 -6.9246|-34.9027|Lucena
 -22.4839|-49.5451|Lucianópolis
 -11.0142|-50.9430|Luciara
 -6.1036|-37.8244|Lucrécia
--21.7203|-51.0189|Lucélia
+-21.5600|-47.8116|Luís Antônio
 -20.4464|-42.0729|Luisburgo
+-3.0312|-41.5166|Luís Correia
+-1.2696|-45.8379|Luís Domingues
+-12.0909|-45.7850|Luis Eduardo Magalhães
+-12.2321|-46.1146|Luís Eduardo Magalhães
+-6.3863|-38.4190|Luís Gomes
 -16.1992|-44.6097|Luislândia
 -26.7362|-48.8853|Luiz Alves
 -24.3408|-52.2704|Luiziana
 -21.6824|-50.3531|Luiziânia
 -21.5153|-44.9262|Luminárias
 -24.0721|-51.7600|Lunardelli
--22.7385|-51.6839|Lupionópolis
 -22.4277|-49.8123|Lupércio
+-22.7385|-51.6839|Lupionópolis
 -22.3065|-50.3782|Lutécia
 -19.8419|-45.6754|Luz
 -27.0766|-51.4935|Luzerna
+-16.2525|-47.9503|Luziânia
 -3.6074|-42.3646|Luzilândia
 -6.2064|-47.8304|Luzinópolis
--16.2525|-47.9503|Luziânia
--21.5600|-47.8116|Luís Antônio
--3.0312|-41.5166|Luís Correia
--1.2696|-45.8379|Luís Domingues
--12.2321|-46.1146|Luís Eduardo Magalhães
--6.3863|-38.4190|Luís Gomes
--8.1844|-66.0750|Lábrea
+-22.3848|-41.7832|Macaé
+-5.9409|-35.3983|Macaíba
 -12.1437|-40.3020|Macajuba
+-29.0582|-55.6110|Maçambará
 -10.6854|-37.6000|Macambira
--7.5287|-35.4443|Macaparana
 0.0389|-51.0664|Macapá
+-7.5287|-35.4443|Macaparana
 -15.5570|-40.3905|Macarani
 -22.5022|-48.7114|Macatuba
 -5.1150|-36.6344|Macau
 -20.8627|-49.9853|Macaubal
--22.3848|-41.7832|Macaé
--5.9409|-35.3983|Macaíba
 -13.0194|-42.6986|Macaúbas
 -20.0882|-50.1732|Macedônia
 -9.6658|-35.7353|Maceió
@@ -2724,6 +2809,8 @@
 -3.5466|-42.5111|Madeiro
 -12.7408|-38.6208|Madre de Deus
 -21.4846|-44.3326|Madre de Deus de Minas
+-7.2199|-37.4528|Mãe d'Água
+-1.9833|-47.5157|Mãe do Rio
 -14.6653|-41.4905|Maetinga
 -26.1114|-49.8053|Mafra
 -0.8184|-47.6299|Magalhães Barata
@@ -2752,12 +2839,14 @@
 -15.0330|-42.9451|Mamonas
 -29.2614|-50.0107|Mampituba
 -3.2997|-60.6206|Manacapuru
+-7.7061|-38.1544|Manaíra
 -3.3167|-60.3500|Manaquiri
 -8.8818|-37.5876|Manari
 -3.0436|-60.0128|Manaus
--7.7061|-38.1544|Manaíra
--23.5475|-51.6708|Mandaguari
+-7.6142|-72.8958|Mâncio Lima
 -23.3472|-52.0953|Mandaguaçu
+-23.5475|-51.6708|Mandaguari
+-23.4595|-46.6409|Mandaqui
 -25.8468|-49.3270|Mandirituba
 -23.0539|-49.3026|Manduri
 -26.1001|-53.3583|Manfrinópolis
@@ -2776,17 +2865,15 @@
 -18.6855|-41.1076|Mantena
 -18.8625|-41.1228|Mantenópolis
 -29.5761|-50.2599|Maquiné
--21.8760|-43.0219|Mar de Espanha
--9.4925|-36.3504|Mar Vermelho
--14.0129|-49.3951|Mara Rosa
+-1.8240|-65.3588|Maraã
 -5.3815|-49.1323|Marabá
 -22.1173|-52.0513|Marabá Paulista
--21.6144|-55.1683|Maracaju
--28.8518|-49.4644|Maracajá
--3.8767|-38.6256|Maracanaú
--0.7582|-47.4875|Maracanã
 -2.0428|-45.9592|Maracaçumé
 -22.6106|-50.6672|Maracaí
+-28.8518|-49.4644|Maracajá
+-21.6144|-55.1683|Maracaju
+-0.7582|-47.4875|Maracanã
+-3.8767|-38.6256|Maracanaú
 -13.4411|-40.4308|Maracás
 -9.0122|-35.2225|Maragogi
 -12.7778|-38.9194|Maragogipe
@@ -2796,21 +2883,22 @@
 -2.4525|-45.9885|Maranhãozinho
 -0.8406|-47.7090|Marapanim
 -21.2576|-49.1486|Marapoama
--21.0433|-40.8244|Marataizes
+-14.0129|-49.3951|Mara Rosa
 -29.5492|-51.5569|Maratá
+-21.0433|-40.8244|Marataizes
+-14.1039|-39.0149|Maraú
 -28.4422|-52.2741|Marau
 -9.2231|-37.3794|Maravilha
 -19.5123|-44.6799|Maravilhas
--1.8240|-65.3588|Maraã
--14.1039|-39.0149|Maraú
 -6.7472|-34.9910|Marcação
+-11.0037|-54.1332|Marcelândia
 -27.4785|-51.9507|Marcelino Ramos
 -6.3218|-38.1427|Marcelino Vieira
--11.0037|-54.1332|Marcelândia
 -13.1158|-40.6292|Marcionílio Souza
 -3.1894|-40.2628|Marco
 -7.4089|-40.7495|Marcolândia
 -7.0541|-43.9166|Marcos Parente
+-21.8760|-43.0219|Mar de Espanha
 -24.5561|-54.0567|Marechal Cândido Rondon
 -9.7103|-35.8950|Marechal Deodoro
 -20.4128|-40.6831|Marechal Floriano
@@ -2824,35 +2912,37 @@
 -30.3022|-51.5813|Mariana Pimentel
 -27.3501|-52.1836|Mariano Moro
 -9.8144|-49.7161|Marianópolis do Tocantins
+-21.7794|-51.1675|Mariápolis
 -9.5772|-36.3053|Maribondo
 -22.9163|-42.8220|Maricá
 -18.4952|-42.0656|Marilac
--22.7274|-53.0817|Marilena
--24.0618|-53.2298|Mariluz
 -19.4220|-40.5202|Marilândia
 -23.7438|-51.2941|Marilândia do Sul
+-22.7274|-53.0817|Marilena
+-22.2139|-49.9458|Marília
+-24.0618|-53.2298|Mariluz
 -23.4253|-51.9386|Maringá
 -20.4878|-50.8347|Marinópolis
+-20.0723|-44.1760|Mário Campos
+-26.3163|-52.5742|Mariópolis
 -24.4627|-53.8018|Maripá
 -21.7010|-42.9593|Maripá de Minas
 -1.3740|-48.3142|Marituba
 -6.8213|-38.3350|Marizópolis
--21.7794|-51.1675|Mariápolis
--26.3163|-52.5742|Mariópolis
 -19.6924|-42.6272|Marliéria
 -26.2379|-53.0975|Marmeleiro
 -22.4597|-45.1697|Marmelópolis
 -29.2733|-52.1572|Marques de Souza
 -25.1057|-52.2568|Marquinho
 -19.4201|-45.1797|Martinho Campos
--6.0921|-37.9247|Martins
--20.2599|-41.8398|Martins Soares
 -3.1976|-40.6095|Martinópole
 -22.1458|-51.1708|Martinópolis
+-6.0921|-37.9247|Martins
+-20.2599|-41.8398|Martins Soares
 -10.7375|-37.0817|Maruim
 -23.7666|-51.6606|Marumbi
+-9.4925|-36.3504|Mar Vermelho
 -17.9910|-48.6832|Marzagão
--22.2139|-49.9458|Marília
 -15.5631|-39.3025|Mascote
 -3.5091|-40.3665|Massapê
 -7.5388|-41.0175|Massapê do Piauí
@@ -2860,9 +2950,10 @@
 -29.5490|-54.4455|Mata
 -12.5303|-38.2992|Mata de São João
 -8.9854|-37.7615|Mata Grande
+-21.5955|-48.4503|Matão
+-6.5548|-35.0369|Mataraca
 -3.5822|-43.2318|Mata Roma
 -15.7679|-40.6988|Mata Verde
--6.5548|-35.0369|Mataraca
 -10.4180|-46.4838|Mateiros
 -25.2408|-53.9964|Matelândia
 -18.4466|-43.0144|Materlândia
@@ -2881,27 +2972,25 @@
 -29.5146|-52.1386|Mato Leitão
 -28.2568|-54.6711|Mato Queimado
 -24.7069|-52.2409|Mato Rico
--15.4288|-42.8746|Mato Verde
 -26.4836|-51.1629|Matos Costa
+-15.4288|-42.8746|Mato Verde
 -19.5207|-44.0503|Matozinhos
 -15.3382|-50.8265|Matrinchã
 -9.1517|-35.5333|Matriz de Camaragibe
 -10.0153|-54.3550|Matupá
 -7.2717|-37.3394|Maturéia
 -19.1936|-45.9956|Matutina
--21.5955|-48.4503|Matão
 -5.4154|-43.4005|Matões
 -3.7788|-44.4075|Matões do Norte
--18.0504|-50.3293|Maurilândia
--5.9861|-47.5799|Maurilândia do Tocantins
--7.3881|-38.6365|Mauriti
 -23.6636|-46.4466|Mauá
 -23.9111|-51.1803|Mauá da Serra
 -3.3836|-57.7186|Maués
+-18.0504|-50.3293|Maurilândia
+-5.9861|-47.5799|Maurilândia do Tocantins
+-7.3881|-38.6365|Mauriti
 -5.4687|-35.3566|Maxaranguape
 -27.5880|-51.8036|Maximiliano de Almeida
 -0.1150|-51.2894|Mazagão
--29.0582|-55.6110|Maçambará
 -20.0114|-46.3580|Medeiros
 -17.3739|-40.2206|Medeiros Neto
 -25.2953|-54.0939|Medianeira
@@ -2916,37 +3005,39 @@
 -21.1872|-43.3366|Mercês
 -20.4177|-50.2054|Meridiano
 -3.5860|-40.4673|Meruoca
+-19.9581|-50.6094|Mesópolis
 -19.2496|-42.6160|Mesquita
 -9.3833|-35.8417|Messias
 -6.0810|-37.4851|Messias Targino
--19.9581|-50.6094|Mesópolis
 -4.1579|-42.7726|Miguel Alves
 -11.4289|-40.5950|Miguel Calmon
 -5.7287|-42.6894|Miguel Leão
--22.4539|-43.4689|Miguel Pereira
 -20.1794|-48.0319|Miguelópolis
+-22.4539|-43.4689|Miguel Pereira
 -12.9559|-39.8178|Milagres
 -3.5055|-42.8647|Milagres do Maranhão
 -5.6690|-39.2253|Milhã
 -4.7402|-41.5946|Milton Brandão
 -15.0483|-48.3445|Mimoso de Goiás
 -21.1047|-41.3757|Mimoso do Sul
+-13.4268|-48.3878|Minaçu
 -9.3053|-36.8647|Minador do Negrão
 -30.0719|-52.1200|Minas do Leão
 -17.3550|-42.4089|Minas Novas
--13.4268|-48.3878|Minaçu
 -21.6684|-44.5947|Minduri
 -17.5694|-52.5511|Mineiros
 -22.4486|-48.4407|Mineiros do Tietê
 -11.1603|-61.5690|Ministro Andreazza
--19.9724|-50.1304|Mira Estrela
 -16.2791|-44.1671|Mirabela
 -24.2814|-47.4597|Miracatu
 -21.3744|-42.1505|Miracema
 -9.7685|-48.5835|Miracema do Tocantins
 -6.4727|-45.1131|Mirador
 -20.8519|-42.3871|Miradouro
+-19.9724|-50.1304|Mira Estrela
 -27.4866|-53.7555|Miraguaí
+-21.1458|-42.6008|Miraí
+-3.5651|-39.9039|Miraíma
 -20.2406|-56.3783|Miranda
 -3.5314|-44.5269|Miranda do Norte
 -8.1345|-38.7409|Mirandiba
@@ -2958,11 +3049,9 @@
 -22.2919|-51.9064|Mirante do Paranapanema
 -22.9766|-51.4704|Miraselva
 -20.8416|-49.5088|Mirassol
--15.6352|-58.0051|Mirassol d'Oeste
 -20.5929|-49.4843|Mirassolândia
+-15.6352|-58.0051|Mirassol d'Oeste
 -14.7529|-44.4206|Miravânia
--21.1458|-42.6008|Miraí
--3.5651|-39.9039|Miraíma
 -27.1732|-50.1887|Mirim Doce
 -2.0477|-44.7740|Mirinzal
 -25.1112|-54.2579|Missal
@@ -2982,6 +3071,8 @@
 -3.0704|-54.5752|Mojuí Dos Campos
 -5.7922|-39.7799|Mombaça
 -22.9511|-47.6024|Mombuca
+-3.5329|-45.3069|Monção
+-20.8687|-50.0833|Monções
 -27.0840|-53.4397|Mondaí
 -24.0931|-46.6208|Mongaguá
 -18.3756|-44.0260|Monjolos
@@ -2999,8 +3090,8 @@
 -18.8188|-48.9182|Monte Alegre de Minas
 -10.0726|-37.6047|Monte Alegre de Sergipe
 -9.7421|-44.9827|Monte Alegre do Piauí
--22.7100|-46.6718|Monte Alegre do Sul
 -28.7018|-50.8040|Monte Alegre dos Campos
+-22.7100|-46.6718|Monte Alegre do Sul
 -21.2611|-48.4964|Monte Alto
 -20.7725|-49.7142|Monte Aprazível
 -15.2127|-43.0233|Monte Azul
@@ -3014,25 +3105,23 @@
 -10.7203|-48.0181|Monte do Carmo
 -16.8760|-41.2713|Monte Formoso
 -7.2079|-38.5250|Monte Horebe
--22.9467|-47.3158|Monte Mor
--10.3045|-63.3540|Monte Negro
--10.4378|-39.3328|Monte Santo
--21.2043|-46.9540|Monte Santo de Minas
--10.0097|-49.1275|Monte Santo do Tocantins
--22.4313|-46.5680|Monte Sião
--22.8642|-46.0350|Monte Verde
 -7.9164|-37.1750|Monteiro
 -22.9330|-45.8053|Monteiro Lobato
 -9.6202|-37.2935|Monteirópolis
+-22.9467|-47.3158|Monte Mor
 -29.6886|-51.4611|Montenegro
 -5.8333|-47.0667|Montes Altos
+-10.4378|-39.3328|Monte Santo
+-21.2043|-46.9540|Monte Santo de Minas
+-10.0097|-49.1275|Monte Santo do Tocantins
 -16.5879|-43.8999|Montes Claros
 -15.9625|-51.5060|Montes Claros de Goiás
+-22.4313|-46.5680|Monte Sião
+-22.8642|-46.0350|Monte Verde
 -15.1925|-42.4813|Montezuma
 -17.2582|-51.1574|Montividiu
 -13.0923|-48.7416|Montividiu do Norte
--3.5329|-45.3069|Monção
--20.8687|-50.0833|Monções
+-23.5614|-46.5964|Mooca
 -5.1067|-38.3725|Morada Nova
 -18.5661|-45.4722|Morada Nova de Minas
 -3.4601|-40.6996|Moraújo
@@ -3058,9 +3147,10 @@
 -29.5157|-51.0186|Morro Reuter
 -2.9616|-43.8772|Morros
 -14.9848|-42.4055|Mortugaba
+-23.5963|-46.7080|Morumbi
 -22.8832|-46.7870|Morungaba
--5.1875|-37.3442|Mossoró
 -16.1650|-50.1700|Mossâmedes
+-5.1875|-37.3442|Mossoró
 -30.9223|-50.8542|Mostardas
 -21.4894|-48.1567|Motuca
 -14.7447|-50.5706|Mozarlândia
@@ -3068,6 +3158,7 @@
 2.4300|-60.9000|Mucajaí
 -3.9078|-40.7694|Mucambo
 -13.1487|-41.5174|Mucugê
+-29.1402|-51.8233|Muçum
 -18.0864|-39.5508|Mucuri
 -18.0933|-40.5158|Mucurici
 -28.4345|-51.2469|Muitos Capões
@@ -3079,8 +3170,8 @@
 -23.1129|-51.7319|Munhoz de Melo
 -13.0015|-39.1060|Muniz Ferreira
 -20.4642|-41.4131|Muniz Freire
--20.9152|-41.3009|Muqui
 -12.1989|-43.5131|Muquém de São Francisco
+-20.9152|-41.3009|Muqui
 -21.1306|-42.3664|Muriaé
 -10.3893|-36.9763|Muribeca
 -9.2983|-35.9000|Murici
@@ -3088,40 +3179,36 @@
 -6.9860|-48.7917|Muricilândia
 -12.9167|-39.2500|Muritiba
 -20.9964|-51.3038|Murutinga do Sul
+-13.2286|-39.5047|Mutuípe
 -19.9268|-41.4483|Mutum
 -13.7026|-49.3000|Mutunópolis
--13.2286|-39.5047|Mutuípe
 -21.3524|-46.5184|Muzambinho
--29.1402|-51.8233|Muçum
--20.0723|-44.1760|Mário Campos
--7.6142|-72.8958|Mâncio Lima
--7.2199|-37.4528|Mãe d'Água
--1.9833|-47.5157|Mãe do Rio
 -18.4745|-42.1751|Nacip Raydan
 -22.6033|-51.2084|Nantes
 -17.7356|-40.4444|Nanuque
+-28.4592|-52.8208|Não Me Toque
 -19.1832|-42.3384|Naque
 -22.5340|-51.5098|Narandiba
 -5.8101|-35.2267|Natal
 -16.5631|-46.5139|Natalândia
+-22.1323|-45.4969|Natércia
 -21.0422|-41.9733|Natividade
 -23.3945|-45.3937|Natividade da Serra
 -7.6414|-35.5500|Natuba
--22.1323|-45.4969|Natércia
 -26.8989|-48.6542|Navegantes
 -23.0650|-54.1906|Naviraí
--21.2079|-44.6085|Nazareno
--6.9199|-38.3259|Nazarezinho
 -12.9500|-38.9787|Nazaré
 -7.7417|-35.2278|Nazaré da Mata
 -7.0328|-42.7322|Nazaré do Piauí
+-21.2079|-44.6085|Nazareno
 -23.1820|-46.3620|Nazaré Paulista
+-6.9199|-38.3259|Nazarezinho
 -5.4455|-42.8684|Nazária
 -16.5801|-49.8654|Nazário
+-10.3570|-36.6687|Neópolis
 -21.2403|-45.2401|Nepomuceno
 -16.4388|-49.1812|Nerópolis
 -20.8744|-49.6485|Neves Paulista
--10.3570|-36.6687|Neópolis
 -2.1861|-56.7131|Nhamundá
 -20.6897|-50.0407|Nhandeara
 -28.5244|-52.4444|Nicolau Vergueiro
@@ -3132,6 +3219,7 @@
 -21.1815|-55.7586|Nioaque
 -20.8937|-49.7813|Nipoã
 -14.4739|-48.4597|Niquelândia
+-6.0911|-35.2086|Nísia Floresta
 -22.9171|-43.0839|Niterói
 -14.7203|-56.3275|Nobres
 -27.3690|-52.8759|Nonoai
@@ -3180,9 +3268,9 @@
 -25.8885|-53.2603|Nova Esperança do Sudoeste
 -29.3923|-54.8346|Nova Esperança do Sul
 -21.7921|-48.5688|Nova Europa
+-11.5661|-39.5861|Nova Fátima
 -6.4879|-36.2010|Nova Floresta
 -22.2819|-42.5311|Nova Friburgo
--11.5661|-39.5861|Nova Fátima
 -15.0636|-49.4835|Nova Glória
 -20.5339|-49.3142|Nova Granada
 -10.2852|-55.3373|Nova Guarita
@@ -3194,6 +3282,7 @@
 -21.1548|-51.5276|Nova Independência
 -6.7496|-44.0398|Nova Iorque
 -4.9878|-49.1986|Nova Ipixuna
+-20.9766|-48.9098|Novais
 -26.9316|-52.8401|Nova Itaberaba
 -13.0403|-40.0078|Nova Itarana
 -14.2673|-59.7928|Nova Lacerda
@@ -3204,15 +3293,16 @@
 -10.5384|-64.4943|Nova Mamoré
 -14.3126|-57.2609|Nova Marilândia
 -12.9838|-57.1917|Nova Maringá
+-18.4501|-41.5130|Nova Módica
 -9.9974|-57.2977|Nova Monte Verde
 -13.5891|-56.1519|Nova Mutum
--18.4501|-41.5130|Nova Módica
 -14.1465|-51.7982|Nova Nazaré
 -22.7775|-47.2958|Nova Odessa
+-14.7972|-57.2881|Nova Olímpia
 -7.0857|-39.6720|Nova Olinda
 -2.8450|-45.9201|Nova Olinda do Maranhão
 -3.8917|-59.0954|Nova Olinda do Norte
--14.7972|-57.2881|Nova Olímpia
+-29.0122|-51.3145|Nova Pádua
 -29.4071|-53.4324|Nova Palma
 -6.6735|-36.4419|Nova Palmeira
 -29.3764|-51.1144|Nova Petrópolis
@@ -3220,7 +3310,6 @@
 -15.7158|-43.2816|Nova Porteirinha
 -28.7839|-51.6100|Nova Prata
 -25.6085|-53.3805|Nova Prata do Iguaçu
--29.0122|-51.3145|Nova Pádua
 -28.0930|-53.6950|Nova Ramada
 -12.8740|-41.1234|Nova Redenção
 -21.0990|-46.4168|Nova Resende
@@ -3239,11 +3328,10 @@
 -27.3047|-49.0426|Nova Trento
 -12.6823|-54.4773|Nova Ubiratã
 -19.6436|-43.5780|Nova União
--16.3546|-49.3000|Nova Veneza
 -18.7106|-40.4006|Nova Venécia
+-16.3546|-49.3000|Nova Veneza
 -17.8919|-39.3719|Nova Viçosa
 -14.6646|-52.3556|Nova Xavantina
--20.9766|-48.9098|Novais
 -10.1520|-47.4716|Novo Acordo
 -1.9839|-61.7851|Novo Airão
 -12.8731|-46.5694|Novo Alegre
@@ -3269,29 +3357,33 @@
 -13.3836|-49.7610|Novo Planalto
 -7.7540|-55.5134|Novo Progresso
 -4.7003|-50.5222|Novo Repartimento
+-16.0173|-42.3889|Novorizonte
 -12.3261|-50.9143|Novo Santo Antônio
 -15.0957|-53.2957|Novo São Joaquim
 -27.5595|-53.1557|Novo Tiradentes
 -10.3479|-38.4021|Novo Triunfo
 -27.7456|-53.0404|Novo Xingu
--16.0173|-42.3889|Novorizonte
+-15.8707|-47.9689|Núcleo Bandeirante
 -20.7309|-47.7518|Nuporanga
--28.4592|-52.8208|Não Me Toque
--6.0911|-35.2086|Nísia Floresta
+0.1324|-55.8239|Óbidos
 -4.4908|-38.5967|Ocara
 -22.4303|-49.9517|Ocauçu
 -6.9069|-42.1753|Oeiras
 -2.0031|-49.8544|Oeiras do Pará
 2.7079|-52.1696|Oiapoque
 -21.9064|-43.9685|Olaria
+-22.9496|-49.3900|Óleo
 -7.2611|-37.7324|Olho d'Água
 -4.0263|-45.0483|Olho d'Água das Cunhãs
+-4.1387|-45.1188|Olho d’Água das Cunhãs
 -9.5403|-37.2521|Olho d'Água das Flores
+-5.9966|-37.7363|Olho-d'Água do Borges
 -9.4565|-37.8350|Olho d'Água do Casado
 -5.8485|-42.5394|Olho d'Água do Piauí
 -10.0562|-36.7952|Olho d'Água Grande
--5.9966|-37.7363|Olho-d'Água do Borges
 -17.4889|-43.5435|Olhos-d'Água
+-20.7372|-48.9147|Olímpia
+-22.0855|-45.2873|Olímpio Noronha
 -8.0089|-34.8553|Olinda
 -2.9976|-44.9657|Olinda Nova do Maranhão
 -11.3667|-38.3333|Olindina
@@ -3301,35 +3393,36 @@
 -12.3169|-42.8961|Oliveira dos Brejinhos
 -21.3387|-43.5198|Oliveira Fortes
 -9.5186|-37.1906|Olivença
--20.7372|-48.9147|Olímpia
--22.0855|-45.2873|Olímpio Noronha
--20.6104|-49.2447|Onda Verde
 -19.7104|-44.7465|Onça de Pitangui
+-20.6104|-49.2447|Onda Verde
 -20.4373|-42.7974|Oratórios
 -22.1501|-50.0968|Oriente
 -20.2223|-49.3759|Orindiúva
 -1.7656|-55.8661|Oriximiná
--17.0314|-48.2958|Orizona
 -20.5055|-42.2116|Orizânia
--28.3001|-49.3542|Orleans
+-17.0314|-48.2958|Orizona
 -20.7203|-47.8867|Orlândia
+-28.3001|-49.3542|Orleans
 -7.7450|-35.6022|Orobó
 -8.4940|-39.5779|Orocó
--24.2083|-50.9494|Ortigueira
 -6.2550|-38.9676|Orós
+-24.2083|-50.9494|Ortigueira
 -23.5325|-46.7917|Osasco
 -22.2903|-50.2565|Oscar Bressane
--21.6750|-50.8420|Osvaldo Cruz
 -29.8945|-50.2347|Osório
+-21.6750|-50.8420|Osvaldo Cruz
 -27.4831|-50.1219|Otacílio Costa
+-1.5519|-47.1144|Ourém
+-12.0034|-38.6521|Ouriçangas
 -7.8825|-40.0817|Ouricuri
 -7.5957|-51.4320|Ourilândia do Norte
 -22.9789|-49.8706|Ourinhos
 -23.4836|-52.2427|Ourizona
--12.0034|-38.6521|Ouriçangas
 -27.2870|-51.6816|Ouro
 -9.1289|-37.3737|Ouro Branco
+-19.9376|-50.4145|Ouroeste
 -22.2569|-46.3738|Ouro Fino
+-10.8380|-41.0284|Ourolândia
 -20.3930|-43.6419|Ouro Preto
 -10.7481|-62.2158|Ouro Preto do Oeste
 -7.6055|-37.1356|Ouro Velho
@@ -3337,15 +3430,13 @@
 -16.2360|-49.2277|Ouro Verde de Goiás
 -18.0343|-41.2947|Ouro Verde de Minas
 -24.7969|-53.9368|Ouro Verde do Oeste
--19.9376|-50.4145|Ouroeste
--10.8380|-41.0284|Ourolândia
--1.5519|-47.1144|Ourém
 -18.2011|-47.7151|Ouvidor
 -21.5622|-51.2606|Pacaembu
--4.1725|-38.4606|Pacajus
 -3.7017|-50.7784|Pacajá
+-4.1725|-38.4606|Pacajus
 4.4308|-61.1458|Pacaraima
 -3.9762|-38.6292|Pacatuba
+-2.4802|-44.1105|Paço do Lumiar
 -4.1958|-38.9025|Pacoti
 -3.9675|-40.6769|Pacujá
 -15.1660|-48.2828|Padre Bernardo
@@ -3353,14 +3444,14 @@
 -7.3653|-40.9342|Padre Marcos
 -17.0610|-41.5383|Padre Paraíso
 -7.7746|-42.3509|Paes Landim
--15.3273|-43.1951|Pai Pedro
 -27.2030|-52.4755|Paial
+-23.4575|-52.0486|Paiçandu
 -27.7298|-51.7810|Paim Filho
 -18.9182|-45.5374|Paineiras
 -27.9747|-50.0598|Painel
 -20.3737|-45.7314|Pains
+-15.3273|-43.1951|Pai Pedro
 -21.2881|-43.4171|Paiva
--23.4575|-52.0486|Paiçandu
 -8.0536|-42.8663|Pajeú do Piauí
 -9.6750|-37.3310|Palestina
 -16.7285|-51.4585|Palestina de Goiás
@@ -3368,112 +3459,118 @@
 -4.6606|-38.0445|Palhano
 -27.6453|-48.6678|Palhoça
 -21.4311|-42.3207|Palma
--26.3915|-53.3317|Palma Sola
+-4.1296|-38.8426|Palmácia
 -8.6833|-35.5917|Palmares
 -30.2578|-50.5097|Palmares do Sul
 -21.1015|-48.8203|Palmares Paulista
 -26.4842|-51.9906|Palmas
 -14.2672|-43.1619|Palmas de Monte Alto
+-26.3915|-53.3317|Palma Sola
 -25.4294|-50.0064|Palmeira
--20.4505|-50.7518|Palmeira d'Oeste
 -27.8994|-53.3136|Palmeira das Missões
+-20.4505|-50.7518|Palmeira d'Oeste
 -8.5155|-44.4364|Palmeira do Piauí
 -9.4090|-36.6065|Palmeira dos Índios
 -5.7855|-43.0243|Palmeirais
+-2.6592|-45.0671|Palmeirândia
 -7.8694|-48.1758|Palmeirante
 -12.5148|-41.5771|Palmeiras
 -16.8050|-49.9258|Palmeiras de Goiás
 -6.6130|-47.6626|Palmeiras do Tocantins
 -9.0296|-36.2420|Palmeirina
--2.6592|-45.0671|Palmeirândia
 -13.0603|-48.3887|Palmeirópolis
 -17.3194|-48.3943|Palmelo
 -16.8316|-50.2427|Palminópolis
 -24.8426|-52.2537|Palmital
 -27.3227|-53.5922|Palmitinho
 -27.0807|-53.1781|Palmitos
--4.1296|-38.8426|Palmácia
 -16.7784|-40.3747|Palmópolis
 -24.2839|-53.8400|Palotina
--28.2925|-53.5017|Panambi
 -18.2013|-49.3889|Panamá
+-28.2925|-53.5017|Panambi
 -19.2250|-40.8514|Pancas
 -8.6665|-36.0478|Panelas
 -21.3564|-51.8597|Panorama
 -27.6099|-48.5165|Pantanal
 -27.7797|-48.5086|Pantano do Sul
 -30.2582|-52.3417|Pantano Grande
+-9.6835|-37.4543|Pão de Açúcar
 -19.3969|-44.6950|Papagaios
 -26.4763|-50.1747|Papanduva
 -7.1075|-41.6472|Paquetá
 -22.6083|-43.7084|Paracambi
 -17.1329|-46.8826|Paracatu
 -3.4100|-39.0306|Paracuru
+-19.8212|-44.6129|Pará de Minas
 -2.9667|-47.4833|Paragominas
 -21.5808|-45.7430|Paraguaçu
 -22.4128|-50.5758|Paraguaçu Paulista
+-28.5957|-51.7973|Paraí
+-22.1585|-43.2932|Paraíba do Sul
 -6.4095|-43.8471|Paraibano
 -23.4812|-45.6378|Paraibuna
 -3.4394|-39.1483|Paraipaba
+-26.6687|-53.6855|Paraíso
+-19.0175|-53.0122|Paraíso das Águas
+-23.2541|-52.6363|Paraíso do Norte
+-29.7240|-53.1116|Paraíso do Sul
+-10.2321|-48.8803|Paraíso do Tocantins
 -22.5767|-45.8458|Paraisópolis
 -6.2541|-40.6088|Parambu
 -13.4425|-42.2389|Paramirim
 -4.1474|-39.3622|Paramoti
+-6.4470|-38.2998|Paraná
+-12.7387|-47.9434|Paranã
 -22.8465|-52.1346|Paranacity
 -25.5163|-48.5254|Paranaguá
+-19.6772|-51.1908|Paranaíba
 -18.7749|-50.6184|Paranaiguara
+-9.5637|-56.7654|Paranaíta
 -23.3863|-48.7244|Paranapanema
 -22.6562|-52.0760|Paranapoema
 -20.0594|-50.5968|Paranapuã
 -8.8981|-36.6820|Paranatama
 -13.3433|-54.0155|Paranatinga
 -23.0731|-52.4653|Paranavaí
--19.6772|-51.1908|Paranaíba
--9.5637|-56.7654|Paranaíta
 -23.8928|-55.4311|Paranhos
--6.4470|-38.2998|Paraná
--12.7387|-47.9434|Paranã
+-15.7755|-47.7812|Paranoá
 -19.2723|-44.4527|Paraopeba
 -21.8448|-50.8341|Parapuã
 -7.3114|-36.6770|Parari
 -12.6906|-43.1842|Paratinga
 -23.2178|-44.7131|Paraty
--6.1856|-50.5547|Parauapebas
--5.2772|-35.9324|Parazinho
--28.5957|-51.7973|Paraí
--22.1585|-43.2932|Paraíba do Sul
--26.6687|-53.6855|Paraíso
--19.0175|-53.0122|Paraíso das Águas
--23.2541|-52.6363|Paraíso do Norte
--29.7240|-53.1116|Paraíso do Sul
--10.2321|-48.8803|Paraíso do Tocantins
 -5.7322|-37.1366|Paraú
+-6.1856|-50.5547|Parauapebas
 -16.9478|-50.4486|Paraúna
+-5.2772|-35.9324|Parazinho
 -23.0899|-48.3842|Pardinho
 -29.6115|-51.4269|Pareci Novo
 -12.2866|-61.3166|Parecis
 -6.6878|-36.6575|Parelhas
+-23.8275|-46.7269|Parelheiros
+-23.5272|-46.6175|Pari
 -9.2204|-38.0167|Pariconha
 -2.6283|-56.7358|Parintins
 -10.6875|-37.8617|Paripiranga
 -9.4294|-35.5898|Paripueira
 -24.7150|-47.8811|Pariquera Açu
 -20.2655|-50.0390|Parisi
+-15.9085|-47.9405|Park Way
 -10.1215|-44.5601|Parnaguá
+-2.9228|-41.7354|Parnaíba
 -8.0906|-39.5783|Parnamirim
 -5.5291|-43.6035|Parnarama
--2.9228|-41.7354|Parnaíba
 -29.6286|-50.8347|Parobé
--19.8212|-44.6129|Pará de Minas
+-23.5759|-46.4630|Parque Do Carmo
+-19.3565|-43.1874|Passabém
 -6.4530|-35.6262|Passa e Fica
+-7.1189|-37.0367|Passagem
+-6.1075|-43.7535|Passagem Franca
+-5.8273|-42.4058|Passagem Franca do Piauí
 -22.4087|-44.9599|Passa Quatro
 -29.4306|-52.8651|Passa Sete
 -20.6435|-44.4986|Passa Tempo
 -22.1788|-44.2600|Passa-Vinte
--19.3565|-43.1874|Passabém
--7.1189|-37.0367|Passagem
--6.1075|-43.7535|Passagem Franca
--5.8273|-42.4058|Passagem Franca do Piauí
 -7.9950|-35.5806|Passira
 -9.2987|-35.4279|Passo de Camaragibe
 -29.2939|-49.7409|Passo de Torres
@@ -3494,20 +3591,21 @@
 -6.1231|-37.6257|Patu
 -22.4286|-43.4186|Paty do Alferes
 -15.4642|-39.6511|Pau Brasil
+-7.9430|-35.1356|Paudalho
 -7.7391|-50.1464|Pau d'Arco
 -5.2451|-42.4547|Pau D'arco do Piauí
 -6.1163|-38.1965|Pau dos Ferros
--7.9430|-35.1356|Paudalho
 -7.7136|-66.9764|Pauini
 -20.8603|-42.9815|Paula Cândido
 -26.1781|-50.8481|Paula Freitas
 -21.1717|-51.7542|Paulicéia
+-22.7611|-47.1542|Paulínia
 -2.8859|-42.5881|Paulino Neves
 -6.5950|-37.6097|Paulista
 -21.6000|-51.2000|Paulista Flórida
 -8.2253|-41.2275|Paulistana
--18.4339|-42.8660|Paulistas
 -22.5782|-49.2959|Paulistânia
+-18.4339|-42.8660|Paulistas
 -9.5523|-38.1690|Paulo Afonso
 -27.7367|-52.3967|Paulo Bento
 -20.0964|-49.4885|Paulo de Faria
@@ -3515,13 +3613,13 @@
 -9.3684|-36.3929|Paulo Jacinto
 -27.9468|-48.7406|Paulo Lopes
 -4.4488|-45.2376|Paulo Ramos
--22.7611|-47.1542|Paulínia
+-17.4678|-41.0774|Pavão
 -29.5956|-51.7234|Paverama
 -7.8865|-43.1969|Pavussu
--17.4678|-41.0774|Pavão
--2.4802|-44.1105|Paço do Lumiar
 -23.9128|-52.3431|Peabiru
+-18.5454|-42.4939|Peçanha
 -22.3517|-48.7750|Pederneiras
+-11.8897|-39.6194|Pé de Serra
 -8.4969|-36.9408|Pedra
 -15.9640|-41.2214|Pedra Azul
 -22.7640|-46.4371|Pedra Bela
@@ -3533,10 +3631,11 @@
 -20.8264|-42.1515|Pedra Dourada
 -5.0938|-35.8509|Pedra Grande
 -6.7802|-36.4420|Pedra Lavrada
--10.6649|-37.6850|Pedra Mole
--16.7638|-54.1634|Pedra Preta
 -22.2507|-45.4532|Pedralva
+-10.6649|-37.6850|Pedra Mole
 -20.1999|-50.0899|Pedranópolis
+-12.1331|-38.6062|Pedrão
+-16.7638|-54.1634|Pedra Preta
 -31.8328|-53.6327|Pedras Altas
 -7.4019|-35.1164|Pedras de Fogo
 -15.6335|-44.3084|Pedras de Maria da Cruz
@@ -3561,7 +3660,6 @@
 -6.6705|-35.3103|Pedro Régis
 -21.7280|-43.7205|Pedro Teixeira
 -6.4392|-35.2214|Pedro Velho
--12.1331|-38.6062|Pedrão
 -11.9961|-48.5328|Peixe
 -1.1017|-47.2726|Peixe-Boi
 -10.1472|-53.5864|Peixoto de Azevedo
@@ -3569,11 +3667,11 @@
 -31.7700|-52.3410|Pelotas
 -7.8005|-39.0470|Penaforte
 -3.2942|-45.1736|Penalva
+-21.4197|-50.0775|Penápolis
 -5.2600|-36.7222|Pendências
 -10.2445|-36.4699|Penedo
 -26.8023|-48.6271|Penha
 -3.8512|-39.1985|Pentecoste
--21.4197|-50.0775|Penápolis
 -21.8162|-43.1401|Pequeri
 -19.6104|-44.6335|Pequi
 -8.4098|-48.9415|Pequizeiro
@@ -3588,21 +3686,24 @@
 -27.3484|-51.8869|Peritiba
 -4.4405|-44.2818|Peritoró
 -23.9702|-53.3238|Perobal
+-23.8408|-53.7073|Pérola
+-25.8468|-53.7564|Pérola d'Oeste
 -17.5286|-52.0642|Perolândia
 -24.3200|-46.9983|Peruíbe
+-23.4047|-46.7547|Perus
 -18.3212|-41.5516|Pescador
 -8.3578|-36.6964|Pesqueira
+-8.8427|-38.3035|Petrolândia
 -9.3986|-40.5008|Petrolina
 -16.0950|-49.3381|Petrolina de Goiás
--8.8427|-38.3035|Petrolândia
 -22.3822|-43.1591|Petrópolis
--18.5454|-42.4939|Peçanha
+-10.4056|-36.4344|Piaçabuçu
 -21.5730|-50.6583|Piacatu
 -7.1981|-37.9292|Piancó
 -13.1210|-41.8909|Piatã
 -21.5021|-43.3147|Piau
--10.4056|-36.4344|Piaçabuçu
 -29.4476|-51.1152|Picada Café
+-6.4734|-48.9504|Piçarra
 -7.1070|-41.5127|Picos
 -6.5106|-36.3469|Picuí
 -23.7119|-47.4278|Piedade
@@ -3610,19 +3711,20 @@
 -20.2441|-42.7159|Piedade de Ponte Nova
 -21.5029|-44.1615|Piedade do Rio Grande
 -20.4808|-44.2531|Piedade dos Gerais
+-26.0865|-49.4564|Piên
+-10.0020|-43.3937|Pilão Arcado
 -9.6175|-36.0632|Pilar
 -14.5300|-49.5109|Pilar de Goiás
 -23.8131|-47.7164|Pilar do Sul
--10.0020|-43.3937|Pilão Arcado
 -6.8945|-35.5943|Pilões
 -6.8527|-35.5446|Pilõezinhos
 -20.4851|-45.8334|Pimenta
 -11.6725|-61.1936|Pimenta Bueno
 -6.2453|-41.4192|Pimenteiras
 -13.0127|-61.7376|Pimenteiras do Oeste
+-14.5232|-42.6782|Pindaí
 -22.9239|-45.4617|Pindamonhangaba
 -3.6083|-45.3433|Pindaré Mirim
--14.5232|-42.6782|Pindaí
 -9.4749|-36.3034|Pindoba
 -10.7417|-40.3608|Pindobaçu
 -21.1858|-48.9072|Pindorama
@@ -3631,18 +3733,18 @@
 -19.7372|-42.4284|Pingo-d'Água
 -25.4447|-49.1925|Pinhais
 -27.5264|-53.2343|Pinhal
+-23.9246|-50.0544|Pinhalão
 -27.8816|-51.2245|Pinhal da Serra
 -26.0068|-53.4891|Pinhal de São Bento
 -29.2707|-53.3459|Pinhal Grande
 -26.8193|-52.9764|Pinhalzinho
--23.9246|-50.0544|Pinhalão
+-25.6956|-51.6597|Pinhão
 -22.5128|-44.0006|Pinheiral
 -27.2264|-53.6335|Pinheirinho do Vale
 -2.6991|-45.1224|Pinheiro
 -31.5783|-53.3811|Pinheiro Machado
 -27.0546|-51.2271|Pinheiro Preto
 -18.3449|-40.2098|Pinheiros
--25.6956|-51.6597|Pinhão
 -11.9231|-39.9778|Pintadas
 -29.0929|-51.4618|Pinto Bandeira
 -16.0112|-45.2193|Pintópolis
@@ -3656,61 +3758,74 @@
 -20.5192|-44.4175|Piracema
 -22.7158|-47.7730|Piracicaba
 -3.8666|-41.7415|Piracuruca
+-22.6292|-43.8981|Piraí
+-13.8497|-39.3921|Piraí do Norte
+-24.5261|-49.9486|Piraí do Sul
 -23.1936|-49.3839|Piraju
 -19.9407|-48.7031|Pirajuba
 -21.9986|-49.4572|Pirajuí
 -10.6907|-36.8486|Pirambu
 -20.6289|-43.2835|Piranga
 -21.0857|-48.6719|Pirangi
--22.3488|-45.5946|Piranguinho
 -22.5635|-45.5104|Piranguçu
+-22.3488|-45.5946|Piranguinho
 -9.5481|-37.7453|Piranhas
 -3.7796|-44.2775|Pirapemas
 -21.6680|-42.3651|Pirapetinga
+-28.0529|-55.2346|Pirapó
 -17.4196|-44.8597|Pirapora
 -23.3720|-46.9780|Pirapora do Bom Jesus
 -22.2753|-51.5000|Pirapozinho
--28.0529|-55.2346|Pirapó
 -25.4423|-49.0680|Piraquara
 -6.6886|-48.2371|Piraquê
 -21.9961|-47.4258|Pirassununga
 -31.4166|-53.1116|Piratini
 -22.4228|-49.1933|Piratininga
 -27.4562|-51.7747|Piratuba
--22.6292|-43.8981|Piraí
--13.8497|-39.3921|Piraí do Norte
--24.5261|-49.9486|Piraí do Sul
 -21.2647|-43.0140|Piraúba
 -15.8507|-48.9609|Pirenópolis
 -17.2997|-48.2794|Pires do Rio
 -4.2549|-40.5987|Pires Ferreira
--4.3949|-41.7882|Piripiri
 -14.9262|-41.7530|Piripá
+-4.3949|-41.7882|Piripiri
 -11.7303|-40.5553|Piritiba
+-23.4898|-46.7322|Pirituba
 -6.7800|-35.4986|Pirpirituba
 -24.7572|-51.7614|Pitanga
 -23.1919|-51.5684|Pitangueiras
 -19.5729|-44.8757|Pitangui
 -7.4138|-34.8369|Pitimbu
--10.0740|-49.6986|Pium
--20.4326|-46.0608|Piumhi
 -20.4653|-45.9581|Piuí
--6.4734|-48.9504|Piçarra
--26.0865|-49.4564|Piên
+-10.0740|-49.6986|Pium
 -20.8311|-40.7293|Piúma
+-20.4326|-46.0608|Piumhi
 -3.9771|-54.5242|Placas
+-10.3353|-67.1856|Plácido de Castro
 -15.6179|-47.6487|Planaltina
 -23.0939|-52.9282|Planaltina do Paraná
 -13.2735|-40.2232|Planaltino
 -14.7286|-40.3802|Planalto
 -27.0735|-52.8550|Planalto Alegre
 -14.5652|-54.6777|Planalto da Serra
+-15.7941|-47.8825|Plano Piloto
 -20.0692|-48.6752|Planura
 -22.6281|-50.2221|Platina
--10.3353|-67.1856|Plácido de Castro
+-23.5346|-46.3466|Poá
+-8.2139|-36.7227|Poção
+-4.7850|-44.9123|Poção de Pedras
 -7.0767|-36.0611|Pocinhos
+-5.6228|-35.6628|Poço Branco
+-6.3879|-38.5336|Poço Dantas
+-29.4534|-51.6697|Poço das Antas
+-9.3125|-37.2856|Poço das Trincheiras
+-6.5996|-38.5057|Poço de José de Moura
+-21.8207|-45.9883|Poço Fundo
 -16.2567|-56.6228|Poconé
+-9.8803|-37.7761|Poço Redondo
+-21.7934|-46.5357|Poços de Caldas
+-10.8164|-38.1505|Poço Verde
 -19.5750|-41.5627|Pocrane
+-14.5297|-40.3653|Poções
 -12.3659|-38.2433|Pojuca
 -20.7294|-49.8155|Poloni
 -6.7703|-37.8017|Pombal
@@ -3721,12 +3836,13 @@
 -21.7336|-49.3640|Pongaí
 -1.0530|-49.1549|Ponta de Pedras
 -25.0950|-50.1619|Ponta Grossa
--22.5361|-55.7256|Ponta Porã
 -21.0225|-48.0372|Pontal
 -15.9675|-52.7542|Pontal do Araguaia
 -25.6736|-48.5111|Pontal do Paraná
 -17.5250|-49.4472|Pontalina
 -20.4632|-50.5221|Pontalinda
+-28.0498|-52.6374|Pontão
+-22.5361|-55.7256|Ponta Porã
 -27.4257|-50.2936|Ponte Alta
 -12.0970|-46.6263|Ponte Alta do Bom Jesus
 -27.1813|-50.4358|Ponte Alta do Norte
@@ -3734,24 +3850,26 @@
 -16.6505|-52.9024|Ponte Branca
 -20.4070|-42.9206|Ponte Nova
 -27.6769|-52.5174|Ponte Preta
--26.8605|-51.9107|Ponte Serrada
+-23.5157|-46.4937|Ponte Rasa
 -15.2261|-59.3353|Pontes e Lacerda
+-26.8605|-51.9107|Ponte Serrada
 -20.1701|-49.7590|Pontes Gestal
 -18.2522|-40.4986|Ponto Belo
 -16.6377|-44.9380|Ponto Chique
 -16.8544|-41.4634|Ponto dos Volantes
 -10.8628|-40.1336|Ponto Novo
--28.0498|-52.6374|Pontão
 -19.9221|-50.5173|Populina
 -4.7610|-40.9322|Poranga
 -23.1758|-48.1250|Porangaba
 -13.4408|-49.1486|Porangatu
 -20.9628|-42.0408|Porciúncula
+-15.8550|-48.1243|Pôr do Sol
 -22.7558|-51.3792|Porecatu
 -6.0055|-38.0021|Portalegre
+-29.7075|-51.2357|Portão
+-17.9024|-50.1567|Porteirão
 -7.5951|-39.0744|Porteiras
 -15.6869|-43.1404|Porteirinha
--17.9024|-50.1567|Porteirão
 -1.9356|-50.8211|Portel
 -17.3561|-52.6786|Portelândia
 -3.9456|-42.6888|Porto
@@ -3761,6 +3879,7 @@
 -6.9593|-44.0741|Porto Alegre do Piauí
 -11.5324|-47.0345|Porto Alegre do Tocantins
 -25.5390|-49.9018|Porto Amazonas
+-22.9667|-53.6667|Pôrto Barra do Ivinheima
 -25.5809|-52.3921|Porto Barreiro
 -27.1578|-48.5531|Porto Belo
 -9.0450|-35.3983|Porto Calvo
@@ -3791,49 +3910,36 @@
 -26.2534|-51.2419|Porto Vitória
 -8.2686|-72.7439|Porto Walter
 -27.9332|-55.1542|Porto Xavier
--29.7075|-51.2357|Portão
 -14.0931|-46.3694|Posse
 -17.8883|-39.8559|Posto da Mata
+-13.0827|-62.2773|Pôsto Fiscal Rolim de Moura|Rolim de Moura do Guaporé
+-17.7928|-41.7652|Poté
 -7.0328|-40.0401|Potengi
 -22.8250|-45.3061|Potim
 -15.7012|-39.7669|Potiraguá
 -21.1074|-49.3981|Potirendaba
 -5.7540|-38.1825|Potiretama
--17.7928|-41.7652|Poté
 -22.2300|-45.9364|Pouso Alegre
 -22.1796|-44.9527|Pouso Alto
 -29.1678|-52.2216|Pouso Novo
 -27.3039|-49.9847|Pouso Redondo
 -15.8372|-54.3892|Poxoréo
 -15.7563|-54.1187|Poxoréu
--23.5346|-46.3466|Poá
--5.6228|-35.6628|Poço Branco
--6.3879|-38.5336|Poço Dantas
--29.4534|-51.6697|Poço das Antas
--9.3125|-37.2856|Poço das Trincheiras
--6.5996|-38.5057|Poço de José de Moura
--21.8207|-45.9883|Poço Fundo
--9.8803|-37.7761|Poço Redondo
--10.8164|-38.1505|Poço Verde
--21.7934|-46.5357|Poços de Caldas
--8.2139|-36.7227|Poção
--4.7850|-44.9123|Poção de Pedras
--14.5297|-40.3653|Poções
 -21.8400|-51.0803|Pracinha
 1.6708|-51.2449|Pracuúba
 -17.3165|-39.2336|Prado
 -23.0244|-51.3791|Prado Ferreira
--21.1076|-44.0648|Prados
 -21.3594|-48.0656|Pradópolis
+-21.1076|-44.0648|Prados
 -29.2032|-50.0341|Praia Grande
 -5.4696|-47.7973|Praia Norte
 -2.2015|-53.4933|Prainha
 -25.9659|-53.6968|Pranchita
 -19.3735|-48.9436|Prata
 -5.7110|-42.1533|Prata do Piauí
--19.7470|-46.4288|Pratinha
--20.7857|-46.8445|Pratápolis
 -22.8174|-48.6870|Pratânia
+-20.7857|-46.8445|Pratápolis
+-19.7470|-46.4288|Pratinha
 -22.1095|-49.4059|Presidente Alves
 -20.7733|-43.1621|Presidente Bernardes
 -27.2365|-51.7800|Presidente Castello Branco
@@ -3842,8 +3948,8 @@
 -21.7633|-52.1156|Presidente Epitácio
 -1.2834|-59.9832|Presidente Figueiredo
 -27.0619|-49.7140|Presidente Getúlio
--3.0861|-44.0774|Presidente Juscelino
 -14.8294|-41.7862|Presidente Jânio Quadros
+-3.0861|-44.0774|Presidente Juscelino
 -21.1500|-41.0729|Presidente Kennedy
 -18.6498|-43.5798|Presidente Kubitschek
 -29.5278|-51.1928|Presidente Lucena
@@ -3873,23 +3979,17 @@
 -5.4252|-35.5928|Pureza
 -29.0478|-52.1650|Putinga
 -7.1611|-35.9606|Puxinanã
--9.6835|-37.4543|Pão de Açúcar
--11.8897|-39.6194|Pé de Serra
--23.8408|-53.7073|Pérola
--25.8468|-53.7564|Pérola d'Oeste
--22.9667|-53.6667|Pôrto Barra do Ivinheima
--13.0827|-62.2773|Pôsto Fiscal Rolim de Moura
 -23.3003|-48.0426|Quadra
 -30.3875|-56.4514|Quaraí
 -19.2872|-45.5843|Quartel Geral
 -24.2961|-53.1199|Quarto Centenário
+-22.2475|-50.6983|Quatá
 -23.5550|-49.9198|Quatiguá
 -0.8255|-47.0104|Quatipuru
 -22.4072|-44.2581|Quatis
 -25.3656|-49.0769|Quatro Barras
 -27.8125|-52.4607|Quatro Irmãos
 -24.5043|-54.0057|Quatro Pontes
--22.2475|-50.6983|Quatá
 -9.3189|-36.4711|Quebrangulo
 -25.4317|-52.9826|Quedas do Iguaçu
 -8.5400|-41.2475|Queimada Nova
@@ -3928,16 +4028,18 @@
 -27.7073|-49.0716|Rancho Queimado
 -6.5167|-44.1833|Raposa
 -19.9762|-43.7902|Raposos
+-23.5924|-46.7856|Raposo Tavares
 -20.0142|-42.4089|Raul Soares
 -25.6743|-53.5466|Realeza
 -25.6830|-50.6311|Rebouças
+-15.9086|-48.0645|Recanto das Emas
 -8.0539|-34.8811|Recife
 -21.5285|-42.4433|Recreio
 -8.6685|-47.0733|Recursolândia
--27.5683|-53.6092|Redentora
 -4.2258|-38.7306|Redenção
 -23.2567|-45.5020|Redenção da Serra
 -9.5821|-44.5380|Redenção do Gurguéia
+-27.5683|-53.6092|Redentora
 -20.2287|-41.9427|Reduto
 -6.2784|-42.4817|Regeneração
 -22.2214|-51.3028|Regente Feijó
@@ -3947,6 +4049,7 @@
 -9.5412|-42.3696|Remanso
 -6.9465|-35.7804|Remígio
 -26.2146|-52.9343|Renascença
+-23.5448|-46.6410|Republica
 -4.1383|-40.6160|Reriutaba
 -22.4689|-44.4467|Resende
 -20.8413|-44.2811|Resende Costa
@@ -3959,6 +4062,12 @@
 -20.6765|-47.5206|Restinga
 -29.8271|-53.3401|Restinga Sêca
 -11.4773|-39.4065|Retirolândia
+-7.3619|-46.6172|Riachão
+-11.7461|-44.9100|Riachão das Neves
+-7.2634|-35.6752|Riachão do Bacamarte
+-11.0128|-37.7868|Riachão do Dantas
+-11.8069|-39.3856|Riachão do Jacuípe
+-7.1704|-35.3030|Riachão do Poço
 -16.2446|-45.8942|Riachinho
 -5.9263|-37.9756|Riacho da Cruz
 -8.0540|-35.8263|Riacho das Almas
@@ -3967,13 +4076,9 @@
 -6.4714|-37.6402|Riacho dos Cavalos
 -16.0661|-42.9755|Riacho dos Machados
 -9.8366|-44.6790|Riacho Frio
+-15.8838|-48.0163|Riacho Fundo
+-15.8981|-48.0467|Riacho Fundo II
 -5.8360|-35.8813|Riachuelo
--7.3619|-46.6172|Riachão
--11.7461|-44.9100|Riachão das Neves
--7.2634|-35.6752|Riachão do Bacamarte
--11.0128|-37.7868|Riachão do Dantas
--11.8069|-39.3856|Riachão do Jacuípe
--7.1704|-35.3030|Riachão do Poço
 -15.3150|-49.5844|Rialma
 -15.4747|-49.4479|Rianápolis
 -5.9344|-47.2979|Ribamar Fiquene
@@ -3982,7 +4087,6 @@
 -11.0056|-38.3873|Ribeira do Amparo
 -8.0971|-42.5761|Ribeira do Piauí
 -10.8344|-38.5358|Ribeira do Pombal
--8.0872|-45.4720|Ribeiro Gonçalves
 -8.5076|-35.3934|Ribeirão
 -22.0667|-48.1761|Ribeirão Bonito
 -24.2208|-48.7656|Ribeirão Branco
@@ -3993,13 +4097,14 @@
 -19.7669|-44.0867|Ribeirão das Neves
 -15.3856|-40.6589|Ribeirão do Largo
 -23.3863|-50.4320|Ribeirão do Pinhal
--22.7411|-49.9463|Ribeirão do Sul
 -21.7847|-51.5784|Ribeirão dos Índios
+-22.7411|-49.9463|Ribeirão do Sul
 -24.1757|-48.3401|Ribeirão Grande
 -23.7041|-46.3999|Ribeirão Pires
 -21.1775|-47.8103|Ribeirão Preto
 -21.1538|-45.0788|Ribeirão Vermelho
 -16.5014|-52.7591|Ribeirãozinho
+-8.0872|-45.4720|Ribeiro Gonçalves
 -10.5218|-37.3783|Ribeirópolis
 -20.0782|-47.4384|Rifaina
 -21.5739|-47.9969|Rincão
@@ -4026,21 +4131,22 @@
 -22.9201|-43.3307|Rio de Janeiro
 -14.2267|-42.1661|Rio do Antônio
 -26.8609|-50.1120|Rio do Campo
+-20.2061|-42.8925|Rio Doce
 -5.3823|-35.3838|Rio do Fogo
 -27.1487|-49.8455|Rio do Oeste
 -13.1113|-42.1775|Rio do Pires
 -16.6834|-40.5600|Rio do Prado
--27.2142|-49.6431|Rio do Sul
--20.2061|-42.8925|Rio Doce
 -9.2090|-48.4431|Rio dos Bois
 -26.6109|-49.3723|Rio dos Cedros
 -27.2552|-52.8764|Rio dos Índios
+-27.2142|-49.6431|Rio do Sul
 -20.8536|-43.5205|Rio Espera
 -8.6688|-35.1628|Rio Formoso
 -28.0844|-49.2012|Rio Fortuna
 -32.0781|-52.3501|Rio Grande
 -23.7335|-46.3735|Rio Grande da Serra
 -7.8606|-43.1455|Rio Grande do Piauí
+-19.9808|-49.6819|Riolândia
 -9.4783|-35.8533|Rio Largo
 -20.2492|-44.3403|Rio Manso
 -7.4097|-49.8289|Rio Maria
@@ -4051,6 +4157,7 @@
 -19.1989|-46.2921|Rio Paranaíba
 -29.9897|-52.3781|Rio Pardo
 -15.7300|-42.5732|Rio Pardo de Minas
+-23.5714|-46.7589|Rio Pequeno
 -19.9749|-43.1611|Rio Piracicaba
 -21.2541|-43.1716|Rio Pomba
 -22.0449|-43.8698|Rio Preto
@@ -4064,7 +4171,6 @@
 -17.7189|-51.0421|Rio Verde
 -18.9181|-54.8442|Rio Verde de Mato Grosso
 -18.2687|-43.0742|Rio Vermelho
--19.9808|-49.6819|Riolândia
 -29.5985|-50.3922|Riozinho
 -26.9819|-53.3396|Riqueza
 -20.9929|-44.3705|Ritápolis
@@ -4072,6 +4178,7 @@
 -29.2264|-51.8244|Roca Sales
 -19.9880|-54.7818|Rochedo
 -21.6427|-43.0331|Rochedo de Minas
+-22.9889|-43.2493|Rocinha
 -26.9228|-49.3664|Rodeio
 -27.4697|-53.1704|Rodeio Bonito
 -21.2126|-42.8409|Rodeiro
@@ -4079,9 +4186,9 @@
 -5.8566|-38.0934|Rodolfo Fernandes
 -7.8529|-73.2361|Rodrigues Alves
 -28.2710|-54.8561|Rolador
+-23.3097|-51.3692|Rolândia
 -29.6506|-50.5758|Rolante
 -11.7526|-61.7897|Rolim de Moura
--23.3097|-51.3692|Rolândia
 -18.8934|-47.5813|Romaria
 -26.6724|-53.3109|Romelândia
 -24.5636|-52.2245|Roncador
@@ -4094,28 +4201,29 @@
 -28.0567|-55.1205|Roque Gonzales
 0.9458|-60.4178|Rorainópolis
 -22.4925|-52.8194|Rosana
--22.9330|-45.2998|Roseira
 -2.9600|-44.1743|Rosário
 -20.9860|-42.5151|Rosário da Limeira
 -10.6855|-37.0345|Rosário do Catete
 -24.3057|-51.2202|Rosário do Ivaí
 -30.2583|-54.9142|Rosário do Sul
 -14.8361|-56.4275|Rosário Oeste
+-22.9330|-45.2998|Roseira
 -9.8591|-35.9831|Roteiro
 -16.3421|-42.2280|Rubelita
+-21.3611|-50.7859|Rubiácea
 -15.1644|-49.8033|Rubiataba
 -16.4515|-40.4930|Rubim
 -20.2499|-51.0184|Rubinéia
--21.3611|-50.7859|Rubiácea
 -4.1879|-55.1841|Rurópolis
 -4.8399|-38.1960|Russas
 -12.2839|-40.4939|Ruy Barbosa
 -19.8539|-43.7833|Sabará
+-23.3658|-51.6054|Sabáudia
 -21.4797|-49.5765|Sabino
 -18.6488|-43.0655|Sabinópolis
 -6.4781|-39.8857|Saboeiro
--23.3658|-51.6054|Sabáudia
 -27.6086|-48.5361|Saco dos Limoes
+-23.6308|-46.5982|Sacomã
 -19.8804|-47.2260|Sacramento
 -27.7148|-53.1285|Sagrada Família
 -21.8653|-51.0050|Sagres
@@ -4150,6 +4258,7 @@
 -28.0770|-54.8288|Salvador das Missões
 -29.4801|-51.5141|Salvador do Sul
 -0.7885|-48.6195|Salvaterra
+-15.8823|-48.1043|Samambaia
 -7.6149|-45.6775|Sambaíba
 -5.3659|-47.9190|Sampaio
 -27.9497|-51.8067|Sananduva
@@ -4158,22 +4267,22 @@
 -22.4548|-51.8532|Sandovalina
 -28.6701|-49.1221|Sangão
 -8.2919|-36.5217|Sanharó
--30.7807|-55.4816|Sant'Ana do Livramento
 -21.2428|-48.8042|Santa Adélia
 -20.0350|-50.7178|Santa Albertina
 -23.2604|-50.4133|Santa Amélia
--23.3967|-45.8839|Santa Branca
--9.6790|-38.1137|Santa Brígida
 -11.9177|-38.9921|Santa Bárbara
--22.7536|-47.4136|Santa Bárbara d'Oeste
 -16.6023|-49.6862|Santa Bárbara de Goiás
+-22.7536|-47.4136|Santa Bárbara d'Oeste
 -19.9406|-42.1033|Santa Bárbara do Leste
 -21.9769|-43.6932|Santa Bárbara do Monte Verde
 -1.1983|-48.2510|Santa Bárbara do Pará
 -28.3743|-53.2574|Santa Bárbara do Sul
 -21.2390|-43.5238|Santa Bárbara do Tugúrio
+-23.3967|-45.8839|Santa Branca
+-9.6790|-38.1137|Santa Brígida
 -11.9060|-54.8077|Santa Carmem
 -7.7203|-35.9368|Santa Cecília
+-23.5318|-46.6529|Santa Cecilia
 -23.5444|-50.8228|Santa Cecília do Pavão
 -28.1726|-51.9240|Santa Cecília do Sul
 -20.0753|-50.8987|Santa Clara d'Oeste
@@ -4183,8 +4292,8 @@
 -7.8482|-38.1534|Santa Cruz da Baixa Verde
 -22.1261|-47.4928|Santa Cruz da Conceição
 -21.2617|-47.4475|Santa Cruz da Esperança
--14.9031|-39.7915|Santa Cruz da Vitória
 -21.8269|-47.2486|Santa Cruz das Palmeiras
+-14.9031|-39.7915|Santa Cruz da Vitória
 -17.4515|-48.5710|Santa Cruz de Goiás
 -21.1200|-44.2137|Santa Cruz de Minas
 -23.1441|-53.3664|Santa Cruz de Monte Castelo
@@ -4194,18 +4303,18 @@
 -20.2334|-42.8211|Santa Cruz do Escalvado
 -7.2649|-41.7638|Santa Cruz do Piauí
 -22.8989|-49.6325|Santa Cruz do Rio Pardo
+-5.8323|-41.9579|Santa Cruz dos Milagres
 -29.7175|-52.4258|Santa Cruz do Sul
 -10.1560|-52.4980|Santa Cruz do Xingu
--5.8323|-41.9579|Santa Cruz dos Milagres
 -18.8623|-42.4003|Santa Efigênia de Minas
 -21.4530|-48.3780|Santa Ernestina
--8.2880|-40.5930|Santa Filomena
--5.4827|-44.5518|Santa Filomena do Maranhão
 -23.0399|-51.8136|Santa Fé
 -15.6230|-51.1385|Santa Fé de Goiás
 -16.6812|-45.5973|Santa Fé de Minas
 -7.1075|-48.9558|Santa Fé do Araguaia
 -20.2111|-50.9258|Santa Fé do Sul
+-8.2880|-40.5930|Santa Filomena
+-5.4827|-44.5518|Santa Filomena do Maranhão
 -22.4567|-47.5303|Santa Gertrudes
 -2.4266|-45.3836|Santa Helena
 -17.8054|-50.5388|Santa Helena de Goiás
@@ -4218,21 +4327,21 @@
 -25.7757|-53.4105|Santa Izabel do Oeste
 -19.3557|-47.5371|Santa Juliana
 -20.1006|-40.5297|Santa Leopoldina
--8.9744|-44.2778|Santa Luz
+-25.4147|-53.5521|Santa Lúcia
+-11.2558|-39.3747|Santaluz
 -15.4639|-39.2767|Santa Luzia
 -12.1047|-61.7944|Santa Luzia d'Oeste
 -11.3615|-37.4785|Santa Luzia do Itanhy
 -9.6108|-35.8292|Santa Luzia do Norte
--2.5468|-45.7594|Santa Luzia do Paruá
 -1.6575|-46.9271|Santa Luzia do Pará
--25.4147|-53.5521|Santa Lúcia
+-2.5468|-45.7594|Santa Luzia do Paruá
 -20.4357|-42.2706|Santa Margarida
 -30.3674|-54.1100|Santa Margarida do Sul
 -5.8453|-35.7199|Santa Maria
 -8.8078|-39.8256|Santa Maria da Boa Vista
+-8.6367|-50.2658|Santa Maria das Barreiras
 -22.5375|-48.1446|Santa Maria da Serra
 -13.3881|-44.1987|Santa Maria da Vitória
--8.6367|-50.2658|Santa Maria das Barreiras
 -19.4359|-43.0684|Santa Maria de Itabira
 -20.0275|-40.7434|Santa Maria de Jetibá
 -7.8144|-35.8817|Santa Maria do Cambucá
@@ -4247,16 +4356,47 @@
 -21.3183|-51.7464|Santa Mercedes
 -27.5914|-48.5076|Santa Monica
 -23.1655|-53.1124|Santa Mônica
+-0.0583|-51.1817|Santana
+-30.7619|-53.1830|Santana da Boa Vista
+-20.2565|-50.7985|Santana da Ponte Pensa
+-21.2676|-45.4897|Santana da Vargem
+-21.2832|-42.5658|Santana de Cataguases
+-7.6659|-38.3585|Santana de Mangueira
+-23.4442|-46.9178|Santana de Parnaíba
+-18.9078|-43.9270|Santana de Pirapama
+-3.4606|-40.2122|Santana do Acaraú
+-9.1387|-50.6730|Santana do Araguaia
+-7.1797|-39.7845|Santana do Cariri
+-21.9454|-43.1745|Santana do Deserto
+-21.6468|-44.0694|Santana do Garambéu
+-9.3783|-37.2453|Santana do Ipanema
+-23.7344|-49.6194|Santana do Itararé
+-20.8887|-45.0791|Santana do Jacaré
+-30.8908|-55.5328|Santana do Livramento
+-20.0556|-41.8977|Santana do Manhuaçu
+-3.1351|-42.7488|Santana do Maranhão
+-5.9575|-36.6556|Santana do Matos
+-9.1681|-36.2222|Santana do Mundaú
+-19.3801|-42.5407|Santana do Paraíso
+-6.9525|-41.4618|Santana do Piauí
+-19.1842|-43.6838|Santana do Riacho
+-10.2765|-36.6331|Santana do São Francisco
+-6.7521|-36.7660|Santana do Seridó
+-7.3816|-37.9539|Santana dos Garrotes
+-20.7986|-43.6458|Santana dos Montes
+-12.0242|-38.8801|Santanópolis
 -4.3319|-40.1567|Santa Quitéria
 -3.3024|-42.9548|Santa Quitéria do Maranhão
+-2.4431|-54.7083|Santarém
+-0.8878|-47.3630|Santarém Novo
 -3.1635|-44.3288|Santa Rita
--20.0806|-50.8137|Santa Rita d'Oeste
 -22.0194|-46.2737|Santa Rita de Caldas
 -11.0272|-44.5958|Santa Rita de Cássia
 -21.5615|-43.9580|Santa Rita de Ibitipoca
 -22.1090|-44.1033|Santa Rita de Jacutinga
 -19.8692|-42.1270|Santa Rita de Minas
 -17.2329|-53.0768|Santa Rita do Araguaia
+-20.0806|-50.8137|Santa Rita d'Oeste
 -19.4180|-41.4028|Santa Rita do Itueto
 -14.8266|-49.0594|Santa Rita do Novo Destino
 -21.3548|-52.6932|Santa Rita do Pardo
@@ -4287,38 +4427,6 @@
 -6.4804|-47.7005|Santa Terezinha do Tocantins
 -19.0919|-50.2991|Santa Vitória
 -33.5189|-53.3681|Santa Vitória do Palmar
--11.2558|-39.3747|Santaluz
--0.0583|-51.1817|Santana
--30.7619|-53.1830|Santana da Boa Vista
--20.2565|-50.7985|Santana da Ponte Pensa
--21.2676|-45.4897|Santana da Vargem
--21.2832|-42.5658|Santana de Cataguases
--7.6659|-38.3585|Santana de Mangueira
--23.4442|-46.9178|Santana de Parnaíba
--18.9078|-43.9270|Santana de Pirapama
--3.4606|-40.2122|Santana do Acaraú
--9.1387|-50.6730|Santana do Araguaia
--7.1797|-39.7845|Santana do Cariri
--21.9454|-43.1745|Santana do Deserto
--21.6468|-44.0694|Santana do Garambéu
--9.3783|-37.2453|Santana do Ipanema
--23.7344|-49.6194|Santana do Itararé
--20.8887|-45.0791|Santana do Jacaré
--30.8908|-55.5328|Santana do Livramento
--20.0556|-41.8977|Santana do Manhuaçu
--3.1351|-42.7488|Santana do Maranhão
--5.9575|-36.6556|Santana do Matos
--9.1681|-36.2222|Santana do Mundaú
--19.3801|-42.5407|Santana do Paraíso
--6.9525|-41.4618|Santana do Piauí
--19.1842|-43.6838|Santana do Riacho
--6.7521|-36.7660|Santana do Seridó
--10.2765|-36.6331|Santana do São Francisco
--7.3816|-37.9539|Santana dos Garrotes
--20.7986|-43.6458|Santana dos Montes
--12.0242|-38.8801|Santanópolis
--2.4431|-54.7083|Santarém
--0.8878|-47.3630|Santarém Novo
 -29.1137|-54.7336|Santiago
 -26.6306|-52.6747|Santiago do Sul
 -14.4613|-57.3858|Santo Afonso
@@ -4328,6 +4436,7 @@
 -2.6203|-43.1651|Santo Amaro do Maranhão
 -22.0152|-51.7010|Santo Anastácio
 -7.2418|-36.6146|Santo André
+-28.2992|-54.2631|Santo Ângelo
 -6.3106|-35.4789|Santo Antônio
 -21.0924|-47.2036|Santo Antônio da Alegria
 -17.5123|-50.6307|Santo Antônio da Barra
@@ -4337,16 +4446,16 @@
 -16.5001|-49.3110|Santo Antônio de Goiás
 -12.9689|-39.2614|Santo Antônio de Jesus
 -6.8764|-41.1810|Santo Antônio de Lisboa
--22.6061|-46.9194|Santo Antônio de Posse
 -21.5724|-42.2109|Santo Antônio de Pádua
+-22.6061|-46.9194|Santo Antônio de Posse
 -20.9166|-44.9551|Santo Antônio do Amparo
 -20.8562|-50.5311|Santo Antônio do Aracanguá
 -21.7442|-42.8110|Santo Antônio do Aventureiro
 -22.6937|-52.3090|Santo Antônio do Caiuá
 -16.0807|-48.2960|Santo Antônio do Descoberto
 -20.3233|-42.6155|Santo Antônio do Grama
--18.4917|-43.2628|Santo Antônio do Itambé
 -3.1022|-67.9397|Santo Antônio do Içá
+-18.4917|-43.2628|Santo Antônio do Itambé
 -16.5093|-40.2800|Santo Antônio do Jacinto
 -22.1262|-46.6724|Santo Antônio do Jardim
 -14.8245|-53.7414|Santo Antônio do Leste
@@ -4358,10 +4467,10 @@
 -28.3861|-52.6658|Santo Antônio do Planalto
 -15.3014|-42.6442|Santo Antônio do Retiro
 -19.2505|-43.2530|Santo Antônio do Rio Abaixo
--26.0736|-53.7253|Santo Antônio do Sudoeste
--1.1519|-48.1294|Santo Antônio do Tauá
 -4.8257|-44.4751|Santo Antônio dos Lopes
 -6.0540|-42.7008|Santo Antônio dos Milagres
+-26.0736|-53.7253|Santo Antônio do Sudoeste
+-1.1519|-48.1294|Santo Antônio do Tauá
 -27.8508|-53.7772|Santo Augusto
 -27.7884|-54.7038|Santo Cristo
 -12.4303|-39.2514|Santo Estêvão
@@ -4370,178 +4479,9 @@
 -18.3838|-44.1773|Santo Hipólito
 -22.7236|-51.8061|Santo Inácio
 -7.4691|-41.9179|Santo Inácio do Piauí
--28.2992|-54.2631|Santo Ângelo
+-21.6706|-50.5203|Santópolis do Aguapeí
 -23.8566|-46.2706|Santos
 -21.4645|-43.5257|Santos Dumont
--21.6706|-50.5203|Santópolis do Aguapeí
--12.7720|-39.2385|Sapeaçu
--13.1645|-58.6879|Sapezal
--29.6381|-51.0069|Sapiranga
--23.8775|-50.6102|Sapopema
--6.8479|-49.5006|Sapucaia
--29.8183|-51.1553|Sapucaia do Sul
--22.7917|-45.8422|Sapucaí-Mirim
--7.0794|-35.2173|Sapé
--22.9200|-42.5103|Saquarema
--23.4436|-51.8739|Sarandi
--23.6590|-47.7709|Sarapuí
--18.7735|-42.4030|Sardoá
--23.2582|-49.4837|Sarutaiá
--20.0446|-44.1344|Sarzedo
--9.5633|-35.8244|Satuba
--3.8480|-45.2554|Satubinha
--12.7375|-38.7686|Saubara
--25.7047|-52.6082|Saudade do Iguaçu
--26.8790|-53.0404|Saudades
--10.8446|-40.3751|Saúde
--26.4125|-49.0731|Schroeder
--12.4171|-41.7705|Seabra
--27.1448|-52.3486|Seara
--20.6156|-49.9075|Sebastianópolis do Sul
--10.5976|-44.8361|Sebastião Barros
--14.5685|-43.1373|Sebastião Laranjeiras
--7.5132|-44.0254|Sebastião Leal
--27.5088|-53.3648|Seberi
--27.6449|-53.9615|Sede Nova
--29.2970|-52.9228|Segredo
--28.6764|-52.9824|Selbach
--20.2496|-51.8323|Selvíria
--20.0734|-42.8156|Sem-Peixe
--9.0634|-68.6724|Sena Madureira
--5.2921|-43.8749|Senador Alexandre Costa
--22.5536|-46.2242|Senador Amaral
--16.7081|-49.0931|Senador Canedo
--21.7616|-42.9114|Senador Cortes
--6.0401|-35.6573|Senador Elói de Souza
--20.8968|-43.1103|Senador Firmino
--6.1483|-35.1335|Senador Georgino Avelino
--10.1497|-67.7374|Senador Guiomard
--22.1584|-46.1428|Senador José Bento
--2.5908|-51.9542|Senador José Porfírio
--5.4266|-47.1719|Senador La Rocque
--17.9134|-43.2133|Senador Modestino Gonçalves
--5.5881|-39.3717|Senador Pompeu
--9.3383|-37.5597|Senador Rui Palmeira
--28.0295|-54.5240|Senador Salgado Filho
--3.2765|-40.4442|Senador Sá
--24.1134|-49.4631|Sengés
--10.4614|-40.1894|Senhor do Bonfim
--20.8018|-43.3454|Senhora de Oliveira
--18.9027|-43.0858|Senhora do Porto
--21.0288|-43.5968|Senhora dos Remédios
--30.6034|-51.6210|Sentinela do Sul
--10.2125|-41.5795|Sento Sé
--28.6912|-51.9267|Serafina Corrêa
--20.4954|-42.4599|Sericita
--11.9249|-63.1894|Seringueiras
--21.9189|-44.4630|Seritinga
--22.7388|-43.7086|Seropédica
--20.1082|-40.3019|Serra
--26.7024|-53.0140|Serra Alta
--21.2875|-47.5388|Serra Azul
--18.3822|-43.2025|Serra Azul de Minas
--6.5333|-38.2667|Serra Branca
--6.1423|-35.6684|Serra Caiada
--6.6970|-35.4358|Serra da Raiz
--19.3839|-45.8000|Serra da Saudade
--6.4370|-35.7119|Serra de São Bento
--5.1220|-37.0312|Serra do Mel
-1.6580|-52.2820|Serra do Navio
--13.4110|-43.7785|Serra do Ramalho
--19.1499|-46.6531|Serra do Salitre
--17.7502|-40.2711|Serra dos Aimorés
--12.9150|-43.7960|Serra Dourada
--7.2509|-38.3959|Serra Grande
--22.6122|-46.7006|Serra Negra
--6.5760|-37.3942|Serra Negra do Norte
--12.0290|-51.3341|Serra Nova Dourada
--12.0691|-39.3005|Serra Preta
--7.1566|-35.6763|Serra Redonda
--7.9919|-38.2983|Serra Talhada
--21.2114|-47.5956|Serrana
--21.5551|-46.1071|Serrania
--1.8566|-45.0851|Serrano do Maranhão
--21.8239|-44.5424|Serranos
--18.2704|-52.2475|Serranópolis
--15.8998|-42.8513|Serranópolis de Minas
--25.4700|-54.0164|Serranópolis do Iguaçu
--6.8636|-35.6693|Serraria
--11.6642|-39.0075|Serrinha
--6.1526|-37.9886|Serrinha dos Pintos
--7.8401|-39.4081|Serrita
--18.5204|-43.3807|Serro
--11.5402|-40.2478|Serrolândia
--22.9583|-50.8880|Sertaneja
--23.0586|-51.0364|Sertanópolis
--8.0736|-37.2644|Sertânia
--28.0041|-52.3566|Sertão
--30.4911|-51.6654|Sertão Santana
--6.7394|-35.4163|Sertãozinho
--24.2772|-47.9501|Sete Barras
--28.1255|-54.4791|Sete de Setembro
--19.4658|-44.2467|Sete Lagoas
--23.8807|-55.0273|Sete Quedas
--17.6669|-42.1951|Setubinha
--27.4065|-52.1075|Severiano de Almeida
--5.7772|-37.9578|Severiano Melo
--20.7807|-48.7904|Severínia
--28.5978|-49.4244|Siderópolis
--20.9319|-54.9614|Sidrolândia
--4.7989|-41.7846|Sigefredo Pacheco
--22.6508|-42.3917|Silva Jardim
--11.1134|-48.2234|Silvanópolis
--29.6364|-53.5461|Silveira Martins
--22.7365|-44.8478|Silveiras
--21.1445|-43.1983|Silveirânia
--2.7685|-58.6275|Silves
--22.0530|-45.8158|Silvianópolis
--16.6589|-48.6081|Silvânia
--14.4382|-46.5923|Simolândia
--19.9989|-41.9873|Simonésia
--7.8539|-41.9103|Simplício Mendes
--10.7116|-37.7714|Simão Dias
--21.9663|-43.2903|Simão Pereira
--7.5989|-40.8178|Simões
--12.7844|-38.4039|Simões Filho
--29.4151|-52.6050|Sinimbu
--11.8642|-55.5025|Sinop
--23.6889|-49.8339|Siqueira Campos
--8.5908|-35.1161|Sirinhaém
--10.5872|-37.1212|Siriri
--12.8333|-39.1000|Sobradinho
--7.1689|-35.2325|Sobrado
--3.8593|-40.0438|Sobral
--19.2131|-42.1482|Sobrália
--22.5914|-46.5289|Socorro
--7.8982|-42.5074|Socorro do Piauí
--7.0572|-36.3628|Soledade
--22.0222|-45.0427|Soledade de Minas
--7.5912|-37.6594|Solidão
--5.8707|-39.0121|Solonópole
--6.7332|-35.6949|Solânea
--29.1139|-49.6167|Sombrio
--17.6740|-54.4533|Sonora
--19.0822|-40.1413|Sooretama
--23.5017|-47.4581|Sorocaba
--12.6817|-55.6995|Sorriso
--6.6759|-36.1788|Sossêgo
--0.7167|-48.5233|Soure
--6.7310|-38.1861|Sousa
--11.9460|-41.9481|Souto Soares
--12.0190|-48.8448|Sucupira
--6.4668|-44.2801|Sucupira do Norte
--6.4679|-43.4972|Sucupira do Riachão
--20.6186|-50.8801|Sud Mennucci
--26.7069|-52.9436|Sul Brasil
--25.6714|-52.6837|Sulina
--22.8219|-47.2669|Sumaré
--22.1318|-42.6613|Sumidouro
--7.6717|-36.8800|Sumé
--7.8331|-35.7547|Surubim
--7.0034|-41.3918|Sussuapara
--23.5425|-46.3108|Suzano
--20.5103|-51.0708|Suzanápolis
--11.6317|-38.4889|Sátiro Dias
 -4.0496|-40.9459|São Benedito
 -3.3310|-43.7404|São Benedito do Rio Preto
 -8.7721|-35.9017|São Benedito do Sul
@@ -4559,9 +4499,9 @@
 -23.6939|-46.5650|São Bernardo do Campo
 -27.9566|-48.9397|São Bonifácio
 -28.6606|-56.0044|São Borja
--8.9738|-42.9757|São Braz do Piauí
 -10.1241|-36.8504|São Brás
 -20.6219|-43.9692|São Brás do Suaçuí
+-8.9738|-42.9757|São Braz do Piauí
 -0.7500|-48.0200|São Caetano de Odivelas
 -23.6243|-46.5624|São Caetano do Sul
 -8.3393|-36.1616|São Caitano
@@ -4571,6 +4511,7 @@
 -27.2671|-50.3773|São Cristóvão do Sul
 -12.3633|-44.9733|São Desidério
 -11.4846|-39.5992|São Domingos
+-23.4934|-46.7476|Sao Domingos
 -19.5199|-42.0340|São Domingos das Dores
 -5.7193|-48.7276|São Domingos do Araguaia
 -6.8580|-44.5828|São Domingos do Azeitão
@@ -4582,6 +4523,14 @@
 -28.5445|-51.8733|São Domingos do Sul
 -14.8386|-41.3917|São Felipe
 -11.8977|-61.4774|São Felipe d'Oeste
+-12.6781|-38.9998|São Félix
+-6.9488|-44.8346|São Félix de Balsas
+-18.5589|-41.4446|São Félix de Minas
+-11.4423|-52.1392|São Félix do Araguaia
+-13.4147|-43.9814|São Félix do Coribe
+-5.8842|-42.1083|São Félix do Piauí
+-10.0649|-46.7278|São Félix do Tocantins
+-6.6447|-51.9950|São Félix do Xingu
 -6.2973|-37.1390|São Fernando
 -21.6461|-41.7469|São Fidélis
 -15.8836|-44.8431|São Francisco
@@ -4600,14 +4549,6 @@
 -1.1464|-47.7571|São Francisco do Pará
 -7.1690|-42.5509|São Francisco do Piauí
 -26.2433|-48.6381|São Francisco do Sul
--12.6781|-38.9998|São Félix
--6.9488|-44.8346|São Félix de Balsas
--18.5589|-41.4446|São Félix de Minas
--11.4423|-52.1392|São Félix do Araguaia
--13.4147|-43.9814|São Félix do Coribe
--5.8842|-42.1083|São Félix do Piauí
--10.0649|-46.7278|São Félix do Tocantins
--6.6447|-51.9950|São Félix do Xingu
 -10.9558|-41.5541|São Gabriel
 -0.1181|-67.0853|São Gabriel da Cachoeira
 -18.9736|-40.5252|São Gabriel da Palha
@@ -4629,6 +4570,56 @@
 -19.3111|-46.0489|São Gotardo
 -29.9592|-51.7222|São Jerônimo
 -23.6871|-50.7899|São Jerônimo da Serra
+-25.7839|-52.8042|São João
+-2.9553|-44.8069|São João Batista
+-20.5312|-46.4458|São João Batista do Glória
+0.9508|-59.9108|São João da Baliza
+-21.6403|-41.0511|São João da Barra
+-21.9692|-46.7981|São João da Boa Vista
+-6.7276|-41.3823|São João da Canabrava
+-4.0936|-41.2155|São João da Fronteira
+-16.8787|-44.3421|São João da Lagoa
+-14.4291|-47.4141|São João d'Aliança
+-21.9352|-45.9330|São João da Mata
+-16.8239|-50.3532|São João da Paraúna
+-0.8536|-47.9780|São João da Ponta
+-15.9031|-43.8305|São João da Ponte
+-20.4191|-50.3896|São João das Duas Pontes
+-5.4417|-41.8579|São João da Serra
+-14.8866|-44.2126|São João das Missões
+-27.7968|-51.8388|São João da Urtiga
+-6.9473|-41.9292|São João da Varjota
+-20.5120|-50.3610|São João de Iracema
+-21.2503|-44.2448|São João del Rei
+-22.8039|-43.3722|São João de Meriti
+-0.7747|-47.1772|São João de Pirabas
+-5.4430|-48.7493|São João do Araguaia
+-3.8032|-42.4697|São João do Arraial
+-22.8294|-52.2854|São João do Caiuá
+-7.4847|-36.4860|São João do Cariri
+-3.5592|-46.3924|São João do Carú
+-26.6027|-48.8005|São João do Itaperiú
+-23.9792|-51.8826|São João do Ivaí
+-5.3188|-38.2688|São João do Jaguaribe
+-20.3835|-42.1563|São João do Manhuaçu
+-18.7395|-41.1575|São João do Manteninha
+-27.0831|-53.5922|São João do Oeste
+-19.3485|-42.1741|São João do Oriente
+-16.5339|-44.5406|São João do Pacuí
+-6.4017|-46.8893|São João do Paraíso
+-21.2052|-51.6686|São João do Pau d'Alho
+-8.2758|-42.3400|São João do Piauí
+-29.6456|-53.4729|São João do Polêsine
+-6.7185|-38.4294|São João do Rio do Peixe
+-6.6965|-37.1543|São João do Sabugi
+-6.0000|-40.2833|São João dos Inhamuns
+-4.9650|-43.7395|São João do Soter
+-6.4950|-43.7022|São João dos Patos
+-29.2071|-49.8510|São João do Sul
+-8.1091|-36.7977|São João do Tigre
+-25.7041|-50.2624|São João do Triunfo
+-18.5085|-42.7822|São João Evangelista
+-21.5861|-43.0150|São João Nepomuceno
 -28.2939|-49.9317|São Joaquim
 -20.5814|-47.8547|São Joaquim da Barra
 -20.0578|-44.2498|São Joaquim de Bicas
@@ -4646,11 +4637,11 @@
 -9.0097|-36.0583|São José da Laje
 -19.6902|-43.9911|São José da Lapa
 -18.3306|-42.1039|São José da Safira
+-27.7974|-53.1296|São José das Missões
+-24.8346|-54.1272|São José das Palmeiras
 -9.5583|-37.3811|São José da Tapera
 -19.6891|-44.5531|São José da Varginha
 -15.0718|-39.3502|São José da Vitória
--27.7974|-53.1296|São José das Missões
--24.8346|-54.1272|São José das Palmeiras
 -7.2592|-38.3448|São José de Caiana
 -6.8024|-37.3822|São José de Espinharas
 -6.0428|-35.3061|São José de Mipibu
@@ -4673,8 +4664,8 @@
 -29.0644|-52.2728|São José do Herval
 -29.5436|-51.2498|São José do Hortêncio
 -27.7353|-54.1215|São José do Inhacorá
--18.2516|-42.6740|São José do Jacuri
 -11.4683|-39.9038|São José do Jacuípe
+-18.2516|-42.6740|São José do Jacuri
 -20.0245|-41.7633|São José do Mantimento
 -31.8009|-51.7620|São José do Norte
 -27.7558|-51.5572|São José do Ouro
@@ -4685,67 +4676,17 @@
 -21.5956|-46.8886|São José do Rio Pardo
 -20.8197|-49.3794|São José do Rio Preto
 -6.8278|-36.8034|São José do Sabugi
--6.5025|-36.8510|São José do Seridó
--29.5442|-51.4925|São José do Sul
--22.1706|-42.9165|São José do Vale do Rio Preto
--10.7279|-52.6211|São José do Xingu
 -28.6831|-49.9467|São José dos Ausentes
 -5.0592|-44.5946|São José dos Basílios
 -23.1794|-45.8869|São José dos Campos
 -7.4164|-36.8477|São José dos Cordeiros
+-6.5025|-36.8510|São José do Seridó
 -25.5302|-49.2084|São José dos Pinhais
 -15.5666|-58.2972|São José dos Quatro Marcos
 -7.2510|-35.3741|São José dos Ramos
--25.7839|-52.8042|São João
--2.9553|-44.8069|São João Batista
--20.5312|-46.4458|São João Batista do Glória
--14.4291|-47.4141|São João d'Aliança
-0.9508|-59.9108|São João da Baliza
--21.6403|-41.0511|São João da Barra
--21.9692|-46.7981|São João da Boa Vista
--6.7276|-41.3823|São João da Canabrava
--4.0936|-41.2155|São João da Fronteira
--16.8787|-44.3421|São João da Lagoa
--21.9352|-45.9330|São João da Mata
--16.8239|-50.3532|São João da Paraúna
--0.8536|-47.9780|São João da Ponta
--15.9031|-43.8305|São João da Ponte
--5.4417|-41.8579|São João da Serra
--27.7968|-51.8388|São João da Urtiga
--6.9473|-41.9292|São João da Varjota
--20.4191|-50.3896|São João das Duas Pontes
--14.8866|-44.2126|São João das Missões
--20.5120|-50.3610|São João de Iracema
--22.8039|-43.3722|São João de Meriti
--0.7747|-47.1772|São João de Pirabas
--21.2503|-44.2448|São João del Rei
--5.4430|-48.7493|São João do Araguaia
--3.8032|-42.4697|São João do Arraial
--22.8294|-52.2854|São João do Caiuá
--7.4847|-36.4860|São João do Cariri
--3.5592|-46.3924|São João do Carú
--26.6027|-48.8005|São João do Itaperiú
--23.9792|-51.8826|São João do Ivaí
--5.3188|-38.2688|São João do Jaguaribe
--20.3835|-42.1563|São João do Manhuaçu
--18.7395|-41.1575|São João do Manteninha
--27.0831|-53.5922|São João do Oeste
--19.3485|-42.1741|São João do Oriente
--16.5339|-44.5406|São João do Pacuí
--6.4017|-46.8893|São João do Paraíso
--21.2052|-51.6686|São João do Pau d'Alho
--8.2758|-42.3400|São João do Piauí
--29.6456|-53.4729|São João do Polêsine
--6.7185|-38.4294|São João do Rio do Peixe
--6.6965|-37.1543|São João do Sabugi
--4.9650|-43.7395|São João do Soter
--29.2071|-49.8510|São João do Sul
--8.1091|-36.7977|São João do Tigre
--25.7041|-50.2624|São João do Triunfo
--6.0000|-40.2833|São João dos Inhamuns
--6.4950|-43.7022|São João dos Patos
--18.5085|-42.7822|São João Evangelista
--21.5861|-43.0150|São João Nepomuceno
+-29.5442|-51.4925|São José do Sul
+-22.1706|-42.9165|São José do Vale do Rio Preto
+-10.7279|-52.6211|São José do Xingu
 -7.0599|-40.7972|São Julião
 -29.7603|-51.1472|São Leopoldo
 -22.1175|-45.0323|São Lourenço
@@ -4754,16 +4695,17 @@
 -26.3592|-52.8511|São Lourenço do Oeste
 -9.1334|-42.4030|São Lourenço do Piauí
 -31.3653|-51.9783|São Lourenço do Sul
+-23.5947|-46.5436|Sao Lucas
 -28.3425|-49.1754|São Ludgero
--6.7780|-41.2765|São Luis do Piauí
--14.8928|-49.2821|São Luiz do Norte
--23.2606|-45.2272|São Luiz do Paraitinga
--28.4083|-54.9608|São Luiz Gonzaga
 -2.5297|-44.3028|São Luís
 -16.5250|-50.3722|São Luís de Montes Belos
 -3.6412|-39.2488|São Luís do Curu
+-6.7780|-41.2765|São Luis do Piauí
 -9.3183|-35.5611|São Luís do Quitunde
 -4.3787|-44.7159|São Luís Gonzaga do Maranhão
+-14.8928|-49.2821|São Luiz do Norte
+-23.2606|-45.2272|São Luiz do Paraitinga
+-28.4083|-54.9608|São Luiz Gonzaga
 -6.9211|-37.0913|São Mamede
 -23.3836|-52.5889|São Manoel do Paraná
 -22.7311|-48.5706|São Manuel
@@ -4783,6 +4725,7 @@
 -10.3686|-37.3586|São Miguel do Aleixo
 -20.7348|-42.6979|São Miguel do Anta
 -13.2750|-50.1628|São Miguel do Araguaia
+-26.7253|-53.5181|São Miguel d'Oeste
 -7.5994|-42.3880|São Miguel do Fidalgo
 -5.1866|-35.7130|São Miguel do Gostoso
 -1.6267|-47.4833|São Miguel do Guamá
@@ -4790,10 +4733,10 @@
 -25.3481|-54.2378|São Miguel do Iguaçu
 -26.7187|-53.5194|São Miguel do Oeste
 -16.9995|-48.6619|São Miguel do Passa Quatro
--5.7049|-41.6163|São Miguel do Tapuio
--5.5346|-47.6082|São Miguel do Tocantins
 -9.7811|-36.0936|São Miguel dos Campos
 -9.2542|-35.3842|São Miguel dos Milagres
+-5.7049|-41.6163|São Miguel do Tapuio
+-5.5346|-47.6082|São Miguel do Tocantins
 -28.2236|-55.2559|São Nicolau
 -15.3443|-49.8329|São Patrício
 -23.5475|-46.6361|São Paulo
@@ -4801,23 +4744,24 @@
 -3.3783|-68.8725|São Paulo de Olivença
 -5.8899|-35.7533|São Paulo do Potengi
 -22.4231|-42.9661|São Pedro
+-5.1615|-48.3610|São Pedro da Água Branca
 -22.8392|-42.1028|São Pedro da Aldeia
 -15.9516|-54.7796|São Pedro da Cipa
 -29.4213|-51.5144|São Pedro da Serra
--21.1129|-46.6476|São Pedro da União
--5.1615|-48.3610|São Pedro da Água Branca
 -27.7928|-53.2444|São Pedro das Missões
+-21.1129|-46.6476|São Pedro da União
 -27.5728|-48.8392|São Pedro de Alcântara
 -28.1556|-54.9034|São Pedro do Butiá
 -24.9093|-53.8877|São Pedro do Iguaçu
 -23.8334|-51.8695|São Pedro do Ivaí
 -22.7685|-53.1658|São Pedro do Paraná
 -5.8213|-42.7717|São Pedro do Piauí
+-6.8196|-46.7074|São Pedro dos Crentes
+-20.0652|-42.5630|São Pedro dos Ferros
 -18.3545|-42.5957|São Pedro do Suaçuí
 -29.6206|-54.1789|São Pedro do Sul
 -22.6964|-49.7430|São Pedro do Turvo
--6.8196|-46.7074|São Pedro dos Crentes
--20.0652|-42.5630|São Pedro dos Ferros
+-23.6282|-46.4539|Sao Rafael
 -5.8566|-36.8952|São Rafael
 -7.0219|-45.4811|São Raimundo das Mangabeiras
 -5.1102|-45.0689|São Raimundo do Doca Bezerra
@@ -4864,20 +4808,195 @@
 -29.7172|-54.7624|São Vicente do Sul
 -2.8772|-44.9396|São Vicente Ferrer
 -7.6022|-35.5022|São Vicente Férrer
+-7.0794|-35.2173|Sapé
+-12.7720|-39.2385|Sapeaçu
+-13.1645|-58.6879|Sapezal
+-29.6381|-51.0069|Sapiranga
+-23.8775|-50.6102|Sapopema
+-23.5956|-46.5247|Sapopemba
+-6.8479|-49.5006|Sapucaia
+-29.8183|-51.1553|Sapucaia do Sul
+-22.7917|-45.8422|Sapucaí-Mirim
+-22.9200|-42.5103|Saquarema
+-23.4436|-51.8739|Sarandi
+-23.6590|-47.7709|Sarapuí
+-18.7735|-42.4030|Sardoá
+-23.2582|-49.4837|Sarutaiá
+-20.0446|-44.1344|Sarzedo
+-11.6317|-38.4889|Sátiro Dias
+-9.5633|-35.8244|Satuba
+-3.8480|-45.2554|Satubinha
+-12.7375|-38.7686|Saubara
+-25.7047|-52.6082|Saudade do Iguaçu
+-26.8790|-53.0404|Saudades
+-10.8446|-40.3751|Saúde
+-26.4125|-49.0731|Schroeder
+-23.5477|-46.6315|Se
+-12.4171|-41.7705|Seabra
+-27.1448|-52.3486|Seara
+-20.6156|-49.9075|Sebastianópolis do Sul
+-10.5976|-44.8361|Sebastião Barros
+-14.5685|-43.1373|Sebastião Laranjeiras
+-7.5132|-44.0254|Sebastião Leal
+-27.5088|-53.3648|Seberi
+-27.6449|-53.9615|Sede Nova
+-29.2970|-52.9228|Segredo
+-28.6764|-52.9824|Selbach
+-20.2496|-51.8323|Selvíria
+-20.0734|-42.8156|Sem-Peixe
+-5.2921|-43.8749|Senador Alexandre Costa
+-22.5536|-46.2242|Senador Amaral
+-16.7081|-49.0931|Senador Canedo
+-21.7616|-42.9114|Senador Cortes
+-6.0401|-35.6573|Senador Elói de Souza
+-20.8968|-43.1103|Senador Firmino
+-6.1483|-35.1335|Senador Georgino Avelino
+-10.1497|-67.7374|Senador Guiomard
+-22.1584|-46.1428|Senador José Bento
+-2.5908|-51.9542|Senador José Porfírio
+-5.4266|-47.1719|Senador La Rocque
+-17.9134|-43.2133|Senador Modestino Gonçalves
+-5.5881|-39.3717|Senador Pompeu
+-9.3383|-37.5597|Senador Rui Palmeira
+-3.2765|-40.4442|Senador Sá
+-28.0295|-54.5240|Senador Salgado Filho
+-9.0634|-68.6724|Sena Madureira
+-24.1134|-49.4631|Sengés
+-20.8018|-43.3454|Senhora de Oliveira
+-18.9027|-43.0858|Senhora do Porto
+-21.0288|-43.5968|Senhora dos Remédios
+-10.4614|-40.1894|Senhor do Bonfim
+-30.6034|-51.6210|Sentinela do Sul
+-10.2125|-41.5795|Sento Sé
+-22.9793|-43.6979|Sepetiba
+-28.6912|-51.9267|Serafina Corrêa
+-20.4954|-42.4599|Sericita
+-11.9249|-63.1894|Seringueiras
 -29.4064|-52.2436|Sério
+-21.9189|-44.4630|Seritinga
+-22.7388|-43.7086|Seropédica
+-20.1082|-40.3019|Serra
+-26.7024|-53.0140|Serra Alta
+-21.2875|-47.5388|Serra Azul
+-18.3822|-43.2025|Serra Azul de Minas
+-6.5333|-38.2667|Serra Branca
+-6.1423|-35.6684|Serra Caiada
+-6.6970|-35.4358|Serra da Raiz
+-19.3839|-45.8000|Serra da Saudade
+-6.4370|-35.7119|Serra de São Bento
+-5.1220|-37.0312|Serra do Mel
+1.6580|-52.2820|Serra do Navio
+-13.4110|-43.7785|Serra do Ramalho
+-17.7502|-40.2711|Serra dos Aimorés
+-19.1499|-46.6531|Serra do Salitre
+-12.9150|-43.7960|Serra Dourada
+-7.2509|-38.3959|Serra Grande
+-21.2114|-47.5956|Serrana
+-22.6122|-46.7006|Serra Negra
+-6.5760|-37.3942|Serra Negra do Norte
+-21.5551|-46.1071|Serrania
+-1.8566|-45.0851|Serrano do Maranhão
+-18.2704|-52.2475|Serranópolis
+-15.8998|-42.8513|Serranópolis de Minas
+-25.4700|-54.0164|Serranópolis do Iguaçu
+-21.8239|-44.5424|Serranos
+-12.0290|-51.3341|Serra Nova Dourada
+-12.0691|-39.3005|Serra Preta
+-7.1566|-35.6763|Serra Redonda
+-6.8636|-35.6693|Serraria
+-7.9919|-38.2983|Serra Talhada
+-11.6642|-39.0075|Serrinha
+-6.1526|-37.9886|Serrinha dos Pintos
+-7.8401|-39.4081|Serrita
+-18.5204|-43.3807|Serro
+-11.5402|-40.2478|Serrolândia
+-22.9583|-50.8880|Sertaneja
+-8.0736|-37.2644|Sertânia
+-23.0586|-51.0364|Sertanópolis
+-28.0041|-52.3566|Sertão
+-30.4911|-51.6654|Sertão Santana
+-6.7394|-35.4163|Sertãozinho
+-24.2772|-47.9501|Sete Barras
+-28.1255|-54.4791|Sete de Setembro
+-19.4658|-44.2467|Sete Lagoas
+-23.8807|-55.0273|Sete Quedas
+-15.7822|-47.9882|Setor Complementar de Indústria e Abastecimento
+-17.6669|-42.1951|Setubinha
+-27.4065|-52.1075|Severiano de Almeida
+-5.7772|-37.9578|Severiano Melo
+-20.7807|-48.7904|Severínia
+-28.5978|-49.4244|Siderópolis
+-20.9319|-54.9614|Sidrolândia
+-4.7989|-41.7846|Sigefredo Pacheco
+-22.6508|-42.3917|Silva Jardim
+-16.6589|-48.6081|Silvânia
+-11.1134|-48.2234|Silvanópolis
+-29.6364|-53.5461|Silveira Martins
+-21.1445|-43.1983|Silveirânia
+-22.7365|-44.8478|Silveiras
+-2.7685|-58.6275|Silves
+-22.0530|-45.8158|Silvianópolis
+-10.7116|-37.7714|Simão Dias
+-21.9663|-43.2903|Simão Pereira
+-14.4382|-46.5923|Simolândia
+-19.9989|-41.9873|Simonésia
+-7.8539|-41.9103|Simplício Mendes
+-7.5989|-40.8178|Simões
+-12.7844|-38.4039|Simões Filho
+-29.4151|-52.6050|Sinimbu
+-11.8642|-55.5025|Sinop
+-23.6889|-49.8339|Siqueira Campos
+-8.5908|-35.1161|Sirinhaém
+-10.5872|-37.1212|Siriri
 -14.7520|-46.2700|Sítio d'Abadia
 -13.0038|-43.5454|Sítio do Mato
 -10.3432|-38.0735|Sítio do Quinto
 -6.1559|-46.6722|Sítio Novo
 -5.6299|-47.6864|Sítio Novo do Tocantins
+-12.8333|-39.1000|Sobradinho
+-15.6336|-47.8348|Sobradinho II
+-7.1689|-35.2325|Sobrado
+-3.8593|-40.0438|Sobral
+-19.2131|-42.1482|Sobrália
+-22.5914|-46.5289|Socorro
+-7.8982|-42.5074|Socorro do Piauí
+-6.7332|-35.6949|Solânea
+-7.0572|-36.3628|Soledade
+-22.0222|-45.0427|Soledade de Minas
+-7.5912|-37.6594|Solidão
+-5.8707|-39.0121|Solonópole
+-29.1139|-49.6167|Sombrio
+-17.6740|-54.4533|Sonora
+-19.0822|-40.1413|Sooretama
+-23.5017|-47.4581|Sorocaba
+-12.6817|-55.6995|Sorriso
+-6.6759|-36.1788|Sossêgo
+-0.7167|-48.5233|Soure
+-6.7310|-38.1861|Sousa
+-11.9460|-41.9481|Souto Soares
+-22.8792|-46.9644|Souzas
+-12.0190|-48.8448|Sucupira
+-6.4668|-44.2801|Sucupira do Norte
+-6.4679|-43.4972|Sucupira do Riachão
+-20.6186|-50.8801|Sud Mennucci
+-15.8015|-47.9271|Sudoeste/Octagonal
+-26.7069|-52.9436|Sul Brasil
+-25.6714|-52.6837|Sulina
+-22.8219|-47.2669|Sumaré
+-7.6717|-36.8800|Sumé
+-22.1318|-42.6613|Sumidouro
+-7.8331|-35.7547|Surubim
+-7.0034|-41.3918|Sussuapara
+-20.5103|-51.0708|Suzanápolis
+-23.5425|-46.3108|Suzano
+-29.6672|-51.7280|Tabaí
 -11.0529|-56.6419|Tabaporã
 -20.9238|-49.0247|Tabapuã
 -3.9630|-69.6026|Tabatinga
--29.6672|-51.7280|Tabaí
 -7.5907|-37.4920|Tabira
+-23.6261|-46.7917|Taboão da Serra
 -12.3694|-44.0836|Tabocas do Brejo Velho
 -5.9261|-38.0535|Taboleiro Grande
--23.6261|-46.7917|Taboão da Serra
 -21.3578|-43.2483|Tabuleiro
 -5.2911|-38.0725|Tabuleiro do Norte
 -8.3228|-36.2471|Tacaimbó
@@ -4885,14 +5004,14 @@
 -22.4968|-51.3324|Taciba
 -6.5381|-35.5228|Tacima
 -23.6872|-54.9110|Tacuru
--12.3857|-46.5711|Taguatinga
 -23.4851|-49.4078|Taguaí
+-12.3857|-46.5711|Taguatinga
 -21.1322|-48.5309|Taiaçu
 -2.8723|-48.7575|Tailândia
+-27.0890|-50.0993|Taió
 -15.8380|-42.0904|Taiobeiras
 -12.1568|-47.0334|Taipas do Tocantins
 -5.5194|-35.5813|Taipu
--27.0890|-50.0993|Taió
 -21.1274|-48.4270|Taiúva
 -12.6779|-49.0786|Talismã
 -8.7487|-35.1394|Tamandaré
@@ -4917,49 +5036,51 @@
 -13.5696|-39.2202|Taperoá
 -30.6733|-51.3958|Tapes
 -19.9337|-46.9179|Tapira
+-19.8727|-46.1329|Tapiraí
 -11.8472|-40.7914|Tapiramutá
 -21.4466|-46.7321|Tapiratiba
--19.8727|-46.1329|Tapiraí
 -12.7426|-56.4615|Tapurah
 -29.6634|-50.7636|Taquara
+-19.6335|-43.6916|Taquaraçu de Minas
 -21.0676|-48.3934|Taquaral
 -16.0582|-49.5904|Taquaral de Goiás
 -9.6434|-36.4942|Taquarana
--19.6335|-43.6916|Taquaraçu de Minas
 -29.7997|-51.8644|Taquari
 -21.4327|-48.5474|Taquaritinga
 -7.8457|-36.1263|Taquaritinga do Norte
 -23.5300|-49.2144|Taquarituba
 -23.9509|-48.6752|Taquarivaí
--22.7342|-53.4800|Taquarussu
 -27.4072|-53.4991|Taquaruçu do Sul
+-22.7342|-53.4800|Taquarussu
 -22.3504|-51.6202|Tarabai
 -8.1614|-70.7656|Tarauacá
 -6.7374|-39.7233|Tarrafas
 1.2630|-51.1097|Tartarugalzinho
--19.3004|-41.9198|Tarumirim
 -22.7611|-50.6033|Tarumã
+-19.3004|-41.9198|Tarumirim
 -8.2860|-45.8529|Tasso Fragoso
+-23.5373|-46.5666|Tatuapé
 -23.3556|-47.8569|Tatuí
--23.0264|-45.5553|Taubaté
 -5.9085|-40.2728|Tauá
+-23.0264|-45.5553|Taubaté
 -7.6142|-37.8796|Tavares
 -3.3684|-64.7205|Tefé
 -7.2482|-37.2752|Teixeira
 -17.4240|-39.7870|Teixeira de Freitas
--25.2781|-50.4316|Teixeira Soares
 -20.6300|-42.8544|Teixeiras
+-25.2781|-50.4316|Teixeira Soares
 -10.9927|-62.2473|Teixeirópolis
--23.3523|-49.3072|Tejupá
 -3.9355|-39.6497|Tejuçuoca
--10.1794|-36.8675|Telha
+-23.3523|-49.3072|Tejupá
 -24.2244|-50.5415|Telêmaco Borba
+-10.1794|-36.8675|Telha
 -6.4695|-38.1618|Tenente Ananias
 -6.1485|-36.7224|Tenente Laurentino Cruz
 -27.3629|-53.7711|Tenente Portela
 -6.9757|-36.6222|Tenório
 -12.2655|-38.6121|Teodoro Sampaio
 -11.5341|-38.9452|Teofilândia
+-17.6791|-41.3374|Teófilo Otoni
 -13.5703|-39.4649|Teolândia
 -9.9901|-36.4327|Teotônio Vilela
 -20.4207|-55.1060|Terenos
@@ -4973,12 +5094,12 @@
 -29.5844|-50.0613|Terra de Areia
 -12.3854|-38.6187|Terra Nova
 -10.4954|-54.9555|Terra Nova do Norte
+-22.6333|-47.0500|Terra Preta
 -22.7327|-52.6846|Terra Rica
 -24.2229|-54.0909|Terra Roxa
 -2.1042|-56.4869|Terra Santa
 -15.9490|-53.4334|Tesouro
 -29.4681|-51.7714|Teutônia
--17.6791|-41.3374|Teófilo Otoni
 -10.1016|-62.2809|Theobroma
 -3.6730|-40.9901|Tianguá
 -24.6580|-50.5186|Tibagi
@@ -4990,11 +5111,11 @@
 -25.8985|-49.1178|Tijucas do Sul
 -7.5319|-35.3563|Timbaúba
 -6.4826|-37.2328|Timbaúba dos Batistas
--4.1969|-43.8257|Timbiras
--23.1927|-49.6122|Timburi
 -28.7909|-49.8951|Timbé do Sul
+-4.1969|-43.8257|Timbiras
 -26.8206|-49.2873|Timbó
 -26.6246|-50.6355|Timbó Grande
+-23.1927|-49.6122|Timburi
 -5.1978|-42.8805|Timon
 -19.5811|-42.6495|Timóteo
 -28.5818|-52.5974|Tio Hugo
@@ -5002,9 +5123,9 @@
 -27.3818|-54.1130|Tiradentes do Sul
 -18.8573|-45.8405|Tiros
 -11.0779|-38.0218|Tobias Barreto
--21.1811|-43.0256|Tocantins
--6.2625|-47.5577|Tocantinópolis
 -9.5644|-48.1871|Tocantínia
+-6.2625|-47.5577|Tocantinópolis
+-21.1811|-43.0256|Tocantins
 -22.3566|-46.1495|Tocos do Moji
 -22.7057|-46.3904|Toledo
 -11.3742|-37.8754|Tomar do Geru
@@ -5023,23 +5144,13 @@
 -0.9889|-46.9397|Tracuateua
 -7.7246|-35.1548|Tracunhaém
 -9.8924|-36.9785|Traipu
--3.3316|-39.3803|Trairi
 -5.1025|-55.9582|Trairão
+-3.3316|-39.3803|Trairi
 -22.1520|-42.1883|Trajano de Moraes
 -30.0398|-50.2302|Tramandaí
 -29.2881|-52.0997|Travesseiro
 -14.9008|-41.3234|Tremedal
 -22.9241|-45.6150|Tremembé
--28.4994|-49.5036|Treviso
--28.5392|-49.1450|Treze de Maio
--26.9573|-51.4318|Treze Tílias
--16.6494|-49.4889|Trindade
--27.5268|-52.9135|Trindade do Sul
--6.5847|-38.5783|Triunfo
--5.9436|-37.1399|Triunfo Potiguar
--4.5222|-44.6175|Trizidela do Vale
--13.4041|-48.7729|Trombas
--27.3080|-49.8125|Trombudo Central
 -27.4822|-52.1837|Três Arroios
 -26.1651|-50.2714|Três Barras
 -25.4222|-53.2315|Três Barras do Paraná
@@ -5056,19 +5167,31 @@
 -21.4052|-45.4944|Três Pontas
 -18.3683|-47.7985|Três Ranchos
 -22.1212|-43.0662|Três Rios
+-28.4994|-49.5036|Treviso
+-28.5392|-49.1450|Treze de Maio
+-26.9573|-51.4318|Treze Tílias
+-16.6494|-49.4889|Trindade
+-27.5268|-52.9135|Trindade do Sul
+-6.5847|-38.5783|Triunfo
+-5.9436|-37.1399|Triunfo Potiguar
+-4.5222|-44.6175|Trizidela do Vale
+-13.4041|-48.7729|Trombas
+-27.3080|-49.8125|Trombudo Central
 -28.4667|-49.0069|Tubarão
 -10.9943|-38.8625|Tucano
 -6.8347|-51.4456|Tucumã
 -27.6492|-54.4397|Tucunduva
 -3.7658|-49.6792|Tucuruí
+-23.4754|-46.6061|Tucuruvi
 -3.7661|-45.5561|Tufilândia
 -22.8451|-46.6962|Tuiuti
 -19.0240|-41.7230|Tumiritinga
+-26.9925|-53.6562|Tunápolis
 -29.1059|-52.8987|Tunas
 -24.9675|-48.8660|Tunas do Paraná
 -23.9017|-52.8357|Tuneiras do Oeste
 -5.6004|-44.8554|Tuntum
--26.9925|-53.6562|Tunápolis
+-21.9544|-50.5349|Tupã
 -18.5922|-48.7050|Tupaciguara
 -8.6733|-37.3453|Tupanatinga
 -27.9264|-51.5445|Tupanci do Sul
@@ -5076,38 +5199,38 @@
 -29.4800|-51.4304|Tupandi
 -27.6892|-54.5591|Tuparendi
 -7.7134|-37.2452|Tuparetama
+-24.6332|-53.4921|Tupãssi
 -21.3892|-51.5829|Tupi Paulista
 -8.9192|-48.2766|Tupirama
 -8.3858|-48.2230|Tupiratins
--21.9544|-50.5349|Tupã
--24.6332|-53.4921|Tupãssi
+-3.6000|-39.4333|Turaru
 -1.6633|-45.3717|Turiaçu
 -2.1241|-45.3472|Turilândia
 -20.9474|-50.0980|Turiúba
 -17.2535|-42.8304|Turmalina
--3.5333|-39.3756|Tururu
 -31.5232|-52.1287|Turuçu
+-3.5333|-39.3756|Tururu
+-16.5581|-50.1691|Turvânia
 -17.7959|-50.2970|Turvelândia
 -24.9700|-51.5086|Turvo
 -21.8724|-45.8009|Turvolândia
--16.5581|-50.1691|Turvânia
 -2.7619|-42.2744|Tutóia
 -3.1474|-65.4204|Uarini
 -9.8414|-39.2302|Uauá
+-21.1200|-42.9428|Ubá
+-16.3834|-44.8552|Ubaí
+-13.2870|-39.6935|Ubaíra
 -14.3125|-39.3233|Ubaitaba
 -3.8402|-40.9342|Ubajara
 -19.6619|-42.0590|Ubaporanga
 -21.2204|-49.7298|Ubarana
--23.4339|-45.0711|Ubatuba
 -14.0563|-39.5228|Ubatã
--16.3834|-44.8552|Ubaí
--13.2870|-39.6935|Ubaíra
+-23.4339|-45.0711|Ubatuba
 -19.5483|-47.9414|Uberaba
 -19.0233|-48.3348|Uberlândia
 -22.5513|-49.6628|Ubirajara
 -24.5039|-53.0193|Ubiratã
 -28.0519|-54.6625|Ubiretama
--21.1200|-42.9428|Ubá
 -20.9185|-49.1365|Uchoa
 -11.3906|-42.1561|Uibaí
 4.5958|-60.1678|Uiramutã
@@ -5124,57 +5247,59 @@
 -23.7664|-53.3250|Umuarama
 -15.1645|-39.2057|Una
 -16.5863|-46.7701|Unaí
--23.0602|-52.0908|Uniflor
--29.0825|-55.1919|Unistalda
 -4.5965|-42.8647|União
 -28.7853|-52.0397|União da Serra
 -26.0921|-51.1121|União da Vitória
 -19.3409|-50.3574|União de Minas
 -26.7998|-52.8926|União do Oeste
--11.4720|-54.1881|União do Sul
 -9.1325|-36.0818|União dos Palmares
+-11.4720|-54.1881|União do Sul
 -20.8880|-49.8914|União Paulista
+-23.0602|-52.0908|Uniflor
+-29.0825|-55.1919|Unistalda
+-22.7664|-43.6914|Universidade Rural
 -5.6992|-37.2680|Upanema
--14.7340|-42.6654|Urandi
 -23.1929|-50.7942|Uraí
+-14.7340|-42.6654|Urandi
+-20.2091|-50.6609|Urânia
 -3.3797|-43.3814|Urbano Santos
 -21.7652|-49.2972|Uru
+-14.4224|-49.0637|Uruaçu
 -15.5637|-49.6403|Uruana
 -16.0749|-46.3383|Uruana de Minas
 -3.6321|-53.7802|Uruará
--14.4224|-49.0637|Uruaçu
 -28.0500|-49.5742|Urubici
 -3.6283|-39.5476|Uruburetama
+-20.3224|-42.7197|Urucânia
 -2.5364|-57.7600|Urucará
+-14.5931|-39.2844|Uruçuca
+-7.3421|-44.5833|Uruçuí
 -16.0182|-45.6173|Urucuia
 -3.1284|-58.1586|Urucurituba
--20.3224|-42.7197|Urucânia
 -29.8280|-56.6322|Uruguaiana
 -3.3198|-40.7217|Uruoca
--28.0416|-49.9297|Urupema
 -11.0792|-62.3813|Urupá
+-28.0416|-49.9297|Urupema
 -21.1841|-49.2807|Urupês
 -28.4746|-49.3125|Urussanga
 -17.4166|-48.1979|Urutaí
--14.5931|-39.2844|Uruçuca
--7.3421|-44.5833|Uruçuí
--20.2091|-50.6609|Urânia
 -12.0427|-41.1947|Utinga
 -28.4122|-50.9443|Vacaria
 -14.9759|-58.9638|Vale de São Domingos
 -9.7324|-61.9392|Vale do Anari
 -10.2065|-62.0699|Vale do Paraíso
 -29.5816|-52.6816|Vale do Sol
--29.3499|-51.2301|Vale Real
--29.8351|-52.1056|Vale Verde
--11.4339|-39.4847|Valente
--20.4314|-50.1213|Valentim Gentil
 -13.3721|-39.2400|Valença
 -6.2787|-41.8139|Valença do Piauí
+-11.4339|-39.4847|Valente
+-20.4314|-50.1213|Valentim Gentil
+-29.3499|-51.2301|Vale Real
+-29.8351|-52.1056|Vale Verde
 -22.9706|-46.9958|Valinhos
 -21.2151|-50.9470|Valparaíso
 -16.0990|-47.9881|Valparaíso de Goiás
 -28.4883|-51.8332|Vanini
+-26.8443|-52.1533|Vargeão
 -27.4567|-50.9579|Vargem
 -19.6009|-42.3233|Vargem Alegre
 -20.6473|-41.0085|Vargem Alta
@@ -5183,97 +5308,11 @@
 -15.3418|-42.3011|Vargem Grande do Rio Pardo
 -21.8715|-46.8907|Vargem Grande do Sul
 -23.6286|-47.0191|Vargem Grande Paulista
--26.8443|-52.1533|Vargeão
 -21.5514|-45.4303|Varginha
--4.1944|-40.4767|Varjota
 -17.0776|-49.6211|Varjão
 -18.4562|-45.8985|Varjão de MInas
+-4.1944|-40.4767|Varjota
 -20.8984|-41.8198|Varre-Sai
--12.9966|-39.3709|Varzedo
--15.6554|-43.9204|Varzelândia
--22.3600|-43.5981|Vassouras
--17.7878|-46.7955|Vazante
--20.3849|-41.1354|Venda Nova do Imigrante
--6.3407|-38.5373|Venha-Ver
--24.1420|-50.2236|Ventania
--8.6033|-36.7982|Venturosa
--29.5421|-52.2196|Venâncio Aires
--12.4661|-55.3481|Vera
--13.0255|-38.7091|Vera Cruz
--24.9409|-53.9281|Vera Cruz do Oeste
--7.5548|-41.5060|Vera Mendes
--28.9779|-51.5566|Veranópolis
--7.9847|-38.9982|Verdejante
--15.5468|-43.6801|Verdelândia
--17.1500|-40.0487|Vereda
--17.5057|-42.7486|Veredinha
--20.0309|-42.2707|Vermelho Novo
--7.7899|-35.8032|Vertente do Lério
--7.9094|-35.9778|Vertentes
--25.8533|-52.9592|Verê
--19.5918|-48.3589|Veríssimo
--19.6919|-43.9233|Vespasiano
--29.0706|-51.8665|Vespasiano Corrêa
--27.5774|-51.9873|Viadutos
--30.0811|-51.0233|Viamão
--20.3676|-40.5141|Viana
--16.8529|-48.4565|Vianópolis
--27.1797|-53.3997|Vicente Dutra
--22.4916|-54.4618|Vicentina
--17.7071|-49.9077|Vicentinópolis
--28.5450|-52.6807|Victor Graeff
--7.6565|-35.3912|Vicência
--27.3897|-49.3382|Vidal Ramos
--27.0344|-51.1016|Videira
--20.9089|-42.2801|Vieiras
--6.5584|-38.2709|Vieirópolis
--0.8583|-48.1417|Vigia
--14.8915|-60.0578|Vila Bela da Santíssima Trindade
--14.9791|-47.0926|Vila Boa
--6.2938|-35.0845|Vila Flor
--28.8684|-51.5294|Vila Flores
--28.1278|-52.1415|Vila Lângaro
--28.5551|-52.1638|Vila Maria
--7.1867|-40.9362|Vila Nova do Piauí
--30.3371|-53.8800|Vila Nova do Sul
--5.0615|-48.0680|Vila Nova dos Martírios
--18.6119|-40.6516|Vila Pavão
--15.2022|-48.7757|Vila Propício
--10.1341|-51.4137|Vila Rica
--18.9799|-40.3663|Vila Valério
--20.3297|-40.2925|Vila Velha
--12.0206|-60.2753|Vilhena
--23.0540|-46.9813|Vinhedo
--20.8762|-48.3148|Viradouro
--16.7164|-42.3485|Virgem da Lapa
--18.8151|-42.6694|Virginópolis
--18.4428|-42.3074|Virgolândia
--22.3551|-45.1158|Virgínia
--25.4301|-52.2367|Virmond
--20.9951|-42.8529|Visconde do Rio Branco
--1.1967|-46.1400|Viseu
--27.3108|-53.5157|Vista Alegre
--21.1802|-48.6548|Vista Alegre do Alto
--28.8307|-51.7922|Vista Alegre do Prata
--27.2674|-53.6974|Vista Gaúcha
--6.7417|-37.5760|Vista Serrana
--26.8267|-49.8552|Vitor Meireles
--26.2405|-52.8198|Vitorino
--4.2188|-45.3198|Vitorino Freire
--20.3194|-40.3378|Vitória
--20.1935|-50.4794|Vitória Brasil
--15.2795|-40.9657|Vitória da Conquista
--28.3547|-54.4817|Vitória das Missões
--8.1181|-35.2914|Vitória de Santo Antão
--0.9565|-52.0344|Vitória do Jari
--3.4622|-44.8706|Vitória do Mearim
--3.2203|-51.8851|Vitória do Xingu
--9.3602|-36.3210|Viçosa
--3.5622|-41.0922|Viçosa do Ceará
--21.7530|-42.5736|Volta Grande
--22.5231|-44.1042|Volta Redonda
--23.5467|-47.4378|Votorantim
--20.4801|-50.0127|Votuporanga
 -6.8028|-37.0371|Várzea
 -5.3500|-40.3833|Várzea Alegre
 -9.3441|-42.9516|Várzea Branca
@@ -5283,10 +5322,108 @@
 -15.5658|-56.2439|Várzea Grande
 -11.0552|-41.2323|Várzea Nova
 -23.2114|-46.8283|Várzea Paulista
+-12.9966|-39.3709|Varzedo
+-15.6554|-43.9204|Varzelândia
+-22.3600|-43.5981|Vassouras
+-17.7878|-46.7955|Vazante
+-29.5421|-52.2196|Venâncio Aires
+-20.3849|-41.1354|Venda Nova do Imigrante
+-6.3407|-38.5373|Venha-Ver
+-24.1420|-50.2236|Ventania
+-8.6033|-36.7982|Venturosa
+-12.4661|-55.3481|Vera
+-13.0255|-38.7091|Vera Cruz
+-24.9409|-53.9281|Vera Cruz do Oeste
+-7.5548|-41.5060|Vera Mendes
+-28.9779|-51.5566|Veranópolis
+-7.9847|-38.9982|Verdejante
+-15.5468|-43.6801|Verdelândia
+-25.8533|-52.9592|Verê
+-17.1500|-40.0487|Vereda
+-17.5057|-42.7486|Veredinha
+-19.5918|-48.3589|Veríssimo
+-20.0309|-42.2707|Vermelho Novo
+-7.7899|-35.8032|Vertente do Lério
+-7.9094|-35.9778|Vertentes
+-19.6919|-43.9233|Vespasiano
+-29.0706|-51.8665|Vespasiano Corrêa
+-27.5774|-51.9873|Viadutos
+-30.0811|-51.0233|Viamão
+-20.3676|-40.5141|Viana
+-16.8529|-48.4565|Vianópolis
+-7.6565|-35.3912|Vicência
+-27.1797|-53.3997|Vicente Dutra
+-15.8101|-48.0308|Vicente Pires
+-22.4916|-54.4618|Vicentina
+-17.7071|-49.9077|Vicentinópolis
+-9.3602|-36.3210|Viçosa
+-3.5622|-41.0922|Viçosa do Ceará
+-28.5450|-52.6807|Victor Graeff
+-27.3897|-49.3382|Vidal Ramos
+-27.0344|-51.1016|Videira
+-22.9948|-43.2399|Vidigal
+-20.9089|-42.2801|Vieiras
+-6.5584|-38.2709|Vieirópolis
+-0.8583|-48.1417|Vigia
+-23.6262|-46.7283|Vila Andrade
+-14.8915|-60.0578|Vila Bela da Santíssima Trindade
+-14.9791|-47.0926|Vila Boa
+-23.5100|-46.4157|Vila Curuca
+-6.2938|-35.0845|Vila Flor
+-28.8684|-51.5294|Vila Flores
+-23.5679|-46.5460|Vila Formosa
+-23.4717|-46.5792|Vila Galvão
+-23.5092|-46.6058|Vila Guilherme
+-23.5026|-46.4616|Vila Jacui
+-28.1278|-52.1415|Vila Lângaro
+-23.5293|-46.7344|Vila Leopoldina
+-28.5551|-52.1638|Vila Maria
+-23.5883|-46.6346|Vila Mariana
+-23.5394|-46.5179|Vila Matilde
+-23.4887|-46.5776|Vila Medeiros
+-7.1867|-40.9362|Vila Nova do Piauí
+-5.0615|-48.0680|Vila Nova dos Martírios
+-30.3371|-53.8800|Vila Nova do Sul
+-18.6119|-40.6516|Vila Pavão
+-15.2022|-48.7757|Vila Propício
+-23.5925|-46.5728|Vila Prudente
+-10.1341|-51.4137|Vila Rica
+-18.9799|-40.3663|Vila Valério
+-20.3297|-40.2925|Vila Velha
+-12.0206|-60.2753|Vilhena
+-23.0540|-46.9813|Vinhedo
+-20.8762|-48.3148|Viradouro
+-16.7164|-42.3485|Virgem da Lapa
+-22.3551|-45.1158|Virgínia
+-18.8151|-42.6694|Virginópolis
+-18.4428|-42.3074|Virgolândia
+-25.4301|-52.2367|Virmond
+-20.9951|-42.8529|Visconde do Rio Branco
+-1.1967|-46.1400|Viseu
+-27.3108|-53.5157|Vista Alegre
+-21.1802|-48.6548|Vista Alegre do Alto
+-28.8307|-51.7922|Vista Alegre do Prata
+-27.2674|-53.6974|Vista Gaúcha
+-6.7417|-37.5760|Vista Serrana
+-20.3194|-40.3378|Vitória
+-20.1935|-50.4794|Vitória Brasil
+-15.2795|-40.9657|Vitória da Conquista
+-28.3547|-54.4817|Vitória das Missões
+-8.1181|-35.2914|Vitória de Santo Antão
+-0.9565|-52.0344|Vitória do Jari
+-3.4622|-44.8706|Vitória do Mearim
+-3.2203|-51.8851|Vitória do Xingu
+-26.2405|-52.8198|Vitorino
+-4.2188|-45.3198|Vitorino Freire
+-26.8267|-49.8552|Vitor Meireles
+-21.7530|-42.5736|Volta Grande
+-22.5231|-44.1042|Volta Redonda
+-23.5467|-47.4378|Votorantim
+-20.4801|-50.0127|Votuporanga
 -12.2593|-41.2210|Wagner
 -7.2953|-41.8373|Wall Ferraz
--11.7650|-43.9938|Wanderley
 -6.7980|-48.0042|Wanderlândia
+-11.7650|-43.9938|Wanderley
 -22.5397|-45.4021|Wenceslau Braz
 -13.6182|-39.5809|Wenceslau Guimarães
 -29.4230|-51.7562|Westfália
@@ -5303,39 +5440,5 @@
 -10.8229|-42.7281|Xique Xique
 -8.0763|-37.0564|Zabelê
 -21.1165|-50.0615|Zacarias
--27.4974|-51.5086|Zortéa
 -3.2259|-46.0573|Zé Doca
--6.6312|-50.6215|Água Azul do Norte
--14.1358|-52.4909|Água Boa
--9.2699|-37.9192|Água Branca
--19.8979|-52.9509|Água Clara
--19.9912|-48.1103|Água Comprida
--26.7969|-51.6364|Água Doce
--2.9125|-42.1412|Água Doce do Maranhão
--18.5065|-40.9919|Água Doce do Norte
--11.7476|-38.7350|Água Fria
--14.9606|-47.8496|Água Fria de Goiás
--18.0800|-48.7995|Água Limpa
--6.2131|-38.3063|Água Nova
--8.7075|-35.5306|Água Preta
--28.1854|-52.0129|Água Santa
--9.1114|-37.1231|Águas Belas
--21.9162|-46.6867|Águas da Prata
--27.0723|-52.9639|Águas de Chapecó
--22.4764|-46.6328|Águas de Lindóia
--22.8576|-49.2536|Águas de Santa Bárbara
--22.6024|-47.8748|Águas de São Pedro
--17.0822|-40.9358|Águas Formosas
--26.8576|-52.8506|Águas Frias
--15.7661|-48.2861|Águas Lindas de Goiás
--27.7423|-48.9202|Águas Mornas
--15.7472|-41.4600|Águas Vermelhas
--18.9831|-40.7403|Águia Branca
--20.2776|-49.9141|Álvares Florence
--22.0794|-51.4719|Álvares Machado
--22.0868|-49.7351|Álvaro de Carvalho
--27.6954|-52.0656|Áurea
--23.2162|-51.9385|Ângulo
--13.4369|-42.1033|Érico Cardoso
-0.1324|-55.8239|Óbidos
--22.9496|-49.3900|Óleo
+-27.4974|-51.5086|Zortéa

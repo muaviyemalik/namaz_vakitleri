@@ -69,11 +69,11 @@
 18.0264|-77.8487|Black River
 18.2736|-77.0425|Blackstonedge
 17.9958|-76.6477|Bloxborough
-18.0709|-77.4284|Blue Mountain
 18.1660|-78.0270|Bluefields
+18.0709|-77.4284|Blue Mountain
 18.1563|-77.9436|Bog
-18.1020|-77.0054|Bog Walk
 18.1362|-77.6697|Bogue
+18.1020|-77.0054|Bog Walk
 18.2124|-77.4695|Bohemia
 18.1178|-77.4494|Bombay
 18.3287|-76.9461|Bonnygate
@@ -207,8 +207,8 @@
 18.2094|-77.9908|Dillion Bigwoods
 18.4372|-77.4181|Discovery Bay
 18.2553|-76.7081|Dover
-18.4773|-77.9203|Down Town Montego Bay
 17.9500|-77.5731|Downs
+18.4773|-77.9203|Down Town Montego Bay
 18.1712|-76.4061|Drapers
 18.0238|-76.8263|Drewsland
 18.0235|-76.7876|Drumblair
@@ -251,8 +251,8 @@
 18.2379|-76.9217|Flint River
 18.4843|-77.8391|Flower Hill
 17.9406|-76.5117|Font Hill
-18.0385|-76.8287|Forest Hills Gardens
 18.0430|-76.8514|Forest Hills/ Plantation Height
+18.0385|-76.8287|Forest Hills Gardens
 18.2983|-78.0633|Fort Williams
 17.9709|-77.2960|Four Paths
 18.1497|-77.3650|Frankfield
@@ -270,8 +270,8 @@
 18.4027|-76.9004|Galina
 18.2781|-77.7891|Garlands
 18.3428|-77.0021|Gayle
-18.0317|-77.4808|George's Valley
 18.2765|-78.1312|Georges Plain
+18.0317|-77.4808|George's Valley
 18.3508|-77.4214|Gibraltar
 18.0970|-77.8676|Giddy Hall
 17.8895|-77.2847|Gimme-me-bit
@@ -283,8 +283,8 @@
 18.0195|-76.9804|Golden Acres
 18.3296|-77.1226|Golden Grove
 18.0945|-76.7973|Golden Spring
-18.2081|-77.5709|Good Intent
 18.2422|-78.1284|Gooden's River
+18.2081|-77.5709|Good Intent
 18.4695|-77.7565|Goodwill
 18.0376|-76.7235|Gordon Town
 18.0496|-77.6414|Goshen
@@ -294,12 +294,12 @@
 18.0326|-76.7889|Grants Pen
 18.4419|-77.8940|Granville
 17.9097|-77.3335|Gravel Hill
+17.9523|-76.9113|Greater Portmore
 18.4023|-77.0851|Great Pond
 18.4117|-78.0502|Great Valley
-17.9523|-76.9113|Greater Portmore
+18.0125|-76.9483|Greendale
 18.3840|-78.2702|Green Island
 18.4736|-77.8778|Green Pond
-18.0125|-76.9483|Greendale
 18.0393|-77.5324|Greenvale
 17.9844|-76.8256|Greenwich Town/ Newport West
 18.4977|-77.7524|Greenwood
@@ -352,18 +352,17 @@
 18.4495|-77.8772|Irwin
 18.3216|-76.8410|Islington
 18.0387|-76.7489|Jacks Hill
-18.3722|-76.9410|Jacks River
 18.4178|-77.4846|Jackson Town
+18.3722|-76.9410|Jacks River
 18.1875|-77.3370|James Hill
 18.2896|-77.0034|Jeffery Town
 18.4374|-78.1303|Jericho
 18.3246|-78.2156|Jerusalem
 18.2674|-77.4962|Joe Hut
-18.4285|-77.8501|John's Hall
 18.1888|-77.3806|Johns Hall
-17.8966|-76.3614|Johns Town
 17.9809|-76.3199|Johnson Mountain
 17.9777|-76.7559|Johnson Town
+17.8966|-76.3614|Johns Town
 17.9507|-76.5477|Jones Pen
 17.9842|-76.7969|Jones Town
 17.9147|-77.5989|Junction
@@ -467,11 +466,13 @@
 18.4712|-77.9188|Montego Bay
 18.4804|-77.8815|Montego Hill
 18.3761|-77.9136|Montpelier
-18.0777|-76.4258|Moore Town
 18.0293|-77.1854|Moores
+18.0777|-76.4258|Moore Town
 17.8815|-76.4093|Morant Bay
 18.1909|-77.4102|Morgans Forest
 18.1212|-77.2749|Morgans Pass
+17.9808|-77.7479|Mountainside
+17.9919|-76.7607|Mountain View Gardens
 18.0184|-77.3636|Mount Airy
 18.3889|-77.9437|Mount Carey
 18.3332|-77.8667|Mount Horeb
@@ -483,8 +484,6 @@
 18.4660|-77.9079|Mount Salem
 18.3041|-77.9927|Mount Stewart
 18.4338|-77.2803|Mount Zion
-17.9919|-76.7607|Mountain View Gardens
-17.9808|-77.7479|Mountainside
 18.2116|-77.8202|Mulgrave
 17.9970|-77.6243|Myersville
 17.9642|-76.8882|Naggo Head
@@ -492,6 +491,7 @@
 17.9968|-76.7695|Nannyville
 18.2684|-78.3481|Negril
 17.9856|-77.2710|New Denbigh
+17.9210|-77.7465|Newell
 17.9201|-77.5587|New Forest
 18.0766|-77.5257|New Green
 18.0295|-76.8542|New Haven
@@ -500,13 +500,12 @@
 18.1536|-77.9096|New Market
 18.2137|-78.1381|New Market Oval
 17.9916|-76.5733|New Monkland
-18.1912|-77.9361|New Roads
-18.1725|-77.9664|New Works
-17.9210|-77.7465|Newell
 17.9629|-77.5049|Newport
 17.9742|-76.8066|Newport East
+18.1912|-77.9361|New Roads
 18.1109|-77.7235|Newton
 17.9735|-76.7721|Newton Square
+18.1725|-77.9664|New Works
 18.2653|-77.8188|Niagara
 18.1382|-76.4047|Nonsuch
 18.0548|-76.7850|Norbrook
@@ -533,7 +532,6 @@
 18.0980|-76.8594|Parks Road
 17.9617|-77.8177|Parottee
 18.3836|-77.1034|Parry Town
-18.0802|-77.4097|Part of Banana Ground
 18.0791|-77.4213|Part Of Banana Ground
 18.1870|-77.2754|Part of Douglas Castle
 18.0064|-77.5790|Part Of Gutters
@@ -569,13 +567,13 @@
 18.4022|-78.0734|Pondside
 17.8915|-76.5835|Poormans Corner
 18.1761|-76.4509|Port Antonio
-18.3685|-76.8895|Port Maria
-17.8995|-76.3429|Port Morant
-17.9374|-76.8406|Port Royal
 18.3291|-78.0491|Porters Mountain
 17.7462|-77.1877|Portland Cottage
+18.3685|-76.8895|Port Maria
+17.8995|-76.3429|Port Morant
 17.9503|-76.8821|Portmore
 18.4661|-77.8699|Porto Bello
+17.9374|-76.8406|Port Royal
 18.0520|-77.4001|Porus
 17.9187|-77.6687|Potsdam
 18.4366|-77.2455|Priory
@@ -589,8 +587,8 @@
 17.9378|-77.6258|Red Bank
 18.3055|-78.1128|Red Hills
 18.0678|-76.8609|Red Hills (Rural)
-18.0300|-76.8099|Red Hills Gardens
 18.0595|-76.8403|Red Hills/ Sterling Castle
+18.0300|-76.8099|Red Hills Gardens
 18.2103|-76.9854|Redwood
 18.4510|-77.5775|Refuge
 18.2074|-77.7670|Retirement
@@ -618,9 +616,9 @@
 17.9265|-77.6415|Rose Hall
 18.4694|-77.8953|Rose Heights
 17.9247|-77.5234|Rose Hill
+18.4748|-77.8922|Rosemount
 18.4639|-77.8940|Rose Mount Garden
 17.9870|-76.8073|Rose Town
-18.4748|-77.8922|Rosemount
 17.9735|-76.2878|Rowlandsfield
 18.0496|-77.4683|Royal Flat
 18.4596|-77.3357|Runaway Bay
@@ -636,8 +634,8 @@
 18.1559|-77.4294|Sanguinetti
 18.0534|-77.6984|Santa Cruz
 18.3588|-78.2839|Santoy
-18.2189|-78.1332|Savanna-la-Mar
 18.2196|-78.1303|Savannah-la-mar Business Dist.
+18.2189|-78.1332|Savanna-la-Mar
 18.3788|-77.4969|Sawyers
 18.0237|-77.7188|Scholefield
 18.1908|-76.8394|Scotts Hall
@@ -662,8 +660,8 @@
 18.0574|-77.7969|Slipe
 18.2228|-78.0879|Smithfield
 18.1198|-77.3856|Smithville
-18.1947|-76.4935|Snow Hill
 17.9420|-77.4914|Snowdon
+18.1947|-76.4935|Snow Hill
 18.0804|-77.5431|Somerset
 18.4050|-77.7707|Somerton
 17.8821|-77.6699|Southfield
@@ -674,33 +672,33 @@
 18.4576|-77.5475|Spicy Hill
 18.4787|-77.7911|Spot Valley
 17.9599|-76.3260|Spring Bank
+17.9712|-76.7561|Springfield
 17.9175|-76.4298|Spring Garden
 18.1623|-77.4798|Spring Ground
 18.1259|-76.7291|Spring Hill
-17.9712|-76.7561|Springfield
 18.0065|-77.5566|Spur Tree
+17.9950|-76.7764|Stadium Gardens
 18.4299|-77.2078|St. Ann's Bay
 18.3330|-77.3630|St. D'Acre
+18.4285|-77.1710|Steer Town
+18.2822|-77.5409|Stettin
+18.3989|-77.4519|Stewart Town
 18.0009|-76.9747|St. John's East
 18.0054|-77.0075|St. John's West
 18.2553|-77.8889|St. Leonards
 18.1908|-76.5289|St. Margaret's Bay
-18.1314|-77.6120|St. Paul's
-18.0788|-76.6720|St. Peter's
-18.3342|-77.5479|St. Vincent
-17.9950|-76.7764|Stadium Gardens
-18.4285|-77.1710|Steer Town
-18.2822|-77.5409|Stettin
-18.3989|-77.4519|Stewart Town
 18.2423|-77.8504|Stonehenge
 18.0792|-76.7847|Stony Hill
+18.1314|-77.6120|St. Paul's
+18.0788|-76.6720|St. Peter's
 18.2386|-78.1171|Strathbogie
 18.3068|-78.0894|Strawberry
 18.2532|-77.9566|Struie
 18.4163|-77.3199|Sturge Town
+18.3342|-77.5479|St. Vincent
 18.3773|-78.0511|Success
-18.3736|-77.7935|Summer Hill
 18.0943|-77.2843|Summerfield
+18.3736|-77.7935|Summer Hill
 18.3979|-77.8273|Sunderland
 17.9561|-76.4093|Sunning Hill
 17.9861|-77.5333|Swaby's Hope
@@ -745,11 +743,11 @@
 18.2618|-77.5677|Warsop
 18.0217|-76.8402|Washington Gardens
 17.9388|-77.7725|Watchwell
-17.8245|-77.2595|Water Lane
-18.2332|-78.0430|Water Works
 17.9934|-76.8609|Waterford
 18.0123|-76.8350|Waterhouse
+17.8245|-77.2595|Water Lane
 18.0669|-77.0911|Watermount
+18.2332|-78.0430|Water Works
 18.0068|-77.5187|Watham
 18.2943|-77.4147|Watt Town
 18.3690|-77.8367|Welcome Hall
@@ -757,10 +755,9 @@
 17.9729|-76.7970|West Down Town
 18.4624|-77.9176|West Green
 17.9587|-76.2962|Wheelerfield
-17.9980|-76.4310|White Hall
+18.0384|-76.8058|Whitehall
 18.1565|-77.8107|White Hill
 17.8962|-76.4708|White Horses
-18.0384|-76.8058|Whitehall
 18.1028|-77.9570|Whitehouse
 17.9921|-76.8091|Whitfield Town
 18.2711|-78.0381|Whithorn

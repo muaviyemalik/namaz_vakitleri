@@ -8,6 +8,7 @@
 14.0289|-84.5910|Bonanza
 11.4692|-85.8166|Buenos Aires
 12.3838|-85.5128|Camoapa
+11.1964|-85.5089|Cárdenas
 11.9120|-86.0738|Catarina
 12.5776|-87.0271|Chichigalpa
 12.6294|-87.1311|Chinandega
@@ -20,11 +21,10 @@
 12.4825|-87.1730|Corinto
 12.1758|-83.0614|Corn Island
 12.2688|-85.3821|Cuapa
-11.1964|-85.5089|Cárdenas
 13.7223|-86.5137|Dipilto
+11.8842|-86.0551|Diriá
 11.8581|-86.2392|Diriamba
 11.8763|-86.0518|Diriomo
-11.8842|-86.0551|Diriá
 11.8567|-86.2155|Dolores
 11.6786|-84.7027|El Almendro
 12.1905|-85.2874|El Ayote
@@ -32,7 +32,7 @@
 13.4167|-85.7500|El Cuá
 12.7268|-86.3806|El Jicaral
 13.7222|-86.1412|El Jícaro
-12.1596|-84.2195|El Rama
+12.1596|-84.2195|El Rama|Rama
 12.5433|-87.1652|El Realejo
 11.7776|-86.3737|El Rosario
 12.8869|-86.5390|El Sauce
@@ -51,14 +51,14 @@
 13.1953|-86.1666|La Concordia
 11.7343|-86.1928|La Conquista
 13.1129|-84.1859|La Cruz de Río Grande
+12.3429|-83.6712|Laguna de Perlas
 12.2164|-85.1659|La Libertad
 12.3400|-86.6753|La Paz Centro
 11.8231|-86.1278|La Paz de Carazo
-12.9688|-86.2353|La Trinidad
-12.3429|-83.6712|Laguna de Perlas
 12.6769|-86.5719|Larreynaga
 13.1700|-85.8500|Las Praderas
 13.3430|-86.6218|Las Sabanas
+12.9688|-86.2353|La Trinidad
 12.4379|-86.8780|León
 13.1245|-86.0083|LLano de La Cruz
 13.6519|-86.6143|Macuelizo
@@ -67,6 +67,7 @@
 11.9145|-86.1446|Masatepe
 11.9744|-86.0942|Masaya
 12.9256|-85.9175|Matagalpa
+12.2351|-86.4281|Mateare
 12.8373|-85.4622|Matiguás
 11.6212|-85.0805|Morrito
 11.5401|-85.6980|Moyogalpa
@@ -84,8 +85,8 @@
 11.4393|-85.8270|Municipio de Rivas
 13.2119|-86.7711|Municipio de San Francisco del Norte
 11.4270|-85.7890|Municipio de San Jorge
-11.9052|-86.0746|Municipio de San Juan de Oriente
 11.2237|-85.7829|Municipio de San Juan del Sur
+11.9052|-86.0746|Municipio de San Juan de Oriente
 11.9178|-86.2747|Municipio de San Marcos
 11.4601|-86.0079|Municipio de Tola
 13.7593|-86.0220|Murra
@@ -106,8 +107,8 @@
 12.8504|-87.1717|Puerto Morazán
 12.5068|-86.9029|Quezalguaque
 13.5649|-86.0292|Quilalí
-11.4372|-85.8263|Rivas
 12.9344|-85.2235|Río Blanco
+11.4372|-85.8263|Rivas
 11.1236|-84.7780|San Carlos
 12.7602|-85.8502|San Dionisio
 13.6787|-86.3208|San Fernando
@@ -116,9 +117,9 @@
 13.2884|-86.6554|San José de Cusmapa
 12.5975|-85.7617|San José de los Remates
 13.1760|-86.6123|San Juan de Limay
+11.2529|-85.8705|San Juan del Sur
 11.9062|-86.0734|San Juan de Oriente
 13.5448|-86.1650|San Juan de Río Coco
-11.2529|-85.8705|San Juan del Sur
 12.3783|-85.6665|San Lorenzo
 13.4138|-86.6111|San Lucas
 11.9095|-86.2035|San Marcos

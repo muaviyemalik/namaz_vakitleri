@@ -30,8 +30,8 @@
 19.2221|-70.5296|Concepción de La Vega
 18.9092|-70.7450|Constanza
 19.0527|-70.1494|Cotuí
-18.5017|-69.9261|Cristo Rey
 18.2940|-71.2930|Cristóbal
+18.5017|-69.9261|Cristo Rey
 19.5488|-71.7083|Dajabón
 18.8277|-69.9463|Don Juan
 18.3163|-71.5945|Duvergé
@@ -60,6 +60,7 @@
 19.5070|-70.9171|Guatapanal
 18.5981|-71.6418|Guayabal
 18.6500|-69.2833|Guayabo Dulce
+18.4249|-69.4576|Guayacanes
 18.5879|-68.9787|Guaymate
 19.6167|-71.3333|Guayubín
 19.6626|-71.1941|Hatillo Palma
@@ -76,9 +77,9 @@
 18.4917|-71.8502|Jimaní
 19.5667|-70.2667|Joba Arriba
 18.7636|-70.3373|Juan Adrián
+17.8578|-71.2931|Juancho
 18.8740|-71.2383|Juan de Herrera
 19.4333|-70.5000|Juan López Abajo
-17.8578|-71.2931|Juancho
 19.2199|-70.8191|Juncalito Abajo
 18.4920|-69.9325|La Agustina
 19.4734|-70.8163|La Canela
@@ -86,16 +87,17 @@
 18.0686|-71.1065|La Ciénaga
 18.5705|-71.7297|La Descubierta
 19.5537|-69.9076|La Entrada
+19.7000|-71.1333|Laguna Salada
 18.4667|-69.9333|La Julia
 18.4273|-68.9728|La Romana
-18.3619|-71.2105|La Uvilla
-19.7000|-71.1333|Laguna Salada
 18.4503|-70.6172|Las Charcas
 19.1931|-70.2083|Las Guáranas
 18.9167|-71.5000|Las Matas de Farfán
 19.6712|-71.5047|Las Matas de Santa Cruz
 18.2749|-71.3160|Las Salinas
 19.3110|-69.5428|Las Terrenas
+18.3619|-71.2105|La Uvilla
+19.2203|-70.5310|La Vega
 19.4500|-70.6000|Licey al Medio
 19.4167|-71.5833|Loma de Cabrera
 18.7323|-69.9954|Los Botados
@@ -162,6 +164,7 @@
 18.6150|-68.7080|Salvaleón de Higüey
 19.2056|-69.3368|Samaná
 18.4787|-69.8950|San Carlos
+19.2281|-69.6137|Sánchez
 18.4167|-70.1333|San Cristóbal
 19.8483|-71.6460|San Fernando de Monte Cristi
 19.3010|-70.2526|San Francisco de Macorís
@@ -172,7 +175,6 @@
 18.8059|-71.2299|San Juan de la Maguana
 18.4539|-69.3086|San Pedro de Macorís
 18.4299|-68.6739|San Rafael del Yuma
-19.4774|-70.5358|San Víctor Arriba
 18.2085|-71.1008|Santa Cruz de Barahona
 18.7656|-69.0389|Santa Cruz de El Seibo
 19.4517|-70.6970|Santiago de los Caballeros
@@ -180,13 +182,13 @@
 18.4885|-69.8571|Santo Domingo Este
 18.5000|-70.0000|Santo Domingo Oeste
 19.2353|-70.7952|Santo Tomás de Jánico
+19.4774|-70.5358|San Víctor Arriba
 19.7522|-70.5199|Sosúa
-19.2281|-69.6137|Sánchez
+18.5700|-70.8798|Tábara Arriba
 18.5000|-71.1667|Tamayo
 19.4854|-70.6110|Tamboril
 19.3744|-70.3509|Tenares
 18.9354|-70.6885|Tireo Arriba
-18.5700|-70.8798|Tábara Arriba
 18.6535|-71.3343|Vallejuelo
 19.5833|-70.3333|Veragua Arriba
 18.3844|-71.1801|Vicente Noble
@@ -199,9 +201,9 @@
 19.8156|-71.0606|Villa Isabela
 18.4908|-71.4838|Villa Jaragua
 19.1505|-69.8837|Villa Riva
+18.6586|-71.0392|Villarpando
 19.3008|-70.4220|Villa Tapia
 19.8079|-71.4400|Villa Vásquez
-18.6586|-71.0392|Villarpando
 18.3333|-70.1833|Yaguate
 18.7732|-70.0258|Yamasá
 18.6071|-70.9275|Yayas de Viajama

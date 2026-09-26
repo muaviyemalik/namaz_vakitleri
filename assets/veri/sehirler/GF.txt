@@ -12,11 +12,12 @@
 4.8928|-52.4928|Montsinéry-Tonnegrande
 4.2092|-51.6717|Ouanary
 3.8097|-54.1489|Papaichton
-4.9050|-52.2764|Remire-Montjoly
-4.7283|-52.3242|Roura
 4.3136|-52.1292|Régina
+4.9050|-52.2764|Remire-Montjoly
+4.9167|-52.2667|Rémire-Montjoly
+4.7283|-52.3242|Roura
+4.8256|-53.2881|Saint-Élie
 3.8894|-51.8011|Saint-Georges
 5.5039|-54.0289|Saint-Laurent-du-Maroni
-4.8256|-53.2881|Saint-Élie
 3.6228|-53.2083|Saül
 5.3775|-52.9586|Sinnamary

@@ -6,7 +6,7 @@
 53.3333|28.7500|Asipovitski Rayon
 52.1891|26.1299|Asnyezhytsy
 54.0651|27.6950|Astrashytski Haradok
-54.6138|25.9554|Astravyets
+54.6138|25.9554|Astraviec|Astravyets
 54.6667|26.0000|Astravyetski Rayon
 53.7817|27.4346|Atolina
 53.8397|27.3917|Azyartso
@@ -14,14 +14,15 @@
 53.0833|29.1667|Babruyski Rayon
 54.4207|30.2909|Balbasava
 54.0036|27.5669|Bal’shavik
+54.4784|30.3159|Baran’
 53.1327|26.0139|Baranovichi
 53.1667|25.8333|Baranovichskiy Rayon
-54.4784|30.3159|Baran’
 54.3171|26.1376|Baruny
 54.2279|28.5050|Barysaw
 54.3333|28.5833|Barysawski Rayon
 53.5269|28.1732|Blon’
 54.3420|29.2736|Bobr
+53.1468|29.2055|Bobruysk
 54.0022|27.6754|Borovlyany
 51.7870|30.2677|Brahin
 51.6667|30.3333|Brahinski Rayon
@@ -42,6 +43,7 @@
 53.8391|28.9879|Byerazino
 55.0000|29.5000|Byeshankovitski Rayon
 53.5210|30.2454|Bykhaw
+53.5213|30.2308|Bykhov
 52.9164|30.9179|Chachersk
 52.9167|31.0833|Chacherski Rayon
 52.2195|23.7404|Charnawchytsy
@@ -94,7 +96,7 @@
 53.1333|26.0333|Horad Baranavichy
 52.1000|23.7000|Horad Brest
 53.6833|23.8333|Horad Hrodna
-54.0249|28.0894|Horad Smalyavichy
+54.0249|28.0894|Horad Smalyavichy|Smaliavičy
 54.0985|28.3331|Horad Zhodzina
 54.3333|31.0000|Horatski Rayon
 54.2862|30.9863|Horki
@@ -105,11 +107,13 @@
 53.4605|23.8823|Indura
 52.1451|25.5365|Ivanava
 52.1667|25.5833|Ivanawski Rayon
+52.1472|25.5320|Ivanovo
+52.7079|25.3351|Ivatsevichi
 52.7090|25.3401|Ivatsevichy
 53.8864|26.7432|Ivyanyets
 53.9299|25.7727|Iwye
 53.8839|30.5203|Kadino
-52.1323|29.3257|Kalinkavichy
+52.1323|29.3257|Kalinkavichy|Kalinkovichi
 53.9440|27.7823|Kalodzishchy
 52.4001|23.8100|Kamyanyets
 52.4167|23.6667|Kamyanyetski Rayon
@@ -152,7 +156,7 @@
 53.7125|31.7170|Krychaw
 54.7132|27.2886|Kryvichy
 52.3390|25.9867|Lahishyn
-54.2064|27.8512|Lahoysk
+54.2064|27.8512|Lahoysk|Logoysk
 53.8833|25.2997|Lida
 53.6667|25.2500|Lidski Rayon
 54.2796|28.7649|Loshnitsa
@@ -175,9 +179,9 @@
 53.7788|27.5948|Machulishchy
 53.9168|30.3449|Mahilyow
 53.8333|30.2500|Mahilyowski Rayon
-54.3167|26.8540|Maladzyechna
+54.3167|26.8540|Maladziečna|Maladzyechna
 51.7905|24.0740|Malaryta
-53.5090|28.1470|Mar’’ina Horka
+53.5090|28.1470|Mar’ina Gorka|Mar’’ina Horka
 53.8742|27.5028|Maskowski Rayon
 52.0495|29.2456|Mazyr
 52.0000|29.0000|Mazyrski Rayon
@@ -199,15 +203,19 @@
 51.7961|29.5004|Narowlya
 54.3044|26.7821|Nasilava
 55.5318|28.5987|Navapolatsk
+53.2219|26.6768|Nesvizh
 52.1032|30.9837|Novaya Huta
 53.5942|25.8191|Novogrudok
 54.6619|29.1502|Novolukoml’
+55.5262|28.5931|Novopolotsk
 53.9162|27.2009|Novosel’ye
 53.4542|26.7301|Novy Svyerzhan’
 52.6440|25.2027|Nyakhachava
 53.2189|26.6779|Nyasvizh
 53.2500|26.6667|Nyasvizhski Rayon
 54.5081|30.4172|Orsha
+54.4181|25.9373|Oshmyany
+53.3059|28.6287|Osipovichi
 56.0147|28.1105|Osveya
 53.9854|30.3600|Palykavichy Pyershyya
 53.8803|27.6700|Partyzanski Rayon
@@ -217,7 +225,7 @@
 52.3973|31.0710|Peramoga
 52.1229|26.0951|Pinsk
 54.4235|27.8301|Plyeshchanitsy
-55.4879|28.7856|Polatsk
+55.4879|28.7856|Polatsk|Polotsk
 55.5833|29.0000|Polatski Rayon
 53.7766|30.3497|Posëlok Voskhod
 53.5248|27.8303|Prawdzinski
@@ -260,9 +268,10 @@
 53.0274|27.5597|Slutsk
 53.0000|27.6667|Slutski Rayon
 54.0000|28.1667|Smalyavitski Rayon
-54.4798|26.3957|Smarhon’
+54.4798|26.3957|Smarhon’|Smarhoń
 53.7496|28.0115|Smilavichy
 53.2201|26.4010|Snow
+52.7898|27.5358|Soligorsk
 54.5130|26.1938|Soly
 53.6292|27.2290|Stan’kava
 53.0000|28.1667|Staradarozhski Rayon
@@ -272,9 +281,9 @@
 51.8912|26.8460|Stolin
 52.0000|27.0000|Stolinski Rayon
 53.4785|26.7434|Stowbtsy
+52.6329|29.7389|Svetlogorsk|Svyetlahorsk
 54.8517|26.3950|Svir
 53.0347|24.0983|Svislach
-52.6329|29.7389|Svyetlahorsk
 54.8108|29.7086|Syanno
 53.8313|27.5343|Syenitsa
 54.8333|29.8333|Syennyenski Rayon
@@ -292,14 +301,14 @@
 53.4167|27.3333|Uzdzyenski Rayon
 54.0892|26.5266|Valozhyn
 52.2512|29.8288|Vasilyevichy
+53.1561|24.4513|Vaukavysk|Volkovysk
 53.8333|30.3833|Veyno
 55.3945|26.6305|Vidzy
-54.4914|26.9111|Vilyeyka
+54.4914|26.9111|Vileyka|Vilyeyka
 54.5000|27.0833|Vilyeyski Rayon
 54.7102|26.5228|Vishnyeva
 53.9805|29.9925|Vishow
 55.1904|30.2049|Vitebsk
-53.1561|24.4513|Volkovysk
 54.1492|25.3112|Voranava
 53.1960|24.0166|Vyalikaya Byerastavitsa
 53.8510|27.7139|Vyaliki Trastsyanets
@@ -322,7 +331,7 @@
 53.0131|25.3443|Zhirovichi
 52.8926|30.0240|Zhlobin
 52.7500|29.8333|Zhlobinski Rayon
-52.2168|27.8561|Zhytkavichy
+52.2168|27.8561|Zhytkavichy|Žytkavičy
 51.8817|23.6554|Znamenka
 54.3579|28.2207|Zyembin
 54.0406|28.1981|Октябрьский

@@ -1,12 +1,16 @@
 47.0291|18.5217|Aba
+47.4667|20.6000|Abádszalók
 47.7970|20.0032|Abasár
 48.2833|21.2000|Abaújszántó
 47.6946|17.5449|Abda
 47.1899|20.0048|Abony
-47.4667|20.6000|Abádszalók
+47.7100|18.0156|Ács
 47.7942|19.3880|Acsa
-47.1194|18.8649|Adony
 47.6921|19.9770|Adács
+46.8593|18.1644|Ádánd
+47.1194|18.8649|Adony
+46.8402|19.4521|Ágasegyháza
+47.6899|16.5166|Ágfalva
 48.1766|22.0627|Ajak
 47.1020|17.5589|Ajka
 47.0799|17.5637|Ajkai Járás
@@ -18,20 +22,29 @@
 46.3347|20.2085|Algyő
 47.7287|18.2554|Almásfüzitő
 47.3152|19.1584|Alsónémedi
+47.5279|19.1229|Alsórákos
 48.0698|20.8805|Alsózsolca
 48.1764|22.1117|Anarcs
 47.8500|20.4167|Andornaktálya
+47.5476|19.0797|Angyalföld
 47.9643|21.9354|Apagy
+46.1667|20.5833|Apátfalva
 47.7942|19.6943|Apc
 46.8821|18.9621|Apostag
-46.1667|20.5833|Apátfalva
 48.2060|22.2592|Aranyosapáti
 48.1833|20.2667|Arló
 48.1306|20.8583|Arnót
+46.1987|19.7833|Ásotthalom
+47.8273|17.4942|Ásványráró
 48.2167|20.9667|Aszaló
+47.5095|18.0031|Ászár
 47.6517|19.4785|Aszód
 47.6474|19.5424|Aszódi Járás
 46.0416|17.3433|Babócsa
+47.6417|17.9786|Bábolna
+46.1265|19.3326|Bácsalmás
+46.1017|19.3306|Bácsalmási Járás
+46.1250|19.1562|Bácsbokod
 46.8071|17.5139|Badacsonytomaj
 47.6333|19.4833|Bag
 47.4488|21.9890|Bagamér
@@ -40,14 +53,15 @@
 47.7272|18.5558|Bajót
 47.4655|17.9024|Bakonybánk
 47.3240|18.0751|Bakonycsernye
+47.4485|18.0992|Bakonysárkány
 47.3890|17.8032|Bakonyszentlászló
 47.4721|17.9602|Bakonyszombathely
-47.4485|18.0992|Bakonysárkány
 46.5430|20.1021|Baks
 48.0000|22.0833|Baktalórántháza
 48.0044|22.0245|Baktalórántházai Járás
 48.0730|19.2961|Balassagyarmat
 48.0166|19.3059|Balassagyarmati Járás
+46.4228|20.0082|Balástya
 47.0353|18.0208|Balatonalmádi
 47.0417|18.0962|Balatonalmádi Járás
 46.7070|17.3201|Balatonberény
@@ -64,15 +78,30 @@
 46.8622|19.5709|Ballószög
 47.6167|21.3500|Balmazújváros
 47.6184|21.1488|Balmazújvárosi Járás
-46.4228|20.0082|Balástya
 47.6499|17.9212|Bana
+47.5711|18.3861|Bánhida
 46.8820|18.9066|Baracs
 47.2822|18.7585|Baracska
+47.3000|21.2333|Báránd
 45.9600|17.4586|Barcs
 46.0369|17.4743|Barcsi Járás
+47.5114|17.9190|Bársonyos
+46.1286|18.7703|Báta
+46.1937|18.7231|Bátaszék
+47.9696|19.8408|Bátonyterenye
+47.9769|19.8734|Bátonyterenyei Járás
 46.2833|21.0167|Battonya
+46.4880|18.9542|Bátya
 46.4475|16.7771|Becsehely
 48.1500|21.1833|Bekecs
+46.7667|21.1333|Békés
+46.6833|21.1000|Békéscsaba
+46.6813|21.0741|Békéscsabai Járás
+46.8332|21.1000|Békési Járás
+46.4167|20.6333|Békéssámson
+46.8667|20.4833|Békésszentandrás
+48.0500|20.3667|Bélapátfalva
+48.0639|20.3616|Bélapátfalvai Járás
 47.4659|17.0929|Beled
 47.8706|19.4072|Bercel
 45.7911|18.4326|Beremend
@@ -88,67 +117,51 @@
 47.1333|21.7167|Biharkeresztes
 47.2167|21.2333|Biharnagybajom
 47.3235|18.2331|Bodajk
-46.3864|18.8296|Bogyiszló
 47.9000|20.5333|Bogács
+46.3864|18.8296|Bogyiszló
+46.4134|17.3804|Böhönye
+47.7333|21.7500|Bököny
+46.7410|18.9674|Bölcske
 47.6028|19.6884|Boldog
 48.2167|20.8000|Boldva
+45.9672|18.5183|Bóly
+45.9808|18.4845|Bólyi Járás
 46.2992|18.5302|Bonyhád
 46.3400|18.4974|Bonyhádi Járás
 46.3184|19.9231|Bordány
 48.1167|20.2500|Borsodnádasd
 47.2000|21.0000|Bucsa
+47.5000|19.0333|Buda
+47.4239|19.0363|Budafok
 47.6167|19.0500|Budakalász
 47.5108|18.9272|Budakeszi
 47.4979|18.8498|Budakeszi Járás
-47.4984|19.0404|Budapest
-47.4971|19.0396|Budapest I. kerület
-47.5198|19.0222|Budapest II. kerület
-47.5416|19.0450|Budapest III. kerület
-47.5618|19.0891|Budapest IV. kerület
-47.5037|19.0658|Budapest VI. kerület
-47.4892|19.0701|Budapest VIII. kerület
-47.4791|19.1583|Budapest X. kerület
-47.4760|19.0360|Budapest XI. kerület
-47.4919|19.0149|Budapest XII. kerület
-47.5298|19.0807|Budapest XIII. kerület
-47.5626|19.1168|Budapest XV. kerület
-47.5148|19.1703|Budapest XVI. kerület
-47.4800|19.2539|Budapest XVII. kerület
-47.4442|19.1760|Budapest XVIII. kerület
-47.4367|19.1009|Budapest XX. kerület
-47.4305|19.0710|Budapest XXI. kerület
-47.4270|19.0402|Budapest XXII. kerület
-47.3979|19.1149|Budapest XXIII. kerület
 47.4618|18.9584|Budaörs
+47.4984|19.0404|Budapest
+47.5416|19.0450|Budapest III. kerület
+47.5198|19.0222|Budapest II. kerület
+47.4971|19.0396|Budapest I. kerület
+47.5618|19.0891|Budapest IV. kerület
+47.4892|19.0701|Budapest VIII. kerület
+47.5037|19.0658|Budapest VI. kerület
+47.4996|19.0511|Budapest V. kerület
+47.5298|19.0807|Budapest XIII. kerület
+47.4919|19.0149|Budapest XII. kerület
+47.4760|19.0360|Budapest XI. kerület
+47.4529|19.1494|Budapest XIX. kerület
+47.4791|19.1583|Budapest X. kerület
+47.4442|19.1760|Budapest XVIII. kerület
+47.4800|19.2539|Budapest XVII. kerület
+47.5148|19.1703|Budapest XVI. kerület
+47.5626|19.1168|Budapest XV. kerület
+47.3979|19.1149|Budapest XXIII. kerület
+47.4270|19.0402|Budapest XXII. kerület
+47.4305|19.0710|Budapest XXI. kerület
+47.4367|19.1009|Budapest XX. kerület
 46.6870|19.6807|Bugac
 47.2275|19.1466|Bugyi
 48.1000|21.6500|Buj
 47.8835|19.5438|Buják
-47.6417|17.9786|Bábolna
-46.1265|19.3326|Bácsalmás
-46.1017|19.3306|Bácsalmási Járás
-46.1250|19.1562|Bácsbokod
-47.5711|18.3861|Bánhida
-47.5114|17.9190|Bársonyos
-47.3000|21.2333|Báránd
-46.1286|18.7703|Báta
-46.1937|18.7231|Bátaszék
-47.9696|19.8408|Bátonyterenye
-47.9769|19.8734|Bátonyterenyei Járás
-46.4880|18.9542|Bátya
-46.7667|21.1333|Békés
-46.6833|21.1000|Békéscsaba
-46.6813|21.0741|Békéscsabai Járás
-46.8332|21.1000|Békési Járás
-46.8667|20.4833|Békésszentandrás
-46.4167|20.6333|Békéssámson
-48.0500|20.3667|Bélapátfalva
-48.0639|20.3616|Bélapátfalvai Járás
-45.9672|18.5183|Bóly
-45.9808|18.4845|Bólyi Járás
-46.4134|17.3804|Böhönye
-47.7333|21.7500|Bököny
-46.7410|18.9674|Bölcske
 47.3849|16.7507|Bük
 46.1075|17.9882|Bükkösd
 48.0500|20.9667|Bőcs
@@ -164,21 +177,32 @@
 48.2556|21.8920|Cigánd
 48.3034|21.8765|Cigándi Járás
 47.0136|17.2911|Csabrendek
-46.5950|20.1234|Csanytelek
+47.3918|18.4650|Csákvár
 46.5500|20.8833|Csanádapáca
 46.2500|20.7333|Csanádpalota
+47.6483|19.8297|Csány
+46.5950|20.1234|Csanytelek
+47.5020|18.1421|Császár
+46.4219|19.1836|Császártöltés
 47.3803|17.9763|Csatka
+46.1892|19.1467|Csávoly
+47.6812|18.0869|Csém
 47.1180|19.6909|Csemő
 46.5423|19.8636|Csengele
 47.8358|22.6810|Csenger
 47.8304|22.5981|Csengeri Járás
 46.7154|19.2680|Csengőd
+47.5786|18.0636|Csép
+47.4092|19.0594|Csepel-Csillagtelep
+47.4025|19.0918|Csepel-Királyerdő
 47.4010|16.7088|Csepreg
 46.8632|20.1870|Cserkeszőlő
 46.8017|17.2210|Cserszegtomaj
 47.3181|17.9921|Csetény
 47.6464|18.9619|Csobánka
+47.0333|21.3000|Csökmő
 47.6935|18.7130|Csolnok
+47.5500|19.2333|Csömör
 46.7133|20.1424|Csongrád
 46.6615|20.0879|Csongrádi Járás
 46.9771|17.9182|Csopak
@@ -187,37 +211,40 @@
 46.6333|20.8333|Csorvás
 46.2531|17.1006|Csurgó
 46.2950|17.1002|Csurgói Járás
-47.3918|18.4650|Csákvár
-47.6483|19.8297|Csány
-47.5020|18.1421|Császár
-46.4219|19.1836|Császártöltés
-46.1892|19.1467|Csávoly
-47.6812|18.0869|Csém
-47.5786|18.0636|Csép
-47.0333|21.3000|Csökmő
-47.5500|19.2333|Csömör
 47.1859|19.3109|Dabas
 47.1900|19.3300|Dabasi Járás
 47.5188|18.2246|Dad
+47.6625|18.7200|Dág
+47.2149|19.5469|Dánszentmiklós
+47.5200|19.5440|Dány
+45.9950|18.9172|Dávod
 47.5333|21.6333|Debrecen
 47.5271|21.6687|Debreceni Járás
 46.2843|18.7600|Decs
+46.8681|18.4504|Dég
+47.2413|19.0902|Délegyháza
 48.1165|21.9262|Demecser
 47.3500|21.5667|Derecske
 47.3819|21.7484|Derecskei Járás
 46.2180|20.2432|Deszk
+47.0333|20.9667|Dévaványa
 47.1032|17.4380|Devecser
 47.1684|17.3227|Devecseri Járás
 47.4095|18.9490|Diósd
+48.1000|20.6833|Diósgyőr
 47.9397|19.0432|Diósjenő
 46.7333|21.2500|Doboz
+46.4218|18.2395|Döbrököz
+48.2625|22.0634|Döge
 46.2492|20.0111|Domaszék
 46.3333|21.1333|Dombegyház
-48.2333|21.9333|Dombrád
 46.3766|18.1370|Dombóvár
 46.4559|18.1908|Dombóvári Járás
+48.2333|21.9333|Dombrád
 47.6555|19.4323|Domony
+47.7648|18.9144|Dömös
 47.8333|20.1167|Domoszló
+47.0900|19.0111|Dömsöd
 47.7210|18.7364|Dorog
 47.7296|18.3217|Dunaalmás
 47.7905|19.0413|Dunabogdány
@@ -229,25 +256,14 @@
 46.0874|18.7587|Dunaszekcső
 46.5285|18.8177|Dunaszentgyörgy
 47.7057|18.3796|Dunaszentmiklós
-47.2786|19.0662|Dunavarsány
-46.9148|18.9713|Dunavecse
 46.9674|18.9329|dunaújváros
 47.0280|18.8300|Dunaújvárosi Járás
+47.2786|19.0662|Dunavarsány
+46.9148|18.9713|Dunavecse
 46.3909|18.9630|Dusnok
-47.6625|18.7200|Dág
-47.2149|19.5469|Dánszentmiklós
-47.5200|19.5440|Dány
-45.9950|18.9172|Dávod
-46.8681|18.4504|Dég
-47.2413|19.0902|Délegyháza
-47.0333|20.9667|Dévaványa
-46.4218|18.2395|Döbrököz
-48.2625|22.0634|Döge
-47.0900|19.0111|Dömsöd
-47.7648|18.9144|Dömös
 47.4667|21.5000|Ebes
-47.4439|19.3245|Ecser
 47.7327|19.7670|Ecséd
+47.4439|19.3245|Ecser
 48.3000|20.7333|Edelény
 48.4086|20.7751|Edelényi Járás
 47.9027|20.3733|Eger
@@ -264,16 +280,21 @@
 46.8724|18.3098|Enyingi Járás
 47.6471|18.6356|Epöl
 47.2519|18.8962|Ercsi
+47.3949|18.9136|Érd
+47.3560|18.9017|Érdi Járás
 47.6726|19.3079|Erdőkertes
 47.6833|20.3167|Erdőtelek
+46.2535|18.9846|Érsekcsanád
+47.9962|19.2023|Érsekvadkert
 47.5021|19.0722|Erzsébetváros
 47.7856|18.7403|Esztergom
 47.5317|18.0720|Ete
 47.4479|18.7533|Etyek
+46.6833|20.4667|Fábiánsebestyén
 46.4648|18.8193|Fadd
+47.6063|17.2002|Farád
 48.1833|20.3167|Farkaslyuk
 47.3607|19.8462|Farmos
-47.6063|17.2002|Farád
 47.2667|20.5333|Fegyvernek
 47.9833|22.5167|Fehérgyarmat
 48.0044|22.6301|Fehérgyarmati Járás
@@ -282,38 +303,45 @@
 46.1971|19.1869|Felsőszentiván
 47.9667|20.4167|Felsőtárkány
 48.1000|20.8667|Felsőzsolca
+48.2713|22.1001|Fényeslitke
+47.4775|19.0908|Ferencváros
 47.6217|16.8709|Fertőd
 47.7202|16.6504|Fertőrákos
 47.5900|16.8752|Fertőszentmiklós
+46.3167|20.5000|Földeák
+47.3000|21.3667|Földes
 46.7555|17.5795|Fonyód
 46.6729|17.7000|Fonyódi Járás
 46.3653|19.9097|Forráskút
 47.4550|19.6600|Forrópuszta
-46.6833|20.4667|Fábiánsebestyén
-48.2713|22.1001|Fényeslitke
 47.6177|19.1887|Fót
-47.3000|21.3667|Földes
-46.3167|20.5000|Földeák
 46.7422|19.7213|Fülöpjakab
 46.8207|19.2375|Fülöpszállás
 47.7500|20.4167|Füzesabony
 47.7267|20.4288|Füzesabonyi Járás
 47.1000|21.2167|Füzesgyarmat
+46.6667|20.6000|Gádoros
 47.6167|19.5667|Galgahévíz
 47.6956|19.3872|Galgamácsa
 46.0319|19.0428|Gara
+47.2094|18.6361|Gárdony
+47.2278|18.6362|Gárdonyi Járás
+48.1500|21.9500|Gégény
 47.2850|16.5957|Gencsapáti
 48.1000|20.9667|Gesztely
+47.6832|19.1342|Göd
+47.5966|19.3551|Gödöllő
+47.5513|19.3959|Gödöllői Járás
 47.3710|19.5306|Gomba
+48.4667|21.2833|Gönc
+48.3995|21.2831|Gönci Járás
+47.8333|21.2333|Görbeháza
+47.3845|19.2214|Gyál
+47.3682|19.2754|Gyáli Járás
 46.7706|17.2866|Gyenesdiás
 47.5919|18.6418|Gyermely
 46.9333|20.8333|Gyomaendrőd
 46.9822|20.8485|Gyomaendrődi Járás
-46.6500|21.2833|Gyula
-48.1333|22.1167|Gyulaháza
-46.5863|21.2245|Gyulai Járás
-47.3845|19.2214|Gyál
-47.3682|19.2754|Gyáli Járás
 47.4273|19.4013|Gyömrő
 47.7826|19.9280|Gyöngyös
 47.7416|19.9288|Gyöngyöshalász
@@ -322,20 +350,13 @@
 47.8172|19.9362|Gyöngyössolymos
 47.8137|19.8672|Gyöngyöstarján
 46.5560|18.4769|Gyönk
+46.6500|21.2833|Gyula
+48.1333|22.1167|Gyulaháza
+46.5863|21.2245|Gyulai Járás
 47.6833|17.6351|Győr
 47.6727|17.6794|Győri Járás
 47.5526|17.5636|Győrszemere
 47.6064|17.6487|Győrújbarát
-46.6667|20.6000|Gádoros
-47.2094|18.6361|Gárdony
-47.2278|18.6362|Gárdonyi Járás
-48.1500|21.9500|Gégény
-47.6832|19.1342|Göd
-47.5966|19.3551|Gödöllő
-47.5513|19.3959|Gödöllői Járás
-48.4667|21.2833|Gönc
-48.3995|21.2831|Gönci Járás
-47.8333|21.2333|Görbeháza
 47.4811|21.3100|Hadjúszoboszlói Járás
 47.3929|21.6655|Hajdúbagos
 47.6667|21.5167|Hajdúböszörmény
@@ -345,41 +366,41 @@
 47.6700|21.7000|Hajdúhadházi Járás
 47.8500|21.4333|Hajdúnánás
 47.8335|21.2526|Hajdúnánási Járás
+47.6000|21.7667|Hajdúsámson
 47.4500|21.4000|Hajdúszoboszló
 47.3833|21.4833|Hajdúszovát
-47.6000|21.7667|Hajdúsámson
 47.1451|18.0196|Hajmáskér
 46.3986|19.1206|Hajós
-48.2500|21.0000|Halmaj
 47.8893|17.3261|Halászi
 47.3617|18.9812|Halásztelek
+48.2500|21.0000|Halmaj
 45.8500|18.2367|Harkány
 47.9667|20.7500|Harsány
 46.6976|19.0311|Harta
 47.6667|19.6833|Hatvan
 47.6947|19.7285|Hatvani Járás
 46.2725|18.1376|Hegyháti Járás
+47.7802|19.5852|Héhalom
 47.9000|20.9500|Hejőbába
 46.8366|19.6225|Helvécia
 45.9500|18.9392|Hercegszántó
+47.7064|19.6331|Heréd
+47.6470|18.5106|Héreg
 47.1333|17.7500|Herend
 47.1624|19.4330|Hernád
 48.0667|20.9833|Hernádnémeti
-47.7064|19.6331|Heréd
 47.6000|20.2833|Heves
 47.6153|20.3174|Hevesi Járás
+46.7903|17.1841|Hévíz
+47.6333|19.5167|Hévízgyörk
 46.2568|18.4954|Hidas
 47.9183|22.2015|Hodász
+46.4167|20.3333|Hódmezővásárhely
+46.4330|20.3760|Hódmezővásárhelyi Járás
 47.6908|19.7893|Hort
 47.5828|21.1511|Hortobágy
 46.1641|18.3508|Hosszúhetény
 47.3930|21.7328|Hosszúpályi
-47.7802|19.5852|Héhalom
-47.6470|18.5106|Héreg
-46.7903|17.1841|Hévíz
-47.6333|19.5167|Hévízgyörk
-46.4167|20.3333|Hódmezővásárhely
-46.4330|20.3760|Hódmezővásárhelyi Járás
 46.4970|18.4184|Hőgyész
 48.1233|21.7095|Ibrány
 48.1279|21.6934|Ibrányi Járás
@@ -390,17 +411,17 @@
 47.1567|18.8203|Iváncsa
 46.8045|19.3517|Izsák
 48.3000|20.6667|Izsófalva
-47.8324|19.6776|Jobbágyi
 47.1425|16.5815|Ják
 46.2986|19.3258|Jánoshalma
 46.2828|19.3174|Jánoshalmai Járás
-47.3833|20.0667|Jánoshida
 47.1194|17.1650|Jánosháza
+47.3833|20.0667|Jánoshida
 47.7862|17.1360|Jánossomorja
 48.1500|20.2500|Járdánháza
 47.3667|20.1000|Jászalsószentgyörgy
 47.5167|20.1500|Jászapáti
 47.4613|20.0657|Jászapáti Járás
+47.6424|19.9804|Jászárokszállás
 47.5000|19.9167|Jászberény
 47.5650|19.8689|Jászberényi Járás
 47.5661|20.0153|Jászdózsa
@@ -410,52 +431,63 @@
 47.3667|20.1667|Jászladány
 47.5833|20.1833|Jászszentandrás
 46.5669|19.7606|Jászszentlászló
-47.6424|19.9804|Jászárokszállás
+47.8324|19.6776|Jobbágyi
 47.4894|19.0729|Józsefváros
 47.3500|21.2833|Kaba
 46.2362|17.6201|Kadarkút
 47.2420|19.3647|Kakucs
+47.7333|20.2667|Kál
+47.8608|21.9393|Kállósemjén
+47.8833|21.5833|Kálmánháza
 46.5298|18.9728|Kalocsa
 46.5565|19.0421|Kalocsai Járás
+46.9546|18.4826|Káloz
+47.9333|22.1500|Kántorjánosi
+47.2400|18.6756|Kápolnásnyék
 46.3617|17.7040|Kaposmérő
 46.3667|17.8000|Kaposvár
 46.3979|17.7699|Kaposvári Járás
 47.5922|17.0289|Kapuvár
 47.5671|17.0406|Kapuvári Járás
+47.7296|20.0308|Karácsond
+46.6908|17.8414|Karád
 48.1635|19.6969|Karancskeszi
 48.1500|19.7333|Karancslapujtő
 47.3167|20.9333|Karcag
 47.2858|20.8422|Karcagi Járás
 48.3113|21.8054|Karcsa
 47.6713|19.5420|Kartal
-47.7296|20.0308|Karácsond
-46.6908|17.8414|Karád
 46.4667|20.8333|Kaszaper
 46.0340|19.2094|Katymár
+48.0495|19.8614|Kazár
 48.2500|20.6333|Kazincbarcika
 48.2637|20.5798|Kazincbarcikai Járás
-48.0495|19.8614|Kazár
 46.5253|19.2519|Kecel
+47.5231|18.3068|Kecskéd
 46.9062|19.6913|Kecskemét
 46.8828|19.5870|Kecskeméti Járás
-47.5231|18.3068|Kecskéd
+48.1167|21.8833|Kék
 46.1968|19.6166|Kelebia
+47.4661|19.0310|Kelenföld
 48.0753|21.8062|Kemecse
 48.1005|21.8841|Kemecsei Járás
 47.2500|20.6833|Kenderes
 47.0833|20.3333|Kengyel
 47.8000|20.3500|Kerecsend
 46.9372|19.4781|Kerekegyháza
-47.5601|19.2829|Kerepes
 47.5164|17.9389|Kerékteleki
+47.5601|19.2829|Kerepes
 46.7681|17.2432|Keszthely
 46.7836|17.2238|Keszthelyi Járás
 47.7136|18.7952|Kesztölc
+46.5333|21.1833|Kétegyháza
+46.6461|17.3936|Kéthely
 46.4167|21.1833|Kevermes
 47.8173|17.3664|Kimle
 47.2644|18.2779|Kincsesbánya
 47.5017|18.0267|Kisbér
 47.6544|18.0971|Kisigmánd
+47.5000|20.5000|Kisköre
 46.7121|19.8446|Kiskunfélegyháza
 46.6572|19.7701|Kiskunfélegyházi Járás
 46.4340|19.4848|Kiskunhalas
@@ -463,7 +495,6 @@
 47.1884|19.0093|Kiskunlacháza
 46.4903|19.7400|Kiskunmajsa
 46.4961|19.7232|Kiskunmajsai Járás
-47.5000|20.5000|Kisköre
 46.6214|19.2853|Kiskőrös
 46.6331|19.3373|Kiskőrösi Járás
 46.9574|18.3881|Kisláng
@@ -474,88 +505,99 @@
 47.5476|19.2625|Kistarcsa
 46.4725|19.9797|Kistelek
 46.4883|19.9957|Kisteleki Járás
+47.2167|20.7667|Kisújszállás
 48.2167|22.0833|Kisvárda
 48.2210|22.0642|Kisvárdai Járás
 46.1833|20.4333|Kiszombor
-47.2167|20.7667|Kisújszállás
 47.6067|18.2154|Kocs
-47.9391|22.3833|Kocsord
 47.0016|19.9207|Kocsér
-46.1928|18.2649|Komló
-46.2202|18.2862|Komlói Járás
-47.7333|20.2500|Kompolt
+47.9391|22.3833|Kocsord
+47.4855|19.5788|Kóka
 47.0000|21.5000|Komádi
 47.7432|18.1191|Komárom
-46.7667|20.8000|Kondoros
-47.3167|21.6667|Konyár
-47.8079|19.1782|Kosd
-46.0297|18.2921|Kozármisleny
-46.3609|19.4145|Kunfehértó
-47.3667|20.6333|Kunhegyes
-47.4033|20.5920|Kunhegyesi Járás
-47.4333|20.8000|Kunmadaras
-47.0270|19.1258|Kunszentmiklós
-46.9481|19.1556|Kunszentmiklósi Járás
-46.8392|20.2888|Kunszentmárton
-46.8770|20.2518|Kunszentmártoni Járás
-46.4333|21.0500|Kunágota
-47.7333|20.2667|Kál
-47.8608|21.9393|Kállósemjén
-47.8833|21.5833|Kálmánháza
-46.9546|18.4826|Káloz
-47.9333|22.1500|Kántorjánosi
-47.2400|18.6756|Kápolnásnyék
-48.1167|21.8833|Kék
-46.5333|21.1833|Kétegyháza
-46.6461|17.3936|Kéthely
-47.4855|19.5788|Kóka
-47.6305|17.3572|Kóny
-48.0500|21.7167|Kótaj
+46.1928|18.2649|Komló
+46.2202|18.2862|Komlói Járás
 47.5468|18.2605|Kömlőd
+47.7333|20.2500|Kompolt
+46.7667|20.8000|Kondoros
+47.6305|17.3572|Kóny
+47.3167|21.6667|Konyár
 47.0110|16.6060|Körmend
 46.9216|16.5329|Körmendi Járás
 47.5453|18.3270|Környe
 46.9667|21.0833|Körösladány
 46.8833|21.0333|Köröstarcsa
+47.8079|19.1782|Kosd
+48.0500|21.7167|Kótaj
+46.0297|18.2921|Kozármisleny
+47.4731|19.0797|Középső-Ferencváros
+46.4333|21.0500|Kunágota
+46.3609|19.4145|Kunfehértó
+47.3667|20.6333|Kunhegyes
+47.4033|20.5920|Kunhegyesi Járás
+47.4333|20.8000|Kunmadaras
+46.8392|20.2888|Kunszentmárton
+46.8770|20.2518|Kunszentmártoni Járás
+47.0270|19.1258|Kunszentmiklós
+46.9481|19.1556|Kunszentmiklósi Járás
+47.4843|19.1391|Kőbánya
 47.3892|16.5410|Kőszeg
 47.3750|16.6565|Kőszegi Járás
+47.7469|18.4961|Lábatlan
+46.2054|17.4542|Lábod
+47.4724|19.0581|Lágymányos
 46.8420|18.3376|Lajoskomárom
 47.0213|19.5617|Lajosmizse
 46.8760|19.9950|Lakitelek
+46.0054|18.6253|Lánycsók
+47.7178|19.0859|Leányfalu
+47.6827|18.7702|Leányvár
+47.7357|17.3908|Lébény
 46.6701|17.6440|Lengyeltóti
 46.6240|16.5386|Lenti
 46.6565|16.5744|Lenti Járás
 46.9904|18.2436|Lepsény
+47.3833|21.9000|Létavértes
 46.4330|16.7258|Letenye
 46.5055|16.7650|Letenyei Járás
 47.9628|21.9854|Levelek
-47.7178|19.0859|Leányfalu
-47.6827|18.7702|Leányvár
 47.1010|18.0045|Litér
 47.3100|18.5518|Lovasberény
-47.7469|18.4961|Lábatlan
-46.2054|17.4542|Lábod
-46.0054|18.6253|Lánycsók
-47.7357|17.3908|Lébény
-47.3833|21.9000|Létavértes
 46.4333|21.2333|Lőkösháza
 47.7330|19.6787|Lőrinci
+48.1944|21.2821|Mád
 46.0587|19.2612|Madaras
 46.6879|18.9579|Madocsa
 47.4426|19.3644|Maglód
+46.3500|18.2324|Mágocs
 46.4500|20.9667|Magyarbánhegyes
 47.8000|20.4167|Maklár
 46.2167|20.4833|Makó
 46.2670|20.5420|Makói Járás
+48.0167|20.8333|Mályi
+48.3215|22.1911|Mándok
+47.5335|18.6563|Mány
 46.5850|17.4120|Marcali
 46.5438|17.3920|Marcali Járás
+47.6275|18.7076|Máriahalom
+47.8830|22.0250|Máriapócs
 46.2667|20.3500|Maroslele
 47.3160|18.7904|Martonvásár
 47.2904|18.7995|Martonvásári Járás
+47.9553|22.3235|Mátészalka
+47.9296|22.3189|Mátészalkai Járás
+47.9500|20.0833|Mátraderecske
+48.0381|19.9826|Mátranovák
+48.0327|19.9476|Mátraterenye
+47.9742|19.7805|Mátraverebély
+47.5095|19.2113|Mátyásföld
 46.2247|18.4708|Mecseknádasd
 46.5000|21.0333|Medgyesegyháza
 48.1833|21.0500|Megyaszó
+46.7833|21.4500|Méhkerék
+46.2151|19.3810|Mélykút
 47.4313|19.4563|Mende
+47.7882|22.3804|Mérk
 46.8167|21.0333|Mezőberény
 47.8167|20.9167|Mezőcsát
 47.7984|20.9169|Mezőcsáti Járás
@@ -584,31 +626,16 @@
 47.3513|19.4473|Monor
 47.3499|19.4768|Monori Járás
 47.4000|21.7833|Monostorpályi
-47.8679|17.2699|Mosonmagyaróvár
-47.8577|17.2821|Mosonmagyaróvári Járás
-47.7278|17.4278|Mosonszentmiklós
-46.3642|16.8818|Murakeresztúr
-48.1944|21.2821|Mád
-46.3500|18.2324|Mágocs
-48.0167|20.8333|Mályi
-48.3215|22.1911|Mándok
-47.5335|18.6563|Mány
-47.6275|18.7076|Máriahalom
-47.8830|22.0250|Máriapócs
-47.9500|20.0833|Mátraderecske
-48.0381|19.9826|Mátranovák
-48.0327|19.9476|Mátraterenye
-47.9742|19.7805|Mátraverebély
-47.9553|22.3235|Mátészalka
-47.9296|22.3189|Mátészalkai Járás
-46.7833|21.4500|Méhkerék
-46.2151|19.3810|Mélykút
-47.7882|22.3804|Mérk
 47.3779|18.2035|Mór
 46.2684|19.8226|Mórahalmi Járás
 46.2181|19.8851|Mórahalom
 47.3469|18.1984|Móri Járás
+47.8679|17.2699|Mosonmagyaróvár
+47.8577|17.2821|Mosonmagyaróvári Járás
+47.7278|17.4278|Mosonszentmiklós
 48.2667|20.6833|Múcsony
+46.3642|16.8818|Murakeresztúr
+47.4167|21.1667|Nádudvar
 46.2296|17.3579|Nagyatád
 46.2520|17.3752|Nagyatádi Járás
 46.3923|17.5115|Nagybajom
@@ -620,40 +647,43 @@
 47.8655|22.3916|Nagyecsed
 48.1327|21.7610|Nagyhalász
 47.6325|18.0557|Nagyigmánd
-46.4535|16.9910|Nagykanizsa
-46.5187|17.0443|Nagykanizsai Járás
-47.6500|19.0167|Nagykovácsi
 47.8749|21.8408|Nagykálló
 47.7999|21.8475|Nagykállói Járás
+46.4535|16.9910|Nagykanizsa
+46.5187|17.0443|Nagykanizsai Járás
 47.4151|19.7441|Nagykáta
 47.3911|19.7392|Nagykátai Járás
+47.6500|19.0167|Nagykovácsi
 47.0342|19.7786|Nagykőrös
 47.0356|19.7926|Nagykőrösi Járás
-47.7928|18.9598|Nagymaros
 46.2791|18.4549|Nagymányok
+47.7928|18.9598|Nagymaros
 48.0050|19.0905|Nagyoroszi
 47.2000|21.3333|Nagyrábé
 47.7654|19.8482|Nagyréde
-46.6833|20.6667|Nagyszénás
 47.6848|18.6016|Nagysáp
+46.6833|20.6667|Nagyszénás
 47.5313|19.2834|Nagytarcsa
+47.4884|19.0254|Naphegy
 47.9380|21.8676|Napkor
 47.6987|18.2608|Naszály
 46.3405|19.0511|Nemesnádudvar
 47.0551|17.8748|Nemesvámos
+46.7164|18.7631|Németkér
 47.7329|18.3451|Neszmély
-47.7603|18.5567|Nyergesújfalu
 47.2617|19.5015|Nyáregyháza
 46.8602|19.8784|Nyárlőrinc
 47.9833|20.8333|Nyékládháza
+47.7603|18.5567|Nyergesújfalu
+47.5531|22.0240|Nyírábrány
 47.6033|21.9721|Nyíracsád
 47.6975|21.9188|Nyíradony
 47.5787|22.0138|Nyíradonyi Járás
-48.0572|21.8824|Nyírbogdány
-47.8034|22.0656|Nyírbogát
 47.8333|22.1333|Nyírbátor
 47.7755|22.1176|Nyírbátori Járás
 47.7000|22.1333|Nyírbéltek
+47.8034|22.0656|Nyírbogát
+48.0572|21.8824|Nyírbogdány
 47.9038|22.3363|Nyírcsaholy
 47.9554|21.7167|Nyíregyháza
 47.9769|21.6446|Nyíregyházi Járás
@@ -661,68 +691,49 @@
 48.0948|22.1046|Nyírkarász
 47.6932|22.0448|Nyírlugos
 48.0667|22.2000|Nyírmada
+47.5833|21.9000|Nyírmártonfalva
 47.9167|22.2667|Nyírmeggyes
 47.7398|21.9644|Nyírmihálydi
-47.5833|21.9000|Nyírmártonfalva
 47.9833|21.8000|Nyírpazony
 48.1167|22.0333|Nyírtass
 48.0167|21.6333|Nyírtelek
 47.8167|22.1868|Nyírvasvári
-47.5531|22.0240|Nyírábrány
 47.5905|17.6890|Nyúl
-47.4167|21.1667|Nádudvar
-46.7164|18.7631|Németkér
+47.5380|19.0390|Óbuda
+47.2999|19.2306|Ócsa
+46.9000|20.4000|Öcsöd
+47.9333|22.0500|Ófehértó
+47.4780|19.1479|Óhegy
 46.9000|21.3500|Okány
+47.9186|22.5081|Ököritófülpös
 48.2500|21.4333|Olaszliszka
 48.1167|20.9167|Onga
+48.0000|20.9167|Ónod
+47.9977|22.3262|Ópályi
+46.4859|20.0872|Ópusztaszer
 46.7509|19.4726|Orgovány
+47.1299|19.4332|Örkény
 46.5667|20.6667|Orosháza
 46.5635|20.7336|Orosházi Járás
 47.4892|18.3164|Oroszlány
 47.8667|20.4333|Ostoros
+47.7195|17.4847|Öttevény
+48.2167|20.3000|Ózd
+48.1813|20.2487|Ózdi Járás
 46.7513|18.4001|Ozora
 46.7198|17.0140|Pacsa
+47.2137|18.5331|Pákozd
 46.6221|18.8557|Paks
 46.6604|18.7857|Paksi Járás
+46.6242|19.9516|Pálmonostora
 47.7953|19.5962|Palotás
+47.3533|19.6357|Pánd
 47.5495|17.7553|Pannonhalma
 47.4557|17.8133|Pannonhalmi Járás
-47.9232|20.0297|Parád
-47.9126|19.9771|Parádsasvár
-46.0344|18.1540|Pellérd
-47.5896|18.7610|Perbál
-47.0470|18.7873|Perkáta
-48.0608|22.0749|Petneháza
-47.7696|19.6999|Petőfibánya
-47.2890|19.5485|Pilis
-47.6074|18.9932|Pilisborosjenő
-47.6342|18.8289|Piliscsaba
-47.6771|18.8149|Piliscsév
-47.7840|18.8755|Pilismarót
-47.6096|18.8994|Pilisszentiván
-47.6914|18.9050|Pilisszentkereszt
-47.6691|18.8876|Pilisszántó
-47.6139|18.9089|Pilisvörösvár
-47.6093|18.8666|Pilisvörösvári Járás
-46.6810|18.4394|Pincehely
-47.2833|21.8167|Pocsaj
-47.8667|21.1167|Polgár
-47.0610|18.3020|Polgárdi
-47.6423|19.0278|Pomáz
-47.8833|22.5667|Porcsalma
-47.6500|20.6667|Poroszló
-48.0833|21.2500|Prügy
-46.5333|20.8000|Pusztaföldvár
-47.1372|18.7670|Pusztaszabolcs
-46.5508|19.9882|Pusztaszer
-47.4295|18.2265|Pusztavám
-48.3000|20.4333|Putnok
-48.3369|20.4638|Putnoki Járás
-47.2137|18.5331|Pákozd
-46.6242|19.9516|Pálmonostora
-47.3533|19.6357|Pánd
 47.3300|17.4674|Pápa
 47.3377|17.4966|Pápai Járás
+47.9232|20.0297|Parád
+47.9126|19.9771|Parádsasvár
 47.9202|19.6983|Pásztó
 47.8701|19.6065|Pásztói Járás
 48.1667|22.0000|Pátroha
@@ -733,46 +744,100 @@
 46.0799|18.2525|Pécsi Járás
 46.1603|18.4232|Pécsvárad
 46.1678|18.4546|Pécsváradi Járás
+46.0344|18.1540|Pellérd
 47.6115|17.8063|Pér
+47.5896|18.7610|Perbál
+47.0470|18.7873|Perkáta
+47.5000|19.0833|Pest
+47.4333|19.1167|Pesterzsébet
+47.4298|19.2159|Pestlőrinc
 47.3910|19.4098|Péteri
 48.0167|20.1000|Pétervására
 48.0059|20.0947|Pétervásárai Járás
 47.1667|18.1167|Pétfürdő
+48.0608|22.0749|Petneháza
+47.7696|19.6999|Petőfibánya
+47.2890|19.5485|Pilis
+47.6074|18.9932|Pilisborosjenő
+47.6342|18.8289|Piliscsaba
+47.6771|18.8149|Piliscsév
+47.7840|18.8755|Pilismarót
+47.6691|18.8876|Pilisszántó
+47.6096|18.8994|Pilisszentiván
+47.6914|18.9050|Pilisszentkereszt
+47.6139|18.9089|Pilisvörösvár
+47.6093|18.8666|Pilisvörösvári Járás
+46.6810|18.4394|Pincehely
+47.2833|21.8167|Pocsaj
+47.8667|21.1167|Polgár
+47.0610|18.3020|Polgárdi
+47.6423|19.0278|Pomáz
+47.8833|22.5667|Porcsalma
+47.6500|20.6667|Poroszló
+48.0833|21.2500|Prügy
 47.3167|21.1167|Püspökladány
 47.3128|21.2118|Püspökladányi Járás
-47.9964|17.1982|Rajka
-48.1237|21.4643|Rakamaz
-47.9333|20.1167|Recsk
-48.3257|21.9707|Ricse
-48.0369|19.5301|Rimóc
-47.9262|19.2572|Romhány
-48.3833|20.6333|Rudabánya
-46.2881|19.7471|Ruzsa
+46.5333|20.8000|Pusztaföldvár
+47.1372|18.7670|Pusztaszabolcs
+46.5508|19.9882|Pusztaszer
+47.4295|18.2265|Pusztavám
+48.3000|20.4333|Putnok
+48.3369|20.4638|Putnoki Járás
 47.6322|17.4800|Rábapatona
 47.0226|18.9406|Rácalmás
 47.2736|18.8334|Ráckeresztúr
 47.1609|18.9448|Ráckeve
 47.1516|19.0146|Ráckevei Járás
+47.9964|17.1982|Rajka
+48.1237|21.4643|Rakamaz
 47.0833|20.2333|Rákóczifalva
 47.0667|20.2667|Rákócziújfalu
+47.4732|19.2618|Rákoskeresztúr
+47.5645|19.1221|Rákospalota
+47.5246|19.1550|Rákosszentmihály
+47.9333|20.1167|Recsk
 47.4306|17.9186|Réde
 47.4211|17.0179|Répcelak
 47.9282|19.1372|Rétság
 47.9174|19.1610|Rétsági Járás
 46.8257|17.6197|Révfülöp
-47.7820|19.7421|Rózsaszentmárton
+48.3257|21.9707|Ricse
+48.0369|19.5301|Rimóc
+47.9262|19.2572|Romhány
 46.1880|20.0337|Röszke
+47.7820|19.7421|Rózsaszentmárton
+48.3833|20.6333|Rudabánya
+46.2881|19.7471|Ruzsa
 48.1667|20.7333|Sajóbábony
 48.2833|20.5833|Sajókaza
 48.0500|20.9000|Sajólád
+47.9500|21.0333|Sajóörös
 48.2167|20.7167|Sajószentpéter
 47.9500|21.0000|Sajószöged
 48.1817|20.8315|Sajóvámos
-47.9500|21.0333|Sajóörös
 48.0987|19.8030|Salgótarján
 48.1005|19.8155|Salgótarjáni Járás
+47.9500|20.6667|Sály
+46.3609|20.0989|Sándorfalva
+47.4000|21.6333|Sáránd
+46.8869|18.6204|Sárbogárd
+46.8404|18.6072|Sárbogárdi Járás
+47.6747|18.6810|Sárisáp
 46.7500|21.3833|Sarkad
 46.8615|21.4488|Sarkadi Járás
+47.0054|18.5439|Sárkeresztúr
+46.7122|17.1686|Sármellék
+47.0427|18.6436|Sárosd
+48.3245|21.5738|Sárospatak
+48.2957|21.5272|Sárospataki Járás
+47.2333|21.2000|Sárrétudvari
+47.1532|18.3388|Sárszentmihály
+47.2540|16.9352|Sárvár
+47.2387|16.9330|Sárvári Járás
+46.2552|18.1078|Sásd
+47.5153|19.1706|Sashalom
+48.3949|21.6587|Sátoraljaújhely
+48.4590|21.5439|Sátoraljaújhelyi Járás
 46.3414|17.3513|Segesd
 45.8725|17.8471|Sellye
 45.8695|17.8983|Sellyei Járás
@@ -780,9 +845,9 @@
 45.8550|18.2975|Siklós
 45.8498|18.3105|Siklósi Járás
 46.7546|18.5549|Simontornya
-47.9333|20.2000|Sirok
 46.9041|18.0580|Siófok
 46.8506|17.9962|Siófoki Járás
+47.9333|20.2000|Sirok
 46.8010|19.0010|Solt
 46.5789|19.3939|Soltvadkert
 47.5925|18.9321|Solymár
@@ -791,25 +856,41 @@
 47.0149|18.4534|Soponya
 47.6850|16.5905|Sopron
 47.6039|16.7565|Soproni Járás
+47.4066|18.8225|Sóskút
+46.2818|18.9952|Sükösd
+47.4521|19.5337|Sülysáp
+46.9770|17.2821|Sümeg
+47.0265|17.2678|Sümegi Járás
+47.3708|18.0288|Súr
+47.7567|18.4414|Süttő
 47.1190|18.3682|Szabadbattyán
 46.6167|21.1000|Szabadkígyós
 46.8757|19.2232|Szabadszállás
 47.6333|19.3167|Szada
 47.1833|20.3000|Szajol
 47.7667|21.9167|Szakoly
+47.5571|18.1631|Szákszend
 46.9757|19.0118|Szalkszentmárton
 48.0456|22.3658|Szamosszeg
 46.5571|19.6610|Szank
 47.4642|17.3040|Szany
+47.5158|18.4948|Szárliget
 46.8667|20.5500|Szarvas
 46.8289|20.6371|Szarvasi Járás
+46.2767|18.3757|Szászvár
 46.3431|20.0402|Szatymaz
+47.3295|18.9388|Százhalombatta
+48.0806|19.5202|Szécsény
+48.0730|19.5516|Szécsényi Járás
 46.4755|18.6831|Szedres
 46.2530|20.1482|Szeged
 46.2954|20.1376|Szegedi Járás
 47.0000|21.1700|Szeghalmi Járás
 47.0333|21.1667|Szeghalom
 46.5874|20.2241|Szegvár
+47.1900|18.4103|Székesfehérvár
+47.1653|18.4135|Székesfehérvári Járás
+46.5000|20.5333|Székkutas
 46.3501|18.7091|Szekszárd
 46.3400|18.6789|Szekszárdi Járás
 46.8026|20.2028|Szelevény
@@ -818,9 +899,9 @@
 47.7115|19.0252|Szentendrei Járás
 46.6583|20.2608|Szentes
 46.6600|20.3731|Szentesi Járás
+46.3748|18.6260|Szentgálpuszta
 46.9526|16.2736|Szentgotthárd
 46.9367|16.3036|Szentgotthárdi Járás
-46.3748|18.6260|Szentgálpuszta
 47.7667|20.6667|Szentistván
 46.9189|19.9185|Szentkirály
 47.0576|17.9705|Szentkirályszabadja
@@ -834,9 +915,9 @@
 47.3223|19.0026|Szigethalom
 47.3438|19.0434|Szigetszentmiklós
 47.3057|19.0283|Szigetszentmiklósi Járás
+47.2342|18.9275|Szigetújfalu
 46.0487|17.8055|Szigetvár
 46.0734|17.8039|Szigetvári Járás
-47.2342|18.9275|Szigetújfalu
 47.7667|20.4833|Szihalom
 48.2000|20.9333|Szikszó
 48.3003|20.9551|Szikszói Járás
@@ -848,68 +929,51 @@
 47.2248|20.1984|Szolnoki Járás
 47.2309|16.6215|Szombathely
 47.2104|16.6395|Szombathelyi Járás
-47.5930|18.6633|Szomor
 47.6825|18.3418|Szomód
+47.5930|18.6633|Szomor
 47.8592|19.6922|Szurdokpüspöki
-47.5571|18.1631|Szákszend
-47.5158|18.4948|Szárliget
-46.2767|18.3757|Szászvár
-47.3295|18.9388|Százhalombatta
-48.0806|19.5202|Szécsény
-48.0730|19.5516|Szécsényi Járás
-47.1900|18.4103|Székesfehérvár
-47.1653|18.4135|Székesfehérvári Járás
-46.5000|20.5333|Székkutas
 47.7244|19.1705|Sződ
 47.7326|19.1475|Sződliget
 47.7333|18.1667|Szőny
-47.9500|20.6667|Sály
-46.3609|20.0989|Sándorfalva
-46.8869|18.6204|Sárbogárd
-46.8404|18.6072|Sárbogárdi Járás
-47.6747|18.6810|Sárisáp
-47.0054|18.5439|Sárkeresztúr
-46.7122|17.1686|Sármellék
-47.0427|18.6436|Sárosd
-48.3245|21.5738|Sárospatak
-48.2957|21.5272|Sárospataki Járás
-47.2333|21.2000|Sárrétudvari
-47.1532|18.3388|Sárszentmihály
-47.2540|16.9352|Sárvár
-47.2387|16.9330|Sárvári Járás
-47.4000|21.6333|Sáránd
-46.2552|18.1078|Sásd
-48.3949|21.6587|Sátoraljaújhely
-48.4590|21.5439|Sátoraljaújhelyi Járás
-47.4066|18.8225|Sóskút
-47.3708|18.0288|Súr
-46.2818|18.9952|Sükösd
-47.4521|19.5337|Sülysáp
-46.9770|17.2821|Sümeg
-47.0265|17.2678|Sümegi Járás
-47.7567|18.4414|Süttő
 46.7313|18.0320|Tab
 46.6804|18.0056|Tabi Járás
+47.0994|19.4784|Táborfalva
 47.7500|19.1000|Tahitótfalu
 47.3297|19.0669|Taksony
 48.0833|21.1333|Taktaharkány
 48.1167|21.1833|Taktaszada
+48.2333|21.2333|Tállya
 46.6333|18.2833|Tamási
 46.6542|18.3586|Tamási Járás
+47.3610|19.6861|Tápióbicske
+47.3351|19.9528|Tápiógyörgye
+47.4020|19.6305|Tápióság
+47.4500|19.6092|Tápiószecső
+47.3361|19.8772|Tápiószele
+47.3399|19.7465|Tápiószentmárton
+47.3025|19.8513|Tápiószőlős
+47.1950|16.6961|Táplánszentkereszt
 46.8815|17.4412|Tapolca
 46.8983|17.4951|Tapolcai Járás
 47.9537|19.7461|Tar
 48.1333|21.3500|Tarcal
 47.6618|18.4436|Tardos
 47.6106|18.5108|Tarján
+47.5913|18.0037|Tárkány
 48.0500|20.1833|Tarnalelesz
 47.5950|20.0525|Tarnaörs
+47.3733|18.8458|Tárnok
 48.1048|22.5374|Tarpa
 47.0209|19.0299|Tass
 46.3747|17.9059|Taszár
+47.6529|18.3184|Tata
 47.5862|18.3949|Tatabánya
+46.5482|19.5144|Tázlár
+47.7167|21.6833|Téglás
 47.5479|18.8282|Telki
 46.5288|18.7112|Tengelic
+47.5192|17.5080|Tét
+47.5151|17.5161|Téti Járás
 46.9137|17.8892|Tihany
 46.8128|19.9984|Tiszaalpár
 48.1500|21.6500|Tiszabercel
@@ -924,83 +988,68 @@
 47.6167|20.7667|Tiszafüred
 47.5391|20.7888|Tiszafüredi Járás
 48.2000|21.7167|Tiszakarád
-47.7833|21.0000|Tiszakeszi
 46.9326|20.1035|Tiszakécske
 46.8601|19.9730|Tiszakécskei Járás
+47.7833|21.0000|Tiszakeszi
 48.0167|21.3833|Tiszalök
 48.0377|21.0726|Tiszalúc
 48.1000|21.4833|Tiszanagyfalu
 47.5667|20.5333|Tiszanána
 47.2167|20.3167|Tiszapüspöki
 47.4000|20.4500|Tiszaroff
+47.3833|20.4000|Tiszasüly
 47.4833|20.7333|Tiszaszentimre
 47.5571|20.7195|Tiszaszőlős
-47.3833|20.4000|Tiszasüly
-47.9667|21.3500|Tiszavasvári
-47.9861|21.3654|Tiszavasvári Járás
 47.9333|21.0833|Tiszaújváros
 47.9266|20.9932|Tiszaújvárosi Járás
+47.9667|21.3500|Tiszavasvári
+47.9861|21.3654|Tiszavasvári Járás
+47.5078|19.6666|Tóalmás
 48.1167|21.4167|Tokaj
 48.1401|21.3700|Tokaji Járás
 47.7339|18.6895|Tokodaltáró
+47.3218|18.9625|Tököl
 48.2833|21.4500|Tolcsva
 46.4268|18.7825|Tolna
 46.4254|18.8269|Tolnai Járás
-46.2060|19.5391|Tompa
-48.2667|22.1833|Tornyospálca
-47.9667|22.4667|Tunyogmatolcs
-47.6092|19.6028|Tura
-48.3441|22.1176|Tuzsér
-47.8538|22.5633|Tyukod
-47.0994|19.4784|Táborfalva
-48.2333|21.2333|Tállya
-47.3610|19.6861|Tápióbicske
-47.3351|19.9528|Tápiógyörgye
-47.4500|19.6092|Tápiószecső
-47.3361|19.8772|Tápiószele
-47.3399|19.7465|Tápiószentmárton
-47.3025|19.8513|Tápiószőlős
-47.4020|19.6305|Tápióság
-47.1950|16.6961|Táplánszentkereszt
-47.5913|18.0037|Tárkány
-47.3733|18.8458|Tárnok
-46.5482|19.5144|Tázlár
-47.7167|21.6833|Téglás
-47.5192|17.5080|Tét
-47.5151|17.5161|Téti Járás
-47.5078|19.6666|Tóalmás
-47.1000|20.1500|Tószeg
-46.4167|20.7333|Tótkomlós
-47.3218|18.9625|Tököl
 47.6261|17.7338|Töltéstava
 46.6172|20.0436|Tömörkény
-47.1221|19.9371|Törtel
+46.2060|19.5391|Tompa
+48.2667|22.1833|Tornyospálca
 47.4293|18.9136|Törökbálint
 47.1833|20.4167|Törökszentmiklós
 47.1821|20.4486|Törökszentmiklósi Járás
-47.1000|20.7500|Túrkeve
+47.1221|19.9371|Törtel
+47.1000|20.1500|Tószeg
+46.4167|20.7333|Tótkomlós
+47.9667|22.4667|Tunyogmatolcs
+47.6092|19.6028|Tura
 46.9837|17.1074|Türje
-48.0057|22.1676|Vaja
-45.8596|17.9841|Vajszló
-47.5639|19.5127|Valkó
-46.1078|18.9851|Vaskút
-47.0493|16.7995|Vasvár
-47.0349|16.8594|Vasvári Járás
-47.4070|19.2865|Vecsés
-47.4292|19.3014|Vecsési Járás
-47.2385|18.6548|Velence
-47.6459|19.2954|Veresegyház
-47.8500|20.2333|Verpelét
-47.8247|19.0348|Verőce
-47.0933|17.9115|Veszprém
-47.0967|17.8216|Veszprémi Járás
-45.8689|18.4539|Villány
-47.7853|18.9709|Visegrád
-46.7574|17.3117|Vonyarcvashegy
+47.1000|20.7500|Túrkeve
+48.3441|22.1176|Tuzsér
+47.8538|22.5633|Tyukod
+47.8000|21.6833|Újfehértó
+47.2198|19.3864|Újhartyán
+46.5833|21.0333|Újkígyós
+47.5161|19.0528|Újlipótváros
+47.5373|19.1441|Újpalota
+47.5686|19.0846|Újpest
+47.3000|20.0833|Újszász
+46.2475|20.1657|Újszeged
+47.2748|19.9248|Újszilvás
+46.3361|19.8445|Üllés
+47.3877|19.3553|Üllő
+47.6425|18.7379|Úny
+47.4143|19.5276|Úri
+47.0851|17.6439|Úrkút
+47.5967|19.0158|Üröm
 47.7759|19.1361|Vác
 47.7832|19.2388|Váci Járás
 47.5740|19.5377|Vácszentlászló
+48.0057|22.1676|Vaja
+45.8596|17.9841|Vajszló
 47.3626|18.6793|Vál
+47.5639|19.5127|Valkó
 47.6843|19.9292|Vámosgyörk
 47.5333|21.9000|Vámospércs
 47.4753|18.3973|Várgesztes
@@ -1009,14 +1058,31 @@
 47.1851|18.1221|Várpalotai Járás
 48.1254|22.3133|Vásárosnamény
 48.1798|22.3586|Vásárosnaményi Járás
+46.1078|18.9851|Vaskút
+47.0493|16.7995|Vasvár
+47.0349|16.8594|Vasvári Járás
+47.4070|19.2865|Vecsés
+47.4292|19.3014|Vecsési Járás
+47.2385|18.6548|Velence
 47.2304|16.7225|Vép
+47.6459|19.2954|Veresegyház
+47.8500|20.2333|Verpelét
 47.4872|18.0835|Vérteskethely
 47.5097|18.3670|Vértessomló
 47.6188|18.3803|Vértesszőlős
 47.6284|18.4564|Vértestolna
+47.8247|19.0348|Verőce
+47.0933|17.9115|Veszprém
+47.0967|17.8216|Veszprémi Járás
 46.9167|21.2667|Vésztő
+45.8689|18.4539|Villány
+47.7853|18.9709|Visegrád
+46.7574|17.3117|Vonyarcvashegy
 47.2667|20.1333|Zagyvarékas
 47.7770|19.6709|Zagyvaszántó
+48.4091|22.1761|Záhony
+48.3491|22.1893|Záhonyi Járás
+46.2745|19.8897|Zákányszék
 46.8400|16.8439|Zalaegerszeg
 46.8000|16.8300|Zalaegerszegi Járás
 46.5380|17.1809|Zalakomár
@@ -1024,51 +1090,15 @@
 46.9447|17.0792|Zalaszentgrót
 46.9207|17.1010|Zalaszentgróti Járás
 46.8849|17.9537|Zamárdi
+47.3167|18.4081|Zámoly
+46.8715|17.6847|Zánka
 47.2636|17.8737|Zirc
 47.2858|17.8841|Zirci Járás
 46.4108|18.5658|Zomba
-46.3257|19.9746|Zsombó
-47.5438|19.6105|Zsámbok
 47.5481|18.7201|Zsámbék
+47.5438|19.6105|Zsámbok
+46.3257|19.9746|Zsombó
 47.5176|19.1055|Zugló
-48.4091|22.1761|Záhony
-48.3491|22.1893|Záhonyi Járás
-46.2745|19.8897|Zákányszék
-47.3167|18.4081|Zámoly
-46.8715|17.6847|Zánka
-47.7100|18.0156|Ács
-46.8593|18.1644|Ádánd
-46.8402|19.4521|Ágasegyháza
-47.6899|16.5166|Ágfalva
-46.1987|19.7833|Ásotthalom
-47.8273|17.4942|Ásványráró
-47.5095|18.0031|Ászár
-47.3949|18.9136|Érd
-47.3560|18.9017|Érdi Járás
-46.2535|18.9846|Érsekcsanád
-47.9962|19.2023|Érsekvadkert
-47.2999|19.2306|Ócsa
-47.9333|22.0500|Ófehértó
-48.0000|20.9167|Ónod
-46.4859|20.0872|Ópusztaszer
-47.9977|22.3262|Ópályi
-48.2167|20.3000|Ózd
-48.1813|20.2487|Ózdi Járás
-46.9000|20.4000|Öcsöd
-47.9186|22.5081|Ököritófülpös
-47.1299|19.4332|Örkény
-47.7195|17.4847|Öttevény
-47.8000|21.6833|Újfehértó
-47.2198|19.3864|Újhartyán
-46.5833|21.0333|Újkígyós
-47.2748|19.9248|Újszilvás
-47.3000|20.0833|Újszász
-47.6425|18.7379|Úny
-47.4143|19.5276|Úri
-47.0851|17.6439|Úrkút
-46.3361|19.8445|Üllés
-47.3877|19.3553|Üllő
-47.5967|19.0158|Üröm
 46.3137|18.7575|Őcsény
 47.6871|19.2824|Őrbottyán
 47.1472|18.1883|Ősi

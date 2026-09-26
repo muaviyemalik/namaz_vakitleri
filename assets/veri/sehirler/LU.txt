@@ -7,6 +7,7 @@
 49.7306|5.8872|Beckerich
 49.5101|5.9241|Belvaux
 49.8205|6.3495|Berdorf
+49.6551|6.1187|Béreldange
 49.5250|6.0422|Bergem
 49.6111|6.0500|Bertrange
 49.7953|5.9411|Bettborn
@@ -20,7 +21,6 @@
 49.9086|6.0675|Bourscheid
 49.5539|6.3292|Bous
 49.6558|6.0800|Bridel
-49.6551|6.1187|Béreldange
 49.6450|5.9908|Capellen
 49.5967|5.8758|Clemency
 50.0547|6.0314|Clervaux
@@ -61,13 +61,13 @@
 50.0122|6.0909|Hosingen
 49.5877|6.1707|Itzig
 49.7072|6.2531|Junglinster
+49.5831|5.8989|Käerjeng
 49.4892|6.0397|Kayl
 49.6683|6.0358|Kehlen
 49.9783|6.0076|Kiischpelt
 49.6239|6.1494|Kirchberg
 49.6700|5.9500|Koerich
 49.6644|6.0731|Kopstal
-49.5831|5.8989|Käerjeng
 49.9167|5.8333|Lac de la Haute-Sûre
 49.5464|5.8564|Lamadelaine
 49.7836|6.2189|Larochette
@@ -94,9 +94,9 @@
 49.5136|5.8961|Obercorn
 49.6572|6.0003|Olm
 49.9974|6.0907|Parc Hosingen
+49.5583|5.8806|Pétange
 49.5364|6.0294|Pontpierre
 49.9608|6.1431|Putscheid
-49.5583|5.8806|Pétange
 49.8308|5.8450|Rambrouch
 49.5625|6.0089|Reckange-sur-Mess
 49.7644|5.8900|Redange-sur-Attert
@@ -123,9 +123,9 @@
 49.6769|6.1239|Steinsel
 49.6206|6.0733|Strassen
 49.8975|6.1833|Tandel
+49.4758|6.0422|Tétange
 50.1211|6.0003|Troisvierges
 49.7178|6.0103|Tuntange
-49.4758|6.0422|Tétange
 49.7697|5.9822|Useldange
 49.9350|6.2089|Vianden
 49.8031|6.0000|Vichten

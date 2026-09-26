@@ -16,22 +16,31 @@
 39.7747|64.4286|Bukhara
 40.6167|72.4667|Buloqboshi Tumani
 39.7647|67.2714|Bulung’ur
+39.7600|67.2744|Bulung’ur Shahri
 39.6967|66.7686|Charxin
 39.9203|66.8611|Chelak
+41.2819|69.1811|Chilanzar
+40.8768|71.9726|Chinobod
 40.9363|68.7613|Chinoz
 41.4689|69.5822|Chirchiq
 39.0336|66.5722|Chiroqchi
 41.0692|71.8237|Chortoq
 41.0033|71.2379|Chust
+40.8158|72.8317|Dardoq
 40.1269|68.4944|Dashtobod
 39.7639|66.9125|Daxbet
 38.2675|67.8989|Denov
+40.5288|68.0315|Do’stlik Shahri
+41.2222|61.3067|Druzhba
 40.5247|68.0358|Dŭstlik
 40.3842|71.7843|Fergana
 40.6619|68.1722|Gagarin
+40.6647|68.1677|Gagarin Shahri
 39.8578|64.4483|Galaosiyo
+40.0270|67.5878|G’allaorol Shahri
 40.1333|63.4500|Gazli
 40.1000|64.6833|Ghijduwon
+40.1022|64.6823|G’ijduvon Shahri
 40.4897|68.7842|Guliston
 41.8447|60.3919|Gurlan
 41.5581|69.7708|G‘azalkent
@@ -43,10 +52,12 @@
 41.5539|69.7008|Iskandar
 40.9167|72.2500|Izboskan Tumani
 40.7500|72.6667|Jalolkuduk Tumani
+40.6892|72.6093|Jalolquduq
 40.1158|67.8422|Jizzax
 39.6989|67.0933|Jomboy
-39.7161|66.6642|Juma
+39.7161|66.6642|Juma|Juma Shahri
 39.5333|63.8333|Karakul’
+39.9055|66.2656|Kattaqo’rg’on Shahri
 39.8989|66.2561|Kattaqo‘rg‘on
 42.7767|59.6078|Kegeyli Shahar
 41.3783|60.3639|Khiwa
@@ -55,6 +66,7 @@
 40.4355|71.7672|Kirguli
 39.0842|66.8332|Kitob
 39.7228|64.5517|Kogon
+39.7275|64.5547|Kogon Shahri
 39.0375|65.5850|Koson
 41.2494|71.5474|Kosonsoy
 41.5667|70.0167|Kyzyldzhar
@@ -77,52 +89,68 @@
 43.0687|58.9037|Oltinko‘l
 40.8000|72.1667|Oltinkŭl Tumani
 39.9214|65.9253|Oqtosh
+40.8195|72.7423|Oyim
 40.9333|72.5000|Pakhtaobod Tumani
 41.2944|69.6764|Parkent
 40.3153|67.9544|Paxtakor
+40.3118|67.9567|Paxtakor Shahri
 40.9294|72.4969|Paxtaobod
+40.0114|66.2311|Payshamba Shahri
 40.0078|66.2369|Payshanba
 40.4167|63.8333|Peshku Tumani
 40.8972|69.3506|Piskent
 40.8736|71.1089|Pop
+40.8977|72.2449|Poytug‘
 38.8606|65.7891|Qarshi
 41.3897|69.4650|Qibray
 40.0331|64.8500|Qiziltepa
 39.4994|63.8539|Qorako’l
+40.7278|72.8858|Qorasuv
 39.5006|64.7936|Qorovulbozor
+41.5328|60.3470|Qo’shko’pir
 40.5286|70.9425|Qo‘qon
 40.7319|72.7618|Qo‘rg‘ontepa
 40.5220|72.0729|Quva
 40.2972|71.9803|Quvasoy
+43.0433|58.8394|Qŭnghirot
 40.7500|72.8333|Qŭrghontepa Tumani
 41.5350|60.3456|Qŭshkŭpir
 40.3567|71.2847|Rishton
 39.9294|64.3794|Romiton
 41.3722|69.3817|Salor
 39.6542|66.9597|Samarkand
+41.1983|69.2222|Sergeli
 40.7167|72.0667|Shahrikhon Tumani
 39.0578|66.8342|Shahrisabz
 40.7133|72.0571|Shahrixon
-40.1200|64.5014|Shofirkon
+40.1200|64.5014|Shofirkon|Shofirkon Shahri
 39.9832|71.8051|Shohimardon
+41.6582|60.2945|Shovot
 41.6558|60.3025|Showot
 37.9994|67.7875|Sho‘rchi
 40.8436|68.6617|Sirdaryo
 40.0442|71.0942|So‘x Tumani
+40.7646|72.9765|Sultonobod
 41.2647|69.2163|Tashkent
 37.2242|67.2783|Tirmiz
 40.9162|71.5782|Toshbuloq
 40.4772|71.7678|Toshloq
 40.9998|71.5116|To‘rqao‘rg‘on
 41.0321|69.3625|Tŭytepa
+41.0500|62.7833|Uchkuduk
 41.1137|72.0791|Uchqŭrghon Shahri
 40.7500|71.7000|Ulug‘nor Tumani
 41.5500|60.6333|Urganch
 39.4022|67.2431|Urgut
+39.4190|67.2612|Urgut Shahri
 41.0807|71.9233|Uychi
+40.0003|64.5021|Vobkent Shahri
 40.0303|64.5150|Wobkent
 40.0000|64.5000|Wobkent Tumani
+41.3856|60.3641|Xiva
+40.8026|72.9750|Xonobod
 40.6689|72.5600|Xo‘jaobod
+42.4088|59.4454|Xo‘jayli Shahri
 40.4272|71.7189|Yangi Marg‘ilon
 41.1192|70.0941|Yangiobod
 41.1947|71.7238|Yangiqo‘rg‘on
@@ -130,6 +158,7 @@
 40.2750|68.8225|Yangiyer
 41.1120|69.0471|Yangiyŭl
 40.3758|70.8156|Yaypan
+41.3714|69.2794|Yunusobod
 40.9833|68.9000|Zafar
-39.9606|68.3958|Zomin
+39.9606|68.3958|Zomin|Zomin Shaharchasi
 41.1867|69.1453|Ŭrtaowul

@@ -4,14 +4,18 @@
 5.8769|-10.0496|Buchanan
 5.4568|-9.5817|Cestos City
 5.1974|-7.8758|Fish Town
+8.3603|-10.2064|Foya Kamara
 7.3022|-8.5308|Ganta
 6.9954|-9.4712|Gbarnga
 5.0113|-9.0388|Greenville
+6.2468|-10.3564|Harbel
 4.3782|-7.7108|Harper
 6.5310|-10.3537|Kakata
 6.3005|-10.7969|Monrovia
 7.5794|-8.5378|New Yekepa
+4.5895|-7.6722|Pleebo City
 6.7533|-11.3671|Robertsport
+6.9625|-8.8406|Saclepea
 7.3621|-8.7133|Sanniquellie
 6.8706|-10.8211|Tubmanburg
 8.4219|-9.7478|Voinjama

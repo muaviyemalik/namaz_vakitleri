@@ -1,15 +1,3 @@
-51.6559|4.9408|'s Gravenmoer
-52.2442|5.1211|'s-Graveland
-51.9234|4.5531|'s-Gravenland
-52.0017|4.1653|'s-Gravenzande
-51.8767|6.2588|'s-Heerenberg
-51.6992|5.3042|'s-Hertogenbosch
-51.4494|5.5193|'t Hofke
-53.0056|4.7861|'t Horntje
-52.2561|4.6497|'t Kabel
-52.4100|4.9636|'t Nopeind
-52.7392|4.8556|'t Veld
-52.8367|4.7556|'t Zand
 52.6889|4.7019|Aagtdorp
 51.5467|3.5097|Aagtekerke
 51.7548|5.1316|Aalburg
@@ -51,6 +39,11 @@
 52.3008|4.8639|Amstelveen
 50.9392|5.9236|Amstenrade
 52.3740|4.8897|Amsterdam
+52.3741|4.8994|Amsterdam-Centrum
+52.3565|4.8064|Amsterdam Nieuw-West
+52.3521|4.9335|Amsterdam-Oost
+52.3776|4.8660|Amsterdam-West
+52.3469|4.8768|Amsterdam-Zuid
 52.3075|4.9722|Amsterdam-Zuidoost
 51.7833|5.0583|Andel
 51.9083|5.7292|Andelst
@@ -96,16 +89,16 @@
 50.7900|5.8083|Banholt
 51.8567|4.5347|Barendrecht
 53.0842|4.8347|Bargen
-52.7700|6.9583|Barger-Oosterveld
 52.7615|6.8815|Bargeres
+52.7700|6.9583|Barger-Oosterveld
 52.1400|5.5847|Barneveld
 52.7853|4.8417|Barsingerhorn
 51.5658|4.8306|Bavel
 53.3008|6.6028|Bedum
 51.1892|5.9194|Beegden
 50.9408|5.7972|Beek
-51.9067|6.1875|Beek gem Montferland
 52.1600|5.9639|Beekbergen
+51.9067|6.1875|Beek gem Montferland
 52.5500|4.9278|Beemster
 51.7258|5.8278|Beers
 50.9060|5.9644|Beersdal
@@ -127,10 +120,10 @@
 52.0775|4.5444|Benthuizen
 52.3658|4.5717|Bentveld
 50.8617|5.7833|Berg
-52.2201|5.9334|Berg en Bos
-51.8217|5.9167|Berg en Dal
 51.3018|5.3395|Bergeijk
 52.6703|4.7054|Bergen
+52.2201|5.9334|Berg en Bos
+51.8217|5.9167|Berg en Dal
 51.4950|4.2917|Bergen op Zoom
 51.8508|5.6694|Bergharen
 51.7699|5.5683|Berghem
@@ -157,6 +150,7 @@
 52.3186|4.9653|Bijlmermeer
 52.2859|5.2653|Bijvanck
 53.2155|5.7957|Bilgaard
+52.1300|5.2014|Bilthoven
 52.1642|4.5364|Binnenhof
 52.2130|5.9596|Binnenstad
 51.6687|5.6092|Bitswijk
@@ -166,6 +160,7 @@
 52.8956|4.7819|Blauwe Keet
 50.8554|6.0679|Bleijerheide
 52.0108|4.5319|Bleiswijk
+51.3717|6.1486|Blerick
 51.8725|4.7833|Bleskensgraaf
 53.1092|7.0764|Blijham
 51.5308|6.1083|Blitterswijck
@@ -189,8 +184,8 @@
 51.0317|5.8097|Born
 52.3014|6.7482|Borne
 51.4233|3.7347|Borssele
-52.3787|4.8505|Bos en Lommer
 52.1167|5.2417|Bosch en Duin
+52.3787|4.8505|Bos en Lommer
 52.3308|6.1278|Boskamp
 52.0750|4.6556|Boskoop
 51.5608|4.5403|Bosschenhoofd
@@ -214,10 +209,10 @@
 52.1781|5.0692|Breukeleveen
 51.9017|4.1625|Brielle
 52.2130|5.9517|Brinkhorst
-52.4342|4.9958|Broek in Waterland
-52.6742|4.8056|Broek op Langedijk
 50.8712|5.8207|Broekhem
 51.5480|5.0918|Broekhoven
+52.4342|4.9958|Broek in Waterland
+52.6742|4.8056|Broek op Langedijk
 51.0029|5.8951|Broeksittard
 53.2747|5.9965|Broeksterwâld
 51.7267|3.9125|Brouwershaven
@@ -284,6 +279,7 @@
 53.0311|5.6772|De Domp
 51.4384|5.5089|De Doornakkers
 53.0974|6.0679|De Drait
+51.8900|5.6667|Deest
 52.9691|5.7725|De Fryske Marren
 52.3308|4.6111|De Glip
 52.6258|4.9472|De Goorn
@@ -295,16 +291,29 @@
 52.2006|5.9536|De Heeze
 52.2490|6.1437|De Hoven
 52.6361|5.0222|De Hulk
+51.8842|5.2431|Deil
 52.1233|4.3584|De Kieviet
 52.9683|5.9712|De Knipe
 53.0975|4.7611|De Koog
 52.9144|4.7858|De Kooy
 51.6998|5.2603|De Kruiskamp
 52.2408|4.7908|De Kwakel
+52.2600|6.7111|Delden
+51.9049|4.4531|Delfshaven
+52.0067|4.3556|Delft
+53.3300|6.9181|Delfzijl
 51.9750|4.2486|De Lier
 52.6717|6.7397|De Loo
 52.5190|4.6817|De Maer
+52.0817|5.0361|De Meern
 52.2195|5.9914|De Mheen
+53.0542|4.7972|Den Burg
+51.6650|5.3722|Den Dungen
+52.4658|6.4958|Den Ham
+52.9599|4.7593|Den Helder
+53.0250|4.7511|Den Hoorn
+52.4503|4.9075|Den Ilp
+52.9335|5.0308|Den Oever
 52.7075|4.8514|De Noord
 51.8236|4.8216|De Peulen
 52.3531|4.8961|De Pijp
@@ -313,6 +322,8 @@
 51.7167|5.3167|De Rompert
 52.8122|4.7297|De Stolpen
 52.0853|5.1746|De Uithof
+51.6867|5.2667|Deuteren
+52.2550|6.1639|Deventer
 53.0719|4.8228|De Waal
 52.3735|4.8981|De Wallen
 52.7744|4.8669|De Weere
@@ -320,21 +331,7 @@
 53.1945|6.5712|De Wijert
 52.6733|6.2903|De Wijk
 52.5467|4.7736|De Woude
-51.8900|5.6667|Deest
-51.8842|5.2431|Deil
-52.2600|6.7111|Delden
-51.9049|4.4531|Delfshaven
-52.0067|4.3556|Delft
-53.3300|6.9181|Delfzijl
-53.0542|4.7972|Den Burg
-51.6650|5.3722|Den Dungen
-52.4658|6.4958|Den Ham
-52.9599|4.7593|Den Helder
-53.0250|4.7511|Den Hoorn
-52.4503|4.9075|Den Ilp
-52.9335|5.0308|Den Oever
-51.6867|5.2667|Deuteren
-52.2550|6.1639|Deventer
+51.9408|6.1319|Didam
 52.3396|4.9626|Diemen
 52.2000|6.5556|Diepenheim
 52.0525|6.1000|Dieren
@@ -374,6 +371,7 @@
 53.2000|5.6500|Dronryp
 52.5250|5.7181|Dronten
 51.8970|5.4104|Drumpt
+51.6858|5.1333|Drunen
 51.8883|5.6056|Druten
 52.0908|4.2604|Duindorp
 52.1048|4.3249|Duinzigt
@@ -485,6 +483,7 @@
 52.7400|6.0792|Giethoorn
 51.5442|4.9403|Gilze
 51.5659|4.7931|Ginneken
+52.2158|6.9708|Glanerbrug
 53.1392|6.6292|Glimmen
 51.8175|3.9806|Goedereede
 51.5042|3.8889|Goes
@@ -517,10 +516,10 @@
 51.9317|6.0264|Groessen
 53.2192|6.5667|Groningen
 50.8108|5.7306|Gronsveld
-51.8826|4.5494|Groot IJsselmonde
 51.9233|4.8236|Groot-Ammers
 52.6989|5.2189|Grootebroek
 53.2125|6.2736|Grootegast
+51.8826|4.5494|Groot IJsselmonde
 52.5808|4.8517|Grootschermer
 52.6167|4.9833|Grosthuizen
 53.0946|5.8374|Grou
@@ -609,9 +608,9 @@
 51.7717|5.6417|Herpen
 51.1808|5.9625|Herten
 51.8267|5.1292|Herwijnen
+51.9567|5.7556|Heteren
 52.2339|5.9527|Het Loo
 52.2500|6.2167|Het Oostrik
-51.9567|5.7556|Heteren
 50.8279|5.7077|Heugem
 51.7650|5.8444|Heumen
 51.3842|5.7639|Heusden
@@ -631,8 +630,8 @@
 52.4433|4.6583|Hofgeest
 52.1562|4.4603|Hoge Mors
 51.6079|4.7915|Hoge Vucht
-52.8783|4.8114|Hollands Kroon
 52.1750|5.1778|Hollandsche Rading
+52.8783|4.8114|Hollands Kroon
 53.4394|5.6380|Hollum
 51.0475|5.8222|Holtum
 53.3681|5.9007|Holwerd
@@ -641,15 +640,16 @@
 52.0067|4.2244|Honselersdijk
 52.3025|4.6889|Hoofddorp
 51.8750|4.9764|Hoogblokland
-51.3875|5.1292|Hooge Mierde
-51.6875|4.7444|Hooge Zwaluwe
 51.3975|5.2681|Hoogeloon
+51.3875|5.1292|Hooge Mierde
 51.4242|4.3250|Hoogerheide
 52.7225|6.4764|Hoogeveen
 53.1617|6.7611|Hoogezand
+51.6875|4.7444|Hooge Zwaluwe
 51.9963|5.8803|Hoogkamp
 52.6947|5.1778|Hoogkarspel
 52.1692|4.5819|Hoogmade
+51.8633|4.3625|Hoogvliet
 52.7158|4.9389|Hoogwoud
 52.6425|5.0597|Hoorn
 50.8924|6.0505|Hopel
@@ -660,6 +660,7 @@
 52.2167|4.5972|Huigsloot
 51.4325|4.3764|Huijbergen
 52.9533|4.7250|Huisduinen
+51.9383|5.9333|Huissen
 52.2992|5.2417|Huizen
 53.1917|5.8112|Huizum
 50.8892|5.8556|Hulsberg
@@ -774,6 +775,7 @@
 51.2103|5.9986|Leeuwen
 52.1583|4.4931|Leiden
 52.1583|4.5292|Leiderdorp
+52.0950|5.0461|Leidsche Rijn
 52.2242|4.6694|Leimuiden
 52.2308|4.6681|Leimuiderbrug
 52.5083|5.4750|Lelystad
@@ -830,6 +832,7 @@
 51.9592|4.2139|Maasdijk
 51.6583|5.3708|Maaskantje
 51.9342|4.2722|Maasland
+51.7261|5.3019|Maaspoort
 51.9233|4.2500|Maassluis
 50.8483|5.6889|Maastricht
 51.6767|4.7931|Made
@@ -886,8 +889,8 @@
 51.6642|5.4194|Middelrode
 51.7425|4.4417|Middelsluis
 53.3467|6.6417|Middelstum
-53.1511|6.8331|Midden-Groningen
 52.5492|4.9125|Middenbeemster
+53.1511|6.8331|Midden-Groningen
 52.8067|4.9986|Middenmeer
 53.1950|7.0139|Midwolda
 52.7167|5.0750|Midwoud
@@ -928,45 +931,45 @@
 52.2594|4.8703|Nes aan de Amstel
 52.6928|5.0553|Nibbixwoud
 53.2250|6.3528|Niekerk
-51.4833|3.6569|Nieuw- en Sint Joosland
 51.8125|4.3431|Nieuw-Beijerland
 52.9625|6.9500|Nieuw-Buinen
 52.7483|6.9681|Nieuw-Dordrecht
-51.8892|4.6865|Nieuw-Lekkerland
-52.1992|5.1389|Nieuw-Loosdrecht
-50.9128|5.9280|Nieuw-Lotbroek
-53.1317|6.3972|Nieuw-Roden
-52.2639|4.6375|Nieuw-Vennep
-51.5900|4.2181|Nieuw-Vossemeer
 50.9622|5.7730|Nieuwdorp
-52.3264|4.8153|Nieuwe Meer
-52.7400|4.8986|Nieuwe Niedorp
-53.0792|6.9653|Nieuwe Pekela
 52.3722|4.6736|Nieuwebrug
 52.0292|5.0806|Nieuwegein
 52.9511|6.0634|Nieuwehorne
+52.3264|4.8153|Nieuwe Meer
 52.3915|4.9341|Nieuwendam
 51.8542|4.1431|Nieuwenhoorn
+52.7400|4.8986|Nieuwe Niedorp
+51.4833|3.6569|Nieuw- en Sint Joosland
+53.0792|6.9653|Nieuwe Pekela
 51.6508|4.0014|Nieuwerkerk
 52.8356|4.8908|Nieuwesluis
 52.1508|4.7764|Nieuwkoop
 51.6900|5.1819|Nieuwkuijk
+51.8892|4.6865|Nieuw-Lekkerland
+52.1992|5.1389|Nieuw-Loosdrecht
+50.9128|5.9280|Nieuw-Lotbroek
 53.2442|6.9750|Nieuwolda
 52.4667|6.5500|Nieuwoord
 51.9358|4.8681|Nieuwpoort
+53.1317|6.3972|Nieuw-Roden
 52.1967|4.7569|Nieuwveen
+52.2639|4.6375|Nieuw-Vennep
+51.5900|4.2181|Nieuw-Vossemeer
 52.0869|5.2185|Nijenheim
 52.2200|5.4861|Nijkerk
 52.1950|5.4667|Nijkerkerveen
 51.8425|5.8528|Nijmegen
 51.5508|5.4833|Nijnsel
 52.3350|6.6639|Nijrees
+52.3600|6.4681|Nijverdal
 51.4833|4.4613|Nispen
 51.8372|4.2754|Nissewaard
 51.7042|5.5625|Nistelrode
 53.2214|6.0052|Noardburgum
-52.1406|4.4586|Noord-Hofland
-52.6983|4.8111|Noord-Scharwoude
+52.3908|4.9099|Noord
 52.7724|6.8871|Noordbarge
 52.5825|4.9367|Noordbeemster
 53.1950|6.8736|Noordbroek
@@ -976,10 +979,13 @@
 51.9033|4.9417|Noordeloos
 51.5092|4.2792|Noordgeest
 51.6425|4.5319|Noordhoek
+52.1406|4.4586|Noord-Hofland
 53.2617|6.3958|Noordhorn
+52.6983|4.8111|Noord-Scharwoude
 52.2340|4.4447|Noordwijk-Binnen
 52.2617|4.4931|Noordwijkerhout
 52.8896|6.1415|Noordwolde
+52.0450|4.3958|Nootdorp
 53.0667|6.4583|Norg
 51.4700|5.5528|Nuenen
 51.7317|4.4375|Numansdorp
@@ -1014,9 +1020,6 @@
 53.0350|7.0403|Onstwedde
 52.0864|5.0847|Oog in Al
 51.8546|5.9391|Ooij
-52.0042|6.5496|Oost Gelre
-52.5464|4.8147|Oost-Graftdijk
-53.2970|5.0743|Oost-Vlieland
 51.3258|3.4875|Oostburg
 52.1499|4.3932|Oostdorp
 51.6442|4.8978|Oosteind
@@ -1036,10 +1039,13 @@
 53.2237|6.5853|Oosterpark
 52.9916|6.2910|Oosterwolde
 52.5850|4.7056|Oosterzij
+52.0042|6.5496|Oost Gelre
+52.5464|4.8147|Oost-Graftdijk
 52.5725|4.9958|Oosthuizen
 51.5667|3.5514|Oostkapelle
 52.5172|4.7903|Oostknollendam
 51.5292|6.0167|Oostrum
+53.2970|5.0743|Oost-Vlieland
 51.9125|4.0986|Oostvoorne
 52.7244|5.0903|Oostwoud
 52.4406|4.8789|Oostzaan
@@ -1066,21 +1072,17 @@
 51.3308|3.8597|Othene
 52.1000|5.7722|Otterlo
 51.7033|5.9833|Ottersum
-51.5867|4.4597|Oud Gastel
 51.8242|4.4125|Oud-Beijerland
 50.8654|5.6644|Oud-Caberg
-52.2067|5.0806|Oud-Loosdrecht
-51.5708|4.1986|Oud-Vossemeer
 51.8117|3.9347|Ouddorp
-51.8996|6.3808|Oude IJsselstreek
-52.2875|4.7822|Oude Meer
-52.7178|4.8719|Oude Niedorp
-53.1042|7.0097|Oude Pekela
-52.2142|4.6444|Oude Wetering
 53.1250|5.9989|Oudega
 52.9571|5.8709|Oudehaske
+51.8996|6.3808|Oude IJsselstreek
+52.2875|4.7822|Oude Meer
 52.8502|5.5354|Oudemirdum
 52.6000|4.9667|Oudendijk
+52.7178|4.8719|Oude Niedorp
+53.1042|7.0097|Oude Pekela
 52.2906|4.9117|Ouder-Amstel
 52.2950|4.9075|Ouderkerk aan de Amstel
 51.9342|4.6361|Ouderkerk aan den IJssel
@@ -1088,8 +1090,12 @@
 52.9334|5.9558|Oudeschoot
 52.8353|4.8064|Oudesluis
 52.0250|4.8681|Oudewater
+52.2142|4.6444|Oude Wetering
+51.5867|4.4597|Oud Gastel
 52.7158|4.8056|Oudkarspel
+52.2067|5.0806|Oud-Loosdrecht
 52.6331|4.7736|Oudorp
+51.5708|4.1986|Oud-Vossemeer
 51.7600|5.7889|Overasselt
 52.0400|5.4944|Overberg
 51.0087|5.8663|Overhoven
@@ -1156,6 +1162,7 @@
 51.5175|4.6972|Rijsbergen
 52.2606|4.7100|Rijsenhout
 51.8508|4.5958|Rijsoord
+52.3067|6.5181|Rijssen
 51.7975|5.0250|Rijswijk
 52.6614|5.0525|Risdam
 52.1891|5.9767|Rivierenkwartier
@@ -1182,8 +1189,8 @@
 51.5151|5.3899|Salderes
 52.4225|4.6261|Santpoort
 53.1642|6.7903|Sappemeer
-51.2275|3.7986|Sas van Gent
 52.2250|4.5222|Sassenheim
+51.2275|3.7986|Sas van Gent
 52.7875|4.7986|Schagen
 52.8025|4.7583|Schagerbrug
 51.7458|5.6319|Schaijk
@@ -1227,6 +1234,12 @@
 51.5483|3.5944|Serooskerke
 51.4125|6.0375|Sevenum
 53.2182|5.4840|Sexbierum
+52.2442|5.1211|'s-Graveland
+51.9234|4.5531|'s-Gravenland
+51.6559|4.9408|'s Gravenmoer
+52.0017|4.1653|'s-Gravenzande
+51.8767|6.2588|'s-Heerenberg
+51.6992|5.3042|'s-Hertogenbosch
 50.8442|5.8264|Sibbe
 53.2500|6.8681|Siddeburen
 52.7086|4.9906|Sijbekarspel
@@ -1236,17 +1249,17 @@
 51.6267|5.8819|Sint Anthonis
 53.2729|5.6035|Sint Jacobiparochie
 52.6775|6.0056|Sint Jansklooster
+52.9316|5.8559|Sintjohannesga
 51.1175|5.8986|Sint Joost
 51.5275|3.6028|Sint Laurens
 52.7925|4.6897|Sint Maartenszee
+51.6417|5.3528|Sint-Michielsgestel
 52.9229|5.7424|Sint Nicolaasga
 51.1433|6.0000|Sint Odiliënberg
+51.5675|5.4597|Sint-Oedenrode
 52.6600|4.7833|Sint Pancras
 51.6167|4.1653|Sint Philipsland
 51.5483|4.5889|Sint Willebrord
-51.6417|5.3528|Sint-Michielsgestel
-51.5675|5.4597|Sint-Oedenrode
-52.9316|5.8559|Sintjohannesga
 50.9983|5.8694|Sittard
 52.7717|6.8028|Sleen
 51.8208|4.7764|Sliedrecht
@@ -1317,8 +1330,8 @@
 52.0308|4.3014|Strijp
 52.9333|4.9833|Stroe
 52.7500|4.7500|Stroet
-53.1848|6.1703|Surhuisterveen
 53.0106|5.5258|Sûdwest Fryslân
+53.1848|6.1703|Surhuisterveen
 51.3442|6.1361|Tegelen
 53.2758|6.6944|Ten Boer
 52.8767|7.0597|Ter Apel
@@ -1333,16 +1346,20 @@
 52.2833|6.1000|Terwolde
 51.6092|4.8208|Teteringen
 53.0667|4.8000|Texel
-52.0767|4.2986|The Hague
 51.6384|5.3373|Theereheide
+52.0767|4.2986|The Hague
+51.4494|5.5193|'t Hofke
 51.5317|4.2208|Tholen
 51.1617|5.8417|Thorn
+53.0056|4.7861|'t Horntje
 51.8867|5.4292|Tiel
 51.4950|6.0931|Tienray
 53.0306|5.9919|Tijnje
 51.5555|5.0913|Tilburg
 53.0206|5.6457|Tinga
 51.4207|5.5082|Tivoli
+52.2561|4.6497|'t Kabel
+52.4100|4.9636|'t Nopeind
 51.8550|6.1028|Tolkamer
 51.4489|5.5198|Tongelre
 51.8908|5.2681|Tricht
@@ -1352,6 +1369,7 @@
 52.4113|4.8929|Tuindorp Oostzaan
 52.7333|4.7500|Tuitjenhorn
 52.7967|6.0944|Tuk
+52.7392|4.8556|'t Veld
 52.9092|6.9333|Tweede Exloërmond
 52.2306|6.8600|Twekkelerveld
 52.2367|6.1028|Twello
@@ -1360,6 +1378,7 @@
 52.7408|5.0528|Twisk
 53.0775|6.6167|Tynaarlo
 53.2134|5.9096|Tytsjerk
+52.8367|4.7556|'t Zand
 53.2373|5.5461|Tzummarum
 50.8533|5.9486|Ubachsberg
 52.2592|5.7806|Uddel
@@ -1503,12 +1522,8 @@
 51.4550|4.6417|Wernhout
 52.7347|5.1492|Wervershoof
 51.1595|5.8815|Wessem
-51.8616|5.2093|West Betuwe
-52.5539|4.7961|West-Graftdijk
-52.5178|4.7864|West-Knollendam
-51.4642|3.5917|West-Souburg
-53.3591|5.2148|West-Terschelling
 52.5744|4.8986|Westbeemster
+51.8616|5.2093|West Betuwe
 51.2325|3.8264|Westdorpe
 53.2085|5.7681|Westeinde
 52.1275|5.7153|Westeneng
@@ -1521,9 +1536,13 @@
 51.9558|5.9722|Westervoort
 53.0280|7.1567|Westerwolde
 51.4625|3.5869|Westerzicht
+52.5539|4.7961|West-Graftdijk
 51.5292|3.4403|Westkapelle
+52.5178|4.7864|West-Knollendam
 53.0848|6.6647|Westlaren
 51.7867|4.4750|Westmaas
+51.4642|3.5917|West-Souburg
+53.3591|5.2148|West-Terschelling
 52.6850|5.1347|Westwoud
 52.4667|4.7667|Westzaan
 52.2225|4.6439|Weteringbrug
@@ -1611,12 +1630,12 @@
 53.3392|6.3042|Zoutkamp
 51.7508|4.3681|Zuid-Beijerland
 52.3008|6.9333|Zuid-Berghuizen
-52.6867|4.8083|Zuid-Scharwoude
 53.1633|6.8611|Zuidbroek
 53.1734|5.8427|Zuiderburen
 52.6656|4.9758|Zuidermeer
 53.2467|6.4028|Zuidhorn
 53.0942|6.6819|Zuidlaren
+52.6867|4.8083|Zuid-Scharwoude
 51.8753|4.4851|Zuidwijk
 51.8092|5.1361|Zuilichem
 51.4717|4.6556|Zundert

@@ -1,4 +1,6 @@
-40.0502|47.4594|Agdzhabedy
+39.9910|46.9274|Ağdam|Aghdam
+40.6470|47.4738|Ağdaş
+40.0502|47.4594|Agdzhabedy|Aghjabadi
 41.1189|45.4539|Aghstafa
 40.5703|48.4009|Aghsu
 41.4829|46.6348|Aliabad
@@ -10,15 +12,13 @@
 39.9391|46.8316|Askyaran
 38.4560|48.8750|Astara
 39.9739|47.4239|Avşar
-39.9910|46.9274|Ağdam
-40.6470|47.4738|Ağdaş
 40.3402|49.8045|Badamdar
-40.3777|49.8920|Baku
 40.4189|49.9669|Bakıxanov
+40.3777|49.8920|Baku
 40.4634|49.9189|Balakhani
 40.3758|47.1262|Barda
-40.7552|48.3910|Basqal
 41.3258|47.1136|Baş Göynük
+40.7552|48.3910|Basqal
 41.7263|46.4048|Belokany
 39.7756|47.6186|Beylagan
 40.4444|49.8057|Bilajari
@@ -27,32 +27,41 @@
 40.4508|50.0869|Biny Selo
 39.8192|47.6794|Birinci Aşıqlı
 38.9301|48.7092|Boradigah
-40.5190|50.1144|Buzovna
 40.5763|45.6373|Böyük Qaramurad
+40.5190|50.1144|Buzovna
 39.3484|45.4156|Cahri
+39.4417|45.2833|Çalxanqala
+40.7262|45.5592|Çatax
 40.5419|49.6607|Ceyranbatan
-40.5718|49.7051|Corat
+41.4697|46.9158|Çinarlı
+40.7524|45.7064|Çobansığnaq
+40.5718|49.7051|Corat|Jorat
 38.9540|45.6296|Culfa
 38.8837|45.9096|Deste
 40.4926|49.8748|Digah
 41.2012|48.9871|Divichibazar
 40.8628|46.0349|Dolyar
 40.9539|45.6194|Dondar Quşçu
-40.9033|45.8856|Dzagam
 39.7728|47.7589|Dünyamalılar
+40.9033|45.8856|Dzagam
 41.4687|46.5158|Faldarlı
-39.6009|47.1453|Fizuli
+39.6009|47.1453|Fizuli|Fuzuli
 40.6828|46.3606|Ganja
-40.6506|47.7422|Geoktschai
+41.0925|45.3656|Gazakh|Qazax
+40.6506|47.7422|Geoktschai|Göyçay
 41.1393|49.0904|Gilgilçay
+40.4047|49.7131|Gobu|Qobu
 40.6103|46.7897|Goranboy
+40.9460|45.7317|Govlar
+40.5858|46.3189|Goygol|Yelenendorf
 40.3744|49.6819|Gyuzdek
-40.6233|49.5586|Hacı Zeynalabdin
 41.4564|48.6489|Hacıhüseynli
 40.0387|48.9429|Hacıqabul
+40.6233|49.5586|Hacı Zeynalabdin|Haji Zeynalabdin
 39.5200|47.0319|Hadrut
 38.7632|48.7622|Haftoni
 39.7229|44.8485|Heydarabad
+40.4311|49.7372|Hokmali
 39.4502|47.3350|Horadiz
 40.3744|50.0853|Hövsan
 39.8710|48.0600|Imishli
@@ -70,9 +79,9 @@
 40.3045|49.6236|Korgöz
 40.5705|45.8123|Kyadabek
 40.3426|48.1565|Kyurdarmir
-41.0781|49.1156|Kyzyl-Burun
-38.7543|48.8506|Lankaran
+41.0781|49.1156|Kyzyl-Burun|Siyazan
 39.5988|46.5504|Laçın
+38.7543|48.8506|Lankaran
 38.7739|48.4150|Lerik
 40.3256|49.7338|Lökbatan
 41.5424|46.7670|Mamrux
@@ -80,21 +89,24 @@
 40.2113|46.8214|Martakert
 39.0353|48.6654|Masally
 40.5298|50.0062|Maştağa
+40.4969|49.8517|Mehdiabad
 39.0302|46.7233|Mincivan
+40.7642|47.0623|Mingachevir
 40.7640|47.0595|Mingelchaur
 40.0990|48.8189|Mughan
 40.5061|46.8244|Naftalan
-39.2089|45.4122|Nakhchivan
+39.2089|45.4122|Nakhchivan|Naxçıvan
 40.5561|50.0056|Nardaran
 39.3768|49.2470|Neftçala
+39.1160|45.4617|Nehram
 40.4097|49.9193|Nizami Rayonu
 40.5981|45.6008|Novosaratovka
 39.7950|47.1117|Novyy Karanlug
+39.5869|45.0461|Oğlanqala
+41.0713|47.4653|Oğuz
 38.9096|46.0227|Ordubad
 39.0833|45.9167|Ordubad Rayon
 39.6357|47.7120|Orjonikidze
-39.5869|45.0461|Oğlanqala
-41.0713|47.4653|Oğuz
 40.4701|50.3248|Pirallahı
 39.1200|48.5938|Prishibinskoye
 39.4583|48.5450|Pushkino
@@ -102,30 +114,29 @@
 41.7526|46.2705|Qabaqçöl
 40.4426|50.1676|Qala
 41.4755|46.5413|Qandax
+39.8161|48.9379|Qaraçala
+40.3967|49.9736|Qaraçuxur
 40.4813|46.9934|Qaramanlı
 41.0436|45.6553|Qaraxanlı
 40.7867|46.3137|Qarayeri
-39.8161|48.9379|Qaraçala
-40.3967|49.9736|Qaraçuxur
 40.8124|46.2594|Qasım İsmayılov
 41.4183|46.9204|Qax
-41.4241|46.9386|Qax İngiloy
 41.4325|46.9646|Qaxbaş
-41.0925|45.3656|Qazax
-40.4047|49.7131|Qobu
+41.4241|46.9386|Qax İngiloy
+39.6767|46.9512|Qırmızı Bazar
+40.9397|46.3789|Qırmızı Samux
+39.3994|45.1151|Qıvraq
+40.5736|46.8490|Qızılhacılı
 40.0824|49.4121|Qobustan
 41.3611|48.5134|Quba
 39.3444|46.5818|Qubadlı
 41.4275|48.4302|Qusar
 40.9825|47.8491|Qutqashen
-39.6767|46.9512|Qırmızı Bazar
-40.9397|46.3789|Qırmızı Samux
-39.3994|45.1151|Qıvraq
-40.5736|46.8490|Qızılhacılı
 40.4422|49.9806|Ramana
 39.9321|48.3689|Saatlı
 40.0087|48.4770|Sabirabad
 40.4425|49.9481|Sabunçu
+39.4072|45.5739|Şahbuz
 41.2752|45.3529|Saloğlu
 39.5962|48.9848|Salyan
 41.6367|48.4303|Samur
@@ -137,15 +148,17 @@
 39.4112|49.2479|Severo-Vostotchnyi Bank
 39.4167|45.5833|Shahbuz Rayon
 40.6314|48.6414|Shamakhi
-40.8297|46.0178|Shamkhor
+40.8297|46.0178|Shamkhir|Shamkhor
 39.5530|44.9799|Sharur City
 41.1919|47.1706|Sheki
-39.7601|46.7499|Shushi
+39.7601|46.7499|Shusha|Shushi
+39.9378|48.9290|Şirvan
 39.3367|49.2141|Sovetabad
 38.9480|45.8257|Sumbatan-diza
-40.5897|49.6686|Sumqayıt
+40.5897|49.6686|Sumgayit|Sumqayıt
+40.8199|49.4677|Şuraabad
+40.3420|46.9316|Tartar|Terter
 39.1546|45.4428|Tazakend
-40.3420|46.9316|Terter
 40.9925|45.6284|Tovuz
 40.3646|50.2208|Türkan
 40.5190|47.6542|Ujar
@@ -153,13 +166,12 @@
 40.4936|46.0718|Verkhniy Dashkesan
 41.0952|45.4711|Vurğun
 41.4643|48.8056|Xaçmaz
+39.4301|49.1017|Xıllı
 39.9130|46.7903|Xocalı
 41.6305|48.6816|Xudat
-39.4301|49.1017|Xıllı
 40.8432|45.6803|Yanıqlı
 38.9077|48.2405|Yardımlı
 38.9405|45.7324|Yaycı
-40.5858|46.3189|Yelenendorf
 40.4303|50.0360|Yeni Suraxanı
 40.6183|47.1501|Yevlakh
 40.5239|46.0819|Yukhary-Dashkesan
@@ -169,11 +181,4 @@
 41.6316|46.6448|Zaqatala
 40.2184|47.7121|Zardob
 40.3661|50.2920|Zyrya
-39.4417|45.2833|Çalxanqala
-40.7262|45.5592|Çatax
-41.4697|46.9158|Çinarlı
-40.7524|45.7064|Çobansığnaq
-39.4072|45.5739|Şahbuz
-39.9378|48.9290|Şirvan
-40.8199|49.4677|Şuraabad
 39.8807|48.3916|Əhmədbəyli

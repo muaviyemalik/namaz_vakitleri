@@ -5,12 +5,12 @@
 45.0406|13.7836|Bale
 45.0409|13.7857|Bale-Valle
 44.7500|14.7833|Banjol
-45.1894|17.6664|Batrina
 44.9703|14.7533|Baška
 43.3569|16.9503|Baška Voda
+45.1894|17.6664|Batrina
 46.0411|15.9964|Bedekovčina
-45.7700|18.6036|Beli Manastir
 46.4042|16.5183|Belica
+45.7700|18.6036|Beli Manastir
 45.6803|18.4058|Belišće
 44.0344|15.6128|Benkovac
 46.2500|16.3000|Beretinec
@@ -44,9 +44,9 @@
 43.6800|16.6497|Brnaze
 43.6800|15.9197|Brodarica
 45.1811|17.9786|Brodski Varoš
+45.3628|18.9111|Bršadin
 45.3814|13.6294|Brtonigla
 45.3792|13.6255|Brtonigla-Verteneglio
-45.3628|18.9111|Bršadin
 45.4747|16.4367|Budaševo
 46.1279|16.2041|Budinščina
 45.2711|18.4486|Budrovci
@@ -55,20 +55,30 @@
 45.1853|18.0700|Bukovlje
 45.3453|14.4883|Buzdohanj
 45.4094|13.9667|Buzet
+45.6039|17.8703|Čačinci
+45.7442|17.8547|Čađavica
+46.3844|16.4339|Čakovec
+45.3519|14.4839|Čavle
 42.5811|18.2181|Cavtat
+45.7482|16.6139|Čazma
+45.6864|18.6675|Čeminac
 45.8131|15.9775|Centar
+45.5236|18.5633|Čepin
 45.3114|18.8561|Cerić
 45.1819|18.6894|Cerna
 45.2886|17.3819|Cernik
 46.3717|16.1253|Cestica
+42.6289|18.1711|Čibača
 44.9611|14.4084|Cres
 45.1772|14.6928|Crikvenica
 45.6961|17.9372|Crnac
+45.3083|18.4106|Đakovo
 45.4844|18.9861|Dalj
 45.6281|18.6997|Darda
 45.5906|17.2250|Daruvar
 45.1153|17.5164|Davor
 46.4486|16.5847|Dekanovec
+46.2499|16.8701|Đelekovec
 45.4008|14.7997|Delnice
 45.5706|17.0867|Dežanovac
 43.6368|16.5898|Dicmo
@@ -89,9 +99,14 @@
 46.2069|16.9169|Drnje
 45.8336|16.0636|Dubrava
 42.7899|17.8624|Dubrovačko primorje
+42.6412|18.1091|Dubrovnik
+43.4428|16.6683|Duće
 43.4492|16.6474|Dugi Rat Općina
 43.5806|16.6028|Dugopolje
-43.4428|16.6683|Duće
+45.6659|17.4298|Đulovac
+45.5433|18.0458|Đurđenovac
+46.0397|17.0717|Đurđevac
+46.1971|15.8379|Đurmanec
 45.0731|16.3708|Dvor
 45.5264|19.0603|Erdut
 45.4519|18.6592|Ernestinovo
@@ -106,8 +121,8 @@
 43.7150|16.7269|Gala
 44.9317|13.8686|Galižana
 44.0714|15.3933|Galovac
-45.5744|16.9414|Garešnica
 45.1828|18.1831|Garčin
+45.5744|16.9414|Garešnica
 45.3381|16.0881|Glina
 46.1958|17.0581|Gola
 46.3842|16.6808|Goričan
@@ -120,10 +135,16 @@
 46.2505|16.3756|Gornji Kneginec
 44.5461|15.3747|Gospić
 43.4928|17.2011|Grabovci
+44.2992|15.8475|Gračac
+45.8333|16.3167|Gračec
+43.1058|17.3417|Gradac
 45.7722|18.6108|Grad Beli Manastir
 43.9333|15.4333|Grad Biograd na Moru
 45.9017|16.8452|Grad Bjelovar
 45.4167|13.9667|Grad Buzet
+45.5833|14.5833|Grad Čabar
+46.3858|16.4333|Grad Čakovec
+45.7500|16.6167|Grad Čazma
 45.1667|14.7000|Grad Crikvenica
 45.6000|17.2333|Grad Daruvar
 45.3981|14.8011|Grad Delnice
@@ -132,12 +153,16 @@
 43.8333|16.1667|Grad Drniš
 42.6486|18.0940|Grad Dubrovnik
 45.8090|16.2412|Grad Dugo Selo
+45.9111|16.4828|Gradec
 45.5667|16.9333|Grad Garešnica
 45.3333|16.1000|Grad Glina
 45.7000|17.1667|Grad Grubišno Polje
 45.2500|16.5667|Grad Hrvatska Kostajnica
 43.1726|16.4455|Grad Hvar
+45.7000|16.0500|Gradići
 43.4333|17.1667|Grad Imotski
+45.8542|17.5111|Gradina
+45.1481|18.7067|Gradište
 46.2333|16.1333|Grad Ivanec
 45.6667|15.6667|Grad Jastrebarsko
 46.0498|15.7462|Grad Klanjec
@@ -165,8 +190,12 @@
 45.3333|17.6667|Grad Požega
 45.3269|14.4376|Grad Rijeka
 45.8000|15.7000|Grad Samobor
+43.7358|15.8960|Grad Šibenik
 43.7229|16.6582|Grad Sinj
 45.5000|16.3667|Grad Sisak
+45.8083|15.9695|Gradska četvrt Donji grad
+45.8282|15.9794|Gradska četvrt Gornji Grad - Medvescak
+45.8610|15.9800|Gradska četvrt Podsljeme
 45.7000|17.7000|Grad Slatina
 45.1627|18.0306|Grad Slavonski Brod
 43.5000|16.5000|Grad Split
@@ -186,21 +215,7 @@
 46.0281|15.9085|Grad Zabok
 45.8667|15.8000|Grad Zaprešić
 46.0920|16.0770|Grad Zlatar
-45.5833|14.5833|Grad Čabar
-46.3858|16.4333|Grad Čakovec
-45.7500|16.6167|Grad Čazma
-43.7358|15.8960|Grad Šibenik
 45.0723|18.6951|Grad Županja
-43.1058|17.3417|Gradac
-45.9111|16.4828|Gradec
-45.8542|17.5111|Gradina
-45.7000|16.0500|Gradići
-45.1481|18.7067|Gradište
-45.8083|15.9695|Gradska četvrt Donji grad
-45.8282|15.9794|Gradska četvrt Gornji Grad - Medvescak
-45.8610|15.9800|Gradska četvrt Podsljeme
-44.2992|15.8475|Gračac
-45.8333|16.3167|Gračec
 43.6153|16.6936|Greda
 45.3789|13.7239|Grožnjan
 45.3773|13.7215|Grožnjan-Grisignana
@@ -251,17 +266,18 @@
 45.4347|17.7261|Kaptol
 45.7606|18.6844|Karanac
 44.5275|15.0739|Karlobag
+45.4917|15.5500|Karlovac
 45.3008|13.8231|Karojba
-45.3753|14.3486|Kastav
 45.9113|16.1244|Kašina
+45.3753|14.3486|Kastav
+43.5386|16.3074|Kaštela
 43.5500|16.4000|Kaštel Gomilica
+45.3028|13.6884|Kaštelir-Labinci
 43.5500|16.3833|Kaštel Kambelovac
 43.5553|16.3675|Kaštel Lukšić
 43.5500|16.3393|Kaštel Novi
-43.5500|16.3500|Kaštel Stari
 43.5459|16.3239|Kaštel Štafilić
-43.5386|16.3074|Kaštela
-45.3028|13.6884|Kaštelir-Labinci
+43.5500|16.3500|Kaštel Stari
 45.7701|15.8086|Kerestinec
 43.9828|15.9650|Kistanje
 45.4469|14.3769|Klana
@@ -274,15 +290,15 @@
 43.0431|16.0931|Komiža
 45.1497|18.9492|Komletinci
 42.5401|18.3394|Konavle
-46.0543|16.1776|Konjščina
 45.6361|17.1664|Končanica
+46.0543|16.1776|Konjščina
 46.1628|16.8275|Koprivnica
 46.1991|16.8163|Koprivnički Ivanec
-45.2247|18.1656|Korenica
 42.9604|17.1352|Korčula
-46.3550|16.8181|Kotoriba
+45.2247|18.1656|Korenica
 45.5453|18.2858|Koška
 43.6308|16.6950|Košute
+46.3550|16.8181|Kotoriba
 45.2739|14.5683|Kraljevica
 46.1608|15.8789|Krapina
 45.3097|14.5556|Krasica
@@ -291,13 +307,13 @@
 45.0274|14.5754|Krk
 45.0775|18.4828|Kruševica
 44.1833|15.6500|Kruševo
-46.0775|15.6756|Kumrovec
-46.3303|16.4017|Kuršanec
-45.4750|16.7819|Kutina
-45.4261|17.8825|Kutjevo
 46.2894|16.3722|Kućan Marof
 45.6769|16.1450|Kuče
+46.0775|15.6756|Kumrovec
+46.3303|16.4017|Kuršanec
 45.3478|18.4289|Kuševac
+45.4750|16.7819|Kutina
+45.4261|17.8825|Kutjevo
 45.0950|14.1197|Labin
 45.6256|18.4486|Ladimirevci
 45.4150|18.6961|Laslovo
@@ -305,9 +321,9 @@
 46.2975|16.8567|Legrad
 45.5856|16.2114|Lekenik
 46.2106|16.0356|Lepoglava
+44.6039|15.4247|Lički Osik
 45.4114|17.1522|Lipik
 45.3967|16.8897|Lipovljani
-44.6039|15.4247|Lički Osik
 44.8283|13.9569|Ližnjan
 44.8276|13.9603|Ližnjan-Lisignano
 46.1667|16.3833|Ljubešćica
@@ -318,18 +334,22 @@
 45.2264|19.1711|Lovas
 45.2919|14.2742|Lovran
 43.4876|16.9863|Lovreć
+45.7611|15.8703|Lučko
 46.2519|16.6147|Ludbreg
 45.9579|15.8195|Luka
 45.7044|15.9900|Lukavec
 42.9228|17.1672|Lumbarda
 45.3520|14.1085|Lupoglav
-45.7611|15.8703|Lučko
 45.1681|17.7069|Lužani
+46.0947|16.0353|Mače
+46.4242|16.4336|Mačkovec
 45.6616|18.1868|Magadenovac
 43.2969|17.0178|Makarska
 46.3762|16.5289|Mala Subotica
 44.5306|14.4686|Mali Lošinj
 45.1228|14.5287|Malinska-Dubašnica
+44.9553|13.9539|Marčana
+45.3961|14.3894|Marčelji
 46.0061|16.1111|Marija Bistrica
 45.6664|18.2928|Marijanci
 45.3650|14.3939|Marinići
@@ -338,19 +358,15 @@
 45.3739|18.7058|Markušica
 45.4922|18.0667|Martin
 45.5867|16.3746|Martinska Ves
-44.9553|13.9539|Marčana
-45.3961|14.3894|Marčelji
 45.3617|14.3250|Matulji
-46.0947|16.0353|Mače
-46.4242|16.4336|Mačkovec
 44.8225|13.9350|Medulin
 43.0542|17.6483|Metković
+45.7500|16.0667|Mičevec
 45.3612|14.3055|Mihotići
 46.1331|15.9722|Mihovljan
 45.6186|17.8039|Mikleuš
 43.3267|16.4508|Milna
 45.2697|18.8511|Mirkovci
-45.7500|16.0667|Mičevec
 42.7444|17.5364|Mljet
 42.6756|18.0903|Mokošica
 46.1092|17.0317|Molve
@@ -359,10 +375,10 @@
 45.6667|16.0956|Mraclin
 43.5333|16.5219|Mravince
 45.3156|14.8553|Mrkopalj
+43.6933|16.4727|Muć
 46.5094|16.4411|Mursko Središće
 43.8204|15.5899|Murter
 43.8096|15.6002|Murter-Kornati
-43.6933|16.4727|Muć
 45.4886|18.0878|Našice
 46.3758|16.3875|Nedelišće
 46.2878|16.2833|Nedeljanec
@@ -374,15 +390,15 @@
 45.6647|17.7669|Nova Bukovica
 45.2550|17.3831|Nova Gradiška
 44.5578|14.8867|Novalja
+45.3150|13.5581|Novigrad
+45.3167|13.5616|Novigrad-Cittanova
+44.1942|15.5567|Novigrad Općina
 45.1281|14.7889|Novi Vinodolski
 45.7833|15.9833|Novi Zagreb
-45.3150|13.5581|Novigrad
-44.1942|15.5567|Novigrad Općina
-45.3167|13.5616|Novigrad-Cittanova
-46.4284|16.4622|Novo Selo Rok
-46.0983|17.1521|Novo Virje
 45.7000|16.1167|Novo Čiče
 45.6525|16.5364|Novoselec
+46.4284|16.4622|Novo Selo Rok
+46.0983|17.1521|Novo Virje
 45.3406|16.9769|Novska
 45.3325|18.8414|Nuštar
 44.2006|15.6822|Obrovac
@@ -393,14 +409,14 @@
 43.4447|16.6886|Omiš
 45.2113|14.5549|Omišalj
 45.3377|14.3051|Opatija
-45.1511|18.2297|Oprisavci
-45.3823|13.8241|Oprtalj-Portole
-43.0153|17.5656|Opuzen
 45.8376|16.5368|Općina Dubrava
 45.1000|16.3000|Općina Dvor
 45.3333|15.9000|Općina Gvozd
 45.4352|14.0820|Općina Lanišće
 42.7500|16.9000|Općina Lastovo
+45.1511|18.2297|Oprisavci
+45.3823|13.8241|Oprtalj-Portole
+43.0153|17.5656|Opuzen
 45.5400|17.8847|Orahovica
 42.9856|17.1747|Orebić
 46.3317|16.5069|Orehovica
@@ -409,8 +425,8 @@
 45.9967|15.9151|Oroslavje
 45.5511|18.6939|Osijek
 44.0767|15.2072|Osljak
-43.6866|16.7349|Otok
 44.8694|15.2375|Otočac
+43.6866|16.7349|Otok
 44.4450|15.0575|Pag
 43.9122|15.5089|Pakoštane
 45.4364|17.1889|Pakrac
@@ -423,8 +439,8 @@
 45.6128|18.5353|Petrijevci
 45.4375|16.2900|Petrinja
 43.8192|15.6728|Pirovac
-45.9506|17.2294|Pitomača
 45.2553|18.4042|Piškorevci
+45.9506|17.2294|Pitomača
 45.2886|17.8064|Pleternica
 44.8805|15.6212|Plitvička Jezera
 42.8486|17.8364|Podgora
@@ -456,25 +472,25 @@
 45.1947|18.8375|Privlaka
 43.4669|17.1551|Proložac
 43.9580|16.0974|Promina
+43.3478|16.7339|Pučišća
 44.8683|13.8481|Pula
 44.8671|13.8488|Pula-Pola
 45.0147|14.6289|Punat
-43.3478|16.7339|Pučišća
 45.9157|15.7805|Pušća
 44.7577|14.7591|Rab
 45.0794|14.1575|Rabac
 46.1664|15.9236|Radoboj
 45.7939|15.8222|Rakitje
 45.7381|15.7972|Rakov Potok
-46.1839|16.7067|Rasinja
 45.0803|14.0789|Raša
+46.1839|16.7067|Rasinja
 44.2819|15.3481|Ražanac
 46.1303|16.7669|Reka
 46.1853|16.3278|Remetinec
 45.4928|16.7308|Repušnica
+45.2623|17.4235|Rešetari
 45.2333|18.6531|Retkovci
 45.7833|17.4167|Rezovac
-45.2623|17.4235|Rešetari
 45.3267|14.4424|Rijeka
 43.5247|15.9700|Rogoznica
 43.5362|15.9709|Rogoznica Općina
@@ -489,6 +505,7 @@
 45.1467|18.0794|Ruščica
 43.9397|15.1633|Sali
 45.8031|15.7181|Samobor
+45.9056|17.0211|Šandrovac
 45.5272|18.8375|Sarvaš
 45.3537|18.3773|Satnica Đakovačka
 43.5431|16.2122|Seget
@@ -497,25 +514,33 @@
 45.1564|14.7211|Selce
 45.3606|18.5436|Semeljci
 44.9894|14.9058|Senj
+46.4089|16.4217|Šenkovec
 45.8333|16.1333|Sesvete
 45.8415|16.9695|Severin
+43.7272|15.9058|Šibenik
 45.1917|17.9081|Sibinj
 46.1883|16.9358|Sigetec
 45.1089|18.4644|Sikirevci
 43.7036|16.6394|Sinj
 45.5233|17.2550|Sirač
+45.4053|18.4725|Široko Polje
 45.4661|16.3783|Sisak
+44.0895|15.4515|Škabrnja
 45.4278|14.9111|Skrad
 43.8203|15.9236|Skradin
+45.3205|14.5327|Škrljevo
 45.7033|17.7028|Slatina
 43.4994|16.3333|Slatine
 45.1603|18.0156|Slavonski Brod
 42.9586|17.5443|Slivno
 45.1622|17.9328|Slobodnica
 42.9306|16.8964|Smokvica
+45.4000|18.6203|Šodolovci
 43.5432|16.4931|Solin
 44.9503|18.9703|Soljani
+43.3871|16.2887|Šolta
 45.8011|17.7425|Sopje
+45.8574|17.3009|Špišić Bukovica
 43.5089|16.4392|Split
 46.3294|16.2789|Sračinec
 43.4833|16.6000|Srinjine
@@ -523,6 +548,7 @@
 45.2619|18.9144|Stari Jankovci
 45.2175|18.3486|Stari Perkovci
 45.8085|15.8825|Stenjevec
+45.0956|18.6403|Štitar
 43.5025|16.5222|Stobreč
 42.8386|17.6964|Ston
 46.3689|16.4150|Strahoninec
@@ -537,11 +563,11 @@
 44.7975|14.7247|Supetarska Draga
 45.1493|14.0989|Sveta Nedelja
 45.7983|15.7806|Sveta Nedjelja
+46.2833|16.6044|Sveti Đurđ
 43.9647|15.4300|Sveti Filip i Jakov
 46.4285|16.3852|Sveti Juraj na Bregu
 46.0822|15.9070|Sveti Križ Začretje
 45.1777|13.7432|Sveti Lovreč
-46.2833|16.6044|Sveti Đurđ
 45.3008|13.6253|Tar
 45.2995|13.6249|Tar-Vabriga-Torre Abrega
 45.4981|18.7472|Tenja
@@ -553,9 +579,9 @@
 43.6183|16.7242|Trilj
 43.5125|16.2517|Trogir
 45.4192|18.8992|Trpinja
+43.2722|17.0544|Tučepi
 43.9711|15.4114|Turanj
 43.6500|16.6692|Turjaci
-43.2722|17.0544|Tučepi
 46.2567|16.2350|Tužno
 44.1308|15.1031|Ugljan
 45.4314|13.5239|Umag
@@ -590,12 +616,12 @@
 45.5686|18.6139|Višnjevac
 45.3313|13.7594|Vižinada-Visinada
 45.4594|18.5742|Vladislavci
+45.6178|17.5478|Voćin
 43.7608|15.7828|Vodice
+45.2756|18.6097|Vođinci
 44.9594|13.8517|Vodnjan
 44.9619|13.8504|Vodnjan-Dignano
 45.5481|16.6789|Voloder
-45.6178|17.5478|Voćin
-45.2756|18.6097|Vođinci
 43.5333|16.4667|Vranjic
 46.4781|16.4578|Vratišinec
 44.9808|18.9272|Vrbanja
@@ -619,36 +645,12 @@
 43.0111|17.6568|Zažablje
 45.5892|17.9503|Zdenci
 45.8667|15.7500|Zdenci Brdovečki
+45.8764|16.8750|Ždralovi
 46.0942|16.0708|Zlatar
 46.0479|16.0853|Zlatar Bistrica
 43.4108|17.2056|Zmijavci
-46.0212|16.7551|Zrinski Topolovac
-46.3844|16.4339|Čakovec
-45.3519|14.4839|Čavle
-45.7482|16.6139|Čazma
-45.6039|17.8703|Čačinci
-45.7442|17.8547|Čađavica
-45.6864|18.6675|Čeminac
-45.5236|18.5633|Čepin
-42.6289|18.1711|Čibača
-45.3083|18.4106|Đakovo
-46.2499|16.8701|Đelekovec
-45.6659|17.4298|Đulovac
-46.1971|15.8379|Đurmanec
-45.5433|18.0458|Đurđenovac
-46.0397|17.0717|Đurđevac
-45.9056|17.0211|Šandrovac
-46.4089|16.4217|Šenkovec
-43.7272|15.9058|Šibenik
-45.4053|18.4725|Široko Polje
-44.0895|15.4515|Škabrnja
-45.3205|14.5327|Škrljevo
-45.4000|18.6203|Šodolovci
-43.3871|16.2887|Šolta
-45.8574|17.3009|Špišić Bukovica
-45.0956|18.6403|Štitar
-45.8764|16.8750|Ždralovi
 45.1428|13.9089|Žminj
+46.0212|16.7551|Zrinski Topolovac
 43.5211|16.5592|Žrnovnica
 42.9511|17.1142|Žrnovo
 42.6268|18.1947|Župa dubrovačka

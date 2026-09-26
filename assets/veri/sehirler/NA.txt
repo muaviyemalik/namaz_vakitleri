@@ -5,6 +5,7 @@
 -17.0039|13.2483|Epupa Constituency
 -22.4500|18.9667|Gobabis
 -19.5667|18.1167|Grootfontein
+-17.3932|15.8911|Helao Nafidi
 -22.1167|14.2833|Hentiesbaai
 -23.9167|18.0500|Hoachanas
 -28.0167|18.7500|Karasburg
@@ -17,6 +18,7 @@
 -26.6481|15.1538|Lüderitz
 -24.8333|16.9833|Maltahöhe
 -24.6333|17.9667|Mariental
+-18.0389|20.7006|Ndiyona
 -21.9833|16.9167|Okahandja
 -17.8876|15.0668|Okahao
 -20.5833|17.4333|Okakarara

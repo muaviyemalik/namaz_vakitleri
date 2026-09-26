@@ -5,6 +5,7 @@
 49.2233|-2.2161|Grande Cueillette
 49.1721|-2.0620|Grande Vingtaine
 49.2246|-2.1966|Petite Cueillette
+49.1880|-2.1049|Saint Helier
 49.1958|-2.1567|Vingtaine Bas de la Vallée
 49.1994|-2.1196|Vingtaine de Bas du Mont au Prêtre
 49.2032|-2.0527|Vingtaine de Faldouet
@@ -24,10 +25,10 @@
 49.1727|-2.2255|Vingtaine de Noirmont
 49.2357|-2.0505|Vingtaine de Rozel
 49.1650|-2.0988|Vingtaine de Samarès
-49.2138|-2.1358|Vingtaine de Sous la Hougue
 49.2078|-2.1863|Vingtaine des Augerez
 49.2286|-2.0824|Vingtaine des Augrès
 49.1856|-2.0504|Vingtaine des Marais
+49.2138|-2.1358|Vingtaine de Sous la Hougue
 49.2026|-2.0708|Vingtaine des Pigneaux
 49.1970|-2.2162|Vingtaine des Quennevais
 49.1875|-2.1847|Vingtaine du Coin
@@ -38,8 +39,8 @@
 49.2145|-2.1872|Vingtaine du Coin Varin
 49.2346|-2.1723|Vingtaine du Douet
 49.2184|-2.0352|Vingtaine du Fief de la Reine
-49.1998|-2.1476|Vingtaine du Mont Cochon
 49.2004|-2.1338|Vingtaine du Mont à l'Abbé
+49.1998|-2.1476|Vingtaine du Mont Cochon
 49.2394|-2.1207|Vingtaine du Nord
 49.1725|-2.0654|Vingtaine du Rocquier
 49.2371|-2.0875|Vingtaine du Rondin

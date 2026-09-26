@@ -1,5 +1,6 @@
 -18.8828|-63.3803|Abapó
 -16.0500|-68.6833|Achacachi
+-16.5739|-68.1511|Achocalla
 -18.2041|-65.1807|Aiquile
 -15.2368|-68.9846|Amarete
 -17.5685|-65.7688|Arani
@@ -23,6 +24,7 @@
 -17.5878|-65.9325|Cliza
 -11.0267|-68.7692|Cobija
 -17.3895|-66.1568|Cochabamba
+-17.3857|-66.2381|Colcapirhua
 -17.3167|-66.7167|Colchani
 -17.3500|-65.8667|Colomi
 -18.7003|-66.0040|Colquechaca
@@ -33,6 +35,7 @@
 -16.1939|-67.7300|Coroico
 -17.8167|-63.0500|Cotoca
 -17.8667|-68.4333|Curahuara de Carangas
+-18.0001|-63.3871|El Torno
 -21.3832|-67.6037|Enrique Baldivieso
 -21.5266|-64.1730|Entre Ríos
 -17.5833|-67.5167|Eucaliptus
@@ -48,8 +51,9 @@
 -18.0551|-63.4282|Jorochito
 -16.1897|-67.7266|José Manuel Pando
 -17.5500|-63.2167|La Bélgica
--16.5000|-68.1500|La Paz
 -17.3705|-67.6750|Lahuachaca
+-16.5333|-68.3833|Laja
+-16.5000|-68.1500|La Paz
 -18.0310|-63.4052|Limoncito
 -18.7607|-68.2429|Litoral de Atacama
 -18.4243|-66.5839|Llallagua
@@ -74,6 +78,7 @@
 -10.5000|-66.5000|Provincia Abuná
 -18.5000|-66.3333|Provincia Alonzo de Ibáñez
 -17.7500|-63.2500|Provincia Andrés Ibáñez
+-17.5000|-58.5000|Provincia Ángel Sandoval
 -17.5000|-65.5000|Provincia Arani
 -22.1667|-64.3333|Provincia Arce
 -17.5000|-68.0000|Provincia Aroma
@@ -109,8 +114,8 @@
 -17.0000|-64.0000|Provincia Ichilo
 -16.8333|-68.6667|Provincia Ingavi
 -17.0000|-67.0833|Provincia Inquisivi
--13.0000|-68.0000|Provincia Iturralde
 -13.4167|-63.5000|Provincia Iténez
+-13.0000|-68.0000|Provincia Iturralde
 -19.5000|-67.6667|Provincia Ladislao Cabrera
 -15.5000|-68.3333|Provincia Larecaja
 -19.8333|-65.5000|Provincia Linares
@@ -123,20 +128,21 @@
 -17.8333|-64.4167|Provincia Manuel María Caballero
 -11.3333|-67.5000|Provincia Manuripi
 -15.6667|-64.3333|Provincia Marbán
+-21.1667|-64.9167|Provincia Méndez
 -17.9065|-65.3944|Provincia Mizque
 -21.9167|-65.5833|Provincia Modesto Omiste
 -15.1667|-65.5000|Provincia Moxos
--16.3333|-68.0000|Provincia Murillo
 -15.3333|-68.6667|Provincia Muñecas
--21.1667|-64.9167|Provincia Méndez
+-16.3333|-68.0000|Provincia Murillo
 -11.3333|-68.5000|Provincia Nicolás Suárez
 -20.6667|-66.0000|Provincia Nor Chichas
 -20.3333|-65.0000|Provincia Nor Cinti
 -20.5000|-67.8333|Provincia Nor Lípez
 -16.0000|-67.5000|Provincia Nor Yungas
+-15.9167|-62.5000|Provincia Ñuflo de Chávez
+-21.5833|-64.1667|Provincia O’Connor
 -15.9167|-68.8333|Provincia Omasuyos
 -18.6667|-65.1667|Provincia Oropeza
--21.5833|-64.1667|Provincia O’Connor
 -17.5000|-69.0000|Provincia Pacajes
 -18.3333|-66.9167|Provincia Pantaleón Dalence
 -18.5000|-66.9167|Provincia Poopó
@@ -156,9 +162,9 @@
 -22.0000|-67.5000|Provincia Sud Lípez
 -16.5000|-67.5000|Provincia Sud Yungas
 -17.5115|-66.6196|Provincia Tapacarí
--19.5000|-64.1667|Provincia Tomina
 -17.8333|-68.2500|Provincia Tomás Barron
 -19.3333|-66.0000|Provincia Tomás Frías
+-19.5000|-64.1667|Provincia Tomina
 -11.6667|-66.0000|Provincia Vaca Diez
 -18.5000|-64.1667|Provincia Vallegrande
 -15.5000|-61.0000|Provincia Velasco
@@ -166,8 +172,6 @@
 -13.5000|-66.0000|Provincia Yacuma
 -19.1667|-64.9167|Provincia Yamparáez
 -18.9167|-64.8333|Provincia Zudáñez
--17.5000|-58.5000|Provincia Ángel Sandoval
--15.9167|-62.5000|Provincia Ñuflo de Chávez
 -18.9927|-68.6845|Puerto de Mejillones
 -17.7833|-57.7667|Puerto Quijarro
 -17.6500|-62.8000|Puesto de Pailas
@@ -214,10 +218,12 @@
 -15.3929|-62.9466|Urubichá
 -20.4597|-66.8250|Uyuni
 -18.4892|-64.1061|Vallegrande
--17.4000|-63.8333|Villa Yapacaní
+-16.6500|-68.3000|Viacha
 -21.2624|-63.4690|Villamontes
+-17.4000|-63.8333|Villa Yapacaní
 -22.0866|-65.5942|Villazón
 -16.9500|-67.5500|Viloco
+-17.3914|-66.3168|Vinto
 -17.5163|-63.1678|Warnes
 -22.0164|-63.6775|Yacuiba
 -16.0357|-69.1484|Yumani

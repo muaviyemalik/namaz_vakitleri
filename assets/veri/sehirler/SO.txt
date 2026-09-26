@@ -2,29 +2,42 @@
 8.9500|46.4167|Aynaba
 2.3446|42.2764|Baardheere
 3.1138|43.6498|Baidoa
+9.8921|43.3853|Baki
+5.7690|45.7630|Balanbale
 9.4942|50.8122|Bandarbeyla
 11.2864|51.0773|Bargaal
+3.9284|41.8800|Beled Hawo
 4.7358|45.2036|Beledweyne
+10.4396|45.0143|Berbera
 11.8704|51.0579|Bereeda
+9.9361|43.1828|Borama
 11.2842|49.1816|Bosaso
+1.0833|42.5833|Bu’aale
 9.5221|45.5336|Burao
 3.8537|45.5674|Buulobarde
 -1.2192|41.8372|Buur Gaabo
 2.8026|44.0780|Buurhakaba
+6.2458|46.2247|Cabudwaaq
 2.7603|46.3222|Cadale
 11.9661|50.7569|Caluula
 8.9991|45.3582|Ceek
 4.6850|46.6176|Ceelbuur
 3.8488|47.1806|Ceeldheer
 10.6162|47.3680|Ceerigaabo
+6.4317|46.4619|Dhabad
+3.1530|41.3357|Dhamas
 5.5360|46.3867|Dhuusamarreeb
+2.4085|42.9771|Diinsoor
 1.2531|42.5738|Dujuuma
+11.7667|51.2167|El Dibir
 7.9803|49.8164|Eyl
 6.7697|47.4308|Gaalkacyo
 9.7000|43.6236|Gabiley
 3.3289|42.2209|Garbahaarrey
 8.4021|48.4828|Garoowe
+9.7003|43.6244|Gebiley
 9.5631|44.0675|Hargeisa
+9.5600|44.0650|Hargeysa
 5.3505|48.5268|Hobyo
 9.1542|47.4769|Hudun
 10.2837|50.2300|Iskushuban
@@ -32,7 +45,9 @@
 0.0697|42.7450|Jamaame
 2.7809|45.5005|Jawhar
 0.4883|42.7854|Jilib
+-1.6377|41.5866|Kaambooni
 -0.3582|42.5454|Kismayo
+8.4774|47.3597|Laascaanood
 8.4760|47.3570|Las Anod
 11.1595|48.1967|Las Khorey
 3.8032|42.5442|Luuq
@@ -42,8 +57,12 @@
 9.4092|45.0640|Oodweyne
 11.4720|49.8728|Qandala
 1.7878|44.5300|Qoryooley
+9.9729|43.4276|Ruqi
 1.6279|42.4407|Saacow
+6.7729|46.7969|Saaxo
+11.3539|43.4731|Saylac
 4.0190|44.5111|Tayeeglow
+9.5997|43.3350|Tog Wajaale
 3.8096|43.2463|Waajid
 2.6185|44.8938|Wanlaweyn
 4.6544|47.8575|Xarardheere

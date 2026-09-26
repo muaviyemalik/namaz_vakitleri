@@ -1,6 +1,7 @@
 13.2368|-61.2728|Barrouallie
 13.1943|-61.1390|Biabou
 13.2564|-61.1195|Byera Village
+13.1287|-61.1918|Calliaqua
 13.2907|-61.2404|Chateaubelair
 13.2805|-61.1185|Georgetown
 13.1553|-61.2274|Kingstown

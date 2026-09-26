@@ -87,6 +87,33 @@ class YasalNotlarSayfasi extends StatelessWidget {
           ),
           const SizedBox(height: 16),
 
+          // --- GeoNames (CC BY 4.0) atif kutusu ---
+          // CC BY 4.0 kopyalaç değildir ama kaynak, lisans ve yapılan
+          // değişiklikleri belirtmek zorunludur. Bu yüzden değişiklik
+          // metni (hangi kayıtların eklendiği/birleştirildiği) açıkça yazılır.
+          Container(
+            padding: const EdgeInsets.all(14),
+            decoration: BoxDecoration(
+              color: Colors.blue.withValues(alpha: 0.08),
+              border: Border.all(color: Colors.blue.withValues(alpha: 0.35)),
+              borderRadius: BorderRadius.circular(12),
+            ),
+            child: Row(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Icon(Icons.public, color: Colors.blue.shade700, size: 22),
+                const SizedBox(width: 10),
+                Expanded(
+                  child: Text(
+                    geoNamesAciklamasi,
+                    style: const TextStyle(fontSize: 12.5, height: 1.4),
+                  ),
+                ),
+              ],
+            ),
+          ),
+          const SizedBox(height: 16),
+
           // --- Atıf girdileri ---
           Text(
             'credits'.tr(),

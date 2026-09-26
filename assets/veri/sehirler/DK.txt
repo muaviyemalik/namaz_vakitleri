@@ -1,20 +1,28 @@
 55.0443|9.4174|Aabenraa
 54.9898|9.3128|Aabenraa Kommune
 57.0480|9.9187|Aalborg
-56.1567|10.2108|Aarhus
+56.1567|10.2108|Aarhus|Århus
 56.1632|10.1690|Aarhus Kommune
 56.8040|9.5144|Aars
+57.1625|9.7300|Åbybro
+55.0708|14.9198|Åkirkeby
 55.6569|12.3638|Albertslund
 55.6802|12.3480|Albertslund Kommune
+57.0000|9.9500|Ålborg Kommune
+56.6947|9.4934|Ålestrup
+55.8704|12.3574|Allerød
 55.8586|12.3256|Allerød Kommune
 56.4643|10.3196|Allingåbro
 56.7690|9.8618|Arden
+55.3035|10.4643|Årslev
+55.3732|10.0413|Årup
 55.8123|11.5013|Asnæs
 55.2702|9.9008|Assens
 55.2996|10.0795|Assens Kommune
 56.4421|10.1517|Assentoft
 54.9520|9.8722|Augustenborg
 56.4308|10.3782|Auning
+55.6272|12.4564|Avedøre
 56.2654|8.7926|Avlum
 55.7317|12.3633|Ballerup
 55.7325|12.3579|Ballerup Kommune
@@ -28,6 +36,7 @@
 55.8704|12.3864|Blovstrød
 55.5669|10.0886|Bogense
 56.1687|9.2438|Bording Kirkeby
+55.6420|9.6496|Børkop
 55.1239|14.9111|Bornholm Kommune
 55.4947|11.9758|Borup
 55.4695|8.7001|Bramming
@@ -35,14 +44,14 @@
 55.6659|9.6722|Brejning
 55.4841|9.9791|Brenderup
 54.8894|9.6746|Broager
-57.0975|9.5226|Brovst
-55.9715|9.6113|Brædstrup
 55.6429|12.4110|Brøndby Kommune
+55.6455|12.4101|Brøndbyvester
 57.2702|9.9410|Brønderslev
 57.2351|10.1006|Brønderslev Kommune
 55.4819|9.0176|Brørup
+57.0975|9.5226|Brovst
+55.9715|9.6113|Brædstrup
 55.4269|10.4714|Bullerup
-55.6420|9.6496|Børkop
 55.7524|12.5745|Charlottenlund
 55.3582|9.4870|Christiansfeld
 55.6738|12.5954|Christianshavn
@@ -99,18 +108,18 @@
 55.2724|10.1048|Glamsbjerg
 55.6666|12.4038|Glostrup
 55.6819|12.4102|Glostrup Kommune
+55.5393|11.2271|Gørlev
 55.2895|9.0491|Gram
+54.9192|9.5952|Gråsten
 56.4158|10.8782|Grenaa
 55.5833|12.3000|Greve
 55.5877|12.2506|Greve Kommune
 56.0583|12.2417|Gribskov Kommune
 55.7573|8.9275|Grindsted
-54.9192|9.5952|Gråsten
 56.0656|12.2851|Græsted
 54.9898|9.8717|Guderup
 54.7694|11.8361|Guldborgsund Kommune
 55.7356|12.1516|Gundsømagle
-55.5393|11.2271|Gørlev
 55.2494|9.4877|Haderslev
 55.2444|9.3226|Haderslev Kommune
 56.3282|10.0493|Hadsten
@@ -121,6 +130,8 @@
 56.1336|9.0612|Hammerum
 57.1167|8.6167|Hanstholm
 56.6175|8.1807|Harboøre
+55.2236|10.1227|Hårby
+55.3494|12.2338|Hårlev
 55.3235|11.9639|Haslev
 55.5448|12.1239|Havdrup
 55.6480|12.1969|Hedehusene
@@ -138,39 +149,38 @@
 56.2661|10.0630|Hinnerup
 57.5881|9.9592|Hirtshals
 57.1647|10.1457|Hjallerup
-56.2481|10.2653|Hjortshøj
 57.4642|9.9823|Hjørring
 57.4568|10.0586|Hjørring Kommune
+56.2481|10.2653|Hjortshøj
 56.6431|9.7903|Hobro
+55.3318|10.4373|Højby
+55.6564|12.2485|Høje-Taastrup Kommune
 55.7175|11.7128|Holbæk
 55.6592|11.6205|Holbæk Kommune
 54.7115|11.4642|Holeby
 56.3601|8.6161|Holstebro
 56.3592|8.5963|Holstebro Kommune
 55.5109|8.9187|Holsted
+55.5074|11.2887|Høng
 56.0903|12.4569|Hornbæk
+56.0870|10.0372|Hørning
 56.3155|10.3204|Hornslet
 55.7562|9.8564|Hornsyld
 55.8607|9.8503|Horsens
 55.9274|9.7738|Horsens Kommune
+55.8810|12.5011|Hørsholm
+55.8876|12.4857|Hørsholm Kommune
+54.9102|9.8987|Høruphav
+55.7529|11.4530|Hørve
 55.9618|12.5341|Humlebæk
 55.9640|11.8504|Hundested
 56.7494|8.4195|Hurup
 55.9987|8.1260|Hvide Sande
 55.6572|12.4736|Hvidovre
 55.6317|12.4662|Hvidovre Kommune
-55.2236|10.1227|Hårby
-55.3494|12.2338|Hårlev
-55.3318|10.4373|Højby
-55.6564|12.2485|Høje-Taastrup Kommune
-55.5074|11.2887|Høng
-56.0870|10.0372|Hørning
-55.8810|12.5011|Hørsholm
-55.8876|12.4857|Hørsholm Kommune
-54.9102|9.8987|Høruphav
-55.7529|11.4530|Hørve
 56.1388|9.1577|Ikast
 55.9833|9.2167|Ikast-Brande Kommune
+55.6777|12.5730|Indre By
 55.6154|12.3518|Ishøj
 55.6230|12.3057|Ishøj Kommune
 57.1458|9.5625|Jammerbugt Kommune
@@ -181,13 +191,19 @@
 55.8525|11.9856|Jægerspris
 55.6795|11.0886|Kalundborg
 55.6354|11.1999|Kalundborg Kommune
+55.9193|12.4100|Karlebo
 56.3067|9.1684|Karup
+57.1977|9.6717|Kås
 55.4490|10.6577|Kerteminde
 55.4550|10.6222|Kerteminde Kommune
 56.0317|8.8570|Kibæk
 55.5917|11.8625|Kirke Hvalsø
 56.2858|9.4353|Kjellerup
 57.0119|10.0562|Klarup
+55.1970|11.5960|Klinteby Frihed
+55.6711|12.5653|København
+55.4580|12.1821|Køge
+55.4567|12.0733|Køge Kommune
 55.9118|12.4995|Kokkedal
 55.4904|9.4722|Kolding
 55.4501|9.4581|Kolding Kommune
@@ -195,13 +211,9 @@
 55.7704|12.5038|Kongens Lyngby
 55.3299|11.1386|Korsør
 54.8510|9.4013|Kruså
-57.1977|9.6717|Kås
-55.6711|12.5653|København
-55.4580|12.1821|Køge
-55.4567|12.0733|Køge Kommune
+56.3903|9.8949|Langå
 54.9000|10.7722|Langeland Kommune
 55.3565|10.5845|Langeskov
-56.3903|9.8949|Langå
 55.6046|11.9748|Lejre
 55.6337|11.9223|Lejre Kommune
 56.5486|8.3102|Lemvig
@@ -209,38 +221,42 @@
 55.8750|12.3458|Lillerød
 56.1060|8.9792|Lind
 56.0129|11.9654|Liseleje
+56.9624|9.2583|Løgstør
+56.2746|10.3118|Løgten
+55.0594|8.9551|Løgumkloster
+55.0896|9.4608|Løjt Kirkeby
+57.3705|9.7147|Løkken
 54.8024|11.2952|Lolland Kommune
 55.4838|9.2992|Lunderskov
 55.7846|12.5051|Lyngby-Tårbæk Kommune
 55.8394|12.2773|Lynge
 56.2375|10.2378|Lystrup
 57.2677|11.0227|Læso Kommune
-56.9624|9.2583|Løgstør
-56.2746|10.3118|Løgten
-55.0594|8.9551|Løgumkloster
-55.0896|9.4608|Løjt Kirkeby
-57.3705|9.7147|Løkken
 56.0363|10.1963|Malling
+55.7553|12.3233|Måløv
 56.6499|9.9751|Mariager
 56.6972|9.8472|Mariagerfjord Kommune
 54.7766|11.5002|Maribo
+56.0669|10.1611|Mårslet
 54.8562|10.5173|Marstal
 55.5059|9.7305|Middelfart
 55.4578|9.8810|Middelfart Kommune
 56.7962|8.7327|Morsø Kommune
 55.4555|10.5543|Munkebo
-55.7553|12.3233|Måløv
-56.0669|10.1611|Mårslet
 54.8304|11.1357|Nakskov
 55.3645|10.4482|Neder Holluf
 55.0321|11.8836|Neder Vindinge
 55.0607|15.1306|Nexø
 56.9815|9.6392|Nibe
 55.9340|12.5048|Nivå
+55.9788|12.3468|Nødebo
 55.0573|9.7408|Nordborg
 55.4460|8.3979|Nordby
 56.4412|10.7666|Norddjurs Kommune
 55.5222|10.2222|Nordfyns Kommune
+55.4611|9.8794|Nørre Åby
+54.8978|11.8841|Nørre Alslev
+57.0588|9.9228|Nørresundby
 55.3127|10.7896|Nyborg
 55.2947|10.7031|Nyborg Kommune
 54.7691|11.8742|Nykøbing Falster
@@ -249,16 +265,15 @@
 55.0051|11.9606|Nyråd
 55.2299|11.7609|Næstved
 55.2585|11.7462|Næstved Kommune
-55.9788|12.3468|Nødebo
-54.8978|11.8841|Nørre Alslev
-55.4611|9.8794|Nørre Åby
-57.0588|9.9228|Nørresundby
 55.9731|10.1530|Odder
 55.9297|10.1530|Odder Kommune
 55.3959|10.3883|Odense
 55.3957|10.3776|Odense Kommune
 55.8833|11.5944|Odsherred Kommune
 55.6268|8.2876|Oksbøl
+55.8068|8.6286|Ølgod
+55.7957|12.1551|Ølstykke
+55.0436|11.9679|Ørslev
 55.5623|11.9579|Osted
 55.5153|10.3976|Otterup
 54.8266|9.3625|Padborg
@@ -273,12 +288,6 @@
 56.0100|8.3967|Ringkøbing-Skjern Kommune
 55.4426|11.7901|Ringsted
 55.4472|11.8172|Ringsted Kommune
-55.6415|12.0803|Roskilde
-55.6500|12.1000|Roskilde Kommune
-55.8250|12.4917|Rudersdal Kommune
-54.9364|10.7102|Rudkøbing
-56.0904|9.7651|Ry
-56.3843|10.5030|Ryomgård
 54.6949|11.3888|Rødby
 54.6594|11.3550|Rødbyhavn
 55.3657|9.0632|Rødding
@@ -289,6 +298,12 @@
 56.3015|10.4750|Rønde
 55.1009|14.7066|Rønne
 55.2571|12.0213|Rønnede
+55.6415|12.0803|Roskilde
+55.6500|12.1000|Roskilde Kommune
+55.8250|12.4917|Rudersdal Kommune
+54.9364|10.7102|Rudkøbing
+56.0904|9.7651|Ry
+56.3843|10.5030|Ryomgård
 56.2133|10.0344|Sabro
 54.7997|11.6260|Sakskøbing
 55.8524|10.6005|Samsø Kommune
@@ -304,20 +319,25 @@
 56.5670|9.0271|Skive
 56.6448|8.9766|Skive Kommune
 55.9500|8.5000|Skjern
+56.8363|9.8925|Skørping
 56.1567|9.9452|Skovby
 55.2506|11.2935|Skælskør
 55.9079|12.1504|Skævinge
-56.8363|9.8925|Skørping
 55.4028|11.3546|Slagelse
 55.3455|11.3339|Slagelse Kommune
 55.8500|12.1833|Slangerup
 55.7423|12.3028|Smørumnedre
 56.1329|8.9035|Snejbjerg
 55.5225|9.7212|Snoghøj
+56.2380|10.0851|Søften
 56.0427|10.0863|Solbjerg
 55.5363|12.1827|Solrød
 55.5355|12.1734|Solrød Kommune
 55.5329|12.2223|Solrød Strand
+55.4527|9.5674|Sønder Bjert
+54.9090|9.7892|Sønderborg
+54.9167|9.8000|Sønderborg Kommune
+55.4853|10.2554|Søndersø
 55.4318|11.5555|Sorø
 55.4827|11.5569|Sorø Kommune
 56.5370|10.0379|Spentrup
@@ -333,13 +353,13 @@
 56.4845|9.1462|Stoholm
 55.3096|12.3888|Store Heddinge
 57.0039|10.1013|Storvorde
+56.8854|9.8384|Støvring
 57.4915|10.4961|Strandby
 55.5402|9.7675|Strib
+55.4138|12.2450|Strøby Egede
 56.4920|8.5940|Struer
 56.4667|8.5833|Struer Kommune
-55.4138|12.2450|Strøby Egede
 54.8888|12.0410|Stubbekøbing
-56.8854|9.8384|Støvring
 54.7671|11.8498|Sundby
 56.2074|9.0139|Sunds
 55.6518|11.2866|Svebølle
@@ -351,40 +371,37 @@
 55.6342|12.0146|Svogerslev
 56.3125|10.5208|Syddjurs Kommune
 57.3319|10.5225|Sæby
-56.2380|10.0851|Søften
-55.4527|9.5674|Sønder Bjert
-54.9090|9.7892|Sønderborg
-54.9167|9.8000|Sønderborg Kommune
-55.4853|10.2554|Søndersø
 55.6501|12.3016|Taastrup
 55.9086|8.5304|Tarm
+55.6303|12.6004|Tårnby
+55.6039|12.5960|Tårnby Kommune
+57.3833|10.1167|Tårs
 55.5458|9.6155|Taulov
 56.9552|8.6949|Thisted
 57.0040|8.6183|Thisted Kommune
 55.0474|10.6639|Thurø By
 56.6985|8.2124|Thyborøn
+56.1938|10.1128|Tilst
 54.9379|9.2555|Tinglev
 55.4646|8.5797|Tjæreborg
 55.1886|9.0693|Toftlund
+55.6125|11.7703|Tølløse
 55.3195|10.2066|Tommerup
 55.3454|10.1759|Tommerup Stationsby
+54.9331|8.8667|Tønder
+55.0730|8.8721|Tønder Kommune
+55.8500|9.4833|Tørring
 56.0952|10.1360|Tranbjerg
 56.2529|10.1484|Trige
 55.8395|12.5443|Trørød
 55.5929|12.1697|Tune
-55.6303|12.6004|Tårnby
-55.6039|12.5960|Tårnby Kommune
-57.3833|10.1167|Tårs
-55.6125|11.7703|Tølløse
-54.9331|8.8667|Tønder
-55.0730|8.8721|Tønder Kommune
-55.8500|9.4833|Tørring
 56.2672|8.3217|Ulfborg
 55.3617|10.6519|Ullerslev
 56.3899|9.7935|Ulstrup
 57.1179|9.8570|Vadum
+55.6661|12.5139|Valby
+55.6220|12.3851|Vallensbæk|Vallensbæk Strand
 55.6313|12.3737|Vallensbæk Kommune
-55.6220|12.3851|Vallensbæk Strand
 55.4276|9.2843|Vamdrup
 55.6836|12.4871|Vanløse
 55.6211|8.4807|Varde
@@ -408,6 +425,7 @@
 55.6230|12.1387|Vindinge
 55.6677|11.7397|Vipperød
 56.1322|9.5558|Virklund
+55.7949|12.4510|Virum
 55.3848|10.1378|Vissenbjerg
 57.1085|10.0221|Vodskov
 55.2464|9.3060|Vojens
@@ -415,14 +433,5 @@
 55.0138|12.1001|Vordingborg Kommune
 57.3537|9.9418|Vrå
 55.7825|12.3686|Værløse
-57.1625|9.7300|Åbybro
-55.0708|14.9198|Åkirkeby
-57.0000|9.9500|Ålborg Kommune
-56.6947|9.4934|Ålestrup
-55.3035|10.4643|Årslev
-55.3732|10.0413|Årup
 54.8583|10.4333|Ærø Kommune
 54.8880|10.4112|Ærøskøbing
-55.8068|8.6286|Ølgod
-55.7957|12.1551|Ølstykke
-55.0436|11.9679|Ørslev

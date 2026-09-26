@@ -1,3 +1,4 @@
+48.7213|18.2575|Bánovce nad Bebravou
 48.7395|19.1535|Banská Bystrica
 48.4486|18.9100|Banská Štiavnica
 49.2918|21.2727|Bardejov
@@ -7,12 +8,18 @@
 48.8043|19.6363|Brezno
 48.6635|17.5390|Brezová pod Bradlom
 49.2240|18.5588|Bytča
-48.7213|18.2575|Bánovce nad Bebravou
+48.7123|17.7870|Čachtice
+49.4350|18.7889|Čadca
 48.8863|21.9393|Chlmec
+48.4170|22.0887|Čierna nad Tisou
+48.7472|19.6513|Čierny Balog
 48.5608|19.4195|Detva
+48.2071|16.9786|Devínska Nová Ves
+48.1545|17.0461|Dlhé diely
 48.8207|20.3699|Dobšiná
 49.2098|19.3034|Dolný Kubín
 48.9598|18.1663|Dubnica nad Váhom
+48.1887|17.0352|Dúbravka
 48.1713|18.8878|Dudince
 48.0835|17.2607|Dunajská Lužná
 47.9927|17.6121|Dunajská Streda
@@ -32,16 +39,17 @@
 49.0444|19.8289|Hybe
 48.9977|18.2353|Ilava
 48.1868|17.2554|Ivanka pri Dunaji
+48.1534|17.0552|Karlova Ves
 48.7759|21.2059|Kavečany
 49.1357|20.4335|Kežmarok
 47.9229|17.9847|Kolárovo
 47.7636|18.1226|Komárno
-48.6015|19.1025|Kováčová
 48.7139|21.2581|Košice
 48.7291|21.2500|Košice I
 48.6975|21.2227|Košice II
 48.7324|21.2905|Košice III
 48.6869|21.2657|Košice IV
+48.6015|19.1025|Kováčová
 49.2149|18.8872|Krasňany
 48.7052|18.9183|Kremnica
 48.9145|20.8751|Krompachy
@@ -65,16 +73,17 @@
 48.3340|17.3071|Modra
 48.6143|20.9996|Moldava nad Bodvou
 48.7588|17.5687|Myjava
+49.4079|19.4803|Námestovo
 48.9670|18.1189|Nemšová
 48.3076|18.0845|Nitra
 49.3105|19.5243|Nižná
 48.4231|18.6404|Nová Baňa
 48.9348|18.1463|Nová Dubnica
-49.1225|20.2674|Nová Lesná
 48.7111|18.5339|Nováky
+49.1225|20.2674|Nová Lesná
 48.7576|17.8309|Nové Mesto nad Váhom
 47.9854|18.1620|Nové Zámky
-49.4079|19.4803|Námestovo
+48.7191|18.2577|Okres Bánovce nad Bebravou
 48.7333|19.1500|Okres Banská Bystrica
 48.4496|18.9082|Okres Banská Štiavnica
 49.2833|21.2833|Okres Bardejov
@@ -85,7 +94,7 @@
 48.1112|17.0944|Okres Bratislava V
 48.8000|19.7500|Okres Brezno
 49.2227|18.5584|Okres Bytča
-48.7191|18.2577|Okres Bánovce nad Bebravou
+49.4333|18.7833|Okres Čadca
 48.5598|19.4204|Okres Detva
 49.2000|19.3000|Okres Dolný Kubín
 47.9963|17.6094|Okres Dunajská Streda
@@ -125,6 +134,7 @@
 48.6667|20.5333|Okres Rožňava
 49.0749|19.3008|Okres Ružomberok
 49.1011|21.0984|Okres Sabinov
+48.1477|17.8731|Okres Šaľa
 48.2219|17.4033|Okres Senec
 48.6833|17.3667|Okres Senica
 48.7500|17.1667|Okres Skalica
@@ -142,19 +152,19 @@
 49.3342|19.5546|Okres Tvrdošín
 48.2000|19.3500|Okres Veľký Krtíš
 48.9000|21.6833|Okres Vranov nad Topľou
-48.3829|18.3984|Okres Zlaté Moravce
-48.5833|19.1333|Okres Zvolen
-49.4333|18.7833|Okres Čadca
-48.1477|17.8731|Okres Šaľa
 48.4844|18.7208|Okres Žarnovica
 48.5833|18.8667|Okres Žiar nad Hronom
 49.2230|18.7404|Okres Žilina
+48.3829|18.3984|Okres Zlaté Moravce
+48.5833|19.1333|Okres Zvolen
 49.3667|19.1809|Oravská Lesná
 49.2594|19.3569|Oravský Podzámok
 48.6286|18.3846|Partizánske
+48.1233|17.1287|Petržalka
 48.2899|17.2666|Pezinok
 48.5948|17.8259|Piešťany
 49.2587|20.5360|Podolínec
+48.1325|17.2096|Podunajské Biskupice
 48.4309|19.7941|Poltár
 49.0614|20.2980|Poprad
 49.1215|18.4217|Považská Bystrica
@@ -168,9 +178,13 @@
 48.6601|20.5376|Rožňava
 49.0748|19.3075|Ružomberok
 49.1031|21.0988|Sabinov
+48.0741|18.9495|Šahy
+48.0301|17.3097|Šamorín
+48.1513|17.8806|Šaľa
+48.7007|21.6610|Sečovce
 48.2195|17.4004|Senec
 48.6792|17.3670|Senica
-48.7007|21.6610|Sečovce
+48.2912|17.7333|Sereď
 48.8449|17.2264|Skalica
 48.2014|17.6385|Sládkovičovo
 48.5048|17.4307|Smolenice
@@ -181,14 +195,18 @@
 49.0009|20.7531|Spišské Podhradie
 48.7772|17.6943|Stará Turá
 49.2986|20.6862|Stará Ľubovňa
-49.2021|21.6522|Stropkov
+48.1504|17.0900|Staré Mesto
 48.8735|21.8367|Strážske
+49.0591|20.0798|Štrba
+49.2021|21.6522|Stropkov
 48.2747|17.0317|Stupava
+47.7950|18.7175|Štúrovo
+48.0861|18.1845|Šurany
+48.4192|18.9401|Svätý Anton
+48.2522|17.2154|Svätý Jur
 49.3082|21.5703|Svidník
 49.0601|20.2069|Svit
 47.9105|18.4997|Svodín
-48.4192|18.9401|Svätý Anton
-48.2522|17.2154|Svätý Jur
 49.2589|19.0294|Terchová
 48.6774|19.9436|Tisovec
 48.2893|18.5315|Tlmače
@@ -198,36 +216,27 @@
 48.8945|18.0444|Trenčín
 48.3774|17.5872|Trnava
 49.3610|19.6125|Trstená
-49.4043|18.6226|Turzovka
 48.8623|18.8605|Turčianske Teplice
+49.4043|18.6226|Turzovka
 49.3370|19.5560|Tvrdošín
 48.2106|19.3504|Veľký Krtíš
 47.8580|17.7688|Veľký Meder
 48.8096|21.9676|Vinné
 48.3114|17.2904|Vinosady
+48.2437|18.3085|Vráble
+48.1383|17.2087|Vrakuňa
 48.8884|21.6848|Vranov nad Topľou
 49.0876|20.4253|Vrbov
 48.6197|17.7226|Vrbové
-48.2437|18.3085|Vráble
 49.1133|18.9171|Vrútky
-49.1364|20.2439|Vysoké Tatry
 49.3039|20.5656|Vyšné Ružbachy
-48.3855|18.4006|Zlaté Moravce
-48.5744|19.1532|Zvolen
-48.7123|17.7870|Čachtice
-49.4350|18.7889|Čadca
-48.4170|22.0887|Čierna nad Tisou
-48.7472|19.6513|Čierny Balog
-49.1167|20.4500|Ľubica
-48.0741|18.9495|Šahy
-48.0301|17.3097|Šamorín
-48.1513|17.8806|Šaľa
-49.0591|20.0798|Štrba
-47.7950|18.7175|Štúrovo
-48.0861|18.1845|Šurany
+49.1364|20.2439|Vysoké Tatry
 48.4812|18.7157|Žarnovica
 49.2710|20.2624|Ždiar
 48.9796|20.7917|Žehra
 48.0508|18.6542|Želiezovce
 48.5918|18.8496|Žiar nad Hronom
 49.2231|18.7394|Žilina
+48.3855|18.4006|Zlaté Moravce
+48.5744|19.1532|Zvolen
+49.1167|20.4500|Ľubica

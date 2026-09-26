@@ -10,11 +10,11 @@
 13.9462|-61.0388|Anse La Raye
 13.9096|-61.0476|Anse La Verdue
 13.9057|-60.8918|Athens
+13.7667|-60.9806|Augier
 13.9525|-60.9046|Au Leon
+14.0007|-60.9867|Aurendel Hill
 13.9454|-61.0411|Au Tabor
 13.9446|-61.0356|Au Tabor Hill
-13.7667|-60.9806|Augier
-14.0007|-60.9867|Aurendel Hill
 14.0053|-60.9464|Babonneau Proper
 13.9980|-60.9816|Bagatelle
 14.0147|-60.9517|Balata
@@ -39,10 +39,10 @@
 14.0773|-60.9268|Beausejour/Ndc
 13.9528|-60.9975|Belair
 14.0078|-60.9963|Bella Rosa
+13.8275|-61.0427|Bellefond
 13.8270|-61.0313|Belle Plaine
 13.8051|-61.0361|Belle Vue
 14.0884|-60.9461|Belle Vue Estate
-13.8275|-61.0427|Bellefond
 13.9504|-60.9328|Belmont
 13.8912|-61.0555|Belvedere
 13.9608|-60.9750|Bexon
@@ -56,10 +56,9 @@
 14.0155|-60.9209|Boguis
 14.0106|-60.9256|Boguis/Desa Blond
 14.0040|-60.9944|Bois Catchet
-13.9415|-61.0097|Bois D'Inde
+13.8046|-61.0495|Bois Dinde
 14.0580|-60.9599|Bois D'Orange
 14.0620|-60.9691|Bois D'Ornange/Trouya
-13.8046|-61.0495|Bois Dinde
 13.9202|-60.9141|Bois Joli
 14.0089|-60.9821|Bois Patat
 13.7667|-61.0299|Bongalo
@@ -117,8 +116,8 @@
 14.0139|-60.9905|Conway/Waterfront
 13.9568|-61.0144|Coolie Town
 14.0471|-60.9605|Corinth
-14.0434|-60.9539|Corinth Estate
 14.0447|-60.9448|Corinth/La Bel Lair
+14.0434|-60.9539|Corinth Estate
 14.0022|-61.0092|Coubaril
 13.8600|-61.0403|Cresslands
 13.9517|-60.9715|Crownlands/Marc
@@ -127,12 +126,12 @@
 13.7962|-61.0357|Dacretin
 14.0136|-60.9878|Darling Road
 14.0565|-60.9019|Dauphin
-13.7965|-60.9494|De Mailly
 13.7903|-61.0258|Debreuil
 13.9773|-60.9733|Deglos
 13.9299|-60.9058|Delaide
 13.8012|-61.0589|Delcer
 13.8034|-60.9293|Delomel
+13.7965|-60.9494|De Mailly
 13.9141|-60.8913|Dennery
 13.9116|-60.8945|Dennery By Pass
 13.9109|-60.8981|Dennery By Pass/Green Mountain
@@ -163,8 +162,8 @@
 13.9228|-60.9951|Durandeau
 13.7602|-60.9401|Eau Piquant/St Urbain
 13.7815|-60.9476|En Bamboo
-13.9885|-60.9410|En Pois Doux/Babonneau
 13.9117|-60.9927|Enbar Pwin
+13.9885|-60.9410|En Pois Doux/Babonneau
 13.9998|-60.9795|Entrepot
 13.8303|-60.8967|Escap
 13.8078|-61.0533|Esperance
@@ -172,6 +171,7 @@
 14.0088|-60.9956|Faux A Chaud
 13.9868|-60.9849|Ferrand
 13.9628|-60.9588|Floissac/Marc
+13.7942|-60.9413|Fond/Desruisseaux
 13.9949|-60.9363|Fond Assau/Babonneau
 13.7824|-61.0035|Fond Berange
 13.8584|-61.0595|Fond Bernier
@@ -183,7 +183,6 @@
 13.8424|-60.9186|Fond Estate
 13.8079|-61.0626|Fond Gens Libre
 13.7766|-60.9555|Fond Sabot
-13.7942|-60.9413|Fond/Desruisseaux
 13.9778|-60.9577|Forestiere
 13.8040|-61.0545|Franciou
 13.9594|-60.9103|Gadette
@@ -199,7 +198,6 @@
 13.9912|-60.9984|Goodlands
 13.8065|-60.9396|Gouette
 13.7768|-60.9664|Grace
-14.0355|-60.9515|Grand Riviere
 13.9426|-60.9340|Grande Ravine
 13.9331|-60.9324|Grande Riviere
 14.0397|-60.9512|Grande Riviere/Assou Canal
@@ -212,6 +210,7 @@
 14.0432|-60.9493|Grande Riviere/Norbert
 14.0393|-60.9436|Grande Riviere/Piat
 14.0362|-60.9556|Grande Riviere/White Rock
+14.0355|-60.9515|Grand Riviere
 14.0071|-60.9876|Grass Street
 13.9960|-60.9528|Green Gold
 14.0667|-60.9500|Gros Islet
@@ -233,9 +232,8 @@
 14.0191|-60.9911|John Compton Highway
 13.7831|-60.9607|Joyeux
 13.7538|-60.9959|Kennedy Highway/Laborie Bypass
-14.0188|-60.9880|L'Anse Road
-13.8067|-60.9210|L'Eau Mineau
-14.0652|-60.9397|L'Hermitage
+13.9404|-60.9732|Labayee
+13.7500|-60.9833|Laborie
 14.0181|-60.9872|La Carierre
 13.9329|-60.9043|La Caye
 14.0185|-60.9842|La Clery
@@ -246,6 +244,8 @@
 14.0219|-60.9249|La Guerre
 14.0239|-60.9311|La Guerre/Chicken Back Street
 13.7921|-61.0001|La Haut
+13.8065|-61.0191|Lamaze
+14.0188|-60.9880|L'Anse Road
 14.0137|-60.9819|La Pansee
 13.8574|-61.0476|La Pearle
 13.9410|-60.9057|La Pelle
@@ -254,18 +254,17 @@
 13.7480|-60.9624|La Resource
 13.9429|-60.9158|La Ressource
 13.7594|-60.9663|La Retraite
+14.0076|-60.9832|Lastic Hill
 13.8274|-60.9172|La Tille
 14.0082|-61.0040|La Toc
 13.7411|-60.9652|La Tourney/Cedar Heights
 13.9401|-60.9973|La Trielle
-13.9404|-60.9732|Labayee
-13.7500|-60.9833|Laborie
-13.8065|-61.0191|Lamaze
-14.0076|-60.9832|Lastic Hill
-13.7836|-61.0481|Le Riche
+13.8067|-60.9210|L'Eau Mineau
 13.8506|-61.0591|Lenny Hill
+13.7836|-61.0481|Le Riche
 14.0075|-60.9867|Leslie Land
 13.8037|-60.9391|Lezy
+14.0652|-60.9397|L'Hermitage
 13.8577|-60.9151|Lombard
 13.7762|-61.0136|Londonderry
 13.9393|-60.8889|Lumiere
@@ -293,14 +292,13 @@
 13.8417|-61.0181|Migny
 13.9099|-60.9888|Millet
 13.8312|-61.0250|Mocha
-13.8587|-60.8959|Mon Repos
 14.0550|-60.9262|Monchy
 14.0593|-60.9507|Monchy/Careffe
 14.0514|-60.9238|Monchy/Cletus Village
 14.0463|-60.9196|Monchy/La Borne
 14.0450|-60.8996|Monchy/La Borne/Sans Souci
-14.0642|-60.9456|Monchy/La Retraite
 14.0595|-60.9409|Monchy/Lafeuillee
+14.0642|-60.9456|Monchy/La Retraite
 14.0580|-60.9291|Monchy/Lawi Fwen
 14.0411|-60.9191|Monchy/Malgretoute
 14.0628|-60.9502|Monchy/Moulin A Vent
@@ -314,6 +312,7 @@
 13.8030|-61.0452|Mongouge
 14.0295|-60.9410|Monier
 13.9888|-61.0061|Monkey Town Ciceron
+13.8587|-60.8959|Mon Repos
 13.8067|-61.0230|Monzie
 13.8268|-60.9424|Moreau
 13.9908|-60.9324|Morne Assau/Babonneau
@@ -358,8 +357,8 @@
 13.7686|-60.9438|Pierrot
 14.0897|-60.9572|Pigeon Island
 13.8052|-60.9154|Planard
-13.8408|-61.0557|Plat Pays
 14.0261|-60.9347|Plateau
+13.8408|-61.0557|Plat Pays
 13.7742|-60.9608|Plut
 14.0158|-60.9930|Pointe Seraphine
 13.7579|-60.9815|Pomme
@@ -387,28 +386,28 @@
 14.0001|-60.9893|Rock Hall
 14.0729|-60.9544|Rodney Bay
 14.0673|-60.9491|Rodney Heights
-14.0082|-60.9856|Rose Hill
 13.9532|-61.0268|Roseau Valley
+14.0082|-60.9856|Rose Hill
 13.8581|-61.0498|Ruby Estate
 13.8544|-60.9180|Saint Marie Road
 13.8121|-61.0098|Saltibus
-14.0169|-60.9898|San Soucis
 13.9278|-60.9803|Sand De Feu
+14.0169|-60.9898|San Soucis
 13.7567|-61.0121|Saphire
 13.9421|-60.9849|Sarot
 13.8127|-60.9438|Saut
 13.7774|-61.0337|Sauzay
 13.7710|-60.9202|Savannes
 13.7785|-61.0514|Savannesgeorge/Constitution
-13.8517|-61.0542|Soufriere Estate
 13.8562|-61.0566|Soufrière
+13.8517|-61.0542|Soufriere Estate
 13.7873|-60.9073|St Helen Estate
+13.9007|-60.9144|St. Joseph Estate
 13.7587|-60.9736|St Jude'S Highway
 13.9385|-61.0250|St Lawrence
 13.9424|-61.0425|St Lawrence Estate
-13.8443|-61.0277|St Phillip
-13.9007|-60.9144|St. Joseph Estate
 13.8451|-61.0599|Stonefield
+13.8443|-61.0277|St Phillip
 13.8400|-61.0451|Sulphur Springs
 14.0258|-60.9764|Summersdale
 14.0056|-60.9792|Sunbilt
@@ -431,12 +430,12 @@
 13.9889|-60.9726|Trois Piton
 13.9422|-60.9620|Trou Cochan/Marc
 13.9452|-60.9538|Trou Florent/Marc
-14.0060|-60.9895|Trou Rouge
 13.8089|-60.9034|Troumassee
+14.0060|-60.9895|Trou Rouge
 14.0291|-60.9648|Union
+14.0228|-60.9527|Union/Ti Morne
 14.0265|-60.9571|Union Terrace
 13.8110|-61.0569|Union Vale
-14.0228|-60.9527|Union/Ti Morne
 13.9356|-60.9936|Vanard
 13.9156|-61.0168|Venus
 13.8112|-61.0396|Victoria

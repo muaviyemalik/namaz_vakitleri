@@ -2,30 +2,36 @@
 -1.9167|-79.5167|Alfredo Baquerizo Moreno
 -1.2491|-78.6167|Ambato
 -0.9095|-77.8077|Archidona
+-3.5540|-80.0668|Arenillas
 0.3325|-78.2137|Atuntaqui
 -2.7397|-78.8486|Azogues
 -1.8022|-79.5344|Babahoyo
 -0.5979|-80.4237|Bahía de Caráquez
--1.3650|-79.9049|Balzar
 -2.9110|-79.8144|Baláo
+-1.3650|-79.9049|Balzar
 -1.3970|-78.4229|Baños
 -0.6983|-77.1408|Boca Suno
 -0.8458|-80.1639|Calceta
+-2.5606|-78.9394|Cañar
 -1.0500|-80.4500|Cantón Portoviejo
 -3.1335|-79.2689|Cantón San Fernando
+-4.3280|-79.5558|Cariamanga
+-3.9866|-79.3576|Catamayo
 -1.5750|-79.4600|Catarama
 0.0408|-78.1452|Cayambe
--2.5606|-78.9394|Cañar
 -0.6982|-80.0936|Chone
 -1.5455|-80.0117|Colimes
 -2.2092|-79.4325|Coronel Marcelino Maridueña
 0.3011|-78.2643|Cotacachi
 -2.9005|-79.0045|Cuenca
--1.9333|-79.9667|El Triunfo
+-1.8603|-79.9768|Daule
 0.6228|-77.9400|El Ángel
+-1.0449|-79.6384|El Empalme
 -2.1758|-79.8552|Eloy Alfaro
+-1.9333|-79.9667|El Triunfo
 0.9592|-79.6540|Esmeraldas
 -0.4667|-76.9667|Francisco de Orellana Canton
+-3.2440|-79.8287|Guabo
 -2.8926|-78.7781|Gualaceo
 -3.4036|-78.5817|Gualaquiza
 -1.6079|-78.6311|Guano
@@ -37,9 +43,9 @@
 -0.9278|-80.2058|Junín
 -2.2330|-80.9104|La Libertad
 -0.9409|-79.2251|La Maná
+-0.9352|-78.6155|Latacunga
 -2.4236|-79.3398|La Troncal
 -2.8500|-78.7833|La Unión
--0.9352|-78.6155|Latacunga
 -2.8667|-78.8833|Llacao
 -3.9931|-79.2042|Loja
 -1.8833|-80.0833|Lomas de Sargentillo
@@ -66,11 +72,14 @@
 0.0717|-80.0525|Pedernales
 -1.8156|-80.2331|Pedro Carbo
 -1.3299|-78.5434|Pelileo
+-1.1741|-78.5468|Píllaro
 0.3912|-77.9407|Pimampiro
 -3.6811|-79.6808|Piñas
 -2.6320|-80.3881|Playas
+-0.0542|-78.4538|Pomasqui
 -3.7214|-79.6219|Portovelo
 -1.0546|-80.4544|Portoviejo
+-2.7092|-80.2472|Posorja
 -0.7402|-90.3138|Puerto Ayora
 -0.9017|-89.6102|Puerto Baquerizo Moreno
 -3.2665|-79.9975|Puerto Bolívar
@@ -78,26 +87,25 @@
 -0.9554|-90.9665|Puerto Villamil
 -0.9576|-78.6964|Pujilí
 -1.4837|-78.0026|Puyo
--1.1741|-78.5468|Píllaro
 -1.0286|-79.4635|Quevedo
 -0.2298|-78.5250|Quito
-1.0623|-79.3994|Rio Verde
 -1.6710|-78.6471|Riobamba
+1.0623|-79.3994|Rio Verde
 -0.9236|-80.4495|Rocafuerte
 0.3278|-79.4741|Rosa Zarate
 -2.2145|-80.9515|Salinas
 -1.9628|-79.7240|Samborondón
 0.5932|-77.8308|San Gabriel
+-0.3341|-78.4522|Sangolquí
 1.2863|-78.8351|San Lorenzo de Esmeraldas
 -1.7088|-79.0431|San Miguel
 -1.0455|-78.5906|San Miguel de Salcedo
--0.6044|-80.4027|San Vicente
--0.3341|-78.4522|Sangolquí
 -1.2073|-80.3713|Santa Ana
 -2.2262|-80.8587|Santa Elena
 -2.1833|-80.0000|Santa Lucía
 -3.4488|-79.9595|Santa Rosa
 -0.2530|-79.1754|Santo Domingo de los Colorados
+-0.6044|-80.4027|San Vicente
 -0.8399|-78.6670|Saquisilí
 -1.2797|-80.4189|Sucre
 -2.4587|-78.1717|Sucúa
@@ -105,6 +113,7 @@
 -0.7868|-80.2347|Tosagua
 0.8119|-77.7173|Tulcán
 1.2492|-78.9831|Valdez
+-0.9531|-79.3551|Valencia
 -1.0438|-79.6384|Velasco Ibarra
 -1.4416|-79.4594|Ventanas
 -1.5561|-79.7519|Vinces

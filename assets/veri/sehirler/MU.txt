@@ -4,6 +4,7 @@
 -20.1056|57.5353|Arsenal
 -19.6944|63.4083|Baie aux Huîtres
 -20.4866|57.3788|Baie Du Cap
+-20.1194|57.4914|Baie du Tombeau
 -20.2567|57.4061|Bambous
 -20.3428|57.7575|Bambous Virieux
 -20.2254|57.4715|Beau Bassin
@@ -11,9 +12,9 @@
 -20.4189|57.6953|Beau Vallon
 -20.2585|57.7550|Bel Air
 -20.2578|57.7498|Bel Air Rivière Sèche
--20.5019|57.4255|Bel Ombre
--20.1705|57.4862|Bell Village
 -20.2695|57.5166|Belle Terre
+-20.1705|57.4862|Bell Village
+-20.5019|57.4255|Bel Ombre
 -20.4844|57.5887|Benares
 -20.3205|57.4037|Black River
 -20.4267|57.5343|Bois Cheri
@@ -41,15 +42,15 @@
 -20.2137|57.4608|Chebel
 -20.4872|57.4656|Chemin Grenier
 -20.1588|57.5068|China Town
--20.3669|57.6039|Cluny
 -20.2639|57.7061|Clémencia
+-20.3669|57.6039|Cluny
 -20.1489|57.5908|Congomah
 -20.1952|57.4457|Coromandel
 -20.0597|57.6292|Cottage
 -20.1911|57.5572|Crève Coeur
 -20.3163|57.5259|Curepipe
--20.1302|57.5958|D'Epinay
 -20.2448|57.5619|Dagotière
+-20.1302|57.5958|D'Epinay
 -20.3013|57.5986|Dubreuil
 -20.3034|57.5278|Eau Coulee
 -20.2449|57.4916|Ebene
@@ -64,26 +65,26 @@
 -20.0182|57.5802|Grand Baie
 -20.4091|57.6817|Grand Bel Air
 -20.4189|57.5442|Grand Bois
--20.0064|57.6608|Grand Gaube
--20.3142|57.7644|Grand Sable
 -20.1651|57.6946|Grande Retraite
 -20.3603|57.3661|Grande Rivière Noire
 -20.2861|57.7758|Grande Rivière Sud Est
+-20.0064|57.6608|Grand Gaube
+-20.3142|57.7644|Grand Sable
 -20.2072|57.4300|Gros Cailloux
 -20.2720|57.5290|Henrietta
 -20.2769|57.5347|Hermitage
 -20.2783|57.5135|Highlands
--20.2171|57.5505|L'Avenir
--20.4733|57.6187|L'Escalier
--20.2304|57.5953|L'Esperance
 -20.4100|57.5605|La Flora
 -20.4294|57.3588|La Gaulette
 -20.2039|57.5499|La Laura-Malenga
 -20.1897|57.6611|Lalmatie
+-20.2171|57.5505|L'Avenir
 -20.1458|57.6767|Laventure
 -20.1350|57.5211|Le Hochet
 -20.4442|57.3303|Le Morne
+-20.4733|57.6187|L'Escalier
 -20.1935|57.4896|Les Pailles
+-20.2304|57.5953|L'Esperance
 -20.1602|57.4890|Les Salines
 -20.1431|57.5622|Long Mountain
 -20.4081|57.7000|Mahébourg
@@ -105,15 +106,15 @@
 -20.1927|57.4883|Pailles
 -20.1039|57.5703|Pamplemousses
 -20.3994|57.6930|Petit Bel Air
--20.0202|57.6230|Petit Raffray
 -20.3931|57.3650|Petite Case Noyale
 -20.1955|57.4459|Petite Rivière
+-20.0202|57.6230|Petit Raffray
 -20.2858|57.5029|Phoenix
 -20.0903|57.6303|Piton
 -20.0650|57.5725|Plaine des Papayes
 -20.4297|57.6697|Plaine Magnien
--20.1584|57.5142|Plaine Verte
 -20.1117|57.6908|Plaines des Roches
+-20.1584|57.5142|Plaine Verte
 -20.0649|57.5235|Pointe aux Piments
 -20.1717|57.4539|Pointe aux Sables
 -20.1619|57.4989|Port Louis
@@ -129,12 +130,12 @@
 -20.2200|57.7075|Queen Victoria
 -20.1908|57.4613|Richelieu
 -20.1947|57.5806|Ripailles
--20.3908|57.6970|Riviere Des Creoles
 -20.4853|57.5508|Rivière des Anguilles
+-20.3908|57.6970|Riviere Des Creoles
 -20.4287|57.5737|Rivière Du Poste
 -20.1031|57.6847|Rivière du Rempart
--20.0186|57.6447|Roche Terre
 -20.1111|57.7122|Roches Noire
+-20.0186|57.6447|Roche Terre
 -20.4003|57.5967|Rose Belle
 -20.2435|57.4699|Rose Hill
 -20.4960|57.5500|Saint Aubin
@@ -160,8 +161,8 @@
 -20.2346|57.7949|Trou D'Eau Douce
 -20.3863|57.5807|Union Park
 -20.2981|57.4783|Vacoas
--20.1692|57.5200|Vallee Pitot
 -20.1651|57.5340|Vallée des Prêtres
+-20.1692|57.5200|Vallee Pitot
 -20.2342|57.5548|Verdun
 -20.3741|57.7161|Vieux Grand Port
 -20.1460|57.6241|Ville Bague

@@ -1,47 +1,81 @@
 19.1167|1.7500|Abeïbara
+15.4275|3.0175|Andéranboukan
 15.6597|0.5022|Ansongo
 18.9048|-3.5265|Araouane
 13.8065|-10.8321|Bafoulabé
 12.6500|-8.0000|Bamako
+10.3833|-7.1500|Bamba
 13.5477|-7.4481|Banamba
 14.3500|-3.6104|Bandiagara
+14.0775|-3.5159|Bankass
 13.0749|-6.5717|Baroueli
+12.9508|-5.7556|Bla
 11.4177|-7.4832|Bougouni
+16.9550|-0.3486|Bourem
+19.4888|2.2003|Cercle d’Abeïbara
 17.7119|-0.3428|Cercle de Bourem
 18.6003|-4.9931|Cercle de Goundam
 13.1790|-5.0162|Cercle de San
-19.4888|2.2003|Cercle d’Abeïbara
+12.7035|-7.9646|Dialakorodji
+14.5400|-9.1921|Diéma
+12.4873|-6.8031|Dioïla
+13.6872|-5.8320|Diourou
 16.2802|-3.3130|Dire
-13.9061|-4.5533|Djénné
+16.2570|-3.4013|Diré
+13.9061|-4.5533|Djenné
 15.0015|-2.9498|Douentza
 15.0695|-2.4087|Douentza Cercle
+13.8205|-6.1206|Dougabougou
+12.7787|-6.9564|Fana
+11.2682|-5.5105|Finnkolo
 16.2717|-0.0447|Gao
 16.7224|0.4398|Gao Cercle
 16.4145|-3.6707|Goundam
 16.0798|-1.7698|Gourma-Rharous Cercle
 15.9594|3.1411|Inékar
+15.5461|-0.4606|I-n-Tillit
+12.5255|-8.0393|Kabala
+10.5500|-5.7667|Kadiolo
+12.5733|-8.0291|Kalaban Koro
 11.9333|-8.4167|Kangaba
 12.7441|-8.0726|Kati
 14.4469|-11.4445|Kayes
+13.9641|-5.3579|Ké-Macina
 18.4411|1.4078|Kidal
 12.8422|-4.9245|Kinmparana
 13.0349|-9.4895|Kita
 12.8833|-9.9500|Kokofata
 13.5728|-8.0339|Kolokani
 11.0894|-6.8929|Kolondiéba
+14.0640|-3.0754|Koro
 12.8627|-7.5598|Koulikoro
+12.1840|-4.8028|Kouri
 12.3917|-5.4642|Koutiala
 12.3531|-5.5839|Koutiala Cercle
-13.9641|-5.3579|Ké-Macina
+13.9044|-10.0986|Mahina
 13.7021|-6.0659|Markala
+10.3064|-6.1097|Massiogo
+14.1508|-5.5209|Moninnpébougou
 14.4843|-4.1830|Mopti
+12.6867|-7.8638|Moribabougou
+15.1693|-7.2899|Nara
 15.9322|-3.9906|Niafunké
+14.2505|-5.9868|Niono
+15.2307|-9.5936|Nioro
 12.5304|-5.7700|Ntossoni
+13.4274|-6.2220|Pèlèngana
 12.2000|-10.7000|Sagalo
 13.3034|-4.8956|San
-11.3176|-5.6665|Sikasso
-14.7328|-6.1219|Sokolo
+12.7058|-7.9027|Sangarébougou
 13.4317|-6.2157|Ségou
-16.7735|-3.0074|Timbuktu
+12.3755|-8.3349|Sibi
+11.3176|-5.6665|Sikasso
+12.5644|-7.9155|Sirakoro Méguétana
+14.0432|-6.1067|Siribala Coro
+14.7328|-6.1219|Sokolo
 14.4572|-4.9169|Ténenkou
+16.7735|-3.0074|Timbuktu
+13.4637|-7.3828|Toubakoura
+11.1833|-8.1500|Yanfolila
 12.3581|-4.7769|Yorosso
+10.4880|-5.6494|Zégoua

@@ -4,16 +4,15 @@
 17.0187|8.0168|Alaghsas
 18.8341|7.4333|Arlit
 14.7308|0.9174|Ayorou
+13.7838|2.9523|Baléyara
 13.7285|2.8750|Balleyara
 18.6853|12.9164|Bilma
+13.0817|2.9110|Birnin Gaouré
 13.7960|5.2503|Birni N Konni
 13.0817|2.9108|Boboye Department
 14.4229|6.0428|Bouza
 14.5106|6.7650|Dakoro
-13.3154|12.6113|Diffa
-13.6403|4.0265|Dogondoutchi
-13.0490|3.1937|Dosso
-14.2500|5.0000|Département d' Illéla
+13.4698|7.7422|Département d’Aguié
 20.5000|13.2500|Département de Bilma
 13.9000|5.2500|Département de Birni Nkonni
 14.4333|6.0000|Département de Bouza
@@ -28,20 +27,25 @@
 14.8000|6.0000|Département de Keïta
 13.6333|3.5000|Département de Loga
 13.9999|6.1001|Département de Madaoua
-14.1000|7.6000|Département de Mayahi
 13.3121|12.0832|Département de Maïné-Soroa
+14.1000|7.6000|Département de Mayahi
 14.2075|13.1218|Département de Nguigmi
 14.6333|2.2500|Département de Ouallam
 13.0358|2.2211|Département de Say
 14.8000|4.8000|Département de Tahoua
+14.7500|8.3333|Département de Tânout
 15.8669|5.7104|Département de Tchin-Tabaraden
 17.4329|7.8932|Département de Tchirozérine
 13.6000|7.9000|Département de Tessaoua
-14.7500|8.3333|Département de Tânout
-13.4698|7.7422|Département d’Aguié
+14.2500|5.0000|Département d' Illéla
+13.3154|12.6113|Diffa
+13.6403|4.0265|Dogondoutchi
+13.0490|3.1937|Dosso
 14.3521|3.3168|Filingué
 11.8843|3.4492|Gaya
+13.5258|7.9140|Gazaoua
 13.9835|10.2704|Gouré
+13.6576|6.6957|Guidan Roumdji
 13.6575|6.6958|Guidan Roumdji Department
 14.4605|5.2437|Illéla
 14.7551|5.7749|Keïta
@@ -50,10 +54,11 @@
 14.0730|5.9600|Madaoua
 13.2825|7.1550|Madarounfa
 12.9983|8.9099|Magaria
+13.2114|12.0241|Maïné Soroa
 13.5000|7.1017|Maradi
 13.4231|8.4748|Matamey
 13.9553|7.6712|Mayahi
-13.2114|12.0241|Maïné Soroa
+14.3939|1.1338|Méhana
 13.7073|9.1501|Mirriah
 14.2495|13.1092|Nguigmi
 13.5136|2.1089|Niamey
@@ -62,10 +67,12 @@
 14.8888|5.2692|Tahoua
 14.9709|8.8879|Tanout
 15.8969|5.7985|Tchintabaraden
+14.0078|0.7531|Téra
 14.1860|0.8430|Tera Department
 13.7574|7.9874|Tessaoua
 13.5627|7.0485|Tibiri
-14.5160|1.4430|Tillaberi Department
 14.2071|1.4542|Tillabéri
-14.0078|0.7531|Téra
+14.5160|1.4430|Tillaberi Department
+13.1191|1.7987|Torodi
+13.3342|2.2475|Youri Kourtéré
 13.8072|8.9881|Zinder

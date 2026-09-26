@@ -31,6 +31,7 @@
 14.7167|-88.1000|Azacualpa
 15.8885|-87.8555|Baja Mar
 15.7571|-86.2905|Balfate
+15.4833|-86.3333|Bálsamo Oriental
 15.7667|-87.8500|Baracoa
 15.8000|-84.2833|Barra Patuca
 15.1333|-87.9333|Bejuco
@@ -40,19 +41,18 @@
 15.7464|-85.7361|Bonito Oriental
 15.7500|-84.4833|Brus Laguna
 15.0333|-88.9667|Buenos Aires
-15.4833|-86.3333|Bálsamo Oriental
 14.7600|-89.0600|Cabañas
 15.1667|-88.6500|Callejones
 15.3333|-88.3333|Camalote
 14.0000|-88.3833|Camasca
 14.5500|-86.6500|Campamento
+14.9833|-88.0167|Cañaveral
 14.0607|-88.5591|Candelaria
 14.2833|-87.6667|Cane
 15.5167|-86.3500|Carbajales
 13.8156|-87.6812|Caridad
 15.1167|-88.0833|Casa Quemada
 14.6038|-85.5426|Catacamas
-14.9833|-88.0167|Cañaveral
 14.5046|-87.2168|Cedros
 14.8000|-88.2000|Ceguaca
 14.6667|-87.7833|Cerro Blanco
@@ -72,9 +72,9 @@
 14.8808|-88.8792|Concepción
 14.6000|-87.6500|Concepción de Guasistagua
 15.1667|-88.7167|Concepción de la Barranca
-13.2236|-86.9624|Concepción de María
 15.2023|-88.1373|Concepción del Norte
 14.8126|-88.1532|Concepción del Sur
+13.2236|-86.9624|Concepción de María
 14.6167|-86.6500|Concordia
 14.8333|-89.1500|Copán
 14.9200|-89.1500|Copán Ruinas
@@ -99,8 +99,8 @@
 13.6333|-86.8167|Duyure
 14.0833|-88.7500|El Achiotal
 14.7000|-87.7500|El Agua Dulcita
-14.0333|-86.4667|El Benque
 15.0667|-87.4667|El Bálsamo
+14.0333|-86.4667|El Benque
 14.0667|-86.3000|El Chichicaste
 14.1333|-87.1167|El Chimbo
 15.3000|-88.5000|El Ciruelo
@@ -113,6 +113,7 @@
 14.6000|-87.3000|El Guantillo
 13.7667|-87.4667|El Guapinol
 14.8333|-86.0333|El Guayabito
+15.4833|-86.3000|Elíxir
 15.4500|-86.4333|El Juncal
 15.1500|-87.8833|El Llano
 14.1167|-87.2667|El Lolo
@@ -143,16 +144,15 @@
 14.0333|-87.1667|El Tablón
 14.0667|-87.0667|El Terrero
 14.9333|-87.9833|El Tigre
+14.3833|-88.9167|El Tránsito
 13.0802|-87.0178|El Triunfo
 15.7667|-87.4333|El Triunfo de la Cruz
-14.3833|-88.9167|El Tránsito
 13.4664|-87.5153|El Tular
 15.5167|-88.0500|El Zapotal del Norte
-15.4833|-86.3000|Elíxir
 14.2333|-88.4667|Erandique
 15.6629|-87.2562|Esparta
-15.2776|-86.5576|Esquipulas del Norte
 14.7333|-87.3667|Esquías
+15.2776|-86.5576|Esquipulas del Norte
 14.2833|-87.5667|Flores
 15.0333|-88.8333|Florida
 15.8500|-85.5833|Francia
@@ -184,15 +184,15 @@
 15.0790|-86.5152|Jano
 15.9500|-85.9667|Jericó
 14.4833|-87.9833|Jesús de Otoro
+13.5317|-87.4389|Jícaro Galán
 14.0000|-88.3500|Jiquinlaca
-15.3544|-88.6356|Joconal
 15.2833|-86.9667|Jocón
+15.3544|-88.6356|Joconal
 16.4176|-86.3063|José Santos Guardiola
 15.9168|-84.9099|Juan Francisco Bulnes
 15.6959|-86.5041|Jutiapa
 14.6667|-86.2194|Juticalpa
 14.7167|-86.0833|Jutiquile
-13.5317|-87.4389|Jícaro Galán
 13.5122|-87.7244|La Alianza
 15.8000|-85.9667|La Brea
 14.4728|-88.5609|La Campa
@@ -208,6 +208,8 @@
 15.2500|-87.8000|La Guacamaya
 14.8833|-87.9333|La Guama
 15.0833|-86.3833|La Guata
+14.7000|-86.1000|Laguna Seca
+15.2000|-88.1667|Laguna Verde
 15.5833|-87.8833|La Huesa
 14.6644|-88.4636|La Iguala
 15.1000|-88.7600|La Jigua
@@ -215,30 +217,28 @@
 14.4833|-89.0000|La Labor
 14.8800|-87.5500|La Libertad
 15.4333|-87.9167|La Lima
+14.2000|-87.6167|Lamaní
 15.5986|-87.1350|La Masica
 15.3167|-87.8333|La Mina
+13.6208|-87.6525|Langue
 14.3194|-87.6792|La Paz
 15.1167|-88.9833|La Playona
 15.3500|-87.0667|La Rosa
 15.3667|-87.9333|La Sabana
+14.2500|-86.5667|Las Ánimas
 15.2333|-87.8333|La Sarrosa
-14.7000|-87.6629|La Trinidad
-15.7167|-87.0000|La Unión
-13.7311|-87.3287|La Venta
-14.0716|-88.6858|La Virtud
-15.0167|-88.9000|La Zumbadora
-14.7000|-86.1000|Laguna Seca
-15.2000|-88.1667|Laguna Verde
-14.2000|-87.6167|Lamaní
-13.6208|-87.6525|Langue
 14.6793|-88.6504|Las Flores
 14.9000|-87.5833|Las Lajas
 14.8000|-88.6000|Las Tejeras
 14.0667|-85.9833|Las Trojes
 14.8664|-88.0723|Las Vegas
 14.8765|-88.0747|Las Vegas Santa Barbara
-14.2500|-86.5667|Las Ánimas
+14.7000|-87.6629|La Trinidad
+15.7167|-87.0000|La Unión
 13.8643|-87.6579|Lauterique
+13.7311|-87.3287|La Venta
+14.0716|-88.6858|La Virtud
+15.0167|-88.9000|La Zumbadora
 14.3667|-87.7000|Lejamaní
 14.7833|-88.5833|Lepaera
 14.0559|-87.4791|Lepaterique
@@ -264,10 +264,10 @@
 14.4043|-87.9825|Masaguara
 14.6000|-87.2833|Mata de Plátano
 14.0833|-87.3167|Mateo
+14.8205|-87.7842|Meámbar
 14.3167|-88.9833|Mercedes
 13.9094|-87.7780|Mercedes de Oriente
 15.5833|-87.6500|Mezapa
-14.8205|-87.7842|Meámbar
 14.8000|-87.3500|Minas de Oro
 15.2667|-87.6000|Mojimán
 13.2006|-87.3742|Monjarás
@@ -300,14 +300,14 @@
 14.0245|-87.8798|Opatoro
 14.8064|-86.9576|Orica
 13.4817|-87.1050|Orocuina
-13.8167|-86.8167|Oropolí
 15.0167|-87.9333|Oropéndolas
+13.8167|-86.8167|Oropolí
 15.5000|-84.3167|Paptalaya
 14.3600|-85.9700|Patuca
 15.1000|-87.3500|Paujiles
+15.5333|-88.0500|Peña Blanca
 13.5922|-87.3617|Pespire
 15.2667|-88.2833|Petoa
-15.5333|-88.0500|Peña Blanca
 15.2650|-87.9667|Pimienta
 15.2333|-87.9667|Pimienta Vieja
 15.3833|-88.4000|Pinalejo
@@ -318,28 +318,28 @@
 15.0000|-88.7500|Pueblo Nuevo
 15.7000|-87.8667|Puerto Alto
 16.0167|-85.9667|Puerto Castilla
-15.8256|-87.9297|Puerto Cortez
 15.7900|-87.8490|Puerto Cortés
+15.8256|-87.9297|Puerto Cortez
 15.2667|-83.7722|Puerto Lempira
 15.2000|-87.2833|Punta Ocote
 15.9000|-85.2833|Punta Piedra
 14.7333|-85.9667|Punuare
 15.7667|-85.9167|Quebrada de Arena
 14.1000|-86.3667|Quebrada Larga
-15.6598|-87.9500|Quebrada Seca
 14.5000|-87.3500|Quebradas
+15.6598|-87.9500|Quebrada Seca
 14.8833|-88.7333|Quezailica
 15.3500|-88.4000|Quimistán
 13.8258|-87.4653|Reitoca
-16.3410|-86.5376|Roatán
 14.1667|-87.2167|Río Abajo
 15.7333|-87.9000|Río Blanquito
 14.7667|-87.8833|Río Bonito
 15.6333|-88.2500|Río Chiquito
 15.8333|-86.3000|Río Esteban
 15.0333|-87.9833|Río Lindo
-13.8078|-87.2592|Sabanagrande
+16.3410|-86.5376|Roatán
 15.4667|-86.2500|Sabá
+13.8078|-87.2592|Sabanagrande
 15.7500|-85.9667|Salamá
 15.8167|-86.6833|Sambo Creek
 14.8197|-88.9303|San Agustín
@@ -348,10 +348,11 @@
 15.1167|-88.0333|San Antonio de Cortés
 13.6415|-87.3407|San Antonio de Flores
 14.6333|-87.6000|San Antonio de la Cuesta
-14.0386|-86.9895|San Antonio de Oriente
 13.8800|-87.7200|San Antonio del Norte
+14.0386|-86.9895|San Antonio de Oriente
 15.0167|-88.0000|San Buenaventura
 14.0500|-86.4667|San Diego
+16.3292|-86.5645|Sandy Bay
 15.2947|-85.6949|San Esteban
 14.6879|-89.1015|San Fernando
 15.6525|-87.0174|San Francisco
@@ -359,10 +360,10 @@
 14.5167|-88.9000|San Francisco de Cones
 13.6614|-87.5328|San Francisco de Coray
 14.9000|-86.2000|San Francisco de la Paz
+14.4333|-88.9500|San Francisco del Valle
 14.6700|-88.2100|San Francisco de Ojuera
 14.5844|-88.3025|San Francisco de Opalaca
 15.0167|-87.9667|San Francisco de Yojoa
-14.4333|-88.9500|San Francisco del Valle
 14.7379|-87.0476|San Ignacio
 13.6445|-87.2609|San Isidro
 13.1767|-87.1364|San Jerónimo
@@ -373,10 +374,10 @@
 14.7333|-88.0333|San José de Comayagua
 14.9000|-88.7167|San José de Copán
 13.3253|-87.3956|San José de Las Conchas
-14.9333|-85.7000|San José de Río Tinto
-15.3000|-88.7000|San José de Tarros
 15.4833|-87.8667|San José del Boquerón
 14.8620|-87.2905|San José del Potrero
+14.9333|-85.7000|San José de Río Tinto
+15.3000|-88.7000|San José de Tarros
 14.4213|-88.4195|San Juan
 14.2667|-87.0333|San Juan de Flores
 14.7833|-88.7000|San Juan de Opoa
@@ -402,8 +403,6 @@
 14.7500|-88.1167|San Pedro Zacapa
 14.7333|-88.4167|San Rafael
 14.2369|-87.6321|San Sebastián
-14.8833|-88.2833|San Vicente Centenario
-16.3292|-86.5645|Sandy Bay
 15.6500|-87.0667|Santa Ana
 13.3006|-87.1139|Santa Ana de Yusguare
 14.9194|-88.2361|Santa Bárbara
@@ -419,6 +418,7 @@
 15.9500|-85.7167|Santa Rosa de Aguán
 14.7667|-88.7792|Santa Rosa de Copán
 14.3500|-87.9000|Santiago Puringla
+14.8833|-88.2833|San Vicente Centenario
 16.4500|-85.8500|Savannah Bight
 14.4833|-88.9333|Sensenti
 14.6000|-87.8333|Siguatepeque
@@ -431,6 +431,7 @@
 14.9167|-87.2667|Sulaco
 14.4139|-87.0694|Talanga
 14.6811|-88.7280|Talgua
+14.1500|-87.3333|Támara
 14.2128|-88.7677|Tambla
 14.7500|-88.4833|Taragual
 13.9847|-87.0698|Tatumbla
@@ -454,17 +455,15 @@
 15.3500|-86.7000|Trojas
 14.0597|-86.0017|Trojes
 15.9167|-85.9542|Trujillo
-14.1500|-87.3333|Támara
 16.1003|-86.9307|Utila
 13.6435|-86.9555|Vado Ancho
 14.1471|-88.7084|Valladolid
-14.5000|-87.6333|Valle de Ángeles
 14.5131|-87.4024|Vallecillo
+14.5000|-87.6333|Valle de Ángeles
 14.8834|-88.7857|Veracruz
 15.1001|-87.5302|Victoria
 14.3167|-87.6167|Villa de San Antonio
 14.1667|-86.9667|Villa de San Francisco
-14.0333|-87.1333|Villa Nueva
 15.3167|-88.0000|Villanueva
 15.0847|-83.3536|Villeda Morales
 14.0052|-88.5619|Virginia

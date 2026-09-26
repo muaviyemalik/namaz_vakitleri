@@ -2,6 +2,7 @@
 -15.4239|-74.6136|Acarí
 -11.7319|-75.5463|Acolla
 -3.4814|-80.2450|Aguas Verdes
+-9.0378|-75.5091|Aguaytía
 -10.1308|-76.2047|Ambo
 -13.6556|-73.3872|Andahuaylas
 -2.9025|-76.4025|Andoas
@@ -21,9 +22,11 @@
 -6.6833|-78.5333|Bambamarca
 -10.7500|-77.7667|Barranca
 -12.1454|-77.0207|Barranco
+-3.7602|-73.2497|Belen
 -7.0561|-76.5911|Bellavista
 -5.4500|-80.7500|Bernal
 -4.4333|-77.5500|Borja
+-12.0561|-77.0529|Breña
 -5.2608|-79.9642|Buenos Aires
 -3.9058|-70.5164|Caballococha
 -14.3415|-71.4631|Cahuanuyo
@@ -39,16 +42,18 @@
 -8.4753|-74.8071|Campoverde
 -17.2678|-70.2494|Candarave
 -0.9644|-75.1814|Cape Pantoja
+-9.0469|-77.8090|Carás
 -10.9167|-76.0333|Carhuamayo
 -9.2819|-77.6447|Carhuaz
 -9.0442|-77.2417|Carlos Fermin Fitzcarrald
--9.0469|-77.8090|Carás
+-12.0535|-77.0980|Carmen De La Legua Reynoso
 -7.4833|-78.8167|Cascas
 -5.2667|-80.6833|Catacaos
 -14.2768|-71.4503|Ccaquiracunca
 -15.5061|-71.4918|Ccolo
 -14.1254|-71.4122|Ccuntuma
 -6.8659|-78.1458|Celendín
+-9.5166|-77.5305|Centenario
 -10.6675|-76.2567|Cerro de Pasco
 -6.2317|-77.8690|Chachapoyas
 -11.5714|-77.2672|Chancay
@@ -58,6 +63,7 @@
 -14.0269|-71.4528|Checacupe
 -14.4728|-71.3939|Checca
 -7.1437|-79.4567|Chepen
+-7.2244|-79.4248|Chepén
 -7.8447|-79.1469|Chicama
 -6.7714|-79.8409|Chiclayo
 -14.2461|-71.4444|Chignayhua
@@ -74,12 +80,15 @@
 -5.0925|-80.1625|Chulucanas
 -12.0667|-75.2833|Chupaca
 -17.2889|-70.0436|Chuquitira
+-16.4308|-71.5292|Ciudad Satelite
 -17.0883|-71.7575|Cocachacra
 -9.0231|-78.6156|Coishco
 -14.1011|-71.4294|Combapata
 -11.9176|-75.3140|Concepción
 -14.4697|-71.1984|Conchopata
 -4.1651|-78.0384|Condorcanqui
+-16.3237|-71.5815|Cono Norte
+-7.3333|-75.0167|Contamana
 -15.0333|-73.7833|Coracora
 -15.2131|-72.8886|Cotahuasi
 -14.0927|-71.3312|Cullcuyre
@@ -88,6 +97,7 @@
 -4.2685|-81.2172|El Alto
 -16.7264|-69.7552|El Collao
 -6.5630|-76.7413|El Dorado
+-16.3631|-72.1921|El Pedregal
 -6.9081|-79.8642|Eten
 -6.6389|-79.7889|Ferreñafe
 -7.5798|-78.6472|Gran Chimu
@@ -101,6 +111,7 @@
 -12.7826|-74.9727|Huancavelica
 -12.0651|-75.2049|Huancayo
 -12.9333|-74.2500|Huanta
+-9.9306|-76.2422|Huánuco
 -11.4950|-77.2078|Huaral
 -15.7680|-71.4595|Huarancante
 -9.5278|-77.5278|Huaraz
@@ -112,7 +123,6 @@
 -13.6562|-75.0923|Huaytara
 -12.1333|-75.2333|Huayucachi
 -7.3186|-76.7756|Huicungo
--9.9306|-76.2422|Huánuco
 -11.3500|-69.5833|Iberia
 -14.0678|-75.7286|Ica
 -17.4208|-70.5133|Ilabaya
@@ -122,15 +132,17 @@
 -11.9900|-77.0458|Independencia
 -3.5014|-73.0481|Indiana
 -3.7333|-73.2500|Iquitos
+-16.4408|-71.5533|Jacobo Hunter
+-5.7073|-78.8079|Jaén
 -15.7500|-71.3464|Jatun Orcochiri
 -11.7758|-75.4966|Jauja
 -6.3908|-79.8219|Jayanca
 -14.0943|-71.3392|Jayobamba
 -15.5628|-71.3031|Jayune
--5.7073|-78.8079|Jaén
 -5.2833|-76.2833|Jeberos
 -4.9074|-73.6678|Jenaro Herrera
 -6.1167|-76.9500|Jepelacio
+-12.0698|-77.0450|Jesus Maria
 -12.0729|-77.0416|Jesús María
 -17.5792|-70.7308|Jorge Basadre
 -7.1770|-76.7277|Juanjuí
@@ -138,20 +150,21 @@
 -16.2167|-69.4500|Juli
 -15.5000|-70.1333|Juliaca
 -11.1590|-75.9930|Junín
+-6.4927|-76.3422|La Banda
 -4.2569|-80.8860|La Breita
--4.9117|-80.9600|La Huaca
--12.0807|-76.9351|La Molina
--11.5189|-75.8993|La Oroya
--5.6111|-78.4350|La Peca
--14.6313|-69.4464|La Rinconada
--5.4023|-80.7422|La Unión
 -5.2269|-75.6753|Lagunas
+-4.9117|-80.9600|La Huaca
 -6.4167|-76.5333|Lamas
 -6.7011|-79.9061|Lambayeque
+-12.0807|-76.9351|La Molina
 -15.3500|-70.3667|Lampa
 -14.4319|-71.2731|Langui
+-11.5189|-75.8993|La Oroya
+-5.6111|-78.4350|La Peca
 -8.0897|-78.9602|Laredo
+-14.6313|-69.4464|La Rinconada
 -4.6533|-80.2467|Las Lomas
+-5.4023|-80.7422|La Unión
 -10.2005|-76.7036|Lauricocha
 -14.4936|-71.1550|Layo
 -12.0432|-77.0282|Lima
@@ -164,6 +177,7 @@
 -14.0833|-70.4333|Macusani
 -12.0916|-77.0732|Magdalena del Mar
 -12.6581|-76.6308|Mala
+-4.1078|-81.0475|Máncora
 -14.3567|-71.1692|Maranganí
 -13.3350|-72.1567|Maras
 -4.8778|-80.7053|Marcavelica
@@ -177,16 +191,16 @@
 -6.8743|-79.8687|Monsefú
 -17.1983|-70.9357|Moquegua
 -11.5997|-76.1411|Morococha
+-6.5354|-80.0110|Mórrope
 -5.2500|-80.0000|Morropon
 -14.2851|-71.0877|Mosoc Cancha
 -14.1200|-71.4728|Mosoc Llacta
 -6.1519|-79.7142|Motupe
 -6.0342|-76.9717|Moyobamba
--4.1078|-81.0475|Máncora
--6.5354|-80.0110|Mórrope
 -4.5083|-73.5833|Nauta
 -14.8310|-74.9390|Nazca
 -13.0754|-76.3172|Nuevo Imperial
+-14.4779|-70.6358|Ñuñoa
 -13.2572|-72.2631|Ollantaytambo
 -5.9847|-79.7453|Olmos
 -15.2661|-72.3417|Orcopampa
@@ -209,6 +223,7 @@
 -4.0777|-80.7369|Papayal
 -13.8667|-76.2667|Paracas
 -10.6667|-77.8333|Paramonga
+-6.7332|-79.6359|Pátapo
 -10.7000|-77.7833|Pativilca
 -15.1227|-73.2618|Paucar Del Sara Sara
 -10.7733|-75.8111|Paucartambo
@@ -236,8 +251,8 @@
 -14.4167|-73.2500|Provincia de Aymaraes
 -14.8333|-70.1667|Provincia de Azángaro
 -5.0901|-78.3997|Provincia de Bagua
--10.1072|-77.1480|Provincia de Bolognesi
 -7.3333|-77.7500|Provincia de Bolívar
+-10.1072|-77.1480|Provincia de Bolognesi
 -5.6834|-77.8731|Provincia de Bongará
 -7.5000|-78.1667|Provincia de Cajabamba
 -7.3333|-78.4167|Provincia de Cajamarca
@@ -246,6 +261,7 @@
 -16.4167|-72.8333|Provincia de Camaná
 -14.4108|-71.3369|Provincia de Canas
 -14.0819|-71.1856|Provincia de Canchis
+-12.7500|-76.3333|Provincia de Cañete
 -13.5730|-74.3890|Provincia de Cangallo
 -11.4667|-76.6167|Provincia de Canta
 -13.8333|-70.2500|Provincia de Carabaya
@@ -255,7 +271,6 @@
 -15.5833|-72.4167|Provincia de Castilla
 -13.1454|-75.4060|Provincia de Castrovirreyna
 -15.6667|-71.5833|Provincia de Caylloma
--12.7500|-76.3333|Provincia de Cañete
 -6.8333|-78.2500|Provincia de Celendín
 -6.2748|-77.8107|Provincia de Chachapoyas
 -6.7667|-79.8500|Provincia de Chiclayo
@@ -284,31 +299,31 @@
 -6.7566|-76.9014|Provincia de Huallaga
 -9.2500|-76.5000|Provincia de Huamalíes
 -13.2000|-74.2500|Provincia de Huamanga
--14.0760|-74.4280|Provincia de Huanca Sancos
 -5.5000|-79.5833|Provincia de Huancabamba
 -15.1667|-69.5833|Provincia de Huancané
+-14.0760|-74.4280|Provincia de Huanca Sancos
 -12.6667|-75.2500|Provincia de Huancavelica
 -12.1732|-75.1617|Provincia de Huancayo
 -12.5000|-74.1667|Provincia de Huanta
+-9.6667|-76.0833|Provincia de Huánuco
 -11.2500|-76.9167|Provincia de Huaral
 -9.5611|-77.6461|Provincia de Huaraz
 -9.3333|-77.1667|Provincia de Huari
 -9.9167|-78.0000|Provincia de Huarmey
 -11.9167|-76.4167|Provincia de Huarochirí
 -8.9167|-77.8333|Provincia de Huaylas
--9.6667|-76.0833|Provincia de Huánuco
 -14.3386|-75.6483|Provincia de Ica
 -17.4969|-71.1672|Provincia de Ilo
 -17.0000|-71.8333|Provincia de Islay
--11.7260|-75.5470|Provincia de Jauja
 -5.7107|-79.0044|Provincia de Jaén
+-11.7260|-75.5470|Provincia de Jauja
 -11.0833|-76.0000|Provincia de Junín
 -12.0000|-73.0000|Provincia de La Convención
 -12.9167|-73.8333|Provincia de La Mar
--15.0000|-72.8333|Provincia de La Unión
 -6.3333|-76.6667|Provincia de Lamas
 -6.0833|-80.0833|Provincia de Lambayeque
 -15.4167|-70.5833|Provincia de Lampa
+-15.0000|-72.8333|Provincia de La Unión
 -9.1667|-76.0000|Provincia de Leoncio Prado
 -14.5000|-74.3333|Provincia de Lucanas
 -6.4167|-78.0000|Provincia de Luya
@@ -340,10 +355,10 @@
 -10.0000|-77.4167|Provincia de Recuay
 -6.0000|-77.4167|Provincia de Rioja
 -6.3333|-77.4167|Provincia de Rodríguez de Mendoza
+-13.8333|-69.3333|Provincia de Sandia
 -5.0833|-79.0000|Provincia de San Ignacio
 -6.5833|-76.1667|Provincia de San Martín
 -7.0000|-79.0000|Provincia de San Miguel
--13.8333|-69.3333|Provincia de Sandia
 -9.0000|-78.2500|Provincia de Santa
 -6.8333|-79.0000|Provincia de Santa Cruz
 -8.3333|-78.2500|Provincia de Santiago de Chuco
@@ -361,8 +376,8 @@
 -8.0833|-78.9167|Provincia de Trujillo
 -3.7500|-80.4167|Provincia de Tumbes
 -13.2500|-72.3333|Provincia de Urubamba
--13.6320|-73.8880|Provincia de Vilcas Huamán
 -13.7500|-74.3333|Provincia de Víctor Fajardo
+-13.6320|-73.8880|Provincia de Vilcas Huamán
 -11.6667|-76.1667|Provincia de Yauli
 -12.4167|-76.0000|Provincia de Yauyos
 -9.1667|-77.7500|Provincia de Yungay
@@ -385,30 +400,39 @@
 -4.8378|-80.6456|Querecotillo
 -14.1839|-71.3834|Queromarca
 -17.3178|-70.2581|Quilahuani
+-12.8633|-72.6931|Quillabamba
 -12.9486|-76.3811|Quilmaná
 -7.9667|-78.2000|Quiruvilca
 -6.8656|-79.8178|Reque
 -6.7480|-75.0549|Requena
 -11.9198|-76.6561|Ricardo Palma
--6.0568|-77.1665|Rioja
 -14.5160|-75.1993|Río Grande
+-6.0568|-77.1665|Rioja
 -8.2210|-78.9770|Salaverry
 -5.0333|-81.0667|Salinera Colán
 -4.8572|-80.6811|Salitral
 -12.8361|-71.3649|Salvación
+-6.9189|-79.5820|Saña
 -11.9719|-75.2556|San Agustin
--14.7118|-69.6156|San Antonio De Putina
+-17.2172|-70.9259|San Antonio
 -2.4501|-72.6690|San Antonio del Estrecho
+-14.7118|-69.6156|San Antonio De Putina
 -12.3833|-76.7833|San Bartolo
 -12.1015|-76.9967|San Borja
+-7.7854|-77.9259|Sanchez Carrion
 -13.6667|-76.1500|San Clemente
+-8.3982|-74.5377|San Fernando
+-12.0891|-76.9988|San Francisco De Borja
 -5.1458|-79.0014|San Ignacio
 -12.0956|-77.0349|San Isidro
 -11.9559|-75.2841|San Jerónimo
 -6.7381|-79.8275|San José
+-3.7761|-73.2814|San Juan
 -14.0108|-75.7358|San Juan Bautista
 -4.8167|-76.6000|San Lorenzo
 -12.0767|-76.9943|San Luis
+-5.1859|-80.6693|San Martin
+-11.4285|-74.4883|San Martín de Pangoa
 -13.0125|-73.9808|San Miguel
 -10.1382|-76.6229|San Miguel de Cauri
 -4.0192|-71.1028|San Pablo
@@ -416,9 +440,8 @@
 -7.4289|-79.5042|San Pedro de Lloc
 -11.1242|-75.3573|San Ramón
 -15.8333|-70.5000|San Roman
--13.0756|-76.3853|San Vicente de Cañete
--7.7854|-77.9259|Sanchez Carrion
 -12.8667|-72.7167|Santa Ana
+-12.0505|-76.9733|Santa Anita - Los Ficus
 -15.6979|-70.6061|Santa Lucía
 -12.0054|-76.8933|Santa María
 -6.7577|-79.8275|Santa Rosa
@@ -427,11 +450,12 @@
 -8.1410|-78.1733|Santiago de Chuco
 -12.1478|-76.9937|Santiago de Surco
 -14.4456|-72.0842|Santo Tomas
+-13.0756|-76.3853|San Vicente de Cañete
 -6.9340|-76.7716|Saposoa
 -11.2522|-74.6386|Satipo
 -11.1333|-77.1946|Sayán
--6.9189|-79.5820|Saña
 -5.5569|-80.8222|Sechura
+-16.3706|-71.5272|Selva Alegre
 -12.0333|-75.2833|Sicaya
 -14.2694|-71.2261|Sicuani
 -6.6109|-76.6930|Sisa
@@ -458,23 +482,27 @@
 -17.0769|-70.8433|Torata
 -17.4062|-70.3646|Totoral
 -8.1160|-79.0300|Trujillo
+-6.5064|-79.8572|Túcume
 -3.5669|-80.4515|Tumbes
 -14.1639|-71.4767|Tungasuca
--6.5064|-79.8572|Túcume
 -8.4592|-76.4633|Uchiza
 -11.8765|-77.0335|Urb. Santo Domingo
 -13.6861|-71.6228|Urcos
 -13.3047|-72.1158|Urubamba
 -5.7703|-78.3285|Utcubamba
+-11.0225|-77.6438|Végueta
 -5.4167|-80.7833|Vice
+-12.2131|-76.9052|Villa Poeta José Gálvez Barrenechea
 -10.7394|-75.2697|Villa Rica
 -13.7113|-76.1498|Villa Tupac Amaru
+-8.4155|-78.7520|Virú
 -8.5220|-78.6035|Viru
 -15.8086|-71.2011|Vizcachane
--11.0225|-77.6438|Végueta
+-13.5249|-71.9653|Wanchaq
 -10.2411|-76.6456|Yanacancha
 -14.2181|-71.4317|Yanaoca
 -9.8026|-76.5952|Yarowilca
+-14.7908|-71.4099|Yauri
 -8.9833|-77.3000|Yauya
 -9.1383|-77.7436|Yungay
 -16.2500|-69.0833|Yunguyo
@@ -482,4 +510,3 @@
 -5.9000|-76.0833|Yurimaguas
 -3.5031|-80.2731|Zarumilla
 -3.6805|-80.6782|Zorritos
--14.4779|-70.6358|Ñuñoa

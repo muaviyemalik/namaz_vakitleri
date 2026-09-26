@@ -1,7 +1,7 @@
 51.4869|0.1075|Abbey Wood
 52.8171|-1.8769|Abbots Bromley
-51.7057|-0.4176|Abbots Langley
 50.5082|-3.6134|Abbotskerswell
+51.7057|-0.4176|Abbots Langley
 51.1902|-1.5323|Abbotts Ann
 52.2425|-4.2587|Aberaeron
 51.7236|-3.3661|Abercanaid
@@ -60,6 +60,7 @@
 57.2326|-2.7030|Alford
 53.0977|-1.3838|Alfreton
 55.7833|-2.2167|Allanton
+53.3670|-2.8940|Allerton
 51.4687|0.6369|Allhallows
 56.1159|-3.7900|Alloa
 56.4173|-3.5173|Almondbank
@@ -91,10 +92,10 @@
 51.2114|-1.4939|Andover
 53.2500|-4.3333|Anglesey
 56.6667|-2.9167|Angus
-51.1932|-1.5072|Anna Valley
 54.4333|-6.0000|Annahilt
 54.1082|-5.8997|Annalong
 54.9884|-3.2565|Annan
+51.1932|-1.5072|Anna Valley
 54.8575|-1.7383|Annfield Plain
 52.6737|-1.1884|Anstey
 56.2231|-2.7023|Anstruther
@@ -217,13 +218,13 @@
 56.0898|-3.9109|Bannockburn
 51.3223|-0.2069|Banstead
 51.3289|-2.8691|Banwell
-52.2490|0.0288|Bar Hill
 51.5199|-0.0945|Barbican
 53.2101|-0.3237|Bardney
 53.8849|-1.4454|Bardsey
 55.8537|-4.0785|Bargeddie
 51.6833|-3.2333|Bargoed
 51.2057|1.1573|Barham
+52.2490|0.0288|Bar Hill
 51.5333|0.0833|Barking
 53.6761|-1.9184|Barkisland
 52.9420|-2.1705|Barlaston
@@ -235,6 +236,7 @@
 52.6318|-0.4082|Barnack
 54.5415|-1.9190|Barnard Castle
 53.5241|-1.2730|Barnburgh
+51.4735|-0.2484|Barnes
 51.6500|-0.2000|Barnet
 53.5748|-0.4061|Barnetby le Wold
 50.8312|-0.6379|Barnham
@@ -246,16 +248,16 @@
 51.8639|-2.2009|Barnwood
 56.9804|-7.4573|Barra
 55.7992|-4.3929|Barrhead
+52.9164|-0.6909|Barrowby
+53.8465|-2.2184|Barrowford
 54.1109|-3.2276|Barrow in Furness
 53.6755|-0.3806|Barrow upon Humber
 52.7518|-1.1460|Barrow upon Soar
-52.9164|-0.6909|Barrowby
-53.8465|-2.2184|Barrowford
 51.3998|-3.2838|Barry
 52.4353|-1.9971|Bartley Green
+51.9660|-0.4273|Barton-le-Clay
 52.7627|-1.7240|Barton under Needwood
 53.6891|-0.4438|Barton upon Humber
-51.9660|-0.4273|Barton-le-Clay
 52.7885|-2.8528|Baschurch
 52.9667|-1.1833|Basford
 51.5684|0.4578|Basildon
@@ -300,6 +302,7 @@
 54.5968|-5.9254|Belfast
 55.6000|-1.8333|Belford
 54.8087|-6.5192|Bellaghy
+53.3921|-2.8602|Belle Vale
 55.1446|-2.2538|Bellingham
 55.3131|-4.3987|Bellsbank
 55.8167|-4.0167|Bellshill
@@ -361,37 +364,38 @@
 53.3934|-3.0148|Birkenhead
 52.4814|-1.8998|Birmingham
 54.6555|-1.6771|Bishop Auckland
-54.6778|-1.4883|Bishop Middleham
-51.3344|-2.5947|Bishop Sutton
-52.4921|-3.0021|Bishop's Castle
 55.9067|-4.2187|Bishopbriggs
+54.6778|-1.4883|Bishop Middleham
+52.4921|-3.0021|Bishop's Castle
 51.9475|-2.0628|Bishops Cleeve
 51.0592|-3.1878|Bishops Lydeard
 51.8711|0.1587|Bishops Stortford
-50.9560|-1.2148|Bishops Waltham
 50.5519|-3.5385|Bishopsteignton
 50.9664|-1.3283|Bishopstoke
 51.5775|-4.0481|Bishopston
 51.5513|-1.6470|Bishopstone
+51.3344|-2.5947|Bishop Sutton
+50.9560|-1.2148|Bishops Waltham
 51.4148|-2.6208|Bishopsworth
 53.9191|-1.0992|Bishopthorpe
 54.5833|-1.4333|Bishopton
 51.4248|-2.4596|Bitton
 52.5758|-1.1640|Blaby
-51.8530|0.5685|Black Notley
 53.7500|-2.4833|Blackburn
 53.6667|-2.4667|Blackburn with Darwen
 51.4647|0.0079|Blackheath
 53.5177|-2.2144|Blackley
 53.6142|-1.8559|Blackmoorfoot
+51.8530|0.5685|Black Notley
 53.8167|-3.0500|Blackpool
 55.8852|-3.7748|Blackridge
 53.5923|-2.5803|Blackrod
+51.5097|-0.0016|Blackwall
 53.1167|-1.3333|Blackwell
 51.6678|-3.2075|Blackwood
 53.2083|-2.9253|Blacon
-51.7500|-3.1667|Blaenau Gwent
 52.9946|-3.9370|Blaenau-Ffestiniog
+51.7500|-3.1667|Blaenau Gwent
 51.7740|-3.0854|Blaenavon
 51.6562|-3.6037|Blaengwynfi
 51.3269|-2.7173|Blagdon
@@ -425,6 +429,7 @@
 53.5833|-2.4333|Bolton
 54.0963|-2.8002|Bolton le Sands
 53.5167|-1.3167|Bolton upon Dearne
+56.0167|-3.6167|Bo’ness
 55.9794|-4.5638|Bonhill
 56.0015|-3.8886|Bonnybridge
 55.8733|-3.1051|Bonnyrigg
@@ -433,6 +438,7 @@
 51.1136|-0.8625|Bordon
 51.7595|0.5412|Boreham
 51.6547|-0.2776|Borehamwood
+54.0895|-1.4011|Boroughbridge
 51.2916|0.3048|Borough Green
 53.5833|-2.5000|Borough of Bolton
 53.5833|-2.3333|Borough of Bury
@@ -449,7 +455,6 @@
 51.5000|0.4167|Borough of Thurrock
 50.4516|-3.5579|Borough of Torbay
 53.5000|-2.5833|Borough of Wigan
-54.0895|-1.4011|Boroughbridge
 52.9067|-1.3841|Borrowash
 52.4889|-4.0504|Borth
 50.8309|-0.8538|Bosham
@@ -471,15 +476,14 @@
 50.6978|-2.2351|Bovington Camp
 50.8000|-3.8167|Bow
 52.0028|-0.6806|Bow Brickhill
-52.4421|-4.0278|Bow Street
 54.7385|-1.5252|Bowburn
 53.3764|-2.3653|Bowdon
+52.4421|-4.0278|Bow Street
 52.6388|1.2188|Bowthorpe
 51.4147|-2.2456|Box
 50.8588|-0.7136|Boxgrove
 51.9488|0.9100|Boxted
 52.2227|-0.6733|Bozeat
-56.0167|-3.6167|Bo’ness
 53.1965|-0.5342|Bracebridge Heath
 52.0333|-1.1500|Brackley
 51.4136|-0.7505|Bracknell
@@ -504,6 +508,7 @@
 53.1954|-0.4748|Branston
 51.2706|-2.1244|Bratton
 52.2898|-1.2027|Braunston
+52.6183|-1.1790|Braunstone
 51.1085|-4.1613|Braunton
 53.7651|-1.0892|Brayton
 51.7482|-2.5775|Bream
@@ -513,16 +518,16 @@
 52.0301|-2.1167|Bredon
 51.1514|0.3982|Brenchley
 51.5531|-0.3023|Brent
-51.2522|-2.9574|Brent Knoll
 51.4862|-0.3083|Brentford
+51.2522|-2.9574|Brent Knoll
 51.6213|0.3056|Brentwood
 52.6771|-2.1741|Brewood
 51.2451|1.1264|Bridge
+51.5058|-3.5772|Bridgend
+51.5500|-3.5833|Bridgend county borough
 56.1540|-3.9463|Bridge of Allan
 56.3484|-3.4065|Bridge of Earn
 55.8558|-4.5789|Bridge of Weir
-51.5058|-3.5772|Bridgend
-51.5500|-3.5833|Bridgend county borough
 52.5366|-2.4203|Bridgnorth
 51.1284|-3.0036|Bridgwater
 54.0831|-0.1919|Bridlington
@@ -604,8 +609,8 @@
 51.9724|0.7749|Bures Saint Mary
 51.8092|-1.6363|Burford
 50.9584|-0.1329|Burgess Hill
-53.1616|0.2448|Burgh le Marsh
 57.7011|-3.4899|Burghead
+53.1616|0.2448|Burgh le Marsh
 51.3324|0.4783|Burham
 50.8280|-1.6998|Burley
 53.9102|-1.7580|Burley in Wharfedale
@@ -682,6 +687,7 @@
 51.5052|-0.0209|Canary Wharf
 51.6176|0.7446|Canewdon
 50.7510|-1.9686|Canford Heath
+51.5136|0.0195|Canning Town
 52.6904|-2.0309|Cannock
 51.2790|1.0799|Canterbury
 51.5220|0.5809|Canvey Island
@@ -714,20 +720,21 @@
 51.3683|-0.1676|Carshalton
 51.7591|-1.5943|Carterton
 51.0900|-2.5142|Castle Cary
-52.8429|-1.3419|Castle Donington
-54.9410|-3.9278|Castle Douglas
-51.9901|0.5988|Castle Hedingham
-52.5188|-1.7968|Castle Vale
 54.7772|-6.5623|Castledawson
 54.7088|-7.5931|Castlederg
+52.8429|-1.3419|Castle Donington
+54.9410|-3.9278|Castle Douglas
 53.7259|-1.3626|Castleford
+51.9901|0.5988|Castle Hedingham
 54.5735|-5.8847|Castlereagh
 55.1500|-6.7833|Castlerock
 54.8343|-1.8785|Castleside
+52.5188|-1.7968|Castle Vale
 54.2569|-5.9445|Castlewellan
 52.5732|-0.3460|Castor
 53.3932|-1.3621|Catcliffe
 51.2823|-0.0789|Caterham
+51.4449|-0.0204|Catford
 54.0762|-2.7190|Caton
 55.5042|-4.3303|Catrine
 53.8796|-2.7648|Catterall
@@ -742,6 +749,7 @@
 53.4121|-4.4519|Cemaes Bay
 51.9975|-0.4215|Central Bedfordshire
 50.2567|-5.1576|Chacewater
+53.5448|-2.1398|Chadderton
 51.5712|0.1327|Chadwell Heath
 51.4814|0.3634|Chadwell St Mary
 51.4892|0.2944|Chafford Hundred
@@ -750,11 +758,12 @@
 51.6318|-0.5703|Chalfont St Giles
 51.7258|-2.1514|Chalford
 51.6648|-1.0764|Chalgrove
+51.5431|-0.1499|Chalk Farm
 51.9279|-0.5015|Chalton
 53.8290|-1.5383|Chapel Allerton
 53.3241|-1.9129|Chapel en le Frith
-53.2167|0.3167|Chapel Saint Leonards
 55.8435|-3.9488|Chapelhall
+53.2167|0.3167|Chapel Saint Leonards
 53.4651|-1.4722|Chapeltown
 51.2292|-2.2489|Chapmanslade
 50.8727|-2.9660|Chard
@@ -794,8 +803,8 @@
 51.7002|-0.0303|Cheshunt
 51.3624|-0.3043|Chessington
 53.1905|-2.8919|Chester
-54.8586|-1.5741|Chester-le-Street
 53.2500|-1.4167|Chesterfield
+54.8586|-1.5741|Chester-le-Street
 51.3661|-2.6103|Chew Magna
 50.8367|-0.7800|Chichester
 50.6243|-2.5028|Chickerell
@@ -806,6 +815,7 @@
 50.9137|-2.2368|Child Okeford
 51.4325|-1.5391|Chilton Foliat
 51.2163|-0.5313|Chilworth
+51.6303|0.0005|Chingford
 53.3402|-1.9390|Chinley
 51.7018|-0.9116|Chinnor
 51.4600|-2.1247|Chippenham
@@ -817,6 +827,7 @@
 55.8021|-2.2093|Chirnside
 51.5161|-1.7321|Chiseldon
 51.4171|0.0686|Chislehurst
+51.4927|-0.2580|Chiswick
 51.3484|-0.6064|Chobham
 51.5728|-1.1536|Cholsey
 55.1500|-1.6033|Choppington
@@ -831,10 +842,10 @@
 50.5851|-3.6319|Chudleigh Knighton
 50.9129|-3.8694|Chulmleigh
 53.7518|-2.3912|Church
-53.8263|-1.2189|Church Fenton
-52.5378|-2.8015|Church Stretton
 51.8774|-2.1709|Churchdown
+53.8263|-1.2189|Church Fenton
 51.3429|-2.7834|Churchill
+52.5378|-2.8015|Church Stretton
 51.1360|-0.7753|Churt
 51.8242|-2.4987|Cinderford
 51.7193|-1.9714|Cirencester
@@ -862,8 +873,8 @@
 52.1067|1.1113|Claydon
 53.0314|-0.7341|Claypole
 53.7667|-2.3833|Clayton le Moors
-53.5950|-1.6111|Clayton West
 53.6969|-2.6682|Clayton-le-Woods
+53.5950|-1.6111|Clayton West
 54.5214|-3.5159|Cleator Moor
 53.7240|-1.7129|Cleckheaton
 53.5605|-0.0323|Cleethorpes
@@ -901,8 +912,8 @@
 51.5220|-3.5553|Coity
 51.8892|0.9042|Colchester
 51.4243|-1.2646|Cold Ash
-51.6721|0.6700|Cold Norton
 50.9948|-1.3114|Colden Common
+51.6721|0.6700|Cold Norton
 55.6511|-2.2529|Coldstream
 51.7953|-2.6135|Coleford
 55.1333|-6.6667|Coleraine
@@ -959,7 +970,7 @@
 51.3200|-0.1409|Coulsdon
 54.6628|-1.6269|Coundon
 52.5538|-1.1453|Countesthorpe
-54.7768|-1.5757|County Durham
+54.7768|-1.5757|County Durham|Durham
 52.2500|-4.0000|County of Ceredigion
 53.2500|-3.1667|County of Flintshire
 56.5455|-3.2677|Coupar Angus
@@ -998,6 +1009,7 @@
 52.3481|-1.1371|Crick
 51.8599|-3.1377|Crickhowell
 51.6406|-1.8574|Cricklade
+51.5567|-0.2155|Cricklewood
 56.3727|-3.8389|Crieff
 52.6048|1.2433|Cringleford
 51.6447|-3.6403|Croeserw
@@ -1010,11 +1022,11 @@
 54.7125|-1.7497|Crook
 52.9148|-0.9848|Cropwell Bishop
 53.4778|-3.0333|Crosby
-51.7931|-4.0875|Cross Hands
-53.9061|-1.9849|Cross Hills
 56.0630|-3.4967|Crossford
 54.3967|-5.7606|Crossgar
 56.0837|-3.3771|Crossgates
+51.7931|-4.0875|Cross Hands
+53.9061|-1.9849|Cross Hills
 55.6126|-4.5509|Crosshouse
 54.0833|-6.6000|Crossmaglen
 53.6622|-2.7752|Croston
@@ -1201,7 +1213,6 @@
 51.8857|-0.5229|Dunstable
 53.8011|-0.3714|Dunswell
 55.9244|-4.4154|Duntocher
-54.7768|-1.5757|Durham
 51.6814|-2.3533|Dursley
 52.0939|0.1592|Duxford
 57.2052|-2.1768|Dyce
@@ -1210,22 +1221,26 @@
 53.3003|-3.4126|Dyserth
 54.5252|-1.3504|Eaglescliffe
 55.7412|-4.2746|Eaglesham
+51.5069|-0.2955|Ealing Common
 53.9155|-2.1429|Earby
 52.3542|0.0306|Earith
-52.5768|-1.3154|Earl Shilton
 52.2663|-0.7525|Earls Barton
 51.9274|0.7011|Earls Colne
 51.4439|-0.1854|Earlsfield
+52.5768|-1.3154|Earl Shilton
 55.6386|-2.6749|Earlston
 54.7853|-1.3592|Easington
 54.1201|-1.1939|Easingwold
 55.5000|-4.2500|East Ayrshire
 54.2548|-0.4748|East Ayton
+51.6467|-0.1610|East Barnet
 51.9778|1.0176|East Bergholt
 54.9445|-1.4282|East Boldon
+50.7687|0.2845|Eastbourne
 52.9795|-0.9656|East Bridgford
 55.8919|-3.4637|East Calder
 55.2833|-1.5833|East Chevington
+51.4067|0.8577|Eastchurch
 50.7577|-1.2881|East Cowes
 51.0398|-1.6094|East Dean
 52.6833|0.9333|East Dereham
@@ -1236,33 +1251,31 @@
 52.4384|0.9335|East Harling
 51.3011|-2.6217|East Harptree
 51.2736|-0.4321|East Horsley
+51.7472|-2.3264|Eastington
 53.8943|-1.4522|East Keswick
 55.7641|-4.1767|East Kilbride
 52.8302|-1.1810|East Leake
+50.9667|-1.3500|Eastleigh
 55.9874|-2.6568|East Linton
 55.9167|-2.7500|East Lothian
 53.2522|-0.8939|East Markham
 51.3987|-0.3492|East Molesey
+53.6362|-0.7849|Eastoft
+50.5333|-2.4500|Easton
+51.4759|-2.6999|Easton-in-Gordano
+52.6273|-0.5057|Easton on the Hill
 51.2123|0.3862|East Peckham
 54.8251|-1.4804|East Rainton
 55.7500|-4.3333|East Renfrewshire
 53.9167|-0.5000|East Riding of Yorkshire
+54.9860|-3.1805|Eastriggs
+53.7604|-0.7933|Eastrington
+51.2464|1.3078|Eastry
 50.9167|0.3333|East Sussex
 51.4805|0.4171|East Tilbury
 56.1602|-3.0642|East Wemyss
 55.8685|-3.6629|East Whitburn
 50.7697|-0.8744|East Wittering
-50.7687|0.2845|Eastbourne
-51.4067|0.8577|Eastchurch
-51.7472|-2.3264|Eastington
-50.9667|-1.3500|Eastleigh
-53.6362|-0.7849|Eastoft
-50.5333|-2.4500|Easton
-52.6273|-0.5057|Easton on the Hill
-51.4759|-2.6999|Easton-in-Gordano
-54.9860|-3.1805|Eastriggs
-53.7604|-0.7933|Eastrington
-51.2464|1.3078|Eastry
 53.0000|-1.3000|Eastwood
 51.8770|-0.5917|Eaton Bray
 52.2175|-0.2893|Eaton Socon
@@ -1280,6 +1293,7 @@
 55.9521|-3.1965|Edinburgh
 51.2758|-2.1064|Edington
 52.6379|-0.6319|Edith Weston
+51.6256|-0.0580|Edmonton
 53.1945|-1.0644|Edwinstowe
 51.4316|-0.5524|Egham
 55.0167|-7.1833|Eglinton
@@ -1292,7 +1306,7 @@
 53.7532|-0.6042|Ellerker
 53.8500|-0.9333|Ellerton
 52.9084|-2.8981|Ellesmere
-53.2788|-2.9013|Ellesmere Port
+53.2788|-2.9013|Ellesmere Port|Ellesmere Port Town
 57.3640|-2.0731|Ellon
 51.5497|0.2014|Elm Park
 51.8822|0.9948|Elmstead Market
@@ -1301,6 +1315,7 @@
 51.1855|-0.7054|Elstead
 51.6403|-0.2969|Elstree
 53.8384|-2.8815|Elswick
+51.4506|0.0522|Eltham
 53.9209|-0.9349|Elvington
 54.6846|-1.2956|Elwick
 52.3996|0.2620|Ely
@@ -1312,6 +1327,7 @@
 52.6672|-0.5960|Empingham
 50.8478|-0.9370|Emsworth
 52.5878|-1.2062|Enderby
+51.6709|-0.0275|Enfield Lock
 51.6515|-0.0850|Enfield Town
 54.3449|-7.6389|Enniskillen
 51.6981|0.1105|Epping
@@ -1336,6 +1352,7 @@
 51.3539|-0.8889|Eversley
 52.1458|-0.2462|Everton
 52.0924|-1.9489|Evesham
+52.6000|-1.0667|Evington
 51.3495|-0.2494|Ewell
 51.1545|-0.4434|Ewhurst
 51.9536|-2.8933|Ewyas Harold
@@ -1372,6 +1389,7 @@
 53.5500|-2.4000|Farnworth
 55.8275|-3.7074|Fauldhouse
 51.3148|0.8886|Faversham
+53.4614|-2.9286|Fazakerley
 52.6144|-1.6985|Fazeley
 52.6448|-2.0932|Featherstone
 51.9637|1.3511|Felixstowe
@@ -1391,6 +1409,7 @@
 56.2500|-3.1667|Fife
 54.2100|-0.2892|Filey
 51.3615|-0.8573|Finchampstead
+51.6010|-0.1952|Finchley
 52.8704|-1.5441|Findern
 57.6974|-2.9010|Findochty
 50.8682|-0.4073|Findon
@@ -1401,8 +1420,8 @@
 51.9938|-4.9763|Fishguard
 52.9609|0.0270|Fishtoft
 53.6329|-1.3769|Fitzwilliam
-51.1834|0.3552|Five Oak Green
 54.3833|-7.3000|Fivemiletown
+51.1834|0.3552|Five Oak Green
 54.1149|-0.1227|Flamborough
 52.5350|-1.0460|Fleckney
 51.2833|-0.8333|Fleet
@@ -1426,10 +1445,10 @@
 56.6438|-2.8900|Forfar
 53.5584|-3.0700|Formby
 57.6100|-3.6212|Forres
-56.8165|-5.1121|Fort William
 55.7650|-3.6887|Forth
 57.5809|-4.1326|Fortrose
 50.5603|-2.4424|Fortuneswell
+56.8165|-5.1121|Fort William
 53.8758|-2.1686|Foulridge
 52.7818|1.0105|Foulsham
 52.7594|-3.0811|Four Crosses
@@ -1444,6 +1463,7 @@
 51.0695|-4.1366|Fremington
 50.6837|-1.5262|Freshwater
 56.2469|-3.1586|Freuchie
+51.6133|-0.1585|Friern Barnet
 51.3167|-0.7454|Frimley
 51.8306|1.2442|Frinton-on-Sea
 56.6369|-2.6681|Friockheim
@@ -1452,8 +1472,11 @@
 53.2948|-2.7275|Frodsham
 51.2283|-2.3221|Frome
 52.1828|0.2205|Fulbourn
+51.4803|-0.1993|Fulham
 53.9887|-0.8676|Full Sutton
+53.3500|-1.5500|Fulwood
 51.1074|-0.1689|Furnace Green
+51.4246|-0.1466|Furzedown
 53.8333|-2.9167|Fylde
 53.2211|-4.2736|Gaerwen
 54.5472|-1.7360|Gainford
@@ -1467,6 +1490,7 @@
 53.9835|-2.1046|Gargrave
 51.7162|-1.1613|Garsington
 53.9008|-2.7742|Garstang
+53.3333|-2.9000|Garston
 55.8884|-4.0817|Gartcosh
 54.9833|-6.6667|Garvagh
 54.9333|-1.6667|Gateshead
@@ -1495,14 +1519,15 @@
 55.8942|-4.0462|Glenboig
 52.6466|-1.1949|Glenfield
 55.8891|-3.9873|Glenmavis
+52.5853|-1.1706|Glen Parva
 56.1951|-3.1732|Glenrothes
 52.6392|-0.2963|Glinton
 53.4432|-1.9490|Glossop
 51.8657|-2.2431|Gloucester
 51.8333|-2.1667|Gloucestershire
 53.9000|-2.0000|Glusburn
-51.7475|-3.6183|Glyn-neath
 51.6794|-3.6281|Glyncorrwg
+51.7475|-3.6183|Glyn-neath
 52.7856|-2.2548|Gnosall
 52.8961|-3.0369|Gobowen
 51.1858|-0.6149|Godalming
@@ -1510,6 +1535,7 @@
 50.6331|-1.2548|Godshill
 51.2478|-0.0691|Godstone
 53.4769|-2.5965|Golborne
+51.5763|-0.2003|Golders Green
 57.9727|-3.9780|Golspie
 52.0049|-4.9951|Goodwick
 53.7032|-0.8773|Goole
@@ -1532,8 +1558,8 @@
 53.6763|-0.3376|Goxhill
 51.4559|0.7113|Grain
 51.6118|0.0861|Grange Hill
-54.1851|-2.9249|Grange-over-Sands
 56.0114|-3.7218|Grangemouth
+54.1851|-2.9249|Grange-over-Sands
 52.9115|-0.6418|Grantham
 57.3305|-3.6087|Grantown on Spey
 53.3720|-2.5467|Grappenhall
@@ -1552,9 +1578,11 @@
 52.0643|0.1972|Great Chesterford
 51.8723|0.3625|Great Dunmow
 53.8531|-2.8703|Great Eccleston
+51.5000|-0.1667|Greater London
 52.5755|-1.0349|Great Glen
 52.9351|-0.6669|Great Gonerby
 52.1855|-0.1457|Great Gransden
+54.6418|-1.2381|Greatham
 52.6833|-2.8167|Great Hanwood
 53.7851|-2.4087|Great Harwood
 52.8079|-2.0002|Great Haywood
@@ -1573,14 +1601,13 @@
 52.6628|-2.0111|Great Wyrley
 52.6072|1.7315|Great Yarmouth
 52.0135|0.5654|Great Yeldham
-51.5000|-0.1667|Greater London
-54.6418|-1.2381|Greatham
 52.0028|-0.4661|Greenfield
 51.5287|-0.3551|Greenford
 55.9920|-3.8910|Greenhill
 51.4503|0.2854|Greenhithe
 54.7008|-5.8748|Greenisland
 55.9484|-4.7612|Greenock
+51.4778|-0.0118|Greenwich
 52.7206|-0.6307|Greetham
 53.0854|-2.9706|Gresford
 54.9938|-3.0659|Gretna
@@ -1617,6 +1644,7 @@
 53.3783|-2.3327|Hale
 52.4486|-2.0494|Halesowen
 52.3464|1.5029|Halesworth
+53.3596|-2.8315|Halewood
 53.7167|-1.8500|Halifax
 58.5123|-3.4916|Halkirk
 55.9857|-3.7854|Hallglen
@@ -1635,12 +1663,14 @@
 51.0538|-0.2008|Handcross
 51.6333|-1.7500|Hannington
 52.1142|-0.8267|Hanslope
+51.4333|-0.3833|Hanworth
 53.7833|-2.3167|Hapton
 52.2354|-1.4571|Harbury
 52.2136|-0.8858|Hardingstone
 53.2737|-1.0432|Hardwick Village
 51.6033|-0.4855|Harefield
 52.8594|-4.1083|Harlech
+51.5381|-0.2502|Harlesden
 52.4030|1.2966|Harleston
 51.9629|-0.4924|Harlington
 51.7766|0.1116|Harlow
@@ -1651,6 +1681,7 @@
 51.5824|-0.0996|Harringay
 53.9908|-1.5373|Harrogate
 52.2013|-0.6104|Harrold
+51.5784|-0.3321|Harrow
 51.5714|-0.3337|Harrow on the Hill
 52.1369|0.0800|Harston
 51.2763|-1.0474|Hart
@@ -1704,8 +1735,8 @@
 53.3833|-2.1167|Hazel Grove
 55.0414|-1.6391|Hazlerigg
 52.9078|0.4939|Heacham
-56.0062|-3.9136|Head of Muir
 51.1697|0.6243|Headcorn
+56.0062|-3.9136|Head of Muir
 53.0505|-1.4469|Heage
 53.5810|-0.1620|Healing
 53.0137|-1.3538|Heanor
@@ -1748,6 +1779,7 @@
 50.8896|0.3229|Herstmonceux
 51.7959|-0.0785|Hertford
 51.8333|-0.2500|Hertfordshire
+51.4836|-0.3758|Heston
 53.3273|-3.0965|Heswall
 52.5976|1.1736|Hethersett
 54.8167|-1.4500|Hetton-Le-Hole
@@ -1755,24 +1787,25 @@
 54.0437|-2.8932|Heysham
 53.5924|-2.2194|Heywood
 53.5113|-0.5208|Hibaldstow
+52.3060|-0.5934|Higham Ferrers
 51.6562|-0.2077|High Barnet
 54.1182|-2.5120|High Bentham
 55.7844|-4.1001|High Blantyre
+51.2167|-2.9833|Highbridge
+51.5500|-0.1000|Highbury
+51.3386|-1.3757|Highclere
 54.6539|-1.7436|High Etherley
 51.1033|0.7139|High Halden
 51.4477|0.5556|High Halstow
+57.5000|-5.0000|Highland
 53.3514|-2.4538|High Legh
+52.4487|-2.3825|Highley
 51.7095|0.2622|High Ongar
 53.3680|-1.8454|High Peak
-56.0636|-3.5991|High Valleyfield
-51.6291|-0.7493|High Wycombe
-52.3060|-0.5934|Higham Ferrers
-51.2167|-2.9833|Highbridge
-51.3386|-1.3757|Highclere
-57.5000|-5.0000|Highland
-52.4487|-2.3825|Highley
 53.5245|-3.0619|Hightown
+56.0636|-3.5991|High Valleyfield
 51.6305|-1.7110|Highworth
+51.6291|-0.7493|High Wycombe
 54.4635|-6.0766|Hillsborough
 56.7448|-2.4740|Hillside
 52.2791|-0.1122|Hilton
@@ -1816,8 +1849,8 @@
 51.9956|-1.4828|Hook Norton
 53.1998|-2.8769|Hoole
 53.1167|-3.0333|Hope
-53.3482|-1.7449|Hope Valley
 57.7068|-3.4291|Hopeman
+53.3482|-1.7449|Hope Valley
 52.5438|1.7199|Hopton on Sea
 50.9352|0.2444|Horam
 53.6605|-1.5601|Horbury
@@ -1839,8 +1872,8 @@
 53.7958|-0.6425|Hotham
 52.3328|-0.1207|Houghton
 52.0618|-0.4776|Houghton Conquest
-52.6266|-0.9955|Houghton on the Hill
 54.8403|-1.4643|Houghton-Le-Spring
+52.6266|-0.9955|Houghton on the Hill
 51.4684|-0.3609|Hounslow
 55.8686|-4.5520|Houston
 50.8309|-0.1672|Hove
@@ -1854,6 +1887,7 @@
 49.9146|-6.3154|Hugh Town
 53.4657|-2.2489|Hulme
 53.5304|-0.0246|Humberston
+52.6474|-1.0865|Humberstone
 51.6669|-4.9492|Hundleton
 51.4151|-1.5156|Hungerford
 54.1796|-0.3201|Hunmanby
@@ -1861,6 +1895,7 @@
 52.3305|-0.1865|Huntingdon
 51.8717|-2.4014|Huntley
 57.4474|-2.7861|Huntly
+53.3558|-2.8657|Hunts Cross
 51.2056|-2.9874|Huntspill
 54.6879|-1.7054|Hunwick
 51.4579|-0.8520|Hurst
@@ -1873,6 +1908,7 @@
 50.8600|-1.4016|Hythe
 52.6855|-1.3997|Ibstock
 51.0059|-2.6798|Ilchester
+51.5577|0.0728|Ilford
 51.2093|-4.1134|Ilfracombe
 52.9706|-1.3095|Ilkeston
 53.9245|-1.8233|Ilkley
@@ -1906,6 +1942,7 @@
 52.3267|-0.6113|Irthlingborough
 55.6194|-4.6551|Irvine
 54.4720|-7.6335|Irvinestown
+52.3429|0.4121|Isleham
 55.5814|-5.2123|Isle of Arran
 55.8366|-5.0559|Isle of Bute
 55.7693|-4.9191|Isle of Cumbrae
@@ -1915,7 +1952,6 @@
 57.6058|-7.3402|Isle of North Uist
 57.2456|-7.3334|Isle of South Uist
 50.6667|-1.3333|Isle of Wight
-52.3429|0.4121|Isleham
 51.4752|-0.3425|Isleworth
 51.5362|-0.1030|Islington
 51.5000|-0.5000|Iver
@@ -1953,6 +1989,7 @@
 52.3496|-1.5828|Kenilworth
 51.1674|0.8849|Kennington
 56.2108|-3.0492|Kennoway
+53.4086|-2.9528|Kensington
 51.8517|-0.5039|Kensworth
 51.1667|0.6667|Kent
 50.6398|-3.4715|Kenton
@@ -1992,21 +2029,20 @@
 51.8509|-0.2998|Kimpton
 56.0695|-3.7196|Kincardine
 52.1564|-1.5115|Kineton
-53.1769|-1.1013|King's Clipstone
-52.7517|0.3952|King's Lynn
 56.0690|-3.1761|Kinghorn
 56.1737|-3.2424|Kinglassie
-51.2744|0.4024|Kings Hill
-51.7139|-0.4504|Kings Langley
-52.0231|-1.2761|Kings Sutton
-51.0886|-1.2978|Kings Worthy
 50.2845|-3.7764|Kingsbridge
 52.5611|-1.6794|Kingsbury
 51.3249|-1.2434|Kingsclere
+53.1769|-1.1013|King's Clipstone
+51.2744|0.4024|Kings Hill
 50.4992|-3.5819|Kingskerswell
 56.2621|-3.1169|Kingskettle
 52.2491|-2.8154|Kingsland
+51.7139|-0.4504|Kings Langley
 53.2667|-2.6667|Kingsley
+52.7517|0.3952|King's Lynn
+52.0231|-1.2761|Kings Sutton
 50.5500|-3.5833|Kingsteignton
 51.6815|-1.4204|Kingston Bagpuize
 51.3983|-2.8611|Kingston Seymour
@@ -2015,6 +2051,7 @@
 57.1580|-2.2243|Kingswells
 52.4975|-2.1689|Kingswinford
 51.4528|-2.5083|Kingswood
+51.0886|-1.2978|Kings Worthy
 52.2000|-2.0167|Kington
 57.0800|-4.0523|Kingussie
 57.6349|-3.5701|Kinloss
@@ -2026,21 +2063,22 @@
 56.1267|-4.1708|Kippen
 52.6302|-1.2275|Kirby Muxloe
 54.4874|-5.5339|Kircubbin
-53.5621|-1.0688|Kirk Sandall
 53.6105|-1.7029|Kirkburton
 53.4814|-2.8921|Kirkby
 53.0998|-1.2438|Kirkby in Ashfield
 54.2026|-2.5983|Kirkby Lonsdale
-54.4723|-2.3487|Kirkby Stephen
 54.2701|-0.9322|Kirkbymoorside
+54.4723|-2.3487|Kirkby Stephen
 56.1168|-3.1600|Kirkcaldy
 55.3856|-3.9984|Kirkconnel
 54.8383|-4.0491|Kirkcudbright
+53.4334|-2.9766|Kirkdale
 53.7824|-2.8719|Kirkham
 55.9393|-4.1526|Kirkintilloch
 53.5833|-1.7500|Kirklees
 55.9536|-3.4029|Kirkliston
 55.8875|-3.4190|Kirknewton
+53.5621|-1.0688|Kirk Sandall
 58.9816|-2.9604|Kirkwall
 56.6740|-3.0034|Kirriemuir
 52.9277|-0.0601|Kirton
@@ -2081,11 +2119,12 @@
 52.6983|-0.3404|Langtoft
 56.0225|-3.8287|Larbert
 55.7963|-4.8634|Largs
-51.2000|-1.8167|Lark Hill
 51.3014|0.4486|Larkfield
 55.7333|-3.9667|Larkhall
+51.2000|-1.8167|Lark Hill
 54.8500|-5.8167|Larne
 51.6716|0.7258|Latchingdon and Snoreham
+51.4684|-0.1688|Latchmere
 55.7191|-2.7475|Lauder
 50.6370|-4.3601|Launceston
 56.8334|-2.4654|Laurencekirk
@@ -2100,10 +2139,10 @@
 53.8773|-0.4573|Leconfield
 52.0364|-2.4263|Ledbury
 53.7632|-1.3086|Ledsham
-50.8017|-1.2017|Lee-on-the-Solent
 53.7965|-1.5478|Leeds
 53.1043|-2.0221|Leek
 52.3178|-1.5793|Leek Wootton
+50.8017|-1.2017|Lee-on-the-Solent
 53.1335|-3.0947|Leeswood
 52.6386|-1.1317|Leicester
 52.6667|-1.0000|Leicestershire
@@ -2128,12 +2167,14 @@
 54.3100|-1.8304|Leyburn
 53.6979|-2.6876|Leyland
 51.3973|0.9216|Leysdown-on-Sea
+51.5686|0.0077|Leytonstone
 57.6353|-3.2184|Lhanbryde
 52.6815|-1.8255|Lichfield
 52.0415|-0.5591|Lidlington
 50.6436|-4.2822|Lifton
 51.3485|-0.6715|Lightwater
 55.0504|-6.9507|Limavady
+51.5141|-0.0328|Limehouse
 56.0334|-3.4771|Limekilns
 51.3449|-2.3141|Limpley Stoke
 53.2268|-0.5379|Lincoln
@@ -2154,19 +2195,19 @@
 51.0428|-0.8924|Liss
 53.4699|-2.9981|Litherland
 51.7833|-0.0333|Little Amwell
+53.6441|-2.0958|Littleborough
+51.2745|1.1669|Littlebourne
 51.6683|-0.5704|Little Chalfont
 51.8256|1.1421|Little Clacton
 51.8610|0.4148|Little Dunmow
 52.9703|-1.4595|Little Eaton
 51.8332|0.1815|Little Hallingbury
+50.8114|-0.5408|Littlehampton
 53.5333|-2.4167|Little Hulton
 53.5635|-2.3780|Little Lever
 52.2505|-0.2580|Little Paxton
-53.7902|-0.5068|Little Weighton
-53.6441|-2.0958|Littleborough
-51.2745|1.1669|Littlebourne
-50.8114|-0.5408|Littlehampton
 52.4578|0.3060|Littleport
+53.7902|-0.5068|Little Weighton
 53.4106|-2.9779|Liverpool
 53.7051|-1.6933|Liversedge
 55.9029|-3.5226|Livingston
@@ -2225,34 +2266,34 @@
 52.3026|-1.0811|Long Buckby
 52.8372|-0.9288|Long Clawson
 51.7729|-0.9968|Long Crendon
-52.8986|-1.2714|Long Eaton
-52.2840|-1.3924|Long Itchington
-52.3818|-1.3072|Long Lawford
-52.0748|0.7164|Long Melford
-52.4880|1.2348|Long Stratton
-51.2198|-0.9429|Long Sutton
-52.8058|-1.2851|Long Whatton
 53.4667|-2.0000|Longdendale
+52.8986|-1.2714|Long Eaton
 51.3969|0.3021|Longfield
 56.4573|-3.1144|Longforgan
 51.8667|-2.4500|Longhope
 55.2459|-1.7691|Longhorsley
 55.4313|-1.6169|Longhoughton
+52.2840|-1.3924|Long Itchington
+52.3818|-1.3072|Long Lawford
+52.0748|0.7164|Long Melford
 55.9754|-2.8959|Longniddry
 53.8321|-2.5996|Longridge
 53.4580|-2.2010|Longsight
 52.2808|0.0456|Longstanton
+52.4880|1.2348|Long Stratton
+51.2198|-0.9429|Long Sutton
 52.9833|-2.1333|Longton
 51.9500|-2.9833|Longtown
+52.8058|-1.2851|Long Whatton
 51.7361|-0.8568|Longwick
 50.3578|-4.4542|Looe
 57.7214|-3.2834|Lossiemouth
 50.4078|-4.6702|Lostwithiel
 52.7667|-1.2000|Loughborough
+52.4333|-2.5667|Loughton
 53.3666|-0.0044|Louth
 53.6502|-1.3233|Low Ackworth
 53.9322|-1.9965|Low Bradley
-54.6535|-1.7431|Low Etherley
 53.0121|-1.0048|Lowdham
 52.0503|-1.5418|Lower Brailes
 52.2138|-2.2772|Lower Broadheath
@@ -2260,6 +2301,7 @@
 51.3740|0.6682|Lower Halstow
 51.2697|-0.2123|Lower Kingswood
 52.4766|1.7538|Lowestoft
+54.6535|-1.7431|Low Etherley
 55.6504|-1.9781|Lowick
 51.5544|-2.2422|Luckington
 53.7187|-1.9458|Luddenden Foot
@@ -2301,9 +2343,9 @@
 54.4669|-6.2598|Magheralin
 53.5162|-2.9412|Maghull
 51.5794|-2.8314|Magor
-50.7791|-2.5723|Maiden Newton
 51.1078|-0.1529|Maidenbower
 51.5228|-0.7199|Maidenhead
+50.7791|-2.5723|Maiden Newton
 51.2667|0.5167|Maidstone
 51.7311|0.6746|Maldon
 51.5817|-2.0971|Malmesbury
@@ -2312,9 +2354,11 @@
 54.1369|-0.7996|Malton
 53.3629|0.0965|Manby
 53.4167|-2.2500|Manchester
+53.4810|-2.2456|Manchester City Centre
 52.4849|0.1793|Manea
 51.4878|-2.5040|Mangotsfield
 51.9454|1.0611|Manningtree
+51.5493|0.0487|Manor Park
 53.1333|-1.2000|Mansfield
 53.1649|-1.1938|Mansfield Woodhouse
 50.9500|-2.2667|Manston
@@ -2365,6 +2409,7 @@
 51.6803|0.7671|Mayland
 52.7064|-1.5064|Measham
 51.4167|0.5000|Medway
+55.7500|-4.0333|Meikle Earnock
 52.0813|0.0151|Melbourn
 52.8219|-1.4252|Melbourne
 52.0940|0.0081|Meldreth
@@ -2392,20 +2437,20 @@
 53.3333|-3.0833|Metropolitan Borough of Wirral
 50.2732|-4.7917|Mevagissey
 53.4939|-1.2924|Mexborough
-53.2215|-2.8323|Mickle Trafford
 52.0915|-1.7662|Mickleton
+53.2215|-2.8323|Mickle Trafford
 54.8744|-6.1014|Mid and East Antrim
 55.8926|-3.4800|Mid Calder
-54.6219|-6.7910|Mid Ulster
 53.3872|-0.3620|Middle Rasen
-51.0935|-1.6545|Middle Winterslow
 54.5762|-1.2348|Middlesbrough
 53.6508|-1.5976|Middlestown
 53.5500|-2.2000|Middleton
 53.1930|-2.4440|Middlewich
+51.0935|-1.6545|Middle Winterslow
 50.9856|-0.7400|Midhurst
 55.8235|-3.0933|Midlothian
 51.2857|-2.4859|Midsomer Norton
+54.6219|-6.7910|Mid Ulster
 50.9661|-2.4625|Milborne Port
 50.7783|-2.2811|Milborne St Andrew
 52.3445|0.5109|Mildenhall
@@ -2428,8 +2473,8 @@
 51.7067|-2.1850|Minchinhampton
 51.2045|-3.4828|Minehead
 51.6167|-1.9500|Minety
-51.7927|-1.5483|Minster Lovell
 52.6399|-2.9281|Minsterley
+51.7927|-1.5483|Minster Lovell
 57.5241|-2.0010|Mintlaw
 53.6734|-1.6964|Mirfield
 53.4449|-0.8503|Misterton
@@ -2456,8 +2501,8 @@
 51.3982|-0.1984|Morden
 54.0684|-2.8611|Morecambe
 53.4000|-3.1167|Moreton
-51.9896|-1.7030|Moreton in Marsh
 50.6608|-3.7649|Moretonhampstead
+51.9896|-1.7030|Moreton in Marsh
 53.7401|-1.5988|Morley
 55.1688|-1.6889|Morpeth
 53.6167|-1.1000|Moss
@@ -2468,21 +2513,22 @@
 55.7892|-3.9919|Motherwell
 53.2333|-2.7333|Mouldsworth
 52.7467|-0.0827|Moulton Chapel
-50.2823|-5.2085|Mount Hawke
 51.6836|-3.3801|Mountain Ash
+50.2823|-5.2085|Mount Hawke
 52.7167|-1.1500|Mountsorrel
 54.4500|-6.6667|Moy
 51.8541|0.0719|Much Hadham
 52.5958|-2.5575|Much Wenlock
-57.5198|-4.4594|Muir of Ord
 56.5000|-3.0667|Muirhead
 55.5227|-4.0655|Muirkirk
+57.5198|-4.4594|Muir of Ord
 52.5591|1.2333|Mulbarton
 50.0271|-5.2425|Mullion
 52.8784|1.4297|Mundesley
 52.5093|0.6499|Mundford
 54.8181|-1.3904|Murton
 55.9417|-3.0499|Musselburgh
+51.5905|-0.1421|Muswell Hill
 50.1851|-5.0796|Mylor Bridge
 53.7306|-1.9826|Mytholmroyd
 54.0196|-0.3919|Nafferton
@@ -2503,30 +2549,19 @@
 55.7857|-4.4264|Neilston
 51.6533|-3.2844|Nelson
 53.2833|-3.0500|Neston
+51.2361|-1.7908|Netheravon
+53.3593|-1.4876|Nether Edge
 52.2212|-1.0345|Nether Heyford
+55.8016|-4.2732|Netherlee
 53.9879|-1.1506|Nether Poppleton
 51.1510|-3.1568|Nether Stowey
-51.2361|-1.7908|Netheravon
-55.8016|-4.2732|Netherlee
 52.4833|-2.0833|Netherton
 50.8763|-1.3540|Netley
 53.2660|-0.4887|Nettleham
 51.0862|-1.1701|New Alresford
-52.9734|-1.1656|New Basford
-55.3956|-4.1846|New Cumnock
-53.3605|-2.9938|New Ferry
-50.8576|-1.9589|New Forest
-51.4006|-0.2617|New Malden
-54.5785|-1.0422|New Marske
-53.3659|-1.9999|New Mills
-50.7560|-1.6658|New Milton
-57.5902|-2.1953|New Pitsligo
-52.2152|-4.3589|New Quay
-50.9860|0.9412|New Romney
-55.8167|-3.9736|New Stevenston
-51.7205|-3.2413|New Tredegar
 53.0667|-0.8167|Newark on Trent
 55.8151|-3.9373|Newarthill
+52.9734|-1.1656|New Basford
 55.1853|-1.5147|Newbiggin-by-the-Sea
 52.6296|-1.3422|Newbold Verdon
 51.6667|-3.1333|Newbridge
@@ -2538,54 +2573,79 @@
 53.0000|-2.2333|Newcastle under Lyme
 55.0000|-1.6667|Newcastle upon Tyne
 50.6674|-1.2083|Newchurch
+51.4753|-0.0384|New Cross
+55.3956|-4.1846|New Cumnock
 51.9337|-2.4082|Newent
+53.3605|-2.9938|New Ferry
+50.8576|-1.9589|New Forest
 50.7969|0.0554|Newhaven
 50.9752|0.0158|Newick
 51.3522|0.6677|Newington
 57.2667|-2.1833|Newmacher
 55.7851|-3.8746|Newmains
+51.4006|-0.2617|New Malden
 52.2447|0.4042|Newmarket
+54.5785|-1.0422|New Marske
+53.3659|-1.9999|New Mills
 55.6075|-4.3242|Newmilns
+50.7560|-1.6658|New Milton
+57.5902|-2.1953|New Pitsligo
 50.7015|-1.2912|Newport
-52.0873|-0.7222|Newport Pagnell
 56.4391|-2.9367|Newport-on-Tay
+52.0873|-0.7222|Newport Pagnell
 50.4156|-5.0732|Newquay
+50.9860|0.9412|New Romney
 54.1784|-6.3374|Newry
 54.2362|-6.0669|Newry Mourne and Down
+55.8167|-3.9736|New Stevenston
 50.5286|-3.6119|Newton Abbot
 54.6184|-1.5719|Newton Aycliffe
 50.3147|-4.0392|Newton Ferrers
+57.0333|-2.1500|Newtonhill
+53.4500|-2.6000|Newton-le-Willows
 51.9760|-0.7660|Newton Longville
 55.7733|-4.3334|Newton Mearns
+57.0657|-4.1210|Newtonmore
 50.7000|-3.2959|Newton Poppleford
 54.9578|-4.4832|Newton Stewart
-53.4500|-2.6000|Newton-le-Willows
-57.0333|-2.1500|Newtonhill
-57.0657|-4.1210|Newtonmore
 52.5167|-3.3000|Newtown
-55.5789|-2.6687|Newtown St Boswells
 54.6598|-5.9086|Newtownabbey
 54.5924|-5.6909|Newtownards
+55.5789|-2.6687|Newtown St Boswells
 54.7178|-7.3789|Newtownstewart
+51.7205|-3.2413|New Tredegar
 51.7101|-4.9516|Neyland
+57.1160|-2.0925|Nigg
 50.8864|0.4253|Ninfield
 50.5870|-1.2849|Niton
+51.4167|-0.1167|Norbury
 52.6667|1.0000|Norfolk
 51.2575|-0.6747|Normandy
+53.4451|-2.9207|Norris Green
+54.3390|-1.4324|Northallerton
+51.0333|-4.2167|Northam
+52.2500|-0.8833|Northampton
+52.2500|-0.8333|Northamptonshire
 55.6969|-4.7337|North Ayrshire
 50.9774|-1.4455|North Baddesley
 56.0583|-2.7229|North Berwick
+52.6587|-0.2982|Northborough
 53.7801|-0.6496|North Cave
 53.1500|-0.7500|North Collingham
 53.8258|-0.9641|North Duffield
 53.5333|-0.0833|North East Lincolnshire
 52.7464|0.9461|North Elmham
 53.7212|-0.5052|North Ferriby
+50.9944|0.6003|Northiam
 55.8667|-3.9167|North Lanarkshire
+51.8299|-1.8371|Northleach
 51.8143|-1.4414|North Leigh
 53.5833|-0.5000|North Lincolnshire
 52.6211|-0.6199|North Luffenham
 53.8167|-0.6167|North Newbald
+51.5485|-0.3678|Northolt
+53.2069|-3.1328|Northop
+53.4631|-0.6535|Northorpe
 51.0924|-3.0155|North Petherton
 56.0090|-3.3913|North Queensferry
 55.0165|-1.4492|North Shields
@@ -2594,25 +2654,17 @@
 55.5769|-1.6644|North Sunderland
 50.7997|-3.8976|North Tawton
 53.4665|-0.0558|North Thoresby
-52.8212|1.3875|North Walsham
-54.1667|-1.5000|North Yorkshire
-54.3390|-1.4324|Northallerton
-51.0333|-4.2167|Northam
-52.2500|-0.8833|Northampton
-52.2500|-0.8333|Northamptonshire
-52.6587|-0.2982|Northborough
-50.9944|0.6003|Northiam
-51.8299|-1.8371|Northleach
-51.5485|-0.3678|Northolt
-53.2069|-3.1328|Northop
-53.4631|-0.6535|Northorpe
 55.2500|-2.0000|Northumberland
+52.8212|1.3875|North Walsham
+51.6807|-0.3945|North Watford
 53.2588|-2.5202|Northwich
+54.1667|-1.5000|North Yorkshire
 53.6333|-1.1833|Norton
 52.6714|-1.9626|Norton Canes
 52.6278|1.2983|Norwich
 52.9536|-1.1505|Nottingham
 53.1667|-1.0000|Nottinghamshire
+51.5115|-0.2059|Notting Hill
 53.6127|-1.4723|Notton
 52.5232|-1.4652|Nuneaton
 52.6062|-1.0835|Oadby
@@ -2626,13 +2678,15 @@
 51.6023|-3.5422|Ogmore Vale
 50.7384|-4.0016|Okehampton
 51.2667|-1.0333|Old Basing
+52.5000|-2.0167|Oldbury
+53.5405|-2.1183|Oldham
 51.7835|0.1338|Old Harlow
 55.9224|-4.4557|Old Kilpatrick
 53.0311|0.0987|Old Leake
-51.4581|-0.5867|Old Windsor
-52.5000|-2.0167|Oldbury
-53.5405|-2.1183|Oldham
 57.3349|-2.3199|Oldmeldrum
+53.4139|-2.9089|Old Swan
+53.4576|-2.2882|Old Trafford
+51.4581|-0.5867|Old Windsor
 52.1534|-0.7020|Olney
 51.5803|-2.5775|Olveston
 54.6000|-7.3000|Omagh
@@ -2671,6 +2725,7 @@
 50.4357|-3.5679|Paignton
 51.7857|-2.1955|Painswick
 55.8317|-4.4325|Paisley
+51.6179|-0.1101|Palmers Green
 51.4837|-1.0852|Pangbourne
 53.9603|-1.5357|Pannal
 52.7901|-3.0803|Pant
@@ -2697,11 +2752,11 @@
 51.6916|-4.9404|Pembroke Dock
 51.8333|-4.9167|Pembrokeshire
 51.1430|0.3219|Pembury
-51.6403|-4.0992|Pen-clawdd
 51.6599|-4.7240|Penally
 51.4386|-3.1734|Penarth
 52.0008|-4.2657|Pencader
 55.9073|-2.8949|Pencaitland
+51.6403|-4.0992|Pen-clawdd
 51.5237|-3.5002|Pencoed
 55.8312|-3.2261|Penicuik
 53.5257|-1.6303|Penistone
@@ -2719,6 +2774,7 @@
 50.1186|-5.5371|Penzance
 50.3438|-5.1556|Perranporth
 50.2133|-5.1205|Perranwell
+51.4364|-0.0444|Perry Vale
 52.1116|-2.0759|Pershore
 56.3952|-3.4314|Perth
 56.5000|-3.7500|Perth and Kinross
@@ -2734,6 +2790,7 @@
 54.2500|-0.7667|Pickering
 51.5634|-2.6426|Pilning
 53.1500|-1.3667|Pilsley
+51.4890|-0.1370|Pimlico
 50.8837|-2.1362|Pimperne
 52.8130|-0.1626|Pinchbeck
 51.5938|-0.3822|Pinner
@@ -2747,6 +2804,7 @@
 55.8804|-3.9235|Plains
 56.0652|-3.8760|Plean
 50.9342|-0.0612|Plumpton Green
+51.4833|0.0833|Plumstead
 50.3833|-4.1333|Plymouth
 50.3907|-4.0602|Plympton
 50.3600|-4.0905|Plymstock
@@ -2758,12 +2816,13 @@
 55.9905|-3.7074|Polmont
 50.3313|-4.5222|Polperro
 50.5696|-4.9176|Polzeath
-51.5869|-3.6364|Pont Rhyd-y-cyff
+51.6445|-0.0465|Ponders End
 51.7142|-4.0386|Pontarddulais
 53.6911|-1.3127|Pontefract
 55.0502|-1.7453|Ponteland
 52.6483|-2.8904|Pontesbury
 51.6914|-4.0106|Pontlliw
+51.5869|-3.6364|Pont Rhyd-y-cyff
 51.7518|-4.2172|Pontyates
 51.7783|-4.1689|Pontyberem
 51.5216|-3.3914|Pontyclun
@@ -2774,13 +2833,12 @@
 50.7333|-1.9667|Poole
 52.5676|1.3496|Poringland
 51.2089|-3.5956|Porlock
-55.8566|-5.0650|Port Bannatyne
-57.4143|-1.8460|Port Erroll
-55.9346|-4.6895|Port Glasgow
-51.5924|-3.7802|Port Talbot
 54.4230|-6.4443|Portadown
 54.3809|-5.5457|Portaferry
 54.4592|-5.4430|Portavogie
+55.8566|-5.0650|Port Bannatyne
+57.4143|-1.8460|Port Erroll
+55.9346|-4.6895|Port Glasgow
 54.8715|-6.4715|Portglenone
 51.4790|-3.7036|Porthcawl
 50.0862|-5.3150|Porthleven
@@ -2796,6 +2854,7 @@
 50.8048|-1.1791|Portsmouth
 57.6814|-2.6896|Portsoy
 55.1813|-6.7140|Portstewart
+51.5924|-3.7802|Port Talbot
 51.3292|-2.0052|Potterne
 51.6935|-0.1784|Potters Bar
 52.0829|-0.8968|Potterspury
@@ -2814,6 +2873,7 @@
 53.5333|-2.2833|Prestwich
 55.4833|-4.6167|Prestwick
 51.6183|-3.5366|Price Town
+52.5606|-0.1089|Primrose Place
 51.7255|-0.8314|Princes Risborough
 50.5439|-3.9886|Princetown
 51.3431|-2.4392|Priston
@@ -2830,11 +2890,13 @@
 51.1693|-2.9720|Puriton
 51.3368|-0.1120|Purley
 51.5889|-1.8742|Purton
+51.4607|-0.2181|Putney
 52.8899|-4.4145|Pwllheli
 51.5167|-3.7000|Pyle
 51.4176|0.7444|Queenborough
 53.7666|-1.8491|Queensbury
 55.9909|-3.3985|Queensferry
+51.4781|-0.1472|Queenstown
 52.7059|-1.0475|Queniborough
 52.7446|-1.1735|Quorndon
 52.6625|1.3803|Rackheath
@@ -2892,7 +2954,7 @@
 51.6590|-3.4489|Rhondda
 51.6667|-3.5000|Rhondda Cynon Taf
 51.3882|-3.3543|Rhoose
-53.0097|-3.0581|Rhosllanerchrugog
+53.0097|-3.0581|Rhosllanerchrugog|Rhosllannerchrugog
 53.2319|-4.5148|Rhosneigr
 56.0167|-4.7667|Rhu
 53.2920|-3.4700|Rhuddlan
@@ -2922,6 +2984,7 @@
 50.5498|-4.9046|Rock
 51.2839|-2.2814|Rode
 53.1139|-2.2919|Rode Heath
+51.4517|-0.2439|Roehampton
 51.5885|-2.7787|Rogiet
 51.5752|0.1858|Romford
 51.0230|0.9150|Romney Marsh
@@ -2932,9 +2995,9 @@
 55.8507|-3.1362|Rosewell
 55.8575|-3.1690|Roslin
 56.0099|-4.8015|Rosneath
-51.9167|-2.5667|Ross on Wye
 53.6846|-2.2769|Rossendale
 53.1092|-2.9448|Rossett
+51.9167|-2.5667|Ross on Wye
 54.1000|-6.2000|Rostrevor
 56.0369|-3.4380|Rosyth
 55.3106|-1.9084|Rothbury
@@ -2984,6 +3047,7 @@
 52.3667|-1.4333|Ryton on Dunsmore
 53.8336|-2.3373|Sabden
 54.8177|-1.6241|Sacriston
+53.5485|-2.0046|Saddleworth
 52.0234|0.2423|Saffron Walden
 50.3128|-5.2046|Saint Agnes
 56.3387|-2.7990|Saint Andrews
@@ -2995,13 +3059,14 @@
 56.7750|-2.4155|Saint Cyrus
 51.8809|-5.2655|Saint Davids
 50.3833|-4.8833|Saint Dennis
+54.4605|-5.8307|Saintfield
+52.3325|-0.0766|Saint Ives
 50.8556|0.5452|Saint Leonards-on-Sea
 56.2065|-2.7682|Saint Monans
 52.2167|-0.2667|Saint Neots
 51.8000|1.0833|Saint Osyth
 51.3667|1.4167|Saint Peters
 50.3447|-4.8997|Saint Stephen
-54.4605|-5.8307|Saintfield
 50.2374|-3.7687|Salcombe
 53.4252|-2.3244|Sale
 53.4877|-2.2904|Salford
@@ -3017,6 +3082,7 @@
 53.1452|-2.3625|Sandbach
 55.9820|-4.9497|Sandbank
 51.3323|-2.8312|Sandford
+51.3468|-0.7865|Sandhurst
 50.6516|-1.1610|Sandown
 52.5000|-2.0000|Sandwell
 51.2722|1.3378|Sandwich
@@ -3062,8 +3128,8 @@
 50.7350|-0.7898|Selsey
 51.2888|-0.5267|Send
 54.0686|-2.2772|Settle
-51.7667|-3.7167|Seven Sisters
 51.2727|0.1888|Sevenoaks
+51.7667|-3.7167|Seven Sisters
 51.5604|-2.6628|Severn Beach
 51.1080|0.8192|Shadoxhurst
 53.8546|-1.4726|Shadwell
@@ -3083,6 +3149,7 @@
 53.6000|-1.6833|Shelley
 51.6905|-0.2807|Shenley
 52.6380|-1.8415|Shenstone
+51.5050|-0.2211|Shepherds Bush
 51.1871|1.2305|Shepherdswell
 53.5833|-1.7167|Shepley
 51.3955|-0.4489|Shepperton
@@ -3132,8 +3199,8 @@
 54.8687|-3.3845|Silloth
 53.9144|-1.9380|Silsden
 52.0085|-0.4248|Silsoe
-51.8473|0.6240|Silver End
 54.1667|-2.8167|Silverdale
+51.8473|0.6240|Silver End
 52.0922|-1.0260|Silverstone
 50.8167|-3.4833|Silverton
 52.8816|-1.4868|Sinfin
@@ -3162,20 +3229,28 @@
 52.8788|0.5010|Snettisham
 51.3297|0.4430|Snodland
 52.3354|0.3365|Soham
+51.5144|-0.1353|Soho
 52.4167|-1.7500|Solihull
 51.0833|-3.0000|Somerset
 52.3833|0.0000|Somersham
 51.9542|-1.2761|Somerton
 51.5187|-0.9775|Sonning Common
+51.5090|-0.3713|Southall
+52.2527|-1.3884|Southam
+50.9167|-1.3833|Southampton
 55.2500|-4.6667|South Ayrshire
 51.5530|0.5596|South Benfleet
 50.4265|-3.8343|South Brent
 53.7699|-0.6011|South Cave
 51.6732|-1.9310|South Cerney
 50.9383|-0.0210|South Chailey
+51.5405|0.7294|Southchurch Village
 53.1333|-0.7667|South Collingham
 51.3622|-0.0942|South Croydon
 53.5971|-1.2803|South Elmsall
+51.5378|0.7143|Southend-on-Sea
+52.5271|0.3878|Southery
+51.5694|-4.0897|Southgate
 51.5000|-2.4167|South Gloucestershire
 50.9692|-0.8839|South Harting
 50.7877|-0.9770|South Hayling
@@ -3184,31 +3259,27 @@
 52.1142|-1.8901|South Littleton
 52.6086|-0.6123|South Luffenham
 53.7767|-1.2461|South Milford
+51.6623|0.8297|Southminster
 51.0167|-3.8333|South Molton
+51.3994|-0.0747|South Norwood
 51.0167|-0.1333|South Nutfield
 51.5080|0.2833|South Ockendon
+53.7099|-1.8318|Southowram
 50.9483|-2.8071|South Petherton
+53.6458|-3.0101|Southport
+51.5552|-0.4087|South Ruislip
+50.7921|-1.0859|Southsea
 54.9986|-1.4323|South Shields
 54.9500|-1.4167|South Tyneside
-53.0959|-1.4400|South Wingfield
-52.7648|-0.6281|South Witham
-51.5090|-0.3713|Southall
-52.2527|-1.3884|Southam
-50.9167|-1.3833|Southampton
-51.5405|0.7294|Southchurch Village
-51.5378|0.7143|Southend-on-Sea
-52.5271|0.3878|Southery
-51.5694|-4.0897|Southgate
-51.6623|0.8297|Southminster
-53.7099|-1.8318|Southowram
-53.6458|-3.0101|Southport
-50.7921|-1.0859|Southsea
 51.0237|-0.3517|Southwater
 53.0780|-0.9554|Southwell
 51.2969|-2.2325|Southwick
+53.0959|-1.4400|South Wingfield
+52.7648|-0.6281|South Witham
 52.3272|1.6802|Southwold
 53.7090|-1.9093|Sowerby Bridge
 52.7871|-0.1514|Spalding
+53.3407|-2.8410|Speke
 51.1508|0.2195|Speldhurst
 54.6988|-1.6023|Spennymoor
 53.1736|0.0937|Spilsby
@@ -3218,16 +3289,6 @@
 52.3245|-0.9539|Spratton
 55.6151|-4.5906|Springside
 53.7938|-0.1913|Sproatley
-51.7500|-0.3333|St Albans
-50.3425|-4.7744|St Austell
-53.4500|-2.7333|St Helens
-50.2086|-5.4875|St Ives
-50.1238|-5.6806|St Just
-50.8308|-1.8438|St Leonards
-51.0100|0.9771|St Mary's Bay
-49.9203|-6.2929|St Mary's Isles of Scilly
-50.2396|-5.1857|St. Day
-50.6969|-1.1116|St. Helens
 52.8052|-2.1164|Stafford
 52.8333|-2.0000|Staffordshire
 52.1305|-0.5668|Stagsden
@@ -3236,12 +3297,14 @@
 51.4309|-0.5061|Staines
 53.6000|-1.0333|Stainforth
 55.1611|-1.5753|Stakeford
+51.7500|-0.3333|St Albans
 50.9581|-2.3755|Stalbridge
 52.7708|1.5178|Stalham
 53.5868|-0.1849|Stallingborough
 53.4841|-2.0591|Stalybridge
 52.6500|-0.4833|Stamford
 53.9885|-0.9155|Stamford Bridge
+51.5687|-0.0733|Stamford Hill
 51.9086|-0.5981|Stanbridge
 51.7269|-1.4244|Standlake
 52.9167|-2.2833|Standon
@@ -3253,14 +3316,18 @@
 55.1086|-1.6685|Stannington
 51.9000|0.2000|Stansted Mountfitchet
 52.3320|-0.5635|Stanwick
+52.9167|-1.2667|Stapleford
 51.1611|0.5525|Staplehurst
 50.6273|-3.4480|Starcross
 54.5385|-1.9302|Startforth
+50.3425|-4.7744|St Austell
 53.2667|-1.3500|Staveley
+50.2396|-5.1857|St. Day
 52.0435|0.4481|Steeple Bumpstead
 51.9364|-0.9833|Steeple Claydon
 53.8833|-1.9500|Steeton
 56.0268|-3.8146|Stenhousemuir
+51.5175|-0.0429|Stepney
 55.8890|-4.1521|Stepps
 51.9022|-0.2026|Stevenage
 55.6397|-4.7534|Stevenston
@@ -3271,11 +3338,17 @@
 51.9274|-0.7638|Stewkley
 50.8874|-0.3279|Steyning
 51.7292|-5.0172|Steynton
+50.6969|-1.1116|St. Helens
 53.0895|0.0054|Stickney
 54.6053|-1.4219|Stillington
 52.4879|-0.2889|Stilton
 56.1153|-4.2339|Stirling
 50.1887|-5.1781|Stithians
+50.2086|-5.4875|St Ives
+50.1238|-5.6806|St Just
+50.8308|-1.8438|St Leonards
+51.0100|0.9771|St Mary's Bay
+49.9203|-6.2929|St Mary's Isles of Scilly
 51.6635|0.4426|Stock
 53.4098|-2.1576|Stockport
 53.4825|-1.5937|Stocksbridge
@@ -3288,34 +3361,36 @@
 51.5169|-2.5405|Stoke Gifford
 52.5706|-1.4112|Stoke Golding
 52.1313|-0.7781|Stoke Goldington
+51.6583|-0.8974|Stokenchurch
+53.0042|-2.1854|Stoke-on-Trent
 51.5444|-0.5888|Stoke Poges
 52.2998|-2.0803|Stoke Prior
-53.0042|-2.1854|Stoke-on-Trent
-50.9540|-2.7497|Stoke-sub-Hamdon
-51.6583|-0.8974|Stokenchurch
 54.4700|-1.1933|Stokesley
+50.9540|-2.7497|Stoke-sub-Hamdon
 52.9059|-2.1541|Stone
 56.9637|-2.2118|Stonehaven
 51.7500|-2.2833|Stonehouse
 51.8514|-1.4296|Stonesfield
-52.5484|-1.2793|Stoney Stanton
 55.8437|-3.6386|Stoneyburn
+52.5484|-1.2793|Stoney Stanton
 58.2092|-6.3865|Stornoway
 50.9177|-0.4547|Storrington
 52.0163|-0.2321|Stotfold
 52.4561|-2.1432|Stourbridge
 52.3398|-2.2803|Stourport-on-Severn
-51.9301|-1.7238|Stow on the Wold
 52.1889|0.9977|Stowmarket
+51.9301|-1.7238|Stow on the Wold
 54.8237|-7.4692|Strabane
 52.3182|1.2728|Stradbroke
 54.9023|-5.0273|Stranraer
 51.3734|-1.0350|Stratfield Mortimer
+51.5333|0.0000|Stratford
 52.1917|-1.7073|Stratford-upon-Avon
 55.6771|-4.0668|Strathaven
 55.9860|-4.3066|Strathblane
 57.5852|-4.5419|Strathpeffer
 51.7339|-1.9797|Stratton
+51.4290|-0.1318|Streatham
 51.9463|-0.4437|Streatley
 51.1247|-2.7400|Street
 52.5833|-1.8833|Streetly
@@ -3370,8 +3445,8 @@
 51.5833|-3.7667|Taibach
 57.8090|-4.0599|Tain
 51.8709|0.2658|Takeley
-52.7747|-4.0922|Tal-y-bont
 51.9959|-3.2321|Talgarth
+52.7747|-4.0922|Tal-y-bont
 53.0536|-4.2577|Talysarn
 52.6340|-1.6959|Tamworth
 54.3549|-6.4140|Tandragee
@@ -3408,11 +3483,12 @@
 51.3304|0.8053|Teynham
 51.7484|-0.9762|Thame
 51.3896|-0.3393|Thames Ditton
+51.5037|0.1198|Thamesmead
 51.4037|-1.2605|Thatcham
 51.9533|0.3448|Thaxted
+51.4369|-1.0770|Theale
 54.9426|-1.4535|The Boldons
 55.5833|-2.8333|The Scottish Borders
-51.4369|-1.0770|Theale
 52.4167|0.7500|Thetford
 51.6743|0.0978|Theydon Bois
 54.2330|-1.3441|Thirsk
@@ -3426,9 +3502,9 @@
 54.7500|-1.4333|Thornley
 55.8045|-4.3175|Thornliebank
 56.1667|-3.1500|Thornton
+53.8739|-3.0224|Thornton-Cleveleys
 54.2353|-0.7202|Thornton Dale
 51.3988|-0.0987|Thornton Heath
-53.8739|-3.0224|Thornton-Cleveleys
 53.9158|-1.3198|Thorp Arch
 52.6277|1.3117|Thorpe Hamlet
 51.8560|1.1658|Thorpe le Soken
@@ -3465,6 +3541,7 @@
 51.1953|0.2736|Tonbridge
 51.6220|-3.4554|Tonypandy
 51.5840|-3.4304|Tonyrefail
+51.4252|-0.1639|Tooting
 50.6860|-3.4670|Topsham
 51.7015|-3.0514|Torfaen County Borough
 57.1056|-2.6240|Torphins
@@ -3472,13 +3549,16 @@
 50.4620|-3.5252|Torquay
 55.9400|-4.2103|Torrance
 50.4311|-3.6843|Totnes
+51.6037|-0.0679|Tottenham
+51.5937|-0.0596|Tottenham Hale
+51.6333|-0.2000|Totteridge
 51.8856|-0.5734|Totternhoe
 53.6133|-2.3407|Tottington
 50.9188|-1.4904|Totton
-54.7446|-1.8143|Tow Law
 52.1336|-0.9906|Towcester
-51.0530|0.2322|Town Row
+54.7446|-1.8143|Tow Law
 56.0891|-3.4389|Townhill
+51.0530|0.2322|Town Row
 53.4167|-2.3333|Trafford
 53.4688|-2.3119|Trafford Park
 55.9444|-2.9541|Tranent
@@ -3524,6 +3604,7 @@
 51.5559|0.2556|Upminster
 51.4817|-1.1407|Upper Basildon
 53.2292|-1.2069|Upper Langwith
+51.4151|-0.0927|Upper Norwood
 53.9791|-1.1520|Upper Poppleton
 52.5880|-0.7227|Uppingham
 53.6147|-1.2868|Upton
@@ -3534,6 +3615,7 @@
 54.7780|-1.6472|Ushaw Moor
 51.7035|-2.9033|Usk
 52.8984|-1.8649|Uttoxeter
+51.5489|-0.4821|Uxbridge
 51.4167|-3.4167|Vale of Glamorgan
 55.9713|-4.5793|Vale of Leven
 53.2849|-4.5664|Valley
@@ -3556,12 +3638,14 @@
 53.8195|-0.4896|Walkington
 53.4232|-3.0650|Wallasey
 51.5998|-1.1248|Wallingford
+51.3640|-0.1537|Wallington
 54.9911|-1.5340|Wallsend
 52.5833|-2.0000|Walsall
 53.6936|-2.1000|Walsden
 53.5167|-0.1000|Waltham
 51.6870|-0.0042|Waltham Abbey
 51.6860|-0.0357|Waltham Cross
+51.5907|-0.0208|Walthamstow
 53.2228|-1.4608|Walton
 51.3868|-0.4132|Walton-on-Thames
 51.8482|1.2674|Walton-on-the-Naze
@@ -3588,19 +3672,20 @@
 54.9000|-1.5167|Washington
 52.5005|-1.8266|Washwood Heath
 51.1819|-3.3308|Watchet
-51.9870|-0.7219|Water Eaton
-52.5157|-1.7401|Water Orton
 52.2655|0.1912|Waterbeach
+51.9870|-0.7219|Water Eaton
 55.7694|-4.2837|Waterfoot
 51.2554|0.4232|Wateringbury
 53.4745|-3.0302|Waterloo
 50.8807|-1.0304|Waterlooville
+52.5157|-1.7401|Water Orton
 51.6553|-0.3960|Watford
 53.5029|-1.3458|Wath upon Dearne
 51.6433|-1.0045|Watlington
 52.1254|0.9386|Wattisham
 52.5667|0.8333|Watton
 51.8584|-0.1138|Watton at Stone
+51.5998|-0.3371|Wealdstone
 53.2602|-2.5729|Weaverham
 51.2273|-2.8115|Wedmore
 52.5514|-2.0236|Wednesbury
@@ -3631,18 +3716,29 @@
 51.4167|-1.2500|West Berkshire
 52.9298|-1.1254|West Bridgford
 52.5187|-1.9945|West Bromwich
+51.2600|-2.1875|Westbury
 51.3376|-0.5065|West Byfleet
 55.8519|-3.5698|West Calder
 51.2606|-0.5032|West Clandon
+51.5442|0.6918|Westcliff-on-Sea
 50.9191|-2.6871|West Coker
 54.7029|-1.5194|West Cornforth
+51.2244|-0.3720|Westcott
 51.5000|-0.4667|West Drayton
 55.9667|-4.5333|West Dunbartonshire
+51.5136|-0.3229|West Ealing
 50.9274|-1.3328|West End
 51.5141|-0.1551|West End of London
+50.8399|-0.6712|Westergate
+51.2663|0.0689|Westerham
+51.8833|-1.8667|Westfield
+51.3824|1.3367|Westgate on Sea
 52.3417|-1.0780|West Haddon
 52.9709|-1.3585|West Hallam
+51.5333|0.0167|West Ham
+57.1526|-2.2797|Westhill
 51.2603|-0.4556|West Horsley
+53.5490|-2.5246|Westhoughton
 51.5399|-1.3237|West Ilsley
 55.6900|-4.8577|West Kilbride
 51.3428|0.2613|West Kingsdown
@@ -3652,27 +3748,18 @@
 51.2927|0.4091|West Malling
 51.7780|0.9187|West Mersea
 51.3999|-0.3800|West Molesey
+53.0667|-2.4000|Weston
+51.9814|-0.4970|Westoning
+51.3460|-2.9766|Weston-super-Mare
+51.7917|-0.7577|Weston Turville
+51.1085|-2.9284|Westonzoyland
+55.9914|-3.7402|Westquarter
 54.8167|-1.5000|West Rainton
 51.0000|-0.4167|West Sussex
 51.4783|0.2767|West Thurrock
 52.6978|0.1741|West Walton
 50.9727|-1.5829|West Wellow
 51.3667|-0.0167|West Wickham
-51.2600|-2.1875|Westbury
-51.5442|0.6918|Westcliff-on-Sea
-51.2244|-0.3720|Westcott
-50.8399|-0.6712|Westergate
-51.2663|0.0689|Westerham
-51.8833|-1.8667|Westfield
-51.3824|1.3367|Westgate on Sea
-57.1526|-2.2797|Westhill
-53.5490|-2.5246|Westhoughton
-53.0667|-2.4000|Weston
-51.7917|-0.7577|Weston Turville
-51.3460|-2.9766|Weston-super-Mare
-51.9814|-0.4970|Westoning
-51.1085|-2.9284|Westonzoyland
-55.9914|-3.7402|Westquarter
 51.3346|-2.2797|Westwood
 54.8840|-2.8333|Wetheral
 53.9284|-1.3867|Wetherby
@@ -3691,13 +3778,13 @@
 54.9533|-1.3686|Whitburn
 54.4877|-0.6150|Whitby
 52.9667|-2.6833|Whitchurch
-51.4922|-0.7724|White Waltham
 55.9194|-3.0423|Whitecraig
 53.5500|-2.3000|Whitefield
 54.5490|-3.5841|Whitehaven
 54.7537|-5.7093|Whitehead
 57.6773|-2.5786|Whitehills
 51.0104|-1.6485|Whiteparish
+51.4922|-0.7724|White Waltham
 51.8189|-4.6153|Whitland
 51.3953|-2.1644|Whitley
 55.0397|-1.4471|Whitley Bay
@@ -3726,6 +3813,7 @@
 50.8833|-3.3667|Willand
 53.2955|-2.9973|Willaston
 52.5851|-2.0593|Willenhall
+51.5333|-0.2333|Willesden
 52.3140|0.0578|Willingham
 54.7167|-1.7000|Willington
 51.1624|-3.3221|Williton
@@ -3735,6 +3823,7 @@
 52.0809|-0.4489|Wilstead
 51.0793|-1.8621|Wilton
 51.2500|-1.9167|Wiltshire
+51.4221|-0.2081|Wimbledon
 52.5093|0.0842|Wimblington
 50.7833|-1.9833|Wimborne Minster
 51.0568|-2.4057|Wincanton
@@ -3777,8 +3866,8 @@
 52.0158|-0.6498|Woburn Sands
 51.3190|-0.5589|Woking
 51.4167|-0.9167|Wokingham
-54.1428|-0.3999|Wold Newton
 51.2853|-0.0337|Woldingham
+54.1428|-0.3999|Wold Newton
 52.2579|-0.6704|Wollaston
 54.7308|-1.8832|Wolsingham
 52.3772|-1.3954|Wolston
@@ -3786,7 +3875,6 @@
 52.5833|-2.1167|Wolverhampton
 52.5333|-2.1833|Wombourn
 53.5219|-1.3970|Wombwell
-51.2510|-0.6370|Wood Street Village
 51.3385|-1.8398|Woodborough
 52.0933|1.3204|Woodbridge
 50.6766|-3.4016|Woodbury
@@ -3794,9 +3882,11 @@
 52.7333|-2.3333|Woodcote
 52.3823|-0.5810|Woodford
 51.6094|0.0233|Woodford Green
+51.6000|-0.1167|Wood Green
 53.1521|-0.2145|Woodhall Spa
 53.3480|-1.1720|Woodsetts
 51.8485|-1.3513|Woodstock
+51.2510|-0.6370|Wood Street Village
 50.6797|-2.2189|Wool
 51.1649|-2.9381|Woolavington
 55.5476|-2.0119|Wooler
@@ -3827,7 +3917,6 @@
 51.1825|0.9368|Wye
 54.9765|-1.8219|Wylam
 52.8054|-1.1129|Wymeswold
-53.1874|-4.2048|Y Felinheli
 51.2239|0.4292|Yalding
 50.8209|-0.6130|Yapton
 54.5036|-1.3579|Yarm
@@ -3842,6 +3931,7 @@
 50.4929|-4.0838|Yelverton
 50.9416|-2.6321|Yeovil
 50.8958|-2.5796|Yetminster
+53.1874|-4.2048|Y Felinheli
 51.6392|-3.3604|Ynysybwl
 53.9576|-1.0827|York
 53.1740|-1.6904|Youlgreave

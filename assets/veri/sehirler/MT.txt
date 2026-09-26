@@ -52,13 +52,13 @@
 35.8815|14.3987|Rabat
 35.9456|14.4244|Salina
 36.0556|14.2036|San Lawrenz
-35.9506|14.4156|San Pawl il-Baħar
-35.9184|14.4898|San Ġiljan (St. Julian's)
-35.9056|14.4761|San Ġwann
 36.0244|14.2428|Sannat
+35.9506|14.4156|San Pawl il-Baħar
 36.0431|14.2172|Santa Luċija
 35.8628|14.5075|Santa Luċija, Gozo
 35.8908|14.4742|Santa Venera
+35.9184|14.4898|San Ġiljan (St. Julian's)
+35.9056|14.4761|San Ġwann
 35.8875|14.5169|Senglea
 35.8556|14.4364|Siġġiewi
 35.9125|14.5019|Sliema

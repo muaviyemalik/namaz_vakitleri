@@ -38,6 +38,7 @@
 41.7429|45.8011|Gurjaani
 42.3997|43.9367|Java
 42.7169|42.0520|Jvari
+42.2833|43.2500|K’alak’i Chiat’ura
 41.9252|44.4257|Kaspi
 42.9788|41.0707|Kelasuri
 42.0214|43.1977|Kharagauli
@@ -47,10 +48,9 @@
 42.3226|42.4206|Khoni
 41.6435|42.3040|Khulo
 41.8214|41.7792|Kobuleti
+42.2041|42.3429|K’ulashi
 42.2679|42.6946|Kutaisi
 42.4810|42.0966|Kveda Chkhorots’q’u
-42.2833|43.2500|K’alak’i Chiat’ura
-42.2041|42.3429|K’ulashi
 41.8268|46.2767|Lagodekhi
 42.0903|42.0324|Lanchkhuti
 42.7889|42.7223|Lent’ekhi
@@ -65,15 +65,17 @@
 41.3527|44.7618|Naghvarevi
 41.9069|41.9542|Naruja
 41.2646|43.5916|Ninotsminda
-41.8597|41.8531|Ochkhamuri
 42.7123|41.4686|Och’amch’ire
+41.8597|41.8531|Ochkhamuri
 42.5794|43.4425|Oni
 42.4678|41.6738|Orsant’ia
 41.9244|42.0068|Ozurgeti
 42.3506|44.6891|P’asanauri
+42.1427|41.6738|Poti
 42.1462|41.6720|P’ot’i
 43.0924|40.6965|P’rimorsk’oe
 41.9549|45.8172|Qvareli
+41.5627|44.9787|Rustavi
 41.5495|44.9932|Rust’avi
 42.3453|43.4194|Sach’khere
 41.7340|45.3315|Sagarejo
@@ -89,21 +91,22 @@
 41.6941|44.8337|Tbilisi
 41.9198|45.4731|Telavi
 41.6000|44.5000|Tetrits’q’alos Munitsip’alit’et’i
+41.5445|44.4615|T’et’ri Tsqaro
 42.3512|42.9987|Tqibuli
 42.8404|41.6801|Tqvarch'eli
 41.8036|43.4819|Tsaghveri
 42.6044|42.0682|Tsalenjikha
 41.5946|44.0891|Tsalka
+41.6333|43.9667|Ts’alk’is Munitsip’alit’et’i
 41.7666|41.7552|Tsikhisdziri
 41.8931|45.5713|Tsinandali
+42.2276|43.9686|Ts’khinvali
 41.6209|45.9694|Tsnori
 42.3413|42.5976|Tsqaltubo
-41.6333|43.9667|Ts’alk’is Munitsip’alit’et’i
-42.2276|43.9686|Ts’khinvali
-41.5445|44.4615|T’et’ri Tsqaro
 41.9956|41.7786|Urek’i
 41.6156|42.8722|Vale
 42.0832|42.5216|Vani
+42.1075|43.0329|Zestaponi
 42.1100|43.0525|Zestap’oni
 42.1318|44.7726|Zhinvali
 42.5088|41.8709|Zugdidi

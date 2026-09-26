@@ -13,6 +13,7 @@
 //   dr5hn/countries-states-cities-database -> ODbL-1.0   (kopyalaç)
 //   mledoze/countries                       -> ODbL-1.0   (kopyalaç)
 //   haliaeetus/iso-639                       -> MIT         (serbest)
+//   GeoNames cities15000                     -> CC BY 4.0   (atif zorunlu)
 //   Aladhan API                              -> ucretsiz, anahtar gerekmez
 
 /// Tek bir atif girdisi.
@@ -58,6 +59,15 @@ const List<LisansGirdisi> lisansGirdileri = [
 
   // --- Serbest lisanslı veri ---
   LisansGirdisi(
+    baslik: 'Önemli Şehir Takviyesi (GeoNames)',
+    aciklama: 'Büyük şehirlerin kanonik adları ve koordinatları bu veri '
+        'setinden alınmıştır. Ana veri seti ilçe ve köy düzeyine odaklandığı '
+        'için bazı büyük şehirler (örn. Kahramanmaraş, Konya) onda bulunmuyordu.',
+    lisans: 'CC BY 4.0 (Creative Commons Attribution)',
+    kaynak: 'GeoNames cities15000',
+    url: 'https://www.geonames.org/webservices/',
+  ),
+  LisansGirdisi(
     baslik: 'Dil Adları (otokton adlar)',
     aciklama: '152 dilin kendi dilindeki adı ve ISO 639 kod eşlemesi bu veri '
         'setinden alınmıştır.',
@@ -96,6 +106,19 @@ const String odblAciklamasi =
     'lisans olduğu için, bu verileri kullanan ve dağıtan uygulamalar verinin '
     'kaynağını açıkça belirtmek zorundadır. Kaynak veri setlerinin lisans '
     'koşulları aynen uygulanmaktadır.';
+
+/// GeoNames (CC BY 4.0) için gereken atıf açıklaması.
+///
+/// CC BY 4.0 da atıf zorunludur; kaynak, lisans ve değişiklik (blendirilen
+/// veri) belirtilmelidir.
+const String geoNamesAciklamasi =
+    'Bu uygulama, GeoNames cities15000 veri setini kullanır '
+    '(© GeoNames, CC BY 4.0). GeoNames verisi, uygulamanın kendi şehir '
+    'veri tabanıyla birleştirilmiştir: veri kaynağının küçük yerleşim '
+    'kayıtları korunmuş, büyük şehirlerin kanonik adları ve koordinatları '
+    'eklenmiş, aynı koordinatı taşıyan mükerrer kayıtlar birleştirilmiştir. '
+    'Değişiklikler bu depodaki tool/sehir_birlestir.dart ve '
+    'tool/mukerrer_birlestir.dart araçlarıyla yapılmıştır.';
 
 /// Uygulamanın kendi durumu.
 const String uygulamaSurumu = '1.0.0';

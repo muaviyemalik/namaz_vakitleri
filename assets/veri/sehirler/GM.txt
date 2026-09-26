@@ -1,6 +1,8 @@
 13.4042|-16.6558|Abuko
 13.3000|-14.3833|Bakadagy
 13.4781|-16.6819|Bakau
+13.4730|-16.6851|Bakau New Town
+13.4300|-16.6983|Bakoti
 13.4833|-15.3333|Bambali
 13.4527|-16.5780|Banjul
 13.4333|-14.6500|Bansang
@@ -10,7 +12,10 @@
 13.5000|-13.9333|Brifu
 13.2714|-16.6494|Brikama
 13.5333|-14.9333|Brikama Nding
+13.3888|-16.7501|Brufut
+13.4272|-16.6853|Bununka Kunda
 13.4167|-15.2833|Bureng
+13.3392|-16.6875|Busumbala
 13.5333|-15.9167|Central Baddibu
 13.5500|-16.2833|Chilla
 13.3167|-14.3000|Daba Kunda
@@ -20,8 +25,11 @@
 13.5000|-14.9333|Denton
 13.3833|-14.4000|Diabugu
 13.3333|-13.9500|Diabugu Basilla
+13.4403|-16.6869|Dippa Kunda
 13.4839|-16.5347|Essau
+13.4178|-16.6667|Faji Kunda
 13.5667|-15.6000|Farafenni
+13.4000|-14.2167|Farato
 13.2167|-15.9333|Foni Bondali
 13.2167|-16.3333|Foni Brefet
 13.2333|-15.8333|Foni Jarrol
@@ -32,6 +40,7 @@
 13.5404|-14.7637|Georgetown
 13.5228|-16.0278|Gunjur
 13.5333|-14.1167|Gunjur Kuta
+13.4353|-16.6764|Ibo Town
 13.5500|-14.9667|Jakhaly
 13.3500|-15.9667|Jali
 13.5356|-14.7652|Janjanbureh
@@ -43,6 +52,7 @@
 13.3000|-15.8667|Jifarong
 13.5333|-16.1833|Jokadu
 13.4000|-15.6167|Kaiaf
+13.4464|-16.6744|Kanifing
 13.4167|-13.9167|Kantora
 13.6667|-15.0333|Karantaba
 13.7833|-14.9333|Kass Wollof
@@ -58,14 +68,21 @@
 13.3667|-16.6667|Kombo North
 13.4439|-16.6458|Kombo Saint Mary
 13.2500|-16.7500|Kombo South
+13.4594|-16.7053|Kotu
 13.2667|-14.1833|Kumbija
+13.3897|-16.6728|Kunkujang
 13.6708|-14.8898|Kuntaur
 13.5333|-14.6667|Kunting
 13.3522|-16.4339|Lamin
+13.4486|-16.6853|Latri Kunda
+13.4133|-16.6789|Latri Sabiji
 13.5000|-16.0500|Lower Baddibu
 13.5333|-16.4167|Lower Niumi
 13.7167|-15.3667|Lower Saloum
+13.4453|-16.7028|Manjai Kunda
 13.4433|-15.5357|Mansa Konko
+13.2500|-15.8833|Nema Kunku
+13.4474|-16.6650|New Jeshwang
 13.6333|-15.0833|Niamina East
 13.5833|-15.2500|Niamina West
 13.6667|-14.9167|Niani
@@ -79,12 +96,15 @@
 13.2333|-14.2000|Sabi
 13.5833|-15.2000|Sami
 13.5833|-14.5833|Sami District
+13.4222|-16.7097|Sanchaba
 13.4167|-14.3667|Sandu
 13.4667|-15.5167|Sankwia
+13.2675|-16.7602|Sanyang
 13.5333|-15.4167|Sara Kunda
 13.5500|-14.9167|Saruja
 13.4383|-16.6781|Serekunda
 13.4333|-15.5667|Si Kunda
+13.3749|-16.6784|Sinchu Alagi
 13.4333|-15.5333|Soma
 13.2058|-16.3056|Somita
 13.3667|-13.9667|Sudowol
@@ -92,10 +112,13 @@
 13.3833|-13.8500|Sun Kunda
 13.5000|-14.0167|Sutukoba
 13.4667|-15.2667|Sutukung
+13.4256|-16.6726|Talinding
+13.3497|-16.7891|Tanji
 13.4333|-15.5833|Toniataba
 13.5500|-15.6667|Upper Baddibu
 13.4000|-16.3333|Upper Niumi
 13.7500|-15.2000|Upper Saloum
 13.6909|-14.8788|Wassu
+13.4036|-16.6736|Welingara
 13.4167|-15.4000|Wellingara Ba
 13.5000|-14.0833|Wuli
