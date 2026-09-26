@@ -1,8 +1,8 @@
-12.1819|-68.2181|Boven Bolivia
-12.1333|-68.2667|Dorp Tera Kora
-17.4833|-62.9833|Oranjestad
-12.2383|-68.3325|Rincon
-17.6210|-63.2432|St. Johns
-17.6261|-63.2492|The Bottom
-17.6286|-63.2314|Windwardside
-17.6430|-63.2265|Zion's Hill
+12.1819|-68.2181|Boven Bolivia|Bonaire|0|
+12.1333|-68.2667|Dorp Tera Kora|Bonaire|1186|
+17.4833|-62.9833|Oranjestad|Bonaire|1097|
+12.2383|-68.3325|Rincon|Bonaire|0|
+17.6210|-63.2432|St. Johns|Bonaire|0|
+17.6261|-63.2492|The Bottom|Bonaire|488|
+17.6286|-63.2314|Windwardside|Bonaire|0|
+17.6430|-63.2265|Zion's Hill|Bonaire|0|

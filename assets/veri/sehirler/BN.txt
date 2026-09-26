@@ -1,11 +1,11 @@
-4.8903|114.9401|Bandar Seri Begawan
-4.7086|115.0717|Bangar
-4.9703|114.9299|Berakas A
-5.0245|115.0466|Kapok
-4.5836|114.2312|Kuala Belait
-4.6775|114.4959|Liang
-4.9706|115.0208|Mentiri
-4.8833|114.8333|Sengkurong
-5.0172|115.0584|Serasa
-4.6064|114.3248|Seria
-4.8028|114.6492|Tutong
+4.8903|114.9401|Bandar Seri Begawan|Brunei-Muara|64409|
+4.7086|115.0717|Bangar|Temburong|3970|
+4.9703|114.9299|Berakas A|Brunei-Muara|0|
+5.0245|115.0466|Kapok|Brunei-Muara|2791|
+4.5836|114.2312|Kuala Belait|Belait|31178|
+4.6775|114.4959|Liang|Belait|16813|
+4.9706|115.0208|Mentiri|Brunei-Muara|39324|
+4.8833|114.8333|Sengkurong|Brunei-Muara District|40972|
+5.0172|115.0584|Serasa|Brunei-Muara|18569|
+4.6064|114.3248|Seria|Belait|2659|
+4.8028|114.6492|Tutong|Tutong|19151|

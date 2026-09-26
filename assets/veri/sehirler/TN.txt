@@ -1,221 +1,219 @@
-34.7441|10.4611|Agareb
-33.7264|10.7566|Ajim
-35.8691|10.5653|Akouda
-36.8782|10.3247|Al Marsá|La Marsa
-37.2452|10.0500|Al Matlīn
-36.7442|9.0513|Amdoun
-36.8601|10.1934|Ariana|Aryanah
-34.3827|8.1555|Ar Rudayyif
-34.4628|9.2640|As Sanad
-36.0764|9.0212|As Sars
-36.9244|11.0069|Azmour
-35.7000|10.8000|Banbalah
-36.7256|9.1817|Béja
-35.6174|10.9947|Bekalta
-35.6991|10.7952|Bembla et Mnara
-36.7531|10.2294|Ben Arous
-33.1378|11.2196|Ben Gardane
-35.5672|10.8087|Beni Hassane
-36.6504|10.5900|Beni Khalled
-33.2528|10.1988|Beni Kheddache
-36.4667|10.7833|Béni Khiar
-36.4692|10.7822|Beni Khiar
-34.7359|10.0924|Bir Ali Ben Khalifa
-34.9321|9.1932|Bir el Hafey
-37.2744|9.8739|Bizerte
-37.2553|9.6791|Bizerte Sud
-36.6970|10.3865|Borj Cedria
-36.3525|9.6218|Bou Arada
-36.5385|10.5509|Bou Argoub
-33.8993|9.7850|Bou Attouche
-36.7251|10.2350|Boumhel El Bassatine
-36.8596|10.3298|Carthage
-35.2372|11.1150|Chebba
-34.3191|7.9352|Chebika
-33.8722|10.0552|Chenini Nahal
-35.2858|10.3858|Chorbane
-35.9439|8.8278|Dahmani
-36.4700|10.7500|Dar Chaabane
-36.4680|10.7517|Dar Chabanne
-34.7844|10.7439|Dar el Haj Taïeb
-33.9761|8.2081|Degache
-36.8075|10.1106|Den Den
-35.0350|10.9081|Djebeniana
-35.6223|10.7570|Djemmal
-36.4477|10.7557|Douane
-36.8266|10.0897|Douar Hicher
-37.1667|9.7500|Douar Tindja
-33.4663|9.0203|Douz
-34.8000|10.7833|El Ain
-37.1691|10.0348|El Alia
-36.8037|9.8442|El Battan
-36.3742|9.9065|El Fahs
-33.4849|9.0068|El Golaa
-33.8915|9.7963|El Hamma
-37.0500|11.0111|El Haouaria
-35.3000|10.7167|El Jem
-36.1742|8.7049|El Kef
-34.3992|8.8040|El Ksar
-35.8961|8.8849|El Ksour
-36.4667|10.8000|El Maâmoura
-33.8168|10.9923|El Mgarsa
-36.7333|10.8500|El Mida
-36.7136|10.2096|El Mourouj
-36.4216|10.6641|El Mrezga
-34.8593|9.7865|Er Regueb
-33.8206|10.8539|Erriadh
-36.8325|10.1099|Ettadhamen
-36.8625|10.1703|Ettadhamen-Mnihla
-36.7461|10.3083|Ez Zahra
-35.7901|10.5826|Ezzouhour
-34.9453|8.5679|Feriana
-36.6555|8.6960|Fernana
-36.7005|10.1685|Fouchana
-33.8815|10.0982|Gabès
-36.3205|9.3242|Gafour
-34.4250|8.7842|Gafsa
-37.0629|10.1183|Galaat el Andeless
-36.4479|8.4413|Ghardimaou
-36.5956|9.2078|Goubellat
-34.7500|10.7833|Gremda
-36.6100|10.5000|Grombalia
-35.6324|9.6762|Haffouz
-36.4167|10.6000|Hammamet
-36.7203|10.3261|Hammam Lif
-35.8609|10.6031|Hammam Sousse
-36.0303|10.5090|Harqalah
-33.8758|10.8575|Houmt El Souk|Houmt Souk
-36.8311|9.9242|Jedeïda
-33.5778|9.0147|Jemna
-36.4852|8.8232|Jendouba
-33.7792|10.9521|Jerba Midoun
-35.2731|9.4238|Jilma
-35.6781|10.0963|Kairouan
-35.8224|10.5574|Kalaa Srira
-36.8811|10.2622|Kalaat el-Andalous
-35.1676|8.8365|Kasserine
-33.7044|8.9690|Kebili
-35.8728|10.5372|Kelaa Kebira
-36.8476|11.0939|Kélibia
-36.8475|11.0939|Kelibia
-34.7088|11.2147|Kellabine
-35.8136|9.3643|Kesra
-36.5667|10.8667|Korba
-36.8164|10.5686|Korbous
-35.6477|10.8905|Ksar Hellal
-35.6856|10.8426|Ksibet el Mediouni
-35.4181|10.9947|Ksour Essaf
-36.8182|10.3052|La Goulette
-36.6745|10.1563|La Mohammedia
-36.7590|10.0170|La Mornaghia
-36.6793|10.2919|La Sebala du Mornag
-36.8535|10.2525|La Soukra
-36.8106|10.1348|Le Bardo
-36.8358|10.3164|Le Kram
-36.3280|9.1361|Le Krib
-35.6667|10.8833|Lemta
-35.7517|10.6908|Maatmeur
-35.5047|11.0622|Mahdia
-34.5275|10.5008|Mahires
-35.8580|9.2007|Maktar
-36.8101|10.0956|Manouba
-33.6179|10.2854|Mareth
-37.0404|9.6656|Mateur
-33.5444|9.9716|Matmata
-33.3550|10.5055|Medenine
-36.7064|9.6106|Medjez el Bab
-36.7692|10.2364|Mégrine
-35.1662|11.0350|Melloulèche
-36.6831|10.5843|Mennzel Bou Zelfa
-37.2374|9.8631|Menzel Abderhaman
-37.1537|9.7859|Menzel Bourguiba
-36.6817|10.5847|Menzel Bouzelfa
-36.7333|10.9500|Menzel Horr
-37.2362|9.9145|Menzel Jemil
-35.6248|10.6673|Menzel Kamel
-35.8567|8.4765|Menzel Salem
-36.7833|10.9833|Menzel Temime
-35.6821|10.7275|Mesdour
-34.3208|8.4016|Metlaoui
-33.9592|9.9962|Métouia
-34.5776|9.8419|Mezzouna
-33.8081|10.9923|Midoun
-36.8369|10.2002|Mnihla
-35.6333|10.9000|Moknine
-35.7780|10.8262|Monastir
-36.6616|10.1463|Mornag
-36.7214|10.0494|Mornaguia
-34.4888|8.2687|Moularès
-35.7292|10.5808|Msaken
-34.4008|8.1706|Mu‘tamadīyat ar Rudayyif
-36.8091|10.0947|Mu‘tamadīyat Manūbah
-36.4514|10.7361|Nabeul
-33.8731|7.8777|Nefta
-36.6049|8.9702|Nefza
-36.2941|8.7666|Nibbar
-35.7092|10.6740|Ouardenine
-36.8341|10.0406|Oued Lill
-36.4681|8.5495|Oued Meliz
-35.6901|10.6760|Ouerdanine
-35.8924|10.5943|Port el Kantaoui
-36.7695|10.2747|Radès
-37.1904|10.1837|Rafrāf
-36.8850|10.2465|Raoued
-37.2157|10.1253|Rass el Djebel
-36.8948|10.1860|Rawad
-32.3166|10.3955|Remada
-37.1694|10.1906|Rhar el Melah
-33.9406|10.0644|Rhennouch
-35.6513|9.0531|Rohia
-35.7517|10.7111|Sahline
-34.7944|10.8062|Sakiet ed Daier
-34.8019|10.7636|Sakiet ez Zit
-36.2229|8.3555|Sakiet Sidi Youssef
-35.3944|11.0436|Salakta
-35.2315|9.1232|Sbeitla
-35.5433|9.0737|Sbiba
-35.9333|10.0208|Sbikha
-35.6689|10.8925|Seïada
-37.0572|9.2381|Sejenane
-34.7406|10.7603|Sfax
-34.7000|10.6950|Sidi Abid
-35.3751|10.9390|Sidi Alouane
-35.5333|10.9167|Sidi Ben Nour
-35.9567|10.4731|Sidi Bou Ali
-36.8687|10.3417|Sidi Bou Saïd
-35.0382|9.4849|Sidi Bouzid
-35.6714|10.3158|Sidi el Hani
-36.8399|10.0403|Sidi Thabet
-36.0850|9.3708|Siliana
-35.7833|10.8000|Skanes
-34.2992|10.0700|Skhira
-36.6951|10.4913|Soliman
-35.8254|10.6370|Sousse
-36.8774|10.2468|Sukrah
-36.7558|10.1183|Sīdī Ḥusayn
-36.9544|8.7580|Tabarka
-36.4569|9.2475|Tabursuq
-35.8917|8.5528|Tajerouine
-36.7900|10.6300|Takelsa
-34.3885|7.9431|Tamaghzah
-32.9297|10.4518|Tataouine
-36.5500|10.8000|Tazerka
-35.6402|10.9673|Teboulba
-33.8455|10.1142|Teboulbou
-36.8293|9.8393|Tebourba
-36.7104|9.0008|Téboursouk
-36.5014|9.6664|Testour
-35.5724|8.6703|Thala
-36.4656|9.0622|Thibar
-37.1596|9.7606|Tinja
-35.6354|10.8273|Touza
-33.9197|8.1335|Tozeur
-36.8190|10.1658|Tunis
-36.4029|10.1429|Zaghouan
-37.0396|10.0388|Zahānah
-36.6500|10.6000|Zaouiet Djedidi
-35.7855|10.6273|Zaouiet Sousse
-33.5040|11.1121|Zarzis
-35.5752|10.7346|Zeramedine
-35.5006|11.0606|Zouila
-36.3558|10.2060|Zriba
+34.7441|10.4611|Agareb|Sfax|11513|
+33.7264|10.7566|Ajim|Medenine Governorate|24294|
+35.8691|10.5653|Akouda|Sousse|27200|
+36.8782|10.3247|Al Marsá|Tunis|92987|La Marsa
+37.2452|10.0500|Al Matlīn|Bizerte|9904|
+36.7442|9.0513|Amdoun|Béja|0|
+36.8601|10.1934|Ariana|Ariana|114486|Aryanah
+34.3827|8.1555|Ar Rudayyif|Gafsa|26976|
+34.4628|9.2640|As Sanad|Gafsa|9533|
+36.0764|9.0212|As Sars|Kef|12137|
+36.9244|11.0069|Azmour|Nabeul|0|
+35.7000|10.8000|Banbalah|Monastir|12367|
+36.7256|9.1817|Béja|Béja|61568|
+35.6174|10.9947|Bekalta|Monastir|20506|
+35.6991|10.7952|Bembla et Mnara|Monastir Governorate|16078|
+36.7531|10.2294|Ben Arous|Ben Arous|88322|
+33.1378|11.2196|Ben Gardane|Medenine|87404|
+35.5672|10.8087|Beni Hassane|Monastir|8801|
+36.6504|10.5900|Beni Khalled|Nabeul|15439|
+33.2528|10.1988|Beni Kheddache|Medenine|2968|
+36.4667|10.7833|Béni Khiar|Nabeul|21624|
+34.7359|10.0924|Bir Ali Ben Khalifa|Sfax|4905|
+34.9321|9.1932|Bir el Hafey|Sidi Bouzid|6498|
+37.2744|9.8739|Bizerte|Bizerte|138430|
+37.2553|9.6791|Bizerte Sud|Bizerte|0|
+36.6970|10.3865|Borj Cedria|Ben Arous Governorate|31858|
+36.3525|9.6218|Bou Arada|Siliana|13170|
+36.5385|10.5509|Bou Argoub|Nabeul|0|
+33.8993|9.7850|Bou Attouche|Gabès|2700|
+36.7251|10.2350|Boumhel El Bassatine|Ben Arous Governorate|40101|
+36.8596|10.3298|Carthage|Tunis|24216|
+35.2372|11.1150|Chebba|Mahdia|22227|
+34.3191|7.9352|Chebika|Tozeur|1820|
+33.8722|10.0552|Chenini Nahal|Gabès Governorate|17248|
+35.2858|10.3858|Chorbane|Mahdia|5710|
+35.9439|8.8278|Dahmani|Kef Governorate|30720|
+36.4700|10.7500|Dar Chaabane|Nabeul|0|
+36.4680|10.7517|Dar Chabanne|Nabeul Governorate|42140|
+34.7844|10.7439|Dar el Haj Taïeb|Sfax Governorate|26304|
+33.9761|8.2081|Degache|Tozeur|8134|
+36.8075|10.1106|Den Den|Manouba|26787|
+35.0350|10.9081|Djebeniana|Sfax|7190|
+35.6223|10.7570|Djemmal|Monastir|55285|
+36.4477|10.7557|Douane|Nabeul Governorate|60192|
+36.8266|10.0897|Douar Hicher|Manouba|82532|
+37.1667|9.7500|Douar Tindja|Bizerte|18551|
+33.4663|9.0203|Douz|Kebili|34221|
+34.8000|10.7833|El Ain|Sfax Governorate|43333|
+37.1691|10.0348|El Alia|Bizerte|18410|
+36.8037|9.8442|El Battan|Manouba|6458|
+36.3742|9.9065|El Fahs|Zaghouan|25100|
+33.4849|9.0068|El Golaa|Kebili|7912|
+33.8915|9.7963|El Hamma|Gabès|47000|
+37.0500|11.0111|El Haouaria|Nabeul|9508|
+35.3000|10.7167|El Jem|Mahdia|21544|
+36.1742|8.7049|El Kef|Kef|53596|
+34.3992|8.8040|El Ksar|Gafsa|33729|
+35.8961|8.8849|El Ksour|Kef|5576|
+36.4667|10.8000|El Maâmoura|Nabeul|8039|
+33.8168|10.9923|El Mgarsa|Medenine Governorate|63528|
+36.7333|10.8500|El Mida|Nabeul|4176|
+36.7136|10.2096|El Mourouj|Ben Arous Governorate|120732|
+36.4216|10.6641|El Mrezga|Nabeul|0|
+34.8593|9.7865|Er Regueb|Sidi Bouzid|11420|
+33.8206|10.8539|Erriadh|Medenine|14426|
+36.8325|10.1099|Ettadhamen|Ariana Governorate|84312|
+36.8625|10.1703|Ettadhamen-Mnihla|Ariana|0|
+36.7461|10.3083|Ez Zahra|Ben Arous Governorate|34962|
+35.7901|10.5826|Ezzouhour|Sousse Governorate|17348|
+34.9453|8.5679|Feriana|Kasserine Governorate|75000|
+36.6555|8.6960|Fernana|Jendouba|4681|
+36.7005|10.1685|Fouchana|Ben Arous Governorate|45107|
+33.8815|10.0982|Gabès|Gabès|110075|
+36.3205|9.3242|Gafour|Siliana|10272|
+34.4250|8.7842|Gafsa|Gafsa|95242|
+37.0629|10.1183|Galaat el Andeless|Ariana Governorate|18225|
+36.4479|8.4413|Ghardimaou|Jendouba Governorate|19574|
+36.5956|9.2078|Goubellat|Béja|0|
+34.7500|10.7833|Gremda|Sfax|40862|
+36.6100|10.5000|Grombalia|Nabeul|27236|
+35.6324|9.6762|Haffouz|Kairouan|8472|
+36.4167|10.6000|Hammamet|Nabeul|106326|
+36.7203|10.3261|Hammam Lif|Ben Arous|44207|
+35.8609|10.6031|Hammam Sousse|Sousse|42691|
+36.0303|10.5090|Harqalah|Sousse|7423|
+33.8758|10.8575|Houmt El Souk|Medenine|89228|Houmt Souk
+36.8311|9.9242|Jedeïda|Manouba|45000|
+33.5778|9.0147|Jemna|Kebili|7209|
+36.4852|8.8232|Jendouba|Jendouba|51408|
+33.7792|10.9521|Jerba Midoun|Medenine|0|
+35.2731|9.4238|Jilma|Sidi Bouzid|5887|
+35.6781|10.0963|Kairouan|Kairouan|139070|
+35.8224|10.5574|Kalaa Srira|Sousse Governorate|44220|
+36.8811|10.2622|Kalaat el-Andalous|Ariana|0|
+35.1676|8.8365|Kasserine|Kasserine|84365|
+33.7044|8.9690|Kebili|Kebili|26310|
+35.8728|10.5372|Kelaa Kebira|Sousse Governorate|63264|
+36.8475|11.0939|Kelibia|Nabeul|62993|
+34.7088|11.2147|Kellabine|Sfax Governorate|15501|
+35.8136|9.3643|Kesra|Siliana|2729|
+36.5667|10.8667|Korba|Nabeul|65542|
+36.8164|10.5686|Korbous|Nabeul|3532|
+35.6477|10.8905|Ksar Hellal|Monastir|55415|
+35.6856|10.8426|Ksibet el Mediouni|Monastir|14490|
+35.4181|10.9947|Ksour Essaf|Mahdia|37683|
+36.8182|10.3052|La Goulette|Tunis|45711|
+36.6745|10.1563|La Mohammedia|Tunis|66593|
+36.7590|10.0170|La Mornaghia|Manouba|23100|
+36.6793|10.2919|La Sebala du Mornag|Ben Arous Governorate|33421|
+36.8535|10.2525|La Soukra|Ariana|0|
+36.8106|10.1348|Le Bardo|Tunis Governorate|71961|
+36.8358|10.3164|Le Kram|Tunis Governorate|88302|
+36.3280|9.1361|Le Krib|Siliana|7841|
+35.6667|10.8833|Lemta|Monastir|5790|
+35.7517|10.6908|Maatmeur|Monastir Governorate|18996|
+35.5047|11.0622|Mahdia|Mahdia|51803|
+34.5275|10.5008|Mahires|Sfax Governorate|15878|
+35.8580|9.2007|Maktar|Siliana|13576|
+36.8101|10.0956|Manouba|Manouba|32005|
+33.6179|10.2854|Mareth|Gabès Governorate|17385|
+37.0404|9.6656|Mateur|Bizerte|32492|
+33.5444|9.9716|Matmata|Gabès|2406|
+33.3550|10.5055|Medenine|Medenine|71406|
+36.7064|9.6106|Medjez el Bab|Béja|24100|
+36.7692|10.2364|Mégrine|Tunis Governorate|25863|
+35.1662|11.0350|Melloulèche|Mahdia|6948|
+36.6831|10.5843|Mennzel Bou Zelfa|Nabeul Governorate|18551|
+37.2374|9.8631|Menzel Abderhaman|Bizerte|19078|
+37.1537|9.7859|Menzel Bourguiba|Bizerte|58800|
+36.6817|10.5847|Menzel Bouzelfa|Nabeul|0|
+36.7333|10.9500|Menzel Horr|Nabeul|0|
+37.2362|9.9145|Menzel Jemil|Bizerte|22231|
+35.6248|10.6673|Menzel Kamel|Monastir|8432|
+35.8567|8.4765|Menzel Salem|Kef|2856|
+36.7833|10.9833|Menzel Temime|Nabeul|38908|
+35.6821|10.7275|Mesdour|Monastir|0|
+34.3208|8.4016|Metlaoui|Gafsa|39021|
+33.9592|9.9962|Métouia|Gabès Governorate|20648|
+34.5776|9.8419|Mezzouna|Sidi Bouzid|7390|
+33.8081|10.9923|Midoun|Medenine|32000|
+36.8369|10.2002|Mnihla|Ariana|58641|
+35.6333|10.9000|Moknine|Monastir Governorate|62802|
+35.7780|10.8262|Monastir|Monastir|93306|
+36.6616|10.1463|Mornag|Ben Arous|0|
+36.7214|10.0494|Mornaguia|Ben Arous|0|
+34.4888|8.2687|Moularès|Gafsa|21431|
+35.7292|10.5808|Msaken|Sousse|89745|
+34.4008|8.1706|Mu‘tamadīyat ar Rudayyif|Gafsa|0|
+36.8091|10.0947|Mu‘tamadīyat Manūbah|Manouba|0|
+36.4514|10.7361|Nabeul|Nabeul|70437|
+33.8731|7.8777|Nefta|Tozeur|22745|
+36.6049|8.9702|Nefza|Béja|0|
+36.2941|8.7666|Nibbar|Kef|3557|
+35.7092|10.6740|Ouardenine|Monastir|18287|
+36.8341|10.0406|Oued Lill|Manouba|66100|
+36.4681|8.5495|Oued Meliz|Jendouba|0|
+35.6901|10.6760|Ouerdanine|Monastir Governorate|23707|
+35.8924|10.5943|Port el Kantaoui|Sousse|6000|
+36.7695|10.2747|Radès|Ben Arous|72209|
+37.1904|10.1837|Rafrāf|Bizerte|9850|
+36.8850|10.2465|Raoued|Ariana|0|
+37.2157|10.1253|Rass el Djebel|Bizerte Governorate|31574|
+36.8948|10.1860|Rawad|Ariana Governorate|94961|
+32.3166|10.3955|Remada|Tataouine|6289|
+37.1694|10.1906|Rhar el Melah|Bizerte|10530|
+33.9406|10.0644|Rhennouch|Gabès Governorate|28051|
+35.6513|9.0531|Rohia|Kasserine|4231|
+35.7517|10.7111|Sahline|Monastir|21533|
+34.7944|10.8062|Sakiet ed Daier|Sfax Governorate|125204|
+34.8019|10.7636|Sakiet ez Zit|Sfax Governorate|100000|
+36.2229|8.3555|Sakiet Sidi Youssef|Kef|6442|
+35.3944|11.0436|Salakta|Mahdia|3477|
+35.2315|9.1232|Sbeitla|Kasserine Governorate|23764|
+35.5433|9.0737|Sbiba|Kasserine|6504|
+35.9333|10.0208|Sbikha|Kairouan|8036|
+35.6689|10.8925|Seïada|Monastir|13711|
+37.0572|9.2381|Sejenane|Bizerte|5718|
+34.7406|10.7603|Sfax|Sfax|280566|
+34.7000|10.6950|Sidi Abid|Sfax Governorate|33419|
+35.3751|10.9390|Sidi Alouane|Mahdia|7610|
+35.5333|10.9167|Sidi Ben Nour|Monastir|4520|
+35.9567|10.4731|Sidi Bou Ali|Sousse|10282|
+36.8687|10.3417|Sidi Bou Saïd|Tunis|4988|
+35.0382|9.4849|Sidi Bouzid|Sidi Bouzid|47595|
+35.6714|10.3158|Sidi el Hani|Sousse|2820|
+36.8399|10.0403|Sidi Thabet|Ariana|0|
+36.0850|9.3708|Siliana|Siliana|31251|
+35.7833|10.8000|Skanes|Monastir|64222|
+34.2992|10.0700|Skhira|Sfax|11944|
+36.6951|10.4913|Soliman|Nabeul|45053|
+35.8254|10.6370|Sousse|Sousse|221715|
+36.8774|10.2468|Sukrah|Ariana Governorate|159862|
+36.7558|10.1183|Sīdī Ḥusayn|Tunis Governorate|130255|
+36.9544|8.7580|Tabarka|Jendouba|19770|
+36.4569|9.2475|Tabursuq|Béja|21022|
+35.8917|8.5528|Tajerouine|Kef|19362|
+36.7900|10.6300|Takelsa|Nabeul|24109|
+34.3885|7.9431|Tamaghzah|Tozeur|2750|
+32.9297|10.4518|Tataouine|Tataouine|66924|
+36.5500|10.8000|Tazerka|Nabeul|0|
+35.6402|10.9673|Teboulba|Monastir Governorate|41731|
+33.8455|10.1142|Teboulbou|Gabès Governorate|16931|
+36.8293|9.8393|Tebourba|Manouba|29948|
+36.7104|9.0008|Téboursouk|Béja|0|
+36.5014|9.6664|Testour|Béja|13397|
+35.5724|8.6703|Thala|Kasserine|18230|
+36.4656|9.0622|Thibar|Béja|0|
+37.1596|9.7606|Tinja|Bizerte Governorate|21167|
+35.6354|10.8273|Touza|Monastir|7236|
+33.9197|8.1335|Tozeur|Tozeur|37370|
+36.8190|10.1658|Tunis|Tunis|693210|
+36.4029|10.1429|Zaghouan|Zaghouan|20798|
+37.0396|10.0388|Zahānah|Bizerte|3765|
+36.6500|10.6000|Zaouiet Djedidi|Nabeul|0|
+35.7855|10.6273|Zaouiet Sousse|Sousse Governorate|20992|
+33.5040|11.1121|Zarzis|Medenine|79316|
+35.5752|10.7346|Zeramedine|Monastir Governorate|16806|
+35.5006|11.0606|Zouila|Mahdia|44349|
+36.3558|10.2060|Zriba|Nabeul|0|

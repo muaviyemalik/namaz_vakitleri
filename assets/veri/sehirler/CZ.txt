@@ -1,1357 +1,1384 @@
-50.3687|12.8183|Abertamy
-49.3016|16.6525|Adamov
-49.7865|18.5244|Albrechtice
-50.1398|16.0644|Albrechtice nad Orlicí
-50.2239|12.1950|Aš
-49.1217|17.4808|Babice
-50.4823|14.9415|Bakov nad Jizerou
-48.9880|17.7175|Bánov
-49.6688|18.0546|Bartošovice
-49.6458|18.3723|Baška
-49.3143|15.3947|Batelov
-49.1218|14.0789|Bavorov
-50.4162|14.3409|Bechlín
-49.2952|14.4681|Bechyně
-50.4497|13.7178|Bečov
-49.4483|17.1664|Bedihošť
-49.5911|12.7176|Bělá nad Radbuzou
-50.5012|14.8042|Bělá pod Bezdězem
-49.5912|17.8065|Bělotín
-50.2908|14.8234|Benátky nad Jizerou
-50.6663|15.5482|Benecko
-49.7816|14.6870|Benešov
-48.7294|14.6274|Benešov nad Černou
-50.7416|14.3124|Benešov nad Ploučnicí
-49.3689|14.3810|Bernartice
-49.9638|14.0720|Beroun
-49.9072|12.9711|Bezdružice
-49.7095|16.9751|Bílá Lhota
-50.4447|15.7410|Bílá Třemešná
-50.5485|13.7753|Bílina
-50.5500|13.7667|Bílina Kyselka
-49.7564|18.0158|Bílovec
-49.0996|17.5496|Bílovice
-49.2471|16.6725|Bílovice nad Svitavou
-49.3630|16.6445|Blansko
-49.4249|13.8818|Blatná
-49.1657|16.7861|Blažovice
-49.5000|12.9893|Blížejov
-48.9998|15.8348|Blížkovice
-49.5822|13.5401|Blovice
-49.0550|16.6445|Blučina
-49.9408|16.9285|Bludov
-50.1487|13.0523|Bochov
-49.4792|15.8758|Bohdalov
-50.1333|14.4167|Bohnice
-49.9041|18.3575|Bohumín
-49.9423|18.1287|Bohuslavice
-50.4932|14.1505|Bohušovice nad Ohří
-49.6555|13.9439|Bohutín
-49.6630|17.2869|Bohuňovice
-49.0386|17.8149|Bojkovice
-49.9517|18.0836|Bolatice
-49.7116|12.7752|Bor
-49.0234|14.5009|Borek
-48.9130|16.8531|Bořetice
-49.4250|16.5912|Bořitov
-50.0978|16.0933|Borohrádek
-48.9898|13.6599|Borová Lada
-48.8986|14.6423|Borovany
-49.0625|17.3508|Boršice
-49.4875|16.6600|Boskovice
-49.0535|16.8368|Bošovice
-49.7043|16.8929|Bouzov
-48.8369|16.2888|Božice
-50.1892|14.1620|Brandýsek
-50.1871|14.6633|Brandýs nad Labem-Stará Boleslav
-50.0019|16.2853|Brandýs nad Orlicí
-50.0350|14.4152|Braník
-50.0635|17.6291|Brantice
-49.8370|13.5783|Břasy
-50.5429|13.7002|Braňany
-48.7590|16.8820|Břeclav
-48.8193|16.5675|Březí
-49.5576|13.9506|Březnice
-50.4019|13.4212|Březno
-49.1214|17.5803|Březolupy
-50.1456|12.6500|Březová
-49.6442|16.5180|Březová nad Svitavou
-49.9117|17.3711|Břidličná
-48.9299|14.2186|Brloh
-49.6273|16.5220|Brněnec
-50.7292|14.7034|Brniště
-49.1952|16.6080|Brno
-49.1934|16.6071|Brno střed
-49.4842|17.3382|Brodek u Přerova
-50.5857|16.3318|Broumov
-49.3070|15.6764|Brtnice
-50.0153|17.7496|Brumovice
-49.9884|17.4647|Bruntál
-49.7001|18.2221|Brušperk
-49.0863|17.3385|Buchlovice
-49.1490|17.0019|Bučovice
-49.2714|16.0038|Budišov
-49.7951|17.6297|Budišov nad Budišovkou
-50.4043|14.1259|Budyně nad Ohří
-50.1663|12.5726|Bukovany
-49.5511|18.8268|Bukovec
-50.1559|14.1890|Buštěhrad
-50.3104|14.6114|Byšice
-50.6287|13.8642|Bystřany
-49.2264|16.5303|Bystrc
-49.6285|16.3468|Bystré
-50.0117|16.6190|Bystřec
-49.6366|18.7204|Bystřice
-49.5230|16.2615|Bystřice nad Pernštejnem
-49.3992|17.6740|Bystřice pod Hostýnem
-48.9734|17.2669|Bzenec
-50.1324|15.9112|Býšť
-49.9110|15.3897|Čáslav
-50.1291|16.1813|Častolovice
-49.3132|16.4779|Čebín
-49.6240|15.0482|Čechtice
-48.9465|16.9651|Čejč
-48.9059|16.9423|Čejkovice
-49.5487|18.3376|Čeladná
-50.1604|14.7500|Čelákovice
-49.5163|17.0938|Čelechovice na Hané
-49.8529|14.7030|Čerčany
-50.0713|15.0720|Cerhenice
-49.4136|16.5814|Černá Hora
-50.3614|13.8452|Černčice
-50.2627|15.9225|Černilov
-49.9601|14.3198|Černošice
-49.8161|12.8838|Černošín
-49.3727|14.9609|Černovice
-50.3186|15.8740|Černožice
-50.1048|14.5797|Černý Most
-50.0403|16.7427|Červená Voda
-49.9782|15.2086|Červené Pečky
-49.7207|17.0777|Červenka
-50.4763|16.0929|Červený Kostelec
-50.7978|14.4177|Česká Kamenice
-50.6855|14.5376|Česká Lípa
-50.3947|16.0428|Česká Skalice
-49.9044|16.4441|Česká Třebová
-50.2574|17.2280|Česká Ves
-48.9745|14.4743|České Budějovice
-50.2868|16.0443|České Meziříčí
-48.7685|14.9637|České Velenice
-50.0742|14.8608|Český Brod
-50.6605|14.9962|Český Dub
-48.8109|14.3152|Český Krumlov
-49.0684|15.3244|Český Rudolec
-49.7461|18.6261|Český Těšín
-50.6732|13.9418|Chabařovice
-50.0796|12.3739|Cheb
-49.9594|17.9675|Chlebičov
-49.6326|13.3132|Chlumčany
-50.6997|13.9396|Chlumec
-50.1544|15.4603|Chlumec nad Cidlinou
-48.9624|14.9280|Chlum u Třeboně
-50.0016|16.2230|Choceň
-50.2402|12.7455|Chodov
-49.8932|12.7301|Chodová Planá
-50.4605|13.4178|Chomutov
-49.7207|15.6702|Chotěboř
-49.7685|18.5691|Chotěbuz
-49.6541|13.2027|Chotěšov
-49.4780|14.6769|Chotoviny
-49.9021|15.9340|Chrast
-50.8169|14.9688|Chrastava
-50.8608|14.4844|Chřibská
-49.3564|17.3645|Chropyně
-49.9555|15.9914|Chroustovice
-49.9511|15.7956|Chrudim
-49.9866|18.1166|Chuchelná
-49.3892|17.7115|Chvalčov
-50.0344|15.4185|Chvaletice
-48.8540|14.2111|Chvalšiny
-49.5235|14.4276|Chyšky
-50.0274|14.0740|Chyňava
-49.4068|14.8112|Chýnov
-49.4656|14.0692|Čimelice
-49.9456|15.3351|Církvice
-50.3723|14.3981|Cítov
-50.4842|14.0284|Čížkovice
-49.1150|13.8291|Čkyně
-50.7767|14.6330|Cvikov
-49.0815|15.4373|Dačice
-50.2478|12.8958|Dalovice
-49.0383|16.9176|Dambořice
-49.9359|18.2221|Darkovice
-50.0284|15.9124|Dašice
-49.8922|14.4004|Davle
-50.7822|14.2148|Děčín
-50.1008|14.3907|Dejvice
-50.7599|15.3028|Desná
-49.8941|18.4608|Dětmarovice
-49.7885|14.8758|Divišov
-49.9404|16.4233|Dlouhá Třebová
-49.6738|18.4139|Dobrá
-49.6548|13.2931|Dobřany
-49.6604|18.4923|Dobratice
-49.9275|14.2747|Dobřichovice
-49.7811|14.1672|Dobříš
-49.7157|13.6868|Dobřív
-50.3701|13.7947|Dobroměřice
-49.4783|15.6499|Dobronín
-50.3693|14.9623|Dobrovice
-50.2920|16.1600|Dobruška
-48.8483|16.0822|Dobšice
-50.5647|14.6555|Doksy
-49.6499|17.3224|Dolany
-49.4550|18.1942|Dolní Bečva
-49.9210|18.1084|Dolní Benešov
-50.3931|14.4502|Dolní Beřkovice
-50.0100|16.9043|Dolní Bohdíkov
-48.8586|17.0286|Dolní Bojanovice
-50.4382|15.1281|Dolní Bousov
-49.9632|14.4585|Dolní Břežany
-49.1709|14.5813|Dolní Bukovsko
-49.3445|15.4566|Dolní Cerekev
-49.9795|16.5648|Dolní Čermná
-50.2611|15.9611|Dolní Černilov
-49.9927|16.4977|Dolní Dobrouč
-48.8545|16.5928|Dolní Dunajovice
-48.6564|14.4522|Dolní Dvořiště
-49.0701|16.4649|Dolní Kounice
-49.8424|18.0924|Dolní Lhota
-49.3610|16.3587|Dolní Loućky
-49.8988|18.4281|Dolní Lutyně
-48.9684|17.5859|Dolní Němčí
-50.0876|14.5720|Dolní Počernice
-50.8799|14.5950|Dolní Podluží
-50.9825|14.2868|Dolní Poustevna
-50.0293|15.9677|Dolní Roveň
-50.1646|12.6451|Dolní Rychnov
-49.9272|16.2940|Dolní Sloupnice
-49.9351|16.9711|Dolní Studénky
-49.5460|17.5355|Dolní Újezd
-50.0179|12.5510|Dolní Žandov
-49.8973|17.7797|Dolní Životice
-49.5688|17.4139|Doloplazy
-49.0017|17.2848|Domanín
-49.4405|12.9298|Domažlice
-49.8587|18.4802|Doubrava
-49.4366|16.6294|Doubravice nad Svitavou
-50.1074|16.2613|Doudleby nad Orlicí
-49.5786|17.0770|Drahanovice
-49.3318|16.4780|Drásov
-49.4259|17.5920|Dřevohostice
-49.1428|14.3460|Dřiteň
-48.8575|16.4859|Drnholec
-49.2763|16.9515|Drnovice
-50.5403|14.5402|Dubá
-50.6856|13.7856|Dubí
-49.8281|16.9627|Dubicko
-49.4825|17.2772|Dub nad Moravou
-48.9762|14.3604|Dubné
-48.9169|17.0900|Dubňany
-50.6038|13.7462|Duchcov
-49.8333|17.5476|Dvorce
-50.4317|15.8140|Dvůr Králové nad Labem
-49.7773|13.4915|Dýšina
-49.2017|18.1118|Francova Lhota
-50.1203|12.3517|Františkovy Lázně
-49.5483|18.2108|Frenštát pod Radhoštěm
-49.6668|18.2232|Fryčovice
-48.6609|14.1656|Frymburk
-49.2852|17.6835|Fryšták
-49.6833|18.3500|Frýdek-Místek
-50.9214|15.0797|Frýdlant
-49.5928|18.3597|Frýdlant nad Ostravicí
-49.7124|17.9032|Fulnek
-49.8163|15.4769|Golčův Jeníkov
-49.5384|17.3089|Grygov
-50.1830|12.5505|Habartov
-49.7560|15.4849|Habry
-50.0361|14.5267|Háje
-49.8986|18.0954|Háj ve Slezsku
-49.3174|18.1475|Halenkov
-49.1710|17.4716|Halenkovice
-50.0805|16.9364|Hanušovice
-50.7721|15.4314|Harrachov
-49.1695|13.4545|Hartmanice
-49.9464|18.2393|Hať
-49.7798|18.4369|Havířov
-49.6069|15.5794|Havlíčkův Brod
-50.1563|12.2724|Hazlov
-50.8772|15.1817|Hejnice
-49.6889|15.9943|Herálec
-49.7068|13.1007|Heřmanova Huť
-49.9471|15.6649|Heřmanův Městec
-48.7521|16.3813|Hevlín
-49.7621|15.9076|Hlinsko
-48.7740|16.7623|Hlohovec
-50.0436|14.4016|Hlubočepy
-49.6178|17.3944|Hlubočky
-49.0523|14.4343|Hluboká nad Vltavou
-49.8980|18.1920|Hlučín
-48.9881|17.5274|Hluk
-50.0030|18.0083|Hněvošice
-49.5720|17.1795|Hněvotín
-49.6825|18.5414|Hnojník
-50.6659|15.0899|Hodkovice nad Mohelkou
-50.0235|14.4141|Hodkovičky
-48.8368|16.1634|Hodonice
-48.8489|17.1324|Hodonín
-49.5386|18.0237|Hodslavice
-49.9984|17.8085|Holasovice
-49.3333|17.5783|Holešov
-50.1047|14.4495|Holešovice
-50.0660|15.9859|Holice
-49.7760|13.6925|Holoubkov
-49.5936|13.1013|Holýšov
-49.3207|13.7010|Horažďovice
-50.3661|15.6318|Hořice
-49.6401|17.2107|Horka nad Moravou
-49.4322|18.2886|Horní Bečva
-49.9668|17.6026|Horní Benešov
-49.7497|18.4368|Horní Bludovice
-50.6083|15.5715|Horní Branná
-49.8401|13.3556|Horní Bříza
-49.3203|15.3277|Horní Cerekev
-49.9705|16.6077|Horní Čermná
-50.0490|16.0840|Horní Jelení
-50.5731|13.5472|Horní Jiřetín
-49.1812|18.0610|Horní Lideč
-50.0500|14.5667|Horní Měcholupy
-49.9085|17.2111|Horní Město
-49.4121|17.4588|Horní Moštěnice
-48.7674|14.0326|Horní Planá
-50.4244|14.3899|Horní Počaply
-50.1121|14.6104|Horní Počernice
-50.1386|12.8076|Horní Slavkov
-49.9214|16.3395|Horní Sloupnice
-49.5490|16.7908|Horní Štěpánov
-48.7612|14.7350|Horní Stropnice
-49.7978|18.4819|Horní Suchá
-49.7518|18.4829|Horní Těrlicko
-50.1317|14.3388|Horoměřice
-49.8360|13.9027|Hořovice
-49.5296|12.9441|Horšovský Týn
-49.3547|17.8694|Hošťálková
-50.4886|14.3350|Hošťka
-50.0928|14.5582|Hostavice
-48.9501|16.2593|Hostěradice
-50.5407|15.7233|Hostinné
-50.0486|14.5244|Hostivař
-50.0816|14.2586|Hostivice
-49.8253|14.0456|Hostomice
-49.5597|12.7715|Hostouň
-49.3036|18.0606|Hovězí
-48.9549|16.9935|Hovorany
-50.1787|14.5179|Hovorčovice
-49.8825|18.0548|Hrabyně
-50.2092|15.8328|Hradec Králové
-49.8704|17.8784|Hradec nad Moravici
-49.7114|16.4806|Hradec nad Svitavou
-49.6166|18.7372|Hrádek
-50.8528|14.8445|Hrádek nad Nisou
-49.8683|14.4093|Hradištko
-50.3046|12.1758|Hranice
-49.0189|14.4786|Hrdějovice
-50.1360|14.1645|Hřebeč
-50.6592|13.7268|Hrob
-49.9595|15.9105|Hrochův Týnec
-49.8491|13.4415|Hromnice
-50.4797|16.1823|Hronov
-49.1077|16.0607|Hrotovice
-50.3094|12.8718|Hroznětín
-48.9078|17.4170|Hroznová Lhota
-48.7927|16.9740|Hrušky
-48.8299|16.4027|Hrušovany nad Jevišovkou
-49.0386|16.5943|Hrušovany u Brna
-49.9610|13.9706|Hudlice
-49.6238|18.2219|Hukvaldy
-49.3169|17.4637|Hulín
-49.5415|15.3593|Humpolec
-49.0550|13.9870|Husinec
-48.9408|16.7376|Hustopeče
-49.5305|17.8699|Hustopeče Nad Bečvou
-49.2485|17.7516|Hvozdná
-49.9907|14.0505|Hýskov
-49.1014|16.3775|Ivančice
-49.3054|17.0934|Ivanovice na Hané
-50.7035|15.4296|Jablonec nad Jizerou
-50.7243|15.1711|Jablonec nad Nisou
-50.0296|16.6006|Jablonné nad Orlicí
-50.7653|14.7605|Jablonné v Podještědí
-49.3835|17.9502|Jablůnka
-49.5767|18.7646|Jablunkov
-50.3585|12.9346|Jáchymov
-49.9151|17.6840|Jakartovice
-49.1163|17.4279|Jalubí
-49.6214|18.4060|Janovice
-49.3451|13.2181|Janovice nad Úhlavou
-50.7720|15.1691|Janov nad Nisou
-50.3562|15.9214|Jaroměř
-49.6256|16.7519|Jaroměřice
-49.0941|15.8933|Jaroměřice nad Rokytnou
-48.7566|16.2335|Jaroslavice
-49.1899|15.0673|Jarošov nad Nežárkou
-50.3908|17.0027|Javorník
-49.6610|16.3061|Jedlová
-49.3445|16.7559|Jedovnice
-49.0190|15.5699|Jemnice
-50.0873|14.2148|Jeneč
-49.9681|14.5135|Jesenice
-50.2294|17.2046|Jeseník
-49.6119|17.9053|Jeseník nad Odrou
-49.6322|16.7112|Jevíčko
-48.9874|15.9899|Jevišovice
-50.4372|15.3516|Jičín
-49.3961|15.5912|Jihlava
-50.6089|15.5065|Jilemnice
-50.7608|14.1038|Jílové
-49.8954|14.4933|Jílové u Prahy
-49.6372|16.2263|Jimramov
-49.7862|13.9787|Jince
-50.2518|17.5190|Jindřichov
-49.1440|15.0030|Jindřichův Hradec
-50.9951|14.5691|Jiříkov
-50.4998|13.4477|Jirkov
-50.1158|14.6992|Jirny
-49.4855|14.5276|Jistebnice
-49.7540|18.1306|Jistebník
-50.7819|15.2315|Josefův Důl
-50.1626|13.9881|Kačice
-50.3833|13.2667|Kadaň
-48.8108|14.2586|Kájov
-49.3666|15.7802|Kamenice
-49.3030|15.0752|Kamenice nad Lipou
-50.7736|14.4729|Kamenický Šenov
-50.1270|14.0181|Kamenné Žehrovice
-49.8630|14.5034|Kamenný Přívoz
-48.8975|14.4464|Kamenný Újezd
-48.7388|14.4945|Kaplice
-49.1848|14.8531|Kardašova Řečice
-50.0927|14.4471|Karlín
-50.1056|17.4456|Karlovice
-50.2327|12.8712|Karlovy Vary
-49.3513|18.2401|Karolinka
-49.8540|18.5417|Karviná
-49.4627|13.7406|Kasejovice
-49.1429|13.5562|Kašperské Hory
-49.2735|13.8303|Katovice
-49.8931|13.3829|Kaznějov
-50.1333|14.5500|Kbely
-49.3908|13.0397|Kdyně
-49.4784|17.8153|Kelč
-50.1473|14.1029|Kladno
-49.7150|12.9823|Kladruby
-49.9676|12.8762|Klášter
-50.3886|13.1834|Klášterec nad Ohří
-49.3955|13.2950|Klatovy
-50.1760|14.4115|Klecany
-49.4348|12.8147|Klenčí pod Čerchovem
-49.7881|18.1258|Klimkovice
-48.9961|16.8630|Klobouky
-50.2940|13.9875|Klobuky
-48.8867|17.3955|Kněždub
-49.2708|15.6722|Kněžice
-50.4892|15.0383|Kněžmost
-49.0986|17.5167|Kněžpole
-49.9855|18.0521|Kobeřice
-48.9329|16.8916|Kobylí
-50.1237|14.4521|Kobylisy
-49.3518|17.3021|Kojetín
-49.4948|17.3754|Kokory
-50.0281|15.1998|Kolín
-49.2989|13.4390|Kolinec
-49.8065|13.8564|Komárov
-49.6581|18.5278|Komorní Lhotka
-49.5903|16.8891|Konice
-50.3308|15.2703|Kopidlno
-49.5995|18.1448|Kopřivnice
-50.7593|15.3653|Kořenov
-49.1064|17.1643|Koryčany
-50.0671|14.3633|Košíře
-50.4385|14.9300|Kosmonosy
-49.6541|14.4717|Kosova Hora
-50.5716|15.4040|Košťálov
-50.6551|13.7555|Košťany
-49.9940|14.8592|Kostelec nad Černými Lesy
-50.2265|14.5855|Kostelec nad Labem
-50.1227|16.2132|Kostelec nad Orlicí
-49.5140|17.0582|Kostelec na Hané
-48.7469|16.9787|Kostice
-50.0031|14.9770|Kouřim
-49.4025|13.0021|Kout na Šumavě
-49.5176|14.2781|Kovářov
-50.4382|13.0539|Kovářská
-49.9939|13.5411|Kožlany
-49.5904|18.2566|Kozlovice
-49.9128|18.1558|Kozmice
-49.4630|17.1805|Kralice na Hané
-50.0838|16.7605|Králíky
-49.9819|13.4875|Kralovice
-49.2252|16.5899|Královo Pole
-50.0744|14.4437|Královské Vinohrady
-50.2411|14.3115|Kralupy nad Vltavou
-49.9498|14.0344|Králův Dvůr
-50.3237|12.5175|Kraslice
-49.6046|14.2774|Krásná Hora nad Vltavou
-50.4838|13.3575|Krásná Lípa
-49.9320|18.0047|Kravaře
-50.0416|14.4457|Krč
-48.9050|14.3057|Křemže
-49.1422|16.8293|Křenovice
-48.9999|16.7199|Křepice
-50.5226|14.2145|Křešice
-50.2645|15.1378|Křinec
-49.3886|16.1096|Křižanov
-49.6884|15.8521|Křížová
-49.7291|18.2354|Krmelín
-50.0897|17.7038|Krnov
-49.2978|17.3931|Kroměříž
-49.7724|16.0267|Krouna
-48.9890|16.9103|Krumvíř
-50.6845|13.8582|Krupka
-50.1744|13.4266|Kryry
-49.5507|18.2611|Kunčice pod Ondřejníkem
-49.7946|16.6276|Kunčina
-49.6338|17.9897|Kunín
-49.0450|17.4701|Kunovice
-49.5065|16.5172|Kunštát
-50.1293|16.5000|Kunvald
-49.1212|15.1903|Kunžak
-49.2985|16.5314|Kuřim
-49.9484|15.2682|Kutná Hora
-49.2422|17.4697|Kvasice
-50.2125|16.2632|Kvasiny
-49.0102|17.1225|Kyjov
-50.1189|12.5303|Kynšperk nad Ohří
-49.9122|16.6119|Lanškroun
-50.1247|13.9504|Lány
-48.7244|16.9670|Lanžhot
-50.4287|15.5827|Lázně Bělohrad
-50.0756|15.6798|Lázně Bohdaneč
-50.0106|12.6247|Lázně Kynžvart
-49.6952|15.2777|Ledeč nad Sázavou
-48.9333|14.6189|Ledenice
-48.7999|16.8034|Lednice
-49.2914|16.5787|Lelekovice
-50.3752|13.7659|Lenešice
-49.5206|17.9300|Lešná
-49.8688|16.9275|Leština
-50.0358|16.4988|Letohrad
-49.1773|16.9591|Letonice
-49.5471|16.5736|Letovice
-50.1333|14.5167|Letňany
-48.9948|14.1498|Lhenice
-50.3754|15.2168|Libáň
-50.1978|14.3638|Libčice nad Vltavou
-50.7671|15.0562|Liberec
-50.5689|14.2891|Liběšice
-50.1920|14.4936|Líbeznice
-50.1082|14.4746|Libeň
-50.1268|15.1782|Libice nad Cidlinou
-50.2742|14.5024|Libiš
-50.4063|14.0444|Libochovice
-50.7585|14.0407|Libouchec
-50.1682|14.0546|Libušín
-50.0079|17.6264|Lichnov
-49.5642|18.1690|Lichnov (o. Nový Jičín)
-49.2030|18.0513|Lidečko
-49.6947|13.2569|Líně
-49.5542|15.5447|Lípa
-49.5272|17.5859|Lipník nad Bečvou
-48.9049|17.4617|Lipov
-49.3839|16.8058|Lipovec
-49.2905|17.9218|Liptál
-49.3393|16.5531|Lipůvka
-49.2071|16.6948|Líšeň
-49.0160|14.6084|Lišov
-50.5335|14.1318|Litoměřice
-49.8681|16.3130|Litomyšl
-49.7012|17.0761|Litovel
-50.6042|13.6181|Litvínov
-48.9621|14.4515|Litvínovice
-49.8532|13.9813|Lochovice
-49.9949|14.1578|Loděnice
-50.1860|12.7540|Loket
-49.4046|16.4136|Lomnice
-49.0847|14.7173|Lomnice nad Lužnicí
-50.5306|15.3734|Lomnice nad Popelkou
-50.5933|13.6573|Lom u Mostu
-49.7447|16.9289|Loštice
-50.2854|15.0205|Loučeň
-50.0743|17.0905|Loučná nad Desnou
-48.6202|14.2575|Loučovice
-48.9152|17.4893|Louka
-50.3570|13.7967|Louny
-50.5150|14.0510|Lovosice
-50.1321|13.3132|Lubenec
-50.2525|12.4060|Luby
-50.7414|15.2205|Lučany nad Nisou
-49.7208|18.4478|Lučina
-49.8904|18.2401|Ludgeřovice
-49.0998|17.7575|Luhačovice
-49.3740|15.7019|Luka nad Jihlavou
-49.5654|14.9904|Lukavec
-50.0603|16.4821|Lukavice
-49.2903|17.7296|Lukov
-50.3230|14.9367|Luštěnice
-49.5585|17.1357|Lutín
-49.8934|16.0285|Luže
-50.3214|14.4002|Lužec nad Vltavou
-48.8410|17.0710|Lužice
-50.1238|13.7700|Lužná
-50.2014|14.8328|Lysá nad Labem
-49.4516|16.5372|Lysice
-50.4993|16.2769|Machov
-49.4981|17.3331|Majetín
-50.6463|15.1954|Malá Skála
-50.0877|14.4045|Malá Strana
-50.5339|16.0498|Malé Svatoňovice
-48.6861|14.5768|Malonty
-49.3639|14.5787|Malšice
-49.9918|13.2332|Manětín
-49.9646|12.7012|Mariánské Lázně
-49.9059|18.2360|Markvartovice
-50.2667|13.5374|Měcholupy
-49.4801|13.4029|Měčín
-49.5056|12.8808|Meclov
-49.7875|17.0626|Medlov
-50.3505|14.4741|Mělník
-49.0824|16.6942|Měnín
-49.3932|15.8838|Měřín
-50.3281|12.8635|Merklín
-50.1980|14.5199|Měšice
-49.7093|16.7274|Městečko Trnávka
-50.2072|15.2976|Městec Králové
-49.9800|12.8643|Město
-50.1629|17.5748|Město Albrechtice
-49.1995|16.6075|Město Brno
-49.7216|17.5201|Město Libavá
-49.7759|13.2511|Město Touškov
-49.6067|18.3391|Metylovice
-50.6212|13.5987|Meziboři
-50.6246|16.2421|Meziměstí
-50.0480|14.4622|Michle
-50.9651|14.3637|Mikulášovice
-48.8164|17.0511|Mikulčice
-48.8056|16.6378|Mikulov
-50.2985|17.3215|Mikulovice
-49.4509|14.3600|Milevsko
-49.5857|18.7194|Milíkov
-49.6319|14.0460|Milín
-48.9553|17.1424|Milotice
-50.2260|14.8886|Milovice
-50.6587|14.7247|Mimoň
-49.8413|15.8847|Miřetice
-48.9477|16.3125|Miroslav
-49.6878|13.6581|Mirošov
-49.4291|14.0370|Mirotice
-49.5155|14.0358|Mirovice
-49.0867|17.5360|Mistřice
-50.4113|14.9032|Mladá Boleslav
-49.5331|14.8086|Mladá Vožice
-50.6064|15.8335|Mladé Buky
-49.9360|14.7091|Mnichovice
-50.5272|14.9713|Mnichovo Hradiště
-50.8316|15.0563|Mníšek
-49.8665|14.2618|Mníšek pod Brdy
-50.0112|14.4096|Modřany
-49.1193|16.6045|Modřice
-49.7770|16.9195|Mohelnice
-49.1141|16.1902|Mohelno
-49.2618|16.5911|Mokrá Hora
-49.9046|18.0295|Mokré Lazce
-49.1478|16.5803|Moravany
-49.7569|16.9604|Moravičany
-49.5961|18.5247|Morávka
-48.8030|17.0137|Moravská Nová Ves
-49.7579|16.6643|Moravská Třebová
-49.0521|15.8086|Moravské Budějovice
-49.7937|17.4421|Moravský Beroun
-49.0489|16.3117|Moravský Krumlov
-48.9902|17.3327|Moravský Písek
-48.8329|16.9314|Moravský Žižkov
-49.5368|18.0597|Mořkov
-50.5030|13.6362|Most
-50.4862|15.6962|Mostek
-49.4721|17.0521|Mostkovice
-49.5274|18.7542|Mosty u Jablunkova
-49.0492|16.7374|Moutnice
-49.4031|12.9512|Mrákov
-50.4381|14.6325|Mšeno
-49.9911|14.7416|Mukařov
-48.9041|17.0292|Mutěnice
-49.7890|13.7346|Mýto
-49.6102|14.9063|Načeradec
-50.4167|16.1629|Náchod
-49.6546|17.1297|Náklo
-49.2073|16.1585|Náměšť nad Oslavou
-49.6021|17.0654|Náměšť na Hané
-49.1716|17.5119|Napajedla
-49.8445|15.8046|Nasavrky
-49.5872|18.7591|Návsí u Jablunkova
-50.2374|15.6328|Nechanice
-49.0316|17.3814|Nedakonice
-49.1078|18.0704|Nedašov
-49.4570|16.3341|Nedvědice
-50.1306|14.7299|Nehvizdy
-50.3224|12.7294|Nejdek
-50.2615|14.2988|Nelahozeves
-49.3418|17.2060|Němčice nad Hanou
-49.4862|13.5823|Nepomuk
-50.2593|14.5176|Neratovice
-49.1511|17.0810|Nesovice
-49.0493|14.1970|Netolice
-49.8157|14.5183|Netvořice
-49.7537|14.5329|Neveklov
-49.3254|17.1733|Nezamyslice
-49.6404|13.5196|Nezvěstice
-48.9746|17.6476|Nivnice
-49.9999|14.0024|Nižbor
-49.0138|16.6543|Nosislav
-49.0193|15.1032|Nová Bystřice
-49.4172|15.1167|Nová Cerekev
-50.4945|15.5150|Nová Paka
-50.2709|12.7842|Nová Role
-49.2394|15.0726|Nová Včelnice
-48.7896|14.7784|Nové Hrady
-50.0783|14.4209|Nové Město
-50.3446|16.1515|Nové Město nad Metují
-49.5614|16.0742|Nové Město na Moravě
-50.9249|15.2294|Nové Město pod Smrkem
-50.2065|12.7380|Nové Sedlo
-50.1527|13.9004|Nové Strašecí
-49.0176|15.7735|Nové Syrovice
-49.5198|15.9085|Nové Veselí
-50.6563|13.8230|Novosedlice
-48.8370|16.4927|Novosedly
-50.7576|14.5556|Nový Bor
-50.2415|15.4908|Nový Bydžov
-49.3370|18.1979|Nový Hrozenkov
-49.5944|18.0103|Nový Jičín
-49.7880|14.2935|Nový Knín
-49.9426|17.0319|Nový Malín
-50.0646|14.4399|Nusle
-50.1861|15.0417|Nymburk
-49.6561|18.7569|Nýdek
-49.7114|13.2119|Nýřany
-49.2939|13.1435|Nýrsko
-49.7161|13.9473|Obecnice
-50.5050|13.6954|Obrnice
-50.2334|14.4108|Odolena Voda
-49.6626|17.8308|Odry
-50.5977|15.1260|Ohrazenice
-49.6667|14.7500|Okres Benešov
-49.8333|14.0833|Okres Beroun
-49.3740|16.6436|Okres Blansko
-48.7596|16.8726|Okres Břeclav
-49.1667|16.5000|Okres Brno-venkov
-50.0000|17.4167|Okres Bruntál
-50.6667|14.6667|Okres Česká Lípa
-49.0000|14.5000|Okres České Budějovice
-48.7500|14.3333|Okres Český Krumlov
-50.0833|12.5000|Okres Cheb
-50.4167|13.3333|Okres Chomutov
-49.8333|15.8333|Okres Chrudim
-50.8291|14.3432|Okres Děčín
-49.5000|12.9167|Okres Domažlice
-49.5833|18.5000|Okres Frýdek-Místek
-49.6667|15.5833|Okres Havlíčkův Brod
-48.8647|17.1328|Okres Hodonín
-50.2500|15.6667|Okres Hradec Králové
-50.7500|15.2500|Okres Jablonec nad Nisou
-50.2500|17.1667|Okres Jeseník
-50.4167|15.4167|Okres Jičín
-49.3333|15.5833|Okres Jihlava
-49.0833|15.1667|Okres Jindřichův Hradec
-50.1667|13.0000|Okres Karlovy Vary
-49.8333|18.5000|Okres Karviná
-50.1667|14.1667|Okres Kladno
-49.2500|13.4167|Okres Klatovy
-50.0000|15.0000|Okres Kolín
-49.3333|17.5000|Okres Kroměříž
-49.8333|15.2500|Okres Kutná Hora
-50.8333|15.0833|Okres Liberec
-50.5000|14.1667|Okres Litoměřice
-50.3333|13.6667|Okres Louny
-50.3333|14.5000|Okres Mělník
-50.4167|14.9167|Okres Mladá Boleslav
-50.5500|13.6333|Okres Most
-50.4167|16.1667|Okres Náchod
-49.6667|18.0000|Okres Nový Jičín
-50.1667|15.1667|Okres Nymburk
-49.6667|17.2500|Okres Olomouc
-49.8333|17.9167|Okres Opava
-49.8333|18.2500|Okres Ostrava-město
-50.0833|15.7500|Okres Pardubice
-49.4167|15.1667|Okres Pelhřimov
-49.4000|14.2000|Okres Písek
-49.5833|13.5000|Okres Plzeň-jih
-49.7500|13.3667|Okres Plzeň-město
-49.9167|13.2500|Okres Plzeň-sever
-49.0000|13.8667|Okres Prachatice
-50.1177|14.7084|Okres Praha-východ
-49.8333|14.3333|Okres Praha-západ
-49.5000|17.5500|Okres Přerov
-49.6667|14.1667|Okres Příbram
-49.5000|17.0333|Okres Prostějov
-50.1000|13.7000|Okres Rakovník
-49.7833|13.6667|Okres Rokycany
-50.2333|16.2833|Okres Rychnov nad Kněžnou
-50.6167|15.4167|Okres Semily
-50.2167|12.6333|Okres Sokolov
-49.2667|13.9000|Okres Strakonice
-50.0000|17.0000|Okres Šumperk
-49.7333|16.5000|Okres Svitavy
-49.4167|14.6667|Okres Tábor
-49.7667|12.7500|Okres Tachov
-50.6333|13.8333|Okres Teplice
-49.1333|15.9333|Okres Třebíč
-50.5833|15.8333|Okres Trutnov
-49.0167|17.5500|Okres Uherské Hradiště
-50.6667|14.0500|Okres Ústí nad Labem
-50.0000|16.5333|Okres Ústí nad Orlicí
-49.3667|18.0833|Okres Vsetín
-49.2784|16.9936|Okres Vyškov
-49.2167|17.7833|Okres Zlín
-48.8620|16.0627|Okres Znojmo
-49.5000|16.0333|Okres Žďár nad Sázavou
-49.2454|15.7696|Okříšky
-49.6299|15.4908|Okrouhlice
-48.9848|16.4024|Olbramovice
-49.9913|17.9607|Oldřišov
-49.5575|16.4217|Olešnice
-49.5955|17.2518|Olomouc
-50.2511|12.5588|Oloví
-49.9651|16.8589|Olšany
-49.9046|14.7842|Ondřejov
-49.3968|14.4814|Opařany
-49.8250|16.5046|Opatov
-50.1454|15.7904|Opatovice nad Labem
-49.9387|17.9026|Opava
-50.2674|16.1148|Opočno
-49.1112|16.5233|Ořechov
-49.8453|18.4301|Orlová
-50.6949|14.9214|Osečná
-49.7759|13.5906|Osek
-49.5112|17.5283|Osek nad Bečvou
-49.8436|16.2847|Osík
-49.8952|17.1321|Oskava
-49.1234|16.3365|Oslavany
-50.2752|17.7152|Osoblaha
-49.1610|16.5455|Ostopovice
-49.8347|18.2820|Ostrava
-49.5351|18.3916|Ostravice
-50.3725|15.5495|Ostroměř
-50.3059|12.9391|Ostrov
-49.3824|16.7627|Ostrov u Macochy
-48.9756|17.4675|Ostrožská Lhota
-49.0043|17.4363|Ostrožská Nová Ves
-49.3883|17.0711|Otaslavice
-49.9168|17.8698|Otice
-49.0864|16.8144|Otnice
-49.2093|17.5394|Otrokovice
-49.4708|15.0017|Pacov
-49.6347|18.3151|Palkovice
-50.0408|15.7766|Pardubice
-49.7964|17.2228|Paseka
-49.7318|18.2904|Paskov
-50.0560|13.7364|Pavlíkov
-50.1938|14.1178|Pchery
-50.4803|15.6082|Pecka
-50.0904|15.0302|Pečky
-49.4313|15.2234|Pelhřimov
-50.6877|15.2359|Pěnčín
-50.3817|13.1102|Perštejn
-50.3425|13.9599|Peruc
-48.8820|17.2781|Petrov
-49.5543|14.3374|Petrovice
-49.8959|18.5478|Petrovice u Karviné
-49.8310|18.3894|Petřvald
-50.5325|15.8202|Pilníkov
-49.7475|13.3776|Pilsen
-50.2730|17.2537|Písečná
-49.3088|14.1475|Písek
-49.9786|18.1935|Píšť
-49.8682|12.7438|Planá
-49.3544|14.7015|Planá nad Lužnicí
-49.3899|13.4711|Plánice
-49.9345|13.3903|Plasy
-50.7032|15.3174|Plavy
-50.0501|15.0294|Plaňany
-50.2207|12.3467|Plesná
-49.4661|17.0150|Plumlov
-49.5103|12.8026|Poběžovice
-49.2602|15.2402|Počátky
-50.2294|13.4119|Podbořany
-50.1424|15.1188|Poděbrady
-48.8255|16.8482|Podivín
-49.1904|16.7208|Podolí
-48.9812|16.5245|Pohořelice
-50.5056|14.2645|Polepy
-49.0339|17.3406|Polešovice
-50.5369|16.2335|Police nad Metují
-49.7146|16.2654|Polička
-49.4870|15.7188|Polná
-49.7103|16.3173|Pomezí
-50.6615|15.4633|Poniklá
-49.0525|17.5271|Popovice
-50.1081|14.9182|Poříčany
-49.8389|14.6745|Poříčí nad Sázavou
-50.3598|13.7029|Postoloprty
-49.4583|12.8068|Postřekov
-49.9076|16.9123|Postřelmov
-49.7280|14.7772|Postupice
-49.6369|17.6517|Potštát
-50.6728|14.1603|Povrly
-49.1292|17.7692|Pozlovice
-49.2098|16.7907|Pozořice
-49.0129|13.9975|Prachatice
-49.8938|15.6287|Prachovice
-50.0880|14.4208|Praha|Prague
-50.0880|14.4217|Praha 1
-49.9836|14.3611|Praha 16
-50.1157|14.6112|Praha 20
-50.0752|14.6690|Praha 21
-49.5857|17.3821|Přáslavice
-49.6088|18.4862|Pražmo
-49.3525|16.4024|Předklášteří
-50.2563|15.8156|Předměřice nad Labem
-50.0399|15.5603|Přelouč
-49.5564|16.9558|Přemyslovice
-49.4551|17.4509|Přerov
-50.1603|14.8250|Přerov nad Labem
-49.5730|13.3335|Přeštice
-49.6409|18.1450|Příbor
-49.6899|14.0104|Příbram
-49.5768|15.7386|Přibyslav
-49.6436|17.1434|Příkazy
-49.6749|12.6737|Přimda
-50.5781|15.0839|Příšovice
-50.6677|13.8360|Proboštov
-49.8059|16.1162|Proseč
-50.1153|14.5069|Prosek
-49.4719|17.1118|Prostějov
-49.4361|18.2520|Prostřední Bečva
-49.4835|16.8359|Protivanov
-49.1995|14.2172|Protivín
-50.3871|16.1080|Provodov-Šonov
-49.9996|14.5502|Průhonice
-48.8284|16.9807|Prušánky
-49.3790|17.5871|Prusinovice
-49.9362|14.5128|Psáry
-49.5116|16.9611|Ptení
-49.8492|17.9979|Pustá Polom
-49.3225|17.0279|Pustiměř
-49.8768|14.6771|Pyšely
-49.6985|16.4407|Radiměř
-49.8568|13.6057|Radnice
-49.3163|13.9302|Radomyšl
-50.2980|13.2846|Radonice
-49.4782|17.5166|Radslavice
-50.5675|16.0617|Radvanice
-49.4109|16.6390|Rájec-Jestřebí
-49.3939|16.6450|Ráječko
-49.0902|16.6039|Rajhrad
-49.0920|16.6293|Rajhradice
-50.1037|13.7334|Rakovník
-48.8581|16.8133|Rakvice
-50.0109|17.0312|Rapotín
-49.6198|18.4729|Raškovice
-50.9042|15.1146|Raspenava
-49.2713|17.3356|Rataje
-49.3677|17.9150|Ratiboř
-48.9200|17.1656|Ratíškovice
-50.0359|15.4773|Řečany nad Labem
-50.6071|13.9541|Řehlovice
-49.7334|18.3171|Řepiště
-50.0706|14.3005|Řepy
-49.9139|14.2359|Řevnice
-50.1849|13.8082|Řevničov
-50.1773|14.3573|Řež
-49.2150|16.3936|Říčany
-48.8804|17.1833|Rohatec
-49.7427|13.5946|Rokycany
-49.4659|17.3912|Rokytnice
-50.7256|15.4336|Rokytnice nad Jizerou
-50.1647|16.4657|Rokytnice v Orlických Horách
-49.8882|15.5314|Ronov nad Doubravou
-49.7054|18.6135|Ropice
-49.1823|16.3879|Rosice
-50.2963|12.5734|Rotava
-49.0704|16.1076|Rouchovany
-50.4253|14.2617|Roudnice nad Labem
-49.2013|16.8821|Rousínov
-50.5353|15.2594|Rovensko pod Troskami
-49.6020|13.8643|Rožmitál pod Třemšínem
-49.4585|18.1430|Rožnov pod Radhoštěm
-50.1584|14.3976|Roztoky
-50.3048|15.1696|Rožďalovice
-50.5052|16.0719|Rtyně v Podkrkonoší
-49.9810|16.8778|Ruda nad Moravou
-50.0350|14.2343|Rudná
-50.5952|15.7336|Rudník
-48.9934|14.5418|Rudolfov
-50.9515|14.5570|Rumburk
-49.6007|18.0759|Rybí
-50.0602|15.7047|Rybitví
-50.1628|16.2749|Rychnov nad Kněžnou
-49.8663|18.3763|Rychvald
-49.9318|17.2718|Rýmařov
-50.2671|12.8971|Sadov
-50.1360|14.9863|Sadská
-48.8975|16.7142|Šakvice
-49.6304|17.3281|Samotíšky
-48.8009|16.3786|Šanov
-48.9640|17.0281|Šardice
-50.1248|14.5719|Satalice
-48.7932|16.0099|Šatov
-49.8716|14.8967|Sázava
-49.8469|15.6564|Seč
-49.6606|14.4266|Sedlčany
-49.9639|15.2885|Sedlec
-48.7740|14.3911|Sedlice
-49.7184|18.3687|Sedliště
-49.6577|18.0869|Sedlnice
-50.6019|15.3355|Semily
-49.6240|17.0858|Senice na Hané
-49.7931|18.3761|Šenov
-49.4286|14.4182|Sepekov
-50.1084|14.6801|Šestajovice
-49.1001|14.5722|Ševětín
-50.0665|15.8527|Sezemice
-49.3852|14.6848|Sezimovo Ústí
-49.9260|18.2702|Šilheřovice
-49.0143|16.7797|Šitbořice
-50.1703|12.3614|Skalná
-49.6412|17.1765|Skrbeň
-50.2295|16.2923|Skuhrov nad Bělou
-49.8435|15.9965|Skuteč
-50.2305|14.0869|Slaný
-49.1686|16.7273|Šlapanice
-49.5615|17.0999|Slatinice
-49.9211|15.8138|Slatiňany
-49.0880|17.8735|Slavičín
-49.9218|17.8364|Slavkov
-49.1532|16.8765|Slavkov u Brna
-48.9975|15.3515|Slavonice
-51.0037|14.4526|Šluknov
-49.2478|17.8015|Slušovice
-50.1884|14.0404|Smečno
-50.0720|14.4041|Smíchov
-50.2915|15.4772|Smidary
-50.2998|15.8651|Smiřice
-49.5057|17.1070|Smržice
-50.7382|15.2464|Smržovka
-49.2599|14.7186|Soběslav
-50.0104|17.0913|Sobotín
-50.4674|15.1762|Sobotka
-49.1139|16.7216|Sokolnice
-50.1813|12.6401|Sokolov
-50.2037|16.2376|Solnice
-49.6137|13.6056|Spálené Poříčí
-50.7261|15.6094|Špindlerův Mlýn
-49.1412|17.4981|Spytihněv
-48.9481|14.5413|Srubec
-49.6756|13.5039|Šťáhlavy
-49.1018|13.6666|Stachy
-49.7822|14.1974|Stará Huť
-50.5103|15.4944|Stará Paka
-49.7278|18.1885|Stará Ves nad Ondřejnicí
-49.1978|15.8279|Stařeč
-50.0654|15.7789|Staré Hradiště
-50.9504|14.4962|Staré Křečany
-49.6699|18.3635|Staré Město
-50.2430|15.6179|Staré Nechanice
-50.0765|14.5104|Staré Strašnice
-49.6859|18.2728|Staříč
-49.9169|18.3362|Starý Bohumín
-49.5769|17.9617|Starý Jičín
-50.0098|15.2939|Starý Kolín
-49.6977|13.4735|Starý Plzenec
-49.5535|13.0698|Staňkov
-49.9371|17.8055|Stěbořice
-49.8511|14.4054|Štěchovice
-49.6705|13.3996|Štěnovice
-49.9574|18.0374|Štěpánkovice
-49.6840|17.2204|Štěpánov
-49.7304|17.2989|Šternberk
-50.4530|14.3742|Štětí
-50.2157|15.7483|Stěžery
-49.9149|18.0125|Štítina
-49.0688|17.9827|Štítná nad Vláří
-49.9612|16.7658|Štíty
-50.1463|13.9634|Stochov
-49.6391|13.1647|Stod
-50.0500|14.3167|Stodůlky
-49.5025|15.5886|Štoky
-49.8169|18.5252|Stonava
-49.2614|13.9024|Strakonice
-49.5918|18.1174|Štramberk
-49.9481|14.6775|Strančice
-48.9022|17.7067|Strání
-49.7355|13.7576|Strašice
-49.6688|12.7755|Stráž
-49.8310|17.1328|Strážná
-50.7910|15.0268|Stráž nad Nisou
-48.9010|17.3168|Strážnice
-49.3033|13.2462|Strážov
-50.7028|14.8010|Stráž pod Ralskem
-49.1522|16.5040|Střelice
-49.7557|12.9970|Stříbro
-50.1267|14.4936|Střížkov
-49.1585|15.1993|Strmilov
-49.0840|14.0552|Strunkovice nad Blanicí
-49.1852|15.2869|Studená
-50.5534|15.5494|Studenec
-49.7234|18.0785|Studénka
-48.9700|17.7138|Suchá Loz
-49.9525|15.1665|Suchdol
-48.8900|14.8772|Suchdol nad Lužnicí
-48.8682|16.0947|Suchohrdly
-49.9190|16.9452|Sudkov
-48.8672|17.2568|Sudoměřice
-49.0286|17.7220|Šumice
-49.9653|16.9706|Šumperk
-49.2311|13.5202|Sušice
-50.1922|12.6252|Svatava
-49.6680|15.4039|Světlá nad Sázavou
-49.6893|18.3276|Sviadnov
-49.4814|13.2842|Švihov
-49.5018|16.5979|Svitávka
-49.7559|16.4683|Svitavy
-50.6260|15.8165|Svoboda nad Úpou
-49.7107|16.0321|Svratka
-49.4144|14.6578|Tábor
-49.7953|12.6336|Tachov
-50.7373|15.3058|Tanvald
-48.8361|16.1556|Tasovice
-49.2211|17.5873|Tečovice
-49.1842|15.4527|Telč
-49.1019|16.7177|Telnice
-50.6404|13.8245|Teplice
-50.5933|16.1703|Teplice nad Metují
-50.5110|14.1506|Terezín
-49.0396|16.7700|Těšany
-49.5932|17.1261|Těšetice
-49.5700|18.2215|Tichá
-50.2698|14.5541|Tišice
-49.3487|16.4244|Tišnov
-49.7242|13.2353|Tlučná
-49.2535|17.4956|Tlumačov
-49.1219|17.5443|Topolná
-50.0605|12.9851|Toužim
-49.4308|17.2879|Tovačov
-49.1309|17.4362|Traplice
-50.2010|15.9922|Třebechovice pod Orebem
-50.4763|13.9901|Třebenice
-49.2149|15.8817|Třebíč
-49.9724|14.2913|Třebotov
-49.0036|14.7706|Třeboň
-49.8158|13.3950|Třemošná
-49.8691|15.5800|Třemošnice
-49.2909|15.4821|Třešť
-48.8423|14.6392|Trhové Sviny
-49.7115|15.0136|Trhový Štěpánov
-49.6776|18.6708|Třinec
-50.6429|13.9945|Trmice
-49.2960|17.8419|Trnava
-49.5204|18.2380|Trojanovice
-49.8173|17.0810|Troubelice
-49.4322|17.3491|Troubky
-49.1695|16.5108|Troubsko
-49.5424|17.4248|Tršice
-50.5610|15.9127|Trutnov
-50.1380|13.9911|Tuchlovice
-50.1354|14.2822|Tuchoměřice
-49.0843|17.3698|Tupesy
-50.5836|15.1519|Turnov
-49.1918|16.7715|Tvarožná
-48.7605|16.9945|Tvrdonice
-48.7794|17.0132|Týnec
-50.0420|15.3584|Týnec nad Labem
-49.8335|14.5898|Týnec nad Sázavou
-50.1514|16.0777|Týniště nad Orlicí
-49.2234|14.4206|Týn nad Vltavou
-50.4406|13.4574|Údlice
-49.0697|17.4597|Uherské Hradiště
-49.0251|17.6471|Uherský Brod
-48.9856|17.3898|Uherský Ostroh
-49.8802|15.0648|Uhlířské Janovice
-49.7640|17.1804|Újezd
-48.9008|16.0635|Únanov
-50.0853|14.1301|Unhošť
-49.7709|17.1214|Uničov
-50.5124|16.0161|Úpice
-49.4305|17.0729|Určice
-49.7983|17.0105|Úsov
-50.5847|14.3433|Úštěk
-50.6607|14.0323|Ústí nad Labem
-49.9739|16.3936|Ústí nad Orlicí
-50.0739|14.7308|Úvaly
-48.9451|17.1740|Vacenovice
-49.7553|18.3722|Václavovice
-49.1369|13.7291|Vacov
-49.4151|18.1098|Valašská Bystřice
-49.2621|17.9967|Valašská Polanka
-49.1406|18.0076|Valašské Klobouky
-49.4718|17.9711|Valašské Meziříčí
-50.4550|15.3849|Valdice
-48.7407|16.7550|Valtice
-50.1176|16.2907|Vamberk
-50.2834|17.0976|Vápenná
-50.9115|14.6182|Varnsdorf
-48.9237|14.4538|Včelná
-49.7299|13.2763|Vejprnice
-50.4923|13.0321|Vejprty
-49.1054|17.3943|Velehrad
-50.5390|13.9767|Velemín
-48.8295|14.4625|Velešín
-50.0596|15.1071|Velim
-49.2884|16.2274|Velká Bíteš
-49.5948|17.3654|Velká Bystřice
-50.1096|14.0698|Velká Dobrá
-49.9615|12.6676|Velká Hleďsebe
-48.8826|17.5206|Velká nad Veličkou
-49.8636|18.0933|Velká Polom
-48.8493|16.8923|Velké Bílovice
-50.6627|14.1417|Velké Březno
-50.7137|15.3154|Velké Hamry
-49.9749|17.7288|Velké Heraltice
-49.9361|17.9738|Velké Hoštice
-49.3606|18.2836|Velké Karlovice
-50.0320|17.0406|Velké Losiny
-49.3552|16.0122|Velké Meziříčí
-48.9917|16.6721|Velké Němčice
-49.6124|16.6795|Velké Opatovice
-48.9047|16.8161|Velké Pavlovice
-49.9225|14.6393|Velké Popovice
-50.4618|16.1893|Velké Poříčí
-50.1605|14.3145|Velké Přílepy
-50.5316|16.0285|Velké Svatoňovice
-49.4050|15.6670|Velký Beranov
-50.0987|15.1863|Velký Osek
-50.9908|14.3743|Velký Šenov
-49.5499|17.3336|Velký Týnec
-49.5786|17.4835|Velký Újezd
-50.0706|15.1845|Veltruby
-50.2705|14.3286|Veltrusy
-50.2815|14.2362|Velvary
-49.6666|18.7131|Vendryně
-50.6611|14.3011|Verneřice
-49.4611|17.2879|Věrovany
-49.5392|18.1142|Veřovice
-49.1843|14.6973|Veselí nad Lužnicí
-48.9536|17.3765|Veselí nad Moravou
-49.9805|14.5049|Vestec
-48.7743|14.2862|Větřní
-49.2759|16.4369|Veverská Bítýška
-49.4415|18.0947|Vidče
-50.3723|17.1863|Vidnava
-49.9779|17.0123|Vikýřovice
-49.8157|15.5358|Vilémov
-49.0586|13.7829|Vimperk
-50.1758|14.0911|Vinařice
-49.2136|16.8254|Viničné Šumice
-50.2338|12.7175|Vintířov
-50.9666|15.0250|Višňova
-48.9824|16.1502|Višňové
-49.7745|17.7494|Vítkov
-49.2229|17.8545|Vizovice
-49.1238|17.9400|Vlachovice
-49.0814|13.9584|Vlachovo Březí
-49.2102|15.9883|Vladislav
-49.7063|14.8988|Vlašim
-49.5787|17.9546|Vlčnov
-48.9896|17.1636|Vlkoš
-48.9310|17.3505|Vnorovy
-49.1479|14.1751|Vodňany
-49.0514|16.6082|Vojkovice
-48.9088|13.8866|Volary
-49.1658|13.8862|Volyně
-49.6401|14.6381|Votice
-48.9752|17.2110|Vracov
-49.9359|14.3771|Vrané nad Vltavou
-48.9660|16.6066|Vranovice
-49.7700|18.3102|Vratimov
-49.5080|17.1999|Vrbátky
-48.9151|16.8978|Vrbice
-50.1210|17.3832|Vrbno pod Pradědem
-48.7998|16.1006|Vrbovec
-50.6270|15.6094|Vrchlabí
-49.9215|15.4724|Vrdy
-49.8242|18.1257|Vřesina
-50.1800|13.3799|Vroutek
-50.0673|14.4603|Vršovice
-49.2810|17.8768|Všemina
-49.9288|14.3039|Všenory
-49.8417|13.2294|Všeruby
-50.2566|15.7598|Všestary
-50.2819|14.5930|Všetaty
-49.3387|17.9962|Vsetín
-50.0651|14.4171|Vysehrad
-49.2775|16.9990|Vyškov
-50.1094|14.5167|Vysočany
-49.9532|16.1617|Vysoké Mýto
-50.6856|15.4015|Vysoké nad Jizerou
-48.6160|14.3118|Vyšší Brod
-49.0116|16.6026|Žabčice
-50.0573|14.5038|Záběhlice
-49.2139|16.5725|Žabovřesky
-49.8826|16.8722|Zábřeh
-50.6050|13.7875|Zabrušany
-50.6633|15.9106|Žacléř
-50.4967|15.6980|Zadní Mostek
-49.0227|17.7792|Záhorovice
-48.8730|16.7665|Zaječí
-49.7743|13.8407|Zaječov
-50.6848|14.6452|Zákupy
-50.0860|16.4674|Žamberk
-50.7139|14.3962|Žandov
-49.9547|15.0306|Zásmuky
-49.4741|18.0444|Zašová
-49.1880|16.3631|Zastávka
-50.3272|13.5458|Žatec
-50.0341|17.5930|Zátor
-49.8602|13.7726|Zbiroh
-49.2489|17.2846|Zborovice
-49.2216|16.2941|Zbraslav
-49.8118|15.1832|Zbraslavice
-49.6784|13.2256|Zbůch
-49.1552|16.3495|Zbýšov
-49.0673|17.0275|Ždánice
-50.1680|14.4512|Zdiby
-49.9121|13.9775|Zdice
-49.0846|13.6974|Zdíkov
-49.2277|17.3190|Zdounky
-49.8757|13.8973|Žebrák
-50.1336|14.6607|Zeleneč
-49.1169|16.5814|Želešice
-49.1419|15.6730|Želetava
-49.1374|13.2352|Železná Ruda
-50.4727|15.3846|Železnice
-50.6427|15.2541|Železný Brod
-49.5298|15.2218|Želiv
-49.0229|17.2373|Žeravice
-49.1965|16.6474|Židenice
-49.0395|16.6188|Židlochovice
-50.0449|13.3750|Žihle
-49.2532|15.1882|Žirovnice
-50.5553|14.1567|Žitenice
-50.1319|15.3932|Žiželice
-50.0833|14.4500|Žižkov
-50.2638|17.3960|Zlaté Hory
-49.8896|15.4885|Žleby
-49.0740|17.3794|Zlechov
-49.2264|17.6706|Zlín
-49.0661|14.3661|Zliv
-50.2875|14.0921|Zlonice
-49.1998|17.4904|Žlutava
-50.0919|13.1630|Žlutice
-48.8555|16.0488|Znojmo
-49.7401|15.1061|Zruč nad Sázavou
-49.4660|18.0925|Zubří
-50.3093|17.0987|Žulová
-49.9347|14.4177|Zvole
-50.5437|15.0803|Žďár
-49.5626|15.9392|Žďár nad Sázavou
-49.5873|15.9322|Žďár nad Sázavou Druhy
+50.3687|12.8183|Abertamy|Karlovarský kraj|817|
+49.3016|16.6525|Adamov|Jihomoravský kraj|4564|
+49.7865|18.5244|Albrechtice|Moravskoslezský kraj|3782|
+50.1398|16.0644|Albrechtice nad Orlicí|Královéhradecký kraj|1063|
+50.2239|12.1950|Aš|Karlovarský kraj|12683|
+49.1217|17.4808|Babice|Zlín|1754|
+50.4823|14.9415|Bakov nad Jizerou|Středočeský kraj|5355|
+48.9880|17.7175|Bánov|Zlín|2178|
+49.6688|18.0546|Bartošovice|Moravskoslezský kraj|1596|
+49.6458|18.3723|Baška|Moravskoslezský kraj|4056|
+49.3143|15.3947|Batelov|Kraj Vysočina|2458|
+49.1218|14.0789|Bavorov|Jihočeský kraj|1401|
+50.4162|14.3409|Bechlín|Ústecký kraj|1150|
+49.2952|14.4681|Bechyně|Jihočeský kraj|4757|
+50.4497|13.7178|Bečov|Ústecký kraj|2072|
+49.4483|17.1664|Bedihošť|Olomoucký kraj|1153|
+49.5911|12.7176|Bělá nad Radbuzou|Plzeň-jih|1812|
+50.5012|14.8042|Bělá pod Bezdězem|Středočeský kraj|4804|
+49.5912|17.8065|Bělotín|Olomoucký kraj|1630|
+50.2908|14.8234|Benátky nad Jizerou|Středočeský kraj|7963|
+50.6663|15.5482|Benecko|Liberecký kraj|1142|
+49.7816|14.6870|Benešov|Středočeský kraj|17025|
+48.7294|14.6274|Benešov nad Černou|Jihočeský kraj|1259|
+50.7416|14.3124|Benešov nad Ploučnicí|Ústecký kraj|3526|
+49.3689|14.3810|Bernartice|Jihočeský kraj|1260|
+49.9638|14.0720|Beroun|Středočeský kraj|21744|
+49.9072|12.9711|Bezdružice|Plzeň-jih|931|
+49.7095|16.9751|Bílá Lhota|Olomoucký kraj|1091|
+50.4447|15.7410|Bílá Třemešná|Královéhradecký kraj|1345|
+50.5485|13.7753|Bílina|Ústecký kraj|14401|
+50.5500|13.7667|Bílina Kyselka|Ústecký kraj|0|
+49.7564|18.0158|Bílovec|Moravskoslezský kraj|7349|
+49.0996|17.5496|Bílovice|Zlín|1634|
+49.2471|16.6725|Bílovice nad Svitavou|Jihomoravský kraj|3725|
+49.3630|16.6445|Blansko|Jihomoravský kraj|19900|
+49.4249|13.8818|Blatná|Jihočeský kraj|6679|
+49.1657|16.7861|Blažovice|Jihomoravský kraj|1076|
+49.5000|12.9893|Blížejov|Plzeň-jih|1029|
+48.9998|15.8348|Blížkovice|Jihomoravský kraj|1235|
+49.5822|13.5401|Blovice|Plzeň-jih|3901|
+49.0550|16.6445|Blučina|Jihomoravský kraj|2040|
+49.9408|16.9285|Bludov|Olomoucký kraj|3155|
+50.1487|13.0523|Bochov|Karlovarský kraj|1874|
+49.4792|15.8758|Bohdalov|Kraj Vysočina|1074|
+50.1333|14.4167|Bohnice|Prague|16444|
+49.9041|18.3575|Bohumín|Moravskoslezský kraj|20315|
+49.9423|18.1287|Bohuslavice|Moravskoslezský kraj|1786|
+50.4932|14.1505|Bohušovice nad Ohří|Ústecký kraj|2544|
+49.6555|13.9439|Bohutín|Středočeský kraj|1544|
+49.6630|17.2869|Bohuňovice|Olomoucký kraj|2534|
+49.0386|17.8149|Bojkovice|Zlín|4742|
+49.9517|18.0836|Bolatice|Moravskoslezský kraj|4186|
+49.7116|12.7752|Bor|Plzeň-jih|4824|
+49.0234|14.5009|Borek|Jihočeský kraj|1157|
+48.9130|16.8531|Bořetice|Jihomoravský kraj|1297|
+49.4250|16.5912|Bořitov|Jihomoravský kraj|1302|
+50.0978|16.0933|Borohrádek|Královéhradecký kraj|2152|
+48.9898|13.6599|Borová Lada|Jihočeský kraj|276|
+48.8986|14.6423|Borovany|Jihočeský kraj|4184|
+49.0625|17.3508|Boršice|Zlín|2239|
+49.4875|16.6600|Boskovice|Jihomoravský kraj|12457|
+49.0535|16.8368|Bošovice|Jihomoravský kraj|1071|
+49.7043|16.8929|Bouzov|Olomoucký kraj|1490|
+48.8369|16.2888|Božice|Jihomoravský kraj|1436|
+50.1892|14.1620|Brandýsek|Středočeský kraj|2300|
+50.1871|14.6633|Brandýs nad Labem-Stará Boleslav|Středočeský kraj|20926|
+50.0019|16.2853|Brandýs nad Orlicí|Pardubický kraj|1435|
+50.0350|14.4152|Braník|Praha, Hlavní město|17777|
+50.0635|17.6291|Brantice|Moravskoslezský kraj|1215|
+49.8370|13.5783|Břasy|Plzeň-jih|2314|
+50.5429|13.7002|Braňany|Ústecký kraj|1172|
+48.7590|16.8820|Břeclav|Jihomoravský kraj|25789|
+48.8193|16.5675|Březí|Jihomoravský kraj|1539|
+49.5576|13.9506|Březnice|Středočeský kraj|3662|
+49.1864|17.6628|Březnice|Zlín|1136|
+50.4019|13.4212|Březno|Ústecký kraj|1220|
+49.1214|17.5803|Březolupy|Zlín|1559|
+50.1456|12.6500|Březová|Karlovarský kraj|2826|
+49.7916|17.8656|Březová|Moravskoslezský kraj|1307|
+48.9254|17.7399|Březová|Zlín|1109|
+49.6442|16.5180|Březová nad Svitavou|Pardubický kraj|1518|
+49.9117|17.3711|Břidličná|Moravskoslezský kraj|2843|
+48.9299|14.2186|Brloh|Jihočeský kraj|1039|
+49.6273|16.5220|Brněnec|Pardubický kraj|1405|
+50.7292|14.7034|Brniště|Liberecký kraj|1358|
+49.1952|16.6080|Brno|Jihomoravský kraj|404296|
+49.1934|16.6071|Brno střed|South Moravian|86685|
+49.4842|17.3382|Brodek u Přerova|Olomoucký kraj|1972|
+50.5857|16.3318|Broumov|Královéhradecký kraj|6998|
+49.3070|15.6764|Brtnice|Kraj Vysočina|3870|
+50.0153|17.7496|Brumovice|Moravskoslezský kraj|1464|
+49.9884|17.4647|Bruntál|Moravskoslezský kraj|14791|
+49.7001|18.2221|Brušperk|Moravskoslezský kraj|3620|
+49.0863|17.3385|Buchlovice|Zlín|2487|
+49.1490|17.0019|Bučovice|Jihomoravský kraj|6859|
+49.2714|16.0038|Budišov|Kraj Vysočina|1168|
+49.7951|17.6297|Budišov nad Budišovkou|Moravskoslezský kraj|3159|
+50.4043|14.1259|Budyně nad Ohří|Ústecký kraj|1964|
+50.1663|12.5726|Bukovany|Karlovarský kraj|1808|
+49.5511|18.8268|Bukovec|Moravskoslezský kraj|1391|
+50.1559|14.1890|Buštěhrad|Středočeský kraj|3995|
+50.3104|14.6114|Byšice|Středočeský kraj|1450|
+50.6287|13.8642|Bystřany|Ústecký kraj|1840|
+49.2264|16.5303|Bystrc|South Moravian|24655|
+49.6285|16.3468|Bystré|Pardubický kraj|1681|
+50.0117|16.6190|Bystřec|Pardubický kraj|1084|
+49.6366|18.7204|Bystřice|Moravskoslezský kraj|5262|
+49.7321|14.6674|Bystřice|Středočeský kraj|3993|
+49.5230|16.2615|Bystřice nad Pernštejnem|Kraj Vysočina|8996|
+49.3992|17.6740|Bystřice pod Hostýnem|Zlín|7911|
+48.9734|17.2669|Bzenec|Jihomoravský kraj|4315|
+50.1324|15.9112|Býšť|Pardubický kraj|1115|
+49.9110|15.3897|Čáslav|Středočeský kraj|10025|
+50.1291|16.1813|Častolovice|Královéhradecký kraj|1614|
+49.3132|16.4779|Čebín|Jihomoravský kraj|1978|
+49.6240|15.0482|Čechtice|Středočeský kraj|1410|
+48.9465|16.9651|Čejč|Jihomoravský kraj|1252|
+48.9059|16.9423|Čejkovice|Jihomoravský kraj|2360|
+49.5487|18.3376|Čeladná|Moravskoslezský kraj|2152|
+50.1604|14.7500|Čelákovice|Středočeský kraj|12474|
+49.5163|17.0938|Čelechovice na Hané|Olomoucký kraj|1329|
+49.8529|14.7030|Čerčany|Středočeský kraj|2923|
+50.0713|15.0720|Cerhenice|Středočeský kraj|1924|
+49.4136|16.5814|Černá Hora|Jihomoravský kraj|2110|
+50.3614|13.8452|Černčice|Ústecký kraj|1423|
+50.2627|15.9225|Černilov|Královéhradecký kraj|2469|
+49.9601|14.3198|Černošice|Středočeský kraj|7712|
+49.8161|12.8838|Černošín|Plzeň-jih|1097|
+49.3727|14.9609|Černovice|Kraj Vysočina|1863|
+50.3186|15.8740|Černožice|Královéhradecký kraj|1253|
+50.1048|14.5797|Černý Most|Praha, Hlavní město|22466|
+50.0403|16.7427|Červená Voda|Pardubický kraj|3180|
+49.9782|15.2086|Červené Pečky|Středočeský kraj|1617|
+49.7207|17.0777|Červenka|Olomoucký kraj|1445|
+50.4763|16.0929|Červený Kostelec|Královéhradecký kraj|8441|
+50.7978|14.4177|Česká Kamenice|Ústecký kraj|5475|
+50.6855|14.5376|Česká Lípa|Liberecký kraj|36364|
+50.3947|16.0428|Česká Skalice|Královéhradecký kraj|5402|
+49.9044|16.4441|Česká Třebová|Pardubický kraj|14982|
+50.2574|17.2280|Česká Ves|Olomoucký kraj|2258|
+48.9745|14.4743|České Budějovice|Jihočeský kraj|93426|
+50.2868|16.0443|České Meziříčí|Královéhradecký kraj|1603|
+48.7685|14.9637|České Velenice|Jihočeský kraj|3479|
+50.0742|14.8608|Český Brod|Středočeský kraj|7355|
+50.6605|14.9962|Český Dub|Liberecký kraj|2698|
+48.8109|14.3152|Český Krumlov|Jihočeský kraj|12658|
+49.0684|15.3244|Český Rudolec|Jihočeský kraj|1004|
+49.7461|18.6261|Český Těšín|Moravskoslezský kraj|25750|
+50.6732|13.9418|Chabařovice|Ústecký kraj|2329|
+50.0796|12.3739|Cheb|Karlovarský kraj|32892|
+49.9594|17.9675|Chlebičov|Moravskoslezský kraj|1068|
+49.6326|13.3132|Chlumčany|Plzeň-jih|2383|
+50.6997|13.9396|Chlumec|Ústecký kraj|4170|
+50.1544|15.4603|Chlumec nad Cidlinou|Královéhradecký kraj|5606|
+48.9624|14.9280|Chlum u Třeboně|Jihočeský kraj|2183|
+50.0016|16.2230|Choceň|Pardubický kraj|8700|
+50.2402|12.7455|Chodov|Karlovarský kraj|12609|
+50.0367|14.5044|Chodov|Prague|50043|
+49.8932|12.7301|Chodová Planá|Plzeň-jih|1793|
+50.4605|13.4178|Chomutov|Ústecký kraj|46560|
+49.7207|15.6702|Chotěboř|Kraj Vysočina|9076|
+49.7685|18.5691|Chotěbuz|Moravskoslezský kraj|1412|
+49.6541|13.2027|Chotěšov|Plzeň-jih|2688|
+49.4780|14.6769|Chotoviny|Jihočeský kraj|1783|
+49.9021|15.9340|Chrast|Pardubický kraj|3186|
+49.7932|13.4936|Chrást|Plzeň-jih|1925|
+50.8169|14.9688|Chrastava|Liberecký kraj|6051|
+50.8608|14.4844|Chřibská|Ústecký kraj|1453|
+49.3564|17.3645|Chropyně|Zlín|5172|
+49.9555|15.9914|Chroustovice|Pardubický kraj|1208|
+49.9511|15.7956|Chrudim|Pardubický kraj|23562|
+49.9866|18.1166|Chuchelná|Moravskoslezský kraj|1315|
+49.3892|17.7115|Chvalčov|Zlín|1610|
+50.0344|15.4185|Chvaletice|Pardubický kraj|3223|
+48.8540|14.2111|Chvalšiny|Jihočeský kraj|1244|
+49.5235|14.4276|Chyšky|Jihočeský kraj|1066|
+50.0274|14.0740|Chyňava|Středočeský kraj|1839|
+49.4068|14.8112|Chýnov|Jihočeský kraj|2472|
+49.4656|14.0692|Čimelice|Jihočeský kraj|1045|
+49.9456|15.3351|Církvice|Středočeský kraj|1311|
+50.3723|14.3981|Cítov|Středočeský kraj|1028|
+50.4842|14.0284|Čížkovice|Ústecký kraj|1323|
+49.1150|13.8291|Čkyně|Jihočeský kraj|1616|
+50.7767|14.6330|Cvikov|Liberecký kraj|4534|
+49.0815|15.4373|Dačice|Jihočeský kraj|7157|
+50.2478|12.8958|Dalovice|Karlovarský kraj|1880|
+49.0383|16.9176|Dambořice|Jihomoravský kraj|1485|
+49.9359|18.2221|Darkovice|Moravskoslezský kraj|1210|
+50.0284|15.9124|Dašice|Pardubický kraj|1797|
+49.8922|14.4004|Davle|Středočeský kraj|1765|
+50.7822|14.2148|Děčín|Ústecký kraj|46376|
+50.1008|14.3907|Dejvice|Prague|23401|
+50.7599|15.3028|Desná|Liberecký kraj|3481|
+49.8941|18.4608|Dětmarovice|Moravskoslezský kraj|4512|
+49.7885|14.8758|Divišov|Středočeský kraj|1367|
+49.9404|16.4233|Dlouhá Třebová|Pardubický kraj|1310|
+49.6738|18.4139|Dobrá|Moravskoslezský kraj|3268|
+49.6548|13.2931|Dobřany|Plzeň-jih|5779|
+49.6604|18.4923|Dobratice|Moravskoslezský kraj|1047|
+49.9275|14.2747|Dobřichovice|Středočeský kraj|3821|
+49.7811|14.1672|Dobříš|Středočeský kraj|8828|
+49.7157|13.6868|Dobřív|Plzeň-jih|1351|
+50.3701|13.7947|Dobroměřice|Ústecký kraj|1329|
+49.4783|15.6499|Dobronín|Kraj Vysočina|1883|
+50.3693|14.9623|Dobrovice|Středočeský kraj|2954|
+50.2920|16.1600|Dobruška|Královéhradecký kraj|7085|
+48.8483|16.0822|Dobšice|Jihomoravský kraj|2225|
+50.5647|14.6555|Doksy|Liberecký kraj|5025|
+50.1190|14.0478|Doksy|Středočeský kraj|1156|
+49.6499|17.3224|Dolany|Olomoucký kraj|2961|
+49.4550|18.1942|Dolní Bečva|Zlín|1805|
+49.9210|18.1084|Dolní Benešov|Moravskoslezský kraj|4314|
+50.3931|14.4502|Dolní Beřkovice|Středočeský kraj|1546|
+50.0100|16.9043|Dolní Bohdíkov|Olomoucký kraj|0|
+48.8586|17.0286|Dolní Bojanovice|Jihomoravský kraj|3076|
+50.4382|15.1281|Dolní Bousov|Středočeský kraj|2275|
+49.9632|14.4585|Dolní Břežany|Středočeský kraj|4806|
+49.1709|14.5813|Dolní Bukovsko|Jihočeský kraj|1473|
+49.3445|15.4566|Dolní Cerekev|Kraj Vysočina|1233|
+49.9795|16.5648|Dolní Čermná|Pardubický kraj|1371|
+50.2611|15.9611|Dolní Černilov|Královéhradecký kraj|2255|
+49.9927|16.4977|Dolní Dobrouč|Pardubický kraj|2597|
+48.8545|16.5928|Dolní Dunajovice|Jihomoravský kraj|1715|
+48.6564|14.4522|Dolní Dvořiště|Jihočeský kraj|1235|
+49.0701|16.4649|Dolní Kounice|Jihomoravský kraj|2403|
+49.8424|18.0924|Dolní Lhota|Moravskoslezský kraj|1308|
+49.3610|16.3587|Dolní Loućky|Jihomoravský kraj|1111|
+49.8988|18.4281|Dolní Lutyně|Moravskoslezský kraj|5350|
+48.9684|17.5859|Dolní Němčí|Zlín|2866|
+50.0876|14.5720|Dolní Počernice|Praha, Hlavní město|2157|
+50.8799|14.5950|Dolní Podluží|Ústecký kraj|1199|
+50.9825|14.2868|Dolní Poustevna|Ústecký kraj|1941|
+50.0293|15.9677|Dolní Roveň|Pardubický kraj|1899|
+50.1646|12.6451|Dolní Rychnov|Karlovarský kraj|1337|
+49.9272|16.2940|Dolní Sloupnice|Pardubický kraj|1729|
+49.9351|16.9711|Dolní Studénky|Olomoucký kraj|1278|
+49.5460|17.5355|Dolní Újezd|Olomoucký kraj|1138|
+49.8256|16.2546|Dolní Újezd|Pardubický kraj|1963|
+50.0179|12.5510|Dolní Žandov|Karlovarský kraj|1204|
+49.8973|17.7797|Dolní Životice|Moravskoslezský kraj|1143|
+49.5688|17.4139|Doloplazy|Olomoucký kraj|1235|
+49.0017|17.2848|Domanín|Jihomoravský kraj|1020|
+49.4405|12.9298|Domažlice|Plzeň-jih|10973|
+49.8587|18.4802|Doubrava|Moravskoslezský kraj|1125|
+49.4366|16.6294|Doubravice nad Svitavou|Jihomoravský kraj|1333|
+50.1074|16.2613|Doudleby nad Orlicí|Královéhradecký kraj|1926|
+49.5786|17.0770|Drahanovice|Olomoucký kraj|1810|
+49.3318|16.4780|Drásov|Jihomoravský kraj|2103|
+49.4259|17.5920|Dřevohostice|Olomoucký kraj|1427|
+49.1428|14.3460|Dřiteň|Jihočeský kraj|1392|
+48.8575|16.4859|Drnholec|Jihomoravský kraj|1676|
+49.2763|16.9515|Drnovice|Jihomoravský kraj|2403|
+50.5403|14.5402|Dubá|Liberecký kraj|1753|
+50.6856|13.7856|Dubí|Ústecký kraj|8148|
+49.8281|16.9627|Dubicko|Olomoucký kraj|1082|
+49.4825|17.2772|Dub nad Moravou|Olomoucký kraj|1485|
+48.9762|14.3604|Dubné|Jihočeský kraj|1141|
+48.9169|17.0900|Dubňany|Jihomoravský kraj|6179|
+50.6038|13.7462|Duchcov|Ústecký kraj|8718|
+49.8333|17.5476|Dvorce|Moravskoslezský kraj|1212|
+50.4317|15.8140|Dvůr Králové nad Labem|Královéhradecký kraj|15316|
+49.7773|13.4915|Dýšina|Plzeň-jih|2112|
+49.2017|18.1118|Francova Lhota|Zlín|1463|
+50.1203|12.3517|Františkovy Lázně|Karlovarský kraj|5607|
+49.5483|18.2108|Frenštát pod Radhoštěm|Moravskoslezský kraj|10495|
+49.6668|18.2232|Fryčovice|Moravskoslezský kraj|2431|
+48.6609|14.1656|Frymburk|Jihočeský kraj|1355|
+49.2852|17.6835|Fryšták|Zlín|3834|
+49.6833|18.3500|Frýdek-Místek|Moravskoslezský kraj|53590|
+50.9214|15.0797|Frýdlant|Liberecký kraj|7332|
+49.5928|18.3597|Frýdlant nad Ostravicí|Moravskoslezský kraj|9839|
+49.7124|17.9032|Fulnek|Moravskoslezský kraj|5472|
+49.8163|15.4769|Golčův Jeníkov|Kraj Vysočina|2821|
+49.5384|17.3089|Grygov|Olomoucký kraj|1532|
+50.1830|12.5505|Habartov|Karlovarský kraj|5337|
+49.7560|15.4849|Habry|Kraj Vysočina|1305|
+50.0361|14.5267|Háje|Prague|22059|
+49.8986|18.0954|Háj ve Slezsku|Moravskoslezský kraj|3322|
+49.3174|18.1475|Halenkov|Zlín|2367|
+49.1710|17.4716|Halenkovice|Zlín|1701|
+50.0805|16.9364|Hanušovice|Olomoucký kraj|2837|
+50.7721|15.4314|Harrachov|Liberecký kraj|1388|
+49.1695|13.4545|Hartmanice|Plzeň-jih|922|
+49.9464|18.2393|Hať|Moravskoslezský kraj|2539|
+49.7798|18.4369|Havířov|Moravskoslezský kraj|82768|
+49.6069|15.5794|Havlíčkův Brod|Kraj Vysočina|23368|
+50.1563|12.2724|Hazlov|Karlovarský kraj|1507|
+50.8772|15.1817|Hejnice|Liberecký kraj|2726|
+49.6889|15.9943|Herálec|Kraj Vysočina|1269|
+49.7068|13.1007|Heřmanova Huť|Plzeň-jih|1794|
+49.9471|15.6649|Heřmanův Městec|Pardubický kraj|4841|
+48.7521|16.3813|Hevlín|Jihomoravský kraj|1366|
+49.7621|15.9076|Hlinsko|Pardubický kraj|9504|
+48.7740|16.7623|Hlohovec|Jihomoravský kraj|1336|
+50.0436|14.4016|Hlubočepy|Prague|23461|
+49.6178|17.3944|Hlubočky|Olomoucký kraj|4176|
+49.0523|14.4343|Hluboká nad Vltavou|Jihočeský kraj|5679|
+49.8980|18.1920|Hlučín|Moravskoslezský kraj|13245|
+48.9881|17.5274|Hluk|Zlín|4242|
+50.0030|18.0083|Hněvošice|Moravskoslezský kraj|1028|
+49.5720|17.1795|Hněvotín|Olomoucký kraj|1903|
+49.6825|18.5414|Hnojník|Moravskoslezský kraj|1492|
+50.6659|15.0899|Hodkovice nad Mohelkou|Liberecký kraj|2659|
+50.0235|14.4141|Hodkovičky|Praha, Hlavní město|3584|
+48.8368|16.1634|Hodonice|Jihomoravský kraj|1648|
+48.8489|17.1324|Hodonín|Jihomoravský kraj|23344|
+49.5386|18.0237|Hodslavice|Moravskoslezský kraj|1699|
+49.9984|17.8085|Holasovice|Moravskoslezský kraj|1366|
+49.3333|17.5783|Holešov|Zlín|11544|
+50.1047|14.4495|Holešovice|Prague|37664|
+50.0660|15.9859|Holice|Pardubický kraj|6219|
+49.7760|13.6925|Holoubkov|Plzeň-jih|1454|
+49.5936|13.1013|Holýšov|Plzeň-jih|4659|
+49.3207|13.7010|Horažďovice|Plzeň-jih|5727|
+50.3661|15.6318|Hořice|Královéhradecký kraj|8427|
+49.6401|17.2107|Horka nad Moravou|Olomoucký kraj|2679|
+49.4322|18.2886|Horní Bečva|Zlín|2420|
+49.9668|17.6026|Horní Benešov|Moravskoslezský kraj|2214|
+49.7497|18.4368|Horní Bludovice|Moravskoslezský kraj|2582|
+50.6083|15.5715|Horní Branná|Liberecký kraj|1798|
+49.8401|13.3556|Horní Bříza|Plzeň-jih|4463|
+49.3203|15.3277|Horní Cerekev|Kraj Vysočina|1872|
+49.9705|16.6077|Horní Čermná|Pardubický kraj|1016|
+50.0490|16.0840|Horní Jelení|Pardubický kraj|1811|
+50.5731|13.5472|Horní Jiřetín|Ústecký kraj|1963|
+49.1812|18.0610|Horní Lideč|Zlín|1317|
+50.0500|14.5667|Horní Měcholupy|Prague|15303|
+49.9085|17.2111|Horní Město|Moravskoslezský kraj|1009|
+49.4121|17.4588|Horní Moštěnice|Olomoucký kraj|1676|
+48.7674|14.0326|Horní Planá|Jihočeský kraj|1943|
+50.4244|14.3899|Horní Počaply|Středočeský kraj|1141|
+50.1121|14.6104|Horní Počernice|Praha, Hlavní město|14296|
+50.1386|12.8076|Horní Slavkov|Karlovarský kraj|5818|
+49.9214|16.3395|Horní Sloupnice|Pardubický kraj|1742|
+49.5490|16.7908|Horní Štěpánov|Olomoucký kraj|894|
+48.7612|14.7350|Horní Stropnice|Jihočeský kraj|1560|
+49.7978|18.4819|Horní Suchá|Moravskoslezský kraj|4341|
+49.7518|18.4829|Horní Těrlicko|Moravskoslezský kraj|4134|
+50.1317|14.3388|Horoměřice|Středočeský kraj|5586|
+49.8360|13.9027|Hořovice|Středočeský kraj|8245|
+49.5296|12.9441|Horšovský Týn|Plzeň-jih|4905|
+49.3547|17.8694|Hošťálková|Zlín|2289|
+50.4886|14.3350|Hošťka|Ústecký kraj|1473|
+50.0928|14.5582|Hostavice|Praha, Hlavní město|1729|
+48.9501|16.2593|Hostěradice|Jihomoravský kraj|1488|
+50.5407|15.7233|Hostinné|Královéhradecký kraj|4151|
+50.0486|14.5244|Hostivař|Prague|19161|
+50.0816|14.2586|Hostivice|Středočeský kraj|9266|
+49.8253|14.0456|Hostomice|Středočeský kraj|1491|
+50.5877|13.8080|Hostomice|Ústecký kraj|1240|
+49.5597|12.7715|Hostouň|Plzeň-jih|1299|
+49.3036|18.0606|Hovězí|Zlín|2329|
+48.9549|16.9935|Hovorany|Jihomoravský kraj|2153|
+50.1787|14.5179|Hovorčovice|Středočeský kraj|2571|
+49.8825|18.0548|Hrabyně|Moravskoslezský kraj|1184|
+50.2092|15.8328|Hradec Králové|Královéhradecký kraj|90596|
+49.8704|17.8784|Hradec nad Moravici|Moravskoslezský kraj|5444|
+49.7114|16.4806|Hradec nad Svitavou|Pardubický kraj|1584|
+49.6166|18.7372|Hrádek|Moravskoslezský kraj|1917|
+49.7132|13.6530|Hrádek|Plzeň-jih|2705|
+50.8528|14.8445|Hrádek nad Nisou|Liberecký kraj|8001|
+49.8683|14.4093|Hradištko|Středočeský kraj|1320|
+50.3046|12.1758|Hranice|Karlovarský kraj|2070|
+49.5480|17.7347|Hranice|Olomoucký kraj|17910|
+49.0189|14.4786|Hrdějovice|Jihočeský kraj|1560|
+50.1360|14.1645|Hřebeč|Středočeský kraj|2159|
+50.6592|13.7268|Hrob|Ústecký kraj|1987|
+49.9595|15.9105|Hrochův Týnec|Pardubický kraj|1899|
+49.8491|13.4415|Hromnice|Plzeň-jih|1349|
+50.4797|16.1823|Hronov|Královéhradecký kraj|6516|
+49.1077|16.0607|Hrotovice|Kraj Vysočina|1784|
+50.3094|12.8718|Hroznětín|Karlovarský kraj|2162|
+48.9078|17.4170|Hroznová Lhota|Jihomoravský kraj|1153|
+48.7927|16.9740|Hrušky|Jihomoravský kraj|1654|
+48.8299|16.4027|Hrušovany nad Jevišovkou|Jihomoravský kraj|3309|
+49.0386|16.5943|Hrušovany u Brna|Jihomoravský kraj|3545|
+49.9610|13.9706|Hudlice|Středočeský kraj|1220|
+49.6238|18.2219|Hukvaldy|Moravskoslezský kraj|1924|
+49.3169|17.4637|Hulín|Zlín|6414|
+49.5415|15.3593|Humpolec|Kraj Vysočina|11487|
+49.0550|13.9870|Husinec|Jihočeský kraj|1339|
+48.9408|16.7376|Hustopeče|Jihomoravský kraj|6391|
+49.5305|17.8699|Hustopeče Nad Bečvou|Olomoucký kraj|1748|
+49.2485|17.7516|Hvozdná|Zlín|1075|
+49.9907|14.0505|Hýskov|Středočeský kraj|2042|
+49.1014|16.3775|Ivančice|Jihomoravský kraj|9898|
+49.3054|17.0934|Ivanovice na Hané|Jihomoravský kraj|2996|
+50.7035|15.4296|Jablonec nad Jizerou|Liberecký kraj|1968|
+50.7243|15.1711|Jablonec nad Nisou|Liberecký kraj|46209|
+50.0296|16.6006|Jablonné nad Orlicí|Pardubický kraj|3147|
+50.7653|14.7605|Jablonné v Podještědí|Liberecký kraj|3704|
+49.3835|17.9502|Jablůnka|Zlín|2004|
+49.5767|18.7646|Jablunkov|Moravskoslezský kraj|5225|
+50.3585|12.9346|Jáchymov|Karlovarský kraj|2248|
+49.9151|17.6840|Jakartovice|Moravskoslezský kraj|1054|
+49.1163|17.4279|Jalubí|Zlín|1708|
+49.6214|18.4060|Janovice|Moravskoslezský kraj|2052|
+49.3451|13.2181|Janovice nad Úhlavou|Plzeň-jih|2455|
+50.7720|15.1691|Janov nad Nisou|Liberecký kraj|1531|
+50.3562|15.9214|Jaroměř|Královéhradecký kraj|12487|
+49.6256|16.7519|Jaroměřice|Pardubický kraj|1177|
+49.0941|15.8933|Jaroměřice nad Rokytnou|Kraj Vysočina|4087|
+48.7566|16.2335|Jaroslavice|Jihomoravský kraj|1267|
+49.1899|15.0673|Jarošov nad Nežárkou|Jihočeský kraj|1067|
+50.3908|17.0027|Javorník|Olomoucký kraj|2544|
+49.6610|16.3061|Jedlová|Pardubický kraj|1010|
+49.3445|16.7559|Jedovnice|Jihomoravský kraj|2999|
+49.0190|15.5699|Jemnice|Kraj Vysočina|4311|
+50.0873|14.2148|Jeneč|Středočeský kraj|1353|
+49.9681|14.5135|Jesenice|Středočeský kraj|10625|
+50.2294|17.2046|Jeseník|Olomoucký kraj|10324|
+49.6119|17.9053|Jeseník nad Odrou|Moravskoslezský kraj|1898|
+49.6322|16.7112|Jevíčko|Pardubický kraj|2822|
+48.9874|15.9899|Jevišovice|Jihomoravský kraj|1162|
+50.4372|15.3516|Jičín|Královéhradecký kraj|16052|
+49.3961|15.5912|Jihlava|Kraj Vysočina|50108|
+50.6089|15.5065|Jilemnice|Liberecký kraj|5777|
+50.7608|14.1038|Jílové|Ústecký kraj|5307|
+49.8954|14.4933|Jílové u Prahy|Středočeský kraj|5262|
+49.6372|16.2263|Jimramov|Kraj Vysočina|1207|
+49.7862|13.9787|Jince|Středočeský kraj|2524|
+50.2518|17.5190|Jindřichov|Moravskoslezský kraj|1504|
+49.1440|15.0030|Jindřichův Hradec|Jihočeský kraj|20369|
+50.9951|14.5691|Jiříkov|Ústecký kraj|3926|
+50.4998|13.4477|Jirkov|Ústecký kraj|19067|
+50.1158|14.6992|Jirny|Středočeský kraj|3280|
+49.4855|14.5276|Jistebnice|Jihočeský kraj|2048|
+49.7540|18.1306|Jistebník|Moravskoslezský kraj|1461|
+50.7819|15.2315|Josefův Důl|Liberecký kraj|1024|
+50.1626|13.9881|Kačice|Středočeský kraj|1226|
+50.3833|13.2667|Kadaň|Ústecký kraj|18088|
+48.8108|14.2586|Kájov|Jihočeský kraj|1870|
+49.3666|15.7802|Kamenice|Kraj Vysočina|1760|
+49.9015|14.5824|Kamenice|Středočeský kraj|3011|
+49.3030|15.0752|Kamenice nad Lipou|Kraj Vysočina|3687|
+50.7736|14.4729|Kamenický Šenov|Liberecký kraj|3982|
+50.1270|14.0181|Kamenné Žehrovice|Středočeský kraj|1616|
+49.8630|14.5034|Kamenný Přívoz|Středočeský kraj|1598|
+48.8975|14.4464|Kamenný Újezd|Jihočeský kraj|2694|
+48.7388|14.4945|Kaplice|Jihočeský kraj|7531|
+49.1848|14.8531|Kardašova Řečice|Jihočeský kraj|2221|
+50.0927|14.4471|Karlín|Praha, Hlavní město|12261|
+50.1056|17.4456|Karlovice|Moravskoslezský kraj|963|
+50.2327|12.8712|Karlovy Vary|Karlovarský kraj|45500|
+49.3513|18.2401|Karolinka|Zlín|2340|
+49.8540|18.5417|Karviná|Moravskoslezský kraj|48637|
+49.4627|13.7406|Kasejovice|Plzeň-jih|1320|
+49.1429|13.5562|Kašperské Hory|Plzeň-jih|1369|
+49.2735|13.8303|Katovice|Jihočeský kraj|1338|
+49.8931|13.3829|Kaznějov|Plzeň-jih|3053|
+50.1333|14.5500|Kbely|Praha, Hlavní město|7216|
+49.3908|13.0397|Kdyně|Plzeň-jih|4985|
+49.4784|17.8153|Kelč|Zlín|2700|
+50.1473|14.1029|Kladno|Středočeský kraj|69728|
+49.7150|12.9823|Kladruby|Plzeň-jih|1419|
+49.9676|12.8762|Klášter|Karlovarský kraj|3034|
+50.3886|13.1834|Klášterec nad Ohří|Ústecký kraj|13980|
+49.3955|13.2950|Klatovy|Plzeň-jih|22921|
+50.1760|14.4115|Klecany|Středočeský kraj|3997|
+49.4348|12.8147|Klenčí pod Čerchovem|Plzeň-jih|1270|
+49.7881|18.1258|Klimkovice|Moravskoslezský kraj|4396|
+48.9961|16.8630|Klobouky|Jihomoravský kraj|0|
+50.2940|13.9875|Klobuky|Středočeský kraj|1001|
+48.8867|17.3955|Kněždub|Jihomoravský kraj|1044|
+49.2708|15.6722|Kněžice|Kraj Vysočina|1233|
+50.4892|15.0383|Kněžmost|Středočeský kraj|2331|
+49.0986|17.5167|Kněžpole|Zlín|1089|
+49.9855|18.0521|Kobeřice|Moravskoslezský kraj|3228|
+48.9329|16.8916|Kobylí|Jihomoravský kraj|1983|
+50.1237|14.4521|Kobylisy|Prague|27030|
+49.3518|17.3021|Kojetín|Olomoucký kraj|6397|
+49.4948|17.3754|Kokory|Olomoucký kraj|1099|
+50.0281|15.1998|Kolín|Středočeský kraj|33392|
+49.2989|13.4390|Kolinec|Plzeň-jih|1388|
+49.8065|13.8564|Komárov|Středočeský kraj|2418|
+49.6581|18.5278|Komorní Lhotka|Moravskoslezský kraj|1119|
+49.5903|16.8891|Konice|Olomoucký kraj|2620|
+50.3308|15.2703|Kopidlno|Královéhradecký kraj|2231|
+49.5995|18.1448|Kopřivnice|Moravskoslezský kraj|21245|
+50.7593|15.3653|Kořenov|Liberecký kraj|1014|
+49.1064|17.1643|Koryčany|Zlín|2744|
+50.0671|14.3633|Košíře|Prague|16145|
+50.4385|14.9300|Kosmonosy|Středočeský kraj|3822|
+49.6541|14.4717|Kosova Hora|Středočeský kraj|1356|
+50.5716|15.4040|Košťálov|Liberecký kraj|1671|
+50.6551|13.7555|Košťany|Ústecký kraj|2700|
+49.9940|14.8592|Kostelec nad Černými Lesy|Středočeský kraj|4156|
+50.2265|14.5855|Kostelec nad Labem|Středočeský kraj|4459|
+50.1227|16.2132|Kostelec nad Orlicí|Královéhradecký kraj|6184|
+49.5140|17.0582|Kostelec na Hané|Olomoucký kraj|2857|
+48.7469|16.9787|Kostice|Jihomoravský kraj|1872|
+50.0031|14.9770|Kouřim|Středočeský kraj|1772|
+49.4025|13.0021|Kout na Šumavě|Plzeň-jih|1140|
+49.5176|14.2781|Kovářov|Jihočeský kraj|1465|
+50.4382|13.0539|Kovářská|Ústecký kraj|1320|
+49.9939|13.5411|Kožlany|Plzeň-jih|1374|
+49.5904|18.2566|Kozlovice|Moravskoslezský kraj|3161|
+49.9128|18.1558|Kozmice|Moravskoslezský kraj|1808|
+49.4630|17.1805|Kralice na Hané|Olomoucký kraj|1707|
+50.0838|16.7605|Králíky|Pardubický kraj|4097|
+49.9819|13.4875|Kralovice|Plzeň-jih|3450|
+49.2252|16.5899|Královo Pole|South Moravian|24212|
+50.0744|14.4437|Královské Vinohrady|Prague|48805|
+50.2411|14.3115|Kralupy nad Vltavou|Středočeský kraj|17373|
+49.9498|14.0344|Králův Dvůr|Středočeský kraj|10677|
+50.3237|12.5175|Kraslice|Karlovarský kraj|6369|
+49.6046|14.2774|Krásná Hora nad Vltavou|Středočeský kraj|1091|
+50.4838|13.3575|Krásná Lípa|Ústecký kraj|0|
+49.9320|18.0047|Kravaře|Moravskoslezský kraj|6787|
+50.0416|14.4457|Krč|Prague|27344|
+48.9050|14.3057|Křemže|Jihočeský kraj|2989|
+49.1422|16.8293|Křenovice|Jihomoravský kraj|1738|
+48.9999|16.7199|Křepice|Jihomoravský kraj|1305|
+50.5226|14.2145|Křešice|Ústecký kraj|1371|
+50.2645|15.1378|Křinec|Středočeský kraj|1351|
+49.3886|16.1096|Křižanov|Kraj Vysočina|1832|
+49.6884|15.8521|Křížová|Kraj Vysočina|0|
+49.7291|18.2354|Krmelín|Moravskoslezský kraj|2381|
+50.0897|17.7038|Krnov|Moravskoslezský kraj|22303|
+49.2978|17.3931|Kroměříž|Zlín|27917|
+49.7724|16.0267|Krouna|Pardubický kraj|1395|
+48.9890|16.9103|Krumvíř|Jihomoravský kraj|1279|
+50.6845|13.8582|Krupka|Ústecký kraj|13687|
+50.1744|13.4266|Kryry|Ústecký kraj|2431|
+49.5507|18.2611|Kunčice pod Ondřejníkem|Moravskoslezský kraj|1995|
+49.7946|16.6276|Kunčina|Pardubický kraj|1191|
+49.6338|17.9897|Kunín|Moravskoslezský kraj|1795|
+49.0450|17.4701|Kunovice|Zlín|660|
+49.5065|16.5172|Kunštát|Jihomoravský kraj|2891|
+50.1293|16.5000|Kunvald|Pardubický kraj|1009|
+49.1212|15.1903|Kunžak|Jihočeský kraj|1484|
+49.2985|16.5314|Kuřim|Jihomoravský kraj|11860|
+49.9484|15.2682|Kutná Hora|Středočeský kraj|21787|
+49.2422|17.4697|Kvasice|Zlín|2282|
+50.2125|16.2632|Kvasiny|Královéhradecký kraj|1349|
+49.0102|17.1225|Kyjov|Jihomoravský kraj|10537|
+50.1189|12.5303|Kynšperk nad Ohří|Karlovarský kraj|4527|
+49.9122|16.6119|Lanškroun|Pardubický kraj|9847|
+50.1247|13.9504|Lány|Středočeský kraj|2262|
+48.7244|16.9670|Lanžhot|Jihomoravský kraj|3625|
+50.4287|15.5827|Lázně Bělohrad|Královéhradecký kraj|3674|
+50.0756|15.6798|Lázně Bohdaneč|Pardubický kraj|3323|
+50.0106|12.6247|Lázně Kynžvart|Karlovarský kraj|1647|
+49.6952|15.2777|Ledeč nad Sázavou|Kraj Vysočina|6048|
+48.9333|14.6189|Ledenice|Jihočeský kraj|2544|
+48.7999|16.8034|Lednice|Jihomoravský kraj|2170|
+49.2914|16.5787|Lelekovice|Jihomoravský kraj|2009|
+50.3752|13.7659|Lenešice|Ústecký kraj|1298|
+49.5206|17.9300|Lešná|Zlín|2159|
+49.8688|16.9275|Leština|Olomoucký kraj|1246|
+50.0358|16.4988|Letohrad|Pardubický kraj|6195|
+49.1773|16.9591|Letonice|Jihomoravský kraj|1385|
+49.5471|16.5736|Letovice|Jihomoravský kraj|7124|
+50.1333|14.5167|Letňany|Praha, Hlavní město|21702|
+48.9948|14.1498|Lhenice|Jihočeský kraj|2127|
+50.3754|15.2168|Libáň|Královéhradecký kraj|1648|
+50.1978|14.3638|Libčice nad Vltavou|Středočeský kraj|3575|
+50.7671|15.0562|Liberec|Liberecký kraj|102951|
+50.5689|14.2891|Liběšice|Ústecký kraj|1401|
+50.1920|14.4936|Líbeznice|Středočeský kraj|3303|
+50.1082|14.4746|Libeň|Praha, Hlavní město|36151|
+50.1268|15.1782|Libice nad Cidlinou|Středočeský kraj|1219|
+50.2742|14.5024|Libiš|Středočeský kraj|2425|
+50.4063|14.0444|Libochovice|Ústecký kraj|3627|
+50.7585|14.0407|Libouchec|Ústecký kraj|1772|
+50.1682|14.0546|Libušín|Středočeský kraj|3555|
+50.0079|17.6264|Lichnov|Moravskoslezský kraj|1088|
+49.5642|18.1690|Lichnov (o. Nový Jičín)|Moravskoslezský kraj|0|
+49.2030|18.0513|Lidečko|Zlín|1813|
+49.6947|13.2569|Líně|Plzeň-jih|2311|
+49.5542|15.5447|Lípa|Kraj Vysočina|1020|
+49.5272|17.5859|Lipník nad Bečvou|Olomoucký kraj|7955|
+48.9049|17.4617|Lipov|Jihomoravský kraj|1395|
+49.3839|16.8058|Lipovec|Jihomoravský kraj|1195|
+49.2905|17.9218|Liptál|Zlín|1547|
+49.3393|16.5531|Lipůvka|Jihomoravský kraj|1135|
+49.2071|16.6948|Líšeň|South Moravian|24563|
+49.0160|14.6084|Lišov|Jihočeský kraj|3989|
+50.5335|14.1318|Litoměřice|Ústecký kraj|24489|
+49.8681|16.3130|Litomyšl|Pardubický kraj|10411|
+49.7012|17.0761|Litovel|Olomoucký kraj|9448|
+50.6042|13.6181|Litvínov|Ústecký kraj|22258|
+48.9621|14.4515|Litvínovice|Jihočeský kraj|2793|
+49.8532|13.9813|Lochovice|Středočeský kraj|1322|
+49.9949|14.1578|Loděnice|Středočeský kraj|2040|
+50.1860|12.7540|Loket|Karlovarský kraj|3050|
+49.4046|16.4136|Lomnice|Jihomoravský kraj|1300|
+50.2117|12.6327|Lomnice|Karlovarský kraj|1344|
+49.0847|14.7173|Lomnice nad Lužnicí|Jihočeský kraj|1660|
+50.5306|15.3734|Lomnice nad Popelkou|Liberecký kraj|5957|
+50.5933|13.6573|Lom u Mostu|Ústecký kraj|0|
+49.7447|16.9289|Loštice|Olomoucký kraj|3078|
+50.2854|15.0205|Loučeň|Středočeský kraj|1375|
+50.0743|17.0905|Loučná nad Desnou|Olomoucký kraj|1949|
+48.6202|14.2575|Loučovice|Jihočeský kraj|1955|
+48.9152|17.4893|Louka|Jihomoravský kraj|921|
+50.3570|13.7967|Louny|Ústecký kraj|18061|
+50.5150|14.0510|Lovosice|Ústecký kraj|8744|
+50.1321|13.3132|Lubenec|Ústecký kraj|1541|
+50.2525|12.4060|Luby|Karlovarský kraj|2147|
+50.7414|15.2205|Lučany nad Nisou|Liberecký kraj|1636|
+49.7208|18.4478|Lučina|Moravskoslezský kraj|1181|
+49.8904|18.2401|Ludgeřovice|Moravskoslezský kraj|4959|
+49.0998|17.7575|Luhačovice|Zlín|4978|
+49.3740|15.7019|Luka nad Jihlavou|Kraj Vysočina|3184|
+49.5654|14.9904|Lukavec|Kraj Vysočina|965|
+50.0603|16.4821|Lukavice|Pardubický kraj|1220|
+49.2903|17.7296|Lukov|Zlín|1768|
+50.3230|14.9367|Luštěnice|Středočeský kraj|2318|
+49.5585|17.1357|Lutín|Olomoucký kraj|3076|
+49.8934|16.0285|Luže|Pardubický kraj|2589|
+50.3214|14.4002|Lužec nad Vltavou|Středočeský kraj|1520|
+48.8410|17.0710|Lužice|Jihomoravský kraj|2894|
+50.1238|13.7700|Lužná|Středočeský kraj|1984|
+50.2014|14.8328|Lysá nad Labem|Středočeský kraj|8194|
+49.4516|16.5372|Lysice|Jihomoravský kraj|1966|
+50.4993|16.2769|Machov|Královéhradecký kraj|1109|
+49.4981|17.3331|Majetín|Olomoucký kraj|1087|
+50.6463|15.1954|Malá Skála|Liberecký kraj|1067|
+50.0877|14.4045|Malá Strana|Praha, Hlavní město|6350|
+50.5339|16.0498|Malé Svatoňovice|Královéhradecký kraj|1596|
+48.6861|14.5768|Malonty|Jihočeský kraj|1135|
+49.3639|14.5787|Malšice|Jihočeský kraj|1702|
+49.9918|13.2332|Manětín|Plzeň-jih|1143|
+49.9646|12.7012|Mariánské Lázně|Karlovarský kraj|13921|
+49.9059|18.2360|Markvartovice|Moravskoslezský kraj|2219|
+50.2667|13.5374|Měcholupy|Ústecký kraj|1026|
+49.4801|13.4029|Měčín|Plzeň-jih|1120|
+49.5056|12.8808|Meclov|Plzeň-jih|1220|
+49.7875|17.0626|Medlov|Olomoucký kraj|1711|
+50.3505|14.4741|Mělník|Středočeský kraj|20301|
+49.0824|16.6942|Měnín|Jihomoravský kraj|1657|
+49.3932|15.8838|Měřín|Kraj Vysočina|1910|
+50.3281|12.8635|Merklín|Karlovarský kraj|1117|
+49.5604|13.1979|Merklín|Plzeň-jih|1034|
+50.1980|14.5199|Měšice|Středočeský kraj|1083|
+49.7093|16.7274|Městečko Trnávka|Pardubický kraj|1425|
+50.2072|15.2976|Městec Králové|Středočeský kraj|2913|
+49.9800|12.8643|Město|Karlovarský kraj|0|
+50.1629|17.5748|Město Albrechtice|Moravskoslezský kraj|3638|
+49.1995|16.6075|Město Brno|Jihomoravský kraj|0|
+49.7216|17.5201|Město Libavá|Olomoucký kraj|1213|
+49.7759|13.2511|Město Touškov|Plzeň-jih|2495|
+49.6067|18.3391|Metylovice|Moravskoslezský kraj|1790|
+50.6212|13.5987|Meziboři|Ústecký kraj|4597|
+50.6246|16.2421|Meziměstí|Královéhradecký kraj|2784|
+50.0480|14.4622|Michle|Prague|21402|
+50.9651|14.3637|Mikulášovice|Ústecký kraj|2375|
+48.8164|17.0511|Mikulčice|Jihomoravský kraj|1973|
+48.8056|16.6378|Mikulov|Jihomoravský kraj|7552|
+50.2985|17.3215|Mikulovice|Olomoucký kraj|2462|
+49.4509|14.3600|Milevsko|Jihočeský kraj|9343|
+49.5857|18.7194|Milíkov|Moravskoslezský kraj|1325|
+49.6319|14.0460|Milín|Středočeský kraj|2053|
+48.9553|17.1424|Milotice|Jihomoravský kraj|1941|
+50.2260|14.8886|Milovice|Středočeský kraj|14609|
+50.6587|14.7247|Mimoň|Liberecký kraj|6321|
+49.8413|15.8847|Miřetice|Pardubický kraj|1313|
+48.9477|16.3125|Miroslav|Jihomoravský kraj|3017|
+49.6878|13.6581|Mirošov|Plzeň-jih|2237|
+49.4291|14.0370|Mirotice|Jihočeský kraj|1114|
+49.5155|14.0358|Mirovice|Jihočeský kraj|1658|
+49.0867|17.5360|Mistřice|Zlín|1181|
+50.4113|14.9032|Mladá Boleslav|Středočeský kraj|47874|
+49.5331|14.8086|Mladá Vožice|Jihočeský kraj|2705|
+50.6064|15.8335|Mladé Buky|Královéhradecký kraj|2287|
+49.9360|14.7091|Mnichovice|Středočeský kraj|2256|
+50.5272|14.9713|Mnichovo Hradiště|Středočeský kraj|9123|
+50.8316|15.0563|Mníšek|Liberecký kraj|1830|
+49.8665|14.2618|Mníšek pod Brdy|Středočeský kraj|6377|
+50.0112|14.4096|Modřany|Praha, Hlavní město|33574|
+49.1193|16.6045|Modřice|Jihomoravský kraj|5755|
+49.7770|16.9195|Mohelnice|Olomoucký kraj|9886|
+49.1141|16.1902|Mohelno|Kraj Vysočina|1383|
+49.2618|16.5911|Mokrá Hora|Jihomoravský kraj|2612|
+49.9046|18.0295|Mokré Lazce|Moravskoslezský kraj|1144|
+49.1478|16.5803|Moravany|Jihomoravský kraj|3554|
+50.0010|15.9407|Moravany|Pardubický kraj|1706|
+49.7569|16.9604|Moravičany|Olomoucký kraj|1184|
+49.5961|18.5247|Morávka|Moravskoslezský kraj|1315|
+48.8030|17.0137|Moravská Nová Ves|Jihomoravský kraj|2690|
+49.7579|16.6643|Moravská Třebová|Pardubický kraj|9418|
+49.0521|15.8086|Moravské Budějovice|Kraj Vysočina|7079|
+49.7937|17.4421|Moravský Beroun|Olomoucký kraj|2775|
+49.0489|16.3117|Moravský Krumlov|Jihomoravský kraj|5667|
+48.9902|17.3327|Moravský Písek|Jihomoravský kraj|2201|
+48.8329|16.9314|Moravský Žižkov|Jihomoravský kraj|1497|
+49.5368|18.0597|Mořkov|Moravskoslezský kraj|2414|
+50.5030|13.6362|Most|Ústecký kraj|63474|
+50.4862|15.6962|Mostek|Královéhradecký kraj|1176|
+49.4721|17.0521|Mostkovice|Olomoucký kraj|1646|
+49.5274|18.7542|Mosty u Jablunkova|Moravskoslezský kraj|3667|
+49.0492|16.7374|Moutnice|Jihomoravský kraj|1139|
+49.4031|12.9512|Mrákov|Plzeň-jih|1153|
+50.4381|14.6325|Mšeno|Středočeský kraj|1417|
+49.9911|14.7416|Mukařov|Středočeský kraj|1297|
+48.9041|17.0292|Mutěnice|Jihomoravský kraj|3735|
+49.7890|13.7346|Mýto|Plzeň-jih|1640|
+49.6102|14.9063|Načeradec|Středočeský kraj|1044|
+50.4167|16.1629|Náchod|Královéhradecký kraj|21263|
+49.6546|17.1297|Náklo|Olomoucký kraj|1494|
+49.2073|16.1585|Náměšť nad Oslavou|Kraj Vysočina|4738|
+49.6021|17.0654|Náměšť na Hané|Olomoucký kraj|2255|
+49.1716|17.5119|Napajedla|Zlín|6981|
+49.8445|15.8046|Nasavrky|Pardubický kraj|1693|
+49.5872|18.7591|Návsí u Jablunkova|Moravskoslezský kraj|0|
+50.2374|15.6328|Nechanice|Královéhradecký kraj|2183|
+49.0316|17.3814|Nedakonice|Zlín|1634|
+49.1078|18.0704|Nedašov|Zlín|1332|
+49.4570|16.3341|Nedvědice|Jihomoravský kraj|1330|
+50.1306|14.7299|Nehvizdy|Středočeský kraj|4528|
+50.3224|12.7294|Nejdek|Karlovarský kraj|8565|
+50.2615|14.2988|Nelahozeves|Středočeský kraj|2213|
+49.3418|17.2060|Němčice nad Hanou|Olomoucký kraj|1902|
+49.4862|13.5823|Nepomuk|Plzeň-jih|3538|
+50.2593|14.5176|Neratovice|Středočeský kraj|16279|
+49.1511|17.0810|Nesovice|Jihomoravský kraj|1130|
+49.0493|14.1970|Netolice|Jihočeský kraj|2494|
+49.8157|14.5183|Netvořice|Středočeský kraj|1060|
+49.7537|14.5329|Neveklov|Středočeský kraj|2357|
+49.3254|17.1733|Nezamyslice|Olomoucký kraj|1490|
+49.6404|13.5196|Nezvěstice|Plzeň-jih|1464|
+48.9746|17.6476|Nivnice|Zlín|3378|
+49.9999|14.0024|Nižbor|Středočeský kraj|2133|
+49.0138|16.6543|Nosislav|Jihomoravský kraj|1375|
+49.0193|15.1032|Nová Bystřice|Jihočeský kraj|3371|
+49.4172|15.1167|Nová Cerekev|Kraj Vysočina|1196|
+50.4945|15.5150|Nová Paka|Královéhradecký kraj|9219|
+50.2709|12.7842|Nová Role|Karlovarský kraj|4298|
+49.2394|15.0726|Nová Včelnice|Jihočeský kraj|2449|
+48.7896|14.7784|Nové Hrady|Jihočeský kraj|2590|
+50.0783|14.4209|Nové Město|Prague|27105|
+50.3446|16.1515|Nové Město nad Metují|Královéhradecký kraj|9716|
+49.5614|16.0742|Nové Město na Moravě|Kraj Vysočina|9716|
+50.9249|15.2294|Nové Město pod Smrkem|Liberecký kraj|3713|
+50.2065|12.7380|Nové Sedlo|Karlovarský kraj|2527|
+50.1527|13.9004|Nové Strašecí|Středočeský kraj|5686|
+49.0176|15.7735|Nové Syrovice|Kraj Vysočina|925|
+49.5198|15.9085|Nové Veselí|Kraj Vysočina|1236|
+50.6563|13.8230|Novosedlice|Ústecký kraj|2094|
+48.8370|16.4927|Novosedly|Jihomoravský kraj|1162|
+50.7576|14.5556|Nový Bor|Liberecký kraj|11257|
+50.2415|15.4908|Nový Bydžov|Královéhradecký kraj|7160|
+49.3370|18.1979|Nový Hrozenkov|Zlín|2714|
+49.5944|18.0103|Nový Jičín|Moravskoslezský kraj|22740|
+49.7880|14.2935|Nový Knín|Středočeský kraj|1779|
+49.9426|17.0319|Nový Malín|Olomoucký kraj|3637|
+50.0646|14.4399|Nusle|Prague|35150|
+50.1861|15.0417|Nymburk|Středočeský kraj|15795|
+49.6561|18.7569|Nýdek|Moravskoslezský kraj|2047|
+49.7114|13.2119|Nýřany|Plzeň-jih|6994|
+49.2939|13.1435|Nýrsko|Plzeň-jih|5023|
+49.7161|13.9473|Obecnice|Středočeský kraj|1174|
+50.5050|13.6954|Obrnice|Ústecký kraj|2048|
+50.2334|14.4108|Odolena Voda|Středočeský kraj|6639|
+49.6626|17.8308|Odry|Moravskoslezský kraj|7395|
+50.5977|15.1260|Ohrazenice|Liberecký kraj|1055|
+49.6667|14.7500|Okres Benešov|Středočeský kraj|0|
+49.8333|14.0833|Okres Beroun|Středočeský kraj|0|
+49.3740|16.6436|Okres Blansko|Jihomoravský kraj|0|
+48.7596|16.8726|Okres Břeclav|Jihomoravský kraj|0|
+49.1667|16.5000|Okres Brno-venkov|Jihomoravský kraj|0|
+50.0000|17.4167|Okres Bruntál|Moravskoslezský kraj|0|
+50.6667|14.6667|Okres Česká Lípa|Liberecký kraj|0|
+49.0000|14.5000|Okres České Budějovice|Jihočeský kraj|0|
+48.7500|14.3333|Okres Český Krumlov|Jihočeský kraj|0|
+50.0833|12.5000|Okres Cheb|Karlovarský kraj|0|
+50.4167|13.3333|Okres Chomutov|Ústecký kraj|0|
+49.8333|15.8333|Okres Chrudim|Pardubický kraj|0|
+50.8291|14.3432|Okres Děčín|Ústecký kraj|0|
+49.5000|12.9167|Okres Domažlice|Plzeň-jih|0|
+49.5833|18.5000|Okres Frýdek-Místek|Moravskoslezský kraj|0|
+49.6667|15.5833|Okres Havlíčkův Brod|Kraj Vysočina|0|
+48.8647|17.1328|Okres Hodonín|Jihomoravský kraj|0|
+50.2500|15.6667|Okres Hradec Králové|Královéhradecký kraj|0|
+50.7500|15.2500|Okres Jablonec nad Nisou|Liberecký kraj|0|
+50.2500|17.1667|Okres Jeseník|Olomoucký kraj|0|
+50.4167|15.4167|Okres Jičín|Královéhradecký kraj|0|
+49.3333|15.5833|Okres Jihlava|Kraj Vysočina|0|
+49.0833|15.1667|Okres Jindřichův Hradec|Jihočeský kraj|0|
+50.1667|13.0000|Okres Karlovy Vary|Karlovarský kraj|0|
+49.8333|18.5000|Okres Karviná|Moravskoslezský kraj|0|
+50.1667|14.1667|Okres Kladno|Středočeský kraj|0|
+49.2500|13.4167|Okres Klatovy|Plzeň-jih|0|
+50.0000|15.0000|Okres Kolín|Středočeský kraj|0|
+49.3333|17.5000|Okres Kroměříž|Zlín|0|
+49.8333|15.2500|Okres Kutná Hora|Středočeský kraj|0|
+50.8333|15.0833|Okres Liberec|Liberecký kraj|0|
+50.5000|14.1667|Okres Litoměřice|Ústecký kraj|0|
+50.3333|13.6667|Okres Louny|Ústecký kraj|0|
+50.3333|14.5000|Okres Mělník|Středočeský kraj|0|
+50.4167|14.9167|Okres Mladá Boleslav|Středočeský kraj|0|
+50.5500|13.6333|Okres Most|Ústecký kraj|0|
+50.4167|16.1667|Okres Náchod|Královéhradecký kraj|0|
+49.6667|18.0000|Okres Nový Jičín|Moravskoslezský kraj|0|
+50.1667|15.1667|Okres Nymburk|Středočeský kraj|0|
+49.6667|17.2500|Okres Olomouc|Olomoucký kraj|0|
+49.8333|17.9167|Okres Opava|Moravskoslezský kraj|0|
+49.8333|18.2500|Okres Ostrava-město|Moravskoslezský kraj|0|
+50.0833|15.7500|Okres Pardubice|Pardubický kraj|0|
+49.4167|15.1667|Okres Pelhřimov|Kraj Vysočina|0|
+49.4000|14.2000|Okres Písek|Jihočeský kraj|0|
+49.5833|13.5000|Okres Plzeň-jih|Plzeň-jih|0|
+49.7500|13.3667|Okres Plzeň-město|Plzeň-jih|0|
+49.9167|13.2500|Okres Plzeň-sever|Plzeň-jih|0|
+49.0000|13.8667|Okres Prachatice|Jihočeský kraj|0|
+50.1177|14.7084|Okres Praha-východ|Středočeský kraj|0|
+49.8333|14.3333|Okres Praha-západ|Středočeský kraj|0|
+49.5000|17.5500|Okres Přerov|Olomoucký kraj|0|
+49.6667|14.1667|Okres Příbram|Středočeský kraj|0|
+49.5000|17.0333|Okres Prostějov|Olomoucký kraj|0|
+50.1000|13.7000|Okres Rakovník|Středočeský kraj|0|
+49.7833|13.6667|Okres Rokycany|Plzeň-jih|0|
+50.2333|16.2833|Okres Rychnov nad Kněžnou|Královéhradecký kraj|0|
+50.6167|15.4167|Okres Semily|Liberecký kraj|0|
+50.2167|12.6333|Okres Sokolov|Karlovarský kraj|0|
+49.2667|13.9000|Okres Strakonice|Jihočeský kraj|0|
+50.0000|17.0000|Okres Šumperk|Olomoucký kraj|0|
+49.7333|16.5000|Okres Svitavy|Pardubický kraj|0|
+49.4167|14.6667|Okres Tábor|Jihočeský kraj|0|
+49.7667|12.7500|Okres Tachov|Plzeň-jih|0|
+50.6333|13.8333|Okres Teplice|Ústecký kraj|0|
+49.1333|15.9333|Okres Třebíč|Kraj Vysočina|0|
+50.5833|15.8333|Okres Trutnov|Královéhradecký kraj|0|
+49.0167|17.5500|Okres Uherské Hradiště|Zlín|0|
+50.6667|14.0500|Okres Ústí nad Labem|Ústecký kraj|0|
+50.0000|16.5333|Okres Ústí nad Orlicí|Pardubický kraj|0|
+49.3667|18.0833|Okres Vsetín|Zlín|0|
+49.2784|16.9936|Okres Vyškov|Jihomoravský kraj|0|
+49.2167|17.7833|Okres Zlín|Zlín|0|
+48.8620|16.0627|Okres Znojmo|Jihomoravský kraj|0|
+49.5000|16.0333|Okres Žďár nad Sázavou|Kraj Vysočina|0|
+49.2454|15.7696|Okříšky|Kraj Vysočina|2007|
+49.6299|15.4908|Okrouhlice|Kraj Vysočina|1374|
+48.9848|16.4024|Olbramovice|Jihomoravský kraj|1048|
+49.9913|17.9607|Oldřišov|Moravskoslezský kraj|1438|
+49.5575|16.4217|Olešnice|Jihomoravský kraj|1757|
+49.5955|17.2518|Olomouc|Olomoucký kraj|99496|
+50.2511|12.5588|Oloví|Karlovarský kraj|1618|
+49.9651|16.8589|Olšany|Olomoucký kraj|1108|
+49.9046|14.7842|Ondřejov|Středočeský kraj|1086|
+49.3968|14.4814|Opařany|Jihočeský kraj|1365|
+49.8250|16.5046|Opatov|Pardubický kraj|1103|
+50.1454|15.7904|Opatovice nad Labem|Pardubický kraj|2968|
+49.9387|17.9026|Opava|Moravskoslezský kraj|54881|
+50.2674|16.1148|Opočno|Královéhradecký kraj|3177|
+49.1112|16.5233|Ořechov|Jihomoravský kraj|2368|
+49.8453|18.4301|Orlová|Moravskoslezský kraj|27383|
+50.6949|14.9214|Osečná|Liberecký kraj|1199|
+49.7759|13.5906|Osek|Plzeň-jih|1433|
+50.6212|13.6927|Osek|Ústecký kraj|4516|
+49.5112|17.5283|Osek nad Bečvou|Olomoucký kraj|1358|
+49.8436|16.2847|Osík|Pardubický kraj|1060|
+49.8952|17.1321|Oskava|Olomoucký kraj|1283|
+49.1234|16.3365|Oslavany|Jihomoravský kraj|4873|
+50.2752|17.7152|Osoblaha|Moravskoslezský kraj|1136|
+49.1610|16.5455|Ostopovice|Jihomoravský kraj|1751|
+49.8347|18.2820|Ostrava|Moravskoslezský kraj|280853|
+49.5351|18.3916|Ostravice|Moravskoslezský kraj|2324|
+50.3725|15.5495|Ostroměř|Královéhradecký kraj|1368|
+50.3059|12.9391|Ostrov|Karlovarský kraj|15615|
+49.3824|16.7627|Ostrov u Macochy|Jihomoravský kraj|1092|
+48.9756|17.4675|Ostrožská Lhota|Zlín|1489|
+49.0043|17.4363|Ostrožská Nová Ves|Zlín|3362|
+49.3883|17.0711|Otaslavice|Olomoucký kraj|1302|
+49.9168|17.8698|Otice|Moravskoslezský kraj|1525|
+49.0864|16.8144|Otnice|Jihomoravský kraj|1411|
+49.2093|17.5394|Otrokovice|Zlín|17239|
+49.4708|15.0017|Pacov|Kraj Vysočina|4757|
+49.6347|18.3151|Palkovice|Moravskoslezský kraj|3547|
+50.0408|15.7766|Pardubice|Pardubický kraj|88520|
+49.7964|17.2228|Paseka|Olomoucký kraj|1266|
+49.7318|18.2904|Paskov|Moravskoslezský kraj|3855|
+50.0560|13.7364|Pavlíkov|Středočeský kraj|1013|
+50.1938|14.1178|Pchery|Středočeský kraj|1743|
+50.4803|15.6082|Pecka|Královéhradecký kraj|1311|
+50.0904|15.0302|Pečky|Středočeský kraj|4874|
+49.4313|15.2234|Pelhřimov|Kraj Vysočina|16233|
+50.6877|15.2359|Pěnčín|Liberecký kraj|1769|
+50.3817|13.1102|Perštejn|Ústecký kraj|1017|
+50.3425|13.9599|Peruc|Ústecký kraj|2109|
+48.8820|17.2781|Petrov|Jihomoravský kraj|1302|
+49.5543|14.3374|Petrovice|Středočeský kraj|1362|
+49.8959|18.5478|Petrovice u Karviné|Moravskoslezský kraj|4973|
+49.8310|18.3894|Petřvald|Moravskoslezský kraj|7350|
+50.5325|15.8202|Pilníkov|Královéhradecký kraj|1209|
+49.7475|13.3776|Pilsen|Plzeň-jih|187863|
+50.2730|17.2537|Písečná|Olomoucký kraj|1063|
+49.3088|14.1475|Písek|Jihočeský kraj|31002|
+49.5592|18.8023|Písek|Moravskoslezský kraj|1884|
+49.9786|18.1935|Píšť|Moravskoslezský kraj|2096|
+49.8682|12.7438|Planá|Plzeň-jih|5450|
+49.3544|14.7015|Planá nad Lužnicí|Jihočeský kraj|3128|
+49.3899|13.4711|Plánice|Plzeň-jih|1627|
+49.9345|13.3903|Plasy|Plzeň-jih|2888|
+50.7032|15.3174|Plavy|Liberecký kraj|1077|
+50.0501|15.0294|Plaňany|Středočeský kraj|1947|
+50.2207|12.3467|Plesná|Karlovarský kraj|1890|
+49.4661|17.0150|Plumlov|Olomoucký kraj|2271|
+49.5103|12.8026|Poběžovice|Plzeň-jih|1541|
+49.2602|15.2402|Počátky|Kraj Vysočina|2452|
+50.2294|13.4119|Podbořany|Ústecký kraj|6253|
+50.1424|15.1188|Poděbrady|Středočeský kraj|15232|
+48.8255|16.8482|Podivín|Jihomoravský kraj|2938|
+49.1904|16.7208|Podolí|Jihomoravský kraj|1418|
+48.9812|16.5245|Pohořelice|Jihomoravský kraj|6126|
+50.5056|14.2645|Polepy|Ústecký kraj|1178|
+49.0339|17.3406|Polešovice|Zlín|1941|
+50.5369|16.2335|Police nad Metují|Královéhradecký kraj|4316|
+49.7146|16.2654|Polička|Pardubický kraj|9035|
+49.4870|15.7188|Polná|Kraj Vysočina|5305|
+49.7103|16.3173|Pomezí|Pardubický kraj|1341|
+50.6615|15.4633|Poniklá|Liberecký kraj|1106|
+49.0525|17.5271|Popovice|Zlín|994|
+50.1081|14.9182|Poříčany|Středočeský kraj|1572|
+49.8389|14.6745|Poříčí nad Sázavou|Středočeský kraj|1441|
+50.3598|13.7029|Postoloprty|Ústecký kraj|4924|
+49.4583|12.8068|Postřekov|Plzeň-jih|1102|
+49.9076|16.9123|Postřelmov|Olomoucký kraj|2894|
+49.7280|14.7772|Postupice|Středočeský kraj|1374|
+49.6369|17.6517|Potštát|Olomoucký kraj|1241|
+50.6728|14.1603|Povrly|Ústecký kraj|2305|
+49.1292|17.7692|Pozlovice|Zlín|1189|
+49.2098|16.7907|Pozořice|Jihomoravský kraj|2424|
+49.0129|13.9975|Prachatice|Jihočeský kraj|11036|
+49.8938|15.6287|Prachovice|Pardubický kraj|1442|
+50.0880|14.4208|Praha|Praha, Hlavní město|1165581|Prague
+50.0880|14.4217|Praha 1|Praha, Hlavní město|0|
+49.9836|14.3611|Praha 16|Praha, Hlavní město|0|
+50.1157|14.6112|Praha 20|Praha, Hlavní město|0|
+50.0752|14.6690|Praha 21|Praha, Hlavní město|0|
+49.5857|17.3821|Přáslavice|Olomoucký kraj|1473|
+49.6088|18.4862|Pražmo|Moravskoslezský kraj|900|
+49.3525|16.4024|Předklášteří|Jihomoravský kraj|1469|
+50.2563|15.8156|Předměřice nad Labem|Královéhradecký kraj|1638|
+50.0399|15.5603|Přelouč|Pardubický kraj|10195|
+49.5564|16.9558|Přemyslovice|Olomoucký kraj|1218|
+49.4551|17.4509|Přerov|Olomoucký kraj|40492|
+50.1603|14.8250|Přerov nad Labem|Středočeský kraj|1067|
+49.5730|13.3335|Přeštice|Plzeň-jih|6353|
+49.6409|18.1450|Příbor|Moravskoslezský kraj|8789|
+49.6899|14.0104|Příbram|Středočeský kraj|32773|
+49.5768|15.7386|Přibyslav|Kraj Vysočina|3997|
+49.6436|17.1434|Příkazy|Olomoucký kraj|1311|
+49.6749|12.6737|Přimda|Plzeň-jih|1555|
+50.5781|15.0839|Příšovice|Liberecký kraj|1277|
+50.6677|13.8360|Proboštov|Ústecký kraj|2712|
+49.8059|16.1162|Proseč|Pardubický kraj|2143|
+50.1153|14.5069|Prosek|Praha, Hlavní město|16850|
+49.4719|17.1118|Prostějov|Olomoucký kraj|43236|
+49.4361|18.2520|Prostřední Bečva|Zlín|1825|
+49.4835|16.8359|Protivanov|Olomoucký kraj|1090|
+49.1995|14.2172|Protivín|Jihočeský kraj|4760|
+50.3871|16.1080|Provodov-Šonov|Královéhradecký kraj|1225|
+49.9996|14.5502|Průhonice|Středočeský kraj|2846|
+48.8284|16.9807|Prušánky|Jihomoravský kraj|2183|
+49.3790|17.5871|Prusinovice|Zlín|1181|
+49.9362|14.5128|Psáry|Středočeský kraj|4322|
+49.5116|16.9611|Ptení|Olomoucký kraj|1097|
+49.8492|17.9979|Pustá Polom|Moravskoslezský kraj|1394|
+49.3225|17.0279|Pustiměř|Jihomoravský kraj|1929|
+49.8768|14.6771|Pyšely|Středočeský kraj|2301|
+49.6985|16.4407|Radiměř|Pardubický kraj|1260|
+49.8568|13.6057|Radnice|Plzeň-jih|1847|
+49.3163|13.9302|Radomyšl|Jihočeský kraj|1329|
+50.2980|13.2846|Radonice|Ústecký kraj|1190|
+49.4782|17.5166|Radslavice|Olomoucký kraj|1110|
+50.5675|16.0617|Radvanice|Královéhradecký kraj|1090|
+49.4109|16.6390|Rájec-Jestřebí|Jihomoravský kraj|3736|
+49.3939|16.6450|Ráječko|Jihomoravský kraj|1367|
+49.0902|16.6039|Rajhrad|Jihomoravský kraj|4113|
+49.0920|16.6293|Rajhradice|Jihomoravský kraj|1579|
+50.1037|13.7334|Rakovník|Středočeský kraj|15682|
+48.8581|16.8133|Rakvice|Jihomoravský kraj|2267|
+50.0109|17.0312|Rapotín|Olomoucký kraj|3322|
+49.6198|18.4729|Raškovice|Moravskoslezský kraj|2062|
+50.9042|15.1146|Raspenava|Liberecký kraj|2784|
+49.2713|17.3356|Rataje|Zlín|1031|
+49.3677|17.9150|Ratiboř|Zlín|1719|
+48.9200|17.1656|Ratíškovice|Jihomoravský kraj|3955|
+50.0359|15.4773|Řečany nad Labem|Pardubický kraj|1364|
+50.6071|13.9541|Řehlovice|Ústecký kraj|1456|
+49.7334|18.3171|Řepiště|Moravskoslezský kraj|1915|
+50.0706|14.3005|Řepy|Prague|22461|
+49.9139|14.2359|Řevnice|Středočeský kraj|3584|
+50.1849|13.8082|Řevničov|Středočeský kraj|1487|
+50.1773|14.3573|Řež|Středočeský kraj|1022|
+49.2150|16.3936|Říčany|Jihomoravský kraj|2088|
+49.9917|14.6543|Říčany|Středočeský kraj|17314|
+48.8804|17.1833|Rohatec|Jihomoravský kraj|3446|
+49.7427|13.5946|Rokycany|Plzeň-jih|14248|
+49.4659|17.3912|Rokytnice|Olomoucký kraj|1532|
+50.7256|15.4336|Rokytnice nad Jizerou|Liberecký kraj|2478|
+50.1647|16.4657|Rokytnice v Orlických Horách|Královéhradecký kraj|2125|
+49.8882|15.5314|Ronov nad Doubravou|Pardubický kraj|1668|
+49.7054|18.6135|Ropice|Moravskoslezský kraj|1752|
+49.1823|16.3879|Rosice|Jihomoravský kraj|6825|
+49.9223|15.9513|Rosice|Pardubický kraj|1368|
+50.2963|12.5734|Rotava|Karlovarský kraj|2753|
+49.0704|16.1076|Rouchovany|Kraj Vysočina|1210|
+50.4253|14.2617|Roudnice nad Labem|Ústecký kraj|12561|
+49.2013|16.8821|Rousínov|Jihomoravský kraj|5948|
+50.5353|15.2594|Rovensko pod Troskami|Liberecký kraj|1371|
+49.6020|13.8643|Rožmitál pod Třemšínem|Středočeský kraj|4244|
+49.4585|18.1430|Rožnov pod Radhoštěm|Zlín|17238|
+50.1584|14.3976|Roztoky|Středočeský kraj|9147|
+50.3048|15.1696|Rožďalovice|Středočeský kraj|1648|
+50.5052|16.0719|Rtyně v Podkrkonoší|Královéhradecký kraj|2841|
+49.9810|16.8778|Ruda nad Moravou|Olomoucký kraj|2490|
+50.0350|14.2343|Rudná|Středočeský kraj|5560|
+50.5952|15.7336|Rudník|Královéhradecký kraj|1993|
+48.9934|14.5418|Rudolfov|Jihočeský kraj|2384|
+50.9515|14.5570|Rumburk|Ústecký kraj|10780|
+49.6007|18.0759|Rybí|Moravskoslezský kraj|1263|
+50.0602|15.7047|Rybitví|Pardubický kraj|1529|
+50.1628|16.2749|Rychnov nad Kněžnou|Královéhradecký kraj|11693|
+49.8663|18.3763|Rychvald|Moravskoslezský kraj|7823|
+49.9318|17.2718|Rýmařov|Moravskoslezský kraj|7670|
+50.2671|12.8971|Sadov|Karlovarský kraj|1304|
+50.1360|14.9863|Sadská|Středočeský kraj|3301|
+48.8975|16.7142|Šakvice|Jihomoravský kraj|1574|
+49.6304|17.3281|Samotíšky|Olomoucký kraj|1318|
+48.8009|16.3786|Šanov|Jihomoravský kraj|1253|
+48.9640|17.0281|Šardice|Jihomoravský kraj|2152|
+50.1248|14.5719|Satalice|Praha, Hlavní město|2069|
+48.7932|16.0099|Šatov|Jihomoravský kraj|1200|
+49.8716|14.8967|Sázava|Středočeský kraj|3797|
+49.8469|15.6564|Seč|Pardubický kraj|1686|
+49.6606|14.4266|Sedlčany|Středočeský kraj|7836|
+49.9639|15.2885|Sedlec|Středočeský kraj|1098|
+48.7740|14.3911|Sedlice|Jihočeský kraj|1220|
+49.7184|18.3687|Sedliště|Moravskoslezský kraj|1723|
+49.6577|18.0869|Sedlnice|Moravskoslezský kraj|1327|
+50.6019|15.3355|Semily|Liberecký kraj|7999|
+49.6240|17.0858|Senice na Hané|Olomoucký kraj|1760|
+49.7931|18.3761|Šenov|Moravskoslezský kraj|6642|
+49.4286|14.4182|Sepekov|Jihočeský kraj|1343|
+50.1084|14.6801|Šestajovice|Středočeský kraj|4220|
+49.1001|14.5722|Ševětín|Jihočeský kraj|1294|
+50.0665|15.8527|Sezemice|Pardubický kraj|4393|
+49.3852|14.6848|Sezimovo Ústí|Jihočeský kraj|7420|
+49.9260|18.2702|Šilheřovice|Moravskoslezský kraj|1622|
+49.0143|16.7797|Šitbořice|Jihomoravský kraj|2126|
+50.1703|12.3614|Skalná|Karlovarský kraj|1875|
+49.6412|17.1765|Skrbeň|Olomoucký kraj|1158|
+50.2295|16.2923|Skuhrov nad Bělou|Královéhradecký kraj|1060|
+49.8435|15.9965|Skuteč|Pardubický kraj|5020|
+50.2305|14.0869|Slaný|Středočeský kraj|17247|
+49.1686|16.7273|Šlapanice|Jihomoravský kraj|7109|
+49.5615|17.0999|Slatinice|Olomoucký kraj|1578|
+49.9211|15.8138|Slatiňany|Pardubický kraj|4134|
+49.0880|17.8735|Slavičín|Zlín|6168|
+49.9218|17.8364|Slavkov|Moravskoslezský kraj|2131|
+49.1532|16.8765|Slavkov u Brna|Jihomoravský kraj|7294|
+48.9975|15.3515|Slavonice|Jihočeský kraj|2706|
+51.0037|14.4526|Šluknov|Ústecký kraj|5701|
+49.2478|17.8015|Slušovice|Zlín|2929|
+50.1884|14.0404|Smečno|Středočeský kraj|1980|
+50.0720|14.4041|Smíchov|Prague|34987|
+50.2915|15.4772|Smidary|Královéhradecký kraj|1523|
+50.2998|15.8651|Smiřice|Královéhradecký kraj|3122|
+49.5057|17.1070|Smržice|Olomoucký kraj|1654|
+50.7382|15.2464|Smržovka|Liberecký kraj|3433|
+49.2599|14.7186|Soběslav|Jihočeský kraj|7308|
+50.0104|17.0913|Sobotín|Olomoucký kraj|1154|
+50.4674|15.1762|Sobotka|Královéhradecký kraj|2274|
+49.1139|16.7216|Sokolnice|Jihomoravský kraj|1761|
+50.1813|12.6401|Sokolov|Karlovarský kraj|21908|
+50.2037|16.2376|Solnice|Královéhradecký kraj|2099|
+49.6137|13.6056|Spálené Poříčí|Plzeň-jih|3034|
+50.7261|15.6094|Špindlerův Mlýn|Královéhradecký kraj|1089|
+49.1412|17.4981|Spytihněv|Zlín|1692|
+48.9481|14.5413|Srubec|Jihočeský kraj|2998|
+49.6756|13.5039|Šťáhlavy|Plzeň-jih|2894|
+49.1018|13.6666|Stachy|Jihočeský kraj|1222|
+49.7822|14.1974|Stará Huť|Středočeský kraj|1158|
+50.5103|15.4944|Stará Paka|Královéhradecký kraj|2026|
+49.7278|18.1885|Stará Ves nad Ondřejnicí|Moravskoslezský kraj|2990|
+49.1978|15.8279|Stařeč|Kraj Vysočina|1539|
+50.0654|15.7789|Staré Hradiště|Pardubický kraj|2079|
+50.9504|14.4962|Staré Křečany|Ústecký kraj|1244|
+49.6699|18.3635|Staré Město|Moravskoslezský kraj|1517|
+50.1617|16.9473|Staré Město|Olomoucký kraj|1667|
+50.0870|14.4202|Staré Město|Praha, Hlavní město|6272|
+49.0752|17.4334|Staré Město|Zlín|6585|
+50.2430|15.6179|Staré Nechanice|Královéhradecký kraj|2180|
+50.0765|14.5104|Staré Strašnice|Prague|37665|
+49.6859|18.2728|Staříč|Moravskoslezský kraj|2214|
+49.9169|18.3362|Starý Bohumín|Moravskoslezský kraj|23034|
+49.5769|17.9617|Starý Jičín|Moravskoslezský kraj|2405|
+50.0098|15.2939|Starý Kolín|Středočeský kraj|1561|
+49.6977|13.4735|Starý Plzenec|Plzeň-jih|5403|
+49.5535|13.0698|Staňkov|Plzeň-jih|3026|
+49.9371|17.8055|Stěbořice|Moravskoslezský kraj|1330|
+49.8511|14.4054|Štěchovice|Středočeský kraj|1377|
+49.6705|13.3996|Štěnovice|Plzeň-jih|1401|
+49.9574|18.0374|Štěpánkovice|Moravskoslezský kraj|3096|
+49.6840|17.2204|Štěpánov|Olomoucký kraj|3555|
+49.7304|17.2989|Šternberk|Olomoucký kraj|13207|
+50.4530|14.3742|Štětí|Ústecký kraj|9165|
+50.2157|15.7483|Stěžery|Královéhradecký kraj|1625|
+49.9149|18.0125|Štítina|Moravskoslezský kraj|1173|
+49.0688|17.9827|Štítná nad Vláří|Zlín|0|
+49.9612|16.7658|Štíty|Olomoucký kraj|1892|
+50.1463|13.9634|Stochov|Středočeský kraj|5538|
+49.6391|13.1647|Stod|Plzeň-jih|3532|
+50.0500|14.3167|Stodůlky|Prague|60758|
+49.5025|15.5886|Štoky|Kraj Vysočina|1540|
+49.8169|18.5252|Stonava|Moravskoslezský kraj|1745|
+49.2614|13.9024|Strakonice|Jihočeský kraj|22275|
+49.5918|18.1174|Štramberk|Moravskoslezský kraj|3478|
+49.9481|14.6775|Strančice|Středočeský kraj|2899|
+48.9022|17.7067|Strání|Zlín|3803|
+49.7355|13.7576|Strašice|Plzeň-jih|2442|
+49.6688|12.7755|Stráž|Plzeň-jih|1057|
+49.8310|17.1328|Strážná|Olomoucký kraj|0|
+50.7910|15.0268|Stráž nad Nisou|Liberecký kraj|2430|
+48.9010|17.3168|Strážnice|Jihomoravský kraj|5282|
+49.3033|13.2462|Strážov|Plzeň-jih|1326|
+50.7028|14.8010|Stráž pod Ralskem|Liberecký kraj|3773|
+49.1522|16.5040|Střelice|Jihomoravský kraj|3283|
+49.7557|12.9970|Stříbro|Plzeň-jih|7689|
+50.1267|14.4936|Střížkov|Praha, Hlavní město|15705|
+49.1585|15.1993|Strmilov|Jihočeský kraj|1399|
+49.0840|14.0552|Strunkovice nad Blanicí|Jihočeský kraj|1230|
+49.1852|15.2869|Studená|Jihočeský kraj|2464|
+50.5534|15.5494|Studenec|Liberecký kraj|1734|
+49.7234|18.0785|Studénka|Moravskoslezský kraj|9166|
+48.9700|17.7138|Suchá Loz|Zlín|1078|
+49.9525|15.1665|Suchdol|Středočeský kraj|1065|
+48.8900|14.8772|Suchdol nad Lužnicí|Jihočeský kraj|3659|
+48.8682|16.0947|Suchohrdly|Jihomoravský kraj|1010|
+49.9190|16.9452|Sudkov|Olomoucký kraj|1185|
+48.8672|17.2568|Sudoměřice|Jihomoravský kraj|1247|
+49.0286|17.7220|Šumice|Zlín|1764|
+49.9653|16.9706|Šumperk|Olomoucký kraj|24444|
+49.2311|13.5202|Sušice|Plzeň-jih|10689|
+50.1922|12.6252|Svatava|Karlovarský kraj|1577|
+49.6680|15.4039|Světlá nad Sázavou|Kraj Vysočina|6394|
+49.6893|18.3276|Sviadnov|Moravskoslezský kraj|1352|
+49.4814|13.2842|Švihov|Plzeň-jih|1582|
+49.5018|16.5979|Svitávka|Jihomoravský kraj|1700|
+49.7559|16.4683|Svitavy|Pardubický kraj|16073|
+50.6260|15.8165|Svoboda nad Úpou|Královéhradecký kraj|1951|
+49.7107|16.0321|Svratka|Kraj Vysočina|1539|
+49.4144|14.6578|Tábor|Jihočeský kraj|34339|
+49.7953|12.6336|Tachov|Plzeň-jih|14308|
+50.7373|15.3058|Tanvald|Liberecký kraj|6921|
+48.8361|16.1556|Tasovice|Jihomoravský kraj|1221|
+49.2211|17.5873|Tečovice|Zlín|1272|
+49.1842|15.4527|Telč|Kraj Vysočina|5105|
+49.1019|16.7177|Telnice|Jihomoravský kraj|1670|
+50.6404|13.8245|Teplice|Ústecký kraj|50856|
+50.5933|16.1703|Teplice nad Metují|Královéhradecký kraj|1805|
+50.5110|14.1506|Terezín|Ústecký kraj|2852|
+49.0396|16.7700|Těšany|Jihomoravský kraj|1155|
+49.5932|17.1261|Těšetice|Olomoucký kraj|1350|
+49.5700|18.2215|Tichá|Moravskoslezský kraj|1585|
+50.2698|14.5541|Tišice|Středočeský kraj|2636|
+49.3487|16.4244|Tišnov|Jihomoravský kraj|9270|
+49.7242|13.2353|Tlučná|Plzeň-jih|3427|
+49.2535|17.4956|Tlumačov|Zlín|2468|
+49.1219|17.5443|Topolná|Zlín|1545|
+50.0605|12.9851|Toužim|Karlovarský kraj|3458|
+49.4308|17.2879|Tovačov|Olomoucký kraj|2605|
+49.1309|17.4362|Traplice|Zlín|1139|
+50.2010|15.9922|Třebechovice pod Orebem|Královéhradecký kraj|5611|
+50.4763|13.9901|Třebenice|Ústecký kraj|1723|
+49.2149|15.8817|Třebíč|Kraj Vysočina|34476|
+49.9724|14.2913|Třebotov|Středočeský kraj|1516|
+49.0036|14.7706|Třeboň|Jihočeský kraj|8249|
+49.8158|13.3950|Třemošná|Plzeň-jih|5052|
+49.8691|15.5800|Třemošnice|Pardubický kraj|3273|
+49.2909|15.4821|Třešť|Kraj Vysočina|5801|
+48.8423|14.6392|Trhové Sviny|Jihočeský kraj|4705|
+49.7115|15.0136|Trhový Štěpánov|Středočeský kraj|1260|
+49.6776|18.6708|Třinec|Moravskoslezský kraj|33523|
+50.6429|13.9945|Trmice|Ústecký kraj|2862|
+49.2960|17.8419|Trnava|Zlín|1118|
+49.5204|18.2380|Trojanovice|Moravskoslezský kraj|2114|
+49.8173|17.0810|Troubelice|Olomoucký kraj|1846|
+49.4322|17.3491|Troubky|Olomoucký kraj|1993|
+49.1695|16.5108|Troubsko|Jihomoravský kraj|1822|
+49.5424|17.4248|Tršice|Olomoucký kraj|1559|
+50.5610|15.9127|Trutnov|Královéhradecký kraj|29337|
+50.1380|13.9911|Tuchlovice|Středočeský kraj|2141|
+50.1354|14.2822|Tuchoměřice|Středočeský kraj|1718|
+49.0843|17.3698|Tupesy|Zlín|1117|
+50.5836|15.1519|Turnov|Liberecký kraj|14507|
+49.1918|16.7715|Tvarožná|Jihomoravský kraj|1159|
+48.7605|16.9945|Tvrdonice|Jihomoravský kraj|2067|
+48.7794|17.0132|Týnec|Jihomoravský kraj|1099|
+50.0420|15.3584|Týnec nad Labem|Středočeský kraj|2211|
+49.8335|14.5898|Týnec nad Sázavou|Středočeský kraj|5732|
+50.1514|16.0777|Týniště nad Orlicí|Královéhradecký kraj|6342|
+49.2234|14.4206|Týn nad Vltavou|Jihočeský kraj|8296|
+50.4406|13.4574|Údlice|Ústecký kraj|1039|
+49.0697|17.4597|Uherské Hradiště|Zlín|24852|
+49.0251|17.6471|Uherský Brod|Zlín|16280|
+48.9856|17.3898|Uherský Ostroh|Zlín|4526|
+49.8802|15.0648|Uhlířské Janovice|Středočeský kraj|3114|
+49.7640|17.1804|Újezd|Olomoucký kraj|1341|
+49.1681|17.9061|Újezd|Zlín|1202|
+48.9008|16.0635|Únanov|Jihomoravský kraj|1093|
+50.0853|14.1301|Unhošť|Středočeský kraj|5292|
+49.7709|17.1214|Uničov|Olomoucký kraj|11060|
+50.5124|16.0161|Úpice|Královéhradecký kraj|5448|
+49.4305|17.0729|Určice|Olomoucký kraj|1397|
+49.7983|17.0105|Úsov|Olomoucký kraj|1186|
+50.5847|14.3433|Úštěk|Ústecký kraj|2664|
+50.6607|14.0323|Ústí nad Labem|Ústí nad Labem Region|90378|
+49.9739|16.3936|Ústí nad Orlicí|Pardubický kraj|13988|
+50.0739|14.7308|Úvaly|Středočeský kraj|7507|
+48.9451|17.1740|Vacenovice|Jihomoravský kraj|2157|
+49.7553|18.3722|Václavovice|Moravskoslezský kraj|2125|
+49.1369|13.7291|Vacov|Jihočeský kraj|1372|
+49.4151|18.1098|Valašská Bystřice|Zlín|2240|
+49.2621|17.9967|Valašská Polanka|Zlín|1328|
+49.1406|18.0076|Valašské Klobouky|Zlín|4864|
+49.4718|17.9711|Valašské Meziříčí|Zlín|22568|
+50.4550|15.3849|Valdice|Královéhradecký kraj|1474|
+50.5835|15.4125|Valdice|Liberecký kraj|1459|
+48.7407|16.7550|Valtice|Jihomoravský kraj|3568|
+50.1176|16.2907|Vamberk|Královéhradecký kraj|4768|
+50.2834|17.0976|Vápenná|Olomoucký kraj|1181|
+50.9115|14.6182|Varnsdorf|Ústecký kraj|14645|
+48.9237|14.4538|Včelná|Jihočeský kraj|2247|
+49.7299|13.2763|Vejprnice|Plzeň-jih|2626|
+50.4923|13.0321|Vejprty|Ústecký kraj|2766|
+49.1054|17.3943|Velehrad|Zlín|1323|
+50.5390|13.9767|Velemín|Ústecký kraj|1427|
+48.8295|14.4625|Velešín|Jihočeský kraj|4023|
+50.0596|15.1071|Velim|Středočeský kraj|2222|
+49.2884|16.2274|Velká Bíteš|Kraj Vysočina|5482|
+49.5948|17.3654|Velká Bystřice|Olomoucký kraj|3736|
+50.1096|14.0698|Velká Dobrá|Středočeský kraj|1264|
+49.9615|12.6676|Velká Hleďsebe|Karlovarský kraj|2164|
+48.8826|17.5206|Velká nad Veličkou|Jihomoravský kraj|2778|
+49.8636|18.0933|Velká Polom|Moravskoslezský kraj|1597|
+48.8493|16.8923|Velké Bílovice|Jihomoravský kraj|3862|
+50.6627|14.1417|Velké Březno|Ústecký kraj|1957|
+50.7137|15.3154|Velké Hamry|Liberecký kraj|2754|
+49.9749|17.7288|Velké Heraltice|Moravskoslezský kraj|1613|
+49.9361|17.9738|Velké Hoštice|Moravskoslezský kraj|1675|
+49.3606|18.2836|Velké Karlovice|Zlín|2342|
+50.0320|17.0406|Velké Losiny|Olomoucký kraj|2862|
+49.3552|16.0122|Velké Meziříčí|Kraj Vysočina|11709|
+48.9917|16.6721|Velké Němčice|Jihomoravský kraj|1886|
+49.6124|16.6795|Velké Opatovice|Jihomoravský kraj|3410|
+48.9047|16.8161|Velké Pavlovice|Jihomoravský kraj|3078|
+49.9225|14.6393|Velké Popovice|Středočeský kraj|1926|
+50.4618|16.1893|Velké Poříčí|Královéhradecký kraj|2275|
+50.1605|14.3145|Velké Přílepy|Středočeský kraj|3601|
+50.5316|16.0285|Velké Svatoňovice|Královéhradecký kraj|1125|
+49.4050|15.6670|Velký Beranov|Kraj Vysočina|1315|
+50.0987|15.1863|Velký Osek|Středočeský kraj|2150|
+50.9908|14.3743|Velký Šenov|Ústecký kraj|1978|
+49.5499|17.3336|Velký Týnec|Olomoucký kraj|3211|
+49.5786|17.4835|Velký Újezd|Olomoucký kraj|1415|
+50.0706|15.1845|Veltruby|Středočeský kraj|1301|
+50.2705|14.3286|Veltrusy|Středočeský kraj|2311|
+50.2815|14.2362|Velvary|Středočeský kraj|3080|
+49.6666|18.7131|Vendryně|Moravskoslezský kraj|4511|
+50.6611|14.3011|Verneřice|Ústecký kraj|1083|
+49.4611|17.2879|Věrovany|Olomoucký kraj|1306|
+49.5392|18.1142|Veřovice|Moravskoslezský kraj|2009|
+49.1843|14.6973|Veselí nad Lužnicí|Jihočeský kraj|6534|
+48.9536|17.3765|Veselí nad Moravou|Jihomoravský kraj|10574|
+49.9805|14.5049|Vestec|Středočeský kraj|3252|
+48.7743|14.2862|Větřní|Jihočeský kraj|3870|
+49.2759|16.4369|Veverská Bítýška|Jihomoravský kraj|2842|
+49.4415|18.0947|Vidče|Zlín|1614|
+50.3723|17.1863|Vidnava|Olomoucký kraj|1190|
+49.9779|17.0123|Vikýřovice|Olomoucký kraj|2064|
+49.8157|15.5358|Vilémov|Kraj Vysočina|1029|
+50.9905|14.3353|Vilémov|Ústecký kraj|1008|
+49.0586|13.7829|Vimperk|Jihočeský kraj|8043|
+50.1758|14.0911|Vinařice|Středočeský kraj|2137|
+49.2136|16.8254|Viničné Šumice|Jihomoravský kraj|1381|
+50.2338|12.7175|Vintířov|Karlovarský kraj|1132|
+50.9666|15.0250|Višňova|Liberecký kraj|1344|
+48.9824|16.1502|Višňové|Jihomoravský kraj|1138|
+49.7745|17.7494|Vítkov|Moravskoslezský kraj|6202|
+49.2229|17.8545|Vizovice|Zlín|4518|
+49.1238|17.9400|Vlachovice|Zlín|1532|
+49.0814|13.9584|Vlachovo Březí|Jihočeský kraj|1672|
+49.2102|15.9883|Vladislav|Kraj Vysočina|1225|
+49.7063|14.8988|Vlašim|Středočeský kraj|11329|
+49.5787|17.9546|Vlčnov|Moravskoslezský kraj|741|
+49.0099|17.5818|Vlčnov|Zlín|2956|
+48.9896|17.1636|Vlkoš|Jihomoravský kraj|1052|
+48.9310|17.3505|Vnorovy|Jihomoravský kraj|2914|
+49.1479|14.1751|Vodňany|Jihočeský kraj|7464|
+49.0514|16.6082|Vojkovice|Jihomoravský kraj|1190|
+48.9088|13.8866|Volary|Jihočeský kraj|3692|
+49.1658|13.8862|Volyně|Jihočeský kraj|3036|
+49.6401|14.6381|Votice|Středočeský kraj|4760|
+48.9752|17.2110|Vracov|Jihomoravský kraj|4491|
+49.9359|14.3771|Vrané nad Vltavou|Středočeský kraj|2704|
+48.9660|16.6066|Vranovice|Jihomoravský kraj|2460|
+49.7700|18.3102|Vratimov|Moravskoslezský kraj|7469|
+49.5080|17.1999|Vrbátky|Olomoucký kraj|1729|
+48.9151|16.8978|Vrbice|Jihomoravský kraj|1076|
+49.8833|18.3167|Vrbice|Moravskoslezský kraj|1464|
+50.1210|17.3832|Vrbno pod Pradědem|Moravskoslezský kraj|4627|
+48.7998|16.1006|Vrbovec|Jihomoravský kraj|1103|
+50.6270|15.6094|Vrchlabí|Královéhradecký kraj|12028|
+49.9215|15.4724|Vrdy|Středočeský kraj|2953|
+49.8242|18.1257|Vřesina|Moravskoslezský kraj|2410|
+50.1800|13.3799|Vroutek|Ústecký kraj|1898|
+50.0673|14.4603|Vršovice|Prague|36836|
+49.2810|17.8768|Všemina|Zlín|1061|
+49.9288|14.3039|Všenory|Středočeský kraj|1684|
+49.8417|13.2294|Všeruby|Plzeň-jih|1017|
+50.2566|15.7598|Všestary|Královéhradecký kraj|1537|
+50.2819|14.5930|Všetaty|Středočeský kraj|2495|
+49.3387|17.9962|Vsetín|Zlín|24974|
+50.0651|14.4171|Vysehrad|Praha, Hlavní město|1913|
+49.2775|16.9990|Vyškov|Jihomoravský kraj|20664|
+50.1094|14.5167|Vysočany|Praha, Hlavní město|17465|
+49.9532|16.1617|Vysoké Mýto|Pardubický kraj|12849|
+50.6856|15.4015|Vysoké nad Jizerou|Liberecký kraj|1363|
+48.6160|14.3118|Vyšší Brod|Jihočeský kraj|2628|
+49.0116|16.6026|Žabčice|Jihomoravský kraj|1664|
+50.0573|14.5038|Záběhlice|Prague|35228|
+49.2139|16.5725|Žabovřesky|South Moravian|19387|
+49.8826|16.8722|Zábřeh|Olomoucký kraj|13157|
+50.6050|13.7875|Zabrušany|Ústecký kraj|1146|
+50.6633|15.9106|Žacléř|Královéhradecký kraj|3097|
+50.4967|15.6980|Zadní Mostek|Královéhradecký kraj|1350|
+49.0227|17.7792|Záhorovice|Zlín|1037|
+48.8730|16.7665|Zaječí|Jihomoravský kraj|1567|
+49.7743|13.8407|Zaječov|Středočeský kraj|1435|
+50.6848|14.6452|Zákupy|Liberecký kraj|2907|
+50.0860|16.4674|Žamberk|Pardubický kraj|5770|
+50.7139|14.3962|Žandov|Liberecký kraj|1907|
+49.9547|15.0306|Zásmuky|Středočeský kraj|1763|
+49.4741|18.0444|Zašová|Zlín|3082|
+49.1880|16.3631|Zastávka|Jihomoravský kraj|2495|
+50.3272|13.5458|Žatec|Ústecký kraj|18984|
+50.0341|17.5930|Zátor|Moravskoslezský kraj|1169|
+49.8602|13.7726|Zbiroh|Plzeň-jih|2500|
+49.2489|17.2846|Zborovice|Zlín|1428|
+49.2216|16.2941|Zbraslav|Jihomoravský kraj|1285|
+49.8118|15.1832|Zbraslavice|Středočeský kraj|1378|
+49.6784|13.2256|Zbůch|Plzeň-jih|1890|
+49.1552|16.3495|Zbýšov|Jihomoravský kraj|3890|
+49.0673|17.0275|Ždánice|Jihomoravský kraj|2549|
+50.1680|14.4512|Zdiby|Středočeský kraj|4088|
+49.9121|13.9775|Zdice|Středočeský kraj|4047|
+49.0846|13.6974|Zdíkov|Jihočeský kraj|1616|
+49.2277|17.3190|Zdounky|Zlín|2055|
+49.8757|13.8973|Žebrák|Středočeský kraj|2139|
+50.1336|14.6607|Zeleneč|Středočeský kraj|3197|
+49.1169|16.5814|Želešice|Jihomoravský kraj|1284|
+49.1419|15.6730|Želetava|Kraj Vysočina|1573|
+49.1374|13.2352|Železná Ruda|Plzeň-jih|1580|
+50.4727|15.3846|Železnice|Královéhradecký kraj|1094|
+50.6427|15.2541|Železný Brod|Liberecký kraj|6442|
+49.5298|15.2218|Želiv|Kraj Vysočina|1152|
+49.0229|17.2373|Žeravice|Jihomoravský kraj|1043|
+49.1965|16.6474|Židenice|South Moravian|18920|
+49.0395|16.6188|Židlochovice|Jihomoravský kraj|3662|
+50.0449|13.3750|Žihle|Plzeň-jih|1275|
+49.2532|15.1882|Žirovnice|Kraj Vysočina|3135|
+50.5553|14.1567|Žitenice|Ústecký kraj|1407|
+50.1319|15.3932|Žiželice|Středočeský kraj|1322|
+50.0833|14.4500|Žižkov|Prague|58267|
+50.2638|17.3960|Zlaté Hory|Olomoucký kraj|3933|
+49.8896|15.4885|Žleby|Středočeský kraj|1267|
+49.0740|17.3794|Zlechov|Zlín|1607|
+49.2264|17.6706|Zlín|Zlín|72973|
+49.0661|14.3661|Zliv|Jihočeský kraj|3426|
+50.2875|14.0921|Zlonice|Středočeský kraj|2232|
+49.1998|17.4904|Žlutava|Zlín|1148|
+50.0919|13.1630|Žlutice|Karlovarský kraj|2187|
+48.8555|16.0488|Znojmo|Jihomoravský kraj|35280|
+49.7401|15.1061|Zruč nad Sázavou|Středočeský kraj|4925|
+49.4660|18.0925|Zubří|Zlín|5603|
+50.3093|17.0987|Žulová|Olomoucký kraj|1128|
+49.9347|14.4177|Zvole|Středočeský kraj|1964|
+50.5437|15.0803|Žďár|Středočeský kraj|1181|
+49.5626|15.9392|Žďár nad Sázavou|Kraj Vysočina|20247|
+49.5873|15.9322|Žďár nad Sázavou Druhy|Kraj Vysočina|0|

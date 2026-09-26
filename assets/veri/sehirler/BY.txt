@@ -1,337 +1,338 @@
-52.6440|28.8801|Aktsyabrski
-52.2038|24.7863|Antopal’
-54.4167|25.9167|Ashmyanski Rayon
-54.4210|25.9360|Ashmyany
-53.3011|28.6386|Asipovichy
-53.3333|28.7500|Asipovitski Rayon
-52.1891|26.1299|Asnyezhytsy
-54.0651|27.6950|Astrashytski Haradok
-54.6138|25.9554|Astraviec|Astravyets
-54.6667|26.0000|Astravyetski Rayon
-53.7817|27.4346|Atolina
-53.8397|27.3917|Azyartso
-53.1384|29.2214|Babruysk
-53.0833|29.1667|Babruyski Rayon
-54.4207|30.2909|Balbasava
-54.0036|27.5669|Bal’shavik
-54.4784|30.3159|Baran’
-53.1327|26.0139|Baranovichi
-53.1667|25.8333|Baranovichskiy Rayon
-54.3171|26.1376|Baruny
-54.2279|28.5050|Barysaw
-54.3333|28.5833|Barysawski Rayon
-53.5269|28.1732|Blon’
-54.3420|29.2736|Bobr
-53.1468|29.2055|Bobruysk
-54.0022|27.6754|Borovlyany
-51.7870|30.2677|Brahin
-51.6667|30.3333|Brahinski Rayon
-55.6413|27.0418|Braslaw
-55.5597|27.0000|Braslawski Rayon
-52.0975|23.6878|Brest
-52.0000|23.7500|Brestski Rayon
-52.7179|30.5701|Buda-Kashalyova
-53.8536|30.2671|Buynichy
-54.7316|28.0577|Byahoml’
-53.9994|29.7141|Byalynichy
-54.0000|29.7500|Byalynitski Rayon
-53.8333|29.0000|Byarezinski Rayon
-52.5314|24.9786|Byaroza
-53.7241|25.4971|Byarozawka
-52.5000|25.0000|Byarozawski Rayon
-52.4731|25.1784|Byelaazyorsk
-53.8391|28.9879|Byerazino
-55.0000|29.5000|Byeshankovitski Rayon
-53.5210|30.2454|Bykhaw
-53.5213|30.2308|Bykhov
-52.9164|30.9179|Chachersk
-52.9167|31.0833|Chacherski Rayon
-52.2195|23.7404|Charnawchytsy
-54.8584|29.1608|Chashniki
-54.7500|29.2500|Chashnitski Rayon
-53.8333|30.9167|Chavuski Rayon
-53.8098|30.9717|Chavusy
-53.7059|28.4313|Chervyen’
-53.7500|28.5000|Chervyen’ski Rayon
-53.5689|31.3831|Cherykaw
-53.6667|31.3333|Cherykawski Rayon
-52.8522|27.1698|Chyrvonaya Slabada
-54.2698|27.1067|Chyst’
-51.7500|23.6000|Damachava
-53.7352|30.2625|Dashkawka
-52.0566|27.2161|Davyd-Haradok
-52.4089|31.3237|Dobrush
-54.8333|27.9167|Dokshytski Rayon
-54.8918|27.7667|Dokshytsy
-53.1571|30.4601|Dowsk
-52.1874|25.1597|Drahichyn
-52.1667|25.0000|Drahichynski Rayon
-55.7906|27.4505|Druya
-53.6238|27.8977|Druzhny
-54.1192|31.0939|Drybin
-54.0833|31.0000|Drybinski Rayon
-54.5716|30.6910|Dubrowna
-53.6786|27.9400|Dukora
-53.4631|25.4068|Dyatlovo
-55.5676|28.2076|Dzisna
-53.6832|27.1380|Dzyarzhynsk
-53.5871|27.0535|Enyerhyetykaw
-53.7500|27.3334|Fanipol
-53.9006|27.4950|Frunzyenski Rayon
-53.6667|24.0000|Grodnenskiy Rayon
-54.2585|26.0144|Hal’shany
-52.7580|26.4300|Hantsavichy
-52.6667|26.5000|Hantsavitski Rayon
-55.4624|29.9845|Haradok
-55.6667|30.1667|Haradotski Rayon
-53.3247|26.0107|Haradzishcha
-53.3121|26.5380|Haradzyeya
-53.7829|27.6407|Hatava
-53.0868|28.8567|Hlusha
-52.9030|28.6845|Hlusk
-55.1384|27.6905|Hlybokaye
-55.1667|27.8333|Hlybotski Rayon
-52.4345|30.9754|Homyel'
-52.3333|31.0000|Homyel’ski Rayon
-53.1333|26.0333|Horad Baranavichy
-52.1000|23.7000|Horad Brest
-53.6833|23.8333|Horad Hrodna
-54.0249|28.0894|Horad Smalyavichy|Smaliavičy
-54.0985|28.3331|Horad Zhodzina
-54.3333|31.0000|Horatski Rayon
-54.2862|30.9863|Horki
-52.5215|27.1385|Hotsk
-53.6884|23.8258|Hrodna
-54.1159|25.5773|Hyeranyony
-54.4167|27.2958|Il’ya
-53.4605|23.8823|Indura
-52.1451|25.5365|Ivanava
-52.1667|25.5833|Ivanawski Rayon
-52.1472|25.5320|Ivanovo
-52.7079|25.3351|Ivatsevichi
-52.7090|25.3401|Ivatsevichy
-53.8864|26.7432|Ivyanyets
-53.9299|25.7727|Iwye
-53.8839|30.5203|Kadino
-52.1323|29.3257|Kalinkavichy|Kalinkovichi
-53.9440|27.7823|Kalodzishchy
-52.4001|23.8100|Kamyanyets
-52.4167|23.6667|Kamyanyetski Rayon
-52.5576|23.8053|Kamyanyuki
-54.0898|30.2962|Kamyennyya Lavy
-53.1516|27.0913|Kapyl’
-53.1667|27.0833|Kapyl’ski Rayon
-52.3506|31.1121|Karanyowka
-53.5648|26.1406|Karelichy
-53.5000|26.2500|Karelitski Rayon
-53.1301|30.8016|Karma
-53.8567|27.5414|Kastrychnitski Rayon
-53.3525|32.0514|Kastsyukovichy
-52.5387|30.9173|Kastsyukowka
-52.5643|31.1364|Khal’ch
-53.9094|27.3069|Khatsyezhyna
-53.9266|31.4779|Khodasy
-54.5175|28.9565|Kholopenichi
-53.4086|32.5780|Khotsimsk
-53.4167|32.5000|Khotsimski Rayon
-51.8911|29.9552|Khoyniki
-53.2693|29.4752|Kirawsk
-53.4923|29.3356|Klichaw
-53.6079|31.9586|Klimavichy
-53.0635|26.6321|Klyetsk
-53.0000|26.6667|Klyetski Rayon
-52.2138|24.3564|Kobryn
-54.4611|30.0018|Kokhanava
-54.6593|29.2684|Konstantinovo
-53.9865|27.7982|Korolëv Stan
-52.7583|25.1554|Kosava
-53.3353|31.3999|Krasnapollye
-53.3333|31.4167|Krasnapol’ski Rayon
-54.2438|27.0758|Krasnaye
-53.2645|24.4301|Krasnosel’skiy
-53.3291|30.1929|Krasnyy Bereg
-54.3118|26.2916|Kreva
-54.2497|29.7968|Kruhlaye
-54.3178|29.1374|Krupki
-53.7125|31.7170|Krychaw
-54.7132|27.2886|Kryvichy
-52.3390|25.9867|Lahishyn
-54.2064|27.8512|Lahoysk|Logoysk
-53.8833|25.2997|Lida
-53.6667|25.2500|Lidski Rayon
-54.2796|28.7649|Loshnitsa
-51.9458|30.7953|Loyew
-53.7823|27.8434|Luhavaya Slabada
-52.2472|26.8047|Luninyets
-53.0388|26.2656|Lyakhavichy
-54.0072|27.6963|Lyasny
-51.8333|28.2500|Lyel’chytski Rayon
-51.7862|28.3288|Lyel’chytsy
-53.8594|27.5878|Lyeninski Rayon
-54.8814|28.6990|Lyepyel’
-54.8333|28.6667|Lyepyel’ski Rayon
-54.0024|27.7108|Lyeskawka
-55.0516|26.3103|Lyntupy
-55.0247|30.7970|Lyozna
-55.0000|30.6667|Lyoznyenski Rayon
-52.7985|28.0048|Lyuban’
-53.7522|26.0603|Lyubcha
-53.7788|27.5948|Machulishchy
-53.9168|30.3449|Mahilyow
-53.8333|30.2500|Mahilyowski Rayon
-54.3167|26.8540|Maladziečna|Maladzyechna
-51.7905|24.0740|Malaryta
-53.5090|28.1470|Mar’ina Gorka|Mar’’ina Horka
-53.8742|27.5028|Maskowski Rayon
-52.0495|29.2456|Mazyr
-52.0000|29.0000|Mazyrski Rayon
-53.7394|27.6928|Michanovichi
-52.2173|27.4760|Mikashevichy
-53.9000|27.5667|Minsk
-53.4544|26.4670|Mir
-55.2232|27.4609|Mosar
-53.4122|24.5387|Mosty
-52.3138|25.6072|Motal’
-54.0185|31.7217|Mstsislaw
-54.8789|26.9371|Myadzyel
-54.8333|27.0000|Myadzyel’ski Rayon
-53.7776|30.1765|Myazhysyatki
-55.5833|27.8333|Myorski Rayon
-55.6222|27.6281|Myory
-53.2172|29.5120|Myshkavichy
-54.9102|26.7080|Narach
-51.7961|29.5004|Narowlya
-54.3044|26.7821|Nasilava
-55.5318|28.5987|Navapolatsk
-53.2219|26.6768|Nesvizh
-52.1032|30.9837|Novaya Huta
-53.5942|25.8191|Novogrudok
-54.6619|29.1502|Novolukoml’
-55.5262|28.5931|Novopolotsk
-53.9162|27.2009|Novosel’ye
-53.4542|26.7301|Novy Svyerzhan’
-52.6440|25.2027|Nyakhachava
-53.2189|26.6779|Nyasvizh
-53.2500|26.6667|Nyasvizhski Rayon
-54.5081|30.4172|Orsha
-54.4181|25.9373|Oshmyany
-53.3059|28.6287|Osipovichi
-56.0147|28.1105|Osveya
-53.9854|30.3600|Palykavichy Pyershyya
-53.8803|27.6700|Partyzanski Rayon
-52.8042|29.4176|Parychy
-55.1168|26.8326|Pastavy
-55.0833|26.9167|Pastawski Rayon
-52.3973|31.0710|Peramoga
-52.1229|26.0951|Pinsk
-54.4235|27.8301|Plyeshchanitsy
-55.4879|28.7856|Polatsk|Polotsk
-55.5833|29.0000|Polatski Rayon
-53.7766|30.3497|Posëlok Voskhod
-53.5248|27.8303|Prawdzinski
-52.6667|24.5833|Pruzhanski Rayon
-52.5560|24.4573|Pruzhany
-53.7969|27.7967|Pryvol’ny
-53.5297|28.2467|Pukhavichy
-53.5000|28.0000|Pukhavichy Raion
-54.0686|27.2179|Pyatryshki
-52.1289|28.4921|Pyetrykaw
-54.1554|27.2412|Radashkovichy
-53.0934|30.0495|Rahachow
-53.1667|30.1667|Rahachowski Rayon
-53.9674|27.0562|Rakaw
-53.8653|30.5597|Ramanavichy
-55.8333|28.9167|Rasonski Rayon
-55.9058|28.8135|Rasony
-52.3617|30.3916|Rechytsa
-53.2845|24.4033|Ross’
-53.5983|27.8621|Rudzyensk
-52.8632|24.8936|Ruzhany
-52.7876|27.5415|Salihorsk
-53.7396|27.5037|Samakhvalavichy
-53.8329|23.6598|Sapotskin
-52.7867|28.0186|Sarachy
-52.5194|29.5988|Sasnovy Bor
-53.9178|27.5942|Savyetski Rayon
-53.8211|27.4522|Schomyslitsa
-55.3689|27.4686|Sharkawshchyna
-55.4167|27.4167|Sharkawshchynski Rayon
-53.6014|24.7465|Shchuchyn
-53.5833|24.6667|Shchuchynski Rayon
-54.2131|30.2877|Shklow
-54.1667|30.3333|Shklowski Rayon
-55.3333|29.5000|Shumilinski Rayon
-53.5904|24.2478|Skidel’
-54.0087|27.8866|Slabada
-53.4429|31.0014|Slawharad
-53.0869|25.3163|Slonim
-53.0274|27.5597|Slutsk
-53.0000|27.6667|Slutski Rayon
-54.0000|28.1667|Smalyavitski Rayon
-54.4798|26.3957|Smarhon’|Smarhoń
-53.7496|28.0115|Smilavichy
-53.2201|26.4010|Snow
-52.7898|27.5358|Soligorsk
-54.5130|26.1938|Soly
-53.6292|27.2290|Stan’kava
-53.0000|28.1667|Staradarozhski Rayon
-52.7267|27.4606|Starobin
-53.0402|28.2670|Staryya Darohi
-53.5833|26.6667|Stawbtsowski Rayon
-51.8912|26.8460|Stolin
-52.0000|27.0000|Stolinski Rayon
-53.4785|26.7434|Stowbtsy
-52.6329|29.7389|Svetlogorsk|Svyetlahorsk
-54.8517|26.3950|Svir
-53.0347|24.0983|Svislach
-54.8108|29.7086|Syanno
-53.8313|27.5343|Syenitsa
-54.8333|29.8333|Syennyenski Rayon
-54.0101|27.4410|Syomkava
-54.4087|29.6955|Talachyn
-53.9178|27.5633|Tsentral’ny Rayon
-53.0672|26.9902|Tsimkavichy
-52.5175|25.8429|Tsyelyakhany
-52.0683|27.7350|Turaw
-54.3785|26.6581|Turets-Bayary
-52.9479|27.8930|Urechcha
-55.1790|28.6158|Ushachy
-54.0760|28.0070|Usiazh
-53.4627|27.2137|Uzda
-53.4167|27.3333|Uzdzyenski Rayon
-54.0892|26.5266|Valozhyn
-52.2512|29.8288|Vasilyevichy
-53.1561|24.4513|Vaukavysk|Volkovysk
-53.8333|30.3833|Veyno
-55.3945|26.6305|Vidzy
-54.4914|26.9111|Vileyka|Vilyeyka
-54.5000|27.0833|Vilyeyski Rayon
-54.7102|26.5228|Vishnyeva
-53.9805|29.9925|Vishow
-55.1904|30.2049|Vitebsk
-54.1492|25.3112|Voranava
-53.1960|24.0166|Vyalikaya Byerastavitsa
-53.8510|27.7139|Vyaliki Trastsyanets
-55.7777|27.9389|Vyerkhnyadzvinsk
-55.7500|28.1667|Vyerkhnyadzvinski Rayon
-52.5591|31.1794|Vyetka
-52.6667|31.2500|Vyetkawski Rayon
-52.3709|23.3708|Vysokaye
-53.3994|29.0048|Yalizava
-51.8141|29.1522|Yel’sk
-53.8191|27.5215|Yubilyeyny
-53.8198|27.8685|Zamostochye
-54.0114|27.2695|Zaslawye
-53.8619|27.6622|Zavodski Rayon
-53.1504|24.8153|Zel’va
-52.1984|24.0115|Zhabinka
-52.1667|24.0833|Zhabinkawski Rayon
-53.5974|24.9828|Zhaludok
-53.9432|27.4250|Zhdanovichy
-53.0131|25.3443|Zhirovichi
-52.8926|30.0240|Zhlobin
-52.7500|29.8333|Zhlobinski Rayon
-52.2168|27.8561|Zhytkavichy|Žytkavičy
-51.8817|23.6554|Znamenka
-54.3579|28.2207|Zyembin
-54.0406|28.1981|Октябрьский
+52.6440|28.8801|Aktsyabrski|Gomel|7167|
+52.2038|24.7863|Antopal’|Brest|1369|
+54.4167|25.9167|Ashmyanski Rayon|Grodno|0|
+54.4210|25.9360|Ashmyany|Grodno|0|
+53.3011|28.6386|Asipovichy|Mogilev|0|
+53.3333|28.7500|Asipovitski Rayon|Mogilev|0|
+52.1891|26.1299|Asnyezhytsy|Brest|1185|
+54.0651|27.6950|Astrashytski Haradok|Minsk|2390|
+54.6138|25.9554|Astravyets|Grodno|15265|Astraviec
+54.6667|26.0000|Astravyetski Rayon|Grodno|0|
+53.7817|27.4346|Atolina|Minsk|1253|
+53.8397|27.3917|Azyartso|Minsk|1247|
+53.1384|29.2214|Babruysk|Mogilev|0|
+53.0833|29.1667|Babruyski Rayon|Mogilev|0|
+54.4207|30.2909|Balbasava|Vitebsk|0|
+54.0036|27.5669|Bal’shavik|Minsk|3470|
+54.4784|30.3159|Baran’|Vitebsk|10131|
+53.1327|26.0139|Baranovichi|Brest|170039|
+53.1667|25.8333|Baranovichskiy Rayon|Brest|0|
+54.3171|26.1376|Baruny|Grodno|2500|
+54.2279|28.5050|Barysaw|Minsk|133700|
+54.3333|28.5833|Barysawski Rayon|Minsk|0|
+53.5269|28.1732|Blon’|Minsk|1780|
+54.3420|29.2736|Bobr|Minsk|1100|
+53.1468|29.2055|Bobruysk|Mogilev|205502|
+54.0022|27.6754|Borovlyany|Minsk|5000|
+51.7870|30.2677|Brahin|Gomel|0|
+51.6667|30.3333|Brahinski Rayon|Gomel|0|
+55.6413|27.0418|Braslaw|Vitebsk|0|
+55.5597|27.0000|Braslawski Rayon|Vitebsk|0|
+52.0975|23.6878|Brest|Brest|347138|
+52.0000|23.7500|Brestski Rayon|Brest|0|
+52.7179|30.5701|Buda-Kashalyova|Gomel|8534|
+53.8536|30.2671|Buynichy|Mogilev|4000|
+54.7316|28.0577|Byahoml’|Vitebsk|2457|
+53.9994|29.7141|Byalynichy|Mogilev|0|
+54.0000|29.7500|Byalynitski Rayon|Mogilev|0|
+53.8333|29.0000|Byarezinski Rayon|Minsk|0|
+52.5314|24.9786|Byaroza|Brest|27986|
+53.7241|25.4971|Byarozawka|Grodno|11800|
+52.5000|25.0000|Byarozawski Rayon|Brest|0|
+52.4731|25.1784|Byelaazyorsk|Brest|10984|
+53.8391|28.9879|Byerazino|Minsk|0|
+55.0000|29.5000|Byeshankovitski Rayon|Vitebsk|0|
+53.5210|30.2454|Bykhaw|Mogilev|0|
+53.5213|30.2308|Bykhov|Mogilev|16296|
+52.9164|30.9179|Chachersk|Gomel|8926|
+52.9167|31.0833|Chacherski Rayon|Gomel|0|
+52.2195|23.7404|Charnawchytsy|Brest|2372|
+54.8584|29.1608|Chashniki|Vitebsk|7573|
+54.7500|29.2500|Chashnitski Rayon|Vitebsk|0|
+53.8333|30.9167|Chavuski Rayon|Mogilev|0|
+53.8098|30.9717|Chavusy|Mogilev|0|
+53.7059|28.4313|Chervyen’|Minsk|0|
+53.7500|28.5000|Chervyen’ski Rayon|Minsk|0|
+53.5689|31.3831|Cherykaw|Mogilev|0|
+53.6667|31.3333|Cherykawski Rayon|Mogilev|0|
+52.8522|27.1698|Chyrvonaya Slabada|Minsk|4700|
+54.2698|27.1067|Chyst’|Minsk|5300|
+51.7500|23.6000|Damachava|Brest|1162|
+53.7352|30.2625|Dashkawka|Mogilev|1528|
+52.0566|27.2161|Davyd-Haradok|Brest|5658|
+52.4089|31.3237|Dobrush|Gomel|17901|
+54.8333|27.9167|Dokshytski Rayon|Vitebsk|0|
+54.8918|27.7667|Dokshytsy|Vitebsk|6601|
+53.1571|30.4601|Dowsk|Gomel|1840|
+52.1874|25.1597|Drahichyn|Brest|0|
+52.1667|25.0000|Drahichynski Rayon|Brest|0|
+55.7906|27.4505|Druya|Vitebsk|0|
+53.6238|27.8977|Druzhny|Minsk|8978|
+54.1192|31.0939|Drybin|Mogilev|2900|
+54.0833|31.0000|Drybinski Rayon|Mogilev|0|
+54.5716|30.6910|Dubrowna|Vitebsk|6945|
+53.6786|27.9400|Dukora|Minsk|1300|
+53.4631|25.4068|Dyatlovo|Grodno|7596|
+55.5676|28.2076|Dzisna|Vitebsk|1500|
+53.6832|27.1380|Dzyarzhynsk|Minsk|29607|
+53.5871|27.0535|Enyerhyetykaw|Minsk|2445|
+53.7500|27.3334|Fanipol|Minsk|19006|
+53.9006|27.4950|Frunzyenski Rayon|Minsk|0|
+53.6667|24.0000|Grodnenskiy Rayon|Grodno|0|
+54.2585|26.0144|Hal’shany|Grodno|5000|
+52.7580|26.4300|Hantsavichy|Brest|13155|
+52.6667|26.5000|Hantsavitski Rayon|Brest|0|
+55.4624|29.9845|Haradok|Vitebsk|0|
+55.6667|30.1667|Haradotski Rayon|Vitebsk|0|
+53.3247|26.0107|Haradzishcha|Brest|0|
+53.3121|26.5380|Haradzyeya|Minsk|0|
+53.7829|27.6407|Hatava|Minsk|8000|
+53.0868|28.8567|Hlusha|Mogilev|1400|
+52.9030|28.6845|Hlusk|Mogilev|0|
+55.1384|27.6905|Hlybokaye|Vitebsk|17807|
+55.1667|27.8333|Hlybotski Rayon|Vitebsk|0|
+52.4345|30.9754|Homyel'|Gomel|501193|
+52.3333|31.0000|Homyel’ski Rayon|Gomel|0|
+53.1333|26.0333|Horad Baranavichy|Brest|0|
+52.1000|23.7000|Horad Brest|Brest|0|
+53.6833|23.8333|Horad Hrodna|Grodno|0|
+54.0249|28.0894|Horad Smalyavichy|Minsk|24402|Smaliavičy
+54.0985|28.3331|Horad Zhodzina|Minsk|62983|
+54.3333|31.0000|Horatski Rayon|Mogilev|0|
+54.2862|30.9863|Horki|Mogilev|28626|
+52.5215|27.1385|Hotsk|Minsk|1100|
+53.6884|23.8258|Hrodna|Grodno|363718|
+54.1159|25.5773|Hyeranyony|Grodno|1500|
+54.4167|27.2958|Il’ya|Minsk|0|
+53.4605|23.8823|Indura|Grodno|1500|
+52.1451|25.5365|Ivanava|Brest|0|
+52.1667|25.5833|Ivanawski Rayon|Brest|0|
+52.1472|25.5320|Ivanovo|Brest|15833|
+52.7079|25.3351|Ivatsevichi|Brest|22189|
+52.7090|25.3401|Ivatsevichy|Brest|0|
+53.8864|26.7432|Ivyanyets|Minsk|4206|
+53.9299|25.7727|Iwye|Grodno|6906|
+53.8839|30.5203|Kadino|Mogilev|1753|
+52.1323|29.3257|Kalinkavichy|Gomel|36656|Kalinkovichi
+53.9440|27.7823|Kalodzishchy|Minsk|17000|
+52.4001|23.8100|Kamyanyets|Brest|0|
+52.4167|23.6667|Kamyanyetski Rayon|Brest|0|
+52.5576|23.8053|Kamyanyuki|Brest|1200|
+54.0898|30.2962|Kamyennyya Lavy|Mogilev|1500|
+53.1516|27.0913|Kapyl’|Minsk|0|
+53.1667|27.0833|Kapyl’ski Rayon|Minsk|0|
+52.3506|31.1121|Karanyowka|Gomel|1141|
+53.5648|26.1406|Karelichy|Grodno|0|
+53.5000|26.2500|Karelitski Rayon|Grodno|0|
+53.1301|30.8016|Karma|Gomel|0|
+53.8567|27.5414|Kastrychnitski Rayon|Minsk|0|
+53.3525|32.0514|Kastsyukovichy|Mogilev|0|
+52.5387|30.9173|Kastsyukowka|Gomel|10552|
+52.5643|31.1364|Khal’ch|Gomel|1249|
+53.9094|27.3069|Khatsyezhyna|Minsk|1145|
+53.9266|31.4779|Khodasy|Mogilev|0|
+54.5175|28.9565|Kholopenichi|Minsk|1385|
+53.4086|32.5780|Khotsimsk|Mogilev|0|
+53.4167|32.5000|Khotsimski Rayon|Mogilev|0|
+51.8911|29.9552|Khoyniki|Gomel|13001|
+53.2693|29.4752|Kirawsk|Mogilev|0|
+53.4923|29.3356|Klichaw|Mogilev|0|
+53.6079|31.9586|Klimavichy|Mogilev|0|
+53.0635|26.6321|Klyetsk|Minsk|0|
+53.0000|26.6667|Klyetski Rayon|Minsk|0|
+52.2138|24.3564|Kobryn|Brest|52235|
+54.4611|30.0018|Kokhanava|Vitebsk|0|
+54.6593|29.2684|Konstantinovo|Vitebsk|3800|
+53.9865|27.7982|Korolëv Stan|Minsk|1033|
+52.7583|25.1554|Kosava|Brest|1770|
+53.3353|31.3999|Krasnapollye|Mogilev|6100|
+53.3333|31.4167|Krasnapol’ski Rayon|Mogilev|0|
+54.2438|27.0758|Krasnaye|Minsk|2900|
+53.2645|24.4301|Krasnosel’skiy|Grodno|7300|
+53.3291|30.1929|Krasnyy Bereg|Mogilev|2359|
+54.3118|26.2916|Kreva|Grodno|3100|
+54.2497|29.7968|Kruhlaye|Mogilev|0|
+54.3178|29.1374|Krupki|Minsk|8276|
+53.7125|31.7170|Krychaw|Mogilev|22973|
+54.7132|27.2886|Kryvichy|Minsk|1298|
+52.3390|25.9867|Lahishyn|Brest|2800|
+54.2064|27.8512|Lahoysk|Minsk|15543|Logoysk
+53.8833|25.2997|Lida|Grodno|103262|
+53.6667|25.2500|Lidski Rayon|Grodno|0|
+54.2796|28.7649|Loshnitsa|Minsk|6524|
+51.9458|30.7953|Loyew|Gomel|0|
+53.7823|27.8434|Luhavaya Slabada|Minsk|1306|
+52.2472|26.8047|Luninyets|Brest|23396|
+53.0388|26.2656|Lyakhavichy|Brest|0|
+54.0072|27.6963|Lyasny|Minsk|15000|
+51.8333|28.2500|Lyel’chytski Rayon|Gomel|0|
+51.7862|28.3288|Lyel’chytsy|Gomel|0|
+53.8594|27.5878|Lyeninski Rayon|Minsk|0|
+54.8814|28.6990|Lyepyel’|Vitebsk|17400|
+54.8333|28.6667|Lyepyel’ski Rayon|Vitebsk|0|
+54.0024|27.7108|Lyeskawka|Minsk|1400|
+55.0516|26.3103|Lyntupy|Vitebsk|1600|
+55.0247|30.7970|Lyozna|Vitebsk|0|
+55.0000|30.6667|Lyoznyenski Rayon|Vitebsk|0|
+52.7985|28.0048|Lyuban’|Minsk|11165|
+53.7522|26.0603|Lyubcha|Grodno|988|
+53.7788|27.5948|Machulishchy|Minsk|10869|
+53.9168|30.3449|Mahilyow|Mogilev|352896|
+53.8333|30.2500|Mahilyowski Rayon|Mogilev|0|
+54.3167|26.8540|Maladzyechna|Minsk|87339|Maladziečna
+51.7905|24.0740|Malaryta|Brest|0|
+53.5090|28.1470|Mar’’ina Horka|Minsk|19892|Mar’ina Gorka
+53.8742|27.5028|Maskowski Rayon|Minsk|0|
+52.0495|29.2456|Mazyr|Gomel|104517|
+52.0000|29.0000|Mazyrski Rayon|Gomel|0|
+53.7394|27.6928|Michanovichi|Minsk|4800|
+52.2173|27.4760|Mikashevichy|Brest|11823|
+53.9000|27.5667|Minsk|Minsk|1742124|
+53.4544|26.4670|Mir|Grodno|2248|
+55.2232|27.4609|Mosar|Vitebsk|1500|
+53.4122|24.5387|Mosty|Grodno|14239|
+52.3138|25.6072|Motal’|Brest|4079|
+54.0185|31.7217|Mstsislaw|Mogilev|0|
+54.8789|26.9371|Myadzyel|Minsk|6822|
+54.8333|27.0000|Myadzyel’ski Rayon|Minsk|0|
+53.7776|30.1765|Myazhysyatki|Mogilev|1807|
+55.5833|27.8333|Myorski Rayon|Vitebsk|0|
+55.6222|27.6281|Myory|Vitebsk|0|
+53.2172|29.5120|Myshkavichy|Mogilev|2000|
+54.9102|26.7080|Narach|Minsk|3400|
+51.7961|29.5004|Narowlya|Gomel|0|
+54.3044|26.7821|Nasilava|Minsk|1259|
+55.5318|28.5987|Navapolatsk|Vitebsk|0|
+53.2219|26.6768|Nesvizh|Minsk|15897|
+52.1032|30.9837|Novaya Huta|Gomel|2159|
+53.5942|25.8191|Novogrudok|Grodno|27624|
+54.6619|29.1502|Novolukoml’|Vitebsk|11598|
+55.5262|28.5931|Novopolotsk|Vitebsk|95370|
+53.9162|27.2009|Novosel’ye|Minsk|1269|
+53.4542|26.7301|Novy Svyerzhan’|Minsk|2200|
+52.6440|25.2027|Nyakhachava|Brest|1200|
+53.2189|26.6779|Nyasvizh|Minsk|0|
+53.2500|26.6667|Nyasvizhski Rayon|Minsk|0|
+54.5081|30.4172|Orsha|Vitebsk|101662|
+54.4181|25.9373|Oshmyany|Grodnenskaya|16804|
+53.3059|28.6287|Osipovichi|Mogilev|28745|
+56.0147|28.1105|Osveya|Vitebsk|0|
+53.9854|30.3600|Palykavichy Pyershyya|Mogilev|1572|
+53.8803|27.6700|Partyzanski Rayon|Minsk|0|
+52.8042|29.4176|Parychy|Gomel|2300|
+55.1168|26.8326|Pastavy|Vitebsk|18450|
+55.0833|26.9167|Pastawski Rayon|Vitebsk|0|
+52.3973|31.0710|Peramoga|Gomel|1423|
+52.1229|26.0951|Pinsk|Brest|123283|
+54.4235|27.8301|Plyeshchanitsy|Minsk|7800|
+55.4879|28.7856|Polatsk|Vitebsk|79285|Polotsk
+55.5833|29.0000|Polatski Rayon|Vitebsk|0|
+53.7766|30.3497|Posëlok Voskhod|Mogilev|2000|
+53.5248|27.8303|Prawdzinski|Minsk|2900|
+52.6667|24.5833|Pruzhanski Rayon|Brest|0|
+52.5560|24.4573|Pruzhany|Brest|18994|
+53.7969|27.7967|Pryvol’ny|Minsk|2000|
+53.5297|28.2467|Pukhavichy|Minsk|0|
+53.5000|28.0000|Pukhavichy Raion|Minsk|0|
+54.0686|27.2179|Pyatryshki|Minsk|1946|
+52.1289|28.4921|Pyetrykaw|Gomel|0|
+54.1554|27.2412|Radashkovichy|Minsk|0|
+53.0934|30.0495|Rahachow|Gomel|31490|
+53.1667|30.1667|Rahachowski Rayon|Gomel|0|
+53.9674|27.0562|Rakaw|Minsk|6300|
+53.8653|30.5597|Ramanavichy|Mogilev|1341|
+55.8333|28.9167|Rasonski Rayon|Vitebsk|0|
+55.9058|28.8135|Rasony|Vitebsk|0|
+52.3617|30.3916|Rechytsa|Gomel|64733|
+53.2845|24.4033|Ross’|Grodno|6200|
+53.5983|27.8621|Rudzyensk|Minsk|2900|
+52.8632|24.8936|Ruzhany|Brest|2642|
+52.7876|27.5415|Salihorsk|Minsk|0|
+53.7396|27.5037|Samakhvalavichy|Minsk|2500|
+53.8329|23.6598|Sapotskin|Grodno|0|
+52.7867|28.0186|Sarachy|Minsk|1350|
+52.5194|29.5988|Sasnovy Bor|Gomel|2500|
+53.9178|27.5942|Savyetski Rayon|Minsk|0|
+53.8211|27.4522|Schomyslitsa|Minsk|1822|
+55.3689|27.4686|Sharkawshchyna|Vitebsk|0|
+55.4167|27.4167|Sharkawshchynski Rayon|Vitebsk|0|
+53.6014|24.7465|Shchuchyn|Grodno|15127|
+53.5833|24.6667|Shchuchynski Rayon|Grodno|0|
+54.2131|30.2877|Shklow|Mogilev|0|
+54.1667|30.3333|Shklowski Rayon|Mogilev|0|
+55.3333|29.5000|Shumilinski Rayon|Vitebsk|0|
+53.5904|24.2478|Skidel’|Grodno|9707|
+54.0087|27.8866|Slabada|Minsk|1819|
+53.4429|31.0014|Slawharad|Mogilev|7647|
+53.0869|25.3163|Slonim|Grodno|48402|
+53.0274|27.5597|Slutsk|Minsk|58995|
+53.0000|27.6667|Slutski Rayon|Minsk|0|
+54.0000|28.1667|Smalyavitski Rayon|Minsk|0|
+54.4798|26.3957|Smarhon’|Grodno|35072|Smarhoń
+53.7496|28.0115|Smilavichy|Minsk|0|
+53.2201|26.4010|Snow|Minsk|2600|
+52.7898|27.5358|Soligorsk|Minsk|96418|
+54.5130|26.1938|Soly|Grodno|1840|
+53.6292|27.2290|Stan’kava|Minsk|1850|
+53.0000|28.1667|Staradarozhski Rayon|Minsk|0|
+52.7267|27.4606|Starobin|Minsk|6000|
+53.0402|28.2670|Staryya Darohi|Minsk|0|
+53.5833|26.6667|Stawbtsowski Rayon|Minsk|0|
+51.8912|26.8460|Stolin|Brest|14034|
+52.0000|27.0000|Stolinski Rayon|Brest|0|
+53.4785|26.7434|Stowbtsy|Minsk|17603|
+54.8517|26.3950|Svir|Minsk|896|
+53.0347|24.0983|Svislach|Grodno|5851|
+53.6404|27.9199|Svislach|Minsk|4200|
+52.6329|29.7389|Svyetlahorsk|Gomel|61812|Svetlogorsk
+54.8108|29.7086|Syanno|Vitebsk|0|
+53.8313|27.5343|Syenitsa|Minsk|5000|
+54.8333|29.8333|Syennyenski Rayon|Vitebsk|0|
+54.0101|27.4410|Syomkava|Minsk|1522|
+54.4087|29.6955|Talachyn|Vitebsk|0|
+53.9178|27.5633|Tsentral’ny Rayon|Minsk|0|
+53.0672|26.9902|Tsimkavichy|Minsk|0|
+52.5175|25.8429|Tsyelyakhany|Brest|3625|
+52.0683|27.7350|Turaw|Gomel|0|
+54.3785|26.6581|Turets-Bayary|Minsk|1602|
+52.9479|27.8930|Urechcha|Minsk|3300|
+55.1790|28.6158|Ushachy|Vitebsk|0|
+54.0760|28.0070|Usiazh|Minsk|1500|
+53.4627|27.2137|Uzda|Minsk|10474|
+53.4167|27.3333|Uzdzyenski Rayon|Minsk|0|
+54.0892|26.5266|Valozhyn|Minsk|0|
+52.2512|29.8288|Vasilyevichy|Gomel|3143|
+53.8333|30.3833|Veyno|Mogilev|1717|
+55.3945|26.6305|Vidzy|Vitebsk|1546|
+54.4914|26.9111|Vilyeyka|Minsk|26015|Vileyka
+54.5000|27.0833|Vilyeyski Rayon|Minsk|0|
+54.7102|26.5228|Vishnyeva|Grodno|7000|
+53.9805|29.9925|Vishow|Mogilev|1224|
+55.1904|30.2049|Vitebsk|Vitebsk|358927|
+53.1561|24.4513|Volkovysk|Grodno|41020|Vaukavysk
+54.1492|25.3112|Voranava|Grodno|0|
+53.1960|24.0166|Vyalikaya Byerastavitsa|Grodno|5647|
+53.8510|27.7139|Vyaliki Trastsyanets|Minsk|2100|
+55.7777|27.9389|Vyerkhnyadzvinsk|Vitebsk|0|
+55.7500|28.1667|Vyerkhnyadzvinski Rayon|Vitebsk|0|
+52.5591|31.1794|Vyetka|Gomel|8580|
+52.6667|31.2500|Vyetkawski Rayon|Gomel|0|
+52.3709|23.3708|Vysokaye|Brest|4940|
+53.3994|29.0048|Yalizava|Mogilev|2600|
+51.8141|29.1522|Yel’sk|Gomel|8623|
+53.8191|27.5215|Yubilyeyny|Minsk|3000|
+53.8198|27.8685|Zamostochye|Minsk|2500|
+54.0114|27.2695|Zaslawye|Minsk|17166|
+53.8619|27.6622|Zavodski Rayon|Minsk|0|
+53.1504|24.8153|Zel’va|Grodno|6193|
+52.1984|24.0115|Zhabinka|Brest|14430|
+52.1667|24.0833|Zhabinkawski Rayon|Brest|0|
+53.5974|24.9828|Zhaludok|Grodno|1017|
+53.9432|27.4250|Zhdanovichy|Minsk|5000|
+53.0131|25.3443|Zhirovichi|Grodno|1800|
+52.8926|30.0240|Zhlobin|Gomel|76304|
+52.7500|29.8333|Zhlobinski Rayon|Gomel|0|
+52.2168|27.8561|Zhytkavichy|Gomel|15788|Žytkavičy
+51.8817|23.6554|Znamenka|Brest|1324|
+54.3579|28.2207|Zyembin|Minsk|713|
+54.0406|28.1981|Октябрьский|Minsk|2300|

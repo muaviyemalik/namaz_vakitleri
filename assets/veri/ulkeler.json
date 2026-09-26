@@ -10,7 +10,7 @@
     "paraBirimi": "AOA",
     "telefonKodu": "244",
     "emoji": "🇦🇴",
-    "sehirSayisi": 157
+    "sehirSayisi": 163
   },
   {
     "iso2": "EH",
@@ -23,7 +23,7 @@
     "paraBirimi": "MAD",
     "telefonKodu": "212",
     "emoji": "🇪🇭",
-    "sehirSayisi": 5
+    "sehirSayisi": 4
   },
   {
     "iso2": "BJ",
@@ -36,7 +36,7 @@
     "paraBirimi": "XOF",
     "telefonKodu": "229",
     "emoji": "🇧🇯",
-    "sehirSayisi": 75
+    "sehirSayisi": 74
   },
   {
     "iso2": "BW",
@@ -62,7 +62,7 @@
     "paraBirimi": "USD",
     "telefonKodu": "246",
     "emoji": "🇮🇴",
-    "sehirSayisi": 1
+    "sehirSayisi": 0
   },
   {
     "iso2": "BF",
@@ -114,7 +114,7 @@
     "paraBirimi": "DZD",
     "telefonKodu": "213",
     "emoji": "🇩🇿",
-    "sehirSayisi": 337
+    "sehirSayisi": 342
   },
   {
     "iso2": "DJ",
@@ -140,7 +140,7 @@
     "paraBirimi": "XAF",
     "telefonKodu": "240",
     "emoji": "🇬🇶",
-    "sehirSayisi": 25
+    "sehirSayisi": 26
   },
   {
     "iso2": "ER",
@@ -179,7 +179,7 @@
     "paraBirimi": "ETB",
     "telefonKodu": "251",
     "emoji": "🇪🇹",
-    "sehirSayisi": 278
+    "sehirSayisi": 281
   },
   {
     "iso2": "MA",
@@ -192,7 +192,7 @@
     "paraBirimi": "MAD",
     "telefonKodu": "212",
     "emoji": "🇲🇦",
-    "sehirSayisi": 296
+    "sehirSayisi": 304
   },
   {
     "iso2": "TF",
@@ -231,7 +231,7 @@
     "paraBirimi": "GMD",
     "telefonKodu": "220",
     "emoji": "🇬🇲",
-    "sehirSayisi": 124
+    "sehirSayisi": 127
   },
   {
     "iso2": "GH",
@@ -257,7 +257,7 @@
     "paraBirimi": "GNF",
     "telefonKodu": "224",
     "emoji": "🇬🇳",
-    "sehirSayisi": 77
+    "sehirSayisi": 78
   },
   {
     "iso2": "GW",
@@ -283,7 +283,7 @@
     "paraBirimi": "ZAR",
     "telefonKodu": "27",
     "emoji": "🇿🇦",
-    "sehirSayisi": 419
+    "sehirSayisi": 420
   },
   {
     "iso2": "SS",
@@ -322,7 +322,7 @@
     "paraBirimi": "KES",
     "telefonKodu": "254",
     "emoji": "🇰🇪",
-    "sehirSayisi": 185
+    "sehirSayisi": 194
   },
   {
     "iso2": "KM",
@@ -374,7 +374,7 @@
     "paraBirimi": "XOF",
     "telefonKodu": "225",
     "emoji": "🇨🇮",
-    "sehirSayisi": 217
+    "sehirSayisi": 216
   },
   {
     "iso2": "LS",
@@ -426,7 +426,7 @@
     "paraBirimi": "MGA",
     "telefonKodu": "261",
     "emoji": "🇲🇬",
-    "sehirSayisi": 110
+    "sehirSayisi": 112
   },
   {
     "iso2": "MW",
@@ -452,7 +452,7 @@
     "paraBirimi": "XOF",
     "telefonKodu": "223",
     "emoji": "🇲🇱",
-    "sehirSayisi": 81
+    "sehirSayisi": 80
   },
   {
     "iso2": "YT",
@@ -465,7 +465,7 @@
     "paraBirimi": "EUR",
     "telefonKodu": "262",
     "emoji": "🇾🇹",
-    "sehirSayisi": 56
+    "sehirSayisi": 57
   },
   {
     "iso2": "MR",
@@ -504,7 +504,7 @@
     "paraBirimi": "MZN",
     "telefonKodu": "258",
     "emoji": "🇲🇿",
-    "sehirSayisi": 76
+    "sehirSayisi": 74
   },
   {
     "iso2": "EG",
@@ -517,7 +517,7 @@
     "paraBirimi": "EGP",
     "telefonKodu": "20",
     "emoji": "🇪🇬",
-    "sehirSayisi": 290
+    "sehirSayisi": 291
   },
   {
     "iso2": "NA",
@@ -556,7 +556,7 @@
     "paraBirimi": "NGN",
     "telefonKodu": "234",
     "emoji": "🇳🇬",
-    "sehirSayisi": 528
+    "sehirSayisi": 530
   },
   {
     "iso2": "CF",
@@ -569,7 +569,7 @@
     "paraBirimi": "XAF",
     "telefonKodu": "236",
     "emoji": "🇨🇫",
-    "sehirSayisi": 51
+    "sehirSayisi": 49
   },
   {
     "iso2": "RW",
@@ -595,7 +595,7 @@
     "paraBirimi": "EUR",
     "telefonKodu": "262",
     "emoji": "🇷🇪",
-    "sehirSayisi": 25
+    "sehirSayisi": 26
   },
   {
     "iso2": "SH",
@@ -608,7 +608,7 @@
     "paraBirimi": "SHP",
     "telefonKodu": "290",
     "emoji": "🇸🇭",
-    "sehirSayisi": 1
+    "sehirSayisi": 0
   },
   {
     "iso2": "ST",
@@ -686,7 +686,7 @@
     "paraBirimi": "SDG",
     "telefonKodu": "249",
     "emoji": "🇸🇩",
-    "sehirSayisi": 95
+    "sehirSayisi": 96
   },
   {
     "iso2": "TZ",
@@ -699,7 +699,7 @@
     "paraBirimi": "TZS",
     "telefonKodu": "255",
     "emoji": "🇹🇿",
-    "sehirSayisi": 336
+    "sehirSayisi": 346
   },
   {
     "iso2": "TG",
@@ -725,7 +725,7 @@
     "paraBirimi": "TND",
     "telefonKodu": "216",
     "emoji": "🇹🇳",
-    "sehirSayisi": 221
+    "sehirSayisi": 219
   },
   {
     "iso2": "UG",
@@ -738,7 +738,7 @@
     "paraBirimi": "UGX",
     "telefonKodu": "256",
     "emoji": "🇺🇬",
-    "sehirSayisi": 168
+    "sehirSayisi": 171
   },
   {
     "iso2": "ZM",
@@ -764,7 +764,7 @@
     "paraBirimi": "ZWL",
     "telefonKodu": "263",
     "emoji": "🇿🇼",
-    "sehirSayisi": 110
+    "sehirSayisi": 111
   },
   {
     "iso2": "TD",
@@ -777,7 +777,7 @@
     "paraBirimi": "XAF",
     "telefonKodu": "235",
     "emoji": "🇹🇩",
-    "sehirSayisi": 60
+    "sehirSayisi": 59
   },
   {
     "iso2": "VI",
@@ -790,7 +790,7 @@
     "paraBirimi": "USD",
     "telefonKodu": "1",
     "emoji": "🇻🇮",
-    "sehirSayisi": 19
+    "sehirSayisi": 21
   },
   {
     "iso2": "US",
@@ -803,7 +803,7 @@
     "paraBirimi": "USD",
     "telefonKodu": "1",
     "emoji": "🇺🇸",
-    "sehirSayisi": 12163
+    "sehirSayisi": 16894
   },
   {
     "iso2": "AI",
@@ -816,7 +816,7 @@
     "paraBirimi": "XCD",
     "telefonKodu": "1",
     "emoji": "🇦🇮",
-    "sehirSayisi": 1
+    "sehirSayisi": 0
   },
   {
     "iso2": "AG",
@@ -842,7 +842,7 @@
     "paraBirimi": "ARS",
     "telefonKodu": "54",
     "emoji": "🇦🇷",
-    "sehirSayisi": 1127
+    "sehirSayisi": 1209
   },
   {
     "iso2": "AW",
@@ -920,7 +920,7 @@
     "paraBirimi": "BOB",
     "telefonKodu": "591",
     "emoji": "🇧🇴",
-    "sehirSayisi": 229
+    "sehirSayisi": 234
   },
   {
     "iso2": "BR",
@@ -933,7 +933,7 @@
     "paraBirimi": "BRL",
     "telefonKodu": "55",
     "emoji": "🇧🇷",
-    "sehirSayisi": 5444
+    "sehirSayisi": 5768
   },
   {
     "iso2": "VG",
@@ -946,7 +946,7 @@
     "paraBirimi": "USD",
     "telefonKodu": "1",
     "emoji": "🇻🇬",
-    "sehirSayisi": 1
+    "sehirSayisi": 0
   },
   {
     "iso2": "KY",
@@ -1037,7 +1037,7 @@
     "paraBirimi": "FKP",
     "telefonKodu": "500",
     "emoji": "🇫🇰",
-    "sehirSayisi": 1
+    "sehirSayisi": 0
   },
   {
     "iso2": "GF",
@@ -1050,7 +1050,7 @@
     "paraBirimi": "EUR",
     "telefonKodu": "594",
     "emoji": "🇬🇫",
-    "sehirSayisi": 23
+    "sehirSayisi": 22
   },
   {
     "iso2": "GD",
@@ -1102,7 +1102,7 @@
     "paraBirimi": "GTQ",
     "telefonKodu": "502",
     "emoji": "🇬🇹",
-    "sehirSayisi": 381
+    "sehirSayisi": 384
   },
   {
     "iso2": "GY",
@@ -1128,7 +1128,7 @@
     "paraBirimi": "GBP",
     "telefonKodu": "500",
     "emoji": "🇬🇸",
-    "sehirSayisi": 1
+    "sehirSayisi": 0
   },
   {
     "iso2": "HT",
@@ -1141,7 +1141,7 @@
     "paraBirimi": "HTG",
     "telefonKodu": "509",
     "emoji": "🇭🇹",
-    "sehirSayisi": 128
+    "sehirSayisi": 129
   },
   {
     "iso2": "HN",
@@ -1154,7 +1154,7 @@
     "paraBirimi": "HNL",
     "telefonKodu": "504",
     "emoji": "🇭🇳",
-    "sehirSayisi": 484
+    "sehirSayisi": 547
   },
   {
     "iso2": "JM",
@@ -1167,7 +1167,7 @@
     "paraBirimi": "JMD",
     "telefonKodu": "1",
     "emoji": "🇯🇲",
-    "sehirSayisi": 785
+    "sehirSayisi": 837
   },
   {
     "iso2": "CA",
@@ -1180,7 +1180,7 @@
     "paraBirimi": "CAD",
     "telefonKodu": "1",
     "emoji": "🇨🇦",
-    "sehirSayisi": 1319
+    "sehirSayisi": 1337
   },
   {
     "iso2": "BQ",
@@ -1206,7 +1206,7 @@
     "paraBirimi": "COP",
     "telefonKodu": "57",
     "emoji": "🇨🇴",
-    "sehirSayisi": 1053
+    "sehirSayisi": 1139
   },
   {
     "iso2": "CR",
@@ -1219,7 +1219,7 @@
     "paraBirimi": "CRC",
     "telefonKodu": "506",
     "emoji": "🇨🇷",
-    "sehirSayisi": 150
+    "sehirSayisi": 160
   },
   {
     "iso2": "CU",
@@ -1232,7 +1232,7 @@
     "paraBirimi": "CUP",
     "telefonKodu": "53",
     "emoji": "🇨🇺",
-    "sehirSayisi": 200
+    "sehirSayisi": 202
   },
   {
     "iso2": "MQ",
@@ -1258,7 +1258,7 @@
     "paraBirimi": "MXN",
     "telefonKodu": "52",
     "emoji": "🇲🇽",
-    "sehirSayisi": 8100
+    "sehirSayisi": 9356
   },
   {
     "iso2": "MS",
@@ -1271,7 +1271,7 @@
     "paraBirimi": "XCD",
     "telefonKodu": "1",
     "emoji": "🇲🇸",
-    "sehirSayisi": 1
+    "sehirSayisi": 0
   },
   {
     "iso2": "NI",
@@ -1297,7 +1297,7 @@
     "paraBirimi": "PAB",
     "telefonKodu": "507",
     "emoji": "🇵🇦",
-    "sehirSayisi": 551
+    "sehirSayisi": 552
   },
   {
     "iso2": "PY",
@@ -1310,7 +1310,7 @@
     "paraBirimi": "PYG",
     "telefonKodu": "595",
     "emoji": "🇵🇾",
-    "sehirSayisi": 155
+    "sehirSayisi": 156
   },
   {
     "iso2": "PE",
@@ -1323,7 +1323,7 @@
     "paraBirimi": "PEN",
     "telefonKodu": "51",
     "emoji": "🇵🇪",
-    "sehirSayisi": 512
+    "sehirSayisi": 514
   },
   {
     "iso2": "PR",
@@ -1375,7 +1375,7 @@
     "paraBirimi": "XCD",
     "telefonKodu": "1",
     "emoji": "🇱🇨",
-    "sehirSayisi": 455
+    "sehirSayisi": 479
   },
   {
     "iso2": "MF",
@@ -1427,7 +1427,7 @@
     "paraBirimi": "ANG",
     "telefonKodu": "1721",
     "emoji": "🇸🇽",
-    "sehirSayisi": 1
+    "sehirSayisi": 0
   },
   {
     "iso2": "SR",
@@ -1466,7 +1466,7 @@
     "paraBirimi": "USD",
     "telefonKodu": "1",
     "emoji": "🇹🇨",
-    "sehirSayisi": 2
+    "sehirSayisi": 1
   },
   {
     "iso2": "UY",
@@ -1479,7 +1479,7 @@
     "paraBirimi": "UYU",
     "telefonKodu": "598",
     "emoji": "🇺🇾",
-    "sehirSayisi": 1829
+    "sehirSayisi": 2003
   },
   {
     "iso2": "VE",
@@ -1492,7 +1492,7 @@
     "paraBirimi": "VES",
     "telefonKodu": "58",
     "emoji": "🇻🇪",
-    "sehirSayisi": 237
+    "sehirSayisi": 241
   },
   {
     "iso2": "CL",
@@ -1505,7 +1505,7 @@
     "paraBirimi": "CLP",
     "telefonKodu": "56",
     "emoji": "🇨🇱",
-    "sehirSayisi": 320
+    "sehirSayisi": 323
   },
   {
     "iso2": "AF",
@@ -1518,7 +1518,7 @@
     "paraBirimi": "AFN",
     "telefonKodu": "93",
     "emoji": "🇦🇫",
-    "sehirSayisi": 107
+    "sehirSayisi": 108
   },
   {
     "iso2": "AZ",
@@ -1531,7 +1531,7 @@
     "paraBirimi": "AZN",
     "telefonKodu": "994",
     "emoji": "🇦🇿",
-    "sehirSayisi": 184
+    "sehirSayisi": 185
   },
   {
     "iso2": "BH",
@@ -1557,7 +1557,7 @@
     "paraBirimi": "BDT",
     "telefonKodu": "880",
     "emoji": "🇧🇩",
-    "sehirSayisi": 170
+    "sehirSayisi": 192
   },
   {
     "iso2": "AE",
@@ -1570,7 +1570,7 @@
     "paraBirimi": "AED",
     "telefonKodu": "971",
     "emoji": "🇦🇪",
-    "sehirSayisi": 77
+    "sehirSayisi": 80
   },
   {
     "iso2": "BN",
@@ -1622,7 +1622,7 @@
     "paraBirimi": "IDR",
     "telefonKodu": "62",
     "emoji": "🇮🇩",
-    "sehirSayisi": 869
+    "sehirSayisi": 880
   },
   {
     "iso2": "AM",
@@ -1635,7 +1635,7 @@
     "paraBirimi": "AMD",
     "telefonKodu": "374",
     "emoji": "🇦🇲",
-    "sehirSayisi": 306
+    "sehirSayisi": 319
   },
   {
     "iso2": "PH",
@@ -1648,7 +1648,7 @@
     "paraBirimi": "PHP",
     "telefonKodu": "63",
     "emoji": "🇵🇭",
-    "sehirSayisi": 3816
+    "sehirSayisi": 5066
   },
   {
     "iso2": "PS",
@@ -1661,7 +1661,7 @@
     "paraBirimi": "ILS",
     "telefonKodu": "970",
     "emoji": "🇵🇸",
-    "sehirSayisi": 170
+    "sehirSayisi": 171
   },
   {
     "iso2": "KR",
@@ -1674,7 +1674,7 @@
     "paraBirimi": "KRW",
     "telefonKodu": "82",
     "emoji": "🇰🇷",
-    "sehirSayisi": 321
+    "sehirSayisi": 333
   },
   {
     "iso2": "GE",
@@ -1687,7 +1687,7 @@
     "paraBirimi": "GEL",
     "telefonKodu": "995",
     "emoji": "🇬🇪",
-    "sehirSayisi": 112
+    "sehirSayisi": 110
   },
   {
     "iso2": "IN",
@@ -1700,7 +1700,7 @@
     "paraBirimi": "INR",
     "telefonKodu": "91",
     "emoji": "🇮🇳",
-    "sehirSayisi": 5490
+    "sehirSayisi": 5633
   },
   {
     "iso2": "HK",
@@ -1726,7 +1726,7 @@
     "paraBirimi": "IQD",
     "telefonKodu": "964",
     "emoji": "🇮🇶",
-    "sehirSayisi": 172
+    "sehirSayisi": 175
   },
   {
     "iso2": "IR",
@@ -1739,7 +1739,7 @@
     "paraBirimi": "IRR",
     "telefonKodu": "98",
     "emoji": "🇮🇷",
-    "sehirSayisi": 2037
+    "sehirSayisi": 2068
   },
   {
     "iso2": "IL",
@@ -1765,7 +1765,7 @@
     "paraBirimi": "JPY",
     "telefonKodu": "81",
     "emoji": "🇯🇵",
-    "sehirSayisi": 2105
+    "sehirSayisi": 2195
   },
   {
     "iso2": "KH",
@@ -1791,7 +1791,7 @@
     "paraBirimi": "QAR",
     "telefonKodu": "974",
     "emoji": "🇶🇦",
-    "sehirSayisi": 36
+    "sehirSayisi": 37
   },
   {
     "iso2": "KZ",
@@ -1804,7 +1804,7 @@
     "paraBirimi": "KZT",
     "telefonKodu": "7",
     "emoji": "🇰🇿",
-    "sehirSayisi": 274
+    "sehirSayisi": 278
   },
   {
     "iso2": "KG",
@@ -1882,7 +1882,7 @@
     "paraBirimi": "MOP",
     "telefonKodu": "853",
     "emoji": "🇲🇴",
-    "sehirSayisi": 7
+    "sehirSayisi": 6
   },
   {
     "iso2": "MV",
@@ -1908,7 +1908,7 @@
     "paraBirimi": "MYR",
     "telefonKodu": "60",
     "emoji": "🇲🇾",
-    "sehirSayisi": 429
+    "sehirSayisi": 431
   },
   {
     "iso2": "MN",
@@ -1921,7 +1921,7 @@
     "paraBirimi": "MNT",
     "telefonKodu": "976",
     "emoji": "🇲🇳",
-    "sehirSayisi": 40
+    "sehirSayisi": 41
   },
   {
     "iso2": "MM",
@@ -1934,7 +1934,7 @@
     "paraBirimi": "MMK",
     "telefonKodu": "95",
     "emoji": "🇲🇲",
-    "sehirSayisi": 186
+    "sehirSayisi": 187
   },
   {
     "iso2": "NP",
@@ -1947,7 +1947,7 @@
     "paraBirimi": "NPR",
     "telefonKodu": "977",
     "emoji": "🇳🇵",
-    "sehirSayisi": 120
+    "sehirSayisi": 121
   },
   {
     "iso2": "PK",
@@ -1960,7 +1960,7 @@
     "paraBirimi": "PKR",
     "telefonKodu": "92",
     "emoji": "🇵🇰",
-    "sehirSayisi": 502
+    "sehirSayisi": 506
   },
   {
     "iso2": "SG",
@@ -2012,7 +2012,7 @@
     "paraBirimi": "SAR",
     "telefonKodu": "966",
     "emoji": "🇸🇦",
-    "sehirSayisi": 430
+    "sehirSayisi": 432
   },
   {
     "iso2": "TJ",
@@ -2038,7 +2038,7 @@
     "paraBirimi": "THB",
     "telefonKodu": "66",
     "emoji": "🇹🇭",
-    "sehirSayisi": 1278
+    "sehirSayisi": 1294
   },
   {
     "iso2": "TW",
@@ -2051,7 +2051,7 @@
     "paraBirimi": "TWD",
     "telefonKodu": "886",
     "emoji": "🇹🇼",
-    "sehirSayisi": 79
+    "sehirSayisi": 83
   },
   {
     "iso2": "TR",
@@ -2064,7 +2064,7 @@
     "paraBirimi": "TRY",
     "telefonKodu": "90",
     "emoji": "🇹🇷",
-    "sehirSayisi": 1017
+    "sehirSayisi": 1067
   },
   {
     "iso2": "TM",
@@ -2103,7 +2103,7 @@
     "paraBirimi": "VND",
     "telefonKodu": "84",
     "emoji": "🇻🇳",
-    "sehirSayisi": 693
+    "sehirSayisi": 700
   },
   {
     "iso2": "YE",
@@ -2129,7 +2129,7 @@
     "paraBirimi": "CNY",
     "telefonKodu": "86",
     "emoji": "🇨🇳",
-    "sehirSayisi": 4148
+    "sehirSayisi": 4897
   },
   {
     "iso2": "UZ",
@@ -2155,7 +2155,7 @@
     "paraBirimi": "JOD",
     "telefonKodu": "962",
     "emoji": "🇯🇴",
-    "sehirSayisi": 88
+    "sehirSayisi": 89
   },
   {
     "iso2": "GG",
@@ -2181,7 +2181,7 @@
     "paraBirimi": "EUR",
     "telefonKodu": "49",
     "emoji": "🇩🇪",
-    "sehirSayisi": 6940
+    "sehirSayisi": 7186
   },
   {
     "iso2": "AD",
@@ -2220,7 +2220,7 @@
     "paraBirimi": "EUR",
     "telefonKodu": "43",
     "emoji": "🇦🇹",
-    "sehirSayisi": 2341
+    "sehirSayisi": 2372
   },
   {
     "iso2": "BY",
@@ -2233,7 +2233,7 @@
     "paraBirimi": "BYN",
     "telefonKodu": "375",
     "emoji": "🇧🇾",
-    "sehirSayisi": 337
+    "sehirSayisi": 338
   },
   {
     "iso2": "BE",
@@ -2259,7 +2259,7 @@
     "paraBirimi": "GBP",
     "telefonKodu": "44",
     "emoji": "🇬🇧",
-    "sehirSayisi": 3939
+    "sehirSayisi": 3981
   },
   {
     "iso2": "BA",
@@ -2272,7 +2272,7 @@
     "paraBirimi": "BAM",
     "telefonKodu": "387",
     "emoji": "🇧🇦",
-    "sehirSayisi": 232
+    "sehirSayisi": 234
   },
   {
     "iso2": "BG",
@@ -2285,7 +2285,7 @@
     "paraBirimi": "EUR",
     "telefonKodu": "359",
     "emoji": "🇧🇬",
-    "sehirSayisi": 502
+    "sehirSayisi": 504
   },
   {
     "iso2": "GI",
@@ -2311,7 +2311,7 @@
     "paraBirimi": "DKK",
     "telefonKodu": "45",
     "emoji": "🇩🇰",
-    "sehirSayisi": 437
+    "sehirSayisi": 442
   },
   {
     "iso2": "EE",
@@ -2350,7 +2350,7 @@
     "paraBirimi": "EUR",
     "telefonKodu": "358",
     "emoji": "🇫🇮",
-    "sehirSayisi": 459
+    "sehirSayisi": 461
   },
   {
     "iso2": "FR",
@@ -2363,7 +2363,7 @@
     "paraBirimi": "EUR",
     "telefonKodu": "33",
     "emoji": "🇫🇷",
-    "sehirSayisi": 10585
+    "sehirSayisi": 10595
   },
   {
     "iso2": "HR",
@@ -2376,7 +2376,7 @@
     "paraBirimi": "EUR",
     "telefonKodu": "385",
     "emoji": "🇭🇷",
-    "sehirSayisi": 657
+    "sehirSayisi": 665
   },
   {
     "iso2": "NL",
@@ -2389,7 +2389,7 @@
     "paraBirimi": "EUR",
     "telefonKodu": "31",
     "emoji": "🇳🇱",
-    "sehirSayisi": 1648
+    "sehirSayisi": 1663
   },
   {
     "iso2": "IE",
@@ -2402,7 +2402,7 @@
     "paraBirimi": "EUR",
     "telefonKodu": "353",
     "emoji": "🇮🇪",
-    "sehirSayisi": 374
+    "sehirSayisi": 375
   },
   {
     "iso2": "ES",
@@ -2415,7 +2415,7 @@
     "paraBirimi": "EUR",
     "telefonKodu": "34",
     "emoji": "🇪🇸",
-    "sehirSayisi": 8524
+    "sehirSayisi": 8583
   },
   {
     "iso2": "SE",
@@ -2428,7 +2428,7 @@
     "paraBirimi": "SEK",
     "telefonKodu": "46",
     "emoji": "🇸🇪",
-    "sehirSayisi": 784
+    "sehirSayisi": 808
   },
   {
     "iso2": "CH",
@@ -2441,7 +2441,7 @@
     "paraBirimi": "CHF",
     "telefonKodu": "41",
     "emoji": "🇨🇭",
-    "sehirSayisi": 1492
+    "sehirSayisi": 1508
   },
   {
     "iso2": "IT",
@@ -2454,7 +2454,7 @@
     "paraBirimi": "EUR",
     "telefonKodu": "39",
     "emoji": "🇮🇹",
-    "sehirSayisi": 9734
+    "sehirSayisi": 9909
   },
   {
     "iso2": "IS",
@@ -2480,7 +2480,7 @@
     "paraBirimi": "GBP",
     "telefonKodu": "44",
     "emoji": "🇯🇪",
-    "sehirSayisi": 48
+    "sehirSayisi": 52
   },
   {
     "iso2": "ME",
@@ -2532,7 +2532,7 @@
     "paraBirimi": "MKD",
     "telefonKodu": "389",
     "emoji": "🇲🇰",
-    "sehirSayisi": 195
+    "sehirSayisi": 196
   },
   {
     "iso2": "LV",
@@ -2662,7 +2662,7 @@
     "paraBirimi": "NOK",
     "telefonKodu": "47",
     "emoji": "🇳🇴",
-    "sehirSayisi": 662
+    "sehirSayisi": 671
   },
   {
     "iso2": "PL",
@@ -2675,7 +2675,7 @@
     "paraBirimi": "PLN",
     "telefonKodu": "48",
     "emoji": "🇵🇱",
-    "sehirSayisi": 2648
+    "sehirSayisi": 2839
   },
   {
     "iso2": "PT",
@@ -2688,7 +2688,7 @@
     "paraBirimi": "EUR",
     "telefonKodu": "351",
     "emoji": "🇵🇹",
-    "sehirSayisi": 1197
+    "sehirSayisi": 1320
   },
   {
     "iso2": "RO",
@@ -2701,7 +2701,7 @@
     "paraBirimi": "RON",
     "telefonKodu": "40",
     "emoji": "🇷🇴",
-    "sehirSayisi": 7030
+    "sehirSayisi": 7951
   },
   {
     "iso2": "RU",
@@ -2714,7 +2714,7 @@
     "paraBirimi": "RUB",
     "telefonKodu": "7",
     "emoji": "🇷🇺",
-    "sehirSayisi": 5205
+    "sehirSayisi": 5552
   },
   {
     "iso2": "SM",
@@ -2740,7 +2740,7 @@
     "paraBirimi": "RSD",
     "telefonKodu": "381",
     "emoji": "🇷🇸",
-    "sehirSayisi": 383
+    "sehirSayisi": 385
   },
   {
     "iso2": "SK",
@@ -2753,7 +2753,7 @@
     "paraBirimi": "EUR",
     "telefonKodu": "421",
     "emoji": "🇸🇰",
-    "sehirSayisi": 242
+    "sehirSayisi": 243
   },
   {
     "iso2": "SI",
@@ -2779,7 +2779,7 @@
     "paraBirimi": "NOK",
     "telefonKodu": "47",
     "emoji": "🇸🇯",
-    "sehirSayisi": 1
+    "sehirSayisi": 0
   },
   {
     "iso2": "UA",
@@ -2792,7 +2792,7 @@
     "paraBirimi": "UAH",
     "telefonKodu": "380",
     "emoji": "🇺🇦",
-    "sehirSayisi": 1941
+    "sehirSayisi": 2005
   },
   {
     "iso2": "VA",
@@ -2805,7 +2805,7 @@
     "paraBirimi": "EUR",
     "telefonKodu": "379",
     "emoji": "🇻🇦",
-    "sehirSayisi": 1
+    "sehirSayisi": 0
   },
   {
     "iso2": "GR",
@@ -2818,7 +2818,7 @@
     "paraBirimi": "EUR",
     "telefonKodu": "30",
     "emoji": "🇬🇷",
-    "sehirSayisi": 1038
+    "sehirSayisi": 1105
   },
   {
     "iso2": "AX",
@@ -2844,7 +2844,7 @@
     "paraBirimi": "CZK",
     "telefonKodu": "420",
     "emoji": "🇨🇿",
-    "sehirSayisi": 1357
+    "sehirSayisi": 1384
   },
   {
     "iso2": "AS",
@@ -2870,7 +2870,7 @@
     "paraBirimi": "AUD",
     "telefonKodu": "61",
     "emoji": "🇦🇺",
-    "sehirSayisi": 3944
+    "sehirSayisi": 4152
   },
   {
     "iso2": "CX",
@@ -2883,7 +2883,7 @@
     "paraBirimi": "AUD",
     "telefonKodu": "61",
     "emoji": "🇨🇽",
-    "sehirSayisi": 1
+    "sehirSayisi": 0
   },
   {
     "iso2": "CC",
@@ -2896,7 +2896,7 @@
     "paraBirimi": "AUD",
     "telefonKodu": "61",
     "emoji": "🇨🇨",
-    "sehirSayisi": 1
+    "sehirSayisi": 0
   },
   {
     "iso2": "CK",
@@ -2909,7 +2909,7 @@
     "paraBirimi": "NZD",
     "telefonKodu": "682",
     "emoji": "🇨🇰",
-    "sehirSayisi": 1
+    "sehirSayisi": 0
   },
   {
     "iso2": "FJ",
@@ -2974,7 +2974,7 @@
     "paraBirimi": "USD",
     "telefonKodu": "1",
     "emoji": "🇲🇵",
-    "sehirSayisi": 1
+    "sehirSayisi": 2
   },
   {
     "iso2": "MH",
@@ -2987,7 +2987,7 @@
     "paraBirimi": "USD",
     "telefonKodu": "692",
     "emoji": "🇲🇭",
-    "sehirSayisi": 28
+    "sehirSayisi": 29
   },
   {
     "iso2": "FM",
@@ -3026,7 +3026,7 @@
     "paraBirimi": "NZD",
     "telefonKodu": "683",
     "emoji": "🇳🇺",
-    "sehirSayisi": 1
+    "sehirSayisi": 0
   },
   {
     "iso2": "NF",
@@ -3039,7 +3039,7 @@
     "paraBirimi": "AUD",
     "telefonKodu": "672",
     "emoji": "🇳🇫",
-    "sehirSayisi": 1
+    "sehirSayisi": 0
   },
   {
     "iso2": "PW",
@@ -3078,7 +3078,7 @@
     "paraBirimi": "NZD",
     "telefonKodu": "870",
     "emoji": "🇵🇳",
-    "sehirSayisi": 1
+    "sehirSayisi": 0
   },
   {
     "iso2": "WS",
@@ -3182,6 +3182,6 @@
     "paraBirimi": "NZD",
     "telefonKodu": "64",
     "emoji": "🇳🇿",
-    "sehirSayisi": 180
+    "sehirSayisi": 181
   }
 ]

@@ -1,13 +1,13 @@
-12.4217|42.8956|Alaïli Ḏaḏḏa‘
-11.1558|42.7125|Ali Sabieh|Ali Sabih
-11.5264|42.8519|Arta
-11.5619|43.1067|Balbala
-11.1045|42.3697|Dikhil
-11.5890|43.1450|Djibouti
-12.1503|42.4762|Dorra
-11.7158|41.8361|Gâlâfi
-11.4239|43.0003|Goubétto
-11.3103|42.9294|Holhol
-11.4611|43.2528|Loyada
-11.9669|43.2884|Obock
-11.7878|42.8822|Tadjoura|Tadjourah
+12.4217|42.8956|Alaïli Ḏaḏḏa‘|Obock|1456|
+11.1558|42.7125|Ali Sabieh|Ali Sabieh|50006|Ali Sabih
+11.5264|42.8519|Arta|Arta|17477|
+11.5619|43.1067|Balbala|Djibouti|554350|
+11.1045|42.3697|Dikhil|Dikhil|32801|
+11.5890|43.1450|Djibouti|Djibouti|626512|
+12.1503|42.4762|Dorra|Tadjourah|1873|
+11.7158|41.8361|Gâlâfi|Dikhil|1849|
+11.4239|43.0003|Goubétto|Ali Sabieh|1400|
+11.3103|42.9294|Holhol|Ali Sabieh|3875|
+11.4611|43.2528|Loyada|Djibouti|1646|
+11.9669|43.2884|Obock|Obock|15429|
+11.7878|42.8822|Tadjourah|Tadjourah|19533|Tadjoura

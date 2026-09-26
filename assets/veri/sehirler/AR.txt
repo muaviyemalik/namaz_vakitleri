@@ -1,1127 +1,1209 @@
--51.5839|-72.2138|28 de Noviembre
--22.7205|-65.6970|Abra Pampa
--33.1754|-64.9933|Achiras
--33.6315|-64.0210|Adelia María
--37.1605|-64.2251|Adolfo Alsina
--37.9380|-60.9030|Adolfo Gonzáles Chaves
--34.8004|-58.3838|Adrogué
--34.5922|-58.5000|Agronomía
--31.0666|-64.3002|Agua de Oro
--27.4338|-65.6143|Aguilares
--28.5600|-66.8074|Aimogasta
--27.5698|-54.6826|Alba Posse
--31.4372|-68.5256|Albardón
--35.0277|-60.5841|Alberti
--32.6232|-58.7051|Aldea San Antonio
--26.8167|-65.1333|Alderetes
--33.3537|-63.7185|Alejandro Roca
--33.6064|-62.6230|Alejo Ledesma
--38.9774|-67.8271|Allen
--32.1930|-64.2556|Almafuerte
--34.6099|-58.4432|Almagro
--34.8320|-58.4525|Almirante Brown
--37.3770|-63.7745|Alpachiri
--31.6529|-64.4283|Alta Gracia
--35.3335|-64.1150|Alta Italia
--45.0410|-70.8198|Alto Río Senguer
--30.9559|-62.3373|Altos de Chipión
--39.2369|-70.9197|Aluminé
--29.0968|-56.5504|Alvear
--28.4606|-62.8347|Añatuya
--28.8125|-65.5015|Ancasti
--37.1795|-70.6691|Andacollo
--27.5818|-66.3163|Andalgalá
--38.3544|-68.7884|Añelo
--36.5257|-64.0102|Anguil
--26.0594|-67.4064|Antofagasta de la Sierra
--24.4328|-63.9954|Apolinario Saravia
--27.9142|-55.7535|Apóstoles
--32.2425|-60.1611|Aranguren
--35.6390|-64.3562|Arata
--28.5807|-66.7925|Arauco
--33.6441|-62.4027|Arias
--27.0963|-54.8963|Aristóbulo del Valle
--32.7822|-61.6022|Armstrong
--34.0060|-60.3378|Arrecifes
--31.4202|-63.0500|Arroyito
--32.4912|-63.4013|Arroyo Cabral
--27.6975|-55.4038|Arroyo del Medio
--33.1549|-60.5086|Arroyo Seco
--30.2328|-61.7286|Arrufó
--34.6613|-58.3880|Avellaneda
--26.6853|-60.7292|Aviá Terai
--36.9737|-59.0890|Ayacucho
--28.0616|-55.6780|Azara
--36.8278|-60.9925|Azul
--38.5880|-62.5079|Bahía Blanca
--37.7545|-58.9308|Balcarce
--31.0088|-62.6673|Balnearia
--34.6093|-58.4238|Balvanera
--34.7456|-58.3937|Banfield
--33.9065|-59.8182|Baradero
--34.6445|-58.4052|Barracas
--36.8234|-69.9156|Barrancas
--27.4813|-58.9393|Barranqueras
--27.8854|-59.2824|Basail
--27.6495|-67.0263|Belén
--34.5554|-58.4714|Belgrano
--31.2818|-61.4109|Bella Italia
--27.0342|-65.3020|Bella Vista
--32.6259|-62.6887|Bell Ville
--27.8291|-64.0610|Beltrán
--37.5859|-60.5238|Benito Juárez
--34.8433|-58.3074|Berazategui
--34.8982|-57.9024|Berisso
--26.2552|-53.6458|Bernardo de Irigoyen
--35.0245|-63.5825|Bernardo Larroudé
--37.9046|-63.7424|Bernasconi
--27.5507|-57.5346|Berón de Astrada
--32.4510|-64.3887|Berrotarán
--34.6304|-58.4397|Boedo
--36.2891|-61.7874|Bolívar
--29.8171|-57.4297|Bonpland
--31.3431|-59.4451|Bovril
--35.0257|-61.2537|Bragado
--35.1951|-58.4982|Brandsen
--30.8659|-62.0374|Brinkmann
--34.7226|-63.5092|Buchardo
--34.7565|-65.2538|Buena Esperanza
--34.6131|-58.3772|Buenos Aires
--26.4992|-64.7421|Burruyacú
--34.8258|-58.3950|Burzaco
--37.0522|-69.8771|Buta Ranquil
--34.6166|-58.4653|Caballito
--25.1203|-66.1652|Cachí
--26.0833|-65.8333|Cafayate
--23.7407|-64.5937|Caimancito
--29.8877|-60.2870|Calchaquí
--46.4393|-67.5281|Caleta Olivia
--35.5956|-64.5578|Caleufú
--23.7737|-64.7700|Calilegua
--31.3339|-69.4208|Calingasta
--44.7971|-65.7099|Camarones
--33.1275|-62.0945|Camilo Aldao
--34.1608|-59.2202|Campana
--26.5833|-62.8500|Campo Gallo
--27.2077|-54.9798|Campo Grande
--26.8008|-60.8421|Campo Largo
--24.9098|-65.6366|Campo Quijano
--27.4549|-55.0212|Campo Ramón
--27.3327|-55.0565|Campo Viera
--32.8164|-61.3949|Cañada de Gómez
--30.7334|-63.7238|Cañada de Luque
--33.5654|-62.8893|Canals
--27.4595|-55.7454|Candelaria
--35.1553|-59.0307|Cañuelas
--28.7744|-66.0475|Capayán
--30.8609|-64.5251|Capilla del Monte
--26.9300|-55.0608|Capioví
--32.8226|-60.7185|Capitán Bermúdez
--34.1417|-60.0222|Capitán Sarmiento
--26.8022|-59.5609|Capitán Solari
--26.6059|-54.7809|Caraguatay
--32.8568|-61.1533|Carcarañá
--35.7222|-62.0378|Carlos Casares
--35.3945|-63.0624|Carlos Tejedor
--34.4184|-60.2379|Carmen de Areco
--40.8025|-62.9835|Carmen de Patagones
--32.9137|-64.0217|Carnerillo
--31.8730|-63.1172|Carrilobo
--32.4633|-58.4787|Caseros
--33.0442|-61.1681|Casilda
--34.6514|-58.6407|Castelar
--36.0184|-57.9809|Castelli
--30.5795|-65.7270|Castro Barros
--28.4696|-65.7852|Catamarca|San Fernando del Valle de Catamarca
--37.8791|-67.7956|Catriel
--36.4060|-63.4217|Catriló
--31.6518|-68.2810|Caucete
--33.4761|-62.3389|Cavanagh
--33.4333|-58.7500|Ceibas
--38.8295|-68.1318|Centenario
--29.8810|-61.9450|Ceres
--27.6331|-55.4962|Cerro Azul
--27.5131|-55.6090|Cerro Corá
--39.0544|-67.3943|Cervantes
--34.6334|-60.6511|Chacabuco
--34.5880|-58.4733|Chacarita
--30.7505|-57.9796|Chajarí
--30.3600|-66.3140|Chamical
--33.3252|-62.0383|Chañar Ladeado
--27.6550|-59.8629|Charadai
--27.2144|-61.1880|Charata
--33.0240|-64.0472|Charras
--35.5954|-58.5600|Chascomús
--28.9549|-58.5728|Chavarría
--33.0787|-63.2766|Chazón
--39.1150|-66.9271|Chichinales
--25.1050|-65.5347|Chicoana
--29.1620|-67.4974|Chilecito
--31.4833|-68.5333|Chimbas
--39.1648|-66.1424|Chimpay
--34.9079|-60.2843|Chivilcoy
--39.2894|-65.6606|Choele Choel
--27.9158|-61.3998|Chorotis
--37.3781|-70.2708|Chos Malal
--26.5804|-59.6309|Ciervo Petiso
--38.8222|-68.0629|Cinco Saltos
--32.3067|-62.6521|Cintra
--38.9339|-67.9903|Cipolletti
--32.8509|-68.8360|Ciudad de Las Heras
--27.5744|-64.1311|Clodomira
--25.2848|-57.7185|Clorinda
--34.5602|-58.4854|Coghlan
--34.5746|-58.4619|Colegiales
--33.8523|-61.4012|Colón
--27.4743|-54.5250|Colonia Aurora
--36.1515|-63.8540|Colonia Barón
--27.3310|-58.9462|Colonia Benítez
--31.0220|-64.0617|Colonia Caroya
--28.6000|-62.9500|Colonia Dora
--32.6714|-58.3254|Colonia Elía
--26.9304|-59.5186|Colonia Elisa
--31.2375|-63.0613|Colonia La Tordilla
--31.5278|-62.7244|Colonia San Bartolomé
--26.6983|-59.6315|Colonias Unidas
--25.9734|-54.5630|Colonia Wanda
--41.0299|-70.2678|Comallo
--25.3345|-59.6821|Comandante Fontana
--49.9851|-68.9147|Comandante Luis Piedra Buena
--45.8641|-67.4966|Comodoro Rivadavia
--32.5601|-65.2427|Concarán
--28.3917|-57.8878|Concepción
--27.9831|-55.5203|Concepción de la Sierra
--26.5993|-60.9462|Concepción del Bermejo
--32.4846|-58.2322|Concepción del Uruguay
--31.3930|-58.0209|Concordia
--31.0484|-59.0844|Conscripto Bernardi
--34.6258|-58.3939|Constitución
--38.7242|-68.1528|Contraalmirante Cordero
--31.4135|-64.1810|Córdoba
--31.9726|-60.9198|Coronda
--32.8477|-64.3611|Coronel Baigorria
--39.1869|-65.9542|Coronel Belisle
--35.1680|-58.2374|Coronel Brandsen
--38.6403|-61.7729|Coronel Dorrego
--27.6804|-60.9146|Coronel Du Graty
--33.6227|-64.5971|Coronel Moldes
--38.1660|-61.8952|Coronel Pringles
--38.8149|-62.1473|Coronel Rosales
--37.5303|-63.2532|Coronel Suárez
--33.2820|-62.1846|Corral de Bustos
--32.0246|-64.1922|Corralito
--27.4678|-58.8344|Corrientes
--26.9537|-60.9693|Corzuela
--31.2451|-64.4656|Cosquín
--31.6477|-63.7593|Costa Sacate
--27.5000|-59.6000|Coté-Lai
--32.0287|-60.3066|Crespo
--33.0089|-61.8075|Cruz Alta
--30.7264|-64.8039|Cruz del Eje
--28.8365|-59.0048|Cruz de los Milagros
--31.4866|-64.5715|Cuesta Blanca
--29.7917|-58.0546|Curuzú Cuatiá
--38.9342|-69.2305|Cutral-Có
--36.6193|-62.5235|Daireaux
--32.6107|-63.5804|Dalmacio Vélez Sársfield
--39.2033|-65.7395|Darwin
--30.4204|-64.3498|Deán Funes
--34.3766|-64.4950|Del Campillo
--24.8333|-65.3333|Departamento Capital
--29.3333|-62.5000|Departamento de Aguirre
--31.2833|-68.4167|Departamento de Albardón
--25.8166|-61.4558|Departamento de Almirante Brown
--39.1667|-71.0000|Departamento de Aluminé
--28.0000|-65.9167|Departamento de Ambato
--29.0000|-65.5000|Departamento de Ancasti
--27.5833|-66.4667|Departamento de Andalgalá
--38.1667|-69.0000|Departamento de Añelo
--31.2000|-68.1333|Departamento de Angaco
--24.9167|-64.0000|Departamento de Anta
--26.0000|-67.5833|Departamento de Antofagasta de la Sierra
--27.9167|-55.7500|Departamento de Apóstoles
--28.5000|-66.8333|Departamento de Arauco
--39.5000|-66.5000|Departamento de Avellaneda
--27.5000|-64.3333|Departamento de Banda
--32.5000|-61.7500|Departamento de Belgrano
--28.5000|-58.8333|Departamento de Bella Vista
--27.0000|-58.6667|Departamento de Bermejo
--27.5000|-57.6667|Departamento de Berón de Astrada
--42.4167|-65.0000|Departamento de Biedma
--26.5000|-64.9167|Departamento de Burruyacú
--27.1667|-54.8333|Departamento de Cainguás
--32.2500|-64.5833|Departamento de Calamuchita
--38.5833|-64.0000|Departamento de Caleu-Caleu
--31.5000|-69.7500|Departamento de Calingasta
--27.5000|-55.5000|Departamento de Candelaria
--28.8333|-66.0000|Departamento de Capayán
--28.4167|-65.8000|Departamento de Capital
--33.2500|-61.6667|Departamento de Caseros
--31.1667|-61.6667|Departamento de Castellanos
--39.5000|-70.3333|Departamento de Catán-Lil
--31.4500|-67.6667|Departamento de Caucete
--25.0000|-65.4167|Departamento de Cerrillos
--25.1158|-65.5947|Departamento de Chicoana
--31.4874|-68.5269|Departamento de Chimbas
--36.9167|-70.1667|Departamento de Chos-Malal
--28.7500|-64.7500|Departamento de Choya
--23.0000|-65.8333|Departamento de Cochinoca
--40.0833|-70.1667|Departamento de Collón-Curá
--31.1667|-64.1667|Departamento de Colón
--26.8333|-60.5000|Departamento de Comandante Fernández
--28.3333|-58.0000|Departamento de Concepción
--27.8333|-55.4167|Departamento de Concepción de la Sierra
--38.8333|-68.8333|Departamento de Confluencia
--33.5000|-60.9167|Departamento de Constitución
--26.9167|-64.9167|Departamento de Cruz Alta
--30.7500|-65.0000|Departamento de Cruz del Eje
--29.5000|-58.5000|Departamento de Curuzú Cuatiá
--42.5000|-70.8333|Departamento de Cushamen
--47.3333|-67.8333|Departamento de Deseado
--27.4167|-61.3333|Departamento de Doce de Octubre
--27.6093|-61.3447|Departamento de Dos de Abril
--28.4167|-65.4167|Departamento de El Alto
--26.2500|-54.4167|Departamento de Eldorado
--27.8333|-58.6667|Departamento de Empedrado
--45.3333|-67.3333|Departamento de Escalante
--30.0000|-59.3333|Departamento de Esquina
--26.9167|-65.5000|Departamento de Famaillá
--44.4167|-66.1667|Departamento de Florentino Ameghino
--28.3000|-65.7500|Departamento de Fray Mamerto Esquiú
--43.0833|-71.4167|Departamento de Futaleufú
--43.3333|-66.3333|Departamento de Gaimán
--42.8333|-68.6667|Departamento de Gastre
--28.8333|-56.5000|Departamento de General Alvear
--27.1667|-59.3333|Departamento de General Donovan
--25.1667|-61.4167|Departamento de General Güemes
--28.8333|-68.6667|Departamento de General Lamadrid
--26.1667|-53.9167|Departamento de General Manuel Belgrano
--27.7500|-57.8333|Departamento de General Paz
--34.6667|-64.2500|Departamento de General Roca
--32.5000|-63.3333|Departamento de General San Martín
--32.9333|-68.8667|Departamento de Godoy Cruz
--29.5000|-59.5000|Departamento de Goya
--27.7500|-65.3333|Departamento de Graneros
--25.6667|-65.5000|Departamento de Guachipas
--33.2500|-59.0000|Departamento de Gualeguaychú
--27.1667|-54.1667|Departamento de Guaraní
--28.0000|-64.8333|Departamento de Guasayán
--32.8833|-68.7000|Departamento de Guaymallén
--51.3333|-70.3333|Departamento de Güer Aike
--29.3333|-69.5833|Departamento de Iglesia
--25.8667|-54.3667|Departamento de Iguazú
--26.6667|-60.6667|Departamento de Independencia
--22.8000|-64.9167|Departamento de Iruya
--27.3333|-58.0000|Departamento de Itatí
--27.9008|-56.8660|Departamento de Ituzaingó
--30.5000|-68.5000|Departamento de Jáchal
--33.3333|-63.6667|Departamento de Juárez Celman
--31.5000|-60.6667|Departamento de La Capital
--40.2500|-71.2000|Departamento de Lácar
--27.7778|-65.5711|Departamento de La Cocha
--49.7500|-72.0000|Departamento de Lago Argentino
--43.3333|-70.6667|Departamento de Languiñeo
--29.2500|-65.2500|Departamento de La Paz
--24.1667|-66.1667|Departamento de La Poma
--32.5000|-69.5000|Departamento de Las Heras
--29.0000|-58.9167|Departamento de Lavalle
--25.5000|-65.6667|Departamento de La Viña
--27.5667|-55.3333|Departamento de Leandro N. Alem
--27.3333|-59.3333|Departamento de Libertad
--26.9167|-54.9167|Departamento de Libertador General San Martín
--28.5500|-64.3333|Departamento de Loreto
--24.5000|-67.3333|Departamento de Los Andes
--33.0000|-69.3333|Departamento de Luján
--26.9289|-65.3385|Departamento de Lules
--48.7500|-68.5000|Departamento de Magallanes
--26.3333|-60.4167|Departamento de Maipú
--36.2500|-69.2500|Departamento de Malargüe
--33.0000|-62.2500|Departamento de Marcos Juárez
--43.8333|-67.1667|Departamento de Mártires
--28.0000|-58.2500|Departamento de Mburucuyá
--29.0000|-57.8333|Departamento de Mercedes
--25.5000|-64.6667|Departamento de Metán
--31.0000|-65.3333|Departamento de Minas
--26.7167|-54.5833|Departamento de Montecarlo
--30.2500|-57.8333|Departamento de Monte Caseros
--27.1667|-65.5833|Departamento de Monteros
--27.3333|-62.5000|Departamento de Moreno
--26.9533|-61.2763|Departamento de Nueve de Julio
--27.5500|-55.0833|Departamento de Oberá
--27.2500|-60.6667|Departamento de O’Higgins
--31.6667|-60.0000|Departamento de Paraná
--44.0000|-68.8333|Departamento de Paso de Indios
--29.6667|-57.2500|Departamento de Paso de los Libres
--25.5000|-58.0833|Departamento de Pilcomayo
--28.2500|-66.4167|Departamento de Pomán
--27.0000|-59.7500|Departamento de Presidencia de la Plaza
--34.2500|-63.5000|Departamento de Presidente Roque Sáenz Peña
--26.6667|-60.1667|Departamento de Quitilipi
--43.1234|-65.1018|Departamento de Rawson
--22.5000|-66.5000|Departamento de Rinconada
--48.2500|-71.0000|Departamento de Río Chico
--33.3333|-64.5000|Departamento de Río Cuarto
--27.5833|-64.7500|Departamento de Río Hondo
--31.0833|-63.5000|Departamento de Río Primero
--30.0833|-63.0000|Departamento de Río Seco
--31.7500|-63.5000|Departamento de Río Segundo
--45.3333|-70.8333|Departamento de Río Senguerr
--33.1800|-68.4660|Departamento de Rivadavia
--27.8333|-63.9167|Departamento de Robles
--25.9167|-64.8333|Departamento de Rosario de la Frontera
--24.5833|-65.8333|Departamento de Rosario de Lerma
--28.2500|-58.7500|Departamento de Saladas
--31.7500|-65.2500|Departamento de San Alberto
--34.0000|-69.0000|Departamento de San Carlos
--27.3333|-58.5000|Departamento de San Cosme
--30.3333|-61.3333|Departamento de San Cristóbal
--27.6667|-59.1667|Departamento de San Fernando
--27.2500|-55.3333|Departamento de San Ignacio
--32.0833|-65.1667|Departamento de San Javier
--31.3333|-62.6667|Departamento de San Justo
--27.3333|-60.4167|Departamento de San Lorenzo
--27.5000|-58.2500|Departamento de San Luis del Palmar
--28.8333|-56.9167|Departamento de San Martín
--27.9167|-57.5000|Departamento de San Miguel
--26.6667|-54.0000|Departamento de San Pedro
--35.0000|-68.8333|Departamento de San Rafael
--28.6667|-58.7500|Departamento de San Roque
--31.5333|-68.4667|Departamento de Santa Lucía
--26.6667|-66.4167|Departamento de Santa María
--28.0833|-65.2500|Departamento de Santa Rosa
--28.2500|-56.2500|Departamento de Santo Tomé
--26.8333|-59.5000|Departamento de Sargento Cabral
--45.3333|-69.0000|Departamento de Sarmiento
--30.0000|-58.6667|Departamento de Sauce
--27.2636|-65.3561|Departamento de Simoca
--29.6667|-64.0833|Departamento de Sobremonte
--27.5000|-59.7500|Departamento de Tapenagá
--44.2213|-70.2526|Departamento de Tehuelches
--42.4167|-67.1667|Departamento de Telsen
--27.5000|-68.0000|Departamento de Tinogasta
--36.5833|-64.8000|Departamento de Toay
--30.8333|-63.9167|Departamento de Totoral
--26.4167|-65.5000|Departamento de Trancas
--30.2500|-63.9167|Departamento de Tulumba
--23.7167|-65.6667|Departamento de Tumbaya
--33.6667|-69.5000|Departamento de Tunuyán
--33.2500|-69.2500|Departamento de Tupungato
--31.0000|-68.9167|Departamento de Ullúm
--32.8333|-62.7500|Departamento de Unión
--28.5833|-65.7500|Departamento de Valle Viejo
--27.4167|-54.6667|Departamento de Veinticinco de Mayo
--29.0000|-60.5000|Departamento de Vera
--26.8183|-65.3173|Departamento de Yerba Buena
--39.0000|-69.8333|Departamento de Zapala
--31.6826|-68.8994|Departamento de Zonda
--31.8163|-64.2899|Despeñaderos
--31.4043|-62.3063|Devoto
--32.0664|-60.6384|Diamante
--37.1497|-64.0118|Doblas
--43.3068|-65.7065|Dolavón
--36.4147|-58.3246|Dolores
--31.9871|-58.9620|Domínguez
--34.4946|-58.6273|Don Torcuato
--27.6995|-55.2521|Dos Arroyos
--27.0228|-54.6867|Dos de Mayo
--35.9150|-64.2945|Eduardo Castex
--23.2157|-65.6800|El Aguilar
--26.7146|-54.8152|El Alcázar
--31.7412|-62.8932|El Arañado
--41.9605|-71.5334|El Bolsón
--50.3407|-72.2768|El Calafate
--25.0741|-65.4917|El Carril
--26.3081|-59.3729|El Colorado
--39.9269|-68.3421|El Cuy
--26.4045|-54.6185|Eldorado
--32.5720|-64.3948|Elena
--25.3807|-64.6526|El Galpón
--27.0287|-63.2320|El Hoyo
--37.6452|-70.5801|El Huecú
--42.0492|-71.1669|El Maitén
--34.6177|-58.6015|El Palomar
--25.2833|-64.0667|El Quebrachal
--28.2152|-65.8742|El Rodeo
--27.2985|-54.1988|El Soberbio
--31.3836|-62.8294|El Tío
--32.2008|-61.7014|El Trébol
--35.3863|-64.2809|Embajador Martini
--32.1800|-64.4181|Embalse
--23.2100|-64.0996|Embarcación
--27.9518|-58.8058|Empedrado
--34.8416|-58.0627|Ensenada
--34.3425|-58.9400|Escobar
--31.4488|-60.9317|Esperanza
--42.9115|-71.3195|Esquel
--30.0148|-59.5289|Esquina
--25.0550|-60.0922|Estanislao del Campo
--34.8241|-58.6336|Esteban Echeverríar
--32.9401|-63.2466|Etruria
--34.3123|-59.3130|Exaltación de la Cruz
--34.8736|-58.7351|Ezeiza
--27.0541|-65.4033|Famaillá
--31.0062|-57.8996|Federación
--30.9547|-58.7833|Federal
--29.1023|-58.3377|Felipe Yofré
--27.6722|-67.6187|Fiambalá
--33.4594|-61.4832|Firmat
--34.8887|-58.4212|Florencio Varela
--34.8862|-62.7030|Florentino Ameghino
--34.6353|-58.4988|Flores
--34.6278|-58.5054|Floresta
--27.4181|-59.0239|Fontana
--26.1849|-58.1731|Formosa
--23.9408|-64.7994|Fraile Pintado
--32.7912|-60.7282|Fray Luis A. Beltrán
--39.3137|-65.7600|Fray Luis Beltrán
--32.9157|-60.8100|Funes
--43.2897|-65.4929|Gaimán
--32.0293|-61.2210|Gálvez
--27.4904|-61.6757|Gancedo
--28.1721|-55.6541|Garruchos
--26.8177|-54.9567|Garuhapé
--27.4817|-55.8292|Garupá
--42.2619|-69.2211|Gastre
--28.0222|-61.1866|Gato Colorado
--37.3770|-64.6043|General Acha
--38.1998|-58.3898|General Alvarado
--36.0384|-60.7672|General Alvear
--34.2381|-61.6126|General Arenales
--33.1225|-62.3063|General Baldissera
--35.8419|-59.0454|General Belgrano
--32.8131|-63.8724|General Cabrera
--31.5231|-58.4049|General Campos
--40.1041|-64.4559|General Conesa
--39.0789|-67.1581|General Enrique Godoy
--23.2167|-62.3000|General Enrique Mosconi
--38.9530|-67.9249|General Fernández Oro
--32.7203|-59.3961|General Galarza
--24.6745|-65.0466|General Güemes
--36.6738|-58.6330|General Guido
--26.5374|-59.3416|General José de San Martín
--37.0020|-57.1358|General Juan Madariaga
--37.3989|-61.9738|General La Madrid
--34.9093|-59.3278|General Las Heras
--36.6701|-57.6728|General Lavalle
--34.0147|-63.9241|General Levalle
--37.1558|-57.9066|General Madariaga
--37.4603|-63.5854|General Manuel J. Campos
--22.5962|-63.8110|General Mosconi
--34.4526|-58.6431|General Pacheco
--35.4736|-58.6969|General Paz
--35.6566|-63.7568|General Pico
--27.3167|-61.2833|General Pinedo
--34.6831|-62.3405|General Pinto
--37.9715|-58.1122|General Pueyrredón
--32.1760|-60.2008|General Ramírez
--32.7320|-61.9160|General Roca
--34.6397|-59.1647|General Rodríguez
--34.5438|-58.6470|General San Martín
--26.9338|-58.6604|General Vedia
--34.9775|-61.4015|General Viamonte
--34.8736|-63.4866|General Villegas
--44.0499|-70.5980|Gobernador Costa
--33.0302|-60.6405|Gobernador Gálvez
--48.7506|-70.2474|Gobernador Gregores
--28.9116|-58.9359|Gobernador Juan E. Martínez
--32.5445|-59.3548|Gobernador Mansilla
--27.1864|-55.4643|Gobernador Roca
--28.0500|-56.0333|Gobernador Virasora
--32.9286|-68.8351|Godoy Cruz
--29.1399|-59.2634|Goya
--32.8568|-60.7175|Granadero Baigorria
--27.6493|-65.4383|Graneros
--33.1416|-59.3097|Gualeguay
--33.0094|-58.5172|Gualeguaychú
--36.8998|-63.0727|Guaminí
--27.5232|-55.1608|Guaraní
--33.4615|-62.4384|Guatimozín
--37.6678|-63.5302|Guatraché
--34.6424|-58.5921|Haedo
--31.5123|-59.8355|Hasenkamp
--31.0983|-60.0883|Helvecia
--27.5652|-58.2556|Herlitzka
--27.6082|-61.3444|Hermoso Campo
--32.3373|-60.0216|Hernández
--32.4266|-63.7333|Hernando
--26.4870|-58.3120|Herradura
--32.4340|-58.6318|Herrera
--30.0045|-61.8408|Hersilia
--36.2710|-61.9887|Hipólito Yrigoyen
--42.0719|-71.5081|Hoyo de Epuyén
--27.2290|-66.8313|Hualfín
--33.6665|-63.6370|Huanchillas
--31.0752|-64.4906|Huerta Grande
--28.7253|-65.9787|Huillapima
--34.8404|-64.3758|Huinca Renancó
--23.2054|-65.3505|Humahuaca
--34.5980|-58.6962|Hurlingham
--25.2144|-59.8585|Ibarreta
--28.9193|-65.3282|Icaño
--32.8141|-63.0325|Idiazábal
--23.9000|-61.8500|Ingeniero Guillermo N. Juárez
--41.3292|-69.5502|Ingeniero Jacobacci
--35.3858|-64.4652|Ingeniero Luiggi
--39.0715|-67.2379|Ingeniero Luis A. Huergo
--34.4778|-58.7065|Ingeniero Pablo Nogués
--24.2255|-64.8390|Ingenio La Esperanza
--32.9442|-62.2303|Inriville
--35.2338|-63.5921|Intendente Alvear
--32.6333|-61.3333|Iriondo Department
--34.7000|-58.5874|Isidro Casanova
--33.2410|-62.4030|Isla Verde
--27.4257|-57.3376|Itá Ibaté
--34.7924|-63.7820|Italó
--27.2704|-58.2446|Itatí
--34.6397|-58.7737|Ituzaingó
--38.0861|-63.4317|Jacinto Arauz
--32.1612|-63.4669|James Craik
--27.0435|-55.2270|Jardín América
--30.9815|-64.0942|Jesús María
--25.1136|-64.1263|Joaquín V. González
--34.5043|-58.8546|José C. Paz
--44.0503|-70.4697|José de San Martín
--25.9466|-60.6201|Juan José Castelli
--33.2754|-66.3202|Juan Martín de Pueyrredón
--30.4187|-57.8561|Juan Pujol
--34.5461|-61.3308|Junín
--39.9504|-71.0694|Junín de los Andes
--32.8841|-62.6779|Justiniano Posse
--33.8594|-65.1828|Justo Daract
--38.9833|-64.0833|La Adela
--27.7335|-64.2428|La Banda
--34.6376|-58.3823|La Boca
--33.1532|-62.8566|Laborde
--34.1266|-63.3912|Laboulaye
--24.5833|-65.4167|La Caldera
--31.3438|-64.3353|La Calera
--33.4199|-63.2977|La Carlota
--33.9511|-62.9724|La Cesira
--27.1333|-60.6667|La Clotilde
--27.7693|-65.5871|La Cocha
--36.6607|-57.4016|La Costa
--31.2690|-58.1056|La Criolla
--29.1744|-56.6433|La Cruz
--30.9820|-64.4914|La Cumbre
--26.8361|-59.0621|La Eduvigis
--27.1072|-59.4478|La Escondida
--31.0884|-64.4899|La Falda
--34.7505|-58.5846|Laferrere
--31.4067|-62.6340|La Francia
--42.0668|-71.6038|Lago Puelo
--31.0092|-64.2687|La Granja
--31.7765|-63.8010|Laguna Larga
--26.4957|-59.6808|Laguna Limpia
--25.2477|-58.0938|Laguna Naick-Neck
--31.3039|-60.6589|Laguna Paiva
--24.2539|-61.2447|Laguna Yema
--27.0379|-58.7035|La Leonesa
--39.4230|-65.7021|Lamarque
--35.6736|-64.9400|La Maruja
--34.7731|-58.7827|La Matanza
--24.3119|-64.9638|La Mendieta
--34.7020|-58.4726|Lanús
--27.1600|-59.3860|Lapachito
--30.8942|-63.0011|La Para
--34.5964|-58.4778|La Paternal
--30.7418|-59.6452|La Paz
--34.7030|-58.6799|La Plata
--32.1000|-63.0309|La Playosa
--37.4931|-61.4231|Laprida
--27.5500|-67.0167|La Puerta de San José
--33.1837|-66.3127|La Punta
--22.1024|-65.5930|La Quiaca
--29.4110|-66.8507|La Rioja
--33.0359|-59.0012|Larroque
--33.2816|-63.9761|Las Acequias
--27.0897|-61.0816|Las Breñas
--39.5553|-70.5949|Las Coloradas
--36.0163|-59.8633|Las Flores
--26.6180|-59.8013|Las Garcitas
--32.8527|-68.8284|Las Heras
--33.0923|-64.2890|Las Higueras
--31.8313|-63.4502|Las Junturas
--38.5232|-70.3675|Las Lajas
--24.7276|-64.1933|Las Lajitas
--24.7096|-60.5930|Las Lomitas
--36.9888|-70.7499|Las Ovejas
--32.6848|-61.5164|Las Parejas
--32.6979|-63.7063|Las Perdices
--43.7206|-67.2832|Las Plumas
--32.4766|-61.5804|Las Rosas
--28.3529|-59.2580|Las Toscas
--31.8026|-62.6165|Las Varas
--31.8721|-62.7195|Las Varillas
--27.1100|-60.5872|La Tigra
--33.0526|-65.6239|La Toma
--34.8756|-58.5419|La Unión
--27.1263|-59.3735|La Verde
--34.4925|-61.9592|Leandro N. Alem
--32.6617|-62.2968|Leones
--35.8637|-58.1566|Lezama
--30.0430|-57.8202|Libertad
--23.8064|-64.7876|Libertador General San Martín
--35.0859|-62.3586|Lincoln
--34.6449|-58.5367|Liniers
--38.0674|-59.3633|Lobería
--35.1978|-59.5102|Lobos
--27.7350|-57.9185|Lomas de Vallejos
--34.7528|-58.5011|Lomas de Zamora
--38.0728|-70.6161|Loncopué
--27.7144|-67.1335|Londres
--36.4655|-63.6243|Lonquimay
--27.7683|-57.2753|Loreto
--28.0484|-65.4994|Los Altos
--46.5497|-71.6309|Los Antiguos
--31.1755|-58.1877|Los Charrúas
--30.9250|-64.5021|Los Cocos
--32.3198|-64.2775|Los Cóndores
--30.5908|-58.4677|Los Conquistadores
--26.4077|-61.4137|Los Frentones
--27.5505|-55.0791|Los Helechos
--28.4654|-62.1086|Los Juríes
--29.3685|-59.7363|Los Laureles
--40.8440|-68.0872|Los Menucos
--34.5032|-58.7060|Los Polvorines
--32.9845|-62.0219|Los Surgentes
--28.9848|-63.4489|Los Telares
--35.0000|-61.0387|Los Toldos
--27.9300|-65.8715|Los Varela
--32.3843|-59.5301|Lucas González
--34.5876|-59.4760|Luján
--37.1360|-63.6665|Macachín
--26.9261|-60.0496|Machagai
--32.1722|-59.3995|Maciá
--35.1866|-57.9994|Magdalena
--23.6239|-65.4080|Maimará
--39.0667|-67.3000|Mainque
--36.8840|-58.2527|Maipú
--27.2069|-59.2870|Makallé
--29.3464|-59.9696|Malabrigo
--31.4647|-64.3584|Malagueño
--35.4779|-69.5852|Malargüe
--34.4859|-58.7980|Malvinas Argentinas
--41.2491|-68.7032|Maquinchao
--37.5098|-58.3005|Mar Chiquita
--32.6978|-62.1067|Marcos Juárez
--34.8208|-59.0287|Marcos Paz
--36.7288|-56.6827|Mar de Ajó
--38.0004|-57.5562|Mar del Plata
--36.5743|-56.6939|Mar del Tuyú
--27.2616|-58.9722|Margarita Belén
--29.3767|-58.1944|Mariano I. Loza
--38.7503|-70.0237|Mariano Moreno
--27.4227|-55.3766|Mártires
--30.9947|-62.8258|Marull
--34.6589|-58.5229|Mataderos
--34.4819|-64.1726|Mattaldi
--28.0453|-58.2283|Mburucuyá
--33.6585|-61.4546|Melincué
--31.2674|-64.3009|Mendiolaza
--32.8908|-68.8272|Mendoza
--34.6988|-59.7719|Mercedes
--34.7066|-58.8328|Merlo
--36.8540|-63.6884|Miguel Riglos
--31.7210|-65.0062|Mina Clavero
--30.9186|-62.6781|Miramar
--30.6189|-57.9634|Mocoretá
--27.7116|-55.1563|Mojón Grande
--34.6125|-58.3896|Monserrat
--35.4986|-59.1252|Monte
--32.9164|-62.4567|Monte Buey
--26.5662|-54.7570|Montecarlo
--30.2536|-57.6363|Monte Caseros
--34.6188|-58.5174|Monte Castro
--34.7296|-58.3542|Monte Chingolo
--31.3431|-63.9444|Monte Cristo
--38.9574|-61.4453|Monte Hermoso
--33.2046|-62.6009|Monte Maíz
--27.1674|-65.4983|Monteros
--34.5968|-58.9670|Moreno
--34.6464|-58.6941|Morón
--32.5948|-62.8346|Morrison
--30.7116|-61.9986|Morteros
--34.5562|-58.7074|Muñiz
--28.3210|-66.1425|Mutquín
--26.7333|-60.6167|Napenay
--32.9166|-65.3753|Naschel
--35.0246|-59.7763|Navarro
--38.1738|-59.8077|Necochea
--38.9516|-68.0591|Neuquén
--32.3660|-62.3113|Noetinger
--32.3939|-59.7895|Nogoyá
--41.8507|-70.9017|Ñorquinco
--27.7507|-57.6207|Nuestra Señora del Rosario de Caa Catí
--34.6501|-58.4425|Nueva Pompeya
--35.4569|-60.9239|Nueve de Julio
--34.5427|-58.4817|Núñez
--27.4871|-55.1199|Oberá
--30.7813|-63.4135|Obispo Trejo
--36.8569|-61.3719|Olavarría
--32.0416|-63.5698|Oliva
--31.9135|-63.6820|Oncativo
--32.8406|-62.8655|Ordóñez
--31.8251|-60.5175|Oro Verde
--34.5734|-58.4622|Palermo
--27.9419|-57.9006|Palmar Grande
--23.9777|-64.3031|Palma Sola
--25.5633|-59.3378|Palo Santo
--24.2565|-65.2116|Palpalá
--26.7004|-59.1233|Pampa Almirón
--26.0498|-59.9373|Pampa del Indio
--26.5052|-61.1744|Pampa del Infierno
--26.2300|-61.8377|Pampa de los Guanacos
--27.7237|-54.9151|Panambí
--31.7327|-60.5290|Paraná
--35.1460|-64.5009|Parera
--34.6508|-58.4984|Parque Avellaneda
--34.6371|-58.4595|Parque Chacabuco
--34.5849|-58.4901|Parque Chas
--34.6379|-58.4223|Parque Patricios
--33.1255|-63.0408|Pascanas
--32.7473|-63.3423|Pasco
--27.3168|-58.5720|Paso de la Patria
--29.7125|-57.0877|Paso de los Libres
--40.1729|-64.0957|Patagones
--28.7510|-58.6558|Pedro R. Fernández
--35.9067|-62.5931|Pehuajó
--36.2427|-63.8218|Pellegrini
--33.0749|-68.8884|Perdriel
--32.9984|-60.7679|Pérez
--33.8556|-61.2003|Pergamino
--46.5900|-70.9297|Perito Moreno
--29.3413|-58.6106|Perugorría
--27.6707|-55.2458|Picada Gobernador López
--23.3164|-64.2183|Pichanal
--46.7949|-67.9573|Pico Truncado
--39.5161|-69.2876|Picún Leufú
--40.0481|-70.0741|Piedra del Águila
--31.1859|-59.9518|Piedras Blancas
--37.6026|-62.4084|Pigüé
--36.2142|-59.0600|Pila
--34.4424|-59.0616|Pilar
--41.1229|-70.7215|Pilcaniyeu
--37.1066|-57.0347|Pinamar
--31.3016|-63.7579|Piquillín
--25.7324|-59.1088|Pirané
--38.9260|-69.2086|Plaza Huincul
--38.9667|-68.2333|Plottier
--31.6833|-68.5833|Pocito
--28.3945|-66.2205|Pomán
--34.7495|-58.7016|Pontevedra
--31.0139|-62.0665|Porteña
--27.3671|-55.8961|Posadas
--32.0186|-62.9198|Pozo del Molle
--24.8968|-60.3236|Pozo del Tigre
--27.0015|-59.8424|Presidencia de la Plaza
--26.1409|-59.5954|Presidencia Roca
--26.7852|-60.4388|Presidencia Roque Sáenz Peña
--34.9423|-58.4657|Presidente Perón
--22.0490|-63.6908|Profesor Salvador Mazza
--32.3448|-58.4427|Pronunciamiento
--38.0919|-64.3031|Puan
--30.2209|-59.3898|Pueblo Libertador
--27.2300|-66.9364|Puerta de Corral Quemado
--26.9274|-58.5092|Puerto Bermejo
--47.7503|-65.8938|Puerto Deseado
--26.4084|-54.6946|Puerto Eldorado
--26.0227|-54.6136|Puerto Esperanza
--33.7531|-59.1776|Puerto Ibicuy
--25.5991|-54.5735|Puerto Iguazú
--26.9876|-55.1657|Puerto Leoni
--25.9196|-54.5823|Puerto Libertad
--34.6136|-58.3729|Puerto Madero
--42.7692|-65.0385|Puerto Madryn
--26.4694|-54.7074|Puerto Piray
--26.7960|-55.0240|Puerto Rico
--50.0191|-68.5232|Puerto Santa Cruz
--27.3722|-59.0821|Puerto Tirol
--27.5141|-58.9391|Puerto Vilelas
--31.5371|-58.0153|Puerto Yeruá
--38.8805|-62.0750|Punta Alta
--35.4557|-57.7917|Punta Indio
--36.0546|-63.5643|Quemú Quemú
--30.2140|-64.5006|Quilino
--34.7397|-58.3532|Quilmes
--27.6461|-62.4166|Quimilí
--26.8691|-60.2168|Quitilipi
--45.9246|-67.5542|Rada Tilly
--31.2503|-61.4867|Rafaela
--33.5881|-60.3898|Ramallo
--35.0686|-64.6811|Rancul
--36.5992|-59.5577|Rauch
--43.3002|-65.1023|Rawson
--35.0366|-64.2447|Realicó
--34.5848|-58.4169|Recoleta
--29.1500|-59.6500|Reconquista
--29.2818|-65.0610|Recreo
--34.7259|-58.3966|Remedios de Escalada de San Martín
--27.4606|-58.9839|Resistencia
--34.5894|-58.3974|Retiro
--25.3621|-58.2775|Riacho Eh-Eh
--27.5819|-58.7450|Riachuelo
--31.1649|-64.3224|Río Ceballos
--38.9940|-64.0930|Río Colorado
--33.1307|-64.3499|Río Cuarto
--51.6226|-69.2181|Río Gallegos
--53.7877|-67.7095|Río Grande
--45.6857|-70.2580|Río Mayo
--44.1790|-71.3685|Río Pico
--31.6526|-63.9099|Río Segundo
--32.1730|-64.1141|Río Tercero
--51.5359|-72.3367|Río Turbio
--35.5778|-63.6644|Rivadavia
--32.9949|-68.6860|Rodeo del Medio
--34.1951|-61.1257|Rojas
--32.8985|-60.9068|Roldán
--35.5201|-59.7471|Roque Pérez
--32.9468|-60.6393|Rosario
--25.7986|-64.9739|Rosario de la Frontera
--24.9858|-65.5784|Rosario de Lerma
--32.3029|-59.1454|Rosario del Tala
--34.2683|-62.7126|Rufino
--26.9833|-55.0500|Ruiz de Montoya
--34.5543|-58.5098|Saavedra
--31.6630|-63.0451|Sacanta
--28.2538|-58.6259|Saladas
--35.6791|-60.3594|Saladillo
--31.3026|-64.3070|Saldán
--36.6703|-63.3776|Salliqueló
--31.3184|-65.0900|Salsacate
--31.1373|-64.2959|Salsipuedes
--24.7859|-65.4117|Salta
--34.2470|-60.6131|Salto
--33.3839|-64.7221|Sampacho
--27.5212|-60.3917|Samuhú
--31.9768|-64.3740|San Agustín
--30.6335|-67.4682|San Agustín de Valle Fértil
--34.4259|-59.8102|San Andrés de Giles
--28.0101|-65.7087|San Antonio
--34.2059|-59.8536|San Antonio de Areco
--32.2138|-62.6324|San Antonio de Litín
--24.2180|-66.3188|San Antonio de los Cobres
--34.6627|-58.6982|San Antonio de Padua
--40.7319|-64.9477|San Antonio Oeste
--33.4976|-64.3149|San Basilio
--31.7837|-60.4416|San Benito
--27.2878|-60.7125|San Bernardo
--31.1776|-65.1025|San Carlos
--31.7286|-61.0919|San Carlos Centro
--41.1456|-71.3082|San Carlos de Bariloche
--36.2307|-61.1157|San Carlos de Bolívar
--38.4026|-60.2776|San Cayetano
--27.3712|-58.5121|San Cosme
--34.6242|-58.4122|San Cristóbal
--34.2451|-58.9007|San Fernando
--31.4280|-62.0827|San Francisco
--26.2426|-58.6304|San Francisco de Laishí
--29.7883|-63.9441|San Francisco del Chañar
--32.5983|-66.1254|San Francisco del Monte de Oro
--30.6896|-59.3984|San Gustavo
--34.4866|-58.6223|San Isidro
--30.5778|-59.9317|San Javier
--31.8962|-61.8598|San Jorge
--27.7698|-55.7826|San José
--30.3845|-58.7517|San José de Feliciano
--30.2406|-68.7469|San José de Jáchal
--30.3544|-63.9487|San José de la Dormida
--24.8971|-65.4844|San José de los Cerrillos
--25.4971|-64.9711|San José de Metán
--31.5375|-68.5364|San Juan
--49.3055|-67.7274|San Julián
--32.4465|-58.4357|San Justo
--28.1331|-58.7673|San Lorenzo
--33.2950|-66.3356|San Luis
--27.5079|-58.5545|San Luis del Palmar
--33.0810|-68.4681|San Martín
--40.1579|-71.3534|San Martín de los Andes
--34.5533|-58.7741|San Miguel
--35.4392|-58.8074|San Miguel del Monte
--26.8241|-65.2226|San Miguel de Tucumán
--34.6039|-58.3906|San Nicolás
--33.3342|-60.2108|San Nicolás de los Arroyos
--33.7956|-60.1106|San Pedro
--24.2313|-64.8661|San Pedro de Jujuy
--34.6177|-68.3301|San Rafael
--23.1370|-64.3243|San Ramón de la Nueva Orán
--31.6249|-58.5052|San Salvador
--24.1946|-65.2971|San Salvador de Jujuy
--30.9000|-57.9316|Santa Ana
--32.1748|-58.7862|Santa Anita
--24.3092|-64.6625|Santa Clara
--37.8344|-57.5075|Santa Clara del Mar
--30.9443|-59.7883|Santa Elena
--33.1766|-63.2828|Santa Eufemia
--31.6488|-60.7087|Santa Fe
--36.2272|-66.9424|Santa Isabel
--28.9875|-59.1029|Santa Lucía
--34.5178|-63.9441|Santa Magdalena
--26.6955|-66.0473|Santa María
--28.2632|-58.1189|Santa Rosa
--32.0690|-64.5363|Santa Rosa de Calamuchita
--32.3429|-65.2032|Santa Rosa del Conlara
--31.1523|-63.4019|Santa Rosa de Río Primero
--24.4517|-65.9745|Santa Rosa de Tastil
--27.8326|-61.1375|Santa Sylvina
--36.5406|-56.6929|Santa Teresita
--34.6225|-58.3806|San Telmo
--27.7951|-64.2615|Santiago del Estero
--31.3873|-63.4182|Santiago Temple
--27.1413|-55.4087|Santo Pipó
--34.6031|-58.5407|Santos Lugares
--28.5494|-56.0408|Santo Tomé
--35.0810|-58.7480|San Vicente
--34.6816|-58.3464|Sarandí
--45.5881|-69.0700|Sarmiento
--31.7676|-61.8289|Sastre
--31.7029|-62.4820|Saturnino M. Laspiur
--31.2379|-59.2187|Sauce de Luna
--30.1610|-63.5936|Sebastián Elcano
--31.9564|-60.1249|Seguí
--39.0141|-68.4328|Senillosa
--34.4697|-63.5384|Serrano
--30.6376|-65.3869|Serrezuela
--40.5849|-67.7567|Sierra Colorada
--41.6060|-65.3557|Sierra Grande
--27.2627|-65.3565|Simoca
--34.7371|-60.0353|Suipacha
--29.3847|-63.4691|Sumampa
--30.9440|-61.5615|Sunchales
--27.9336|-63.4294|Suncho Corral
--31.8013|-59.9348|Tabossi
--25.6156|-63.2671|Taco Pozo
--28.4126|-59.2600|Tacuarendí
--26.8528|-65.7098|Tafí del Valle
--26.7320|-65.2592|Tafí Viejo
--32.2431|-63.9807|Tancacha
--37.3329|-59.8548|Tandil
--36.3664|-60.8155|Tapalqué
--22.5164|-63.8013|Tartagal
--43.4949|-70.8102|Tecka
--36.2643|-65.5102|Telén
--27.4936|-64.8597|Termas de Río Hondo
--32.6935|-63.4361|Ticino
--34.4002|-58.7594|Tigre
--23.5782|-65.3952|Tilcara
--32.7329|-65.2911|Tilisarao
--28.0632|-67.5649|Tinogasta
--27.0269|-62.7064|Tintina
--32.2879|-63.3560|Tío Pujio
--36.6739|-64.3798|Toay
--31.5557|-64.0095|Toledo
--54.5108|-67.1955|Tolhuin
--36.4124|-57.5734|Tordillo
--38.2602|-62.9578|Tornquist
--34.4751|-58.7537|Tortuguitas
--29.2320|-61.7692|Tostado
--32.5844|-61.1685|Totoras
--26.2314|-65.2809|Trancas
--43.2490|-65.3050|Trelew
--35.6984|-64.1322|Trenel
--36.0532|-63.3026|Trenque Lauquen
--38.4699|-60.8456|Tres Arroyos
--28.0064|-55.6047|Tres Capones
--34.6000|-58.6671|Tres de Febrero
--26.3407|-60.4321|Tres Isletas
--36.4894|-63.1972|Tres Lomas
--43.0858|-71.4639|Trevelin
--34.8898|-58.5676|Tristán Suárez
--33.5812|-69.0154|Tunuyán
--33.3693|-69.1478|Tupungato
--31.7936|-58.3135|Ubajay
--33.0320|-63.5067|Ucacha
--35.1528|-65.9460|Unión
--31.2307|-64.3161|Unquillo
--32.6857|-58.8932|Urdinarrain
--36.5068|-63.8623|Uriburu
--54.8108|-68.3159|Ushuaia
--40.6799|-66.1628|Valcheta
--34.6714|-58.4090|Valentín Alsina
--31.1173|-64.4808|Valle Hermoso
--35.5514|-60.8465|Veinticinco de Mayo
--34.6313|-58.5135|Vélez Sársfield
--33.7456|-61.9689|Venado Tuerto
--29.4593|-60.2126|Vera
--34.6292|-58.5296|Versalles
--31.8678|-60.0072|Viale
--33.7465|-63.0976|Viamonte
--34.5293|-58.5891|Vicente López
--32.6184|-60.1548|Victoria
--36.2150|-65.4359|Victorica
--33.9196|-64.3922|Vicuña Mackenna
--40.8135|-62.9967|Viedma
--31.2946|-64.2954|Villa Allende
--27.5738|-60.7153|Villa Ángela
--32.1635|-63.8916|Villa Ascasubi
--28.4961|-63.8161|Villa Atamisqui
--31.5500|-68.7333|Villa Basilio Nievas
--31.9142|-64.7325|Villa Berna
--27.2917|-60.4126|Villa Berthet
--29.2864|-67.0207|Villa Bustos
--34.0057|-61.6076|Villa Cañás
--31.4241|-64.4978|Villa Carlos Paz
--31.3226|-62.8135|Villa Concepción del Tío
--33.2278|-60.3297|Villa Constitución
--34.5981|-58.4617|Villa Crespo
--31.7058|-65.0180|Villa Cura Brochero
--32.1767|-64.4554|Villa del Dique
--34.6059|-58.5106|Villa del Parque
--31.5566|-63.5345|Villa del Rosario
--30.8167|-63.7167|Villa del Totoral
--34.5108|-58.6806|Villa de Mayo
--30.8552|-64.9995|Villa de Soto
--34.6005|-58.5544|Villa Devoto
--31.9459|-65.1896|Villa Dolores
--32.1632|-58.4008|Villa Elisa
--26.6221|-58.6713|Villa Escolar
--31.9783|-64.5563|Villa General Belgrano
--24.7553|-59.4894|Villa General Guemes
--34.6105|-58.4797|Villa General Mitre
--32.6653|-66.4505|Villa General Roca
--31.4396|-68.5205|Villa General San Martín
--37.3662|-57.3898|Villa Gesell
--31.0333|-64.4833|Villa Giardino
--31.8653|-59.0269|Villaguay
--31.2310|-59.9846|Villa Hernandarias
--34.8383|-64.5869|Villa Huidobro
--40.7617|-71.6463|Villa La Angostura
--31.9502|-65.0535|Villa Las Rosas
--34.6749|-58.4970|Villa Lugano
--34.6350|-58.5227|Villa Luro
--32.3973|-58.7460|Villa Mantero
--32.4075|-63.2402|Villa María
--31.6656|-59.9018|Villa María Grande
--33.6757|-65.4578|Villa Mercedes
--33.3113|-61.0551|Villa Mugueta
--32.4329|-63.2476|Villa Nueva
--28.4875|-59.3552|Villa Ocampo
--29.5000|-63.6938|Villa Ojo de Agua
--34.5815|-58.4790|Villa Ortúzar
--33.7138|-58.6584|Villa Paranacito
--31.4933|-68.5384|Villa Paula de Sarmiento
--34.5818|-58.5226|Villa Pueyrredón
--34.6191|-58.5345|Villa Real
--33.2011|-63.8623|Villa Reducción
--39.1000|-67.0667|Villa Regina
--34.6927|-58.4843|Villa Riachuelo
--39.1425|-64.0162|Villarino
--32.1879|-64.4803|Villa Rumipal
--34.6164|-58.4935|Villa Santa Rita
--34.6336|-58.5705|Villa Sarmiento
--34.6679|-58.4676|Villa Soldati
--30.2133|-61.8760|Villa Trinidad
--30.3955|-64.1224|Villa Tulumba
--34.5719|-58.5093|Villa Urquiza
--34.3409|-64.9203|Villa Valeria
--28.7596|-68.2069|Vinchina
--38.7500|-68.1833|Vista Alegre
--25.9688|-54.5628|Wanda
--33.1730|-62.7708|Wenceslao Escalante
--36.2264|-64.2339|Winifreda
--51.5732|-72.3508|Yacimiento Río Turbio
--29.4691|-56.8184|Yapeyú
--29.0191|-58.9085|Yataity Calle
--26.8167|-65.3167|Yerba Buena
--23.6434|-64.4719|Yuto
--38.8992|-70.0544|Zapala
--34.0023|-59.4219|Zárate
+-51.5839|-72.2138|28 de Noviembre|Santa Cruz|4686|
+-22.7205|-65.6970|Abra Pampa|Jujuy|9425|
+-33.1754|-64.9933|Achiras|Córdoba|2173|
+-33.6315|-64.0210|Adelia María|Córdoba|6434|
+-37.1605|-64.2251|Adolfo Alsina|Buenos Aires|0|
+-37.9380|-60.9030|Adolfo Gonzáles Chaves|Buenos Aires|0|
+-34.8004|-58.3838|Adrogué|Buenos Aires|28265|
+-34.5922|-58.5000|Agronomía|Autonomous City of Buenos Aires|0|
+-31.0666|-64.3002|Agua de Oro|Córdoba|1553|
+-27.4338|-65.6143|Aguilares|Tucumán|32494|
+-28.5600|-66.8074|Aimogasta|La Rioja|16625|
+-27.5698|-54.6826|Alba Posse|Misiones|6652|
+-31.4372|-68.5256|Albardón|San Juan|20413|
+-35.0277|-60.5841|Alberti|Buenos Aires|9254|
+-32.6232|-58.7051|Aldea San Antonio|Entre Ríos|1127|
+-26.8167|-65.1333|Alderetes|Tucumán|38466|
+-33.3537|-63.7185|Alejandro Roca|Córdoba|4724|
+-33.6064|-62.6230|Alejo Ledesma|Córdoba|3310|
+-38.9774|-67.8271|Allen|Río Negro|27707|
+-32.1930|-64.2556|Almafuerte|Córdoba|10534|
+-27.5083|-55.4026|Almafuerte|Misiones|1022|
+-34.6099|-58.4432|Almagro|Autonomous City of Buenos Aires|0|
+-34.8320|-58.4525|Almirante Brown|Buenos Aires|0|
+-37.3770|-63.7745|Alpachiri|La Pampa|2138|
+-31.6529|-64.4283|Alta Gracia|Córdoba|40384|
+-35.3335|-64.1150|Alta Italia|La Pampa|1481|
+-45.0410|-70.8198|Alto Río Senguer|Chubut|1700|
+-30.9559|-62.3373|Altos de Chipión|Córdoba|2032|
+-39.2369|-70.9197|Aluminé|Neuquén|3720|
+-29.0968|-56.5504|Alvear|Corrientes|7917|
+-28.4606|-62.8347|Añatuya|Santiago del Estero|20261|
+-28.8125|-65.5015|Ancasti|Catamarca|3082|
+-37.1795|-70.6691|Andacollo|Neuquén|2627|
+-27.5818|-66.3163|Andalgalá|Catamarca|14311|
+-38.3544|-68.7884|Añelo|Neuquén|6304|
+-36.5257|-64.0102|Anguil|La Pampa|2099|
+-26.0594|-67.4064|Antofagasta de la Sierra|Catamarca|1185|
+-24.4328|-63.9954|Apolinario Saravia|Salta|9480|
+-27.9142|-55.7535|Apóstoles|Misiones|30278|
+-32.2425|-60.1611|Aranguren|Entre Ríos|1581|
+-35.6390|-64.3562|Arata|La Pampa|1202|
+-28.5807|-66.7925|Arauco|La Rioja|13720|
+-33.6441|-62.4027|Arias|Córdoba|6928|
+-27.0963|-54.8963|Aristóbulo del Valle|Misiones|14608|
+-32.7822|-61.6022|Armstrong|Santa Fe|11181|
+-34.0060|-60.3378|Arrecifes|Buenos Aires|30397|
+-31.4202|-63.0500|Arroyito|Córdoba|19577|
+-32.4912|-63.4013|Arroyo Cabral|Córdoba|2727|
+-27.6975|-55.4038|Arroyo del Medio|Misiones|2142|
+-33.1549|-60.5086|Arroyo Seco|Santa Fe|20620|
+-30.2328|-61.7286|Arrufó|Santa Fe|2190|
+-34.6613|-58.3880|Avellaneda|Buenos Aires|367554|
+-29.1176|-59.6583|Avellaneda|Santa Fe|23341|
+-26.6853|-60.7292|Aviá Terai|Chaco|6821|
+-36.9737|-59.0890|Ayacucho|Buenos Aires|18916|
+-28.0616|-55.6780|Azara|Misiones|4382|
+-36.8278|-60.9925|Azul|Buenos Aires|64884|
+-38.5880|-62.5079|Bahía Blanca|Buenos Aires|299101|
+-37.7545|-58.9308|Balcarce|Buenos Aires|44409|
+-31.0088|-62.6673|Balnearia|Córdoba|6747|
+-34.6093|-58.4238|Balvanera|Autonomous City of Buenos Aires|152198|
+-34.7456|-58.3937|Banfield|Buenos Aires|61072|
+-33.9065|-59.8182|Baradero|Buenos Aires|35389|
+-34.6445|-58.4052|Barracas|Autonomous City of Buenos Aires|77474|
+-36.8234|-69.9156|Barrancas|Neuquén|1098|
+-27.4813|-58.9393|Barranqueras|Chaco|50823|
+-27.8854|-59.2824|Basail|Chaco|3652|
+-27.6495|-67.0263|Belén|Catamarca|15172|
+-34.5554|-58.4714|Belgrano|Autonomous City of Buenos Aires|138942|
+-31.2818|-61.4109|Bella Italia|Santa Fe|1100|
+-34.5651|-58.6903|Bella Vista|Buenos Aires|79737|
+-27.0342|-65.3020|Bella Vista|Tucumán|15126|
+-32.6259|-62.6887|Bell Ville|Córdoba|35105|
+-27.8291|-64.0610|Beltrán|Santiago del Estero|5321|
+-37.5859|-60.5238|Benito Juárez|Buenos Aires|15777|
+-34.8433|-58.3074|Berazategui|Buenos Aires|180523|
+-34.8982|-57.9024|Berisso|Buenos Aires|88470|
+-26.2552|-53.6458|Bernardo de Irigoyen|Misiones|10889|
+-35.0245|-63.5825|Bernardo Larroudé|La Pampa|1619|
+-37.9046|-63.7424|Bernasconi|La Pampa|1781|
+-27.5507|-57.5346|Berón de Astrada|Corrientes|0|
+-32.4510|-64.3887|Berrotarán|Córdoba|6446|
+-34.6304|-58.4397|Boedo|Autonomous City of Buenos Aires|48231|
+-36.2891|-61.7874|Bolívar|Buenos Aires|0|
+-29.8171|-57.4297|Bonpland|Corrientes|1063|
+-27.4822|-55.4776|Bonpland|Misiones|2173|
+-31.3431|-59.4451|Bovril|Entre Ríos|7977|
+-35.0257|-61.2537|Bragado|Buenos Aires|38794|
+-35.1951|-58.4982|Brandsen|Buenos Aires|0|
+-30.8659|-62.0374|Brinkmann|Córdoba|11241|
+-34.7226|-63.5092|Buchardo|Córdoba|0|
+-34.7565|-65.2538|Buena Esperanza|San Luis|2531|
+-34.6131|-58.3772|Buenos Aires|Buenos Aires F.D.|2891082|
+-26.4992|-64.7421|Burruyacú|Tucumán|0|
+-34.8258|-58.3950|Burzaco|Buenos Aires|98859|
+-37.0522|-69.8771|Buta Ranquil|Neuquén|2221|
+-34.6166|-58.4653|Caballito|Autonomous City of Buenos Aires|0|
+-25.1203|-66.1652|Cachí|Salta|2189|
+-26.0833|-65.8333|Cafayate|Salta|16836|
+-23.7407|-64.5937|Caimancito|Jujuy|5403|
+-29.8877|-60.2870|Calchaquí|Santa Fe|10221|
+-46.4393|-67.5281|Caleta Olivia|Santa Cruz|56310|
+-35.5956|-64.5578|Caleufú|La Pampa|2184|
+-23.7737|-64.7700|Calilegua|Jujuy|5174|
+-31.3339|-69.4208|Calingasta|San Juan|2722|
+-44.7971|-65.7099|Camarones|Chubut|1079|
+-33.1275|-62.0945|Camilo Aldao|Córdoba|4895|
+-34.1608|-59.2202|Campana|Buenos Aires|86860|
+-26.5833|-62.8500|Campo Gallo|Santiago del Estero|5455|
+-27.2077|-54.9798|Campo Grande|Misiones|9245|
+-26.8008|-60.8421|Campo Largo|Chaco|10743|
+-24.9098|-65.6366|Campo Quijano|Salta|13370|
+-27.4549|-55.0212|Campo Ramón|Misiones|10088|
+-27.3327|-55.0565|Campo Viera|Misiones|9228|
+-32.8164|-61.3949|Cañada de Gómez|Santa Fe|36000|
+-30.7334|-63.7238|Cañada de Luque|Córdoba|1054|
+-33.5654|-62.8893|Canals|Córdoba|8343|
+-27.4595|-55.7454|Candelaria|Misiones|11039|
+-32.0604|-65.8248|Candelaria|San Luis|2269|
+-35.1553|-59.0307|Cañuelas|Buenos Aires|41801|
+-28.7744|-66.0475|Capayán|Catamarca|6358|
+-30.8609|-64.5251|Capilla del Monte|Córdoba|9085|
+-26.9300|-55.0608|Capioví|Misiones|5860|
+-32.8226|-60.7185|Capitán Bermúdez|Santa Fe|27060|
+-34.1417|-60.0222|Capitán Sarmiento|Buenos Aires|14887|
+-26.8022|-59.5609|Capitán Solari|Chaco|2123|
+-26.6059|-54.7809|Caraguatay|Misiones|3287|
+-32.8568|-61.1533|Carcarañá|Santa Fe|15619|
+-35.7222|-62.0378|Carlos Casares|Buenos Aires|19397|
+-35.3945|-63.0624|Carlos Tejedor|Buenos Aires|6671|
+-34.4184|-60.2379|Carmen de Areco|Buenos Aires|15900|
+-40.8025|-62.9835|Carmen de Patagones|Buenos Aires|25982|
+-32.9137|-64.0217|Carnerillo|Córdoba|1575|
+-31.8730|-63.1172|Carrilobo|Córdoba|1522|
+-32.4633|-58.4787|Caseros|Entre Ríos|2109|
+-33.0442|-61.1681|Casilda|Santa Fe|32002|
+-34.6514|-58.6407|Castelar|Buenos Aires|107786|
+-36.0184|-57.9809|Castelli|Buenos Aires|7935|
+-25.9468|-60.6195|Castelli|Chaco|0|
+-30.5795|-65.7270|Castro Barros|La Rioja|4322|
+-37.8791|-67.7956|Catriel|Río Negro|15169|
+-36.4060|-63.4217|Catriló|La Pampa|3743|
+-31.6518|-68.2810|Caucete|San Juan|32454|
+-33.4761|-62.3389|Cavanagh|Córdoba|1150|
+-33.4333|-58.7500|Ceibas|Entre Ríos|1405|
+-38.8295|-68.1318|Centenario|Neuquén|48101|
+-29.8810|-61.9450|Ceres|Santa Fe|13063|
+-27.6331|-55.4962|Cerro Azul|Misiones|5323|
+-27.5131|-55.6090|Cerro Corá|Misiones|1153|
+-39.0544|-67.3943|Cervantes|Río Negro|5173|
+-34.6334|-60.6511|Chacabuco|Buenos Aires|46440|
+-34.5880|-58.4733|Chacarita|Autonomous City of Buenos Aires|0|
+-30.7505|-57.9796|Chajarí|Entre Ríos|30655|
+-30.3600|-66.3140|Chamical|La Rioja|13383|
+-33.3252|-62.0383|Chañar Ladeado|Santa Fe|5639|
+-27.6550|-59.8629|Charadai|Chaco|2538|
+-27.2144|-61.1880|Charata|Chaco|27813|
+-33.0240|-64.0472|Charras|Córdoba|1001|
+-35.5954|-58.5600|Chascomús|Buenos Aires|39947|
+-28.9549|-58.5728|Chavarría|Corrientes|2337|
+-33.0787|-63.2766|Chazón|Córdoba|1010|
+-39.1150|-66.9271|Chichinales|Río Negro|4060|
+-25.1050|-65.5347|Chicoana|Salta|5420|
+-29.1620|-67.4974|Chilecito|La Rioja|42248|
+-31.4833|-68.5333|Chimbas|San Juan|73829|
+-39.1648|-66.1424|Chimpay|Río Negro|3905|
+-34.9079|-60.2843|Chivilcoy|Buenos Aires|65575|
+-39.2894|-65.6606|Choele Choel|Río Negro|13013|
+-27.9158|-61.3998|Chorotis|Chaco|1445|
+-37.3781|-70.2708|Chos Malal|Neuquén|11721|
+-26.5804|-59.6309|Ciervo Petiso|Chaco|1055|
+-38.8222|-68.0629|Cinco Saltos|Río Negro|26399|
+-32.3067|-62.6521|Cintra|Córdoba|1054|
+-38.9339|-67.9903|Cipolletti|Río Negro|95524|
+-32.8509|-68.8360|Ciudad de Las Heras|Mendoza|189067|
+-27.5744|-64.1311|Clodomira|Santiago del Estero|9043|
+-25.2848|-57.7185|Clorinda|Formosa|15000|
+-34.5602|-58.4854|Coghlan|Autonomous City of Buenos Aires|0|
+-34.5746|-58.4619|Colegiales|Autonomous City of Buenos Aires|57000|
+-33.8523|-61.4012|Colón|Buenos Aires|26067|
+-32.2231|-58.1443|Colón|Entre Ríos|58219|
+-27.4743|-54.5250|Colonia Aurora|Misiones|8407|
+-36.1515|-63.8540|Colonia Barón|La Pampa|3317|
+-27.3310|-58.9462|Colonia Benítez|Chaco|3584|
+-31.0220|-64.0617|Colonia Caroya|Cordoba|24197|
+-28.6000|-62.9500|Colonia Dora|Santiago del Estero|2406|
+-32.6714|-58.3254|Colonia Elía|Entre Ríos|1620|
+-26.9304|-59.5186|Colonia Elisa|Chaco|4570|
+-31.2375|-63.0613|Colonia La Tordilla|Córdoba|0|
+-31.5278|-62.7244|Colonia San Bartolomé|Córdoba|1104|
+-26.6983|-59.6315|Colonias Unidas|Chaco|4093|
+-25.9734|-54.5630|Colonia Wanda|Misiones|15529|
+-41.0299|-70.2678|Comallo|Río Negro|1635|
+-25.3345|-59.6821|Comandante Fontana|Formosa|5655|
+-49.9851|-68.9147|Comandante Luis Piedra Buena|Santa Cruz|9278|
+-45.8641|-67.4966|Comodoro Rivadavia|Chubut|140850|
+-32.5601|-65.2427|Concarán|San Luis|4530|
+-28.3917|-57.8878|Concepción|Corrientes|4800|
+-27.9831|-55.5203|Concepción de la Sierra|Misiones|6933|
+-26.5993|-60.9462|Concepción del Bermejo|Chaco|5830|
+-32.4846|-58.2322|Concepción del Uruguay|Entre Ríos|67895|
+-31.3930|-58.0209|Concordia|Entre Ríos|145210|
+-31.0484|-59.0844|Conscripto Bernardi|Entre Ríos|1464|
+-34.6258|-58.3939|Constitución|Autonomous City of Buenos Aires|0|
+-38.7242|-68.1528|Contraalmirante Cordero|Río Negro|0|
+-31.4135|-64.1810|Córdoba|Córdoba|2106734|
+-31.9726|-60.9198|Coronda|Santa Fe|16975|
+-32.8477|-64.3611|Coronel Baigorria|Córdoba|1334|
+-39.1869|-65.9542|Coronel Belisle|Río Negro|1841|
+-35.1680|-58.2374|Coronel Brandsen|Buenos Aires|24487|
+-38.6403|-61.7729|Coronel Dorrego|Buenos Aires|11850|
+-27.6804|-60.9146|Coronel Du Graty|Chaco|9140|
+-33.6227|-64.5971|Coronel Moldes|Córdoba|8104|
+-38.1660|-61.8952|Coronel Pringles|Buenos Aires|21555|
+-38.8149|-62.1473|Coronel Rosales|Buenos Aires|0|
+-37.5303|-63.2532|Coronel Suárez|Buenos Aires|32525|
+-33.2820|-62.1846|Corral de Bustos|Córdoba|9882|
+-32.0246|-64.1922|Corralito|Córdoba|1873|
+-27.4678|-58.8344|Corrientes|Corrientes|346334|
+-26.9537|-60.9693|Corzuela|Chaco|10470|
+-31.2451|-64.4656|Cosquín|Córdoba|19070|
+-31.6477|-63.7593|Costa Sacate|Córdoba|1288|
+-27.5000|-59.6000|Coté-Lai|Chaco|1650|
+-32.0287|-60.3066|Crespo|Entre Ríos|18296|
+-33.0089|-61.8075|Cruz Alta|Córdoba|6862|
+-30.7264|-64.8039|Cruz del Eje|Córdoba|28166|
+-28.8365|-59.0048|Cruz de los Milagros|Corrientes|1768|
+-31.4866|-64.5715|Cuesta Blanca|Córdoba|3200|
+-29.7917|-58.0546|Curuzú Cuatiá|Corrientes|36390|
+-38.9342|-69.2305|Cutral-Có|Neuquén|47380|
+-36.6193|-62.5235|Daireaux|Buenos Aires|13914|
+-32.6107|-63.5804|Dalmacio Vélez Sársfield|Córdoba|0|
+-39.2033|-65.7395|Darwin|Río Negro|1052|
+-30.4204|-64.3498|Deán Funes|Córdoba|20164|
+-34.3766|-64.4950|Del Campillo|Córdoba|3155|
+-24.8333|-65.3333|Departamento Capital|Salta|0|
+-29.3333|-62.5000|Departamento de Aguirre|Santiago del Estero|0|
+-31.2833|-68.4167|Departamento de Albardón|San Juan|0|
+-25.8166|-61.4558|Departamento de Almirante Brown|Chaco|0|
+-39.1667|-71.0000|Departamento de Aluminé|Neuquén|0|
+-28.0000|-65.9167|Departamento de Ambato|Catamarca|0|
+-29.0000|-65.5000|Departamento de Ancasti|Catamarca|0|
+-27.5833|-66.4667|Departamento de Andalgalá|Catamarca|0|
+-38.1667|-69.0000|Departamento de Añelo|Neuquén|0|
+-31.2000|-68.1333|Departamento de Angaco|San Juan|0|
+-24.9167|-64.0000|Departamento de Anta|Salta|0|
+-26.0000|-67.5833|Departamento de Antofagasta de la Sierra|Catamarca|0|
+-27.9167|-55.7500|Departamento de Apóstoles|Misiones|0|
+-28.5000|-66.8333|Departamento de Arauco|La Rioja|0|
+-39.5000|-66.5000|Departamento de Avellaneda|Río Negro|0|
+-27.5000|-64.3333|Departamento de Banda|Santiago del Estero|0|
+-32.5000|-61.7500|Departamento de Belgrano|Santa Fe|0|
+-28.5000|-58.8333|Departamento de Bella Vista|Corrientes|0|
+-27.0000|-58.6667|Departamento de Bermejo|Chaco|0|
+-27.5000|-57.6667|Departamento de Berón de Astrada|Corrientes|0|
+-42.4167|-65.0000|Departamento de Biedma|Chubut|0|
+-26.5000|-64.9167|Departamento de Burruyacú|Tucumán|0|
+-27.1667|-54.8333|Departamento de Cainguás|Misiones|0|
+-32.2500|-64.5833|Departamento de Calamuchita|Córdoba|0|
+-38.5833|-64.0000|Departamento de Caleu-Caleu|La Pampa|0|
+-31.5000|-69.7500|Departamento de Calingasta|San Juan|0|
+-27.5000|-55.5000|Departamento de Candelaria|Misiones|0|
+-28.8333|-66.0000|Departamento de Capayán|Catamarca|0|
+-28.4167|-65.8000|Departamento de Capital|Catamarca|0|
+-27.5000|-58.7500|Departamento de Capital|Corrientes|0|
+-32.8847|-68.8583|Departamento de Capital|Mendoza|0|
+-27.5000|-55.8333|Departamento de Capital|Misiones|0|
+-31.5333|-68.5333|Departamento de Capital|San Juan|0|
+-26.8283|-65.2113|Departamento de Capital|Tucumán|0|
+-33.2500|-61.6667|Departamento de Caseros|Santa Fe|0|
+-31.1667|-61.6667|Departamento de Castellanos|Santa Fe|0|
+-39.5000|-70.3333|Departamento de Catán-Lil|Neuquén|0|
+-31.4500|-67.6667|Departamento de Caucete|San Juan|0|
+-25.0000|-65.4167|Departamento de Cerrillos|Salta|0|
+-25.1158|-65.5947|Departamento de Chicoana|Salta|0|
+-31.4874|-68.5269|Departamento de Chimbas|San Juan|0|
+-36.9167|-70.1667|Departamento de Chos-Malal|Neuquén|0|
+-28.7500|-64.7500|Departamento de Choya|Santiago del Estero|0|
+-23.0000|-65.8333|Departamento de Cochinoca|Jujuy|0|
+-40.0833|-70.1667|Departamento de Collón-Curá|Neuquén|0|
+-31.1667|-64.1667|Departamento de Colón|Córdoba|0|
+-26.8333|-60.5000|Departamento de Comandante Fernández|Chaco|0|
+-28.3333|-58.0000|Departamento de Concepción|Corrientes|0|
+-27.8333|-55.4167|Departamento de Concepción de la Sierra|Misiones|0|
+-38.8333|-68.8333|Departamento de Confluencia|Neuquén|0|
+-33.5000|-60.9167|Departamento de Constitución|Santa Fe|0|
+-26.9167|-64.9167|Departamento de Cruz Alta|Tucumán|0|
+-30.7500|-65.0000|Departamento de Cruz del Eje|Córdoba|0|
+-29.5000|-58.5000|Departamento de Curuzú Cuatiá|Corrientes|0|
+-42.5000|-70.8333|Departamento de Cushamen|Chubut|0|
+-47.3333|-67.8333|Departamento de Deseado|Santa Cruz|0|
+-27.4167|-61.3333|Departamento de Doce de Octubre|Chaco|0|
+-27.6093|-61.3447|Departamento de Dos de Abril|Chaco|0|
+-28.4167|-65.4167|Departamento de El Alto|Catamarca|0|
+-26.2500|-54.4167|Departamento de Eldorado|Misiones|0|
+-27.8333|-58.6667|Departamento de Empedrado|Corrientes|0|
+-45.3333|-67.3333|Departamento de Escalante|Chubut|0|
+-30.0000|-59.3333|Departamento de Esquina|Corrientes|0|
+-26.9167|-65.5000|Departamento de Famaillá|Tucumán|0|
+-44.4167|-66.1667|Departamento de Florentino Ameghino|Chubut|0|
+-28.3000|-65.7500|Departamento de Fray Mamerto Esquiú|Catamarca|0|
+-43.0833|-71.4167|Departamento de Futaleufú|Chubut|0|
+-43.3333|-66.3333|Departamento de Gaimán|Chubut|0|
+-42.8333|-68.6667|Departamento de Gastre|Chubut|0|
+-28.8333|-56.5000|Departamento de General Alvear|Corrientes|0|
+-35.1667|-67.3333|Departamento de General Alvear|Mendoza|0|
+-27.1667|-59.3333|Departamento de General Donovan|Chaco|0|
+-25.1667|-61.4167|Departamento de General Güemes|Chaco|0|
+-24.7946|-64.9439|Departamento de General Güemes|Salta|0|
+-28.8333|-68.6667|Departamento de General Lamadrid|La Rioja|0|
+-26.1667|-53.9167|Departamento de General Manuel Belgrano|Misiones|0|
+-27.7500|-57.8333|Departamento de General Paz|Corrientes|0|
+-34.6667|-64.2500|Departamento de General Roca|Córdoba|0|
+-32.5000|-63.3333|Departamento de General San Martín|Córdoba|0|
+-32.9333|-68.8667|Departamento de Godoy Cruz|Mendoza|0|
+-29.5000|-59.5000|Departamento de Goya|Corrientes|0|
+-27.7500|-65.3333|Departamento de Graneros|Tucumán|0|
+-25.6667|-65.5000|Departamento de Guachipas|Salta|0|
+-33.2500|-59.0000|Departamento de Gualeguaychú|Entre Ríos|0|
+-27.1667|-54.1667|Departamento de Guaraní|Misiones|0|
+-28.0000|-64.8333|Departamento de Guasayán|Santiago del Estero|0|
+-32.8833|-68.7000|Departamento de Guaymallén|Mendoza|0|
+-51.3333|-70.3333|Departamento de Güer Aike|Santa Cruz|0|
+-29.3333|-69.5833|Departamento de Iglesia|San Juan|0|
+-25.8667|-54.3667|Departamento de Iguazú|Misiones|0|
+-26.6667|-60.6667|Departamento de Independencia|Chaco|0|
+-30.1667|-67.4167|Departamento de Independencia|La Rioja|0|
+-22.8000|-64.9167|Departamento de Iruya|Salta|0|
+-27.3333|-58.0000|Departamento de Itatí|Corrientes|0|
+-27.9008|-56.8660|Departamento de Ituzaingó|Corrientes|0|
+-30.5000|-68.5000|Departamento de Jáchal|San Juan|0|
+-33.3333|-63.6667|Departamento de Juárez Celman|Córdoba|0|
+-31.5000|-60.6667|Departamento de La Capital|Santa Fe|0|
+-40.2500|-71.2000|Departamento de Lácar|Neuquén|0|
+-27.7778|-65.5711|Departamento de La Cocha|Tucumán|0|
+-49.7500|-72.0000|Departamento de Lago Argentino|Santa Cruz|0|
+-43.3333|-70.6667|Departamento de Languiñeo|Chubut|0|
+-29.2500|-65.2500|Departamento de La Paz|Catamarca|0|
+-33.6667|-67.2500|Departamento de La Paz|Mendoza|0|
+-24.1667|-66.1667|Departamento de La Poma|Salta|0|
+-32.5000|-69.5000|Departamento de Las Heras|Mendoza|0|
+-29.0000|-58.9167|Departamento de Lavalle|Corrientes|0|
+-32.5000|-68.0000|Departamento de Lavalle|Mendoza|0|
+-25.5000|-65.6667|Departamento de La Viña|Salta|0|
+-27.5667|-55.3333|Departamento de Leandro N. Alem|Misiones|0|
+-27.3333|-59.3333|Departamento de Libertad|Chaco|0|
+-26.9167|-54.9167|Departamento de Libertador General San Martín|Misiones|0|
+-28.5500|-64.3333|Departamento de Loreto|Santiago del Estero|0|
+-24.5000|-67.3333|Departamento de Los Andes|Salta|0|
+-33.0000|-69.3333|Departamento de Luján|Mendoza|0|
+-26.9289|-65.3385|Departamento de Lules|Tucumán|0|
+-48.7500|-68.5000|Departamento de Magallanes|Santa Cruz|0|
+-26.3333|-60.4167|Departamento de Maipú|Chaco|0|
+-33.0000|-68.5833|Departamento de Maipú|Mendoza|0|
+-36.2500|-69.2500|Departamento de Malargüe|Mendoza|0|
+-33.0000|-62.2500|Departamento de Marcos Juárez|Córdoba|0|
+-43.8333|-67.1667|Departamento de Mártires|Chubut|0|
+-28.0000|-58.2500|Departamento de Mburucuyá|Corrientes|0|
+-29.0000|-57.8333|Departamento de Mercedes|Corrientes|0|
+-25.5000|-64.6667|Departamento de Metán|Salta|0|
+-31.0000|-65.3333|Departamento de Minas|Córdoba|0|
+-36.8333|-70.8333|Departamento de Minas|Neuquén|0|
+-26.7167|-54.5833|Departamento de Montecarlo|Misiones|0|
+-30.2500|-57.8333|Departamento de Monte Caseros|Corrientes|0|
+-27.1667|-65.5833|Departamento de Monteros|Tucumán|0|
+-27.3333|-62.5000|Departamento de Moreno|Santiago del Estero|0|
+-26.9533|-61.2763|Departamento de Nueve de Julio|Chaco|0|
+-31.6507|-68.3893|Departamento de Nueve de Julio|San Juan|0|
+-28.8333|-61.3333|Departamento de Nueve de Julio|Santa Fe|0|
+-27.5500|-55.0833|Departamento de Oberá|Misiones|0|
+-27.2500|-60.6667|Departamento de O’Higgins|Chaco|0|
+-31.6667|-60.0000|Departamento de Paraná|Entre Ríos|0|
+-44.0000|-68.8333|Departamento de Paso de Indios|Chubut|0|
+-29.6667|-57.2500|Departamento de Paso de los Libres|Corrientes|0|
+-25.5000|-58.0833|Departamento de Pilcomayo|Formosa|0|
+-28.2500|-66.4167|Departamento de Pomán|Catamarca|0|
+-27.0000|-59.7500|Departamento de Presidencia de la Plaza|Chaco|0|
+-34.2500|-63.5000|Departamento de Presidente Roque Sáenz Peña|Córdoba|0|
+-26.6667|-60.1667|Departamento de Quitilipi|Chaco|0|
+-43.1234|-65.1018|Departamento de Rawson|Chubut|0|
+-31.7000|-68.4667|Departamento de Rawson|San Juan|0|
+-22.5000|-66.5000|Departamento de Rinconada|Jujuy|0|
+-48.2500|-71.0000|Departamento de Río Chico|Santa Cruz|0|
+-27.4337|-65.7667|Departamento de Río Chico|Tucumán|0|
+-33.3333|-64.5000|Departamento de Río Cuarto|Córdoba|0|
+-27.5833|-64.7500|Departamento de Río Hondo|Santiago del Estero|0|
+-31.0833|-63.5000|Departamento de Río Primero|Córdoba|0|
+-30.0833|-63.0000|Departamento de Río Seco|Córdoba|0|
+-31.7500|-63.5000|Departamento de Río Segundo|Córdoba|0|
+-45.3333|-70.8333|Departamento de Río Senguerr|Chubut|0|
+-33.1800|-68.4660|Departamento de Rivadavia|Mendoza|0|
+-23.6667|-62.9167|Departamento de Rivadavia|Salta|0|
+-31.5645|-68.6522|Departamento de Rivadavia|San Juan|0|
+-27.8333|-63.9167|Departamento de Robles|Santiago del Estero|0|
+-25.9167|-64.8333|Departamento de Rosario de la Frontera|Salta|0|
+-24.5833|-65.8333|Departamento de Rosario de Lerma|Salta|0|
+-28.2500|-58.7500|Departamento de Saladas|Corrientes|0|
+-31.7500|-65.2500|Departamento de San Alberto|Córdoba|0|
+-34.0000|-69.0000|Departamento de San Carlos|Mendoza|0|
+-25.7500|-66.0833|Departamento de San Carlos|Salta|0|
+-27.3333|-58.5000|Departamento de San Cosme|Corrientes|0|
+-30.3333|-61.3333|Departamento de San Cristóbal|Santa Fe|0|
+-27.6667|-59.1667|Departamento de San Fernando|Chaco|0|
+-27.2500|-55.3333|Departamento de San Ignacio|Misiones|0|
+-32.0833|-65.1667|Departamento de San Javier|Córdoba|0|
+-27.7781|-55.1300|Departamento de San Javier|Misiones|0|
+-30.3333|-59.9167|Departamento de San Javier|Santa Fe|0|
+-31.3333|-62.6667|Departamento de San Justo|Córdoba|0|
+-30.6667|-60.5000|Departamento de San Justo|Santa Fe|0|
+-27.3333|-60.4167|Departamento de San Lorenzo|Chaco|0|
+-33.0000|-61.0000|Departamento de San Lorenzo|Santa Fe|0|
+-27.5000|-58.2500|Departamento de San Luis del Palmar|Corrientes|0|
+-28.8333|-56.9167|Departamento de San Martín|Corrientes|0|
+-32.8373|-68.2492|Departamento de San Martín|Mendoza|0|
+-31.5000|-68.2500|Departamento de San Martín|San Juan|0|
+-32.0000|-61.8333|Departamento de San Martín|Santa Fe|0|
+-28.1667|-63.8333|Departamento de San Martín|Santiago del Estero|0|
+-27.9167|-57.5000|Departamento de San Miguel|Corrientes|0|
+-26.6667|-54.0000|Departamento de San Pedro|Misiones|0|
+-35.0000|-68.8333|Departamento de San Rafael|Mendoza|0|
+-28.6667|-58.7500|Departamento de San Roque|Corrientes|0|
+-31.5333|-68.4667|Departamento de Santa Lucía|San Juan|0|
+-26.6667|-66.4167|Departamento de Santa María|Catamarca|0|
+-28.0833|-65.2500|Departamento de Santa Rosa|Catamarca|0|
+-33.5000|-68.0000|Departamento de Santa Rosa|Mendoza|0|
+-28.2500|-56.2500|Departamento de Santo Tomé|Corrientes|0|
+-26.8333|-59.5000|Departamento de Sargento Cabral|Chaco|0|
+-45.3333|-69.0000|Departamento de Sarmiento|Chubut|0|
+-32.0000|-68.6667|Departamento de Sarmiento|San Juan|0|
+-28.0833|-63.4167|Departamento de Sarmiento|Santiago del Estero|0|
+-30.0000|-58.6667|Departamento de Sauce|Corrientes|0|
+-27.2636|-65.3561|Departamento de Simoca|Tucumán|0|
+-29.6667|-64.0833|Departamento de Sobremonte|Córdoba|0|
+-27.5000|-59.7500|Departamento de Tapenagá|Chaco|0|
+-44.2213|-70.2526|Departamento de Tehuelches|Chubut|0|
+-42.4167|-67.1667|Departamento de Telsen|Chubut|0|
+-27.5000|-68.0000|Departamento de Tinogasta|Catamarca|0|
+-36.5833|-64.8000|Departamento de Toay|La Pampa|0|
+-30.8333|-63.9167|Departamento de Totoral|Córdoba|0|
+-26.4167|-65.5000|Departamento de Trancas|Tucumán|0|
+-30.2500|-63.9167|Departamento de Tulumba|Córdoba|0|
+-23.7167|-65.6667|Departamento de Tumbaya|Jujuy|0|
+-33.6667|-69.5000|Departamento de Tunuyán|Mendoza|0|
+-33.2500|-69.2500|Departamento de Tupungato|Mendoza|0|
+-31.0000|-68.9167|Departamento de Ullúm|San Juan|0|
+-32.8333|-62.7500|Departamento de Unión|Córdoba|0|
+-28.5833|-65.7500|Departamento de Valle Viejo|Catamarca|0|
+-27.4167|-54.6667|Departamento de Veinticinco de Mayo|Misiones|0|
+-41.2500|-69.0000|Departamento de Veinticinco de Mayo|Río Negro|0|
+-29.0000|-60.5000|Departamento de Vera|Santa Fe|0|
+-26.8183|-65.3173|Departamento de Yerba Buena|Tucumán|0|
+-39.0000|-69.8333|Departamento de Zapala|Neuquén|0|
+-31.6826|-68.8994|Departamento de Zonda|San Juan|0|
+-31.8163|-64.2899|Despeñaderos|Córdoba|5645|
+-31.4043|-62.3063|Devoto|Córdoba|5597|
+-32.0664|-60.6384|Diamante|Entre Ríos|19545|
+-37.1497|-64.0118|Doblas|La Pampa|1860|
+-43.3068|-65.7065|Dolavón|Chubut|2929|
+-36.4147|-58.3246|Dolores|Buenos Aires|30372|
+-31.9871|-58.9620|Domínguez|Entre Ríos|0|
+-34.4946|-58.6273|Don Torcuato|Buenos Aires|71356|
+-27.6995|-55.2521|Dos Arroyos|Misiones|3079|
+-27.0228|-54.6867|Dos de Mayo|Misiones|14544|
+-35.9150|-64.2945|Eduardo Castex|La Pampa|10125|
+-23.2157|-65.6800|El Aguilar|Jujuy|3655|
+-26.7146|-54.8152|El Alcázar|Misiones|3285|
+-31.7412|-62.8932|El Arañado|Córdoba|1395|
+-41.9605|-71.5334|El Bolsón|Río Negro|21287|
+-50.3407|-72.2768|El Calafate|Santa Cruz|22844|
+-25.0741|-65.4917|El Carril|Salta|13124|
+-26.3081|-59.3729|El Colorado|Formosa|12780|
+-39.9269|-68.3421|El Cuy|Río Negro|510|
+-26.4045|-54.6185|Eldorado|Misiones|54189|
+-32.5720|-64.3948|Elena|Córdoba|2815|
+-25.3807|-64.6526|El Galpón|Salta|8357|
+-27.0287|-63.2320|El Hoyo|Santiago del Estero|2162|
+-37.6452|-70.5801|El Huecú|Neuquén|1399|
+-42.0492|-71.1669|El Maitén|Chubut|3782|
+-34.6177|-58.6015|El Palomar|Buenos Aires|59031|
+-25.2833|-64.0667|El Quebrachal|Salta|10243|
+-28.2152|-65.8742|El Rodeo|Catamarca|1083|
+-27.2985|-54.1988|El Soberbio|Misiones|19571|
+-31.3836|-62.8294|El Tío|Córdoba|1510|
+-32.2008|-61.7014|El Trébol|Santa Fe|10871|
+-35.3863|-64.2809|Embajador Martini|La Pampa|1298|
+-32.1800|-64.4181|Embalse|Córdoba|15900|
+-23.2100|-64.0996|Embarcación|Salta|23961|
+-27.9518|-58.8058|Empedrado|Corrientes|0|
+-34.8416|-58.0627|Ensenada|Buenos Aires|63978|
+-34.3425|-58.9400|Escobar|Buenos Aires|0|
+-31.4488|-60.9317|Esperanza|Santa Fe|35885|
+-42.9115|-71.3195|Esquel|Chubut|28486|
+-30.0148|-59.5289|Esquina|Corrientes|26399|
+-25.0550|-60.0922|Estanislao del Campo|Formosa|4055|
+-34.8241|-58.6336|Esteban Echeverríar|Buenos Aires|0|
+-32.9401|-63.2466|Etruria|Córdoba|3788|
+-34.3123|-59.3130|Exaltación de la Cruz|Buenos Aires|0|
+-34.8736|-58.7351|Ezeiza|Buenos Aires|115021|
+-27.0541|-65.4033|Famaillá|Tucumán|30951|
+-31.0062|-57.8996|Federación|Entre Ríos|13789|
+-30.9547|-58.7833|Federal|Entre Ríos|16333|
+-29.1023|-58.3377|Felipe Yofré|Corrientes|1947|
+-27.6722|-67.6187|Fiambalá|Catamarca|5510|
+-33.4594|-61.4832|Firmat|Santa Fe|18294|
+-34.8887|-58.4212|Florencio Varela|Buenos Aires|0|
+-34.8862|-62.7030|Florentino Ameghino|Buenos Aires|9099|
+-27.5667|-55.1333|Florentino Ameghino|Misiones|1979|
+-34.6353|-58.4988|Flores|Autonomous City of Buenos Aires|0|
+-34.6278|-58.5054|Floresta|Autonomous City of Buenos Aires|0|
+-27.4181|-59.0239|Fontana|Chaco|26745|
+-26.1849|-58.1731|Formosa|Formosa|222226|
+-23.9408|-64.7994|Fraile Pintado|Jujuy|13682|
+-32.7912|-60.7282|Fray Luis A. Beltrán|Santa Fe|14390|
+-39.3137|-65.7600|Fray Luis Beltrán|Río Negro|6313|
+-32.9157|-60.8100|Funes|Santa Fe|14750|
+-43.2897|-65.4929|Gaimán|Chubut|5753|
+-32.0293|-61.2210|Gálvez|Santa Fe|18374|
+-27.4904|-61.6757|Gancedo|Chaco|3737|
+-28.1721|-55.6541|Garruchos|Corrientes|1152|
+-26.8177|-54.9567|Garuhapé|Misiones|8259|
+-27.4817|-55.8292|Garupá|Misiones|28814|
+-42.2619|-69.2211|Gastre|Chubut|0|
+-28.0222|-61.1866|Gato Colorado|Santa Fe|1412|
+-37.3770|-64.6043|General Acha|La Pampa|15101|
+-38.1998|-58.3898|General Alvarado|Buenos Aires|0|
+-36.0384|-60.7672|General Alvear|Buenos Aires|9209|
+-34.9775|-67.6962|General Alvear|Mendoza|35626|
+-27.4261|-55.1692|General Alvear|Misiones|1431|
+-34.2381|-61.6126|General Arenales|Buenos Aires|0|
+-33.1225|-62.3063|General Baldissera|Córdoba|2133|
+-35.8419|-59.0454|General Belgrano|Buenos Aires|19056|
+-32.8131|-63.8724|General Cabrera|Córdoba|10351|
+-31.5231|-58.4049|General Campos|Entre Ríos|2982|
+-40.1041|-64.4559|General Conesa|Río Negro|6432|
+-39.0789|-67.1581|General Enrique Godoy|Río Negro|3823|
+-23.2167|-62.3000|General Enrique Mosconi|Formosa|0|
+-22.5959|-63.8126|General Enrique Mosconi|Salta|0|
+-38.9530|-67.9249|General Fernández Oro|Río Negro|14675|
+-32.7203|-59.3961|General Galarza|Entre Ríos|4150|
+-24.6745|-65.0466|General Güemes|Salta|38048|
+-36.6738|-58.6330|General Guido|Buenos Aires|1647|
+-26.5374|-59.3416|General José de San Martín|Chaco|31758|
+-37.0020|-57.1358|General Juan Madariaga|Buenos Aires|21461|
+-37.3989|-61.9738|General La Madrid|Buenos Aires|9400|
+-34.9093|-59.3278|General Las Heras|Buenos Aires|0|
+-36.6701|-57.6728|General Lavalle|Buenos Aires|2445|
+-34.0147|-63.9241|General Levalle|Córdoba|5492|
+-37.1558|-57.9066|General Madariaga|Buenos Aires|0|
+-37.4603|-63.5854|General Manuel J. Campos|La Pampa|1016|
+-22.5962|-63.8110|General Mosconi|Salta|19811|
+-34.4526|-58.6431|General Pacheco|Buenos Aires|43287|
+-35.4736|-58.6969|General Paz|Buenos Aires|0|
+-35.6566|-63.7568|General Pico|La Pampa|66805|
+-27.3167|-61.2833|General Pinedo|Chaco|15741|
+-34.6831|-62.3405|General Pinto|Buenos Aires|0|
+-37.9715|-58.1122|General Pueyrredón|Buenos Aires|0|
+-32.1760|-60.2008|General Ramírez|Entre Ríos|8614|
+-32.7320|-61.9160|General Roca|Córdoba|2597|
+-39.0333|-67.5833|General Roca|Río Negro|73212|
+-34.6397|-59.1647|General Rodríguez|Buenos Aires|0|
+-34.5438|-58.6470|General San Martín|Buenos Aires|0|
+-37.9790|-63.6045|General San Martín|La Pampa|2846|
+-26.9338|-58.6604|General Vedia|Chaco|3513|
+-34.9775|-61.4015|General Viamonte|Buenos Aires|0|
+-34.8736|-63.4866|General Villegas|Buenos Aires|22474|
+-44.0499|-70.5980|Gobernador Costa|Chubut|2185|
+-33.0302|-60.6405|Gobernador Gálvez|Santa Fe|74650|
+-48.7506|-70.2474|Gobernador Gregores|Santa Cruz|5343|
+-28.9116|-58.9359|Gobernador Juan E. Martínez|Corrientes|3529|
+-32.5445|-59.3548|Gobernador Mansilla|Entre Ríos|2264|
+-27.1864|-55.4643|Gobernador Roca|Misiones|6315|
+-28.0500|-56.0333|Gobernador Virasora|Corrientes|28756|
+-32.9286|-68.8351|Godoy Cruz|Mendoza|0|
+-29.1399|-59.2634|Goya|Corrientes|70245|
+-32.8568|-60.7175|Granadero Baigorria|Santa Fe|32427|
+-27.6493|-65.4383|Graneros|Tucumán|5263|
+-33.1416|-59.3097|Gualeguay|Entre Ríos|33120|
+-33.0094|-58.5172|Gualeguaychú|Entre Ríos|78676|
+-36.8998|-63.0727|Guaminí|Buenos Aires|3001|
+-27.5232|-55.1608|Guaraní|Misiones|4530|
+-33.4615|-62.4384|Guatimozín|Córdoba|2524|
+-37.6678|-63.5302|Guatraché|La Pampa|5271|
+-34.6424|-58.5921|Haedo|Buenos Aires|37745|
+-31.5123|-59.8355|Hasenkamp|Entre Ríos|4413|
+-31.0983|-60.0883|Helvecia|Santa Fe|0|
+-27.5652|-58.2556|Herlitzka|Corrientes|1166|
+-27.6082|-61.3444|Hermoso Campo|Chaco|7435|
+-32.3373|-60.0216|Hernández|Entre Ríos|1801|
+-32.4266|-63.7333|Hernando|Córdoba|10486|
+-26.4870|-58.3120|Herradura|Formosa|2333|
+-32.4340|-58.6318|Herrera|Entre Ríos|1587|
+-30.0045|-61.8408|Hersilia|Santa Fe|3000|
+-36.2710|-61.9887|Hipólito Yrigoyen|Buenos Aires|0|
+-42.0719|-71.5081|Hoyo de Epuyén|Chubut|0|
+-27.2290|-66.8313|Hualfín|Catamarca|1095|
+-33.6665|-63.6370|Huanchillas|Córdoba|1020|
+-31.0752|-64.4906|Huerta Grande|Córdoba|5630|
+-28.7253|-65.9787|Huillapima|Catamarca|2829|
+-34.8404|-64.3758|Huinca Renancó|Córdoba|8637|
+-23.2054|-65.3505|Humahuaca|Jujuy|11369|
+-34.5980|-58.6962|Hurlingham|Buenos Aires|60000|
+-25.2144|-59.8585|Ibarreta|Formosa|8687|
+-28.9193|-65.3282|Icaño|Catamarca|3223|
+-32.8141|-63.0325|Idiazábal|Córdoba|1567|
+-23.9000|-61.8500|Ingeniero Guillermo N. Juárez|Formosa|10357|
+-41.3292|-69.5502|Ingeniero Jacobacci|Río Negro|8088|
+-35.3858|-64.4652|Ingeniero Luiggi|La Pampa|4671|
+-39.0715|-67.2379|Ingeniero Luis A. Huergo|Río Negro|6483|
+-34.4778|-58.7065|Ingeniero Pablo Nogués|Buenos Aires|38470|
+-24.2255|-64.8390|Ingenio La Esperanza|Jujuy|0|
+-32.9442|-62.2303|Inriville|Córdoba|3778|
+-35.2338|-63.5921|Intendente Alvear|La Pampa|8295|
+-32.6333|-61.3333|Iriondo Department|Santa Fe|0|
+-34.7000|-58.5874|Isidro Casanova|Buenos Aires|131981|
+-33.2410|-62.4030|Isla Verde|Córdoba|4245|
+-27.4257|-57.3376|Itá Ibaté|Corrientes|4115|
+-34.7924|-63.7820|Italó|Córdoba|1139|
+-27.2704|-58.2446|Itatí|Corrientes|7902|
+-34.6397|-58.7737|Ituzaingó|Buenos Aires|0|
+-27.5816|-56.6823|Ituzaingó|Corrientes|168419|
+-38.0861|-63.4317|Jacinto Arauz|La Pampa|2773|
+-32.1612|-63.4669|James Craik|Córdoba|4560|
+-27.0435|-55.2270|Jardín América|Misiones|24905|
+-30.9815|-64.0942|Jesús María|Córdoba|36343|
+-25.1136|-64.1263|Joaquín V. González|Salta|19185|
+-34.5043|-58.8546|José C. Paz|Buenos Aires|230208|
+-44.0503|-70.4697|José de San Martín|Chubut|1453|
+-25.9466|-60.6201|Juan José Castelli|Chaco|36588|
+-33.2754|-66.3202|Juan Martín de Pueyrredón|San Luis|0|
+-30.4187|-57.8561|Juan Pujol|Corrientes|1487|
+-34.5461|-61.3308|Junín|Buenos Aires|87509|
+-39.9504|-71.0694|Junín de los Andes|Neuquén|10592|
+-32.8841|-62.6779|Justiniano Posse|Córdoba|7406|
+-33.8594|-65.1828|Justo Daract|San Luis|9680|
+-38.9833|-64.0833|La Adela|La Pampa|2395|
+-27.7335|-64.2428|La Banda|Santiago del Estero|0|
+-34.6376|-58.3823|La Boca|Autonomous City of Buenos Aires|0|
+-33.1532|-62.8566|Laborde|Córdoba|5492|
+-34.1266|-63.3912|Laboulaye|Córdoba|19908|
+-24.5833|-65.4167|La Caldera|Salta|3572|
+-31.3438|-64.3353|La Calera|Córdoba|24796|
+-33.4199|-63.2977|La Carlota|Córdoba|11490|
+-33.9511|-62.9724|La Cesira|Córdoba|1140|
+-27.1333|-60.6667|La Clotilde|Chaco|3625|
+-27.7693|-65.5871|La Cocha|Tucumán|7066|
+-36.6607|-57.4016|La Costa|Buenos Aires|0|
+-31.2690|-58.1056|La Criolla|Entre Ríos|1852|
+-29.1744|-56.6433|La Cruz|Corrientes|8591|
+-30.9820|-64.4914|La Cumbre|Córdoba|7235|
+-26.8361|-59.0621|La Eduvigis|Chaco|3816|
+-27.1072|-59.4478|La Escondida|Chaco|3948|
+-31.0884|-64.4899|La Falda|Córdoba|15112|
+-34.7505|-58.5846|Laferrere|Buenos Aires|248362|
+-31.4067|-62.6340|La Francia|Córdoba|3503|
+-42.0668|-71.6038|Lago Puelo|Chubut|4046|
+-31.0092|-64.2687|La Granja|Córdoba|2406|
+-31.7765|-63.8010|Laguna Larga|Córdoba|7854|
+-26.4957|-59.6808|Laguna Limpia|Chaco|1594|
+-25.2477|-58.0938|Laguna Naick-Neck|Formosa|2115|
+-31.3039|-60.6589|Laguna Paiva|Santa Fe|12250|
+-24.2539|-61.2447|Laguna Yema|Formosa|2744|
+-27.0379|-58.7035|La Leonesa|Chaco|10067|
+-39.4230|-65.7021|Lamarque|Río Negro|9282|
+-35.6736|-64.9400|La Maruja|La Pampa|1389|
+-34.7731|-58.7827|La Matanza|Buenos Aires|0|
+-24.3119|-64.9638|La Mendieta|Jujuy|3812|
+-34.7020|-58.4726|Lanús|Buenos Aires|212252|
+-27.1600|-59.3860|Lapachito|Chaco|1448|
+-30.8942|-63.0011|La Para|Córdoba|3021|
+-34.5964|-58.4778|La Paternal|Autonomous City of Buenos Aires|0|
+-30.7418|-59.6452|La Paz|Entre Ríos|24716|
+-34.7030|-58.6799|La Plata|Buenos Aires|195443|
+-32.1000|-63.0309|La Playosa|Córdoba|2376|
+-37.4931|-61.4231|Laprida|Buenos Aires|9320|
+-27.5500|-67.0167|La Puerta de San José|Catamarca|0|
+-33.1837|-66.3127|La Punta|San Luis|15000|
+-22.1024|-65.5930|La Quiaca|Jujuy|14751|
+-29.4110|-66.8507|La Rioja|La Rioja|178872|
+-33.0359|-59.0012|Larroque|Entre Ríos|6200|
+-33.2816|-63.9761|Las Acequias|Córdoba|2116|
+-27.0897|-61.0816|Las Breñas|Chaco|26955|
+-39.5553|-70.5949|Las Coloradas|Neuquén|0|
+-36.0163|-59.8633|Las Flores|Buenos Aires|25075|
+-26.6180|-59.8013|Las Garcitas|Chaco|4244|
+-32.8527|-68.8284|Las Heras|Mendoza|0|
+-46.5419|-68.9359|Las Heras|Santa Cruz|24728|
+-33.0923|-64.2890|Las Higueras|Córdoba|5282|
+-31.8313|-63.4502|Las Junturas|Córdoba|1541|
+-38.5232|-70.3675|Las Lajas|Neuquén|4673|
+-24.7276|-64.1933|Las Lajitas|Salta|13322|
+-24.7096|-60.5930|Las Lomitas|Formosa|10354|
+-36.9888|-70.7499|Las Ovejas|Neuquén|1312|
+-32.6848|-61.5164|Las Parejas|Santa Fe|11317|
+-32.6979|-63.7063|Las Perdices|Córdoba|4615|
+-43.7206|-67.2832|Las Plumas|Chubut|0|
+-32.4766|-61.5804|Las Rosas|Santa Fe|12793|
+-28.3529|-59.2580|Las Toscas|Santa Fe|11811|
+-31.8026|-62.6165|Las Varas|Córdoba|1017|
+-31.8721|-62.7195|Las Varillas|Córdoba|18631|
+-27.1100|-60.5872|La Tigra|Chaco|4505|
+-33.0526|-65.6239|La Toma|San Luis|6663|
+-34.8756|-58.5419|La Unión|Buenos Aires|24293|
+-27.1263|-59.3735|La Verde|Chaco|2995|
+-34.4925|-61.9592|Leandro N. Alem|Buenos Aires|0|
+-27.6038|-55.3237|Leandro N. Alem|Misiones|27287|
+-32.6617|-62.2968|Leones|Córdoba|9971|
+-35.8637|-58.1566|Lezama|Buenos Aires|0|
+-30.0430|-57.8202|Libertad|Corrientes|0|
+-23.8064|-64.7876|Libertador General San Martín|Jujuy|49267|
+-35.0859|-62.3586|Lincoln|Buenos Aires|32773|
+-34.6449|-58.5367|Liniers|Autonomous City of Buenos Aires|0|
+-38.0674|-59.3633|Lobería|Buenos Aires|14215|
+-35.1978|-59.5102|Lobos|Buenos Aires|35719|
+-27.7350|-57.9185|Lomas de Vallejos|Corrientes|1415|
+-34.7528|-58.5011|Lomas de Zamora|Buenos Aires|111897|
+-38.0728|-70.6161|Loncopué|Neuquén|4323|
+-27.7144|-67.1335|Londres|Catamarca|3004|
+-36.4655|-63.6243|Lonquimay|La Pampa|1672|
+-27.7683|-57.2753|Loreto|Corrientes|2856|
+-27.3318|-55.5250|Loreto|Misiones|1201|
+-28.0484|-65.4994|Los Altos|Catamarca|5609|
+-46.5497|-71.6309|Los Antiguos|Santa Cruz|4655|
+-31.1755|-58.1877|Los Charrúas|Entre Ríos|3414|
+-30.9250|-64.5021|Los Cocos|Córdoba|1035|
+-32.3198|-64.2775|Los Cóndores|Córdoba|2720|
+-30.5908|-58.4677|Los Conquistadores|Entre Ríos|1214|
+-26.4077|-61.4137|Los Frentones|Chaco|6610|
+-27.5505|-55.0791|Los Helechos|Misiones|3616|
+-28.4654|-62.1086|Los Juríes|Santiago del Estero|3212|
+-29.3685|-59.7363|Los Laureles|Santa Fe|1519|
+-40.8440|-68.0872|Los Menucos|Río Negro|4214|
+-34.5032|-58.7060|Los Polvorines|Buenos Aires|53354|
+-32.9845|-62.0219|Los Surgentes|Córdoba|2804|
+-28.9848|-63.4489|Los Telares|Santiago del Estero|2032|
+-35.0000|-61.0387|Los Toldos|Buenos Aires|17752|
+-27.9300|-65.8715|Los Varela|Catamarca|1908|
+-32.3843|-59.5301|Lucas González|Entre Ríos|4466|
+-34.5876|-59.4760|Luján|Buenos Aires|97363|
+-32.3667|-65.9364|Luján|San Luis|1896|
+-37.1360|-63.6665|Macachín|La Pampa|5493|
+-26.9261|-60.0496|Machagai|Chaco|28070|
+-32.1722|-59.3995|Maciá|Entre Ríos|5806|
+-35.1866|-57.9994|Magdalena|Buenos Aires|15338|
+-23.6239|-65.4080|Maimará|Jujuy|2470|
+-39.0667|-67.3000|Mainque|Río Negro|2658|
+-36.8840|-58.2527|Maipú|Buenos Aires|0|
+-27.2069|-59.2870|Makallé|Chaco|4994|
+-29.3464|-59.9696|Malabrigo|Santa Fe|7026|
+-31.4647|-64.3584|Malagueño|Córdoba|9364|
+-35.4779|-69.5852|Malargüe|Mendoza|27355|
+-34.4859|-58.7980|Malvinas Argentinas|Buenos Aires|0|
+-31.3819|-64.0554|Malvinas Argentinas|Córdoba|8628|
+-41.2491|-68.7032|Maquinchao|Río Negro|2926|
+-37.5098|-58.3005|Mar Chiquita|Buenos Aires|0|
+-32.6978|-62.1067|Marcos Juárez|Córdoba|24226|
+-34.8208|-59.0287|Marcos Paz|Buenos Aires|0|
+-36.7288|-56.6827|Mar de Ajó|Buenos Aires|25520|
+-38.0004|-57.5562|Mar del Plata|Buenos Aires|593337|
+-36.5743|-56.6939|Mar del Tuyú|Buenos Aires|83016|
+-27.2616|-58.9722|Margarita Belén|Chaco|5547|
+-29.3767|-58.1944|Mariano I. Loza|Corrientes|2015|
+-38.7503|-70.0237|Mariano Moreno|Neuquén|2225|
+-27.4227|-55.3766|Mártires|Misiones|1135|
+-30.9947|-62.8258|Marull|Córdoba|1765|
+-34.6589|-58.5229|Mataderos|Autonomous City of Buenos Aires|0|
+-34.4819|-64.1726|Mattaldi|Córdoba|1714|
+-28.0453|-58.2283|Mburucuyá|Corrientes|9012|
+-33.6585|-61.4546|Melincué|Santa Fe|0|
+-31.2674|-64.3009|Mendiolaza|Córdoba|4204|
+-32.8908|-68.8272|Mendoza|Mendoza|114893|
+-34.6988|-59.7719|Mercedes|Buenos Aires|63284|
+-29.1842|-58.0752|Mercedes|Corrientes|30649|
+-34.7066|-58.8328|Merlo|Buenos Aires|268961|
+-32.3429|-65.0140|Merlo|San Luis|11159|
+-36.8540|-63.6884|Miguel Riglos|La Pampa|2385|
+-31.7210|-65.0062|Mina Clavero|Córdoba|6855|
+-38.2716|-57.8389|Miramar|Buenos Aires|34380|
+-30.9186|-62.6781|Miramar|Córdoba|1979|
+-30.6189|-57.9634|Mocoretá|Corrientes|6088|
+-27.7116|-55.1563|Mojón Grande|Misiones|2233|
+-34.6125|-58.3896|Monserrat|Autonomous City of Buenos Aires|0|
+-35.4986|-59.1252|Monte|Buenos Aires|0|
+-32.9164|-62.4567|Monte Buey|Córdoba|5497|
+-26.5662|-54.7570|Montecarlo|Misiones|22229|
+-30.2536|-57.6363|Monte Caseros|Corrientes|24671|
+-34.6188|-58.5174|Monte Castro|Autonomous City of Buenos Aires|0|
+-34.7296|-58.3542|Monte Chingolo|Buenos Aires|85060|
+-31.3431|-63.9444|Monte Cristo|Córdoba|13458|
+-38.9574|-61.4453|Monte Hermoso|Buenos Aires|7844|
+-33.2046|-62.6009|Monte Maíz|Córdoba|6920|
+-27.1674|-65.4983|Monteros|Tucumán|23771|
+-34.5968|-58.9670|Moreno|Buenos Aires|148290|
+-34.6464|-58.6941|Morón|Buenos Aires|99066|
+-32.5948|-62.8346|Morrison|Córdoba|3245|
+-30.7116|-61.9986|Morteros|Córdoba|20558|
+-34.5562|-58.7074|Muñiz|Buenos Aires|26844|
+-28.3210|-66.1425|Mutquín|Catamarca|1116|
+-26.7333|-60.6167|Napenay|Chaco|3056|
+-32.9166|-65.3753|Naschel|San Luis|3157|
+-35.0246|-59.7763|Navarro|Buenos Aires|16649|
+-38.1738|-59.8077|Necochea|Buenos Aires|73557|
+-38.9516|-68.0591|Neuquén|Neuquén|231198|
+-32.3660|-62.3113|Noetinger|Córdoba|4508|
+-32.3939|-59.7895|Nogoyá|Entre Ríos|43195|
+-41.8507|-70.9017|Ñorquinco|Río Negro|565|
+-27.7507|-57.6207|Nuestra Señora del Rosario de Caa Catí|Corrientes|7573|
+-34.6501|-58.4425|Nueva Pompeya|Autonomous City of Buenos Aires|0|
+-35.4569|-60.9239|Nueve de Julio|Buenos Aires|42098|
+-28.8405|-58.8265|Nueve de Julio|Corrientes|2671|
+-31.6691|-68.3902|Nueve de Julio|San Juan|5444|
+-34.5427|-58.4817|Núñez|Autonomous City of Buenos Aires|0|
+-27.4871|-55.1199|Oberá|Misiones|56528|
+-30.7813|-63.4135|Obispo Trejo|Córdoba|1911|
+-36.8569|-61.3719|Olavarría|Buenos Aires|89721|
+-32.0416|-63.5698|Oliva|Córdoba|12890|
+-31.9135|-63.6820|Oncativo|Córdoba|14551|
+-32.8406|-62.8655|Ordóñez|Córdoba|2328|
+-31.8251|-60.5175|Oro Verde|Entre Ríos|2548|
+-34.5734|-58.4622|Palermo|Autonomous City of Buenos Aires|249016|
+-27.9419|-57.9006|Palmar Grande|Corrientes|1672|
+-23.9777|-64.3031|Palma Sola|Jujuy|5318|
+-25.5633|-59.3378|Palo Santo|Formosa|5324|
+-24.2565|-65.2116|Palpalá|Jujuy|48199|
+-26.7004|-59.1233|Pampa Almirón|Chaco|1747|
+-26.0498|-59.9373|Pampa del Indio|Chaco|11588|
+-26.5052|-61.1744|Pampa del Infierno|Chaco|8176|
+-26.2300|-61.8377|Pampa de los Guanacos|Santiago del Estero|4393|
+-27.7237|-54.9151|Panambí|Misiones|5970|
+-31.7327|-60.5290|Paraná|Entre Ríos|247139|
+-35.1460|-64.5009|Parera|La Pampa|3675|
+-34.6508|-58.4984|Parque Avellaneda|Autonomous City of Buenos Aires|0|
+-34.6371|-58.4595|Parque Chacabuco|Autonomous City of Buenos Aires|0|
+-34.5849|-58.4901|Parque Chas|Autonomous City of Buenos Aires|0|
+-34.6379|-58.4223|Parque Patricios|Autonomous City of Buenos Aires|0|
+-33.1255|-63.0408|Pascanas|Córdoba|2567|
+-32.7473|-63.3423|Pasco|Córdoba|1072|
+-27.3168|-58.5720|Paso de la Patria|Corrientes|5818|
+-29.7125|-57.0877|Paso de los Libres|Corrientes|43805|
+-40.1729|-64.0957|Patagones|Buenos Aires|0|
+-28.7510|-58.6558|Pedro R. Fernández|Corrientes|2058|
+-35.9067|-62.5931|Pehuajó|Buenos Aires|36507|
+-36.2427|-63.8218|Pellegrini|Buenos Aires|6213|
+-33.0749|-68.8884|Perdriel|Mendoza|19321|
+-32.9984|-60.7679|Pérez|Santa Fe|24436|
+-33.8556|-61.2003|Pergamino|Buenos Aires|91399|
+-46.5900|-70.9297|Perito Moreno|Santa Cruz|7812|
+-29.3413|-58.6106|Perugorría|Corrientes|5685|
+-27.6707|-55.2458|Picada Gobernador López|Misiones|0|
+-23.3164|-64.2183|Pichanal|Salta|28017|
+-46.7949|-67.9573|Pico Truncado|Santa Cruz|25194|
+-39.5161|-69.2876|Picún Leufú|Neuquén|3222|
+-40.0481|-70.0741|Piedra del Águila|Neuquén|3372|
+-31.1859|-59.9518|Piedras Blancas|Entre Ríos|1714|
+-37.6026|-62.4084|Pigüé|Buenos Aires|15905|
+-36.2142|-59.0600|Pila|Buenos Aires|3594|
+-34.4424|-59.0616|Pilar|Buenos Aires|81120|
+-31.6789|-63.8796|Pilar|Córdoba|18455|
+-41.1229|-70.7215|Pilcaniyeu|Río Negro|1467|
+-37.1066|-57.0347|Pinamar|Buenos Aires|39218|
+-31.3016|-63.7579|Piquillín|Córdoba|1170|
+-25.7324|-59.1088|Pirané|Formosa|19124|
+-38.9260|-69.2086|Plaza Huincul|Neuquén|12273|
+-38.9667|-68.2333|Plottier|Neuquén|52291|
+-31.6833|-68.5833|Pocito|San Juan|40969|
+-28.3945|-66.2205|Pomán|Catamarca|3200|
+-34.7495|-58.7016|Pontevedra|Buenos Aires|33515|
+-31.0139|-62.0665|Porteña|Córdoba|4624|
+-27.3671|-55.8961|Posadas|Misiones|305874|
+-32.0186|-62.9198|Pozo del Molle|Córdoba|5429|
+-24.8968|-60.3236|Pozo del Tigre|Formosa|3948|
+-27.0015|-59.8424|Presidencia de la Plaza|Chaco|12231|
+-26.1409|-59.5954|Presidencia Roca|Chaco|4987|
+-26.7852|-60.4388|Presidencia Roque Sáenz Peña|Chaco|81879|
+-34.9423|-58.4657|Presidente Perón|Buenos Aires|0|
+-22.0490|-63.6908|Profesor Salvador Mazza|Salta|25328|
+-32.3448|-58.4427|Pronunciamiento|Entre Ríos|1301|
+-38.0919|-64.3031|Puan|Buenos Aires|5383|
+-30.2209|-59.3898|Pueblo Libertador|Corrientes|3973|
+-27.2300|-66.9364|Puerta de Corral Quemado|Catamarca|1158|
+-26.9274|-58.5092|Puerto Bermejo|Chaco|1832|
+-47.7503|-65.8938|Puerto Deseado|Santa Cruz|16747|
+-26.4084|-54.6946|Puerto Eldorado|Misiones|0|
+-26.0227|-54.6136|Puerto Esperanza|Misiones|15579|
+-33.7531|-59.1776|Puerto Ibicuy|Entre Ríos|4477|
+-25.5991|-54.5735|Puerto Iguazú|Misiones|32038|
+-26.9876|-55.1657|Puerto Leoni|Misiones|1294|
+-25.9196|-54.5823|Puerto Libertad|Misiones|6143|
+-34.6136|-58.3729|Puerto Madero|Autonomous City of Buenos Aires|0|
+-42.7692|-65.0385|Puerto Madryn|Chubut|64555|
+-26.4694|-54.7074|Puerto Piray|Misiones|8557|
+-26.7960|-55.0240|Puerto Rico|Misiones|17491|
+-50.0191|-68.5232|Puerto Santa Cruz|Santa Cruz|5390|
+-27.3722|-59.0821|Puerto Tirol|Chaco|9767|
+-27.5141|-58.9391|Puerto Vilelas|Chaco|8455|
+-31.5371|-58.0153|Puerto Yeruá|Entre Ríos|1541|
+-38.8805|-62.0750|Punta Alta|Buenos Aires|64244|
+-35.4557|-57.7917|Punta Indio|Buenos Aires|0|
+-36.0546|-63.5643|Quemú Quemú|La Pampa|4075|
+-30.2140|-64.5006|Quilino|Córdoba|4534|
+-34.7397|-58.3532|Quilmes|Buenos Aires|262379|
+-27.6461|-62.4166|Quimilí|Santiago del Estero|10959|
+-26.8691|-60.2168|Quitilipi|Chaco|32083|
+-45.9246|-67.5542|Rada Tilly|Chubut|6208|
+-31.2503|-61.4867|Rafaela|Santa Fe|88713|
+-33.5881|-60.3898|Ramallo|Buenos Aires|29964|
+-35.0686|-64.6811|Rancul|La Pampa|3699|
+-36.5992|-59.5577|Rauch|Buenos Aires|14793|
+-43.3002|-65.1023|Rawson|Chubut|26335|
+-31.5819|-68.5421|Rawson|San Juan|130258|
+-35.0366|-64.2447|Realicó|La Pampa|8172|
+-34.5848|-58.4169|Recoleta|Autonomous City of Buenos Aires|0|
+-29.1500|-59.6500|Reconquista|Santa Fe|90184|
+-29.2818|-65.0610|Recreo|Catamarca|14204|
+-31.4908|-60.7330|Recreo|Santa Fe|12798|
+-34.7259|-58.3966|Remedios de Escalada de San Martín|Buenos Aires|81465|
+-27.4606|-58.9839|Resistencia|Chaco|290793|
+-34.5894|-58.3974|Retiro|Autonomous City of Buenos Aires|38635|
+-25.3621|-58.2775|Riacho Eh-Eh|Formosa|0|
+-27.5819|-58.7450|Riachuelo|Corrientes|3668|
+-31.1649|-64.3224|Río Ceballos|Córdoba|16632|
+-38.9940|-64.0930|Río Colorado|Río Negro|16132|
+-33.1307|-64.3499|Río Cuarto|Córdoba|157010|
+-51.6226|-69.2181|Río Gallegos|Santa Cruz|95796|
+-53.7877|-67.7095|Río Grande|Tierra del Fuego|52681|
+-45.6857|-70.2580|Río Mayo|Chubut|2939|
+-44.1790|-71.3685|Río Pico|Chubut|1386|
+-31.6526|-63.9099|Río Segundo|Córdoba|22171|
+-32.1730|-64.1141|Río Tercero|Córdoba|53389|
+-51.5359|-72.3367|Río Turbio|Santa Cruz|6650|
+-35.5778|-63.6644|Rivadavia|Buenos Aires|0|
+-33.1910|-68.4622|Rivadavia|Mendoza|34830|
+-32.9949|-68.6860|Rodeo del Medio|Mendoza|18574|
+-34.1951|-61.1257|Rojas|Buenos Aires|22106|
+-32.8985|-60.9068|Roldán|Santa Fe|12468|
+-35.5201|-59.7471|Roque Pérez|Buenos Aires|12273|
+-32.9468|-60.6393|Rosario|Santa Fe|948312|
+-25.7986|-64.9739|Rosario de la Frontera|Salta|29336|
+-24.9858|-65.5784|Rosario de Lerma|Salta|26086|
+-32.3029|-59.1454|Rosario del Tala|Entre Ríos|13807|
+-34.2683|-62.7126|Rufino|Santa Fe|18361|
+-26.9833|-55.0500|Ruiz de Montoya|Misiones|3374|
+-34.5543|-58.5098|Saavedra|Autonomous City of Buenos Aires|0|
+-37.7396|-63.1296|Saavedra|Buenos Aires|0|
+-31.6630|-63.0451|Sacanta|Córdoba|2791|
+-28.2538|-58.6259|Saladas|Corrientes|18349|
+-35.6791|-60.3594|Saladillo|Buenos Aires|30378|
+-31.3026|-64.3070|Saldán|Córdoba|2099|
+-36.6703|-63.3776|Salliqueló|Buenos Aires|8456|
+-31.3184|-65.0900|Salsacate|Córdoba|1205|
+-31.1373|-64.2959|Salsipuedes|Córdoba|6411|
+-24.7859|-65.4117|Salta|Salta|520683|
+-34.2470|-60.6131|Salto|Buenos Aires|34034|
+-33.3839|-64.7221|Sampacho|Córdoba|7238|
+-27.5212|-60.3917|Samuhú|Chaco|2223|
+-31.9768|-64.3740|San Agustín|Córdoba|2870|
+-30.6335|-67.4682|San Agustín de Valle Fértil|San Juan|0|
+-34.4259|-59.8102|San Andrés de Giles|Buenos Aires|13941|
+-28.0101|-65.7087|San Antonio|Catamarca|4290|
+-34.2059|-59.8536|San Antonio de Areco|Buenos Aires|22909|
+-32.2138|-62.6324|San Antonio de Litín|Córdoba|1240|
+-24.2180|-66.3188|San Antonio de los Cobres|Salta|4000|
+-34.6627|-58.6982|San Antonio de Padua|Buenos Aires|37745|
+-40.7319|-64.9477|San Antonio Oeste|Río Negro|16966|
+-33.4976|-64.3149|San Basilio|Córdoba|2882|
+-31.7837|-60.4416|San Benito|Entre Ríos|6771|
+-27.2878|-60.7125|San Bernardo|Chaco|11101|
+-31.1776|-65.1025|San Carlos|Córdoba|0|
+-27.7459|-55.8973|San Carlos|Corrientes|3350|
+-31.7286|-61.0919|San Carlos Centro|Santa Fe|10465|
+-41.1456|-71.3082|San Carlos de Bariloche|Río Negro|95394|
+-36.2307|-61.1157|San Carlos de Bolívar|Buenos Aires|31618|
+-38.4026|-60.2776|San Cayetano|Buenos Aires|0|
+-27.3712|-58.5121|San Cosme|Corrientes|4429|
+-34.6242|-58.4122|San Cristóbal|Autonomous City of Buenos Aires|0|
+-30.3105|-61.2372|San Cristóbal|Santa Fe|14286|
+-34.2451|-58.9007|San Fernando|Buenos Aires|0|
+-28.4696|-65.7852|San Fernando del Valle de Catamarca|Catamarca|159139|Catamarca
+-31.4280|-62.0827|San Francisco|Córdoba|59062|
+-26.2426|-58.6304|San Francisco de Laishí|Formosa|4384|
+-29.7883|-63.9441|San Francisco del Chañar|Córdoba|2067|
+-32.5983|-66.1254|San Francisco del Monte de Oro|San Luis|3295|
+-30.6896|-59.3984|San Gustavo|Entre Ríos|1307|
+-34.4866|-58.6223|San Isidro|Buenos Aires|45190|
+-28.4578|-65.7250|San Isidro|Catamarca|31972|
+-30.5778|-59.9317|San Javier|Santa Fe|15606|
+-31.8962|-61.8598|San Jorge|Santa Fe|16873|
+-27.7698|-55.7826|San José|Misiones|6452|
+-30.3845|-58.7517|San José de Feliciano|Entre Ríos|11137|
+-30.2406|-68.7469|San José de Jáchal|San Juan|13810|
+-30.3544|-63.9487|San José de la Dormida|Córdoba|5727|
+-24.8971|-65.4844|San José de los Cerrillos|Salta|37950|
+-25.4971|-64.9711|San José de Metán|Salta|34601|
+-31.5375|-68.5364|San Juan|San Juan|109123|
+-49.3055|-67.7274|San Julián|Santa Cruz|0|
+-34.6811|-58.5638|San Justo|Buenos Aires|105274|
+-32.4465|-58.4357|San Justo|Entre Ríos|0|
+-30.7891|-60.5919|San Justo|Santa Fe|21809|
+-28.1331|-58.7673|San Lorenzo|Corrientes|47626|
+-24.7362|-65.4873|San Lorenzo|Salta|31589|
+-33.2950|-66.3356|San Luis|San Luis|169947|
+-27.5079|-58.5545|San Luis del Palmar|Corrientes|15347|
+-33.0810|-68.4681|San Martín|Mendoza|82549|
+-31.4296|-68.5006|San Martín|San Juan|0|
+-40.1579|-71.3534|San Martín de los Andes|Neuquén|23519|
+-34.5533|-58.7741|San Miguel|Buenos Aires|168762|
+-27.9959|-57.5896|San Miguel|Corrientes|7396|
+-35.4392|-58.8074|San Miguel del Monte|Buenos Aires|21794|
+-26.8241|-65.2226|San Miguel de Tucumán|Tucumán|548866|
+-34.6039|-58.3906|San Nicolás|Autonomous City of Buenos Aires|0|
+-33.4716|-60.6389|San Nicolás|Buenos Aires|0|
+-33.3342|-60.2108|San Nicolás de los Arroyos|Buenos Aires|134217|
+-33.7956|-60.1106|San Pedro|Buenos Aires|47452|
+-26.6221|-54.1084|San Pedro|Misiones|23736|
+-27.9539|-65.1665|San Pedro|Santiago del Estero|0|
+-24.2313|-64.8661|San Pedro de Jujuy|Jujuy|58430|
+-34.6177|-68.3301|San Rafael|Mendoza|118009|
+-23.1370|-64.3243|San Ramón de la Nueva Orán|Salta|86867|
+-31.6249|-58.5052|San Salvador|Entre Ríos|11626|
+-24.1946|-65.2971|San Salvador de Jujuy|Jujuy|257970|
+-30.9000|-57.9316|Santa Ana|Entre Ríos|2059|
+-32.1748|-58.7862|Santa Anita|Entre Ríos|1254|
+-24.3092|-64.6625|Santa Clara|Jujuy|4883|
+-37.8344|-57.5075|Santa Clara del Mar|Buenos Aires|16629|
+-30.9443|-59.7883|Santa Elena|Entre Ríos|18410|
+-33.1766|-63.2828|Santa Eufemia|Córdoba|2179|
+-31.6488|-60.7087|Santa Fe|Santa Fe|391164|
+-36.2272|-66.9424|Santa Isabel|La Pampa|2493|
+-28.9875|-59.1029|Santa Lucía|Corrientes|14056|
+-31.5399|-68.4950|Santa Lucía|San Juan|62697|
+-34.5178|-63.9441|Santa Magdalena|Córdoba|0|
+-26.6955|-66.0473|Santa María|Catamarca|16545|
+-27.9349|-55.4074|Santa María|Misiones|1687|
+-28.2632|-58.1189|Santa Rosa|Corrientes|8330|
+-36.6167|-64.2833|Santa Rosa|La Pampa|102860|
+-23.3943|-64.4251|Santa Rosa|Salta|17785|
+-32.0690|-64.5363|Santa Rosa de Calamuchita|Córdoba|9504|
+-32.3429|-65.2032|Santa Rosa del Conlara|San Luis|4489|
+-31.1523|-63.4019|Santa Rosa de Río Primero|Córdoba|6788|
+-24.4517|-65.9745|Santa Rosa de Tastil|Salta|2000|
+-27.8326|-61.1375|Santa Sylvina|Chaco|9040|
+-36.5406|-56.6929|Santa Teresita|Buenos Aires|15213|
+-34.6225|-58.3806|San Telmo|Autonomous City of Buenos Aires|0|
+-27.7951|-64.2615|Santiago del Estero|Santiago del Estero|252192|
+-31.3873|-63.4182|Santiago Temple|Córdoba|2358|
+-27.1413|-55.4087|Santo Pipó|Misiones|5447|
+-34.6031|-58.5407|Santos Lugares|Buenos Aires|37267|
+-28.5494|-56.0408|Santo Tomé|Corrientes|22634|
+-31.6627|-60.7653|Santo Tomé|Santa Fe|59072|
+-35.0810|-58.7480|San Vicente|Buenos Aires|90021|
+-26.6167|-54.1333|San Vicente|Misiones|38247|
+-34.6816|-58.3464|Sarandí|Buenos Aires|60752|
+-45.5881|-69.0700|Sarmiento|Chubut|8292|
+-31.7676|-61.8289|Sastre|Santa Fe|5521|
+-31.7029|-62.4820|Saturnino M. Laspiur|Córdoba|0|
+-31.2379|-59.2187|Sauce de Luna|Entre Ríos|2901|
+-30.1610|-63.5936|Sebastián Elcano|Córdoba|2042|
+-31.9564|-60.1249|Seguí|Entre Ríos|3646|
+-39.0141|-68.4328|Senillosa|Neuquén|9534|
+-34.4697|-63.5384|Serrano|Córdoba|2670|
+-30.6376|-65.3869|Serrezuela|Córdoba|2291|
+-40.5849|-67.7567|Sierra Colorada|Río Negro|1690|
+-41.6060|-65.3557|Sierra Grande|Río Negro|6978|
+-27.2627|-65.3565|Simoca|Tucumán|7939|
+-34.7371|-60.0353|Suipacha|Buenos Aires|9609|
+-29.3847|-63.4691|Sumampa|Santiago del Estero|4812|
+-30.9440|-61.5615|Sunchales|Santa Fe|18757|
+-27.9336|-63.4294|Suncho Corral|Santiago del Estero|6087|
+-31.8013|-59.9348|Tabossi|Entre Ríos|1333|
+-25.6156|-63.2671|Taco Pozo|Chaco|8470|
+-28.4126|-59.2600|Tacuarendí|Santa Fe|3067|
+-26.8528|-65.7098|Tafí del Valle|Tucumán|4028|
+-26.7320|-65.2592|Tafí Viejo|Tucumán|48459|
+-32.2431|-63.9807|Tancacha|Córdoba|5184|
+-37.3329|-59.8548|Tandil|Buenos Aires|115877|
+-36.3664|-60.8155|Tapalqué|Buenos Aires|9408|
+-22.5164|-63.8013|Tartagal|Salta|60819|
+-43.4949|-70.8102|Tecka|Chubut|0|
+-36.2643|-65.5102|Telén|La Pampa|1549|
+-27.4936|-64.8597|Termas de Río Hondo|Santiago del Estero|27838|
+-32.6935|-63.4361|Ticino|Córdoba|1895|
+-34.4002|-58.7594|Tigre|Buenos Aires|31106|
+-23.5782|-65.3952|Tilcara|Jujuy|5640|
+-32.7329|-65.2911|Tilisarao|San Luis|5478|
+-28.0632|-67.5649|Tinogasta|Catamarca|13617|
+-27.0269|-62.7064|Tintina|Santiago del Estero|3868|
+-32.2879|-63.3560|Tío Pujio|Córdoba|2383|
+-36.6739|-64.3798|Toay|La Pampa|17151|
+-31.5557|-64.0095|Toledo|Córdoba|3046|
+-54.5108|-67.1955|Tolhuin|Tierra del Fuego|3000|
+-36.4124|-57.5734|Tordillo|Buenos Aires|0|
+-38.2602|-62.9578|Tornquist|Buenos Aires|7508|
+-34.4751|-58.7537|Tortuguitas|Buenos Aires|41390|
+-29.2320|-61.7692|Tostado|Santa Fe|16448|
+-32.5844|-61.1685|Totoras|Santa Fe|9587|
+-26.2314|-65.2809|Trancas|Tucumán|6658|
+-43.2490|-65.3050|Trelew|Chubut|97915|
+-35.6984|-64.1322|Trenel|La Pampa|3426|
+-36.0532|-63.3026|Trenque Lauquen|Buenos Aires|39975|
+-38.4699|-60.8456|Tres Arroyos|Buenos Aires|52199|
+-28.0064|-55.6047|Tres Capones|Misiones|1234|
+-34.6000|-58.6671|Tres de Febrero|Buenos Aires|0|
+-26.3407|-60.4321|Tres Isletas|Chaco|24747|
+-36.4894|-63.1972|Tres Lomas|Buenos Aires|8405|
+-43.0858|-71.4639|Trevelin|Chubut|6395|
+-34.8898|-58.5676|Tristán Suárez|Buenos Aires|27746|
+-33.5812|-69.0154|Tunuyán|Mendoza|38367|
+-33.3693|-69.1478|Tupungato|Mendoza|16893|
+-31.7936|-58.3135|Ubajay|Entre Ríos|2334|
+-33.0320|-63.5067|Ucacha|Córdoba|4747|
+-35.1528|-65.9460|Unión|San Luis|2341|
+-31.2307|-64.3161|Unquillo|Córdoba|15369|
+-32.6857|-58.8932|Urdinarrain|Entre Ríos|7992|
+-36.5068|-63.8623|Uriburu|La Pampa|1200|
+-54.8108|-68.3159|Ushuaia|Tierra del Fuego|56825|
+-40.6799|-66.1628|Valcheta|Río Negro|3596|
+-34.6714|-58.4090|Valentín Alsina|Buenos Aires|41155|
+-31.1173|-64.4808|Valle Hermoso|Córdoba|5486|
+-35.5514|-60.8465|Veinticinco de Mayo|Buenos Aires|23814|
+-37.7741|-67.7164|Veinticinco de Mayo|La Pampa|10215|
+-27.3768|-54.7431|Veinticinco de Mayo|Misiones|5467|
+-34.6313|-58.5135|Vélez Sársfield|Autonomous City of Buenos Aires|0|
+-33.7456|-61.9689|Venado Tuerto|Santa Fe|72340|
+-29.4593|-60.2126|Vera|Santa Fe|19797|
+-34.6292|-58.5296|Versalles|Autonomous City of Buenos Aires|0|
+-31.8678|-60.0072|Viale|Entre Ríos|8939|
+-33.7465|-63.0976|Viamonte|Córdoba|1598|
+-34.5293|-58.5891|Vicente López|Buenos Aires|0|
+-32.6184|-60.1548|Victoria|Entre Ríos|25139|
+-36.2150|-65.4359|Victorica|La Pampa|6565|
+-33.9196|-64.3922|Vicuña Mackenna|Córdoba|8994|
+-40.8135|-62.9967|Viedma|Río Negro|48940|
+-31.2946|-64.2954|Villa Allende|Córdoba|21683|
+-27.5738|-60.7153|Villa Ángela|Chaco|43511|
+-32.1635|-63.8916|Villa Ascasubi|Córdoba|2081|
+-28.4961|-63.8161|Villa Atamisqui|Santiago del Estero|2683|
+-31.5500|-68.7333|Villa Basilio Nievas|San Juan|4038|
+-31.9142|-64.7325|Villa Berna|Córdoba|5000|
+-27.2917|-60.4126|Villa Berthet|Chaco|12029|
+-29.2864|-67.0207|Villa Bustos|La Rioja|2165|
+-34.0057|-61.6076|Villa Cañás|Santa Fe|9328|
+-31.4241|-64.4978|Villa Carlos Paz|Córdoba|69451|
+-31.3226|-62.8135|Villa Concepción del Tío|Córdoba|1585|
+-33.2278|-60.3297|Villa Constitución|Santa Fe|44271|
+-34.5981|-58.4617|Villa Crespo|Autonomous City of Buenos Aires|0|
+-31.7058|-65.0180|Villa Cura Brochero|Córdoba|4707|
+-32.1767|-64.4554|Villa del Dique|Córdoba|2829|
+-34.6059|-58.5106|Villa del Parque|Autonomous City of Buenos Aires|0|
+-31.5566|-63.5345|Villa del Rosario|Córdoba|17496|
+-30.7957|-57.9126|Villa del Rosario|Entre Ríos|3488|
+-30.8167|-63.7167|Villa del Totoral|Córdoba|7110|
+-34.5108|-58.6806|Villa de Mayo|Buenos Aires|43405|
+-30.8552|-64.9995|Villa de Soto|Córdoba|7303|
+-34.6005|-58.5544|Villa Devoto|Autonomous City of Buenos Aires|0|
+-31.9459|-65.1896|Villa Dolores|Córdoba|28009|
+-32.1632|-58.4008|Villa Elisa|Entre Ríos|9334|
+-26.6221|-58.6713|Villa Escolar|Formosa|1261|
+-31.9783|-64.5563|Villa General Belgrano|Córdoba|5888|
+-24.7553|-59.4894|Villa General Guemes|Formosa|4000|
+-34.6105|-58.4797|Villa General Mitre|Autonomous City of Buenos Aires|0|
+-29.1431|-62.6525|Villa General Mitre|Santiago del Estero|3605|
+-32.6653|-66.4505|Villa General Roca|San Luis|196|
+-31.4396|-68.5205|Villa General San Martín|San Juan|29789|
+-37.3662|-57.3898|Villa Gesell|Buenos Aires|23257|
+-31.0333|-64.4833|Villa Giardino|Córdoba|4679|
+-31.8653|-59.0269|Villaguay|Entre Ríos|32027|
+-31.2310|-59.9846|Villa Hernandarias|Entre Ríos|5375|
+-34.8383|-64.5869|Villa Huidobro|Córdoba|5155|
+-40.7617|-71.6463|Villa La Angostura|Neuquén|7526|
+-31.9502|-65.0535|Villa Las Rosas|Córdoba|0|
+-34.6749|-58.4970|Villa Lugano|Autonomous City of Buenos Aires|114000|
+-34.6350|-58.5227|Villa Luro|Autonomous City of Buenos Aires|0|
+-32.3973|-58.7460|Villa Mantero|Entre Ríos|1526|
+-32.4075|-63.2402|Villa María|Córdoba|92453|
+-31.6656|-59.9018|Villa María Grande|Entre Ríos|0|
+-33.6757|-65.4578|Villa Mercedes|San Luis|96781|
+-33.3113|-61.0551|Villa Mugueta|Santa Fe|2789|
+-32.4329|-63.2476|Villa Nueva|Córdoba|25961|
+-28.4875|-59.3552|Villa Ocampo|Santa Fe|19101|
+-29.5000|-63.6938|Villa Ojo de Agua|Santiago del Estero|5832|
+-34.5815|-58.4790|Villa Ortúzar|Autonomous City of Buenos Aires|22500|
+-33.7138|-58.6584|Villa Paranacito|Entre Ríos|3988|
+-31.4933|-68.5384|Villa Paula de Sarmiento|San Juan|19092|
+-34.5818|-58.5226|Villa Pueyrredón|Autonomous City of Buenos Aires|0|
+-34.6191|-58.5345|Villa Real|Autonomous City of Buenos Aires|0|
+-33.2011|-63.8623|Villa Reducción|Córdoba|1467|
+-39.1000|-67.0667|Villa Regina|Río Negro|31209|
+-34.6927|-58.4843|Villa Riachuelo|Autonomous City of Buenos Aires|0|
+-39.1425|-64.0162|Villarino|Buenos Aires|0|
+-32.1879|-64.4803|Villa Rumipal|Córdoba|1922|
+-34.6164|-58.4935|Villa Santa Rita|Autonomous City of Buenos Aires|34000|
+-34.6336|-58.5705|Villa Sarmiento|Buenos Aires|17481|
+-34.6679|-58.4676|Villa Soldati|Autonomous City of Buenos Aires|0|
+-30.2133|-61.8760|Villa Trinidad|Santa Fe|2945|
+-30.3955|-64.1224|Villa Tulumba|Córdoba|1161|
+-34.5719|-58.5093|Villa Urquiza|Autonomous City of Buenos Aires|0|
+-31.6476|-60.3752|Villa Urquiza|Entre Ríos|1566|
+-34.3409|-64.9203|Villa Valeria|Córdoba|2525|
+-28.7596|-68.2069|Vinchina|La Rioja|2834|
+-38.7500|-68.1833|Vista Alegre|Neuquén|0|
+-25.9688|-54.5628|Wanda|Misiones|0|
+-33.1730|-62.7708|Wenceslao Escalante|Córdoba|1549|
+-36.2264|-64.2339|Winifreda|La Pampa|2902|
+-51.5732|-72.3508|Yacimiento Río Turbio|Santa Cruz|0|
+-29.4691|-56.8184|Yapeyú|Corrientes|2124|
+-29.0191|-58.9085|Yataity Calle|Corrientes|0|
+-26.8167|-65.3167|Yerba Buena|Tucumán|50783|
+-23.6434|-64.4719|Yuto|Jujuy|7732|
+-38.8992|-70.0544|Zapala|Neuquén|31534|
+-34.0023|-59.4219|Zárate|Buenos Aires|99061|

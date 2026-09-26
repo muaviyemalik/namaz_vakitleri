@@ -1,34 +1,34 @@
-14.8410|-61.1649|Basse-Pointe
-14.6747|-61.1665|Bellefontaine
-14.6593|-61.1503|Case-Pilote
-14.5785|-61.0097|Ducos
-14.7228|-61.1619|Fonds-Saint-Denis
-14.6492|-61.1098|Fort-de-France
-14.8470|-61.2043|Grand'Rivière
-14.7084|-61.1127|Gros-Morne
-14.8160|-61.1717|L'Ajoupa-Bouillon
-14.7380|-61.0293|La Trinité
-14.7052|-61.1944|Le Carbet
-14.4768|-61.0597|Le Diamant
-14.6093|-60.9800|Le François
-14.6231|-61.0335|Le Lamentin
-14.7995|-61.1151|Le Lorrain
-14.7796|-61.0942|Le Marigot
-14.4822|-60.9001|Le Marin
-14.7695|-61.1629|Le Morne-Rouge
-14.7046|-61.1568|Le Morne-Vert
-14.8220|-61.2375|Le Prêcheur
-14.6744|-61.0169|Le Robert
-14.4995|-61.1148|Les Anses-d'Arlet
-14.5329|-61.0788|Les Trois-Îlets
-14.5421|-60.9006|Le Vauclin
-14.8474|-61.1671|Macouba
-14.5027|-60.9382|Rivière-Pilote
-14.5262|-61.0035|Rivière-Salée
-14.4314|-60.8928|Sainte-Anne
-14.4904|-60.9879|Sainte-Luce
-14.7730|-61.0496|Sainte-Marie
-14.5618|-60.9645|Saint-Esprit
-14.6835|-61.0819|Saint-Joseph
-14.7717|-61.2148|Saint-Pierre
-14.6518|-61.1413|Schœlcher
+14.8410|-61.1649|Basse-Pointe|La Trinité|4037|
+14.6747|-61.1665|Bellefontaine|Saint-Pierre|0|
+14.6593|-61.1503|Case-Pilote|Saint-Pierre|0|
+14.5785|-61.0097|Ducos|Le Marin|17394|
+14.7228|-61.1619|Fonds-Saint-Denis|Saint-Pierre|0|
+14.6492|-61.1098|Fort-de-France|Fort-de-France|89995|
+14.8470|-61.2043|Grand'Rivière|La Trinité|666|
+14.7084|-61.1127|Gros-Morne|La Trinité|0|
+14.8160|-61.1717|L'Ajoupa-Bouillon|La Trinité|1815|
+14.7380|-61.0293|La Trinité|La Trinité|15040|
+14.7052|-61.1944|Le Carbet|Saint-Pierre|0|
+14.4768|-61.0597|Le Diamant|Le Marin|0|
+14.6093|-60.9800|Le François|Le Marin|19682|
+14.6231|-61.0335|Le Lamentin|Fort-de-France|40581|
+14.7995|-61.1151|Le Lorrain|La Trinité|8341|
+14.7796|-61.0942|Le Marigot|La Trinité|0|
+14.4822|-60.9001|Le Marin|Le Marin|7943|
+14.7695|-61.1629|Le Morne-Rouge|Saint-Pierre|5469|
+14.7046|-61.1568|Le Morne-Vert|Saint-Pierre|0|
+14.8220|-61.2375|Le Prêcheur|Saint-Pierre|0|
+14.6744|-61.0169|Le Robert|La Trinité|23814|
+14.4995|-61.1148|Les Anses-d'Arlet|Le Marin|0|
+14.5329|-61.0788|Les Trois-Îlets|Le Marin|5657|
+14.5421|-60.9006|Le Vauclin|Le Marin|7812|
+14.8474|-61.1671|Macouba|La Trinité|0|
+14.5027|-60.9382|Rivière-Pilote|Le Marin|13359|
+14.5262|-61.0035|Rivière-Salée|Le Marin|0|
+14.4314|-60.8928|Sainte-Anne|Le Marin|4306|
+14.4904|-60.9879|Sainte-Luce|Le Marin|9196|
+14.7730|-61.0496|Sainte-Marie|La Trinité|20380|
+14.5618|-60.9645|Saint-Esprit|Le Marin|8508|
+14.6835|-61.0819|Saint-Joseph|Fort-de-France|16974|
+14.7717|-61.2148|Saint-Pierre|Saint-Pierre|4125|
+14.6518|-61.1413|Schœlcher|Fort-de-France|0|

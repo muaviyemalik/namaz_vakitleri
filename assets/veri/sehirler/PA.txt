@@ -1,551 +1,552 @@
-9.1983|-77.9873|Achutupo
-7.8346|-80.3940|Agua Buena
-8.2418|-80.5461|Aguadulce
-8.5035|-80.3117|Aguas Blancas
-9.2281|-78.0278|Ailigandí
-8.3979|-82.5595|Alanje
-9.1202|-79.5564|Alcalde Díaz
-8.5155|-82.4226|Algarrobos Arriba
-9.3009|-82.4018|Almirante
-8.7346|-82.4321|Alto Boquete
-8.2615|-81.4841|Alto de Jesús
-8.5879|-80.1844|Alto de La Estancia
-8.8421|-79.8455|Alto del Espino
-8.8617|-79.7900|Altos de San Francisco
-8.9602|-79.5514|Ancón
-8.3973|-80.2606|Antón
-7.3686|-80.8627|Arenas
-9.0398|-79.9513|Arenosa
-8.9709|-79.9664|Arosemena
-8.9519|-79.6601|Arraiján
-8.4826|-82.7909|Aserrío de Gariché
-8.0421|-80.9253|Atalaya
-7.3248|-80.4536|Ave María
-8.4640|-82.5262|Bágala
-9.1418|-81.8942|Bahía Azul
-7.7052|-80.4534|Bahía Honda
-8.7706|-82.4331|Bajo Boquete
-7.6046|-80.2602|Bajo Corral
-8.4046|-80.7776|Barnizal
-9.5198|-82.7042|Barranco
-9.5276|-82.7334|Barranco Adentro
-8.3894|-80.6355|Barranco Colorado
-8.8648|-82.5652|Barrio Guadalupe
-9.3471|-82.2088|Bastimentos
-7.9682|-78.2165|Bayamón
-7.6301|-80.3820|Bayano
-8.6004|-79.8899|Bejuco
-7.7500|-80.2333|Bella Vista
-8.5486|-82.0898|Besiko
-8.5149|-82.3336|Bijagual
-8.8955|-81.8535|Bisira
-8.1830|-81.2209|Bisvalles
-8.2191|-82.2159|Boca Chica
-8.5299|-82.0313|Boca de Balsa
-8.0300|-77.5898|Boca de Cupé
-8.3530|-82.1138|Boca del Monte
-8.0080|-80.4532|Boca de Parita
-9.3403|-82.2420|Bocas del Toro
-9.3500|-82.6000|Bonyik
-8.5051|-82.5703|Boquerón
-8.7802|-82.4414|Boquete
-8.1693|-81.3007|Boró
-8.6249|-82.8128|Breñón
-8.5854|-78.5301|Brujas
-9.2736|-79.6955|Buena Vista
-8.4138|-81.4844|Buenos Aires
-8.4825|-82.6199|Bugaba
-8.5214|-82.6364|Bugabita Arriba
-8.5434|-80.1977|Caballero
-9.1086|-79.3369|Cabra Número Uno
-8.5470|-80.1676|Cabuya
-9.1556|-79.5397|Caimitillo
-8.5416|-82.4190|Caimito
-8.2482|-81.0819|Calabacito
-8.6491|-82.3806|Caldera
-7.9576|-81.3863|Calidonia
-8.3189|-80.8407|Calobre
-8.7870|-81.2106|Calovébora
-9.1727|-79.5621|Calzada Larga
-8.3832|-81.9934|Camarón Arriba
-7.2653|-80.4911|Cambutal
-8.0417|-77.8868|Camogantí
-7.4471|-80.2648|Cañas
-8.7431|-82.9128|Cañas Gordas
-8.5170|-80.4292|Cañaveral
-8.3200|-81.2115|Cañazas
-9.2224|-78.8951|Cañita
-8.1247|-80.9637|Canto del Llano
-8.2986|-80.5548|Capellanía
-8.7564|-79.8800|Capira
-9.4646|-78.9593|Cartí Sugdup
-9.3622|-79.8323|Cativá
-9.1523|-82.2645|Cauchero
-7.7810|-80.5306|Cedro Arriba
-8.5403|-82.8002|Celmira
-8.0829|-77.5421|Cémaco
-8.7408|-79.8530|Cermeño
-9.1573|-79.4210|Cerro Azul
-8.4580|-82.0308|Cerro Banco
-9.0280|-79.9074|Cerro Cama
-8.3517|-81.6105|Cerro Caña
-7.8338|-80.8317|Cerro Largo
-8.4773|-81.5459|Cerro Plata
-8.8497|-82.5726|Cerro Punta
-8.2535|-81.5766|Cerro Viejo
-8.5775|-79.8859|Chame
-9.4300|-82.5200|Changuinola
-8.9540|-79.1286|Chepillo
-9.1702|-79.1008|Chepo
-8.3589|-81.6658|Chichica
-8.5304|-80.3512|Chigoré
-8.6719|-80.1898|Chiguirí Arriba
-9.1509|-79.6210|Chilibre
-8.6913|-78.6357|Chimán
-8.3929|-82.3199|Chiriquí
-8.9456|-82.1177|Chiriquí Grande
-7.9608|-80.4294|Chitré
-7.8448|-80.7263|Chumical
-8.0762|-80.7766|Chupampa
-8.5755|-80.2716|Churuquita Chiquita
-8.5945|-80.2718|Churuquita Grande
-8.9721|-80.0921|Cirí de Los Sotos
-8.5051|-82.3588|Cochea Abajo
-8.4560|-80.4290|Coclé
-9.0754|-80.5718|Coclé del Norte
-9.3545|-79.9001|Colón
-8.6248|-79.0375|Contadora
-8.7068|-82.6033|Cordillera
-8.0771|-81.4399|Corozal
-9.3522|-79.9044|Cristóbal
-8.5751|-78.2567|Cucunatí
-8.9709|-79.5461|Curundú
-8.4273|-82.4309|David
-8.9500|-79.7000|Distrito Arraiján
-8.9475|-82.1242|Distrito Chiriquí Grande
-8.2127|-80.6144|Distrito de Aguadulce
-8.3984|-82.6406|Distrito de Alanje
-8.4539|-80.1836|Distrito de Antón
-8.0290|-80.9174|Distrito de Atalaya
-8.4667|-79.0000|Distrito de Balboa
-8.2948|-82.9273|Distrito de Barú
-9.3623|-82.2629|Distrito de Bocas del Toro
-8.6167|-82.5667|Distrito de Boquerón
-8.7490|-82.3684|Distrito de Boquete
-8.6879|-82.6794|Distrito de Bugaba
-8.3968|-80.8512|Distrito de Calobre
-8.3560|-81.2863|Distrito de Cañazas
-8.7623|-79.8828|Distrito de Capira
-9.1230|-80.1184|Distrito de Chagres
-8.6000|-79.9167|Distrito de Chame
-9.2500|-82.6333|Distrito de Changuinola
-7.8437|-77.8383|Distrito de Chepigana
-9.1739|-78.7037|Distrito de Chepo
-8.7604|-78.5647|Distrito de Chimán
-7.9833|-80.4333|Distrito de Chitré
-9.2431|-79.7946|Distrito de Colón
-8.4000|-82.4000|Distrito de David
-8.6167|-82.4500|Distrito de Dolega
-9.0200|-80.4297|Distrito de Donoso
-8.5740|-82.2221|Distrito de Gualaca
-7.7702|-80.3752|Distrito de Guararé
-8.9500|-79.8500|Distrito de La Chorrera
-8.1098|-81.1777|Distrito de La Mesa
-8.7180|-80.5395|Distrito de La Pintada
-7.7652|-80.8225|Distrito de Las Minas
-8.1453|-81.4285|Distrito de Las Palmas
-7.6484|-80.2993|Distrito de Las Tablas
-7.7094|-80.6431|Distrito de Los Pozos
-7.8833|-80.4500|Distrito de Los Santos
-7.6582|-80.5353|Distrito de Macaracas
-7.9532|-81.0530|Distrito de Montijo
-8.3442|-80.6093|Distrito de Natá
-7.9064|-80.7975|Distrito de Ocú
-8.4805|-80.6532|Distrito de Olá
-9.3061|-79.4525|Distrito de Panamá
-8.0624|-80.5637|Distrito de Parita
-7.4853|-80.1275|Distrito de Pedasí
-7.8819|-80.6326|Distrito de Pesé
-7.8934|-77.5256|Distrito de Pinogana
-7.6372|-80.1647|Distrito de Pocrí
-9.4975|-79.6073|Distrito de Portobelo
-8.2025|-81.8116|Distrito de Remedios
-8.7167|-82.7667|Distrito de Renacimiento
-7.9144|-81.1613|Distrito de Río de Jesús
-8.5320|-80.0691|Distrito de San Carlos
-8.2777|-81.8738|Distrito de San Félix
-8.2697|-81.0011|Distrito de San Francisco
-8.2937|-82.0892|Distrito de San Lorenzo
-8.7206|-80.9586|Distrito de Santa Fé
-9.4833|-79.3167|Distrito de Santa Isabel
-8.1167|-80.6833|Distrito de Santa María
-8.1242|-80.8783|Distrito de Santiago
-7.8438|-81.3661|Distrito de Soná
-8.7833|-79.5583|Distrito de Taboga
-8.1901|-81.6601|Distrito de Tolé
-7.4360|-80.4583|Distrito de Tonosí
-8.6300|-80.2833|Distrito Penonomé
-8.4107|-82.7133|Divalá
-8.5667|-82.4141|Dolega
-8.5119|-81.0365|El Alto
-7.9606|-80.9480|El Barrito
-8.7613|-80.0129|El Cacao
-7.7184|-80.5976|El Calabacito
-7.6177|-80.2332|El Cañafístulo
-8.4019|-80.5179|El Caño
-7.7257|-80.6435|El Capurí
-7.7312|-80.2969|El Carate
-7.6856|-80.6593|El Cedro
-8.3988|-80.1872|El Chirú
-8.9496|-79.5472|El Chorrillo
-7.7370|-80.2798|El Cocal
-8.3214|-80.9207|El Coclá
-8.8701|-79.8042|El Coco
-8.6204|-80.5843|El Copé
-8.3456|-80.5872|El Cortezo
-8.2507|-80.6209|El Cristo
-7.9163|-80.3869|El Ejido
-9.4167|-82.5167|El Empalme
-8.6616|-79.8758|El Espavé
-8.8379|-79.8492|El Espino
-8.0929|-80.8238|El Espino de Santa Rosa
-9.2451|-79.6927|El Giral
-9.0784|-80.0832|El Guabo
-7.8064|-80.5299|El Guásimo
-7.7932|-80.3827|El Hato
-8.4473|-80.0360|El Higo
-8.6168|-79.8348|El Líbano
-7.6849|-80.4031|El Macano
-7.7824|-80.2471|El Manantial
-8.0358|-81.2149|El Marañón
-8.0290|-81.4438|El María
-7.6758|-80.3213|El Muñoz
-8.2381|-81.7322|El Nancito
-7.9534|-81.1215|El Pájaro
-8.3010|-82.8534|El Palmar
-8.5375|-81.0694|El Pantano
-7.6917|-80.3279|El Pedregoso
-8.3500|-80.9762|El Peñón
-8.3780|-81.2562|El Picador
-8.2292|-81.8328|El Porvenir
-8.3769|-80.7943|El Potrero
-9.2667|-79.1167|El Progreso
-8.4801|-80.1543|El Retiro
-8.1842|-81.4333|El Rincón
-8.1685|-80.6590|El Roble
-9.3722|-82.5288|El Silencio
-8.4297|-82.5729|El Tejar
-7.7511|-80.8694|El Toro
-8.1165|-80.9846|El Uvito
-9.2363|-79.6599|El Valle de la Unión
-8.5688|-80.2074|Entradero
-9.1437|-79.9644|Escobal
-8.3566|-80.1372|Farallón
-8.3798|-82.8739|Finca Blanco
-7.4816|-80.4069|Flores
-8.0668|-78.3644|Garachiné
-9.2892|-79.7720|Gatún
-9.2435|-79.6486|Gatuncillo
-8.5609|-82.7414|Gómez
-9.0918|-79.5193|Gonzalillo
-8.5747|-82.5373|Guabal
-9.4897|-82.6128|Guabito
-8.5373|-82.4928|Guaca Arriba
-8.8545|-79.8141|Guadalupe
-8.5301|-82.2996|Gualaca
-7.8153|-80.2835|Guararé
-7.8002|-80.3598|Guararé Arriba
-7.7940|-81.2590|Guarumal
-8.6219|-82.5794|Guayabal
-8.5483|-80.0135|Guayabito
-8.5197|-80.5841|Guzman
-8.4428|-81.7720|Hato Chami
-8.3352|-81.9703|Hato Corotú
-8.9194|-79.7391|Hato Montaña
-8.3114|-82.1510|Horconcitos
-8.9394|-79.5910|Howard
-9.3000|-82.1333|Isla Bastimentos
-7.5183|-78.1634|Jaqué
-9.0500|-79.4500|Juan Díaz
-8.8950|-81.8575|Kankintú
-9.1712|-81.8962|Kusapín
-7.9677|-80.4652|La Arena
-9.1187|-79.5366|La Cabima
-8.8803|-79.7833|La Chorrera
-7.8236|-80.5555|La Colorada
-8.5121|-82.6186|La Concepción
-7.8333|-80.2742|La Enea
-8.3662|-78.8461|La Ensenada
-8.4562|-80.0683|La Ermita
-8.2682|-78.9246|La Esmeralda
-8.4034|-82.7920|La Esperanza
-7.8839|-80.3904|La Espigadilla
-8.5157|-82.6721|La Estrella
-7.9371|-81.0164|La Garceana
-8.3425|-78.9343|La Guinea
-8.8485|-79.8040|La Herradura
-7.5859|-80.1321|Lajamina
-8.2498|-81.8778|Lajas Adentro
-8.1699|-81.6965|Lajas de Tolé
-8.2906|-81.7705|Lajero Arriba
-8.3388|-80.7295|La Laguna
-7.7310|-80.2530|La Laja
-7.4371|-80.8912|La Loma
-7.6567|-80.6179|La Mesa
-7.5602|-80.3274|La Miel
-8.8409|-79.7865|La Mitra
-8.0249|-80.8632|La Montañuela
-7.7167|-80.3833|La Palma
-7.7976|-80.3034|La Pasera
-8.1278|-81.0269|La Peña
-8.8507|-79.8237|La Pesa
-8.5930|-80.4435|La Pintada
-8.2163|-80.8273|La Raya de Calobre
-8.1643|-80.8214|La Raya de Santa María
-8.5500|-80.0833|Las Colinas
-7.8228|-80.4300|Las Cruces
-9.0892|-79.5281|Las Cumbres
-7.8147|-80.5015|Las Guabas
-8.1945|-80.7549|Las Guías Abajo
-7.9017|-81.1406|Las Huacas
-8.4670|-80.7509|Las Huacas del Quije
-8.2418|-81.8693|Las Lajas
-8.4293|-82.3874|Las Lomas
-9.3260|-79.8903|Las Margaritas
-8.8881|-80.2189|Las Marias
-8.6412|-80.3943|Las Minas
-7.6831|-80.4973|Las Palmas
-7.7652|-80.2935|Las Palmitas
-8.5814|-80.6798|Las Sabanas
-7.7647|-80.2748|Las Tablas
-7.7340|-80.3738|Las Trancas
-8.4594|-80.0007|Las Uvas
-7.7511|-80.2922|La Tiza
-7.9146|-80.7033|La Trinidad
-7.4361|-80.5870|La Tronosa
-8.4306|-80.8575|La Yeguada
-7.7542|-81.1156|Leones Arriba
-8.7487|-79.9097|Lídice
-7.8176|-80.9133|Limón de Tijeras
-8.1001|-82.8668|Limones
-7.7860|-80.4106|Llano Abajo
-7.9764|-80.4165|Llano Bonito
-7.9518|-80.6424|Llano de La Cruz
-7.6597|-80.5635|Llano de Piedra
-8.6382|-80.4385|Llano Grande
-7.9061|-80.4256|Llano Largo
-8.4770|-80.3250|Llano Marín
-8.4200|-81.6187|Llano Ñopo
-8.0933|-81.4716|Lolá
-8.7182|-81.4049|Loma Yuca
-8.1090|-81.0135|Los Algarrobos
-8.5303|-82.4230|Los Anastacios
-8.5227|-82.2000|Los Ángeles
-7.5166|-80.1352|Los Asientos
-8.1172|-80.7077|Los Canelos
-8.0233|-81.1194|Los Castillos
-7.7975|-80.6107|Los Cerritos
-7.7182|-80.6727|Los Cerros de Paja
-8.2055|-80.8602|Los Higos
-8.5979|-80.0950|Los Llanitos
-9.1242|-79.2893|Los Lotes
-8.7921|-82.4467|Los Naranjos
-7.9159|-80.4888|Los Olivos
-8.3990|-80.1573|Los Pollos
-7.7830|-80.6452|Los Pozos
-7.9333|-80.4167|Los Santos
-7.7317|-80.5536|Macaracas
-8.3246|-82.8157|Manaca Civil
-8.3342|-82.8100|Manaca Norte
-9.4399|-79.7545|María Chiquita
-7.6781|-81.0041|Mariato
-8.4506|-82.4006|Mata del Nance
-9.0147|-79.8507|Mendoza
-8.4991|-77.9790|Metetí
-8.9948|-82.2415|Miramar
-8.4047|-81.8306|Mirono
-7.6426|-80.4595|Mogollón
-7.9818|-80.4376|Monagrillo
-8.3694|-80.8667|Monjarás
-8.7894|-82.8286|Monte Lirio
-7.9886|-81.0564|Montijo
-8.8425|-77.9754|Mortí
-8.9467|-77.7508|Mulatupo
-8.3504|-81.6722|Müna
-9.4439|-78.5867|Narganá
-8.3321|-80.5197|Natá
-8.3268|-81.8153|Nole Düima
-9.5794|-79.4711|Nombre de Dios
-7.5305|-80.3269|Nuario
-8.4449|-80.5893|Nuestro Amo
-8.8694|-79.9947|Nueva Arenosa
-9.1021|-79.3341|Nueva Esperanza
-8.5500|-79.8755|Nueva Gorgona
-8.9245|-79.7200|Nuevo Arraiján
-9.0794|-79.3956|Nuevo Belén
-9.2398|-80.0827|Nuevo Chagres
-9.0027|-79.7314|Nuevo Emperador
-8.4570|-82.4371|Nuevo San Carlitos
-9.2220|-79.6660|Nuevo San Juan
-9.2426|-79.6076|Nuevo Vigía
-8.4781|-81.4702|Nurun
-7.9405|-80.7794|Ocú
-8.4181|-80.6512|Olá
-8.3502|-81.8018|Oma
-7.5050|-80.2057|Oria Arriba
-9.0794|-79.2900|Pacora
-8.6834|-82.3191|Paja de Sombrero
-9.5697|-79.3634|Palenque
-9.2284|-80.0850|Palmas Bellas
-8.7340|-82.4589|Palmira
-8.7396|-82.4523|Palmira Centro
-8.9936|-79.5197|Panama City|Panamá
-7.6851|-80.1608|Paraíso
-8.4598|-81.1959|Paredón Arriba
-8.0505|-80.5541|París
-7.9939|-80.5210|Parita
-7.6285|-80.1724|Paritilla
-9.0167|-79.4833|Parque Lefevre
-8.9365|-78.9092|Pásiga
-8.5652|-82.8221|Paso Canoas Arriba
-7.5303|-80.0270|Pedasí
-8.3659|-82.4352|Pedregal
-7.7193|-80.2837|Peña Blanca
-8.0150|-80.8037|Peñas Chatas
-8.5189|-80.3573|Penonomé
-7.7746|-80.3249|Perales
-7.9086|-80.6143|Pesé
-8.5242|-80.9115|Piedras Gordas
-7.6422|-80.6679|Pitaloza Arriba
-8.4617|-82.1592|Plan de Chorcha
-9.5662|-79.2918|Playa Chiquita
-8.7839|-79.7755|Playa Leona
-9.3113|-78.2327|Playón Chico
-8.7367|-82.8197|Plaza de Caisán
-8.2581|-80.5500|Pocrí
-7.8825|-80.9788|Ponuga
-8.0174|-80.5954|Portobelillo
-9.5530|-79.6569|Portobelo
-8.6398|-82.4856|Potrerillos Abajo
-8.6855|-82.4909|Potrerillos Arriba
-8.8805|-79.8280|Potrero Grande
-8.0632|-80.6227|Potuga
-8.4467|-82.8386|Progreso
-7.9788|-77.4876|Púcuro
-8.8807|-82.2241|Pueblo Nuevo
-8.2508|-81.6626|Pueblo Viejo
-8.2777|-82.8621|Puerto Armuelles
-8.8702|-79.7142|Puerto Caimito
-9.1933|-80.0883|Puerto Escondido
-8.6663|-77.4192|Puerto Obaldía
-9.3632|-79.7933|Puerto Pilón
-8.0483|-81.6050|Puerto Vidal
-8.0333|-82.8667|Punta de Burica
-9.1410|-82.1272|Punta Laurel
-8.9166|-82.1849|Punta Peña
-9.0363|-82.2495|Punta Róbalo
-9.2966|-79.7061|Quebrada Bonita Adentro
-8.4333|-81.7833|Quebrada Canoa
-7.7124|-80.7422|Quebrada del Rosario
-8.0355|-81.3869|Quebrada de Oro
-8.0942|-81.6792|Quebrada de Piedra
-8.8404|-81.9964|Quebrada Tula
-8.3717|-82.5267|Querévalo
-8.4710|-82.3935|Quinteño
-8.2244|-81.8275|Remedios
-8.4637|-82.2795|Rincón
-7.8444|-80.6040|Rincón Hondo
-9.0167|-79.5000|Río Abajo
-9.3715|-79.7881|Río Alejandro
-8.9667|-79.7610|Río Congo
-7.9788|-81.1616|Río de Jesús
-9.2569|-79.6794|Río Duque
-7.7191|-81.3342|Río Grande
-8.3794|-80.1662|Río Hato
-7.7119|-80.3590|Río Hondo
-9.3030|-79.7923|Río Rita
-8.8174|-82.8573|Río Sereno
-8.1120|-81.3168|Rodeo Viejo
-8.6382|-82.4997|Rovira Arriba
-7.8354|-80.3649|Sabana Grande
-9.3427|-79.8096|Sabanitas
-7.8201|-78.1101|Sambú
-8.6026|-82.7259|San Andrés
-9.1729|-79.5474|San Antonio
-8.2106|-81.2757|San Bartolo
-8.4732|-79.9610|San Carlos
-8.9512|-79.5373|San Felipe
-8.2906|-81.8670|San Félix
-8.0667|-81.3667|San Francisco
-9.2890|-78.1521|San Ignacio de Tupile
-8.5303|-82.8272|San Isidro
-8.9333|-79.7333|San José
-8.3031|-81.0157|San Juan
-7.9610|-80.4128|San Juan Bautista
-8.5512|-80.2262|San Juan de Dios
-8.3056|-82.1011|San Lorenzo
-8.2725|-81.1599|San Marcelo
-8.4568|-78.9369|San Miguel
-9.0503|-79.4707|San Miguelito
-8.4256|-82.5017|San Pablo Nuevo Abajo
-8.4534|-82.5018|San Pablo Viejo Abajo
-8.1401|-81.0866|San Pedro del Espino
-9.3000|-82.7000|San San Drui
-7.9330|-80.3637|Santa Ana Arriba
-9.0288|-79.7544|Santa Clara
-8.2322|-81.9132|Santa Cruz
-8.5106|-81.0780|Santa Fé
-9.5392|-79.1957|Santa Isabel
-8.1114|-80.6658|Santa María
-8.5141|-82.6987|Santa Marta
-8.8568|-79.8795|Santa Rita
-9.3303|-79.7936|Santa Rita Arriba
-8.5996|-82.6849|Santa Rosa
-8.1000|-80.9833|Santiago de Veraguas
-8.5080|-82.7130|Santo Domingo
-8.3896|-82.6506|Santo Tomás
-9.1144|-79.5975|San Vicente
-8.9114|-79.6736|San Vicente de Bique
-7.7389|-80.2485|Sesteadero
-9.3833|-82.6522|Sieyic
-8.4868|-82.6654|Sioguí Abajo
-8.5387|-82.6862|Sioguí Arriba
-8.3723|-81.5814|Sitio Prado
-8.0122|-81.3216|Soná
-8.6319|-80.0089|Sorá
-8.5464|-82.6517|Sortova
-7.7137|-80.9783|Tebario
-9.3833|-82.5833|Teribe
-8.4751|-82.5606|Tijeras
-8.5528|-82.4596|Tinajas
-8.6513|-80.3202|Toabré
-9.1211|-81.8247|Tobobe
-9.0894|-79.3831|Tocumen
-8.2399|-81.6717|Tolé
-7.4068|-80.4422|Tonosí
-8.9213|-78.4055|Tortí
-8.3454|-80.6401|Toza
-7.8402|-80.4074|Tres Quebradas
-9.5167|-79.0333|Tubualá
-8.0840|-77.5351|Unión Chocó
-9.1526|-79.1701|Unión de Azuero
-8.8353|-78.6510|Unión Santeña
-9.1311|-77.9262|Ustupo
-7.9721|-81.2178|Utirá
-9.2306|-82.4275|Valle del Risco
-7.6201|-80.3508|Valle Rico
-7.6216|-80.3197|Vallerriquito
-8.2314|-81.6542|Veladero
-8.8899|-79.6260|Veracruz
-9.5826|-79.4069|Viento Frío
-8.3392|-81.4982|Viguí
-8.7983|-79.8693|Villa Carmen
-7.8114|-80.4703|Villa Lourdes
-8.7738|-79.8755|Villa Rosario
-9.1891|-79.6245|Villa Unida
-8.9277|-79.7028|Vista Alegre
-9.1118|-79.3611|Vista Hermosa
-8.7729|-82.6382|Volcán
-8.0984|-77.5982|Yape
-8.1584|-77.6928|Yaviza
-8.0053|-81.5065|Zapotillo
+9.1983|-77.9873|Achutupo|Guna|1753|
+7.8346|-80.3940|Agua Buena|Los Santos|1012|
+8.2418|-80.5461|Aguadulce|Coclé|8501|
+8.5035|-80.3117|Aguas Blancas|Coclé|1053|
+9.2281|-78.0278|Ailigandí|Guna|1652|
+8.3979|-82.5595|Alanje|Chiriquí Province|1373|
+9.1202|-79.5564|Alcalde Díaz|Panamá|20285|
+8.5155|-82.4226|Algarrobos Arriba|Chiriquí Province|0|
+9.3009|-82.4018|Almirante|Bocas del Toro|8744|
+8.7346|-82.4321|Alto Boquete|Chiriquí Province|4746|
+8.2615|-81.4841|Alto de Jesús|Veraguas|361|
+8.5879|-80.1844|Alto de La Estancia|Coclé|1081|
+8.8421|-79.8455|Alto del Espino|Panamá Oeste|3672|
+8.8617|-79.7900|Altos de San Francisco|Panamá Oeste|8189|
+8.9602|-79.5514|Ancón|Panamá|20706|
+8.3973|-80.2606|Antón|Coclé|6851|
+7.3686|-80.8627|Arenas|Veraguas|97|
+9.0398|-79.9513|Arenosa|Panamá Oeste|0|
+8.9709|-79.9664|Arosemena|Panamá Oeste|127|
+8.9519|-79.6601|Arraiján|Panamá Oeste|76815|
+8.4826|-82.7909|Aserrío de Gariché|Chiriquí Province|1804|
+8.0421|-80.9253|Atalaya|Veraguas|2686|
+7.3248|-80.4536|Ave María|Los Santos|120|
+8.4640|-82.5262|Bágala|Chiriquí Province|910|
+9.1418|-81.8942|Bahía Azul|Ngöbe-Buglé Comarca|379|
+7.7052|-80.4534|Bahía Honda|Los Santos|131|
+8.7706|-82.4331|Bajo Boquete|Chiriquí Province|2257|
+7.6046|-80.2602|Bajo Corral|Los Santos|192|
+8.4046|-80.7776|Barnizal|Veraguas|74|
+9.5198|-82.7042|Barranco|Bocas del Toro|1398|
+9.5276|-82.7334|Barranco Adentro|Bocas del Toro|1349|
+8.3894|-80.6355|Barranco Colorado|Coclé|52|
+8.8648|-82.5652|Barrio Guadalupe|Chiriquí Province|1019|
+9.3471|-82.2088|Bastimentos|Bocas del Toro|738|
+7.9682|-78.2165|Bayamón|Emberá-Wounaan Comarca|457|
+7.6301|-80.3820|Bayano|Los Santos|224|
+8.6004|-79.8899|Bejuco|Panamá Oeste|3897|
+7.7500|-80.2333|Bella Vista|Los Santos|1104|
+8.5486|-82.0898|Besiko|Ngöbe-Buglé Comarca|0|
+8.5149|-82.3336|Bijagual|Chiriquí Province|257|
+8.8955|-81.8535|Bisira|Ngöbe-Buglé Comarca|1383|
+8.1830|-81.2209|Bisvalles|Veraguas|141|
+8.2191|-82.2159|Boca Chica|Chiriquí Province|215|
+8.5299|-82.0313|Boca de Balsa|Ngöbe-Buglé Comarca|304|
+8.0300|-77.5898|Boca de Cupé|Darién|877|
+8.3530|-82.1138|Boca del Monte|Chiriquí Province|355|
+8.0080|-80.4532|Boca de Parita|Herrera|1381|
+9.3403|-82.2420|Bocas del Toro|Bocas del Toro|5380|
+9.3500|-82.6000|Bonyik|Naso Tjër Di|0|
+8.5051|-82.5703|Boquerón|Chiriquí Province|1658|
+8.7802|-82.4414|Boquete|Chiriquí Province|6123|
+8.1693|-81.3007|Boró|Veraguas|326|
+8.6249|-82.8128|Breñón|Chiriquí Province|230|
+8.5854|-78.5301|Brujas|Panamá|239|
+9.2736|-79.6955|Buena Vista|Colón|4077|
+8.4138|-81.4844|Buenos Aires|Ngöbe-Buglé Comarca|400|
+8.4825|-82.6199|Bugaba|Chiriquí Province|3263|
+8.5214|-82.6364|Bugabita Arriba|Chiriquí Province|1076|
+8.5434|-80.1977|Caballero|Coclé|114|
+9.1086|-79.3369|Cabra Número Uno|Panamá|1415|
+8.5470|-80.1676|Cabuya|Coclé|93|
+9.1556|-79.5397|Caimitillo|Panamá|1345|
+8.5416|-82.4190|Caimito|Chiriquí Province|1066|
+8.2482|-81.0819|Calabacito|Veraguas|100|
+8.6491|-82.3806|Caldera|Chiriquí Province|355|
+7.9576|-81.3863|Calidonia|Veraguas|228|
+8.3189|-80.8407|Calobre|Veraguas|795|
+8.7870|-81.2106|Calovébora|Veraguas|117|
+9.1727|-79.5621|Calzada Larga|Panamá|1656|
+8.3832|-81.9934|Camarón Arriba|Ngöbe-Buglé Comarca|515|
+7.2653|-80.4911|Cambutal|Los Santos|370|
+8.0417|-77.8868|Camogantí|Darién|179|
+7.4471|-80.2648|Cañas|Los Santos|318|
+8.7431|-82.9128|Cañas Gordas|Chiriquí Province|374|
+8.5170|-80.4292|Cañaveral|Coclé|827|
+8.3200|-81.2115|Cañazas|Veraguas|3219|
+9.2224|-78.8951|Cañita|Panamá|629|
+8.1247|-80.9637|Canto del Llano|Veraguas|7854|
+8.2986|-80.5548|Capellanía|Coclé|2252|
+8.7564|-79.8800|Capira|Panamá Oeste|3432|
+9.4646|-78.9593|Cartí Sugdup|Guna|0|
+9.3622|-79.8323|Cativá|Colón|29607|
+9.1523|-82.2645|Cauchero|Bocas del Toro|40|
+7.7810|-80.5306|Cedro Arriba|Los Santos|93|
+8.5403|-82.8002|Celmira|Chiriquí Province|1087|
+8.0829|-77.5421|Cémaco|Emberá-Wounaan Comarca|0|
+8.7408|-79.8530|Cermeño|Panamá Oeste|928|
+9.1573|-79.4210|Cerro Azul|Panamá|1287|
+8.4580|-82.0308|Cerro Banco|Ngöbe-Buglé Comarca|487|
+9.0280|-79.9074|Cerro Cama|Panamá Oeste|1274|
+8.3517|-81.6105|Cerro Caña|Ngöbe-Buglé Comarca|319|
+7.8338|-80.8317|Cerro Largo|Herrera|170|
+8.4773|-81.5459|Cerro Plata|Ngöbe-Buglé Comarca|162|
+8.8497|-82.5726|Cerro Punta|Chiriquí Province|1568|
+8.2535|-81.5766|Cerro Viejo|Chiriquí Province|253|
+8.5775|-79.8859|Chame|Panamá Oeste|2362|
+9.4300|-82.5200|Changuinola|Bocas del Toro|17997|
+8.9540|-79.1286|Chepillo|Panamá|255|
+9.1702|-79.1008|Chepo|Panamá|12912|
+8.3589|-81.6658|Chichica|Ngöbe-Buglé Comarca|1026|
+8.5304|-80.3512|Chigoré|Coclé|2899|
+8.6719|-80.1898|Chiguirí Arriba|Coclé|509|
+9.1509|-79.6210|Chilibre|Panamá|33536|
+8.6913|-78.6357|Chimán|Panamá|786|
+8.3929|-82.3199|Chiriquí|Chiriquí Province|2429|
+8.9456|-82.1177|Chiriquí Grande|Bocas del Toro|1525|
+7.9608|-80.4294|Chitré|Herrera|8969|
+7.8448|-80.7263|Chumical|Herrera|433|
+8.0762|-80.7766|Chupampa|Herrera|637|
+8.5755|-80.2716|Churuquita Chiquita|Coclé|1142|
+8.5945|-80.2718|Churuquita Grande|Coclé|1518|
+8.9721|-80.0921|Cirí de Los Sotos|Panamá Oeste|0|
+8.5051|-82.3588|Cochea Abajo|Chiriquí Province|435|
+8.4560|-80.4290|Coclé|Coclé|1298|
+9.0754|-80.5718|Coclé del Norte|Colón|388|
+9.3545|-79.9001|Colón|Colón|78000|
+8.6248|-79.0375|Contadora|Panamá|253|
+8.7068|-82.6033|Cordillera|Chiriquí Province|444|
+8.0771|-81.4399|Corozal|Veraguas|189|
+9.3522|-79.9044|Cristóbal|Colón|2366|
+8.5751|-78.2567|Cucunatí|Darién|537|
+8.9709|-79.5461|Curundú|Panamá|16361|
+8.4273|-82.4309|David|Chiriquí Province|82907|
+8.9500|-79.7000|Distrito Arraiján|Panamá Oeste|0|
+8.9475|-82.1242|Distrito Chiriquí Grande|Bocas del Toro|0|
+8.2127|-80.6144|Distrito de Aguadulce|Coclé|0|
+8.3984|-82.6406|Distrito de Alanje|Chiriquí Province|0|
+8.4539|-80.1836|Distrito de Antón|Coclé|0|
+8.0290|-80.9174|Distrito de Atalaya|Veraguas|0|
+8.4667|-79.0000|Distrito de Balboa|Panamá|0|
+8.2948|-82.9273|Distrito de Barú|Chiriquí Province|0|
+9.3623|-82.2629|Distrito de Bocas del Toro|Bocas del Toro|0|
+8.6167|-82.5667|Distrito de Boquerón|Chiriquí Province|0|
+8.7490|-82.3684|Distrito de Boquete|Chiriquí Province|0|
+8.6879|-82.6794|Distrito de Bugaba|Chiriquí Province|0|
+8.3968|-80.8512|Distrito de Calobre|Veraguas|0|
+8.3560|-81.2863|Distrito de Cañazas|Veraguas|0|
+8.7623|-79.8828|Distrito de Capira|Panamá Oeste|0|
+9.1230|-80.1184|Distrito de Chagres|Colón|0|
+8.6000|-79.9167|Distrito de Chame|Panamá Oeste|0|
+9.2500|-82.6333|Distrito de Changuinola|Bocas del Toro|0|
+7.8437|-77.8383|Distrito de Chepigana|Darién|0|
+9.1739|-78.7037|Distrito de Chepo|Panamá|0|
+8.7604|-78.5647|Distrito de Chimán|Panamá|0|
+7.9833|-80.4333|Distrito de Chitré|Herrera|0|
+9.2431|-79.7946|Distrito de Colón|Colón|0|
+8.4000|-82.4000|Distrito de David|Chiriquí Province|0|
+8.6167|-82.4500|Distrito de Dolega|Chiriquí Province|0|
+9.0200|-80.4297|Distrito de Donoso|Colón|0|
+8.5740|-82.2221|Distrito de Gualaca|Chiriquí Province|0|
+7.7702|-80.3752|Distrito de Guararé|Los Santos|0|
+8.9500|-79.8500|Distrito de La Chorrera|Panamá Oeste|0|
+8.1098|-81.1777|Distrito de La Mesa|Veraguas|0|
+8.7180|-80.5395|Distrito de La Pintada|Coclé|0|
+7.7652|-80.8225|Distrito de Las Minas|Herrera|0|
+8.1453|-81.4285|Distrito de Las Palmas|Veraguas|0|
+7.6484|-80.2993|Distrito de Las Tablas|Los Santos|0|
+7.7094|-80.6431|Distrito de Los Pozos|Herrera|0|
+7.8833|-80.4500|Distrito de Los Santos|Los Santos|0|
+7.6582|-80.5353|Distrito de Macaracas|Los Santos|0|
+7.9532|-81.0530|Distrito de Montijo|Veraguas|0|
+8.3442|-80.6093|Distrito de Natá|Coclé|0|
+7.9064|-80.7975|Distrito de Ocú|Herrera|0|
+8.4805|-80.6532|Distrito de Olá|Coclé|0|
+9.3061|-79.4525|Distrito de Panamá|Panamá|0|
+8.0624|-80.5637|Distrito de Parita|Herrera|0|
+7.4853|-80.1275|Distrito de Pedasí|Los Santos|0|
+7.8819|-80.6326|Distrito de Pesé|Herrera|0|
+7.8934|-77.5256|Distrito de Pinogana|Darién|0|
+7.6372|-80.1647|Distrito de Pocrí|Los Santos|0|
+9.4975|-79.6073|Distrito de Portobelo|Colón|0|
+8.2025|-81.8116|Distrito de Remedios|Chiriquí Province|0|
+8.7167|-82.7667|Distrito de Renacimiento|Chiriquí Province|0|
+7.9144|-81.1613|Distrito de Río de Jesús|Veraguas|0|
+8.5320|-80.0691|Distrito de San Carlos|Panamá Oeste|0|
+8.2777|-81.8738|Distrito de San Félix|Chiriquí Province|0|
+8.2697|-81.0011|Distrito de San Francisco|Veraguas|0|
+8.2937|-82.0892|Distrito de San Lorenzo|Chiriquí Province|0|
+8.7206|-80.9586|Distrito de Santa Fé|Veraguas|0|
+9.4833|-79.3167|Distrito de Santa Isabel|Colón|0|
+8.1167|-80.6833|Distrito de Santa María|Herrera|0|
+8.1242|-80.8783|Distrito de Santiago|Veraguas|0|
+7.8438|-81.3661|Distrito de Soná|Veraguas|0|
+8.7833|-79.5583|Distrito de Taboga|Panamá|0|
+8.1901|-81.6601|Distrito de Tolé|Chiriquí Province|0|
+7.4360|-80.4583|Distrito de Tonosí|Los Santos|0|
+8.6300|-80.2833|Distrito Penonomé|Coclé|0|
+8.4107|-82.7133|Divalá|Chiriquí Province|2506|
+8.5667|-82.4141|Dolega|Chiriquí Province|0|
+8.5119|-81.0365|El Alto|Veraguas|85|
+7.9606|-80.9480|El Barrito|Veraguas|212|
+8.7613|-80.0129|El Cacao|Panamá Oeste|0|
+7.7184|-80.5976|El Calabacito|Herrera|134|
+7.6177|-80.2332|El Cañafístulo|Los Santos|141|
+8.4019|-80.5179|El Caño|Coclé|1129|
+7.7257|-80.6435|El Capurí|Herrera|124|
+7.7312|-80.2969|El Carate|Los Santos|345|
+7.6856|-80.6593|El Cedro|Herrera|170|
+8.3988|-80.1872|El Chirú|Coclé|531|
+8.9496|-79.5472|El Chorrillo|Panamá|18302|
+7.7370|-80.2798|El Cocal|Los Santos|926|
+8.3214|-80.9207|El Coclá|Veraguas|32|
+8.8701|-79.8042|El Coco|Panamá Oeste|11935|
+8.6204|-80.5843|El Copé|Coclé|1176|
+8.3456|-80.5872|El Cortezo|Coclé|1157|
+8.2507|-80.6209|El Cristo|Coclé|989|
+7.9163|-80.3869|El Ejido|Los Santos|1120|
+9.4167|-82.5167|El Empalme|Bocas del Toro|11035|
+8.6616|-79.8758|El Espavé|Panamá Oeste|0|
+8.8379|-79.8492|El Espino|Panamá Oeste|2422|
+8.0929|-80.8238|El Espino de Santa Rosa|Veraguas|1113|
+9.2451|-79.6927|El Giral|Colón|1522|
+9.0784|-80.0832|El Guabo|Colón|359|
+7.8064|-80.5299|El Guásimo|Los Santos|179|
+7.7932|-80.3827|El Hato|Los Santos|204|
+8.4473|-80.0360|El Higo|Panamá Oeste|566|
+8.6168|-79.8348|El Líbano|Panamá Oeste|0|
+7.6849|-80.4031|El Macano|Los Santos|34|
+7.7824|-80.2471|El Manantial|Los Santos|363|
+8.0358|-81.2149|El Marañón|Veraguas|205|
+8.0290|-81.4438|El María|Veraguas|87|
+7.6758|-80.3213|El Muñoz|Los Santos|161|
+8.2381|-81.7322|El Nancito|Chiriquí Province|288|
+7.9534|-81.1215|El Pájaro|Veraguas|112|
+8.3010|-82.8534|El Palmar|Chiriquí Province|4536|
+8.5375|-81.0694|El Pantano|Veraguas|92|
+7.6917|-80.3279|El Pedregoso|Los Santos|279|
+8.3500|-80.9762|El Peñón|Veraguas|254|
+8.3780|-81.2562|El Picador|Veraguas|163|
+8.2292|-81.8328|El Porvenir|Chiriquí Province|659|
+8.3769|-80.7943|El Potrero|Veraguas|168|
+9.2667|-79.1167|El Progreso|Panamá|4292|
+8.4801|-80.1543|El Retiro|Coclé|450|
+8.1842|-81.4333|El Rincón|Veraguas|300|
+8.1685|-80.6590|El Roble|Coclé|1648|
+9.3722|-82.5288|El Silencio|Bocas del Toro|2017|
+8.4297|-82.5729|El Tejar|Chiriquí Province|267|
+7.7511|-80.8694|El Toro|Herrera|176|
+8.1165|-80.9846|El Uvito|Veraguas|1037|
+9.2363|-79.6599|El Valle de la Unión|Colón|1081|
+8.5688|-80.2074|Entradero|Coclé|1049|
+9.1437|-79.9644|Escobal|Colón|1790|
+8.3566|-80.1372|Farallón|Coclé|1967|
+8.3798|-82.8739|Finca Blanco|Chiriquí Province|1063|
+7.4816|-80.4069|Flores|Los Santos|440|
+8.0668|-78.3644|Garachiné|Darién|1188|
+9.2892|-79.7720|Gatún|Colón|1553|
+9.2435|-79.6486|Gatuncillo|Colón|4605|
+8.5609|-82.7414|Gómez|Chiriquí Province|1257|
+9.0918|-79.5193|Gonzalillo|Panamá|7793|
+8.5747|-82.5373|Guabal|Chiriquí Province|147|
+9.4897|-82.6128|Guabito|Bocas del Toro|1978|
+8.5373|-82.4928|Guaca Arriba|Chiriquí Province|834|
+8.8545|-79.8141|Guadalupe|Panamá Oeste|6561|
+8.5301|-82.2996|Gualaca|Chiriquí Province|3453|
+7.8153|-80.2835|Guararé|Los Santos|3243|
+7.8002|-80.3598|Guararé Arriba|Los Santos|350|
+7.7940|-81.2590|Guarumal|Veraguas|477|
+8.6219|-82.5794|Guayabal|Chiriquí Province|220|
+8.5483|-80.0135|Guayabito|Panamá Oeste|89|
+8.5197|-80.5841|Guzman|Coclé|228|
+8.4428|-81.7720|Hato Chami|Ngöbe-Buglé Comarca|641|
+8.3352|-81.9703|Hato Corotú|Ngöbe-Buglé Comarca|303|
+8.9194|-79.7391|Hato Montaña|Panamá Oeste|1239|
+8.3114|-82.1510|Horconcitos|Chiriquí Province|877|
+8.9394|-79.5910|Howard|Panamá|1222|
+9.3000|-82.1333|Isla Bastimentos|Bocas del Toro|1500|
+7.5183|-78.1634|Jaqué|Darién|1466|
+9.0500|-79.4500|Juan Díaz|Panamá|100636|
+8.8950|-81.8575|Kankintú|Ngöbe-Buglé Comarca|1218|
+9.1712|-81.8962|Kusapín|Ngöbe-Buglé Comarca|1408|
+7.9677|-80.4652|La Arena|Herrera|7175|
+9.1187|-79.5366|La Cabima|Panamá|17975|
+8.8803|-79.7833|La Chorrera|Panamá Oeste|61232|
+7.8236|-80.5555|La Colorada|Los Santos|158|
+8.5121|-82.6186|La Concepción|Chiriquí Province|17698|
+7.8333|-80.2742|La Enea|Los Santos|1105|
+8.3662|-78.8461|La Ensenada|Panamá|94|
+8.4562|-80.0683|La Ermita|Panamá Oeste|426|
+8.2682|-78.9246|La Esmeralda|Panamá|524|
+8.4034|-82.7920|La Esperanza|Chiriquí Province|1890|
+7.8839|-80.3904|La Espigadilla|Los Santos|1172|
+8.5157|-82.6721|La Estrella|Chiriquí Province|885|
+7.9371|-81.0164|La Garceana|Veraguas|85|
+8.3425|-78.9343|La Guinea|Panamá|83|
+8.8485|-79.8040|La Herradura|Panamá Oeste|6271|
+7.5859|-80.1321|Lajamina|Los Santos|330|
+8.2498|-81.8778|Lajas Adentro|Chiriquí Province|342|
+8.1699|-81.6965|Lajas de Tolé|Chiriquí Province|235|
+8.2906|-81.7705|Lajero Arriba|Ngöbe-Buglé Comarca|0|
+8.3388|-80.7295|La Laguna|Veraguas|52|
+7.7310|-80.2530|La Laja|Los Santos|383|
+7.4371|-80.8912|La Loma|Veraguas|0|
+7.6567|-80.6179|La Mesa|Los Santos|392|
+7.5602|-80.3274|La Miel|Los Santos|102|
+8.8409|-79.7865|La Mitra|Panamá Oeste|5699|
+8.0249|-80.8632|La Montañuela|Veraguas|251|
+7.7167|-80.3833|La Palma|Los Santos|1283|
+7.7976|-80.3034|La Pasera|Los Santos|563|
+8.1278|-81.0269|La Peña|Veraguas|2223|
+8.8507|-79.8237|La Pesa|Panamá Oeste|7773|
+8.5930|-80.4435|La Pintada|Coclé|1917|
+8.2163|-80.8273|La Raya de Calobre|Veraguas|233|
+8.1643|-80.8214|La Raya de Santa María|Veraguas|757|
+8.5500|-80.0833|Las Colinas|Panamá Oeste|1447|
+7.8228|-80.4300|Las Cruces|Los Santos|823|
+9.0892|-79.5281|Las Cumbres|Panamá|69102|
+7.8147|-80.5015|Las Guabas|Los Santos|192|
+8.1945|-80.7549|Las Guías Abajo|Veraguas|416|
+7.9017|-81.1406|Las Huacas|Veraguas|180|
+8.4670|-80.7509|Las Huacas del Quije|Coclé|451|
+8.2418|-81.8693|Las Lajas|Chiriquí Province|1012|
+8.4293|-82.3874|Las Lomas|Chiriquí Province|11726|
+9.3260|-79.8903|Las Margaritas|Colón|0|
+8.8881|-80.2189|Las Marias|Coclé|71|
+8.6412|-80.3943|Las Minas|Coclé|548|
+7.6831|-80.4973|Las Palmas|Los Santos|13|
+7.7652|-80.2935|Las Palmitas|Los Santos|821|
+8.5814|-80.6798|Las Sabanas|Coclé|88|
+7.7647|-80.2748|Las Tablas|Los Santos|8939|
+7.7340|-80.3738|Las Trancas|Los Santos|153|
+8.4594|-80.0007|Las Uvas|Panamá Oeste|482|
+7.7511|-80.2922|La Tiza|Los Santos|1150|
+7.9146|-80.7033|La Trinidad|Herrera|123|
+7.4361|-80.5870|La Tronosa|Los Santos|79|
+8.4306|-80.8575|La Yeguada|Veraguas|122|
+7.7542|-81.1156|Leones Arriba|Veraguas|69|
+8.7487|-79.9097|Lídice|Panamá|4245|
+7.8176|-80.9133|Limón de Tijeras|Herrera|56|
+8.1001|-82.8668|Limones|Chiriquí Province|315|
+7.7860|-80.4106|Llano Abajo|Los Santos|304|
+7.9764|-80.4165|Llano Bonito|Herrera|9716|
+7.9518|-80.6424|Llano de La Cruz|Herrera|188|
+7.6597|-80.5635|Llano de Piedra|Los Santos|1054|
+8.6382|-80.4385|Llano Grande|Coclé|438|
+7.9061|-80.4256|Llano Largo|Los Santos|1013|
+8.4770|-80.3250|Llano Marín|Coclé|1757|
+8.4200|-81.6187|Llano Ñopo|Ngöbe-Buglé Comarca|289|
+8.0933|-81.4716|Lolá|Veraguas|364|
+8.7182|-81.4049|Loma Yuca|Ngöbe-Buglé Comarca|17|
+8.1090|-81.0135|Los Algarrobos|Veraguas|1977|
+8.5303|-82.4230|Los Anastacios|Chiriquí Province|1110|
+8.5227|-82.2000|Los Ángeles|Chiriquí Province|250|
+7.5166|-80.1352|Los Asientos|Los Santos|430|
+8.1172|-80.7077|Los Canelos|Herrera|965|
+8.0233|-81.1194|Los Castillos|Veraguas|510|
+7.7975|-80.6107|Los Cerritos|Herrera|531|
+7.7182|-80.6727|Los Cerros de Paja|Herrera|61|
+8.2055|-80.8602|Los Higos|Veraguas|127|
+8.5979|-80.0950|Los Llanitos|Panamá Oeste|146|
+9.1242|-79.2893|Los Lotes|Panamá|1323|
+8.7921|-82.4467|Los Naranjos|Chiriquí Province|452|
+7.9159|-80.4888|Los Olivos|Los Santos|618|
+8.3990|-80.1573|Los Pollos|Coclé|1419|
+7.7830|-80.6452|Los Pozos|Herrera|508|
+7.9333|-80.4167|Los Santos|Los Santos|5970|
+7.7317|-80.5536|Macaracas|Los Santos|2224|
+8.3246|-82.8157|Manaca Civil|Chiriquí Province|1220|
+8.3342|-82.8100|Manaca Norte|Chiriquí Province|1294|
+9.4399|-79.7545|María Chiquita|Colón|1146|
+7.6781|-81.0041|Mariato|Veraguas|0|
+8.4506|-82.4006|Mata del Nance|Chiriquí Province|1051|
+9.0147|-79.8507|Mendoza|Panamá Oeste|729|
+8.4991|-77.9790|Metetí|Darién|2298|
+8.9948|-82.2415|Miramar|Bocas del Toro|346|
+8.4047|-81.8306|Mirono|Ngöbe-Buglé Comarca|0|
+7.6426|-80.4595|Mogollón|Los Santos|79|
+7.9818|-80.4376|Monagrillo|Herrera|10821|
+8.3694|-80.8667|Monjarás|Veraguas|146|
+8.7894|-82.8286|Monte Lirio|Chiriquí Province|715|
+7.9886|-81.0564|Montijo|Veraguas|1932|
+8.8425|-77.9754|Mortí|Darién|567|
+8.9467|-77.7508|Mulatupo|Guna|1303|
+8.3504|-81.6722|Müna|Ngöbe-Buglé Comarca|0|
+9.4439|-78.5867|Narganá|Guna|1090|
+8.3321|-80.5197|Natá|Coclé|5470|
+8.3268|-81.8153|Nole Düima|Ngöbe-Buglé Comarca|0|
+9.5794|-79.4711|Nombre de Dios|Colón|872|
+7.5305|-80.3269|Nuario|Los Santos|92|
+8.4449|-80.5893|Nuestro Amo|Coclé|235|
+8.8694|-79.9947|Nueva Arenosa|Panamá Oeste|283|
+9.1021|-79.3341|Nueva Esperanza|Panamá|9342|
+8.5500|-79.8755|Nueva Gorgona|Panamá Oeste|3530|
+8.9245|-79.7200|Nuevo Arraiján|Panamá Oeste|14920|
+9.0794|-79.3956|Nuevo Belén|Panamá|24056|
+9.2398|-80.0827|Nuevo Chagres|Colón|410|
+9.0027|-79.7314|Nuevo Emperador|Panamá Oeste|2003|
+8.4570|-82.4371|Nuevo San Carlitos|Chiriquí Province|1724|
+9.2220|-79.6660|Nuevo San Juan|Colón|1494|
+9.2426|-79.6076|Nuevo Vigía|Colón|2163|
+8.4781|-81.4702|Nurun|Ngöbe-Buglé Comarca|0|
+7.9405|-80.7794|Ocú|Herrera|3939|
+8.4181|-80.6512|Olá|Coclé|384|
+8.3502|-81.8018|Oma|Ngöbe-Buglé Comarca|535|
+7.5050|-80.2057|Oria Arriba|Los Santos|118|
+9.0794|-79.2900|Pacora|Panamá|6856|
+8.6834|-82.3191|Paja de Sombrero|Chiriquí Province|157|
+9.5697|-79.3634|Palenque|Colón|355|
+9.2284|-80.0850|Palmas Bellas|Colón|1337|
+8.7340|-82.4589|Palmira|Chiriquí Province|1144|
+8.7396|-82.4523|Palmira Centro|Chiriquí Province|920|
+8.9936|-79.5197|Panamá|Panamá|408168|Panama City
+7.6851|-80.1608|Paraíso|Los Santos|234|
+8.4598|-81.1959|Paredón Arriba|Ngöbe-Buglé Comarca|207|
+8.0505|-80.5541|París|Herrera|894|
+7.9939|-80.5210|Parita|Herrera|2864|
+7.6285|-80.1724|Paritilla|Los Santos|608|
+9.0167|-79.4833|Parque Lefevre|Panamá|36997|
+8.9365|-78.9092|Pásiga|Panamá|77|
+8.5652|-82.8221|Paso Canoas Arriba|Chiriquí Province|1090|
+7.5303|-80.0270|Pedasí|Los Santos|1920|
+8.3659|-82.4352|Pedregal|Chiriquí Province|17427|
+9.0661|-79.4258|Pedregal|Panamá|51641|
+7.7193|-80.2837|Peña Blanca|Los Santos|804|
+8.0150|-80.8037|Peñas Chatas|Herrera|358|
+8.5189|-80.3573|Penonomé|Coclé|16250|
+7.7746|-80.3249|Perales|Los Santos|230|
+7.9086|-80.6143|Pesé|Herrera|2565|
+8.5242|-80.9115|Piedras Gordas|Veraguas|94|
+7.6422|-80.6679|Pitaloza Arriba|Herrera|188|
+8.4617|-82.1592|Plan de Chorcha|Ngöbe-Buglé Comarca|490|
+9.5662|-79.2918|Playa Chiquita|Colón|105|
+8.7839|-79.7755|Playa Leona|Panamá Oeste|556|
+9.3113|-78.2327|Playón Chico|Guna|2042|
+8.7367|-82.8197|Plaza de Caisán|Chiriquí Province|1363|
+8.2581|-80.5500|Pocrí|Coclé|12304|
+7.8825|-80.9788|Ponuga|Veraguas|509|
+8.0174|-80.5954|Portobelillo|Herrera|497|
+9.5530|-79.6569|Portobelo|Colón|1393|
+8.6398|-82.4856|Potrerillos Abajo|Chiriquí Province|1182|
+8.6855|-82.4909|Potrerillos Arriba|Chiriquí Province|1074|
+8.8805|-79.8280|Potrero Grande|Panamá Oeste|4044|
+8.0632|-80.6227|Potuga|Herrera|795|
+8.4467|-82.8386|Progreso|Chiriquí Province|2211|
+7.9788|-77.4876|Púcuro|Darién|355|
+8.8807|-82.2241|Pueblo Nuevo|Ngöbe-Buglé Comarca|1109|
+8.2508|-81.6626|Pueblo Viejo|Chiriquí Province|1042|
+8.2777|-82.8621|Puerto Armuelles|Chiriquí Province|11743|
+8.8702|-79.7142|Puerto Caimito|Panamá Oeste|4174|
+9.1933|-80.0883|Puerto Escondido|Colón|12371|
+8.6663|-77.4192|Puerto Obaldía|Guna|533|
+9.3632|-79.7933|Puerto Pilón|Colón|8754|
+8.0483|-81.6050|Puerto Vidal|Veraguas|506|
+8.0333|-82.8667|Punta de Burica|Chiriquí Province|0|
+9.1410|-82.1272|Punta Laurel|Bocas del Toro|69|
+8.9166|-82.1849|Punta Peña|Bocas del Toro|1187|
+9.0363|-82.2495|Punta Róbalo|Bocas del Toro|149|
+9.2966|-79.7061|Quebrada Bonita Adentro|Colón|2229|
+8.4333|-81.7833|Quebrada Canoa|Ngöbe-Buglé Comarca|0|
+7.7124|-80.7422|Quebrada del Rosario|Herrera|123|
+8.0355|-81.3869|Quebrada de Oro|Veraguas|73|
+8.0942|-81.6792|Quebrada de Piedra|Chiriquí Province|455|
+8.8404|-81.9964|Quebrada Tula|Ngöbe-Buglé Comarca|283|
+8.3717|-82.5267|Querévalo|Chiriquí Province|882|
+8.4710|-82.3935|Quinteño|Chiriquí Province|0|
+8.2244|-81.8275|Remedios|Chiriquí Province|829|
+8.4637|-82.2795|Rincón|Chiriquí Province|692|
+7.8444|-80.6040|Rincón Hondo|Herrera|359|
+9.0167|-79.5000|Río Abajo|Panamá|26607|
+9.3715|-79.7881|Río Alejandro|Colón|3084|
+8.9667|-79.7610|Río Congo|Panamá Oeste|898|
+7.9788|-81.1616|Río de Jesús|Veraguas|1060|
+9.2569|-79.6794|Río Duque|Colón|1374|
+7.7191|-81.3342|Río Grande|Veraguas|71|
+8.3794|-80.1662|Río Hato|Coclé|5615|
+7.7119|-80.3590|Río Hondo|Los Santos|76|
+9.3030|-79.7923|Río Rita|Colón|1222|
+8.8174|-82.8573|Río Sereno|Chiriquí Province|1368|
+8.1120|-81.3168|Rodeo Viejo|Veraguas|140|
+8.6382|-82.4997|Rovira Arriba|Chiriquí Province|403|
+7.8354|-80.3649|Sabana Grande|Los Santos|521|
+9.3427|-79.8096|Sabanitas|Colón|15577|
+7.8201|-78.1101|Sambú|Emberá-Wounaan Comarca|653|
+8.6026|-82.7259|San Andrés|Chiriquí Province|1152|
+9.1729|-79.5474|San Antonio|Panamá|1435|
+8.2106|-81.2757|San Bartolo|Veraguas|158|
+8.4732|-79.9610|San Carlos|Panamá Oeste|857|
+8.9512|-79.5373|San Felipe|Panamá|3262|
+8.2906|-81.8670|San Félix|Chiriquí Province|1051|
+8.0667|-81.3667|San Francisco|Veraguas|1785|
+9.2890|-78.1521|San Ignacio de Tupile|Guna|1429|
+8.5303|-82.8272|San Isidro|Chiriquí Province|1648|
+8.9333|-79.7333|San José|Panamá Oeste|3982|
+8.3031|-81.0157|San Juan|Veraguas|193|
+7.9610|-80.4128|San Juan Bautista|Herrera|11798|
+8.5512|-80.2262|San Juan de Dios|Coclé|400|
+8.3056|-82.1011|San Lorenzo|Chiriquí Province|1025|
+8.2725|-81.1599|San Marcelo|Veraguas|66|
+8.4568|-78.9369|San Miguel|Panamá|532|
+9.0503|-79.4707|San Miguelito|Panamá|321501|
+8.4256|-82.5017|San Pablo Nuevo Abajo|Chiriquí Province|0|
+8.4534|-82.5018|San Pablo Viejo Abajo|Chiriquí Province|5992|
+8.1401|-81.0866|San Pedro del Espino|Veraguas|554|
+9.3000|-82.7000|San San Drui|Naso Tjër Di|0|
+7.9330|-80.3637|Santa Ana Arriba|Los Santos|1025|
+9.0288|-79.7544|Santa Clara|Panamá Oeste|1410|
+8.2322|-81.9132|Santa Cruz|Chiriquí Province|386|
+8.5106|-81.0780|Santa Fé|Veraguas|968|
+9.5392|-79.1957|Santa Isabel|Colón|256|
+8.1114|-80.6658|Santa María|Herrera|1679|
+8.5141|-82.6987|Santa Marta|Chiriquí Province|1952|
+8.8568|-79.8795|Santa Rita|Panamá Oeste|987|
+9.3303|-79.7936|Santa Rita Arriba|Colón|1960|
+8.5996|-82.6849|Santa Rosa|Chiriquí Province|207|
+8.1000|-80.9833|Santiago de Veraguas|Veraguas|45355|
+8.5080|-82.7130|Santo Domingo|Chiriquí Province|1216|
+8.3896|-82.6506|Santo Tomás|Chiriquí Province|653|
+9.1144|-79.5975|San Vicente|Panamá|14109|
+8.9114|-79.6736|San Vicente de Bique|Panamá Oeste|1784|
+7.7389|-80.2485|Sesteadero|Los Santos|0|
+9.3833|-82.6522|Sieyic|Naso Tjër Di|0|
+8.4868|-82.6654|Sioguí Abajo|Chiriquí Province|2675|
+8.5387|-82.6862|Sioguí Arriba|Chiriquí Province|1112|
+8.3723|-81.5814|Sitio Prado|Ngöbe-Buglé Comarca|248|
+8.0122|-81.3216|Soná|Veraguas|7669|
+8.6319|-80.0089|Sorá|Panamá Oeste|598|
+8.5464|-82.6517|Sortova|Chiriquí Province|1706|
+7.7137|-80.9783|Tebario|Veraguas|190|
+9.3833|-82.5833|Teribe|Naso Tjër Di|0|
+8.4751|-82.5606|Tijeras|Chiriquí Province|1148|
+8.5528|-82.4596|Tinajas|Chiriquí Province|905|
+8.6513|-80.3202|Toabré|Coclé|603|
+9.1211|-81.8247|Tobobe|Ngöbe-Buglé Comarca|607|
+9.0894|-79.3831|Tocumen|Panamá|50844|
+8.2399|-81.6717|Tolé|Chiriquí Province|2794|
+7.4068|-80.4422|Tonosí|Los Santos|1478|
+8.9213|-78.4055|Tortí|Panamá|1611|
+8.3454|-80.6401|Toza|Coclé|253|
+7.8402|-80.4074|Tres Quebradas|Los Santos|715|
+9.5167|-79.0333|Tubualá|Guna|1061|
+8.0840|-77.5351|Unión Chocó|Emberá-Wounaan Comarca|9497|
+9.1526|-79.1701|Unión de Azuero|Panamá|1004|
+8.8353|-78.6510|Unión Santeña|Panamá|413|
+9.1311|-77.9262|Ustupo|Guna|2514|
+7.9721|-81.2178|Utirá|Veraguas|312|
+9.2306|-82.4275|Valle del Risco|Bocas del Toro|0|
+7.6201|-80.3508|Valle Rico|Los Santos|178|
+7.6216|-80.3197|Vallerriquito|Los Santos|196|
+8.2314|-81.6542|Veladero|Chiriquí Province|885|
+8.8899|-79.6260|Veracruz|Panamá Oeste|17144|
+9.5826|-79.4069|Viento Frío|Colón|387|
+8.3392|-81.4982|Viguí|Veraguas|110|
+8.7983|-79.8693|Villa Carmen|Panamá Oeste|1043|
+7.8114|-80.4703|Villa Lourdes|Los Santos|410|
+8.7738|-79.8755|Villa Rosario|Panamá Oeste|3843|
+9.1891|-79.6245|Villa Unida|Panamá|14854|
+8.9277|-79.7028|Vista Alegre|Panamá Oeste|8673|
+9.1118|-79.3611|Vista Hermosa|Panamá|4742|
+8.7729|-82.6382|Volcán|Chiriquí Province|10286|
+8.0984|-77.5982|Yape|Emberá-Wounaan Comarca|170|
+8.1584|-77.6928|Yaviza|Darién|1700|
+8.0053|-81.5065|Zapotillo|Veraguas|375|

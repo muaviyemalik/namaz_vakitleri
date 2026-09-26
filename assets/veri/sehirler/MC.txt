@@ -1,18 +1,18 @@
-43.7294|7.4150|Fontvieille
-43.7314|7.4139|Jardin Exotique
-43.7327|7.4137|La Colle
-43.7351|7.4199|La Condamine
-43.7319|7.4168|La Gare
-43.7467|7.4333|Larvotto
-43.7365|7.4195|La Source
-43.7345|7.4215|Malbousquet
-43.7372|7.4215|Monaco
-43.7311|7.4200|Monaco-Ville
-43.7365|7.4153|Moneghetti
-43.7397|7.4272|Monte-Carlo
-43.7389|7.4185|Moulins
-43.7347|7.4253|Port-Hercule
-43.7372|7.4208|Sainte-Dévote
-43.7453|7.4318|Saint-Roman
-43.7392|7.4251|Spélugues
-43.7401|7.4175|Vallon de la Rousse
+43.7294|7.4150|Fontvieille|Fontvieille|3602|
+43.7314|7.4139|Jardin Exotique|Jardin Exotique|5117|
+43.7327|7.4137|La Colle|La Colle|0|
+43.7351|7.4199|La Condamine|La Condamine|12167|
+43.7319|7.4168|La Gare|La Gare|0|
+43.7467|7.4333|Larvotto|Larvotto|2026|
+43.7365|7.4195|La Source|La Source|0|
+43.7345|7.4215|Malbousquet|Malbousquet|0|
+43.7372|7.4215|Monaco|Municipality of Monaco|32965|
+43.7311|7.4200|Monaco-Ville|Monaco-Ville|1064|
+43.7365|7.4153|Moneghetti|Moneghetti|3000|
+43.7397|7.4272|Monte-Carlo|Monte-Carlo|16012|
+43.7389|7.4185|Moulins|Moulins|0|
+43.7347|7.4253|Port-Hercule|Port-Hercule|0|
+43.7372|7.4208|Sainte-Dévote|Sainte-Dévote|0|
+43.7453|7.4318|Saint-Roman|Saint-Roman|3000|
+43.7392|7.4251|Spélugues|Spélugues|0|
+43.7401|7.4175|Vallon de la Rousse|Vallon de la Rousse|0|

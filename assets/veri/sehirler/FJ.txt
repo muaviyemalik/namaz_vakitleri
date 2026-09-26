@@ -1,23 +1,23 @@
--17.5343|177.6741|Ba
--17.6667|177.6667|Ba Province
--16.8333|178.7500|Bua
--16.6667|179.4167|Cakaudrove
--18.9933|178.2202|Kadavu
--16.4332|179.3645|Labasa
--18.1109|178.4094|Lami
--18.2049|-178.7925|Lau
--17.6169|177.4505|Lautoka
--18.0667|179.3167|Levuka
--17.6667|178.8000|Lomaiviti
--16.5000|179.2500|Macuata
--17.8031|177.4162|Nadi
--17.8333|178.2500|Naitasiri
--18.0500|178.1333|Namosi
--18.0000|177.6667|Nandronga and Navosa
--18.0705|178.5131|Nasinu
--17.5000|178.1667|Ra
--18.0833|178.3333|Rewa
--18.1667|178.0000|Serua
--18.1431|177.5069|Sigatoka
--18.1416|178.4415|Suva
--17.8333|178.5000|Tailevu
+-17.5343|177.6741|Ba|Western|14596|
+-17.6667|177.6667|Ba Province|Western|0|
+-16.8333|178.7500|Bua|Northern|0|
+-16.6667|179.4167|Cakaudrove|Northern|0|
+-18.9933|178.2202|Kadavu|Eastern|0|
+-16.4332|179.3645|Labasa|Northern|27949|
+-18.1109|178.4094|Lami|Central|24639|
+-18.2049|-178.7925|Lau|Eastern|0|
+-17.6169|177.4505|Lautoka|Western|52500|
+-18.0667|179.3167|Levuka|Eastern|8360|
+-17.6667|178.8000|Lomaiviti|Eastern|0|
+-16.5000|179.2500|Macuata|Northern|0|
+-17.8031|177.4162|Nadi|Western|42284|
+-17.8333|178.2500|Naitasiri|Central|0|
+-18.0500|178.1333|Namosi|Central|0|
+-18.0000|177.6667|Nandronga and Navosa|Western|0|
+-18.0705|178.5131|Nasinu|Central|92043|
+-17.5000|178.1667|Ra|Western|0|
+-18.0833|178.3333|Rewa|Central|0|
+-18.1667|178.0000|Serua|Central|0|
+-18.1431|177.5069|Sigatoka|Western|17622|
+-18.1416|178.4415|Suva|Central|77366|
+-17.8333|178.5000|Tailevu|Central|0|

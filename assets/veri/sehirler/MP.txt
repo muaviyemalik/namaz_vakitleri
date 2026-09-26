@@ -1,1 +1,2 @@
-15.2000|145.7500|Saipan
+15.2123|145.7545|Saipan|Saipan|48220|
+14.9682|145.6200|San Jose Village|Tinian|15000|

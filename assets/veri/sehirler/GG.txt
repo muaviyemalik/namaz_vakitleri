@@ -1,5 +1,5 @@
-49.4298|-2.6017|Forest Parish
-49.4598|-2.5353|Saint Peter Port
-49.4540|-2.6381|Saint Pierre du Bois Parish
-49.4839|-2.5233|Saint Sampson
-49.4944|-2.5179|Vale Parish
+49.4298|-2.6017|Forest Parish|Forest|1624|
+49.4598|-2.5353|Saint Peter Port|St Peter Port|16488|
+49.4540|-2.6381|Saint Pierre du Bois Parish|St Pierre du Bois|2001|
+49.4839|-2.5233|Saint Sampson|St Sampson|8966|
+49.4944|-2.5179|Vale Parish|St Pierre du Bois|9646|

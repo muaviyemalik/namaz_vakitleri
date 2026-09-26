@@ -1,180 +1,181 @@
--35.1667|173.1667|Ahipara
--43.1559|172.7297|Amberley
--44.9384|168.8101|Arrowtown
--43.8983|171.7301|Ashburton
--43.9000|171.7500|Ashburton District
--36.8485|174.7635|Auckland
--36.8833|174.7000|Avondale
--46.2339|169.7500|Balclutha
--41.5160|173.9528|Blenheim
--46.6000|168.3333|Bluff
--41.3833|173.1167|Brightwater
--41.3059|174.7626|Brooklyn
--40.1749|175.3846|Bulls
--43.6167|172.3167|Burnham
--37.8782|175.4402|Cambridge
--40.9000|176.2167|Castlepoint
--43.5333|172.6333|Christchurch
--46.0388|169.6062|Clutha
--36.7611|175.4963|Coromandel
--45.0384|169.2001|Cromwell
--43.4833|172.1167|Darfield
--35.9333|173.8833|Dargaville
--45.8742|170.5036|Dunedin
--37.9833|176.8333|Edgecumbe
--39.4292|174.3000|Eltham
--36.8875|174.7706|Epsom
--35.0336|173.4884|Far North
--40.4667|175.3000|Foxton
--44.0906|171.2446|Geraldine
--38.6533|178.0042|Gisborne
--46.1028|168.9436|Gore
--42.4667|171.2000|Greymouth
--37.7833|175.2833|Hamilton
--37.7882|175.2902|Hamilton East
--39.6381|176.8492|Hastings
--39.5917|174.2833|Hawera
--36.8801|174.6198|Henderson
--42.7167|170.9667|Hokitika
--40.5773|175.3807|Horowhenua
--37.5797|175.1553|Huntly
--46.4000|168.3500|Invercargill
--43.3783|172.6401|Kaiapoi
--35.9955|174.0469|Kaipara
--35.1148|173.2637|Kaitaia
--40.8568|175.1469|Kapiti Coast
--41.2837|174.7414|Karori
--37.5500|175.9167|Katikati
--35.3833|174.0667|Kawakawa
--38.1000|176.7000|Kawerau
--41.2833|174.7667|Kelburn
--35.2268|173.9474|Kerikeri
--41.2450|174.7942|Khandallah
--45.3329|168.7148|Kingston
--43.7667|172.3000|Leeston
--40.6333|175.2750|Levin
--43.6500|172.4833|Lincoln
--41.2167|174.9167|Lower Hutt
--43.9399|170.5191|Mackenzie
--37.7667|176.4500|Maketu
--40.1198|175.6743|Manawatu
--36.9681|174.7988|Mangere
--36.9659|174.8239|Mangere East
--36.9928|174.8799|Manukau City
--37.0182|174.8802|Manurewa
--41.2500|173.1000|Mapua
--36.8382|174.6102|Massey
--36.8282|174.6202|Massey East
--40.9597|175.6575|Masterton
--37.8106|175.7624|Matamata
--35.7500|174.2000|Maungatapere
--36.1296|174.3462|Maungaturoto
--43.6333|171.6500|Methven
--46.1208|169.9694|Milton
--35.3833|174.0333|Moerewa
--41.1333|173.0167|Motueka
--36.8816|174.7620|Mount Eden
--36.8167|174.4500|Muriwai Beach
--36.7282|174.7502|Murrays Bay
--38.4667|176.7000|Murupara
--39.4926|176.9123|Napier
--41.2708|173.2840|Nelson
--36.9069|174.6870|New Lynn
--39.0667|174.0833|New Plymouth
--39.0587|174.1031|New Plymouth District
--37.6674|175.1555|Ngaruawahia
--37.2833|175.5000|Ngatea
--35.6167|174.5000|Ngunguru
--36.8000|174.7500|North Shore
--45.0976|170.9709|Oamaru
--38.0091|177.2871|Opotiki
--39.4556|173.8583|Opunake
--36.9382|174.8402|Otahuhu
--40.7583|175.1500|Otaki
--36.9482|174.8702|Otara
--37.1508|174.6519|Otaua
--38.1833|175.2000|Otorohanga
--43.3000|172.1833|Oxford
--37.3667|175.6667|Paeroa
--35.2807|174.0910|Paihia
--36.8833|174.9167|Pakuranga
--40.3564|175.6111|Palmerston North
--37.0657|174.9439|Papakura
--36.9682|174.8402|Papatoetoe
--46.5607|169.4707|Papatowai
--36.6500|174.4333|Parakai
--40.9167|175.0167|Paraparaumu
--39.7583|174.4833|Patea
--41.2283|174.8702|Petone
--41.2907|174.0080|Picton
--44.2667|171.1333|Pleasant Point
--41.1333|174.8500|Porirua
--45.8500|170.6500|Portobello
--43.5833|172.5167|Prebbleton
--37.2000|174.9500|Pukekohe East
--45.0302|168.6627|Queenstown
--37.8000|174.8833|Raglan
--43.7500|172.0167|Rakaia
--43.3044|172.5836|Rangiora
--37.0582|174.9702|Red Hill
--36.8804|174.7982|Remuera
--41.3333|173.1833|Richmond
--46.3500|168.0167|Riverton
--43.5833|172.3833|Rolleston
--36.8749|174.6699|Rosebank
--36.7260|174.7406|Rothesay Bay
--38.1387|176.2452|Rotorua
--35.9082|174.4502|Ruakaka
--43.3223|171.8706|Selwyn
--45.7726|167.8527|Southland
--39.5216|174.3716|South Taranaki
--38.1680|175.8862|South Waikato
--41.2673|175.3844|South Wairarapa
--41.3167|173.2333|Stoke
--39.3222|174.2630|Stratford
--34.9960|173.4666|Taipa
--37.0167|175.8500|Tairua
--40.8500|172.8000|Takaka
--37.0482|174.9002|Takanini
--36.8882|174.8602|Tamaki
--39.5333|176.8500|Taradale
--38.6833|176.0833|Taupo
--37.6861|176.1667|Tauranga
--45.4167|167.7167|Te Anau
--36.8410|174.6522|Te Atatu Peninsula
--36.8647|174.6477|Te Atatu South
--37.4000|175.1500|Te Kauwhata
--37.1383|175.5401|Thames
--44.3967|171.2536|Timaru
--44.4000|171.2167|Timaru District
--43.9167|171.7167|Tinwald
--36.9375|174.6558|Titirangi
--38.2333|175.8667|Tokoroa
--38.9904|175.8084|Turangi
--41.1383|175.0502|Upper Hutt
--37.3833|175.8333|Waihi
--37.4000|175.9333|Waihi Beach
--43.2075|172.3329|Waimakariri
--35.3167|173.8833|Waimate North
--41.2667|174.9500|Wainuiomata
--39.4775|175.6683|Waiouru
--41.4122|175.5153|Waipawa
--39.0333|177.3667|Wairoa
--36.9175|174.6577|Waitakere
--43.9535|-176.5597|Waitangi
--39.0016|174.2384|Waitara
--37.2481|174.7349|Waiuku
--41.4000|173.0500|Wakefield
--44.7000|169.1500|Wanaka
--39.9333|175.0500|Wanganui|Whanganui
--36.4000|174.6667|Warkworth
--41.2866|174.7756|Wellington
--36.2833|174.5167|Wellsford
--41.7526|171.6037|Westport
--37.9586|176.9854|Whakatane
--37.2000|175.8667|Whangamata
--35.7317|174.3239|Whangarei
--36.8333|175.7000|Whitianga
--46.1500|168.3333|Winton
--36.9982|174.8602|Wiri
--43.3167|172.6667|Woodend
+-35.1667|173.1667|Ahipara|Northland|1093|
+-43.1559|172.7297|Amberley|Canterbury|2780|
+-44.9384|168.8101|Arrowtown|Otago|2151|
+-43.8983|171.7301|Ashburton|Canterbury|21600|
+-43.9000|171.7500|Ashburton District|Canterbury|0|
+-36.8485|174.7635|Auckland|Auckland|1547200|
+-36.8833|174.7000|Avondale|Auckland|26450|
+-46.2339|169.7500|Balclutha|Otago|4441|
+-41.5160|173.9528|Blenheim|Marlborough|29800|
+-46.6000|168.3333|Bluff|Southland|1938|
+-41.3833|173.1167|Brightwater|Tasman|2390|
+-41.3059|174.7626|Brooklyn|Wellington|3855|
+-40.1749|175.3846|Bulls|Manawatu-Whanganui|2150|
+-43.6167|172.3167|Burnham|Canterbury|1239|
+-37.8782|175.4402|Cambridge|Waikato|15192|
+-40.9000|176.2167|Castlepoint|Wellington|1686|
+-43.5333|172.6333|Christchurch|Canterbury|419200|
+-46.0388|169.6062|Clutha|Otago|0|
+-36.7611|175.4963|Coromandel|Waikato|1780|
+-45.0384|169.2001|Cromwell|Otago|5160|
+-43.4833|172.1167|Darfield|Canterbury|3380|
+-35.9333|173.8833|Dargaville|Northland|5170|
+-45.8742|170.5036|Dunedin|Otago|132800|
+-37.9833|176.8333|Edgecumbe|Bay of Plenty|1900|
+-39.4292|174.3000|Eltham|Taranaki|2150|
+-36.8875|174.7706|Epsom|Auckland|20200|
+-35.0336|173.4884|Far North|Northland|0|
+-40.4667|175.3000|Foxton|Manawatu-Whanganui|4780|
+-44.0906|171.2446|Geraldine|Canterbury|2301|
+-38.6533|178.0042|Gisborne|Gisborne|38100|
+-46.1028|168.9436|Gore|Southland|13050|
+-42.4667|171.2000|Greymouth|West Coast|9419|
+-37.7833|175.2833|Hamilton|Waikato|192100|
+-37.7882|175.2902|Hamilton East|Waikato Region|15300|
+-39.6381|176.8492|Hastings|Hawke's Bay|88300|
+-39.5917|174.2833|Hawera|Taranaki|10700|
+-36.8801|174.6198|Henderson|Auckland|18770|
+-42.7167|170.9667|Hokitika|West Coast|3350|
+-40.5773|175.3807|Horowhenua|Manawatu-Whanganui|0|
+-37.5797|175.1553|Huntly|Waikato|8850|
+-46.4000|168.3500|Invercargill|Southland|58000|
+-43.3783|172.6401|Kaiapoi|Canterbury|13700|
+-35.9955|174.0469|Kaipara|Northland|0|
+-35.1148|173.2637|Kaitaia|Northland|0|
+-40.8568|175.1469|Kapiti Coast|Wellington|0|
+-41.2837|174.7414|Karori|Wellington Region|15380|
+-37.5500|175.9167|Katikati|Bay of Plenty|6000|
+-35.3833|174.0667|Kawakawa|Northland|1500|
+-38.1000|176.7000|Kawerau|Bay of Plenty|7670|
+-41.2833|174.7667|Kelburn|Wellington|4890|
+-35.2268|173.9474|Kerikeri|Northland|8380|
+-41.2450|174.7942|Khandallah|Wellington|8640|
+-45.3329|168.7148|Kingston|Otago|0|
+-43.7667|172.3000|Leeston|Canterbury|2490|
+-40.6333|175.2750|Levin|Manawatu-Whanganui|19789|
+-36.8582|174.6202|Lincoln|Auckland|17240|
+-43.6500|172.4833|Lincoln|Canterbury|9180|
+-41.2167|174.9167|Lower Hutt|Wellington|114200|
+-43.9399|170.5191|Mackenzie|Canterbury|0|
+-37.7667|176.4500|Maketu|Bay of Plenty|1410|
+-40.1198|175.6743|Manawatu|Manawatu-Whanganui|0|
+-36.9681|174.7988|Mangere|Auckland|23310|
+-36.9659|174.8239|Mangere East|Auckland|28540|
+-36.9928|174.8799|Manukau City|Auckland|362000|
+-37.0182|174.8802|Manurewa|Auckland|40820|
+-41.2500|173.1000|Mapua|Tasman|1819|
+-36.8382|174.6102|Massey|Auckland|22210|
+-36.8282|174.6202|Massey East|Auckland|22210|
+-40.9597|175.6575|Masterton|Wellington|28900|
+-37.8106|175.7624|Matamata|Waikato|6306|
+-35.7500|174.2000|Maungatapere|Northland|1007|
+-36.1296|174.3462|Maungaturoto|Northland|940|
+-43.6333|171.6500|Methven|Canterbury|2130|
+-46.1208|169.9694|Milton|Otago|2009|
+-35.3833|174.0333|Moerewa|Northland|1920|
+-41.1333|173.0167|Motueka|Tasman|7485|
+-36.8816|174.7620|Mount Eden|Auckland|15650|
+-36.8167|174.4500|Muriwai Beach|Auckland|1130|
+-36.7282|174.7502|Murrays Bay|Auckland|5000|
+-38.4667|176.7000|Murupara|Bay of Plenty|1876|
+-39.4926|176.9123|Napier|Hawke's Bay|66400|
+-41.2708|173.2840|Nelson|Nelson|54400|
+-36.9069|174.6870|New Lynn|Auckland|23800|
+-39.0667|174.0833|New Plymouth|Taranaki|90100|
+-39.0587|174.1031|New Plymouth District|Taranaki|0|
+-37.6674|175.1555|Ngaruawahia|Waikato|8500|
+-37.2833|175.5000|Ngatea|Waikato|1151|
+-35.6167|174.5000|Ngunguru|Northland|1358|
+-36.8000|174.7500|North Shore|Auckland|258697|
+-45.0976|170.9709|Oamaru|Otago|13000|
+-38.0091|177.2871|Opotiki|Bay of Plenty|4900|
+-39.4556|173.8583|Opunake|Taranaki|1495|
+-36.9382|174.8402|Otahuhu|Auckland|17780|
+-40.7583|175.1500|Otaki|Wellington|6086|
+-36.9482|174.8702|Otara|Auckland|24420|
+-37.1508|174.6519|Otaua|Waikato|0|
+-38.1833|175.2000|Otorohanga|Waikato|3280|
+-43.3000|172.1833|Oxford|Canterbury|2240|
+-37.3667|175.6667|Paeroa|Waikato|3994|
+-35.2807|174.0910|Paihia|Northland|1670|
+-36.8833|174.9167|Pakuranga|Auckland|10040|
+-40.3564|175.6111|Palmerston North|Manawatu-Whanganui|90500|
+-37.0657|174.9439|Papakura|Auckland|37720|
+-36.9682|174.8402|Papatoetoe|Auckland|56010|
+-46.5607|169.4707|Papatowai|Otago|6593|
+-36.6500|174.4333|Parakai|Auckland|1100|
+-40.9167|175.0167|Paraparaumu|Wellington|29900|
+-39.7583|174.4833|Patea|Taranaki|1286|
+-41.2283|174.8702|Petone|Wellington|8370|
+-41.2907|174.0080|Picton|Marlborough|4850|
+-44.2667|171.1333|Pleasant Point|Canterbury|1470|
+-41.1333|174.8500|Porirua|Wellington|61500|
+-45.8500|170.6500|Portobello|Otago|1155|
+-43.5833|172.5167|Prebbleton|Canterbury|5750|
+-37.2000|174.9500|Pukekohe East|Auckland|21438|
+-45.0302|168.6627|Queenstown|Otago|10442|
+-37.8000|174.8833|Raglan|Waikato|3840|
+-43.7500|172.0167|Rakaia|Canterbury|1680|
+-43.3044|172.5836|Rangiora|Canterbury|19300|
+-37.0582|174.9702|Red Hill|Auckland|2556|
+-36.8804|174.7982|Remuera|Auckland|27810|
+-41.3333|173.1833|Richmond|Tasman|19950|
+-46.3500|168.0167|Riverton|Southland|1680|
+-43.5833|172.3833|Rolleston|Canterbury|34100|
+-36.8749|174.6699|Rosebank|Auckland|4551|
+-36.7260|174.7406|Rothesay Bay|Auckland|3060|
+-38.1387|176.2452|Rotorua|Bay of Plenty|65901|
+-35.9082|174.4502|Ruakaka|Northland|2910|
+-43.3223|171.8706|Selwyn|Canterbury|0|
+-45.7726|167.8527|Southland|Southland|0|
+-39.5216|174.3716|South Taranaki|Taranaki|0|
+-38.1680|175.8862|South Waikato|Waikato|0|
+-41.2673|175.3844|South Wairarapa|Wellington|0|
+-41.3167|173.2333|Stoke|Nelson Region|20260|
+-39.3222|174.2630|Stratford|Taranaki|6430|
+-34.9960|173.4666|Taipa|Northland|1731|
+-37.0167|175.8500|Tairua|Waikato|1588|
+-40.8500|172.8000|Takaka|Tasman|1430|
+-37.0482|174.9002|Takanini|Auckland|17060|
+-36.8882|174.8602|Tamaki|Auckland|5160|
+-39.5333|176.8500|Taradale|Hawke's Bay|12940|
+-38.6833|176.0833|Taupo|Waikato|27000|
+-37.6861|176.1667|Tauranga|Bay of Plenty|161000|
+-45.4167|167.7167|Te Anau|Southland|2910|
+-36.8410|174.6522|Te Atatu Peninsula|Auckland|15200|
+-36.8647|174.6477|Te Atatu South|Auckland|17240|
+-37.4000|175.1500|Te Kauwhata|Waikato|3740|
+-37.1383|175.5401|Thames|Waikato|7136|
+-44.3967|171.2536|Timaru|Canterbury|29300|
+-44.4000|171.2167|Timaru District|Canterbury|0|
+-43.9167|171.7167|Tinwald|Canterbury|4000|
+-36.9375|174.6558|Titirangi|Auckland|15490|
+-38.2333|175.8667|Tokoroa|Waikato|14500|
+-38.9904|175.8084|Turangi|Waikato|3960|
+-41.1383|175.0502|Upper Hutt|Wellington|47400|
+-37.3833|175.8333|Waihi|Waikato|4619|
+-37.4000|175.9333|Waihi Beach|Bay of Plenty|2670|
+-43.2075|172.3329|Waimakariri|Canterbury|0|
+-35.3167|173.8833|Waimate North|Northland|2799|
+-41.2667|174.9500|Wainuiomata|Wellington Region|20450|
+-39.4775|175.6683|Waiouru|Manawatu-Whanganui|765|
+-41.4122|175.5153|Waipawa|Wellington|1899|
+-39.0333|177.3667|Wairoa|Hawke's Bay|4260|
+-36.9175|174.6577|Waitakere|Auckland|1830|
+-43.9535|-176.5597|Waitangi|Chatham Islands|140|
+-39.0016|174.2384|Waitara|Taranaki|7730|
+-37.2481|174.7349|Waiuku|Auckland|9860|
+-41.4000|173.0500|Wakefield|Tasman|2680|
+-44.7000|169.1500|Wanaka|Otago|13200|
+-39.9333|175.0500|Wanganui|Manawatu-Whanganui|49200|Whanganui
+-36.4000|174.6667|Warkworth|Auckland|6960|
+-41.2866|174.7756|Wellington|Wellington|381900|
+-36.2833|174.5167|Wellsford|Auckland|2110|
+-41.7526|171.6037|Westport|West Coast|4600|
+-37.9586|176.9854|Whakatane|Bay of Plenty|18602|
+-37.2000|175.8667|Whangamata|Waikato|4270|
+-35.7317|174.3239|Whangarei|Northland|50900|
+-36.8333|175.7000|Whitianga|Waikato|6230|
+-46.1500|168.3333|Winton|Southland|2193|
+-36.9982|174.8602|Wiri|Auckland|6760|
+-43.3167|172.6667|Woodend|Canterbury|5430|

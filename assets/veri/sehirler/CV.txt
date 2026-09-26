@@ -1,28 +1,28 @@
-15.0800|-23.6400|Achada Leitão
-15.1000|-23.6833|Assomada
-15.1861|-23.5923|Calheta
-14.9153|-23.6053|Cidade Velha
-14.8905|-24.2934|Cova Figueira
-16.7552|-22.9446|Espargos
-15.0339|-24.3250|Igreja
-15.0669|-23.5892|João Teves
-15.0750|-23.6450|Leitão Grande
-16.8901|-24.9804|Mindelo
-14.8714|-24.6956|Nova Sintra
-15.1375|-23.5308|Pedra Badejo
-15.0830|-23.6320|Picos
-15.0900|-23.6300|Picos Acima
-17.1503|-25.0201|Pombas
-17.2017|-25.0922|Ponta do Sol
-17.0197|-25.0647|Porto Novo
-14.9315|-23.5125|Praia
-16.6158|-24.2983|Ribeira Brava
-17.1825|-25.0650|Ribeira Grande
-16.1761|-22.9172|Sal Rei
-15.1333|-23.5667|Santa Cruz
-16.5980|-22.9051|Santa Maria
-15.0244|-23.5625|São Domingos
-14.8961|-24.4956|São Filipe
-15.2788|-23.7519|Tarrafal
-16.5662|-24.3579|Tarrafal de São Nicolau
-15.1382|-23.2116|Vila do Maio
+15.0800|-23.6400|Achada Leitão|São Salvador do Mundo|1025|
+15.1000|-23.6833|Assomada|Santa Catarina|21297|
+15.1861|-23.5923|Calheta|São Miguel|0|
+14.9153|-23.6053|Cidade Velha|Ribeira Grande de Santiago|3319|
+14.8905|-24.2934|Cova Figueira|Santa Catarina do Fogo|1052|
+16.7552|-22.9446|Espargos|Sal|24500|
+15.0339|-24.3250|Igreja|Mosteiros|4084|
+15.0669|-23.5892|João Teves|São Lourenço dos Órgãos|627|
+15.0750|-23.6450|Leitão Grande|São Salvador do Mundo|745|
+16.8901|-24.9804|Mindelo|São Vicente|69013|
+14.8714|-24.6956|Nova Sintra|Brava|2225|
+15.1375|-23.5308|Pedra Badejo|Santa Cruz|10038|
+15.0830|-23.6320|Picos|São Salvador do Mundo|2040|
+15.0900|-23.6300|Picos Acima|São Salvador do Mundo|1361|
+17.1503|-25.0201|Pombas|Paul|1429|
+17.2017|-25.0922|Ponta do Sol|Ribeira Grande|3300|
+17.0197|-25.0647|Porto Novo|Porto Novo|11138|
+14.9315|-23.5125|Praia|Praia|137868|
+16.6158|-24.2983|Ribeira Brava|Ribeira Brava|2851|
+17.1825|-25.0650|Ribeira Grande|Ribeira Grande|3000|
+16.1761|-22.9172|Sal Rei|Boa Vista|10936|
+15.1333|-23.5667|Santa Cruz|Santa Cruz|9488|
+16.5980|-22.9051|Santa Maria|Sal|8400|
+15.0244|-23.5625|São Domingos|São Domingos|2960|
+14.8961|-24.4956|São Filipe|São Filipe|10097|
+15.2788|-23.7519|Tarrafal|Tarrafal|13483|
+16.5662|-24.3579|Tarrafal de São Nicolau|Tarrafal de São Nicolau|4371|
+15.1382|-23.2116|Vila do Maio|Maio|4472|

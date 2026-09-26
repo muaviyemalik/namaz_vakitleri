@@ -1,7 +1,7 @@
-19.2797|-81.2778|Bodden Town
-19.7200|-79.8907|Cayman Brac
-19.2996|-81.1196|East End
-19.2902|-81.4433|George Town
-19.6857|-80.1183|Little Cayman
-19.3362|-81.5140|North Side
-19.3665|-81.4317|West Bay
+19.2797|-81.2778|Bodden Town|Grand Cayman|14845|
+19.7200|-79.8907|Cayman Brac|Cayman Brac|0|
+19.2996|-81.1196|East End|Grand Cayman|1846|
+19.2902|-81.4433|George Town|Grand Cayman|29370|
+19.6857|-80.1183|Little Cayman|Little Cayman|0|
+19.3362|-81.5140|North Side|Grand Cayman|0|
+19.3665|-81.4317|West Bay|Grand Cayman|15335|

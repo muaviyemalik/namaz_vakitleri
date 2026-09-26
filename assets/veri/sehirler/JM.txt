@@ -1,785 +1,837 @@
-18.2110|-78.1360|12th Street
-18.2051|-77.6793|Aberdeen
-18.2509|-77.3433|Aboukir
-18.1143|-76.8759|Above Rocks
-18.2298|-77.7482|Accompong
-18.4506|-77.7859|Adelphi
-18.2103|-77.3985|Aenon Town
-17.9251|-76.3422|Airy Castle
-18.2943|-77.5424|Albert Town
-18.4847|-77.9141|Albion
-18.2871|-77.2083|Alderton
-18.3041|-77.3531|Alexandria
-17.7904|-77.2708|Alley
-17.8837|-77.5607|Alligator Pond
-17.9830|-76.7869|Allman Town
-18.3550|-77.5090|Alps
-18.1764|-77.4347|Alston
-18.2968|-77.3172|Alva
-18.3403|-76.9761|Amiel Town
-18.2736|-77.8980|Amity
-17.9676|-76.2570|Amity Hall
-18.4103|-77.9317|Anchovy
-18.2717|-76.7652|Annotto Bay
-18.0374|-76.7820|Arcadia
-18.0371|-76.8179|Arlene Gardens
-17.9915|-76.7983|Arnett Gardens
-18.0144|-77.3402|Ashley
-18.2314|-77.9207|Ashton
-17.9158|-77.4156|Asia/Pratville
-18.3849|-78.1491|Askenish
-18.2254|-77.6036|Auchtembeddie
-17.9956|-76.7367|August Town
-18.3453|-76.9259|Baileys Vale
-18.1723|-77.6437|Balaclava
-18.1673|-76.7206|Balcarres
-17.8795|-77.6309|Ballards Valley
-18.3922|-77.2643|Bamboo
-18.1364|-76.6890|Bangor Ridge
-17.8322|-77.3073|Banks
-17.8767|-76.5784|Baptist
-17.9680|-77.7796|Barbary Hall
-18.0355|-76.7699|Barbican
-17.8928|-76.2892|Barking Lodge
-18.2767|-77.9696|Barneyside
-18.5087|-77.7963|Barrett Town
-18.0289|-77.1332|Bartons
-17.9482|-76.3492|Bath
-18.3443|-78.0993|Bath Mountain
-18.2040|-76.7720|Baxter Mountain
-18.2342|-77.9501|Beaufort
-18.0855|-77.3240|Beckford Kraal
-18.3847|-77.1162|Beecher Town
-18.1601|-77.9754|Beeston Spring
-18.2735|-76.8357|Belfield
-18.0471|-77.1491|Bellas Gate
-18.0927|-77.4400|Bellefield
-18.2077|-76.6967|Belvedere
-18.2232|-77.2086|Bensonton
-18.2129|-77.9037|Berkshire
-18.1537|-77.5503|Bethany
-17.9853|-76.5805|Bethel
-18.2950|-77.9511|Bethel Town
-18.0083|-76.7621|Beverley Hills
-18.3634|-77.9365|Bickersteth
-18.2332|-78.1672|Big Bridge
-17.9334|-77.7190|Bigwoods
-17.9736|-76.6663|Bito
-18.2179|-76.5976|Black Hill
-18.0264|-77.8487|Black River
-18.2736|-77.0425|Blackstonedge
-17.9958|-76.6477|Bloxborough
-18.1660|-78.0270|Bluefields
-18.0709|-77.4284|Blue Mountain
-18.1563|-77.9436|Bog
-18.1362|-77.6697|Bogue
-18.1020|-77.0054|Bog Walk
-18.2124|-77.4695|Bohemia
-18.1178|-77.4494|Bombay
-18.3287|-76.9461|Bonnygate
-18.1978|-77.4275|Borobridge
-18.0034|-76.8126|Boucher Park
-18.1757|-76.4708|Boundbrook
-18.4580|-77.7166|Bounty Hall
-17.9701|-76.7627|Bournemouth Gardens
-18.0935|-77.6649|Braes River
-17.9417|-76.8863|Braeton
-18.1699|-76.8689|Brainerd
-18.4426|-77.4642|Brampton
-18.1511|-77.2366|Brandon Hill
-18.1600|-76.4661|Breastworks
-17.9626|-76.8781|Bridgeport
-18.1484|-77.8560|Brighton
-18.0204|-77.3174|Brixton Hill
-18.2285|-76.8079|Broadgate
-18.0679|-77.8882|Brompton
-18.2175|-78.2289|Broughton
-18.0536|-77.1185|Browns Hill
-18.3846|-77.3529|Browns Town
-18.0062|-77.2375|Bucknor
-17.9823|-77.2385|Bucks Common
-18.2329|-76.6612|Buff Bay
-17.9525|-76.6840|Bull Bay/ Seven Mile
-17.8868|-77.5902|Bull Savanna
-17.8806|-77.5900|Bull Savannah
-18.3620|-77.6861|Bunkers Hill
-18.0318|-77.7494|Burnt Savannah
-17.9824|-77.2514|Bushy Park
-17.9731|-77.5778|Butt-Up
-18.1464|-76.6573|Bybrook
-18.4164|-78.2073|Cacoon
-18.4025|-78.0134|Cacoon Castle
-18.2284|-78.0113|Cairn Curran
-18.2564|-77.2714|Calderwood
-18.2587|-78.0117|Caledonia
-18.2393|-76.7809|Camberwell
-18.3131|-77.8955|Cambridge
-17.9791|-76.7813|Campbell Town
-17.9810|-76.6862|Cane River
-18.4792|-77.9166|Canterbury
-18.1474|-77.7737|Carisbrook
-18.1733|-77.9393|Carmel
-18.2780|-76.9525|Carron Hall
-18.3975|-78.1034|Cascade
-18.3692|-78.1094|Cash Hill
-18.0205|-76.8067|Cassia Park
-18.1422|-76.3463|Castle Comfort
-18.1762|-76.7834|Castleton
-18.2805|-77.8658|Catadupa
-18.4626|-77.9229|Catherine Hall
-18.4567|-77.8969|Catherine Mount
-18.3858|-78.2411|Cauldwell
-18.0968|-76.8432|Cavaliers
-18.2102|-78.0407|Cave
-18.2327|-77.3634|Cave Valley
-18.0382|-76.8983|Caymanas
-18.0123|-77.4963|Cedar Grove
-18.0282|-76.5956|Cedar Valley
-17.9696|-76.7926|Central Down Town
-18.1876|-76.4534|Central Port Antonio
-17.9999|-76.9239|Central Village
-18.3796|-77.1752|Chalky Hill
-18.4052|-78.1598|Chambers Pen
-18.1045|-77.4663|Chantilly
-18.0833|-77.2667|Chapelton
-18.2053|-76.6639|Charles Town
-17.9897|-77.1874|Chateau
-18.0496|-76.7787|Cherry Gardens
-18.4479|-77.2650|Chester
-18.3382|-77.9472|Chester Castle
-18.1802|-77.4904|Christiana
-18.1515|-77.5071|Chudleigh
-17.8872|-76.4190|Church Corner
-18.3256|-77.2064|Claremont
-18.4224|-77.5333|Clarks Town
-18.1488|-76.6392|Claverty Cottage
-18.2428|-76.8314|Clonmel
-18.1406|-77.4700|Cobbla
-18.0036|-76.8243|Cockburn Gardens
-17.8887|-77.1583|Cockpit
-18.1383|-77.4065|Coffee Piece
-18.3797|-77.0852|Cole Gate
-18.1999|-77.5192|Coleyville
-18.1352|-77.2555|Colonels Ridge
-18.0539|-77.4248|Comfort
-18.0483|-76.4161|Comfort Castle
-18.1879|-77.6104|Comfort Hall
-18.0508|-76.7937|Constant Spring
-18.0294|-76.7996|Constant Spring Gardens
-18.0149|-76.7052|Constitution Hill
-18.0744|-77.4512|Content
-18.0408|-76.6907|Content Gap
-18.4098|-77.0754|Content Garden
-18.0224|-76.8485|Cooreville Gardens
-18.3947|-77.9768|Copse
-18.5079|-77.8803|Coral Gardens
-18.4893|-77.8102|Cornwall
-18.2872|-77.9867|Cornwall Mountian
-18.0949|-77.9155|Cotterwood
-18.4243|-78.2375|Cousins Cove
-18.1027|-77.2344|Coxswain
-18.2366|-77.5630|Craig Head
-18.0506|-77.9160|Crawford
-18.0362|-76.9763|Crescent
-18.1327|-77.2051|Crofts Hill
-17.9584|-76.9846|Cromarty
-18.1429|-77.3000|Crooked River
-17.9073|-77.5011|Cross Keys
-17.9945|-76.7881|Cross Roads
-18.2279|-77.4205|Cuffie Ridge
-18.1052|-77.4162|Cumberland
-17.9398|-77.2484|Curatoe Hill
-17.9700|-76.7370|D'Aguilar Town/ Rennock Lodge
-17.9846|-76.7126|Dallas
-17.9024|-76.2500|Dalvey
-18.4640|-77.6159|Daniel Town
-17.9288|-76.4759|Danvers Pen
-18.2373|-77.9763|Darliston
-18.0554|-77.3330|Dawkins
-18.3598|-77.7372|Deeside
-17.9921|-76.8224|Delacree Park/ Union Gardens
-17.9958|-76.8171|Delacree Pen
-18.2971|-78.2396|Delveland
-17.9781|-76.7998|Denham Town
-18.1659|-77.5251|Devon
-18.2156|-76.8244|Devon Pen
-18.3938|-78.1856|Dias
-18.2094|-77.9908|Dillion Bigwoods
-18.4372|-77.4181|Discovery Bay
-18.2553|-76.7081|Dover
-17.9500|-77.5731|Downs
-18.4773|-77.9203|Down Town Montego Bay
-18.1712|-76.4061|Drapers
-18.0238|-76.8263|Drewsland
-18.0235|-76.7876|Drumblair
-18.4027|-77.5961|Duanvale
-17.9220|-76.2266|Duckenfield
-18.0309|-76.8462|Duhaney Park
-17.8940|-76.4319|Duhaney Pen
-18.4297|-77.7559|Dumfries
-18.4680|-77.5363|Duncans
-18.2368|-77.8870|Dundee
-18.0857|-76.5156|Durham
-17.9240|-76.5882|Easington
-17.9720|-76.7847|East Down Town
-18.0189|-76.8007|Eastwood Park Gardens
-17.9645|-76.8655|Edgewater
-17.9927|-77.2186|Effortville
-18.2242|-77.7938|Elderslie
-17.9374|-76.6434|Eleven Miles
-17.9680|-77.4393|Ellen Street
-18.0095|-76.7403|Elleston Flats/ Mona Commons
-18.2204|-76.7374|Enfield
-18.0178|-76.9622|Ensom
-18.2522|-76.7264|Epson
-18.3608|-77.1334|Epworth
-18.1510|-77.5996|Evergreen
-18.1833|-77.0854|Ewarton
-18.3727|-77.0657|Exchange
-18.0312|-77.5754|Fairfield
-18.1651|-76.3659|Fairy Hill
-18.2296|-77.0880|Faith's Pen
-18.4936|-77.6559|Falmouth
-18.4687|-77.8776|Farm Heights
-18.1278|-76.4720|Fellowship
-18.2227|-78.0559|Ferris
-18.0277|-76.8672|Ferry
-18.3541|-77.7713|Flagstaff
-18.3141|-77.8132|Flamstead
-18.5026|-77.9083|Flankers
-17.9797|-76.7910|Fletchers Land
-18.2379|-76.9217|Flint River
-18.4843|-77.8391|Flower Hill
-17.9406|-76.5117|Font Hill
-18.0430|-76.8514|Forest Hills/ Plantation Height
-18.0385|-76.8287|Forest Hills Gardens
-18.2983|-78.0633|Fort Williams
-17.9709|-77.2960|Four Paths
-18.1497|-77.3650|Frankfield
-17.9779|-76.7734|Franklyn Town
-18.3544|-76.9432|Free Hill
-18.2838|-77.5018|Freemans Hall
-17.9219|-77.1478|Freetown
-17.9557|-77.5447|French Park
-18.4459|-77.8624|Friendship
-18.1972|-76.8196|Friendship Gap
-18.2797|-78.1490|Frome
-18.1089|-76.5862|Fruitfulvale
-18.2989|-78.1998|Fullersfield
-18.0153|-77.7757|Fullerswood
-18.4027|-76.9004|Galina
-18.2781|-77.7891|Garlands
-18.3428|-77.0021|Gayle
-18.2765|-78.1312|Georges Plain
-18.0317|-77.4808|George's Valley
-18.3508|-77.4214|Gibraltar
-18.0970|-77.8676|Giddy Hall
-17.8895|-77.2847|Gimme-me-bit
-18.1918|-77.8487|Ginger Hill
-18.0769|-77.1686|Ginger Ridge
-18.4849|-77.8971|Glendevon
-18.1521|-76.8906|Glengoffe
-17.9680|-77.2539|Glenmuir
-18.0195|-76.9804|Golden Acres
-18.3296|-77.1226|Golden Grove
-18.0945|-76.7973|Golden Spring
-18.2422|-78.1284|Gooden's River
-18.2081|-77.5709|Good Intent
-18.4695|-77.7565|Goodwill
-18.0376|-76.7235|Gordon Town
-18.0496|-77.6414|Goshen
-18.3316|-78.0804|Grange
-18.3308|-78.1840|Grange Hill
-18.1584|-77.3964|Grantham
-18.0326|-76.7889|Grants Pen
-18.4419|-77.8940|Granville
-17.9097|-77.3335|Gravel Hill
-17.9523|-76.9113|Greater Portmore
-18.4023|-77.0851|Great Pond
-18.4117|-78.0502|Great Valley
-18.0125|-76.9483|Greendale
-18.3840|-78.2702|Green Island
-18.4736|-77.8778|Green Pond
-18.0393|-77.5324|Greenvale
-17.9844|-76.8256|Greenwich Town/ Newport West
-18.4977|-77.7524|Greenwood
-17.9949|-76.8830|Gregory Park
-18.1047|-77.5292|Grove Place
-17.8861|-77.4588|Grove Town
-18.2624|-76.9956|Guys Hill
-18.4204|-78.0038|Haddington
-18.2861|-78.0189|Haddo
-18.0484|-76.6278|Hagley Gap
-18.0125|-76.7993|Half Way Tree
-18.4422|-77.7320|Hampden
-18.3205|-76.9048|Hampstead
-17.9178|-76.2613|Hampton Court
-18.0054|-76.9682|Hampton Green
-17.9800|-76.7943|Hannah Town/ Craig Town
-17.9515|-76.7166|Harbour View
-18.1728|-76.9440|Harewood
-18.1315|-76.9135|Harkers Hall
-17.9817|-77.4121|Harmons
-18.2199|-78.1369|Harmony Town
-18.1731|-77.5761|Harry Watch
-18.0156|-77.5401|Hatfield
-18.0543|-76.8087|Havendale
-17.8757|-77.2371|Hayes
-17.9820|-76.3684|Hayfield
-17.9538|-77.2315|Hazard
-18.0488|-77.4824|Heartease
-18.0009|-76.2706|Hectors River
-17.8967|-76.9619|Hellshire
-17.9835|-76.7410|Hermitage
-18.2718|-78.0908|Hertford
-18.1758|-77.5483|Hibernia
-18.3412|-77.2707|Higgin Land
-18.2774|-76.8955|Highgate
-17.9962|-76.4908|Hillside
-18.3543|-77.0981|Hinds Town
-18.1036|-77.8016|Holland
-18.1875|-76.5758|Hope Bay
-18.0231|-76.7499|Hope Pastures/ UTECH
-18.0123|-76.7320|Hope Tavern
-17.9563|-77.6624|Hopeton
-18.4432|-78.0264|Hopewell
-18.0304|-76.8173|Hughenden
-18.0665|-77.5817|Huntley
-17.9778|-76.8750|Independence City
-17.9120|-77.1903|Inverness
-18.0623|-76.7026|Irish Town
-18.5132|-77.8511|Ironshore
-18.4495|-77.8772|Irwin
-18.3216|-76.8410|Islington
-18.0387|-76.7489|Jacks Hill
-18.4178|-77.4846|Jackson Town
-18.3722|-76.9410|Jacks River
-18.1875|-77.3370|James Hill
-18.2896|-77.0034|Jeffery Town
-18.4374|-78.1303|Jericho
-18.3246|-78.2156|Jerusalem
-18.2674|-77.4962|Joe Hut
-18.1888|-77.3806|Johns Hall
-17.9809|-76.3199|Johnson Mountain
-17.9777|-76.7559|Johnson Town
-17.8966|-76.3614|Johns Town
-17.9507|-76.5477|Jones Pen
-17.9842|-76.7969|Jones Town
-17.9147|-77.5989|Junction
-18.1618|-77.2705|Kellits
-18.0004|-76.7983|Kencot
-18.3629|-78.2272|Kendal
-18.0677|-76.3005|Kensington
-18.1993|-78.0177|Kentucky
-18.0165|-76.9352|Keystone
-18.1241|-77.9277|Kilmarnoch
-17.9970|-76.7936|Kingston
-17.9784|-76.7868|Kingston Gardens
-18.3809|-78.2052|Kingsvale
-18.3964|-77.5697|Kinloss
-18.0213|-76.7269|Kintyre
-18.0349|-77.0403|Kitson Town
-17.9903|-77.4927|Knockpatrick
-18.3442|-77.0323|Labyrinth
-18.0884|-77.7535|Lacovia
-18.2682|-77.9141|Lambs River
-17.9360|-77.4613|Lancaster
-18.4382|-78.2144|Lances Bay
-18.1374|-76.8474|Lawrence Tavern
-18.2135|-77.9274|Leamington
-18.0140|-77.6837|Leeds
-17.8797|-76.3433|Leith Hall
-18.2139|-77.9721|Lenox Bigwoods
-18.0210|-76.7683|Liguanea
-18.5059|-77.7769|Lilliput
-18.3974|-77.2105|Lime Hall
-18.3454|-77.3864|Lime Tree Gardens
-18.1529|-77.4712|Limit
-18.1368|-77.0317|Linstead
-18.2608|-77.4222|Linton Park
-17.8101|-77.2406|Lionel Town
-18.1350|-77.5245|Litchfield
-17.9403|-77.5951|Lititz
-18.2452|-78.2265|Little London
-17.9448|-76.6225|Llandewey
-18.2344|-78.1389|Llandilo
-17.9150|-76.5409|Lloyds
-18.1498|-77.1685|Lluidas Vale
-18.3488|-78.2962|Logwood
-18.0858|-76.3251|Long Bay
-18.0086|-76.2948|Long Road
-17.9119|-77.1598|Longville Park
-17.8075|-77.2873|Longwood
-18.2303|-77.4921|Lorrimers
-18.4150|-77.8070|Lottery
-18.4509|-78.1736|Lucea
-18.4220|-78.1667|Lucea East
-18.4424|-78.1866|Lucea West
-18.3025|-77.0168|Lucky Hill
-17.8871|-76.3796|Lyssons
-18.3116|-78.0247|Mackfield
-18.2119|-77.2802|Macknie
-18.2911|-77.4488|Madras
-18.1734|-77.7668|Maggotty
-18.1016|-77.5728|Maidstone
-18.0002|-76.8329|Majestic Gardens
-18.3383|-77.8100|Maldon
-17.9667|-77.7000|Malvern
-18.0444|-76.2773|Manchioneal
-18.0417|-77.5071|Mandeville
-18.0445|-77.5057|Mandeville Proper
-18.3748|-76.9769|Mango Valley
-17.9691|-76.7712|Manley Meadows
-18.0705|-76.8129|Mannings Hill
-18.0817|-76.8233|Mannings Hill (Rural)
-18.4027|-77.0949|Mansfield
-18.3295|-78.2766|March Town
-17.8669|-77.5083|Marlie Hill
-18.3446|-77.7954|Maroon Town
-18.4696|-77.6591|Martha Brae
-18.3012|-76.8726|Martin
-18.0268|-76.8265|Marverley
-18.3868|-78.1282|Maryland
-18.3966|-76.9206|Mason Hall
-18.0333|-76.6667|Mavis Bank
-17.9994|-76.8080|Maxfield Park
-18.0095|-77.4761|May Day
-17.9645|-77.2451|May Pen
-17.9703|-77.2391|May Pen Proper
-18.0471|-76.8155|Meadowbrook
-18.0374|-76.8296|Meadowbrook Estate
-18.1886|-78.0287|Mearnsville
-18.1224|-77.5964|Medina
-18.2179|-77.8377|Merrywood
-18.1146|-77.8381|Middle Quarters
-17.9397|-76.4356|Middleton
-18.0425|-77.5549|Mike Town
-18.1339|-77.5656|Mile Gully
-17.8756|-77.3514|Milk River
-17.9418|-77.2328|Mineral Heights
-17.8128|-77.2053|Mitchell Town
-18.2914|-77.8258|Mocho
-18.0103|-76.8111|Molynes Four Roads
-18.0198|-76.8162|Molynes Gardens
-18.0133|-76.7509|Mona Heights
-18.2831|-77.1385|Moneague
-18.4712|-77.9188|Montego Bay
-18.4804|-77.8815|Montego Hill
-18.3761|-77.9136|Montpelier
-18.0293|-77.1854|Moores
-18.0777|-76.4258|Moore Town
-17.8815|-76.4093|Morant Bay
-18.1909|-77.4102|Morgans Forest
-18.1212|-77.2749|Morgans Pass
-17.9808|-77.7479|Mountainside
-17.9919|-76.7607|Mountain View Gardens
-18.0184|-77.3636|Mount Airy
-18.3889|-77.9437|Mount Carey
-18.3332|-77.8667|Mount Horeb
-18.1207|-76.7739|Mount James
-17.9754|-76.5389|Mount Lebanus
-18.2062|-77.4409|Mount Moriah
-18.3575|-78.0229|Mount Peto
-18.1633|-76.5047|Mount Pleasant
-18.4660|-77.9079|Mount Salem
-18.3041|-77.9927|Mount Stewart
-18.4338|-77.2803|Mount Zion
-18.2116|-77.8202|Mulgrave
-17.9970|-77.6243|Myersville
-17.9642|-76.8882|Naggo Head
-17.9653|-77.6053|Nain
-17.9968|-76.7695|Nannyville
-18.2684|-78.3481|Negril
-17.9856|-77.2710|New Denbigh
-17.9210|-77.7465|Newell
-17.9201|-77.5587|New Forest
-18.0766|-77.5257|New Green
-18.0295|-76.8542|New Haven
-18.0075|-76.7832|New Kingston
-18.0307|-77.2305|New Longsville
-18.1536|-77.9096|New Market
-18.2137|-78.1381|New Market Oval
-17.9916|-76.5733|New Monkland
-17.9629|-77.5049|Newport
-17.9742|-76.8066|Newport East
-18.1912|-77.9361|New Roads
-18.1109|-77.7235|Newton
-17.9735|-76.7721|Newton Square
-18.1725|-77.9664|New Works
-18.2653|-77.8188|Niagara
-18.1382|-76.4047|Nonsuch
-18.0548|-76.7850|Norbrook
-17.9780|-76.7594|Norman Gardens
-18.1882|-76.4771|Norwich
-18.4922|-77.8863|Norwood
-18.0356|-76.7956|Oaklands
-18.4076|-77.1031|Ocho Rios
-17.9612|-77.2670|Old Denbigh
-17.9850|-77.4602|Old England
-17.9414|-77.1090|Old Harbour
-17.9092|-77.0972|Old Harbour Bay
-17.9580|-77.0273|Old Harbour Road
-18.4032|-76.9464|Oracabessa
-18.4539|-77.8278|Orange
-18.3427|-78.3200|Orange Bay
-18.1179|-77.3594|Orange Hill
-17.9589|-77.3283|Osbourne Store
-17.9629|-77.2237|Paisley
-17.9500|-77.2034|Palmers Cross
-17.8757|-76.5174|Pamphret
-18.0154|-76.7387|Papine
-18.4940|-77.9098|Paradise
-18.0980|-76.8594|Parks Road
-17.9617|-77.8177|Parottee
-18.3836|-77.1034|Parry Town
-18.0791|-77.4213|Part Of Banana Ground
-18.1870|-77.2754|Part of Douglas Castle
-18.0064|-77.5790|Part Of Gutters
-18.2452|-76.9908|Part of Guys Hill
-18.1716|-77.2512|Part of Kellits
-18.0397|-76.9511|Part of Keystone
-18.0912|-76.8880|Part of Rock Hall
-18.1582|-77.4663|Part of Spaldings
-17.9779|-76.8679|Passage Fort
-17.9730|-76.7765|Passmore Town
-18.0318|-76.8377|Patrick City
-18.2720|-78.1861|Paul Island
-17.9116|-76.3168|Pear Tree
-18.2251|-76.9529|Pear Tree Grove
-18.1715|-77.3977|Peckham
-17.8857|-77.7134|Pedro Plains
-18.3789|-78.2190|Pell River
-18.0311|-76.8300|Pembroke Hall
-18.1103|-77.3131|Pennants
-18.0195|-76.8309|Penwood
-18.0210|-77.6128|Pepper
-18.4311|-77.6258|Perth Town
-18.2659|-78.0576|Petersfield
-18.1370|-77.9505|Petersville
-18.4001|-77.3273|Philadelphia
-18.2323|-77.5379|Pike
-18.3958|-77.1138|Pimento Walk
-18.1960|-77.8867|Pisgah
-18.4321|-77.8901|Pitfour
-18.0110|-77.2903|Pleasant Valley
-17.8918|-77.5385|Plowden
-18.0936|-77.1048|Point Hill
-18.4022|-78.0734|Pondside
-17.8915|-76.5835|Poormans Corner
-18.1761|-76.4509|Port Antonio
-18.3291|-78.0491|Porters Mountain
-17.7462|-77.1877|Portland Cottage
-18.3685|-76.8895|Port Maria
-17.8995|-76.3429|Port Morant
-17.9503|-76.8821|Portmore
-18.4661|-77.8699|Porto Bello
-17.9374|-76.8406|Port Royal
-18.0520|-77.4001|Porus
-17.9187|-77.6687|Potsdam
-18.4366|-77.2455|Priory
-17.9824|-77.5678|Prospect
-18.0429|-76.8212|Queensborough/ Tunbridge
-18.2328|-77.6783|Quick Step
-17.8402|-77.2822|Race Course
-17.9677|-76.7797|Rae Town
-18.3467|-77.9880|Ramble
-18.4372|-77.9473|Reading
-17.9378|-77.6258|Red Bank
-18.3055|-78.1128|Red Hills
-18.0678|-76.8609|Red Hills (Rural)
-18.0595|-76.8403|Red Hills/ Sterling Castle
-18.0300|-76.8099|Red Hills Gardens
-18.2103|-76.9854|Redwood
-18.4510|-77.5775|Refuge
-18.2074|-77.7670|Retirement
-18.3787|-77.0159|Retreat
-18.2890|-77.9008|Retrieve
-18.2426|-78.2844|Revival
-18.0256|-77.4634|Richmond
-18.0517|-77.3764|Richmond Park
-17.9744|-76.5904|Richmond Vale
-18.4641|-77.4804|Rio Bueno
-18.1390|-77.4289|Ritchies
-18.2603|-77.0778|River Head
-18.1780|-76.9664|Riversdale
-18.0144|-76.8490|Riverton City
-18.3012|-78.0432|Roaring River
-18.3124|-76.8178|Robins Bay
-18.2040|-77.5501|Robins Hall
-17.9912|-77.3370|Rock
-18.1617|-76.5305|Rock Hall
-18.0655|-77.1971|Rock River
-18.3480|-78.2439|Rock Spring
-17.7769|-77.2482|Rocky Point
-18.0432|-76.8084|Roehampton
-17.9769|-76.7652|Rollington Town
-17.9265|-77.6415|Rose Hall
-18.4694|-77.8953|Rose Heights
-17.9247|-77.5234|Rose Hill
-18.4748|-77.8922|Rosemount
-18.4639|-77.8940|Rose Mount Garden
-17.9870|-76.8073|Rose Town
-17.9735|-76.2878|Rowlandsfield
-18.0496|-77.4683|Royal Flat
-18.4596|-77.3357|Runaway Bay
-17.9864|-77.6506|Russels
-18.2165|-78.1236|Russia
-18.4358|-77.2010|Saint Ann’s Bay
-18.4842|-77.7118|Salt Marsh
-17.8414|-77.1741|Salt River
-18.4869|-77.8655|Salt Spring
-18.4510|-77.5144|Samuels Prospect
-18.3389|-76.8955|Sandside
-17.9510|-77.1623|Sandy Bay
-18.1559|-77.4294|Sanguinetti
-18.0534|-77.6984|Santa Cruz
-18.3588|-78.2839|Santoy
-18.2196|-78.1303|Savannah-la-mar Business Dist.
-18.2189|-78.1332|Savanna-la-Mar
-18.3788|-77.4969|Sawyers
-18.0237|-77.7188|Scholefield
-18.1908|-76.8394|Scotts Hall
-17.9992|-77.3982|Scotts Pass
-18.2434|-77.9050|Seaford Town
-17.9442|-76.4566|Seaforth
-18.2168|-78.1360|Seaton Crescent
-18.0062|-76.8411|Seaview Gardens
-18.0190|-76.8237|Seaward Pen
-17.8475|-77.3264|Sedgepond
-18.3470|-77.9138|Seven Rivers
-18.0129|-76.7771|Seymour Lands
-18.2841|-78.2917|Shefield
-18.3823|-77.6364|Sherwood Content
-18.1543|-76.3782|Sherwood Forest
-18.1566|-76.6111|Shirley Castle
-18.2206|-78.1402|Shoalin Grotto
-18.1915|-77.4592|Silent Hill
-18.1633|-77.7106|Siloah
-18.1732|-76.6275|Skibo
-18.0820|-76.9399|Sligoville
-18.0574|-77.7969|Slipe
-18.2228|-78.0879|Smithfield
-18.1198|-77.3856|Smithville
-17.9420|-77.4914|Snowdon
-18.1947|-76.4935|Snow Hill
-18.0804|-77.5431|Somerset
-18.4050|-77.7707|Somerton
-17.8821|-77.6699|Southfield
-17.9657|-76.7862|Southside
-18.1687|-77.4580|Spaldings
-17.9911|-76.9574|Spanish Town
-17.9801|-76.9229|Spanish Town Central
-18.4576|-77.5475|Spicy Hill
-18.4787|-77.7911|Spot Valley
-17.9599|-76.3260|Spring Bank
-17.9712|-76.7561|Springfield
-17.9175|-76.4298|Spring Garden
-18.1623|-77.4798|Spring Ground
-18.1259|-76.7291|Spring Hill
-18.0065|-77.5566|Spur Tree
-17.9950|-76.7764|Stadium Gardens
-18.4299|-77.2078|St. Ann's Bay
-18.3330|-77.3630|St. D'Acre
-18.4285|-77.1710|Steer Town
-18.2822|-77.5409|Stettin
-18.3989|-77.4519|Stewart Town
-18.0009|-76.9747|St. John's East
-18.0054|-77.0075|St. John's West
-18.2553|-77.8889|St. Leonards
-18.1908|-76.5289|St. Margaret's Bay
-18.2423|-77.8504|Stonehenge
-18.0792|-76.7847|Stony Hill
-18.1314|-77.6120|St. Paul's
-18.0788|-76.6720|St. Peter's
-18.2386|-78.1171|Strathbogie
-18.3068|-78.0894|Strawberry
-18.2532|-77.9566|Struie
-18.4163|-77.3199|Sturge Town
-18.3342|-77.5479|St. Vincent
-18.3773|-78.0511|Success
-18.0943|-77.2843|Summerfield
-18.3736|-77.7935|Summer Hill
-18.3979|-77.8273|Sunderland
-17.9561|-76.4093|Sunning Hill
-17.9861|-77.5333|Swaby's Hope
-18.0049|-76.7744|Swallowfield
-18.1577|-76.5787|Swift River
-18.3434|-77.8362|Tangle River
-18.1047|-76.8182|Temple Hall
-18.0897|-77.3719|Thompson Town
-18.1956|-77.7225|Thornton
-18.2571|-78.1428|Three Mile River
-18.0313|-76.8245|Three Oaks/ Glendale
-17.9733|-76.8009|Tivoli Gardens
-17.9719|-77.3657|Tollgate
-18.1162|-77.5034|Top Hill
-18.0118|-76.8281|Tower Hill
-18.4404|-77.9602|Tower Hill/Moy Hall
-18.3390|-78.1357|Town Head
-18.0128|-76.7846|Trafalgar Park
-18.1803|-76.6815|Tranquility
-17.9926|-77.2553|Treadlight
-17.8955|-77.7605|Treasure Beach
-17.9874|-76.8012|Trench Town
-17.9608|-76.5143|Trinity Ville
-18.2049|-76.9320|Troja
-18.1378|-77.3330|Trout Hall
-18.2492|-77.6098|Troy
-18.3130|-78.1549|Truro
-18.4490|-77.8944|Tucker
-18.0665|-77.2352|Turners
-18.3211|-77.4968|Ulster Spring
-18.4330|-77.9768|Unity Hall
-18.0009|-76.7477|University
-18.3213|-77.7805|Vaughnsfield
-17.9047|-77.3779|Victoria Town
-17.9869|-76.7706|Vineyard Town
-18.2533|-77.5084|Wait-A-Bit
-18.4146|-77.7091|Wakefield
-18.1164|-77.4861|Walderston
-18.3194|-77.0708|Walkers Wood
-18.0109|-76.8205|Waltham Gardens
-17.9624|-77.6396|Warminister
-18.2618|-77.5677|Warsop
-18.0217|-76.8402|Washington Gardens
-17.9388|-77.7725|Watchwell
-17.9934|-76.8609|Waterford
-18.0123|-76.8350|Waterhouse
-17.8245|-77.2595|Water Lane
-18.0669|-77.0911|Watermount
-18.2332|-78.0430|Water Works
-18.0068|-77.5187|Watham
-18.2943|-77.4147|Watt Town
-18.3690|-77.8367|Welcome Hall
-17.9789|-76.8866|West Cumberland
-17.9729|-76.7970|West Down Town
-18.4624|-77.9176|West Green
-17.9587|-76.2962|Wheelerfield
-18.0384|-76.8058|Whitehall
-18.1565|-77.8107|White Hill
-17.8962|-76.4708|White Horses
-18.1028|-77.9570|Whitehouse
-17.9921|-76.8091|Whitfield Town
-18.2711|-78.0381|Whithorn
-18.0666|-77.4658|Williamsfield
-17.9919|-76.9820|Willowdene
-17.9286|-76.3896|Wilmington
-18.2847|-77.6932|Wilson's Run
-17.9829|-76.8042|Wilton Gardens/ Rema
-17.9418|-76.2982|Winchester
-18.1067|-76.4463|Windsor
-18.2489|-76.6903|Windsor Castle
-18.1206|-76.3388|Windsor Forest
-18.2531|-77.5328|Wirefence
-18.0736|-76.7463|Woodford
-17.9871|-76.7812|Woodford Park
-18.0476|-77.2758|Woodhall
-18.4456|-77.9996|Woodlands
-18.2973|-76.9811|Woodpark
-18.2526|-76.9268|Woodside
-18.3695|-78.0722|Woodsville
-17.8748|-76.5624|Yallahs
-17.9285|-76.4398|York
-18.2752|-77.2292|York Castle
-17.9251|-77.3000|York Town
-18.0257|-76.8098|Zaidie Gardens
+18.2110|-78.1360|12th Street|Westmoreland|0|
+18.2051|-77.6793|Aberdeen|Saint Elizabeth|0|
+18.2509|-77.3433|Aboukir|Saint Ann|0|
+18.1143|-76.8759|Above Rocks|Saint Catherine|5261|
+18.2298|-77.7482|Accompong|Saint Elizabeth|788|
+18.4506|-77.7859|Adelphi|Saint James|0|
+18.2103|-77.3985|Aenon Town|Clarendon|0|
+17.9251|-76.3422|Airy Castle|Saint Thomas|0|
+18.2943|-77.5424|Albert Town|Trelawny|3449|
+18.4847|-77.9141|Albion|Saint James|0|
+17.9012|-76.6076|Albion|Saint Thomas|0|
+18.2871|-77.2083|Alderton|Saint Ann|0|
+18.3041|-77.3531|Alexandria|Saint Ann|1927|
+17.7904|-77.2708|Alley|Clarendon|0|
+17.8837|-77.5607|Alligator Pond|Manchester|1793|
+17.8693|-77.5677|Alligator Pond|Saint Elizabeth|1793|
+17.9830|-76.7869|Allman Town|Kingston|0|
+18.3550|-77.5090|Alps|Trelawny|0|
+18.1764|-77.4347|Alston|Clarendon|0|
+18.2968|-77.3172|Alva|Saint Ann|0|
+18.3403|-76.9761|Amiel Town|Saint Mary|0|
+18.2736|-77.8980|Amity|Westmoreland|0|
+17.9676|-76.2570|Amity Hall|Saint Thomas|0|
+18.4103|-77.9317|Anchovy|Saint James|4161|
+18.2717|-76.7652|Annotto Bay|Saint Mary|5504|
+18.0374|-76.7820|Arcadia|Saint Andrew|0|
+18.2499|-77.7923|Arcadia|Saint James|0|
+17.9223|-76.3003|Arcadia|Saint Thomas|0|
+18.0371|-76.8179|Arlene Gardens|Saint Andrew|0|
+17.9915|-76.7983|Arnett Gardens|Saint Andrew|0|
+18.0144|-77.3402|Ashley|Clarendon|0|
+18.2314|-77.9207|Ashton|Westmoreland|0|
+17.9158|-77.4156|Asia/Pratville|Manchester|0|
+18.3849|-78.1491|Askenish|Hanover|0|
+18.2254|-77.6036|Auchtembeddie|Manchester|0|
+17.9956|-76.7367|August Town|Saint Andrew|0|
+18.3453|-76.9259|Baileys Vale|Saint Mary|0|
+18.1723|-77.6437|Balaclava|Saint Elizabeth|2862|
+18.1673|-76.7206|Balcarres|Portland|0|
+17.8795|-77.6309|Ballards Valley|Saint Elizabeth|0|
+18.3922|-77.2643|Bamboo|Saint Ann|4264|
+18.1364|-76.6890|Bangor Ridge|Portland|0|
+17.8322|-77.3073|Banks|Clarendon|0|
+17.8767|-76.5784|Baptist|Saint Thomas|0|
+17.9680|-77.7796|Barbary Hall|Saint Elizabeth|0|
+18.0355|-76.7699|Barbican|Saint Andrew|0|
+17.8928|-76.2892|Barking Lodge|Saint Thomas|0|
+18.2767|-77.9696|Barneyside|Westmoreland|0|
+18.5087|-77.7963|Barrett Town|Saint James|17169|
+18.0289|-77.1332|Bartons|Saint Catherine|0|
+17.9482|-76.3492|Bath|Saint Thomas|2382|
+18.2573|-78.1175|Bath|Westmoreland|0|
+18.3443|-78.0993|Bath Mountain|Westmoreland|0|
+18.2040|-76.7720|Baxter Mountain|Saint Mary|0|
+18.2342|-77.9501|Beaufort|Westmoreland|0|
+18.0855|-77.3240|Beckford Kraal|Clarendon|0|
+18.3847|-77.1162|Beecher Town|Saint Ann|0|
+18.1601|-77.9754|Beeston Spring|Westmoreland|0|
+18.2735|-76.8357|Belfield|Saint Mary|0|
+18.0471|-77.1491|Bellas Gate|Saint Catherine|0|
+18.0927|-77.4400|Bellefield|Manchester|0|
+18.2077|-76.6967|Belvedere|Portland|0|
+18.2522|-77.9321|Belvedere|Westmoreland|0|
+18.2232|-77.2086|Bensonton|Saint Ann|0|
+18.2129|-77.9037|Berkshire|Westmoreland|0|
+18.1537|-77.5503|Bethany|Manchester|0|
+17.9853|-76.5805|Bethel|Saint Thomas|0|
+18.2950|-77.9511|Bethel Town|Westmoreland|2416|
+18.0083|-76.7621|Beverley Hills|Saint Andrew|0|
+18.3634|-77.9365|Bickersteth|Saint James|0|
+18.2332|-78.1672|Big Bridge|Westmoreland|0|
+17.9334|-77.7190|Bigwoods|Saint Elizabeth|0|
+17.9736|-76.6663|Bito|Saint Andrew|0|
+18.2179|-76.5976|Black Hill|Portland|0|
+18.0264|-77.8487|Black River|Saint Elizabeth|4229|
+18.2736|-77.0425|Blackstonedge|Saint Ann|0|
+17.9958|-76.6477|Bloxborough|Saint Andrew|0|
+18.1660|-78.0270|Bluefields|Westmoreland|2828|
+18.0709|-77.4284|Blue Mountain|Manchester|0|
+18.1563|-77.9436|Bog|Westmoreland|0|
+18.1362|-77.6697|Bogue|Saint Elizabeth|0|
+18.4372|-77.9202|Bogue|Saint James|0|
+18.1020|-77.0054|Bog Walk|Saint Catherine|12873|
+18.2124|-77.4695|Bohemia|Saint Ann|0|
+18.1178|-77.4494|Bombay|Manchester|0|
+18.3287|-76.9461|Bonnygate|Saint Mary|0|
+18.1978|-77.4275|Borobridge|Saint Ann|0|
+18.0034|-76.8126|Boucher Park|Saint Andrew|0|
+18.1757|-76.4708|Boundbrook|Portland|0|
+18.4580|-77.7166|Bounty Hall|Trelawny|0|
+17.9701|-76.7627|Bournemouth Gardens|Kingston|0|
+18.0935|-77.6649|Braes River|Saint Elizabeth|0|
+17.9417|-76.8863|Braeton|Saint Catherine|0|
+18.1699|-76.8689|Brainerd|Saint Mary|0|
+18.4426|-77.4642|Brampton|Trelawny|0|
+18.1511|-77.2366|Brandon Hill|Clarendon|0|
+18.1482|-76.8051|Brandon Hill|Saint Andrew|0|
+18.4777|-77.9112|Brandon Hill|Saint James|0|
+18.1600|-76.4661|Breastworks|Portland|0|
+17.9626|-76.8781|Bridgeport|Saint Catherine|0|
+18.1484|-77.8560|Brighton|Saint Elizabeth|0|
+18.0204|-77.3174|Brixton Hill|Clarendon|0|
+18.2285|-76.8079|Broadgate|Saint Mary|0|
+18.0679|-77.8882|Brompton|Saint Elizabeth|0|
+18.2175|-78.2289|Broughton|Westmoreland|0|
+18.0536|-77.1185|Browns Hill|Saint Catherine|0|
+18.3846|-77.3529|Browns Town|Saint Ann|0|
+18.0062|-77.2375|Bucknor|Clarendon|0|
+17.9823|-77.2385|Bucks Common|Clarendon|0|
+18.2329|-76.6612|Buff Bay|Portland|2757|
+17.9525|-76.6840|Bull Bay/ Seven Mile|Saint Andrew|0|
+17.8868|-77.5902|Bull Savanna|Saint Elizabeth|0|
+17.8806|-77.5900|Bull Savannah|Saint Elizabeth|6962|
+18.3620|-77.6861|Bunkers Hill|Trelawny|0|
+18.0318|-77.7494|Burnt Savannah|Saint Elizabeth|0|
+18.3168|-78.1263|Burnt Savannah|Westmoreland|0|
+17.9824|-77.2514|Bushy Park|Clarendon|0|
+17.9731|-77.5778|Butt-Up|Manchester|0|
+18.1464|-76.6573|Bybrook|Portland|0|
+18.4164|-78.2073|Cacoon|Hanover|0|
+18.4025|-78.0134|Cacoon Castle|Hanover|0|
+18.2284|-78.0113|Cairn Curran|Westmoreland|0|
+18.2564|-77.2714|Calderwood|Saint Ann|0|
+18.2587|-78.0117|Caledonia|Westmoreland|0|
+18.2393|-76.7809|Camberwell|Saint Mary|0|
+18.3131|-77.8955|Cambridge|Saint James|3119|
+17.9791|-76.7813|Campbell Town|Kingston|0|
+17.9810|-76.6862|Cane River|Saint Andrew|0|
+18.4792|-77.9166|Canterbury|Saint James|0|
+18.1474|-77.7737|Carisbrook|Saint Elizabeth|0|
+18.1733|-77.9393|Carmel|Westmoreland|0|
+18.2780|-76.9525|Carron Hall|Saint Mary|0|
+18.3975|-78.1034|Cascade|Hanover|1232|
+18.0938|-76.7122|Cascade|Portland|0|
+18.2321|-77.4625|Cascade|Saint Ann|0|
+18.3692|-78.1094|Cash Hill|Hanover|0|
+18.0205|-76.8067|Cassia Park|Saint Andrew|0|
+18.1422|-76.3463|Castle Comfort|Portland|0|
+18.1762|-76.7834|Castleton|Saint Mary|0|
+18.2805|-77.8658|Catadupa|Saint James|0|
+18.4626|-77.9229|Catherine Hall|Saint James|0|
+18.4567|-77.8969|Catherine Mount|Saint James|0|
+18.3858|-78.2411|Cauldwell|Hanover|0|
+18.0968|-76.8432|Cavaliers|Saint Andrew|0|
+18.2102|-78.0407|Cave|Westmoreland|0|
+18.2327|-77.3634|Cave Valley|Saint Ann|0|
+18.0382|-76.8983|Caymanas|Saint Catherine|0|
+18.0123|-77.4963|Cedar Grove|Manchester|0|
+18.0282|-76.5956|Cedar Valley|Saint Thomas|0|
+17.9696|-76.7926|Central Down Town|Kingston|0|
+18.1876|-76.4534|Central Port Antonio|Portland|0|
+17.9999|-76.9239|Central Village|Saint Catherine|0|
+18.3796|-77.1752|Chalky Hill|Saint Ann|0|
+18.4052|-78.1598|Chambers Pen|Hanover|0|
+18.1045|-77.4663|Chantilly|Manchester|0|
+18.2306|-78.1246|Chantilly|Westmoreland|0|
+18.0833|-77.2667|Chapelton|Clarendon|4514|
+18.2053|-76.6639|Charles Town|Portland|0|
+18.3892|-77.0398|Charles Town|Saint Mary|0|
+17.9897|-77.1874|Chateau|Clarendon|0|
+18.0496|-76.7787|Cherry Gardens|Saint Andrew|0|
+18.4479|-77.2650|Chester|Saint Ann|0|
+18.3382|-77.9472|Chester Castle|Hanover|0|
+18.1802|-77.4904|Christiana|Manchester|0|
+18.1515|-77.5071|Chudleigh|Manchester|0|
+17.8872|-76.4190|Church Corner|Saint Thomas|0|
+18.3256|-77.2064|Claremont|Saint Ann|0|
+18.4224|-77.5333|Clarks Town|Trelawny|2606|
+18.1488|-76.6392|Claverty Cottage|Portland|0|
+18.2428|-76.8314|Clonmel|Saint Mary|0|
+18.1406|-77.4700|Cobbla|Manchester|0|
+18.0036|-76.8243|Cockburn Gardens|Saint Andrew|0|
+17.8887|-77.1583|Cockpit|Clarendon|0|
+18.1383|-77.4065|Coffee Piece|Clarendon|0|
+18.3797|-77.0852|Cole Gate|Saint Ann|0|
+18.1999|-77.5192|Coleyville|Manchester|3860|
+18.1352|-77.2555|Colonels Ridge|Clarendon|0|
+18.0539|-77.4248|Comfort|Manchester|0|
+18.0483|-76.4161|Comfort Castle|Portland|0|
+18.1879|-77.6104|Comfort Hall|Manchester|0|
+18.4127|-77.9181|Comfort Hall|Saint James|0|
+18.0508|-76.7937|Constant Spring|Saint Andrew|12830|
+18.0294|-76.7996|Constant Spring Gardens|Saint Andrew|0|
+18.0149|-76.7052|Constitution Hill|Saint Andrew|0|
+18.0744|-77.4512|Content|Manchester|0|
+18.1829|-77.9992|Content|Westmoreland|0|
+18.0408|-76.6907|Content Gap|Saint Andrew|0|
+18.4098|-77.0754|Content Garden|Saint Ann|0|
+18.0224|-76.8485|Cooreville Gardens|Saint Andrew|0|
+18.3947|-77.9768|Copse|Hanover|0|
+18.5079|-77.8803|Coral Gardens|Saint James|0|
+18.4893|-77.8102|Cornwall|Saint James|0|
+18.2872|-77.9867|Cornwall Mountian|Westmoreland|0|
+18.0949|-77.9155|Cotterwood|Saint Elizabeth|0|
+18.4243|-78.2375|Cousins Cove|Hanover|0|
+18.1027|-77.2344|Coxswain|Clarendon|0|
+18.2366|-77.5630|Craig Head|Manchester|0|
+18.0506|-77.9160|Crawford|Saint Elizabeth|0|
+18.0362|-76.9763|Crescent|Saint Catherine|0|
+18.1327|-77.2051|Crofts Hill|Clarendon|0|
+17.9584|-76.9846|Cromarty|Saint Catherine|0|
+18.1429|-77.3000|Crooked River|Clarendon|0|
+17.9073|-77.5011|Cross Keys|Manchester|0|
+17.9945|-76.7881|Cross Roads|Saint Andrew|0|
+18.2279|-77.4205|Cuffie Ridge|Saint Ann|0|
+18.1052|-77.4162|Cumberland|Clarendon|0|
+17.9765|-76.8821|Cumberland|Saint Catherine|0|
+17.9398|-77.2484|Curatoe Hill|Clarendon|0|
+17.9700|-76.7370|D'Aguilar Town/ Rennock Lodge|Kingston|0|
+17.9846|-76.7126|Dallas|Saint Andrew|0|
+17.9024|-76.2500|Dalvey|Saint Thomas|3037|
+18.4640|-77.6159|Daniel Town|Trelawny|0|
+17.9288|-76.4759|Danvers Pen|Saint Thomas|0|
+18.2373|-77.9763|Darliston|Westmoreland|2076|
+18.0554|-77.3330|Dawkins|Clarendon|0|
+18.3598|-77.7372|Deeside|Trelawny|0|
+17.9921|-76.8224|Delacree Park/ Union Gardens|Saint Andrew|0|
+17.9958|-76.8171|Delacree Pen|Saint Andrew|0|
+18.2971|-78.2396|Delveland|Westmoreland|0|
+17.9781|-76.7998|Denham Town|Kingston|0|
+18.1659|-77.5251|Devon|Manchester|0|
+18.2156|-76.8244|Devon Pen|Saint Mary|0|
+18.3938|-78.1856|Dias|Hanover|0|
+18.2094|-77.9908|Dillion Bigwoods|Westmoreland|0|
+18.4372|-77.4181|Discovery Bay|Saint Ann|8257|
+18.2553|-76.7081|Dover|Saint Mary|0|
+17.9500|-77.5731|Downs|Manchester|0|
+18.4773|-77.9203|Down Town Montego Bay|Saint James|0|
+18.1712|-76.4061|Drapers|Portland|0|
+18.0238|-76.8263|Drewsland|Saint Andrew|0|
+18.0235|-76.7876|Drumblair|Saint Andrew|0|
+18.4027|-77.5961|Duanvale|Trelawny|0|
+17.9220|-76.2266|Duckenfield|Saint Thomas|0|
+18.0309|-76.8462|Duhaney Park|Saint Andrew|0|
+17.8940|-76.4319|Duhaney Pen|Saint Thomas|0|
+18.4297|-77.7559|Dumfries|Saint James|0|
+18.4680|-77.5363|Duncans|Trelawny|5153|
+18.2368|-77.8870|Dundee|Westmoreland|0|
+18.0857|-76.5156|Durham|Portland|0|
+17.9240|-76.5882|Easington|Saint Thomas|2634|
+17.9720|-76.7847|East Down Town|Kingston|0|
+18.0189|-76.8007|Eastwood Park Gardens|Saint Andrew|0|
+17.9645|-76.8655|Edgewater|Saint Catherine|0|
+17.9927|-77.2186|Effortville|Clarendon|0|
+18.2242|-77.7938|Elderslie|Saint Elizabeth|0|
+17.9374|-76.6434|Eleven Miles|Saint Thomas|0|
+17.9680|-77.4393|Ellen Street|Manchester|0|
+18.0095|-76.7403|Elleston Flats/ Mona Commons|Saint Andrew|0|
+18.2204|-76.7374|Enfield|Saint Mary|0|
+18.2140|-77.9527|Enfield|Westmoreland|0|
+18.0178|-76.9622|Ensom|Saint Catherine|0|
+18.2522|-76.7264|Epson|Saint Mary|0|
+18.3608|-77.1334|Epworth|Saint Ann|0|
+18.1510|-77.5996|Evergreen|Manchester|0|
+18.1833|-77.0854|Ewarton|Saint Catherine|12797|
+18.3727|-77.0657|Exchange|Saint Ann|0|
+18.0312|-77.5754|Fairfield|Manchester|0|
+18.4508|-77.9124|Fairfield|Saint James|0|
+18.1651|-76.3659|Fairy Hill|Portland|0|
+18.2296|-77.0880|Faith's Pen|Saint Ann|0|
+18.4936|-77.6559|Falmouth|Trelawny|7779|
+18.4687|-77.8776|Farm Heights|Saint James|0|
+18.1278|-76.4720|Fellowship|Portland|0|
+18.2227|-78.0559|Ferris|Westmoreland|0|
+18.0277|-76.8672|Ferry|Saint Andrew|0|
+18.3541|-77.7713|Flagstaff|Saint James|0|
+18.3141|-77.8132|Flamstead|Saint James|0|
+18.5026|-77.9083|Flankers|Saint James|0|
+17.9797|-76.7910|Fletchers Land|Kingston|0|
+18.2379|-76.9217|Flint River|Saint Mary|0|
+18.4843|-77.8391|Flower Hill|Saint James|0|
+17.9406|-76.5117|Font Hill|Saint Thomas|0|
+18.0430|-76.8514|Forest Hills/ Plantation Height|Saint Andrew|0|
+18.0385|-76.8287|Forest Hills Gardens|Saint Andrew|0|
+18.2983|-78.0633|Fort Williams|Westmoreland|0|
+17.9709|-77.2960|Four Paths|Clarendon|0|
+18.1497|-77.3650|Frankfield|Clarendon|0|
+17.9779|-76.7734|Franklyn Town|Kingston|0|
+18.3544|-76.9432|Free Hill|Saint Mary|0|
+18.2838|-77.5018|Freemans Hall|Trelawny|0|
+17.9219|-77.1478|Freetown|Clarendon|0|
+17.9557|-77.5447|French Park|Manchester|0|
+18.4459|-77.8624|Friendship|Saint James|0|
+18.1972|-76.8196|Friendship Gap|Saint Mary|0|
+18.2797|-78.1490|Frome|Westmoreland|993|
+18.1089|-76.5862|Fruitfulvale|Portland|0|
+18.2989|-78.1998|Fullersfield|Westmoreland|0|
+18.0153|-77.7757|Fullerswood|Saint Elizabeth|0|
+18.4027|-76.9004|Galina|Saint Mary|0|
+18.2781|-77.7891|Garlands|Saint James|0|
+18.3428|-77.0021|Gayle|Saint Mary|3305|
+18.2765|-78.1312|Georges Plain|Westmoreland|0|
+18.0317|-77.4808|George's Valley|Manchester|0|
+18.3508|-77.4214|Gibraltar|Saint Ann|0|
+18.0970|-77.8676|Giddy Hall|Saint Elizabeth|0|
+17.8895|-77.2847|Gimme-me-bit|Clarendon|0|
+18.1918|-77.8487|Ginger Hill|Saint Elizabeth|0|
+18.0769|-77.1686|Ginger Ridge|Saint Catherine|0|
+18.4849|-77.8971|Glendevon|Saint James|0|
+18.1521|-76.8906|Glengoffe|Saint Catherine|0|
+17.9680|-77.2539|Glenmuir|Clarendon|0|
+18.0195|-76.9804|Golden Acres|Saint Catherine|0|
+18.3296|-77.1226|Golden Grove|Saint Ann|0|
+17.9336|-76.2725|Golden Grove|Saint Thomas|3058|
+18.0945|-76.7973|Golden Spring|Saint Andrew|0|
+18.2422|-78.1284|Gooden's River|Westmoreland|0|
+18.2081|-77.5709|Good Intent|Manchester|0|
+18.4695|-77.7565|Goodwill|Saint James|0|
+18.0376|-76.7235|Gordon Town|Saint Andrew|1088|
+18.0496|-77.6414|Goshen|Saint Elizabeth|0|
+18.3316|-78.0804|Grange|Westmoreland|0|
+18.3308|-78.1840|Grange Hill|Westmoreland|10429|
+18.1584|-77.3964|Grantham|Clarendon|0|
+18.0326|-76.7889|Grants Pen|Saint Andrew|0|
+18.4419|-77.8940|Granville|Saint James|0|
+18.4505|-77.6885|Granville|Trelawny|0|
+17.9097|-77.3335|Gravel Hill|Clarendon|0|
+17.9523|-76.9113|Greater Portmore|Saint Catherine|0|
+18.4023|-77.0851|Great Pond|Saint Ann|0|
+18.4117|-78.0502|Great Valley|Hanover|0|
+18.0125|-76.9483|Greendale|Saint Catherine|0|
+18.3840|-78.2702|Green Island|Hanover|0|
+18.4736|-77.8778|Green Pond|Saint James|0|
+18.0393|-77.5324|Greenvale|Manchester|0|
+17.9844|-76.8256|Greenwich Town/ Newport West|Saint Andrew|0|
+18.4977|-77.7524|Greenwood|Saint James|0|
+17.9949|-76.8830|Gregory Park|Saint Catherine|0|
+18.1047|-77.5292|Grove Place|Manchester|0|
+17.8861|-77.4588|Grove Town|Manchester|0|
+18.2624|-76.9956|Guys Hill|Saint Mary|0|
+18.4204|-78.0038|Haddington|Hanover|0|
+18.2861|-78.0189|Haddo|Westmoreland|0|
+18.0484|-76.6278|Hagley Gap|Saint Thomas|0|
+18.0125|-76.7993|Half Way Tree|Saint Andrew|18552|
+18.4422|-77.7320|Hampden|Trelawny|0|
+18.3205|-76.9048|Hampstead|Saint Mary|0|
+17.9178|-76.2613|Hampton Court|Saint Thomas|0|
+18.0054|-76.9682|Hampton Green|Saint Catherine|0|
+17.9800|-76.7943|Hannah Town/ Craig Town|Kingston|0|
+17.9515|-76.7166|Harbour View|Saint Andrew|0|
+18.1728|-76.9440|Harewood|Saint Catherine|0|
+18.1315|-76.9135|Harkers Hall|Saint Catherine|0|
+17.9817|-77.4121|Harmons|Manchester|0|
+18.2199|-78.1369|Harmony Town|Westmoreland|0|
+18.1731|-77.5761|Harry Watch|Manchester|0|
+18.0156|-77.5401|Hatfield|Manchester|0|
+18.0543|-76.8087|Havendale|Saint Andrew|0|
+17.8757|-77.2371|Hayes|Clarendon|9701|
+17.9820|-76.3684|Hayfield|Saint Thomas|0|
+17.9538|-77.2315|Hazard|Clarendon|0|
+18.0488|-77.4824|Heartease|Manchester|0|
+18.0009|-76.2706|Hectors River|Portland|0|
+17.8967|-76.9619|Hellshire|Saint Catherine|0|
+17.9835|-76.7410|Hermitage|Saint Andrew|0|
+18.2718|-78.0908|Hertford|Westmoreland|0|
+18.1758|-77.5483|Hibernia|Manchester|0|
+18.3412|-77.2707|Higgin Land|Saint Ann|0|
+18.2774|-76.8955|Highgate|Saint Mary|0|
+17.9962|-76.4908|Hillside|Saint Thomas|0|
+18.3543|-77.0981|Hinds Town|Saint Ann|0|
+18.1036|-77.8016|Holland|Saint Elizabeth|0|
+18.1875|-76.5758|Hope Bay|Portland|1666|
+18.0231|-76.7499|Hope Pastures/ UTECH|Saint Andrew|0|
+18.0123|-76.7320|Hope Tavern|Saint Andrew|0|
+17.9563|-77.6624|Hopeton|Saint Elizabeth|0|
+18.3986|-77.8683|Hopeton|Saint James|0|
+18.4432|-78.0264|Hopewell|Hanover|0|
+18.0304|-76.8173|Hughenden|Saint Andrew|0|
+18.0665|-77.5817|Huntley|Manchester|0|
+17.9778|-76.8750|Independence City|Saint Catherine|0|
+17.9120|-77.1903|Inverness|Clarendon|0|
+18.2753|-77.3686|Inverness|Saint Ann|0|
+18.0623|-76.7026|Irish Town|Saint Andrew|0|
+18.5132|-77.8511|Ironshore|Saint James|0|
+18.4495|-77.8772|Irwin|Saint James|0|
+18.3216|-76.8410|Islington|Saint Mary|2958|
+18.0387|-76.7489|Jacks Hill|Saint Andrew|0|
+18.4178|-77.4846|Jackson Town|Trelawny|0|
+18.3722|-76.9410|Jacks River|Saint Mary|0|
+18.1875|-77.3370|James Hill|Clarendon|0|
+18.2896|-77.0034|Jeffery Town|Saint Mary|0|
+18.4374|-78.1303|Jericho|Hanover|0|
+18.3246|-78.2156|Jerusalem|Westmoreland|0|
+18.2674|-77.4962|Joe Hut|Trelawny|0|
+18.1888|-77.3806|Johns Hall|Clarendon|0|
+18.4285|-77.8501|John's Hall|Saint James|0|
+17.9809|-76.3199|Johnson Mountain|Saint Thomas|0|
+17.9777|-76.7559|Johnson Town|Kingston|0|
+17.8966|-76.3614|Johns Town|Saint Thomas|0|
+17.9507|-76.5477|Jones Pen|Saint Thomas|0|
+17.9842|-76.7969|Jones Town|Saint Andrew|0|
+17.9147|-77.5989|Junction|Saint Elizabeth|0|
+18.1618|-77.2705|Kellits|Clarendon|2631|
+18.0004|-76.7983|Kencot|Saint Andrew|0|
+18.3629|-78.2272|Kendal|Hanover|0|
+18.0832|-77.5032|Kendal|Manchester|0|
+18.0677|-76.3005|Kensington|Portland|0|
+18.1993|-78.0177|Kentucky|Westmoreland|0|
+18.0165|-76.9352|Keystone|Saint Catherine|0|
+18.1241|-77.9277|Kilmarnoch|Westmoreland|0|
+17.9970|-76.7936|Kingston|Kingston|937700|
+17.9784|-76.7868|Kingston Gardens|Kingston|0|
+18.3809|-78.2052|Kingsvale|Hanover|0|
+18.3964|-77.5697|Kinloss|Trelawny|0|
+18.0213|-76.7269|Kintyre|Saint Andrew|0|
+18.0349|-77.0403|Kitson Town|Saint Catherine|0|
+17.9903|-77.4927|Knockpatrick|Manchester|0|
+18.3442|-77.0323|Labyrinth|Saint Mary|0|
+18.0884|-77.7535|Lacovia|Saint Elizabeth|2760|
+18.2682|-77.9141|Lambs River|Westmoreland|0|
+17.9360|-77.4613|Lancaster|Manchester|0|
+18.4382|-78.2144|Lances Bay|Hanover|0|
+18.1374|-76.8474|Lawrence Tavern|Saint Andrew|0|
+18.2135|-77.9274|Leamington|Westmoreland|0|
+18.0140|-77.6837|Leeds|Saint Elizabeth|0|
+17.8797|-76.3433|Leith Hall|Saint Thomas|0|
+18.2139|-77.9721|Lenox Bigwoods|Westmoreland|0|
+18.0210|-76.7683|Liguanea|Saint Andrew|0|
+18.5059|-77.7769|Lilliput|Saint James|0|
+18.3974|-77.2105|Lime Hall|Saint Ann|0|
+18.3454|-77.3864|Lime Tree Gardens|Saint Ann|0|
+18.1529|-77.4712|Limit|Clarendon|2321|
+18.1368|-77.0317|Linstead|Saint Catherine|20660|
+18.2608|-77.4222|Linton Park|Saint Ann|0|
+17.8101|-77.2406|Lionel Town|Clarendon|5362|
+18.1350|-77.5245|Litchfield|Manchester|0|
+17.9403|-77.5951|Lititz|Saint Elizabeth|0|
+18.2452|-78.2265|Little London|Westmoreland|4954|
+17.9448|-76.6225|Llandewey|Saint Thomas|0|
+18.2344|-78.1389|Llandilo|Westmoreland|0|
+17.9150|-76.5409|Lloyds|Saint Thomas|0|
+18.1498|-77.1685|Lluidas Vale|Saint Catherine|3163|
+18.3488|-78.2962|Logwood|Hanover|0|
+18.0858|-76.3251|Long Bay|Portland|0|
+18.0086|-76.2948|Long Road|Portland|0|
+18.2134|-76.7501|Long Road|Saint Mary|0|
+17.9119|-77.1598|Longville Park|Clarendon|0|
+17.8075|-77.2873|Longwood|Clarendon|0|
+18.2303|-77.4921|Lorrimers|Trelawny|0|
+18.4150|-77.8070|Lottery|Saint James|0|
+18.4509|-78.1736|Lucea|Hanover|7377|
+18.4220|-78.1667|Lucea East|Hanover|0|
+18.4424|-78.1866|Lucea West|Hanover|0|
+18.3025|-77.0168|Lucky Hill|Saint Mary|774|
+17.8871|-76.3796|Lyssons|Saint Thomas|0|
+18.3116|-78.0247|Mackfield|Westmoreland|0|
+18.2119|-77.2802|Macknie|Saint Ann|0|
+18.2911|-77.4488|Madras|Saint Ann|0|
+18.1734|-77.7668|Maggotty|Saint Elizabeth|1371|
+18.1016|-77.5728|Maidstone|Manchester|0|
+18.0002|-76.8329|Majestic Gardens|Saint Andrew|0|
+18.3383|-77.8100|Maldon|Saint James|0|
+17.9667|-77.7000|Malvern|Saint Elizabeth|3291|
+18.0444|-76.2773|Manchioneal|Portland|2321|
+18.0417|-77.5071|Mandeville|Manchester|47115|
+18.0445|-77.5057|Mandeville Proper|Manchester|0|
+18.3748|-76.9769|Mango Valley|Saint Mary|0|
+17.9691|-76.7712|Manley Meadows|Kingston|0|
+18.0705|-76.8129|Mannings Hill|Saint Andrew|0|
+18.0817|-76.8233|Mannings Hill (Rural)|Saint Andrew|0|
+18.4027|-77.0949|Mansfield|Saint Ann|0|
+18.3295|-78.2766|March Town|Hanover|0|
+17.8669|-77.5083|Marlie Hill|Manchester|0|
+18.3446|-77.7954|Maroon Town|Saint James|3085|
+18.4696|-77.6591|Martha Brae|Trelawny|0|
+18.3012|-76.8726|Martin|Saint Mary|0|
+18.0268|-76.8265|Marverley|Saint Andrew|0|
+18.3868|-78.1282|Maryland|Hanover|0|
+18.0517|-76.7432|Maryland|Saint Andrew|0|
+18.3966|-76.9206|Mason Hall|Saint Mary|0|
+18.0333|-76.6667|Mavis Bank|Saint Andrew|1821|
+17.9994|-76.8080|Maxfield Park|Saint Andrew|0|
+18.0095|-77.4761|May Day|Manchester|0|
+17.9645|-77.2451|May Pen|Clarendon|44755|
+17.9703|-77.2391|May Pen Proper|Clarendon|0|
+18.0471|-76.8155|Meadowbrook|Saint Andrew|0|
+18.0374|-76.8296|Meadowbrook Estate|Saint Andrew|0|
+18.1886|-78.0287|Mearnsville|Westmoreland|0|
+18.1224|-77.5964|Medina|Manchester|0|
+18.2179|-77.8377|Merrywood|Saint Elizabeth|0|
+18.1146|-77.8381|Middle Quarters|Saint Elizabeth|0|
+17.9397|-76.4356|Middleton|Saint Thomas|0|
+18.0425|-77.5549|Mike Town|Manchester|0|
+18.1339|-77.5656|Mile Gully|Manchester|0|
+18.3180|-76.9605|Mile Gully|Saint Mary|0|
+17.8756|-77.3514|Milk River|Clarendon|0|
+17.9418|-77.2328|Mineral Heights|Clarendon|0|
+17.8128|-77.2053|Mitchell Town|Clarendon|0|
+18.2914|-77.8258|Mocho|Saint James|0|
+18.0103|-76.8111|Molynes Four Roads|Saint Andrew|0|
+18.0198|-76.8162|Molynes Gardens|Saint Andrew|0|
+18.0133|-76.7509|Mona Heights|Saint Andrew|2887|
+18.2831|-77.1385|Moneague|Saint Ann|3319|
+18.4712|-77.9188|Montego Bay|Saint James|82867|
+18.4804|-77.8815|Montego Hill|Saint James|0|
+18.3761|-77.9136|Montpelier|Saint James|0|
+18.0293|-77.1854|Moores|Clarendon|0|
+18.0777|-76.4258|Moore Town|Portland|1119|
+17.8815|-76.4093|Morant Bay|Saint Thomas|9368|
+18.1909|-77.4102|Morgans Forest|Clarendon|0|
+18.1212|-77.2749|Morgans Pass|Clarendon|0|
+17.9808|-77.7479|Mountainside|Saint Elizabeth|0|
+17.9919|-76.7607|Mountain View Gardens|Saint Andrew|10285|
+18.0184|-77.3636|Mount Airy|Clarendon|0|
+18.2474|-78.3228|Mount Airy|Westmoreland|0|
+18.3889|-77.9437|Mount Carey|Saint James|0|
+18.3332|-77.8667|Mount Horeb|Saint James|0|
+18.1207|-76.7739|Mount James|Saint Andrew|0|
+17.9754|-76.5389|Mount Lebanus|Saint Thomas|0|
+18.2062|-77.4409|Mount Moriah|Saint Ann|0|
+18.3575|-78.0229|Mount Peto|Hanover|0|
+18.1633|-76.5047|Mount Pleasant|Portland|0|
+18.4660|-77.9079|Mount Salem|Saint James|0|
+18.3041|-77.9927|Mount Stewart|Westmoreland|0|
+18.4338|-77.2803|Mount Zion|Saint Ann|0|
+18.2116|-77.8202|Mulgrave|Saint Elizabeth|0|
+17.9970|-77.6243|Myersville|Saint Elizabeth|0|
+17.9642|-76.8882|Naggo Head|Saint Catherine|0|
+17.9653|-77.6053|Nain|Saint Elizabeth|2394|
+17.9968|-76.7695|Nannyville|Saint Andrew|0|
+18.2684|-78.3481|Negril|Westmoreland|13779|
+17.9856|-77.2710|New Denbigh|Clarendon|0|
+17.9210|-77.7465|Newell|Saint Elizabeth|0|
+17.9201|-77.5587|New Forest|Manchester|0|
+18.0766|-77.5257|New Green|Manchester|0|
+18.0295|-76.8542|New Haven|Saint Andrew|0|
+18.0075|-76.7832|New Kingston|Saint Andrew|583958|
+18.0307|-77.2305|New Longsville|Clarendon|0|
+18.1536|-77.9096|New Market|Saint Elizabeth|0|
+18.2137|-78.1381|New Market Oval|Westmoreland|0|
+17.9916|-76.5733|New Monkland|Saint Thomas|0|
+17.9629|-77.5049|Newport|Manchester|0|
+17.9742|-76.8066|Newport East|Kingston|0|
+18.1912|-77.9361|New Roads|Westmoreland|0|
+18.1109|-77.7235|Newton|Saint Elizabeth|0|
+17.9735|-76.7721|Newton Square|Kingston|0|
+18.1725|-77.9664|New Works|Westmoreland|0|
+18.2653|-77.8188|Niagara|Saint James|0|
+18.1382|-76.4047|Nonsuch|Portland|0|
+18.0548|-76.7850|Norbrook|Saint Andrew|0|
+17.9780|-76.7594|Norman Gardens|Kingston|0|
+18.1882|-76.4771|Norwich|Portland|0|
+18.4922|-77.8863|Norwood|Saint James|0|
+18.0356|-76.7956|Oaklands|Saint Andrew|0|
+18.4076|-77.1031|Ocho Rios|Saint Ann|26503|
+17.9612|-77.2670|Old Denbigh|Clarendon|0|
+17.9850|-77.4602|Old England|Manchester|0|
+17.9414|-77.1090|Old Harbour|Saint Catherine|26024|
+17.9092|-77.0972|Old Harbour Bay|Saint Catherine|7912|
+17.9580|-77.0273|Old Harbour Road|Saint Catherine|0|
+18.4032|-76.9464|Oracabessa|Saint Mary|4100|
+18.4539|-77.8278|Orange|Saint James|0|
+18.3427|-78.3200|Orange Bay|Hanover|2546|
+18.2031|-76.6225|Orange Bay|Portland|0|
+18.1179|-77.3594|Orange Hill|Clarendon|0|
+18.2342|-78.3028|Orange Hill|Westmoreland|0|
+17.9589|-77.3283|Osbourne Store|Clarendon|0|
+17.9629|-77.2237|Paisley|Clarendon|0|
+17.9500|-77.2034|Palmers Cross|Clarendon|0|
+17.8757|-76.5174|Pamphret|Saint Thomas|0|
+18.0154|-76.7387|Papine|Saint Andrew|0|
+18.4940|-77.9098|Paradise|Saint James|0|
+18.0980|-76.8594|Parks Road|Saint Andrew|0|
+17.9617|-77.8177|Parottee|Saint Elizabeth|0|
+18.3836|-77.1034|Parry Town|Saint Ann|0|
+18.0802|-77.4097|Part of Banana Ground|Clarendon|0|
+18.0791|-77.4213|Part Of Banana Ground|Manchester|0|
+18.1870|-77.2754|Part of Douglas Castle|Clarendon|0|
+18.0064|-77.5790|Part Of Gutters|Manchester|0|
+18.2452|-76.9908|Part of Guys Hill|Saint Catherine|0|
+18.1716|-77.2512|Part of Kellits|Clarendon|0|
+18.0397|-76.9511|Part of Keystone|Saint Catherine|0|
+18.0912|-76.8880|Part of Rock Hall|Saint Catherine|0|
+18.1582|-77.4663|Part of Spaldings|Manchester|0|
+17.9779|-76.8679|Passage Fort|Saint Catherine|0|
+17.9730|-76.7765|Passmore Town|Kingston|0|
+18.0318|-76.8377|Patrick City|Saint Andrew|0|
+18.2720|-78.1861|Paul Island|Westmoreland|0|
+17.9116|-76.3168|Pear Tree|Saint Thomas|0|
+18.2251|-76.9529|Pear Tree Grove|Saint Catherine|0|
+18.1715|-77.3977|Peckham|Clarendon|0|
+17.8857|-77.7134|Pedro Plains|Saint Elizabeth|0|
+18.3789|-78.2190|Pell River|Hanover|0|
+18.0311|-76.8300|Pembroke Hall|Saint Andrew|0|
+18.1103|-77.3131|Pennants|Clarendon|0|
+18.0195|-76.8309|Penwood|Saint Andrew|11563|
+18.0210|-77.6128|Pepper|Saint Elizabeth|0|
+18.4311|-77.6258|Perth Town|Trelawny|0|
+18.2659|-78.0576|Petersfield|Westmoreland|3454|
+18.1370|-77.9505|Petersville|Westmoreland|0|
+18.4001|-77.3273|Philadelphia|Saint Ann|0|
+18.2323|-77.5379|Pike|Manchester|0|
+18.3958|-77.1138|Pimento Walk|Saint Ann|0|
+18.1960|-77.8867|Pisgah|Saint Elizabeth|0|
+18.4321|-77.8901|Pitfour|Saint James|0|
+18.0110|-77.2903|Pleasant Valley|Clarendon|0|
+17.8918|-77.5385|Plowden|Manchester|0|
+18.0936|-77.1048|Point Hill|Saint Catherine|5344|
+18.4022|-78.0734|Pondside|Hanover|0|
+17.9815|-77.7945|Pondside|Saint Elizabeth|0|
+17.8915|-76.5835|Poormans Corner|Saint Thomas|0|
+18.1761|-76.4509|Port Antonio|Portland|14400|
+18.3291|-78.0491|Porters Mountain|Westmoreland|0|
+17.7462|-77.1877|Portland Cottage|Clarendon|0|
+18.3685|-76.8895|Port Maria|Saint Mary|7906|
+17.8995|-76.3429|Port Morant|Saint Thomas|0|
+17.9503|-76.8821|Portmore|Saint Catherine|102861|
+18.4661|-77.8699|Porto Bello|Saint James|0|
+17.9374|-76.8406|Port Royal|Kingston|3327|
+18.0520|-77.4001|Porus|Clarendon|5923|
+18.0354|-77.4117|Porus|Manchester|5923|
+17.9187|-77.6687|Potsdam|Saint Elizabeth|0|
+18.4366|-77.2455|Priory|Saint Ann|0|
+17.9824|-77.5678|Prospect|Manchester|0|
+18.1748|-76.4355|Prospect|Portland|0|
+18.4127|-77.0412|Prospect|Saint Mary|0|
+17.8740|-76.3496|Prospect|Saint Thomas|0|
+18.0429|-76.8212|Queensborough/ Tunbridge|Saint Andrew|0|
+18.2328|-77.6783|Quick Step|Saint Elizabeth|0|
+17.8402|-77.2822|Race Course|Clarendon|2974|
+17.9677|-76.7797|Rae Town|Kingston|0|
+18.3467|-77.9880|Ramble|Hanover|0|
+17.9679|-76.6263|Ramble|Saint Thomas|0|
+18.4372|-77.9473|Reading|Saint James|0|
+17.9378|-77.6258|Red Bank|Saint Elizabeth|0|
+18.3055|-78.1128|Red Hills|Westmoreland|0|
+18.0678|-76.8609|Red Hills (Rural)|Saint Andrew|0|
+18.0595|-76.8403|Red Hills/ Sterling Castle|Saint Andrew|0|
+18.0300|-76.8099|Red Hills Gardens|Saint Andrew|0|
+18.2103|-76.9854|Redwood|Saint Catherine|0|
+18.4510|-77.5775|Refuge|Trelawny|0|
+18.2074|-77.7670|Retirement|Saint Elizabeth|0|
+18.4374|-77.8800|Retirement|Saint James|0|
+18.3787|-77.0159|Retreat|Saint Mary|0|
+17.8776|-76.3679|Retreat|Saint Thomas|0|
+18.2890|-77.9008|Retrieve|Saint James|0|
+18.2426|-78.2844|Revival|Westmoreland|0|
+18.0256|-77.4634|Richmond|Manchester|0|
+18.2111|-76.8830|Richmond|Saint Mary|2046|
+18.0517|-77.3764|Richmond Park|Clarendon|0|
+18.0056|-76.8046|Richmond Park|Saint Andrew|0|
+17.9744|-76.5904|Richmond Vale|Saint Thomas|0|
+18.4641|-77.4804|Rio Bueno|Trelawny|0|
+18.1390|-77.4289|Ritchies|Clarendon|0|
+18.2603|-77.0778|River Head|Saint Ann|0|
+17.9924|-76.6108|River Head|Saint Thomas|0|
+18.1780|-76.9664|Riversdale|Saint Catherine|4085|
+18.0144|-76.8490|Riverton City|Saint Andrew|0|
+18.3012|-78.0432|Roaring River|Westmoreland|0|
+18.3124|-76.8178|Robins Bay|Saint Mary|0|
+18.2040|-77.5501|Robins Hall|Manchester|0|
+17.9912|-77.3370|Rock|Clarendon|0|
+18.1617|-76.5305|Rock Hall|Portland|0|
+18.0655|-77.1971|Rock River|Clarendon|0|
+18.3480|-78.2439|Rock Spring|Hanover|0|
+17.7769|-77.2482|Rocky Point|Clarendon|3152|
+18.0432|-76.8084|Roehampton|Saint Andrew|0|
+18.3990|-77.8993|Roehampton|Saint James|0|
+17.9769|-76.7652|Rollington Town|Kingston|0|
+17.9265|-77.6415|Rose Hall|Saint Elizabeth|0|
+18.5123|-77.8183|Rose Hall|Saint James|0|
+18.4694|-77.8953|Rose Heights|Saint James|0|
+17.9247|-77.5234|Rose Hill|Manchester|0|
+18.4748|-77.8922|Rosemount|Saint James|0|
+18.4639|-77.8940|Rose Mount Garden|Saint James|0|
+17.9870|-76.8073|Rose Town|Saint Andrew|0|
+17.9735|-76.2878|Rowlandsfield|Saint Thomas|0|
+18.0496|-77.4683|Royal Flat|Manchester|0|
+18.4596|-77.3357|Runaway Bay|Saint Ann|12358|
+17.9864|-77.6506|Russels|Saint Elizabeth|0|
+18.2165|-78.1236|Russia|Westmoreland|0|
+18.4358|-77.2010|Saint Ann’s Bay|Saint Ann|13671|
+18.4842|-77.7118|Salt Marsh|Trelawny|0|
+17.8414|-77.1741|Salt River|Clarendon|0|
+18.4869|-77.8655|Salt Spring|Saint James|0|
+18.4510|-77.5144|Samuels Prospect|Trelawny|0|
+18.3389|-76.8955|Sandside|Saint Mary|0|
+17.9510|-77.1623|Sandy Bay|Clarendon|0|
+18.4375|-78.0838|Sandy Bay|Hanover|4520|
+18.1559|-77.4294|Sanguinetti|Clarendon|0|
+18.0534|-77.6984|Santa Cruz|Saint Elizabeth|8217|
+18.3588|-78.2839|Santoy|Hanover|0|
+18.2196|-78.1303|Savannah-la-mar Business Dist.|Westmoreland|0|
+18.2189|-78.1332|Savanna-la-Mar|Westmoreland|16553|
+18.3788|-77.4969|Sawyers|Trelawny|0|
+18.0237|-77.7188|Scholefield|Saint Elizabeth|0|
+18.1908|-76.8394|Scotts Hall|Saint Mary|0|
+17.9992|-77.3982|Scotts Pass|Manchester|0|
+18.2434|-77.9050|Seaford Town|Westmoreland|0|
+17.9442|-76.4566|Seaforth|Saint Thomas|4550|
+18.2168|-78.1360|Seaton Crescent|Westmoreland|0|
+18.0062|-76.8411|Seaview Gardens|Saint Andrew|0|
+18.0190|-76.8237|Seaward Pen|Saint Andrew|0|
+17.8475|-77.3264|Sedgepond|Clarendon|0|
+18.3470|-77.9138|Seven Rivers|Saint James|0|
+18.0129|-76.7771|Seymour Lands|Saint Andrew|0|
+18.2841|-78.2917|Shefield|Westmoreland|0|
+18.3823|-77.6364|Sherwood Content|Trelawny|1499|
+18.1543|-76.3782|Sherwood Forest|Portland|0|
+18.1566|-76.6111|Shirley Castle|Portland|0|
+18.2206|-78.1402|Shoalin Grotto|Westmoreland|0|
+18.1915|-77.4592|Silent Hill|Clarendon|0|
+18.1633|-77.7106|Siloah|Saint Elizabeth|2725|
+18.1732|-76.6275|Skibo|Portland|0|
+18.0820|-76.9399|Sligoville|Saint Catherine|0|
+18.0574|-77.7969|Slipe|Saint Elizabeth|0|
+18.2228|-78.0879|Smithfield|Westmoreland|0|
+18.1198|-77.3856|Smithville|Clarendon|0|
+17.9420|-77.4914|Snowdon|Manchester|0|
+18.1947|-76.4935|Snow Hill|Portland|0|
+18.0804|-77.5431|Somerset|Manchester|0|
+18.0098|-76.5460|Somerset|Saint Thomas|0|
+18.4050|-77.7707|Somerton|Saint James|0|
+17.8821|-77.6699|Southfield|Saint Elizabeth|2695|
+17.9657|-76.7862|Southside|Kingston|0|
+18.1687|-77.4580|Spaldings|Clarendon|0|
+17.9911|-76.9574|Spanish Town|Saint Catherine|145018|
+17.9801|-76.9229|Spanish Town Central|Saint Catherine|0|
+18.4576|-77.5475|Spicy Hill|Trelawny|0|
+18.4787|-77.7911|Spot Valley|Saint James|0|
+17.9599|-76.3260|Spring Bank|Saint Thomas|0|
+17.9712|-76.7561|Springfield|Kingston|0|
+18.1766|-77.8739|Springfield|Saint Elizabeth|0|
+17.9175|-76.4298|Spring Garden|Saint Thomas|0|
+18.2937|-77.5670|Spring Garden|Trelawny|0|
+18.1623|-77.4798|Spring Ground|Manchester|0|
+18.1259|-76.7291|Spring Hill|Portland|0|
+18.0065|-77.5566|Spur Tree|Manchester|0|
+17.9950|-76.7764|Stadium Gardens|Saint Andrew|0|
+18.4299|-77.2078|St. Ann's Bay|Saint Ann|0|
+18.3330|-77.3630|St. D'Acre|Saint Ann|0|
+18.4285|-77.1710|Steer Town|Saint Ann|0|
+18.2822|-77.5409|Stettin|Trelawny|0|
+18.3989|-77.4519|Stewart Town|Trelawny|0|
+18.0009|-76.9747|St. John's East|Saint Catherine|0|
+18.0054|-77.0075|St. John's West|Saint Catherine|0|
+18.2553|-77.8889|St. Leonards|Westmoreland|0|
+18.1908|-76.5289|St. Margaret's Bay|Portland|0|
+18.2423|-77.8504|Stonehenge|Saint James|0|
+18.0792|-76.7847|Stony Hill|Saint Andrew|8551|
+18.1314|-77.6120|St. Paul's|Manchester|0|
+18.0788|-76.6720|St. Peter's|Saint Andrew|0|
+18.2386|-78.1171|Strathbogie|Westmoreland|0|
+18.3068|-78.0894|Strawberry|Westmoreland|0|
+18.2532|-77.9566|Struie|Westmoreland|0|
+18.4163|-77.3199|Sturge Town|Saint Ann|0|
+18.3342|-77.5479|St. Vincent|Trelawny|0|
+18.3773|-78.0511|Success|Hanover|0|
+18.0943|-77.2843|Summerfield|Clarendon|0|
+18.3736|-77.7935|Summer Hill|Saint James|0|
+18.3979|-77.8273|Sunderland|Saint James|0|
+17.9561|-76.4093|Sunning Hill|Saint Thomas|0|
+17.9861|-77.5333|Swaby's Hope|Manchester|0|
+18.0049|-76.7744|Swallowfield|Saint Andrew|0|
+18.1577|-76.5787|Swift River|Portland|0|
+18.3434|-77.8362|Tangle River|Saint James|0|
+18.1047|-76.8182|Temple Hall|Saint Andrew|0|
+18.0897|-77.3719|Thompson Town|Clarendon|0|
+18.1956|-77.7225|Thornton|Saint Elizabeth|0|
+18.2571|-78.1428|Three Mile River|Westmoreland|0|
+18.0313|-76.8245|Three Oaks/ Glendale|Saint Andrew|0|
+17.9733|-76.8009|Tivoli Gardens|Kingston|0|
+17.9719|-77.3657|Tollgate|Clarendon|0|
+18.1162|-77.5034|Top Hill|Manchester|0|
+17.8932|-77.6379|Top Hill|Saint Elizabeth|0|
+18.0118|-76.8281|Tower Hill|Saint Andrew|12184|
+18.4404|-77.9602|Tower Hill/Moy Hall|Saint James|0|
+18.3390|-78.1357|Town Head|Westmoreland|0|
+18.0128|-76.7846|Trafalgar Park|Saint Andrew|0|
+18.1803|-76.6815|Tranquility|Portland|0|
+17.9926|-77.2553|Treadlight|Clarendon|0|
+17.8955|-77.7605|Treasure Beach|Saint Elizabeth|0|
+17.9874|-76.8012|Trench Town|Saint Andrew|0|
+17.9608|-76.5143|Trinity Ville|Saint Thomas|2895|
+18.2049|-76.9320|Troja|Saint Catherine|0|
+18.1378|-77.3330|Trout Hall|Clarendon|0|
+18.2492|-77.6098|Troy|Trelawny|0|
+18.3130|-78.1549|Truro|Westmoreland|0|
+18.4490|-77.8944|Tucker|Saint James|0|
+18.0665|-77.2352|Turners|Clarendon|0|
+18.3211|-77.4968|Ulster Spring|Trelawny|1411|
+18.4330|-77.9768|Unity Hall|Saint James|0|
+18.0009|-76.7477|University|Saint Andrew|0|
+18.3213|-77.7805|Vaughnsfield|Saint James|0|
+17.9047|-77.3779|Victoria Town|Manchester|0|
+17.9869|-76.7706|Vineyard Town|Saint Andrew|0|
+18.2533|-77.5084|Wait-A-Bit|Trelawny|0|
+18.4146|-77.7091|Wakefield|Trelawny|2763|
+18.1164|-77.4861|Walderston|Manchester|0|
+18.3194|-77.0708|Walkers Wood|Saint Ann|0|
+18.0109|-76.8205|Waltham Gardens|Saint Andrew|0|
+17.9624|-77.6396|Warminister|Saint Elizabeth|0|
+18.2618|-77.5677|Warsop|Trelawny|0|
+18.0217|-76.8402|Washington Gardens|Saint Andrew|0|
+17.9388|-77.7725|Watchwell|Saint Elizabeth|0|
+17.9934|-76.8609|Waterford|Saint Catherine|0|
+18.0123|-76.8350|Waterhouse|Saint Andrew|0|
+17.8245|-77.2595|Water Lane|Clarendon|0|
+18.0669|-77.0911|Watermount|Saint Catherine|0|
+18.2332|-78.0430|Water Works|Westmoreland|0|
+18.0068|-77.5187|Watham|Manchester|0|
+18.2943|-77.4147|Watt Town|Saint Ann|0|
+18.3690|-77.8367|Welcome Hall|Saint James|0|
+17.9789|-76.8866|West Cumberland|Saint Catherine|0|
+17.9729|-76.7970|West Down Town|Kingston|0|
+18.4624|-77.9176|West Green|Saint James|0|
+17.9587|-76.2962|Wheelerfield|Saint Thomas|0|
+18.0384|-76.8058|Whitehall|Saint Andrew|0|
+17.9980|-76.4310|White Hall|Saint Thomas|0|
+18.1565|-77.8107|White Hill|Saint Elizabeth|0|
+17.8962|-76.4708|White Horses|Saint Thomas|0|
+18.1028|-77.9570|Whitehouse|Westmoreland|3233|
+17.9921|-76.8091|Whitfield Town|Saint Andrew|0|
+18.2711|-78.0381|Whithorn|Westmoreland|4284|
+18.0666|-77.4658|Williamsfield|Manchester|3255|
+18.3339|-78.0696|Williamsfield|Westmoreland|0|
+17.9919|-76.9820|Willowdene|Saint Catherine|0|
+17.9286|-76.3896|Wilmington|Saint Thomas|0|
+18.2847|-77.6932|Wilson's Run|Trelawny|0|
+17.9829|-76.8042|Wilton Gardens/ Rema|Saint Andrew|0|
+17.9418|-76.2982|Winchester|Saint Thomas|0|
+18.1067|-76.4463|Windsor|Portland|0|
+18.2489|-76.6903|Windsor Castle|Portland|0|
+18.1206|-76.3388|Windsor Forest|Portland|0|
+18.2531|-77.5328|Wirefence|Trelawny|0|
+18.0736|-76.7463|Woodford|Saint Andrew|0|
+17.9871|-76.7812|Woodford Park|Saint Andrew|0|
+18.0476|-77.2758|Woodhall|Clarendon|0|
+18.4456|-77.9996|Woodlands|Hanover|0|
+18.2973|-76.9811|Woodpark|Saint Mary|0|
+18.2526|-76.9268|Woodside|Saint Mary|0|
+18.3695|-78.0722|Woodsville|Hanover|0|
+17.8748|-76.5624|Yallahs|Saint Thomas|7644|
+17.9285|-76.4398|York|Saint Thomas|0|
+18.2752|-77.2292|York Castle|Saint Ann|0|
+17.9251|-77.3000|York Town|Clarendon|0|
+18.0257|-76.8098|Zaidie Gardens|Saint Andrew|0|

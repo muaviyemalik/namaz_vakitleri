@@ -1,186 +1,187 @@
-16.9224|96.0634|Ah Lel
-16.7890|96.1265|Ahlone
-21.9071|96.0489|Amarapura
-19.7954|94.0479|Ann
-20.6606|96.6349|Aungban
-16.9215|96.0971|Aung San
-17.3352|96.4814|Bago
-24.2526|97.2336|Bhamo
-16.2941|95.3974|Bogale
-16.7718|96.1733|Botataung
-20.8754|92.5300|Buthidaung Town
-20.8992|94.8178|Chauk
-17.7951|96.6698|Daik-u
-26.3593|96.7200|Danai
-16.9334|96.0931|Da Nyin Kone
-16.5163|95.6029|Dawbon
-14.0823|98.1915|Dawei
-16.0407|97.9177|Dellok
-22.9134|93.6778|Falam
-17.5937|94.5800|Gwa
-22.6445|93.6108|Hakha
-20.7232|96.8228|Heho
-17.6494|95.4570|Hinthada
-16.8500|96.0667|Hlaingthaya
-17.0957|96.2206|Hlegu
-16.6356|97.6153|Hmaw Bi
-24.9915|96.5268|Hopin
-16.8895|97.6348|Hpa-An
-25.6138|96.3148|Hpākān
-22.6166|97.3003|Hsipaw
-17.8119|95.2704|Ingabu
-16.8887|96.1026|Insein
-20.6346|96.5645|Kalaw
-23.1901|94.0640|Kalemyo
-23.2033|95.5169|Kanbalu
-16.7073|96.0017|Kanbe
-16.8805|96.0970|Kan Nar Middle
-24.1754|96.3414|Katha
-16.5554|98.2371|Kawkareik
-9.9824|98.5503|Kawthoung
-16.9080|96.5604|Kayan
-15.9541|98.4325|Klonhtoug
-17.0084|96.1497|Kone Ta La Paung
-16.4426|96.0194|Kungyangon
-23.4579|97.9380|Kutkai
-16.0769|97.5639|Kyaikkami
-16.4450|95.7237|Kyaiklat
-17.3086|97.0112|Kyaikto
-15.8229|98.2526|Kyain Seikgyi Township
-22.5392|97.0343|Kyaukme
-20.8416|95.1267|Kyaukpadaung
-19.4279|93.5513|Kyaukpyu
-21.6056|96.1351|Kyaukse
-17.4947|96.9776|Kyauktaga
-16.6374|96.3251|Kyauktan
-20.8447|92.9753|Kyauktaw
-18.0061|94.4900|Kyeintali
-16.8085|96.1242|Kyimyindine
-16.8858|96.1146|Kyo Kone East
-17.3013|95.1983|Kyonpyaw
-21.6309|99.9268|Kēng Tung
-16.1495|94.7590|Labutta
-24.6605|97.1892|Lakang
-22.9359|97.7498|Lashio
-23.6961|98.7621|Laukkai
-21.2481|96.8673|Lawksawk
-17.7866|95.7508|Letpandan
-19.6361|96.1100|Lewe
-19.6780|97.2097|Loikaw
-22.2115|96.1039|Madaya
-20.1496|94.9325|Magway
-18.8548|93.7291|Manaung
-21.9747|96.0836|Mandalay
-16.5283|97.6157|Martaban
-16.7315|95.6544|Maubin
-23.6425|94.4048|Mawlaik
-16.4905|97.6282|Mawlamyine
-16.3772|95.2649|Mawlamyinegyunn
-20.8778|95.8584|Meiktila
-15.9585|98.4272|Mikenaungea
-20.1806|94.8760|Minbu
-16.9241|96.0977|Mingaladon
-16.9232|96.1164|Min Ga Lar Don Zay
-16.7886|96.1723|Mingala Tangnyunt
-25.3054|96.9354|Mogaung
-22.9177|96.5098|Mogok
-24.7782|96.3686|Mohnyin
-21.6711|100.0127|Möng La
-21.8478|99.6765|Möng Yang
-21.1792|100.3576|Möng Yawng
-22.1086|95.1358|Monywa
-20.5900|93.1906|Mrauk U
-16.2562|97.7246|Mudon
-23.9974|97.9011|Mu-se
-18.2865|95.3201|Myanaung
-16.5987|94.9211|Myaungmya
-16.6891|98.5089|Myawaddy|Myawadi
-19.3684|95.2151|Myaydo
-12.4395|98.6003|Myeik
-16.8062|96.1351|Myenigon
-21.4600|95.3884|Myingyan
-25.3833|97.3964|Myitkyina
-16.8737|96.0970|Myo Thit Ka
-23.8334|97.6798|Namhkam
-20.8918|97.7167|Nansang
-19.7450|96.1297|Nay Pyi Taw
-16.8346|96.0880|Nyaung
-17.0446|95.6396|Nyaungdon
-17.9536|96.7225|Nyaunglebin
-20.6608|96.9340|Nyaungshwe
-21.2006|94.9083|Nyaung-U
-16.8530|96.0656|Oke Kan
-16.9727|96.0882|Okpo
-21.3349|95.0844|Pakokku
-22.1792|99.1667|Pangkham
-24.1005|98.3126|Panglong
-20.9432|96.6627|Pangtara
-16.7792|94.7321|Pathein
-16.9457|96.1457|Pauk Kone
-16.6175|97.4585|Paung
-18.4917|95.5059|Paungde
-16.9084|96.0978|Pawgan
-15.3177|98.3884|Payathonzu
-16.7957|96.1749|Pazundaung
-19.8677|97.0067|Pèkon
-16.0624|97.8828|Pulei
-16.9719|96.1274|Pyan Lel Nay Yar Cha Htar Ye
-16.2854|95.6788|Pyapon
-20.5919|96.0520|Pyawbwe
-18.8246|95.2222|Pyay
-19.7381|96.2074|Pyinmana
-22.0350|96.4568|Pyin Oo Lwin
-18.4813|96.4374|Pyu
-21.8787|95.9797|Sagaing
-17.0953|96.0992|San Chaung
-16.8061|96.1335|Sangyoung
-16.8864|96.1282|Saw Bwar Gyi Kone
-16.8144|96.1139|Set Ka Lay
-16.8102|96.1140|Setsan
-16.8603|96.0901|Shan Chaung
-22.5693|95.6982|Shwebo
-24.2267|96.7909|Shwegu
-17.9212|96.8768|Shwegyin
-16.8966|96.0680|Shwe Lin Ban
-16.9884|96.1622|Shwenatha
-16.9132|96.0974|Sinngu
-20.1462|92.8983|Sittwe
-16.7689|96.2450|Syriam|Thanlyin
-20.4475|99.8808|Tachilek
-16.0675|97.9069|Tagondaing
-17.3144|95.9629|Taikkyi
-16.0345|97.9146|Tamoowoug
-24.2166|94.3122|Tamu
-22.4944|98.3928|Tangyan
-24.6790|95.0742|Tatkon
-20.0065|95.5453|Taungdwingyi
-20.7892|97.0378|Taunggyi
-18.9429|96.4341|Taungoo
-16.8982|96.1102|Taung Thu Kone
-18.8561|94.2408|Taungup
-17.2914|96.5752|Thanatpin
-15.9689|97.7275|Thanbyuzayat
-18.4654|94.3656|Thandwe
-16.7819|96.2468|Thanhlyin
-17.6540|95.7881|Tharyarwady
-16.9187|97.3700|Thaton
-19.3208|95.1827|Thayetmyo
-16.9574|96.1554|Thin Gan Kyun Gyi
-16.7600|96.5250|Thongwa
-16.7105|95.9287|Twante
-16.6033|95.1828|Wakema
-17.4770|96.6783|Waw
-21.0942|96.0280|Wundwin
-20.4319|96.1388|Yamethin
-16.8053|96.1561|Yangon
-20.6597|96.9338|Yawnghwe
-15.2464|97.8551|Ye
-19.1563|96.3459|Yedashe
-20.4650|94.8712|Yenangyaung
-21.6324|95.2462|Yesagyo
-22.7672|95.4276|Ye-u
-16.8993|96.1032|Ywar Ma East
-16.8967|96.0917|Ywar Ma West
-17.4794|95.5592|Zalun
-16.9496|96.1023|Zee Kone
-18.3356|95.6215|Zigon
+16.9224|96.0634|Ah Lel|Yangon|23214|
+16.7890|96.1265|Ahlone|Yangon|41200|
+21.9071|96.0489|Amarapura|Mandalay Region|237618|
+19.7954|94.0479|Ann|Rakhine|119714|
+20.6606|96.6349|Aungban|Shan State|30982|
+16.9215|96.0971|Aung San|Yangon|18555|
+17.3352|96.4814|Bago|Bago|244376|
+24.2526|97.2336|Bhamo|Kachin|54721|
+16.2941|95.3974|Bogale|Ayeyarwady|68938|
+16.7718|96.1733|Botataung|Yangon|36645|
+20.8754|92.5300|Buthidaung Town|Rakhine|55545|
+20.8992|94.8178|Chauk|Magway|90870|
+17.7951|96.6698|Daik-u|Bago Region|38477|
+26.3593|96.7200|Danai|Kachin State|31998|
+16.9334|96.0931|Da Nyin Kone|Yangon|22688|
+16.5163|95.6029|Dawbon|Ayeyarwady|75325|
+14.0823|98.1915|Dawei|Tanintharyi|136783|
+16.0407|97.9177|Dellok|Kayin|2000|
+22.9134|93.6778|Falam|Chin|5404|
+17.5937|94.5800|Gwa|Rakhine|66015|
+22.6445|93.6108|Hakha|Chin|24926|
+20.7232|96.8228|Heho|Shan State|93041|
+17.6494|95.4570|Hinthada|Ayeyarwady|134947|
+16.8500|96.0667|Hlaingthaya|Yangon|687867|
+17.0957|96.2206|Hlegu|Yangon|38757|
+16.6356|97.6153|Hmaw Bi|Mon|25960|
+24.9915|96.5268|Hopin|Kachin State|23352|
+16.8895|97.6348|Hpa-An|Kayin|50000|
+25.6138|96.3148|Hpākān|Kachin State|60123|
+22.6166|97.3003|Hsipaw|Shan State|20897|
+17.8119|95.2704|Ingabu|Ayeyarwady|19876|
+16.8887|96.1026|Insein|Yangon|247675|
+20.6346|96.5645|Kalaw|Shan State|93032|
+23.1901|94.0640|Kalemyo|Sagaing Region|348573|
+23.2033|95.5169|Kanbalu|Sagaing Region|25022|
+16.7073|96.0017|Kanbe|Yangon|58146|
+16.8805|96.0970|Kan Nar Middle|Yangon|15390|
+24.1754|96.3414|Katha|Sagaing Region|26732|
+16.5554|98.2371|Kawkareik|Kayin State|48468|
+9.9824|98.5503|Kawthoung|Tanintharyi|57949|
+16.9080|96.5604|Kayan|Yangon|40322|
+15.9541|98.4325|Klonhtoug|Kayin|2001|
+17.0084|96.1497|Kone Ta La Paung|Yangon|22667|
+16.4426|96.0194|Kungyangon|Yangon|28352|
+23.4579|97.9380|Kutkai|Shan State|24963|
+16.0769|97.5639|Kyaikkami|Mon State|48100|
+16.4450|95.7237|Kyaiklat|Ayeyarwady|52425|
+17.3086|97.0112|Kyaikto|Mon State|48658|
+15.8229|98.2526|Kyain Seikgyi Township|Kayin|0|
+22.5392|97.0343|Kyaukme|Shan State|39930|
+20.8416|95.1267|Kyaukpadaung|Mandalay Region|42817|
+19.4279|93.5513|Kyaukpyu|Rakhine|180000|
+21.6056|96.1351|Kyaukse|Mandalay|50480|
+17.4947|96.9776|Kyauktaga|Mon|31656|
+24.2782|95.8949|Kyauktan|Sagaing Region|42778|
+16.6374|96.3251|Kyauktan|Yangon|132765|
+20.8447|92.9753|Kyauktaw|Rakhine|19492|
+18.0061|94.4900|Kyeintali|Rakhine|23581|
+16.8085|96.1242|Kyimyindine|Yangon|111514|
+16.8858|96.1146|Kyo Kone East|Yangon|16270|
+17.3013|95.1983|Kyonpyaw|Ayeyarwady|23966|
+21.6309|99.9268|Kēng Tung|Shan State|171620|
+16.1495|94.7590|Labutta|Ayeyarwady|29645|
+24.6605|97.1892|Lakang|Kachin State|85423|
+22.9359|97.7498|Lashio|Shan|131000|
+23.6961|98.7621|Laukkai|Shan State|23435|
+21.2481|96.8673|Lawksawk|Shan State|29533|
+17.7866|95.7508|Letpandan|Bago|38936|
+19.6361|96.1100|Lewe|Nay Pyi Taw|30208|
+19.6780|97.2097|Loikaw|Kayah|17293|
+22.2115|96.1039|Madaya|Mandalay Region|24234|
+20.1496|94.9325|Magway|Magway|96954|
+18.8548|93.7291|Manaung|Rakhine|50680|
+21.9747|96.0836|Mandalay|Mandalay|1208099|
+16.5283|97.6157|Martaban|Mon State|48629|
+16.7315|95.6544|Maubin|Ayeyarwady|42439|
+23.6425|94.4048|Mawlaik|Sagaing|44540|
+16.4905|97.6282|Mawlamyine|Mon State|438861|
+16.3772|95.2649|Mawlamyinegyunn|Ayeyarwady|34107|
+20.8778|95.8584|Meiktila|Mandalay|177442|
+15.9585|98.4272|Mikenaungea|Kayin|2005|
+20.1806|94.8760|Minbu|Magway|57342|
+16.9241|96.0977|Mingaladon|Yangon|136000|
+16.9232|96.1164|Min Ga Lar Don Zay|Yangon|23588|
+16.7886|96.1723|Mingala Tangnyunt|Yangon|132494|
+25.3054|96.9354|Mogaung|Kachin State|25012|
+22.9177|96.5098|Mogok|Mandalay|89855|
+24.7782|96.3686|Mohnyin|Kachin State|33290|
+21.6711|100.0127|Möng La|Shan State|43000|
+21.8478|99.6765|Möng Yang|Shan State|117108|
+21.1792|100.3576|Möng Yawng|Shan State|39102|
+22.1086|95.1358|Monywa|Sagaing|182011|
+20.5900|93.1906|Mrauk U|Rakhine|36139|
+16.2562|97.7246|Mudon|Mon State|89123|
+23.9974|97.9011|Mu-se|Shan State|165022|
+18.2865|95.3201|Myanaung|Ayeyarwady|42252|
+16.5987|94.9211|Myaungmya|Ayeyarwady|58205|
+16.6891|98.5089|Myawadi|Kayin|45000|Myawaddy
+19.3684|95.2151|Myaydo|Magway|57395|
+12.4395|98.6003|Myeik|Tanintharyi|173298|
+16.8062|96.1351|Myenigon|Yangon|18614|
+21.4600|95.3884|Myingyan|Mandalay|141713|
+25.3833|97.3964|Myitkyina|Kachin|90894|
+16.8737|96.0970|Myo Thit Ka|Yangon|18491|
+23.8334|97.6798|Namhkam|Shan State|33382|
+20.8918|97.7167|Nansang|Shan State|23792|
+19.7450|96.1297|Nay Pyi Taw|Naypyidaw|925000|
+16.8346|96.0880|Nyaung|Yangon|43828|
+17.0446|95.6396|Nyaungdon|Ayeyarwady|40092|
+17.9536|96.7225|Nyaunglebin|Bago|89626|
+20.6608|96.9340|Nyaungshwe|Mandalay|1300|
+21.2006|94.9083|Nyaung-U|Mandalay Region|48528|
+16.8530|96.0656|Oke Kan|Yangon|42201|
+16.9727|96.0882|Okpo|Yangon|17812|
+21.3349|95.0844|Pakokku|Magway|126938|
+22.1792|99.1667|Pangkham|Shan State|15936|
+24.1005|98.3126|Panglong|Shan State|27115|
+20.9432|96.6627|Pangtara|Shan State|17544|
+16.7792|94.7321|Pathein|Ayeyarwady|237089|
+16.9457|96.1457|Pauk Kone|Yangon|29829|
+16.6175|97.4585|Paung|Mon|29434|
+18.4917|95.5059|Paungde|Bago|36971|
+16.9084|96.0978|Pawgan|Yangon|23992|
+15.3177|98.3884|Payathonzu|Kayin State|27311|
+16.7957|96.1749|Pazundaung|Yangon|40690|
+19.8677|97.0067|Pèkon|Shan State|15323|
+16.0624|97.8828|Pulei|Kayin|2001|
+16.9719|96.1274|Pyan Lel Nay Yar Cha Htar Ye|Yangon|26250|
+16.2854|95.6788|Pyapon|Ayeyarwady|47082|
+20.5919|96.0520|Pyawbwe|Mandalay Region|32214|
+18.8246|95.2222|Pyay|Bago|135308|
+19.7381|96.2074|Pyinmana|Naypyidaw|97409|
+22.0350|96.4568|Pyin Oo Lwin|Mandalay|117303|
+18.4813|96.4374|Pyu|Bago|40386|
+21.8787|95.9797|Sagaing|Sagaing|78739|
+17.0953|96.0992|San Chaung|Yangon|99619|
+16.8061|96.1335|Sangyoung|Yangon|89618|
+16.8864|96.1282|Saw Bwar Gyi Kone|Yangon|20811|
+16.8144|96.1139|Set Ka Lay|Yangon|111514|
+16.8102|96.1140|Setsan|Yangon|15111|
+16.8603|96.0901|Shan Chaung|Yangon|15934|
+22.5693|95.6982|Shwebo|Sagaing|88914|
+24.2267|96.7909|Shwegu|Kachin State|58696|
+17.9212|96.8768|Shwegyin|Bago Region|24579|
+16.8966|96.0680|Shwe Lin Ban|Yangon|28711|
+16.9884|96.1622|Shwenatha|Yangon|39989|
+16.9132|96.0974|Sinngu|Yangon|22861|
+20.1462|92.8983|Sittwe|Rakhine|177743|
+16.7689|96.2450|Syriam|Yangon|69448|Thanlyin
+20.4475|99.8808|Tachilek|Shan|51553|
+16.0675|97.9069|Tagondaing|Kayin|4994|
+17.3144|95.9629|Taikkyi|Yangon|88000|
+16.0345|97.9146|Tamoowoug|Kayin|2005|
+24.2166|94.3122|Tamu|Sagaing Region|43737|
+22.4944|98.3928|Tangyan|Shan State|33603|
+24.6790|95.0742|Tatkon|Sagaing Region|41683|
+20.0065|95.5453|Taungdwingyi|Magway|70094|
+20.7892|97.0378|Taunggyi|Shan|160115|
+18.9429|96.4341|Taungoo|Bago|106945|
+16.8982|96.1102|Taung Thu Kone|Yangon|19350|
+18.8561|94.2408|Taungup|Rakhine|26854|
+17.2914|96.5752|Thanatpin|Bago|38059|
+15.9689|97.7275|Thanbyuzayat|Mon|57208|
+18.4654|94.3656|Thandwe|Rakhine|133484|
+16.7819|96.2468|Thanhlyin|Yangon|78667|
+17.6540|95.7881|Tharyarwady|Bago|54386|
+16.9187|97.3700|Thaton|Mon State|123727|
+19.3208|95.1827|Thayetmyo|Magway|98185|
+16.9574|96.1554|Thin Gan Kyun Gyi|Yangon|42350|
+16.7600|96.5250|Thongwa|Yangon|52496|
+16.7105|95.9287|Twante|Yangon|46516|
+16.6033|95.1828|Wakema|Ayeyarwady|42705|
+17.4770|96.6783|Waw|Bago Region|23143|
+21.0942|96.0280|Wundwin|Mandalay Region|32558|
+20.4319|96.1388|Yamethin|Mandalay|59867|
+16.8053|96.1561|Yangon|Yangon|4477638|
+20.6597|96.9338|Yawnghwe|Shan State|188083|
+15.2464|97.8551|Ye|Mon|34430|
+19.1563|96.3459|Yedashe|Bago Region|24420|
+20.4650|94.8712|Yenangyaung|Magway|110553|
+21.6324|95.2462|Yesagyo|Magway|23329|
+22.7672|95.4276|Ye-u|Sagaing Region|20458|
+16.8993|96.1032|Ywar Ma East|Yangon|16376|
+16.8967|96.0917|Ywar Ma West|Yangon|30704|
+17.4794|95.5592|Zalun|Ayeyarwady|21947|
+16.9496|96.1023|Zee Kone|Yangon|24948|
+18.3356|95.6215|Zigon|Bago Region|15233|

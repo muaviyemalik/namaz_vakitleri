@@ -1,217 +1,216 @@
-6.7297|-3.4964|Abengourou
-5.3097|-4.0127|Abidjan
-5.4161|-4.0159|Abobo
-5.4678|-3.2071|Aboisso
-5.7351|-3.4034|Aboisso Comoé
-6.5387|-6.8159|Aboka
-5.2863|-3.3040|Adiaké
-6.1069|-3.8619|Adzopé
-6.3204|-3.9524|Affery
-5.9280|-4.2132|Agboville
-5.7949|-4.3719|Agnéby-Tiassa
-7.1311|-3.2041|Agnibilékrou
-5.4075|-3.3802|Ahigbé Koffikro
-5.5057|-4.8588|Ahouanou
-6.3842|-3.8876|Akoupé
-7.6688|-6.9688|Ancien-Prozi
-6.7818|-4.0852|Andé
-5.4946|-4.0518|Anyama
-6.6734|-3.9694|Arrah
-5.6052|-3.1571|Ayamé
-5.6298|-4.0820|Azaguié
-8.4061|-7.5805|Bafing
-9.7500|-6.5000|Bagoué
-6.6707|-7.3426|Bahé-Blaon
-7.1762|-7.2973|Baibli
-5.2077|-6.3516|Balakouya
-7.0123|-7.4864|Bangolo
-7.0412|-7.1680|Bangolo Tahouake
-7.2343|-6.4748|Baoutifla
-6.4648|-5.9543|Bayota
-5.9091|-4.0128|Bécédi-Brignan
-7.1601|-6.3064|Bédiala
-7.0258|-5.0674|Bélier
-6.1802|-6.9053|Belleville
-7.6739|-5.5808|Béoumi
-8.1895|-6.1716|Béré
-7.7391|-7.6138|Biankouma
-6.0120|-3.1902|Bianouan
-6.0787|-3.6355|Biéby
-5.3558|-3.8854|Bingerville
-7.1333|-7.1833|Bléniméouin
-6.5691|-8.0025|Bloléquin
-6.9659|-6.6565|Boboniessoko
-7.0626|-4.4995|Bocanda
-6.9432|-5.9673|Bognonzra
-8.0402|-2.8000|Bondoukou
-6.6517|-4.2041|Bongouanou
-6.9268|-6.0489|Bonon
-5.2725|-3.5962|Bonoua
-7.1291|-6.4742|Bonoufla
-8.4911|-7.1786|Borotou-Koro
-7.8525|-5.3106|Botro
-6.9904|-5.7442|Bouaflé
-7.6939|-5.0303|Bouaké
-9.2693|-2.9951|Bouna
-9.5243|-6.4897|Boundiali
-9.4784|-3.3124|Bounkani
-6.2753|-6.9970|Buyo
-6.5634|-7.9253|Cavally
-8.3632|-4.4286|Dabakala
-5.3256|-4.3769|Dabou
-5.1257|-6.8148|Dagadji
-5.5602|-6.0211|Dagbao I
-6.8773|-6.4502|Daloa
-7.2596|-8.1550|Danané
-7.0591|-3.9631|Daoukro
-8.9433|-6.2549|Dianra
-10.1070|-5.4729|Diawala
-6.2892|-5.5741|Diégonéfla
-6.9015|-7.4138|Diéhiba
-6.2916|-6.2794|Dignago
-9.0676|-5.7722|Dikodougou
-6.6468|-4.7052|Dimbokro
-6.8892|-7.5195|Diourouzon
-5.8374|-5.3572|Divo
-5.2911|-6.8202|Djapadji
-9.8095|-3.3458|Doropo
-6.4262|-5.5592|Doukouya
-6.7420|-7.3492|Duekoué
-6.3792|-3.3472|Ebilassokro
-5.9283|-5.0225|Erémankono
-6.7863|-7.3934|Fengolo
-9.5928|-5.1945|Ferkessédougou
-9.6006|-5.1961|Ferkéssédougou
-8.4827|-3.1273|Flakièdougou
-9.8124|-7.5189|Folon
-8.2149|-5.1255|Fronan
-5.0234|-6.5616|Gabiadji
-6.6562|-6.1661|Gadouan
-6.1319|-5.9506|Gagnoa
-5.0491|-6.7448|Gagny
-6.0059|-6.2940|Galébré
-5.0335|-6.1514|Gaoulou
-5.4665|-5.5868|Gbabam
-6.4798|-7.1653|Gbapleu
-7.7027|-5.2851|Gbêkê
-4.9571|-6.0937|Gbôklé
-5.7941|-4.6613|Gbolouville
-5.2000|-6.7000|Gligbeuadji
-5.2403|-5.7952|Gnago
-5.9227|-6.1501|Gnatroa
-4.9822|-7.0602|Gnépasso
-6.1446|-5.9264|Gôh
-7.0540|-7.4403|Gohouo
-6.9042|-6.2435|Gonaté
-7.8713|-3.0707|Gontougo
-6.5649|-7.4273|Goya
-5.2118|-3.7388|Grand-Bassam
-5.2507|-5.0033|Grand-Lahou
-5.3049|-4.3925|Grands-Ponts
-6.1162|-6.5360|Grand-Zattry
-7.0930|-7.1779|Guémon
-6.4727|-5.7062|Guépaouo
-6.7367|-6.9549|Guéssabo
-5.6882|-6.0712|Guéyo
-6.5670|-7.7020|Guézon
-6.2387|-6.1715|Guibéroua
-6.5437|-7.4935|Guiglo
-8.3037|-5.1540|Hambol
-6.6696|-6.5012|Haut-Sassandra
-6.1888|-5.2946|Hiré
-7.1151|-3.9503|Iffou
-6.7443|-3.4940|Indénié-Djuablin
-6.4922|-6.5856|Issia
-9.6057|-7.4377|Kabadougou
-6.9141|-7.6312|Kahin
-10.0908|-5.1948|Kaouara
-8.1373|-5.1010|Katiola
-9.7651|-6.4637|Kolia
-6.6517|-5.6050|Konéfla
-9.1500|-4.6167|Kong
-9.4580|-5.6296|Korhogo
-7.2560|-7.2351|Kouibly
-5.2972|-3.9675|Koumassi
-6.4850|-7.2010|Kranzadougou
-5.8475|-5.6820|Lakota
-5.0905|-6.3444|Lobakuya
-6.1366|-6.8410|Loboville
-7.1077|-7.5521|Logoualé
-5.8248|-5.4767|Lôh-Djiboua
-7.0724|-6.2412|Luénoufla
-5.6667|-6.4167|Mabéhiri
-5.4151|-3.0301|Maféré
-7.2247|-7.9312|Mahapleu
-7.4125|-7.5538|Man
-8.0586|-6.1897|Mankono
-7.0325|-5.8022|Marahoué
-5.3120|-3.9936|Marcory
-7.4573|-4.3399|M’Bahiakro
-6.4720|-4.3578|M’Batto
-10.0024|-5.9004|M’Bengué
-5.4119|-6.5603|Méagui
-7.4875|-6.7882|Mignouré
-6.6683|-4.1315|Moronou
-6.1540|-5.6933|Moussadougou
-10.0500|-5.3378|Nambingué
-5.8011|-6.6031|Nawa
-5.8638|-4.7609|Ndouci
-6.6613|-3.2698|Niablé
-8.6576|-5.2911|Niakaramandougou
-5.3485|-6.0560|Niapidou
-10.1981|-5.6234|Niellé
-6.3722|-7.3989|Nizahon II
-6.8280|-4.5813|N'Zi
-6.0116|-4.8213|Nzianouan
-9.5051|-7.5643|Odienné
-5.8967|-5.1579|Ogoudou
-5.3512|-5.6759|Okromodou
-5.7644|-6.4078|Okrouyo
-9.9667|-5.1500|Ouangolodougou
-6.3831|-5.4176|Oumé
-5.5605|-6.5900|Oupoyo
-5.5196|-7.3275|Para
-7.2817|-6.8145|Pélézi
-6.1202|-6.7125|Petitgoa I
-5.2690|-7.3142|Petit Grabo
-9.3667|-5.5000|Poro
-6.0700|-4.3106|Rubino
-5.0619|-6.2600|Sahoua
-6.4854|-6.2780|Saïoua
-7.4546|-5.2926|Sakassou
-4.7677|-6.6503|San-Pédro
-4.9538|-6.0853|Sassandra
-7.9611|-6.6731|Séguéla
-9.5833|-5.3833|Sinématiali
-6.6210|-5.9114|Sinfra
-5.7838|-6.5939|Soubré
-5.4996|-3.2408|Sud-Comoé
-4.4230|-7.3528|Tabou
-9.0688|-5.1640|Tafiré
-7.8034|-3.1683|Tanda
-9.7667|-5.1000|Tchologo
-10.4811|-6.4069|Tengréla
-10.4833|-6.4083|Tengrela
-5.8984|-4.8229|Tiassalé
-7.1577|-5.2248|Tiébissou
-7.5678|-7.6094|Tonkpi
-8.7682|-5.6865|Tortiya
-5.4310|-6.5595|Touagui
-8.2833|-7.6833|Touba
-5.2560|-6.5325|Touih
-6.5739|-8.4259|Toulépleu Gueré
-6.5580|-5.0177|Toumodi
-7.3819|-6.4778|Vavoua
-7.6964|-6.5535|Vrouo
-4.9353|-6.7783|Watté
-8.1648|-6.6659|Worodougou
-5.9388|-6.5983|Yabayo
-6.8205|-5.2767|Yamoussoukro
-6.2102|-7.4828|Zagné
-6.9893|-6.6667|Zaïbo
-6.7952|-6.2355|Zaliohouan
-6.5630|-7.8172|Zéaglo
-6.9765|-7.7983|Zou
-6.9194|-8.2065|Zouan-Hounien
-6.7623|-6.8638|Zoukougbeu
-7.4303|-6.0505|Zuénoula
+6.7297|-3.4964|Abengourou|Comoé|130810|
+5.3097|-4.0127|Abidjan|Abidjan|6321017|
+5.4161|-4.0159|Abobo|Abidjan|1340083|
+5.4678|-3.2071|Aboisso|Comoé|59225|
+5.7351|-3.4034|Aboisso Comoé|Comoé District|20659|
+6.5387|-6.8159|Aboka|Sassandra-Marahoue|15627|
+5.2863|-3.3040|Adiaké|Comoé|24701|
+6.1069|-3.8619|Adzopé|Lagunes|76122|
+6.3204|-3.9524|Affery|Lagunes|47109|
+5.9280|-4.2132|Agboville|Lagunes|81770|
+5.7949|-4.3719|Agnéby-Tiassa|Lagunes|0|
+7.1311|-3.2041|Agnibilékrou|Comoé|63015|
+5.4075|-3.3802|Ahigbé Koffikro|Comoé District|19351|
+5.5057|-4.8588|Ahouanou|Lagunes District|33939|
+6.3842|-3.8876|Akoupé|Lagunes|35970|
+7.6688|-6.9688|Ancien-Prozi|Sassandra-Marahoue|31245|
+6.7818|-4.0852|Andé|Comoé District|16341|
+5.4946|-4.0518|Anyama|Abidjan|133905|
+6.6734|-3.9694|Arrah|Lacs|37432|
+5.6052|-3.1571|Ayamé|Comoé|11149|
+5.6298|-4.0820|Azaguié|Lagunes District|17987|
+8.4061|-7.5805|Bafing|Woroba|0|
+9.7500|-6.5000|Bagoué|Savanes|0|
+6.6707|-7.3426|Bahé-Blaon|Montagnes|17216|
+7.1762|-7.2973|Baibli|Montagnes|16018|
+5.2077|-6.3516|Balakouya|Bas-Sassandra District|33150|
+7.0123|-7.4864|Bangolo|Montagnes|21861|
+7.0412|-7.1680|Bangolo Tahouake|Montagnes|23420|
+7.2343|-6.4748|Baoutifla|Sassandra-Marahoue|17712|
+6.4648|-5.9543|Bayota|Goh-Djiboua|16298|
+5.9091|-4.0128|Bécédi-Brignan|Lagunes District|20284|
+7.1601|-6.3064|Bédiala|Sassandra-Marahoue|22419|
+7.0258|-5.0674|Bélier|Lacs|0|
+6.1802|-6.9053|Belleville|Bas-Sassandra District|23595|
+6.8734|-6.8483|Belleville|Sassandra-Marahoue|23595|
+7.6739|-5.5808|Béoumi|Vallée du Bandama|33089|
+8.1895|-6.1716|Béré|Woroba|0|
+7.7391|-7.6138|Biankouma|Montagnes|23232|
+6.0120|-3.1902|Bianouan|Comoé District|17561|
+6.0787|-3.6355|Biéby|Lagunes District|21578|
+5.3558|-3.8854|Bingerville|Abidjan|82983|
+7.1333|-7.1833|Bléniméouin|Montagnes|19689|
+6.5691|-8.0025|Bloléquin|Montagnes|41821|
+6.9659|-6.6565|Boboniessoko|Sassandra-Marahoue|27529|
+7.0626|-4.4995|Bocanda|Lacs|13849|
+6.9432|-5.9673|Bognonzra|Sassandra-Marahoue|15282|
+8.0402|-2.8000|Bondoukou|Zanzan|141568|
+6.6517|-4.2041|Bongouanou|Lacs|36379|
+6.9268|-6.0489|Bonon|Sassandra-Marahoue|119938|
+5.2725|-3.5962|Bonoua|Comoé|49434|
+7.1291|-6.4742|Bonoufla|Sassandra-Marahoue|30420|
+8.4911|-7.1786|Borotou-Koro|Woroba|15293|
+7.8525|-5.3106|Botro|Vallée du Bandama|13375|
+6.9904|-5.7442|Bouaflé|Sassandra-Marahoué|104209|
+7.6939|-5.0303|Bouaké|Vallée du Bandama|832371|
+9.2693|-2.9951|Bouna|Zanzan|24312|
+9.5243|-6.4897|Boundiali|Savanes|51803|
+9.4784|-3.3124|Bounkani|Zanzan|0|
+6.2753|-6.9970|Buyo|Bas-Sassandra District|32847|
+6.5634|-7.9253|Cavally|Montagnes|0|
+8.3632|-4.4286|Dabakala|Vallée du Bandama|18322|
+5.3256|-4.3769|Dabou|Lagunes|138083|
+5.1257|-6.8148|Dagadji|Bas-Sassandra District|21333|
+5.5602|-6.0211|Dagbao I|Bas-Sassandra District|22056|
+6.8773|-6.4502|Daloa|Sassandra-Marahoué|421871|
+7.2596|-8.1550|Danané|Montagnes|78614|
+7.0591|-3.9631|Daoukro|Lacs|101136|
+8.9433|-6.2549|Dianra|Woroba|33548|
+10.1070|-5.4729|Diawala|Savanes District|26206|
+6.2892|-5.5741|Diégonéfla|Goh-Djiboua|43456|
+6.9015|-7.4138|Diéhiba|Montagnes|15253|
+6.2916|-6.2794|Dignago|Goh-Djiboua|15621|
+9.0676|-5.7722|Dikodougou|Savanes District|18087|
+6.6468|-4.7052|Dimbokro|Lacs|70198|
+6.8892|-7.5195|Diourouzon|Montagnes|16666|
+5.8374|-5.3572|Divo|Gôh-Djiboua|136627|
+5.2911|-6.8202|Djapadji|Bas-Sassandra District|39673|
+9.8095|-3.3458|Doropo|Zanzan District|48225|
+6.4262|-5.5592|Doukouya|Goh-Djiboua|19290|
+6.7420|-7.3492|Duekoué|Montagnes|117023|
+6.3792|-3.3472|Ebilassokro|Comoé District|18530|
+5.9283|-5.0225|Erémankono|Goh-Djiboua|18428|
+6.7863|-7.3934|Fengolo|Montagnes|37165|
+9.6006|-5.1961|Ferkéssédougou|Savanes|72476|
+8.4827|-3.1273|Flakièdougou|Zanzan District|15815|
+9.8124|-7.5189|Folon|Denguélé|0|
+8.2149|-5.1255|Fronan|Vallée du Bandama District|21579|
+5.0234|-6.5616|Gabiadji|Bas-Sassandra District|22619|
+6.6562|-6.1661|Gadouan|Sassandra-Marahoue|16620|
+6.1319|-5.9506|Gagnoa|Gôh-Djiboua|277044|
+5.0491|-6.7448|Gagny|Bas-Sassandra District|15910|
+6.0059|-6.2940|Galébré|Goh-Djiboua|21245|
+5.0335|-6.1514|Gaoulou|Bas-Sassandra District|15794|
+5.4665|-5.5868|Gbabam|Bas-Sassandra District|17699|
+6.4798|-7.1653|Gbapleu|Montagnes|28802|
+7.7027|-5.2851|Gbêkê|Vallée du Bandama|0|
+4.9571|-6.0937|Gbôklé|Bas-Sassandra|0|
+5.7941|-4.6613|Gbolouville|Lagunes District|16321|
+5.2000|-6.7000|Gligbeuadji|Bas-Sassandra District|32380|
+5.2403|-5.7952|Gnago|Bas-Sassandra District|19370|
+5.9227|-6.1501|Gnatroa|Goh-Djiboua|21879|
+4.9822|-7.0602|Gnépasso|Bas-Sassandra District|15835|
+6.1446|-5.9264|Gôh|Gôh-Djiboua|0|
+7.0540|-7.4403|Gohouo|Montagnes|21824|
+6.9042|-6.2435|Gonaté|Sassandra-Marahoue|24838|
+7.8713|-3.0707|Gontougo|Zanzan|0|
+6.5649|-7.4273|Goya|Montagnes|35292|
+5.2118|-3.7388|Grand-Bassam|Comoé|96797|
+5.2507|-5.0033|Grand-Lahou|Lagunes|36906|
+5.3049|-4.3925|Grands-Ponts|Lagunes|0|
+6.1162|-6.5360|Grand-Zattry|Bas-Sassandra District|31326|
+7.0930|-7.1779|Guémon|Montagnes|0|
+6.4727|-5.7062|Guépaouo|Goh-Djiboua|26111|
+6.7367|-6.9549|Guéssabo|Sassandra-Marahoue|17944|
+5.6882|-6.0712|Guéyo|Bas-Sassandra District|15080|
+6.7418|-7.1174|Guézon|Montagnes|20057|
+6.2387|-6.1715|Guibéroua|Gôh-Djiboua|23371|
+6.5437|-7.4935|Guiglo|Montagnes|68113|
+8.3037|-5.1540|Hambol|Vallée du Bandama|0|
+6.6696|-6.5012|Haut-Sassandra|Sassandra-Marahoué|0|
+6.1888|-5.2946|Hiré|Goh-Djiboua|41430|
+7.1151|-3.9503|Iffou|Lacs|0|
+6.7443|-3.4940|Indénié-Djuablin|Comoé|0|
+6.4922|-6.5856|Issia|Sassandra-Marahoué|68263|
+9.6057|-7.4377|Kabadougou|Denguélé|0|
+6.9141|-7.6312|Kahin|Montagnes|32991|
+10.0908|-5.1948|Kaouara|Savanes District|26142|
+8.1373|-5.1010|Katiola|Vallée du Bandama|59641|
+9.7651|-6.4637|Kolia|Savanes District|15716|
+6.6517|-5.6050|Konéfla|Sassandra-Marahoue|30217|
+9.1500|-4.6167|Kong|Savanes|15262|
+9.4580|-5.6296|Korhogo|Savanes|440926|
+7.2560|-7.2351|Kouibly|Montagnes|15335|
+5.2972|-3.9675|Koumassi|Abidjan Autonomous District|412282|
+6.4850|-7.2010|Kranzadougou|Montagnes|16614|
+5.8475|-5.6820|Lakota|Gôh-Djiboua|32376|
+5.0905|-6.3444|Lobakuya|Bas-Sassandra District|18713|
+6.1366|-6.8410|Loboville|Bas-Sassandra District|16006|
+7.1077|-7.5521|Logoualé|Montagnes|16106|
+5.8248|-5.4767|Lôh-Djiboua|Gôh-Djiboua|0|
+7.0724|-6.2412|Luénoufla|Sassandra-Marahoue|25463|
+5.6667|-6.4167|Mabéhiri|Bas-Sassandra District|23215|
+5.4151|-3.0301|Maféré|Comoé District|17008|
+7.2247|-7.9312|Mahapleu|Montagnes|19342|
+7.4125|-7.5538|Man|Montagnes|241969|
+8.0586|-6.1897|Mankono|Woroba|19597|
+7.0325|-5.8022|Marahoué|Sassandra-Marahoué|0|
+5.3120|-3.9936|Marcory|Abidjan Autonomous District|214061|
+7.4573|-4.3399|M’Bahiakro|Lacs District|19307|
+6.4720|-4.3578|M’Batto|Comoé District|23722|
+10.0024|-5.9004|M’Bengué|Savanes District|28832|
+5.4119|-6.5603|Méagui|Bas-Sassandra District|74365|
+7.4875|-6.7882|Mignouré|Sassandra-Marahoue|18180|
+6.6683|-4.1315|Moronou|Lacs|0|
+6.1540|-5.6933|Moussadougou|Goh-Djiboua|21186|
+10.0500|-5.3378|Nambingué|Savanes District|16677|
+5.8011|-6.6031|Nawa|Bas-Sassandra|0|
+5.8638|-4.7609|Ndouci|Lagunes District|35145|
+6.6613|-3.2698|Niablé|Comoé District|20422|
+8.6576|-5.2911|Niakaramandougou|Vallée du Bandama District|21793|
+5.3485|-6.0560|Niapidou|Bas-Sassandra District|18336|
+10.1981|-5.6234|Niellé|Savanes District|24780|
+6.3722|-7.3989|Nizahon II|Montagnes|15290|
+6.8280|-4.5813|N'Zi|Lacs|0|
+6.0116|-4.8213|Nzianouan|Lagunes District|16337|
+9.5051|-7.5643|Odienné|Denguélé|54669|
+5.8967|-5.1579|Ogoudou|Goh-Djiboua|19158|
+5.3512|-5.6759|Okromodou|Bas-Sassandra District|16922|
+5.7644|-6.4078|Okrouyo|Bas-Sassandra District|15852|
+9.9667|-5.1500|Ouangolodougou|Savanes|49248|
+6.3831|-5.4176|Oumé|Gôh-Djiboua|58606|
+5.5605|-6.5900|Oupoyo|Bas-Sassandra District|23834|
+5.5196|-7.3275|Para|Bas-Sassandra District|22807|
+7.2817|-6.8145|Pélézi|Sassandra-Marahoue|18278|
+6.1202|-6.7125|Petitgoa I|Bas-Sassandra District|16457|
+5.2690|-7.3142|Petit Grabo|Bas-Sassandra District|16054|
+9.3667|-5.5000|Poro|Savanes|0|
+6.0700|-4.3106|Rubino|Lagunes District|18180|
+5.0619|-6.2600|Sahoua|Bas-Sassandra District|20838|
+6.4854|-6.2780|Saïoua|Sassandra-Marahoue|34860|
+7.4546|-5.2926|Sakassou|Vallée du Bandama|17093|
+4.7677|-6.6503|San-Pédro|Bas-Sassandra|390654|
+4.9538|-6.0853|Sassandra|Bas-Sassandra|34492|
+7.9611|-6.6731|Séguéla|Woroba|103980|
+9.5833|-5.3833|Sinématiali|Savanes|13174|
+6.6210|-5.9114|Sinfra|Zanzan|245226|
+5.7838|-6.5939|Soubré|Bas-Sassandra District|131181|
+5.4996|-3.2408|Sud-Comoé|Comoé|0|
+4.4230|-7.3528|Tabou|Bas-Sassandra|29469|
+9.0688|-5.1640|Tafiré|Vallée du Bandama District|22284|
+7.8034|-3.1683|Tanda|Zanzan|35854|
+9.7667|-5.1000|Tchologo|Savanes|0|
+10.4833|-6.4083|Tengrela|Savanes|52271|
+5.8984|-4.8229|Tiassalé|Lagunes|35090|
+7.1577|-5.2248|Tiébissou|Lacs District|24412|
+7.5678|-7.6094|Tonkpi|Montagnes|0|
+8.7682|-5.6865|Tortiya|Vallée du Bandama District|20738|
+5.4310|-6.5595|Touagui|Bas-Sassandra District|16684|
+8.2833|-7.6833|Touba|Woroba|28986|
+5.2560|-6.5325|Touih|Bas-Sassandra District|20686|
+6.5739|-8.4259|Toulépleu Gueré|Montagnes|14098|
+6.5580|-5.0177|Toumodi|Lacs|55986|
+7.3819|-6.4778|Vavoua|Sassandra-Marahoué|86977|
+7.6964|-6.5535|Vrouo|Sassandra-Marahoue|17716|
+4.9353|-6.7783|Watté|Bas-Sassandra District|20769|
+8.1648|-6.6659|Worodougou|Woroba|0|
+5.9388|-6.5983|Yabayo|Bas-Sassandra District|26037|
+6.8205|-5.2767|Yamoussoukro|Lacs|275686|
+6.2102|-7.4828|Zagné|Montagnes|63341|
+6.9893|-6.6667|Zaïbo|Sassandra-Marahoue|17406|
+6.7952|-6.2355|Zaliohouan|Sassandra-Marahoue|27050|
+6.5630|-7.8172|Zéaglo|Montagnes|15873|
+6.9765|-7.7983|Zou|Montagnes|25210|
+6.9194|-8.2065|Zouan-Hounien|Montagnes|29649|
+6.7623|-6.8638|Zoukougbeu|Sassandra-Marahoue|15375|
+7.4303|-6.0505|Zuénoula|Sassandra-Marahoué|44097|

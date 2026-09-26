@@ -1,28 +1,29 @@
-7.5000|168.7333|Ailinglaplap
-10.3167|169.9333|Ailuk
-7.0833|171.7000|Arno
-8.2000|171.1000|Aur
-11.6000|165.4000|Bikini
-7.0870|171.3770|Dalap-Uliga-Dorrit
-7.0833|171.3833|Delap-Uliga-Djarrit
-41.0811|-111.9200|Ebeye
-4.6333|168.7167|Ebon
-11.5000|162.3333|Enewetak
-7.7500|168.9667|Jabat
-6.0000|169.5667|Jabor
-5.6167|169.1167|Kili
-8.9361|166.2375|Lae
-8.3131|167.3778|Lib
-9.8850|169.1435|Likiep
-7.0897|171.3803|Majuro
-10.2833|170.8833|Mejit
-6.1262|171.9800|Mili
-5.6167|168.1167|Namdrik
-7.9833|168.1736|Namu
-11.3167|166.7833|Rongelap
-48.0000|33.4167|Taroa
-9.0500|165.6500|Ujae
-9.8222|160.9000|Ujelang
-11.2673|169.7843|Utrik
-10.1000|165.9667|Wotho
-9.4333|170.0167|Wotje
+7.5000|168.7333|Ailinglaplap|Ailinglaplap|0|
+10.3167|169.9333|Ailuk|Ailuk|451|
+7.0833|171.7000|Arno|Arno|2068|
+8.2000|171.1000|Aur|Aur|438|
+11.6000|165.4000|Bikini|Bikini & Kili|0|
+7.0870|171.3770|Dalap-Uliga-Dorrit|Majuro Atoll|20301|
+7.0833|171.3833|Delap-Uliga-Djarrit|Majuro|0|
+8.7748|167.7392|Ebaye|Kwajalein Atoll|15000|
+41.0811|-111.9200|Ebeye|Kwajalein|0|
+4.6333|168.7167|Ebon|Ebon|714|
+11.5000|162.3333|Enewetak|Enewetak & Ujelang|0|
+7.7500|168.9667|Jabat|Jabat|112|
+6.0000|169.5667|Jabor|Jaluit|1200|
+5.6167|169.1167|Kili|Bikini & Kili|602|
+8.9361|166.2375|Lae|Lae|319|
+8.3131|167.3778|Lib|Lib|115|
+9.8850|169.1435|Likiep|Likiep|482|
+7.0897|171.3803|Majuro|Majuro Atoll|25400|
+10.2833|170.8833|Mejit|Mejit|300|
+6.1262|171.9800|Mili|Mili|854|
+5.6167|168.1167|Namdrik|Namdrik|814|
+7.9833|168.1736|Namu|Namu|0|
+11.3167|166.7833|Rongelap|Rongelap|19|
+48.0000|33.4167|Taroa|Maloelap|0|
+9.0500|165.6500|Ujae|Ujae|448|
+9.8222|160.9000|Ujelang|Enewetak & Ujelang|0|
+11.2673|169.7843|Utrik|Utrik|409|
+10.1000|165.9667|Wotho|Wotho|160|
+9.4333|170.0167|Wotje|Wotje|880|

@@ -1,512 +1,514 @@
--13.6339|-72.8814|Abancay
--15.4239|-74.6136|Acarí
--11.7319|-75.5463|Acolla
--3.4814|-80.2450|Aguas Verdes
--9.0378|-75.5091|Aguaytía
--10.1308|-76.2047|Ambo
--13.6556|-73.3872|Andahuaylas
--2.9025|-76.4025|Andoas
--13.4706|-72.1483|Anta
--16.3989|-71.5350|Arequipa
--7.7144|-79.1078|Ascope
--11.9357|-76.7061|Asentamiento Humano Nicolas de Pierola
--9.1899|-77.3988|Asuncion
--10.3898|-73.2198|Atalaya
--15.6833|-70.1500|Atuncolla
--4.6398|-79.7149|Ayabaca
--13.1588|-74.2232|Ayacucho
--14.8864|-70.5889|Ayaviri
--12.6500|-73.9167|Ayna
--14.9084|-70.1962|Azángaro
--5.7561|-78.4411|Bagua Grande
--6.6833|-78.5333|Bambamarca
--10.7500|-77.7667|Barranca
--12.1454|-77.0207|Barranco
--3.7602|-73.2497|Belen
--7.0561|-76.5911|Bellavista
--5.4500|-80.7500|Bernal
--4.4333|-77.5500|Borja
--12.0561|-77.0529|Breña
--5.2608|-79.9642|Buenos Aires
--3.9058|-70.5164|Caballococha
--14.3415|-71.4631|Cahuanuyo
--7.6167|-78.0500|Cajabamba
--7.1638|-78.5003|Cajamarca
--5.7364|-78.4256|Cajaruro
--17.9417|-70.1869|Calana
--13.3333|-71.9500|Calca
--11.0925|-77.6267|Caleta de Carquín
--14.1814|-71.1407|Callanca
--12.0566|-77.1181|Callao
--16.6238|-72.7105|Camaná
--8.4753|-74.8071|Campoverde
--17.2678|-70.2494|Candarave
--0.9644|-75.1814|Cape Pantoja
--9.0469|-77.8090|Carás
--10.9167|-76.0333|Carhuamayo
--9.2819|-77.6447|Carhuaz
--9.0442|-77.2417|Carlos Fermin Fitzcarrald
--12.0535|-77.0980|Carmen De La Legua Reynoso
--7.4833|-78.8167|Cascas
--5.2667|-80.6833|Catacaos
--14.2768|-71.4503|Ccaquiracunca
--15.5061|-71.4918|Ccolo
--14.1254|-71.4122|Ccuntuma
--6.8659|-78.1458|Celendín
--9.5166|-77.5305|Centenario
--10.6675|-76.2567|Cerro de Pasco
--6.2317|-77.8690|Chachapoyas
--11.5714|-77.2672|Chancay
--11.0500|-75.3167|Chanchamayo
--10.4070|-76.4617|Chaupimarca
--6.5709|-76.1375|Chazuta
--14.0269|-71.4528|Checacupe
--14.4728|-71.3939|Checca
--7.1437|-79.4567|Chepen
--7.2244|-79.4248|Chepén
--7.8447|-79.1469|Chicama
--6.7714|-79.8409|Chiclayo
--14.2461|-71.4444|Chignayhua
--12.5211|-76.7372|Chilca
--9.0853|-78.5783|Chimbote
--13.4099|-76.1324|Chincha Alta
--13.3922|-72.0478|Chinchero
--17.4979|-70.2171|Chipispaya
--15.6383|-71.6011|Chivay
--7.7914|-79.2217|Chocope
--6.6406|-79.3892|Chongoyape
--11.9431|-76.7094|Chosica
--6.5500|-78.6500|Chota
--5.0925|-80.1625|Chulucanas
--12.0667|-75.2833|Chupaca
--17.2889|-70.0436|Chuquitira
--16.4308|-71.5292|Ciudad Satelite
--17.0883|-71.7575|Cocachacra
--9.0231|-78.6156|Coishco
--14.1011|-71.4294|Combapata
--11.9176|-75.3140|Concepción
--14.4697|-71.1984|Conchopata
--4.1651|-78.0384|Condorcanqui
--16.3237|-71.5815|Cono Norte
--7.3333|-75.0167|Contamana
--15.0333|-73.7833|Coracora
--15.2131|-72.8886|Cotahuasi
--14.0927|-71.3312|Cullcuyre
--13.5226|-71.9673|Cusco
--16.5656|-69.0417|Desaguadero
--4.2685|-81.2172|El Alto
--16.7264|-69.7552|El Collao
--6.5630|-76.7413|El Dorado
--16.3631|-72.1921|El Pedregal
--6.9081|-79.8642|Eten
--6.6389|-79.7889|Ferreñafe
--7.5798|-78.6472|Gran Chimu
--7.2500|-79.4833|Guadalupe
--15.8233|-70.8854|Hacienda Huancane
--8.9948|-76.8103|Huacaybamba
--11.1067|-77.6050|Huacho
--11.0964|-77.6139|Hualmay
--7.8000|-78.0667|Huamachuco
--5.2386|-79.4506|Huancabamba
--12.7826|-74.9727|Huancavelica
--12.0651|-75.2049|Huancayo
--12.9333|-74.2500|Huanta
--9.9306|-76.2422|Huánuco
--11.4950|-77.2078|Huaral
--15.7680|-71.4595|Huarancante
--9.5278|-77.5278|Huaraz
--15.6397|-71.0611|Huarichancara
--10.0681|-78.1522|Huarmey
--11.2653|-75.6472|Huasahuasi
--11.0700|-77.5994|Huaura
--14.2699|-71.0960|Huayna Alcalde
--13.6562|-75.0923|Huaytara
--12.1333|-75.2333|Huayucachi
--7.3186|-76.7756|Huicungo
--11.3500|-69.5833|Iberia
--14.0678|-75.7286|Ica
--17.4208|-70.5133|Ilabaya
--16.0833|-69.6667|Ilave
--17.6319|-71.3411|Ilo
--13.0593|-76.3527|Imperial
--11.9900|-77.0458|Independencia
--3.5014|-73.0481|Indiana
--3.7333|-73.2500|Iquitos
--16.4408|-71.5533|Jacobo Hunter
--5.7073|-78.8079|Jaén
--15.7500|-71.3464|Jatun Orcochiri
--11.7758|-75.4966|Jauja
--6.3908|-79.8219|Jayanca
--14.0943|-71.3392|Jayobamba
--15.5628|-71.3031|Jayune
--5.2833|-76.2833|Jeberos
--4.9074|-73.6678|Jenaro Herrera
--6.1167|-76.9500|Jepelacio
--12.0698|-77.0450|Jesus Maria
--12.0729|-77.0416|Jesús María
--17.5792|-70.7308|Jorge Basadre
--7.1770|-76.7277|Juanjuí
--8.1724|-78.4636|Julcan
--16.2167|-69.4500|Juli
--15.5000|-70.1333|Juliaca
--11.1590|-75.9930|Junín
--6.4927|-76.3422|La Banda
--4.2569|-80.8860|La Breita
--5.2269|-75.6753|Lagunas
--4.9117|-80.9600|La Huaca
--6.4167|-76.5333|Lamas
--6.7011|-79.9061|Lambayeque
--12.0807|-76.9351|La Molina
--15.3500|-70.3667|Lampa
--14.4319|-71.2731|Langui
--11.5189|-75.8993|La Oroya
--5.6111|-78.4350|La Peca
--8.0897|-78.9602|Laredo
--14.6313|-69.4464|La Rinconada
--4.6533|-80.2467|Las Lomas
--5.4023|-80.7422|La Unión
--10.2005|-76.7036|Lauricocha
--14.4936|-71.1550|Layo
--12.0432|-77.0282|Lima
--14.0898|-71.3366|Lima Pampa
--12.0821|-77.0303|Lince
--9.4167|-76.7833|Llata
--15.6395|-71.2992|Llongasora
--16.0147|-72.0142|Lluta
--14.0967|-75.6908|Los Aquijes
--14.0833|-70.4333|Macusani
--12.0916|-77.0732|Magdalena del Mar
--12.6581|-76.6308|Mala
--4.1078|-81.0475|Máncora
--14.3567|-71.1692|Maranganí
--13.3350|-72.1567|Maras
--4.8778|-80.7053|Marcavelica
--11.8500|-76.4000|Matucana
--11.3258|-74.5308|Mazamari
--15.2119|-75.1103|Minas de Marcona
--12.1194|-77.0282|Miraflores
--8.1711|-79.0092|Moche
--6.5436|-79.8622|Mochumí
--17.0231|-72.0147|Mollendo
--6.8743|-79.8687|Monsefú
--17.1983|-70.9357|Moquegua
--11.5997|-76.1411|Morococha
--6.5354|-80.0110|Mórrope
--5.2500|-80.0000|Morropon
--14.2851|-71.0877|Mosoc Cancha
--14.1200|-71.4728|Mosoc Llacta
--6.1519|-79.7142|Motupe
--6.0342|-76.9717|Moyobamba
--4.5083|-73.5833|Nauta
--14.8310|-74.9390|Nazca
--13.0754|-76.3172|Nuevo Imperial
--14.4779|-70.6358|Ñuñoa
--13.2572|-72.2631|Ollantaytambo
--5.9847|-79.7453|Olmos
--15.2661|-72.3417|Orcopampa
--11.9689|-75.3078|Orcotuna
--13.5928|-71.7719|Oropesa
--7.9000|-78.5833|Otuzco
--10.5775|-75.4017|Oxapampa
--10.7587|-76.8763|Oyon
--6.8444|-79.3009|Oyotún
--7.1667|-79.5000|Pacanga
--7.4006|-79.5714|Pacasmayo
--17.6460|-71.3448|Pacocha
--8.7968|-75.4285|Padre Abad
--7.7329|-79.3015|Paiján
--5.0892|-81.1144|Paita
--14.5336|-75.1856|Palpa
--14.1464|-71.4594|Pampamarca
--12.3949|-74.8669|Pampas
--12.1167|-73.0000|Pangoa
--4.0777|-80.7369|Papayal
--13.8667|-76.2667|Paracas
--10.6667|-77.8333|Paramonga
--6.7332|-79.6359|Pátapo
--10.7000|-77.7833|Pativilca
--15.1227|-73.2618|Paucar Del Sara Sara
--10.7733|-75.8111|Paucartambo
--10.9451|-75.2239|Perené
--6.9203|-76.3314|Picota
--6.7178|-79.7697|Picsi
--12.0472|-75.2493|Pilcomay
--6.8367|-79.9342|Pimentel
--13.4225|-71.8467|Pisac
--13.7103|-76.2054|Pisco
--5.1945|-80.6328|Piura
--8.8333|-77.4667|Pomabamba
--13.6667|-72.9167|Provincia de Abancay
--12.7500|-74.6667|Provincia de Acobamba
--13.9167|-71.6667|Provincia de Acomayo
--9.8333|-77.6667|Provincia de Aija
--10.1667|-76.1667|Provincia de Ambo
--13.6667|-73.4167|Provincia de Andahuaylas
--13.0000|-74.7500|Provincia de Angaraes
--13.5000|-72.3333|Provincia de Anta
--14.4167|-72.7500|Provincia de Antabamba
--9.0833|-77.0833|Provincia de Antonio Raymondi
--16.3333|-71.5000|Provincia de Arequipa
--4.7500|-79.8333|Provincia de Ayabaca
--14.4167|-73.2500|Provincia de Aymaraes
--14.8333|-70.1667|Provincia de Azángaro
--5.0901|-78.3997|Provincia de Bagua
--7.3333|-77.7500|Provincia de Bolívar
--10.1072|-77.1480|Provincia de Bolognesi
--5.6834|-77.8731|Provincia de Bongará
--7.5000|-78.1667|Provincia de Cajabamba
--7.3333|-78.4167|Provincia de Cajamarca
--10.6667|-77.0000|Provincia de Cajatambo
--13.0000|-72.1667|Provincia de Calca
--16.4167|-72.8333|Provincia de Camaná
--14.4108|-71.3369|Provincia de Canas
--14.0819|-71.1856|Provincia de Canchis
--12.7500|-76.3333|Provincia de Cañete
--13.5730|-74.3890|Provincia de Cangallo
--11.4667|-76.6167|Provincia de Canta
--13.8333|-70.2500|Provincia de Carabaya
--15.5833|-74.0000|Provincia de Caravelí
--9.3170|-77.5510|Provincia de Carhuaz
--9.4764|-78.2474|Provincia de Casma
--15.5833|-72.4167|Provincia de Castilla
--13.1454|-75.4060|Provincia de Castrovirreyna
--15.6667|-71.5833|Provincia de Caylloma
--6.8333|-78.2500|Provincia de Celendín
--6.2748|-77.8107|Provincia de Chachapoyas
--6.7667|-79.8500|Provincia de Chiclayo
--13.3179|-75.9393|Provincia de Chincha
--6.3833|-79.1805|Provincia de Chota
--16.6055|-69.3576|Provincia de Chucuito
--14.4167|-72.0000|Provincia de Chumbivilcas
--12.3000|-75.4330|Provincia de Chupaca
--12.6000|-74.5200|Provincia de Churcampa
--11.7500|-75.0000|Provincia de Concepción
--15.5833|-72.8333|Provincia de Condesuyos
--4.0000|-80.7500|Provincia de Contralmirante Villar
--7.3333|-78.9167|Provincia de Contumazá
--9.5000|-73.3333|Provincia de Coronel Portillo
--8.5833|-77.9167|Provincia de Corongo
--14.0000|-72.2000|Provincia de Cotabambas
--13.5000|-72.0000|Provincia de Cusco
--6.3667|-78.8500|Provincia de Cutervo
--10.5000|-76.5000|Provincia de Daniel Carrión
--9.9167|-76.7500|Provincia de Dos de Mayo
--14.7500|-71.4167|Provincia de Espinar
--6.3333|-79.5000|Provincia de Ferreñafe
--16.5000|-70.6667|Provincia de General Sánchez Cerro
--14.0000|-72.5833|Provincia de Grau
--6.6800|-78.5300|Provincia de Hualgayoc
--6.7566|-76.9014|Provincia de Huallaga
--9.2500|-76.5000|Provincia de Huamalíes
--13.2000|-74.2500|Provincia de Huamanga
--5.5000|-79.5833|Provincia de Huancabamba
--15.1667|-69.5833|Provincia de Huancané
--14.0760|-74.4280|Provincia de Huanca Sancos
--12.6667|-75.2500|Provincia de Huancavelica
--12.1732|-75.1617|Provincia de Huancayo
--12.5000|-74.1667|Provincia de Huanta
--9.6667|-76.0833|Provincia de Huánuco
--11.2500|-76.9167|Provincia de Huaral
--9.5611|-77.6461|Provincia de Huaraz
--9.3333|-77.1667|Provincia de Huari
--9.9167|-78.0000|Provincia de Huarmey
--11.9167|-76.4167|Provincia de Huarochirí
--8.9167|-77.8333|Provincia de Huaylas
--14.3386|-75.6483|Provincia de Ica
--17.4969|-71.1672|Provincia de Ilo
--17.0000|-71.8333|Provincia de Islay
--5.7107|-79.0044|Provincia de Jaén
--11.7260|-75.5470|Provincia de Jauja
--11.0833|-76.0000|Provincia de Junín
--12.0000|-73.0000|Provincia de La Convención
--12.9167|-73.8333|Provincia de La Mar
--6.3333|-76.6667|Provincia de Lamas
--6.0833|-80.0833|Provincia de Lambayeque
--15.4167|-70.5833|Provincia de Lampa
--15.0000|-72.8333|Provincia de La Unión
--9.1667|-76.0000|Provincia de Leoncio Prado
--14.5000|-74.3333|Provincia de Lucanas
--6.4167|-78.0000|Provincia de Luya
--12.2500|-71.0000|Provincia de Manú
--8.7500|-76.6667|Provincia de Marañón
--7.2739|-77.1822|Provincia de Mariscal Cáceres
--8.8333|-77.2500|Provincia de Mariscal Luzuriaga
--17.0836|-71.0033|Provincia de Mariscal Nieto
--14.7500|-70.7500|Provincia de Melgar
--5.7500|-77.2500|Provincia de Moyobamba
--15.0000|-75.0833|Provincia de Nazca
--7.9046|-78.5636|Provincia de Otuzco
--10.3333|-75.0833|Provincia de Oxapampa
--7.2500|-79.5000|Provincia de Pacasmayo
--9.9526|-75.8139|Provincia de Pachitea
--5.1019|-81.0970|Provincia de Paita
--8.3333|-77.9167|Provincia de Pallasca
--14.4167|-75.1667|Provincia de Palpa
--15.0297|-73.6349|Provincia de Parinacochas
--13.9167|-71.9167|Provincia de Paruro
--10.6667|-76.0833|Provincia de Pasco
--8.2500|-77.3333|Provincia de Pataz
--13.1667|-71.4167|Provincia de Paucartambo
--13.8038|-75.9426|Provincia de Pisco
--5.2142|-80.4062|Provincia de Piura
--8.8231|-77.4756|Provincia de Pomabamba
--16.0000|-70.0000|Provincia de Puno
--13.4167|-71.0000|Provincia de Quispicanchis
--10.0000|-77.4167|Provincia de Recuay
--6.0000|-77.4167|Provincia de Rioja
--6.3333|-77.4167|Provincia de Rodríguez de Mendoza
--13.8333|-69.3333|Provincia de Sandia
--5.0833|-79.0000|Provincia de San Ignacio
--6.5833|-76.1667|Provincia de San Martín
--7.0000|-79.0000|Provincia de San Miguel
--9.0000|-78.2500|Provincia de Santa
--6.8333|-79.0000|Provincia de Santa Cruz
--8.3333|-78.2500|Provincia de Santiago de Chuco
--11.5000|-74.2500|Provincia de Satipo
--8.5000|-77.5000|Provincia de Sihuas
--14.1030|-73.7860|Provincia de Sucre
--4.5000|-80.6667|Provincia de Sullana
--17.8333|-70.5000|Provincia de Tacna
--11.2500|-70.5000|Provincia de Tahuamanú
--4.4167|-81.0833|Provincia de Talara
--12.1995|-70.0501|Provincia de Tambopata
--17.4167|-70.0833|Provincia de Tarata
--11.4056|-75.6913|Provincia de Tarma
--12.2500|-74.7500|Provincia de Tayacaja
--8.0833|-78.9167|Provincia de Trujillo
--3.7500|-80.4167|Provincia de Tumbes
--13.2500|-72.3333|Provincia de Urubamba
--13.7500|-74.3333|Provincia de Víctor Fajardo
--13.6320|-73.8880|Provincia de Vilcas Huamán
--11.6667|-76.1667|Provincia de Yauli
--12.4167|-76.0000|Provincia de Yauyos
--9.1667|-77.7500|Provincia de Yungay
--3.6667|-80.2500|Provincia de Zarumilla
--8.3791|-74.5539|Pucallpa
--15.9799|-71.4599|Pucara
--12.0757|-77.0634|Pueblo Libre
--5.7167|-79.8833|Pueblo Nuevo
--9.3670|-75.0896|Puerto Inca
--12.5933|-69.1891|Puerto Maldonado
--8.9877|-78.6473|Puerto Santa
--10.8013|-77.7433|Puerto Supe
--17.1578|-70.3522|Pujocucho
--3.7167|-73.2333|Punchana
--15.8422|-70.0199|Puno
--17.1719|-71.7924|Punta de Bombón
--14.7000|-74.1333|Puquio
--10.3733|-71.5823|Purus
--14.0542|-71.3858|Qquea
--4.8378|-80.6456|Querecotillo
--14.1839|-71.3834|Queromarca
--17.3178|-70.2581|Quilahuani
--12.8633|-72.6931|Quillabamba
--12.9486|-76.3811|Quilmaná
--7.9667|-78.2000|Quiruvilca
--6.8656|-79.8178|Reque
--6.7480|-75.0549|Requena
--11.9198|-76.6561|Ricardo Palma
--14.5160|-75.1993|Río Grande
--6.0568|-77.1665|Rioja
--8.2210|-78.9770|Salaverry
--5.0333|-81.0667|Salinera Colán
--4.8572|-80.6811|Salitral
--12.8361|-71.3649|Salvación
--6.9189|-79.5820|Saña
--11.9719|-75.2556|San Agustin
--17.2172|-70.9259|San Antonio
--2.4501|-72.6690|San Antonio del Estrecho
--14.7118|-69.6156|San Antonio De Putina
--12.3833|-76.7833|San Bartolo
--12.1015|-76.9967|San Borja
--7.7854|-77.9259|Sanchez Carrion
--13.6667|-76.1500|San Clemente
--8.3982|-74.5377|San Fernando
--12.0891|-76.9988|San Francisco De Borja
--5.1458|-79.0014|San Ignacio
--12.0956|-77.0349|San Isidro
--11.9559|-75.2841|San Jerónimo
--6.7381|-79.8275|San José
--3.7761|-73.2814|San Juan
--14.0108|-75.7358|San Juan Bautista
--4.8167|-76.6000|San Lorenzo
--12.0767|-76.9943|San Luis
--5.1859|-80.6693|San Martin
--11.4285|-74.4883|San Martín de Pangoa
--13.0125|-73.9808|San Miguel
--10.1382|-76.6229|San Miguel de Cauri
--4.0192|-71.1028|San Pablo
--11.2506|-75.8612|San Pedro de Cajas
--7.4289|-79.5042|San Pedro de Lloc
--11.1242|-75.3573|San Ramón
--15.8333|-70.5000|San Roman
--12.8667|-72.7167|Santa Ana
--12.0505|-76.9733|Santa Anita - Los Ficus
--15.6979|-70.6061|Santa Lucía
--12.0054|-76.8933|Santa María
--6.7577|-79.8275|Santa Rosa
--14.1847|-75.7112|Santiago
--7.9589|-79.2392|Santiago de Cao
--8.1410|-78.1733|Santiago de Chuco
--12.1478|-76.9937|Santiago de Surco
--14.4456|-72.0842|Santo Tomas
--13.0756|-76.3853|San Vicente de Cañete
--6.9340|-76.7716|Saposoa
--11.2522|-74.6386|Satipo
--11.1333|-77.1946|Sayán
--5.5569|-80.8222|Sechura
--16.3706|-71.5272|Selva Alegre
--12.0333|-75.2833|Sicaya
--14.2694|-71.2261|Sicuani
--6.6109|-76.6930|Sisa
--6.1392|-77.1039|Soritor
--14.0189|-75.7581|Subtanjalla
--4.9039|-80.6853|Sullana
--10.7975|-77.7131|Supe
--6.3500|-76.6833|Tabalosos
--18.0146|-70.2536|Tacna
--4.5772|-81.2719|Talara
--13.6531|-73.4292|Talavera
--14.7985|-73.9244|Tambo
--4.9269|-80.3447|Tambo Grande
--12.6719|-69.3555|Tambopata
--4.0032|-73.1585|Tamshiyacu
--15.7667|-69.6833|Taquile
--6.5014|-76.3656|Tarapoto
--17.4744|-70.0328|Tarata
--11.4190|-75.6899|Tarma
--9.2953|-75.9957|Tingo María
--14.1450|-71.4069|Tinta
--10.7677|-76.2752|Tinyahuarco
--8.1877|-76.5205|Tocache
--17.0769|-70.8433|Torata
--17.4062|-70.3646|Totoral
--8.1160|-79.0300|Trujillo
--6.5064|-79.8572|Túcume
--3.5669|-80.4515|Tumbes
--14.1639|-71.4767|Tungasuca
--8.4592|-76.4633|Uchiza
--11.8765|-77.0335|Urb. Santo Domingo
--13.6861|-71.6228|Urcos
--13.3047|-72.1158|Urubamba
--5.7703|-78.3285|Utcubamba
--11.0225|-77.6438|Végueta
--5.4167|-80.7833|Vice
--12.2131|-76.9052|Villa Poeta José Gálvez Barrenechea
--10.7394|-75.2697|Villa Rica
--13.7113|-76.1498|Villa Tupac Amaru
--8.4155|-78.7520|Virú
--8.5220|-78.6035|Viru
--15.8086|-71.2011|Vizcachane
--13.5249|-71.9653|Wanchaq
--10.2411|-76.6456|Yanacancha
--14.2181|-71.4317|Yanaoca
--9.8026|-76.5952|Yarowilca
--14.7908|-71.4099|Yauri
--8.9833|-77.3000|Yauya
--9.1383|-77.7436|Yungay
--16.2500|-69.0833|Yunguyo
--16.2522|-71.6797|Yura
--5.9000|-76.0833|Yurimaguas
--3.5031|-80.2731|Zarumilla
--3.6805|-80.6782|Zorritos
+-13.6339|-72.8814|Abancay|Apurímac|72277|
+-15.4239|-74.6136|Acarí|Arequipa|4445|
+-11.7319|-75.5463|Acolla|Junín|6805|
+-3.4814|-80.2450|Aguas Verdes|Tumbes|9106|
+-9.0378|-75.5091|Aguaytía|Ucayali|18318|
+-10.1308|-76.2047|Ambo|Huanuco|6865|
+-13.6556|-73.3872|Andahuaylas|Apurímac|17444|
+-2.9025|-76.4025|Andoas|Loreto|0|
+-13.4706|-72.1483|Anta|Cusco|5859|
+-16.3989|-71.5350|Arequipa|Arequipa|1195700|
+-7.7144|-79.1078|Ascope|La Libertad|14015|
+-11.9357|-76.7061|Asentamiento Humano Nicolas de Pierola|Lima|5800|
+-9.1899|-77.3988|Asuncion|Áncash|0|
+-10.3898|-73.2198|Atalaya|Ucayali|16700|
+-15.6833|-70.1500|Atuncolla|Puno|12654|
+-4.6398|-79.7149|Ayabaca|Piura|5270|
+-13.1588|-74.2232|Ayacucho|Ayacucho|140033|
+-14.8864|-70.5889|Ayaviri|Puno|22247|
+-12.6500|-73.9167|Ayna|Ayacucho|4588|
+-14.9084|-70.1962|Azángaro|Puno|13290|
+-5.7561|-78.4411|Bagua Grande|Amazonas|20382|
+-6.6833|-78.5333|Bambamarca|Cajamarca|13351|
+-10.7500|-77.7667|Barranca|Lima|46290|
+-12.1454|-77.0207|Barranco|Municipalidad Metropolitana de Lima|37525|
+-3.7602|-73.2497|Belen|Loreto|57824|
+-7.0561|-76.5911|Bellavista|San Martín|15231|
+-5.4500|-80.7500|Bernal|Piura|5916|
+-4.4333|-77.5500|Borja|Loreto|522|
+-12.0561|-77.0529|Breña|Lima region|81909|
+-5.2608|-79.9642|Buenos Aires|Piura|7932|
+-3.9058|-70.5164|Caballococha|Loreto|11100|
+-14.3415|-71.4631|Cahuanuyo|Cusco|3935|
+-7.6167|-78.0500|Cajabamba|Cajamarca|13486|
+-7.1638|-78.5003|Cajamarca|Cajamarca|201329|
+-5.7364|-78.4256|Cajaruro|Amazonas|7281|
+-17.9417|-70.1869|Calana|Tacna|875|
+-13.3333|-71.9500|Calca|Cusco|9179|
+-11.0925|-77.6267|Caleta de Carquín|Lima|5514|
+-14.1814|-71.1407|Callanca|Cusco|4046|
+-12.0566|-77.1181|Callao|Callao|1226200|
+-16.6238|-72.7105|Camaná|Arequipa|16434|
+-8.4753|-74.8071|Campoverde|Ucayali|8945|
+-17.2678|-70.2494|Candarave|Tacna|3415|
+-0.9644|-75.1814|Cape Pantoja|Loreto|0|
+-9.0469|-77.8090|Carás|Áncash|0|
+-10.9167|-76.0333|Carhuamayo|Junín|9122|
+-9.2819|-77.6447|Carhuaz|Áncash|5044|
+-9.0442|-77.2417|Carlos Fermin Fitzcarrald|Áncash|0|
+-12.0535|-77.0980|Carmen De La Legua Reynoso|Callao|41863|
+-7.4833|-78.8167|Cascas|La Libertad|4299|
+-5.2667|-80.6833|Catacaos|Piura|57304|
+-14.2768|-71.4503|Ccaquiracunca|Cusco|4098|
+-15.5061|-71.4918|Ccolo|Arequipa|3857|
+-14.1254|-71.4122|Ccuntuma|Cusco|3511|
+-6.8659|-78.1458|Celendín|Cajamarca|14660|
+-9.5166|-77.5305|Centenario|Ancash|47581|
+-10.6675|-76.2567|Cerro de Pasco|Pasco|58899|
+-6.2317|-77.8690|Chachapoyas|Amazonas|32026|
+-11.5714|-77.2672|Chancay|Lima|26958|
+-11.0500|-75.3167|Chanchamayo|Junín|0|
+-10.4070|-76.4617|Chaupimarca|Pasco|28666|
+-6.5709|-76.1375|Chazuta|San Martín|8029|
+-14.0269|-71.4528|Checacupe|Cusco|3440|
+-14.4728|-71.3939|Checca|Cusco|3810|
+-7.1437|-79.4567|Chepen|La Libertad|41992|
+-7.8447|-79.1469|Chicama|La Libertad|14915|
+-6.7714|-79.8409|Chiclayo|Lambayeque|609400|
+-14.2461|-71.4444|Chignayhua|Cusco|3912|
+-12.0863|-75.2083|Chilca|Junin|73371|
+-12.5211|-76.7372|Chilca|Lima|12884|
+-9.0853|-78.5783|Chimbote|Áncash|316966|
+-13.4099|-76.1324|Chincha Alta|Ica|153076|
+-13.3922|-72.0478|Chinchero|Cusco|0|
+-17.4979|-70.2171|Chipispaya|Tacna|1932|
+-15.6383|-71.6011|Chivay|Arequipa|4543|
+-7.7914|-79.2217|Chocope|La Libertad|32370|
+-6.6406|-79.3892|Chongoyape|Lambayeque|16061|
+-11.9431|-76.7094|Chosica|Lima|88606|
+-6.5500|-78.6500|Chota|Cajamarca|14240|
+-5.0925|-80.1625|Chulucanas|Piura|68835|
+-12.0667|-75.2833|Chupaca|Junín|9877|
+-17.2889|-70.0436|Chuquitira|Tacna|4220|
+-16.4308|-71.5292|Ciudad Satelite|Arequipa|76410|
+-17.0883|-71.7575|Cocachacra|Arequipa|8799|
+-9.0231|-78.6156|Coishco|Áncash|15083|
+-14.1011|-71.4294|Combapata|Cusco|3472|
+-11.9176|-75.3140|Concepción|Junín|11330|
+-14.4697|-71.1984|Conchopata|Cusco|3977|
+-4.1651|-78.0384|Condorcanqui|Amazonas|0|
+-16.3237|-71.5815|Cono Norte|Arequipa|47347|
+-7.3333|-75.0167|Contamana|Loreto|20900|
+-15.0333|-73.7833|Coracora|Ayacucho|7420|
+-15.2131|-72.8886|Cotahuasi|Arequipa|0|
+-14.0927|-71.3312|Cullcuyre|Cusco|3593|
+-13.5226|-71.9673|Cusco|Cusco|428450|
+-16.5656|-69.0417|Desaguadero|Puno|5329|
+-4.2685|-81.2172|El Alto|Piura|9303|
+-16.7264|-69.7552|El Collao|Puno|0|
+-6.5630|-76.7413|El Dorado|San Martín|0|
+-16.3631|-72.1921|El Pedregal|Arequipa|20063|
+-6.9081|-79.8642|Eten|Lambayeque|13693|
+-6.6389|-79.7889|Ferreñafe|Lambayeque|34357|
+-7.5798|-78.6472|Gran Chimu|La Libertad|0|
+-7.2500|-79.4833|Guadalupe|La Libertad|25376|
+-15.8233|-70.8854|Hacienda Huancane|Puno|7831|
+-8.9948|-76.8103|Huacaybamba|Huanuco|0|
+-11.1067|-77.6050|Huacho|Lima|54545|
+-11.0964|-77.6139|Hualmay|Lima|26658|
+-7.8000|-78.0667|Huamachuco|La Libertad|21768|
+-5.2386|-79.4506|Huancabamba|Piura|8553|
+-12.7826|-74.9727|Huancavelica|Huancavelica|49570|
+-12.0651|-75.2049|Huancayo|Junín|456250|
+-12.9333|-74.2500|Huanta|Ayacucho|18627|
+-9.9306|-76.2422|Huánuco|Huanuco|196627|
+-11.4950|-77.2078|Huaral|Lima|62174|
+-15.7680|-71.4595|Huarancante|Arequipa|4638|
+-9.5278|-77.5278|Huaraz|Áncash|118836|
+-15.6397|-71.0611|Huarichancara|Arequipa|4445|
+-10.0681|-78.1522|Huarmey|Áncash|16172|
+-11.2653|-75.6472|Huasahuasi|Junín|5146|
+-11.0700|-77.5994|Huaura|Lima|20723|
+-14.2699|-71.0960|Huayna Alcalde|Cusco|4298|
+-13.6562|-75.0923|Huaytara|Huancavelica|818|
+-12.1333|-75.2333|Huayucachi|Junín|5827|
+-7.3186|-76.7756|Huicungo|San Martín|6757|
+-11.3500|-69.5833|Iberia|Madre de Dios|4386|
+-14.0678|-75.7286|Ica|Ica|282407|
+-17.4208|-70.5133|Ilabaya|Tacna|9492|
+-16.0833|-69.6667|Ilave|Puno|22200|
+-17.6319|-71.3411|Ilo|Moquegua|53476|
+-13.0593|-76.3527|Imperial|Lima|32344|
+-11.9900|-77.0458|Independencia|Lima|3987|
+-3.5014|-73.0481|Indiana|Loreto|0|
+-3.7333|-73.2500|Iquitos|Loreto|377609|
+-16.4408|-71.5533|Jacobo Hunter|Arequipa|46092|
+-5.7073|-78.8079|Jaén|Cajamarca|52493|
+-15.7500|-71.3464|Jatun Orcochiri|Arequipa|4358|
+-11.7758|-75.4966|Jauja|Junín|21057|
+-6.3908|-79.8219|Jayanca|Lambayeque|6126|
+-14.0943|-71.3392|Jayobamba|Cusco|3593|
+-15.5628|-71.3031|Jayune|Arequipa|4256|
+-5.2833|-76.2833|Jeberos|Loreto|0|
+-4.9074|-73.6678|Jenaro Herrera|Loreto|0|
+-6.1167|-76.9500|Jepelacio|San Martín|7150|
+-12.0729|-77.0416|Jesús María|Municipalidad Metropolitana de Lima|66171|
+-17.5792|-70.7308|Jorge Basadre|Tacna|0|
+-7.1770|-76.7277|Juanjuí|San Martín|37715|
+-8.1724|-78.4636|Julcan|La Libertad|0|
+-16.2167|-69.4500|Juli|Puno|8566|
+-15.5000|-70.1333|Juliaca|Puno|245675|
+-11.1590|-75.9930|Junín|Junín|15320|
+-6.4927|-76.3422|La Banda|San Martín Department|24932|
+-4.2569|-80.8860|La Breita|Piura|17693|
+-5.2269|-75.6753|Lagunas|Loreto|9197|
+-4.9117|-80.9600|La Huaca|Piura|8468|
+-6.4167|-76.5333|Lamas|San Martín|13693|
+-6.7011|-79.9061|Lambayeque|Lambayeque|43710|
+-12.0807|-76.9351|La Molina|Municipalidad Metropolitana de Lima|0|
+-15.3500|-70.3667|Lampa|Puno|4780|
+-14.4319|-71.2731|Langui|Cusco|3969|
+-11.5189|-75.8993|La Oroya|Junín|33345|
+-5.6111|-78.4350|La Peca|Amazonas|27045|
+-8.0897|-78.9602|Laredo|La Libertad|24691|
+-14.6313|-69.4464|La Rinconada|Puno|29678|
+-4.6533|-80.2467|Las Lomas|Piura|9450|
+-5.4023|-80.7422|La Unión|Piura|34834|
+-10.2005|-76.7036|Lauricocha|Huanuco|0|
+-14.4936|-71.1550|Layo|Cusco|3978|
+-12.0432|-77.0282|Lima|Lima|7737002|
+-14.0898|-71.3366|Lima Pampa|Cusco|3569|
+-12.0821|-77.0303|Lince|Municipalidad Metropolitana de Lima|0|
+-9.4167|-76.7833|Llata|Huanuco|4585|
+-15.6395|-71.2992|Llongasora|Arequipa|4753|
+-16.0147|-72.0142|Lluta|Arequipa|5998|
+-14.0967|-75.6908|Los Aquijes|Ica|7848|
+-14.0833|-70.4333|Macusani|Puno|11242|
+-12.0916|-77.0732|Magdalena del Mar|Municipalidad Metropolitana de Lima|0|
+-12.6581|-76.6308|Mala|Lima|17260|
+-4.1078|-81.0475|Máncora|Piura|9101|
+-14.3567|-71.1692|Maranganí|Cusco|3709|
+-13.3350|-72.1567|Maras|Cusco|0|
+-4.8778|-80.7053|Marcavelica|Piura|25645|
+-11.8500|-76.4000|Matucana|Lima|4517|
+-11.3258|-74.5308|Mazamari|Junín|6826|
+-15.2119|-75.1103|Minas de Marcona|Ica|15478|
+-12.1194|-77.0282|Miraflores|Municipalidad Metropolitana de Lima|187401|
+-8.1711|-79.0092|Moche|La Libertad|22581|
+-6.5436|-79.8622|Mochumí|Lambayeque|7460|
+-17.0231|-72.0147|Mollendo|Arequipa|28953|
+-6.8743|-79.8687|Monsefú|Lambayeque|25707|
+-17.1983|-70.9357|Moquegua|Moquegua|69882|
+-11.5997|-76.1411|Morococha|Junín|7890|
+-6.5354|-80.0110|Mórrope|Lambayeque|6662|
+-5.2500|-80.0000|Morropon|Piura|12307|
+-14.2851|-71.0877|Mosoc Cancha|Cusco|4450|
+-14.1200|-71.4728|Mosoc Llacta|Cusco|3802|
+-6.1519|-79.7142|Motupe|Lambayeque|13681|
+-6.0342|-76.9717|Moyobamba|San Martín|50073|
+-4.5083|-73.5833|Nauta|Loreto|14646|
+-14.8310|-74.9390|Nazca|Ica|23556|
+-13.0754|-76.3172|Nuevo Imperial|Lima|32344|
+-14.4779|-70.6358|Ñuñoa|Puno|4271|
+-13.2572|-72.2631|Ollantaytambo|Cusco|2000|
+-5.9847|-79.7453|Olmos|Lambayeque|9800|
+-15.2661|-72.3417|Orcopampa|Arequipa|5643|
+-11.9689|-75.3078|Orcotuna|Junín|4199|
+-13.5928|-71.7719|Oropesa|Cusco|4022|
+-7.9000|-78.5833|Otuzco|La Libertad|10134|
+-10.5775|-75.4017|Oxapampa|Pasco|12000|
+-10.7587|-76.8763|Oyon|Lima|6276|
+-6.8444|-79.3009|Oyotún|Lambayeque|6330|
+-7.1667|-79.5000|Pacanga|La Libertad|8750|
+-7.4006|-79.5714|Pacasmayo|La Libertad|29165|
+-17.6460|-71.3448|Pacocha|Moquegua|7588|
+-8.7968|-75.4285|Padre Abad|Ucayali|0|
+-7.7329|-79.3015|Paiján|La Libertad|21128|
+-5.0892|-81.1144|Paita|Piura|56151|
+-14.5336|-75.1856|Palpa|Ica|5883|
+-14.1464|-71.4594|Pampamarca|Cusco|3811|
+-12.3949|-74.8669|Pampas|Huancavelica|5521|
+-12.1167|-73.0000|Pangoa|Cusco|6638|
+-4.0777|-80.7369|Papayal|Tumbes|5484|
+-13.8667|-76.2667|Paracas|Ica|1196|
+-10.6667|-77.8333|Paramonga|Lima|27631|
+-6.7332|-79.6359|Pátapo|Lambayeque|15270|
+-10.7000|-77.7833|Pativilca|Lima|13583|
+-15.1227|-73.2618|Paucar Del Sara Sara|Ayacucho|0|
+-10.7733|-75.8111|Paucartambo|Pasco|4438|
+-10.9451|-75.2239|Perené|Junín|6844|
+-6.9203|-76.3314|Picota|San Martín|6697|
+-6.7178|-79.7697|Picsi|Lambayeque|43610|
+-12.0472|-75.2493|Pilcomay|Junín|0|
+-6.8367|-79.9342|Pimentel|Lambayeque|15552|
+-13.4225|-71.8467|Pisac|Cusco|2000|
+-13.7103|-76.2054|Pisco|Ica|61869|
+-5.1945|-80.6328|Piura|Piura|630000|
+-8.8333|-77.4667|Pomabamba|Áncash|4453|
+-13.6667|-72.9167|Provincia de Abancay|Apurímac|0|
+-12.7500|-74.6667|Provincia de Acobamba|Huancavelica|0|
+-13.9167|-71.6667|Provincia de Acomayo|Cusco|0|
+-9.8333|-77.6667|Provincia de Aija|Áncash|0|
+-10.1667|-76.1667|Provincia de Ambo|Huanuco|0|
+-13.6667|-73.4167|Provincia de Andahuaylas|Apurímac|0|
+-13.0000|-74.7500|Provincia de Angaraes|Huancavelica|0|
+-13.5000|-72.3333|Provincia de Anta|Cusco|0|
+-14.4167|-72.7500|Provincia de Antabamba|Apurímac|0|
+-9.0833|-77.0833|Provincia de Antonio Raymondi|Áncash|0|
+-16.3333|-71.5000|Provincia de Arequipa|Arequipa|0|
+-4.7500|-79.8333|Provincia de Ayabaca|Piura|0|
+-14.4167|-73.2500|Provincia de Aymaraes|Apurímac|0|
+-14.8333|-70.1667|Provincia de Azángaro|Puno|0|
+-5.0901|-78.3997|Provincia de Bagua|Amazonas|0|
+-7.3333|-77.7500|Provincia de Bolívar|La Libertad|0|
+-10.1072|-77.1480|Provincia de Bolognesi|Áncash|0|
+-5.6834|-77.8731|Provincia de Bongará|Amazonas|0|
+-7.5000|-78.1667|Provincia de Cajabamba|Cajamarca|0|
+-7.3333|-78.4167|Provincia de Cajamarca|Cajamarca|0|
+-10.6667|-77.0000|Provincia de Cajatambo|Lima|0|
+-13.0000|-72.1667|Provincia de Calca|Cusco|0|
+-16.4167|-72.8333|Provincia de Camaná|Arequipa|0|
+-14.4108|-71.3369|Provincia de Canas|Cusco|0|
+-14.0819|-71.1856|Provincia de Canchis|Cusco|0|
+-12.7500|-76.3333|Provincia de Cañete|Lima|0|
+-13.5730|-74.3890|Provincia de Cangallo|Ayacucho|0|
+-11.4667|-76.6167|Provincia de Canta|Lima|0|
+-13.8333|-70.2500|Provincia de Carabaya|Puno|0|
+-15.5833|-74.0000|Provincia de Caravelí|Arequipa|0|
+-9.3170|-77.5510|Provincia de Carhuaz|Áncash|0|
+-9.4764|-78.2474|Provincia de Casma|Áncash|0|
+-15.5833|-72.4167|Provincia de Castilla|Arequipa|0|
+-13.1454|-75.4060|Provincia de Castrovirreyna|Huancavelica|0|
+-15.6667|-71.5833|Provincia de Caylloma|Arequipa|0|
+-6.8333|-78.2500|Provincia de Celendín|Cajamarca|0|
+-6.2748|-77.8107|Provincia de Chachapoyas|Amazonas|0|
+-6.7667|-79.8500|Provincia de Chiclayo|Lambayeque|0|
+-13.3179|-75.9393|Provincia de Chincha|Ica|0|
+-6.3833|-79.1805|Provincia de Chota|Cajamarca|0|
+-16.6055|-69.3576|Provincia de Chucuito|Puno|0|
+-14.4167|-72.0000|Provincia de Chumbivilcas|Cusco|0|
+-12.3000|-75.4330|Provincia de Chupaca|Junín|0|
+-12.6000|-74.5200|Provincia de Churcampa|Huancavelica|0|
+-11.7500|-75.0000|Provincia de Concepción|Junín|0|
+-15.5833|-72.8333|Provincia de Condesuyos|Arequipa|0|
+-4.0000|-80.7500|Provincia de Contralmirante Villar|Tumbes|0|
+-7.3333|-78.9167|Provincia de Contumazá|Cajamarca|0|
+-9.5000|-73.3333|Provincia de Coronel Portillo|Ucayali|0|
+-8.5833|-77.9167|Provincia de Corongo|Áncash|0|
+-14.0000|-72.2000|Provincia de Cotabambas|Apurímac|0|
+-13.5000|-72.0000|Provincia de Cusco|Cusco|0|
+-6.3667|-78.8500|Provincia de Cutervo|Cajamarca|0|
+-10.5000|-76.5000|Provincia de Daniel Carrión|Pasco|0|
+-9.9167|-76.7500|Provincia de Dos de Mayo|Huanuco|0|
+-14.7500|-71.4167|Provincia de Espinar|Cusco|0|
+-6.3333|-79.5000|Provincia de Ferreñafe|Lambayeque|0|
+-16.5000|-70.6667|Provincia de General Sánchez Cerro|Moquegua|0|
+-14.0000|-72.5833|Provincia de Grau|Apurímac|0|
+-6.6800|-78.5300|Provincia de Hualgayoc|Cajamarca|0|
+-6.7566|-76.9014|Provincia de Huallaga|San Martín|0|
+-9.2500|-76.5000|Provincia de Huamalíes|Huanuco|0|
+-13.2000|-74.2500|Provincia de Huamanga|Ayacucho|0|
+-5.5000|-79.5833|Provincia de Huancabamba|Piura|0|
+-15.1667|-69.5833|Provincia de Huancané|Puno|0|
+-14.0760|-74.4280|Provincia de Huanca Sancos|Ayacucho|0|
+-12.6667|-75.2500|Provincia de Huancavelica|Huancavelica|0|
+-12.1732|-75.1617|Provincia de Huancayo|Junín|0|
+-12.5000|-74.1667|Provincia de Huanta|Ayacucho|0|
+-9.6667|-76.0833|Provincia de Huánuco|Huanuco|0|
+-11.2500|-76.9167|Provincia de Huaral|Lima|0|
+-9.5611|-77.6461|Provincia de Huaraz|Áncash|0|
+-9.3333|-77.1667|Provincia de Huari|Áncash|0|
+-9.9167|-78.0000|Provincia de Huarmey|Áncash|0|
+-11.9167|-76.4167|Provincia de Huarochirí|Lima|0|
+-8.9167|-77.8333|Provincia de Huaylas|Áncash|0|
+-14.3386|-75.6483|Provincia de Ica|Ica|0|
+-17.4969|-71.1672|Provincia de Ilo|Moquegua|0|
+-17.0000|-71.8333|Provincia de Islay|Arequipa|0|
+-5.7107|-79.0044|Provincia de Jaén|Cajamarca|0|
+-11.7260|-75.5470|Provincia de Jauja|Junín|0|
+-11.0833|-76.0000|Provincia de Junín|Junín|0|
+-12.0000|-73.0000|Provincia de La Convención|Cusco|0|
+-12.9167|-73.8333|Provincia de La Mar|Ayacucho|0|
+-6.3333|-76.6667|Provincia de Lamas|San Martín|0|
+-6.0833|-80.0833|Provincia de Lambayeque|Lambayeque|0|
+-15.4167|-70.5833|Provincia de Lampa|Puno|0|
+-15.0000|-72.8333|Provincia de La Unión|Arequipa|0|
+-9.1667|-76.0000|Provincia de Leoncio Prado|Huanuco|0|
+-14.5000|-74.3333|Provincia de Lucanas|Ayacucho|0|
+-6.4167|-78.0000|Provincia de Luya|Amazonas|0|
+-12.2500|-71.0000|Provincia de Manú|Madre de Dios|0|
+-8.7500|-76.6667|Provincia de Marañón|Huanuco|0|
+-7.2739|-77.1822|Provincia de Mariscal Cáceres|San Martín|0|
+-8.8333|-77.2500|Provincia de Mariscal Luzuriaga|Áncash|0|
+-17.0836|-71.0033|Provincia de Mariscal Nieto|Moquegua|0|
+-14.7500|-70.7500|Provincia de Melgar|Puno|0|
+-5.7500|-77.2500|Provincia de Moyobamba|San Martín|0|
+-15.0000|-75.0833|Provincia de Nazca|Ica|0|
+-7.9046|-78.5636|Provincia de Otuzco|La Libertad|0|
+-10.3333|-75.0833|Provincia de Oxapampa|Pasco|0|
+-7.2500|-79.5000|Provincia de Pacasmayo|La Libertad|0|
+-9.9526|-75.8139|Provincia de Pachitea|Huanuco|0|
+-5.1019|-81.0970|Provincia de Paita|Piura|0|
+-8.3333|-77.9167|Provincia de Pallasca|Áncash|0|
+-14.4167|-75.1667|Provincia de Palpa|Ica|0|
+-15.0297|-73.6349|Provincia de Parinacochas|Ayacucho|0|
+-13.9167|-71.9167|Provincia de Paruro|Cusco|0|
+-10.6667|-76.0833|Provincia de Pasco|Pasco|0|
+-8.2500|-77.3333|Provincia de Pataz|La Libertad|0|
+-13.1667|-71.4167|Provincia de Paucartambo|Cusco|0|
+-13.8038|-75.9426|Provincia de Pisco|Ica|0|
+-5.2142|-80.4062|Provincia de Piura|Piura|0|
+-8.8231|-77.4756|Provincia de Pomabamba|Áncash|0|
+-16.0000|-70.0000|Provincia de Puno|Puno|0|
+-13.4167|-71.0000|Provincia de Quispicanchis|Cusco|0|
+-10.0000|-77.4167|Provincia de Recuay|Áncash|0|
+-6.0000|-77.4167|Provincia de Rioja|San Martín|0|
+-6.3333|-77.4167|Provincia de Rodríguez de Mendoza|Amazonas|0|
+-13.8333|-69.3333|Provincia de Sandia|Puno|0|
+-5.0833|-79.0000|Provincia de San Ignacio|Cajamarca|0|
+-6.5833|-76.1667|Provincia de San Martín|San Martín|0|
+-7.0000|-79.0000|Provincia de San Miguel|Cajamarca|0|
+-9.0000|-78.2500|Provincia de Santa|Áncash|0|
+-6.8333|-79.0000|Provincia de Santa Cruz|Cajamarca|0|
+-8.3333|-78.2500|Provincia de Santiago de Chuco|La Libertad|0|
+-11.5000|-74.2500|Provincia de Satipo|Junín|0|
+-8.5000|-77.5000|Provincia de Sihuas|Áncash|0|
+-14.1030|-73.7860|Provincia de Sucre|Ayacucho|0|
+-4.5000|-80.6667|Provincia de Sullana|Piura|0|
+-17.8333|-70.5000|Provincia de Tacna|Tacna|0|
+-11.2500|-70.5000|Provincia de Tahuamanú|Madre de Dios|0|
+-4.4167|-81.0833|Provincia de Talara|Piura|0|
+-12.1995|-70.0501|Provincia de Tambopata|Madre de Dios|0|
+-17.4167|-70.0833|Provincia de Tarata|Tacna|0|
+-11.4056|-75.6913|Provincia de Tarma|Junín|0|
+-12.2500|-74.7500|Provincia de Tayacaja|Huancavelica|0|
+-8.0833|-78.9167|Provincia de Trujillo|La Libertad|0|
+-3.7500|-80.4167|Provincia de Tumbes|Tumbes|0|
+-13.2500|-72.3333|Provincia de Urubamba|Cusco|0|
+-13.7500|-74.3333|Provincia de Víctor Fajardo|Ayacucho|0|
+-13.6320|-73.8880|Provincia de Vilcas Huamán|Ayacucho|0|
+-11.6667|-76.1667|Provincia de Yauli|Junín|0|
+-12.4167|-76.0000|Provincia de Yauyos|Lima|0|
+-9.1667|-77.7500|Provincia de Yungay|Áncash|0|
+-3.6667|-80.2500|Provincia de Zarumilla|Tumbes|0|
+-8.3791|-74.5539|Pucallpa|Ucayali|326040|
+-15.9799|-71.4599|Pucara|Arequipa|4335|
+-12.0757|-77.0634|Pueblo Libre|Municipalidad Metropolitana de Lima|0|
+-5.7167|-79.8833|Pueblo Nuevo|Lambayeque|12471|
+-9.3670|-75.0896|Puerto Inca|Huanuco|0|
+-12.5933|-69.1891|Puerto Maldonado|Madre de Dios|85024|
+-8.9877|-78.6473|Puerto Santa|Áncash|14066|
+-10.8013|-77.7433|Puerto Supe|Lima|0|
+-17.1578|-70.3522|Pujocucho|Tacna|4120|
+-3.7167|-73.2333|Punchana|Loreto|0|
+-15.8422|-70.0199|Puno|Puno|128637|
+-17.1719|-71.7924|Punta de Bombón|Arequipa|6336|
+-14.7000|-74.1333|Puquio|Ayacucho|10491|
+-10.3733|-71.5823|Purus|Ucayali|0|
+-14.0542|-71.3858|Qquea|Cusco|3482|
+-4.8378|-80.6456|Querecotillo|Piura|25396|
+-14.1839|-71.3834|Queromarca|Cusco|3496|
+-17.3178|-70.2581|Quilahuani|Tacna|3176|
+-12.8633|-72.6931|Quillabamba|Cuzco Department|25300|
+-12.9486|-76.3811|Quilmaná|Lima|6442|
+-7.9667|-78.2000|Quiruvilca|La Libertad|9226|
+-6.8656|-79.8178|Reque|Lambayeque|9808|
+-6.7480|-75.0549|Requena|Loreto|25300|
+-11.9198|-76.6561|Ricardo Palma|Lima|4842|
+-14.5160|-75.1993|Río Grande|Ica|4689|
+-6.0568|-77.1665|Rioja|San Martín|25057|
+-8.2210|-78.9770|Salaverry|La Libertad|10066|
+-5.0333|-81.0667|Salinera Colán|Piura|14210|
+-4.8572|-80.6811|Salitral|Piura|5385|
+-12.8361|-71.3649|Salvación|Madre de Dios|330|
+-6.9189|-79.5820|Saña|Lambayeque|39200|
+-11.9719|-75.2556|San Agustin|Junín|5998|
+-17.2172|-70.9259|San Antonio|Moquegua Department|15633|
+-2.4501|-72.6690|San Antonio del Estrecho|Loreto|8000|
+-14.7118|-69.6156|San Antonio De Putina|Puno|0|
+-12.3833|-76.7833|San Bartolo|Lima|5733|
+-12.1015|-76.9967|San Borja|Municipalidad Metropolitana de Lima|0|
+-7.7854|-77.9259|Sanchez Carrion|La Libertad|0|
+-13.6667|-76.1500|San Clemente|Ica|15815|
+-8.3982|-74.5377|San Fernando|Ucayali|67844|
+-12.0891|-76.9988|San Francisco De Borja|Lima region|105076|
+-5.1458|-79.0014|San Ignacio|Cajamarca|7912|
+-12.0956|-77.0349|San Isidro|Municipalidad Metropolitana de Lima|68309|
+-11.9559|-75.2841|San Jerónimo|Junín|0|
+-6.7381|-79.8275|San José|Lambayeque|7434|
+-3.7761|-73.2814|San Juan|Loreto|78153|
+-14.0108|-75.7358|San Juan Bautista|Ica|6871|
+-4.8167|-76.6000|San Lorenzo|Loreto|10500|
+-12.0767|-76.9943|San Luis|Lima|8862|
+-5.1859|-80.6693|San Martin|Piura|130000|
+-11.4285|-74.4883|San Martín de Pangoa|Junin|16262|
+-13.0125|-73.9808|San Miguel|Ayacucho|8400|
+-15.4780|-70.1250|San Miguel|Puno|60850|
+-10.1382|-76.6229|San Miguel de Cauri|Huanuco|5326|
+-4.0192|-71.1028|San Pablo|Loreto|0|
+-11.2506|-75.8612|San Pedro de Cajas|Junín|5758|
+-7.4289|-79.5042|San Pedro de Lloc|La Libertad|16250|
+-11.1242|-75.3573|San Ramón|Junín|14708|
+-15.8333|-70.5000|San Roman|Puno|0|
+-12.8667|-72.7167|Santa Ana|Cusco|25145|
+-12.0505|-76.9733|Santa Anita - Los Ficus|Lima region|184614|
+-15.6979|-70.6061|Santa Lucía|Puno|4320|
+-12.0054|-76.8933|Santa María|Lima|14853|
+-10.9191|-74.8850|Santa Rosa|Junin|18057|
+-6.7577|-79.8275|Santa Rosa|Lambayeque|10625|
+-13.5273|-71.9843|Santiago|Cuzco Department|64075|
+-14.1847|-75.7112|Santiago|Ica|10449|
+-7.9589|-79.2392|Santiago de Cao|La Libertad|21982|
+-8.1410|-78.1733|Santiago de Chuco|La Libertad|6759|
+-12.1478|-76.9937|Santiago de Surco|Municipalidad Metropolitana de Lima|251648|
+-14.4456|-72.0842|Santo Tomas|Cusco|4134|
+-13.0756|-76.3853|San Vicente de Cañete|Lima|25517|
+-6.9340|-76.7716|Saposoa|San Martín|14894|
+-11.2522|-74.6386|Satipo|Junín|15532|
+-11.1333|-77.1946|Sayán|Lima|6196|
+-5.5569|-80.8222|Sechura|Piura|23020|
+-16.3706|-71.5272|Selva Alegre|Arequipa|72696|
+-12.0333|-75.2833|Sicaya|Junín|6842|
+-14.2694|-71.2261|Sicuani|Cusco|33575|
+-6.6109|-76.6930|Sisa|San Martín|9477|
+-6.1392|-77.1039|Soritor|San Martín|10858|
+-14.0189|-75.7581|Subtanjalla|Ica|9096|
+-4.9039|-80.6853|Sullana|Piura|160789|
+-10.7975|-77.7131|Supe|Lima|13719|
+-6.3500|-76.6833|Tabalosos|San Martín|14744|
+-18.0146|-70.2536|Tacna|Tacna|286240|
+-4.5772|-81.2719|Talara|Piura|99074|
+-13.6531|-73.4292|Talavera|Apurímac|7381|
+-14.7985|-73.9244|Tambo|Ayacucho|5032|
+-4.9269|-80.3447|Tambo Grande|Piura|30033|
+-12.6719|-69.3555|Tambopata|Madre de Dios|38966|
+-4.0032|-73.1585|Tamshiyacu|Loreto|0|
+-15.7667|-69.6833|Taquile|Puno|2000|
+-6.5014|-76.3656|Tarapoto|San Martín|0|
+-17.4744|-70.0328|Tarata|Tacna|3052|
+-11.4190|-75.6899|Tarma|Junín|51350|
+-9.2953|-75.9957|Tingo María|Huanuco|53177|
+-14.1450|-71.4069|Tinta|Cusco|3466|
+-10.7677|-76.2752|Tinyahuarco|Pasco|5066|
+-8.1877|-76.5205|Tocache|San Martín|29029|
+-17.0769|-70.8433|Torata|Moquegua|7054|
+-17.4062|-70.3646|Totoral|Tacna|0|
+-8.1160|-79.0300|Trujillo|La Libertad|1067700|
+-6.5064|-79.8572|Túcume|Lambayeque|7043|
+-3.5669|-80.4515|Tumbes|Tumbes|96946|
+-14.1639|-71.4767|Tungasuca|Cusco|3791|
+-8.4592|-76.4633|Uchiza|San Martín|17742|
+-11.8765|-77.0335|Urb. Santo Domingo|Lima|5000|
+-13.6861|-71.6228|Urcos|Cusco|5479|
+-13.3047|-72.1158|Urubamba|Cusco|7540|
+-5.7703|-78.3285|Utcubamba|Amazonas|0|
+-11.0225|-77.6438|Végueta|Lima|6219|
+-5.4167|-80.7833|Vice|Piura|12915|
+-12.2131|-76.9052|Villa Poeta José Gálvez Barrenechea|Lima region|61000|
+-10.7394|-75.2697|Villa Rica|Pasco|7448|
+-13.7113|-76.1498|Villa Tupac Amaru|Ica|0|
+-8.5220|-78.6035|Viru|La Libertad|20774|
+-15.8086|-71.2011|Vizcachane|Arequipa|4407|
+-13.5249|-71.9653|Wanchaq|Cuzco Department|59134|
+-10.2411|-76.6456|Yanacancha|Huanuco|23175|
+-10.6659|-76.2553|Yanacancha|Pasco|24105|
+-14.2181|-71.4317|Yanaoca|Cusco|3913|
+-9.8026|-76.5952|Yarowilca|Huanuco|0|
+-14.7908|-71.4099|Yauri|Cuzco Department|23867|
+-8.9833|-77.3000|Yauya|Áncash|9092|
+-9.1383|-77.7436|Yungay|Áncash|5269|
+-16.2500|-69.0833|Yunguyo|Puno|11946|
+-16.2522|-71.6797|Yura|Arequipa|5686|
+-5.9000|-76.0833|Yurimaguas|Loreto|41827|
+-3.5031|-80.2731|Zarumilla|Tumbes|16907|
+-3.6805|-80.6782|Zorritos|Tumbes|12261|

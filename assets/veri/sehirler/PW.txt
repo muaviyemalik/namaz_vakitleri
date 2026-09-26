@@ -1,15 +1,15 @@
-6.9060|134.1300|Angaur State
-7.5313|134.5271|Imeong Hamlet
-8.0823|134.7173|Kayangel
-7.0419|134.2556|Kloulklubed
-7.3398|134.4733|Koror
-7.4957|134.6367|Melekeok Village
-7.6957|134.6305|Mengellang
-7.6099|134.5744|Ngardmau
-7.4461|134.4768|Ngchemiangel
-7.4693|134.6099|Ngchesar Hamlet
-7.5546|134.6361|Ngerkeai
-7.3645|134.5148|Ngetkib
-5.3261|132.2194|Sonsorol Village
-3.0049|131.1217|Tobi Village
-7.6242|134.6421|Ulimang
+6.9060|134.1300|Angaur State|Angaur|188|
+7.5313|134.5271|Imeong Hamlet|Ngeremlengui|132|
+8.0823|134.7173|Kayangel|Kayangel|188|
+7.0419|134.2556|Kloulklubed|Peleliu|702|
+7.3398|134.4733|Koror|Koror|14000|
+7.4957|134.6367|Melekeok Village|Melekeok|271|
+7.6957|134.6305|Mengellang|Ngarchelong|488|
+7.6099|134.5744|Ngardmau|Ngardmau|221|
+7.4461|134.4768|Ngchemiangel|Aimeliik|270|
+7.4693|134.6099|Ngchesar Hamlet|Ngchesar|300|
+7.5546|134.6361|Ngerkeai|Ngiwal|223|
+7.3645|134.5148|Ngetkib|Airai|62|
+5.3261|132.2194|Sonsorol Village|Sonsorol|30|
+3.0049|131.1217|Tobi Village|Hatohobei|44|
+7.6242|134.6421|Ulimang|Ngaraard|581|

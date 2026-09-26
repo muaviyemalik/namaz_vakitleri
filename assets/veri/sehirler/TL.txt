@@ -1,56 +1,56 @@
--8.7281|125.5664|Aileu
--8.9924|125.5082|Ainaro
--9.0273|125.7868|Alas
--8.2678|125.5970|Atauro Island
--8.9250|125.3981|Atsabe
--8.6279|126.6574|Baguia
--8.8547|126.0656|Barique
--8.4667|126.4500|Baucau
--8.4757|126.4563|Baukau
--8.6246|125.3817|Bazartete
--9.3333|124.0833|Citrana
--8.5205|125.6084|Cristo Rei
--8.5586|125.5736|Dili
--8.7522|125.3969|Ermera Villa
--8.9479|125.8663|Fatuberliu
--9.2292|125.0358|Fatumean
--9.2836|125.0894|Fohorem
--8.7239|125.4361|Gleno
--9.1204|125.5893|Hato-Udo
--8.8167|125.3167|Hatulia
--8.7092|126.8283|Iliomar
--8.5500|125.9167|Laclo
--8.7498|125.9119|Laclubar
--8.8000|126.1333|Lacluta
--8.4741|126.5923|Laga
--8.3651|126.9039|Lautem
--8.6914|125.6361|Lequidoe
--8.8344|125.4264|Letefoho
--8.5875|125.3419|Likisá
--8.5217|126.9983|Lospalos
--8.5436|126.8300|Luro
--8.9917|125.2197|Maliana
--8.5221|126.0152|Manatuto
--8.5114|126.0131|Manatutu
--8.6119|125.2061|Maubara
--9.2177|125.2298|Maucatar
--8.5301|125.7416|Metinaro
--9.3500|124.2333|Nitibe
--9.3000|124.5000|Oe Silo
--8.7348|126.3832|Ossu
--9.2000|124.3833|Pante Macassar
--9.3642|124.3433|Passabe
--8.6014|126.5590|Quelicai
--8.6724|125.4255|Railaco
--8.6167|125.6667|Remexio
--9.0000|125.6500|Same
--8.8600|125.9400|Soibada
--9.3000|125.2500|Suai
--9.3418|125.1089|Tilomar
--8.8237|125.7045|Turiscai
--8.3960|127.2592|Tutuala
--8.7566|126.6806|Uatocarabau
--8.7628|126.5735|Uatolari
--8.5104|126.2082|Vemasse
--8.6431|126.3783|Venilale
--8.8591|126.3697|Viqueque
+-8.7281|125.5664|Aileu|Aileu|17356|
+-8.9924|125.5082|Ainaro|Ainaro|12000|
+-9.0273|125.7868|Alas|Manufahi|0|
+-8.2678|125.5970|Atauro Island|Dili|0|
+-8.9250|125.3981|Atsabe|Ermera|16304|
+-8.6279|126.6574|Baguia|Baucau|0|
+-8.8547|126.0656|Barique|Manatuto|5438|
+-8.4667|126.4500|Baucau|Baucau|0|
+-8.4757|126.4563|Baukau|Baucau|16000|
+-8.6246|125.3817|Bazartete|Liquiçá|0|
+-9.3333|124.0833|Citrana|Oecusse|0|
+-8.5205|125.6084|Cristo Rei|Dili|0|
+-8.5586|125.5736|Dili|Dili|150000|
+-8.7522|125.3969|Ermera Villa|Ermera|0|
+-8.9479|125.8663|Fatuberliu|Manufahi|0|
+-9.2292|125.0358|Fatumean|Cova Lima|0|
+-9.2836|125.0894|Fohorem|Cova Lima|4086|
+-8.7239|125.4361|Gleno|Ermera|8133|
+-9.1204|125.5893|Hato-Udo|Ainaro|10299|
+-8.8167|125.3167|Hatulia|Ermera|0|
+-8.7092|126.8283|Iliomar|Lautém|0|
+-8.5500|125.9167|Laclo|Manatuto|0|
+-8.7498|125.9119|Laclubar|Manatuto|0|
+-8.8000|126.1333|Lacluta|Viqueque|0|
+-8.4741|126.5923|Laga|Baucau|0|
+-8.3651|126.9039|Lautem|Lautém|3157|
+-8.6914|125.6361|Lequidoe|Aileu|0|
+-8.8344|125.4264|Letefoho|Ermera|0|
+-8.5875|125.3419|Likisá|Liquiçá|19000|
+-8.5217|126.9983|Lospalos|Lautém|17186|
+-8.5436|126.8300|Luro|Lautém|2839|
+-8.9917|125.2197|Maliana|Bobonaro|22000|
+-8.5221|126.0152|Manatuto|Manatuto|0|
+-8.5114|126.0131|Manatutu|Manatuto|1924|
+-8.6119|125.2061|Maubara|Liquiçá|16300|
+-9.2177|125.2298|Maucatar|Cova Lima|0|
+-8.5301|125.7416|Metinaro|Dili|4000|
+-9.3500|124.2333|Nitibe|Oecusse|0|
+-9.3000|124.5000|Oe Silo|Oecusse|0|
+-8.7348|126.3832|Ossu|Viqueque|0|
+-9.2000|124.3833|Pante Macassar|Oecusse|0|
+-9.3642|124.3433|Passabe|Oecusse|0|
+-8.6014|126.5590|Quelicai|Baucau|0|
+-8.6724|125.4255|Railaco|Ermera|0|
+-8.6167|125.6667|Remexio|Aileu|0|
+-9.0000|125.6500|Same|Manufahi|7500|
+-8.8600|125.9400|Soibada|Manatuto|0|
+-9.3000|125.2500|Suai|Cova Lima|21539|
+-9.3418|125.1089|Tilomar|Cova Lima|7885|
+-8.8237|125.7045|Turiscai|Manufahi|0|
+-8.3960|127.2592|Tutuala|Lautém|3707|
+-8.7566|126.6806|Uatocarabau|Viqueque|0|
+-8.7628|126.5735|Uatolari|Viqueque|0|
+-8.5104|126.2082|Vemasse|Baucau|0|
+-8.6431|126.3783|Venilale|Baucau|16000|
+-8.8591|126.3697|Viqueque|Viqueque|6078|

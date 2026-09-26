@@ -1,61 +1,61 @@
--14.9793|34.9558|Balaka
--15.0484|35.0591|Balaka District
--15.7850|35.0085|Blantyre
--15.6473|34.9396|Blantyre District
--16.0335|34.8009|Chikwawa
--16.1667|34.7500|Chikwawa District
--13.9933|34.5157|Chipoka
--15.6746|35.1407|Chiradzulu
--15.7527|35.2158|Chiradzulu District
--9.7024|33.2697|Chitipa
--9.9273|33.4254|Chitipa District
--14.3779|34.3332|Dedza
--14.2627|34.1856|Dedza District
--13.6540|33.9375|Dowa
--13.6010|33.8238|Dowa District
--9.9333|33.9333|Karonga
--10.1115|33.8815|Karonga District
--13.0333|33.4833|Kasungu
--13.0000|33.4167|Kasungu District
--12.0607|34.7361|Likoma
--13.9669|33.7873|Lilongwe
--14.0196|33.6841|Lilongwe District
--10.6060|34.1063|Livingstonia
--15.0666|35.2254|Liwonde
--16.0069|35.3095|Luchenza
--15.1685|35.3000|Machinga
--14.9458|35.5737|Machinga District
--14.4781|35.2645|Mangochi
--14.3930|35.3466|Mangochi District
--13.7984|32.8802|Mchinji
--13.7623|33.0800|Mchinji District
--14.0824|34.9165|Monkey Bay
--13.5319|33.7401|Mponela
--16.0316|35.5000|Mulanje
--15.9344|35.4999|Mulanje District
--15.6026|34.5248|Mwanza
--15.6334|34.5168|Mwanza District
--11.9000|33.6000|Mzimba
--11.8543|33.6078|Mzimba District
--11.4656|34.0207|Mzuzu
--15.4505|34.7003|Neno
--11.6066|34.2907|Nkhata Bay
--11.6530|34.0532|Nkhata Bay District
--12.9274|34.2961|Nkhotakota
--12.8042|34.0830|Nkhotakota District
--16.9200|35.2620|Nsanje
--16.7500|35.1667|Nsanje District
--14.8203|34.6359|Ntcheu
--14.7500|34.7500|Ntcheu District
--13.5277|33.9149|Ntchisi
--13.2957|33.9080|Ntchisi District
--15.8064|35.6507|Phalombe
--15.6667|35.6667|Phalombe District
--11.0186|33.8575|Rumphi
--10.8029|33.8052|Rumphi District
--13.7804|34.4587|Salima
--13.7196|34.4018|Salima District
--16.0678|35.1405|Thyolo
--16.1058|35.1506|Thyolo District
--15.3860|35.3188|Zomba
--15.4301|35.4183|Zomba District
+-14.9793|34.9558|Balaka|Southern|40950|
+-15.0484|35.0591|Balaka District|Southern|0|
+-15.7850|35.0085|Blantyre|Southern|902588|
+-15.6473|34.9396|Blantyre District|Southern|0|
+-16.0335|34.8009|Chikwawa|Southern|6987|
+-16.1667|34.7500|Chikwawa District|Southern|0|
+-13.9933|34.5157|Chipoka|Central|7212|
+-15.6746|35.1407|Chiradzulu|Southern|1580|
+-15.7527|35.2158|Chiradzulu District|Southern|0|
+-9.7024|33.2697|Chitipa|Northern|20011|
+-9.9273|33.4254|Chitipa District|Northern|0|
+-14.3779|34.3332|Dedza|Central|34882|
+-14.2627|34.1856|Dedza District|Central|0|
+-13.6540|33.9375|Dowa|Central|8047|
+-13.6010|33.8238|Dowa District|Central|0|
+-9.9333|33.9333|Karonga|Northern|69486|
+-10.1115|33.8815|Karonga District|Northern|0|
+-13.0333|33.4833|Kasungu|Central|66152|
+-13.0000|33.4167|Kasungu District|Central|0|
+-12.0607|34.7361|Likoma|Northern|7683|
+-13.9669|33.7873|Lilongwe|Central|1115815|
+-14.0196|33.6841|Lilongwe District|Central|0|
+-10.6060|34.1063|Livingstonia|Northern|5552|
+-15.0666|35.2254|Liwonde|Southern|41077|
+-16.0069|35.3095|Luchenza|Southern|14211|
+-15.1685|35.3000|Machinga|Southern|1418|
+-14.9458|35.5737|Machinga District|Southern|0|
+-14.4781|35.2645|Mangochi|Southern|60338|
+-14.3930|35.3466|Mangochi District|Southern|0|
+-13.7984|32.8802|Mchinji|Central|31592|
+-13.7623|33.0800|Mchinji District|Central|0|
+-14.0824|34.9165|Monkey Bay|Southern|16867|
+-13.5319|33.7401|Mponela|Central|27681|
+-16.0316|35.5000|Mulanje|Southern|16672|
+-15.9344|35.4999|Mulanje District|Southern|0|
+-15.6026|34.5248|Mwanza|Southern|20345|
+-15.6334|34.5168|Mwanza District|Southern|0|
+-11.9000|33.6000|Mzimba|Northern|29432|
+-11.8543|33.6078|Mzimba District|Northern|0|
+-11.4656|34.0207|Mzuzu|Northern|249564|
+-15.4505|34.7003|Neno|Southern|0|
+-11.6066|34.2907|Nkhata Bay|Northern|16099|
+-11.6530|34.0532|Nkhata Bay District|Northern|0|
+-12.9274|34.2961|Nkhotakota|Central|31974|
+-12.8042|34.0830|Nkhotakota District|Central|0|
+-16.9200|35.2620|Nsanje|Southern|30276|
+-16.7500|35.1667|Nsanje District|Southern|0|
+-14.8203|34.6359|Ntcheu|Central|23956|
+-14.7500|34.7500|Ntcheu District|Central|0|
+-13.5277|33.9149|Ntchisi|Central|7918|
+-13.2957|33.9080|Ntchisi District|Central|0|
+-15.8064|35.6507|Phalombe|Southern|7040|
+-15.6667|35.6667|Phalombe District|Southern|0|
+-11.0186|33.8575|Rumphi|Northern|25216|
+-10.8029|33.8052|Rumphi District|Northern|0|
+-13.7804|34.4587|Salima|Central|41492|
+-13.7196|34.4018|Salima District|Central|0|
+-16.0678|35.1405|Thyolo|Southern|8845|
+-16.1058|35.1506|Thyolo District|Southern|0|
+-15.3860|35.3188|Zomba|Southern|118440|
+-15.4301|35.4183|Zomba District|Southern|0|

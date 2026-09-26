@@ -1,81 +1,81 @@
-1.3407|103.7730|Anak Bukit
-1.3698|103.8461|Ang Mo Kio
-1.3803|103.8397|Ang Mo Kio New Town
-1.3798|103.7725|Bangkit
-1.3236|103.9273|Bedok
-1.3264|103.9417|Bedok New Town
-1.3504|103.8487|Bishan New Town
-1.3110|103.6940|Boon Lay
-1.2872|103.8083|Brickworks Estate
-1.3496|103.7528|Bukit Batok
-1.3590|103.7637|Bukit Batok New Town
-1.2842|103.8231|Bukit Merah Estate
-1.3786|103.7626|Bukit Panjang
-1.3797|103.7647|Bukit Panjang New Town
-1.3294|103.8021|Bukit Timah
-1.3825|103.7497|Choa Chu Kang New Town
-1.3158|103.7647|Clementi Housing Estate
-1.2780|103.8520|Downtown Core
-1.3225|103.8982|Eunos
-1.3844|103.7706|Fajar
-1.3182|103.8871|Geylang
-1.3594|103.7228|Hong Kah
-1.3736|103.8867|Hougang
-1.3567|103.8908|Hougang New Town
-1.3795|103.7629|Jelebu
-1.3289|103.7399|Jurong East
-1.3342|103.7228|Jurong Town
-1.3396|103.7073|Jurong West
-1.3375|103.9092|Kaki Bukit Estate
-1.3106|103.8660|Kallang
-1.3778|103.9594|Kampong Loyang
-1.3783|103.9319|Kampong Pasir Ris
-1.3761|103.9017|Kangkar
-1.3778|103.7442|Keat Hong Village
-1.3223|103.9113|Kembangan
-1.3786|103.9717|Loyang
-1.3271|103.8841|MacPherson
-1.2968|103.8084|Margaret Drive
-1.3030|103.9072|Marine Parade
-1.4325|103.7741|Marsiling
-1.3994|103.9028|Matilda Estate
-1.3201|103.8439|Novena
-1.3036|103.8318|Orchard Road
-1.2819|103.8390|Outram
-1.2825|103.8381|Outram Park
-1.3739|103.9493|Pasir Ris
-1.3722|103.9478|Pasir Ris New Town
-1.3539|103.8906|Paya Lebar
-1.3800|103.7407|Peng Siang
-1.4051|103.9023|Punggol
-1.2942|103.8025|Queenstown Estate
-1.3049|103.8520|Rochor
-1.3825|103.7679|Saujana
-1.4491|103.8201|Sembawang
-1.4508|103.8286|Sembawang Estate
-1.3901|103.8952|Sengkang
-1.3917|103.8944|Sengkang New Town
-1.3852|103.7607|Senja
-1.3496|103.8737|Serangoon
-1.3639|103.8575|Serangoon Garden
-1.3508|103.8708|Serangoon New Town
-1.3411|103.9561|Simei New Town
-1.2897|103.8501|Singapore
-1.4381|103.8267|Sungai Simpang
-1.3547|103.9437|Tampines
-1.3581|103.9403|Tampines Estate
-1.3492|103.9497|Tampines New Town
-1.3167|103.8167|Tanglin
-1.2764|103.8434|Tanjong Pagar
-1.3803|103.7520|Teck Whye
-1.2747|103.8117|Telok Blangah
-1.3492|103.8436|Thomson
-1.2833|103.8328|Tiong Bahru Estate
-1.3354|103.8497|Toa Payoh
-1.3361|103.8500|Toa Payoh New Town
-1.3333|103.9333|Ulu Bedok
-1.4380|103.7888|Woodlands
-1.3966|103.7474|Yew Tee
-1.3911|103.8514|Yio Chu Kang
-1.4293|103.8355|Yishun
-1.4333|103.8311|Yishun New Town
+1.3407|103.7730|Anak Bukit||22960|
+1.3698|103.8461|Ang Mo Kio|North East|0|
+1.3803|103.8397|Ang Mo Kio New Town||159340|
+1.3798|103.7725|Bangkit||21010|
+1.3236|103.9273|Bedok|South East|0|
+1.3264|103.9417|Bedok New Town||276990|
+1.3504|103.8487|Bishan New Town||87320|
+1.3110|103.6940|Boon Lay||29510|
+1.2872|103.8083|Brickworks Estate||19820|
+1.3496|103.7528|Bukit Batok|South West|0|
+1.3590|103.7637|Bukit Batok New Town||158030|
+1.2842|103.8231|Bukit Merah Estate||151250|
+1.3786|103.7626|Bukit Panjang|South West|0|
+1.3797|103.7647|Bukit Panjang New Town||138050|
+1.3294|103.8021|Bukit Timah|Central Singapore|85900|
+1.3825|103.7497|Choa Chu Kang New Town||187550|
+1.3158|103.7647|Clementi Housing Estate||92420|
+1.2780|103.8520|Downtown Core|Central Singapore|0|
+1.3225|103.8982|Eunos||32820|
+1.3844|103.7706|Fajar||26420|
+1.3182|103.8871|Geylang|Central Singapore|110201|
+1.3594|103.7228|Hong Kah||26150|
+1.3736|103.8867|Hougang|North East|0|
+1.3567|103.8908|Hougang New Town||227560|
+1.3795|103.7629|Jelebu||29960|
+1.3289|103.7399|Jurong East||72960|
+1.3342|103.7228|Jurong Town||262730|
+1.3396|103.7073|Jurong West|South West|253840|
+1.3375|103.9092|Kaki Bukit Estate||37150|
+1.3106|103.8660|Kallang|Central Singapore|101290|
+1.3778|103.9594|Kampong Loyang||15340|
+1.3783|103.9319|Kampong Pasir Ris||144260|
+1.3761|103.9017|Kangkar||32290|
+1.3778|103.7442|Keat Hong Village||39370|
+1.3223|103.9113|Kembangan||130252|
+1.3786|103.9717|Loyang||15340|
+1.3271|103.8841|MacPherson||26850|
+1.2968|103.8084|Margaret Drive||24160|
+1.3030|103.9072|Marine Parade|Central Singapore|47180|
+1.4325|103.7741|Marsiling||22000|
+1.3994|103.9028|Matilda Estate||52200|
+1.3201|103.8439|Novena|Central Singapore|53160|
+1.3036|103.8318|Orchard Road|Central Singapore|0|
+1.2819|103.8390|Outram|Central Singapore|0|
+1.2825|103.8381|Outram Park||18340|
+1.3739|103.9493|Pasir Ris|South East|0|
+1.3722|103.9478|Pasir Ris New Town||54420|
+1.3539|103.8906|Paya Lebar||16920|
+1.3800|103.7407|Peng Siang||33860|
+1.4051|103.9023|Punggol|North East|204150|
+1.2942|103.8025|Queenstown Estate||101480|
+1.3049|103.8520|Rochor|Central Singapore|12920|
+1.3825|103.7679|Saujana||25000|
+1.4491|103.8201|Sembawang|North West|0|
+1.4508|103.8286|Sembawang Estate||110090|
+1.3901|103.8952|Sengkang|North East|0|
+1.3917|103.8944|Sengkang New Town||267600|
+1.3852|103.7607|Senja||23830|
+1.3496|103.8737|Serangoon|North East|116900|
+1.3639|103.8575|Serangoon Garden||36080|
+1.3508|103.8708|Serangoon New Town||116900|
+1.3411|103.9561|Simei New Town||39450|
+1.2897|103.8501|Singapore|Central Singapore|5638700|
+1.4381|103.8267|Sungai Simpang||20000|
+1.3547|103.9437|Tampines|South East|0|
+1.3581|103.9403|Tampines Estate||265340|
+1.3492|103.9497|Tampines New Town||259900|
+1.3167|103.8167|Tanglin||21810|
+1.2764|103.8434|Tanjong Pagar|Central Singapore|670|
+1.3803|103.7520|Teck Whye||24560|
+1.2747|103.8117|Telok Blangah||19320|
+1.3492|103.8436|Thomson||29390|
+1.2833|103.8328|Tiong Bahru Estate||15120|
+1.3354|103.8497|Toa Payoh|Central Singapore|0|
+1.3361|103.8500|Toa Payoh New Town||120650|
+1.3333|103.9333|Ulu Bedok||276990|
+1.4380|103.7888|Woodlands|North West|254440|
+1.3966|103.7474|Yew Tee||39100|
+1.3911|103.8514|Yio Chu Kang||28350|
+1.4293|103.8355|Yishun|North West|0|
+1.4333|103.8311|Yishun New Town||228730|

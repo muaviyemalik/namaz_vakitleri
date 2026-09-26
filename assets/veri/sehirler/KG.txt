@@ -1,57 +1,57 @@
-42.4995|78.5270|Ak-Suu
-41.4081|71.4631|Ala-Buka
-42.8199|74.5940|Alamudunskiy Rayon
-41.1695|75.8010|At-Bashi
-39.9432|71.3418|Aydarken
-42.4602|76.1871|Balykchy
-40.0626|70.8194|Batken
-41.0376|72.7459|Bazar-Korgon
-42.8294|74.1083|Belovodskoye
-42.8700|74.5900|Bishkek
-42.6494|77.0823|Cholpon-Ata
-39.4761|72.3302|Chong-Alay
-42.6667|75.3333|Chuyskiy Rayon
-39.5527|72.2052|Daroot-Korgon
-40.2667|72.1000|Iradan
-39.8389|69.5276|Isfana|Razzakov
-42.8878|75.0850|Ivanovka
-40.9333|73.0000|Jalal-Abad
-41.9492|74.4057|Jumgal
-42.1411|77.1785|Kadzhi-Say
-42.8247|73.6758|Kaindy
-42.8911|74.8508|Kant
-42.8142|73.8481|Kara-Balta
-42.5000|71.4167|Kara-Buurinskiy Rayon
-42.4907|78.3936|Karakol
-41.6283|72.6703|Kara-Kul’
-40.6409|73.4941|Kara Kulja
-40.7046|72.8667|Kara Suu
-40.2951|72.1863|Karavan
-41.4050|74.0370|Kazarman
-42.7861|75.6917|Kemin
-41.4940|71.7583|Kerben
-41.0371|72.4832|Kochkor-Ata
-42.8738|74.4406|Kojomkul
-39.5656|72.2715|Kyzyl-Eshme
-40.2568|72.1279|Kyzyl-Kyya
-42.3421|78.0064|Kyzyl-Suu
-42.8845|74.6782|Lebedinovka
-40.9450|72.9931|Manas
-41.0601|72.6329|Massy
-41.4287|75.9911|Naryn
-40.2660|72.6183|Nookat
-40.5283|72.7985|Osh
-42.8333|74.3333|Sokulukskiy Rayon
-42.6371|73.8961|Sosnovka
-39.9365|69.5678|Suluktu
-40.8982|72.9048|Suzak
-42.5228|72.2427|Talas
-42.1865|72.6941|Talasskiy Rayon
-41.3461|72.2171|Tash-Kumyr
-42.8419|75.3015|Tokmok
-41.8744|72.9419|Toktogul
-41.7500|73.0000|Toktogul District
-42.7276|78.3648|Tyup
-40.7699|73.3007|Uzgen
-40.5500|73.3000|Uzgen District
-42.7266|75.0744|Ysyk-Ata
+42.4995|78.5270|Ak-Suu|Issyk-Kul|14009|
+41.4081|71.4631|Ala-Buka|Jalal-Abad|15426|
+42.8199|74.5940|Alamudunskiy Rayon|Chuy|0|
+41.1695|75.8010|At-Bashi|Naryn|14655|
+39.9432|71.3418|Aydarken|Batken|11857|
+42.4602|76.1871|Balykchy|Issyk-Kul|42875|
+40.0626|70.8194|Batken|Batken|27730|
+41.0376|72.7459|Bazar-Korgon|Jalal-Abad|41011|
+42.8294|74.1083|Belovodskoye|Chuy|23046|
+42.8700|74.5900|Bishkek|Bishkek|900000|
+42.6494|77.0823|Cholpon-Ata|Issyk-Kul|14237|
+39.4761|72.3302|Chong-Alay|Osh|0|
+42.6667|75.3333|Chuyskiy Rayon|Chuy|0|
+39.5527|72.2052|Daroot-Korgon|Osh|6421|
+40.2667|72.1000|Iradan|Batken|26200|
+39.8389|69.5276|Isfana|Batken|34219|Razzakov
+42.8878|75.0850|Ivanovka|Chuy|17513|
+40.9333|73.0000|Jalal-Abad|Jalal-Abad|0|
+41.9492|74.4057|Jumgal|Naryn|0|
+42.1411|77.1785|Kadzhi-Say|Issyk-Kul|4000|
+42.8247|73.6758|Kaindy|Chuy|9561|
+42.8911|74.8508|Kant|Chuy|22617|
+42.8142|73.8481|Kara-Balta|Chuy|48278|
+42.5000|71.4167|Kara-Buurinskiy Rayon|Talas|0|
+42.4907|78.3936|Karakol|Issyk-Kul|84351|
+41.6283|72.6703|Kara-Kul’|Jalal-Abad Region|26901|
+40.6409|73.4941|Kara Kulja|Osh|15616|
+40.7046|72.8667|Kara Suu|Osh|26609|
+40.2951|72.1863|Karavan|Batken|1100|
+41.4050|74.0370|Kazarman|Jalal-Abad|11191|
+42.7861|75.6917|Kemin|Chuy|10354|
+41.4940|71.7583|Kerben|Jalal-Abad|14141|
+41.0371|72.4832|Kochkor-Ata|Jalal-Abad|17177|
+42.8738|74.4406|Kojomkul|Chuy Region|20182|
+39.5656|72.2715|Kyzyl-Eshme|Osh|1100|
+40.2568|72.1279|Kyzyl-Kyya|Batken|32000|
+42.3421|78.0064|Kyzyl-Suu|Issyk-Kul|15075|
+42.8845|74.6782|Lebedinovka|Chuy|21118|
+40.9450|72.9931|Manas|Jalal-Abad Region|123239|
+41.0601|72.6329|Massy|Jalal-Abad Region|19774|
+41.4287|75.9911|Naryn|Naryn|41178|
+40.2660|72.6183|Nookat|Osh|18228|
+40.5283|72.7985|Osh|Osh|322164|
+42.8333|74.3333|Sokulukskiy Rayon|Chuy|0|
+42.6371|73.8961|Sosnovka|Chuy|5885|
+39.9365|69.5678|Suluktu|Batken|15019|
+40.8982|72.9048|Suzak|Jalal-Abad|30534|
+42.5228|72.2427|Talas|Talas|40308|
+42.1865|72.6941|Talasskiy Rayon|Talas|0|
+41.3461|72.2171|Tash-Kumyr|Jalal-Abad|23594|
+42.8419|75.3015|Tokmok|Chuy|71443|
+41.8744|72.9419|Toktogul|Jalal-Abad|20577|
+41.7500|73.0000|Toktogul District|Jalal-Abad|0|
+42.7276|78.3648|Tyup|Issyk-Kul|12355|
+40.7699|73.3007|Uzgen|Osh|49410|
+40.5500|73.3000|Uzgen District|Osh|0|
+42.7266|75.0744|Ysyk-Ata|Chuy|0|

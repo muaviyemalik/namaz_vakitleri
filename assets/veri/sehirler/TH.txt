@@ -1,1278 +1,1294 @@
-17.6359|103.9759|Akat Amnuai
-15.8585|104.6288|Amnat Charoen
-13.3672|99.9123|Amphawa
-8.3853|98.7538|Amphoe Ao Luek
-13.6909|102.4769|Amphoe Aranyaprathet
-13.2528|101.1815|Amphoe Ban Bueng
-12.7323|101.0488|Amphoe Ban Chang
-17.0528|99.4915|Amphoe Ban Dan Lan Hoi
-17.7113|103.2673|Amphoe Ban Dung
-14.3833|100.4667|Amphoe Bang Ban
-13.5896|100.8671|Amphoe Bang Bo
-13.9264|100.3936|Amphoe Bang Bua Thong
-13.7419|101.2075|Amphoe Bang Khla
-16.5932|100.3504|Amphoe Bang Krathum
-13.8025|100.4153|Amphoe Bang Kruai
-14.0500|100.1833|Amphoe Bang Len
-16.0266|100.4319|Amphoe Bang Mun Nak
-13.8803|101.0323|Amphoe Bang Nam Priao
-14.2348|100.5941|Amphoe Bang Pa-in
-13.5324|100.9604|Amphoe Bang Pakong
-13.6833|99.9833|Amphoe Bang Phae
-16.7184|100.0422|Amphoe Bang Rakam
-11.2940|99.4441|Amphoe Bang Saphan
-13.8538|100.3732|Amphoe Bang Yai
-14.6080|100.7240|Amphoe Ban Mo
-8.8006|99.4020|Amphoe Ban Na San
-13.5875|100.1179|Amphoe Ban Phaeo
-16.0460|102.7776|Amphoe Ban Phai
-13.8166|99.8215|Amphoe Ban Pong
-17.0916|99.0665|Amphoe Ban Tak
-5.8636|101.2274|Amphoe Betong
-14.3872|99.4499|Amphoe Bo Phloi
-12.5582|102.5657|Amphoe Bo Rai
-15.5849|102.3874|Amphoe Bua Yai
-16.1864|100.1429|Amphoe Bueng Na Rang
-12.7537|99.8983|Amphoe Cha-am
-15.1894|101.1268|Amphoe Chai Badan
-8.4388|99.0772|Amphoe Chai Buri
-19.6740|99.1748|Amphoe Chai Prakan
-9.4914|98.9957|Amphoe Chaiya
-14.6723|100.4679|Amphoe Chaiyo
-17.3936|100.6846|Amphoe Chat Trakan
-8.4632|99.5111|Amphoe Chawang
-19.4706|100.3387|Amphoe Chiang Kham
-20.1359|100.3653|Amphoe Chiang Khong
-19.3064|100.8788|Amphoe Chiang Klang
-20.2357|100.1554|Amphoe Chiang Saen
-14.7634|102.2034|Amphoe Chok Chai
-13.6252|99.5187|Amphoe Chom Bueng
-18.3924|98.5976|Amphoe Chom Thong
-16.1074|100.8357|Amphoe Chon Daen
-16.6159|102.0962|Amphoe Chum Phae
-13.5654|99.9704|Amphoe Damnoen Saduak
-15.2183|101.6979|Amphoe Dan Khun Thot
-17.9167|100.0333|Amphoe Den Chai
-14.8515|105.0751|Amphoe Det Udom
-14.8739|100.0467|Amphoe Doembang Nangbuat
-19.1081|100.0566|Amphoe Dok Kham Tai
-9.2106|99.6889|Amphoe Don Sak
-19.8755|99.1634|Amphoe Fang
-18.7387|98.8844|Amphoe Hang Dong
-6.9809|100.4654|Amphoe Hat Yai
-12.5352|99.7037|Amphoe Hua Hin
-15.3276|99.5194|Amphoe Huai Khot
-16.5887|103.2410|Amphoe Huai Mek
-7.8006|99.6050|Amphoe Huai Yot
-15.0206|100.3487|Amphoe In Buri
-13.9000|101.8000|Amphoe Kabin Buri
-14.5817|101.0530|Amphoe Kaeng Khoi
-16.2800|103.6001|Amphoe Kamalasai
-9.0726|99.5439|Amphoe Kanchanadit
-7.3856|99.4706|Amphoe Kantang
-14.5680|104.6708|Amphoe Kantharalak
-15.8878|100.0965|Amphoe Kao Liao
-15.6029|103.5665|Amphoe Kaset Wisai
-7.9146|98.3333|Amphoe Kathu
-15.3804|102.1664|Amphoe Kham Sakae Saeng
-16.0023|99.6762|Amphoe Khanu Woralaksaburi
-16.6796|104.1003|Amphoe Khao Wong
-13.2424|99.8075|Amphoe Khao Yoi
-16.8292|99.7398|Amphoe Khiri Mat
-13.7796|101.1563|Amphoe Khlong Khuean
-14.0932|100.6811|Amphoe Khlong Luang
-11.8554|102.8260|Amphoe Khlong Yai
-12.5725|102.3078|Amphoe Khlung
-14.3763|102.2175|Amphoe Khon Buri
-12.7718|101.6567|Amphoe Klaeng
-7.7127|99.0781|Amphoe Ko Lanta
-9.5084|99.9964|Amphoe Ko Samui
-13.1529|100.8116|Amphoe Ko Si Chang
-16.2388|102.9908|Amphoe Kosum Phisai
-16.7526|103.0804|Amphoe Kranuan
-13.6557|100.2728|Amphoe Krathum Baen
-16.5198|104.0510|Amphoe Kuchinarai
-12.1131|99.7546|Amphoe Kui Buri
-17.0921|102.9939|Amphoe Kumphawapi
-17.4401|102.5408|Amphoe Kut Chap
-12.4569|102.1426|Amphoe Laem Sing
-9.9339|99.0529|Amphoe Lang Suan
-16.6035|99.8652|Amphoe Lan Krabue
-15.5229|99.4611|Amphoe Lan Sak
-15.7753|99.8005|Amphoe Lat Yao
-16.7284|101.3114|Amphoe Lom Sak
-18.1426|99.9090|Amphoe Long
-19.3792|99.8014|Amphoe Mae Chai
-20.1991|99.8847|Amphoe Mae Chan
-17.1118|98.5863|Amphoe Mae Ramat
-20.3650|99.9260|Amphoe Mae Sai
-16.7215|98.7107|Amphoe Mae Sot
-18.1112|99.5783|Amphoe Mae Tha
-16.3715|104.1114|Amphoe Moeiwadi
-13.8558|100.4926|Amphoe Mueang Nonthaburi
-14.4670|100.6257|Amphoe Nakhon Luang
-17.0943|100.8644|Amphoe Nakhon Thai
-17.3247|102.2146|Amphoe Na Klang
-6.9599|100.5716|Amphoe Na Mom
-17.7434|102.1733|Amphoe Nam Som
-14.6333|102.7667|Amphoe Nang Rong
-17.4992|104.1183|Amphoe Na Wa
-15.8659|100.6286|Amphoe Nong Bua
-6.8001|101.1706|Amphoe Nong Chik
-14.3812|100.8645|Amphoe Nong Khae
-14.7270|102.5580|Amphoe Nong Ki
-16.7193|103.3192|Amphoe Nong Kung Si
-16.0116|101.1504|Amphoe Nong Phai
-17.1869|102.5899|Amphoe Nong Wua So
-16.9022|102.5308|Amphoe Non Sang
-15.2089|102.2840|Amphoe Non Sung
-15.1811|102.0300|Amphoe Non Thai
-8.0606|99.0404|Amphoe Nuea Khlong
-19.5064|99.9762|Amphoe Pa Daet
-14.6192|101.4481|Amphoe Pak Chong
-13.9163|100.5040|Amphoe Pak Kret
-8.3071|100.1736|Amphoe Pak Phanang
-14.6623|101.9423|Amphoe Pak Thong Chai
-18.4140|98.8828|Amphoe Pa Sang
-15.5872|100.6853|Amphoe Phai Sali
-14.4507|100.3395|Amphoe Phak Hai
-13.4643|101.2143|Amphoe Phanat Nikhom
-13.7381|101.4120|Amphoe Phanom Sarakham
-14.1594|99.6690|Amphoe Phanom Thuan
-13.4630|101.0913|Amphoe Phan Thong
-15.5196|103.2327|Amphoe Phayakkhaphum Phisai
-15.5078|100.2123|Amphoe Phayuha Khiri
-15.1459|105.2409|Amphoe Phibun Mangsahan
-15.2462|102.5422|Amphoe Phimai
-16.3097|103.7900|Amphoe Pho Chai
-15.8067|102.5911|Amphoe Phon
-13.7071|99.7562|Amphoe Photharam
-14.6734|100.3457|Amphoe Pho Thong
-14.7799|104.3660|Amphoe Phrai Bueng
-14.3517|100.5672|Amphoe Phra Nakhon Si Ayutthaya
-14.7191|100.8062|Amphoe Phra Phutthabat
-13.6525|100.5527|Amphoe Phra Pradaeng
-16.9019|101.8456|Amphoe Phu Kradueng
-19.1850|100.3878|Amphoe Pong
-12.9347|102.3719|Amphoe Pong Nam Ron
-14.6104|103.0605|Amphoe Prakhon Chai
-12.3904|99.6969|Amphoe Pran Buri
-15.8887|102.8762|Amphoe Pueai Noi
-6.2550|101.7050|Amphoe Ra-ngae
-7.8139|100.2832|Amphoe Ranot
-18.3261|100.3942|Amphoe Rong Kwang
-8.1800|99.8925|Amphoe Ron Phibun
-6.6714|100.4241|Amphoe Sadao
-6.7000|101.5833|Amphoe Sai Buri
-13.7203|100.2107|Amphoe Sam Phran
-12.2559|99.7401|Amphoe Sam Roi Yot
-15.1934|98.5279|Amphoe Sangkhla Buri
-18.0539|102.2268|Amphoe Sangkhom
-18.7350|99.1861|Amphoe San Kamphaeng
-18.6057|98.8853|Amphoe San Pa Tong
-12.7174|100.9275|Amphoe Sattahip
-15.2270|103.3301|Amphoe Satuek
-17.4559|103.4495|Amphoe Sawang Daen Din
-15.2344|105.0760|Amphoe Sawang Wirawong
-17.2990|99.8540|Amphoe Sawankhalok
-17.9873|103.8962|Amphoe Seka
-16.9977|102.2253|Amphoe Si Bun Rueang
-17.9357|102.5031|Amphoe Si Chiang Mai
-14.8994|101.7083|Amphoe Sikhiu|Sikhiu
-13.1298|101.0401|Amphoe Si Racha
-17.5993|99.7059|Amphoe Si Satchanalai
-14.3446|102.4930|Amphoe Soeng Sang
-6.0767|101.9982|Amphoe Su-ngai Kolok
-14.8562|101.8305|Amphoe Sung Noen
-15.6053|103.8063|Amphoe Suwannaphum
-6.2375|102.0024|Amphoe Tak Bai
-15.2593|100.3806|Amphoe Takhli
-16.2110|100.4174|Amphoe Taphan Hin
-17.7950|102.5661|Amphoe Tha Bo
-12.7385|101.9770|Amphoe Tha Mai
-13.9466|99.7790|Amphoe Tha Maka
-8.4582|99.3772|Amphoe Tham Phannara
-13.9095|99.6154|Amphoe Tha Muang
-16.1917|100.6008|Amphoe Thap Khlo
-15.4906|99.8222|Amphoe Thap Than
-14.5359|100.7127|Amphoe Tha Ruea
-16.9646|104.7028|Amphoe That Phanom
-12.8174|99.7874|Amphoe Tha Yang
-17.5813|99.2884|Amphoe Thoen
-8.1176|99.6691|Amphoe Thung Song
-13.5190|102.0872|Amphoe Wang Nam Yen
-14.2435|100.7250|Amphoe Wang Noi
-19.1601|99.6477|Amphoe Wang Nuea
-16.3792|100.5367|Amphoe Wang Sai Phun
-17.2803|101.7334|Amphoe Wang Saphung
-15.8595|103.3409|Amphoe Wapi Pathum
-15.1239|104.8750|Amphoe Warin Chamrap
-18.5509|100.7275|Amphoe Wiang Sa
-15.6500|101.1000|Amphoe Wichian Buri
-16.4396|103.3409|Amphoe Yang Talat
-6.8351|101.3907|Amphoe Yaring
-14.5884|100.4528|Ang Thong
-13.8947|100.6142|Anusawari
-8.3780|98.7212|Ao Luek
-13.6928|102.5013|Aranyaprathet
-13.7669|100.4826|Arun Amarin
-15.8401|103.8662|At Samat
-6.5459|101.6492|Ba Cho
-15.5019|101.6898|Bamnet Narong
-13.3396|100.9296|Ban Ang Sila
-8.0458|98.8103|Ban Ao Nang
-16.8255|100.2849|Ban Aranyik
-13.7833|100.4833|Ban Bang Bamru
-13.9990|100.5496|Ban Bang Kadi|Ban Bang Kadi Pathum Thani
-13.3110|101.1121|Ban Bueng
-7.8447|98.3390|Ban Chalong
-12.7254|101.0553|Ban Chang
-13.7508|100.4770|Ban Chang Lo
-15.1236|103.1894|Ban Dan
-17.0068|99.5750|Ban Dan Lan Hoi
-17.6990|103.2596|Ban Dung
-16.4916|102.6167|Ban Fang
-14.3740|100.4853|Bang Ban
-13.5833|100.8167|Bang Bo District
-13.6592|100.3880|Bang Bon
-13.6529|100.3587|Bang Bon Nuea
-13.6472|100.3714|Bangbontai
-13.9178|100.4240|Bang Bua Thong
-7.4177|100.1716|Bang Kaeo
-13.7726|100.6385|Bang Kapi
-13.7193|100.3928|Bang Khae
-13.7055|100.3893|Bang Khae Nuea
-8.0121|99.4845|Bang Khan
-13.8690|100.6277|Bang Khen
-13.7214|101.2081|Bang Khla
-13.6989|100.5124|Bang Khlo
-13.6928|100.5014|Bang Kho Laem
-13.6934|100.5022|Bang Kho Laem subdistrict
-13.7003|100.5097|Bang Kho laen
-13.4745|99.9484|Bang Khonthi
-13.7506|100.4702|Bang Khun Si
-13.5948|100.4269|Bang Khun thain
-13.6630|100.4342|Bang Khun Thian
-7.0640|100.4066|Bang Klam
-13.7540|100.5014|Bangkok
-13.7655|100.4699|Bangkok Noi
-13.7549|100.5172|Bangkok Riverside
-13.7375|100.4743|Bangkok Yai
-16.5783|100.3003|Bang Krathum
-13.8050|100.4728|Bang Kruai
-13.0470|100.9289|Bang Lamung
-12.9258|100.8924|Bang Lamung District
-14.0219|100.1718|Bang Len
-16.0278|100.3792|Bang Mun Nak
-13.6725|100.6209|Bang Na
-13.8474|101.0531|Bang Nam Priao
-13.8358|100.4600|Bang O
-14.4717|100.5473|Bang Pahan
-14.2278|100.5759|Bang Pa-in
-13.5430|100.9933|Bang Pakong
-13.6916|99.9298|Bang Phae
-13.7067|100.3867|Bang Phai
-13.7867|100.4915|Bang Phlat
-13.6197|100.7258|Bang Phli
-14.3498|100.1448|Bang Pla Ma
-14.8920|100.3173|Bang Racham
-14.8996|100.2780|Bang Rachan
-13.7306|100.5239|Bang Rak
-16.7585|100.1174|Bang Rakam
-14.2104|100.4942|Bang Sai
-13.6329|100.8104|Bang Sao Thong
-11.2126|99.5117|Bang Saphan
-11.0706|99.3410|Bang Saphan Noi
-13.8192|100.5279|Bang Sue
-13.8064|100.5306|Bang Sue subdistrict
-13.8434|100.3625|Bang Yai
-13.7633|100.4898|Bang Yi Khan
-16.2007|102.7746|Ban Haet
-18.2742|98.8379|Ban Hong
-14.9833|102.6500|Ban Huai Thalaeng
-13.7106|99.8962|Ban I Chang
-7.9551|98.2832|Ban Kamala
-7.8477|98.2985|Ban Karon
-7.8213|98.3070|Ban Kata
-13.3237|99.3732|Ban Kha
-12.8383|101.3421|Ban Khai
-8.6150|98.2399|Ban Khao Lak
-13.6361|100.3775|Ban Khlong Bang Bon
-13.6631|100.3878|Ban Khlong Bang Phran
-13.7667|100.4333|Ban Khlong Bang Ramat
-13.6417|100.8327|Ban Khlong Bang Sao Thong
-13.7190|100.6815|Ban Khlong Prawet
-18.1468|101.0661|Ban Khok
-7.9360|98.3966|Ban Ko Kaeo
-12.9242|100.7879|Ban Ko Lan
-7.8875|98.4257|Ban Ko Sire
-14.3920|103.1149|Ban Kruat
-13.1697|99.9877|Ban Laem
-13.6893|100.3981|Ban Lak Song
-13.9774|100.7778|Ban Lam Luk Ka
-13.0453|99.8379|Ban Lat
-18.8837|100.4601|Ban Luang
-15.5743|102.1420|Ban Lueam
-7.2041|100.5451|Ban Mai
-15.5786|102.8439|Ban Mai Chaiyaphot
-8.1271|98.3074|Ban Mai Khao
-15.0615|100.5520|Ban Mi
-14.6154|100.7273|Ban Mo
-17.8957|103.5279|Ban Muang
-14.2680|101.0644|Ban Na
-8.9061|99.2814|Ban Na Doem
-9.8769|98.8659|Ban Nam Yuen
-6.2564|101.2785|Bannang Sata
-8.8004|99.3637|Ban Na San
-17.2675|103.2247|Ban Nong Wua So
-17.8696|104.2274|Ban Phaeng
-13.5907|100.1075|Ban Phaeo
-16.0600|102.7310|Ban Phai
-17.1427|102.9726|Ban Phan Don
-12.6282|101.4376|Ban Phe
-13.6100|101.0784|Ban Pho
-15.9971|99.9941|Banphot Phisai
-14.0946|101.3890|Ban Phra
-14.6438|100.5488|Ban Phraek
-7.9546|98.5899|Ban Phru Nai
-17.6771|102.4456|Ban Phue
-13.8163|99.8774|Ban Pong
-15.2492|99.3282|Ban Rai
-7.9096|98.4025|Ban Ratsada
-13.5896|100.3873|Ban Samae Dam
-14.7422|100.0953|Ban Sam Chuk
-13.9500|101.2506|Ban Sang
-16.0167|103.9500|Ban Selaphum
-6.0724|101.8717|Ban Su-ngai Pa Di
-17.0433|99.0813|Ban Tak
-9.1042|98.6722|Ban Takhun
-13.0715|101.0031|Ban Talat Bueng
-7.8849|98.3856|Ban Talat Nua
-7.8848|98.4001|Ban Talat Yai
-14.6216|100.4874|Ban Thai Tan
-13.6375|100.4413|Ban Tha Kham
-18.6589|99.1588|Ban Thi
-14.7832|104.7188|Benchalak
-5.7743|101.0723|Betong
-19.0899|101.1895|Bo Kluea
-14.3252|99.5147|Bo Phloi
-15.9888|103.1252|Borabue
-12.5728|102.5371|Bo Rai
-13.2423|101.5086|Bo Thong
-14.4841|103.9781|Bua Chet
-15.6692|102.5176|Bua Lai
-15.5855|102.4259|Bua Yai
-15.3029|104.0617|Bueng Bun
-18.3630|103.6519|Bueng Kan
-18.0090|104.0730|Bueng Khong Long
-13.8102|100.6514|Bueng Kum
-16.1712|100.1253|Bueng Na Rang
-16.2126|99.9672|Bueng Samakkhi
-15.8165|101.0040|Bueng Sam Phan
-18.2473|103.9943|Bung Khla
-14.7050|105.4044|Buntharik
-14.9943|103.1039|Buri Ram
-12.8000|99.9667|Cha-am
-13.6882|101.0716|Chachoengsao
-18.7540|99.6682|Chae Hom
-15.2000|101.1333|Chai Badan
-8.4622|99.0763|Chai Buri
-15.1864|100.1235|Chai Nat
-19.7314|99.1400|Chai Prakan
-17.2158|103.2783|Chai Wan
-9.3863|99.1986|Chaiya
-15.8105|102.0288|Chaiyaphum
-14.6764|100.4686|Chaiyo
-14.9569|102.4372|Chakkarat
-14.5572|102.8988|Chaloem Phra Kiat
-14.7864|102.8539|Chamni
-6.8958|100.7013|Chana
-6.0459|101.6176|Chanae
-16.1621|103.6161|Changhan
-8.3570|99.6459|Chang Klang
-13.8206|100.5831|Chan Kasem
-12.6096|102.1045|Chanthaburi
-16.1255|104.9228|Chanuman
-17.6333|103.5222|Charoen Sin
-17.2761|100.6002|Chat Trakan
-13.8289|100.5637|Chatu Chak
-13.8273|100.5553|Chatuchak subdistrict
-15.8267|103.5493|Chaturaphak Phiman
-7.9565|99.9893|Cha-uat
-8.4261|99.5047|Chawang
-19.5128|98.9418|Chiang Dao
-19.5233|100.3000|Chiang Kham
-17.8244|101.7342|Chiang Khan
-20.2613|100.4046|Chiang Khong
-16.1489|103.7492|Chiang Khwan
-19.2938|100.8617|Chiang Klang
-18.7904|98.9847|Chiang Mai
-18.9038|100.3179|Chiang Muan
-19.9086|99.8325|Chiang Rai
-20.2751|100.0869|Chiang Saen
-16.4094|103.0700|Chiang Yuen
-8.1172|100.1582|Chian Yai
-6.2301|101.8472|Cho-airong
-14.7284|102.1652|Chok Chai
-13.6200|99.5917|Chom Bueng
-13.8035|100.5603|Chomphon
-15.1436|103.5788|Chom Phra
-13.6891|100.4617|Chom Thong
-13.3622|100.9835|Chon Buri
-16.1895|100.8596|Chon Daen
-13.6931|100.5487|Chong Nonsi
-16.0225|102.5595|Chonnabot
-13.8390|100.6114|Chorakhe Bua
-16.5480|103.1480|Chuen Chom
-8.0759|99.8537|Chulabhorn
-16.5443|102.0992|Chum Phae
-10.4957|99.1797|Chumphon
-15.3794|103.3709|Chumphon Buri
-15.2599|102.7576|Chum Phuang
-15.8475|100.2897|Chumsaeng
-15.6831|99.5691|Chum Ta Bong
-19.3680|100.1449|Chun
-13.5183|99.9547|Damnoen Saduak
-14.8839|99.5164|Dan Chang
-15.2085|101.7714|Dan Khun Thot
-13.8342|99.3413|Dan Makham Tia
-17.2210|101.2237|Dan Sai
-17.9837|100.0522|Den Chai
-14.9060|105.0784|Det Udom
-13.7773|100.5623|Din Daeng
-14.8333|100.1000|Doembang Nangbuat
-18.5333|98.7684|Doi Lo
-20.1450|100.1571|Doi Luang
-18.9237|99.2127|Doi Saket
-17.8970|98.6629|Doi Tao
-19.1624|99.9934|Dok Kham Tai
-16.4667|103.7167|Don Chan
-14.6480|99.9473|Don Chedi
-15.9985|100.5957|Dong Charoen
-16.7965|104.3556|Dong Luang
-15.3769|105.0211|Don Mot Daeng
-13.9260|100.5936|Don Mueang
-14.6076|100.6158|Don Phut
-9.3168|99.6918|Don Sak
-16.2880|104.8223|Don Tan
-13.9450|100.0900|Don Tum
-13.7823|100.5168|Dusit
-17.2882|101.9744|Erawan
-18.0008|100.8889|Fak Tha
-19.9169|99.2145|Fang
-18.0027|103.2964|Fao Rai
-18.9444|98.3033|Galyani Vadhana
-18.3550|99.2798|Hang Chat
-18.6870|98.9194|Hang Dong
-15.0505|99.9609|Hankha
-7.2573|99.5816|Hat Samran
-7.0084|100.4767|Hat Yai
-18.1158|98.4638|Hot
-12.5707|99.9588|Hua Hin
-15.2910|99.6166|Huai Khot
-13.7706|100.5812|Huai Khwang
-14.3406|99.6763|Huai Krachao
-16.5897|103.2355|Huai Mek
-16.6697|103.8800|Huai Phueng
-15.0090|103.2350|Huai Rat
-15.0424|102.6354|Huai Thalaeng
-15.0181|104.0387|Huai Thap Than
-7.7894|99.6347|Huai Yot
-13.7578|100.6474|Huamak
-8.0118|100.2461|Hua Sai
-15.6759|104.5270|Hua Taphan
-15.0079|100.3269|In Buri
-13.7815|100.5838|Inner Huai Khwang
-6.3792|100.9835|Kabang
-13.9511|101.7177|Kabin Buri
-16.0496|103.3895|Kae Dam
-13.0969|101.8854|Kaeng Hang Maeo
-14.5862|100.9976|Kaeng Khoi
-16.1086|102.2581|Kaeng Khro
-12.8592|99.4634|Kaeng Krachan
-15.6956|102.2537|Kaeng Sanam Nang
-16.4328|103.5066|Kalasin
-16.3384|103.5756|Kamalasai
-16.4834|99.5215|Kamphaeng Phet
-14.0282|99.9615|Kamphaeng Saen
-14.0041|99.5483|Kanchanaburi
-9.1661|99.4701|Kanchanadit
-7.4054|99.5156|Kantang
-14.6406|104.6499|Kantharalak
-15.1245|104.5732|Kanthararom
-16.2799|103.2589|Kantharawichai
-15.8505|100.0791|Kao Liao
-14.4680|103.5848|Kap Choeng
-6.6026|101.5433|Kapho
-9.5303|98.6237|Kapoe
-8.7414|98.4754|Kapong
-16.2805|101.9542|Kaset Sombun
-15.6556|103.5836|Kaset Wisai
-7.9178|98.3332|Kathu
-15.3062|103.1329|Khaen Dong
-14.8144|100.3139|Khai Bang Rachan
-16.6145|104.3593|Khamcha-i
-15.6720|104.3337|Kham Khuan Kaeo
-16.9388|103.6398|Kham Muang
-15.3322|102.1728|Kham Sakae Saeng
-17.8255|103.7860|Kham Ta Kla
-15.0364|101.9317|Kham Thale So
-13.8238|100.6765|Khan Na Yao
-9.1832|99.8019|Khanom
-16.0617|99.8606|Khanu Woralaksaburi
-7.4630|100.0905|Khao Chaison
-13.6229|102.0267|Khao Chakan
-12.9904|101.6785|Khao Chamao
-12.9373|102.0976|Khao Khitchakut
-16.6631|100.9945|Khao Kho
-8.2695|99.1181|Khao Phanom
-12.4289|102.4178|Khao Saming
-16.9168|102.7821|Khao Suan Kwang
-16.7001|104.0902|Khao Wong
-13.2402|99.8243|Khao Yoi
-15.9711|105.1517|Khemmarat
-13.7928|100.5830|Khetsamsenok
-8.7277|99.1324|Khian Sa
-16.8333|99.8000|Khiri Mat
-9.0059|98.9440|Khiri Rat Nikhom
-13.7813|100.6451|Khlong Chan
-13.4740|102.2760|Khlong Hat
-6.8662|100.3535|Khlong Hoi Khong
-16.2219|99.6765|Khlong Khlung
-13.7913|101.1635|Khlong Khuean
-13.7884|100.6803|Khlong Kum
-16.2599|99.2181|Khlong Lan
-14.0647|100.6458|Khlong Luang
-13.8763|100.7381|Khlong Sam Wa
-13.7260|100.5007|Khlong San
-7.9147|99.1993|Khlong Thom
-13.7181|100.5707|Khlong Toei
-11.7765|102.8857|Khlong Yai
-12.4547|102.2214|Khlung
-15.4038|100.8497|Khok Charoen
-6.7086|101.1169|Khok Pho
-16.0719|102.3843|Khok Pho Chai
-15.0430|100.7715|Khok Samrong
-17.0230|104.3035|Khok Si Suphan
-13.8739|102.6607|Khok Sung
-14.5254|102.2459|Khon Buri
-15.4331|102.2962|Khong
-16.2584|103.4817|Khong Chai
-15.4543|105.5036|Khong Chiam
-16.4467|102.8330|Khon Kaen
-15.3816|104.3411|Kho Wang
-6.7698|100.1222|Khuan Don
-6.9059|100.0418|Khuan Kalong
-7.7644|100.0435|Khuan Khanun
-7.1823|100.3740|Khuan Niang
-15.3910|104.5436|Khueang Nai
-14.7378|104.1859|Khukhan
-15.2684|103.0272|Khu Mueang
-14.5345|104.4074|Khun Han
-19.8648|100.2873|Khun Tan
-18.8264|97.9330|Khun Yuam
-9.1897|98.4081|Khura Buri
-13.6916|100.4045|Khwaeng Bang Khae
-13.7878|100.4947|Khwaeng Bang Plat
-15.0073|103.6206|Khwao Sinarin
-12.7797|101.6483|Klaeng
-13.4025|101.3880|Ko Chan
-12.0595|102.3294|Ko Chang
-12.0017|102.3727|Ko Chang Tai
-6.4877|99.2769|Koh Lipe
-10.0981|99.8381|Koh Tao
-18.1441|99.3523|Ko Kha
-11.6571|102.5669|Ko Kut
-7.5336|99.0865|Ko Lanta
-16.9311|99.9741|Kong Krailat
-7.4167|99.9572|Kong Ra
-9.7494|100.0265|Ko Pha-ngan
-16.6070|99.3479|Kosamphi Nakhon
-9.5357|99.9357|Ko Samui
-13.1639|100.8055|Ko Si Chang
-16.2486|103.0674|Kosum Phisai
-8.0655|98.5785|Ko Yao
-8.0726|98.9105|Krabi
-10.4589|98.8437|Kra Buri
-16.7067|103.0788|Kranuan
-7.6125|100.3283|Krasae Sin
-14.9417|103.3190|Krasang
-13.6533|100.2597|Krathum Baen
-15.5864|100.0182|Krok Phra
-6.3993|101.2571|Krong Pinang
-16.5410|104.0500|Kuchinarai
-12.0828|99.8543|Kui Buri
-17.1629|103.1675|Ku Kaeo
-17.1088|103.0149|Kumphawapi
-17.3540|104.2668|Kusuman
-17.0820|103.8147|Kut Bak
-17.4257|102.5669|Kut Chap
-16.0462|104.3054|Kut Chum
-15.8191|105.0407|Kut Khaopun
-16.0297|102.9506|Kut Rang
-13.0877|100.8843|Laem Chabang
-12.2203|102.3656|Laem Ngop
-12.4816|102.0738|Laem Sing
-14.3219|102.8799|Lahan Sai
-13.8821|100.5689|Lak Si
-9.7557|99.0438|Lamae
-14.7191|103.6991|Lamduan
-13.9774|100.7924|Lam Luk Ka
-18.2923|99.4928|Lampang
-18.5805|99.0075|Lamphun
-15.0169|102.8748|Lam Plai Mat
-15.3283|101.3478|Lam Sonthi
-15.2842|102.9072|Lam Thamen Chai
-8.0480|99.3354|Lam Thap
-9.9456|99.0785|Lang Suan
-6.9039|99.7984|La-Ngu
-16.6000|99.8489|Lan Krabue
-15.4529|99.5761|Lan Sak
-8.3780|99.7833|Lan Saka
-14.5949|99.6834|Lao Khwan
-15.4395|104.9166|Lao Suea Kok
-17.6574|100.0148|Lap Lae
-14.1681|100.3489|Lat Bua Luang
-13.7450|100.7922|Lat Krabang
-14.0446|100.4095|Lat Lum Kaeo
-13.8278|100.6067|Lat Phrao
-15.7510|99.7892|Lat Yao
-10.0969|98.7850|La-un
-17.7864|98.8867|Li
-17.4905|101.7275|Loei
-16.2043|104.5144|Loeng Nok Tha
-16.9721|101.2618|Lom Kao
-16.7798|101.2422|Lom Sak
-18.0742|99.8307|Long
-14.7981|100.6540|Lop Buri
-15.7078|104.7112|Lue Amnat
-19.9914|99.3398|Mae Ai
-18.6669|98.3245|Mae Chaem
-19.3460|99.8140|Mae Chai
-20.1468|99.8526|Mae Chan
-18.7134|101.1101|Mae Charim
-20.2223|99.6415|Mae Fa Luang
-19.3003|97.9685|Mae Hong Son
-6.6683|101.2315|Mae Lan
-18.4782|97.9830|Mae La Noi
-19.7722|99.7113|Mae Lao
-18.4024|99.8213|Mae Mo
-18.7350|99.3038|Mae On
-17.5045|99.0585|Mae Phrik
-15.7066|99.3483|Mae Poen
-16.9840|98.5166|Mae Ramat
-18.9414|98.8867|Mae Rim
-20.4335|99.8762|Mae Sai
-18.2647|97.7706|Mae Sariang
-16.7167|98.5667|Mae Sot
-19.6904|99.4846|Mae Suai
-19.1667|98.8333|Mae Taeng
-18.4646|99.1403|Mae Tha
-18.6746|98.6871|Mae Wang
-15.8354|99.4078|Mae Wong
-15.5127|104.2610|Maha Chana Chai
-14.5706|100.5409|Maha Rat
-16.1848|103.3007|Maha Sarakham
-6.6160|101.6786|Mai Kaen
-12.7333|102.2167|Makham
-13.7523|100.5434|Makkasan
-7.0182|99.9540|Manang
-16.2124|102.5197|Mancha Khiri
-15.3189|100.1568|Manorom
-6.7076|101.4036|Mayo
-13.8125|100.7533|Min Buri
-16.3894|104.1572|Moeiwadi
-14.7771|101.2715|Muak Lek
-14.8233|100.6756|Muang Lop Buri
-15.5264|104.7166|Muang Sam Sip
-15.8786|104.6428|Mueang Amnat Charoen
-14.5782|100.4439|Mueang Ang Thong
-18.2995|103.6402|Mueang Bueng Kan
-14.9408|103.0624|Mueang Buriram
-13.7176|101.0215|Mueang Chachoengsao
-15.1910|100.1354|Mueang Chainat
-15.1825|104.0247|Mueang Chan
-12.5954|102.1226|Mueang Chanthaburi
-18.7901|98.9687|Mueang Chiang Mai
-19.9082|99.7730|Mueang Chiang Rai
-13.3427|101.0011|Mueang Chonburi
-10.4608|99.1061|Mueang Chumphon
-16.5092|103.5498|Mueang Kalasin
-16.4325|99.4883|Mueang Kamphaeng Phet
-14.0699|99.3277|Mueang Kanchanaburi
-16.4605|102.8087|Mueang Khon Kaen
-8.1595|98.8666|Mueang Krabi
-18.3890|99.5439|Mueang Lampang
-18.5522|99.0590|Mueang Lamphun
-17.5421|101.7193|Mueang Loei
-19.2886|98.0061|Mueang Mae Hong Son
-16.1188|103.3116|Mueang Maha Sarakham
-16.5511|104.6461|Mueang Mukdahan
-14.2773|101.2338|Mueang Nakhon Nayok
-13.8194|100.0238|Mueang Nakhon Pathom
-17.3196|104.6823|Mueang Nakhon Phanom
-14.9568|102.0893|Mueang Nakhon Ratchasima
-15.7199|100.1007|Mueang Nakhon Sawan
-8.4401|99.9854|Mueang Nakhon Si Thammarat
-18.8901|100.6747|Mueang Nan
-6.3939|101.8132|Mueang Narathiwat
-17.1582|102.3986|Mueang Nong Bua Lamphu
-17.8466|102.7891|Mueang Nong Khai
-13.8607|100.5148|Mueang Nonthaburi
-18.7909|99.4541|Mueang Pan
-13.9910|100.5355|Mueang Pathum Thani
-6.8558|101.2676|Mueang Pattani
-8.4935|98.5078|Mueang Phangnga
-7.6025|100.0743|Mueang Phatthalung
-19.1486|99.8732|Mueang Phayao
-16.3821|101.1765|Mueang Phetchabun
-13.0817|99.9672|Mueang Phetchaburi
-16.4099|100.3458|Mueang Phichit
-16.8404|100.2730|Mueang Phitsanulok
-18.1226|100.2562|Mueang Phrae
-7.8561|98.3718|Mueang Phuket
-14.0933|101.3978|Mueang Prachin Buri
-11.8714|99.7356|Mueang Prachuap Khiri Khan
-9.8624|98.6223|Mueang Ranong
-13.5456|99.7768|Mueang Ratchaburi
-12.7186|101.3449|Mueang Rayong
-16.0150|103.6158|Mueang Roi Et
-13.9297|102.1063|Mueang Sa Kaeo
-17.1616|104.1052|Mueang Sakon Nakhon
-13.5686|100.6515|Mueang Samut Prakan
-13.5316|100.2533|Mueang Samut Sakhon
-13.3959|99.9993|Mueang Samut Songkhram
-14.4972|100.9383|Mueang Sara Buri
-6.6231|100.0668|Mueang Satun|Satun
-14.9024|100.3973|Mueang Sing Buri
-15.0817|104.3513|Mueang Sisaket
-7.1108|100.6081|Mueang Songkhla
-15.7862|103.7507|Mueang Suang
-17.0232|99.7786|Mueang Sukhothai
-14.4919|100.0746|Mueang Suphan Buri
-9.1013|99.3261|Mueang Surat Thani
-14.8836|103.5127|Mueang Surin
-16.8765|99.1662|Mueang Tak
-7.6094|99.6177|Mueang Trang
-12.2667|102.6094|Mueang Trat
-15.2966|104.8305|Mueang Ubon Ratchathani
-17.3909|102.7891|Mueang Udon Thani
-15.4086|100.0279|Mueang Uthai Thani
-17.6814|100.1996|Mueang Uttaradit
-6.5438|101.2511|Mueang Yala
-15.4384|102.8933|Mueang Yang
-15.8555|104.1780|Mueang Yasothon
-16.5453|104.7235|Mukdahan
-8.2698|99.5569|Na Bon
-14.5670|105.2237|Na Chaluai
-15.8018|103.0572|Na Chueak
-14.1925|101.8456|Na Di
-17.5383|101.9964|Na Duang
-15.7195|103.2300|Na Dun
-17.4394|100.9965|Na Haeo
-7.7786|98.3066|Nai Harn
-16.9574|104.4935|Na Kae
-13.8117|100.1816|Nakhon Chai Si
-14.4628|100.6083|Nakhon Luang
-14.2031|101.2150|Nakhon Nayok
-13.8196|100.0443|Nakhon Pathom
-17.4108|104.7786|Nakhon Phanom
-14.9707|102.1020|Nakhon Ratchasima
-15.7047|100.1372|Nakhon Sawan
-8.4333|99.9667|Nakhon Si Thammarat
-17.1006|100.8374|Nakhon Thai
-16.7502|104.0006|Na Khu
-17.3072|102.1889|Na Klang
-14.5551|104.8987|Nam Khun
-14.9102|104.5255|Nam Kliang
-16.8449|101.6008|Nam Nao
-6.9586|100.5568|Na Mom
-16.5699|103.7802|Na Mon
-17.7003|100.7274|Nam Pat
-16.6995|102.8812|Nam Phong
-17.7704|102.1895|Nam Som
-18.1252|100.6027|Na Muen
-14.4867|105.0027|Nam Yuen
-18.7838|100.7790|Nan
-14.6377|102.7914|Nang Rong
-18.3027|100.7239|Na Noi
-15.6957|102.9386|Na Pho
-6.4264|101.8231|Narathiwat
-15.9349|105.2845|Na Tan
-6.6385|100.6817|Na Thawi
-17.8213|104.1087|Na Thom
-17.4897|104.1006|Na Wa
-17.3429|102.0716|Na Wang
-12.7383|101.8750|Na Yai Am
-15.0414|105.0573|Na Yia
-7.5626|99.7479|Na Yong
-17.9347|102.1342|Na Yung
-18.7595|99.9530|Ngao
-16.3538|104.5586|Nikhom Kham Soi
-17.1735|103.7351|Nikhom Nam Un
-12.8449|101.1534|Nikhom Phattana
-14.9825|99.8459|Noen Kham
-16.5640|100.7100|Noen Maprang
-15.4448|102.5456|Non Daeng
-14.2201|102.6823|Non Din Daeng
-15.8646|100.5858|Nong Bua
-17.2041|102.4407|Nong Bua Lamphu
-14.7129|102.3745|Nong Bun Mak
-15.3675|99.7727|Nong Chang
-6.8436|101.1780|Nong Chik
-13.8528|100.8579|Nong Chok
-14.6888|100.6853|Nong Don
-17.3685|103.1151|Nong Han
-15.5798|104.0113|Nong Hi
-17.0809|101.8264|Nong Hin
-14.8615|102.6708|Nong Hong
-14.3406|100.8673|Nong Khae
-13.6998|100.3536|Nong Khaem
-17.8785|102.7420|Nong Khai
-15.3489|99.9471|Nong Khayang
-14.6868|102.5380|Nong Ki
-16.6500|103.3000|Nong Kung Si
-15.2337|99.8109|Nong Mamong
-15.2774|100.7041|Nong Muang
-18.2885|100.1523|Nong Muang Khai
-16.8101|102.3280|Nong Na Kham
-15.9902|101.0618|Nong Phai
-16.3036|104.2214|Nong Phok
-14.6780|99.4107|Nong Prue
-16.4917|102.4457|Nong Ruea
-14.4828|100.8046|Nong Saeng
-15.7642|102.7917|Nong Song Hong
-14.1603|100.8393|Nong Suea
-16.4476|104.3365|Nong Sung
-17.1626|102.5727|Nong Wua So
-13.1177|101.3747|Nong Yai
-13.1259|99.4688|Nong Ya Plong
-14.7764|99.8575|Nong Yasai
-14.9019|104.6956|Non Khun
-15.1911|103.9224|Non Narai
-16.9500|102.8999|Non Sa-at
-16.8687|102.5664|Non Sang
-15.9642|102.6907|Non Sila
-15.1801|102.2570|Non Sung
-14.5551|102.5834|Non Suwan
-15.1958|102.0714|Non Thai
-8.7517|99.6709|Nopphitam
-8.0714|98.9993|Nuea Khlong
-17.6984|98.3543|Om Koi
-14.0755|101.0089|Ongkharak
-7.2199|100.1308|Pa Bon
-19.5049|99.9924|Pa Daet
-19.3617|98.4397|Pai
-17.9110|101.9578|Pak Chom
-14.7080|101.4161|Pak Chong
-14.4000|102.6667|Pa Kham
-18.2774|103.3414|Pak Khat
-13.9130|100.4988|Pak Kret
-8.3511|100.2019|Pak Phanang
-7.2962|100.2954|Pak Phayun
-14.2250|101.3448|Pak Phli
-13.3876|99.6770|Pak Tho
-14.7226|102.0251|Pak Thong Chai
-7.2334|99.7949|Palian
-14.4862|100.4573|Pa Mok
-6.8121|101.5125|Panare
-19.6045|98.2056|Pang Mapha
-16.0252|99.3559|Pang Sila Thong
-7.8315|99.8745|Pa Phayom
-13.7426|100.5340|Parthum Wan
-18.5262|98.9394|Pa Sang
-10.8101|99.3394|Pathio
-15.6237|103.3873|Pathum Rat
-15.8954|104.8961|Pathum Ratchawongsa
-14.0135|100.5305|Pathum Thani
-13.7370|100.5233|Pathum Wan
-15.8442|104.3999|Pa Tio
-7.8961|98.2966|Patong
-6.8681|101.2501|Pattani
-12.9333|100.8833|Pattaya
-14.4380|100.7278|Phachi
-15.6000|100.6494|Phai Sali
-14.4574|100.3699|Phak Hai
-17.0564|102.0157|Pha Khao
-19.5745|99.7730|Phan
-15.6690|104.8568|Phana
-13.4458|101.1844|Phanat Nikhom
-17.3827|103.7515|Phang Khon
-8.4509|98.5298|Phang Nga
-17.3137|103.8979|Phanna Nikhom
-8.8225|98.7171|Phanom
-14.4275|103.3101|Phanom Dong Rak
-15.6930|104.0755|Phanom Phrai
-13.7487|101.3489|Phanom Sarakham
-14.1303|99.6986|Phanom Thuan
-13.4680|101.0953|Phan Thong
-13.7260|100.4410|Phasi Charoen
-9.8107|98.8018|Phato
-7.6179|100.0779|Phatthalung
-14.9092|101.0267|Phatthana Nikhom
-15.5163|103.1937|Phayakkhaphum Phisai
-19.8732|100.1626|Phaya Mengrai
-19.1920|99.8788|Phayao
-13.7844|100.5431|Phaya Thai
-14.9064|104.3829|Phayu
-15.4552|100.1353|Phayuha Khiri
-17.6603|102.9305|Phen
-16.4190|101.1606|Phetchabun
-13.1119|99.9447|Phetchaburi
-15.2447|105.2291|Phibun Mangsahan
-17.5263|103.0750|Phibun Rak
-17.3019|100.1128|Phichai
-16.4418|100.3488|Phichit
-15.2232|102.4947|Phimai
-8.6029|99.5953|Phipun
-16.8248|100.2586|Phitsanulok
-14.7330|103.1702|Phlapphla Chai
-16.3283|103.7703|Pho Chai
-15.8160|102.5998|Phon
-18.0797|103.6545|Phon Charoen
-17.2125|104.3070|Phon Na Kaeo
-17.9544|103.1228|Phonphisai
-15.4924|103.9414|Phon Sai
-17.4687|104.4223|Phon Sawan
-16.2901|103.9639|Phon Thong
-16.4721|98.8350|Phop Phra
-16.3129|100.1990|Pho Prathap Chang
-15.7674|105.3434|Pho Sai
-15.2337|104.0674|Pho Si Suwan
-17.8882|102.4302|Pho Tak
-16.0588|100.2458|Pho Thale
-13.6923|99.8497|Photharam
-14.6673|100.4088|Pho Thong
-18.1459|100.1410|Phrae
-14.7483|104.3626|Phrai Bueng
-13.6971|100.6123|Phra Khanong
-13.7583|100.4961|Phra Nakhon
-14.3517|100.5774|Phra Nakhon Si Ayutthaya
-16.7054|99.5370|Phran Kratai
-19.2846|99.2228|Phrao
-8.3265|99.9324|Phra Phrom
-14.7253|100.7954|Phra Phutthabat
-13.6585|100.5336|Phra Pradaeng
-8.5512|99.1052|Phrasaeng
-13.5562|100.5148|Phra Samut Chedi
-15.3511|101.9935|Phra Thong Kham
-16.3082|102.6711|Phra Yuen
-14.7833|100.4500|Phrom Buri
-8.5424|99.7923|Phrom Khiri
-17.0689|100.1535|Phrom Phiram
-19.3117|99.9661|Phu Kam Yao
-7.8906|98.3981|Phuket
-16.3765|102.1285|Phu Khiao
-16.8843|101.8847|Phu Kradueng
-17.0978|101.6441|Phu Luang
-9.0247|99.1430|Phunphin
-16.7186|101.8708|Phu Pha Man
-16.9286|103.9240|Phu Phan
-18.7803|100.8750|Phu Phiang
-17.3508|101.4133|Phu Ruea
-19.6237|100.3725|Phu Sang
-14.4887|104.1560|Phu Sing
-15.5325|102.9870|Phutthaisong
-13.8256|100.2924|Phutthamonthon
-16.6791|102.3989|Phu Wiang
-13.5638|101.3397|Plaeng Yao
-8.5409|98.8367|Plai Phraya
-17.2013|104.5467|Pla Pak
-12.9833|101.2500|Pluak Daeng
-13.7548|100.5100|Pom Prap Sattru Phai
-19.1493|100.2752|Pong
-12.9057|102.2622|Pong Nam Ron
-17.2465|102.9871|Prachak Sinlapakhom
-14.2281|101.5744|Prachantakham
-14.0499|101.3686|Prachin Buri
-14.0546|101.3726|Prachin Buri Town
-11.8210|99.7841|Prachuap Khiri Khan
-14.6059|103.1208|Prakhon Chai
-12.3849|99.9016|Pran Buri
-14.8544|104.0374|Prang Ku
-14.6260|103.4157|Prasat
-15.5591|102.6979|Prathai
-13.7173|100.6945|Pra Wet
-19.1631|101.0280|Pua
-15.8698|102.9077|Pueai Noi
-6.4898|101.4344|Raman
-6.2968|101.7284|Ra-ngae
-9.9658|98.6348|Ranong
-7.7777|100.3213|Ranot
-15.3464|104.1862|Rasi Salai
-13.6763|100.4988|Rat Burana
-13.5367|99.8171|Ratchaburi
-13.7866|101.2814|Ratchasan
-13.7603|100.5372|Ratchathewi
-7.9378|99.6677|Ratsada
-15.3378|103.9054|Rattanaburi
-18.1926|103.2376|Rattanawapi
-7.0749|100.1951|Rattaphum
-7.7797|98.3253|Rawai
-12.6809|101.2580|Rayong
-17.0508|104.6566|Renu Nakhon
-16.0567|103.6531|Roi Et
-16.2793|103.7124|Rong Kham
-18.3390|100.3174|Rong Kwang
-8.1791|99.8542|Ron Phibun
-6.3745|101.5149|Rueso
-6.5297|100.9123|Saba Yoi
-15.2383|100.8832|Sa Bot
-6.6388|100.4234|Sadao
-16.7099|103.5791|Sahatsakhan
-6.7013|101.6167|Sai Buri
-13.9073|100.6518|Sai Mai
-15.9792|104.1907|Sai Mun
-16.4396|99.8746|Sai Ngam
-14.0063|100.3107|Sai Noi
-16.3086|99.8785|Sai Thong Watthana
-14.2565|98.9337|Sai Yok
-13.8141|102.0722|Sa Kaeo
-17.6598|102.7085|Sa Khrai
-16.5072|100.5235|Sak Lek
-17.1612|104.1472|Sakon Nakhon
-7.6134|99.0365|Saladan
-16.8691|103.5224|Sam Chai
-18.9003|98.6565|Samoeng
-13.7423|100.5076|Samphanthawong
-13.7270|100.2153|Sam Phran
-12.2708|99.8720|Sam Roi Yot
-14.9853|104.7914|Samrong
-15.0398|103.9409|Samrong Thap
-13.7771|100.5508|Sam Sen Nai
-16.5621|103.0547|Sam Sung
-13.5993|100.5968|Samut Prakan
-13.5475|100.2736|Samut Sakhon
-13.4146|100.0026|Samut Songkhram
-13.6261|101.6548|Sanam Chai Khet
-14.5705|103.8391|Sangkha
-15.1555|98.4536|Sangkhla Buri
-18.0639|102.2736|Sangkhom
-18.7449|99.1195|San Kamphaeng
-15.0211|100.1704|Sankhaburi
-15.1710|103.7848|Sanom
-18.6283|98.8957|San Pa Tong
-18.9410|99.0405|San Sai
-18.9119|101.0002|Santi Suk
-14.5755|100.8439|Sao Hai
-13.7653|100.6900|Saphan Sung
-15.1487|100.2551|Sapphaya
-14.5333|100.9167|Saraburi
-18.7051|99.0299|Saraphi
-7.4796|100.4223|Sathing Phra
-13.7174|100.5300|Sathon
-13.7500|100.5168|Sathorn
-12.6664|100.9007|Sattahip
-15.2970|103.2919|Satuek
-14.7463|100.2896|Sawaeng Ha
-15.6025|99.7849|Sawang Arom
-17.4753|103.4575|Sawang Daen Din
-15.2416|105.0922|Sawang Wirawong
-17.3160|99.8319|Sawankhalok
-10.2401|99.0186|Sawi
-17.9285|103.9552|Seka
-16.0470|104.0003|Selaphum
-14.2960|100.3749|Sena
-16.0513|104.6844|Senangkhanikhom
-13.8366|100.5773|Sena Nikhom
-7.6926|99.8732|Si Banphot
-16.9671|102.2761|Si Bun Rueang
-17.9564|102.5867|Si Chiang Mai
-16.7626|102.1308|Si Chom Phu
-8.9498|99.8132|Sichon
-15.5641|102.5582|Sida
-7.5712|99.3392|Sikao
-14.9428|101.6067|Sikhio
-14.9475|103.7831|Si Khoraphum
-15.4807|104.0948|Sila Lat
-13.8904|101.5418|Si Maha Phot
-13.8767|101.4250|Si Mahosot
-15.5630|105.3483|Si Mueang Mai
-17.3927|99.9767|Si Nakhon
-14.7808|103.8865|Si Narong
-14.8879|100.4046|Sing Buri
-7.2845|100.4881|Singhanakhon
-14.6381|100.1505|Si Prachan
-13.1737|100.9311|Si Racha
-14.8106|104.4763|Si Rattana
-15.1125|105.4284|Sirindhorn
-15.1148|104.3294|Si Sa Ket
-6.1936|101.5126|Si Sakhon
-17.1640|99.7467|Si Samrong
-17.5169|99.7598|Si Satchanalai
-14.6725|99.1299|Si Sawat
-16.0195|103.5143|Si Somdet
-17.6299|104.2450|Si Songkhram
-17.0339|103.2308|Si That
-15.4425|101.1477|Si Thep
-18.1553|103.7798|Si Wilai
-18.0941|99.1730|Soem Ngam
-14.4264|102.4606|Soeng Sang
-13.1703|102.2280|Soi Dao
-16.7697|103.7501|Somdet
-18.5701|100.2291|Song
-17.3088|103.4499|Song Dao
-7.1988|100.5951|Songkhla
-19.4091|100.6617|Song Khwae
-14.1890|99.9758|Song Phi Nong
-18.1418|103.4492|So Phisai
-17.9633|97.9315|Sop Moei
-17.8986|99.3408|Sop Prap
-7.5757|99.9105|Srinagarindra
-13.7299|100.6268|Suanluang
-13.5636|99.3113|Suan Phueng
-5.9151|101.7381|Sukhirin
-17.0078|99.8230|Sukhothai
-9.4157|98.4912|Suk Samran
-6.0298|101.9659|Su-ngai Kolok
-6.1043|101.8933|Su-ngai Padi
-18.0354|100.1254|Sung Men
-14.8992|101.8208|Sung Noen
-14.4742|100.1222|Suphan Buri
-9.1401|99.3331|Surat Thani
-14.8818|103.4936|Surin
-17.5461|102.2485|Suwannakhuha
-15.6035|103.8021|Suwannaphum
-16.8697|99.1290|Tak
-6.2595|102.0546|Tak Bai
-15.3825|100.4669|Tak Fa
-15.2634|100.3438|Takhli
-8.8688|98.3389|Takua Pa
-8.2843|98.3895|Takua Thung
-13.7727|100.4329|Taling Chan
-7.2878|100.0436|Tamot
-15.3903|105.1627|Tan Sum
-16.9402|104.1586|Tao Ngoi
-16.2209|100.4198|Taphan Hin
-14.0627|102.7260|Ta Phraya
-17.8500|102.5814|Tha Bo
-9.6114|99.0361|Tha Chana
-14.7794|100.3935|Tha Chang
-16.0794|104.4278|Thai Charoen
-8.4900|98.3129|Thai Mueang
-9.1107|99.2321|Tha Kham
-9.0302|98.9529|Tha Khanon
-16.8833|103.2500|Tha Khantho
-8.0341|98.3340|Thalang
-17.6128|101.4414|Tha Li
-15.0479|101.1999|Tha Luang
-12.6214|102.0048|Tha Mai
-13.9000|99.7667|Tha Maka
-14.0560|101.3722|Thambon Na Mueang
-8.4205|99.3952|Tham Phannara
-13.9612|99.6412|Tha Muang
-6.0804|101.2594|Than To
-14.0285|100.7629|Thanyaburi
-6.7954|99.9198|Tha Phae
-16.1600|100.5966|Thap Khlo
-17.8587|100.4706|Tha Pla
-8.5377|98.6321|Thap Put
-11.5479|99.5716|Thap Sakae
-15.4606|99.8917|Thap Than
-13.8685|100.6453|Tha Raeng
-14.5674|100.7260|Tha Ruea
-10.7686|99.0988|Tha Sae
-8.6937|99.8854|Tha Sala
-17.4748|98.1208|Tha Song Yang
-13.3951|101.7346|Tha Takiap
-15.6543|100.4594|Tha Tako
-16.9364|104.7104|That Phanom
-15.3094|103.6511|Tha Tum
-17.5926|104.4988|Tha Uthen
-19.1315|100.7612|Tha Wang Pha
-16.0278|103.7783|Thawatchaburi
-13.7764|100.3662|Thawi Watthana
-14.8251|100.5092|Tha Wung
-12.9577|99.9056|Tha Yang
-6.7973|100.9103|Thepha
-15.2864|101.5037|Thepharak
-17.6129|99.2161|Thoen
-19.6765|100.2010|Thoeng
-13.7187|100.4837|Thon buri
-14.8328|98.6923|Thong Pha Phum
-17.4993|100.3966|Thong Saen Khan
-19.4634|100.9194|Thung Chang
-17.4906|103.2209|Thung Fon
-17.9833|99.0500|Thung Hua Chang
-15.9897|103.8709|Thung Khao Luang
-13.6339|100.4964|Thung khru
-17.3708|99.5526|Thung Saliam
-14.7394|104.9173|Thung Si Udom
-8.1645|99.6804|Thung Song
-10.0922|99.0534|Thung Tako
-7.0492|99.7659|Thung Wa
-8.2871|99.3720|Thung Yai
-6.6416|101.4465|Thung Yang Daeng
-15.6136|105.0644|Trakan Phuet Phon
-7.5563|99.6114|Trang
-12.2436|102.5151|Trat
-17.4723|100.1347|Tron
-16.7777|102.6754|Ubolratana
-15.2384|104.8487|Ubon Ratchathani
-17.4157|102.7859|Udon Thani
-15.7950|98.8779|Umphang
-14.3532|100.6964|Uthai
-15.3794|100.0245|Uthai Thani
-14.4109|99.8895|U Thong
-15.1230|104.1600|Uthumphon Phisai
-17.6256|100.0942|Uttaradit
-13.7350|100.5828|Vadhana
-16.5167|100.1167|Wachira Barami
-5.9004|101.8619|Waeng
-15.8063|102.4236|Waeng Noi
-15.9253|102.4622|Waeng Yai
-12.9625|101.5153|Wang Chan
-16.6331|99.1483|Wang Chao
-17.8667|99.6499|Wang Chin
-14.9613|104.2193|Wang Hin
-14.8229|101.1335|Wang Muang
-14.4479|101.8553|Wang Nam Khiao
-13.5032|102.1812|Wang Nam Yen
-14.2269|100.7155|Wang Noi
-19.1468|99.6193|Wang Nuea
-16.3505|100.8077|Wang Pong
-16.3885|100.5380|Wang Sai Phun
-17.0460|103.4626|Wang Sam Mo
-17.3010|101.7685|Wang Saphung
-13.3611|102.1249|Wang Sombun
-16.8500|100.5833|Wang Thong
-13.7819|100.6080|Wang Thong Lang
-7.7606|99.4086|Wang Wiset
-17.0719|104.4537|Wangyang
-17.6152|103.7654|Wanon Niwat
-16.7203|104.7287|Wan Yai
-15.8452|103.3768|Wapi Pathum
-17.2941|103.6382|Warichaphum
-15.1932|104.8628|Warin Chamrap
-17.2569|103.6228|Waritchaphum
-17.1638|100.3630|Wat Bot
-13.4471|99.8696|Wat Phleng
-15.2157|99.9668|Wat Sing
-13.7298|100.5854|Watthana
-13.8858|102.3565|Watthana Nakhon
-13.7346|100.4761|Wat Tha Phra
-19.8636|100.0006|Wiang Chai
-20.0221|100.0747|Wiang Chiang Rung
-19.5919|98.6585|Wiang Haeng
-20.0087|100.4864|Wiang Kaen
-16.7014|102.2919|Wiang Kao
-18.4184|98.7586|Wiang Nong Long
-19.3046|99.4493|Wiang Pa Pao
-8.6358|99.3666|Wiang Sa
-15.6578|101.1060|Wichian Buri
-7.8894|98.3852|Wichit
-14.3344|100.9646|Wihan Daeng
-9.2197|98.8703|Wiphawadi
-14.5945|100.3383|Wiset Chaichan
-13.8167|100.5159|Wong Sawang
-6.4053|101.1268|Yaha
-6.5400|101.2813|Yala
-15.2369|104.3908|Yang Chum Noi
-15.6495|103.0892|Yang Si Surat
-16.3998|103.3679|Yang Talat
-13.6918|100.5395|Yan na wa
-7.4258|99.7344|Yan Ta Khao
-6.6924|101.3141|Yarang
-6.8662|101.3689|Yaring
-15.7941|104.1451|Yasothon
-6.4165|101.7004|Yi-ngo
+17.6359|103.9759|Akat Amnuai|Sakon Nakhon|0|
+15.8585|104.6288|Amnat Charoen|Amnat Charoen|34769|
+13.3672|99.9123|Amphawa|Samut Songkhram|0|
+8.3853|98.7538|Amphoe Ao Luek|Krabi|0|
+13.6909|102.4769|Amphoe Aranyaprathet|Sa Kaeo|0|
+13.2528|101.1815|Amphoe Ban Bueng|Chon Buri|0|
+12.7323|101.0488|Amphoe Ban Chang|Rayong|0|
+17.0528|99.4915|Amphoe Ban Dan Lan Hoi|Sukhothai|0|
+17.7113|103.2673|Amphoe Ban Dung|Udon Thani|0|
+14.3833|100.4667|Amphoe Bang Ban|Phra Nakhon Si Ayutthaya|0|
+13.5896|100.8671|Amphoe Bang Bo|Samut Prakan|0|
+13.9264|100.3936|Amphoe Bang Bua Thong|Nonthaburi|0|
+13.7419|101.2075|Amphoe Bang Khla|Chachoengsao|0|
+16.5932|100.3504|Amphoe Bang Krathum|Phitsanulok|0|
+13.8025|100.4153|Amphoe Bang Kruai|Nonthaburi|0|
+14.0500|100.1833|Amphoe Bang Len|Nakhon Pathom|0|
+16.0266|100.4319|Amphoe Bang Mun Nak|Phichit|0|
+13.8803|101.0323|Amphoe Bang Nam Priao|Chachoengsao|0|
+14.2348|100.5941|Amphoe Bang Pa-in|Phra Nakhon Si Ayutthaya|0|
+13.5324|100.9604|Amphoe Bang Pakong|Chachoengsao|0|
+13.6833|99.9833|Amphoe Bang Phae|Ratchaburi|0|
+16.7184|100.0422|Amphoe Bang Rakam|Phitsanulok|0|
+11.2940|99.4441|Amphoe Bang Saphan|Prachuap Khiri Khan|0|
+13.8538|100.3732|Amphoe Bang Yai|Nonthaburi|0|
+14.6080|100.7240|Amphoe Ban Mo|Saraburi|0|
+8.8006|99.4020|Amphoe Ban Na San|Surat Thani|0|
+13.5875|100.1179|Amphoe Ban Phaeo|Samut Sakhon|0|
+16.0460|102.7776|Amphoe Ban Phai|Khon Kaen|0|
+13.8166|99.8215|Amphoe Ban Pong|Ratchaburi|0|
+17.0916|99.0665|Amphoe Ban Tak|Tak|0|
+5.8636|101.2274|Amphoe Betong|Yala|0|
+14.3872|99.4499|Amphoe Bo Phloi|Kanchanaburi|0|
+12.5582|102.5657|Amphoe Bo Rai|Trat|0|
+15.5849|102.3874|Amphoe Bua Yai|Nakhon Ratchasima|0|
+16.1864|100.1429|Amphoe Bueng Na Rang|Phichit|0|
+12.7537|99.8983|Amphoe Cha-am|Phetchaburi|0|
+15.1894|101.1268|Amphoe Chai Badan|Lop Buri|0|
+8.4388|99.0772|Amphoe Chai Buri|Surat Thani|0|
+19.6740|99.1748|Amphoe Chai Prakan|Chiang Mai|0|
+9.4914|98.9957|Amphoe Chaiya|Surat Thani|0|
+14.6723|100.4679|Amphoe Chaiyo|Ang Thong|0|
+17.3936|100.6846|Amphoe Chat Trakan|Phitsanulok|0|
+8.4632|99.5111|Amphoe Chawang|Nakhon Si Thammarat|0|
+19.4706|100.3387|Amphoe Chiang Kham|Phayao|0|
+20.1359|100.3653|Amphoe Chiang Khong|Chiang Rai|0|
+19.3064|100.8788|Amphoe Chiang Klang|Nan|0|
+20.2357|100.1554|Amphoe Chiang Saen|Chiang Rai|0|
+14.7634|102.2034|Amphoe Chok Chai|Nakhon Ratchasima|0|
+13.6252|99.5187|Amphoe Chom Bueng|Ratchaburi|0|
+18.3924|98.5976|Amphoe Chom Thong|Chiang Mai|0|
+16.1074|100.8357|Amphoe Chon Daen|Phetchabun|0|
+16.6159|102.0962|Amphoe Chum Phae|Khon Kaen|0|
+13.5654|99.9704|Amphoe Damnoen Saduak|Ratchaburi|0|
+15.2183|101.6979|Amphoe Dan Khun Thot|Nakhon Ratchasima|0|
+17.9167|100.0333|Amphoe Den Chai|Phrae|0|
+14.8515|105.0751|Amphoe Det Udom|Ubon Ratchathani|0|
+14.8739|100.0467|Amphoe Doembang Nangbuat|Suphan Buri|0|
+19.1081|100.0566|Amphoe Dok Kham Tai|Phayao|0|
+9.2106|99.6889|Amphoe Don Sak|Surat Thani|0|
+19.8755|99.1634|Amphoe Fang|Chiang Mai|0|
+18.7387|98.8844|Amphoe Hang Dong|Chiang Mai|0|
+6.9809|100.4654|Amphoe Hat Yai|Songkhla|0|
+12.5352|99.7037|Amphoe Hua Hin|Prachuap Khiri Khan|0|
+15.3276|99.5194|Amphoe Huai Khot|Uthai Thani|0|
+16.5887|103.2410|Amphoe Huai Mek|Kalasin|0|
+7.8006|99.6050|Amphoe Huai Yot|Trang|0|
+15.0206|100.3487|Amphoe In Buri|Sing Buri|0|
+13.9000|101.8000|Amphoe Kabin Buri|Prachin Buri|0|
+14.5817|101.0530|Amphoe Kaeng Khoi|Saraburi|0|
+16.2800|103.6001|Amphoe Kamalasai|Kalasin|0|
+9.0726|99.5439|Amphoe Kanchanadit|Surat Thani|0|
+7.3856|99.4706|Amphoe Kantang|Trang|0|
+14.5680|104.6708|Amphoe Kantharalak|Si Sa Ket|0|
+15.8878|100.0965|Amphoe Kao Liao|Nakhon Sawan|0|
+15.6029|103.5665|Amphoe Kaset Wisai|Roi Et|0|
+7.9146|98.3333|Amphoe Kathu|Phuket|0|
+15.3804|102.1664|Amphoe Kham Sakae Saeng|Nakhon Ratchasima|0|
+16.0023|99.6762|Amphoe Khanu Woralaksaburi|Kamphaeng Phet|0|
+16.6796|104.1003|Amphoe Khao Wong|Kalasin|0|
+13.2424|99.8075|Amphoe Khao Yoi|Phetchaburi|0|
+16.8292|99.7398|Amphoe Khiri Mat|Sukhothai|0|
+13.7796|101.1563|Amphoe Khlong Khuean|Chachoengsao|0|
+14.0932|100.6811|Amphoe Khlong Luang|Pathum Thani|0|
+11.8554|102.8260|Amphoe Khlong Yai|Trat|0|
+12.5725|102.3078|Amphoe Khlung|Chanthaburi|0|
+14.3763|102.2175|Amphoe Khon Buri|Nakhon Ratchasima|0|
+12.7718|101.6567|Amphoe Klaeng|Rayong|0|
+7.7127|99.0781|Amphoe Ko Lanta|Krabi|0|
+9.5084|99.9964|Amphoe Ko Samui|Surat Thani|0|
+13.1529|100.8116|Amphoe Ko Si Chang|Chon Buri|0|
+16.2388|102.9908|Amphoe Kosum Phisai|Maha Sarakham|0|
+16.7526|103.0804|Amphoe Kranuan|Khon Kaen|0|
+13.6557|100.2728|Amphoe Krathum Baen|Samut Sakhon|0|
+16.5198|104.0510|Amphoe Kuchinarai|Kalasin|0|
+12.1131|99.7546|Amphoe Kui Buri|Prachuap Khiri Khan|0|
+17.0921|102.9939|Amphoe Kumphawapi|Udon Thani|0|
+17.4401|102.5408|Amphoe Kut Chap|Udon Thani|0|
+12.4569|102.1426|Amphoe Laem Sing|Chanthaburi|0|
+9.9339|99.0529|Amphoe Lang Suan|Chumphon|0|
+16.6035|99.8652|Amphoe Lan Krabue|Kamphaeng Phet|0|
+15.5229|99.4611|Amphoe Lan Sak|Uthai Thani|0|
+15.7753|99.8005|Amphoe Lat Yao|Nakhon Sawan|0|
+16.7284|101.3114|Amphoe Lom Sak|Phetchabun|0|
+18.1426|99.9090|Amphoe Long|Phrae|0|
+19.3792|99.8014|Amphoe Mae Chai|Phayao|0|
+20.1991|99.8847|Amphoe Mae Chan|Chiang Rai|0|
+17.1118|98.5863|Amphoe Mae Ramat|Tak|0|
+20.3650|99.9260|Amphoe Mae Sai|Chiang Rai|0|
+16.7215|98.7107|Amphoe Mae Sot|Tak|0|
+18.1112|99.5783|Amphoe Mae Tha|Lampang|0|
+18.3954|99.0923|Amphoe Mae Tha|Lamphun|0|
+16.3715|104.1114|Amphoe Moeiwadi|Roi Et|0|
+13.8558|100.4926|Amphoe Mueang Nonthaburi|Nonthaburi|0|
+14.4670|100.6257|Amphoe Nakhon Luang|Phra Nakhon Si Ayutthaya|0|
+17.0943|100.8644|Amphoe Nakhon Thai|Phitsanulok|0|
+17.3247|102.2146|Amphoe Na Klang|Nong Bua Lam Phu|0|
+6.9599|100.5716|Amphoe Na Mom|Songkhla|0|
+17.7434|102.1733|Amphoe Nam Som|Udon Thani|0|
+14.6333|102.7667|Amphoe Nang Rong|Buri Ram|0|
+17.4992|104.1183|Amphoe Na Wa|Nakhon Phanom|0|
+15.8659|100.6286|Amphoe Nong Bua|Nakhon Sawan|0|
+6.8001|101.1706|Amphoe Nong Chik|Pattani|0|
+14.3812|100.8645|Amphoe Nong Khae|Saraburi|0|
+14.7270|102.5580|Amphoe Nong Ki|Buri Ram|0|
+16.7193|103.3192|Amphoe Nong Kung Si|Kalasin|0|
+16.0116|101.1504|Amphoe Nong Phai|Phetchabun|0|
+17.1869|102.5899|Amphoe Nong Wua So|Udon Thani|0|
+16.9022|102.5308|Amphoe Non Sang|Nong Bua Lam Phu|0|
+15.2089|102.2840|Amphoe Non Sung|Nakhon Ratchasima|0|
+15.1811|102.0300|Amphoe Non Thai|Nakhon Ratchasima|0|
+8.0606|99.0404|Amphoe Nuea Khlong|Krabi|0|
+19.5064|99.9762|Amphoe Pa Daet|Chiang Rai|0|
+14.6192|101.4481|Amphoe Pak Chong|Nakhon Ratchasima|0|
+13.9163|100.5040|Amphoe Pak Kret|Nonthaburi|0|
+8.3071|100.1736|Amphoe Pak Phanang|Nakhon Si Thammarat|0|
+14.6623|101.9423|Amphoe Pak Thong Chai|Nakhon Ratchasima|0|
+18.4140|98.8828|Amphoe Pa Sang|Lamphun|0|
+15.5872|100.6853|Amphoe Phai Sali|Nakhon Sawan|0|
+14.4507|100.3395|Amphoe Phak Hai|Phra Nakhon Si Ayutthaya|0|
+13.4643|101.2143|Amphoe Phanat Nikhom|Chon Buri|0|
+13.7381|101.4120|Amphoe Phanom Sarakham|Chachoengsao|0|
+14.1594|99.6690|Amphoe Phanom Thuan|Kanchanaburi|0|
+13.4630|101.0913|Amphoe Phan Thong|Chon Buri|0|
+15.5196|103.2327|Amphoe Phayakkhaphum Phisai|Maha Sarakham|0|
+15.5078|100.2123|Amphoe Phayuha Khiri|Nakhon Sawan|0|
+15.1459|105.2409|Amphoe Phibun Mangsahan|Ubon Ratchathani|0|
+15.2462|102.5422|Amphoe Phimai|Nakhon Ratchasima|0|
+16.3097|103.7900|Amphoe Pho Chai|Roi Et|0|
+15.8067|102.5911|Amphoe Phon|Khon Kaen|0|
+13.7071|99.7562|Amphoe Photharam|Ratchaburi|0|
+14.6734|100.3457|Amphoe Pho Thong|Ang Thong|0|
+14.7799|104.3660|Amphoe Phrai Bueng|Si Sa Ket|0|
+14.3517|100.5672|Amphoe Phra Nakhon Si Ayutthaya|Phra Nakhon Si Ayutthaya|0|
+14.7191|100.8062|Amphoe Phra Phutthabat|Saraburi|0|
+13.6525|100.5527|Amphoe Phra Pradaeng|Samut Prakan|0|
+16.9019|101.8456|Amphoe Phu Kradueng|Loei|0|
+19.1850|100.3878|Amphoe Pong|Phayao|0|
+12.9347|102.3719|Amphoe Pong Nam Ron|Chanthaburi|0|
+14.6104|103.0605|Amphoe Prakhon Chai|Buri Ram|0|
+12.3904|99.6969|Amphoe Pran Buri|Prachuap Khiri Khan|0|
+15.8887|102.8762|Amphoe Pueai Noi|Khon Kaen|0|
+6.2550|101.7050|Amphoe Ra-ngae|Narathiwat|0|
+7.8139|100.2832|Amphoe Ranot|Songkhla|0|
+18.3261|100.3942|Amphoe Rong Kwang|Phrae|0|
+8.1800|99.8925|Amphoe Ron Phibun|Nakhon Si Thammarat|0|
+6.6714|100.4241|Amphoe Sadao|Songkhla|0|
+6.7000|101.5833|Amphoe Sai Buri|Pattani|0|
+13.7203|100.2107|Amphoe Sam Phran|Nakhon Pathom|0|
+12.2559|99.7401|Amphoe Sam Roi Yot|Prachuap Khiri Khan|0|
+15.1934|98.5279|Amphoe Sangkhla Buri|Kanchanaburi|0|
+18.0539|102.2268|Amphoe Sangkhom|Nong Khai|0|
+18.7350|99.1861|Amphoe San Kamphaeng|Chiang Mai|0|
+18.6057|98.8853|Amphoe San Pa Tong|Chiang Mai|0|
+12.7174|100.9275|Amphoe Sattahip|Chon Buri|0|
+15.2270|103.3301|Amphoe Satuek|Buri Ram|0|
+17.4559|103.4495|Amphoe Sawang Daen Din|Sakon Nakhon|0|
+15.2344|105.0760|Amphoe Sawang Wirawong|Ubon Ratchathani|0|
+17.2990|99.8540|Amphoe Sawankhalok|Sukhothai|0|
+17.9873|103.8962|Amphoe Seka|Bueng Kan|0|
+16.9977|102.2253|Amphoe Si Bun Rueang|Nong Bua Lam Phu|0|
+17.9357|102.5031|Amphoe Si Chiang Mai|Nong Khai|0|
+13.1298|101.0401|Amphoe Si Racha|Chon Buri|0|
+17.5993|99.7059|Amphoe Si Satchanalai|Sukhothai|0|
+14.3446|102.4930|Amphoe Soeng Sang|Nakhon Ratchasima|0|
+6.0767|101.9982|Amphoe Su-ngai Kolok|Narathiwat|0|
+14.8562|101.8305|Amphoe Sung Noen|Nakhon Ratchasima|0|
+15.6053|103.8063|Amphoe Suwannaphum|Roi Et|0|
+6.2375|102.0024|Amphoe Tak Bai|Narathiwat|0|
+15.2593|100.3806|Amphoe Takhli|Nakhon Sawan|0|
+16.2110|100.4174|Amphoe Taphan Hin|Phichit|0|
+17.7950|102.5661|Amphoe Tha Bo|Nong Khai|0|
+12.7385|101.9770|Amphoe Tha Mai|Chanthaburi|0|
+13.9466|99.7790|Amphoe Tha Maka|Kanchanaburi|0|
+8.4582|99.3772|Amphoe Tham Phannara|Nakhon Si Thammarat|0|
+13.9095|99.6154|Amphoe Tha Muang|Kanchanaburi|0|
+16.1917|100.6008|Amphoe Thap Khlo|Phichit|0|
+15.4906|99.8222|Amphoe Thap Than|Uthai Thani|0|
+14.5359|100.7127|Amphoe Tha Ruea|Phra Nakhon Si Ayutthaya|0|
+16.9646|104.7028|Amphoe That Phanom|Nakhon Phanom|0|
+12.8174|99.7874|Amphoe Tha Yang|Phetchaburi|0|
+17.5813|99.2884|Amphoe Thoen|Lampang|0|
+8.1176|99.6691|Amphoe Thung Song|Nakhon Si Thammarat|0|
+13.5190|102.0872|Amphoe Wang Nam Yen|Sa Kaeo|0|
+14.2435|100.7250|Amphoe Wang Noi|Phra Nakhon Si Ayutthaya|0|
+19.1601|99.6477|Amphoe Wang Nuea|Lampang|0|
+16.3792|100.5367|Amphoe Wang Sai Phun|Phichit|0|
+17.2803|101.7334|Amphoe Wang Saphung|Loei|0|
+15.8595|103.3409|Amphoe Wapi Pathum|Maha Sarakham|0|
+15.1239|104.8750|Amphoe Warin Chamrap|Ubon Ratchathani|0|
+18.5509|100.7275|Amphoe Wiang Sa|Nan|0|
+8.5981|99.3528|Amphoe Wiang Sa|Surat Thani|0|
+15.6500|101.1000|Amphoe Wichian Buri|Phetchabun|0|
+16.4396|103.3409|Amphoe Yang Talat|Kalasin|0|
+6.8351|101.3907|Amphoe Yaring|Pattani|0|
+14.5884|100.4528|Ang Thong|Ang Thong|13738|
+13.8947|100.6142|Anusawari|Bangkok|94550|
+8.3780|98.7212|Ao Luek|Krabi|9628|
+13.6928|102.5013|Aranyaprathet|Sa Kaeo|20236|
+13.7669|100.4826|Arun Amarin|Bangkok|19882|
+15.8401|103.8662|At Samat|Roi Et|0|
+6.5459|101.6492|Ba Cho|Narathiwat|0|
+15.5019|101.6898|Bamnet Narong|Chaiyaphum|14890|
+13.3396|100.9296|Ban Ang Sila|Chon Buri|36055|
+8.0458|98.8103|Ban Ao Nang|Phangnga|8000|
+16.8255|100.2849|Ban Aranyik|Phitsanulok|30508|
+13.7833|100.4833|Ban Bang Bamru|Bangkok|18514|
+13.9990|100.5496|Ban Bang Kadi Pathum Thani|Phra Nakhon Si Ayutthaya|27911|Ban Bang Kadi
+13.3110|101.1121|Ban Bueng|Chon Buri|23509|
+7.8447|98.3390|Ban Chalong|Phuket|18072|
+12.7254|101.0553|Ban Chang|Rayong|28204|
+13.7508|100.4770|Ban Chang Lo|Bangkok|29122|
+15.1236|103.1894|Ban Dan|Buri Ram|0|
+17.0068|99.5750|Ban Dan Lan Hoi|Sukhothai|5791|
+17.6990|103.2596|Ban Dung|Udon Thani|19479|
+16.4916|102.6167|Ban Fang|Khon Kaen|0|
+14.3740|100.4853|Bang Ban|Phra Nakhon Si Ayutthaya|16588|
+13.5833|100.8167|Bang Bo District|Samut Prakan|28376|
+13.6592|100.3880|Bang Bon|Bangkok|105161|
+13.6529|100.3587|Bang Bon Nuea|Bangkok|22619|
+13.6472|100.3714|Bangbontai|Bangkok|24860|
+13.9178|100.4240|Bang Bua Thong|Nonthaburi|41567|
+7.4177|100.1716|Bang Kaeo|Phatthalung|0|
+13.7726|100.6385|Bang Kapi|Bangkok|147800|
+13.7193|100.3928|Bang Khae|Bangkok|193002|
+13.7055|100.3893|Bang Khae Nuea|Bangkok|59821|
+8.0121|99.4845|Bang Khan|Nakhon Si Thammarat|0|
+13.8690|100.6277|Bang Khen|Bangkok|0|
+13.7214|101.2081|Bang Khla|Chachoengsao|13528|
+13.6989|100.5124|Bang Khlo|Bangkok|35838|
+13.6928|100.5014|Bang Kho Laem|Bangkok|22697|
+13.6934|100.5022|Bang Kho Laem subdistrict|Bangkok|22697|
+13.7003|100.5097|Bang Kho laen|Bangkok|0|
+13.4745|99.9484|Bang Khonthi|Samut Songkhram|0|
+13.7506|100.4702|Bang Khun Si|Bangkok|31689|
+13.5948|100.4269|Bang Khun thain|Bangkok|0|
+13.6630|100.4342|Bang Khun Thian|Bangkok|165491|
+7.0640|100.4066|Bang Klam|Songkhla|0|
+13.7540|100.5014|Bangkok|Bangkok|5104476|
+13.7655|100.4699|Bangkok Noi|Bangkok|117793|
+13.7549|100.5172|Bangkok Riverside|Bangkok|48227|
+13.7375|100.4743|Bangkok Yai|Bangkok|72321|
+16.5783|100.3003|Bang Krathum|Phitsanulok|18874|
+13.8050|100.4728|Bang Kruai|Nonthaburi|78305|
+13.0470|100.9289|Bang Lamung|Chon Buri|39620|
+12.9258|100.8924|Bang Lamung District|Chon Buri|0|
+14.0219|100.1718|Bang Len|Nakhon Pathom|17914|
+16.0278|100.3792|Bang Mun Nak|Phichit|15616|
+13.6725|100.6209|Bang Na|Bangkok|95912|
+13.8474|101.0531|Bang Nam Priao|Chachoengsao|8642|
+13.8358|100.4600|Bang O|Nonthaburi|24225|
+14.4717|100.5473|Bang Pahan|Phra Nakhon Si Ayutthaya|0|
+14.2278|100.5759|Bang Pa-in|Phra Nakhon Si Ayutthaya|20484|
+13.5430|100.9933|Bang Pakong|Chachoengsao|25620|
+13.6916|99.9298|Bang Phae|Ratchaburi|29548|
+13.7067|100.3867|Bang Phai|Bangkok|40277|
+13.7867|100.4915|Bang Phlat|Bangkok|92325|
+13.6197|100.7258|Bang Phli|Samut Prakan|0|
+14.3498|100.1448|Bang Pla Ma|Suphan Buri|0|
+14.8920|100.3173|Bang Racham|Sing Buri|15313|
+14.8996|100.2780|Bang Rachan|Sing Buri|0|
+13.7306|100.5239|Bang Rak|Bangkok|99273|
+16.7585|100.1174|Bang Rakam|Phitsanulok|16841|
+14.2104|100.4942|Bang Sai|Phra Nakhon Si Ayutthaya|0|
+13.6329|100.8104|Bang Sao Thong|Samut Prakan|0|
+11.2126|99.5117|Bang Saphan|Prachuap Khiri Khan|15134|
+11.0706|99.3410|Bang Saphan Noi|Prachuap Khiri Khan|0|
+13.8192|100.5279|Bang Sue|Bangkok|125440|
+13.8064|100.5306|Bang Sue subdistrict|Bangkok|79405|
+13.8434|100.3625|Bang Yai|Nonthaburi|14012|
+13.7633|100.4898|Bang Yi Khan|Bangkok|24745|
+16.2007|102.7746|Ban Haet|Khon Kaen|0|
+18.2742|98.8379|Ban Hong|Lamphun|0|
+14.9833|102.6500|Ban Huai Thalaeng|Nakhon Ratchasima|15352|
+13.7106|99.8962|Ban I Chang|Ratchaburi|119858|
+7.9551|98.2832|Ban Kamala|Phuket|22296|
+7.8477|98.2985|Ban Karon|Phuket|7094|
+7.8213|98.3070|Ban Kata|Phuket|5000|
+13.3237|99.3732|Ban Kha|Ratchaburi|0|
+12.8383|101.3421|Ban Khai|Rayong|0|
+8.6150|98.2399|Ban Khao Lak|Phangnga|1700|
+13.6361|100.3775|Ban Khlong Bang Bon|Bangkok|24008|
+13.6631|100.3878|Ban Khlong Bang Phran|Bangkok|32286|
+13.7667|100.4333|Ban Khlong Bang Ramat|Bangkok|19783|
+13.6417|100.8327|Ban Khlong Bang Sao Thong|Samut Prakan|31153|
+13.7190|100.6815|Ban Khlong Prawet|Bangkok|160671|
+18.1468|101.0661|Ban Khok|Uttaradit|0|
+7.9360|98.3966|Ban Ko Kaeo|Phuket|10136|
+12.9242|100.7879|Ban Ko Lan|Chon Buri|2000|
+7.8875|98.4257|Ban Ko Sire|Phuket|71284|
+14.3920|103.1149|Ban Kruat|Buri Ram|0|
+13.1697|99.9877|Ban Laem|Phetchaburi|0|
+13.6893|100.3981|Ban Lak Song|Bangkok|52144|
+13.9774|100.7778|Ban Lam Luk Ka|Pathum Thani|60700|
+13.0453|99.8379|Ban Lat|Phetchaburi|0|
+18.8837|100.4601|Ban Luang|Nan|0|
+15.5743|102.1420|Ban Lueam|Nakhon Ratchasima|0|
+7.2041|100.5451|Ban Mai|Songkhla|86899|
+15.5786|102.8439|Ban Mai Chaiyaphot|Buri Ram|0|
+8.1271|98.3074|Ban Mai Khao|Phuket|5000|
+15.0615|100.5520|Ban Mi|Lop Buri|0|
+14.6154|100.7273|Ban Mo|Saraburi|15959|
+17.8957|103.5279|Ban Muang|Sakon Nakhon|0|
+14.2680|101.0644|Ban Na|Nakhon Nayok|0|
+17.0172|99.7328|Ban Na|Sukhothai|40174|
+8.9061|99.2814|Ban Na Doem|Surat Thani|0|
+9.8769|98.8659|Ban Nam Yuen|Chumphon|12335|
+6.2564|101.2785|Bannang Sata|Yala|0|
+8.8004|99.3637|Ban Na San|Surat Thani|21900|
+17.2675|103.2247|Ban Nong Wua So|Udon Thani|21722|
+17.8696|104.2274|Ban Phaeng|Nakhon Phanom|0|
+13.5907|100.1075|Ban Phaeo|Samut Sakhon|41904|
+16.0600|102.7310|Ban Phai|Khon Kaen|35583|
+17.1427|102.9726|Ban Phan Don|Udon Thani|29211|
+12.6282|101.4376|Ban Phe|Rayong|17414|
+13.6100|101.0784|Ban Pho|Chachoengsao|0|
+15.9971|99.9941|Banphot Phisai|Nakhon Sawan|0|
+14.0946|101.3890|Ban Phra|Prachin Buri|15396|
+14.6438|100.5488|Ban Phraek|Phra Nakhon Si Ayutthaya|0|
+7.9546|98.5899|Ban Phru Nai|Phangnga|5713|
+17.6771|102.4456|Ban Phue|Udon Thani|0|
+13.8163|99.8774|Ban Pong|Ratchaburi|57559|
+15.2492|99.3282|Ban Rai|Uthai Thani|0|
+7.9096|98.4025|Ban Ratsada|Phuket|33534|
+13.5896|100.3873|Ban Samae Dam|Bangkok|125133|
+14.7422|100.0953|Ban Sam Chuk|Suphan Buri|13438|
+13.9500|101.2506|Ban Sang|Prachin Buri|38245|
+16.0167|103.9500|Ban Selaphum|Roi Et|17412|
+6.0724|101.8717|Ban Su-ngai Pa Di|Narathiwat|14274|
+17.0433|99.0813|Ban Tak|Tak|18384|
+9.1042|98.6722|Ban Takhun|Surat Thani|0|
+13.0715|101.0031|Ban Talat Bueng|Chon Buri|26113|
+7.8849|98.3856|Ban Talat Nua|Phuket|23381|
+7.8848|98.4001|Ban Talat Yai|Phuket|52192|
+14.6216|100.4874|Ban Thai Tan|Ang Thong|14430|
+13.6375|100.4413|Ban Tha Kham|Bangkok|61011|
+18.6589|99.1588|Ban Thi|Lamphun|0|
+14.7832|104.7188|Benchalak|Si Sa Ket|0|
+5.7743|101.0723|Betong|Yala|29604|
+19.0899|101.1895|Bo Kluea|Nan|0|
+14.3252|99.5147|Bo Phloi|Kanchanaburi|16786|
+15.9888|103.1252|Borabue|Maha Sarakham|0|
+12.5728|102.5371|Bo Rai|Trat|13620|
+13.2423|101.5086|Bo Thong|Chon Buri|0|
+14.4841|103.9781|Bua Chet|Surin|0|
+15.6692|102.5176|Bua Lai|Nakhon Ratchasima|0|
+15.5855|102.4259|Bua Yai|Nakhon Ratchasima|16832|
+15.3029|104.0617|Bueng Bun|Si Sa Ket|0|
+18.3630|103.6519|Bueng Kan|Bueng Kan|9712|
+18.0090|104.0730|Bueng Khong Long|Bueng Kan|0|
+13.8102|100.6514|Bueng Kum|Bangkok|145830|
+16.1712|100.1253|Bueng Na Rang|Phichit|4948|
+16.2126|99.9672|Bueng Samakkhi|Kamphaeng Phet|0|
+15.8165|101.0040|Bueng Sam Phan|Phetchabun|0|
+18.2473|103.9943|Bung Khla|Bueng Kan|0|
+14.7050|105.4044|Buntharik|Ubon Ratchathani|0|
+14.9943|103.1039|Buri Ram|Buri Ram|28283|
+12.8000|99.9667|Cha-am|Phetchaburi|49375|
+13.6882|101.0716|Chachoengsao|Chachoengsao|49741|
+18.7540|99.6682|Chae Hom|Lampang|0|
+15.2000|101.1333|Chai Badan|Lop Buri|25196|
+8.4622|99.0763|Chai Buri|Surat Thani|6126|
+15.1864|100.1235|Chai Nat|Chai Nat|15469|
+19.7314|99.1400|Chai Prakan|Chiang Mai|0|
+17.2158|103.2783|Chai Wan|Udon Thani|0|
+9.3863|99.1986|Chaiya|Surat Thani|12223|
+15.8105|102.0288|Chaiyaphum|Chaiyaphum|58350|
+14.6764|100.4686|Chaiyo|Ang Thong|13255|
+14.9569|102.4372|Chakkarat|Nakhon Ratchasima|0|
+14.5572|102.8988|Chaloem Phra Kiat|Buri Ram|0|
+14.9754|102.2937|Chaloem Phra Kiat|Nakhon Ratchasima|0|
+8.1833|100.0500|Chaloem Phra Kiat|Nakhon Si Thammarat|0|
+19.5062|101.1425|Chaloem Phra Kiat|Nan|0|
+14.6567|100.9084|Chaloem Phra Kiat|Saraburi|0|
+14.7864|102.8539|Chamni|Buri Ram|0|
+6.8958|100.7013|Chana|Songkhla|0|
+6.0459|101.6176|Chanae|Narathiwat|0|
+16.1621|103.6161|Changhan|Roi Et|0|
+8.3570|99.6459|Chang Klang|Nakhon Si Thammarat|0|
+13.8206|100.5831|Chan Kasem|Bangkok|38080|
+12.6096|102.1045|Chanthaburi|Chanthaburi|99819|
+16.1255|104.9228|Chanuman|Amnat Charoen|0|
+17.6333|103.5222|Charoen Sin|Sakon Nakhon|0|
+17.2761|100.6002|Chat Trakan|Phitsanulok|4608|
+13.8289|100.5637|Chatu Chak|Bangkok|160906|
+13.8273|100.5553|Chatuchak subdistrict|Bangkok|21853|
+15.8267|103.5493|Chaturaphak Phiman|Roi Et|0|
+7.9565|99.9893|Cha-uat|Nakhon Si Thammarat|0|
+8.4261|99.5047|Chawang|Nakhon Si Thammarat|10923|
+19.5128|98.9418|Chiang Dao|Chiang Mai|0|
+19.5233|100.3000|Chiang Kham|Phayao|14092|
+17.8244|101.7342|Chiang Khan|Loei|0|
+20.2613|100.4046|Chiang Khong|Chiang Rai|14505|
+16.1489|103.7492|Chiang Khwan|Roi Et|0|
+19.2938|100.8617|Chiang Klang|Nan|13244|
+18.7904|98.9847|Chiang Mai|Chiang Mai|127240|
+18.9038|100.3179|Chiang Muan|Phayao|0|
+19.9086|99.8325|Chiang Rai|Chiang Rai|78756|
+20.2751|100.0869|Chiang Saen|Chiang Rai|10807|
+16.4094|103.0700|Chiang Yuen|Maha Sarakham|0|
+8.1172|100.1582|Chian Yai|Nakhon Si Thammarat|0|
+6.2301|101.8472|Cho-airong|Narathiwat|0|
+14.7284|102.1652|Chok Chai|Nakhon Ratchasima|23337|
+13.6200|99.5917|Chom Bueng|Ratchaburi|15143|
+13.8035|100.5603|Chomphon|Bangkok|33250|
+15.1436|103.5788|Chom Phra|Surin|0|
+13.6891|100.4617|Chom Thong|Bangkok|158005|
+18.4174|98.6743|Chom Thong|Chiang Mai|12488|
+13.3622|100.9835|Chon Buri|Chon Buri|219164|
+16.1895|100.8596|Chon Daen|Phetchabun|17567|
+13.6931|100.5487|Chong Nonsi|Bangkok|48277|
+16.0225|102.5595|Chonnabot|Khon Kaen|0|
+13.8390|100.6114|Chorakhe Bua|Bangkok|27465|
+16.5480|103.1480|Chuen Chom|Maha Sarakham|0|
+8.0759|99.8537|Chulabhorn|Nakhon Si Thammarat|0|
+16.5443|102.0992|Chum Phae|Khon Kaen|46335|
+10.4957|99.1797|Chumphon|Chumphon|55835|
+15.3794|103.3709|Chumphon Buri|Surin|0|
+15.2599|102.7576|Chum Phuang|Nakhon Ratchasima|0|
+15.8475|100.2897|Chumsaeng|Nakhon Sawan|0|
+15.6831|99.5691|Chum Ta Bong|Nakhon Sawan|0|
+19.3680|100.1449|Chun|Phayao|0|
+13.5183|99.9547|Damnoen Saduak|Ratchaburi|23296|
+14.8839|99.5164|Dan Chang|Suphan Buri|0|
+15.2085|101.7714|Dan Khun Thot|Nakhon Ratchasima|15580|
+13.8342|99.3413|Dan Makham Tia|Kanchanaburi|0|
+17.2210|101.2237|Dan Sai|Loei|0|
+17.9837|100.0522|Den Chai|Phrae|17019|
+14.9060|105.0784|Det Udom|Ubon Ratchathani|35669|
+13.7773|100.5623|Din Daeng|Bangkok|130220|
+14.8333|100.1000|Doembang Nangbuat|Suphan Buri|14671|
+18.5333|98.7684|Doi Lo|Chiang Mai|0|
+20.1450|100.1571|Doi Luang|Chiang Rai|0|
+18.9237|99.2127|Doi Saket|Chiang Mai|0|
+17.8970|98.6629|Doi Tao|Chiang Mai|0|
+19.1624|99.9934|Dok Kham Tai|Phayao|23824|
+16.4667|103.7167|Don Chan|Kalasin|0|
+14.6480|99.9473|Don Chedi|Suphan Buri|0|
+15.9985|100.5957|Dong Charoen|Phichit|0|
+16.7965|104.3556|Dong Luang|Mukdahan|0|
+15.3769|105.0211|Don Mot Daeng|Ubon Ratchathani|0|
+13.9260|100.5936|Don Mueang|Bangkok|0|
+14.6076|100.6158|Don Phut|Saraburi|0|
+9.3168|99.6918|Don Sak|Surat Thani|12422|
+16.2880|104.8223|Don Tan|Mukdahan|0|
+13.9450|100.0900|Don Tum|Nakhon Pathom|0|
+13.7823|100.5168|Dusit|Bangkok|107655|
+17.2882|101.9744|Erawan|Loei|15137|
+18.0008|100.8889|Fak Tha|Uttaradit|0|
+19.9169|99.2145|Fang|Chiang Mai|7635|
+18.0027|103.2964|Fao Rai|Nong Khai|0|
+18.9444|98.3033|Galyani Vadhana|Chiang Mai|0|
+18.3550|99.2798|Hang Chat|Lampang|0|
+18.6870|98.9194|Hang Dong|Chiang Mai|17931|
+15.0505|99.9609|Hankha|Chai Nat|0|
+7.2573|99.5816|Hat Samran|Trang|0|
+7.0084|100.4767|Hat Yai|Songkhla|191696|
+18.1158|98.4638|Hot|Chiang Mai|0|
+12.5707|99.9588|Hua Hin|Prachuap Khiri Khan|126355|
+15.2910|99.6166|Huai Khot|Uthai Thani|5940|
+13.7706|100.5812|Huai Khwang|Bangkok|78175|
+14.3406|99.6763|Huai Krachao|Kanchanaburi|0|
+16.5897|103.2355|Huai Mek|Kalasin|12352|
+16.6697|103.8800|Huai Phueng|Kalasin|0|
+15.0090|103.2350|Huai Rat|Buri Ram|0|
+15.0424|102.6354|Huai Thalaeng|Nakhon Ratchasima|0|
+15.0181|104.0387|Huai Thap Than|Si Sa Ket|0|
+7.7894|99.6347|Huai Yot|Trang|16586|
+13.7578|100.6474|Huamak|Bangkok|67798|
+8.0118|100.2461|Hua Sai|Nakhon Si Thammarat|11236|
+15.6759|104.5270|Hua Taphan|Amnat Charoen|0|
+15.0079|100.3269|In Buri|Sing Buri|8586|
+13.7815|100.5838|Inner Huai Khwang|Bangkok|25879|
+6.3792|100.9835|Kabang|Yala|0|
+13.9511|101.7177|Kabin Buri|Prachin Buri|140056|
+16.0496|103.3895|Kae Dam|Maha Sarakham|0|
+13.0969|101.8854|Kaeng Hang Maeo|Chanthaburi|0|
+14.5862|100.9976|Kaeng Khoi|Saraburi|30332|
+16.1086|102.2581|Kaeng Khro|Chaiyaphum|29056|
+12.8592|99.4634|Kaeng Krachan|Phetchaburi|0|
+15.6956|102.2537|Kaeng Sanam Nang|Nakhon Ratchasima|0|
+16.4328|103.5066|Kalasin|Kalasin|55102|
+16.3384|103.5756|Kamalasai|Kalasin|23393|
+16.4834|99.5215|Kamphaeng Phet|Kamphaeng Phet|58787|
+14.0282|99.9615|Kamphaeng Saen|Nakhon Pathom|0|
+14.0041|99.5483|Kanchanaburi|Kanchanaburi|63699|
+9.1661|99.4701|Kanchanadit|Surat Thani|0|
+7.4054|99.5156|Kantang|Trang|14156|
+14.6406|104.6499|Kantharalak|Si Sa Ket|36621|
+15.1245|104.5732|Kanthararom|Si Sa Ket|0|
+16.2799|103.2589|Kantharawichai|Maha Sarakham|0|
+15.8505|100.0791|Kao Liao|Nakhon Sawan|4988|
+14.4680|103.5848|Kap Choeng|Surin|0|
+6.6026|101.5433|Kapho|Pattani|0|
+9.5303|98.6237|Kapoe|Ranong|0|
+8.7414|98.4754|Kapong|Phangnga|0|
+16.2805|101.9542|Kaset Sombun|Chaiyaphum|16996|
+15.6556|103.5836|Kaset Wisai|Roi Et|18569|
+7.9178|98.3332|Kathu|Phuket|34835|
+15.3062|103.1329|Khaen Dong|Buri Ram|0|
+14.8144|100.3139|Khai Bang Rachan|Sing Buri|0|
+16.6145|104.3593|Khamcha-i|Mukdahan|0|
+15.6720|104.3337|Kham Khuan Kaeo|Yasothon|0|
+16.9388|103.6398|Kham Muang|Kalasin|0|
+15.3322|102.1728|Kham Sakae Saeng|Nakhon Ratchasima|11018|
+17.8255|103.7860|Kham Ta Kla|Sakon Nakhon|0|
+15.0364|101.9317|Kham Thale So|Nakhon Ratchasima|0|
+13.8238|100.6765|Khan Na Yao|Bangkok|88678|
+9.1832|99.8019|Khanom|Nakhon Si Thammarat|0|
+16.0617|99.8606|Khanu Woralaksaburi|Kamphaeng Phet|21889|
+7.4630|100.0905|Khao Chaison|Phatthalung|0|
+13.6229|102.0267|Khao Chakan|Sa Kaeo|0|
+12.9904|101.6785|Khao Chamao|Rayong|0|
+12.9373|102.0976|Khao Khitchakut|Chanthaburi|0|
+16.6631|100.9945|Khao Kho|Phetchabun|0|
+8.2695|99.1181|Khao Phanom|Krabi|0|
+12.4289|102.4178|Khao Saming|Trat|38941|
+16.9168|102.7821|Khao Suan Kwang|Khon Kaen|0|
+16.7001|104.0902|Khao Wong|Kalasin|15184|
+13.2402|99.8243|Khao Yoi|Phetchaburi|18506|
+15.9711|105.1517|Khemmarat|Ubon Ratchathani|0|
+13.7928|100.5830|Khetsamsenok|Bangkok|38204|
+8.7277|99.1324|Khian Sa|Surat Thani|0|
+16.8333|99.8000|Khiri Mat|Sukhothai|11272|
+9.0059|98.9440|Khiri Rat Nikhom|Surat Thani|0|
+13.7813|100.6451|Khlong Chan|Bangkok|76934|
+13.4740|102.2760|Khlong Hat|Sa Kaeo|0|
+6.8662|100.3535|Khlong Hoi Khong|Songkhla|0|
+16.2219|99.6765|Khlong Khlung|Kamphaeng Phet|0|
+13.7913|101.1635|Khlong Khuean|Chachoengsao|3703|
+13.7884|100.6803|Khlong Kum|Bangkok|69071|
+16.2599|99.2181|Khlong Lan|Kamphaeng Phet|0|
+14.0647|100.6458|Khlong Luang|Pathum Thani|118551|
+13.8763|100.7381|Khlong Sam Wa|Bangkok|169489|
+13.7260|100.5007|Khlong San|Bangkok|73263|
+7.9147|99.1993|Khlong Thom|Krabi|0|
+13.7181|100.5707|Khlong Toei|Bangkok|109041|
+11.7765|102.8857|Khlong Yai|Trat|38099|
+12.4547|102.2214|Khlung|Chanthaburi|13286|
+15.4038|100.8497|Khok Charoen|Lop Buri|0|
+6.7086|101.1169|Khok Pho|Pattani|0|
+16.0719|102.3843|Khok Pho Chai|Khon Kaen|0|
+15.0430|100.7715|Khok Samrong|Lop Buri|0|
+17.0230|104.3035|Khok Si Suphan|Sakon Nakhon|0|
+13.8739|102.6607|Khok Sung|Sa Kaeo|0|
+14.5254|102.2459|Khon Buri|Nakhon Ratchasima|18596|
+15.4331|102.2962|Khong|Nakhon Ratchasima|0|
+16.2584|103.4817|Khong Chai|Kalasin|0|
+15.4543|105.5036|Khong Chiam|Ubon Ratchathani|0|
+16.4467|102.8330|Khon Kaen|Khon Kaen|114459|
+15.3816|104.3411|Kho Wang|Yasothon|0|
+6.7698|100.1222|Khuan Don|Satun|0|
+6.9059|100.0418|Khuan Kalong|Satun|0|
+7.7644|100.0435|Khuan Khanun|Phatthalung|0|
+7.1823|100.3740|Khuan Niang|Songkhla|0|
+15.3910|104.5436|Khueang Nai|Ubon Ratchathani|0|
+14.7378|104.1859|Khukhan|Si Sa Ket|0|
+15.2684|103.0272|Khu Mueang|Buri Ram|0|
+14.5345|104.4074|Khun Han|Si Sa Ket|0|
+19.8648|100.2873|Khun Tan|Chiang Rai|0|
+18.8264|97.9330|Khun Yuam|Mae Hong Son|0|
+9.1897|98.4081|Khura Buri|Phangnga|0|
+13.6916|100.4045|Khwaeng Bang Khae|Bangkok|38915|
+13.7878|100.4947|Khwaeng Bang Plat|Bangkok|21953|
+15.0073|103.6206|Khwao Sinarin|Surin|0|
+12.7797|101.6483|Klaeng|Rayong|55619|
+13.4025|101.3880|Ko Chan|Chon Buri|0|
+12.0595|102.3294|Ko Chang|Trat|12346|
+12.0017|102.3727|Ko Chang Tai|Trat|2346|
+6.4877|99.2769|Koh Lipe|Satun|0|
+10.0981|99.8381|Koh Tao|Surat Thani|1382|
+18.1441|99.3523|Ko Kha|Lampang|0|
+11.6571|102.5669|Ko Kut|Trat|0|
+7.5336|99.0865|Ko Lanta|Krabi|6090|
+16.9311|99.9741|Kong Krailat|Sukhothai|0|
+7.4167|99.9572|Kong Ra|Phatthalung|0|
+9.7578|100.0291|Ko Pha Ngan|Surat Thani|11846|
+16.6070|99.3479|Kosamphi Nakhon|Kamphaeng Phet|0|
+9.5357|99.9357|Ko Samui|Surat Thani|50000|
+13.1639|100.8055|Ko Si Chang|Chon Buri|0|
+16.2486|103.0674|Kosum Phisai|Maha Sarakham|10672|
+8.0655|98.5785|Ko Yao|Phangnga|0|
+8.0726|98.9105|Krabi|Krabi|31219|
+10.4589|98.8437|Kra Buri|Ranong|0|
+16.7067|103.0788|Kranuan|Khon Kaen|13475|
+7.6125|100.3283|Krasae Sin|Songkhla|0|
+14.9417|103.3190|Krasang|Buri Ram|0|
+13.6533|100.2597|Krathum Baen|Samut Sakhon|72819|
+15.5864|100.0182|Krok Phra|Nakhon Sawan|0|
+6.3993|101.2571|Krong Pinang|Yala|0|
+16.5410|104.0500|Kuchinarai|Kalasin|20532|
+12.0828|99.8543|Kui Buri|Prachuap Khiri Khan|19046|
+17.1629|103.1675|Ku Kaeo|Udon Thani|0|
+17.1088|103.0149|Kumphawapi|Udon Thani|0|
+17.3540|104.2668|Kusuman|Sakon Nakhon|0|
+17.0820|103.8147|Kut Bak|Sakon Nakhon|0|
+17.4257|102.5669|Kut Chap|Udon Thani|24696|
+16.0462|104.3054|Kut Chum|Yasothon|0|
+15.8191|105.0407|Kut Khaopun|Ubon Ratchathani|0|
+16.0297|102.9506|Kut Rang|Maha Sarakham|0|
+13.0877|100.8843|Laem Chabang|Chon Buri|88271|
+12.2203|102.3656|Laem Ngop|Trat|17198|
+12.4816|102.0738|Laem Sing|Chanthaburi|16066|
+14.3219|102.8799|Lahan Sai|Buri Ram|0|
+13.8821|100.5689|Lak Si|Bangkok|109770|
+9.7557|99.0438|Lamae|Chumphon|0|
+14.7191|103.6991|Lamduan|Surin|0|
+13.9774|100.7924|Lam Luk Ka|Pathum Thani|0|
+18.2923|99.4928|Lampang|Lampang|156139|
+18.5805|99.0075|Lamphun|Lamphun|43196|
+15.0169|102.8748|Lam Plai Mat|Buri Ram|0|
+15.3283|101.3478|Lam Sonthi|Lop Buri|0|
+15.2842|102.9072|Lam Thamen Chai|Nakhon Ratchasima|0|
+8.0480|99.3354|Lam Thap|Krabi|0|
+9.9456|99.0785|Lang Suan|Chumphon|16142|
+6.9039|99.7984|La-Ngu|Satun|0|
+16.6000|99.8489|Lan Krabue|Kamphaeng Phet|7633|
+15.4529|99.5761|Lan Sak|Uthai Thani|13905|
+8.3780|99.7833|Lan Saka|Nakhon Si Thammarat|0|
+14.5949|99.6834|Lao Khwan|Kanchanaburi|0|
+15.4395|104.9166|Lao Suea Kok|Ubon Ratchathani|0|
+17.6574|100.0148|Lap Lae|Uttaradit|0|
+14.1681|100.3489|Lat Bua Luang|Phra Nakhon Si Ayutthaya|0|
+13.7450|100.7922|Lat Krabang|Bangkok|173987|
+14.0446|100.4095|Lat Lum Kaeo|Pathum Thani|0|
+13.8278|100.6067|Lat Phrao|Bangkok|122182|
+13.8473|100.5637|Lat Yao|Bangkok|41238|
+15.7510|99.7892|Lat Yao|Nakhon Sawan|17506|
+10.0969|98.7850|La-un|Ranong|0|
+17.7864|98.8867|Li|Lamphun|0|
+17.4905|101.7275|Loei|Loei|35273|
+16.2043|104.5144|Loeng Nok Tha|Yasothon|0|
+16.9721|101.2618|Lom Kao|Phetchabun|0|
+16.7798|101.2422|Lom Sak|Phetchabun|17309|
+18.0742|99.8307|Long|Phrae|11802|
+14.7981|100.6540|Lop Buri|Lop Buri|57761|
+15.7078|104.7112|Lue Amnat|Amnat Charoen|0|
+19.9914|99.3398|Mae Ai|Chiang Mai|0|
+18.6669|98.3245|Mae Chaem|Chiang Mai|0|
+19.3460|99.8140|Mae Chai|Phayao|5094|
+20.1468|99.8526|Mae Chan|Chiang Rai|37672|
+18.7134|101.1101|Mae Charim|Nan|0|
+20.2223|99.6415|Mae Fa Luang|Chiang Rai|0|
+19.3003|97.9685|Mae Hong Son|Mae Hong Son|9109|
+6.6683|101.2315|Mae Lan|Pattani|0|
+18.4782|97.9830|Mae La Noi|Mae Hong Son|0|
+19.7722|99.7113|Mae Lao|Chiang Rai|0|
+18.4024|99.8213|Mae Mo|Lampang|0|
+18.7350|99.3038|Mae On|Chiang Mai|0|
+17.5045|99.0585|Mae Phrik|Lampang|0|
+15.7066|99.3483|Mae Poen|Nakhon Sawan|0|
+16.9840|98.5166|Mae Ramat|Tak|17316|
+18.9414|98.8867|Mae Rim|Chiang Mai|0|
+20.4335|99.8762|Mae Sai|Chiang Rai|27520|
+18.2647|97.7706|Mae Sariang|Mae Hong Son|0|
+16.7167|98.5667|Mae Sot|Tak|44563|
+19.6904|99.4846|Mae Suai|Chiang Rai|0|
+19.1667|98.8333|Mae Taeng|Chiang Mai|0|
+18.4646|99.1403|Mae Tha|Lamphun|10048|
+18.6746|98.6871|Mae Wang|Chiang Mai|0|
+15.8354|99.4078|Mae Wong|Nakhon Sawan|0|
+15.5127|104.2610|Maha Chana Chai|Yasothon|0|
+14.5706|100.5409|Maha Rat|Phra Nakhon Si Ayutthaya|0|
+16.1848|103.3007|Maha Sarakham|Maha Sarakham|51584|
+6.6160|101.6786|Mai Kaen|Pattani|0|
+12.7333|102.2167|Makham|Chanthaburi|0|
+13.7523|100.5434|Makkasan|Bangkok|15815|
+7.0182|99.9540|Manang|Satun|0|
+16.2124|102.5197|Mancha Khiri|Khon Kaen|0|
+15.3189|100.1568|Manorom|Chai Nat|0|
+6.7076|101.4036|Mayo|Pattani|0|
+13.8125|100.7533|Min Buri|Bangkok|0|
+16.3894|104.1572|Moeiwadi|Roi Et|5609|
+14.7771|101.2715|Muak Lek|Saraburi|0|
+14.8233|100.6756|Muang Lop Buri|Lop Buri|0|
+15.5264|104.7166|Muang Sam Sip|Ubon Ratchathani|0|
+15.8786|104.6428|Mueang Amnat Charoen|Amnat Charoen|0|
+14.5782|100.4439|Mueang Ang Thong|Ang Thong|0|
+18.2995|103.6402|Mueang Bueng Kan|Bueng Kan|0|
+14.9408|103.0624|Mueang Buriram|Buri Ram|0|
+13.7176|101.0215|Mueang Chachoengsao|Chachoengsao|0|
+15.1910|100.1354|Mueang Chainat|Chai Nat|0|
+15.1825|104.0247|Mueang Chan|Si Sa Ket|0|
+12.5954|102.1226|Mueang Chanthaburi|Chanthaburi|0|
+18.7901|98.9687|Mueang Chiang Mai|Chiang Mai|0|
+19.9082|99.7730|Mueang Chiang Rai|Chiang Rai|0|
+13.3427|101.0011|Mueang Chonburi|Chon Buri|0|
+10.4608|99.1061|Mueang Chumphon|Chumphon|0|
+16.5092|103.5498|Mueang Kalasin|Kalasin|0|
+16.4325|99.4883|Mueang Kamphaeng Phet|Kamphaeng Phet|0|
+14.0699|99.3277|Mueang Kanchanaburi|Kanchanaburi|0|
+16.4605|102.8087|Mueang Khon Kaen|Khon Kaen|0|
+8.1595|98.8666|Mueang Krabi|Krabi|0|
+18.3890|99.5439|Mueang Lampang|Lampang|0|
+18.5522|99.0590|Mueang Lamphun|Lamphun|0|
+17.5421|101.7193|Mueang Loei|Loei|0|
+19.2886|98.0061|Mueang Mae Hong Son|Mae Hong Son|0|
+16.1188|103.3116|Mueang Maha Sarakham|Maha Sarakham|0|
+16.5511|104.6461|Mueang Mukdahan|Mukdahan|0|
+14.2773|101.2338|Mueang Nakhon Nayok|Nakhon Nayok|0|
+13.8194|100.0238|Mueang Nakhon Pathom|Nakhon Pathom|0|
+17.3196|104.6823|Mueang Nakhon Phanom|Nakhon Phanom|0|
+14.9568|102.0893|Mueang Nakhon Ratchasima|Nakhon Ratchasima|0|
+15.7199|100.1007|Mueang Nakhon Sawan|Nakhon Sawan|0|
+8.4401|99.9854|Mueang Nakhon Si Thammarat|Nakhon Si Thammarat|0|
+18.8901|100.6747|Mueang Nan|Nan|0|
+6.3939|101.8132|Mueang Narathiwat|Narathiwat|0|
+17.1582|102.3986|Mueang Nong Bua Lamphu|Nong Bua Lam Phu|0|
+17.8466|102.7891|Mueang Nong Khai|Nong Khai|0|
+13.8607|100.5148|Mueang Nonthaburi|Nonthaburi|254375|
+18.7909|99.4541|Mueang Pan|Lampang|0|
+13.9910|100.5355|Mueang Pathum Thani|Pathum Thani|0|
+6.8558|101.2676|Mueang Pattani|Pattani|0|
+8.4935|98.5078|Mueang Phangnga|Phangnga|0|
+7.6025|100.0743|Mueang Phatthalung|Phatthalung|0|
+19.1486|99.8732|Mueang Phayao|Phayao|0|
+16.3821|101.1765|Mueang Phetchabun|Phetchabun|0|
+13.0817|99.9672|Mueang Phetchaburi|Phetchaburi|0|
+16.4099|100.3458|Mueang Phichit|Phichit|0|
+16.8404|100.2730|Mueang Phitsanulok|Phitsanulok|0|
+18.1226|100.2562|Mueang Phrae|Phrae|0|
+7.8561|98.3718|Mueang Phuket|Phuket|0|
+14.0933|101.3978|Mueang Prachin Buri|Prachin Buri|0|
+11.8714|99.7356|Mueang Prachuap Khiri Khan|Prachuap Khiri Khan|0|
+9.8624|98.6223|Mueang Ranong|Ranong|0|
+13.5456|99.7768|Mueang Ratchaburi|Ratchaburi|0|
+12.7186|101.3449|Mueang Rayong|Rayong|0|
+16.0150|103.6158|Mueang Roi Et|Roi Et|0|
+13.9297|102.1063|Mueang Sa Kaeo|Sa Kaeo|0|
+17.1616|104.1052|Mueang Sakon Nakhon|Sakon Nakhon|0|
+13.5686|100.6515|Mueang Samut Prakan|Samut Prakan|0|
+13.5316|100.2533|Mueang Samut Sakhon|Samut Sakhon|0|
+13.3959|99.9993|Mueang Samut Songkhram|Samut Songkhram|0|
+14.4972|100.9383|Mueang Sara Buri|Saraburi|0|
+6.6231|100.0668|Mueang Satun|Satun|34544|Satun
+14.9024|100.3973|Mueang Sing Buri|Sing Buri|0|
+15.0817|104.3513|Mueang Sisaket|Si Sa Ket|0|
+7.1108|100.6081|Mueang Songkhla|Songkhla|0|
+15.7862|103.7507|Mueang Suang|Roi Et|0|
+17.0232|99.7786|Mueang Sukhothai|Sukhothai|0|
+14.4919|100.0746|Mueang Suphan Buri|Suphan Buri|0|
+9.1013|99.3261|Mueang Surat Thani|Surat Thani|0|
+14.8836|103.5127|Mueang Surin|Surin|0|
+16.8765|99.1662|Mueang Tak|Tak|0|
+7.6094|99.6177|Mueang Trang|Trang|0|
+12.2667|102.6094|Mueang Trat|Trat|0|
+15.2966|104.8305|Mueang Ubon Ratchathani|Ubon Ratchathani|0|
+17.3909|102.7891|Mueang Udon Thani|Udon Thani|0|
+15.4086|100.0279|Mueang Uthai Thani|Uthai Thani|0|
+17.6814|100.1996|Mueang Uttaradit|Uttaradit|0|
+6.5438|101.2511|Mueang Yala|Yala|0|
+15.4384|102.8933|Mueang Yang|Nakhon Ratchasima|0|
+15.8555|104.1780|Mueang Yasothon|Yasothon|0|
+16.5453|104.7235|Mukdahan|Mukdahan|40480|
+8.2698|99.5569|Na Bon|Nakhon Si Thammarat|0|
+14.5670|105.2237|Na Chaluai|Ubon Ratchathani|0|
+15.8018|103.0572|Na Chueak|Maha Sarakham|0|
+14.1925|101.8456|Na Di|Prachin Buri|57466|
+17.5383|101.9964|Na Duang|Loei|0|
+15.7195|103.2300|Na Dun|Maha Sarakham|0|
+17.4394|100.9965|Na Haeo|Loei|0|
+7.7786|98.3066|Nai Harn|Phuket|4767|
+16.9574|104.4935|Na Kae|Nakhon Phanom|0|
+13.8117|100.1816|Nakhon Chai Si|Nakhon Pathom|0|
+14.4628|100.6083|Nakhon Luang|Phra Nakhon Si Ayutthaya|15008|
+14.2031|101.2150|Nakhon Nayok|Chaiyaphum|21309|
+14.2046|101.2130|Nakhon Nayok|Nakhon Nayok|21309|
+13.8196|100.0443|Nakhon Pathom|Nakhon Pathom|117927|
+17.4108|104.7786|Nakhon Phanom|Nakhon Phanom|34595|
+14.9707|102.1020|Nakhon Ratchasima|Nakhon Ratchasima|126391|
+15.7047|100.1372|Nakhon Sawan|Nakhon Sawan|82305|
+8.4333|99.9667|Nakhon Si Thammarat|Nakhon Si Thammarat|102152|
+17.1006|100.8374|Nakhon Thai|Phitsanulok|12345|
+16.7502|104.0006|Na Khu|Kalasin|0|
+17.3072|102.1889|Na Klang|Nong Bua Lam Phu|31024|
+14.5551|104.8987|Nam Khun|Ubon Ratchathani|0|
+14.9102|104.5255|Nam Kliang|Si Sa Ket|0|
+16.8449|101.6008|Nam Nao|Phetchabun|0|
+6.9586|100.5568|Na Mom|Songkhla|7537|
+16.5699|103.7802|Na Mon|Kalasin|0|
+17.7003|100.7274|Nam Pat|Uttaradit|0|
+16.6995|102.8812|Nam Phong|Khon Kaen|0|
+17.7704|102.1895|Nam Som|Udon Thani|19324|
+18.1252|100.6027|Na Muen|Nan|0|
+14.4867|105.0027|Nam Yuen|Ubon Ratchathani|0|
+18.7838|100.7790|Nan|Nan|24670|
+14.6377|102.7914|Nang Rong|Buri Ram|21961|
+18.3027|100.7239|Na Noi|Nan|0|
+15.6957|102.9386|Na Pho|Buri Ram|0|
+6.4264|101.8231|Narathiwat|Narathiwat|47771|
+15.9349|105.2845|Na Tan|Ubon Ratchathani|0|
+6.6385|100.6817|Na Thawi|Songkhla|0|
+17.8213|104.1087|Na Thom|Nakhon Phanom|0|
+17.4897|104.1006|Na Wa|Nakhon Phanom|12989|
+17.3429|102.0716|Na Wang|Nong Bua Lam Phu|0|
+12.7383|101.8750|Na Yai Am|Chanthaburi|0|
+15.0414|105.0573|Na Yia|Ubon Ratchathani|0|
+7.5626|99.7479|Na Yong|Trang|0|
+17.9347|102.1342|Na Yung|Udon Thani|0|
+18.7595|99.9530|Ngao|Lampang|0|
+16.3538|104.5586|Nikhom Kham Soi|Mukdahan|0|
+17.1735|103.7351|Nikhom Nam Un|Sakon Nakhon|0|
+12.8449|101.1534|Nikhom Phattana|Rayong|0|
+14.9825|99.8459|Noen Kham|Chai Nat|0|
+16.5640|100.7100|Noen Maprang|Phitsanulok|0|
+15.4448|102.5456|Non Daeng|Nakhon Ratchasima|0|
+14.2201|102.6823|Non Din Daeng|Buri Ram|0|
+15.8646|100.5858|Nong Bua|Nakhon Sawan|14160|
+17.2041|102.4407|Nong Bua Lamphu|Nong Bua Lam Phu|34401|
+14.7129|102.3745|Nong Bun Mak|Nakhon Ratchasima|0|
+15.3675|99.7727|Nong Chang|Uthai Thani|0|
+6.8436|101.1780|Nong Chik|Pattani|11385|
+13.8528|100.8579|Nong Chok|Bangkok|157138|
+14.6888|100.6853|Nong Don|Saraburi|0|
+17.3685|103.1151|Nong Han|Udon Thani|0|
+15.5798|104.0113|Nong Hi|Roi Et|0|
+17.0809|101.8264|Nong Hin|Loei|0|
+14.8615|102.6708|Nong Hong|Buri Ram|0|
+14.3406|100.8673|Nong Khae|Saraburi|41067|
+13.6998|100.3536|Nong Khaem|Bangkok|150218|
+17.8785|102.7420|Nong Khai|Nong Khai|63609|
+15.3489|99.9471|Nong Khayang|Uthai Thani|0|
+14.6868|102.5380|Nong Ki|Buri Ram|13592|
+16.6500|103.3000|Nong Kung Si|Kalasin|17001|
+15.2337|99.8109|Nong Mamong|Chai Nat|0|
+15.2774|100.7041|Nong Muang|Lop Buri|0|
+18.2885|100.1523|Nong Muang Khai|Phrae|0|
+16.8101|102.3280|Nong Na Kham|Khon Kaen|0|
+15.9902|101.0618|Nong Phai|Phetchabun|27756|
+16.3036|104.2214|Nong Phok|Roi Et|0|
+14.6780|99.4107|Nong Prue|Kanchanaburi|79258|
+16.4917|102.4457|Nong Ruea|Khon Kaen|0|
+14.4828|100.8046|Nong Saeng|Saraburi|0|
+17.1417|102.7859|Nong Saeng|Udon Thani|0|
+15.7642|102.7917|Nong Song Hong|Khon Kaen|0|
+14.1603|100.8393|Nong Suea|Pathum Thani|0|
+16.4476|104.3365|Nong Sung|Mukdahan|0|
+17.1626|102.5727|Nong Wua So|Udon Thani|7503|
+13.1177|101.3747|Nong Yai|Chon Buri|0|
+13.1259|99.4688|Nong Ya Plong|Phetchaburi|0|
+14.7764|99.8575|Nong Yasai|Suphan Buri|0|
+14.9019|104.6956|Non Khun|Si Sa Ket|0|
+15.1911|103.9224|Non Narai|Surin|0|
+16.9500|102.8999|Non Sa-at|Udon Thani|0|
+16.8687|102.5664|Non Sang|Nong Bua Lam Phu|11819|
+15.9642|102.6907|Non Sila|Khon Kaen|0|
+15.1801|102.2570|Non Sung|Nakhon Ratchasima|18399|
+14.5551|102.5834|Non Suwan|Buri Ram|0|
+15.1958|102.0714|Non Thai|Nakhon Ratchasima|11959|
+8.7517|99.6709|Nopphitam|Nakhon Si Thammarat|0|
+8.0714|98.9993|Nuea Khlong|Krabi|12217|
+17.6984|98.3543|Om Koi|Chiang Mai|1937|
+14.0755|101.0089|Ongkharak|Nakhon Nayok|13338|
+7.2199|100.1308|Pa Bon|Phatthalung|0|
+19.5049|99.9924|Pa Daet|Chiang Rai|13624|
+19.3617|98.4397|Pai|Chiang Mai|2284|
+19.3604|98.4064|Pai|Mae Hong Son|2284|
+17.9110|101.9578|Pak Chom|Loei|0|
+14.7080|101.4161|Pak Chong|Nakhon Ratchasima|48999|
+14.4000|102.6667|Pa Kham|Buri Ram|0|
+18.2774|103.3414|Pak Khat|Bueng Kan|0|
+13.9130|100.4988|Pak Kret|Nonthaburi|190272|
+8.3511|100.2019|Pak Phanang|Nakhon Si Thammarat|25014|
+7.2962|100.2954|Pak Phayun|Phatthalung|0|
+14.2250|101.3448|Pak Phli|Nakhon Nayok|0|
+13.3876|99.6770|Pak Tho|Ratchaburi|0|
+14.7226|102.0251|Pak Thong Chai|Nakhon Ratchasima|0|
+7.2334|99.7949|Palian|Trang|0|
+14.4862|100.4573|Pa Mok|Ang Thong|0|
+6.8121|101.5125|Panare|Pattani|0|
+19.6045|98.2056|Pang Mapha|Mae Hong Son|0|
+16.0252|99.3559|Pang Sila Thong|Kamphaeng Phet|0|
+7.8315|99.8745|Pa Phayom|Phatthalung|0|
+13.7426|100.5340|Parthum Wan|Bangkok|0|
+18.5262|98.9394|Pa Sang|Lamphun|15607|
+10.8101|99.3394|Pathio|Chumphon|0|
+15.6237|103.3873|Pathum Rat|Roi Et|0|
+15.8954|104.8961|Pathum Ratchawongsa|Amnat Charoen|0|
+14.0135|100.5305|Pathum Thani|Pathum Thani|24547|
+13.7370|100.5233|Pathum Wan|Bangkok|53263|
+15.8442|104.3999|Pa Tio|Yasothon|0|
+7.8961|98.2966|Patong|Phuket|14797|
+6.8681|101.2501|Pattani|Pattani|43690|
+12.9333|100.8833|Pattaya|Chon Buri|116417|
+14.4380|100.7278|Phachi|Phra Nakhon Si Ayutthaya|0|
+15.6000|100.6494|Phai Sali|Nakhon Sawan|13088|
+14.4574|100.3699|Phak Hai|Phra Nakhon Si Ayutthaya|19386|
+17.0564|102.0157|Pha Khao|Loei|0|
+19.5745|99.7730|Phan|Chiang Rai|0|
+15.6690|104.8568|Phana|Amnat Charoen|0|
+13.4458|101.1844|Phanat Nikhom|Chon Buri|21924|
+17.3827|103.7515|Phang Khon|Sakon Nakhon|0|
+8.4509|98.5298|Phang Nga|Phangnga|9676|
+17.3137|103.8979|Phanna Nikhom|Sakon Nakhon|0|
+8.8225|98.7171|Phanom|Surat Thani|0|
+14.4275|103.3101|Phanom Dong Rak|Surin|0|
+15.6930|104.0755|Phanom Phrai|Roi Et|0|
+13.7487|101.3489|Phanom Sarakham|Chachoengsao|16057|
+14.1303|99.6986|Phanom Thuan|Kanchanaburi|12469|
+13.4680|101.0953|Phan Thong|Chon Buri|18708|
+13.7260|100.4410|Phasi Charoen|Bangkok|122070|
+9.8107|98.8018|Phato|Chumphon|0|
+7.6179|100.0779|Phatthalung|Phatthalung|43522|
+14.9092|101.0267|Phatthana Nikhom|Lop Buri|0|
+15.5163|103.1937|Phayakkhaphum Phisai|Maha Sarakham|10212|
+19.8732|100.1626|Phaya Mengrai|Chiang Rai|0|
+19.1920|99.8788|Phayao|Phayao|21058|
+13.7844|100.5431|Phaya Thai|Bangkok|70238|
+14.9064|104.3829|Phayu|Si Sa Ket|0|
+15.4552|100.1353|Phayuha Khiri|Nakhon Sawan|12271|
+17.6603|102.9305|Phen|Udon Thani|0|
+16.4190|101.1606|Phetchabun|Phetchabun|50656|
+13.1119|99.9447|Phetchaburi|Phetchaburi|46601|
+15.2447|105.2291|Phibun Mangsahan|Ubon Ratchathani|19883|
+17.5263|103.0750|Phibun Rak|Udon Thani|0|
+17.3019|100.1128|Phichai|Uttaradit|0|
+16.4418|100.3488|Phichit|Phichit|35760|
+15.2232|102.4947|Phimai|Nakhon Ratchasima|13084|
+8.6029|99.5953|Phipun|Nakhon Si Thammarat|0|
+16.8248|100.2586|Phitsanulok|Phitsanulok|62584|
+14.7330|103.1702|Phlapphla Chai|Buri Ram|0|
+16.3283|103.7703|Pho Chai|Roi Et|0|
+15.8160|102.5998|Phon|Khon Kaen|14596|
+18.0797|103.6545|Phon Charoen|Bueng Kan|0|
+18.0333|103.1667|Phon Charoen|Nong Khai|15208|
+17.2125|104.3070|Phon Na Kaeo|Sakon Nakhon|0|
+17.9544|103.1228|Phonphisai|Nong Khai|0|
+15.4924|103.9414|Phon Sai|Roi Et|0|
+17.4687|104.4223|Phon Sawan|Nakhon Phanom|0|
+16.2901|103.9639|Phon Thong|Roi Et|0|
+16.4721|98.8350|Phop Phra|Tak|0|
+16.3129|100.1990|Pho Prathap Chang|Phichit|0|
+15.7674|105.3434|Pho Sai|Ubon Ratchathani|0|
+15.2337|104.0674|Pho Si Suwan|Si Sa Ket|0|
+17.8882|102.4302|Pho Tak|Nong Khai|0|
+16.0588|100.2458|Pho Thale|Phichit|0|
+13.6923|99.8497|Photharam|Ratchaburi|36248|
+14.6673|100.4088|Pho Thong|Ang Thong|12200|
+18.1459|100.1410|Phrae|Phrae|38538|
+14.7483|104.3626|Phrai Bueng|Si Sa Ket|11494|
+13.6971|100.6123|Phra Khanong|Bangkok|90354|
+13.7583|100.4961|Phra Nakhon|Bangkok|51231|
+14.3517|100.5774|Phra Nakhon Si Ayutthaya|Phra Nakhon Si Ayutthaya|50830|
+16.7054|99.5370|Phran Kratai|Kamphaeng Phet|0|
+19.2846|99.2228|Phrao|Chiang Mai|5499|
+8.3265|99.9324|Phra Phrom|Nakhon Si Thammarat|0|
+14.7253|100.7954|Phra Phutthabat|Saraburi|57008|
+13.6585|100.5336|Phra Pradaeng|Samut Prakan|196129|
+8.5512|99.1052|Phrasaeng|Surat Thani|0|
+13.5562|100.5148|Phra Samut Chedi|Samut Prakan|0|
+15.3511|101.9935|Phra Thong Kham|Nakhon Ratchasima|0|
+16.3082|102.6711|Phra Yuen|Khon Kaen|0|
+14.7833|100.4500|Phrom Buri|Sing Buri|0|
+8.5424|99.7923|Phrom Khiri|Nakhon Si Thammarat|0|
+17.0689|100.1535|Phrom Phiram|Phitsanulok|0|
+19.3117|99.9661|Phu Kam Yao|Phayao|0|
+7.8906|98.3981|Phuket|Phuket|79308|
+16.3765|102.1285|Phu Khiao|Chaiyaphum|17122|
+16.8843|101.8847|Phu Kradueng|Loei|16079|
+17.0978|101.6441|Phu Luang|Loei|0|
+9.0247|99.1430|Phunphin|Surat Thani|0|
+16.7186|101.8708|Phu Pha Man|Khon Kaen|0|
+16.9286|103.9240|Phu Phan|Sakon Nakhon|0|
+18.7803|100.8750|Phu Phiang|Nan|0|
+17.3508|101.4133|Phu Ruea|Loei|0|
+19.6237|100.3725|Phu Sang|Phayao|0|
+14.4887|104.1560|Phu Sing|Si Sa Ket|0|
+15.5325|102.9870|Phutthaisong|Buri Ram|0|
+13.8256|100.2924|Phutthamonthon|Nakhon Pathom|0|
+16.6791|102.3989|Phu Wiang|Khon Kaen|0|
+13.5638|101.3397|Plaeng Yao|Chachoengsao|0|
+8.5409|98.8367|Plai Phraya|Krabi|0|
+17.2013|104.5467|Pla Pak|Nakhon Phanom|0|
+12.9833|101.2500|Pluak Daeng|Rayong|0|
+13.7548|100.5100|Pom Prap Sattru Phai|Bangkok|51006|
+19.1493|100.2752|Pong|Phayao|14392|
+12.9057|102.2622|Pong Nam Ron|Chanthaburi|8878|
+17.2465|102.9871|Prachak Sinlapakhom|Udon Thani|0|
+14.2281|101.5744|Prachantakham|Prachin Buri|59696|
+14.0499|101.3686|Prachin Buri|Prachin Buri|32600|
+14.0546|101.3726|Prachin Buri Town|Prachin Buri|25157|
+11.8210|99.7841|Prachuap Khiri Khan|Prachuap Khiri Khan|33521|
+14.6059|103.1208|Prakhon Chai|Buri Ram|15564|
+12.3849|99.9016|Pran Buri|Prachuap Khiri Khan|47293|
+14.8544|104.0374|Prang Ku|Si Sa Ket|0|
+14.6260|103.4157|Prasat|Surin|0|
+15.5591|102.6979|Prathai|Nakhon Ratchasima|0|
+13.7173|100.6945|Pra Wet|Bangkok|0|
+19.1631|101.0280|Pua|Nan|0|
+15.8698|102.9077|Pueai Noi|Khon Kaen|4468|
+6.4898|101.4344|Raman|Yala|0|
+6.2968|101.7284|Ra-ngae|Narathiwat|16862|
+9.9658|98.6348|Ranong|Ranong|24561|
+7.7777|100.3213|Ranot|Songkhla|19780|
+15.3464|104.1862|Rasi Salai|Si Sa Ket|0|
+13.6763|100.4988|Rat Burana|Bangkok|86695|
+13.5367|99.8171|Ratchaburi|Ratchaburi|92448|
+13.7866|101.2814|Ratchasan|Chachoengsao|0|
+13.7603|100.5372|Ratchathewi|Bangkok|73035|
+7.9378|99.6677|Ratsada|Trang|0|
+15.3378|103.9054|Rattanaburi|Surin|0|
+18.1926|103.2376|Rattanawapi|Nong Khai|0|
+7.0749|100.1951|Rattaphum|Songkhla|0|
+7.7797|98.3253|Rawai|Phuket|13623|
+12.6809|101.2580|Rayong|Rayong|106737|
+17.0508|104.6566|Renu Nakhon|Nakhon Phanom|0|
+16.0567|103.6531|Roi Et|Roi Et|39328|
+16.2793|103.7124|Rong Kham|Kalasin|0|
+18.3390|100.3174|Rong Kwang|Phrae|12087|
+8.1791|99.8542|Ron Phibun|Nakhon Si Thammarat|26621|
+6.3745|101.5149|Rueso|Narathiwat|0|
+6.5297|100.9123|Saba Yoi|Songkhla|0|
+15.2383|100.8832|Sa Bot|Lop Buri|0|
+6.6388|100.4234|Sadao|Songkhla|46236|
+16.7099|103.5791|Sahatsakhan|Kalasin|0|
+6.7013|101.6167|Sai Buri|Pattani|14356|
+13.9073|100.6518|Sai Mai|Bangkok|188123|
+15.9792|104.1907|Sai Mun|Yasothon|0|
+16.4396|99.8746|Sai Ngam|Kamphaeng Phet|0|
+14.0063|100.3107|Sai Noi|Nonthaburi|0|
+16.3086|99.8785|Sai Thong Watthana|Kamphaeng Phet|0|
+14.2565|98.9337|Sai Yok|Kanchanaburi|0|
+13.8141|102.0722|Sa Kaeo|Sa Kaeo|28497|
+17.6598|102.7085|Sa Khrai|Nong Khai|0|
+16.5072|100.5235|Sak Lek|Phichit|0|
+17.1612|104.1472|Sakon Nakhon|Sakon Nakhon|76237|
+7.6134|99.0365|Saladan|Krabi|7946|
+16.8691|103.5224|Sam Chai|Kalasin|0|
+18.9003|98.6565|Samoeng|Chiang Mai|0|
+13.7423|100.5076|Samphanthawong|Bangkok|24150|
+13.7270|100.2153|Sam Phran|Nakhon Pathom|37115|
+12.2708|99.8720|Sam Roi Yot|Prachuap Khiri Khan|19709|
+14.9853|104.7914|Samrong|Ubon Ratchathani|0|
+15.0398|103.9409|Samrong Thap|Surin|0|
+13.7771|100.5508|Sam Sen Nai|Bangkok|30476|
+16.5621|103.0547|Sam Sung|Khon Kaen|0|
+13.5993|100.5968|Samut Prakan|Samut Prakan|388920|
+13.5475|100.2736|Samut Sakhon|Samut Sakhon|63498|
+13.4146|100.0026|Samut Songkhram|Samut Songkhram|35065|
+13.6261|101.6548|Sanam Chai Khet|Chachoengsao|0|
+14.5705|103.8391|Sangkha|Surin|0|
+15.1555|98.4536|Sangkhla Buri|Kanchanaburi|10000|
+18.0639|102.2736|Sangkhom|Nong Khai|3846|
+17.7943|103.0511|Sang Khom|Udon Thani|0|
+18.7449|99.1195|San Kamphaeng|Chiang Mai|32950|
+15.0211|100.1704|Sankhaburi|Chai Nat|0|
+15.1710|103.7848|Sanom|Surin|0|
+18.6283|98.8957|San Pa Tong|Chiang Mai|17773|
+18.9410|99.0405|San Sai|Chiang Mai|0|
+18.9119|101.0002|Santi Suk|Nan|0|
+14.5755|100.8439|Sao Hai|Saraburi|0|
+13.7653|100.6900|Saphan Sung|Bangkok|89825|
+15.1487|100.2551|Sapphaya|Chai Nat|0|
+14.5333|100.9167|Saraburi|Saraburi|67763|
+18.7051|99.0299|Saraphi|Chiang Mai|0|
+7.4796|100.4223|Sathing Phra|Songkhla|0|
+13.7174|100.5300|Sathon|Bangkok|84916|
+13.7500|100.5168|Sathorn|Bangkok|79624|
+12.6664|100.9007|Sattahip|Chon Buri|65444|
+15.2970|103.2919|Satuek|Buri Ram|11481|
+14.7463|100.2896|Sawaeng Ha|Ang Thong|0|
+15.6025|99.7849|Sawang Arom|Uthai Thani|0|
+17.4753|103.4575|Sawang Daen Din|Sakon Nakhon|16825|
+15.2416|105.0922|Sawang Wirawong|Ubon Ratchathani|7773|
+17.3160|99.8319|Sawankhalok|Sukhothai|19805|
+10.2401|99.0186|Sawi|Chumphon|0|
+17.9285|103.9552|Seka|Bueng Kan|16493|
+16.0470|104.0003|Selaphum|Roi Et|0|
+14.2960|100.3749|Sena|Phra Nakhon Si Ayutthaya|0|
+16.0513|104.6844|Senangkhanikhom|Amnat Charoen|0|
+13.8366|100.5773|Sena Nikhom|Bangkok|20393|
+7.6926|99.8732|Si Banphot|Phatthalung|0|
+16.9671|102.2761|Si Bun Rueang|Nong Bua Lam Phu|12842|
+17.9564|102.5867|Si Chiang Mai|Nong Khai|14068|
+16.7626|102.1308|Si Chom Phu|Khon Kaen|0|
+8.9498|99.8132|Sichon|Nakhon Si Thammarat|0|
+15.5641|102.5582|Sida|Nakhon Ratchasima|0|
+7.5712|99.3392|Sikao|Trang|0|
+14.9428|101.6067|Sikhio|Nakhon Ratchasima|0|
+14.8994|101.7083|Sikhiu|Nakhon Ratchasima|28681|Amphoe Sikhiu
+14.9475|103.7831|Si Khoraphum|Surin|0|
+15.4807|104.0948|Sila Lat|Si Sa Ket|0|
+13.8904|101.5418|Si Maha Phot|Prachin Buri|100563|
+13.8767|101.4250|Si Mahosot|Prachin Buri|18903|
+15.5630|105.3483|Si Mueang Mai|Ubon Ratchathani|0|
+17.3927|99.9767|Si Nakhon|Sukhothai|0|
+14.7808|103.8865|Si Narong|Surin|0|
+14.8879|100.4046|Sing Buri|Sing Buri|20046|
+7.2845|100.4881|Singhanakhon|Songkhla|0|
+14.6381|100.1505|Si Prachan|Suphan Buri|0|
+13.1737|100.9311|Si Racha|Chon Buri|178916|
+14.8106|104.4763|Si Rattana|Si Sa Ket|0|
+15.1125|105.4284|Sirindhorn|Ubon Ratchathani|0|
+15.1148|104.3294|Si Sa Ket|Si Sa Ket|44751|
+6.1936|101.5126|Si Sakhon|Narathiwat|0|
+17.1640|99.7467|Si Samrong|Sukhothai|0|
+17.5169|99.7598|Si Satchanalai|Sukhothai|25942|
+14.6725|99.1299|Si Sawat|Kanchanaburi|0|
+16.0195|103.5143|Si Somdet|Roi Et|0|
+17.6299|104.2450|Si Songkhram|Nakhon Phanom|0|
+17.0339|103.2308|Si That|Udon Thani|0|
+15.4425|101.1477|Si Thep|Phetchabun|0|
+18.1553|103.7798|Si Wilai|Bueng Kan|0|
+18.0941|99.1730|Soem Ngam|Lampang|0|
+14.4264|102.4606|Soeng Sang|Nakhon Ratchasima|14138|
+13.1703|102.2280|Soi Dao|Chanthaburi|0|
+16.7697|103.7501|Somdet|Kalasin|0|
+18.5701|100.2291|Song|Phrae|0|
+17.3088|103.4499|Song Dao|Sakon Nakhon|0|
+7.1988|100.5951|Songkhla|Songkhla|61758|
+19.4091|100.6617|Song Khwae|Nan|0|
+14.1890|99.9758|Song Phi Nong|Suphan Buri|0|
+18.1418|103.4492|So Phisai|Bueng Kan|0|
+17.9633|97.9315|Sop Moei|Mae Hong Son|0|
+17.8986|99.3408|Sop Prap|Lampang|0|
+7.5757|99.9105|Srinagarindra|Phatthalung|0|
+13.7299|100.6268|Suanluang|Bangkok|115658|
+13.5636|99.3113|Suan Phueng|Ratchaburi|0|
+5.9151|101.7381|Sukhirin|Narathiwat|0|
+17.0078|99.8230|Sukhothai|Sukhothai|37000|
+9.4157|98.4912|Suk Samran|Ranong|0|
+6.0298|101.9659|Su-ngai Kolok|Narathiwat|42776|
+6.1043|101.8933|Su-ngai Padi|Narathiwat|0|
+18.0354|100.1254|Sung Men|Phrae|0|
+14.8992|101.8208|Sung Noen|Nakhon Ratchasima|14365|
+14.4742|100.1222|Suphan Buri|Suphan Buri|53399|
+9.1401|99.3331|Surat Thani|Surat Thani|132040|
+14.8818|103.4936|Surin|Surin|46673|
+17.5461|102.2485|Suwannakhuha|Nong Bua Lam Phu|0|
+15.6035|103.8021|Suwannaphum|Roi Et|12221|
+16.8697|99.1290|Tak|Tak|24149|
+6.2595|102.0546|Tak Bai|Narathiwat|17241|
+15.3825|100.4669|Tak Fa|Nakhon Sawan|0|
+15.2634|100.3438|Takhli|Nakhon Sawan|0|
+8.8688|98.3389|Takua Pa|Phangnga|48004|
+8.2843|98.3895|Takua Thung|Phangnga|0|
+13.7727|100.4329|Taling Chan|Bangkok|105299|
+7.2878|100.0436|Tamot|Phatthalung|0|
+15.3903|105.1627|Tan Sum|Ubon Ratchathani|0|
+16.9402|104.1586|Tao Ngoi|Sakon Nakhon|0|
+16.2209|100.4198|Taphan Hin|Phichit|21895|
+14.0627|102.7260|Ta Phraya|Sa Kaeo|0|
+17.8500|102.5814|Tha Bo|Nong Khai|35292|
+9.6114|99.0361|Tha Chana|Surat Thani|0|
+14.7794|100.3935|Tha Chang|Sing Buri|0|
+9.3347|98.9562|Tha Chang|Surat Thani|0|
+16.0794|104.4278|Thai Charoen|Yasothon|0|
+8.4900|98.3129|Thai Mueang|Phangnga|0|
+9.1107|99.2321|Tha Kham|Surat Thani|25810|
+9.0302|98.9529|Tha Khanon|Surat Thani|7300|
+16.8833|103.2500|Tha Khantho|Kalasin|0|
+8.0341|98.3340|Thalang|Phuket|0|
+17.6128|101.4414|Tha Li|Loei|0|
+15.0479|101.1999|Tha Luang|Lop Buri|0|
+12.6214|102.0048|Tha Mai|Chanthaburi|22445|
+13.9000|99.7667|Tha Maka|Kanchanaburi|52907|
+14.0560|101.3722|Thambon Na Mueang|Prachin Buri|19910|
+8.4205|99.3952|Tham Phannara|Nakhon Si Thammarat|7119|
+13.9612|99.6412|Tha Muang|Kanchanaburi|26746|
+6.0804|101.2594|Than To|Yala|0|
+14.0285|100.7629|Thanyaburi|Pathum Thani|0|
+6.7954|99.9198|Tha Phae|Satun|0|
+16.1600|100.5966|Thap Khlo|Phichit|15528|
+17.8587|100.4706|Tha Pla|Uttaradit|0|
+8.5377|98.6321|Thap Put|Phangnga|0|
+11.5479|99.5716|Thap Sakae|Prachuap Khiri Khan|0|
+15.4606|99.8917|Thap Than|Uthai Thani|16615|
+13.8685|100.6453|Tha Raeng|Bangkok|97658|
+14.5674|100.7260|Tha Ruea|Phra Nakhon Si Ayutthaya|19116|
+10.7686|99.0988|Tha Sae|Chumphon|0|
+8.6937|99.8854|Tha Sala|Nakhon Si Thammarat|0|
+17.4748|98.1208|Tha Song Yang|Tak|0|
+13.3951|101.7346|Tha Takiap|Chachoengsao|0|
+15.6543|100.4594|Tha Tako|Nakhon Sawan|0|
+16.9364|104.7104|That Phanom|Nakhon Phanom|14424|
+15.3094|103.6511|Tha Tum|Surin|0|
+17.5926|104.4988|Tha Uthen|Nakhon Phanom|0|
+19.1315|100.7612|Tha Wang Pha|Nan|0|
+16.0278|103.7783|Thawatchaburi|Roi Et|0|
+13.7764|100.3662|Thawi Watthana|Bangkok|76351|
+14.8251|100.5092|Tha Wung|Lop Buri|0|
+12.9577|99.9056|Tha Yang|Phetchaburi|42602|
+6.7973|100.9103|Thepha|Songkhla|0|
+15.2864|101.5037|Thepharak|Nakhon Ratchasima|0|
+17.6129|99.2161|Thoen|Lampang|18459|
+19.6765|100.2010|Thoeng|Chiang Rai|0|
+13.7187|100.4837|Thon buri|Bangkok|119708|
+14.8328|98.6923|Thong Pha Phum|Kanchanaburi|0|
+17.4993|100.3966|Thong Saen Khan|Uttaradit|0|
+19.4634|100.9194|Thung Chang|Nan|0|
+17.4906|103.2209|Thung Fon|Udon Thani|0|
+17.9833|99.0500|Thung Hua Chang|Lamphun|0|
+15.9897|103.8709|Thung Khao Luang|Roi Et|0|
+13.6339|100.4964|Thung khru|Bangkok|116473|
+17.3708|99.5526|Thung Saliam|Sukhothai|0|
+14.7394|104.9173|Thung Si Udom|Ubon Ratchathani|0|
+8.1645|99.6804|Thung Song|Nakhon Si Thammarat|28223|
+10.0922|99.0534|Thung Tako|Chumphon|0|
+7.0492|99.7659|Thung Wa|Satun|0|
+8.2871|99.3720|Thung Yai|Nakhon Si Thammarat|0|
+6.6416|101.4465|Thung Yang Daeng|Pattani|0|
+15.6136|105.0644|Trakan Phuet Phon|Ubon Ratchathani|0|
+7.5563|99.6114|Trang|Trang|66713|
+12.2436|102.5151|Trat|Trat|21590|
+17.4723|100.1347|Tron|Uttaradit|0|
+16.7777|102.6754|Ubolratana|Khon Kaen|0|
+15.2384|104.8487|Ubon Ratchathani|Ubon Ratchathani|122533|
+17.4157|102.7859|Udon Thani|Udon Thani|130531|
+15.7950|98.8779|Umphang|Tak|0|
+14.3532|100.6964|Uthai|Phra Nakhon Si Ayutthaya|0|
+15.3794|100.0245|Uthai Thani|Uthai Thani|22219|
+14.4109|99.8895|U Thong|Suphan Buri|0|
+15.1230|104.1600|Uthumphon Phisai|Si Sa Ket|0|
+17.6256|100.0942|Uttaradit|Uttaradit|58313|
+13.7350|100.5828|Vadhana|Bangkok|0|
+16.5167|100.1167|Wachira Barami|Phichit|0|
+5.9004|101.8619|Waeng|Narathiwat|0|
+16.3001|103.9779|Waeng|Roi Et|13317|
+15.8063|102.4236|Waeng Noi|Khon Kaen|0|
+15.9253|102.4622|Waeng Yai|Khon Kaen|0|
+12.9625|101.5153|Wang Chan|Rayong|0|
+16.6331|99.1483|Wang Chao|Tak|0|
+17.8667|99.6499|Wang Chin|Phrae|0|
+14.9613|104.2193|Wang Hin|Si Sa Ket|0|
+14.8229|101.1335|Wang Muang|Saraburi|0|
+14.4479|101.8553|Wang Nam Khiao|Nakhon Ratchasima|0|
+13.5032|102.1812|Wang Nam Yen|Sa Kaeo|16299|
+14.2269|100.7155|Wang Noi|Phra Nakhon Si Ayutthaya|15865|
+19.1468|99.6193|Wang Nuea|Lampang|0|
+16.3505|100.8077|Wang Pong|Phetchabun|0|
+16.3885|100.5380|Wang Sai Phun|Phichit|8899|
+17.0460|103.4626|Wang Sam Mo|Udon Thani|0|
+17.3010|101.7685|Wang Saphung|Loei|15747|
+13.3611|102.1249|Wang Sombun|Sa Kaeo|0|
+16.8500|100.5833|Wang Thong|Phitsanulok|0|
+13.7819|100.6080|Wang Thong Lang|Bangkok|114768|
+7.7606|99.4086|Wang Wiset|Trang|0|
+17.0719|104.4537|Wangyang|Nakhon Phanom|0|
+17.6152|103.7654|Wanon Niwat|Sakon Nakhon|0|
+16.7203|104.7287|Wan Yai|Mukdahan|0|
+15.8452|103.3768|Wapi Pathum|Maha Sarakham|10198|
+17.2941|103.6382|Warichaphum|Sakon Nakhon|15760|
+15.1932|104.8628|Warin Chamrap|Ubon Ratchathani|43102|
+17.2569|103.6228|Waritchaphum|Sakon Nakhon|0|
+17.1638|100.3630|Wat Bot|Phitsanulok|0|
+13.4471|99.8696|Wat Phleng|Ratchaburi|0|
+15.2157|99.9668|Wat Sing|Chai Nat|0|
+13.7298|100.5854|Watthana|Bangkok|171150|
+13.8858|102.3565|Watthana Nakhon|Sa Kaeo|0|
+13.7346|100.4761|Wat Tha Phra|Bangkok|53111|
+19.8636|100.0006|Wiang Chai|Chiang Rai|0|
+20.0221|100.0747|Wiang Chiang Rung|Chiang Rai|0|
+19.5919|98.6585|Wiang Haeng|Chiang Mai|0|
+20.0087|100.4864|Wiang Kaen|Chiang Rai|0|
+16.7014|102.2919|Wiang Kao|Khon Kaen|0|
+18.4184|98.7586|Wiang Nong Long|Lamphun|0|
+19.3046|99.4493|Wiang Pa Pao|Chiang Rai|0|
+8.6358|99.3666|Wiang Sa|Surat Thani|11933|
+15.6578|101.1060|Wichian Buri|Phetchabun|39272|
+7.8894|98.3852|Wichit|Phuket|38701|
+14.3344|100.9646|Wihan Daeng|Saraburi|0|
+9.2197|98.8703|Wiphawadi|Surat Thani|0|
+14.5499|100.3174|Wiset Chai Chan|Ang Thong|19129|
+13.8167|100.5159|Wong Sawang|Bangkok|43005|
+6.4053|101.1268|Yaha|Yala|0|
+6.5400|101.2813|Yala|Yala|93558|
+15.2369|104.3908|Yang Chum Noi|Si Sa Ket|0|
+15.6495|103.0892|Yang Si Surat|Maha Sarakham|0|
+16.3998|103.3679|Yang Talat|Kalasin|13360|
+13.6918|100.5395|Yan na wa|Bangkok|81521|
+7.4258|99.7344|Yan Ta Khao|Trang|0|
+6.6924|101.3141|Yarang|Pattani|0|
+6.8662|101.3689|Yaring|Pattani|31111|
+15.7941|104.1451|Yasothon|Yasothon|21643|
+6.4165|101.7004|Yi-ngo|Narathiwat|0|

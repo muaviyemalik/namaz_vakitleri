@@ -1,10 +1,10 @@
-13.2368|-61.2728|Barrouallie
-13.1943|-61.1390|Biabou
-13.2564|-61.1195|Byera Village
-13.1287|-61.1918|Calliaqua
-13.2907|-61.2404|Chateaubelair
-13.2805|-61.1185|Georgetown
-13.1553|-61.2274|Kingstown
-13.1592|-61.2316|Kingstown Park
-13.2018|-61.2701|Layou
-13.0110|-61.2355|Port Elizabeth
+13.2368|-61.2728|Barrouallie|Saint Patrick|1000|
+13.1943|-61.1390|Biabou|Charlotte|1050|
+13.2564|-61.1195|Byera Village|Charlotte|1365|
+13.1287|-61.1918|Calliaqua|Saint George Parish|24205|
+13.2907|-61.2404|Chateaubelair|Saint David|735|
+13.2805|-61.1185|Georgetown|Charlotte|1680|
+13.1553|-61.2274|Kingstown|Saint George|24518|
+13.1592|-61.2316|Kingstown Park|Saint George|0|
+13.2018|-61.2701|Layou|Saint Andrew|140|
+13.0110|-61.2355|Port Elizabeth|Grenadines|839|

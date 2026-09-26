@@ -1,16 +1,33 @@
 // lib/widgets/sehir_secici.dart
 //
-// Seçili ülkenin şehirlerini arama kutusuyla listeleyen diyalog.
+// Secili ulkenin sehirlerini iki sekmeyle listeleyen diyalog.
 //
-// Şehir dosyası yalnızca bu diyalog açıldığında yüklenir ve sonraki
-// açılışlarda önbellekten gelir. En kalabalık ülke (ABD, 12 bin şehir)
-// bile 334 KB'dır.
-
+// NEDEN SEKME VAR?
+// Veri tabani ilce ve koy duzeyini de iceriyor. Turkiye icin 1.049 kayit
+// var; bunlarin 615'i nufusu 15.000'in altinda kucuk yerlesimler. Bunlar
+// alfabetik sirayla listelenince kullanici ilk ekranda "Abana, Acigul,
+// Adakli" goruyor, Adana ancak 6. sırada. Kullanicinin onu birSure
+// kaydirmasina gerek kalmasin diye varsayilan sekme SADECE sehirleri
+// gosterir ve nufusa gore buyukten kucuge siralar. Koyler ayri sekmede,
+// alfabetik sirayla durur.
+//
+// AYIRT ETME
+// Ayni adi tasiyan farkli yerler vardir:
+//
+//   Ankara / Golbasi     165.201 kişi
+//   Adiyaman / Golbasi     28.078 kişi
+//
+// Kullanici "Golbasi" yazdiginda ikisini de gorur; ilk satirinda hangisinin
+// Ankara'da oldugu yazar. Bu ayrim veri katmaninda mumkun olur cunku her
+// kayit il bilgisini tasir.
+//
+// Dosya yalnizca bu diyalog acildiginda yuklenir ve sonraki acilislarda
+// onbellekten gelir. En kalabalik ulke dosyasi (ABD) 400 KB'dir.
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 import 'package:namaz_vakitleri/data/ulke_verisi.dart';
 
-/// Şehir seçim diyaloğunu açar. Seçim yapılırsa [Sehir] döner.
+/// Sekme seciciyi gosterir. Secim yapilirsa [Sehir] doner.
 Future<Sehir?> sehirSeciciGoster(BuildContext context, String iso2Kodu) {
   return showDialog<Sehir>(
     context: context,
@@ -27,23 +44,35 @@ class _SehirSeciciDialog extends StatefulWidget {
   State<_SehirSeciciDialog> createState() => _SehirSeciciDialogState();
 }
 
-class _SehirSeciciDialogState extends State<_SehirSeciciDialog> {
+class _SehirSeciciDialogState extends State<_SehirSeciciDialog>
+    with SingleTickerProviderStateMixin {
   final TextEditingController _aramaKutusu = TextEditingController();
   List<Sehir> _tumSehirler = const [];
   String _sorgu = '';
   bool _yukleniyor = true;
   String? _hata;
+  late final TabController _sekme;
 
   @override
   void initState() {
     super.initState();
-    _aramaKutusu.addListener(() => setState(() => _sorgu = _aramaKutusu.text));
+    _sekme = TabController(length: 2, vsync: this);
+    _aramaKutusu.addListener(_aramaDegisti);
     _yukle();
+  }
+
+  void _aramaDegisti() {
+    final yeni = _aramaKutusu.text;
+    if (yeni == _sorgu) return;
+    setState(() => _sorgu = yeni);
   }
 
   @override
   void dispose() {
-    _aramaKutusu.dispose();
+    _aramaKutusu
+      ..removeListener(_aramaDegisti)
+      ..dispose();
+    _sekme.dispose();
     super.dispose();
   }
 
@@ -53,6 +82,7 @@ class _SehirSeciciDialogState extends State<_SehirSeciciDialog> {
       if (!mounted) return;
       setState(() {
         _tumSehirler = liste;
+        _bolunmus = UlkeVerisi.bol(liste);
         _yukleniyor = false;
         _hata = liste.isEmpty ? 'empty' : null;
       });
@@ -65,12 +95,30 @@ class _SehirSeciciDialogState extends State<_SehirSeciciDialog> {
     }
   }
 
+  /// Arama yapiliyorsa bulunanlar, yoksa sekmeye gore filtrelenmis tam liste.
+  ///
+  /// Sekme mantigi: arama bosken "Sehirler" sekmesi yalnizca sehirleri
+  /// gosterir; "Koyler" sekmesi koyleri gosterir. Arama yazildiginda iki
+  /// sekme de arama sonuclarini gosterir, cunku kullanici ne aradigini
+  /// bilmiyor olabilir ve koy olabilir.
+  ///
+  /// Bolme ve siralama [UlkeVerisi.bol] icinde yapilir; mantik orada
+  /// test edilebilir.
+  late (List<Sehir>, List<Sehir>) _bolunmus = (const [], const []);
+
+  List<Sehir> _liste(bool koySekmesi) {
+    if (_sorgu.trim().isNotEmpty) {
+      return UlkeVerisi.ara(_tumSehirler, _sorgu);
+    }
+    return koySekmesi ? _bolunmus.$2 : _bolunmus.$1;
+  }
+
   @override
   Widget build(BuildContext context) {
-    // Sorgu boşken ilk 300 şehir, doluyken eşleşenler.
-    final sonuc = _sorgu.trim().isEmpty
-        ? _tumSehirler.take(300).toList(growable: false)
-        : UlkeVerisi.ara(_tumSehirler, _sorgu, enFazla: 300);
+    final aramaVar = _sorgu.trim().isNotEmpty;
+    final sehirler = _liste(false);
+    final koyler = _liste(true);
+    final aktifListe = _sekme.index == 0 ? sehirler : koyler;
 
     return Dialog(
       insetPadding: const EdgeInsets.symmetric(horizontal: 12, vertical: 24),
@@ -79,9 +127,9 @@ class _SehirSeciciDialogState extends State<_SehirSeciciDialog> {
         height: MediaQuery.of(context).size.height * 0.85,
         child: Column(
           children: [
-            // --- Başlık ---
+            // --- Baslik ---
             Padding(
-              padding: const EdgeInsets.fromLTRB(16, 16, 8, 8),
+              padding: const EdgeInsets.fromLTRB(16, 16, 8, 0),
               child: Row(
                 children: [
                   Icon(Icons.location_city,
@@ -90,7 +138,8 @@ class _SehirSeciciDialogState extends State<_SehirSeciciDialog> {
                   Expanded(
                     child: Text(
                       'select_city'.tr(),
-                      style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
+                      style: const TextStyle(
+                          fontWeight: FontWeight.bold, fontSize: 18),
                     ),
                   ),
                   IconButton(
@@ -103,7 +152,7 @@ class _SehirSeciciDialogState extends State<_SehirSeciciDialog> {
 
             // --- Arama kutusu ---
             Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
+              padding: const EdgeInsets.fromLTRB(16, 4, 16, 8),
               child: TextField(
                 controller: _aramaKutusu,
                 textInputAction: TextInputAction.search,
@@ -122,15 +171,33 @@ class _SehirSeciciDialogState extends State<_SehirSeciciDialog> {
               ),
             ),
 
-            // --- Sonuç sayısı ---
-            if (!_yukleniyor && _hata == null)
+            // --- Sekmeler ---
+            // Arama sirasinda sekmeler gizlenir: kullanici ne aradigini
+            // yazdiginda "sehir" ile "koy" ayrimi anlamli degildir.
+            if (!aramaVar)
+              TabBar(
+                controller: _sekme,
+                tabs: [
+                  Tab(text: 'cities_tab'.tr()),
+                  Tab(text: 'villages_tab'.tr()),
+                ],
+              )
+            else
               Padding(
-                padding: const EdgeInsets.fromLTRB(18, 2, 18, 6),
+                padding: const EdgeInsets.only(bottom: 6),
+                child: Text(
+                  '${'cities_found'.tr()}: ${aktifListe.length} / ${_tumSehirler.length}',
+                  style: TextStyle(fontSize: 12, color: Colors.grey.shade600),
+                ),
+              ),
+
+            if (!aramaVar)
+              Padding(
+                padding: const EdgeInsets.fromLTRB(18, 6, 18, 0),
                 child: Align(
                   alignment: Alignment.centerLeft,
                   child: Text(
-                    '${'cities_found'.tr()}: ${sonuc.length}'
-                    '${_sorgu.trim().isEmpty ? '' : ' / ${_tumSehirler.length}'}',
+                    '${'cities_found'.tr()}: ${aktifListe.length}',
                     style: TextStyle(fontSize: 12, color: Colors.grey.shade600),
                   ),
                 ),
@@ -154,25 +221,69 @@ class _SehirSeciciDialogState extends State<_SehirSeciciDialog> {
                             ),
                           ),
                         )
-                      : sonuc.isEmpty
-                          ? Center(child: Text('no_results'.tr()))
-                          : ListView.builder(
-                              itemCount: sonuc.length,
-                              itemBuilder: (context, i) {
-                                final s = sonuc[i];
-                                return ListTile(
-                                  dense: true,
-                                  leading: Icon(Icons.place_outlined,
-                                      color: Theme.of(context).colorScheme.primary),
-                                  title: Text(s.ad),
-                                  onTap: () => Navigator.pop(context, s),
-                                );
-                              },
+                      : aramaVar
+                          ? _listeGoster(aktifListe)
+                          : TabBarView(
+                              controller: _sekme,
+                              children: [
+                                _listeGoster(sehirler),
+                                _listeGoster(koyler),
+                              ],
                             ),
             ),
           ],
         ),
       ),
     );
+  }
+
+  Widget _listeGoster(List<Sehir> liste) {
+    if (liste.isEmpty) {
+      return Center(child: Text('no_results'.tr()));
+    }
+    return ListView.builder(
+      itemCount: liste.length,
+      itemBuilder: (context, i) {
+        final s = liste[i];
+        // "Kahramanmaras / Dulkadiroglu" -> il kalin, ilce gri ve normal.
+        final etiketParcalari = s.etiket().split(' / ');
+        final basaIlVar = etiketParcalari.length > 1;
+        return ListTile(
+          dense: true,
+          leading: Icon(Icons.place_outlined,
+              color: Theme.of(context).colorScheme.primary),
+          title: basaIlVar
+              ? Text.rich(
+                  TextSpan(children: [
+                    TextSpan(
+                      text: '${etiketParcalari.first} / ',
+                      style: const TextStyle(fontWeight: FontWeight.bold),
+                    ),
+                    TextSpan(text: etiketParcalari.skip(1).join(' / ')),
+                  ]),
+                )
+              : Text(s.ad),
+          subtitle: s.nufus > 0
+              ? Text(_nufusBicim(s.nufus), style: const TextStyle(fontSize: 11))
+              : null,
+          onTap: () => Navigator.pop(context, s),
+        );
+      },
+    );
+  }
+
+  /// Nfusu yerel sayilara gore bicimler: 1.578.722 -> "1,58 Mn" gibi.
+  ///
+  /// Uygulamanin geri kalaninda da ayni bicim kullaniliyor; tek bir yerden
+  /// gelmesi icin [UlkeVerisi] yerine burada sadelestirilmis bir surum
+  /// kullaniliyor (cunku bu bir veri katmani, arayuz degil).
+  String _nufusBicim(int nufus) {
+    if (nufus >= 1000000) {
+      return '${(nufus / 1000000).toStringAsFixed(1)}M';
+    }
+    if (nufus >= 1000) {
+      return '${(nufus / 1000).toStringAsFixed(0)}K';
+    }
+    return '$nufus';
   }
 }

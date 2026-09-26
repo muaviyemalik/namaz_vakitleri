@@ -1,1648 +1,1663 @@
-52.6889|4.7019|Aagtdorp
-51.5467|3.5097|Aagtekerke
-51.7548|5.1316|Aalburg
-52.7900|6.7181|Aalden
-52.2592|4.7597|Aalsmeer
-52.2758|4.7500|Aalsmeerderbrug
-51.7825|5.1278|Aalst
-51.9250|6.5806|Aalten
-51.2733|3.4472|Aardenburg
-51.5098|5.6384|Aarle-Rixtel
-52.7444|4.9536|Aartswoud
-52.7317|5.0181|Abbekerk
-52.2339|4.5894|Abbenes
-52.2725|4.9694|Abcoude
-51.5275|5.0833|Abcoven
-50.9167|6.0333|Abdissenbosch
-52.1362|4.4525|Adegeest
-53.2567|6.4597|Aduard
-51.8800|5.6347|Afferden
-52.5603|4.7283|Akersloot
-51.4141|5.5596|Akert
-53.0502|5.8309|Akkrum
-51.8658|4.6611|Alblasserdam
-53.0500|5.9000|Aldeboarn
-53.1886|5.8282|Aldlân-Oost
-52.6317|4.7486|Alkmaar
-52.3567|6.6625|Almelo
-52.3702|5.2141|Almere Stad
-51.7708|4.9597|Almkerk
-51.4817|4.9583|Alphen
-52.1292|4.6555|Alphen aan den Rijn
-51.8042|5.7597|Alverna
-50.8621|5.7323|Amby
-51.4367|5.9792|America
-52.0025|5.4597|Amerongen
-52.1550|5.3875|Amersfoort
-51.9275|4.8083|Ammerstol
-51.7492|5.2208|Ammerzoden
-52.3008|4.8639|Amstelveen
-50.9392|5.9236|Amstenrade
-52.3740|4.8897|Amsterdam
-52.3741|4.8994|Amsterdam-Centrum
-52.3565|4.8064|Amsterdam Nieuw-West
-52.3521|4.9335|Amsterdam-Oost
-52.3776|4.8660|Amsterdam-West
-52.3469|4.8768|Amsterdam-Zuid
-52.3075|4.9722|Amsterdam-Zuidoost
-51.7833|5.0583|Andel
-51.9083|5.7292|Andelst
-52.7500|5.2200|Andijk
-52.7809|6.9264|Angelslo
-51.9158|5.9583|Angeren
-51.9958|6.1347|Angerlo
-52.2653|5.0989|Ankeveen
-52.2589|5.1016|Ankeveense Rade
-52.2311|5.9850|Anklaar
-53.0575|6.7194|Annen
-52.2100|5.9694|Apeldoorn
-52.9553|6.3505|Appelscha
-53.3217|6.8583|Appingedam
-51.4767|6.1806|Arcen
-51.8642|4.9944|Arkel
-51.5017|3.6750|Arnemuiden
-51.9800|5.9111|Arnhem
-52.9967|6.5625|Assen
-52.4667|4.7500|Assendelft
-51.4042|5.7486|Asten
-53.2178|6.1617|Augustinusga
-52.0800|5.3153|Austerlitz
-52.6175|4.9514|Avenhorn
-51.2667|3.9083|Axel
-52.5858|6.6530|Baalder
-52.2458|4.9889|Baambrugge
-51.6925|5.0963|Baardwijk
-51.4475|4.9292|Baarle-Nassau
-51.3308|6.0944|Baarlo
-52.2117|5.2875|Baarn
-51.9075|6.1111|Babberich
-52.3381|4.7803|Badhoevedorp
-53.3625|6.5139|Baflo
-51.5033|5.7403|Bakel
-52.0051|5.8771|Bakenberg
-52.8698|5.4593|Bakhuizen
-53.0807|6.2567|Bakkeveen
-52.5583|4.6567|Bakkum
-52.8976|5.5796|Balk
-52.6722|6.7330|Ballast
-52.7358|5.1801|Bangert
-50.7900|5.8083|Banholt
-51.8567|4.5347|Barendrecht
-53.0842|4.8347|Bargen
-52.7615|6.8815|Bargeres
-52.7700|6.9583|Barger-Oosterveld
-52.1400|5.5847|Barneveld
-52.7853|4.8417|Barsingerhorn
-51.5658|4.8306|Bavel
-53.3008|6.6028|Bedum
-51.1892|5.9194|Beegden
-50.9408|5.7972|Beek
-52.1600|5.9639|Beekbergen
-51.9067|6.1875|Beek gem Montferland
-52.5500|4.9278|Beemster
-51.7258|5.8278|Beers
-50.9060|5.9644|Beersdal
-51.8875|5.1917|Beesd
-51.2683|6.0389|Beesel
-52.5892|4.9775|Beets
-53.0591|6.0771|Beetsterzwaag
-52.8633|6.5139|Beilen
-52.2872|4.5944|Beinsdorp
-51.5991|4.7699|Belcrum
-50.8470|5.6599|Belfort
-53.1158|7.1653|Bellingwolde
-52.9042|4.9539|Belt
-52.0667|6.5639|Beltrum
-51.8917|5.8986|Bemmel
-52.3208|4.5986|Bennebroek
-51.9983|5.6764|Bennekom
-52.7031|5.0097|Benningbroek
-52.0775|4.5444|Benthuizen
-52.3658|4.5717|Bentveld
-50.8617|5.7833|Berg
-51.3018|5.3395|Bergeijk
-52.6703|4.7054|Bergen
-52.2201|5.9334|Berg en Bos
-51.8217|5.9167|Berg en Dal
-51.4950|4.2917|Bergen op Zoom
-51.8508|5.6694|Bergharen
-51.7699|5.5683|Berghem
-51.9900|4.4986|Bergschenhoek
-51.9225|4.7847|Bergstoep
-51.3367|5.9486|Beringe
-51.9931|4.4787|Berkel en Rodenrijs
-52.1061|6.5675|Berkelland
-51.9450|4.7069|Berkenwoude
-52.6408|5.0014|Berkhout
-52.6856|4.8983|Berkmeer
-52.5239|6.1365|Berkum
-51.6775|5.4000|Berlicum
-53.2437|5.6510|Berltsum
-51.6833|5.0500|Besoijen
-51.5075|5.3903|Best
-51.5638|5.0866|Besterd
-51.8608|5.7667|Beuningen
-51.9500|5.2917|Beusichem
-52.4833|4.6569|Beverwijk
-52.4550|5.6931|Biddinghuizen
-51.6061|4.7851|Biesdonk
-50.8411|5.6757|Biesland
-52.3186|4.9653|Bijlmermeer
-52.2859|5.2653|Bijvanck
-53.2155|5.7957|Bilgaard
-52.1300|5.2014|Bilthoven
-52.1642|4.5364|Binnenhof
-52.2130|5.9596|Binnenstad
-51.6687|5.6092|Bitswijk
-51.4250|5.4578|Blaarthem
-51.3683|5.2208|Bladel
-52.2725|5.2417|Blaricum
-52.8956|4.7819|Blauwe Keet
-50.8554|6.0679|Bleijerheide
-52.0108|4.5319|Bleiswijk
-51.3717|6.1486|Blerick
-51.8725|4.7833|Bleskensgraaf
-53.1092|7.0764|Blijham
-51.5308|6.1083|Blitterswijck
-52.4025|4.6222|Bloemendaal
-51.8972|4.4994|Bloemhof
-52.6692|5.1181|Blokker
-52.7267|5.9611|Blokzijl
-52.6536|5.0044|Bobeldijk
-50.8183|6.0056|Bocholtz
-52.0825|4.7500|Bodegraven
-52.0654|4.7663|Bodegraven-Reeuwijk
-51.6033|5.6750|Boekel
-52.3583|4.7283|Boesingheliede
-51.8950|4.5792|Bolnes
-53.0656|5.5318|Bolsward
-53.0828|6.0458|Boornbergum
-52.1158|6.5222|Borculo
-52.2763|6.1493|Borgele
-52.9233|6.7931|Borger
-50.8775|5.6875|Borgharen
-51.0317|5.8097|Born
-52.3014|6.7482|Borne
-51.4233|3.7347|Borssele
-52.1167|5.2417|Bosch en Duin
-52.3787|4.8505|Bos en Lommer
-52.3308|6.1278|Boskamp
-52.0750|4.6556|Boskoop
-51.5608|4.5403|Bosschenhoofd
-51.8233|4.8819|Boven-Hardinxveld
-52.7000|5.2500|Bovenkarspel
-51.6467|5.9472|Boxmeer
-51.5908|5.3292|Boxtel
-51.5358|5.9681|Brabander
-51.1469|5.9045|Brachterbeek
-51.8175|5.0903|Brakel
-51.8132|5.8654|Brakkenstein
-51.4584|5.6243|Brand
-51.5866|4.7760|Breda
-51.9417|6.6208|Bredevoort
-51.7602|5.9419|Bredeweg
-52.8900|4.8042|Breezand
-52.7167|4.6833|Bregtdorp
-51.3958|3.5556|Breskens
-51.5175|5.5111|Breugel
-52.1742|5.0014|Breukelen
-52.1781|5.0692|Breukeleveen
-51.9017|4.1625|Brielle
-52.2130|5.9517|Brinkhorst
-50.8712|5.8207|Broekhem
-51.5480|5.0918|Broekhoven
-52.4342|4.9958|Broek in Waterland
-52.6742|4.8056|Broek op Langedijk
-51.0029|5.8951|Broeksittard
-53.2747|5.9965|Broeksterwâld
-51.7267|3.9125|Brouwershaven
-51.7867|5.2361|Bruchem
-51.6617|4.0944|Bruinisse
-51.5210|5.9927|Brukske
-52.2050|5.9679|Brummelhof
-52.0900|6.1556|Brummen
-52.5618|5.9034|Brunnepe
-50.9467|5.9708|Brunssum
-51.0433|5.8097|Buchten
-51.2717|5.5750|Budel
-51.2367|5.5875|Budel-Dorplein
-51.2475|5.5653|Budel-Schoot
-51.2851|5.7590|Budschop
-52.3989|4.9221|Buiksloot
-52.4035|4.9374|Buikslotermeer
-52.2197|4.5608|Buitenkaag
-53.2517|6.1448|Buitenpost
-52.3300|4.8742|Buitenveldert
-50.8967|5.7319|Bunde
-52.0667|5.1986|Bunnik
-52.2430|5.3788|Bunschoten
-53.2942|5.8790|Burdaard
-51.9894|5.8960|Burgemeesterswijk
-52.7481|4.7022|Burgerbrug
-52.2403|4.6822|Burgerveen
-52.7539|4.6819|Burgervlotbrug
-53.1924|5.9901|Burgum
-52.2733|5.1611|Bussum
-52.6497|4.8167|Butterhuizen
-52.8400|4.6958|Callantsoog
-52.2333|4.7308|Calslagen
-53.2097|5.8432|Camminghaburen
-52.7333|4.6500|Camperduin
-51.9292|4.5778|Capelle aan den IJssel
-51.9167|4.5667|Capelle-West
-51.8893|4.4776|Carnisse
-52.5483|4.6694|Castricum
-52.7139|4.6817|Catrijp
-51.5058|4.8611|Chaam
-50.8755|6.0598|Chevremont
-53.1941|6.5894|Coendersborg
-51.4174|5.5746|Coevering
-52.6610|6.7405|Coevorden
-51.5992|3.8486|Colijnsplaat
-52.5090|4.6584|Commandeurs
-52.1898|5.9661|Componistenkwartier
-52.2164|5.4653|Corlaer
-51.9967|5.3083|Cothen
-51.3042|5.5889|Cranendonck
-52.3333|4.6333|Cruquius
-51.7308|5.8792|Cuijk
-51.9550|5.2278|Culemborg
-52.6992|6.7556|Dalen
-52.5117|6.2569|Dalfsen
-53.2905|5.9978|Damwâld
-51.4930|3.6262|Dauwendaele
-52.3514|4.7792|De Aker
-52.1100|5.1806|De Bilt
-51.5463|5.0446|De Blaak
-52.1855|5.9470|De Bouwhof
-53.1550|4.8667|De Cocksdorp
-53.0311|5.6772|De Domp
-51.4384|5.5089|De Doornakkers
-53.0974|6.0679|De Drait
-51.8900|5.6667|Deest
-52.9691|5.7725|De Fryske Marren
-52.3308|4.6111|De Glip
-52.6258|4.9472|De Goorn
-52.9496|5.9137|De Greiden
-51.9938|5.1026|De Hagen
-52.8883|4.9361|De Haukes
-52.2105|5.9741|De Haven
-50.8245|5.7231|De Heeg
-52.2006|5.9536|De Heeze
-52.2490|6.1437|De Hoven
-52.6361|5.0222|De Hulk
-51.8842|5.2431|Deil
-52.1233|4.3584|De Kieviet
-52.9683|5.9712|De Knipe
-53.0975|4.7611|De Koog
-52.9144|4.7858|De Kooy
-51.6998|5.2603|De Kruiskamp
-52.2408|4.7908|De Kwakel
-52.2600|6.7111|Delden
-51.9049|4.4531|Delfshaven
-52.0067|4.3556|Delft
-53.3300|6.9181|Delfzijl
-51.9750|4.2486|De Lier
-52.6717|6.7397|De Loo
-52.5190|4.6817|De Maer
-52.0817|5.0361|De Meern
-52.2195|5.9914|De Mheen
-53.0542|4.7972|Den Burg
-51.6650|5.3722|Den Dungen
-52.4658|6.4958|Den Ham
-52.9599|4.7593|Den Helder
-53.0250|4.7511|Den Hoorn
-52.4503|4.9075|Den Ilp
-52.9335|5.0308|Den Oever
-52.7075|4.8514|De Noord
-51.8236|4.8216|De Peulen
-52.3531|4.8961|De Pijp
-51.5604|5.0493|De Reit
-52.5567|4.8458|De Rijp
-51.7167|5.3167|De Rompert
-52.8122|4.7297|De Stolpen
-52.0853|5.1746|De Uithof
-51.6867|5.2667|Deuteren
-52.2550|6.1639|Deventer
-53.0719|4.8228|De Waal
-52.3735|4.8981|De Wallen
-52.7744|4.8669|De Weere
-53.2573|6.0363|De Westereen
-53.1945|6.5712|De Wijert
-52.6733|6.2903|De Wijk
-52.5467|4.7736|De Woude
-51.9408|6.1319|Didam
-52.3396|4.9626|Diemen
-52.2000|6.5556|Diepenheim
-52.0525|6.1000|Dieren
-51.4758|5.1750|Diessen
-52.8542|6.3181|Diever
-51.6350|4.3694|Dinteloord
-52.7500|4.7750|Dirkshorn
-51.7492|4.1000|Dirksland
-50.9675|5.9069|Doenrade
-52.0125|6.1389|Doesburg
-51.9650|6.2889|Doetinchem
-53.3222|5.9970|Dokkum
-51.5633|3.4958|Domburg
-51.3462|5.4339|Dommelen
-51.6267|4.9389|Dongen
-51.5384|5.6291|Donk
-53.0173|6.2393|Donkerbroek
-51.5667|5.6944|Doonheide
-52.0334|5.3457|Doorn
-51.8900|6.0000|Doornenburg
-52.4183|5.8181|Doornspijk
-52.2300|5.4542|Doornsteeg
-51.9792|5.7972|Doorwerth
-51.8100|4.6736|Dordrecht
-51.5900|4.8569|Dorst
-53.1125|6.0989|Drachten
-53.1346|6.1415|Drachtstercompagnie
-52.6645|5.1657|Drechterland
-52.0533|5.2806|Driebergen-Rijsenburg
-52.0442|4.8000|Driebruggen
-52.4472|4.6367|Driehuis
-52.2088|5.9444|Driehuizen
-51.9592|5.8139|Driel
-52.0518|4.4850|Driemanspolder
-52.3058|5.0167|Driemond
-53.2021|6.1118|Drogeham
-53.2000|5.6500|Dronryp
-52.5250|5.7181|Dronten
-51.8970|5.4104|Drumpt
-51.6858|5.1333|Drunen
-51.8883|5.6056|Druten
-52.0908|4.2604|Duindorp
-52.1048|4.3249|Duinzigt
-51.9467|6.0139|Duiven
-52.3294|4.9396|Duivendrecht
-51.3683|5.2972|Duizel
-52.3777|4.9891|Durgerdam
-52.8342|6.3694|Dwingeloo
-53.1747|6.0600|Eastermar
-52.8714|5.8215|Echtenerbrug
-51.4732|5.4945|Eckart
-52.5121|5.0480|Edam
-52.5019|5.0614|Edam-Volendam
-52.0333|5.6583|Ede
-52.0633|5.5778|Ederveen
-52.1667|6.2250|Eefde
-53.1358|6.5625|Eelde
-52.7425|4.7256|Eenigenburg
-53.3625|6.4583|Eenrum
-52.1050|6.0583|Eerbeek
-51.6042|5.4986|Eerde
-51.5683|5.4736|Eerschot
-51.3575|5.3181|Eersel
-53.0175|6.7347|Eext
-53.1639|6.9834|Eexta
-51.3142|5.9722|Egchel
-52.6219|4.6531|Egmond aan den Hoef
-52.6204|4.6270|Egmond aan Zee
-52.5958|4.6556|Egmond-Binnen
-52.1000|6.6486|Eibergen
-50.7800|5.7177|Eijsden
-50.8009|5.7741|Eijsden-Margraten
-51.4408|5.4778|Eindhoven
-51.0017|5.8278|Einighausen
-51.3966|5.4862|Ekenrooi
-52.4475|5.8431|Elburg
-51.9583|5.8819|Elden
-52.0325|6.0875|Ellecom
-51.7008|5.1417|Elshout
-50.9492|5.7708|Elsloo
-52.2917|5.7889|Elspeet
-51.9192|5.8417|Elst
-52.7108|5.7486|Emmeloord
-52.7792|6.9069|Emmen
-52.8117|7.0472|Emmer-Compascuum
-52.8067|6.9889|Emmer-Erfscheidenveen
-52.7876|6.9388|Emmerhout
-52.8007|6.8932|Emmermeer
-52.8008|6.9389|Emmerschans
-52.3158|5.9736|Emst
-52.7033|5.2917|Enkhuizen
-52.6367|5.8278|Ens
-52.2183|6.8958|Enschede
-51.5785|5.1388|Enschot
-52.3475|5.9833|Epe
-52.2250|6.2000|Epse
-52.2983|5.6222|Ermelo
-51.6000|5.6069|Erp
-51.6108|5.2903|Esch
-52.0853|4.3726|Essesteijn
-52.5850|5.0222|Etersheim
-51.9167|6.3361|Etten
-52.8825|6.8639|Exloo
-53.3217|6.9264|Farmsum
-53.2356|5.9883|Feanwâlden
-51.9117|4.5065|Feijenoord
-53.3378|5.8253|Ferwert
-51.6375|4.4694|Fijnaart
-52.5458|5.9134|Flevowijk
-53.1855|5.5412|Franeker
-52.5250|6.0681|Frankhuis
-52.9214|4.7667|Friese Buurt
-51.6017|4.7389|Gageldonk
-51.8008|5.2042|Gameren
-52.2308|5.7139|Garderen
-53.1667|5.9667|Garyp
-52.9717|6.7944|Gasselte
-52.9883|6.8528|Gasselternijveen
-51.3593|5.4602|Geenhoven
-51.7017|4.8569|Geertruidenberg
-51.7400|5.4639|Geffen
-52.0038|5.9386|Geitenkamp
-51.8808|5.2889|Geldermalsen
-51.8797|5.2801|Geldermalsen-West
-51.4217|5.5597|Geldrop
-50.9742|5.8292|Geleen
-53.3193|6.8486|Gemeente Appingedam
-53.3002|6.9313|Gemeente Delfzijl
-53.2237|6.5648|Gemeente Groningen
-53.3385|6.7215|Gemeente Loppersum
-53.1686|7.0422|Gemeente Oldambt
-53.0597|6.9651|Gemeente Pekela
-53.0001|6.9891|Gemeente Stadskanaal
-53.0895|6.8792|Gemeente Veendam
-51.5558|5.6903|Gemert
-51.6183|5.3569|Gemonde
-51.7358|5.0875|Genderen
-51.8733|6.3764|Gendringen
-51.8775|5.9708|Gendt
-51.6983|5.9736|Gennep
-51.4092|5.5389|Genoenhuis
-51.4900|5.5625|Gerwen
-52.3779|4.7996|Geuzenveld
-51.9933|6.0667|Giesbeek
-51.7900|5.0306|Giessen
-51.8508|4.8903|Giessenburg
-51.8326|4.8358|Giessendam
-53.0050|6.7639|Gieten
-52.7400|6.0792|Giethoorn
-51.5442|4.9403|Gilze
-51.5659|4.7931|Ginneken
-52.2158|6.9708|Glanerbrug
-53.1392|6.6292|Glimmen
-51.8175|3.9806|Goedereede
-51.5042|3.8889|Goes
-51.5208|5.0667|Goirle
-52.2974|5.1337|Gooise Meren
-52.2333|6.5861|Goor
-51.8365|4.9724|Gorinchem
-53.0066|6.0640|Gorredijk
-52.2017|6.2014|Gorssel
-52.0167|4.7083|Gouda
-51.9842|4.6778|Gouderak
-51.7942|4.2764|Goudswaard
-53.1773|5.8037|Goutum
-52.7294|4.9625|Gouwe
-52.1194|4.6690|Gouwsluis
-50.8518|6.0279|Gracht
-52.5825|5.9333|Grafhorst
-52.5608|4.8339|Graft
-51.3608|5.9431|Grashoek
-51.4392|5.4154|Grasrijk
-51.7590|5.7388|Grave
-51.0383|5.7750|Grevenbicht
-51.5055|3.5960|Griffioen
-53.2625|6.3083|Grijpskerk
-51.5342|3.5611|Grijpskerke
-52.1233|5.1528|Groenekan
-51.5386|5.0903|Groenewoud
-52.0515|4.6454|Groenswaard
-51.7767|5.9361|Groesbeek
-51.9317|6.0264|Groessen
-53.2192|6.5667|Groningen
-50.8108|5.7306|Gronsveld
-51.9233|4.8236|Groot-Ammers
-52.6989|5.2189|Grootebroek
-53.2125|6.2736|Grootegast
-51.8826|4.5494|Groot IJsselmonde
-52.5808|4.8517|Grootschermer
-52.6167|4.9833|Grosthuizen
-53.0946|5.8374|Grou
-51.9943|5.8908|Gulden Bodem
-50.8158|5.8889|Gulpen
-50.8137|5.8930|Gulpen-Wittem
-51.0150|5.8181|Guttecoven
-53.2429|5.8950|Gytsjerk
-51.8158|5.2111|Haaften
-52.1567|6.7389|Haaksbergen
-51.8875|5.9292|Haalderen
-51.6968|3.7430|Haamstede
-50.8798|6.0741|Haanrade
-51.6025|5.2222|Haaren
-52.3592|6.3806|Haarle
-52.3808|4.6368|Haarlem
-52.3881|4.6875|Haarlemmerliede
-52.3008|4.6653|Haarlemmermeer
-51.7117|5.1986|Haarsteeg
-52.0007|4.7764|Haastrecht
-51.2358|5.9569|Haelen
-52.3192|5.1022|Hakkelaarsbrug
-52.3825|4.7542|Halfweg
-53.3066|5.7838|Hallum
-51.5283|4.2679|Halsteren
-51.5800|5.7097|Handel
-51.3683|5.2569|Hapert
-51.6892|5.8611|Haps
-52.5758|6.6194|Hardenberg
-52.3417|5.6208|Harderwijk
-53.1721|6.6093|Haren
-52.7342|4.7768|Harenkarspel
-52.7217|4.6625|Hargen
-52.7733|4.8289|Haringhuizen
-53.1833|6.1333|Harkema
-53.2133|6.6986|Harkstede
-53.1748|5.4224|Harlingen
-52.1300|5.7528|Harskamp
-52.5927|6.0953|Hasselt
-51.8064|5.8306|Hatert
-52.4750|6.0639|Hattem
-52.4742|6.0222|Hattemerbroek
-53.0647|6.3345|Haulerwijk
-52.7075|5.0989|Hauwert
-52.7694|6.2401|Havelte
-51.7480|5.2613|Hedel
-53.2096|5.8225|Heechterp
-52.9686|5.6108|Heeg
-51.1792|5.8944|Heel
-51.9842|5.7583|Heelsum
-52.5111|4.6716|Heemskerk
-52.3499|4.6230|Heemstede
-50.8384|5.7299|Heer
-52.3872|6.0402|Heerde
-52.9593|5.9185|Heerenveen
-51.8177|5.3930|Heerewaarden
-52.6714|4.8486|Heerhugowaard
-51.8358|4.5639|Heerjansdam
-51.5192|4.3597|Heerle
-50.8837|5.9815|Heerlen
-51.8414|5.8285|Hees
-51.7336|5.5267|Heesch
-51.4861|5.4968|Heesterakker
-51.6508|5.4750|Heeswijk-Dinther
-51.3828|5.5714|Heeze
-51.4392|6.0389|Hegelsom
-51.0683|5.8722|Heide
-51.6750|5.9806|Heijen
-51.8933|4.4208|Heijplaat
-53.1567|7.0097|Heiligerlee
-52.6025|4.6882|Heiloo
-52.4366|6.2328|Heino
-50.9207|5.9737|Heksenberg
-51.3192|6.0000|Helden
-51.8333|4.1333|Hellevoetsluis
-51.4817|5.6611|Helmond
-53.1979|6.5798|Helpman
-51.6317|5.2306|Helvoirt
-52.6608|5.1833|Hem
-51.8442|4.6389|Hendrik-Ido-Ambacht
-52.0508|6.3097|Hengelo
-52.1992|6.6361|Hengevelde
-51.8333|5.8833|Hengstdal
-52.6583|4.8847|Hensbroek
-51.1533|6.0639|Herkenbosch
-51.7717|5.6417|Herpen
-51.1808|5.9625|Herten
-51.8267|5.1292|Herwijnen
-51.9567|5.7556|Heteren
-52.2339|5.9527|Het Loo
-52.2500|6.2167|Het Oostrik
-50.8279|5.7077|Heugem
-51.7650|5.8444|Heumen
-51.3842|5.7639|Heusden
-51.5881|4.8193|Heusdenhout
-51.2500|5.8986|Heythuysen
-52.2908|4.5833|Hillegom
-51.4858|5.1375|Hilvarenbeek
-52.2233|5.1764|Hilversum
-52.2711|5.1373|Hilversumse Meent
-52.2828|5.0569|Hinderdam
-52.9075|4.9625|Hippolytushoef
-52.5450|4.9808|Hobrede
-53.2045|5.8019|Hoek
-51.9775|4.1333|Hoek van Holland
-50.9239|5.9253|Hoensbroek
-51.5792|4.5833|Hoeven
-52.4433|4.6583|Hofgeest
-52.1562|4.4603|Hoge Mors
-51.6079|4.7915|Hoge Vucht
-52.1750|5.1778|Hollandsche Rading
-52.8783|4.8114|Hollands Kroon
-53.4394|5.6380|Hollum
-51.0475|5.8222|Holtum
-53.3681|5.9007|Holwerd
-52.4131|5.0253|Holysloot
-50.8642|6.0742|Holz
-52.0067|4.2244|Honselersdijk
-52.3025|4.6889|Hoofddorp
-51.8750|4.9764|Hoogblokland
-51.3975|5.2681|Hoogeloon
-51.3875|5.1292|Hooge Mierde
-51.4242|4.3250|Hoogerheide
-52.7225|6.4764|Hoogeveen
-53.1617|6.7611|Hoogezand
-51.6875|4.7444|Hooge Zwaluwe
-51.9963|5.8803|Hoogkamp
-52.6947|5.1778|Hoogkarspel
-52.1692|4.5819|Hoogmade
-51.8633|4.3625|Hoogvliet
-52.7158|4.9389|Hoogwoud
-52.6425|5.0597|Hoorn
-50.8924|6.0505|Hopel
-51.8558|5.6097|Horssen
-52.2497|5.0742|Horstermeer
-52.0283|5.1681|Houten
-50.8725|5.7931|Houthem
-52.2167|4.5972|Huigsloot
-51.4325|4.3764|Huijbergen
-52.9533|4.7250|Huisduinen
-51.9383|5.9333|Huissen
-52.2992|5.2417|Huizen
-53.1917|5.8112|Huizum
-50.8892|5.8556|Hulsberg
-51.2800|4.0528|Hulst
-52.0042|6.2333|Hummelo
-51.8421|5.8788|Hunnerberg
-53.2133|5.9414|Hurdegaryp
-50.8957|5.9565|Husken
-52.3550|4.9978|IJburg
-53.0101|5.6231|IJlst
-52.4586|4.6194|IJmuiden
-52.0200|5.0431|IJsselstein
-51.3217|3.6167|IJzendijke
-52.4633|4.9500|Ilpendam
-51.9592|5.4847|Ingen
-51.4733|5.4672|Jagershoef
-53.0775|5.7925|Jirnsum
-52.5067|4.8489|Jisp
-52.3792|4.8803|Jordaan
-52.9657|5.8030|Joure
-53.0040|6.1218|Jubbega
-52.8906|4.7389|Julianadorp
-50.8650|6.0364|Kaalheide
-52.4175|4.9056|Kadoelen
-50.9041|6.0046|Kakert
-51.5397|4.4711|Kalsdonk
-52.7325|4.7681|Kalverdijk
-52.5550|5.9111|Kampen
-51.5717|3.7042|Kamperland
-52.5833|4.6931|Kapel
-51.4863|3.9580|Kapelle
-51.9007|4.4825|Katendrecht
-52.1942|4.4222|Katwijk aan den Rijn
-52.2033|4.3986|Katwijk aan Zee
-52.4694|5.0506|Katwoude
-51.8600|5.0500|Kedichem
-51.2422|5.7008|Keent
-52.0292|6.2944|Keijenborg
-51.2182|5.8260|Kelpen-Oler
-52.0784|5.2658|Kerckebosch
-50.9721|5.7767|Kerensheide
-52.7400|4.7588|Kerkbuurt
-51.7717|5.3347|Kerkdriel
-52.1102|4.3796|Kerkehout
-52.2176|5.1357|Kerkelanden
-50.8658|6.0625|Kerkrade
-52.2333|5.9667|Kerschoten
-51.2917|6.0542|Kessel
-51.9350|5.5694|Kesteren
-52.0677|4.2219|Kijkduin
-51.7700|4.4458|Klaaswaal
-51.5096|3.6113|Klarenbeek
-52.7242|6.9903|Klazienaveen
-52.2694|6.8161|Klein Driene
-51.4808|4.6542|Klein-Zundert
-50.8758|5.8806|Klimmen
-51.4983|3.9153|Kloetinge
-51.6650|4.5347|Klundert
-52.6750|4.7483|Koedijk
-52.6992|6.3167|Koekange
-51.2283|3.9736|Koewacht
-52.6333|4.9500|Koggenland
-52.7928|4.8889|Kolhorn
-53.2769|6.1529|Kollum
-53.2622|6.0754|Kollumerzwaag
-51.0517|5.9583|Koningsbosch
-51.3575|5.9931|Koningslust
-52.4667|4.8000|Koog aan de Zaan
-53.2126|6.0921|Kootstertille
-52.1508|5.6694|Kootwijkerbroek
-51.9055|4.4871|Kop van Zuid
-53.2323|6.5680|Korrewegwijk
-52.2392|5.1069|Kortenhoef
-51.5495|5.0708|Korvel
-51.4817|3.5542|Koudekerke
-52.9155|5.4483|Koudum
-52.7322|4.7025|Krabbendam
-52.7234|6.5115|Krakeel
-52.8422|5.0814|Kreileroord
-51.9167|4.6028|Krimpen aan den IJssel
-51.9817|4.7783|Krimpenerwaard
-52.5000|4.7667|Krommenie
-51.6467|4.5920|Krooswijk
-50.9423|5.9652|Kruisberg
-51.5692|4.4097|Kruisland
-52.2342|4.7514|Kudelstaart
-50.8777|5.9311|Kunrade
-52.5275|4.9811|Kwadijk
-52.0133|4.2556|Kwintsheul
-51.4058|5.1472|Lage Mierde
-51.4379|5.5011|Lakerlopen
-52.7458|5.0167|Lambertschaag
-51.4667|3.5583|Lammerenburg
-50.9133|6.0572|Landgraaf
-52.4308|4.9153|Landsmeer
-52.6936|4.7944|Langedijk
-52.4920|4.7585|Langeheit
-51.7042|5.7306|Langenboom
-52.1877|5.3803|Langenoord
-52.7111|4.9036|Langereis
-52.9584|5.7217|Langweer
-52.1942|6.3653|Laren
-50.9123|6.0459|Lauradorp
-53.1625|6.3764|Leek
-51.3508|5.5542|Leende
-53.3600|6.3792|Leens
-51.8933|5.0917|Leerdam
-52.0117|5.4278|Leersum
-51.6098|5.5431|Leest
-52.1279|6.2322|Leesten
-53.2014|5.8086|Leeuwarden
-51.2103|5.9986|Leeuwen
-52.1583|4.4931|Leiden
-52.1583|4.5292|Leiderdorp
-52.0950|5.0461|Leidsche Rijn
-52.2242|4.6694|Leimuiden
-52.2308|4.6681|Leimuiderbrug
-52.5083|5.4750|Lelystad
-52.8462|5.7091|Lemmer
-51.8617|5.8667|Lent
-51.5483|4.2764|Lepelstraat
-51.2529|5.7346|Leuken
-51.5100|5.9792|Leunen
-52.1325|5.4319|Leusden
-51.8392|5.9917|Leuth
-50.9022|6.0252|Lichtenberg
-51.9867|6.5667|Lichtenvoorde
-51.5692|5.3722|Liempde
-51.9483|5.5181|Lienden
-51.4192|5.6792|Lierop
-51.5204|5.5948|Lieshout
-51.4133|5.8208|Liessel
-51.9325|4.8319|Liesveld
-51.4422|5.4341|Lievendaal
-52.3522|4.7597|Lijnden
-51.0117|5.8375|Limbricht
-50.8672|5.7072|Limmel
-52.5692|4.6944|Limmen
-50.9851|5.8167|Lindenheuvel
-51.8327|5.7934|Lindenholt
-51.1550|5.9389|Linne
-52.0625|4.9153|Linschoten
-52.2600|4.5569|Lisse
-52.2567|4.5722|Lisserbroek
-51.8058|5.4389|Lith
-51.8625|6.1181|Lobith
-52.1592|6.4111|Lochem
-52.1175|6.0194|Loenen
-51.8738|4.5219|Lombardijen
-51.6275|5.0750|Loon op Zand
-51.6783|5.5069|Loosbroek
-52.2000|5.1333|Loosdrecht
-51.9725|4.9486|Lopik
-53.3317|6.7472|Loppersum
-52.2608|7.0042|Losser
-51.4617|6.1611|Lottum
-51.5648|5.0975|Loven
-52.0618|5.1347|Lunetten
-52.0850|5.6222|Lunteren
-52.6975|5.2042|Lutjebroek
-52.7689|4.8828|Lutjewinkel
-51.2892|5.3236|Luyksgestel
-51.3117|5.6167|Maarheeze
-52.0642|5.3708|Maarn
-52.1392|5.0417|Maarssen
-52.1550|5.1750|Maartensdijk
-51.1393|5.8863|Maasbracht
-51.3575|6.0486|Maasbree
-51.9592|4.2139|Maasdijk
-51.6583|5.3708|Maaskantje
-51.9342|4.2722|Maasland
-51.7261|5.3019|Maaspoort
-51.9233|4.2500|Maassluis
-50.8483|5.6889|Maastricht
-51.6767|4.7931|Made
-52.4692|6.5208|Magele
-53.0546|5.4023|Makkum
-50.8624|5.6542|Malberg
-51.9681|5.8974|Malburgen West
-51.6500|3.9333|Malta
-53.1287|5.7192|Mantgum
-50.8208|5.8208|Margraten
-51.5408|5.5722|Mariahout
-50.9291|5.9274|Mariarade
-52.2350|6.4986|Markelo
-52.4583|5.1028|Marken
-52.5308|4.7806|Markenbinnen
-53.3228|5.8020|Marrum
-53.0177|6.5853|Marsdijk
-53.2105|5.7264|Marsum
-53.1442|6.2625|Marum
-52.1977|6.0111|Matendonk
-52.1999|5.9859|Matendreef
-52.1979|5.9957|Matengaarde
-52.1906|6.0134|Matenhoeve
-52.2048|5.9930|Matenhorst
-52.1877|5.9988|Matenveld
-51.9608|5.4222|Maurik
-50.7958|5.9264|Mechelen
-52.7717|5.1056|Medemblik
-53.1400|6.9264|Meeden
-51.4427|5.4110|Meerhoven
-51.5133|6.0847|Meerlo
-50.8875|5.7500|Meerssen
-51.4171|5.4162|Meerveldhoven
-50.8968|5.9905|Meezenbroek
-51.8217|5.5625|Megen
-51.5997|5.5028|Meierijstad
-51.3442|5.8847|Meijel
-52.2364|6.8906|Mekkelholt
-51.4617|6.0861|Melderslo
-51.1592|6.0167|Melick
-51.5142|3.5097|Meliskerke
-51.6624|5.6337|Melle
-53.2180|5.6612|Menaam
-52.6958|6.1944|Meppel
-52.1765|4.5088|Merenwijk
-50.9539|5.9407|Merkelbeek
-51.5300|5.9278|Merselo
-51.1733|5.9597|Merum
-51.8650|5.2833|Meteren
-51.4667|5.2500|Middelbeers
-51.5000|3.6139|Middelburg
-51.7575|4.1653|Middelharnis
-52.5322|5.0172|Middelie
-51.6642|5.4194|Middelrode
-51.7425|4.4417|Middelsluis
-53.3467|6.6417|Middelstum
-52.5492|4.9125|Middenbeemster
-53.1511|6.8331|Midden-Groningen
-52.8067|4.9986|Middenmeer
-53.1950|7.0139|Midwolda
-52.7167|5.0750|Midwoud
-51.4400|5.6194|Mierlo
-52.2067|4.8625|Mijdrecht
-51.7967|4.4875|Mijnsheerenland
-51.5017|5.7792|Milheeze
-51.7250|5.9486|Milsbeek
-53.2510|5.5951|Minnertsga
-52.7631|4.8528|Moerbeek
-51.7017|4.6264|Moerdijk
-51.2383|5.7178|Moesel
-51.7111|5.3681|Molenhoek
-52.4583|5.0375|Monnickendam
-52.0258|4.1750|Monster
-52.0458|4.9528|Montfoort
-51.1258|5.9486|Montfort
-51.7525|5.8819|Mook
-52.3300|5.0694|Muiden
-52.3258|5.1208|Muiderberg
-50.9750|5.8639|Munstergeleen
-51.4438|5.5233|Muschberg en Geestenberg
-52.1864|5.0717|Muyeveld
-51.9942|4.2097|Naaldwijk
-52.2958|5.1625|Naarden
-51.5048|5.3858|Naastenbest
-52.5083|4.9125|Neck
-51.8288|4.8549|Neder-Hardinxveld
-51.7652|5.1682|Nederhemert
-51.7632|5.1730|Nederhemert-Noord
-52.2567|5.0458|Nederhorst den Berg
-51.2858|5.7486|Nederweert
-52.1008|5.5708|Nederwoud
-52.1342|6.6139|Neede
-50.9500|5.8153|Neerbeek
-51.3683|5.8667|Neerkant
-53.4450|5.7740|Nes
-52.2594|4.8703|Nes aan de Amstel
-52.6928|5.0553|Nibbixwoud
-53.2250|6.3528|Niekerk
-51.8125|4.3431|Nieuw-Beijerland
-52.9625|6.9500|Nieuw-Buinen
-52.7483|6.9681|Nieuw-Dordrecht
-50.9622|5.7730|Nieuwdorp
-52.3722|4.6736|Nieuwebrug
-52.0292|5.0806|Nieuwegein
-52.9511|6.0634|Nieuwehorne
-52.3264|4.8153|Nieuwe Meer
-52.3915|4.9341|Nieuwendam
-51.8542|4.1431|Nieuwenhoorn
-52.7400|4.8986|Nieuwe Niedorp
-51.4833|3.6569|Nieuw- en Sint Joosland
-53.0792|6.9653|Nieuwe Pekela
-51.6508|4.0014|Nieuwerkerk
-52.8356|4.8908|Nieuwesluis
-52.1508|4.7764|Nieuwkoop
-51.6900|5.1819|Nieuwkuijk
-51.8892|4.6865|Nieuw-Lekkerland
-52.1992|5.1389|Nieuw-Loosdrecht
-50.9128|5.9280|Nieuw-Lotbroek
-53.2442|6.9750|Nieuwolda
-52.4667|6.5500|Nieuwoord
-51.9358|4.8681|Nieuwpoort
-53.1317|6.3972|Nieuw-Roden
-52.1967|4.7569|Nieuwveen
-52.2639|4.6375|Nieuw-Vennep
-51.5900|4.2181|Nieuw-Vossemeer
-52.0869|5.2185|Nijenheim
-52.2200|5.4861|Nijkerk
-52.1950|5.4667|Nijkerkerveen
-51.8425|5.8528|Nijmegen
-51.5508|5.4833|Nijnsel
-52.3350|6.6639|Nijrees
-52.3600|6.4681|Nijverdal
-51.4833|4.4613|Nispen
-51.8372|4.2754|Nissewaard
-51.7042|5.5625|Nistelrode
-53.2214|6.0052|Noardburgum
-52.3908|4.9099|Noord
-52.7724|6.8871|Noordbarge
-52.5825|4.9367|Noordbeemster
-53.1950|6.8736|Noordbroek
-52.9194|4.9628|Noordburen
-52.6333|4.9167|Noorddijk
-52.5719|4.8361|Noordeinde
-51.9033|4.9417|Noordeloos
-51.5092|4.2792|Noordgeest
-51.6425|4.5319|Noordhoek
-52.1406|4.4586|Noord-Hofland
-53.2617|6.3958|Noordhorn
-52.6983|4.8111|Noord-Scharwoude
-52.2340|4.4447|Noordwijk-Binnen
-52.2617|4.4931|Noordwijkerhout
-52.8896|6.1415|Noordwolde
-52.0450|4.3958|Nootdorp
-53.0667|6.4583|Norg
-51.4700|5.5528|Nuenen
-51.7317|4.4375|Numansdorp
-52.3792|5.7861|Nunspeet
-50.9175|5.8861|Nuth
-51.0283|5.7806|Obbicht
-52.6758|4.9069|Obdam
-53.3333|6.5167|Obergum
-51.9100|5.5694|Ochten
-52.0525|5.2361|Odijk
-51.6433|5.7056|Odiliapeel
-52.8492|6.8514|Odoorn
-52.1800|4.4694|Oegstgeest
-53.2500|5.9000|Oentsjerk
-51.4226|5.3716|Oerle
-51.2822|6.0950|Offenbeek
-51.5117|6.0375|Oirlo
-50.9508|5.9083|Oirsbeek
-51.5050|5.3139|Oirschot
-51.5792|5.1889|Oisterwijk
-52.9379|6.1309|Oldeberkoop
-52.4450|5.9014|Oldebroek
-53.3033|6.3958|Oldehove
-52.8208|5.9750|Oldemarkt
-52.3133|6.9292|Oldenzaal
-52.3375|6.1097|Olst
-53.0892|6.9056|Ommelanderwijk
-52.5208|6.4208|Ommen
-51.9595|4.5453|Ommoord
-52.3431|4.9164|Omval
-52.7433|5.1375|Onderdijk
-53.0350|7.0403|Onstwedde
-52.0864|5.0847|Oog in Al
-51.8546|5.9391|Ooij
-51.3258|3.4875|Oostburg
-52.1499|4.3932|Oostdorp
-51.6442|4.8978|Oosteind
-52.2792|4.7958|Oosteinde
-51.4717|5.2690|Oostelbeers
-52.4472|5.8544|Oostendorp
-51.9858|5.8458|Oosterbeek
-52.7447|5.2689|Oosterdijk
-53.0864|4.8761|Oosterend
-52.7542|6.7222|Oosterhesselen
-52.5592|5.9556|Oosterholt
-53.2289|6.6014|Oosterhoogebrug
-51.8800|5.8264|Oosterhout
-52.9292|5.0114|Oosterland
-52.6383|5.1975|Oosterleek
-52.7932|6.1314|Oostermeenthe
-53.2237|6.5853|Oosterpark
-52.9916|6.2910|Oosterwolde
-52.5850|4.7056|Oosterzij
-52.0042|6.5496|Oost Gelre
-52.5464|4.8147|Oost-Graftdijk
-52.5725|4.9958|Oosthuizen
-51.5667|3.5514|Oostkapelle
-52.5172|4.7903|Oostknollendam
-51.5292|6.0167|Oostrum
-53.2970|5.0743|Oost-Vlieland
-51.9125|4.0986|Oostvoorne
-52.7244|5.0903|Oostwoud
-52.4406|4.8789|Oostzaan
-52.4083|6.9014|Ootmarsum
-51.9192|6.0583|Ooy
-52.1284|6.2231|Ooyerhoek
-53.1341|6.0566|Opeinde
-51.8450|5.3875|Ophemert
-51.9317|5.6319|Opheusden
-50.9904|5.8587|Ophoven
-51.8292|5.2986|Opijnen
-52.7067|4.9444|Opmeer
-53.0119|5.6950|Oppenhuizen
-52.7591|5.0753|Opperdoes
-52.0492|4.6537|Oranjewijk
-52.9458|5.9504|Oranjewoud
-52.2011|5.9342|Orden
-51.7061|5.3047|Orthen
-52.3569|4.8008|Osdorp
-51.2975|5.7847|Ospel
-51.7650|5.5181|Oss
-51.3942|4.3264|Ossendrecht
-52.6333|4.8417|Oterleek
-51.3308|3.8597|Othene
-52.1000|5.7722|Otterlo
-51.7033|5.9833|Ottersum
-51.8242|4.4125|Oud-Beijerland
-50.8654|5.6644|Oud-Caberg
-51.8117|3.9347|Ouddorp
-53.1250|5.9989|Oudega
-52.9571|5.8709|Oudehaske
-51.8996|6.3808|Oude IJsselstreek
-52.2875|4.7822|Oude Meer
-52.8502|5.5354|Oudemirdum
-52.6000|4.9667|Oudendijk
-52.7178|4.8719|Oude Niedorp
-53.1042|7.0097|Oude Pekela
-52.2906|4.9117|Ouder-Amstel
-52.2950|4.9075|Ouderkerk aan de Amstel
-51.9342|4.6361|Ouderkerk aan den IJssel
-53.0392|4.8472|Oudeschild
-52.9334|5.9558|Oudeschoot
-52.8353|4.8064|Oudesluis
-52.0250|4.8681|Oudewater
-52.2142|4.6444|Oude Wetering
-51.5867|4.4597|Oud Gastel
-52.7158|4.8056|Oudkarspel
-52.2067|5.0806|Oud-Loosdrecht
-52.6331|4.7736|Oudorp
-51.5708|4.1986|Oud-Vossemeer
-51.7600|5.7889|Overasselt
-52.0400|5.4944|Overberg
-51.0087|5.8663|Overhoven
-52.4536|4.9958|Overleek
-51.5717|5.9472|Overloon
-52.2542|5.0464|Overmeer
-51.9386|4.4277|Overschie
-52.3917|4.6139|Overveen
-52.0558|4.5087|Palenstein
-51.8908|6.0389|Pannerden
-51.3267|5.9792|Panningen
-51.8317|4.6875|Papendrecht
-52.1850|4.7250|Papenveer
-50.9239|5.9467|Passart
-53.1450|6.5653|Paterswolde
-52.2140|6.8755|Pathmos
-53.0172|6.5621|Peelo
-51.0942|5.8958|Peij
-53.1467|6.4972|Peize
-51.8715|4.4690|Pendrecht
-52.3928|4.6761|Penningsveer
-51.8883|4.3889|Pernis
-52.7667|4.6611|Petten
-52.5014|6.1117|Pierik
-51.7933|4.3139|Piershil
-52.0195|4.4295|Pijnacker
-52.0242|4.2194|Poeldijk
-51.5442|4.1431|Poortvliet
-51.1233|6.0347|Posterholt
-50.8513|5.6567|Pottenberg
-51.5763|4.7391|Princenhage
-51.5983|4.7125|Prinsenbeek
-51.8783|5.5903|Puiflijk
-52.5050|4.9597|Purmerend
-52.4781|4.9217|Purmerland
-50.9542|5.8736|Puth
-51.3600|4.3958|Putte
-52.2592|5.6069|Putten
-51.5843|5.0981|Quirijnstok
-52.3858|6.2750|Raalte
-51.6597|5.6364|Raam
-51.6875|4.9083|Raamsdonk
-51.6967|4.8736|Raamsdonksveer
-52.1486|5.4012|Randenbroek
-52.3931|4.9942|Ransdorp
-51.7967|5.6500|Ravenstein
-51.7458|5.6819|Reek
-52.0467|4.7250|Reeuwijk
-53.2425|6.5196|Reitdiep
-51.7325|3.7750|Renesse
-51.9767|5.7333|Renkum
-52.0733|5.5403|Renswoude
-51.3625|5.1653|Reusel
-51.2842|6.0778|Reuver
-52.0050|6.0292|Rheden
-51.9592|5.5681|Rhenen
-51.8575|4.4222|Rhoon
-51.8725|4.6028|Ridderkerk
-51.3542|5.3875|Riethoven
-51.5908|4.9194|Rijen
-52.1958|4.6708|Rijnsaterwoude
-52.1900|4.4417|Rijnsburg
-52.1925|4.5833|Rijpwetering
-51.5175|4.6972|Rijsbergen
-52.2606|4.7100|Rijsenhout
-51.8508|4.5958|Rijsoord
-52.3067|6.5181|Rijssen
-51.7975|5.0250|Rijswijk
-52.6614|5.0525|Risdam
-52.1891|5.9767|Rivierenkwartier
-51.8717|4.0708|Rockanje
-53.1375|6.4208|Roden
-52.2033|4.6333|Roelofarendsveen
-51.1942|5.9875|Roermond
-52.9842|6.6486|Rolde
-51.5308|4.4653|Roosendaal
-51.0833|5.8181|Roosteren
-51.8008|5.3333|Rossum
-50.8767|5.7389|Rothem
-51.9225|4.4792|Rotterdam
-53.1452|6.1041|Rottevalle
-51.9042|4.2486|Rozenburg
-52.0058|5.9625|Rozendaal
-51.5317|4.5583|Rucphen
-51.8992|4.1523|Rugge
-52.4092|4.7489|Ruigoord
-52.7625|6.3542|Ruinen
-52.7233|6.2486|Ruinerwold
-52.6347|4.8767|Rustenburg
-52.0883|6.4500|Ruurlo
-51.5151|5.3899|Salderes
-52.4225|4.6261|Santpoort
-53.1642|6.7903|Sappemeer
-52.2250|4.5222|Sassenheim
-51.2275|3.7986|Sas van Gent
-52.7875|4.7986|Schagen
-52.8025|4.7583|Schagerbrug
-51.7458|5.6319|Schaijk
-52.2683|6.1944|Schalkhaar
-52.3589|4.6556|Schalkwijk
-52.5969|5.0169|Schardam
-51.7358|3.8431|Scharendijke
-50.8500|5.7333|Scharn
-53.0605|5.6782|Scharnegoutum
-52.6225|5.0081|Scharwoude
-53.1733|6.9722|Scheemda
-52.3844|4.9661|Schellingwoude
-52.6342|5.1203|Schellinkhout
-51.8433|4.9264|Schelluinen
-52.6008|4.8917|Schermerhorn
-51.5467|4.1056|Scherpenisse
-52.0800|5.4889|Scherpenzeel
-52.1046|4.2756|Scheveningen
-51.9584|4.4712|Schiebroek
-51.9192|4.3889|Schiedam
-53.4802|6.1521|Schiermonnikoog
-51.6225|5.4319|Schijndel
-51.0992|5.8861|Schilberg
-53.2333|6.8157|Schildwolde
-50.9067|5.8236|Schimmert
-50.9433|5.8889|Schinnen
-50.9692|5.9792|Schinveld
-52.2800|4.7567|Schiphol-Rijk
-51.9758|4.3139|Schipluiden
-51.3542|3.5556|Schoondijke
-52.6625|6.8847|Schoonebeek
-51.9475|4.8486|Schoonhoven
-52.8458|6.7556|Schoonoord
-51.9208|5.1167|Schoonrewoerd
-52.7014|4.6944|Schoorl
-52.7000|4.7167|Schoorldam
-51.6929|3.8868|Schouwen-Duiveland
-51.4615|5.6226|Schutsboom
-52.9458|7.1514|Sellingen
-53.2352|6.5545|Selwerd
-51.5483|3.5944|Serooskerke
-51.4125|6.0375|Sevenum
-53.2182|5.4840|Sexbierum
-52.2442|5.1211|'s-Graveland
-51.9234|4.5531|'s-Gravenland
-51.6559|4.9408|'s Gravenmoer
-52.0017|4.1653|'s-Gravenzande
-51.8767|6.2588|'s-Heerenberg
-51.6992|5.3042|'s-Hertogenbosch
-50.8442|5.8264|Sibbe
-53.2500|6.8681|Siddeburen
-52.7086|4.9906|Sijbekarspel
-51.9092|6.3875|Silvolde
-50.8342|5.9819|Simpelveld
-53.2762|5.6573|Sint Annaparochie
-51.6267|5.8819|Sint Anthonis
-53.2729|5.6035|Sint Jacobiparochie
-52.6775|6.0056|Sint Jansklooster
-52.9316|5.8559|Sintjohannesga
-51.1175|5.8986|Sint Joost
-51.5275|3.6028|Sint Laurens
-52.7925|4.6897|Sint Maartenszee
-51.6417|5.3528|Sint-Michielsgestel
-52.9229|5.7424|Sint Nicolaasga
-51.1433|6.0000|Sint Odiliënberg
-51.5675|5.4597|Sint-Oedenrode
-52.6600|4.7833|Sint Pancras
-51.6167|4.1653|Sint Philipsland
-51.5483|4.5889|Sint Willebrord
-50.9983|5.8694|Sittard
-52.7717|6.8028|Sleen
-51.8208|4.7764|Sliedrecht
-51.8853|4.6049|Slikkerveer
-53.2208|6.8055|Slochteren
-52.8425|4.9722|Slootdorp
-52.3428|4.7964|Sloten
-52.3872|4.8464|Sloterdijk
-52.3783|4.8223|Slotermeer
-52.3510|4.8340|Slotervaart (former borough)
-51.3083|3.3861|Sluis
-51.2783|3.8361|Sluiskil
-52.2229|5.9814|Sluisoord
-53.0330|5.6589|Sneek
-51.3008|5.5750|Soerendonk
-52.1733|5.2917|Soest
-52.1908|5.2847|Soestdijk
-51.3850|5.7111|Someren
-51.3575|5.7333|Someren-Eind
-51.5114|5.4928|Son
-52.4139|4.6900|Spaarndam-Oost
-52.4150|4.6769|Spaarndam-West
-52.4039|4.6942|Spaarnwoude
-52.2223|5.9474|Spainkbos
-52.2500|5.3667|Spakenburg
-52.6981|4.9608|Spanbroek
-51.9169|4.4354|Spangen
-50.9400|5.8431|Spaubeek
-52.1393|5.0176|Spechtenkamp
-51.5061|5.4052|Speelheide
-50.8556|6.0247|Spekholzerheide
-52.6508|4.9431|Spierdijk
-53.3900|6.8375|Spijk
-51.8450|4.3292|Spijkenisse
-52.5383|4.8333|Spijkerboor
-52.0535|4.3134|Spoorwijk
-52.2190|5.9416|Sprengenbos
-52.2184|5.9507|Sprengenweg-Noord
-52.2251|5.9992|Sprenkelaar
-51.5375|4.5972|Sprundel
-52.1995|5.9769|Staatsliedenkwartier
-51.0019|5.8766|Stadbroek
-53.0399|5.6784|Stadsfenne
-52.9895|6.9504|Stadskanaal
-51.6133|4.4444|Stampersgat
-51.6133|4.5139|Standdaarbuiten
-52.6450|6.2111|Staphorst
-52.5419|4.7933|Starnmeer
-52.0931|4.2758|Statenkwartier
-51.5875|4.0125|Stavenisse
-52.7006|5.2253|Stede Broec
-51.5842|4.3194|Steenbergen
-52.0642|6.1875|Steenderen
-51.3767|5.3528|Steensel
-52.7875|6.1208|Steenwijk
-52.8042|6.0639|Steenwijkerwold
-51.9415|6.0619|Stegeslag
-50.9692|5.7667|Stein
-51.4550|5.6125|Stepekolk
-51.9935|5.8839|Sterrenberg
-52.1768|5.0126|Stichtse Vecht
-53.2623|5.7577|Stiens
-52.5333|4.7753|Stierop
-51.9725|4.7736|Stolwijk
-52.6133|4.8208|Stompetoren
-51.1942|5.7194|Stramproy
-51.7452|4.5508|Strijen
-52.0308|4.3014|Strijp
-52.9333|4.9833|Stroe
-52.7500|4.7500|Stroet
-53.0106|5.5258|Sûdwest Fryslân
-53.1848|6.1703|Surhuisterveen
-51.3442|6.1361|Tegelen
-53.2758|6.6944|Ten Boer
-52.8767|7.0597|Ter Apel
-51.9200|6.3542|Terborg
-51.9533|4.5154|Terbregge
-52.7269|4.8969|Terdiek
-51.6433|4.7542|Terheijden
-53.3820|5.9652|Ternaard
-51.3358|3.8278|Terneuzen
-52.1650|5.5167|Terschuur
-50.8666|6.0247|Terwinselen
-52.2833|6.1000|Terwolde
-51.6092|4.8208|Teteringen
-53.0667|4.8000|Texel
-51.6384|5.3373|Theereheide
-52.0767|4.2986|The Hague
-51.4494|5.5193|'t Hofke
-51.5317|4.2208|Tholen
-51.1617|5.8417|Thorn
-53.0056|4.7861|'t Horntje
-51.8867|5.4292|Tiel
-51.4950|6.0931|Tienray
-53.0306|5.9919|Tijnje
-51.5555|5.0913|Tilburg
-53.0206|5.6457|Tinga
-51.4207|5.5082|Tivoli
-52.2561|4.6497|'t Kabel
-52.4100|4.9636|'t Nopeind
-51.8550|6.1028|Tolkamer
-51.4489|5.5198|Tongelre
-51.8908|5.2681|Tricht
-52.4075|6.7847|Tubbergen
-53.3167|6.9000|Tuikwerd
-51.9303|4.3784|Tuindorp
-52.4113|4.8929|Tuindorp Oostzaan
-52.7333|4.7500|Tuitjenhorn
-52.7967|6.0944|Tuk
-52.7392|4.8556|'t Veld
-52.9092|6.9333|Tweede Exloërmond
-52.2306|6.8600|Twekkelerveld
-52.2367|6.1028|Twello
-53.2315|6.0895|Twijzel
-53.2401|6.0459|Twijzelerheide
-52.7408|5.0528|Twisk
-53.0775|6.6167|Tynaarlo
-53.2134|5.9096|Tytsjerk
-52.8367|4.7556|'t Zand
-53.2373|5.5461|Tzummarum
-50.8533|5.9486|Ubachsberg
-52.2592|5.7806|Uddel
-51.6608|5.6194|Uden
-51.6092|5.1431|Udenhout
-52.7900|6.2806|Uffelte
-52.1846|5.9318|Ugchelen
-52.4192|5.0708|Uitdam
-52.5292|4.7097|Uitgeest
-52.2375|4.8264|Uithoorn
-53.4075|6.6708|Uithuizen
-53.4142|6.7236|Uithuizermeeden
-50.9058|5.7819|Ulestraten
-53.3592|6.3333|Ulrum
-51.5491|4.7993|Ulvenhout
-53.0924|6.1672|Ureterp
-52.6625|5.6014|Urk
-50.9908|5.7722|Urmond
-52.6272|4.8917|Ursem
-53.4025|6.6111|Usquert
-52.0908|5.1222|Utrecht
-50.7708|6.0181|Vaals
-51.4795|5.4981|Vaartbroek
-52.2858|5.9667|Vaassen
-51.9117|5.7903|Valburg
-51.8066|5.7344|Valendries
-50.8652|5.8320|Valkenburg
-50.8571|5.8349|Valkenburg aan de Geul
-51.3508|5.4597|Valkenswaard
-52.7833|4.7667|Valkkoog
-52.8458|6.8944|Valthe
-52.8817|6.9625|Valthermond
-52.8833|4.8733|Van Ewijcksluis
-51.9433|6.4583|Varsseveld
-52.9339|5.0053|Vatrop
-51.7775|5.1083|Veen
-53.1067|6.8792|Veendam
-52.0286|5.5589|Veenendaal
-52.7025|4.8903|Veenhuizen
-52.7109|6.8487|Veenoord
-51.6167|5.5486|Veghel
-51.4183|5.4028|Veldhoven
-52.0754|5.0123|Veldhuizen
-51.9950|5.9736|Velp
-52.4667|4.6167|Velsen
-52.4600|4.6500|Velsen-Zuid
-52.4350|4.6572|Velserbroek
-51.5195|5.9603|Veltum
-51.6400|5.5500|Ven
-51.6083|5.7375|Venhorst
-52.6667|5.2167|Venhuizen
-51.3700|6.1681|Venlo
-51.5250|5.9750|Venray
-51.9925|5.0917|Vianen
-51.8792|4.1792|Vierpolders
-52.3508|4.6778|Vijfhuizen
-50.7883|5.9653|Vijlen
-51.4414|5.4939|Villapark
-52.3867|4.7203|Vinkebrug
-52.2151|4.9337|Vinkeveen
-51.9125|4.3417|Vlaardingen
-53.0275|7.1083|Vlagtwedde
-52.8558|6.2083|Vledder
-52.1058|5.0153|Vleuten
-51.6896|5.1903|Vliedberg
-51.4450|5.7583|Vlierden
-52.1244|4.4574|Vlietwijk
-51.4425|3.5736|Vlissingen
-51.1333|6.0764|Vlodrop
-51.4667|5.4833|Vlokhoven
-50.8833|5.9298|Voerendaal
-52.3192|4.5778|Vogelenzang
-52.1978|5.9672|Vogelkwartier
-52.0763|4.2479|Vogelwijk
-51.4005|5.4720|Voldijn
-52.4950|5.0708|Volendam
-51.6425|5.6542|Volkel
-52.6808|5.9542|Vollenhove
-52.0550|4.6531|Vondelwijk
-52.0742|4.3597|Voorburg
-52.2217|4.4847|Voorhout
-52.1275|4.4486|Voorschoten
-52.1700|6.1417|Voorst
-52.1867|5.6056|Voorthuizen
-52.1050|6.3097|Vorden
-51.6525|5.5500|Vorstenbosch
-51.9535|5.9028|Vredenburg
-52.0109|5.0929|Vreeswijk
-51.8843|4.5197|Vreewijk
-50.9219|5.9670|Vrieheide
-53.0742|6.5778|Vries
-52.4083|6.6222|Vriezenveen
-52.4608|6.5653|Vroomshoop
-51.6533|5.2875|Vught
-51.8250|5.0458|Vuren
-53.1895|5.5079|Waadhoeke
-51.3867|5.4444|Waalre
-51.6825|5.0708|Waalwijk
-51.4175|4.0681|Waarde
-51.8325|5.2569|Waardenburg
-52.0608|4.8208|Waarder
-52.7267|4.8319|Waarland
-52.0450|4.6514|Waddinxveen
-52.6917|4.9797|Wadway
-51.6650|4.7486|Wagenberg
-53.2558|6.9333|Wagenborgen
-51.9700|5.6667|Wageningen
-51.6575|5.8181|Wanroij
-51.5358|6.0764|Wanssum
-52.4292|6.0736|Wapenveld
-52.5641|5.0311|Warder
-53.3925|6.5583|Warffum
-53.1514|5.8440|Warga
-52.7225|4.7397|Warmenhuizen
-52.1967|4.5028|Warmond
-52.1375|6.2306|Warnsveld
-51.6867|4.9444|Waspik
-52.1458|4.4028|Wassenaar
-52.5044|4.6561|Waterakkers
-51.6096|4.8045|Waterdonken
-52.4333|4.9500|Watergang
-52.3490|4.9380|Watergraafsmeer
-52.7611|4.8736|Wateringskant
-52.4511|5.0200|Waterland
-50.9183|6.0500|Waubach
-52.2529|4.9078|Waver
-52.3038|4.5886|Weerestein
-51.2517|5.7069|Weert
-52.3075|5.0417|Weesp
-52.4972|4.9388|Weidevenne
-52.0817|4.8028|Weijpoort
-52.6725|6.9875|Weiteveen
-52.1125|5.7139|Wekerom
-51.5767|4.3306|Welberg
-52.2140|5.9764|Welgelegen
-51.5500|6.0889|Well
-51.5342|6.1361|Wellerlooi
-51.5183|3.9972|Wemeldinge
-51.8100|4.8944|Werkendam
-52.0250|5.2444|Werkhoven
-51.4550|4.6417|Wernhout
-52.7347|5.1492|Wervershoof
-51.1595|5.8815|Wessem
-52.5744|4.8986|Westbeemster
-51.8616|5.2093|West Betuwe
-51.2325|3.8264|Westdorpe
-53.2085|5.7681|Westeinde
-52.1275|5.7153|Westeneng
-52.1962|5.9566|Westenenk
-52.8500|6.6083|Westerbork
-52.4558|6.6236|Westerhaar-Vriezenveensewijk
-51.3325|5.3958|Westerhoven
-52.8942|4.9308|Westerland
-53.1458|6.9875|Westerlee
-51.9558|5.9722|Westervoort
-53.0280|7.1567|Westerwolde
-51.4625|3.5869|Westerzicht
-52.5539|4.7961|West-Graftdijk
-51.5292|3.4403|Westkapelle
-52.5178|4.7864|West-Knollendam
-53.0848|6.6647|Westlaren
-51.7867|4.4750|Westmaas
-51.4642|3.5917|West-Souburg
-53.3591|5.2148|West-Terschelling
-52.6850|5.1347|Westwoud
-52.4667|4.7667|Westzaan
-52.2225|4.6439|Weteringbrug
-52.3592|6.5931|Wierden
-52.8358|4.8653|Wieringerwaard
-52.8508|5.0264|Wieringerwerf
-51.6167|5.4681|Wijbosch
-51.8092|5.7250|Wijchen
-52.2300|5.1200|Wijdemeren
-52.6350|5.1569|Wijdenes
-52.5002|4.8924|Wijdewormer
-52.3867|6.1347|Wijhe
-52.4936|4.5941|Wijk aan Zee
-51.9742|5.3417|Wijk bij Duurstede
-50.8333|5.8958|Wijlre
-50.9058|5.8833|Wijnandsrade
-53.0581|6.2047|Wijnjewoude
-53.0808|6.8625|Wildervank
-51.4974|5.3922|Wilhelminadorp
-52.1967|4.8972|Wilnis
-52.6392|4.6558|Wimmenum
-52.7542|4.9028|Winkel
-52.1908|5.9579|Winkewijert
-53.1442|7.0347|Winschoten
-53.3300|6.5208|Winsum
-51.9725|6.7194|Winterswijk
-53.1489|5.8039|Wirdum
-51.9265|6.4170|Wisch
-51.6129|4.7844|Wisselaar
-51.5850|3.7472|Wissenkerke
-53.1045|5.4690|Witmarsum
-51.4290|4.3036|Woensdrecht
-51.4833|5.4667|Woenselse Heide
-52.0850|4.8833|Woerden
-52.6842|5.0208|Wognum
-50.8375|5.6594|Wolder
-52.0033|5.7903|Wolfheze
-52.7173|6.4988|Wolfsbos
-51.5317|3.8194|Wolphaartsdijk
-52.8755|5.9969|Wolvega
-53.1088|5.5875|Wommels
-52.2721|6.7589|Woolde
-52.2167|6.9167|Wooldrik
-52.9797|5.4471|Workum
-52.5086|4.8714|Wormerland
-52.4833|4.7833|Wormerveer
-52.1700|4.6361|Woubrugge
-52.0808|5.4167|Woudenberg
-52.2132|6.0112|Woudhuis
-51.8150|5.0014|Woudrichem
-52.9436|5.6284|Woudsend
-51.5217|4.3903|Wouw
-51.4925|4.0500|Yerseke
-52.0410|4.3698|Ypenburg
-51.4900|5.8972|Ysselsteyn
-51.3125|3.9125|Zaamslag
-52.4385|4.8264|Zaandam
-52.4749|4.8069|Zaandijk
-52.4531|4.8136|Zaanstad
-51.8100|5.2444|Zaltbommel
-51.5733|4.7847|Zandberg
-52.3713|4.5331|Zandvoort
-51.9033|6.2597|Zeddam
-51.6975|5.6764|Zeeland
-51.4242|5.4157|Zeelst
-52.3300|5.5417|Zeewolde
-51.5567|4.5181|Zegge
-51.4547|5.8188|Zeilberg
-52.0900|5.2333|Zeist
-52.0067|6.3486|Zelhem
-51.4167|5.5500|Zesgehuchten
-51.9283|5.7139|Zetten
-51.9300|6.0708|Zevenaar
-51.6725|4.6792|Zevenbergschen Hoek
-52.1817|4.7792|Zevenhoven
-52.2182|5.9784|Zevenhuizen
-51.6500|3.9194|Zierikzee
-51.5925|5.5417|Zijtaart
-51.9125|5.4028|Zoelen
-52.0575|4.4931|Zoetermeer
-52.1200|4.4958|Zoeterwoude-Dorp
-51.4114|5.3936|Zonderwijk
-51.9312|6.0624|Zonnemaat
-51.5017|3.4847|Zoutelande
-53.3392|6.3042|Zoutkamp
-51.7508|4.3681|Zuid-Beijerland
-52.3008|6.9333|Zuid-Berghuizen
-53.1633|6.8611|Zuidbroek
-53.1734|5.8427|Zuiderburen
-52.6656|4.9758|Zuidermeer
-53.2467|6.4028|Zuidhorn
-53.0942|6.6819|Zuidlaren
-52.6867|4.8083|Zuid-Scharwoude
-51.8753|4.4851|Zuidwijk
-51.8092|5.1361|Zuilichem
-51.4717|4.6556|Zundert
-52.1383|6.2014|Zutphen
-52.6686|5.0753|Zwaag
-52.7075|5.1403|Zwaagdijk-Oost
-52.6758|5.0592|Zwaagdijk-West
-52.3125|4.6167|Zwaanshoek
-51.8175|4.6333|Zwijndrecht
-52.5125|6.0944|Zwolle
+52.6889|4.7019|Aagtdorp|North Holland|570|
+51.5467|3.5097|Aagtekerke|Zeeland|1245|
+51.7548|5.1316|Aalburg|North Brabant|6588|
+52.7900|6.7181|Aalden|Drenthe|1625|
+52.2592|4.7597|Aalsmeer|North Holland|22991|
+52.2758|4.7500|Aalsmeerderbrug|North Holland|505|
+51.7825|5.1278|Aalst|Gelderland|1580|
+51.9250|6.5806|Aalten|Gelderland|19141|
+51.2733|3.4472|Aardenburg|Zeeland|2005|
+51.5098|5.6384|Aarle-Rixtel|North Brabant|5125|
+52.7444|4.9536|Aartswoud|North Holland|0|
+52.7317|5.0181|Abbekerk|North Holland|2110|
+52.2339|4.5894|Abbenes|North Holland|855|
+52.2725|4.9694|Abcoude|Utrecht|6920|
+51.5275|5.0833|Abcoven|North Brabant|1325|
+50.9167|6.0333|Abdissenbosch|Limburg|1420|
+52.1362|4.4525|Adegeest|South Holland|2610|
+53.2567|6.4597|Aduard|Groningen|2030|
+51.8800|5.6347|Afferden|Gelderland|1405|
+52.5603|4.7283|Akersloot|North Holland|5010|
+51.4141|5.5596|Akert|North Brabant|2000|
+53.0502|5.8309|Akkrum|Friesland|3440|
+51.8658|4.6611|Alblasserdam|South Holland|18348|
+53.0500|5.9000|Aldeboarn|Friesland|1525|
+53.1886|5.8282|Aldlân-Oost|Friesland|3850|
+52.6317|4.7486|Alkmaar|North Holland|94853|
+52.3567|6.6625|Almelo|Overijssel|72725|
+52.3702|5.2141|Almere Stad|Flevoland|176432|
+51.7708|4.9597|Almkerk|North Brabant|2715|
+51.4817|4.9583|Alphen|North Brabant|3160|
+52.1292|4.6555|Alphen aan den Rijn|South Holland|70251|
+51.8042|5.7597|Alverna|Gelderland|1595|
+50.8621|5.7323|Amby|Limburg|6535|
+51.4367|5.9792|America|Limburg|1175|
+52.0025|5.4597|Amerongen|Utrecht|5085|
+52.1550|5.3875|Amersfoort|Utrecht|139914|
+51.9275|4.8083|Ammerstol|South Holland|1580|
+51.7492|5.2208|Ammerzoden|Gelderland|3040|
+52.3008|4.8639|Amstelveen|North Holland|79639|
+50.9392|5.9236|Amstenrade|Limburg|1740|
+52.3740|4.8897|Amsterdam|North Holland|741636|
+52.3741|4.8994|Amsterdam-Centrum|North Holland|86422|
+52.3565|4.8064|Amsterdam Nieuw-West|North Holland|151677|
+52.3521|4.9335|Amsterdam-Oost|North Holland|135767|
+52.3776|4.8660|Amsterdam-West|North Holland|143842|
+52.3469|4.8768|Amsterdam-Zuid|North Holland|144432|
+52.3075|4.9722|Amsterdam-Zuidoost|North Holland|87854|
+51.7833|5.0583|Andel|North Brabant|2535|
+51.9083|5.7292|Andelst|Gelderland|2990|
+52.7500|5.2200|Andijk|North Holland|7005|
+52.7809|6.9264|Angelslo|Drenthe|7840|
+51.9158|5.9583|Angeren|Gelderland|2275|
+51.9958|6.1347|Angerlo|Gelderland|1130|
+52.2653|5.0989|Ankeveen|North Holland|0|
+52.2589|5.1016|Ankeveense Rade|North Holland|1110|
+52.2311|5.9850|Anklaar|Gelderland|3865|
+53.0575|6.7194|Annen|Drenthe|3405|
+52.2100|5.9694|Apeldoorn|Gelderland|136670|
+52.9553|6.3505|Appelscha|Friesland|4035|
+53.3217|6.8583|Appingedam|Groningen|12364|
+51.4767|6.1806|Arcen|Limburg|8793|
+51.8642|4.9944|Arkel|South Holland|2980|
+51.5017|3.6750|Arnemuiden|Zeeland|5075|
+51.9800|5.9111|Arnhem|Gelderland|162424|
+52.9967|6.5625|Assen|Drenthe|68836|
+52.4667|4.7500|Assendelft|North Holland|24230|
+51.4042|5.7486|Asten|North Brabant|9535|
+53.2178|6.1617|Augustinusga|Friesland|1075|
+52.0800|5.3153|Austerlitz|Utrecht|1440|
+52.6175|4.9514|Avenhorn|North Holland|2945|
+51.2667|3.9083|Axel|Zeeland|8149|
+52.5858|6.6530|Baalder|Overijssel|3470|
+52.2458|4.9889|Baambrugge|Utrecht|1010|
+51.6925|5.0963|Baardwijk|North Brabant|2165|
+51.4475|4.9292|Baarle-Nassau|North Brabant|6845|
+51.3308|6.0944|Baarlo|Limburg|5215|
+52.2117|5.2875|Baarn|Utrecht|24584|
+51.9075|6.1111|Babberich|Gelderland|1445|
+52.3381|4.7803|Badhoevedorp|North Holland|15080|
+53.3625|6.5139|Baflo|Groningen|1730|
+51.5033|5.7403|Bakel|North Brabant|4140|
+52.0051|5.8771|Bakenberg|Gelderland|1025|
+52.8698|5.4593|Bakhuizen|Friesland|1060|
+53.0807|6.2567|Bakkeveen|Friesland|1450|
+52.5583|4.6567|Bakkum|North Holland|2585|
+52.8976|5.5796|Balk|Friesland|3915|
+52.6722|6.7330|Ballast|Drenthe|1710|
+52.7358|5.1801|Bangert|North Holland|1470|
+50.7900|5.8083|Banholt|Limburg|1005|
+51.8567|4.5347|Barendrecht|South Holland|38672|
+53.0842|4.8347|Bargen|North Holland|0|
+52.7615|6.8815|Bargeres|Drenthe|9060|
+52.7700|6.9583|Barger-Oosterveld|Drenthe|3090|
+52.1400|5.5847|Barneveld|Gelderland|35095|
+52.7853|4.8417|Barsingerhorn|North Holland|770|
+51.5658|4.8306|Bavel|North Brabant|5360|
+53.3008|6.6028|Bedum|Groningen|7765|
+51.1892|5.9194|Beegden|Limburg|1765|
+50.9408|5.7972|Beek|Limburg|8415|
+51.5289|5.6338|Beek|North Brabant|5185|
+52.1600|5.9639|Beekbergen|Gelderland|2545|
+51.9067|6.1875|Beek gem Montferland|Gelderland|1315|
+52.5500|4.9278|Beemster|North Holland|0|
+51.7258|5.8278|Beers|North Brabant|1275|
+50.9060|5.9644|Beersdal|Limburg|1620|
+51.8875|5.1917|Beesd|Gelderland|2980|
+51.2683|6.0389|Beesel|Limburg|2090|
+52.5892|4.9775|Beets|North Holland|525|
+53.0591|6.0771|Beetsterzwaag|Friesland|3485|
+52.8633|6.5139|Beilen|Drenthe|9495|
+52.2872|4.5944|Beinsdorp|North Holland|880|
+51.5991|4.7699|Belcrum|North Brabant|3605|
+50.8470|5.6599|Belfort|Limburg|2645|
+53.1158|7.1653|Bellingwolde|Groningen|2290|
+52.9042|4.9539|Belt|North Holland|0|
+52.0667|6.5639|Beltrum|Gelderland|1285|
+51.8917|5.8986|Bemmel|Gelderland|12020|
+52.3208|4.5986|Bennebroek|North Holland|5140|
+51.9983|5.6764|Bennekom|Gelderland|15160|
+52.7031|5.0097|Benningbroek|North Holland|0|
+52.0775|4.5444|Benthuizen|South Holland|18959|
+52.3658|4.5717|Bentveld|North Holland|1025|
+50.8617|5.7833|Berg|Limburg|1985|
+51.3018|5.3395|Bergeijk|North Brabant|18181|
+52.6703|4.7054|Bergen|North Holland|29715|
+52.2201|5.9334|Berg en Bos|Gelderland|1995|
+51.8217|5.9167|Berg en Dal|Gelderland|1949|
+51.4950|4.2917|Bergen op Zoom|North Brabant|66256|
+51.8508|5.6694|Bergharen|Gelderland|1370|
+51.7699|5.5683|Berghem|North Brabant|6500|
+51.9900|4.4986|Bergschenhoek|South Holland|16579|
+51.9225|4.7847|Bergstoep|South Holland|1205|
+51.3367|5.9486|Beringe|Limburg|1925|
+51.9931|4.4787|Berkel en Rodenrijs|South Holland|20189|
+52.1061|6.5675|Berkelland|Gelderland|0|
+51.9450|4.7069|Berkenwoude|South Holland|1390|
+52.6408|5.0014|Berkhout|North Holland|1905|
+52.6856|4.8983|Berkmeer|North Holland|0|
+52.5239|6.1365|Berkum|Overijssel|3720|
+51.6775|5.4000|Berlicum|North Brabant|4250|
+53.2437|5.6510|Berltsum|Friesland|2530|
+51.6833|5.0500|Besoijen|North Brabant|3770|
+51.5075|5.3903|Best|North Brabant|29074|
+51.5638|5.0866|Besterd|North Brabant|3395|
+51.8608|5.7667|Beuningen|Gelderland|25557|
+51.9500|5.2917|Beusichem|Gelderland|2750|
+52.4833|4.6569|Beverwijk|North Holland|37585|
+52.4550|5.6931|Biddinghuizen|Flevoland|5010|
+51.6061|4.7851|Biesdonk|North Brabant|4970|
+50.8411|5.6757|Biesland|Limburg|1505|
+52.3186|4.9653|Bijlmermeer|North Holland|0|
+52.2859|5.2653|Bijvanck|North Holland|4560|
+53.2155|5.7957|Bilgaard|Friesland|6105|
+52.1300|5.2014|Bilthoven|Utrecht|23248|
+52.1642|4.5364|Binnenhof|South Holland|1400|
+52.2130|5.9596|Binnenstad|Gelderland|4900|
+52.3720|4.8960|Binnenstad|North Holland|0|
+51.6687|5.6092|Bitswijk|North Brabant|4030|
+51.4250|5.4578|Blaarthem|North Brabant|2465|
+51.3683|5.2208|Bladel|North Brabant|9785|
+52.2725|5.2417|Blaricum|North Holland|5060|
+52.8956|4.7819|Blauwe Keet|North Holland|0|
+50.8554|6.0679|Bleijerheide|Limburg|4285|
+52.0108|4.5319|Bleiswijk|South Holland|10549|
+51.3717|6.1486|Blerick|Limburg|15820|
+51.8725|4.7833|Bleskensgraaf|South Holland|2800|
+53.1092|7.0764|Blijham|Groningen|2060|
+51.5308|6.1083|Blitterswijck|Limburg|1105|
+52.4025|4.6222|Bloemendaal|North Holland|3925|
+52.0288|4.6944|Bloemendaal|South Holland|9900|
+51.8972|4.4994|Bloemhof|South Holland|13715|
+52.6692|5.1181|Blokker|North Holland|0|
+52.7267|5.9611|Blokzijl|Overijssel|1110|
+52.6536|5.0044|Bobeldijk|North Holland|0|
+50.8183|6.0056|Bocholtz|Limburg|4340|
+52.0825|4.7500|Bodegraven|South Holland|19395|
+52.0654|4.7663|Bodegraven-Reeuwijk|South Holland|0|
+51.6033|5.6750|Boekel|North Brabant|5480|
+52.5900|4.7533|Boekel|North Holland|0|
+52.3583|4.7283|Boesingheliede|North Holland|0|
+51.8950|4.5792|Bolnes|South Holland|7650|
+53.0656|5.5318|Bolsward|Friesland|9160|
+53.0828|6.0458|Boornbergum|Friesland|1660|
+52.1158|6.5222|Borculo|Gelderland|10373|
+52.2763|6.1493|Borgele|Overijssel|3580|
+52.9233|6.7931|Borger|Drenthe|4570|
+50.8775|5.6875|Borgharen|Limburg|1735|
+51.0317|5.8097|Born|Limburg|2430|
+52.3014|6.7482|Borne|Overijssel|23877|
+51.4233|3.7347|Borssele|Zeeland|22285|
+52.1167|5.2417|Bosch en Duin|Utrecht|1675|
+52.3787|4.8505|Bos en Lommer|North Holland|0|
+52.3308|6.1278|Boskamp|Overijssel|1150|
+52.0750|4.6556|Boskoop|South Holland|15222|
+51.5608|4.5403|Bosschenhoofd|North Brabant|1925|
+51.8233|4.8819|Boven-Hardinxveld|South Holland|4500|
+52.7000|5.2500|Bovenkarspel|North Holland|0|
+51.6467|5.9472|Boxmeer|North Brabant|12407|
+51.5908|5.3292|Boxtel|North Brabant|29511|
+51.5358|5.9681|Brabander|Limburg|1680|
+51.1469|5.9045|Brachterbeek|Limburg|1220|
+51.8175|5.0903|Brakel|Gelderland|2555|
+51.8132|5.8654|Brakkenstein|Gelderland|3755|
+51.4584|5.6243|Brand|North Brabant|1270|
+51.5866|4.7760|Breda|North Brabant|184126|
+51.9417|6.6208|Bredevoort|Gelderland|1405|
+51.7602|5.9419|Bredeweg|Gelderland|2500|
+52.8900|4.8042|Breezand|North Holland|3370|
+52.7167|4.6833|Bregtdorp|North Holland|0|
+51.3958|3.5556|Breskens|Zeeland|4335|
+51.5175|5.5111|Breugel|North Brabant|1055|
+52.1742|5.0014|Breukelen|Utrecht|14498|
+52.1781|5.0692|Breukeleveen|North Holland|0|
+51.9017|4.1625|Brielle|South Holland|2765|
+52.2130|5.9517|Brinkhorst|Gelderland|3070|
+50.8712|5.8207|Broekhem|Limburg|1960|
+51.5480|5.0918|Broekhoven|North Brabant|7420|
+52.4342|4.9958|Broek in Waterland|North Holland|2655|
+52.6742|4.8056|Broek op Langedijk|North Holland|5695|
+51.0029|5.8951|Broeksittard|Limburg|1550|
+53.2747|5.9965|Broeksterwâld|Friesland|1115|
+51.7267|3.9125|Brouwershaven|Zeeland|1275|
+51.7867|5.2361|Bruchem|Gelderland|1370|
+51.6617|4.0944|Bruinisse|Zeeland|3100|
+51.5210|5.9927|Brukske|Limburg|4955|
+52.2050|5.9679|Brummelhof|Gelderland|3455|
+52.0900|6.1556|Brummen|Gelderland|21344|
+52.5618|5.9034|Brunnepe|Overijssel|3780|
+50.9467|5.9708|Brunssum|Limburg|29254|
+51.0433|5.8097|Buchten|Limburg|2015|
+51.2717|5.5750|Budel|North Brabant|7895|
+51.2367|5.5875|Budel-Dorplein|North Brabant|1540|
+51.2475|5.5653|Budel-Schoot|North Brabant|1860|
+51.2851|5.7590|Budschop|Limburg|1550|
+52.3989|4.9221|Buiksloot|North Holland|0|
+52.4035|4.9374|Buikslotermeer|North Holland|0|
+52.2197|4.5608|Buitenkaag|North Holland|0|
+53.2517|6.1448|Buitenpost|Friesland|5120|
+52.3300|4.8742|Buitenveldert|North Holland|0|
+50.8967|5.7319|Bunde|Limburg|5500|
+52.0667|5.1986|Bunnik|Utrecht|6315|
+52.2430|5.3788|Bunschoten|Utrecht|3015|
+53.2942|5.8790|Burdaard|Friesland|1166|
+51.9894|5.8960|Burgemeesterswijk|Gelderland|2850|
+52.7481|4.7022|Burgerbrug|North Holland|560|
+52.2403|4.6822|Burgerveen|North Holland|0|
+52.7539|4.6819|Burgervlotbrug|North Holland|0|
+53.1924|5.9901|Burgum|Friesland|9720|
+52.2733|5.1611|Bussum|North Holland|31334|
+52.6497|4.8167|Butterhuizen|North Holland|3750|
+52.8400|4.6958|Callantsoog|North Holland|2420|
+52.2333|4.7308|Calslagen|North Holland|0|
+53.2097|5.8432|Camminghaburen|Friesland|11500|
+52.7333|4.6500|Camperduin|North Holland|0|
+51.9292|4.5778|Capelle aan den IJssel|South Holland|65255|
+51.9167|4.5667|Capelle-West|South Holland|2400|
+51.8893|4.4776|Carnisse|South Holland|11225|
+52.5483|4.6694|Castricum|North Holland|35256|
+52.7139|4.6817|Catrijp|North Holland|0|
+51.5058|4.8611|Chaam|North Brabant|2805|
+50.8755|6.0598|Chevremont|Limburg|3160|
+53.1941|6.5894|Coendersborg|Groningen|3075|
+51.4174|5.5746|Coevering|North Brabant|5290|
+52.6610|6.7405|Coevorden|Drenthe|14600|
+51.5992|3.8486|Colijnsplaat|Zeeland|1485|
+52.5090|4.6584|Commandeurs|North Holland|2595|
+52.1898|5.9661|Componistenkwartier|Gelderland|3615|
+52.2164|5.4653|Corlaer|Gelderland|2700|
+51.9967|5.3083|Cothen|Utrecht|2765|
+51.3042|5.5889|Cranendonck|North Brabant|19966|
+52.3333|4.6333|Cruquius|North Holland|695|
+51.7308|5.8792|Cuijk|North Brabant|3610|
+51.9550|5.2278|Culemborg|Gelderland|26826|
+52.6992|6.7556|Dalen|Drenthe|3295|
+52.5117|6.2569|Dalfsen|Overijssel|26575|
+53.2905|5.9978|Damwâld|Friesland|5560|
+51.4930|3.6262|Dauwendaele|Zeeland|6220|
+52.3514|4.7792|De Aker|North Holland|0|
+52.1100|5.1806|De Bilt|Utrecht|8945|
+51.5463|5.0446|De Blaak|North Brabant|6005|
+52.1855|5.9470|De Bouwhof|Gelderland|2380|
+53.1550|4.8667|De Cocksdorp|North Holland|545|
+53.0311|5.6772|De Domp|Friesland|1925|
+51.4384|5.5089|De Doornakkers|North Brabant|6345|
+53.0974|6.0679|De Drait|Friesland|6310|
+51.8900|5.6667|Deest|Gelderland|1655|
+52.9691|5.7725|De Fryske Marren|Friesland|0|
+52.3308|4.6111|De Glip|North Holland|1355|
+52.6258|4.9472|De Goorn|North Holland|3510|
+52.9496|5.9137|De Greiden|Friesland|7470|
+51.9938|5.1026|De Hagen|Utrecht|2435|
+52.8883|4.9361|De Haukes|North Holland|0|
+52.2105|5.9741|De Haven|Gelderland|1565|
+50.8245|5.7231|De Heeg|Limburg|6255|
+52.2006|5.9536|De Heeze|Gelderland|2510|
+52.2490|6.1437|De Hoven|Overijssel|2365|
+52.6361|5.0222|De Hulk|North Holland|0|
+51.8842|5.2431|Deil|Gelderland|1880|
+52.1233|4.3584|De Kieviet|South Holland|1300|
+52.9683|5.9712|De Knipe|Friesland|1480|
+53.0975|4.7611|De Koog|North Holland|1025|
+52.9144|4.7858|De Kooy|North Holland|0|
+51.6998|5.2603|De Kruiskamp|North Brabant|8025|
+52.2408|4.7908|De Kwakel|North Holland|4435|
+52.2600|6.7111|Delden|Overijssel|6920|
+51.9049|4.4531|Delfshaven|South Holland|7215|
+52.0067|4.3556|Delft|South Holland|95060|
+53.3300|6.9181|Delfzijl|Groningen|28649|
+51.9750|4.2486|De Lier|South Holland|11823|
+52.6717|6.7397|De Loo|Drenthe|1275|
+52.5190|4.6817|De Maer|North Holland|1140|
+52.0817|5.0361|De Meern|Utrecht|22116|
+52.2195|5.9914|De Mheen|Gelderland|3190|
+53.0542|4.7972|Den Burg|North Holland|6485|
+51.6650|5.3722|Den Dungen|North Brabant|3450|
+52.4658|6.4958|Den Ham|Overijssel|1830|
+52.9599|4.7593|Den Helder|North Holland|59569|
+53.0250|4.7511|Den Hoorn|North Holland|915|
+52.4503|4.9075|Den Ilp|North Holland|845|
+52.9335|5.0308|Den Oever|North Holland|2145|
+52.7075|4.8514|De Noord|North Holland|1335|
+51.8236|4.8216|De Peulen|South Holland|2700|
+52.3531|4.8961|De Pijp|North Holland|0|
+51.5604|5.0493|De Reit|North Brabant|6105|
+52.5567|4.8458|De Rijp|North Holland|3980|
+51.7167|5.3167|De Rompert|North Brabant|2440|
+52.8122|4.7297|De Stolpen|North Holland|0|
+52.0853|5.1746|De Uithof|Utrecht|2790|
+51.6867|5.2667|Deuteren|North Brabant|1540|
+52.2550|6.1639|Deventer|Overijssel|97331|
+53.0719|4.8228|De Waal|North Holland|0|
+52.3735|4.8981|De Wallen|North Holland|0|
+52.7744|4.8669|De Weere|North Holland|865|
+53.2573|6.0363|De Westereen|Friesland|5030|
+53.1945|6.5712|De Wijert|Groningen|4765|
+52.6733|6.2903|De Wijk|Drenthe|2495|
+52.5467|4.7736|De Woude|North Holland|0|
+51.9408|6.1319|Didam|Gelderland|17812|
+52.3396|4.9626|Diemen|North Holland|24361|
+52.2000|6.5556|Diepenheim|Overijssel|1900|
+52.0525|6.1000|Dieren|Gelderland|14842|
+51.4758|5.1750|Diessen|North Brabant|2815|
+52.8542|6.3181|Diever|Drenthe|2175|
+51.6350|4.3694|Dinteloord|North Brabant|5105|
+52.7500|4.7750|Dirkshorn|North Holland|1480|
+51.7492|4.1000|Dirksland|South Holland|4500|
+50.9675|5.9069|Doenrade|Limburg|1140|
+52.0125|6.1389|Doesburg|Gelderland|1050|
+51.9650|6.2889|Doetinchem|Gelderland|49906|
+53.3222|5.9970|Dokkum|Friesland|12669|
+51.5633|3.4958|Domburg|Zeeland|1435|
+51.3462|5.4339|Dommelen|North Brabant|1220|
+51.6267|4.9389|Dongen|North Brabant|25464|
+51.5384|5.6291|Donk|North Brabant|3580|
+53.0173|6.2393|Donkerbroek|Friesland|1140|
+51.5667|5.6944|Doonheide|North Brabant|1030|
+52.0334|5.3457|Doorn|Utrecht|10330|
+51.8900|6.0000|Doornenburg|Gelderland|2075|
+52.4183|5.8181|Doornspijk|Gelderland|1555|
+52.2300|5.4542|Doornsteeg|Gelderland|5400|
+51.9792|5.7972|Doorwerth|Gelderland|4370|
+51.8100|4.6736|Dordrecht|South Holland|119260|
+51.5900|4.8569|Dorst|North Brabant|1965|
+53.1125|6.0989|Drachten|Friesland|45186|
+53.1346|6.1415|Drachtstercompagnie|Friesland|1500|
+52.6645|5.1657|Drechterland|North Holland|0|
+52.0533|5.2806|Driebergen-Rijsenburg|Utrecht|18553|
+52.0442|4.8000|Driebruggen|South Holland|1485|
+52.4472|4.6367|Driehuis|North Holland|1080|
+52.2088|5.9444|Driehuizen|Gelderland|4610|
+52.5789|4.8089|Driehuizen|North Holland|0|
+51.9592|5.8139|Driel|Gelderland|2940|
+52.0518|4.4850|Driemanspolder|South Holland|6250|
+52.3058|5.0167|Driemond|North Holland|1500|
+53.2021|6.1118|Drogeham|Friesland|1530|
+53.2000|5.6500|Dronryp|Friesland|3486|
+52.5250|5.7181|Dronten|Flevoland|28073|
+51.8970|5.4104|Drumpt|Gelderland|2130|
+51.6858|5.1333|Drunen|North Brabant|18320|
+51.8883|5.6056|Druten|Gelderland|6270|
+52.0908|4.2604|Duindorp|South Holland|5935|
+52.1048|4.3249|Duinzigt|South Holland|2510|
+51.9467|6.0139|Duiven|Gelderland|25469|
+52.3294|4.9396|Duivendrecht|North Holland|4720|
+51.3683|5.2972|Duizel|North Brabant|1460|
+52.3777|4.9891|Durgerdam|North Holland|0|
+52.8342|6.3694|Dwingeloo|Drenthe|2430|
+53.1747|6.0600|Eastermar|Friesland|1310|
+52.8714|5.8215|Echtenerbrug|Friesland|1200|
+51.4732|5.4945|Eckart|North Brabant|4300|
+52.5121|5.0480|Edam|North Holland|7380|
+52.5019|5.0614|Edam-Volendam|North Holland|0|
+52.0333|5.6583|Ede|Gelderland|67670|
+52.0633|5.5778|Ederveen|Gelderland|3100|
+52.1667|6.2250|Eefde|Gelderland|3285|
+53.1358|6.5625|Eelde|Drenthe|6450|
+52.7425|4.7256|Eenigenburg|North Holland|0|
+53.3625|6.4583|Eenrum|Groningen|1365|
+52.1050|6.0583|Eerbeek|Gelderland|10103|
+51.6042|5.4986|Eerde|North Brabant|1065|
+51.5683|5.4736|Eerschot|North Brabant|2210|
+51.3575|5.3181|Eersel|North Brabant|18185|
+53.0175|6.7347|Eext|Drenthe|1225|
+53.1639|6.9834|Eexta|Groningen|1605|
+51.3142|5.9722|Egchel|Limburg|1115|
+52.6219|4.6531|Egmond aan den Hoef|North Holland|3630|
+52.6204|4.6270|Egmond aan Zee|North Holland|2505|
+52.5958|4.6556|Egmond-Binnen|North Holland|2575|
+52.1000|6.6486|Eibergen|Gelderland|16493|
+50.7800|5.7177|Eijsden|Limburg|11795|
+50.8009|5.7741|Eijsden-Margraten|Limburg|0|
+51.4408|5.4778|Eindhoven|North Brabant|235691|
+51.0017|5.8278|Einighausen|Limburg|1340|
+51.3966|5.4862|Ekenrooi|North Brabant|3970|
+52.4475|5.8431|Elburg|Gelderland|21844|
+51.9583|5.8819|Elden|Gelderland|2300|
+52.0325|6.0875|Ellecom|Gelderland|1015|
+51.7008|5.1417|Elshout|North Brabant|1655|
+50.9492|5.7708|Elsloo|Limburg|7220|
+52.2917|5.7889|Elspeet|Gelderland|2810|
+51.9192|5.8417|Elst|Gelderland|20488|
+52.7108|5.7486|Emmeloord|Flevoland|46409|
+52.7792|6.9069|Emmen|Drenthe|57010|
+52.8117|7.0472|Emmer-Compascuum|Drenthe|8130|
+52.8067|6.9889|Emmer-Erfscheidenveen|Drenthe|1875|
+52.7876|6.9388|Emmerhout|Drenthe|7375|
+52.8007|6.8932|Emmermeer|Drenthe|5995|
+52.8008|6.9389|Emmerschans|Drenthe|1005|
+52.3158|5.9736|Emst|Gelderland|1310|
+52.7033|5.2917|Enkhuizen|North Holland|17365|
+52.6367|5.8278|Ens|Flevoland|3174|
+52.2183|6.8958|Enschede|Overijssel|153655|
+51.5785|5.1388|Enschot|North Brabant|3865|
+52.3475|5.9833|Epe|Gelderland|33385|
+52.2250|6.2000|Epse|Gelderland|1470|
+52.2983|5.6222|Ermelo|Gelderland|10255|
+51.6000|5.6069|Erp|North Brabant|3600|
+51.6108|5.2903|Esch|North Brabant|1820|
+52.0853|4.3726|Essesteijn|South Holland|4900|
+52.5850|5.0222|Etersheim|North Holland|0|
+51.9167|6.3361|Etten|Gelderland|1470|
+52.8825|6.8639|Exloo|Drenthe|1525|
+53.3217|6.9264|Farmsum|Groningen|2185|
+53.2356|5.9883|Feanwâlden|Friesland|3440|
+51.9117|4.5065|Feijenoord|South Holland|7275|
+53.3378|5.8253|Ferwert|Friesland|1935|
+51.6375|4.4694|Fijnaart|North Brabant|4855|
+52.5458|5.9134|Flevowijk|Overijssel|3675|
+53.1855|5.5412|Franeker|Friesland|12996|
+52.5250|6.0681|Frankhuis|Overijssel|6145|
+52.9214|4.7667|Friese Buurt|North Holland|0|
+51.6017|4.7389|Gageldonk|North Brabant|4865|
+51.8008|5.2042|Gameren|Gelderland|2200|
+52.2308|5.7139|Garderen|Gelderland|1320|
+53.1667|5.9667|Garyp|Friesland|1545|
+52.9717|6.7944|Gasselte|Drenthe|1495|
+52.9883|6.8528|Gasselternijveen|Drenthe|1780|
+51.3593|5.4602|Geenhoven|North Brabant|3270|
+51.7017|4.8569|Geertruidenberg|North Brabant|20941|
+51.7400|5.4639|Geffen|North Brabant|3870|
+52.0038|5.9386|Geitenkamp|Gelderland|4005|
+51.8808|5.2889|Geldermalsen|Gelderland|25734|
+51.8797|5.2801|Geldermalsen-West|Gelderland|2580|
+51.4217|5.5597|Geldrop|North Brabant|27900|
+50.9742|5.8292|Geleen|Limburg|32790|
+53.3193|6.8486|Gemeente Appingedam|Groningen|0|
+53.3002|6.9313|Gemeente Delfzijl|Groningen|0|
+53.2237|6.5648|Gemeente Groningen|Groningen|0|
+53.3385|6.7215|Gemeente Loppersum|Groningen|0|
+53.1686|7.0422|Gemeente Oldambt|Groningen|0|
+53.0597|6.9651|Gemeente Pekela|Groningen|0|
+53.0001|6.9891|Gemeente Stadskanaal|Groningen|0|
+53.0895|6.8792|Gemeente Veendam|Groningen|0|
+51.5558|5.6903|Gemert|North Brabant|15995|
+51.6183|5.3569|Gemonde|North Brabant|1490|
+51.7358|5.0875|Genderen|North Brabant|1730|
+51.8733|6.3764|Gendringen|Gelderland|3880|
+51.8775|5.9708|Gendt|Gelderland|5590|
+51.6983|5.9736|Gennep|Limburg|16642|
+51.4092|5.5389|Genoenhuis|North Brabant|3815|
+51.4900|5.5625|Gerwen|North Brabant|1735|
+52.3779|4.7996|Geuzenveld|North Holland|0|
+51.9933|6.0667|Giesbeek|Gelderland|2745|
+51.7900|5.0306|Giessen|North Brabant|1640|
+51.8508|4.8903|Giessenburg|South Holland|4800|
+51.8326|4.8358|Giessendam|South Holland|5235|
+53.0050|6.7639|Gieten|Drenthe|4885|
+52.7400|6.0792|Giethoorn|Overijssel|2130|
+51.5442|4.9403|Gilze|North Brabant|6300|
+51.5659|4.7931|Ginneken|North Brabant|5370|
+52.2158|6.9708|Glanerbrug|Overijssel|17260|
+53.1392|6.6292|Glimmen|Groningen|1065|
+51.8175|3.9806|Goedereede|South Holland|11597|
+51.5042|3.8889|Goes|Zeeland|36931|
+51.5208|5.0667|Goirle|North Brabant|22646|
+52.2974|5.1337|Gooise Meren|North Holland|0|
+52.2333|6.5861|Goor|Overijssel|11460|
+51.8365|4.9724|Gorinchem|South Holland|34736|
+53.0066|6.0640|Gorredijk|Friesland|7040|
+52.2017|6.2014|Gorssel|Gelderland|3530|
+52.0167|4.7083|Gouda|South Holland|71952|
+51.9842|4.6778|Gouderak|South Holland|2635|
+51.7942|4.2764|Goudswaard|South Holland|1530|
+53.1773|5.8037|Goutum|Friesland|2790|
+52.7294|4.9625|Gouwe|North Holland|0|
+52.1194|4.6690|Gouwsluis|South Holland|1470|
+50.8518|6.0279|Gracht|Limburg|2080|
+52.5825|5.9333|Grafhorst|Overijssel|1015|
+52.5608|4.8339|Graft|North Holland|880|
+51.3608|5.9431|Grashoek|Limburg|1355|
+51.4392|5.4154|Grasrijk|North Brabant|5375|
+51.7590|5.7388|Grave|North Brabant|12999|
+51.0383|5.7750|Grevenbicht|Limburg|2355|
+51.5055|3.5960|Griffioen|Zeeland|3005|
+53.2625|6.3083|Grijpskerk|Groningen|2520|
+51.5342|3.5611|Grijpskerke|Zeeland|1040|
+52.1233|5.1528|Groenekan|Utrecht|1565|
+51.5386|5.0903|Groenewoud|North Brabant|7710|
+52.0515|4.6454|Groenswaard|South Holland|5160|
+51.7767|5.9361|Groesbeek|Gelderland|18741|
+51.9317|6.0264|Groessen|Gelderland|1955|
+53.2192|6.5667|Groningen|Groningen|244807|
+50.8108|5.7306|Gronsveld|Limburg|2380|
+51.9233|4.8236|Groot-Ammers|South Holland|3305|
+52.6989|5.2189|Grootebroek|North Holland|0|
+53.2125|6.2736|Grootegast|Groningen|3355|
+51.8826|4.5494|Groot IJsselmonde|South Holland|28120|
+52.5808|4.8517|Grootschermer|North Holland|715|
+52.6167|4.9833|Grosthuizen|North Holland|0|
+53.0946|5.8374|Grou|Friesland|5655|
+51.9943|5.8908|Gulden Bodem|Gelderland|1210|
+50.8158|5.8889|Gulpen|Limburg|3560|
+50.8137|5.8930|Gulpen-Wittem|Limburg|0|
+51.0150|5.8181|Guttecoven|Limburg|1260|
+53.2429|5.8950|Gytsjerk|Friesland|2175|
+51.8158|5.2111|Haaften|Gelderland|2370|
+52.1567|6.7389|Haaksbergen|Overijssel|24137|
+51.8875|5.9292|Haalderen|Gelderland|1850|
+51.6968|3.7430|Haamstede|Zeeland|1885|
+50.8798|6.0741|Haanrade|Limburg|2015|
+51.6025|5.2222|Haaren|North Brabant|3835|
+52.3592|6.3806|Haarle|Overijssel|1045|
+52.3808|4.6368|Haarlem|North Holland|162543|
+52.3881|4.6875|Haarlemmerliede|North Holland|0|
+52.3008|4.6653|Haarlemmermeer|North Holland|0|
+51.7117|5.1986|Haarsteeg|North Brabant|2100|
+52.0007|4.7764|Haastrecht|South Holland|4500|
+51.2358|5.9569|Haelen|Limburg|9935|
+52.3192|5.1022|Hakkelaarsbrug|North Holland|0|
+52.3825|4.7542|Halfweg|North Holland|2330|
+53.3066|5.7838|Hallum|Friesland|2355|
+51.5283|4.2679|Halsteren|North Brabant|9850|
+51.5800|5.7097|Handel|North Brabant|1310|
+51.3683|5.2569|Hapert|North Brabant|4955|
+51.6892|5.8611|Haps|North Brabant|2165|
+52.5758|6.6194|Hardenberg|Overijssel|57909|
+52.3417|5.6208|Harderwijk|Gelderland|40516|
+52.7383|4.9933|Harderwijk|North Holland|0|
+53.1721|6.6093|Haren|Groningen|9375|
+52.7342|4.7768|Harenkarspel|North Holland|0|
+52.7217|4.6625|Hargen|North Holland|0|
+52.7733|4.8289|Haringhuizen|North Holland|0|
+53.1833|6.1333|Harkema|Friesland|4005|
+53.2133|6.6986|Harkstede|Groningen|2490|
+53.1748|5.4224|Harlingen|Friesland|16119|
+52.1300|5.7528|Harskamp|Gelderland|3450|
+52.5927|6.0953|Hasselt|Overijssel|6959|
+51.8064|5.8306|Hatert|Gelderland|10210|
+52.4750|6.0639|Hattem|Gelderland|11876|
+52.4742|6.0222|Hattemerbroek|Gelderland|1025|
+53.0647|6.3345|Haulerwijk|Friesland|2935|
+52.7075|5.0989|Hauwert|North Holland|720|
+52.7694|6.2401|Havelte|Drenthe|3060|
+51.7480|5.2613|Hedel|Gelderland|4350|
+53.2096|5.8225|Heechterp|Friesland|1805|
+52.9686|5.6108|Heeg|Friesland|1995|
+51.1792|5.8944|Heel|Limburg|3980|
+51.9842|5.7583|Heelsum|Gelderland|3175|
+52.5111|4.6716|Heemskerk|North Holland|39191|
+52.3499|4.6230|Heemstede|North Holland|25562|
+50.8384|5.7299|Heer|Limburg|7615|
+52.3872|6.0402|Heerde|Gelderland|8850|
+52.9593|5.9185|Heerenveen|Friesland|43094|
+51.8177|5.3930|Heerewaarden|Gelderland|1005|
+52.6714|4.8486|Heerhugowaard|North Holland|47580|
+51.8358|4.5639|Heerjansdam|South Holland|3770|
+51.5192|4.3597|Heerle|North Brabant|1320|
+50.8837|5.9815|Heerlen|Limburg|93084|
+51.8414|5.8285|Hees|Gelderland|2875|
+51.7336|5.5267|Heesch|North Brabant|12810|
+51.4861|5.4968|Heesterakker|North Brabant|2765|
+51.6508|5.4750|Heeswijk-Dinther|North Brabant|7985|
+51.3828|5.5714|Heeze|North Brabant|9945|
+51.4392|6.0389|Hegelsom|Limburg|1185|
+51.0683|5.8722|Heide|Limburg|570|
+51.6750|5.9806|Heijen|Limburg|1610|
+51.8933|4.4208|Heijplaat|South Holland|1365|
+53.1567|7.0097|Heiligerlee|Groningen|1365|
+52.6025|4.6882|Heiloo|North Holland|24144|
+52.4366|6.2328|Heino|Overijssel|6459|
+50.9207|5.9737|Heksenberg|Limburg|2395|
+51.3192|6.0000|Helden|Limburg|5530|
+51.8333|4.1333|Hellevoetsluis|South Holland|21927|
+51.4817|5.6611|Helmond|North Brabant|74740|
+53.1979|6.5798|Helpman|Groningen|6050|
+51.6317|5.2306|Helvoirt|North Brabant|3625|
+52.6608|5.1833|Hem|North Holland|1035|
+51.8442|4.6389|Hendrik-Ido-Ambacht|South Holland|21027|
+52.0508|6.3097|Hengelo|Gelderland|4510|
+52.2658|6.7931|Hengelo|Overijssel|82311|
+52.1992|6.6361|Hengevelde|Overijssel|1510|
+51.8333|5.8833|Hengstdal|Gelderland|7010|
+52.6583|4.8847|Hensbroek|North Holland|1345|
+51.1533|6.0639|Herkenbosch|Limburg|3935|
+51.7717|5.6417|Herpen|North Brabant|2360|
+51.1808|5.9625|Herten|Limburg|3305|
+51.8267|5.1292|Herwijnen|Gelderland|2305|
+51.9567|5.7556|Heteren|Gelderland|4805|
+52.2339|5.9527|Het Loo|Gelderland|1330|
+52.2500|6.2167|Het Oostrik|Overijssel|2380|
+50.8279|5.7077|Heugem|Limburg|4620|
+51.7650|5.8444|Heumen|Gelderland|1010|
+51.3842|5.7639|Heusden|North Brabant|1300|
+51.5881|4.8193|Heusdenhout|North Brabant|5160|
+51.2500|5.8986|Heythuysen|Limburg|6420|
+52.2908|4.5833|Hillegom|South Holland|18419|
+51.4858|5.1375|Hilvarenbeek|North Brabant|7855|
+52.2233|5.1764|Hilversum|North Holland|83640|
+52.2711|5.1373|Hilversumse Meent|North Holland|4065|
+52.2828|5.0569|Hinderdam|North Holland|0|
+52.9075|4.9625|Hippolytushoef|North Holland|4800|
+52.5450|4.9808|Hobrede|North Holland|0|
+53.2045|5.8019|Hoek|Friesland|1100|
+51.9775|4.1333|Hoek van Holland|South Holland|9400|
+50.9239|5.9253|Hoensbroek|Limburg|25000|
+51.5792|4.5833|Hoeven|North Brabant|1960|
+52.4433|4.6583|Hofgeest|North Holland|1440|
+52.1562|4.4603|Hoge Mors|South Holland|5050|
+51.6079|4.7915|Hoge Vucht|North Brabant|16000|
+52.1750|5.1778|Hollandsche Rading|Utrecht|1325|
+52.8783|4.8114|Hollands Kroon|North Holland|0|
+53.4394|5.6380|Hollum|Friesland|1160|
+51.0475|5.8222|Holtum|Limburg|1170|
+53.3681|5.9007|Holwerd|Friesland|0|
+52.4131|5.0253|Holysloot|North Holland|0|
+50.8642|6.0742|Holz|Limburg|2390|
+52.0067|4.2244|Honselersdijk|South Holland|7366|
+52.3025|4.6889|Hoofddorp|North Holland|132734|
+51.8750|4.9764|Hoogblokland|South Holland|1090|
+51.3975|5.2681|Hoogeloon|North Brabant|1790|
+51.3875|5.1292|Hooge Mierde|North Brabant|1310|
+51.4242|4.3250|Hoogerheide|North Brabant|5810|
+52.7225|6.4764|Hoogeveen|Drenthe|38754|
+53.1617|6.7611|Hoogezand|Groningen|21480|
+51.6875|4.7444|Hooge Zwaluwe|North Brabant|1265|
+51.9963|5.8803|Hoogkamp|Gelderland|1870|
+52.6947|5.1778|Hoogkarspel|North Holland|0|
+52.1692|4.5819|Hoogmade|South Holland|1480|
+51.8633|4.3625|Hoogvliet|South Holland|34950|
+52.7158|4.9389|Hoogwoud|North Holland|3645|
+52.6425|5.0597|Hoorn|North Holland|68852|
+50.8924|6.0505|Hopel|Limburg|2240|
+51.8558|5.6097|Horssen|Gelderland|1095|
+52.2497|5.0742|Horstermeer|North Holland|750|
+52.0283|5.1681|Houten|Utrecht|1335|
+50.8725|5.7931|Houthem|Limburg|1470|
+52.2167|4.5972|Huigsloot|North Holland|0|
+51.4325|4.3764|Huijbergen|North Brabant|1655|
+52.9533|4.7250|Huisduinen|North Holland|0|
+51.9383|5.9333|Huissen|Gelderland|19725|
+52.2992|5.2417|Huizen|North Holland|41273|
+53.1917|5.8112|Huizum|Friesland|9000|
+50.8892|5.8556|Hulsberg|Limburg|3215|
+51.2800|4.0528|Hulst|Zeeland|1405|
+52.0042|6.2333|Hummelo|Gelderland|1010|
+51.8421|5.8788|Hunnerberg|Gelderland|3800|
+53.2133|5.9414|Hurdegaryp|Friesland|4510|
+50.8957|5.9565|Husken|Limburg|1380|
+52.3550|4.9978|IJburg|North Holland|0|
+53.0101|5.6231|IJlst|Friesland|3180|
+52.4586|4.6194|IJmuiden|North Holland|31925|
+52.0200|5.0431|IJsselstein|Utrecht|33886|
+51.3217|3.6167|IJzendijke|Zeeland|1785|
+52.4633|4.9500|Ilpendam|North Holland|1750|
+51.9592|5.4847|Ingen|Gelderland|1080|
+51.4733|5.4672|Jagershoef|North Brabant|3560|
+53.0775|5.7925|Jirnsum|Friesland|1255|
+52.5067|4.8489|Jisp|North Holland|699|
+52.3792|4.8803|Jordaan|North Holland|19485|
+52.9657|5.8030|Joure|Friesland|13090|
+53.0040|6.1218|Jubbega|Friesland|3230|
+52.8906|4.7389|Julianadorp|North Holland|15135|
+50.8650|6.0364|Kaalheide|Limburg|2840|
+52.4175|4.9056|Kadoelen|North Holland|1915|
+50.9041|6.0046|Kakert|Limburg|1750|
+51.5397|4.4711|Kalsdonk|North Brabant|4250|
+52.7325|4.7681|Kalverdijk|North Holland|0|
+52.5550|5.9111|Kampen|Overijssel|48980|
+51.5717|3.7042|Kamperland|Zeeland|1610|
+52.5833|4.6931|Kapel|North Holland|0|
+51.4863|3.9580|Kapelle|Zeeland|8670|
+51.9007|4.4825|Katendrecht|South Holland|4755|
+52.1942|4.4222|Katwijk aan den Rijn|South Holland|5940|
+52.2033|4.3986|Katwijk aan Zee|South Holland|20010|
+52.4694|5.0506|Katwoude|North Holland|0|
+51.8600|5.0500|Kedichem|Utrecht|1045|
+51.2422|5.7008|Keent|Limburg|4465|
+52.0292|6.2944|Keijenborg|Gelderland|1050|
+51.2182|5.8260|Kelpen-Oler|Limburg|1170|
+52.0784|5.2658|Kerckebosch|Utrecht|2555|
+50.9721|5.7767|Kerensheide|Limburg|2740|
+52.7400|4.7588|Kerkbuurt|North Holland|0|
+51.7717|5.3347|Kerkdriel|Gelderland|6580|
+52.1102|4.3796|Kerkehout|South Holland|1045|
+52.2176|5.1357|Kerkelanden|North Holland|5655|
+50.8658|6.0625|Kerkrade|Limburg|49777|
+52.2333|5.9667|Kerschoten|Gelderland|3540|
+51.2917|6.0542|Kessel|Limburg|3020|
+51.9350|5.5694|Kesteren|Gelderland|4455|
+52.0677|4.2219|Kijkduin|South Holland|1495|
+51.7700|4.4458|Klaaswaal|South Holland|3490|
+51.5096|3.6113|Klarenbeek|Zeeland|3350|
+52.7242|6.9903|Klazienaveen|Drenthe|11919|
+52.2694|6.8161|Klein Driene|Overijssel|1470|
+51.4808|4.6542|Klein-Zundert|North Brabant|1320|
+50.8758|5.8806|Klimmen|Limburg|1780|
+51.4983|3.9153|Kloetinge|Zeeland|1595|
+51.6650|4.5347|Klundert|North Brabant|5405|
+52.6750|4.7483|Koedijk|North Holland|0|
+52.6992|6.3167|Koekange|Drenthe|1085|
+51.2283|3.9736|Koewacht|Zeeland|2656|
+52.6333|4.9500|Koggenland|North Holland|0|
+52.7928|4.8889|Kolhorn|North Holland|825|
+53.2769|6.1529|Kollum|Friesland|5529|
+53.2622|6.0754|Kollumerzwaag|Friesland|0|
+51.0517|5.9583|Koningsbosch|Limburg|1540|
+51.3575|5.9931|Koningslust|Limburg|1270|
+52.4667|4.8000|Koog aan de Zaan|North Holland|11306|
+53.2126|6.0921|Kootstertille|Friesland|2180|
+52.1508|5.6694|Kootwijkerbroek|Gelderland|1690|
+51.9055|4.4871|Kop van Zuid|South Holland|2235|
+53.2323|6.5680|Korrewegwijk|Groningen|16710|
+52.2392|5.1069|Kortenhoef|North Holland|6250|
+51.5495|5.0708|Korvel|North Brabant|12520|
+51.4817|3.5542|Koudekerke|Zeeland|2880|
+52.9155|5.4483|Koudum|Friesland|2600|
+52.7322|4.7025|Krabbendam|North Holland|0|
+52.7234|6.5115|Krakeel|Drenthe|5105|
+52.8422|5.0814|Kreileroord|North Holland|585|
+51.9167|4.6028|Krimpen aan den IJssel|South Holland|29017|
+51.9817|4.7783|Krimpenerwaard|South Holland|0|
+52.5000|4.7667|Krommenie|North Holland|17240|
+51.6467|4.5920|Krooswijk|North Brabant|4130|
+50.9423|5.9652|Kruisberg|Limburg|1150|
+51.5692|4.4097|Kruisland|North Brabant|1785|
+52.2342|4.7514|Kudelstaart|North Holland|9250|
+50.8777|5.9311|Kunrade|Limburg|3405|
+52.5275|4.9811|Kwadijk|North Holland|760|
+52.0133|4.2556|Kwintsheul|South Holland|3560|
+51.4058|5.1472|Lage Mierde|North Brabant|1405|
+51.4379|5.5011|Lakerlopen|North Brabant|3355|
+52.7458|5.0167|Lambertschaag|North Holland|0|
+51.4667|3.5583|Lammerenburg|Zeeland|1200|
+50.9133|6.0572|Landgraaf|Limburg|0|
+52.4308|4.9153|Landsmeer|North Holland|10438|
+52.6936|4.7944|Langedijk|North Holland|0|
+52.4920|4.7585|Langeheit|North Holland|1180|
+51.7042|5.7306|Langenboom|North Brabant|1400|
+52.1877|5.3803|Langenoord|Utrecht|1695|
+52.7111|4.9036|Langereis|North Holland|0|
+52.9584|5.7217|Langweer|Friesland|1095|
+52.1942|6.3653|Laren|Gelderland|1730|
+52.2567|5.2278|Laren|North Holland|11508|
+50.9123|6.0459|Lauradorp|Limburg|3170|
+53.1625|6.3764|Leek|Groningen|19651|
+51.3508|5.5542|Leende|North Brabant|3490|
+53.3600|6.3792|Leens|Groningen|1675|
+51.8933|5.0917|Leerdam|Utrecht|20758|
+52.0117|5.4278|Leersum|Utrecht|6385|
+51.6098|5.5431|Leest|North Brabant|2840|
+52.1279|6.2322|Leesten|Gelderland|10000|
+53.2014|5.8086|Leeuwarden|Friesland|124481|
+51.2103|5.9986|Leeuwen|Limburg|1075|
+52.1583|4.4931|Leiden|South Holland|119713|
+52.1583|4.5292|Leiderdorp|South Holland|25966|
+52.0950|5.0461|Leidsche Rijn|Utrecht|49307|
+52.2242|4.6694|Leimuiden|South Holland|1035|
+52.2308|4.6681|Leimuiderbrug|North Holland|0|
+52.5083|5.4750|Lelystad|Flevoland|79811|
+52.8462|5.7091|Lemmer|Friesland|10050|
+51.8617|5.8667|Lent|Gelderland|9160|
+51.5483|4.2764|Lepelstraat|North Brabant|1425|
+51.2529|5.7346|Leuken|Limburg|3805|
+51.5100|5.9792|Leunen|Limburg|2270|
+52.1325|5.4319|Leusden|Utrecht|29215|
+51.8392|5.9917|Leuth|Gelderland|1595|
+50.9022|6.0252|Lichtenberg|Limburg|1635|
+51.9867|6.5667|Lichtenvoorde|Gelderland|19590|
+51.5692|5.3722|Liempde|North Brabant|4170|
+51.9483|5.5181|Lienden|Gelderland|3470|
+51.4192|5.6792|Lierop|North Brabant|1460|
+51.5204|5.5948|Lieshout|North Brabant|3530|
+51.4133|5.8208|Liessel|North Brabant|2395|
+51.9325|4.8319|Liesveld|South Holland|9767|
+51.4422|5.4341|Lievendaal|North Brabant|3175|
+52.3522|4.7597|Lijnden|North Holland|705|
+51.0117|5.8375|Limbricht|Limburg|2575|
+50.8672|5.7072|Limmel|Limburg|2370|
+52.5692|4.6944|Limmen|North Holland|7300|
+50.9851|5.8167|Lindenheuvel|Limburg|8040|
+51.8327|5.7934|Lindenholt|Gelderland|16121|
+51.1550|5.9389|Linne|Limburg|3645|
+52.0625|4.9153|Linschoten|Utrecht|3435|
+52.2600|4.5569|Lisse|South Holland|22321|
+52.2567|4.5722|Lisserbroek|North Holland|3360|
+51.8058|5.4389|Lith|North Brabant|2895|
+51.8625|6.1181|Lobith|Gelderland|3045|
+52.1592|6.4111|Lochem|Gelderland|12360|
+52.1175|6.0194|Loenen|Gelderland|2135|
+51.8738|4.5219|Lombardijen|South Holland|13785|
+51.6275|5.0750|Loon op Zand|North Brabant|23000|
+51.6783|5.5069|Loosbroek|North Brabant|1295|
+52.2000|5.1333|Loosdrecht|North Holland|8600|
+51.9725|4.9486|Lopik|Utrecht|14013|
+53.3317|6.7472|Loppersum|Groningen|2365|
+52.2608|7.0042|Losser|Overijssel|22431|
+51.4617|6.1611|Lottum|Limburg|1170|
+51.5648|5.0975|Loven|North Brabant|3865|
+52.0618|5.1347|Lunetten|Utrecht|11679|
+52.0850|5.6222|Lunteren|Gelderland|12510|
+52.6975|5.2042|Lutjebroek|North Holland|2120|
+52.7689|4.8828|Lutjewinkel|North Holland|0|
+51.2892|5.3236|Luyksgestel|North Brabant|2465|
+51.3117|5.6167|Maarheeze|North Brabant|4715|
+52.0642|5.3708|Maarn|Utrecht|4618|
+52.1392|5.0417|Maarssen|Utrecht|39675|
+52.1550|5.1750|Maartensdijk|Utrecht|4925|
+51.1393|5.8863|Maasbracht|Limburg|5680|
+51.3575|6.0486|Maasbree|Limburg|5045|
+51.9592|4.2139|Maasdijk|South Holland|5000|
+51.6583|5.3708|Maaskantje|North Brabant|1610|
+51.9342|4.2722|Maasland|South Holland|4545|
+51.7261|5.3019|Maaspoort|North Brabant|16150|
+51.9233|4.2500|Maassluis|South Holland|32780|
+50.8483|5.6889|Maastricht|Limburg|122378|
+51.6767|4.7931|Made|North Brabant|11795|
+52.4692|6.5208|Magele|Overijssel|1020|
+53.0546|5.4023|Makkum|Friesland|3285|
+50.8624|5.6542|Malberg|Limburg|5345|
+51.9681|5.8974|Malburgen West|Gelderland|4200|
+51.6500|3.9333|Malta|Zeeland|1545|
+53.1287|5.7192|Mantgum|Friesland|1105|
+50.8208|5.8208|Margraten|Limburg|3320|
+51.5408|5.5722|Mariahout|North Brabant|1130|
+50.9291|5.9274|Mariarade|Limburg|3770|
+52.2350|6.4986|Markelo|Overijssel|3785|
+52.4583|5.1028|Marken|North Holland|1846|
+52.5308|4.7806|Markenbinnen|North Holland|0|
+53.3228|5.8020|Marrum|Friesland|1230|
+53.0177|6.5853|Marsdijk|Drenthe|12241|
+53.2105|5.7264|Marsum|Friesland|1185|
+53.1442|6.2625|Marum|Groningen|5170|
+52.1977|6.0111|Matendonk|Gelderland|5225|
+52.1999|5.9859|Matendreef|Gelderland|4325|
+52.1979|5.9957|Matengaarde|Gelderland|2810|
+52.1906|6.0134|Matenhoeve|Gelderland|4915|
+52.2048|5.9930|Matenhorst|Gelderland|3055|
+52.1877|5.9988|Matenveld|Gelderland|5895|
+51.9608|5.4222|Maurik|Gelderland|3270|
+50.7958|5.9264|Mechelen|Limburg|1375|
+52.7717|5.1056|Medemblik|North Holland|41500|
+53.1400|6.9264|Meeden|Groningen|1440|
+51.4427|5.4110|Meerhoven|North Brabant|7175|
+51.5133|6.0847|Meerlo|Limburg|1605|
+50.8875|5.7500|Meerssen|Limburg|5650|
+51.4171|5.4162|Meerveldhoven|North Brabant|2360|
+50.8968|5.9905|Meezenbroek|Limburg|2910|
+51.8217|5.5625|Megen|North Brabant|1520|
+51.5997|5.5028|Meierijstad|North Brabant|0|
+51.3442|5.8847|Meijel|Limburg|5180|
+52.2364|6.8906|Mekkelholt|Overijssel|2585|
+51.4617|6.0861|Melderslo|Limburg|1175|
+51.1592|6.0167|Melick|Limburg|3650|
+51.5142|3.5097|Meliskerke|Zeeland|1225|
+51.6624|5.6337|Melle|North Brabant|4225|
+53.2180|5.6612|Menaam|Friesland|2820|
+52.6958|6.1944|Meppel|Drenthe|30697|
+52.1765|4.5088|Merenwijk|South Holland|16500|
+50.9539|5.9407|Merkelbeek|Limburg|1720|
+51.5300|5.9278|Merselo|Limburg|1120|
+51.1733|5.9597|Merum|Limburg|2145|
+51.8650|5.2833|Meteren|Gelderland|3855|
+51.4667|5.2500|Middelbeers|North Brabant|2715|
+51.5000|3.6139|Middelburg|Zeeland|46485|
+51.7575|4.1653|Middelharnis|South Holland|17554|
+52.5322|5.0172|Middelie|North Holland|685|
+51.6642|5.4194|Middelrode|North Brabant|1465|
+51.7425|4.4417|Middelsluis|South Holland|1060|
+53.3467|6.6417|Middelstum|Groningen|2105|
+52.5492|4.9125|Middenbeemster|North Holland|4070|
+53.1511|6.8331|Midden-Groningen|Groningen|0|
+52.8067|4.9986|Middenmeer|North Holland|3155|
+53.1950|7.0139|Midwolda|Groningen|1885|
+52.7167|5.0750|Midwoud|North Holland|2280|
+51.4400|5.6194|Mierlo|North Brabant|9405|
+52.2067|4.8625|Mijdrecht|Utrecht|15230|
+51.7967|4.4875|Mijnsheerenland|South Holland|1775|
+51.5017|5.7792|Milheeze|North Brabant|1400|
+51.7250|5.9486|Milsbeek|Limburg|2055|
+53.2510|5.5951|Minnertsga|Friesland|1625|
+52.7631|4.8528|Moerbeek|North Holland|0|
+51.7017|4.6264|Moerdijk|North Brabant|1030|
+51.2383|5.7178|Moesel|Limburg|3675|
+51.7111|5.3681|Molenhoek|North Brabant|3745|
+52.4583|5.0375|Monnickendam|North Holland|2015|
+52.0258|4.1750|Monster|South Holland|11580|
+52.0458|4.9528|Montfoort|Utrecht|5500|
+51.1258|5.9486|Montfort|Limburg|2815|
+51.7525|5.8819|Mook|Limburg|2715|
+52.3300|5.0694|Muiden|North Holland|6223|
+52.3258|5.1208|Muiderberg|North Holland|1605|
+50.9750|5.8639|Munstergeleen|Limburg|4580|
+51.4438|5.5233|Muschberg en Geestenberg|North Brabant|3836|
+52.1864|5.0717|Muyeveld|North Holland|0|
+51.9942|4.2097|Naaldwijk|South Holland|17753|
+52.2958|5.1625|Naarden|North Holland|17115|
+51.5048|5.3858|Naastenbest|North Brabant|3955|
+52.5083|4.9125|Neck|North Holland|1139|
+51.8288|4.8549|Neder-Hardinxveld|South Holland|5335|
+51.7652|5.1682|Nederhemert|Gelderland|1496|
+51.7632|5.1730|Nederhemert-Noord|Gelderland|1490|
+52.2567|5.0458|Nederhorst den Berg|North Holland|0|
+51.2858|5.7486|Nederweert|Limburg|7205|
+52.1008|5.5708|Nederwoud|Gelderland|1610|
+52.1342|6.6139|Neede|Gelderland|7730|
+50.9500|5.8153|Neerbeek|Limburg|2480|
+51.3683|5.8667|Neerkant|North Brabant|1325|
+53.4450|5.7740|Nes|Friesland|1140|
+52.2594|4.8703|Nes aan de Amstel|North Holland|0|
+52.6928|5.0553|Nibbixwoud|North Holland|0|
+53.2250|6.3528|Niekerk|Groningen|1390|
+51.8125|4.3431|Nieuw-Beijerland|South Holland|3510|
+52.9625|6.9500|Nieuw-Buinen|Drenthe|4705|
+52.7483|6.9681|Nieuw-Dordrecht|Drenthe|1370|
+50.9622|5.7730|Nieuwdorp|Limburg|2445|
+52.3722|4.6736|Nieuwebrug|North Holland|0|
+52.0292|5.0806|Nieuwegein|Utrecht|61489|
+52.9511|6.0634|Nieuwehorne|Friesland|1450|
+52.3264|4.8153|Nieuwe Meer|North Holland|0|
+52.3915|4.9341|Nieuwendam|North Holland|0|
+51.8542|4.1431|Nieuwenhoorn|South Holland|1130|
+52.7400|4.8986|Nieuwe Niedorp|North Holland|2810|
+51.4833|3.6569|Nieuw- en Sint Joosland|Zeeland|1140|
+53.0792|6.9653|Nieuwe Pekela|Groningen|3895|
+51.6508|4.0014|Nieuwerkerk|Zeeland|2275|
+52.8356|4.8908|Nieuwesluis|North Holland|0|
+52.1508|4.7764|Nieuwkoop|South Holland|1410|
+51.6900|5.1819|Nieuwkuijk|North Brabant|2140|
+51.8892|4.6865|Nieuw-Lekkerland|South Holland|9535|
+52.1992|5.1389|Nieuw-Loosdrecht|North Holland|5970|
+50.9128|5.9280|Nieuw-Lotbroek|Limburg|4691|
+53.2442|6.9750|Nieuwolda|Groningen|1110|
+52.4667|6.5500|Nieuwoord|Overijssel|1265|
+51.9358|4.8681|Nieuwpoort|South Holland|1390|
+53.1317|6.3972|Nieuw-Roden|Drenthe|1300|
+52.1967|4.7569|Nieuwveen|South Holland|1325|
+52.2639|4.6375|Nieuw-Vennep|North Holland|31415|
+51.5900|4.2181|Nieuw-Vossemeer|North Brabant|1975|
+52.0869|5.2185|Nijenheim|Utrecht|2680|
+52.2200|5.4861|Nijkerk|Gelderland|38335|
+52.1950|5.4667|Nijkerkerveen|Gelderland|2905|
+51.8425|5.8528|Nijmegen|Gelderland|177359|
+51.5508|5.4833|Nijnsel|North Brabant|1405|
+52.3350|6.6639|Nijrees|Overijssel|2235|
+52.3600|6.4681|Nijverdal|Overijssel|25000|
+51.4833|4.4613|Nispen|North Brabant|1245|
+51.8372|4.2754|Nissewaard|South Holland|0|
+51.7042|5.5625|Nistelrode|North Brabant|6090|
+53.2214|6.0052|Noardburgum|Friesland|2385|
+52.3908|4.9099|Noord|North Holland|116777|
+52.7724|6.8871|Noordbarge|Drenthe|1075|
+52.5825|4.9367|Noordbeemster|North Holland|0|
+53.1950|6.8736|Noordbroek|Groningen|1665|
+52.9194|4.9628|Noordburen|North Holland|0|
+52.6333|4.9167|Noorddijk|North Holland|0|
+52.5719|4.8361|Noordeinde|North Holland|0|
+52.0167|4.4833|Noordeinde|South Holland|1610|
+51.9033|4.9417|Noordeloos|South Holland|1560|
+51.5092|4.2792|Noordgeest|North Brabant|3700|
+51.6425|4.5319|Noordhoek|North Brabant|1030|
+52.1406|4.4586|Noord-Hofland|South Holland|5445|
+53.2617|6.3958|Noordhorn|Groningen|1375|
+52.6983|4.8111|Noord-Scharwoude|North Holland|5665|
+52.2340|4.4447|Noordwijk-Binnen|South Holland|24363|
+52.2617|4.4931|Noordwijkerhout|South Holland|11875|
+52.8896|6.1415|Noordwolde|Friesland|3605|
+52.0450|4.3958|Nootdorp|South Holland|19020|
+53.0667|6.4583|Norg|Drenthe|3290|
+51.4700|5.5528|Nuenen|North Brabant|23223|
+51.7317|4.4375|Numansdorp|South Holland|4280|
+52.3792|5.7861|Nunspeet|Gelderland|19496|
+50.9175|5.8861|Nuth|Limburg|4585|
+51.0283|5.7806|Obbicht|Limburg|1895|
+52.6758|4.9069|Obdam|North Holland|5690|
+53.3333|6.5167|Obergum|Groningen|1675|
+51.9100|5.5694|Ochten|Gelderland|4185|
+52.0525|5.2361|Odijk|Utrecht|5480|
+51.6433|5.7056|Odiliapeel|North Brabant|1390|
+52.8492|6.8514|Odoorn|Drenthe|1835|
+52.1800|4.4694|Oegstgeest|South Holland|21149|
+53.2500|5.9000|Oentsjerk|Friesland|1965|
+51.4226|5.3716|Oerle|North Brabant|1990|
+51.2822|6.0950|Offenbeek|Limburg|4660|
+51.5117|6.0375|Oirlo|Limburg|1230|
+50.9508|5.9083|Oirsbeek|Limburg|3600|
+51.5050|5.3139|Oirschot|North Brabant|10393|
+51.5792|5.1889|Oisterwijk|North Brabant|25980|
+52.9379|6.1309|Oldeberkoop|Friesland|1190|
+52.4450|5.9014|Oldebroek|Gelderland|3275|
+53.3033|6.3958|Oldehove|Groningen|1330|
+52.8208|5.9750|Oldemarkt|Overijssel|2435|
+52.3133|6.9292|Oldenzaal|Overijssel|31410|
+52.3375|6.1097|Olst|Overijssel|4780|
+53.0892|6.9056|Ommelanderwijk|Groningen|1055|
+52.5208|6.4208|Ommen|Overijssel|11820|
+51.9595|4.5453|Ommoord|South Holland|25150|
+52.3431|4.9164|Omval|North Holland|0|
+52.7433|5.1375|Onderdijk|North Holland|1630|
+53.0350|7.0403|Onstwedde|Groningen|1935|
+52.0864|5.0847|Oog in Al|Utrecht|4235|
+51.8546|5.9391|Ooij|Gelderland|2090|
+51.3258|3.4875|Oostburg|Zeeland|4410|
+52.1499|4.3932|Oostdorp|South Holland|1900|
+51.6442|4.8978|Oosteind|North Brabant|1005|
+52.2792|4.7958|Oosteinde|North Holland|7780|
+51.4717|5.2690|Oostelbeers|North Brabant|1115|
+52.4472|5.8544|Oostendorp|Gelderland|2985|
+51.9858|5.8458|Oosterbeek|Gelderland|11138|
+52.7447|5.2689|Oosterdijk|North Holland|0|
+53.0864|4.8761|Oosterend|North Holland|910|
+52.7542|6.7222|Oosterhesselen|Drenthe|1690|
+52.5592|5.9556|Oosterholt|Overijssel|1175|
+53.2289|6.6014|Oosterhoogebrug|Groningen|2210|
+51.8800|5.8264|Oosterhout|Gelderland|2340|
+51.6450|4.8597|Oosterhout|North Brabant|53107|
+52.9292|5.0114|Oosterland|North Holland|0|
+51.6500|4.0361|Oosterland|Zeeland|2060|
+52.6383|5.1975|Oosterleek|North Holland|0|
+52.7932|6.1314|Oostermeenthe|Overijssel|3075|
+53.2237|6.5853|Oosterpark|Groningen|10550|
+52.9916|6.2910|Oosterwolde|Friesland|9245|
+52.5850|4.7056|Oosterzij|North Holland|2095|
+52.0042|6.5496|Oost Gelre|Gelderland|0|
+52.5464|4.8147|Oost-Graftdijk|North Holland|0|
+52.5725|4.9958|Oosthuizen|North Holland|1260|
+51.5667|3.5514|Oostkapelle|Zeeland|1505|
+52.5172|4.7903|Oostknollendam|North Holland|585|
+51.5292|6.0167|Oostrum|Limburg|2375|
+53.2970|5.0743|Oost-Vlieland|Friesland|1025|
+51.9125|4.0986|Oostvoorne|South Holland|4635|
+52.7244|5.0903|Oostwoud|North Holland|875|
+52.4406|4.8789|Oostzaan|North Holland|9778|
+52.4083|6.9014|Ootmarsum|Overijssel|4450|
+51.9192|6.0583|Ooy|Gelderland|1070|
+52.1284|6.2231|Ooyerhoek|Gelderland|2305|
+53.1341|6.0566|Opeinde|Friesland|1630|
+51.8450|5.3875|Ophemert|Gelderland|1425|
+51.9317|5.6319|Opheusden|Gelderland|5460|
+50.9904|5.8587|Ophoven|Limburg|4105|
+51.8292|5.2986|Opijnen|Gelderland|1135|
+52.7067|4.9444|Opmeer|North Holland|11183|
+53.0119|5.6950|Oppenhuizen|Friesland|1060|
+52.7591|5.0753|Opperdoes|North Holland|1840|
+52.0492|4.6537|Oranjewijk|South Holland|2650|
+52.9458|5.9504|Oranjewoud|Friesland|1580|
+52.2011|5.9342|Orden|Gelderland|6385|
+51.7061|5.3047|Orthen|North Brabant|1515|
+52.3569|4.8008|Osdorp|North Holland|0|
+51.2975|5.7847|Ospel|Limburg|2505|
+51.7650|5.5181|Oss|North Brabant|76430|
+51.3942|4.3264|Ossendrecht|North Brabant|3970|
+52.6333|4.8417|Oterleek|North Holland|620|
+51.3308|3.8597|Othene|Zeeland|3325|
+52.1000|5.7722|Otterlo|Gelderland|2380|
+51.7033|5.9833|Ottersum|Limburg|1585|
+51.8242|4.4125|Oud-Beijerland|South Holland|23569|
+50.8654|5.6644|Oud-Caberg|Limburg|1890|
+51.8117|3.9347|Ouddorp|South Holland|5930|
+53.1250|5.9989|Oudega|Friesland|1715|
+52.9571|5.8709|Oudehaske|Friesland|1980|
+51.8996|6.3808|Oude IJsselstreek|Gelderland|0|
+52.2875|4.7822|Oude Meer|North Holland|0|
+52.8502|5.5354|Oudemirdum|Friesland|1335|
+52.6000|4.9667|Oudendijk|North Holland|0|
+52.7178|4.8719|Oude Niedorp|North Holland|0|
+53.1042|7.0097|Oude Pekela|Groningen|7580|
+52.2906|4.9117|Ouder-Amstel|North Holland|0|
+52.2950|4.9075|Ouderkerk aan de Amstel|North Holland|7955|
+51.9342|4.6361|Ouderkerk aan den IJssel|South Holland|4025|
+53.0392|4.8472|Oudeschild|North Holland|1220|
+52.9334|5.9558|Oudeschoot|Friesland|1590|
+52.8353|4.8064|Oudesluis|North Holland|760|
+52.0250|4.8681|Oudewater|Utrecht|9836|
+52.2142|4.6444|Oude Wetering|South Holland|3055|
+51.5867|4.4597|Oud Gastel|North Brabant|5305|
+52.7158|4.8056|Oudkarspel|North Holland|3170|
+52.2067|5.0806|Oud-Loosdrecht|North Holland|2035|
+52.6331|4.7736|Oudorp|North Holland|0|
+51.5708|4.1986|Oud-Vossemeer|Zeeland|2400|
+51.7600|5.7889|Overasselt|Gelderland|1715|
+52.0400|5.4944|Overberg|Utrecht|1379|
+51.0087|5.8663|Overhoven|Limburg|3450|
+52.4536|4.9958|Overleek|North Holland|0|
+51.5717|5.9472|Overloon|North Brabant|3626|
+52.2542|5.0464|Overmeer|North Holland|0|
+51.9386|4.4277|Overschie|South Holland|6685|
+52.3917|4.6139|Overveen|North Holland|3685|
+52.0558|4.5087|Palenstein|South Holland|6000|
+51.8908|6.0389|Pannerden|Gelderland|2085|
+51.3267|5.9792|Panningen|Limburg|6710|
+51.8317|4.6875|Papendrecht|South Holland|31621|
+52.1850|4.7250|Papenveer|South Holland|1135|
+50.9239|5.9467|Passart|Limburg|2010|
+53.1450|6.5653|Paterswolde|Drenthe|3655|
+52.2140|6.8755|Pathmos|Overijssel|2065|
+53.0172|6.5621|Peelo|Drenthe|6635|
+51.0942|5.8958|Peij|Limburg|2935|
+53.1467|6.4972|Peize|Drenthe|4295|
+51.8715|4.4690|Pendrecht|South Holland|11885|
+52.3928|4.6761|Penningsveer|North Holland|0|
+51.8883|4.3889|Pernis|South Holland|4785|
+52.7667|4.6611|Petten|North Holland|1640|
+52.5014|6.1117|Pierik|Overijssel|2180|
+51.7933|4.3139|Piershil|South Holland|1410|
+52.0195|4.4295|Pijnacker|South Holland|18695|
+52.0242|4.2194|Poeldijk|South Holland|5800|
+51.5442|4.1431|Poortvliet|Zeeland|1220|
+51.1233|6.0347|Posterholt|Limburg|3540|
+50.8513|5.6567|Pottenberg|Limburg|2415|
+51.5763|4.7391|Princenhage|North Brabant|8535|
+51.5983|4.7125|Prinsenbeek|North Brabant|10720|
+51.8783|5.5903|Puiflijk|Gelderland|1105|
+52.5050|4.9597|Purmerend|North Holland|80117|
+52.4781|4.9217|Purmerland|North Holland|0|
+50.9542|5.8736|Puth|Limburg|1990|
+51.3600|4.3958|Putte|North Brabant|3440|
+52.2592|5.6069|Putten|Gelderland|23168|
+51.5843|5.0981|Quirijnstok|North Brabant|3970|
+52.3858|6.2750|Raalte|Overijssel|20015|
+51.6597|5.6364|Raam|North Brabant|2965|
+51.6875|4.9083|Raamsdonk|North Brabant|1920|
+51.6967|4.8736|Raamsdonksveer|North Brabant|6590|
+52.1486|5.4012|Randenbroek|Utrecht|7131|
+52.3931|4.9942|Ransdorp|North Holland|0|
+51.7967|5.6500|Ravenstein|North Brabant|1465|
+51.7458|5.6819|Reek|North Brabant|1495|
+52.0467|4.7250|Reeuwijk|South Holland|12817|
+53.2425|6.5196|Reitdiep|Groningen|2625|
+51.7325|3.7750|Renesse|Zeeland|1095|
+51.9767|5.7333|Renkum|Gelderland|9421|
+52.0733|5.5403|Renswoude|Utrecht|3420|
+51.3625|5.1653|Reusel|North Brabant|7055|
+51.2842|6.0778|Reuver|Limburg|6140|
+52.0050|6.0292|Rheden|Gelderland|7400|
+51.9592|5.5681|Rhenen|Utrecht|18061|
+51.8575|4.4222|Rhoon|South Holland|18250|
+51.8725|4.6028|Ridderkerk|South Holland|45189|
+51.3542|5.3875|Riethoven|North Brabant|2515|
+51.5908|4.9194|Rijen|North Brabant|16230|
+52.1958|4.6708|Rijnsaterwoude|South Holland|1130|
+52.1900|4.4417|Rijnsburg|South Holland|7990|
+52.1925|4.5833|Rijpwetering|South Holland|1605|
+51.5175|4.6972|Rijsbergen|North Brabant|4140|
+52.2606|4.7100|Rijsenhout|North Holland|4103|
+51.8508|4.5958|Rijsoord|South Holland|3045|
+52.3067|6.5181|Rijssen|Overijssel|27740|
+51.7975|5.0250|Rijswijk|North Brabant|1862|
+52.0363|4.3250|Rijswijk|South Holland|47299|
+52.6614|5.0525|Risdam|North Holland|0|
+52.1891|5.9767|Rivierenkwartier|Gelderland|2940|
+51.8717|4.0708|Rockanje|South Holland|1275|
+53.1375|6.4208|Roden|Drenthe|7030|
+52.2033|4.6333|Roelofarendsveen|South Holland|2710|
+51.1942|5.9875|Roermond|Limburg|44975|
+52.9842|6.6486|Rolde|Drenthe|3740|
+51.5308|4.4653|Roosendaal|North Brabant|77725|
+51.0833|5.8181|Roosteren|Limburg|1125|
+51.8008|5.3333|Rossum|Gelderland|2190|
+52.3517|6.9222|Rossum|Overijssel|1355|
+50.8767|5.7389|Rothem|Limburg|1590|
+51.9225|4.4792|Rotterdam|South Holland|868135|
+53.1452|6.1041|Rottevalle|Friesland|1355|
+51.9042|4.2486|Rozenburg|South Holland|12420|
+52.0058|5.9625|Rozendaal|Gelderland|1485|
+51.5317|4.5583|Rucphen|North Brabant|3660|
+51.8992|4.1523|Rugge|South Holland|2495|
+52.4092|4.7489|Ruigoord|North Holland|0|
+52.7625|6.3542|Ruinen|Drenthe|2610|
+52.7233|6.2486|Ruinerwold|Drenthe|2485|
+52.6347|4.8767|Rustenburg|North Holland|0|
+52.0883|6.4500|Ruurlo|Gelderland|5940|
+51.5151|5.3899|Salderes|North Brabant|3240|
+52.4225|4.6261|Santpoort|North Holland|0|
+53.1642|6.7903|Sappemeer|Groningen|8298|
+52.2250|4.5222|Sassenheim|South Holland|15510|
+51.2275|3.7986|Sas van Gent|Zeeland|3856|
+52.7875|4.7986|Schagen|North Holland|19890|
+52.8025|4.7583|Schagerbrug|North Holland|1965|
+51.7458|5.6319|Schaijk|North Brabant|5970|
+52.2683|6.1944|Schalkhaar|Overijssel|4610|
+52.3589|4.6556|Schalkwijk|North Holland|615|
+52.5969|5.0169|Schardam|North Holland|0|
+51.7358|3.8431|Scharendijke|Zeeland|1105|
+50.8500|5.7333|Scharn|Limburg|6540|
+53.0605|5.6782|Scharnegoutum|Friesland|1540|
+52.6225|5.0081|Scharwoude|North Holland|0|
+53.1733|6.9722|Scheemda|Groningen|2395|
+52.3844|4.9661|Schellingwoude|North Holland|0|
+52.6342|5.1203|Schellinkhout|North Holland|900|
+51.8433|4.9264|Schelluinen|South Holland|1255|
+52.6008|4.8917|Schermerhorn|North Holland|1290|
+51.5467|4.1056|Scherpenisse|Zeeland|1605|
+52.0800|5.4889|Scherpenzeel|Gelderland|8820|
+52.1046|4.2756|Scheveningen|South Holland|23000|
+51.9584|4.4712|Schiebroek|South Holland|16305|
+51.9192|4.3889|Schiedam|South Holland|75438|
+53.4802|6.1521|Schiermonnikoog|Friesland|936|
+51.6225|5.4319|Schijndel|North Brabant|23239|
+51.0992|5.8861|Schilberg|Limburg|1960|
+53.2333|6.8157|Schildwolde|Groningen|1485|
+50.9067|5.8236|Schimmert|Limburg|2310|
+50.9433|5.8889|Schinnen|Limburg|1550|
+50.9692|5.9792|Schinveld|Limburg|4685|
+52.2800|4.7567|Schiphol-Rijk|North Holland|0|
+51.9758|4.3139|Schipluiden|South Holland|3635|
+51.3542|3.5556|Schoondijke|Zeeland|1280|
+52.6625|6.8847|Schoonebeek|Drenthe|3845|
+51.9475|4.8486|Schoonhoven|South Holland|12352|
+52.8458|6.7556|Schoonoord|Drenthe|2030|
+51.9208|5.1167|Schoonrewoerd|Utrecht|1595|
+52.7014|4.6944|Schoorl|North Holland|4745|
+52.7000|4.7167|Schoorldam|North Holland|0|
+51.6929|3.8868|Schouwen-Duiveland|Zeeland|0|
+51.4615|5.6226|Schutsboom|North Brabant|3490|
+52.9458|7.1514|Sellingen|Groningen|1880|
+53.2352|6.5545|Selwerd|Groningen|6525|
+51.5483|3.5944|Serooskerke|Zeeland|1605|
+51.4125|6.0375|Sevenum|Limburg|5035|
+53.2182|5.4840|Sexbierum|Friesland|1530|
+52.2442|5.1211|'s-Graveland|North Holland|0|
+51.9234|4.5531|'s-Gravenland|South Holland|10000|
+51.6559|4.9408|'s Gravenmoer|North Brabant|2315|
+52.0017|4.1653|'s-Gravenzande|South Holland|19190|
+51.8767|6.2588|'s-Heerenberg|Gelderland|4720|
+51.6992|5.3042|'s-Hertogenbosch|North Brabant|160783|
+50.8442|5.8264|Sibbe|Limburg|1015|
+53.2500|6.8681|Siddeburen|Groningen|2910|
+52.7086|4.9906|Sijbekarspel|North Holland|0|
+51.9092|6.3875|Silvolde|Gelderland|4850|
+50.8342|5.9819|Simpelveld|Limburg|2405|
+53.2762|5.6573|Sint Annaparochie|Friesland|3935|
+51.6267|5.8819|Sint Anthonis|North Brabant|3340|
+53.2729|5.6035|Sint Jacobiparochie|Friesland|1380|
+52.6775|6.0056|Sint Jansklooster|Overijssel|1190|
+52.9316|5.8559|Sintjohannesga|Friesland|1290|
+51.1175|5.8986|Sint Joost|Limburg|1310|
+51.5275|3.6028|Sint Laurens|Zeeland|1005|
+52.7925|4.6897|Sint Maartenszee|North Holland|0|
+51.6417|5.3528|Sint-Michielsgestel|North Brabant|2580|
+52.9229|5.7424|Sint Nicolaasga|Friesland|3285|
+51.1433|6.0000|Sint Odiliënberg|Limburg|2810|
+51.5675|5.4597|Sint-Oedenrode|North Brabant|16931|
+52.6600|4.7833|Sint Pancras|North Holland|6050|
+51.6167|4.1653|Sint Philipsland|Zeeland|2095|
+51.5483|4.5889|Sint Willebrord|North Brabant|8655|
+50.9983|5.8694|Sittard|Limburg|48400|
+52.7717|6.8028|Sleen|Drenthe|2200|
+51.8208|4.7764|Sliedrecht|South Holland|23854|
+51.8853|4.6049|Slikkerveer|South Holland|8750|
+53.2208|6.8055|Slochteren|Groningen|2055|
+52.8425|4.9722|Slootdorp|North Holland|1350|
+52.3428|4.7964|Sloten|North Holland|0|
+52.3872|4.8464|Sloterdijk|North Holland|0|
+52.3783|4.8223|Slotermeer|North Holland|0|
+52.3510|4.8340|Slotervaart (former borough)|North Holland|0|
+51.3083|3.3861|Sluis|Zeeland|1935|
+51.2783|3.8361|Sluiskil|Zeeland|2411|
+52.2229|5.9814|Sluisoord|Gelderland|4205|
+53.0330|5.6589|Sneek|Friesland|32811|
+51.3008|5.5750|Soerendonk|North Brabant|1660|
+52.1733|5.2917|Soest|Utrecht|45021|
+52.1908|5.2847|Soestdijk|Utrecht|4780|
+51.3850|5.7111|Someren|North Brabant|10690|
+51.3575|5.7333|Someren-Eind|North Brabant|2725|
+51.5114|5.4928|Son|North Brabant|4930|
+52.4139|4.6900|Spaarndam-Oost|North Holland|0|
+52.4150|4.6769|Spaarndam-West|North Holland|0|
+52.4039|4.6942|Spaarnwoude|North Holland|0|
+52.2223|5.9474|Spainkbos|Gelderland|1155|
+52.2500|5.3667|Spakenburg|Utrecht|4375|
+52.6981|4.9608|Spanbroek|North Holland|0|
+51.9169|4.4354|Spangen|South Holland|10285|
+50.9400|5.8431|Spaubeek|Limburg|3360|
+52.1393|5.0176|Spechtenkamp|Utrecht|1080|
+51.5061|5.4052|Speelheide|North Brabant|1355|
+50.8556|6.0247|Spekholzerheide|Limburg|3175|
+52.6508|4.9431|Spierdijk|North Holland|1585|
+53.3900|6.8375|Spijk|Groningen|1220|
+51.8450|4.3292|Spijkenisse|South Holland|74988|
+52.5383|4.8333|Spijkerboor|North Holland|0|
+52.0535|4.3134|Spoorwijk|South Holland|4255|
+52.2190|5.9416|Sprengenbos|Gelderland|4315|
+52.2184|5.9507|Sprengenweg-Noord|Gelderland|1120|
+52.2251|5.9992|Sprenkelaar|Gelderland|3775|
+51.5375|4.5972|Sprundel|North Brabant|3625|
+52.1995|5.9769|Staatsliedenkwartier|Gelderland|3065|
+51.0019|5.8766|Stadbroek|Limburg|2525|
+53.0399|5.6784|Stadsfenne|Friesland|3060|
+52.9895|6.9504|Stadskanaal|Groningen|20000|
+51.6133|4.4444|Stampersgat|North Brabant|1155|
+51.6133|4.5139|Standdaarbuiten|North Brabant|1930|
+52.6450|6.2111|Staphorst|Overijssel|15765|
+52.5419|4.7933|Starnmeer|North Holland|0|
+52.0931|4.2758|Statenkwartier|South Holland|9300|
+51.5875|4.0125|Stavenisse|Zeeland|1505|
+52.7006|5.2253|Stede Broec|North Holland|0|
+51.5842|4.3194|Steenbergen|North Brabant|23582|
+52.0642|6.1875|Steenderen|Gelderland|1950|
+51.3767|5.3528|Steensel|North Brabant|1280|
+52.7875|6.1208|Steenwijk|Overijssel|17138|
+52.8042|6.0639|Steenwijkerwold|Overijssel|1720|
+51.9415|6.0619|Stegeslag|Gelderland|3145|
+50.9692|5.7667|Stein|Limburg|11290|
+52.0033|4.7819|Stein|South Holland|1095|
+51.4550|5.6125|Stepekolk|North Brabant|1995|
+51.9935|5.8839|Sterrenberg|Gelderland|1035|
+52.1768|5.0126|Stichtse Vecht|Utrecht|0|
+53.2623|5.7577|Stiens|Friesland|7300|
+52.5333|4.7753|Stierop|North Holland|0|
+51.9725|4.7736|Stolwijk|South Holland|3730|
+52.6133|4.8208|Stompetoren|North Holland|1920|
+51.1942|5.7194|Stramproy|Limburg|4510|
+51.7452|4.5508|Strijen|South Holland|9371|
+52.0308|4.3014|Strijp|South Holland|3955|
+52.9333|4.9833|Stroe|North Holland|0|
+52.7500|4.7500|Stroet|North Holland|0|
+53.0106|5.5258|Sûdwest Fryslân|Friesland|0|
+53.1848|6.1703|Surhuisterveen|Friesland|5550|
+51.3442|6.1361|Tegelen|Limburg|20190|
+53.2758|6.6944|Ten Boer|Groningen|4355|
+52.8767|7.0597|Ter Apel|Groningen|3880|
+51.9200|6.3542|Terborg|Gelderland|4425|
+51.9533|4.5154|Terbregge|South Holland|3525|
+52.7269|4.8969|Terdiek|North Holland|0|
+51.6433|4.7542|Terheijden|North Brabant|5910|
+53.3820|5.9652|Ternaard|Friesland|1165|
+51.3358|3.8278|Terneuzen|Zeeland|27930|
+52.1650|5.5167|Terschuur|Gelderland|1480|
+50.8666|6.0247|Terwinselen|Limburg|3820|
+52.2833|6.1000|Terwolde|Gelderland|1120|
+51.6092|4.8208|Teteringen|North Brabant|7230|
+53.0667|4.8000|Texel|North Holland|0|
+51.6384|5.3373|Theereheide|North Brabant|4045|
+52.0767|4.2986|The Hague|South Holland|474292|
+51.4494|5.5193|'t Hofke|North Brabant|3475|
+51.5317|4.2208|Tholen|Zeeland|7475|
+51.1617|5.8417|Thorn|Limburg|2295|
+53.0056|4.7861|'t Horntje|North Holland|0|
+51.8867|5.4292|Tiel|Gelderland|40702|
+51.4950|6.0931|Tienray|Limburg|1040|
+53.0306|5.9919|Tijnje|Friesland|1120|
+51.5555|5.0913|Tilburg|North Brabant|221947|
+53.0206|5.6457|Tinga|Friesland|2120|
+51.4207|5.5082|Tivoli|North Brabant|1495|
+52.2561|4.6497|'t Kabel|North Holland|0|
+52.4100|4.9636|'t Nopeind|North Holland|0|
+51.8550|6.1028|Tolkamer|Gelderland|2430|
+51.4489|5.5198|Tongelre|North Brabant|19680|
+51.8908|5.2681|Tricht|Gelderland|1850|
+52.4075|6.7847|Tubbergen|Overijssel|20334|
+53.3167|6.9000|Tuikwerd|Groningen|3005|
+51.9303|4.3784|Tuindorp|South Holland|1040|
+52.4113|4.8929|Tuindorp Oostzaan|North Holland|0|
+52.7333|4.7500|Tuitjenhorn|North Holland|3880|
+52.7967|6.0944|Tuk|Overijssel|1615|
+52.7392|4.8556|'t Veld|North Holland|2275|
+52.9092|6.9333|Tweede Exloërmond|Drenthe|2365|
+52.2306|6.8600|Twekkelerveld|Overijssel|4395|
+52.2367|6.1028|Twello|Gelderland|13500|
+53.2315|6.0895|Twijzel|Friesland|1020|
+53.2401|6.0459|Twijzelerheide|Friesland|1580|
+52.7408|5.0528|Twisk|North Holland|1115|
+53.0775|6.6167|Tynaarlo|Drenthe|1530|
+53.2134|5.9096|Tytsjerk|Friesland|1400|
+52.8367|4.7556|'t Zand|North Holland|2485|
+53.2373|5.5461|Tzummarum|Friesland|1205|
+50.8533|5.9486|Ubachsberg|Limburg|1420|
+52.2592|5.7806|Uddel|Gelderland|1865|
+51.6608|5.6194|Uden|North Brabant|34601|
+51.6092|5.1431|Udenhout|North Brabant|7650|
+52.7900|6.2806|Uffelte|Drenthe|1235|
+52.1846|5.9318|Ugchelen|Gelderland|3475|
+52.4192|5.0708|Uitdam|North Holland|0|
+52.5292|4.7097|Uitgeest|North Holland|11794|
+52.2375|4.8264|Uithoorn|North Holland|26846|
+53.4075|6.6708|Uithuizen|Groningen|4935|
+53.4142|6.7236|Uithuizermeeden|Groningen|2775|
+50.9058|5.7819|Ulestraten|Limburg|2595|
+53.3592|6.3333|Ulrum|Groningen|1310|
+51.5491|4.7993|Ulvenhout|North Brabant|4520|
+53.0924|6.1672|Ureterp|Friesland|3810|
+52.6625|5.6014|Urk|Flevoland|22173|
+50.9908|5.7722|Urmond|Limburg|3560|
+52.6272|4.8917|Ursem|North Holland|0|
+53.4025|6.6111|Usquert|Groningen|1275|
+52.0908|5.1222|Utrecht|Utrecht|376435|
+50.7708|6.0181|Vaals|Limburg|6970|
+51.4795|5.4981|Vaartbroek|North Brabant|5200|
+52.2858|5.9667|Vaassen|Gelderland|12719|
+51.9117|5.7903|Valburg|Gelderland|1660|
+51.8066|5.7344|Valendries|Gelderland|2000|
+50.8652|5.8320|Valkenburg|Limburg|3400|
+52.1800|4.4319|Valkenburg|South Holland|3925|
+50.8571|5.8349|Valkenburg aan de Geul|Limburg|0|
+51.3508|5.4597|Valkenswaard|North Brabant|31071|
+52.7833|4.7667|Valkkoog|North Holland|0|
+52.8458|6.8944|Valthe|Drenthe|1095|
+52.8817|6.9625|Valthermond|Drenthe|3385|
+52.8833|4.8733|Van Ewijcksluis|North Holland|0|
+51.9433|6.4583|Varsseveld|Gelderland|5450|
+52.9339|5.0053|Vatrop|North Holland|0|
+51.7775|5.1083|Veen|North Brabant|2991|
+53.1067|6.8792|Veendam|Groningen|28155|
+52.0286|5.5589|Veenendaal|Utrecht|61271|
+52.7025|4.8903|Veenhuizen|North Holland|0|
+52.7109|6.8487|Veenoord|Drenthe|2175|
+51.6167|5.5486|Veghel|North Brabant|25352|
+51.4183|5.4028|Veldhoven|North Brabant|5340|
+52.0754|5.0123|Veldhuizen|Utrecht|9460|
+51.9950|5.9736|Velp|Gelderland|17669|
+52.4667|4.6167|Velsen|North Holland|0|
+52.4600|4.6500|Velsen-Zuid|North Holland|67758|
+52.4350|4.6572|Velserbroek|North Holland|15420|
+51.5195|5.9603|Veltum|Limburg|3765|
+51.6400|5.5500|Ven|North Brabant|4430|
+51.6083|5.7375|Venhorst|North Brabant|1050|
+52.6667|5.2167|Venhuizen|North Holland|4310|
+51.3700|6.1681|Venlo|Limburg|101988|
+51.5250|5.9750|Venray|Limburg|39047|
+51.9925|5.0917|Vianen|Utrecht|19931|
+51.8792|4.1792|Vierpolders|South Holland|1215|
+52.3508|4.6778|Vijfhuizen|North Holland|1895|
+50.7883|5.9653|Vijlen|Limburg|1290|
+51.4414|5.4939|Villapark|North Brabant|2050|
+52.3867|4.7203|Vinkebrug|North Holland|0|
+52.2151|4.9337|Vinkeveen|Utrecht|2340|
+51.9125|4.3417|Vlaardingen|South Holland|73798|
+53.0275|7.1083|Vlagtwedde|Groningen|1955|
+52.8558|6.2083|Vledder|Drenthe|1815|
+52.1058|5.0153|Vleuten|Utrecht|6945|
+51.6896|5.1903|Vliedberg|North Brabant|4445|
+51.4450|5.7583|Vlierden|North Brabant|1115|
+52.1244|4.4574|Vlietwijk|South Holland|3745|
+51.4425|3.5736|Vlissingen|Zeeland|45273|
+51.1333|6.0764|Vlodrop|Limburg|1860|
+51.4667|5.4833|Vlokhoven|North Brabant|3570|
+50.8833|5.9298|Voerendaal|Limburg|3035|
+52.3192|4.5778|Vogelenzang|North Holland|1955|
+52.1978|5.9672|Vogelkwartier|Gelderland|4975|
+52.0763|4.2479|Vogelwijk|South Holland|5155|
+51.4005|5.4720|Voldijn|North Brabant|2785|
+52.4950|5.0708|Volendam|North Holland|22000|
+51.6425|5.6542|Volkel|North Brabant|3560|
+52.6808|5.9542|Vollenhove|Overijssel|3955|
+52.0550|4.6531|Vondelwijk|South Holland|2205|
+52.0742|4.3597|Voorburg|South Holland|38000|
+52.2217|4.4847|Voorhout|South Holland|4670|
+52.1275|4.4486|Voorschoten|South Holland|22468|
+52.1700|6.1417|Voorst|Gelderland|1505|
+52.1867|5.6056|Voorthuizen|Gelderland|9710|
+52.1050|6.3097|Vorden|Gelderland|4900|
+51.6525|5.5500|Vorstenbosch|North Brabant|1630|
+51.9535|5.9028|Vredenburg|Gelderland|4370|
+52.0109|5.0929|Vreeswijk|Utrecht|3460|
+51.8843|4.5197|Vreewijk|South Holland|13745|
+50.9219|5.9670|Vrieheide|Limburg|1500|
+53.0742|6.5778|Vries|Drenthe|3915|
+52.4083|6.6222|Vriezenveen|Overijssel|12310|
+52.4608|6.5653|Vroomshoop|Overijssel|8480|
+51.6533|5.2875|Vught|North Brabant|25043|
+51.8250|5.0458|Vuren|Gelderland|1880|
+53.1895|5.5079|Waadhoeke|Friesland|0|
+51.3867|5.4444|Waalre|North Brabant|6445|
+51.6825|5.0708|Waalwijk|North Brabant|45610|
+51.4175|4.0681|Waarde|Zeeland|1080|
+51.8325|5.2569|Waardenburg|Gelderland|1740|
+52.0608|4.8208|Waarder|South Holland|1330|
+52.7267|4.8319|Waarland|North Holland|1970|
+52.0450|4.6514|Waddinxveen|South Holland|25338|
+52.6917|4.9797|Wadway|North Holland|0|
+51.6650|4.7486|Wagenberg|North Brabant|1905|
+53.2558|6.9333|Wagenborgen|Groningen|1695|
+51.9700|5.6667|Wageningen|Gelderland|35433|
+51.6575|5.8181|Wanroij|North Brabant|2340|
+51.5358|6.0764|Wanssum|Limburg|1905|
+52.4292|6.0736|Wapenveld|Gelderland|3995|
+52.5641|5.0311|Warder|North Holland|800|
+53.3925|6.5583|Warffum|Groningen|1950|
+53.1514|5.8440|Warga|Friesland|1560|
+52.7225|4.7397|Warmenhuizen|North Holland|6030|
+52.1967|4.5028|Warmond|South Holland|4275|
+52.1375|6.2306|Warnsveld|Gelderland|9200|
+51.6867|4.9444|Waspik|North Brabant|5120|
+52.1458|4.4028|Wassenaar|South Holland|25353|
+52.5044|4.6561|Waterakkers|North Holland|2805|
+51.6096|4.8045|Waterdonken|North Brabant|1110|
+52.4333|4.9500|Watergang|North Holland|0|
+52.3490|4.9380|Watergraafsmeer|North Holland|0|
+52.7611|4.8736|Wateringskant|North Holland|0|
+52.4511|5.0200|Waterland|North Holland|0|
+50.9183|6.0500|Waubach|Limburg|2910|
+52.2529|4.9078|Waver|North Holland|0|
+52.3038|4.5886|Weerestein|South Holland|1105|
+51.2517|5.7069|Weert|Limburg|48662|
+52.3075|5.0417|Weesp|North Holland|17802|
+52.4972|4.9388|Weidevenne|North Holland|0|
+52.0817|4.8028|Weijpoort|South Holland|1370|
+52.6725|6.9875|Weiteveen|Drenthe|1510|
+52.1125|5.7139|Wekerom|Gelderland|2540|
+51.5767|4.3306|Welberg|North Brabant|1410|
+52.2140|5.9764|Welgelegen|Gelderland|3790|
+51.5500|6.0889|Well|Limburg|2500|
+51.5342|6.1361|Wellerlooi|Limburg|1225|
+51.5183|3.9972|Wemeldinge|Zeeland|2855|
+51.8100|4.8944|Werkendam|North Brabant|11204|
+52.0250|5.2444|Werkhoven|Utrecht|1990|
+51.4550|4.6417|Wernhout|North Brabant|1030|
+52.7347|5.1492|Wervershoof|North Holland|0|
+51.1595|5.8815|Wessem|Limburg|2050|
+52.5744|4.8986|Westbeemster|North Holland|0|
+51.8616|5.2093|West Betuwe|Gelderland|0|
+51.2325|3.8264|Westdorpe|Zeeland|2113|
+53.2085|5.7681|Westeinde|Friesland|3890|
+52.1275|5.7153|Westeneng|Gelderland|1320|
+52.1962|5.9566|Westenenk|Gelderland|3680|
+52.8500|6.6083|Westerbork|Drenthe|4605|
+52.4558|6.6236|Westerhaar-Vriezenveensewijk|Overijssel|4470|
+51.3325|5.3958|Westerhoven|North Brabant|1635|
+52.8942|4.9308|Westerland|North Holland|735|
+53.1458|6.9875|Westerlee|Groningen|1295|
+51.9558|5.9722|Westervoort|Gelderland|5635|
+53.0280|7.1567|Westerwolde|Groningen|0|
+51.4625|3.5869|Westerzicht|Zeeland|1595|
+52.5539|4.7961|West-Graftdijk|North Holland|670|
+51.5292|3.4403|Westkapelle|Zeeland|2515|
+52.5178|4.7864|West-Knollendam|North Holland|0|
+53.0848|6.6647|Westlaren|Drenthe|1410|
+51.7867|4.4750|Westmaas|South Holland|1760|
+51.4642|3.5917|West-Souburg|Zeeland|1790|
+53.3591|5.2148|West-Terschelling|Friesland|2525|
+52.6850|5.1347|Westwoud|North Holland|1330|
+52.4667|4.7667|Westzaan|North Holland|5131|
+52.2225|4.6439|Weteringbrug|North Holland|0|
+52.3592|6.5931|Wierden|Overijssel|25342|
+52.8358|4.8653|Wieringerwaard|North Holland|1795|
+52.8508|5.0264|Wieringerwerf|North Holland|3210|
+51.6167|5.4681|Wijbosch|North Brabant|1365|
+51.8092|5.7250|Wijchen|Gelderland|32693|
+52.2300|5.1200|Wijdemeren|North Holland|0|
+52.6350|5.1569|Wijdenes|North Holland|1005|
+52.5002|4.8924|Wijdewormer|North Holland|2140|
+52.3867|6.1347|Wijhe|Overijssel|5640|
+52.4936|4.5941|Wijk aan Zee|North Holland|2095|
+51.9742|5.3417|Wijk bij Duurstede|Utrecht|17465|
+50.8333|5.8958|Wijlre|Limburg|1960|
+50.9058|5.8833|Wijnandsrade|Limburg|1365|
+53.0581|6.2047|Wijnjewoude|Friesland|1245|
+53.0808|6.8625|Wildervank|Groningen|2990|
+51.4974|5.3922|Wilhelminadorp|North Brabant|3645|
+52.1967|4.8972|Wilnis|Utrecht|5715|
+52.6392|4.6558|Wimmenum|North Holland|0|
+52.7542|4.9028|Winkel|North Holland|3460|
+52.1908|5.9579|Winkewijert|Gelderland|1760|
+53.1442|7.0347|Winschoten|Groningen|18506|
+53.3300|6.5208|Winsum|Groningen|1365|
+51.9725|6.7194|Winterswijk|Gelderland|29623|
+53.1489|5.8039|Wirdum|Friesland|1050|
+51.9265|6.4170|Wisch|Gelderland|19496|
+51.6129|4.7844|Wisselaar|North Brabant|4200|
+51.5850|3.7472|Wissenkerke|Zeeland|1040|
+53.1045|5.4690|Witmarsum|Friesland|1585|
+51.4290|4.3036|Woensdrecht|North Brabant|1340|
+51.4833|5.4667|Woenselse Heide|North Brabant|5205|
+52.0850|4.8833|Woerden|Utrecht|48431|
+52.6842|5.0208|Wognum|North Holland|0|
+50.8375|5.6594|Wolder|Limburg|1425|
+52.0033|5.7903|Wolfheze|Gelderland|1505|
+52.7173|6.4988|Wolfsbos|Drenthe|4215|
+51.5317|3.8194|Wolphaartsdijk|Zeeland|1595|
+52.8755|5.9969|Wolvega|Friesland|13090|
+53.1088|5.5875|Wommels|Friesland|2065|
+52.2721|6.7589|Woolde|Overijssel|1670|
+52.2167|6.9167|Wooldrik|Overijssel|1225|
+52.9797|5.4471|Workum|Friesland|4295|
+52.5086|4.8714|Wormerland|North Holland|0|
+52.4833|4.7833|Wormerveer|North Holland|0|
+52.1700|4.6361|Woubrugge|South Holland|1060|
+52.0808|5.4167|Woudenberg|Utrecht|11305|
+52.2132|6.0112|Woudhuis|Gelderland|6375|
+51.8150|5.0014|Woudrichem|North Brabant|4674|
+52.9436|5.6284|Woudsend|Friesland|1375|
+51.5217|4.3903|Wouw|North Brabant|4600|
+51.4925|4.0500|Yerseke|Zeeland|6541|
+52.0410|4.3698|Ypenburg|South Holland|30000|
+51.4900|5.8972|Ysselsteyn|Limburg|2260|
+51.3125|3.9125|Zaamslag|Zeeland|2980|
+52.4385|4.8264|Zaandam|North Holland|71708|
+52.4749|4.8069|Zaandijk|North Holland|8868|
+52.4531|4.8136|Zaanstad|North Holland|140085|
+51.8100|5.2444|Zaltbommel|Gelderland|26383|
+51.5733|4.7847|Zandberg|North Brabant|5300|
+52.3713|4.5331|Zandvoort|North Holland|16868|
+51.9033|6.2597|Zeddam|Gelderland|2305|
+51.6975|5.6764|Zeeland|North Brabant|4750|
+51.4242|5.4157|Zeelst|North Brabant|5280|
+52.3300|5.5417|Zeewolde|Flevoland|19022|
+51.5567|4.5181|Zegge|North Brabant|1575|
+51.4547|5.8188|Zeilberg|North Brabant|1775|
+52.0900|5.2333|Zeist|Utrecht|60949|
+52.0067|6.3486|Zelhem|Gelderland|5760|
+51.4167|5.5500|Zesgehuchten|North Brabant|3460|
+51.9283|5.7139|Zetten|Gelderland|2985|
+51.9300|6.0708|Zevenaar|Gelderland|26063|
+51.6725|4.6792|Zevenbergschen Hoek|North Brabant|1245|
+52.1817|4.7792|Zevenhoven|South Holland|2200|
+52.2182|5.9784|Zevenhuizen|Gelderland|2290|
+51.6500|3.9194|Zierikzee|Zeeland|10483|
+51.5925|5.5417|Zijtaart|North Brabant|1055|
+51.9125|5.4028|Zoelen|Gelderland|1010|
+52.0575|4.4931|Zoetermeer|South Holland|115845|
+52.1200|4.4958|Zoeterwoude-Dorp|South Holland|4230|
+51.4114|5.3936|Zonderwijk|North Brabant|3435|
+51.9312|6.0624|Zonnemaat|Gelderland|4250|
+51.5017|3.4847|Zoutelande|Zeeland|1315|
+53.3392|6.3042|Zoutkamp|Groningen|1215|
+51.7508|4.3681|Zuid-Beijerland|South Holland|2740|
+52.3008|6.9333|Zuid-Berghuizen|Overijssel|3970|
+53.1633|6.8611|Zuidbroek|Groningen|2255|
+53.1734|5.8427|Zuiderburen|Friesland|5790|
+52.6656|4.9758|Zuidermeer|North Holland|0|
+53.2467|6.4028|Zuidhorn|Groningen|7075|
+53.0942|6.6819|Zuidlaren|Drenthe|3905|
+52.6867|4.8083|Zuid-Scharwoude|North Holland|6165|
+51.8753|4.4851|Zuidwijk|South Holland|12490|
+51.8092|5.1361|Zuilichem|Gelderland|1245|
+51.4717|4.6556|Zundert|North Brabant|6835|
+52.1383|6.2014|Zutphen|Gelderland|36188|
+52.6686|5.0753|Zwaag|North Holland|0|
+52.7075|5.1403|Zwaagdijk-Oost|North Holland|1240|
+52.6758|5.0592|Zwaagdijk-West|North Holland|585|
+52.3125|4.6167|Zwaanshoek|North Holland|1455|
+51.8175|4.6333|Zwijndrecht|South Holland|45696|
+52.5125|6.0944|Zwolle|Overijssel|129840|

@@ -1,184 +1,185 @@
-39.9910|46.9274|Ağdam|Aghdam
-40.6470|47.4738|Ağdaş
-40.0502|47.4594|Agdzhabedy|Aghjabadi
-41.1189|45.4539|Aghstafa
-40.5703|48.4009|Aghsu
-41.4829|46.6348|Aliabad
-40.8578|48.9354|Altıağac
-40.4264|49.9836|Amirdzhan
-40.6253|46.9756|Aran
-40.5931|45.7990|Arıqdam
-40.5397|45.6141|Arıqıran
-39.9391|46.8316|Askyaran
-38.4560|48.8750|Astara
-39.9739|47.4239|Avşar
-40.3402|49.8045|Badamdar
-40.4189|49.9669|Bakıxanov
-40.3777|49.8920|Baku
-40.4634|49.9189|Balakhani
-40.3758|47.1262|Barda
-41.3258|47.1136|Baş Göynük
-40.7552|48.3910|Basqal
-41.7263|46.4048|Belokany
-39.7756|47.6186|Beylagan
-40.4444|49.8057|Bilajari
-40.5644|50.0400|Bilajer
-40.4660|49.8278|Binagadi
-40.4508|50.0869|Biny Selo
-39.8192|47.6794|Birinci Aşıqlı
-38.9301|48.7092|Boradigah
-40.5763|45.6373|Böyük Qaramurad
-40.5190|50.1144|Buzovna
-39.3484|45.4156|Cahri
-39.4417|45.2833|Çalxanqala
-40.7262|45.5592|Çatax
-40.5419|49.6607|Ceyranbatan
-41.4697|46.9158|Çinarlı
-40.7524|45.7064|Çobansığnaq
-40.5718|49.7051|Corat|Jorat
-38.9540|45.6296|Culfa
-38.8837|45.9096|Deste
-40.4926|49.8748|Digah
-41.2012|48.9871|Divichibazar
-40.8628|46.0349|Dolyar
-40.9539|45.6194|Dondar Quşçu
-39.7728|47.7589|Dünyamalılar
-40.9033|45.8856|Dzagam
-41.4687|46.5158|Faldarlı
-39.6009|47.1453|Fizuli|Fuzuli
-40.6828|46.3606|Ganja
-41.0925|45.3656|Gazakh|Qazax
-40.6506|47.7422|Geoktschai|Göyçay
-41.1393|49.0904|Gilgilçay
-40.4047|49.7131|Gobu|Qobu
-40.6103|46.7897|Goranboy
-40.9460|45.7317|Govlar
-40.5858|46.3189|Goygol|Yelenendorf
-40.3744|49.6819|Gyuzdek
-41.4564|48.6489|Hacıhüseynli
-40.0387|48.9429|Hacıqabul
-40.6233|49.5586|Hacı Zeynalabdin|Haji Zeynalabdin
-39.5200|47.0319|Hadrut
-38.7632|48.7622|Haftoni
-39.7229|44.8485|Heydarabad
-40.4311|49.7372|Hokmali
-39.4502|47.3350|Horadiz
-40.3744|50.0853|Hövsan
-39.8710|48.0600|Imishli
-40.7848|48.1514|İsmayıllı
-39.2096|48.4919|Jalilabad
-39.3992|47.0284|Jebrail
-39.1667|45.6667|Julfa Rayon
-40.1098|46.0445|Kerbakhiar
-39.8266|46.7556|Khankendi
-40.4481|49.7550|Khirdalan
-40.4129|49.7690|Khodzhi-Gasan
-40.9085|49.0748|Khyzy
-40.8739|49.3438|Kilyazi
-38.5346|48.8055|Kizhaba
-40.3045|49.6236|Korgöz
-40.5705|45.8123|Kyadabek
-40.3426|48.1565|Kyurdarmir
-41.0781|49.1156|Kyzyl-Burun|Siyazan
-39.5988|46.5504|Laçın
-38.7543|48.8506|Lankaran
-38.7739|48.4150|Lerik
-40.3256|49.7338|Lökbatan
-41.5424|46.7670|Mamrux
-40.4918|50.1429|Mardakan
-40.2113|46.8214|Martakert
-39.0353|48.6654|Masally
-40.5298|50.0062|Maştağa
-40.4969|49.8517|Mehdiabad
-39.0302|46.7233|Mincivan
-40.7642|47.0623|Mingachevir
-40.7640|47.0595|Mingelchaur
-40.0990|48.8189|Mughan
-40.5061|46.8244|Naftalan
-39.2089|45.4122|Nakhchivan|Naxçıvan
-40.5561|50.0056|Nardaran
-39.3768|49.2470|Neftçala
-39.1160|45.4617|Nehram
-40.4097|49.9193|Nizami Rayonu
-40.5981|45.6008|Novosaratovka
-39.7950|47.1117|Novyy Karanlug
-39.5869|45.0461|Oğlanqala
-41.0713|47.4653|Oğuz
-38.9096|46.0227|Ordubad
-39.0833|45.9167|Ordubad Rayon
-39.6357|47.7120|Orjonikidze
-40.4701|50.3248|Pirallahı
-39.1200|48.5938|Prishibinskoye
-39.4583|48.5450|Pushkino
-40.2967|49.6603|Puta
-41.7526|46.2705|Qabaqçöl
-40.4426|50.1676|Qala
-41.4755|46.5413|Qandax
-39.8161|48.9379|Qaraçala
-40.3967|49.9736|Qaraçuxur
-40.4813|46.9934|Qaramanlı
-41.0436|45.6553|Qaraxanlı
-40.7867|46.3137|Qarayeri
-40.8124|46.2594|Qasım İsmayılov
-41.4183|46.9204|Qax
-41.4325|46.9646|Qaxbaş
-41.4241|46.9386|Qax İngiloy
-39.6767|46.9512|Qırmızı Bazar
-40.9397|46.3789|Qırmızı Samux
-39.3994|45.1151|Qıvraq
-40.5736|46.8490|Qızılhacılı
-40.0824|49.4121|Qobustan
-41.3611|48.5134|Quba
-39.3444|46.5818|Qubadlı
-41.4275|48.4302|Qusar
-40.9825|47.8491|Qutqashen
-40.4422|49.9806|Ramana
-39.9321|48.3689|Saatlı
-40.0087|48.4770|Sabirabad
-40.4425|49.9481|Sabunçu
-39.4072|45.5739|Şahbuz
-41.2752|45.3529|Saloğlu
-39.5962|48.9848|Salyan
-41.6367|48.4303|Samur
-40.7649|46.4087|Samux
-40.5083|47.1692|Samuxlu
-40.1699|49.4639|Sanqaçal
-40.5330|49.7168|Saray
-39.7143|44.8845|Sedarak
-39.4112|49.2479|Severo-Vostotchnyi Bank
-39.4167|45.5833|Shahbuz Rayon
-40.6314|48.6414|Shamakhi
-40.8297|46.0178|Shamkhir|Shamkhor
-39.5530|44.9799|Sharur City
-41.1919|47.1706|Sheki
-39.7601|46.7499|Shusha|Shushi
-39.9378|48.9290|Şirvan
-39.3367|49.2141|Sovetabad
-38.9480|45.8257|Sumbatan-diza
-40.5897|49.6686|Sumgayit|Sumqayıt
-40.8199|49.4677|Şuraabad
-40.3420|46.9316|Tartar|Terter
-39.1546|45.4428|Tazakend
-40.9925|45.6284|Tovuz
-40.3646|50.2208|Türkan
-40.5190|47.6542|Ujar
-40.0528|46.5442|Vank
-40.4936|46.0718|Verkhniy Dashkesan
-41.0952|45.4711|Vurğun
-41.4643|48.8056|Xaçmaz
-39.4301|49.1017|Xıllı
-39.9130|46.7903|Xocalı
-41.6305|48.6816|Xudat
-40.8432|45.6803|Yanıqlı
-38.9077|48.2405|Yardımlı
-38.9405|45.7324|Yaycı
-40.4303|50.0360|Yeni Suraxanı
-40.6183|47.1501|Yevlakh
-40.5239|46.0819|Yukhary-Dashkesan
-39.7336|47.6550|Yuxarı Aran
-40.4775|49.9417|Zabrat
-39.0837|46.6599|Zangilan
-41.6316|46.6448|Zaqatala
-40.2184|47.7121|Zardob
-40.3661|50.2920|Zyrya
-39.8807|48.3916|Əhmədbəyli
+39.9910|46.9274|Ağdam|Agdam|37700|Aghdam
+40.6470|47.4738|Ağdaş|Agdash|23528|
+40.0502|47.4594|Agdzhabedy|Aghjabadi|41200|Aghjabadi
+41.1189|45.4539|Aghstafa|Agstafa|12200|
+40.5703|48.4009|Aghsu|Agsu|22300|
+41.4829|46.6348|Aliabad|Zaqatala|9103|
+40.8578|48.9354|Altıağac|Khizi|0|
+40.4264|49.9836|Amirdzhan|Baku|28203|
+40.6253|46.9756|Aran|Yevlakh|6724|
+40.5931|45.7990|Arıqdam|Gədəbəy|2200|
+40.5397|45.6141|Arıqıran|Gədəbəy|2659|
+39.9391|46.8316|Askyaran|Khojali|1639|
+38.4560|48.8750|Astara|Astara|15190|
+39.9739|47.4239|Avşar|Aghjabadi|5600|
+40.3402|49.8045|Badamdar|Baku|11398|
+40.4189|49.9669|Bakıxanov|Baku|66686|
+40.3777|49.8920|Baku|Baku|2351300|
+40.4634|49.9189|Balakhani|Baku|10863|
+40.3758|47.1262|Barda|Barda|41600|
+41.3258|47.1136|Baş Göynük|Shaki|1658|
+40.7552|48.3910|Basqal|Ismailli|0|
+41.7263|46.4048|Belokany|Balakan|14800|
+39.7756|47.6186|Beylagan|Beylagan|15599|
+40.4444|49.8057|Bilajari|Baku|42194|
+40.5644|50.0400|Bilajer|Baku|8983|
+40.4660|49.8278|Binagadi|Baku|14012|
+40.4508|50.0869|Biny Selo|Baku|24596|
+39.8192|47.6794|Birinci Aşıqlı|Beylagan|1981|
+38.9301|48.7092|Boradigah|Masally|5904|
+40.5763|45.6373|Böyük Qaramurad|Gədəbəy|2684|
+40.5190|50.1144|Buzovna|Baku|24795|
+39.3484|45.4156|Cahri|Nakhchivan|0|
+39.4417|45.2833|Çalxanqala|Nakhchivan|0|
+40.7262|45.5592|Çatax|Tovuz|3189|
+40.5419|49.6607|Ceyranbatan|Absheron|0|
+41.4697|46.9158|Çinarlı|Qakh|6508|
+40.7524|45.7064|Çobansığnaq|Tovuz|1589|
+40.5718|49.7051|Corat|Sumqayit|18500|Jorat
+38.9540|45.6296|Culfa|Nakhchivan|0|
+38.8837|45.9096|Deste|Nakhchivan|4282|
+40.4926|49.8748|Digah|Absheron|9800|
+41.2012|48.9871|Divichibazar|Shabran|23248|
+40.8628|46.0349|Dolyar|Shamkir|0|
+40.9539|45.6194|Dondar Quşçu|Tovuz|3482|
+39.7728|47.7589|Dünyamalılar|Beylagan|5968|
+40.9033|45.8856|Dzagam|Shamkir|0|
+41.4687|46.5158|Faldarlı|Zaqatala|1767|
+39.6009|47.1453|Fizuli|Fizuli|25100|Fuzuli
+40.6828|46.3606|Ganja|Ganja|330663|
+40.6506|47.7422|Geoktschai|Goychay|42500|Göyçay
+41.1393|49.0904|Gilgilçay|Siazan|1147|
+40.6103|46.7897|Goranboy|Goranboy|9200|
+40.9460|45.7317|Govlar|Tovuz District|15600|
+40.3744|49.6819|Gyuzdek|Absheron|0|
+41.4564|48.6489|Hacıhüseynli|Quba|1731|
+40.0387|48.9429|Hacıqabul|Hajigabul|23102|
+40.6233|49.5586|Hacı Zeynalabdin|Sumqayit|29900|Haji Zeynalabdin
+39.5200|47.0319|Hadrut|Martuni|0|
+38.7632|48.7622|Haftoni|Lankaran|2003|
+39.7229|44.8485|Heydarabad|Nakhchivan|2300|
+40.4311|49.7372|Hokmali|Abşeron|17300|
+39.4502|47.3350|Horadiz|Fizuli|7700|
+40.3744|50.0853|Hövsan|Baku|36293|
+39.8710|48.0600|Imishli|Imishli|34178|
+40.7848|48.1514|İsmayıllı|Ismailli|27500|
+39.2096|48.4919|Jalilabad|Jalilabad|36259|
+39.3992|47.0284|Jebrail|Jabrayil|0|
+39.1667|45.6667|Julfa Rayon|Nakhchivan|0|
+40.1098|46.0445|Kerbakhiar|Kalbajar|0|
+39.8266|46.7556|Khankendi|Khankendi|2100|
+40.4481|49.7550|Khirdalan|Absheron|196200|
+40.4129|49.7690|Khodzhi-Gasan|Baku|0|
+40.9085|49.0748|Khyzy|Khizi|0|
+40.8739|49.3438|Kilyazi|Khizi|0|
+38.5346|48.8055|Kizhaba|Astara|4567|
+40.3045|49.6236|Korgöz|Baku|2036|
+40.5705|45.8123|Kyadabek|Gədəbəy|0|
+40.3426|48.1565|Kyurdarmir|Kurdamir|19088|
+41.0781|49.1156|Kyzyl-Burun|Siazan|25900|Siyazan
+39.5988|46.5504|Laçın|Lachin|2300|
+38.7543|48.8506|Lankaran|Lankaran|89300|
+38.7739|48.4150|Lerik|Lerik|87000|
+40.3256|49.7338|Lökbatan|Baku|30694|
+41.5424|46.7670|Mamrux|Zaqatala|2150|
+40.4918|50.1429|Mardakan|Baku|15267|
+40.2113|46.8214|Martakert|Tartar|0|
+39.0353|48.6654|Masally|Masally|9604|
+40.5298|50.0062|Maştağa|Baku|40092|
+40.4969|49.8517|Mehdiabad|Abşeron|20500|
+39.0302|46.7233|Mincivan|Zangilan|6353|
+40.7642|47.0623|Mingachevir|Mingacevir City|106048|
+40.7640|47.0595|Mingelchaur|Mingachevir|0|
+40.0990|48.8189|Mughan|Hajigabul|4410|
+40.5061|46.8244|Naftalan|Naftalan|8600|
+39.2089|45.4122|Nakhchivan|Nakhchivan|97200|Naxçıvan
+40.5561|50.0056|Nardaran|Baku|7700|
+39.3768|49.2470|Neftçala|Neftchala|18661|
+39.1160|45.4617|Nehram|Nakhchivan|17200|
+40.4097|49.9193|Nizami Rayonu|Baku|0|
+40.5981|45.6008|Novosaratovka|Gədəbəy|2328|
+39.7950|47.1117|Novyy Karanlug|Martuni|0|
+39.5869|45.0461|Oğlanqala|Nakhchivan|0|
+41.0713|47.4653|Oğuz|Oghuz|6600|
+38.9096|46.0227|Ordubad|Nakhchivan|10800|
+39.0833|45.9167|Ordubad Rayon|Nakhchivan|0|
+39.6357|47.7120|Orjonikidze|Beylagan|1557|
+40.4701|50.3248|Pirallahı|Baku|13435|
+39.1200|48.5938|Prishibinskoye|Jalilabad|0|
+39.4583|48.5450|Pushkino|Bilasuvar|18182|
+40.2967|49.6603|Puta|Baku|1018|
+41.7526|46.2705|Qabaqçöl|Balakan|1293|
+40.4426|50.1676|Qala|Baku|2709|
+41.4755|46.5413|Qandax|Zaqatala|1654|
+39.8161|48.9379|Qaraçala|Salyan|4211|
+40.3967|49.9736|Qaraçuxur|Baku|87349|
+40.4813|46.9934|Qaramanlı|Yevlakh|2230|
+41.0436|45.6553|Qaraxanlı|Tovuz|3166|
+40.7867|46.3137|Qarayeri|Samukh|0|
+40.8124|46.2594|Qasım İsmayılov|Shamkir|0|
+41.4183|46.9204|Qax|Qakh|11992|
+41.4325|46.9646|Qaxbaş|Qakh|2983|
+41.4241|46.9386|Qax İngiloy|Qakh|2747|
+41.0925|45.3656|Qazax|Qazakh|20800|Gazakh
+39.6767|46.9512|Qırmızı Bazar|Martuni|0|
+40.9397|46.3789|Qırmızı Samux|Samukh|0|
+39.3994|45.1151|Qıvraq|Nakhchivan|0|
+40.5736|46.8490|Qızılhacılı|Goranboy|0|
+40.4047|49.7131|Qobu|Absheron|17600|Gobu
+40.0824|49.4121|Qobustan|Baku|13398|
+40.5336|48.9282|Qobustan|Gobustan|0|
+41.3611|48.5134|Quba|Quba|22405|
+39.3444|46.5818|Qubadlı|Qubadli|6890|
+41.4275|48.4302|Qusar|Qusar|16022|
+40.9825|47.8491|Qutqashen|Qabala|0|
+40.4422|49.9806|Ramana|Baku|8855|
+39.9321|48.3689|Saatlı|Saatly|20300|
+40.0087|48.4770|Sabirabad|Sabirabad|30612|
+40.4425|49.9481|Sabunçu|Baku|20996|
+39.4072|45.5739|Şahbuz|Nakhchivan|0|
+41.2752|45.3529|Saloğlu|Agstafa|0|
+39.5962|48.9848|Salyan|Salyan|36555|
+41.6367|48.4303|Samur|Qusar|1760|
+40.7649|46.4087|Samux|Samukh|0|
+40.5083|47.1692|Samuxlu|Barda|1637|
+40.1699|49.4639|Sanqaçal|Baku|4200|
+40.5330|49.7168|Saray|Absheron|37800|
+39.7143|44.8845|Sedarak|Nakhchivan|1853|
+39.4112|49.2479|Severo-Vostotchnyi Bank|Neftchala|7075|
+39.4167|45.5833|Shahbuz Rayon|Nakhchivan|0|
+40.6314|48.6414|Shamakhi|Shamakhi|40300|
+40.8297|46.0178|Shamkhor|Shamkir|41300|Shamkhir
+39.5530|44.9799|Sharur City|Nakhchivan|7500|
+41.1919|47.1706|Sheki|Shaki|68400|
+39.7601|46.7499|Shushi|Shusha|19400|Shusha
+39.9378|48.9290|Şirvan|Shirvan|70220|
+39.3367|49.2141|Sovetabad|Neftchala|4308|
+38.9480|45.8257|Sumbatan-diza|Nakhchivan|1024|
+40.5897|49.6686|Sumqayıt|Sumqayit|427000|Sumgayit
+40.8199|49.4677|Şuraabad|Khizi|0|
+39.1546|45.4428|Tazakend|Nakhchivan|0|
+40.3420|46.9316|Terter|Tartar|20400|Tartar
+40.9925|45.6284|Tovuz|Tovuz|12626|
+40.3646|50.2208|Türkan|Baku|9699|
+40.5190|47.6542|Ujar|Ujar|15741|
+40.0528|46.5442|Vank|Kalbajar|1335|
+40.4936|46.0718|Verkhniy Dashkesan|Dashkasan|0|
+41.0952|45.4711|Vurğun|Agstafa|0|
+41.4643|48.8056|Xaçmaz|Khachmaz|67600|
+39.4301|49.1017|Xıllı|Neftchala|3896|
+39.9130|46.7903|Xocalı|Khojali|0|
+41.6305|48.6816|Xudat|Khachmaz|13625|
+40.8432|45.6803|Yanıqlı|Tovuz|2395|
+38.9077|48.2405|Yardımlı|Yardymli|7623|
+38.9405|45.7324|Yaycı|Nakhchivan|8500|
+40.5858|46.3189|Yelenendorf|Goygol|19800|Goygol
+40.4303|50.0360|Yeni Suraxanı|Baku|16127|
+40.6183|47.1501|Yevlakh|Yevlakh|127400|
+40.5239|46.0819|Yukhary-Dashkesan|Dashkasan|0|
+39.7336|47.6550|Yuxarı Aran|Beylagan|1623|
+40.4775|49.9417|Zabrat|Baku|21396|
+39.0837|46.6599|Zangilan|Zangilan|7483|
+41.6316|46.6448|Zaqatala|Zaqatala|32171|
+40.2184|47.7121|Zardob|Zardab|10612|
+40.3661|50.2920|Zyrya|Baku|10099|
+39.8807|48.3916|Əhmədbəyli|Saatly|17242|

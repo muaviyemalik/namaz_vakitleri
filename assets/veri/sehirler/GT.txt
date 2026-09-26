@@ -1,381 +1,384 @@
-14.5545|-90.9437|Acatenango
-14.5000|-89.6500|Agua Blanca
-15.3422|-91.3114|Aguacatán
-14.8159|-91.4946|Almolonga
-14.4803|-90.8075|Alotenango
-14.4774|-90.6349|Amatitlán
-14.5611|-90.7344|Antigua Guatemala
-14.3308|-89.7108|Asunción Mita
-14.1744|-89.7425|Atescatempa
-14.3074|-90.3616|Barberena
-15.8036|-91.3158|Barillas
-15.0748|-91.6480|Cabricán
-15.5667|-89.8167|Cahabón
-14.9221|-91.6148|Cajolá
-14.8202|-89.3722|Camotán
-15.1655|-90.8526|Canillá
-14.8115|-91.4554|Cantel
-14.4222|-90.2442|Casillas
-14.8535|-92.0768|Catarina
-15.7912|-89.6052|Chahal Guatemala
-15.4852|-91.0352|Chajul
-14.2934|-91.9121|Champerico
-15.3548|-91.4581|Chiantla
-14.5429|-91.3264|Chicacao
-15.3479|-90.7997|Chicamán
-15.0089|-91.0638|Chiché
-14.9433|-91.1112|Chichicastenango
-14.6611|-90.8194|Chimaltenango
-14.7029|-90.4998|Chinautla
-15.0415|-91.0259|Chinique
-14.8000|-89.5458|Chiquimula
-14.0838|-90.3855|Chiquimulilla
-15.8167|-90.2833|Chisec
-14.8179|-90.5157|Chuarrancho
-14.6774|-92.1404|Ciudad Tecún Umán
-14.5240|-90.7631|Ciudad Vieja
-14.7041|-91.8643|Coatepeque
-15.4708|-90.3708|Cobán
-14.7073|-91.7317|Colomba
-15.4060|-91.7127|Colotenango
-14.7409|-90.8876|Comalapa
-14.1167|-89.9167|Comapa
-15.0894|-91.7497|Comitancillo
-14.7842|-91.1475|Concepción
-14.8551|-91.6236|Concepción Chiquirichapa
-15.6238|-91.6652|Concepción Huista
-14.5217|-89.4572|Concepción Las Minas
-15.2394|-91.8446|Concepción Tutuapa
-14.0442|-90.0311|Conguaco
-15.1045|-90.6287|Cubulco
-14.2764|-90.2989|Cuilapa
-15.4072|-91.9467|Cuilco
-15.3363|-91.0278|Cunén
-14.5401|-91.5718|Cuyotenango
-16.5118|-89.4170|Dolores
-14.1667|-89.8333|El Adelanto
-14.5963|-91.7274|El Asintal
-14.9605|-90.4880|El Chol
-15.5333|-89.3500|El Estor
-14.9167|-89.9000|El Jícaro
-14.6508|-91.5780|El Palmar
-14.3500|-89.8500|El Progreso
-14.7686|-91.8176|El Quetzal
-14.9145|-91.9763|El Rodeo
-14.6468|-90.7912|El Tejar
-14.8637|-91.9342|El Tumbador
-14.3050|-90.7850|Escuintla
-14.5657|-89.3517|Esquipulas
-14.9413|-91.8256|Esquipulas Palo Gordo
-16.9226|-89.8994|Flores
-14.6561|-91.8256|Flores Costa Cuca
-14.4653|-90.4408|Fraijanes
-14.6167|-91.8333|Génova
-14.9165|-90.5229|Granados
-15.1195|-89.3572|Gualán
-14.2253|-90.6433|Guanagazapa
-14.8542|-90.0694|Guastatoya
-14.6407|-90.5133|Guatemala City
-14.0742|-90.4167|Guazacapán
-15.3192|-91.4724|Huehuetenango
-15.0492|-91.6394|Huitán
-14.6167|-89.6167|Ipala
-15.1638|-91.9326|Ixchiguán
-15.4169|-91.7693|Ixtahuacán
-13.9333|-90.7075|Iztapa
-15.6666|-91.7118|Jacaltenango
-14.6347|-89.9889|Jalapa
-14.1417|-90.0086|Jalpatagua
-14.1000|-89.7500|Jerez
-14.8207|-89.3899|Jocotán
-14.5781|-90.7380|Jocotenango
-14.9931|-90.8016|Joyabaj
-14.2917|-89.8958|Jutiapa
-14.2308|-90.9472|La Democracia
-14.8717|-91.5614|La Esperanza
-14.0821|-91.0538|La Gomera
-15.5142|-91.8694|La Libertad
-15.5667|-89.9667|Lanquín
-14.8010|-91.8223|La Reforma
-15.3167|-89.8833|La Tinta
-15.8283|-88.7504|Lívingston
-15.2564|-89.0972|Los Amates
-14.5480|-90.6748|Magdalena Milpas Altas
-14.9113|-92.0579|Malacatán
-15.2446|-91.4990|Malacatancito
-14.2031|-90.8481|Masagua
-14.5292|-90.1842|Mataquescuintla
-14.5342|-91.5033|Mazatenango
-17.0661|-89.1523|Melchor de Mencos
-14.6308|-90.6071|Mixco
-15.0444|-91.4086|Momostenango
-14.5000|-89.8667|Monjas
-15.4833|-88.8167|Morales
-14.9328|-90.1431|Morazán
-14.0386|-90.0808|Moyuta
-14.8112|-91.4835|Municipio de Almolonga
-14.4649|-90.8277|Municipio de Alotenango
-14.5431|-90.7268|Municipio de Antigua Guatemala
-14.3033|-89.6762|Municipio de Asunción Mita
-15.1030|-91.6492|Municipio de Cabricán
-15.1955|-90.8597|Municipio de Canillá
-14.8166|-91.4378|Municipio de Cantel
-14.3785|-90.1726|Municipio de Casillas
-15.4871|-91.0379|Municipio de Chajul
-15.3483|-90.7994|Municipio de Chicaman
-15.0120|-91.0384|Municipio de Chiché
-14.8920|-91.0881|Municipio de Chichicastenango
-15.0695|-91.0180|Municipio de Chinique
-14.0972|-90.3790|Municipio de Chiquimulilla
-14.5080|-90.7703|Municipio de Ciudad Vieja
-14.6431|-91.9793|Municipio de Coatepeque
-14.7100|-91.7469|Municipio de Colomba
-14.8462|-91.6185|Municipio de Concepción Chiquirichapa
-15.2880|-91.8674|Municipio de Concepción Tutuapa
-15.3631|-91.0189|Municipio de Cunén
-16.9238|-89.8971|Municipio de Flores
-14.6324|-91.8634|Municipio de Flores Costa Cuca
-14.0179|-90.4340|Municipio de Guazacapán
-15.9833|-90.7667|Municipio de Ixcan
-14.6327|-90.0330|Municipio de Jalapa
-14.5866|-90.7358|Municipio de Jocotenango
-14.9807|-90.8208|Municipio de Joyabaj
-14.5421|-90.6755|Municipio de Magdalena Milpas Altas
-14.9183|-92.1055|Municipio de Malacatán
-14.5478|-90.2001|Municipio de Mataquescuintla
-15.0473|-91.4063|Municipio de Momostenango
-15.4449|-88.7665|Municipio de Morales
-14.7755|-91.4162|Municipio de Nahualá
-14.9180|-90.6544|Municipio de Pachalum
-14.7468|-91.1493|Municipio de Panajachel
-14.9710|-91.1972|Municipio de Patzité
-16.3569|-89.5891|Municipio de Poptún
-15.7175|-88.5852|Municipio de Puerto Barrios
-17.4954|-90.3988|Municipio de San Andrés
-15.2253|-90.9302|Municipio de San Andrés Sajcabajá
-15.0490|-91.2087|Municipio de San Antonio Ilotenango
-14.5184|-91.4044|Municipio de San Antonio Suchitepéquez
-16.9129|-89.9098|Municipio de San Benito
-14.6301|-91.6026|Municipio de San Felipe
-16.7243|-89.9088|Municipio de San Francisco
-15.4270|-91.0210|Municipio de San Juan Cotzal
-14.8748|-91.6884|Municipio de San Juan Ostuncalco
-14.5053|-91.3596|Municipio de San Miguel Panán
-15.1547|-91.1561|Municipio de San Pedro Jocopilas
-16.7731|-89.6688|Municipio de Santa Ana
-14.4732|-91.2469|Municipio de Santa Bárbara
-14.7179|-91.1306|Municipio de Santa Catarina Palopó
-14.7432|-91.2218|Municipio de Santa Cruz La Laguna
-14.5675|-90.6755|Municipio de Santa Lucía Milpas Altas
-15.0289|-91.3292|Municipio de Santa María Chiquimula
-14.4785|-90.6999|Municipio de Santa María de Jesús
-16.3316|-90.1634|Municipio de Sayaxché
-15.1924|-91.6554|Municipio de Sipacapa
-15.1564|-91.8246|Municipio de Tejutla
-14.9019|-91.3200|Municipio de Totonicapán
-15.4439|-90.8440|Municipio de Uspantán
-15.0924|-90.8851|Municipio de Zacualpa
-14.8429|-91.3180|Nahualá
-15.4061|-91.1468|Nebaj
-15.8007|-91.7546|Nentón
-14.2000|-91.3000|Nueva Concepción
-14.3811|-90.2761|Nueva Santa Rosa
-14.7917|-91.9195|Nuevo Progreso
-14.5930|-91.6939|Nuevo San Carlos
-14.5100|-92.1930|Ocós
-14.8860|-91.5147|Olintepeque
-14.6923|-89.3500|Olopa
-14.2281|-90.1758|Oratorio
-14.8690|-91.6214|Ostuncalco
-14.9247|-90.6628|Pachalum
-14.7215|-92.0352|Pajapita
-14.6671|-90.3572|Palencia
-14.9334|-91.6940|Palestina de los Altos
-14.4036|-90.6966|Palín
-14.7418|-91.1568|Panajachel
-15.3986|-89.6415|Panzos
-15.4000|-89.6667|Panzós
-14.6089|-90.8030|Parramos
-13.9772|-90.2064|Pasaco
-14.5943|-90.7547|Pastores
-14.4232|-91.1605|Patulul
-14.6319|-90.9266|Patzicía
-14.9643|-91.2079|Patzité
-14.6819|-91.0140|Patzún
-14.5019|-90.5620|Petapa
-15.9333|-90.7333|Playa Grande
-14.5445|-91.0890|Pochuta
-16.3311|-89.4169|Poptún
-14.6471|-91.5395|Pueblo Nuevo
-14.2258|-90.4761|Pueblo Nuevo Viñas
-15.7278|-88.5944|Puerto Barrios
-13.9274|-90.8217|Puerto San José
-15.2667|-90.2000|Purulhá
-14.2703|-90.0403|Quesada
-14.8347|-91.5181|Quetzaltenango
-14.6355|-89.4424|Quezaltepeque
-15.0853|-90.4925|Rabinal
-14.5361|-91.6778|Retalhuleu
-15.0382|-91.6846|Río Blanco
-14.4004|-91.3171|Río Bravo
-15.2880|-91.0891|Sacapulas
-15.1028|-90.3181|Salamá
-14.8796|-91.4570|Salcajá
-14.5808|-91.4613|Samayac
-14.9500|-89.9667|San Agustín Acasaguastlán
-16.9667|-89.9167|San Andrés
-14.6222|-90.8431|San Andrés Itzapa
-15.1760|-90.9422|San Andrés Sajcabajá
-14.7450|-91.1334|San Andrés Semetabaj
-14.5780|-91.5854|San Andrés Villa Seca
-14.9048|-91.4831|San Andrés Xecul
-14.5468|-90.7805|San Antonio Aguas Calientes
-15.6501|-91.7716|San Antonio Huista
-15.0547|-91.2299|San Antonio Ilotenango
-14.7589|-90.2849|San Antonio La Paz
-14.6923|-91.1164|San Antonio Palopó
-14.9606|-91.7315|San Antonio Sacatepéquez
-14.5394|-91.4144|San Antonio Suchitepéquez
-14.7883|-90.1988|Sanarate
-15.0844|-91.4561|San Bartolo
-15.1915|-91.0781|San Bartolomé Jocotenango
-14.6069|-90.6781|San Bartolomé Milpas Altas
-16.9168|-89.9190|San Benito
-14.5424|-91.4581|San Bernardino
-14.9844|-91.5491|San Carlos Sija
-14.9167|-89.8833|San Cristóbal Acasaguastlán
-14.9050|-91.7812|San Cristóbal Cucho
-14.9168|-91.4406|San Cristóbal Totonicapán
-15.3963|-90.5651|San Cristóbal Verapaz
-14.6230|-91.5950|San Felipe
-16.8000|-89.9333|San Francisco
-14.9449|-91.4431|San Francisco El Alto
-14.9235|-91.5416|San Francisco la Unión
-14.5894|-91.5214|San Francisco Zapotitlán
-14.5108|-91.5075|San Gabriel
-15.3880|-91.7256|San Gaspar Ixchil
-14.6667|-89.5000|San Jacinto
-15.0603|-90.2405|San Jerónimo
-16.9833|-89.9000|San José
-14.2653|-90.1269|San José Acatempa
-14.7710|-91.2156|San José Chacayá
-14.7641|-90.3723|San José del Golfo
-14.4502|-91.4222|San José El Ídolo
-14.7167|-89.5833|San José La Arada
-15.2344|-91.9732|San José Ojetenam
-15.2167|-91.9667|San José Ojetenán
-14.5460|-90.4129|San José Pinula
-14.8181|-90.9125|San José Poaquil
-15.4289|-91.6240|San Juan Atitán
-14.4227|-91.1790|San Juan Bautista
-15.4333|-90.3333|San Juan Chamelco
-15.4337|-91.0348|San Juan Cotzal
-14.7647|-89.4301|San Juan Ermita
-15.6002|-91.4464|San Juan Ixcoy
-14.6945|-91.2867|San Juan La Laguna
-14.7189|-90.6442|San Juan Sacatepéquez
-14.0836|-90.2665|San Juan Tecuaco
-15.0309|-91.7353|San Lorenzo
-14.6107|-90.6568|San Lucas Sacatepéquez
-14.5947|-91.1466|San Lucas Tolimán
-16.1989|-89.4403|San Luis
-15.7872|-91.0950|San Luis Ixcán
-14.6500|-89.7333|San Luis Jilotepeque
-14.5167|-89.7667|San Manuel Chaparrón
-14.9639|-91.7944|San Marcos
-14.7250|-91.2584|San Marcos La Laguna
-14.7801|-90.7926|San Martín Jilotepeque
-14.8244|-91.6419|San Martín Sacatepéquez
-14.6079|-91.6061|San Martín Zapotitlán
-14.8580|-91.5900|San Mateo
-15.8319|-91.4781|San Mateo Ixtatán
-15.7040|-91.5977|San Miguel Acatán
-15.0947|-90.3944|San Miguel Chicaj
-14.5224|-90.7994|San Miguel Dueñas
-15.2725|-91.7478|San Miguel Ixtahuacán
-14.5287|-91.3673|San Miguel Panán
-14.8955|-91.6146|San Miguel Sigüilá
-14.9327|-92.0041|San Pablo
-14.5888|-91.4519|San Pablo Jocopilas
-14.7209|-91.2724|San Pablo La Laguna
-14.7794|-90.4532|San Pedro Ayampuc
-15.4833|-90.2667|San Pedro Carchá
-15.0953|-91.1513|San Pédro Jocopilas
-14.6930|-91.2720|San Pedro La Laguna
-15.4914|-91.7655|San Pedro Necta
-14.6667|-89.8500|San Pedro Pinula
-14.6861|-90.6425|San Pedro Sacatepéquez
-15.7015|-91.5355|San Rafael La Independencia
-14.4814|-90.1733|San Rafael Las Flores
-15.4049|-91.6645|San Rafael Petzal
-14.9305|-91.9139|San Rafael Pie de la Cuesta
-14.7646|-90.5949|San Raimundo
-14.7457|-90.1162|Sansare
-14.5618|-91.6487|San Sebastián
-15.7358|-91.5628|San Sebastián Coatán
-15.3877|-91.6153|San Sebastián Huehuetenango
-16.8000|-89.8333|Santa Ana
-15.6808|-91.8200|Santa Ana Huista
-14.7905|-90.9727|Santa Apolonia
-15.3162|-91.6328|Santa Bárbara
-14.5513|-90.7860|Santa Catarina Barahona
-14.7980|-91.3587|Santa Catarina Ixtahuacán
-14.4500|-89.7500|Santa Catarina Mita
-14.7233|-91.1343|Santa Catarina Palopó
-14.5705|-90.4993|Santa Catarina Pinula
-14.7151|-91.3036|Santa Clara La Laguna
-14.6852|-90.9191|Santa Cruz Balanyá
-15.0308|-91.1487|Santa Cruz del Quiché
-14.7442|-91.2072|Santa Cruz La Laguna
-14.5815|-91.6244|Santa Cruz Muluá
-14.3881|-90.3697|Santa Cruz Naranjo
-15.3667|-90.4333|Santa Cruz Verapaz
-15.7306|-91.4585|Santa Eulalia
-14.3351|-91.0234|Santa Lucía Cotzumalguapa
-15.1282|-91.2362|Santa Lucia La Reforma
-14.5765|-90.6763|Santa Lucía Milpas Altas
-14.7713|-91.2670|Santa Lucía Utatlán
-15.0299|-91.3292|Santa María Chiquimula
-14.4945|-90.7104|Santa María de Jesús
-14.1900|-90.2747|Santa María Ixhuatán
-14.7172|-91.3084|Santa María Visitación
-14.3881|-90.2956|Santa Rosa de Lima
-14.6382|-91.2290|Santiago Atitlán
-15.4766|-91.6966|Santiago Chimaltenango
-14.6351|-90.6765|Santiago Sacatepéquez
-14.4790|-91.4833|Santo Domingo Suchitepéquez
-14.6806|-90.7001|Santo Domingo Xenacoj
-14.6322|-91.4107|Santo Tomás La Unión
-14.4147|-90.6361|San Vicente Pacaya
-16.5245|-90.1880|Sayaxché
-15.4000|-89.8333|Senahú
-14.9939|-91.6237|Sibilia
-15.1496|-92.0489|Sibinal
-15.2125|-91.6342|Sipacapa
-14.3061|-90.9650|Siquinalá
-14.7722|-91.1833|Sololá
-15.6584|-91.4299|Soloma
-14.6462|-90.7343|Sumpango
-15.2406|-92.0672|Tacaná
-15.3222|-90.3545|Tactic
-15.0835|-91.9223|Tajumulco
-15.3089|-90.2360|Tamahú
-14.0672|-90.4679|Taxisco
-14.7618|-90.9925|Tecpán Guatemala
-15.3063|-92.0605|Tectitán
-15.1225|-91.8063|Tejutla
-14.2836|-91.3606|Tiquisate
-15.5085|-91.6038|Todos Santos Cuchumatán
-14.9117|-91.3611|Totonicapán
-15.3000|-90.0667|Tucurú
-15.3467|-90.8705|Uspantán
-14.4828|-90.5343|Villa Canales
-14.5251|-90.5854|Villa Nueva
-14.5020|-90.9540|Yepocapa
-14.2000|-89.7833|Yupiltepeque
-14.9687|-89.5273|Zacapa
-15.0268|-90.8782|Zacualpa
-14.1333|-89.8333|Zapotitlán
-14.6497|-90.8903|Zaragoza
-14.7846|-91.4835|Zunil
-14.6126|-91.5098|Zunilito
+14.5545|-90.9437|Acatenango|Chimaltenango|12136|
+14.5000|-89.6500|Agua Blanca|Jutiapa|2776|
+15.3422|-91.3114|Aguacatán|Huehuetenango|5572|
+14.8159|-91.4946|Almolonga|Quetzaltenango|12299|
+14.4803|-90.8075|Alotenango|Sacatepéquez|23986|
+14.4774|-90.6349|Amatitlán|Guatemala|71836|
+14.5611|-90.7344|Antigua Guatemala|Sacatepéquez|46054|
+14.3308|-89.7108|Asunción Mita|Jutiapa|48297|
+14.1744|-89.7425|Atescatempa|Jutiapa|11543|
+14.3074|-90.3616|Barberena|Santa Rosa|47093|
+15.8036|-91.3158|Barillas|Huehuetenango|14100|
+15.0748|-91.6480|Cabricán|Quetzaltenango|23033|
+15.5667|-89.8167|Cahabón|Alta Verapaz|4671|
+14.9221|-91.6148|Cajolá|Quetzaltenango|2927|
+14.8202|-89.3722|Camotán|Chiquimula|1597|
+15.1655|-90.8526|Canillá|Quiché|1698|
+14.8115|-91.4554|Cantel|Quetzaltenango|42142|
+14.4222|-90.2442|Casillas|Santa Rosa|7698|
+14.8535|-92.0768|Catarina|San Marcos|3040|
+15.7912|-89.6052|Chahal Guatemala|Alta Verapaz|0|
+15.4852|-91.0352|Chajul|Quiché|11657|
+14.2934|-91.9121|Champerico|Retalhuleu|9941|
+15.3548|-91.4581|Chiantla|Huehuetenango|8465|
+14.5429|-91.3264|Chicacao|Suchitepéquez|60735|
+15.3479|-90.7997|Chicamán|Quiché|2090|
+15.0089|-91.0638|Chiché|Quiché|2406|
+14.9433|-91.1112|Chichicastenango|Quiché|141567|
+14.6611|-90.8194|Chimaltenango|Chimaltenango|96985|
+14.7029|-90.4998|Chinautla|Guatemala|104972|
+15.0415|-91.0259|Chinique|Quiché|2693|
+14.8000|-89.5458|Chiquimula|Chiquimula|111505|
+14.0838|-90.3855|Chiquimulilla|Santa Rosa|12842|
+15.8167|-90.2833|Chisec|Alta Verapaz|17018|
+14.8179|-90.5157|Chuarrancho|Guatemala|7149|
+14.6774|-92.1404|Ciudad Tecún Umán|San Marcos|11432|
+14.5240|-90.7631|Ciudad Vieja|Sacatepéquez|33405|
+14.7041|-91.8643|Coatepeque|Quetzaltenango|105415|
+15.4708|-90.3708|Cobán|Alta Verapaz|212047|
+14.7073|-91.7317|Colomba|Quetzaltenango|47544|
+15.4060|-91.7127|Colotenango|Huehuetenango|1690|
+14.7409|-90.8876|Comalapa|Chimaltenango|32312|
+14.1167|-89.9167|Comapa|Jutiapa|1493|
+15.0894|-91.7497|Comitancillo|San Marcos|59489|
+14.7842|-91.1475|Concepción|Sololá|3292|
+14.8551|-91.6236|Concepción Chiquirichapa|Quetzaltenango|8080|
+15.6238|-91.6652|Concepción Huista|Huehuetenango|8925|
+14.5217|-89.4572|Concepción Las Minas|Chiquimula|1295|
+15.2394|-91.8446|Concepción Tutuapa|San Marcos|6006|
+14.0442|-90.0311|Conguaco|Jutiapa|3415|
+15.1045|-90.6287|Cubulco|Baja Verapaz|10681|
+14.2764|-90.2989|Cuilapa|Santa Rosa|41359|
+15.4072|-91.9467|Cuilco|Huehuetenango|1713|
+15.3363|-91.0278|Cunén|Quiché|8400|
+14.5401|-91.5718|Cuyotenango|Suchitepéquez|10825|
+16.5118|-89.4170|Dolores|Petén|10604|
+14.1667|-89.8333|El Adelanto|Jutiapa|2341|
+14.5963|-91.7274|El Asintal|Retalhuleu|17388|
+14.9605|-90.4880|El Chol|Baja Verapaz|2391|
+15.5333|-89.3500|El Estor|Izabal|20489|
+14.9167|-89.9000|El Jícaro|El Progreso|4242|
+14.6508|-91.5780|El Palmar|Quetzaltenango|15167|
+14.3500|-89.8500|El Progreso|Jutiapa|7350|
+14.7686|-91.8176|El Quetzal|San Marcos|12122|
+14.9145|-91.9763|El Rodeo|San Marcos|1887|
+14.6468|-90.7912|El Tejar|Chimaltenango|15639|
+14.8637|-91.9342|El Tumbador|San Marcos|8856|
+14.3050|-90.7850|Escuintla|Escuintla|156313|
+14.5657|-89.3517|Esquipulas|Chiquimula|20674|
+14.9413|-91.8256|Esquipulas Palo Gordo|San Marcos|1533|
+16.9226|-89.8994|Flores|Petén|20464|
+14.6561|-91.8256|Flores Costa Cuca|Quetzaltenango|11984|
+14.4653|-90.4408|Fraijanes|Guatemala|58922|
+14.6167|-91.8333|Génova|Quetzaltenango|3744|
+14.9165|-90.5229|Granados|Baja Verapaz|937|
+15.1195|-89.3572|Gualán|Zacapa|19354|
+14.2253|-90.6433|Guanagazapa|Escuintla|2842|
+14.8542|-90.0694|Guastatoya|El Progreso|24831|
+14.6407|-90.5133|Guatemala City|Guatemala|994938|
+14.0742|-90.4167|Guazacapán|Santa Rosa|18855|
+15.3192|-91.4724|Huehuetenango|Huehuetenango|79426|
+15.0492|-91.6394|Huitán|Quetzaltenango|9958|
+14.6167|-89.6167|Ipala|Chiquimula|5283|
+15.1638|-91.9326|Ixchiguán|San Marcos|2263|
+15.4169|-91.7693|Ixtahuacán|Huehuetenango|3708|
+13.9333|-90.7075|Iztapa|Escuintla|4020|
+15.6666|-91.7118|Jacaltenango|Huehuetenango|37171|
+14.6347|-89.9889|Jalapa|Jalapa|159840|
+14.1417|-90.0086|Jalpatagua|Jutiapa|28832|
+14.1000|-89.7500|Jerez|Jutiapa|4421|
+14.8207|-89.3899|Jocotán|Chiquimula|8387|
+14.5781|-90.7380|Jocotenango|Sacatepéquez|17918|
+14.9931|-90.8016|Joyabaj|Quiché|13164|
+14.2917|-89.8958|Jutiapa|Jutiapa|145880|
+14.2308|-90.9472|La Democracia|Escuintla|13400|
+14.8717|-91.5614|La Esperanza|Quetzaltenango|16461|
+14.0821|-91.0538|La Gomera|Escuintla|24001|
+15.5142|-91.8694|La Libertad|Huehuetenango|6439|
+16.7885|-90.1170|La Libertad|Petén|8646|
+15.5667|-89.9667|Lanquín|Alta Verapaz|2006|
+14.8010|-91.8223|La Reforma|San Marcos|4905|
+15.3167|-89.8833|La Tinta|Alta Verapaz|0|
+15.8283|-88.7504|Lívingston|Izabal|17923|
+15.2564|-89.0972|Los Amates|Izabal|3417|
+14.5480|-90.6748|Magdalena Milpas Altas|Sacatepéquez|11856|
+14.9113|-92.0579|Malacatán|San Marcos|92816|
+15.2446|-91.4990|Malacatancito|Huehuetenango|2121|
+14.2031|-90.8481|Masagua|Escuintla|45323|
+14.5292|-90.1842|Mataquescuintla|Jalapa|7539|
+14.5342|-91.5033|Mazatenango|Suchitepéquez|77431|
+17.0661|-89.1523|Melchor de Mencos|Petén|11457|
+14.6308|-90.6071|Mixco|Guatemala|465773|
+15.0444|-91.4086|Momostenango|Totonicapán|31739|
+14.5000|-89.8667|Monjas|Jalapa|13541|
+15.4833|-88.8167|Morales|Izabal|18994|
+14.9328|-90.1431|Morazán|El Progreso|2554|
+14.0386|-90.0808|Moyuta|Jutiapa|8145|
+14.8112|-91.4835|Municipio de Almolonga|Quetzaltenango|0|
+14.4649|-90.8277|Municipio de Alotenango|Sacatepéquez|0|
+14.5431|-90.7268|Municipio de Antigua Guatemala|Sacatepéquez|0|
+14.3033|-89.6762|Municipio de Asunción Mita|Jutiapa|0|
+15.1030|-91.6492|Municipio de Cabricán|Quetzaltenango|0|
+15.1955|-90.8597|Municipio de Canillá|Quiché|0|
+14.8166|-91.4378|Municipio de Cantel|Quetzaltenango|0|
+14.3785|-90.1726|Municipio de Casillas|Santa Rosa|0|
+15.4871|-91.0379|Municipio de Chajul|Quiché|0|
+15.3483|-90.7994|Municipio de Chicaman|Quiché|0|
+15.0120|-91.0384|Municipio de Chiché|Quiché|0|
+14.8920|-91.0881|Municipio de Chichicastenango|Quiché|0|
+15.0695|-91.0180|Municipio de Chinique|Quiché|0|
+14.0972|-90.3790|Municipio de Chiquimulilla|Santa Rosa|0|
+14.5080|-90.7703|Municipio de Ciudad Vieja|Sacatepéquez|0|
+14.6431|-91.9793|Municipio de Coatepeque|Quetzaltenango|0|
+14.7100|-91.7469|Municipio de Colomba|Quetzaltenango|0|
+14.8462|-91.6185|Municipio de Concepción Chiquirichapa|Quetzaltenango|0|
+15.2880|-91.8674|Municipio de Concepción Tutuapa|San Marcos|0|
+15.3631|-91.0189|Municipio de Cunén|Quiché|0|
+16.9238|-89.8971|Municipio de Flores|Petén|0|
+14.6324|-91.8634|Municipio de Flores Costa Cuca|Quetzaltenango|0|
+14.0179|-90.4340|Municipio de Guazacapán|Santa Rosa|0|
+15.9833|-90.7667|Municipio de Ixcan|Quiché|0|
+14.6327|-90.0330|Municipio de Jalapa|Jalapa|0|
+14.5866|-90.7358|Municipio de Jocotenango|Sacatepéquez|0|
+14.9807|-90.8208|Municipio de Joyabaj|Quiché|0|
+14.5421|-90.6755|Municipio de Magdalena Milpas Altas|Sacatepéquez|0|
+14.9183|-92.1055|Municipio de Malacatán|San Marcos|0|
+14.5478|-90.2001|Municipio de Mataquescuintla|Jalapa|0|
+15.0473|-91.4063|Municipio de Momostenango|Totonicapán|0|
+15.4449|-88.7665|Municipio de Morales|Izabal|0|
+14.7755|-91.4162|Municipio de Nahualá|Sololá|0|
+14.9180|-90.6544|Municipio de Pachalum|Quiché|0|
+14.7468|-91.1493|Municipio de Panajachel|Sololá|0|
+14.9710|-91.1972|Municipio de Patzité|Quiché|0|
+16.3569|-89.5891|Municipio de Poptún|Petén|0|
+15.7175|-88.5852|Municipio de Puerto Barrios|Izabal|0|
+17.4954|-90.3988|Municipio de San Andrés|Petén|0|
+15.2253|-90.9302|Municipio de San Andrés Sajcabajá|Quiché|0|
+15.0490|-91.2087|Municipio de San Antonio Ilotenango|Quiché|0|
+14.5184|-91.4044|Municipio de San Antonio Suchitepéquez|Suchitepéquez|0|
+16.9129|-89.9098|Municipio de San Benito|Petén|0|
+14.6301|-91.6026|Municipio de San Felipe|Retalhuleu|0|
+16.7243|-89.9088|Municipio de San Francisco|Petén|0|
+15.4270|-91.0210|Municipio de San Juan Cotzal|Quiché|0|
+14.8748|-91.6884|Municipio de San Juan Ostuncalco|Quetzaltenango|0|
+14.5053|-91.3596|Municipio de San Miguel Panán|Suchitepéquez|0|
+15.1547|-91.1561|Municipio de San Pedro Jocopilas|Quiché|0|
+16.7731|-89.6688|Municipio de Santa Ana|Petén|0|
+14.4732|-91.2469|Municipio de Santa Bárbara|Suchitepéquez|0|
+14.7179|-91.1306|Municipio de Santa Catarina Palopó|Sololá|0|
+14.7432|-91.2218|Municipio de Santa Cruz La Laguna|Sololá|0|
+14.5675|-90.6755|Municipio de Santa Lucía Milpas Altas|Sacatepéquez|0|
+15.0289|-91.3292|Municipio de Santa María Chiquimula|Totonicapán|0|
+14.4785|-90.6999|Municipio de Santa María de Jesús|Sacatepéquez|0|
+16.3316|-90.1634|Municipio de Sayaxché|Petén|0|
+15.1924|-91.6554|Municipio de Sipacapa|San Marcos|0|
+15.1564|-91.8246|Municipio de Tejutla|San Marcos|0|
+14.9019|-91.3200|Municipio de Totonicapán|Totonicapán|0|
+15.4439|-90.8440|Municipio de Uspantán|Quiché|0|
+15.0924|-90.8851|Municipio de Zacualpa|Quiché|0|
+14.8429|-91.3180|Nahualá|Sololá|27690|
+15.4061|-91.1468|Nebaj|Quiché|23301|
+15.8007|-91.7546|Nentón|Huehuetenango|2530|
+14.2000|-91.3000|Nueva Concepción|Escuintla|11121|
+14.3811|-90.2761|Nueva Santa Rosa|Santa Rosa|10130|
+14.7917|-91.9195|Nuevo Progreso|San Marcos|8113|
+14.5930|-91.6939|Nuevo San Carlos|Retalhuleu|39565|
+14.5100|-92.1930|Ocós|San Marcos|4417|
+14.8860|-91.5147|Olintepeque|Quetzaltenango|0|
+14.6923|-89.3500|Olopa|Chiquimula|1690|
+14.2281|-90.1758|Oratorio|Santa Rosa|10155|
+14.8690|-91.6214|Ostuncalco|Quetzaltenango|51828|
+14.9247|-90.6628|Pachalum|Quiché|2344|
+14.7215|-92.0352|Pajapita|San Marcos|8164|
+14.6671|-90.3572|Palencia|Guatemala|18574|
+14.9334|-91.6940|Palestina de los Altos|Quetzaltenango|1691|
+14.4036|-90.6966|Palín|Escuintla|65873|
+14.7418|-91.1568|Panajachel|Sololá|11142|
+15.4000|-89.6667|Panzós|Alta Verapaz|71846|
+14.6089|-90.8030|Parramos|Chimaltenango|9613|
+13.9772|-90.2064|Pasaco|Jutiapa|1873|
+14.5943|-90.7547|Pastores|Sacatepéquez|12621|
+14.4232|-91.1605|Patulul|Suchitepéquez|40683|
+14.6319|-90.9266|Patzicía|Chimaltenango|21249|
+14.9643|-91.2079|Patzité|Quiché|1003|
+14.6819|-91.0140|Patzún|Chimaltenango|58240|
+14.5019|-90.5620|Petapa|Guatemala|135447|
+15.9333|-90.7333|Playa Grande|Quiché|0|
+14.5445|-91.0890|Pochuta|Chimaltenango|3879|
+16.3311|-89.4169|Poptún|Petén|17320|
+14.6471|-91.5395|Pueblo Nuevo|Suchitepéquez|3116|
+14.2258|-90.4761|Pueblo Nuevo Viñas|Santa Rosa|4211|
+15.7278|-88.5944|Puerto Barrios|Izabal|100593|
+13.9274|-90.8217|Puerto San José|Escuintla|18655|
+15.2667|-90.2000|Purulhá|Baja Verapaz|5370|
+14.2703|-90.0403|Quesada|Jutiapa|2250|
+14.8347|-91.5181|Quetzaltenango|Quetzaltenango|180706|
+14.6355|-89.4424|Quezaltepeque|Chiquimula|4126|
+15.0853|-90.4925|Rabinal|Baja Verapaz|15157|
+14.5361|-91.6778|Retalhuleu|Retalhuleu|90505|
+15.0382|-91.6846|Río Blanco|San Marcos|829|
+14.4004|-91.3171|Río Bravo|Suchitepéquez|7568|
+15.2880|-91.0891|Sacapulas|Quiché|12088|
+15.1028|-90.3181|Salamá|Baja Verapaz|65275|
+14.8796|-91.4570|Salcajá|Quetzaltenango|19434|
+14.5808|-91.4613|Samayac|Quetzaltenango|8994|
+14.9500|-89.9667|San Agustín Acasaguastlán|El Progreso|10335|
+16.9667|-89.9167|San Andrés|Petén|7235|
+14.6222|-90.8431|San Andrés Itzapa|Chimaltenango|24992|
+15.1760|-90.9422|San Andrés Sajcabajá|Quiché|1988|
+14.7450|-91.1334|San Andrés Semetabaj|Sololá|2605|
+14.5780|-91.5854|San Andrés Villa Seca|Retalhuleu|5102|
+14.9048|-91.4831|San Andrés Xecul|Totonicapán|15074|
+14.5468|-90.7805|San Antonio Aguas Calientes|Sacatepéquez|7811|
+15.6501|-91.7716|San Antonio Huista|Huehuetenango|5669|
+15.0547|-91.2299|San Antonio Ilotenango|Quiché|2021|
+14.7589|-90.2849|San Antonio La Paz|El Progreso|7781|
+14.6923|-91.1164|San Antonio Palopó|Sololá|3588|
+14.9606|-91.7315|San Antonio Sacatepéquez|San Marcos|1658|
+14.5394|-91.4144|San Antonio Suchitepéquez|Suchitepéquez|13666|
+14.7883|-90.1988|Sanarate|El Progreso|15843|
+15.0844|-91.4561|San Bartolo|Totonicapán|1290|
+15.1915|-91.0781|San Bartolomé Jocotenango|Quiché|1620|
+14.6069|-90.6781|San Bartolomé Milpas Altas|Sacatepéquez|6261|
+16.9168|-89.9190|San Benito|Petén|30764|
+14.5424|-91.4581|San Bernardino|Suchitepéquez|5501|
+14.9844|-91.5491|San Carlos Sija|Quetzaltenango|6831|
+14.9167|-89.8833|San Cristóbal Acasaguastlán|El Progreso|2171|
+14.9050|-91.7812|San Cristóbal Cucho|San Marcos|9152|
+14.9168|-91.4406|San Cristóbal Totonicapán|Totonicapán|4191|
+15.3963|-90.5651|San Cristóbal Verapaz|Alta Verapaz|19664|
+14.6230|-91.5950|San Felipe|Retalhuleu|24446|
+16.8000|-89.9333|San Francisco|Petén|3954|
+14.9449|-91.4431|San Francisco El Alto|Totonicapán|57894|
+14.9235|-91.5416|San Francisco la Unión|Quetzaltenango|1170|
+14.5894|-91.5214|San Francisco Zapotitlán|Suchitepéquez|22533|
+14.5108|-91.5075|San Gabriel|Suchitepéquez|4118|
+15.3880|-91.7256|San Gaspar Ixchil|Huehuetenango|551|
+14.6667|-89.5000|San Jacinto|Chiquimula|1519|
+15.0603|-90.2405|San Jerónimo|Baja Verapaz|8093|
+16.9833|-89.9000|San José|Petén|1201|
+14.2653|-90.1269|San José Acatempa|Jutiapa|6367|
+14.7710|-91.2156|San José Chacayá|Sololá|839|
+14.7641|-90.3723|San José del Golfo|Guatemala|4908|
+14.4502|-91.4222|San José El Ídolo|Suchitepéquez|2412|
+14.7167|-89.5833|San José La Arada|Chiquimula|2361|
+15.2344|-91.9732|San José Ojetenam|San Marcos|0|
+15.2167|-91.9667|San José Ojetenán|San Marcos|1269|
+14.5460|-90.4129|San José Pinula|Guatemala|79844|
+14.8181|-90.9125|San José Poaquil|Chimaltenango|5987|
+15.4289|-91.6240|San Juan Atitán|Huehuetenango|1910|
+14.4227|-91.1790|San Juan Bautista|Suchitepéquez|2680|
+15.4333|-90.3333|San Juan Chamelco|Alta Verapaz|13264|
+15.4337|-91.0348|San Juan Cotzal|Quiché|11046|
+14.7647|-89.4301|San Juan Ermita|Chiquimula|1623|
+15.6002|-91.4464|San Juan Ixcoy|Huehuetenango|2535|
+14.6945|-91.2867|San Juan La Laguna|Sololá|4608|
+14.7189|-90.6442|San Juan Sacatepéquez|Guatemala|136886|
+14.0836|-90.2665|San Juan Tecuaco|Santa Rosa|2210|
+15.0309|-91.7353|San Lorenzo|San Marcos|945|
+14.4861|-91.5126|San Lorenzo|Suchitepéquez|2165|
+14.6107|-90.6568|San Lucas Sacatepéquez|Sacatepéquez|20723|
+14.5947|-91.1466|San Lucas Tolimán|Sololá|14545|
+16.1989|-89.4403|San Luis|Petén|6776|
+15.7872|-91.0950|San Luis Ixcán|Quiché|0|
+14.6500|-89.7333|San Luis Jilotepeque|Jalapa|24679|
+14.5167|-89.7667|San Manuel Chaparrón|Jalapa|2624|
+14.9639|-91.7944|San Marcos|San Marcos|47063|
+14.7250|-91.2584|San Marcos La Laguna|Sololá|2681|
+14.7801|-90.7926|San Martín Jilotepeque|Chimaltenango|9846|
+14.8244|-91.6419|San Martín Sacatepéquez|Quetzaltenango|3658|
+14.6079|-91.6061|San Martín Zapotitlán|Retalhuleu|4419|
+14.8580|-91.5900|San Mateo|Quetzaltenango|5534|
+15.8319|-91.4781|San Mateo Ixtatán|Huehuetenango|13213|
+15.7040|-91.5977|San Miguel Acatán|Huehuetenango|2773|
+15.0947|-90.3944|San Miguel Chicaj|Baja Verapaz|13747|
+14.5224|-90.7994|San Miguel Dueñas|Sacatepéquez|8424|
+15.2725|-91.7478|San Miguel Ixtahuacán|San Marcos|3662|
+14.5287|-91.3673|San Miguel Panán|Suchitepéquez|2024|
+14.8955|-91.6146|San Miguel Sigüilá|Quetzaltenango|7551|
+14.9327|-92.0041|San Pablo|San Marcos|13668|
+14.5888|-91.4519|San Pablo Jocopilas|Suchitepéquez|20433|
+14.7209|-91.2724|San Pablo La Laguna|Sololá|6186|
+14.7794|-90.4532|San Pedro Ayampuc|Guatemala|58609|
+15.4833|-90.2667|San Pedro Carchá|Alta Verapaz|16353|
+15.0953|-91.1513|San Pédro Jocopilas|Quiché|1040|
+14.6930|-91.2720|San Pedro La Laguna|Sololá|9681|
+15.4914|-91.7655|San Pedro Necta|Huehuetenango|3554|
+14.6667|-89.8500|San Pedro Pinula|Jalapa|3302|
+14.6861|-90.6425|San Pedro Sacatepéquez|Guatemala|14315|
+14.9681|-91.7617|San Pedro Sacatepéquez|San Marcos|40021|
+15.7015|-91.5355|San Rafael La Independencia|Huehuetenango|1059|
+14.4814|-90.1733|San Rafael Las Flores|Santa Rosa|2572|
+15.4049|-91.6645|San Rafael Petzal|Huehuetenango|1525|
+14.9305|-91.9139|San Rafael Pie de la Cuesta|San Marcos|4320|
+14.7646|-90.5949|San Raimundo|Guatemala|8689|
+14.7457|-90.1162|Sansare|El Progreso|3792|
+14.5618|-91.6487|San Sebastián|Retalhuleu|29167|
+15.7358|-91.5628|San Sebastián Coatán|Huehuetenango|801|
+15.3877|-91.6153|San Sebastián Huehuetenango|Huehuetenango|1311|
+16.8000|-89.8333|Santa Ana|Petén|9523|
+15.6808|-91.8200|Santa Ana Huista|Huehuetenango|2004|
+14.7905|-90.9727|Santa Apolonia|Chimaltenango|2396|
+15.3162|-91.6328|Santa Bárbara|Huehuetenango|888|
+14.4356|-91.2268|Santa Bárbara|Suchitepéquez|17172|
+14.5513|-90.7860|Santa Catarina Barahona|Sacatepéquez|3214|
+14.7980|-91.3587|Santa Catarina Ixtahuacán|Sololá|14734|
+14.4500|-89.7500|Santa Catarina Mita|Jutiapa|10817|
+14.7233|-91.1343|Santa Catarina Palopó|Sololá|2948|
+14.5705|-90.4993|Santa Catarina Pinula|Guatemala|80582|
+14.7151|-91.3036|Santa Clara La Laguna|Sololá|5306|
+14.6852|-90.9191|Santa Cruz Balanyá|Chimaltenango|7825|
+15.0308|-91.1487|Santa Cruz del Quiché|Quiché|78279|
+14.7442|-91.2072|Santa Cruz La Laguna|Sololá|1422|
+14.5815|-91.6244|Santa Cruz Muluá|Retalhuleu|2706|
+14.3881|-90.3697|Santa Cruz Naranjo|Santa Rosa|6254|
+15.3667|-90.4333|Santa Cruz Verapaz|Alta Verapaz|5843|
+15.7306|-91.4585|Santa Eulalia|Huehuetenango|4921|
+14.3351|-91.0234|Santa Lucía Cotzumalguapa|Escuintla|112780|
+15.1282|-91.2362|Santa Lucia La Reforma|Totonicapán|1406|
+14.5765|-90.6763|Santa Lucía Milpas Altas|Sacatepéquez|12234|
+14.7713|-91.2670|Santa Lucía Utatlán|Sololá|1305|
+15.0299|-91.3292|Santa María Chiquimula|Totonicapán|6980|
+14.4945|-90.7104|Santa María de Jesús|Sacatepéquez|21795|
+14.1900|-90.2747|Santa María Ixhuatán|Santa Rosa|3634|
+14.7172|-91.3084|Santa María Visitación|Sololá|1487|
+14.3881|-90.2956|Santa Rosa de Lima|Santa Rosa|5984|
+14.6382|-91.2290|Santiago Atitlán|Sololá|33309|
+15.4766|-91.6966|Santiago Chimaltenango|Huehuetenango|3020|
+14.6351|-90.6765|Santiago Sacatepéquez|Sacatepéquez|29238|
+14.4790|-91.4833|Santo Domingo Suchitepéquez|Suchitepéquez|6270|
+14.6806|-90.7001|Santo Domingo Xenacoj|Sacatepéquez|8791|
+14.6322|-91.4107|Santo Tomás La Unión|Suchitepéquez|7081|
+14.4147|-90.6361|San Vicente Pacaya|Escuintla|7162|
+16.5245|-90.1880|Sayaxché|Petén|9100|
+15.4000|-89.8333|Senahú|Alta Verapaz|12084|
+14.9939|-91.6237|Sibilia|Quetzaltenango|1180|
+15.1496|-92.0489|Sibinal|San Marcos|1657|
+15.2125|-91.6342|Sipacapa|San Marcos|661|
+14.3061|-90.9650|Siquinalá|Escuintla|0|
+14.7722|-91.1833|Sololá|Sololá|45373|
+15.6584|-91.4299|Soloma|Huehuetenango|49030|
+14.6462|-90.7343|Sumpango|Sacatepéquez|28488|
+15.2406|-92.0672|Tacaná|San Marcos|6438|
+15.3222|-90.3545|Tactic|Alta Verapaz|8999|
+15.0835|-91.9223|Tajumulco|San Marcos|4329|
+15.3089|-90.2360|Tamahú|Alta Verapaz|1012|
+14.0672|-90.4679|Taxisco|Santa Rosa|6518|
+14.7618|-90.9925|Tecpán Guatemala|Chimaltenango|34519|
+15.3063|-92.0605|Tectitán|Huehuetenango|743|
+15.1225|-91.8063|Tejutla|San Marcos|2653|
+14.2836|-91.3606|Tiquisate|Escuintla|18189|
+15.5085|-91.6038|Todos Santos Cuchumatán|Huehuetenango|3289|
+14.9117|-91.3611|Totonicapán|Totonicapán|103952|
+15.3000|-90.0667|Tucurú|Alta Verapaz|4772|
+15.3467|-90.8705|Uspantán|Quiché|6664|
+14.4828|-90.5343|Villa Canales|Guatemala|155423|
+14.5251|-90.5854|Villa Nueva|Guatemala|618397|
+14.5020|-90.9540|Yepocapa|Chimaltenango|34948|
+14.2000|-89.7833|Yupiltepeque|Jutiapa|3028|
+14.9687|-89.5273|Zacapa|Zacapa|60424|
+15.0268|-90.8782|Zacualpa|Quiché|9241|
+14.1333|-89.8333|Zapotitlán|Jutiapa|1617|
+14.6497|-90.8903|Zaragoza|Chimaltenango|24022|
+14.7846|-91.4835|Zunil|Quetzaltenango|14118|
+14.6126|-91.5098|Zunilito|Suchitepéquez|2745|

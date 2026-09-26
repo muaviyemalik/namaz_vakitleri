@@ -1,155 +1,156 @@
--26.0333|-55.9333|Abaí
--25.9167|-57.1500|Acahay
--19.9838|-59.7584|Agua Dulce de Santa María
--25.2626|-57.2544|Altos
--24.0853|-57.2022|Antequera
--25.3125|-57.3847|Areguá
--26.4833|-55.2500|Arquitecto Tomás Romero Pereira
--25.0548|-57.0987|Arroyos y Esteros
--25.2865|-57.6470|Asunción
--25.2788|-57.1719|Atyrá
--20.2286|-58.1678|Bahía Negra
--23.4661|-57.2619|Belén
--22.1333|-56.5167|Bella Vista
--24.9667|-57.5667|Benjamín Aceval
--26.1839|-56.0817|Buena Vista
--25.3858|-57.1422|Caacupé
--25.4710|-56.0160|Caaguazú
--26.2352|-57.1821|Caapucú
--26.1958|-56.3681|Caazapá
--25.3552|-57.4455|Capiatá
--24.8000|-56.0333|Capiíbary
--23.2667|-55.5333|Capitán Bado
--21.6783|-57.9146|Capitán Carmelo Peralta
--27.2000|-55.8000|Capitán Miranda
--19.9167|-60.7833|Capitán Pablo Lagerenza
--25.2384|-56.8269|Caraguatay
--25.8000|-57.2333|Carapeguá
--25.1975|-56.3988|Carayaó
--27.2223|-56.1524|Carmen del Paraná
--25.0716|-56.2439|Cecilio Baez
--25.6567|-54.7227|Cedrales
--27.3422|-57.6412|Cerrito
--25.5097|-54.6111|Ciudad del Este
--26.3985|-54.7569|Colonia Carlos Antonio López
--24.1333|-54.6167|Colonia Catuete
--25.3639|-55.7069|Colonia General Alfredo Stroessner
--25.5667|-56.2833|Colonia Mauricio José Troche
--22.3667|-59.8167|Colonia Menno
--24.8667|-54.9000|Colonia Minga Porá
--22.6667|-60.1167|Colonia Neuland
--23.9114|-56.7009|Colonia Nueva Germania
--26.4932|-54.7999|Colonia San Lorenzo
--23.3999|-57.4324|Concepción
--25.7586|-56.6168|Coronel Martínez
--25.4444|-56.4403|Coronel Oviedo
--24.0804|-54.9393|Corpus Christi
--25.3718|-55.7046|Doctor Juan Eulogio Estigarribia
--25.4305|-55.2541|Doctor Juan León Mallorquín
--25.3838|-55.8321|Doctor Juan Manuel Frutos
--26.7673|-55.2787|Edelira
--25.1500|-57.3500|Emboscada
--27.3306|-55.8667|Encarnación
--25.3828|-56.9609|Eusebio Ayala
--25.3386|-57.5217|Fernando de la Mora
--22.3394|-60.0316|Filadelfia
--22.7833|-59.9500|Fortín Boquerón
--20.5167|-62.1333|Fortín General Eugenio Garay
--26.9833|-55.8833|Fram
--21.0415|-57.8738|Fuerte Olimpo
--26.9352|-56.2217|General Artigas
--27.0905|-56.5247|General Delgado
--24.4442|-56.9006|General Elizardo Aquino
--25.9500|-55.9167|General Higinio Morínigo
--27.2014|-58.3674|General José Eduvigis Díaz
--25.4910|-57.4557|Guarambaré
--24.5333|-56.4333|Guayaybi
--27.0731|-55.6425|Hohenau
--23.3428|-57.0597|Horqueta
--25.6910|-56.2678|Independencia
--25.3085|-56.8999|Isla Pucú
--25.5005|-57.3672|Itá
--25.4616|-56.8533|Itacurubí de la Cordillera
--24.5354|-56.8235|Itacurubí del Rosario
--24.9861|-55.1496|Itakyry
--25.8517|-56.6138|Itapé
--25.3926|-57.3542|Itauguá
--26.0551|-56.4846|Iturbe
--27.0560|-55.7413|Jesús
--27.3866|-56.8472|Juan de Ayolas
--25.4439|-57.4430|Julián Augusto Saldívar
--25.8863|-56.8408|La Colmena
--25.3468|-57.6065|Lambaré
--24.1296|-54.6138|La Paloma
--23.8833|-56.4822|Lima
--25.1661|-57.4856|Limpio
--22.3829|-59.8355|Loma Plata
--25.2665|-57.4927|Luque
--25.2079|-57.5320|Mariano Roque Alonso
--22.0306|-60.6111|Mariscal José Félix Estigarribia
--25.7194|-56.4218|Mbocayaty
--24.9752|-56.3093|Mbutuý
--26.2192|-56.7578|Mbuyapey
--25.2793|-57.7031|Nanawua
--25.9667|-55.1833|Naranjal
--25.6333|-56.3000|Natalicio Talavera
--26.7570|-55.1378|Natalio
--25.3949|-57.5357|Nemby
--24.5076|-54.8551|Nueva Esperanza
--25.6108|-57.4656|Nueva Italia
--27.0333|-55.6333|Obligado
--25.6208|-57.1472|Paraguarí
--22.5472|-55.7333|Pedro Juan Caballero
--26.8587|-58.3064|Pilar
--26.8601|-55.5436|Pirapó
--25.4841|-57.2349|Pirayú
--25.4650|-57.0418|Piribebuy
--25.5638|-54.6110|Presidente Franco
--22.2900|-57.9400|Puerto Casado
--26.4000|-54.7000|Puerto Mayor Otaño
--24.4413|-57.1427|Puerto Rosario
--25.9761|-57.2335|Quiindy
--25.5333|-55.9500|Repatriación
--24.0625|-54.3069|Salto del Guairá
--24.9667|-54.9000|San Alberto
--25.4213|-57.5472|San Antonio
--25.3107|-57.2963|San Bernardino
--27.3174|-56.3309|San Cosme y Damián
--24.4718|-55.6923|San Isidro de Curuguaty
--25.0285|-56.0428|San Joaquín
--25.5333|-56.7333|San José
--26.6694|-57.1458|San Juan Bautista
--27.3017|-55.9651|San Juan del Paraná
--26.1123|-55.9386|San Juan Nepomuceno
--25.3397|-57.5088|San Lorenzo
--26.5000|-57.0500|San Miguel
--26.9667|-56.8167|San Patricio
--26.8327|-56.2058|San Pedro del Paraná
--24.0853|-57.0874|San Pedro de Ycuamandiyú
--25.4133|-56.7971|Santa Elena
--26.7833|-56.9333|Santa María
--25.7833|-55.0667|Santa Rita
--26.8873|-56.8490|Santa Rosa Misiones
--27.1431|-56.7680|Santiago
--25.6665|-56.9522|Sapucaí
--23.4500|-56.5833|Tacuatí
--25.2611|-57.0833|Tobatí
--27.1167|-55.7833|Trinidad
--24.8079|-56.5215|Unión
--25.3676|-57.5927|Villa Elisa
--26.3833|-57.1500|Villa Florida
--25.0931|-57.5236|Villa Hayes
--26.0200|-57.8700|Villa Oliva
--25.7495|-56.4352|Villarrica
--25.5045|-57.5694|Villeta
--25.5614|-57.2834|Yaguarón
--24.8333|-56.3500|Yataity del Norte
--26.0167|-57.0500|Ybycuí
--22.9661|-56.5407|Yby Yaú
--26.4500|-56.4000|Yegros
--24.1237|-55.6442|Ygatimi
--25.4619|-55.0001|Yguazú
--25.0578|-55.9227|Yhú
--25.4078|-57.2889|Ypacarai
--25.4574|-57.5093|Ypané
--26.6147|-56.2461|Yuty
+-26.0333|-55.9333|Abaí|Caazapá|3024|
+-25.9167|-57.1500|Acahay|Paraguarí|3205|
+-19.9838|-59.7584|Agua Dulce de Santa María|Alto Paraguay|0|
+-25.2626|-57.2544|Altos|Cordillera|4763|
+-24.0853|-57.2022|Antequera|San Pedro|2701|
+-25.3125|-57.3847|Areguá|Central|11222|
+-26.4833|-55.2500|Arquitecto Tomás Romero Pereira|Itapúa|0|
+-25.0548|-57.0987|Arroyos y Esteros|Cordillera|2455|
+-25.2865|-57.6470|Asunción|Asuncion|1482200|
+-25.2788|-57.1719|Atyrá|Cordillera|4768|
+-20.2286|-58.1678|Bahía Negra|Alto Paraguay|0|
+-23.4661|-57.2619|Belén|Concepción|1621|
+-22.1333|-56.5167|Bella Vista|Amambay|5653|
+-27.0500|-55.5500|Bella Vista|Itapúa|2334|
+-24.9667|-57.5667|Benjamín Aceval|Presidente Hayes|7751|
+-26.1839|-56.0817|Buena Vista|Caazapá|1580|
+-25.3858|-57.1422|Caacupé|Cordillera|56864|
+-25.4710|-56.0160|Caaguazú|Caaguazú|54808|
+-26.2352|-57.1821|Caapucú|Paraguarí|2284|
+-26.1958|-56.3681|Caazapá|Caazapá|23996|
+-25.3552|-57.4455|Capiatá|Central|198553|
+-24.8000|-56.0333|Capiíbary|San Pedro|3537|
+-23.2667|-55.5333|Capitán Bado|Amambay|9114|
+-21.6783|-57.9146|Capitán Carmelo Peralta|Alto Paraguay|0|
+-27.2000|-55.8000|Capitán Miranda|Itapúa|2498|
+-19.9167|-60.7833|Capitán Pablo Lagerenza|Alto Paraguay|1200|
+-25.2384|-56.8269|Caraguatay|Cordillera|1637|
+-25.8000|-57.2333|Carapeguá|Paraguarí|5784|
+-25.1975|-56.3988|Carayaó|Caaguazú|2473|
+-27.2223|-56.1524|Carmen del Paraná|Itapúa|4196|
+-25.0716|-56.2439|Cecilio Baez|Caaguazú|0|
+-25.6567|-54.7227|Cedrales|Alto Paraná|0|
+-27.3422|-57.6412|Cerrito|Ñeembucú|1036|
+-25.5097|-54.6111|Ciudad del Este|Alto Paraná|301815|
+-26.3985|-54.7569|Colonia Carlos Antonio López|Itapúa|0|
+-24.1333|-54.6167|Colonia Catuete|Canindeyú|0|
+-25.3639|-55.7069|Colonia General Alfredo Stroessner|Caaguazú|11558|
+-25.5667|-56.2833|Colonia Mauricio José Troche|Guairá|2368|
+-22.3667|-59.8167|Colonia Menno|Boquerón|5615|
+-24.8667|-54.9000|Colonia Minga Porá|Alto Paraná|0|
+-22.6667|-60.1167|Colonia Neuland|Boquerón|2816|
+-23.9114|-56.7009|Colonia Nueva Germania|San Pedro|1206|
+-26.4932|-54.7999|Colonia San Lorenzo|Itapúa|2000|
+-23.3999|-57.4324|Concepción|Concepción|48123|
+-25.7586|-56.6168|Coronel Martínez|Guairá|1359|
+-25.4444|-56.4403|Coronel Oviedo|Caaguazú|51286|
+-24.0804|-54.9393|Corpus Christi|Canindeyú|1387|
+-25.3718|-55.7046|Doctor Juan Eulogio Estigarribia|Caaguazú Department|38894|
+-25.4305|-55.2541|Doctor Juan León Mallorquín|Alto Paraná|7481|
+-25.3838|-55.8321|Doctor Juan Manuel Frutos|Caaguazú|4797|
+-26.7673|-55.2787|Edelira|Itapúa|1698|
+-25.1500|-57.3500|Emboscada|Cordillera|5911|
+-27.3306|-55.8667|Encarnación|Itapúa|74983|
+-25.3828|-56.9609|Eusebio Ayala|Cordillera|8253|
+-25.3386|-57.5217|Fernando de la Mora|Central|120167|
+-22.3394|-60.0316|Filadelfia|Boquerón|19927|
+-22.7833|-59.9500|Fortín Boquerón|Boquerón|0|
+-20.5167|-62.1333|Fortín General Eugenio Garay|Boquerón|0|
+-26.9833|-55.8833|Fram|Itapúa|3916|
+-21.0415|-57.8738|Fuerte Olimpo|Alto Paraguay|2475|
+-26.9352|-56.2217|General Artigas|Itapúa|4073|
+-27.0905|-56.5247|General Delgado|Itapúa|0|
+-24.4442|-56.9006|General Elizardo Aquino|San Pedro|2983|
+-25.9500|-55.9167|General Higinio Morínigo|Caazapá|1399|
+-27.2014|-58.3674|General José Eduvigis Díaz|Ñeembucú|1345|
+-25.4910|-57.4557|Guarambaré|Central|9065|
+-24.5333|-56.4333|Guayaybi|San Pedro|0|
+-27.0731|-55.6425|Hohenau|Itapúa|5306|
+-23.3428|-57.0597|Horqueta|Concepción|10531|
+-25.6910|-56.2678|Independencia|Guairá|1575|
+-25.3085|-56.8999|Isla Pucú|Cordillera|1529|
+-25.5005|-57.3672|Itá|Central|18459|
+-25.4616|-56.8533|Itacurubí de la Cordillera|Cordillera|3576|
+-24.5354|-56.8235|Itacurubí del Rosario|San Pedro|3887|
+-24.9861|-55.1496|Itakyry|Alto Paraná|3038|
+-25.8517|-56.6138|Itapé|Guairá|1641|
+-25.3926|-57.3542|Itauguá|Central|64997|
+-26.0551|-56.4846|Iturbe|Guairá|4475|
+-27.0560|-55.7413|Jesús|Itapúa|2530|
+-27.3866|-56.8472|Juan de Ayolas|Misiones|0|
+-25.4439|-57.4430|Julián Augusto Saldívar|Central|0|
+-25.8863|-56.8408|La Colmena|Paraguarí|2551|
+-25.3468|-57.6065|Lambaré|Central|126377|
+-24.1296|-54.6138|La Paloma|Canindeyú|0|
+-23.8833|-56.4822|Lima|San Pedro|10367|
+-25.1661|-57.4856|Limpio|Central|96143|
+-22.3829|-59.8355|Loma Plata|Boquerón Department|16460|
+-25.2665|-57.4927|Luque|Central|0|
+-25.2079|-57.5320|Mariano Roque Alonso|Central|72008|
+-22.0306|-60.6111|Mariscal José Félix Estigarribia|Boquerón|0|
+-25.7194|-56.4218|Mbocayaty|Guairá|2296|
+-24.9752|-56.3093|Mbutuý|Caaguazú|1466|
+-26.2192|-56.7578|Mbuyapey|Paraguarí|2201|
+-25.2793|-57.7031|Nanawua|Presidente Hayes|0|
+-25.9667|-55.1833|Naranjal|Alto Paraná|2151|
+-25.6333|-56.3000|Natalicio Talavera|Guairá|1809|
+-26.7570|-55.1378|Natalio|Itapúa|2252|
+-25.3949|-57.5357|Nemby|Central|94641|
+-24.5076|-54.8551|Nueva Esperanza|Canindeyú|12717|
+-25.6108|-57.4656|Nueva Italia|Central|2841|
+-27.0333|-55.6333|Obligado|Itapúa|6350|
+-25.6208|-57.1472|Paraguarí|Paraguarí|10079|
+-22.5472|-55.7333|Pedro Juan Caballero|Amambay|75109|
+-26.8587|-58.3064|Pilar|Ñeembucú|32810|
+-26.8601|-55.5436|Pirapó|Itapúa|1756|
+-25.4841|-57.2349|Pirayú|Paraguarí|4000|
+-25.4650|-57.0418|Piribebuy|Cordillera|10337|
+-25.5638|-54.6110|Presidente Franco|Alto Paraná|54292|
+-22.2900|-57.9400|Puerto Casado|Alto Paraguay|0|
+-26.4000|-54.7000|Puerto Mayor Otaño|Itapúa|4701|
+-24.4413|-57.1427|Puerto Rosario|San Pedro|5123|
+-25.9761|-57.2335|Quiindy|Paraguarí|5137|
+-25.5333|-55.9500|Repatriación|Caaguazú|7085|
+-24.0625|-54.3069|Salto del Guairá|Canindeyú|7385|
+-24.9667|-54.9000|San Alberto|Alto Paraná|4989|
+-25.4213|-57.5472|San Antonio|Central|55754|
+-25.3107|-57.2963|San Bernardino|Cordillera|4651|
+-27.3174|-56.3309|San Cosme y Damián|Itapúa|2223|
+-24.4718|-55.6923|San Isidro de Curuguaty|Canindeyú|11095|
+-25.0285|-56.0428|San Joaquín|Caaguazú|1745|
+-25.5333|-56.7333|San José|Caaguazú|0|
+-26.6694|-57.1458|San Juan Bautista|Misiones|16593|
+-27.3017|-55.9651|San Juan del Paraná|Itapúa|1492|
+-26.1123|-55.9386|San Juan Nepomuceno|Caazapá|7893|
+-25.3397|-57.5088|San Lorenzo|Central|227876|
+-26.5000|-57.0500|San Miguel|Misiones|1210|
+-26.9667|-56.8167|San Patricio|Misiones|1525|
+-26.8327|-56.2058|San Pedro del Paraná|Itapúa|5722|
+-24.0853|-57.0874|San Pedro de Ycuamandiyú|San Pedro|0|
+-25.4133|-56.7971|Santa Elena|Cordillera|1137|
+-26.7833|-56.9333|Santa María|Misiones|2095|
+-25.7833|-55.0667|Santa Rita|Alto Paraná|11823|
+-26.8873|-56.8490|Santa Rosa Misiones|Misiones|0|
+-27.1431|-56.7680|Santiago|Misiones|2144|
+-25.6665|-56.9522|Sapucaí|Paraguarí|1932|
+-23.4500|-56.5833|Tacuatí|San Pedro|2405|
+-25.2611|-57.0833|Tobatí|Cordillera|9952|
+-27.1167|-55.7833|Trinidad|Itapúa|2837|
+-24.8079|-56.5215|Unión|San Pedro|1653|
+-25.3676|-57.5927|Villa Elisa|Central|64099|
+-26.3833|-57.1500|Villa Florida|Misiones|2305|
+-25.0931|-57.5236|Villa Hayes|Presidente Hayes|57217|
+-26.0200|-57.8700|Villa Oliva|Ñeembucú|772|
+-25.7495|-56.4352|Villarrica|Guairá|41157|
+-25.5045|-57.5694|Villeta|Central|36985|
+-25.5614|-57.2834|Yaguarón|Paraguarí|7181|
+-24.8333|-56.3500|Yataity del Norte|San Pedro|1392|
+-26.0167|-57.0500|Ybycuí|Paraguarí|4629|
+-22.9661|-56.5407|Yby Yaú|Concepción|31290|
+-26.4500|-56.4000|Yegros|Caazapá|0|
+-24.1237|-55.6442|Ygatimi|Canindeyú|0|
+-25.4619|-55.0001|Yguazú|Alto Paraná|3363|
+-25.0578|-55.9227|Yhú|Caaguazú|2092|
+-25.4078|-57.2889|Ypacarai|Central|9655|
+-25.4574|-57.5093|Ypané|Central|0|
+-26.6147|-56.2461|Yuty|Caazapá|4774|

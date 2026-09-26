@@ -1,53 +1,53 @@
-25.9944|-9.5533|Ain Ben Tili
-16.6614|-9.6149|Aioun
-19.7466|-14.3853|Akjoujt
-17.0531|-13.9131|Aleg
-18.0464|-15.9719|Arafat
-20.5177|-13.0486|Atar
-16.6667|-9.6167|Ayoun el Atrous
-20.5676|-13.1119|Azougui
-16.6404|-12.4985|Barkéwol
-16.4167|-13.8000|Bofal
-16.5915|-14.2631|Bogué
-15.8670|-7.3692|Bougadoum
-17.5458|-14.6978|Boutilimitt
-20.8533|-17.0325|Cansado
-25.3719|-5.7867|Chegga
-20.4630|-12.3620|Chingueṭṭi
-18.0333|-15.9667|Dar-Naim
-16.2333|-7.4167|Diade
-15.5579|-11.1800|El ’Ayoûn
-17.0105|-13.9710|’Elb el Jmel
-16.6471|-12.6711|Elghabra
-22.6778|-12.7075|Fderîck
-17.0775|-12.0387|Guerou
-19.8494|-16.3308|Iouik
-16.1503|-13.5037|Kaédi
-16.0689|-6.4989|Kataouane
-16.6207|-11.4021|Kiffa
-18.1049|-15.9644|Ksar
-20.9333|-11.6167|Ksar el Khali
-16.7500|-14.8333|Legat
-17.5060|-13.0927|Magṭa‘ Laḥjar
-15.8561|-5.7907|Mbera
-17.9796|-13.3980|Moudjeria
-16.6170|-7.2565|Néma
-20.9419|-17.0384|Nouadhibou
-18.0858|-15.9785|Nouakchott
-18.0078|-15.9740|Riyad
-16.5138|-15.8050|Rosso
-18.0756|-16.0019|Sebkha
-15.1585|-12.1843|Sélibaby
-16.9542|-13.3792|Sori Malé
-16.6017|-15.3487|Tékane
-16.2414|-8.1732|Tembedgha
-18.1101|-15.9993|Tevragh-Zeina
-18.1290|-15.9378|Teyarett
-18.4969|-12.1220|Tichit
-18.5165|-12.9826|Tijigja
-16.2447|-8.1675|Timbedra
-17.4000|-10.3667|Togba
-18.0717|-15.9031|Toujouonine
-22.7344|-12.4725|Zouérat
-22.7354|-12.4713|Zouerate
-16.3946|-10.1737|Ṭinṭâne
+25.9944|-9.5533|Ain Ben Tili|Tiris Zemmour|0|
+16.6614|-9.6149|Aioun|Hodh El Gharbi|0|
+19.7466|-14.3853|Akjoujt|Inchiri|15851|
+17.0531|-13.9131|Aleg|Brakna|19183|
+18.0464|-15.9719|Arafat|Nouakchott-Sud|0|
+20.5177|-13.0486|Atar|Adrar|31133|
+16.6667|-9.6167|Ayoun el Atrous|Hodh El Gharbi|28174|
+20.5676|-13.1119|Azougui|Adrar|0|
+16.6404|-12.4985|Barkéwol|Assaba|3622|
+16.4167|-13.8000|Bofal|Brakna|0|
+16.5915|-14.2631|Bogué|Brakna|20291|
+15.8670|-7.3692|Bougadoum|Hodh Ech Chargi|40341|
+17.5458|-14.6978|Boutilimitt|Trarza|27170|
+20.8533|-17.0325|Cansado|Dakhlet Nouadhibou|0|
+25.3719|-5.7867|Chegga|Tiris Zemmour|0|
+20.4630|-12.3620|Chingueṭṭi|Adrar|4711|
+18.0333|-15.9667|Dar-Naim|Nouakchott-Nord|61089|
+16.2333|-7.4167|Diade|Hodh Ech Chargui|0|
+15.5579|-11.1800|El ’Ayoûn|Assaba|22896|
+17.0105|-13.9710|’Elb el Jmel|Brakna|1500|
+16.6471|-12.6711|Elghabra|Assaba|15480|
+22.6778|-12.7075|Fderîck|Tiris Zemmour|4073|
+17.0775|-12.0387|Guerou|Assaba|27590|
+19.8494|-16.3308|Iouik|Dakhlet Nouadhibou|0|
+16.1503|-13.5037|Kaédi|Gorgol|56283|
+16.0689|-6.4989|Kataouane|Hodh Ech Chargui|0|
+16.6207|-11.4021|Kiffa|Assaba|62051|
+18.1049|-15.9644|Ksar|Nouakchott-Ouest|57758|
+20.9333|-11.6167|Ksar el Khali|Adrar|0|
+16.7500|-14.8333|Legat|Trarza|0|
+17.5060|-13.0927|Magṭa‘ Laḥjar|Brakna|15446|
+15.8561|-5.7907|Mbera|Hodh Ech Chargi|58985|
+17.9796|-13.3980|Moudjeria|Tagant|1899|
+16.6170|-7.2565|Néma|Hodh Ech Chargui|60000|
+20.9419|-17.0384|Nouadhibou|Dakhlet Nouadhibou|146048|
+18.0858|-15.9785|Nouakchott||1184530|
+18.0078|-15.9740|Riyad|Nouakchott-Sud|0|
+16.5138|-15.8050|Rosso|Trarza|15870|
+18.0756|-16.0019|Sebkha|Nouakchott-Ouest|0|
+15.1585|-12.1843|Sélibaby|Guidimaka|32653|
+16.9542|-13.3792|Sori Malé|Brakna|0|
+16.6017|-15.3487|Tékane|Trarza|22041|
+16.2414|-8.1732|Tembedgha|Hodh Ech Chargi|17465|
+18.1101|-15.9993|Tevragh-Zeina|Nouakchott-Ouest|48093|
+18.1290|-15.9378|Teyarett|Nouakchott-Nord|0|
+18.4969|-12.1220|Tichit|Tagant|1580|
+18.5165|-12.9826|Tijigja|Tagant|0|
+16.2447|-8.1675|Timbedra|Hodh Ech Chargui|0|
+17.4000|-10.3667|Togba|Hodh El Gharbi|0|
+18.0717|-15.9031|Toujouonine|Nouakchott-Nord|0|
+22.7344|-12.4725|Zouérat|Tiris Zemmour|55183|
+22.7354|-12.4713|Zouerate|Tiris Zemmour|0|
+16.3946|-10.1737|Ṭinṭâne|Hodh El Gharbi|15684|

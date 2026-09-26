@@ -1,17 +1,17 @@
-15.2333|-61.3167|Berekua
-15.5930|-61.3490|Calibishie
-15.4440|-61.2572|Castle Bruce
-15.4848|-61.4622|Colihaut
-15.3277|-61.2475|La Plaine
-15.3636|-61.3970|Mahaut
-15.5389|-61.2837|Marigot
-15.2598|-61.3745|Pointe Michel
-15.3667|-61.3500|Pont Cassé
-15.5833|-61.4667|Portsmouth
-15.3667|-61.2667|Rosalie
-15.3017|-61.3881|Roseau
-15.4000|-61.4333|Saint Joseph
-15.4369|-61.4364|Salisbury
-15.2337|-61.3588|Soufrière
-15.5667|-61.3167|Wesley
-15.5809|-61.3315|Woodford Hill
+15.2333|-61.3167|Berekua|Saint Patrick|2608|
+15.5930|-61.3490|Calibishie|Saint Andrew|1020|
+15.4440|-61.2572|Castle Bruce|Saint David|1387|
+15.4848|-61.4622|Colihaut|Saint Peter|890|
+15.3277|-61.2475|La Plaine|Saint Patrick|1332|
+15.3636|-61.3970|Mahaut|Saint Paul|2369|
+15.5389|-61.2837|Marigot|Saint Andrew|2669|
+15.2598|-61.3745|Pointe Michel|Saint Luke|1202|
+15.3667|-61.3500|Pont Cassé|Saint Paul|702|
+15.5833|-61.4667|Portsmouth|Saint John|3633|
+15.3667|-61.2667|Rosalie|Saint David|802|
+15.3017|-61.3881|Roseau|Saint George|16571|
+15.4000|-61.4333|Saint Joseph|Saint Joseph|2184|
+15.4369|-61.4364|Salisbury|Saint Joseph|1413|
+15.2337|-61.3588|Soufrière|Saint Mark|1416|
+15.5667|-61.3167|Wesley|Saint Andrew|1933|
+15.5809|-61.3315|Woodford Hill|Saint Andrew|1063|

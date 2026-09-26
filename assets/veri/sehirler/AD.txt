@@ -1,10 +1,10 @@
-42.5078|1.5211|Andorra la Vella
-42.5720|1.4845|Arinsal
-42.5676|1.5976|Canillo
-42.5795|1.6536|El Tarter
-42.5347|1.5801|Encamp
-42.5450|1.5148|la Massana
-42.5073|1.5341|les Escaldes
-42.5562|1.5332|Ordino
-42.5428|1.7336|Pas de la Casa
-42.4637|1.4913|Sant Julià de Lòria
+42.5078|1.5211|Andorra la Vella|Andorra la Vella|20430|
+42.5720|1.4845|Arinsal|La Massana|1419|
+42.5676|1.5976|Canillo|Canillo|3292|
+42.5795|1.6536|El Tarter|Canillo|1003|
+42.5347|1.5801|Encamp|Encamp|11223|
+42.5450|1.5148|la Massana|La Massana|7211|
+42.5073|1.5341|les Escaldes|Escaldes-Engordany|15853|
+42.5562|1.5332|Ordino|Ordino|3066|
+42.5428|1.7336|Pas de la Casa|Encamp|2996|
+42.4637|1.4913|Sant Julià de Lòria|Sant Julià de Lòria|8022|

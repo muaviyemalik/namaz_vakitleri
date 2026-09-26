@@ -1,312 +1,312 @@
-45.8860|13.9095|Ajdovščina
-45.5786|13.7361|Ankaran
-46.6972|15.9106|Apače
-46.6189|16.1503|Bakovci
-46.6053|16.2406|Beltinci
-46.6086|15.8883|Benedikt
-45.8944|13.6322|Bilje
-46.5542|15.5486|Bistrica ob Dravi
-46.0589|15.6642|Bistrica ob Sotli
-46.3547|14.2917|Bistrica pri Tržiču
-46.3692|14.1136|Bled
-46.2722|13.9535|Bohinjska Bistrica
-45.9158|14.3631|Borovnica
-46.3381|13.5525|Bovec
-46.2897|15.0389|Braslovče
-46.5697|15.5750|Bresternica
-45.9033|15.5911|Brežice
-46.0333|14.4000|Brezovica pri Ljubljani
-46.2602|14.3904|Britof
-46.7208|16.0225|Cankova
-46.2309|15.2604|Celje
-46.2542|14.4886|Cerklje na Gorenjskem
-45.7931|14.3625|Cerknica
-46.1256|13.9817|Cerkno
-46.5706|15.9436|Cerkvenjak
-46.6667|16.1333|Černelavci
-46.3441|15.9947|Cirkulane
-46.5579|16.3041|Črenšovci
-46.4704|14.8501|Črna na Koroškem
-45.5711|15.1889|Črnomelj
-46.1151|14.5537|Črnuče
-45.5497|13.8136|Dekani
-46.0531|13.6138|Deskle
-46.4925|15.8789|Destrnik
-45.6847|13.9703|Divača
-46.1519|14.6286|Dob
-46.1375|15.3941|Dobje pri Planini
-46.3375|15.2264|Dobrna
-46.0458|14.3919|Dobrova
-46.6514|16.3525|Dobrovnik
-45.9964|13.5264|Dobrovo
-45.7566|15.0592|Dolenjske Toplice
-46.1419|15.1128|Dol pri Hrastniku
-46.0886|14.6008|Dol pri Ljubljani
-46.1377|14.5937|Domžale
-46.4367|15.9536|Dornava
-46.0167|14.3833|Dragomer
-46.0729|14.4474|Dravlje
-46.5881|15.0192|Dravograd
-46.4560|15.6301|Fram
-46.6325|16.2511|Gančani
-46.3333|14.3333|Golnik
-46.1072|14.1481|Gorenja Vas
-46.4147|16.0139|Gorišnica
-46.6733|15.9922|Gornja Radgona
-46.2953|14.8083|Gornji Grad
-46.8053|16.2225|Gornji Petrovci
-46.2742|15.1519|Gotovlje
-46.8000|16.1000|Grad
-45.9556|14.6589|Grosuplje
-46.8233|16.3342|Hodoš
-46.0236|14.2992|Horjul
-46.4667|15.6667|Hotinja Vas
-46.2167|14.4000|Hrastje
-46.1461|15.0814|Hrastnik
-45.7069|14.6167|Hrib-Loški Potok
-46.4450|14.0178|Hrušica
-45.5828|13.7567|Hrvatini
-46.0028|14.0306|Idrija
-45.9603|14.5289|Ig
-45.5676|14.2457|Ilirska Bistrica
-45.9383|14.8044|Ivančna Gorica
-46.1500|14.9500|Izlake
-45.5369|13.6619|Izola
-45.5284|13.6472|Jagodje
-46.0735|14.5543|Jarše
-46.4306|14.0669|Jesenice
-46.4847|15.9714|Juršinci
-46.5744|15.6142|Kamnica
-46.2259|14.6121|Kamnik
-46.0886|13.6397|Kanal
-46.4036|15.7911|Kidričevo
-46.1391|14.9629|Kisovec
-46.2476|13.5791|Kobarid
-46.6847|16.3978|Kobilje
-45.6433|14.8633|Kočevje
-46.2703|14.3611|Kokrica
-45.8153|13.7483|Komen
-46.2048|14.5384|Komenda
-45.5469|13.7294|Koper
-46.4491|14.1113|Koroška Bela
-45.8461|15.4222|Kostanjevica na Krki
-45.5084|14.9101|Kostel
-46.5214|14.9869|Kotlje
-45.6100|13.9356|Kozina
-46.0750|15.5603|Kozje
-46.2389|14.3556|Kranj
-46.4569|13.7782|Kranjska Gora
-46.5683|16.1386|Križevci pri Ljutomeru
-46.6381|16.1414|Krog
-45.9608|13.6656|Kromberk
-45.9592|15.4917|Krško
-46.8369|16.0833|Kuzma
-46.1546|15.2355|Laško
-46.0000|14.5573|Lavrica
-46.5065|15.1442|Legen
-46.5761|15.8314|Lenart v Slov. Goricah
-46.5649|16.4509|Lendava
-46.3611|14.1578|Lesce
-45.6214|14.4606|Leskova Dolina
-45.9357|15.4718|Leskovec pri Krškem
-46.5536|15.5836|Limbuš
-46.6283|16.2281|Lipovci
-46.0586|14.8225|Litija
-46.2557|15.3243|Ljubečna
-46.0511|14.5051|Ljubljana
-46.3436|14.8338|Ljubno ob Savinji
-46.5208|16.1975|Ljutomer
-45.9144|14.2258|Logatec
-46.0167|14.3667|Log pri Brezovici
-45.9017|13.8797|Lokavec
-46.5406|15.3931|Lovrenc na Pohorju
-46.3561|14.7467|Luče
-45.5053|13.6024|Lucija
-46.1699|14.6918|Lukovica pri Domžalah
-46.3517|15.7336|Majšperk
-46.3172|15.6672|Makole
-46.5547|15.6467|Maribor
-46.3956|15.9283|Markovci
-46.1422|14.4111|Medvode
-46.2333|14.6167|Mekinje
-46.1669|14.5750|Mengeš
-45.6472|15.3142|Metlika
-46.5214|14.8544|Mežica
-46.5058|15.6972|Miklavž na Dravskem Polju
-45.8956|13.6075|Miren
-45.9553|15.0619|Mirna
-45.8603|15.0833|Mirna Peč
-46.4414|15.2003|Mislinja
-46.2833|14.3500|Mlaka pri Kranju
-46.4238|13.8752|Mojstrana
-45.9342|15.1408|Mokronog
-46.1369|14.7450|Moravče
-46.6831|16.2208|Moravske Toplice
-46.4444|15.6214|Morje
-46.1950|14.5514|Moste
-46.3394|14.9633|Mozirje
-46.6625|16.1664|Murska Sobota
-46.6114|15.1661|Muta
-46.2728|14.3172|Naklo
-46.3176|14.9467|Nazarje
-45.9875|14.3989|Notranje Gorice
-45.9560|13.6484|Nova Gorica
-45.7717|14.5058|Nova Vas
-45.8040|15.1689|Novo Mesto
-46.5867|16.2803|Odranci
-46.0833|14.5333|Opčina Ljubljana-Bežigrad
-46.3878|15.4467|Oplotnica
-46.1667|14.4333|Opština [historical] Ljubljana-Šiška
-46.0500|14.5333|Opština Ljubljana-Center
-46.0667|14.6167|Opština Ljubljana-Moste-Polje
-46.0333|14.4167|Opština Ljubljana-Vič-Rudnik
-46.4114|16.1544|Ormož
-45.5291|14.6984|Osilnica
-46.5342|15.0792|Pameče
-46.5472|15.5956|Pekre
-46.6069|15.6767|Pesnica pri Mariboru
-45.5278|13.5706|Piran
-45.6829|14.1959|Pivka
-45.5394|13.7961|Pobegi
-46.1569|15.5986|Podčetrtek
-46.3353|15.8800|Podlehnik
-46.5869|15.3306|Podvelka
-46.3119|15.5792|Poljčane
-46.2833|15.0667|Polzela
-45.5143|13.5921|Portorož
-45.7743|14.2153|Postojna
-45.5400|13.7761|Prade
-46.3967|15.6600|Pragersko
-46.2369|15.0925|Prebold
-46.3025|14.4231|Preddvor
-46.1691|14.5970|Preserje pri Radomljah
-46.5469|14.9208|Prevalje
-45.8900|13.7181|Prvačina
-46.4201|15.8702|Ptuj
-46.7067|16.1564|Puconci
-46.4519|15.6814|Rače
-46.0681|15.1839|Radeče
-46.6420|16.0378|Radenci
-46.4744|15.6558|Radizel
-46.6142|15.2264|Radlje ob Dravi
-46.1736|14.6122|Radomlje
-46.3444|14.1744|Radovljica
-45.8133|14.3111|Rakek
-46.6517|16.2042|Rakičan
-46.4141|15.0609|Ravne
-46.5431|14.9692|Ravne na Koroškem
-46.5217|16.2811|Razkrižje
-46.5144|15.6361|Razvanje
-46.3167|14.9167|Rečica ob Savinji
-45.8900|13.6686|Renče
-45.7386|14.7275|Ribnica
-46.5350|15.2728|Ribnica na Pohorju
-46.2375|15.6397|Rogaška Slatina
-46.8000|16.0333|Rogašovci
-46.2294|15.7003|Rogatec
-46.5000|15.6833|Rogoza
-45.9419|13.6678|Rožna Dolina
-46.0600|14.4678|Rožnik
-46.5394|15.5158|Ruše
-46.8250|16.2981|Šalovci
-45.4958|13.6147|Seča
-46.5500|15.4950|Selnica ob Dravi
-46.6833|15.7000|Selnica ob Muri
-45.6461|15.1822|Semič
-45.9303|13.7436|Šempas
-45.9275|13.6411|Šempeter pri Gorici
-46.2564|15.1219|Šempeter v Savinj. Dolini
-46.2456|14.4197|Šenčur
-46.0236|15.4769|Senovo
-46.6817|15.6481|Šentilj v Slov. Goricah
-45.8400|15.3361|Šentjernej
-46.2172|15.3975|Šentjur
-45.9778|15.0956|Šentrupert
-46.1056|14.4333|Šentvid
-45.9500|14.8434|Šentvid pri Stični
-46.0078|15.3156|Sevnica
-45.7092|13.8733|Sežana
-45.9067|15.2914|Škocjan
-46.1655|14.3063|Škofja Loka
-45.9833|14.5767|Škofljica
-46.5103|15.0806|Slovenj Gradec
-46.3928|15.5744|Slovenska Bistrica
-46.3367|15.4258|Slovenske Konjice
-46.4261|14.0872|Slovenski Javornik
-46.1933|14.5967|Šmarca
-46.2272|15.5192|Šmarje pri Jelšah
-45.9762|14.6118|Šmarje-Sap
-45.8833|15.2500|Šmarjeta
-46.3333|15.0333|Šmartno ob Paki
-46.0444|14.8442|Šmartno pri Litiji
-46.4894|15.1067|Šmartno pri Slovenj Gradcu
-45.7611|14.6356|Sodražica
-46.4194|14.6936|Solčava
-45.9714|13.6494|Solkan
-46.3800|15.0486|Šoštanj
-46.0434|14.6729|Sostro
-46.4089|15.8469|Spodnja Hajdina
-46.0319|14.0272|Spodnja Idrija
-46.5000|15.6500|Spodnje Hoče
-45.5717|13.7925|Spodnje Škofije
-46.5031|15.7453|Spodnji Duplek
-46.3942|16.2681|Središče ob Dravi
-46.4658|15.7672|Starše
-46.2208|15.3139|Štore
-45.7800|15.0728|Straža
-46.6492|15.8442|Sv. Ana v Slov. Goricah
-45.5258|13.8319|Sv. Anton
-46.1833|14.3333|Sv. Duh
-46.5695|16.0235|Sveti Jurij ob Ščavnici
-46.4842|16.0836|Sveti Tomaž
-46.5767|15.8769|Sv. Trojica v Slov. Goricah
-46.2361|15.0183|Tabor
-46.6581|16.0917|Tišina
-46.1830|13.7332|Tolmin
-46.4003|15.0216|Topolšica
-46.1550|15.0533|Trbovlje
-45.9042|15.0217|Trebnje
-46.2567|15.2953|Trnovlje pri Celju
-46.0241|14.4889|Trnovo
-46.5202|15.8866|Trnovska Vas
-46.3636|14.3105|Tržič
-46.1333|14.5667|Trzin
-46.6278|16.3203|Turnišče
-46.3625|15.1144|Velenje
-46.5719|16.3469|Velika Polana
-45.8322|14.6364|Velike Lašče
-45.9567|14.3058|Verd
-46.5836|16.1653|Veržej
-46.0078|14.4697|Vič
-45.8500|14.6942|Videm
-46.3686|15.9064|Videm pri Ptuju
-45.8467|13.9631|Vipava
-46.1532|14.6074|Vir
-46.3817|15.2958|Vitanje
-46.5275|15.9394|Vitomarci
-46.0072|14.4219|Vnanje Gorice
-46.1899|14.4949|Vodice
-46.2933|15.3033|Vojnik
-45.9069|13.6775|Volčja Draga
-46.2439|14.9514|Vransko
-45.9635|14.2948|Vrhnika
-45.9125|13.6342|Vrtojba
-46.5964|15.1672|Vuzenica
-46.2141|15.1595|Zabukovica
-46.1318|14.9969|Zagorje ob Savi
-46.2515|15.1648|Žalec
-46.3928|14.1087|Zasip
-46.3917|16.0497|Zavrč
-46.2248|14.1721|Železniki
-46.2736|15.8266|Žetale
-46.6392|15.6156|Zgornja Kungota
-46.4256|15.6122|Zgornja Polskava
-46.2200|14.3367|Zgornje Bitnje
-46.3796|14.0694|Zgornje Gorje
-46.3941|14.5066|Zgornje Jezersko
-46.1425|14.4316|Zgornje Pirniče
-46.5136|15.7208|Zgornji Duplek
-46.0422|14.1072|Žiri
-46.4047|14.1400|Žirovnica
-46.3822|15.3792|Zreče
-45.8339|14.9292|Žužemberk
+45.8860|13.9095|Ajdovščina|Ajdovščina|6843|
+45.5786|13.7361|Ankaran|Ankaran|3278|
+46.6972|15.9106|Apače|Apače|543|
+46.6189|16.1503|Bakovci|Murska Sobota|1491|
+46.6053|16.2406|Beltinci|Beltinci|2394|
+46.6086|15.8883|Benedikt|Benedikt|955|
+45.8944|13.6322|Bilje|Miren–Kostanjevica|1191|
+46.5542|15.5486|Bistrica ob Dravi|Ruše|1368|
+46.0589|15.6642|Bistrica ob Sotli|Bistrica ob Sotli|235|
+46.3547|14.2917|Bistrica pri Tržiču|Tržič|2996|
+46.3692|14.1136|Bled|Bled|5181|
+46.2722|13.9535|Bohinjska Bistrica|Bohinj|1767|
+45.9158|14.3631|Borovnica|Borovnica|2162|
+46.3381|13.5525|Bovec|Bovec|1631|
+46.2897|15.0389|Braslovče|Braslovče|383|
+46.5697|15.5750|Bresternica|Maribor|1377|
+45.9033|15.5911|Brežice|Brežice|6843|
+46.0333|14.4000|Brezovica pri Ljubljani|Brezovica|3221|
+46.2602|14.3904|Britof|Kranj|1908|
+46.7208|16.0225|Cankova|Cankova|446|
+46.2309|15.2604|Celje|Celje|38059|
+46.2542|14.4886|Cerklje na Gorenjskem|Cerklje na Gorenjskem|1710|
+45.7931|14.3625|Cerknica|Cerknica|4018|
+46.1256|13.9817|Cerkno|Cerkno|1596|
+46.5706|15.9436|Cerkvenjak|Cerkvenjak|135|
+46.6667|16.1333|Černelavci|Murska Sobota|1272|
+46.3441|15.9947|Cirkulane|Ajdovščina|434|
+46.5579|16.3041|Črenšovci|Črenšovci|1178|
+46.4704|14.8501|Črna na Koroškem|Črna na Koroškem|2409|
+45.5711|15.1889|Črnomelj|Črnomelj|5496|
+46.1151|14.5537|Črnuče|Trzin|0|
+45.5497|13.8136|Dekani|Koper|1586|
+46.0531|13.6138|Deskle|Kanal ob Soči|1279|
+46.4925|15.8789|Destrnik|Destrnik|172|
+45.6847|13.9703|Divača|Divača|1357|
+46.1519|14.6286|Dob|Domžale|1563|
+46.1375|15.3941|Dobje pri Planini|Dobje|114|
+46.3375|15.2264|Dobrna|Dobrna|548|
+46.0458|14.3919|Dobrova|Dobrova–Polhov Gradec|921|
+46.6514|16.3525|Dobrovnik|Dobrovnik|972|
+45.9964|13.5264|Dobrovo|Brda|334|
+45.7566|15.0592|Dolenjske Toplice|Dolenjske Toplice|882|
+46.1419|15.1128|Dol pri Hrastniku|Hrastnik|1491|
+46.0886|14.6008|Dol pri Ljubljani|Dol pri Ljubljani|241|
+46.1377|14.5937|Domžale|Domžale|13204|
+46.4367|15.9536|Dornava|Dornava|1267|
+46.0167|14.3833|Dragomer|Bohinj|1446|
+46.0729|14.4474|Dravlje|Ljubljana|0|
+46.5881|15.0192|Dravograd|Dravograd|3289|
+46.4560|15.6301|Fram|Rače–Fram|1024|
+46.6325|16.2511|Gančani|Beltinci|1027|
+46.3333|14.3333|Golnik|Kranj|1063|
+46.1072|14.1481|Gorenja Vas|Gorenja Vas–Poljane|1192|
+46.4147|16.0139|Gorišnica|Gorišnica|788|
+46.6733|15.9922|Gornja Radgona|Gornja Radgona|3159|
+46.2953|14.8083|Gornji Grad|Gornji Grad|1048|
+46.8053|16.2225|Gornji Petrovci|Gornji Petrovci|419|
+46.2742|15.1519|Gotovlje|Žalec|1216|
+46.8000|16.1000|Grad|Grad|686|
+45.9556|14.6589|Grosuplje|Grosuplje|7098|
+46.8233|16.3342|Hodoš|Hodoš|228|
+46.0236|14.2992|Horjul|Horjul|1329|
+46.4667|15.6667|Hotinja Vas|Hoče–Slivnica|1344|
+46.2167|14.4000|Hrastje|Šenčur|1051|
+46.1461|15.0814|Hrastnik|Hrastnik|5621|
+45.7069|14.6167|Hrib-Loški Potok|Loški Potok|373|
+46.4450|14.0178|Hrušica|Jesenice|1722|
+45.5828|13.7567|Hrvatini|Koper|1232|
+46.0028|14.0306|Idrija|Idrija|5955|
+45.9603|14.5289|Ig|Ig|2262|
+45.5676|14.2457|Ilirska Bistrica|Ilirska Bistrica|4553|
+45.9383|14.8044|Ivančna Gorica|Ivančna Gorica|2205|
+46.1500|14.9500|Izlake|Zagorje ob Savi|1181|
+45.5369|13.6619|Izola|Izola|11223|
+45.5284|13.6472|Jagodje|Izola|2225|
+46.0735|14.5543|Jarše|Ljubljana|0|
+46.4306|14.0669|Jesenice|Jesenice|13255|
+46.4847|15.9714|Juršinci|Juršinci|381|
+46.5744|15.6142|Kamnica|Maribor|1638|
+46.2259|14.6121|Kamnik|Kamnik|13644|
+46.0886|13.6397|Kanal|Kanal ob Soči|1269|
+46.4036|15.7911|Kidričevo|Kidričevo|1253|
+46.1391|14.9629|Kisovec|Zagorje ob Savi|1838|
+46.2476|13.5791|Kobarid|Kobarid|1121|
+46.6847|16.3978|Kobilje|Kobilje|542|
+45.6433|14.8633|Kočevje|Kočevje|8113|
+46.2703|14.3611|Kokrica|Kranj|1646|
+45.8153|13.7483|Komen|Komen|650|
+46.2048|14.5384|Komenda|Komenda|881|
+45.5469|13.7294|Koper|Koper|25753|
+46.4491|14.1113|Koroška Bela|Jesenice|2160|
+45.8461|15.4222|Kostanjevica na Krki|Bled|695|
+45.5084|14.9101|Kostel|Kostel|637|
+46.5214|14.9869|Kotlje|Ravne na Koroškem|1026|
+45.6100|13.9356|Kozina|Hrpelje–Kozina|544|
+46.0750|15.5603|Kozje|Kozje|634|
+46.2389|14.3556|Kranj|Kranj|37966|
+46.4569|13.7782|Kranjska Gora|Kranjska Gora|1439|
+46.5683|16.1386|Križevci pri Ljutomeru|Križevci|490|
+46.6381|16.1414|Krog|Murska Sobota|1132|
+45.9608|13.6656|Kromberk|Nova Gorica|2081|
+45.9592|15.4917|Krško|Krško|6852|
+46.8369|16.0833|Kuzma|Kuzma|375|
+46.1546|15.2355|Laško|Laško|3456|
+46.0000|14.5573|Lavrica|Škofljica|2438|
+46.5065|15.1442|Legen|Slovenj Gradec|1026|
+46.5761|15.8314|Lenart v Slov. Goricah|Lenart|0|
+46.5649|16.4509|Lendava|Lendava|3129|
+46.3611|14.1578|Lesce|Radovljica|2835|
+45.6214|14.4606|Leskova Dolina|Loška Dolina|539|
+45.9357|15.4718|Leskovec pri Krškem|Krško|1021|
+46.5536|15.5836|Limbuš|Maribor|2040|
+46.6283|16.2281|Lipovci|Beltinci|1097|
+46.0586|14.8225|Litija|Litija|6505|
+46.2557|15.3243|Ljubečna|Celje|1071|
+46.0511|14.5051|Ljubljana|Ljubljana|272220|
+46.3436|14.8338|Ljubno ob Savinji|Ljubno|1104|
+46.5208|16.1975|Ljutomer|Ljutomer|3460|
+45.9144|14.2258|Logatec|Logatec|8942|
+46.0167|14.3667|Log pri Brezovici|Bohinj|1634|
+45.9017|13.8797|Lokavec|Ajdovščina|1119|
+46.5406|15.3931|Lovrenc na Pohorju|Lovrenc na Pohorju|1977|
+46.3561|14.7467|Luče|Luče|413|
+45.5053|13.6024|Lucija|Piran|6057|
+46.1699|14.6918|Lukovica pri Domžalah|Lukovica|419|
+46.3517|15.7336|Majšperk|Majšperk|606|
+46.3172|15.6672|Makole|Borovnica|221|
+46.5547|15.6467|Maribor|Maribor|96209|
+46.3956|15.9283|Markovci|Markovci|495|
+46.1422|14.4111|Medvode|Medvode|5380|
+46.2333|14.6167|Mekinje|Kamnik|1582|
+46.1669|14.5750|Mengeš|Mengeš|6112|
+45.6472|15.3142|Metlika|Metlika|3206|
+46.5214|14.8544|Mežica|Mežica|3254|
+46.5058|15.6972|Miklavž na Dravskem Polju|Miklavž na Dravskem Polju|3854|
+45.8956|13.6075|Miren|Miren–Kostanjevica|1460|
+45.9553|15.0619|Mirna|Bovec|1398|
+45.8603|15.0833|Mirna Peč|Mirna Peč|990|
+46.4414|15.2003|Mislinja|Mislinja|1862|
+46.2833|14.3500|Mlaka pri Kranju|Kranj|1566|
+46.4238|13.8752|Mojstrana|Kranjska Gora|1175|
+45.9342|15.1408|Mokronog|Brda|637|
+46.1369|14.7450|Moravče|Moravče|957|
+46.6831|16.2208|Moravske Toplice|Moravske Toplice|735|
+46.4444|15.6214|Morje|Rače–Fram|1032|
+46.1950|14.5514|Moste|Komenda|1234|
+46.3394|14.9633|Mozirje|Mozirje|2052|
+46.6625|16.1664|Murska Sobota|Murska Sobota|11107|
+46.6114|15.1661|Muta|Muta|2300|
+46.2728|14.3172|Naklo|Naklo|1716|
+46.3176|14.9467|Nazarje|Nazarje|872|
+45.9875|14.3989|Notranje Gorice|Brezovica|1950|
+45.9560|13.6484|Nova Gorica|Nova Gorica|13031|
+45.7717|14.5058|Nova Vas|Bloke|293|
+45.8040|15.1689|Novo Mesto|Novo Mesto|24446|
+46.5867|16.2803|Odranci|Odranci|1641|
+46.0833|14.5333|Opčina Ljubljana-Bežigrad|Ljubljana|0|
+46.3878|15.4467|Oplotnica|Oplotnica|1352|
+46.1667|14.4333|Opština [historical] Ljubljana-Šiška|Medvode|0|
+46.0500|14.5333|Opština Ljubljana-Center|Ljubljana|0|
+46.0667|14.6167|Opština Ljubljana-Moste-Polje|Ljubljana|0|
+46.0333|14.4167|Opština Ljubljana-Vič-Rudnik|Brezovica|0|
+46.4114|16.1544|Ormož|Ormož|2174|
+45.5291|14.6984|Osilnica|Osilnica|87|
+46.5342|15.0792|Pameče|Slovenj Gradec|1333|
+46.5472|15.5956|Pekre|Maribor|1517|
+46.6069|15.6767|Pesnica pri Mariboru|Pesnica|0|
+45.5278|13.5706|Piran|Piran|4192|
+45.6829|14.1959|Pivka|Pivka|2088|
+45.5394|13.7961|Pobegi|Koper|1228|
+46.1569|15.5986|Podčetrtek|Podčetrtek|578|
+46.3353|15.8800|Podlehnik|Podlehnik|378|
+46.5869|15.3306|Podvelka|Podvelka|343|
+46.3119|15.5792|Poljčane|Brežice|1153|
+46.2833|15.0667|Polzela|Polzela|2351|
+45.5143|13.5921|Portorož|Piran|2947|
+45.7743|14.2153|Postojna|Postojna|9605|
+45.5400|13.7761|Prade|Koper|1129|
+46.3967|15.6600|Pragersko|Slovenska Bistrica|1150|
+46.2369|15.0925|Prebold|Prebold|1709|
+46.3025|14.4231|Preddvor|Preddvor|3659|
+46.1691|14.5970|Preserje pri Radomljah|Mengeš|1531|
+46.5469|14.9208|Prevalje|Prevalje|4643|
+45.8900|13.7181|Prvačina|Nova Gorica|1268|
+46.4201|15.8702|Ptuj|Ptuj|17984|
+46.7067|16.1564|Puconci|Puconci|633|
+46.4519|15.6814|Rače|Rače–Fram|2693|
+46.0681|15.1839|Radeče|Radeče|2168|
+46.6420|16.0378|Radenci|Radenci|2201|
+46.4744|15.6558|Radizel|Hoče–Slivnica|1698|
+46.6142|15.2264|Radlje ob Dravi|Radlje ob Dravi|2811|
+46.1736|14.6122|Radomlje|Domžale|1674|
+46.3444|14.1744|Radovljica|Radovljica|5940|
+45.8133|14.3111|Rakek|Cerknica|2152|
+46.6517|16.2042|Rakičan|Murska Sobota|1560|
+46.4141|15.0609|Ravne|Šoštanj|1092|
+46.5431|14.9692|Ravne na Koroškem|Ravne na Koroškem|6979|
+46.5217|16.2811|Razkrižje|Razkrižje|252|
+46.5144|15.6361|Razvanje|Maribor|1357|
+46.3167|14.9167|Rečica ob Savinji|Brezovica|516|
+45.8900|13.6686|Renče|Renče–Vogrsko|1937|
+45.7386|14.7275|Ribnica|Ribnica|3604|
+46.5350|15.2728|Ribnica na Pohorju|Ribnica na Pohorju|404|
+46.2375|15.6397|Rogaška Slatina|Rogaška Slatina|5111|
+46.8000|16.0333|Rogašovci|Rogašovci|254|
+46.2294|15.7003|Rogatec|Rogatec|1558|
+46.5000|15.6833|Rogoza|Hoče–Slivnica|1390|
+45.9419|13.6678|Rožna Dolina|Šempeter–Vrtojba|1118|
+46.0600|14.4678|Rožnik|Ljubljana|0|
+46.5394|15.5158|Ruše|Ruše|4503|
+46.8250|16.2981|Šalovci|Šalovci|426|
+45.4958|13.6147|Seča|Piran|1210|
+46.5500|15.4950|Selnica ob Dravi|Selnica ob Dravi|1348|
+46.6833|15.7000|Selnica ob Muri|Šentilj|1078|
+45.6461|15.1822|Semič|Semič|2000|
+45.9303|13.7436|Šempas|Nova Gorica|1146|
+45.9275|13.6411|Šempeter pri Gorici|Šempeter–Vrtojba|3694|
+46.2564|15.1219|Šempeter v Savinj. Dolini|Žalec|0|
+46.2456|14.4197|Šenčur|Šenčur|3152|
+46.0236|15.4769|Senovo|Krško|2343|
+46.6817|15.6481|Šentilj v Slov. Goricah|Šentilj|8452|
+45.8400|15.3361|Šentjernej|Šentjernej|1434|
+46.2172|15.3975|Šentjur|Šentjur|4940|
+45.9778|15.0956|Šentrupert|Šentrupert|0|
+46.1056|14.4333|Šentvid|Ljubljana|0|
+45.9500|14.8434|Šentvid pri Stični|Ivančna Gorica|1002|
+46.0078|15.3156|Sevnica|Sevnica|4660|
+45.7092|13.8733|Sežana|Sežana|6037|
+45.9067|15.2914|Škocjan|Škocjan|246|
+46.1655|14.3063|Škofja Loka|Škofja Loka|11619|
+45.9833|14.5767|Škofljica|Škofljica|2209|
+46.5103|15.0806|Slovenj Gradec|Slovenj Gradec|7249|
+46.3928|15.5744|Slovenska Bistrica|Slovenska Bistrica|7454|
+46.3367|15.4258|Slovenske Konjice|Slovenske Konjice|4869|
+46.4261|14.0872|Slovenski Javornik|Jesenice|2002|
+46.1933|14.5967|Šmarca|Kamnik|1441|
+46.2272|15.5192|Šmarje pri Jelšah|Šmarje pri Jelšah|1755|
+45.9762|14.6118|Šmarje-Sap|Grosuplje|1492|
+45.8833|15.2500|Šmarjeta|Šmarješke Toplice|326|
+46.3333|15.0333|Šmartno ob Paki|Šmartno ob Paki|642|
+46.0444|14.8442|Šmartno pri Litiji|Šmartno pri Litiji|1444|
+46.4894|15.1067|Šmartno pri Slovenj Gradcu|Slovenj Gradec|1250|
+45.7611|14.6356|Sodražica|Sodražica|832|
+46.4194|14.6936|Solčava|Solčava|214|
+45.9714|13.6494|Solkan|Nova Gorica|3227|
+46.3800|15.0486|Šoštanj|Šoštanj|2880|
+46.0434|14.6729|Sostro|Ljubljana|0|
+46.4089|15.8469|Spodnja Hajdina|Hajdina|0|
+46.0319|14.0272|Spodnja Idrija|Idrija|1501|
+46.5000|15.6500|Spodnje Hoče|Hoče–Slivnica|2555|
+45.5717|13.7925|Spodnje Škofije|Koper|1402|
+46.5031|15.7453|Spodnji Duplek|Duplek|1689|
+46.3942|16.2681|Središče ob Dravi|Središče ob Dravi|984|
+46.4658|15.7672|Starše|Starše|803|
+46.2208|15.3139|Štore|Štore|2257|
+45.7800|15.0728|Straža|Straža|1996|
+46.6492|15.8442|Sv. Ana v Slov. Goricah|Sveta Ana|155|
+45.5258|13.8319|Sv. Anton|Koper|0|
+46.1833|14.3333|Sv. Duh|Škofja Loka|0|
+46.5695|16.0235|Sveti Jurij ob Ščavnici|Sveti Jurij v Slovenskih Goricah|0|
+46.4842|16.0836|Sveti Tomaž|Sveti Tomaž|284|
+46.5767|15.8769|Sv. Trojica v Slov. Goricah|Sveta Trojica v Slovenskih Goricah|754|
+46.2361|15.0183|Tabor|Tabor|406|
+46.6581|16.0917|Tišina|Tišina|412|
+46.1830|13.7332|Tolmin|Tolmin|3534|
+46.4003|15.0216|Topolšica|Šoštanj|1294|
+46.1550|15.0533|Trbovlje|Trbovlje|15163|
+45.9042|15.0217|Trebnje|Trebnje|3477|
+46.2567|15.2953|Trnovlje pri Celju|Celje|1234|
+46.0241|14.4889|Trnovo|Ljubljana|0|
+46.5202|15.8866|Trnovska Vas|Trnovska Vas|367|
+46.3636|14.3105|Tržič|Tržič|3670|
+46.1333|14.5667|Trzin|Trzin|3925|
+46.6278|16.3203|Turnišče|Turnišče|1509|
+46.3625|15.1144|Velenje|Velenje|24327|
+46.5719|16.3469|Velika Polana|Velika Polana|870|
+45.8322|14.6364|Velike Lašče|Velike Lašče|729|
+45.9567|14.3058|Verd|Vrhnika|1891|
+46.5836|16.1653|Veržej|Veržej|903|
+46.0078|14.4697|Vič|Ljubljana|0|
+45.8500|14.6942|Videm|Dobrepolje|590|
+46.3686|15.9064|Videm pri Ptuju|Videm|471|
+45.8467|13.9631|Vipava|Vipava|1771|
+46.1532|14.6074|Vir|Domžale|3415|
+46.3817|15.2958|Vitanje|Vitanje|859|
+46.5275|15.9394|Vitomarci|Sveti Andraž v Slovenskih Goricah|329|
+46.0072|14.4219|Vnanje Gorice|Brezovica|2195|
+46.1899|14.4949|Vodice|Vodice|1589|
+46.2933|15.3033|Vojnik|Vojnik|2292|
+45.9069|13.6775|Volčja Draga|Renče–Vogrsko|743|
+46.2439|14.9514|Vransko|Vransko|808|
+45.9635|14.2948|Vrhnika|Vrhnika|8413|
+45.9125|13.6342|Vrtojba|Šempeter–Vrtojba|2591|
+46.5964|15.1672|Vuzenica|Vuzenica|1580|
+46.2141|15.1595|Zabukovica|Žalec|1009|
+46.1318|14.9969|Zagorje ob Savi|Zagorje ob Savi|6439|
+46.2515|15.1648|Žalec|Žalec|4943|
+46.3928|14.1087|Zasip|Bled|1019|
+46.3917|16.0497|Zavrč|Zavrč|73|
+46.2248|14.1721|Železniki|Železniki|3075|
+46.2736|15.8266|Žetale|Žetale|392|
+46.6392|15.6156|Zgornja Kungota|Kungota|535|
+46.4256|15.6122|Zgornja Polskava|Slovenska Bistrica|1208|
+46.2200|14.3367|Zgornje Bitnje|Kranj|1480|
+46.3796|14.0694|Zgornje Gorje|Beltinci|500|
+46.3941|14.5066|Zgornje Jezersko|Jezersko|568|
+46.1425|14.4316|Zgornje Pirniče|Medvode|1267|
+46.5136|15.7208|Zgornji Duplek|Duplek|1824|
+46.0422|14.1072|Žiri|Žiri|3588|
+46.4047|14.1400|Žirovnica|Žirovnica|601|
+46.3822|15.3792|Zreče|Zreče|2935|
+45.8339|14.9292|Žužemberk|Žužemberk|1053|

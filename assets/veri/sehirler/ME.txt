@@ -1,40 +1,40 @@
-42.7339|19.7919|Andrijevica
-42.0931|19.1003|Bar
-42.8425|19.8733|Berane
-42.4478|18.6597|Bijela
-43.0383|19.7476|Bijelo Polje
-42.2864|18.8400|Budva
-42.3906|18.9142|Cetinje
-42.5538|19.1461|Danilovgrad
-42.3833|19.3833|Dinoša
-42.4542|18.7683|Dobrota
-42.3667|19.2333|Golubovci
-42.3322|19.2119|Goričani
-42.5619|19.8339|Gusinje
-42.4531|18.5372|Herceg Novi
-42.4558|18.5167|Igalo
-42.4617|18.6881|Kamenari
-42.8223|19.5165|Kolašin
-42.4207|18.7682|Kotor
-42.3500|19.4167|Mataguži
-42.3417|19.2214|Mojanovići
-42.9604|19.5833|Mojkovac
-42.7731|18.9445|Nikšić
-42.2056|18.9425|Petrovac na Moru
-42.5969|19.9456|Plav
-43.3567|19.3584|Pljevlja
-43.1528|18.8394|Plužine
-42.4411|19.2636|Podgorica
-42.4000|19.2833|Ponari
-42.4575|18.7422|Prčanj
-42.5150|18.6956|Risan
-42.8330|20.1665|Rožaje
-42.9564|19.0967|Šavnik
-42.5150|19.1950|Spuž
-42.0970|19.1360|Stari Bar
-42.1156|19.0883|Šušanj
-42.1428|19.0467|Sutomore
-42.4364|18.6961|Tivat
-42.3667|19.4000|Tuzi
-41.9294|19.2244|Ulcinj
-43.1542|19.1232|Žabljak
+42.7339|19.7919|Andrijevica|Andrijevica|1073|
+42.0931|19.1003|Bar|Bar|15868|
+42.8425|19.8733|Berane|Berane|11073|
+42.4478|18.6597|Bijela|Herceg-Novi|2395|
+43.0383|19.7476|Bijelo Polje|Bijelo Polje|15400|
+42.2864|18.8400|Budva|Budva|18000|
+42.3906|18.9142|Cetinje|Old Royal Capital Cetinje|15137|
+42.5538|19.1461|Danilovgrad|Danilovgrad|5208|
+42.3833|19.3833|Dinoša|Tuzi|510|
+42.4542|18.7683|Dobrota|Kotor|5435|
+42.3667|19.2333|Golubovci|Zeta|3110|
+42.3322|19.2119|Goričani|Podgorica|1205|
+42.5619|19.8339|Gusinje|Gusinje|1673|
+42.4531|18.5372|Herceg Novi|Herceg-Novi|19536|
+42.4558|18.5167|Igalo|Herceg-Novi|3754|
+42.4617|18.6881|Kamenari|Herceg-Novi|0|
+42.8223|19.5165|Kolašin|Kolašin|2989|
+42.4207|18.7682|Kotor|Kotor|5345|
+42.3500|19.4167|Mataguži|Tuzi|1132|
+42.3417|19.2214|Mojanovići|Podgorica|1800|
+42.9604|19.5833|Mojkovac|Mojkovac|4120|
+42.7731|18.9445|Nikšić|Nikšić|58212|
+42.2056|18.9425|Petrovac na Moru|Budva|1485|
+42.5969|19.9456|Plav|Plav|3615|
+43.3567|19.3584|Pljevlja|Pljevlja|19489|
+43.1528|18.8394|Plužine|Plužine|1494|
+42.4411|19.2636|Podgorica|Podgorica|236852|
+42.4000|19.2833|Ponari|Zeta|0|
+42.4575|18.7422|Prčanj|Kotor|1244|
+42.5150|18.6956|Risan|Kotor|2083|
+42.8330|20.1665|Rožaje|Rožaje|9121|
+42.9564|19.0967|Šavnik|Šavnik|633|
+42.5150|19.1950|Spuž|Danilovgrad|1241|
+42.0970|19.1360|Stari Bar|Bar|1514|
+42.1156|19.0883|Šušanj|Bar|2521|
+42.1428|19.0467|Sutomore|Bar|1827|
+42.4364|18.6961|Tivat|Tivat|6280|
+42.3667|19.4000|Tuzi|Tuzi|3789|
+41.9294|19.2244|Ulcinj|Ulcinj|10828|
+43.1542|19.1232|Žabljak|Žabljak|1937|

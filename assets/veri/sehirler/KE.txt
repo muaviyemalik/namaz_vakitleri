@@ -1,185 +1,194 @@
--0.1736|34.9189|Ahero
--1.4563|36.9783|Athi River
--0.9071|34.5290|Awendo
-0.4667|35.9667|Baringo
-0.2352|34.2809|Bondo
-0.5635|34.5605|Bungoma
--3.5000|38.3000|Bura
-0.4601|34.1117|Busia
-0.2069|34.4901|Butere
--3.3833|37.6833|Chala
-0.1167|34.7000|Chavakali
-1.0500|35.4000|Chebiemit
-1.3058|35.2037|Chepareria
-0.3833|35.4500|Chepkorio
-1.1500|35.6500|Chesoi
-1.0833|35.6500|Chesongoch
--0.3332|37.6459|Chuka
--0.3004|35.8094|Elburgon
-0.0520|35.7273|Eldama Ravine
-0.5204|35.2699|Eldoret
-2.8092|40.9288|El Wak
--2.0803|37.4720|Emali
--0.5399|37.4574|Embu
-0.0167|34.6167|Esabalu
-0.4500|35.4000|Flax
-0.0833|34.8000|Gambogi
-0.5339|38.5188|Garba Tula
--0.4527|39.6460|Garissa
--4.4240|39.5059|Gazi
--0.5040|36.3184|Gilgil
--1.0575|36.7762|Githunguri
-1.0166|39.4912|Habaswein
--1.4826|40.0334|Hola
--0.5273|34.4571|Homa Bay
--1.3232|36.8802|Imara Daima Estate
--1.2251|34.4639|Isebania
-0.3546|37.5822|Isiolo
-0.6708|35.5083|Iten
--3.9862|39.6082|Jomvu
--1.1015|37.0132|Juja
-0.4919|35.7430|Kabarnet
--1.8524|36.7768|Kajiado
-0.2842|34.7523|Kakamega
-3.7136|34.8572|Kakuma
--0.6855|36.9646|Kangema
--1.3034|37.3481|Kangundo
-1.2333|35.3833|Kapcherop
-1.2389|35.1119|Kapenguria
-0.2039|35.1050|Kapsabet
-1.2167|35.3000|Kapsait
-1.0150|35.5225|Kapsowar
-1.2000|35.4500|Kaptalamwa
-0.4333|35.5833|Kaptarakwa
-1.2333|35.6667|Kapyego
--0.4841|37.1266|Karatina
--0.7000|37.1833|Karuri
--0.9373|37.1228|Kenol
--0.3677|35.2831|Kericho
--0.7761|34.9468|Keroka
--0.4989|37.2803|Kerugoya
-0.1712|34.5947|Khwisero
--1.1714|36.8356|Kiambu
--1.1935|34.6197|Kihancha
--0.9333|36.5723|Kijabe
--1.2463|36.6629|Kikuyu
--3.6305|39.8499|Kilifi
-0.0833|34.6667|Kilingili
-0.7877|34.7156|Kimilili
-0.8928|34.9247|Kiminini
--4.1372|39.3153|Kinango
--1.6558|37.3745|Kinoi
--2.5257|40.5262|Kipini
--0.1998|35.4674|Kipkelion
-0.9167|35.5333|Kipmwarer
--1.4275|36.6865|Kiserian
--0.6817|34.7667|Kisii
--0.1022|34.7617|Kisumu
-1.0157|35.0062|Kitale
--1.4761|36.9614|Kitengela
--1.3670|38.0106|Kitui
-0.4167|35.5667|Kocholwo
--1.7395|37.1320|Konza
--4.1738|39.4521|Kwale
-3.1511|41.1858|Lafey
--2.2717|40.9020|Lamu
--1.3666|36.7332|Lang'ata
--1.1136|36.6420|Limuru
--0.5825|35.1897|Litein
-3.1199|35.5964|Lodwar
--0.1655|35.5936|Londiani
-0.3135|34.0715|Luanda
-0.3934|34.3040|Lugulu
--0.9886|36.5854|Maai Mahiu
--1.5223|37.2652|Machakos
--1.9012|36.2870|Magadi
--0.9817|36.5864|Mai
-0.0254|36.4087|Mairo Inya
-0.1000|34.6167|Majengo
--2.2781|37.8187|Makindu
--3.4000|38.1333|Maktau
--1.8039|37.6240|Makueni Boma
-1.2588|35.0957|Makutano
-0.6351|34.2816|Malaba
-0.6769|34.4217|Malikisi
--3.2180|40.1169|Malindi
-3.9373|41.8569|Mandera
--0.7960|37.1329|Maragua
-1.0967|36.6981|Maralal
--3.8626|39.4746|Mariakani
-2.3347|37.9909|Marsabit
--1.6941|40.1701|Masalani
-0.0000|34.6000|Maseno
--4.1680|39.5707|Matuga
-0.2332|37.9409|Maua
--3.9643|39.5498|Mazeras
-0.0708|34.7242|Mbale
-0.0463|37.6559|Meru
--3.4000|38.3167|Mgange
--1.0634|34.4731|Migori
--1.3964|36.9403|Mlolongo
-0.8718|35.1221|Moi‘s Bridge
--0.2485|35.7319|Molo
--4.0547|39.6636|Mombasa
-3.5266|39.0561|Moyale
--2.6899|38.1669|Mtito Andei
--3.9394|39.7488|Mtwapa
-0.1333|34.7500|Mudete
--0.1582|35.1964|Muhoroni
-0.3347|34.4880|Mumias
--0.7210|37.1526|Murang’a
--1.3525|37.4548|Mwala
--3.4000|38.2833|Mwanda
--3.5033|38.3812|Mwatate
--0.9361|38.0596|Mwingi
--1.2833|36.8167|Nairobi
--0.7138|36.4326|Naivasha
--0.3072|36.0722|Nakuru
-0.4581|34.2535|Nambare
-0.1037|35.1843|Nandi Hills
-0.0062|37.0740|Nanyuki
--1.0808|35.8711|Narok
--0.1636|37.0177|Naro Moru
--1.3527|36.6699|Ngong
--0.3302|35.9445|Njoro
-0.0381|36.3634|Nyahururu
--0.5633|34.9358|Nyamira
--0.4201|36.9476|Nyeri
--0.8012|34.7258|Ogembo
--0.2709|36.3792|Ol Kalou
--1.3953|36.7640|Ongata Rongai
--0.5465|36.9318|Othaya
--0.5097|34.7307|Oyugis
-0.0981|33.9725|Port Victoria
--1.2833|36.8500|Pumwani
--0.4400|34.7390|Rachuonyo
-3.9315|41.2229|Ramu
--0.1734|35.8631|Rongai
--0.7568|34.5983|Rongo
--1.1466|36.9609|Ruiru
-0.2725|36.5381|Rumuruti
--0.6681|37.2088|Sagana
--4.4717|39.4846|Sawa Sawa
-0.0833|34.8833|Serem
--4.6476|39.3817|Shimoni
-0.0607|34.2881|Siaya
--0.6907|35.1110|Sotik
--0.7813|35.3416|Sotik Post
-3.3553|40.2228|Takaba
--3.6835|39.8569|Takaungu
-0.7333|35.5833|Tambach
--3.3988|37.6834|Taveta
--0.4342|36.9168|Tetu
--1.0333|37.0693|Thika
--4.2929|39.5640|Ukunda
--0.2121|36.2725|Upper Gilgil
--3.3961|38.5563|Voi
-1.7471|40.0573|Wajir
--0.6839|37.3570|Wanguru
--3.3533|40.0209|Watamu
-0.6004|34.7712|Webuye
--3.4000|38.3500|Wesu
--2.3889|40.4383|Witu
--1.7808|37.6288|Wote
--3.4085|38.3651|Wundanyi
-0.0944|34.5360|Yala
+-0.1736|34.9189|Ahero|Kisumu|11801|
+-1.4563|36.9783|Athi River|Machakos|81302|
+-0.5000|34.4000|Awendo|Homa Bay County|16815|
+-0.9071|34.5290|Awendo|Migori County|16815|
+0.4667|35.9667|Baringo|Baringo|7656|
+0.2352|34.2809|Bondo|Siaya|8683|
+-0.0962|34.2732|Bondo|Siaya County|22712|
+0.5635|34.5605|Bungoma|Bungoma|68031|
+-3.5000|38.3000|Bura|Taita–Taveta|0|
+0.4601|34.1117|Busia|Busia|71886|
+0.2069|34.4901|Butere|Kakamega|11205|
+-3.3833|37.6833|Chala|Taita–Taveta|0|
+0.1167|34.7000|Chavakali|Vihiga|12674|
+1.0500|35.4000|Chebiemit|Elgeyo-Marakwet|0|
+1.3058|35.2037|Chepareria|West Pokot|1073|
+0.3833|35.4500|Chepkorio|Elgeyo-Marakwet|0|
+1.1500|35.6500|Chesoi|Elgeyo-Marakwet|0|
+1.0833|35.6500|Chesongoch|Elgeyo-Marakwet|0|
+-0.3332|37.6459|Chuka|Tharaka-Nithi|22388|
+-0.3004|35.8094|Elburgon|Nakuru County|28359|
+0.0520|35.7273|Eldama Ravine|Baringo|21385|
+0.5204|35.2699|Eldoret|Uasin Gishu|475716|
+2.8092|40.9288|El Wak|Mandera County|60732|
+-2.0803|37.4720|Emali|Makueni County|18325|
+-0.5399|37.4574|Embu|Embu|64979|
+0.0167|34.6167|Esabalu|Vihiga|0|
+0.4500|35.4000|Flax|Elgeyo-Marakwet|0|
+0.0833|34.8000|Gambogi|Vihiga|0|
+0.5339|38.5188|Garba Tula|Isiolo County|17443|
+-0.4527|39.6460|Garissa|Garissa|163399|
+-4.4240|39.5059|Gazi|Kwale|5222|
+-0.5040|36.3184|Gilgil|Nakuru County|60711|
+-1.0575|36.7762|Githunguri|Kiambu County|63319|
+-1.3000|36.9905|Githunguri|Machakos County|63319|
+1.0166|39.4912|Habaswein|Wajir County|49599|
+-1.4826|40.0334|Hola|Tana River|20912|
+-0.5273|34.4571|Homa Bay|Homa Bay|44949|
+-1.3232|36.8802|Imara Daima Estate|Nairobi County|52837|
+-1.2251|34.4639|Isebania|Migori County|23891|
+0.3546|37.5822|Isiolo|Isiolo|78650|
+0.6708|35.5083|Iten|Elgeyo-Marakwet|42000|
+0.6703|35.5081|Iten|Kilifi|42000|
+-3.9862|39.6082|Jomvu|Mombasa County|163415|
+-1.1015|37.0132|Juja|Kiambu County|156041|
+0.4919|35.7430|Kabarnet|Baringo|24661|
+-1.8524|36.7768|Kajiado|Kajiado|24678|
+0.2842|34.7523|Kakamega|Kakamega|1867579|
+3.7136|34.8572|Kakuma|Turkana County|22984|
+-0.6855|36.9646|Kangema|Murang'a|6424|
+-1.3034|37.3481|Kangundo|Machakos|10258|
+1.2333|35.3833|Kapcherop|Elgeyo-Marakwet|3240|
+1.2389|35.1119|Kapenguria|West Pokot|56000|
+0.2039|35.1050|Kapsabet|Nandi|41997|
+1.2167|35.3000|Kapsait|Elgeyo-Marakwet|0|
+1.0150|35.5225|Kapsowar|Elgeyo-Marakwet|9152|
+0.9789|35.5585|Kapsowar|Kilifi|9152|
+1.2000|35.4500|Kaptalamwa|Elgeyo-Marakwet|0|
+0.4333|35.5833|Kaptarakwa|Elgeyo-Marakwet|0|
+1.2333|35.6667|Kapyego|Elgeyo-Marakwet|0|
+-0.4841|37.1266|Karatina|Nyeri County|23552|
+-1.1764|36.7564|Karuri|Kiambu County|194342|
+-0.7000|37.1833|Karuri|Murang'a|194342|
+-0.9373|37.1228|Kenol|Murang'A|44086|
+-0.3677|35.2831|Kericho|Kericho|53804|
+-0.7761|34.9468|Keroka|Nyamira|10881|
+-0.4989|37.2803|Kerugoya|Kirinyaga|30045|
+0.1712|34.5947|Khwisero|Kakamega County|113294|
+-1.1714|36.8356|Kiambu|Kiambu|147870|
+-1.1935|34.6197|Kihancha|Migori|22194|
+-0.9333|36.5723|Kijabe|Nakuru|4679|
+-1.2463|36.6629|Kikuyu|Kiambu|323881|
+-3.6305|39.8499|Kilifi|Kilifi|74270|
+0.0833|34.6667|Kilingili|Vihiga|0|
+0.7877|34.7156|Kimilili|Bungoma County|56050|
+0.8928|34.9247|Kiminini|Trans Nzoia|16560|
+-4.1372|39.3153|Kinango|Kwale|8070|
+-1.6558|37.3745|Kinoi|Machakos County|44086|
+-2.5257|40.5262|Kipini|Tana River|4114|
+-0.1998|35.4674|Kipkelion|Kericho|2952|
+0.9167|35.5333|Kipmwarer|Elgeyo-Marakwet|0|
+-1.4275|36.6865|Kiserian|Kajiado County|76903|
+-0.6817|34.7667|Kisii|Kisii|112417|
+-0.1022|34.7617|Kisumu|Kisumu|397957|
+1.0157|35.0062|Kitale|Trans Nzoia|162174|
+-1.4761|36.9614|Kitengela|Kajiado County|154436|
+-1.3670|38.0106|Kitui|Kitui|29062|
+0.4167|35.5667|Kocholwo|Elgeyo-Marakwet|0|
+-1.7395|37.1320|Konza|Machakos|2004|
+-4.1738|39.4521|Kwale|Kwale|10063|
+3.1511|41.1858|Lafey|Mandera County|22882|
+-2.2717|40.9020|Lamu|Lamu|25385|
+-1.3666|36.7332|Lang'ata|Nairobi County|172569|
+-1.1136|36.6420|Limuru|Kiambu|159314|
+-0.5825|35.1897|Litein|Kericho|13403|
+3.1199|35.5964|Lodwar|Turkana|82970|
+-0.1655|35.5936|Londiani|Kericho|4758|
+0.3135|34.0715|Luanda|Busia|10053|
+0.0043|34.5970|Luanda|Vihiga|13319|
+0.3934|34.3040|Lugulu|Busia|40894|
+-0.9886|36.5854|Maai Mahiu|Nakuru County|20823|
+-1.5223|37.2652|Machakos|Machakos|63767|
+-1.9012|36.2870|Magadi|Kajiado|14529|
+-0.9817|36.5864|Mai|Nakuru County|20823|
+0.0254|36.4087|Mairo Inya|Nyandarua County|30527|
+0.1000|34.6167|Majengo|Vihiga|11913|
+-2.2781|37.8187|Makindu|Makueni County|15038|
+-3.4000|38.1333|Maktau|Taita–Taveta|0|
+-1.8039|37.6240|Makueni Boma|Makueni|20681|
+1.2588|35.0957|Makutano|West Pokot County|28469|
+0.6351|34.2816|Malaba|Busia|15581|
+0.6769|34.4217|Malikisi|Bungoma|4319|
+-3.2180|40.1169|Malindi|Kilifi|119859|
+3.9373|41.8569|Mandera|Mandera|114718|
+-0.7960|37.1329|Maragua|Murang'a|8597|
+1.0967|36.6981|Maralal|Samburu|31350|
+-3.8626|39.4746|Mariakani|Kilifi|31715|
+2.3347|37.9909|Marsabit|Marsabit|36289|
+-1.6941|40.1701|Masalani|Tana River County|43642|
+0.0000|34.6000|Maseno|Vihiga|6771|
+-4.1680|39.5707|Matuga|Kwale County|194252|
+0.2332|37.9409|Maua|Meru|22121|
+-3.9643|39.5498|Mazeras|Kwale County|16254|
+0.0708|34.7242|Mbale|Vihiga|60000|
+0.0463|37.6559|Meru|Meru|80191|
+-3.4000|38.3167|Mgange|Taita–Taveta|0|
+-1.0634|34.4731|Migori|Migori|71668|
+-1.3964|36.9403|Mlolongo|Machakos County|136351|
+0.8718|35.1221|Moi‘s Bridge|Uasin Gishu County|16355|
+-0.2485|35.7319|Molo|Nakuru|48356|
+-4.0547|39.6636|Mombasa|Mombasa|1208333|
+3.5266|39.0561|Moyale|Marsabit|47850|
+-2.6899|38.1669|Mtito Andei|Makueni|5626|
+-3.9394|39.7488|Mtwapa|Kilifi County|90677|
+0.1333|34.7500|Mudete|Vihiga|0|
+-0.1582|35.1964|Muhoroni|Kisumu|15217|
+0.3347|34.4880|Mumias|Kakamega|45485|
+-0.7210|37.1526|Murang’a|Murang'a|43314|
+-1.3525|37.4548|Mwala|Machakos County|181896|
+-3.4000|38.2833|Mwanda|Taita–Taveta|0|
+-3.5033|38.3812|Mwatate|Taita–Taveta|9572|
+-0.9361|38.0596|Mwingi|Kitui|17025|
+-1.2833|36.8167|Nairobi|Nairobi City|4397073|
+-0.7138|36.4326|Naivasha|Nakuru|198444|
+-0.3072|36.0722|Nakuru|Nakuru|570674|
+0.4581|34.2535|Nambare|Busia|3993|
+0.1037|35.1843|Nandi Hills|Nandi|8032|
+0.0062|37.0740|Nanyuki|Laikipia|72813|
+-1.0808|35.8711|Narok|Narok|65430|
+-0.1636|37.0177|Naro Moru|Nyeri|9018|
+-1.3527|36.6699|Ngong|Kajiado|102323|
+-0.3302|35.9445|Njoro|Nakuru County|42173|
+0.0381|36.3634|Nyahururu|Laikipia|37650|
+-0.5633|34.9358|Nyamira|Nyamira|24483|
+-0.4201|36.9476|Nyeri|Nyeri|80081|
+-0.8012|34.7258|Ogembo|Kisii|20000|
+-0.2709|36.3792|Ol Kalou|Nyandarua|47795|
+-1.3953|36.7640|Ongata Rongai|Kajiado County|172569|
+-0.5465|36.9318|Othaya|Nyeri|6650|
+-0.5097|34.7307|Oyugis|Homa Bay|19947|
+0.0981|33.9725|Port Victoria|Busia|12194|
+-1.2833|36.8500|Pumwani|Nairobi City|29616|
+-0.4400|34.7390|Rachuonyo|Homa Bay|0|
+3.9315|41.2229|Ramu|Mandera County|35644|
+-0.1734|35.8631|Rongai|Nakuru|30471|
+-0.7568|34.5983|Rongo|Migori County|20688|
+-1.1466|36.9609|Ruiru|Kiambu County|490120|
+0.2725|36.5381|Rumuruti|Laikipia|13056|
+-0.6681|37.2088|Sagana|Kirinyaga|13000|
+-4.4717|39.4846|Sawa Sawa|Kwale|12975|
+0.0833|34.8833|Serem|Vihiga|3984|
+-4.6476|39.3817|Shimoni|Kwale|2374|
+0.0607|34.2881|Siaya|Siaya|33153|
+-0.6907|35.1110|Sotik|Bomet|4194|
+-0.7813|35.3416|Sotik Post|Bomet|0|
+3.3553|40.2228|Takaba|Mandera County|21517|
+-3.6835|39.8569|Takaungu|Kilifi|10760|
+0.7333|35.5833|Tambach|Elgeyo-Marakwet|0|
+-3.3988|37.6834|Taveta|Taita–Taveta|22018|
+-0.4342|36.9168|Tetu|Nyeri County|39293|
+-1.0333|37.0693|Thika|Kiambu|251407|
+-4.2929|39.5640|Ukunda|Kwale County|77686|
+-0.2121|36.2725|Upper Gilgil|Nyandarua County|60711|
+-3.3961|38.5563|Voi|Taita–Taveta|53353|
+-3.3960|38.5561|Voi|West Pokot|53353|
+1.7471|40.0573|Wajir|Wajir|90116|
+-0.6839|37.3570|Wanguru|Kirinyaga County|51722|
+-3.3533|40.0209|Watamu|Kilifi County|27857|
+0.6004|34.7712|Webuye|Bungoma|42642|
+-3.4000|38.3500|Wesu|Taita–Taveta|0|
+-2.3889|40.4383|Witu|Lamu|5380|
+-1.7808|37.6288|Wote|Makueni|19725|
+-3.4085|38.3651|Wundanyi|Taita–Taveta|12501|
+-3.3964|38.3573|Wundanyi|West Pokot|12501|
+0.0944|34.5360|Yala|Siaya|3237|

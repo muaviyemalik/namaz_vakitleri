@@ -1,528 +1,530 @@
-5.1066|7.3667|Aba
-4.9933|7.7895|Abak
-6.3248|8.1137|Abakaliki
-4.7631|6.8403|Abalama
-7.1557|3.3451|Abeokuta
-7.5677|6.9863|Abocho
-4.7231|6.7788|Abonnema
-5.7902|6.1047|Abraka
-9.0579|7.4951|Abuja
-6.6507|3.2655|Abule Egba
-6.7397|7.0112|Adani
-7.6233|5.2209|Ado-Ekiti
-6.6000|2.9333|Ado Odo
-6.9769|7.1626|Adoru
-5.8926|7.9353|Afikpo
-6.5886|4.8343|Agbabu
-6.2538|6.1942|Agbor
-6.6152|3.3003|Agege
-7.1051|6.6938|Agenebode
-8.5000|3.4167|Ago Are
-6.1005|7.0610|Agulu
-5.0833|6.6500|Ahoada
-7.5623|6.6550|Ajaokuta
-8.2333|4.8167|Ajasse Ipo
-6.4520|3.3312|Ajegunle
-5.1264|8.1898|Akankpa
-5.9168|7.6761|Ake-Eze
-10.2890|10.9732|Akko
-6.6101|3.3097|Akowonjo
-6.7090|7.3183|Aku
-7.2526|5.1931|Akure
-8.9108|8.4065|Akwanga
-8.6167|4.3833|Alapa
-6.4749|3.1691|Alasia
-7.2963|8.4828|Aliade
-6.4500|3.3333|Aliayabiagba
-6.5889|3.2485|Alimosho
-6.3306|7.6525|Amagunze
-5.7892|7.8383|Amaigbo
-4.9703|6.1091|Amassoma
-9.3551|9.7012|Amper
-6.4467|3.1968|Amuwo-Odofin
-10.9625|8.3923|Anchau
-12.1135|5.9268|Anka
-7.4025|7.6320|Ankpa
-6.4488|3.3590|Apapa
-7.3516|4.1833|Apomu
-7.7048|5.0405|Aramoko-Ekiti
-12.7448|4.5251|Argungu
-5.3894|7.9123|Arochukwu
-6.1982|6.7319|Asaba
-9.0479|7.5155|Asokoro
-6.0128|6.7477|Atani
-7.0676|6.2636|Auchi
-10.1881|4.7232|Auna
-6.0728|7.4774|Awgu
-6.2127|7.0720|Awka
-11.6748|10.1907|Azare
-10.4295|3.8150|Babana
-12.7726|9.0152|Babura
-6.4150|2.8813|Badagry
-9.0563|6.1430|Badeggi
-11.4035|4.2257|Bagudo
-7.2309|10.6244|Baissa
-11.5213|13.6895|Bama
-9.1136|7.1096|Bamburu
-10.3744|10.7288|Bara
-6.5393|3.3763|Bariga
-8.6157|6.4185|Baro
-10.3103|9.8439|Bauchi
-7.8587|10.9719|Beli
-11.2844|5.9347|Bena
-5.5587|7.6336|Bende
-6.3381|5.6258|Benin City
-11.8092|12.4915|Benisheikh
-9.0804|6.0099|Bida
-9.8671|11.2259|Biliri
-9.8654|11.2262|Billiri
-13.2229|4.9089|Binji
-10.7823|4.8114|Bin Yauri
-12.4539|4.1975|Birnin Kebbi
-11.4521|9.4786|Birnin Kudu
-12.7907|10.2361|Birniwa
-10.6128|12.1946|Biu
-8.9390|4.7823|Bode Saadu
-9.5611|9.5015|Boi
-7.3557|7.8930|Boju
-9.4333|5.2000|Bokani
-5.1607|5.9238|Bomadi
-4.4516|7.1707|Bonny
-4.6728|7.3703|Bori
-12.2750|12.5686|Bornu Yassu
-8.4906|7.3414|Buga
-7.9992|7.5836|Bugana
-4.7333|6.8667|Buguma
-9.7940|8.8640|Bukuru
-9.8822|9.6806|Bununu
-11.3911|8.7234|Burumburum
-5.3533|5.5083|Burutu
-9.2682|7.3543|Bwari
-4.9589|8.3270|Calabar
-11.5596|9.6641|Chakwama
-4.9908|7.0544|Chokocho
-11.4765|5.2062|Dabai
-9.6167|11.4333|Dadiya
-11.6481|4.0618|Dakingari
-13.1052|12.5085|Damasak
-11.7470|11.9608|Damaturu
-11.1553|12.7564|Damboa
-12.8531|5.3457|Dange
-11.5349|8.1522|Dan Gora
-11.3771|7.5610|Danja
-11.7445|12.1854|Dankalwa
-13.2978|7.7949|Dankama
-11.2962|6.4952|Dan Sadau
-12.4954|11.4998|Dapchi
-10.9992|10.4106|Darazo
-10.0007|9.5160|Dass
-13.0330|8.3235|Daura
-10.2119|11.3871|Deba
-4.7614|6.7496|Degema Hulk
-7.6897|7.0438|Dekina
-9.3687|9.9622|Dengi
-12.0361|13.9182|Dikwa
-10.2263|10.1513|Dindima
-11.4814|9.9190|Disina
-8.3931|8.3554|Doma
-10.8238|10.7722|Dukku
-11.2361|4.9073|Duku
-11.7562|9.3390|Dutse
-10.8501|8.1990|Dutsen Wai
-12.4539|7.4972|Dutsin-Ma
-4.5498|7.7839|Eastern Obolo
-6.6009|3.4882|Ebute Ikorodu
-6.4844|3.3759|Ebute Metta
-7.7363|4.4354|Ede
-6.6311|8.0581|Effium
-7.6565|4.9223|Efon-Alaaye
-8.2167|5.5167|Egbe
-6.6592|7.7596|Eha Amufu
-7.9029|4.3142|Ejigbo
-6.6142|3.9002|Ejirin
-4.6423|7.9244|Eket
-6.7430|6.1403|Ekpoma
-5.1018|6.8190|Elele
-7.4364|5.4592|Emure-Ekiti
-6.4413|7.4988|Enugu
-6.9827|7.4553|Enugu-Ezike
-6.1715|7.0053|Enugu-Ukwu
-6.5841|3.9834|Epe
-7.5391|3.4245|Eruwa
-4.6355|7.8993|Esit Eket
-5.0167|7.8500|Essien Udim
-4.8029|8.2534|Esuk Oron
-7.0896|7.4534|Ete
-4.9667|7.7000|Etim Ekpo
-4.9000|7.9500|Etinan
-6.4681|3.3709|Eti-Osa
-6.4409|8.0843|Ezza-Ohu
-6.4718|3.2649|Festac
-7.7136|3.9172|Fiditi
-11.3770|11.2375|Fika
-11.4720|7.3070|Funtua
-11.1093|10.4441|Gabarin
-12.4085|9.5288|Gagarawa
-6.7696|8.9912|Gakem
-12.3730|14.2069|Gamboru
-12.9636|5.7434|Gandi
-8.4350|12.0511|Ganye
-9.0319|7.4828|Garki
-10.1751|11.1646|Garko
-12.8740|11.0406|Gashua
-8.5353|10.4461|Gassol
-11.8606|9.0027|Gaya
-7.3316|8.9760|Gboko
-7.4773|4.3535|Gbongan
-12.8944|11.9265|Geidam
-6.7256|11.2565|Gembu
-10.2897|11.1673|Gombe
-10.1676|12.7368|Gombi
-11.4845|12.3126|Goniri
-11.9129|7.6653|Gora
-12.6396|10.7042|Gorgoram
-13.4423|5.6723|Goronyo
-11.4996|11.9340|Gujba
-12.6423|4.3555|Gulma
-12.6269|9.3881|Gumel
-12.1448|5.1178|Gummi
-12.1702|6.6641|Gusau
-13.3582|5.2381|Gwadabawa
-8.9508|7.0767|Gwagwalada
-12.5020|4.6429|Gwandu
-10.2330|10.2857|Gwaram
-9.1099|7.4042|Gwarinpa
-11.9160|7.9337|Gwarzo
-9.4833|3.5000|Gwasero
-12.6748|11.0669|Gwio Kura
-11.0831|13.6959|Gwoza
-12.4535|10.0412|Hadejia
-10.3043|11.4991|Hinna
-9.8986|13.0545|Holma
-11.2668|7.6492|Hunkuyi
-7.3776|3.9059|Ibadan
-6.4576|3.6232|Ibeju-Lekki
-4.5333|8.0667|Ibeno
-4.9333|7.9333|Ibesikpo Asutan
-10.4854|5.1450|Ibeto
-8.1812|9.7443|Ibi
-5.1167|7.9167|Ibiono-Ibom
-7.7067|6.7718|Icheu
-7.1135|6.7387|Idah
-7.1127|5.1159|Idanre
-6.6333|2.7333|Idi Iroko
-6.5834|3.2044|Idimu
-7.7894|5.2485|Ifaki
-6.6831|3.2208|Ifako-Ijaiye
-6.8149|3.1952|Ifo
-6.9297|5.7737|Ifon
-6.5513|3.2218|Igando
-7.6807|3.1841|Igangan
-7.2937|6.1043|Igarra
-7.5025|5.0626|Igbara-Odo
-8.7492|4.1311|Igbeti
-8.8378|3.7563|Igboho
-7.4338|3.2879|Igbo-Ora
-7.4512|8.6081|Igbor
-6.0180|7.0203|Igbo-Ukwu
-7.6685|5.1263|Igede-Ekiti
-5.8548|6.8594|Ihiala
-5.5823|7.0990|Iho
-6.7784|4.0339|Ijebu-Ife
-6.9720|3.9994|Ijebu-Igbo
-7.6829|4.8177|Ijebu-Jesa
-6.8194|3.9173|Ijebu-Ode
-7.8151|5.0672|Ijero-Ekiti
-6.7424|3.2622|Ijoko
-6.4633|3.3406|Ijora
-4.9167|7.6500|Ika
-4.7898|8.5316|Ikang
-7.5259|5.7534|Ikare
-6.5965|3.3420|Ikeja
-6.7799|7.7148|Ikem
-7.4975|5.2304|Ikere-Ekiti
-7.3698|4.1863|Ikire
-7.9128|4.6674|Ikirun
-5.9667|8.7063|Ikom
-5.1333|7.6833|Ikono
-6.6153|3.5069|Ikorodu
-4.5667|7.5667|Ikot Abasi
-5.1819|7.7148|Ikot Ekpene
-8.0171|4.9042|Ila Orangun
-7.3507|5.1133|Ilare
-6.8890|3.0142|Ilaro
-7.5949|5.1034|Ilawe-Ekiti
-7.4824|4.5603|Ile-Ife
-7.6279|4.7416|Ilesa
-13.7306|5.2978|Illela
-6.6703|6.6291|Illushi
-7.8404|4.4856|Ilobu
-8.4966|4.5421|Ilorin
-7.4489|2.8429|Imeko
-5.2000|7.7500|Ini
-7.8500|4.3333|Inisa
-6.6098|3.2230|Ipaja
-6.9100|3.6656|Iperu
-7.8738|5.0769|Ipoti
-6.4169|3.1406|Irewe
-8.2744|5.8353|Isanlu-Itedoijowa
-6.9935|3.6815|Isara
-7.4648|5.4233|Ise-Ekiti
-7.9702|3.5963|Iseyin
-6.5809|3.2742|Isheri-Olofin
-6.3819|8.0374|Isieke
-5.2013|7.9837|Itu
-7.6353|4.1816|Iwo
-6.6606|3.1798|Iyesi
-8.8937|11.3596|Jalingo
-9.1197|4.8236|Jebba
-12.2234|4.3797|Jega
-13.0938|7.2262|Jibia
-12.1733|7.7742|Jikamshi
-8.9913|7.5563|Jikwoyi
-9.2795|12.4582|Jimeta
-9.9285|8.8921|Jos
-7.8272|6.0750|Kabba
-9.8734|7.9541|Kachia
-10.5264|7.4388|Kaduna
-9.5813|8.2926|Kafanchan
-10.3830|11.0957|Kafarati
-12.2393|9.9110|Kafin Hausa
-9.6078|8.3904|Kagoro
-9.6053|3.9410|Kaiama
-10.3228|7.6846|Kajuru
-9.8200|11.3087|Kaltungo
-11.8517|3.6548|Kamba
-12.5534|3.8181|Kangiwa
-11.9311|7.4112|Kankara
-12.0001|8.5167|Kano
-11.2471|10.5610|Kari
-8.9928|7.5725|Karu
-12.9908|7.6018|Katsina
-7.1694|9.2846|Katsina-Ala
-12.5937|6.5865|Kaura Namoda
-12.6485|8.4118|Kazaure
-8.8465|7.8735|Keffi
-11.5197|4.2603|Kende
-9.0830|3.8520|Kisi
-11.7844|9.6069|Kiyawa
-10.8469|4.0983|Konkwesso
-10.4032|5.4708|Kontagora
-8.0912|6.7978|Koton-Karfe
-9.1538|7.3220|Kubwa
-10.4577|7.6381|Kujama
-8.8795|7.2276|Kuje
-12.9247|13.5662|Kukawa
-13.1550|10.6347|Kumagunnam
-10.0481|11.2105|Kumo
-9.0151|7.5349|Kurunduma
-10.5328|6.4422|Kusheriki
-9.8686|6.7104|Kuta
-5.7077|6.4340|Kwale
-8.8835|7.0186|Kwali
-12.1408|6.8220|Kwatarkwashi
-8.9036|9.2909|Kwolla
-8.4939|8.5153|Lafia
-8.8530|5.4164|Lafiagi
-6.4541|3.3947|Lagos
-6.4500|3.4000|Lagos Island
-11.9802|11.4400|Lajere
-7.4679|4.0659|Lalupon
-10.4415|9.2395|Lame
-9.1416|9.7910|Langtang
-9.0444|6.5709|Lapai
-9.2083|11.2754|Lau
-6.5115|3.4445|Lekki
-10.3858|8.5729|Lere
-7.7969|6.7405|Lokoja
-13.1364|10.0492|Machina
-10.8894|13.6283|Madagali
-9.1044|7.2133|Madala
-11.7798|10.4479|Madara
-12.1145|12.8262|Magumeri
-11.5534|4.9814|Mahuta
-11.8469|13.1571|Maiduguri
-9.0882|7.4934|Maitama
-12.0823|4.3691|Maiyama
-6.4961|3.3878|Makoko
-7.7337|8.5214|Makurdi
-12.5643|9.9573|Mallammaduri
-11.7894|7.6206|Malumfashi
-10.7167|6.5667|Mando
-12.3653|13.8293|Marte
-12.3336|6.4037|Maru
-12.9804|7.9470|Mashi
-9.0542|12.0579|Mayo-Belwa
-6.1731|7.6302|Mberubu
-4.4667|8.0833|Mbo
-9.6152|6.5478|Minna
-10.7311|12.1463|Miringa
-11.3137|10.4666|Misau
-5.0333|7.7500|Mkpat-Enin
-7.3830|4.2603|Modakeke
-9.2948|5.0541|Mokwa
-12.6706|13.6122|Monguno
-12.8741|6.4875|Moriki
-10.2686|13.2670|Mubi
-6.5356|3.3302|Mushin
-8.6414|10.7736|Mutum Biyu
-11.0960|11.3326|Nafada
-8.5389|7.7082|Nasarawa
-10.3396|4.4688|New Shagunnu
-12.3405|14.1867|Ngala
-9.2887|12.2403|Ngurore
-12.8770|10.4554|Nguru
-6.1504|6.8304|Nkpor
-5.7592|7.1038|Nkwerre
-6.0196|6.9173|Nnewi
-5.0667|7.7333|Nsit-Atai
-4.9833|7.8000|Nsit-Ibom
-4.9333|7.9833|Nsit-Ubium
-6.8578|7.3958|Nsukka
-9.4637|12.0306|Numan
-6.4469|3.4153|Obalende
-5.8467|6.1529|Obiaruku
-6.8833|7.6333|Obolo-Eke (1)
-4.7114|6.7908|Obonoma
-5.2667|7.7167|Obot Akara
-6.6682|9.1645|Obudu
-7.1805|7.9824|Ochobo
-7.7899|5.7117|Ode
-8.1491|4.7207|Offa
-7.5938|6.2180|Ogaminana
-6.6231|3.3342|Ogba
-8.1337|4.2401|Ogbomoso
-6.6584|8.7992|Ogoja
-6.7864|6.9502|Ogurugu
-5.7104|6.8094|Oguta
-6.1781|6.5246|Ogwashi-Uku
-5.6146|7.8119|Ohafia-Ifigh
-6.4620|3.0797|Ojo
-6.6455|3.3664|Ojodu Berger
-6.5852|3.3709|Ojota
-8.0339|3.3476|Okeho
-7.9500|4.9833|Oke Ila
-7.8167|4.9167|Oke Mesi
-7.5512|6.2359|Okene
-5.8292|7.3506|Okigwe
-4.5500|8.1167|Okobo
-4.7421|7.0837|Okrika
-9.2167|3.1833|Okuta
-7.6000|4.1833|Olupona
-5.3420|6.6560|Omoku
-8.1386|5.1026|Omu-Aran
-7.7583|5.7223|Omuo-Ekiti
-7.0932|4.8353|Ondo
-6.1498|6.7857|Onitsha
-4.7500|8.0000|Onna
-4.7444|7.0361|Onne
-6.7822|7.4332|Opi
-4.5114|7.5400|Opobo
-6.7472|4.8761|Ore
-5.6375|5.8901|Orerokpe
-7.5500|3.4333|Orita Eruwa
-5.7957|7.0351|Orlu
-5.6167|7.0333|Orodo
-4.8017|8.2358|Oron
-4.9667|7.5500|Oruk Anam
-6.5550|3.3436|Oshodi
-6.5365|3.2755|Oshodi-Isolo
-7.7710|4.5570|Osogbo
-6.6887|3.2320|Ota
-7.9478|4.7884|Otan Ayegbaju
-7.1017|7.6594|Otukpa
-5.4836|7.0332|Owerri
-7.1962|5.5868|Owo
-6.9485|3.5056|Owode
-8.0500|4.7667|Oyan
-7.7980|5.3285|Oye-Ekiti
-7.8526|3.9312|Oyo
-5.9575|6.8530|Ozubulu
-9.3254|9.4352|Pankshin
-9.4076|9.2148|Panyam
-5.2289|6.1914|Patani
-8.7285|5.7556|Patigi
-9.9843|10.9523|Pindiga
-4.7500|7.0000|Port Harcourt
-11.7139|11.0811|Potiskum
-13.1226|5.5076|Rabah
-11.5568|8.5807|Rano
-11.1039|5.2556|Rijau
-12.1514|9.1622|Ringim
-7.9084|9.6169|Riti
-6.6819|3.1431|River Atuwara
-12.8626|7.2347|Ruma
-4.8667|6.9833|Rumuokoro
-12.4479|7.3092|Runka
-11.3595|10.6732|Sade
-8.6676|3.3939|Saki
-11.3487|9.6399|Samamiya
-10.4123|8.6875|Saminaka
-5.8941|5.6767|Sapele
-11.7265|6.7837|Sauri
-10.5067|12.3331|Shaffa
-6.8485|3.6463|Shagamu
-11.2137|4.5794|Shanga
-10.2182|12.0606|Shani
-6.5376|3.3651|Shomolu
-6.5359|5.1601|Siluko
-10.9813|8.0575|Soba
-11.0154|6.7804|Sofo-Birnin-Gwari
-13.0627|5.2432|Sokoto
-9.1806|7.1794|Suleja
-6.4901|3.3025|Surulere
-9.4667|3.1833|Suya
-7.2667|9.9833|Takum
-12.5684|6.0622|Talata Mafara
-12.4059|4.6460|Tambuwal
-10.0706|6.1906|Tegina
-11.2213|13.4878|Tokombere
-8.1173|12.0461|Toungo
-11.9578|6.9208|Tsafe
-4.3123|6.2409|Twon-Brass
-10.4551|13.2223|Uba
-6.6558|6.3849|Ubiaja
-6.3159|7.4209|Udi
-4.4333|7.9500|Udung-Uko
-5.9358|7.0793|Uga
-7.6532|7.8841|Ugbokpo
-5.8087|8.0810|Ugep
-5.4896|6.0041|Ughelli
-4.9667|7.8167|Ukanafun
-10.8312|5.8249|Ukata
-5.5249|7.4946|Umuahia
-6.2655|6.3096|Umunede
-6.7000|6.3333|Uromi
-5.0333|8.0833|Uruan
-4.7167|8.1833|Urue-Offong/Oruko
-5.9002|6.8431|Uruobo-Okija
-5.0513|7.9335|Uyo
-6.4300|3.4022|Victoria Island
-9.7291|8.7914|Vom
-12.6878|7.1958|Wagini
-8.9415|8.6031|Wamba
-5.5174|5.7501|Warri
-11.3764|5.7954|Wasagu
-9.9022|4.4192|Wawa
-11.8094|8.8442|Wudil
-7.8714|9.7779|Wukari
-13.2905|5.4237|Wurno
-9.0747|7.4760|Wuse
-10.3852|11.6968|Wuyo
-6.5059|3.3601|Yaba
-11.3862|12.7199|Yajiwa
-10.1116|9.8260|Yamrat
-11.5071|10.7459|Yanda Bayo
-7.3631|9.0424|Yandev
-9.7667|3.4000|Yashikera
-8.8333|9.6333|Yelwa
-4.9268|6.2676|Yenagoa
-9.2084|12.4815|Yola
-9.6971|10.2735|Yuli
-11.4496|10.3672|Zadawa
-7.5067|9.6104|Zaki Biam
-10.6143|10.1765|Zalanga
-11.1113|7.7227|Zaria
-9.1023|7.1952|Zuba
-9.8073|6.1524|Zungeru
-11.4352|5.2349|Zuru
+5.1066|7.3667|Aba|Abia|1160000|
+4.9933|7.7895|Abak|Akwa Ibom|12562|
+6.3248|8.1137|Abakaliki|Ebonyi|134102|
+4.7631|6.8403|Abalama|Rivers|0|
+7.1557|3.3451|Abeokuta|Ogun|735000|
+7.5677|6.9863|Abocho|Kogi|6801|
+4.7231|6.7788|Abonnema|Rivers|0|
+5.7902|6.1047|Abraka|Delta|6940|
+9.0579|7.4951|Abuja|Abuja Federal Capital Territory|2690000|
+6.6507|3.2655|Abule Egba|Lagos|0|
+6.7397|7.0112|Adani|Enugu|6161|
+7.6233|5.2209|Ado-Ekiti|Ekiti|435000|
+6.6000|2.9333|Ado Odo|Ogun|15442|
+6.9769|7.1626|Adoru|Kogi|8203|
+5.8926|7.9353|Afikpo|Ebonyi|71866|
+6.5886|4.8343|Agbabu|Ondo|8611|
+6.2538|6.1942|Agbor|Delta|67610|
+6.6152|3.3003|Agege|Lagos|683600|
+7.1051|6.6938|Agenebode|Edo|12730|
+8.5000|3.4167|Ago Are|Oyo|13919|
+6.1005|7.0610|Agulu|Anambra|79021|
+5.0833|6.6500|Ahoada|Rivers|12848|
+7.5623|6.6550|Ajaokuta|Kogi State|15144|
+8.2333|4.8167|Ajasse Ipo|Kwara|12718|
+6.4520|3.3312|Ajegunle|Lagos|550000|
+5.1264|8.1898|Akankpa|Cross River|7000|
+5.9168|7.6761|Ake-Eze|Enugu|6537|
+10.2890|10.9732|Akko|Gombe|6129|
+6.6101|3.3097|Akowonjo|Lagos|308900|
+6.7090|7.3183|Aku|Enugu|73742|
+7.2526|5.1931|Akure|Ondo|730000|
+8.9108|8.4065|Akwanga|Nasarawa State|15985|
+8.6167|4.3833|Alapa|Oyo|9584|
+6.4749|3.1691|Alasia|Lagos|100000|
+7.2963|8.4828|Aliade|Benue|10292|
+6.4500|3.3333|Aliayabiagba|Lagos|228000|
+6.5889|3.2485|Alimosho|Lagos|308290|
+6.3306|7.6525|Amagunze|Enugu|9598|
+5.7892|7.8383|Amaigbo|Abia|127300|
+4.9703|6.1091|Amassoma|Bayelsa|6970|
+9.3551|9.7012|Amper|Plateau|12212|
+6.4467|3.1968|Amuwo-Odofin|Lagos|0|
+10.9625|8.3923|Anchau|Kaduna|15538|
+12.1135|5.9268|Anka|Zamfara|11641|
+7.4025|7.6320|Ankpa|Kogi|14630|
+6.4488|3.3590|Apapa|Lagos|0|
+7.3516|4.1833|Apomu|Osun|71656|
+7.7048|5.0405|Aramoko-Ekiti|Ekiti|74491|
+12.7448|4.5251|Argungu|Kebbi|45584|
+5.3894|7.9123|Arochukwu|Abia|10776|
+6.1982|6.7319|Asaba|Delta|73374|
+9.0479|7.5155|Asokoro|Abuja Federal Capital Territory|0|
+6.0128|6.7477|Atani|Anambra|230000|
+7.0676|6.2636|Auchi|Edo|62907|
+10.1881|4.7232|Auna|Niger|8590|
+6.0728|7.4774|Awgu|Enugu|23175|
+6.2127|7.0720|Awka|Anambra|167738|
+11.6748|10.1907|Azare|Bauchi|105687|
+10.4295|3.8150|Babana|Niger|17617|
+12.7726|9.0152|Babura|Jigawa|7267|
+6.4150|2.8813|Badagry|Lagos|26383|
+9.0563|6.1430|Badeggi|Niger|8283|
+11.4035|4.2257|Bagudo|Kebbi|6924|
+7.2309|10.6244|Baissa|Taraba|8911|
+11.5213|13.6895|Bama|Borno|118121|
+9.1136|7.1096|Bamburu|Abuja Federal Capital Territory|0|
+10.3744|10.7288|Bara|Gombe|11673|
+6.5393|3.3763|Bariga|Lagos|0|
+8.6157|6.4185|Baro|Niger|26821|
+10.3103|9.8439|Bauchi|Bauchi|693700|
+7.8587|10.9719|Beli|Taraba|17467|
+11.2844|5.9347|Bena|Kebbi|8361|
+5.5587|7.6336|Bende|Abia|79618|
+6.3381|5.6258|Benin City|Edo|1782000|
+11.8092|12.4915|Benisheikh|Borno|9825|
+9.0804|6.0099|Bida|Niger State|400000|
+9.8671|11.2259|Biliri|Gombe State|15976|
+9.8654|11.2262|Billiri|Gombe|0|
+13.2229|4.9089|Binji|Sokoto|6717|
+10.7823|4.8114|Bin Yauri|Kebbi|11501|
+12.4539|4.1975|Birnin Kebbi|Kebbi|108164|
+11.4521|9.4786|Birnin Kudu|Jigawa|26565|
+12.7907|10.2361|Birniwa|Jigawa|9334|
+10.6128|12.1946|Biu|Borno|95005|
+8.9390|4.7823|Bode Saadu|Kwara|16619|
+9.5611|9.5015|Boi|Bauchi|6033|
+7.3557|7.8930|Boju|Benue|12814|
+9.4333|5.2000|Bokani|Niger|8624|
+5.1607|5.9238|Bomadi|Delta|8402|
+4.4516|7.1707|Bonny|Rivers State|16868|
+4.6728|7.3703|Bori|Rivers|11693|
+12.2750|12.5686|Bornu Yassu|Borno|5811|
+8.4906|7.3414|Buga|Nasarawa|9913|
+7.9992|7.5836|Bugana|Kogi|9737|
+4.7333|6.8667|Buguma|Rivers|135404|
+9.7940|8.8640|Bukuru|Plateau|15540|
+9.8822|9.6806|Bununu|Bauchi|6123|
+11.3911|8.7234|Burumburum|Kaduna|11689|
+5.3533|5.5083|Burutu|Delta|16410|
+9.2682|7.3543|Bwari|Abuja Federal Capital Territory|0|
+4.9589|8.3270|Calabar|Cross River|540000|
+11.5596|9.6641|Chakwama|Jigawa State|200000|
+4.9908|7.0544|Chokocho|Rivers|0|
+11.4765|5.2062|Dabai|Kebbi|6012|
+9.6167|11.4333|Dadiya|Gombe|7152|
+11.6481|4.0618|Dakingari|Kebbi|12558|
+13.1052|12.5085|Damasak|Borno|13874|
+11.7470|11.9608|Damaturu|Yobe|46000|
+11.1553|12.7564|Damboa|Borno|21571|
+12.8531|5.3457|Dange|Sokoto|12369|
+11.5349|8.1522|Dan Gora|Kano|7907|
+11.3771|7.5610|Danja|Katsina|9736|
+11.7445|12.1854|Dankalwa|Yobe|5730|
+13.2978|7.7949|Dankama|Katsina|6531|
+11.2962|6.4952|Dan Sadau|Zamfara|7568|
+12.4954|11.4998|Dapchi|Yobe|14077|
+10.9992|10.4106|Darazo|Bauchi|18415|
+10.0007|9.5160|Dass|Bauchi|7417|
+13.0330|8.3235|Daura|Katsina|25289|
+11.5541|11.4060|Daura|Yobe State|78277|
+10.2119|11.3871|Deba|Gombe|17671|
+4.7614|6.7496|Degema Hulk|Rivers State|19223|
+7.6897|7.0438|Dekina|Kogi|11067|
+9.3687|9.9622|Dengi|Plateau|6276|
+12.0361|13.9182|Dikwa|Borno|29026|
+10.2263|10.1513|Dindima|Bauchi|13356|
+11.4814|9.9190|Disina|Bauchi|5833|
+8.3931|8.3554|Doma|Nasarawa|15097|
+10.8238|10.7722|Dukku|Gombe|16961|
+11.2361|4.9073|Duku|Niger|8014|
+11.7562|9.3390|Dutse|Jigawa|17129|
+10.8501|8.1990|Dutsen Wai|Kaduna|22062|
+12.4539|7.4972|Dutsin-Ma|Katsina|12595|
+4.5498|7.7839|Eastern Obolo|Akwa Ibom|0|
+6.6009|3.4882|Ebute Ikorodu|Lagos|535619|
+6.4844|3.3759|Ebute Metta|Lagos|0|
+7.7363|4.4354|Ede|Osun State|159866|
+6.6311|8.0581|Effium|Ebonyi|86945|
+7.6565|4.9223|Efon-Alaaye|Ekiti|279319|
+8.2167|5.5167|Egbe|Kogi|17612|
+6.6592|7.7596|Eha Amufu|Enugu|70779|
+7.9029|4.3142|Ejigbo|Osun|138357|
+6.6142|3.9002|Ejirin|Lagos|9204|
+4.6423|7.9244|Eket|Akwa Ibom|25569|
+6.7430|6.1403|Ekpoma|Edo|59618|
+5.1018|6.8190|Elele|Rivers|20620|
+7.4364|5.4592|Emure-Ekiti|Ekiti|90645|
+6.4413|7.4988|Enugu|Enugu|950000|
+6.9827|7.4553|Enugu-Ezike|Enugu|18989|
+6.1715|7.0053|Enugu-Ukwu|Anambra|68785|
+6.5841|3.9834|Epe|Lagos|84711|
+7.5391|3.4245|Eruwa|Oyo State|34802|
+4.6355|7.8993|Esit Eket|Akwa Ibom|0|
+5.0167|7.8500|Essien Udim|Akwa Ibom|0|
+4.8029|8.2534|Esuk Oron|Akwa Ibom|112033|
+7.0896|7.4534|Ete|Enugu|9805|
+4.9667|7.7000|Etim Ekpo|Akwa Ibom|0|
+4.9000|7.9500|Etinan|Akwa Ibom|10318|
+6.4681|3.3709|Eti-Osa|Lagos|0|
+6.4409|8.0843|Ezza-Ohu|Ebonyi|67414|
+6.4718|3.2649|Festac|Lagos|0|
+7.7136|3.9172|Fiditi|Oyo|71461|
+11.3770|11.2375|Fika|Yobe|0|
+11.4720|7.3070|Funtua|Katsina|136811|
+11.1093|10.4441|Gabarin|Bauchi|10160|
+12.4085|9.5288|Gagarawa|Jigawa|11450|
+6.7696|8.9912|Gakem|Cross River|5865|
+12.3730|14.2069|Gamboru|Borno|84672|
+12.9636|5.7434|Gandi|Sokoto|13940|
+8.4350|12.0511|Ganye|Adamawa|15178|
+9.0319|7.4828|Garki|Abuja Federal Capital Territory|0|
+10.1751|11.1646|Garko|Gombe|21141|
+12.8740|11.0406|Gashua|Yobe|125817|
+8.5353|10.4461|Gassol|Taraba|14326|
+11.8606|9.0027|Gaya|Kano|20959|
+7.3316|8.9760|Gboko|Benue|365000|
+7.4773|4.3535|Gbongan|Osun|139485|
+12.8944|11.9265|Geidam|Yobe|41367|
+6.7256|11.2565|Gembu|Taraba|19881|
+10.2897|11.1673|Gombe|Gombe|560000|
+10.1676|12.7368|Gombi|Adamawa|19616|
+11.4845|12.3126|Goniri|Yobe|11673|
+11.9129|7.6653|Gora|Katsina|5867|
+12.6396|10.7042|Gorgoram|Yobe|12470|
+13.4423|5.6723|Goronyo|Sokoto|10460|
+11.4996|11.9340|Gujba|Yobe|11359|
+12.6423|4.3555|Gulma|Kebbi|6719|
+12.6269|9.3881|Gumel|Jigawa|42742|
+12.1448|5.1178|Gummi|Zamfara|38744|
+12.1702|6.6641|Gusau|Zamfara|226857|
+13.3582|5.2381|Gwadabawa|Sokoto|17486|
+8.9508|7.0767|Gwagwalada|Abuja Federal Capital Territory|0|
+12.5020|4.6429|Gwandu|Kebbi|10018|
+10.2330|10.2857|Gwaram|Bauchi|6700|
+11.2773|9.8839|Gwaram|Jigawa State|15806|
+9.1099|7.4042|Gwarinpa|Abuja Federal Capital Territory|0|
+11.9160|7.9337|Gwarzo|Kano State|16303|
+9.4833|3.5000|Gwasero|Kwara|0|
+12.6748|11.0669|Gwio Kura|Yobe|7091|
+11.0831|13.6959|Gwoza|Borno|15176|
+12.4535|10.0412|Hadejia|Jigawa|110753|
+10.3043|11.4991|Hinna|Gombe|7826|
+9.8986|13.0545|Holma|Adamawa|9199|
+11.2668|7.6492|Hunkuyi|Kaduna|8465|
+7.3776|3.9059|Ibadan|Oyo|3649000|
+6.4576|3.6232|Ibeju-Lekki|Lagos|0|
+4.5333|8.0667|Ibeno|Akwa Ibom|0|
+4.9333|7.9333|Ibesikpo Asutan|Akwa Ibom|0|
+10.4854|5.1450|Ibeto|Niger|15565|
+8.1812|9.7443|Ibi|Taraba|22757|
+5.1167|7.9167|Ibiono-Ibom|Akwa Ibom|0|
+7.7067|6.7718|Icheu|Kogi|14704|
+7.1135|6.7387|Idah|Kogi|68703|
+7.1127|5.1159|Idanre|Ondo|86468|
+6.6333|2.7333|Idi Iroko|Ogun|0|
+6.5834|3.2044|Idimu|Lagos|0|
+7.7894|5.2485|Ifaki|Ekiti|9185|
+6.6831|3.2208|Ifako-Ijaiye|Lagos|0|
+6.8149|3.1952|Ifo|Ogun|88272|
+6.9297|5.7737|Ifon|Ondo|7623|
+6.5513|3.2218|Igando|Lagos|0|
+7.6807|3.1841|Igangan|Oyo State|36447|
+7.2937|6.1043|Igarra|Edo|14647|
+7.5025|5.0626|Igbara-Odo|Ekiti|74121|
+8.7492|4.1311|Igbeti|Oyo|24690|
+8.8378|3.7563|Igboho|Oyo|136764|
+7.4338|3.2879|Igbo-Ora|Oyo|92719|
+7.4512|8.6081|Igbor|Benue|17666|
+6.0180|7.0203|Igbo-Ukwu|Anambra|75224|
+7.6685|5.1263|Igede-Ekiti|Ekiti|87282|
+5.8548|6.8594|Ihiala|Anambra|83265|
+5.5823|7.0990|Iho|Imo|7776|
+6.7784|4.0339|Ijebu-Ife|Ogun|5733|
+6.9720|3.9994|Ijebu-Igbo|Ogun|109261|
+7.6829|4.8177|Ijebu-Jesa|Osun|51730|
+6.8194|3.9173|Ijebu-Ode|Ogun|360000|
+7.8151|5.0672|Ijero-Ekiti|Ekiti|167632|
+6.7424|3.2622|Ijoko|Ogun State|16529|
+6.4633|3.3406|Ijora|Lagos|0|
+4.9167|7.6500|Ika|Akwa Ibom|0|
+4.7898|8.5316|Ikang|Cross River|13305|
+7.5259|5.7534|Ikare|Ondo State|465000|
+6.5965|3.3420|Ikeja|Lagos|313196|
+6.7799|7.7148|Ikem|Enugu|7282|
+7.4975|5.2304|Ikere-Ekiti|Ekiti|103054|
+7.3698|4.1863|Ikire|Osun|222160|
+7.9128|4.6674|Ikirun|Osun|134240|
+5.9667|8.7063|Ikom|Cross River State|79103|
+5.1333|7.6833|Ikono|Akwa Ibom|0|
+6.6153|3.5069|Ikorodu|Lagos|0|
+4.5667|7.5667|Ikot Abasi|Akwa Ibom|0|
+5.1819|7.7148|Ikot Ekpene|Akwa Ibom|254806|
+8.0171|4.9042|Ila Orangun|Osun|179192|
+7.3507|5.1133|Ilare|Ondo|7685|
+6.8890|3.0142|Ilaro|Ogun|46999|
+7.5949|5.1034|Ilawe-Ekiti|Ekiti|0|
+7.4824|4.5603|Ile-Ife|Osun|560000|
+7.6279|4.7416|Ilesa|Osun|325000|
+13.7306|5.2978|Illela|Sokoto|17461|
+6.6703|6.6291|Illushi|Edo|7340|
+7.8404|4.4856|Ilobu|Osun|118089|
+8.4966|4.5421|Ilorin|Kwara|1080000|
+7.4489|2.8429|Imeko|Ogun|8627|
+5.2000|7.7500|Ini|Akwa Ibom|0|
+7.8500|4.3333|Inisa|Osun|164161|
+6.6098|3.2230|Ipaja|Lagos|0|
+6.9100|3.6656|Iperu|Ogun|15935|
+7.8738|5.0769|Ipoti|Ekiti|82113|
+6.4169|3.1406|Irewe|Lagos|139494|
+8.2744|5.8353|Isanlu-Itedoijowa|Kogi|15087|
+6.9935|3.6815|Isara|Ogun|8205|
+7.4648|5.4233|Ise-Ekiti|Ekiti|190063|
+7.9702|3.5963|Iseyin|Oyo State|365300|
+6.5809|3.2742|Isheri-Olofin|Lagos|0|
+6.3819|8.0374|Isieke|Ebonyi|89990|
+5.2013|7.9837|Itu|Akwa Ibom|36358|
+7.6353|4.1816|Iwo|Osun|250443|
+6.6606|3.1798|Iyesi|Ogun State|17220|
+8.8937|11.3596|Jalingo|Taraba|117757|
+9.1197|4.8236|Jebba|Kwara|21488|
+12.2234|4.3797|Jega|Kebbi|73495|
+13.0938|7.2262|Jibia|Katsina|14424|
+12.1733|7.7742|Jikamshi|Katsina|6923|
+8.9913|7.5563|Jikwoyi|Abuja Federal Capital Territory|0|
+9.2795|12.4582|Jimeta|Adamawa|248148|
+9.9285|8.8921|Jos|Plateau|1040000|
+7.8272|6.0750|Kabba|Kogi|49869|
+9.8734|7.9541|Kachia|Kaduna|30893|
+10.5264|7.4388|Kaduna|Kaduna|1850000|
+9.5813|8.2926|Kafanchan|Kaduna|79522|
+10.3830|11.0957|Kafarati|Gombe|11535|
+12.2393|9.9110|Kafin Hausa|Jigawa|12609|
+9.6078|8.3904|Kagoro|Kaduna|77008|
+9.6053|3.9410|Kaiama|Kwara|21897|
+10.3228|7.6846|Kajuru|Kaduna|14389|
+9.8200|11.3087|Kaltungo|Gombe|12357|
+11.8517|3.6548|Kamba|Kebbi|25568|
+12.5534|3.8181|Kangiwa|Kebbi|11701|
+11.9311|7.4112|Kankara|Katsina|9609|
+12.0001|8.5167|Kano|Kano|4910000|
+11.2471|10.5610|Kari|Bauchi|18812|
+8.9928|7.5725|Karu|Abuja Federal Capital Territory|0|
+12.9908|7.6018|Katsina|Katsina|670000|
+7.1694|9.2846|Katsina-Ala|Benue State|36722|
+12.5937|6.5865|Kaura Namoda|Zamfara|69725|
+12.6485|8.4118|Kazaure|Jigawa|13169|
+8.8465|7.8735|Keffi|Nasarawa|85911|
+11.5197|4.2603|Kende|Kebbi|7395|
+9.0830|3.8520|Kisi|Oyo|155510|
+11.7844|9.6069|Kiyawa|Jigawa|17704|
+10.8469|4.0983|Konkwesso|Niger|7687|
+10.4032|5.4708|Kontagora|Niger|98754|
+8.0912|6.7978|Koton-Karfe|Kogi|10709|
+9.1538|7.3220|Kubwa|Abuja Federal Capital Territory|0|
+10.4577|7.6381|Kujama|Kaduna|12967|
+8.8795|7.2276|Kuje|Abuja Federal Capital Territory|97367|
+12.9247|13.5662|Kukawa|Borno|16077|
+13.1550|10.6347|Kumagunnam|Yobe|16557|
+10.0481|11.2105|Kumo|Gombe|35712|
+9.0151|7.5349|Kurunduma|Abuja Federal Capital Territory|0|
+10.5328|6.4422|Kusheriki|Niger|6941|
+9.8686|6.7104|Kuta|Niger|7528|
+5.7077|6.4340|Kwale|Delta|20226|
+8.8835|7.0186|Kwali|Abuja Federal Capital Territory|6229|
+12.1408|6.8220|Kwatarkwashi|Zamfara|9084|
+8.9036|9.2909|Kwolla|Plateau|8200|
+8.4939|8.5153|Lafia|Nasarawa|127236|
+8.8530|5.4164|Lafiagi|Kwara|102779|
+6.4541|3.3947|Lagos|Lagos|15388000|
+6.4500|3.4000|Lagos Island|Lagos|0|
+11.9802|11.4400|Lajere|Yobe|7356|
+7.4679|4.0659|Lalupon|Oyo|81130|
+10.4415|9.2395|Lame|Bauchi|6705|
+9.1416|9.7910|Langtang|Plateau|13172|
+9.0444|6.5709|Lapai|Niger|16442|
+9.2083|11.2754|Lau|Taraba|12657|
+6.5115|3.4445|Lekki|Lagos|401272|
+10.3858|8.5729|Lere|Kaduna|93290|
+7.7969|6.7405|Lokoja|Kogi|60579|
+13.1364|10.0492|Machina|Yobe|11707|
+10.8894|13.6283|Madagali|Adamawa|12919|
+9.1044|7.2133|Madala|Abuja Federal Capital Territory|11771|
+11.7798|10.4479|Madara|Bauchi|10015|
+12.1145|12.8262|Magumeri|Borno|19363|
+11.5534|4.9814|Mahuta|Kebbi|9047|
+11.8469|13.1571|Maiduguri|Borno|1110000|
+9.0882|7.4934|Maitama|Abuja Federal Capital Territory|0|
+12.0823|4.3691|Maiyama|Kebbi|10014|
+6.4961|3.3878|Makoko|Lagos|85840|
+7.7337|8.5214|Makurdi|Benue|390000|
+12.5643|9.9573|Mallammaduri|Jigawa|11156|
+11.7894|7.6206|Malumfashi|Katsina State|70709|
+10.7167|6.5667|Mando|Kaduna|7500|
+12.3653|13.8293|Marte|Borno|15707|
+12.3336|6.4037|Maru|Zamfara|11496|
+12.9804|7.9470|Mashi|Katsina|7845|
+9.0542|12.0579|Mayo-Belwa|Adamawa|6304|
+6.1731|7.6302|Mberubu|Enugu|8904|
+4.4667|8.0833|Mbo|Akwa Ibom|0|
+9.6152|6.5478|Minna|Niger|425000|
+10.7311|12.1463|Miringa|Borno|12117|
+11.3137|10.4666|Misau|Bauchi|13957|
+5.0333|7.7500|Mkpat-Enin|Akwa Ibom|0|
+7.3830|4.2603|Modakeke|Osun|119529|
+9.2948|5.0541|Mokwa|Niger State|21128|
+12.6706|13.6122|Monguno|Borno|20297|
+12.8741|6.4875|Moriki|Zamfara|28735|
+10.2686|13.2670|Mubi|Adamawa|225705|
+6.5356|3.3302|Mushin|Lagos|199000|
+8.6414|10.7736|Mutum Biyu|Taraba|11702|
+11.0960|11.3326|Nafada|Gombe|22920|
+8.5389|7.7082|Nasarawa|Nasarawa|30949|
+10.3396|4.4688|New Shagunnu|Niger|7349|
+12.3405|14.1867|Ngala|Borno|14031|
+9.2887|12.2403|Ngurore|Adamawa|8139|
+12.8770|10.4554|Nguru|Yobe|111014|
+6.1504|6.8304|Nkpor|Anambra|103733|
+5.7592|7.1038|Nkwerre|Imo State|62973|
+6.0196|6.9173|Nnewi|Anambra|193987|
+5.0667|7.7333|Nsit-Atai|Akwa Ibom|0|
+4.9833|7.8000|Nsit-Ibom|Akwa Ibom|0|
+4.9333|7.9833|Nsit-Ubium|Akwa Ibom|0|
+6.8578|7.3958|Nsukka|Enugu|111017|
+9.4637|12.0306|Numan|Adamawa|77617|
+6.4469|3.4153|Obalende|Lagos|342000|
+5.8467|6.1529|Obiaruku|Delta|11936|
+6.8833|7.6333|Obolo-Eke (1)|Enugu|5842|
+4.7114|6.7908|Obonoma|Rivers|68584|
+5.2667|7.7167|Obot Akara|Akwa Ibom|0|
+6.6682|9.1645|Obudu|Cross River State|19668|
+7.1805|7.9824|Ochobo|Benue|8567|
+7.7899|5.7117|Ode|Ondo|75463|
+8.1491|4.7207|Offa|Kwara|113830|
+7.5938|6.2180|Ogaminana|Kogi|84373|
+6.6231|3.3342|Ogba|Lagos|0|
+8.1337|4.2401|Ogbomoso|Oyo|433030|
+6.6584|8.7992|Ogoja|Cross River State|37466|
+6.7864|6.9502|Ogurugu|Kogi|9135|
+5.7104|6.8094|Oguta|Imo|21639|
+6.1781|6.5246|Ogwashi-Uku|Delta|26137|
+5.6146|7.8119|Ohafia-Ifigh|Abia|73355|
+6.4620|3.0797|Ojo|Lagos|0|
+6.6455|3.3664|Ojodu Berger|Lagos|0|
+6.5852|3.3709|Ojota|Lagos|0|
+8.0339|3.3476|Okeho|Oyo|12964|
+7.9500|4.9833|Oke Ila|Ekiti|35000|
+7.8167|4.9167|Oke Mesi|Osun|79563|
+7.5512|6.2359|Okene|Kogi|479178|
+5.8292|7.3506|Okigwe|Imo|115499|
+4.5500|8.1167|Okobo|Akwa Ibom|0|
+4.7421|7.0837|Okrika|Rivers State|133271|
+9.2167|3.1833|Okuta|Kwara|26589|
+7.6000|4.1833|Olupona|Osun|95002|
+5.3420|6.6560|Omoku|Rivers|11625|
+8.1386|5.1026|Omu-Aran|Kwara|14477|
+7.7583|5.7223|Omuo-Ekiti|Ekiti|6317|
+7.0932|4.8353|Ondo|Ondo|375000|
+6.1498|6.7857|Onitsha|Anambra|1553000|
+4.7500|8.0000|Onna|Akwa Ibom|0|
+4.7444|7.0361|Onne|Rivers|0|
+6.7822|7.4332|Opi|Enugu|11237|
+4.5114|7.5400|Opobo|Rivers|0|
+6.7472|4.8761|Ore|Ondo|13905|
+5.6375|5.8901|Orerokpe|Delta|5893|
+7.5500|3.4333|Orita Eruwa|Oyo|71027|
+5.7957|7.0351|Orlu|Imo|9351|
+5.6167|7.0333|Orodo|Imo|8527|
+4.8017|8.2358|Oron|Akwa Ibom|0|
+4.9667|7.5500|Oruk Anam|Akwa Ibom|0|
+6.5550|3.3436|Oshodi|Lagos|170870|
+6.5365|3.2755|Oshodi-Isolo|Lagos|0|
+7.7710|4.5570|Osogbo|Osun|645000|
+6.6887|3.2320|Ota|Ogun State|251546|
+7.9478|4.7884|Otan Ayegbaju|Osun|37783|
+7.1017|7.6594|Otukpa|Benue|21686|
+5.4836|7.0332|Owerri|Imo|545000|
+7.1962|5.5868|Owo|Ondo|276574|
+6.9485|3.5056|Owode|Ogun|8513|
+8.0500|4.7667|Oyan|Osun|73622|
+7.7980|5.3285|Oye-Ekiti|Ekiti|0|
+7.8526|3.9312|Oyo|Oyo|736072|
+5.9575|6.8530|Ozubulu|Anambra|73812|
+9.3254|9.4352|Pankshin|Plateau|31516|
+9.4076|9.2148|Panyam|Plateau|10715|
+5.2289|6.1914|Patani|Delta|7327|
+8.7285|5.7556|Patigi|Kwara|28285|
+9.9843|10.9523|Pindiga|Gombe|106322|
+4.7500|7.0000|Port Harcourt|Rivers|2120000|
+11.7139|11.0811|Potiskum|Yobe|86002|
+13.1226|5.5076|Rabah|Sokoto|8707|
+11.5568|8.5807|Rano|Kano State|17972|
+11.1039|5.2556|Rijau|Niger State|16613|
+12.1514|9.1622|Ringim|Jigawa|14463|
+7.9084|9.6169|Riti|Taraba|6875|
+6.6819|3.1431|River Atuwara|Ogun State|15937|
+12.8626|7.2347|Ruma|Katsina|8857|
+4.8667|6.9833|Rumuokoro|Rivers|0|
+12.4479|7.3092|Runka|Katsina|12665|
+11.3595|10.6732|Sade|Bauchi|8223|
+8.6676|3.3939|Saki|Oyo|178677|
+11.3487|9.6399|Samamiya|Jigawa|8087|
+10.4123|8.6875|Saminaka|Kaduna|500000|
+5.8941|5.6767|Sapele|Delta|305000|
+11.7265|6.7837|Sauri|Zamfara|13445|
+10.5067|12.3331|Shaffa|Borno|6508|
+6.8485|3.6463|Shagamu|Ogun State|214558|
+11.2137|4.5794|Shanga|Kebbi|7471|
+10.2182|12.0606|Shani|Borno|14305|
+6.5376|3.3651|Shomolu|Lagos|154390|
+6.5359|5.1601|Siluko|Edo|7920|
+10.9813|8.0575|Soba|Kaduna|15715|
+11.0154|6.7804|Sofo-Birnin-Gwari|Kaduna|22380|
+13.0627|5.2432|Sokoto|Sokoto|1040000|
+9.1806|7.1794|Suleja|Niger|162135|
+6.4901|3.3025|Surulere|Lagos|191920|
+9.4667|3.1833|Suya|Kwara|7936|
+7.2667|9.9833|Takum|Benue|24822|
+12.5684|6.0622|Talata Mafara|Zamfara State|39045|
+12.4059|4.6460|Tambuwal|Sokoto|20932|
+10.0706|6.1906|Tegina|Niger|24037|
+11.2213|13.4878|Tokombere|Borno|7092|
+8.1173|12.0461|Toungo|Adamawa|11759|
+11.9578|6.9208|Tsafe|Zamfara|9367|
+4.3123|6.2409|Twon-Brass|Bayelsa|11122|
+10.4551|13.2223|Uba|Borno|11648|
+6.6558|6.3849|Ubiaja|Edo|21782|
+6.3159|7.4209|Udi|Enugu|14998|
+4.4333|7.9500|Udung-Uko|Akwa Ibom|0|
+5.9358|7.0793|Uga|Anambra|64179|
+7.6532|7.8841|Ugbokpo|Benue|14218|
+5.8087|8.0810|Ugep|Cross River|200276|
+5.4896|6.0041|Ughelli|Delta|79986|
+4.9667|7.8167|Ukanafun|Akwa Ibom|0|
+10.8312|5.8249|Ukata|Niger|6188|
+5.5249|7.4946|Umuahia|Abia|370000|
+6.2655|6.3096|Umunede|Delta|8331|
+6.7000|6.3333|Uromi|Edo|108608|
+5.0333|8.0833|Uruan|Akwa Ibom|0|
+4.7167|8.1833|Urue-Offong/Oruko|Akwa Ibom|0|
+5.9002|6.8431|Uruobo-Okija|Anambra|13898|
+5.0513|7.9335|Uyo|Akwa Ibom|436606|
+6.4300|3.4022|Victoria Island|Lagos|0|
+9.7291|8.7914|Vom|Plateau|12000|
+12.6878|7.1958|Wagini|Katsina|9986|
+8.9415|8.6031|Wamba|Nasarawa|27137|
+5.5174|5.7501|Warri|Delta|910000|
+11.3764|5.7954|Wasagu|Kebbi|8157|
+9.9022|4.4192|Wawa|Niger|10200|
+11.8094|8.8442|Wudil|Kano State|23066|
+7.8714|9.7779|Wukari|Taraba|92933|
+13.2905|5.4237|Wurno|Sokoto|13087|
+9.0747|7.4760|Wuse|Abuja Federal Capital Territory|0|
+10.3852|11.6968|Wuyo|Borno|9189|
+6.5059|3.3601|Yaba|Lagos|0|
+11.3862|12.7199|Yajiwa|Borno|6880|
+10.1116|9.8260|Yamrat|Bauchi|7098|
+11.5071|10.7459|Yanda Bayo|Bauchi|5927|
+7.3631|9.0424|Yandev|Benue|7750|
+9.7667|3.4000|Yashikera|Kwara|0|
+8.8333|9.6333|Yelwa|Plateau|13234|
+4.9268|6.2676|Yenagoa|Bayelsa|365000|
+9.2084|12.4815|Yola|Adamawa|460000|
+9.6971|10.2735|Yuli|Bauchi|9549|
+11.4496|10.3672|Zadawa|Bauchi|7495|
+7.5067|9.6104|Zaki Biam|Benue|10470|
+10.6143|10.1765|Zalanga|Bauchi|12070|
+11.1113|7.7227|Zaria|Kaduna|980000|
+9.1023|7.1952|Zuba|Abuja Federal Capital Territory|0|
+9.8073|6.1524|Zungeru|Niger|24447|
+11.4352|5.2349|Zuru|Kebbi|24338|

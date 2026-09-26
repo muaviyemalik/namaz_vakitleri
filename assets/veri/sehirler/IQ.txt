@@ -1,172 +1,175 @@
-32.5271|44.3440|Abu Gharaq
-33.2919|44.0692|Abu Ghraib
-30.4431|47.8780|Abū al-Kahṣīb
-33.3056|44.1848|Abū Ghurayb
-33.3692|44.3396|Adamiyah
-33.8467|44.2344|Ad Dujayl
-31.9929|44.9255|Ad Dīwānīyah|Al Diwaniyah
-33.3591|44.2814|Al Adel
-34.7090|43.6951|Al-'Alam
-33.3493|44.4107|Al Baladiyat
-30.5032|47.8151|Al Başrah al Qadīmah
-33.3491|43.7860|Al Fallūjah
-29.9742|48.4731|Al Fāw
-36.2709|43.3776|Al-Hamdaniya
-32.4637|44.4196|Al Hillah|Al Ḩillah
-32.5467|44.2276|Al Hindīyah
-30.5848|47.7611|Al Hārithah
-33.3411|44.3406|Al Jamaa
-32.5128|45.8182|Al-Kut|Al Kūt
-30.9632|47.2700|Al Madīnah
-36.3327|43.1056|Al Mawşil al Jadīdah
-33.0622|44.3656|Al Maḩmūdīyah
-32.6614|44.4085|Al Maḩāwīl
-31.4294|47.2035|Al-Mejar Al-Kabi
-33.9786|44.9369|Al Miqdādīyah
-31.8044|44.4893|Al Mishkhāb
-32.7787|44.2901|Al-Musayab|Al Musayyib
-31.0155|47.4336|Al Qurnah
-34.3925|40.9894|Al Qā’im
-32.2980|44.6828|Al-Qāsim|Imam Qasim
-33.3248|44.4147|Al Saadoon Park
-33.3225|44.3843|Al Salhiah
-33.3204|44.4596|Al-Ubaidi
-33.3112|44.4335|Al-Wahda
-33.3186|44.4869|Al Za'franiya
-32.1742|46.0434|Al Ḩayy
-37.0921|43.4877|Al ‘Amādīyah
-31.8356|47.1448|Al ‘Amārah
-32.9094|45.0636|Al ‘Azīzīyah
-33.2967|44.2708|Ameria
-33.2761|44.3104|Amil
-33.3125|44.4863|Amin
-32.5562|45.4129|An Nu‘mānīyah
-33.2934|44.4230|Arasat AlHindiya
-36.1907|44.0095|Arbil
-31.5284|45.2038|Ar Rumaythah
-33.0372|40.2859|Ar Ruţbah
-35.5172|43.2281|Ash Sharqāt
-36.6960|43.3520|Ash Shaykhān
-31.4091|46.1727|Ash Shaţrah
-31.9626|44.6007|Ash Shāmīyah
-31.3320|45.2944|As Samawah
-35.5650|45.4329|As Sulaymānīyah|Sulaymaniyah
-32.9256|44.7758|Aş Şuwayrah
-33.3564|44.3579|At Taifiya
-30.3921|47.7017|Az Zubayr
-33.3601|44.3651|Bab Al Moatham
-33.3325|44.4141|Bab Al Sharqi
-33.3406|44.4009|Baghdad
-33.3134|44.4716|Baghdad Al Jadeeda
-33.3325|44.3451|Baijai
-34.0149|44.1457|Balad
-33.6963|45.0778|Baladrūz
-33.7540|44.6052|Baqubah
-30.5085|47.7804|Basrah
-33.3211|44.4086|Bataween
-37.1745|43.0123|Batifa
-33.2826|44.3753|Bayaa
-34.9291|43.4888|Bayjī
-35.6205|45.9491|Baynjiwayn
-36.3156|44.0353|Baḥarkah
-33.3928|44.4111|Binouk
-33.2419|44.4270|Bo'aitha
-33.3011|44.4447|Camp Sarah
-33.3121|44.3258|Daoudi
-35.1121|45.6866|Derbendîxan
-37.0560|43.6519|Dêrelûk Devera Nihêliya
-36.8671|42.9885|Dihok
-33.2313|44.3620|Dora
-36.1833|44.0119|Erbil
-33.3375|44.4628|Ghadeer
-33.3414|44.2235|Ghazaliya
-33.3921|44.3044|Gherai'at
-33.3138|44.3590|Green Zone
-33.7841|44.5066|Habhab
-33.3392|44.4685|Habibiya
-36.2358|44.7947|Hajiawa
-35.1778|45.9861|Halabja|Ḩalabjah
-33.2263|44.3983|Harthiya
-33.3424|44.3066|Hurriya
-33.6366|42.8277|Hīt
-33.7348|42.6823|Hīt District
-33.3341|44.3230|Iskan
-33.2608|44.4112|Jadriyah
-33.3511|44.4150|Jamila
-35.5336|44.8343|Jamjamāl
-33.2529|44.2923|Jihad
-33.3813|44.3514|Kadhimiya
-33.3501|44.5089|Kamaliyah
-33.2934|44.3964|Karada
-32.6160|44.0249|Karbala
-34.6281|45.3185|Kelar
-33.3197|44.2876|Khadra
-36.6087|44.4048|Khalīfān
-36.2009|44.1424|Khasnahzān
-33.8081|44.5334|Khāliş
-34.3482|45.3907|Khānaqīn
-34.6896|44.9606|Kifrī
-35.4681|44.3922|Kirkuk
-36.0829|44.6287|Koysinceq
-32.0511|44.4402|Kufa
-33.7481|45.5550|Mandalī
-33.3142|44.3363|Mansour
-33.3244|44.4931|Mashtal
-31.5500|47.0333|Mostafa
-36.3350|43.1189|Mosul
-33.3630|44.3870|Mustansiriya
-31.7431|44.6196|Nahiyat Ghammas
-32.0259|44.3462|Najaf
-31.0580|46.2573|Nasiriyah
-30.9697|46.7228|Nāḩiyat al Fuhūd
-32.8873|44.3462|Nāḩiyat al Iskandarīyah
-31.5838|44.6467|Nāḩiyat ash Shināfīyah
-32.7156|44.2786|Nāḩīyat Saddat al Hindīyah|Saddat al Hindīyah
-36.3852|44.1970|Pīrmām
-33.3272|44.3162|Qadisiyah
-31.8632|46.0732|Qal‘at Sukkar
-31.5280|47.2936|Qal‘at Şāliḩ
-34.5229|44.8582|Qaḑā’ Kifrī
-36.1825|45.1302|Qeładizê
-33.4206|43.3078|Ramadi
-36.6121|44.5237|Ruwāndiz
-36.2551|44.8824|Rānyah
-34.4823|41.9190|Rāwah
-33.3769|44.4045|Sadr City
-30.1165|47.7163|Şafwān
-33.2650|44.3316|Saidiya
-33.4131|44.3861|Sha'ab
-36.4042|44.3256|Shaqlāwah
-33.3390|44.3479|Sheik Maaruf
-37.0326|43.7762|Shelādiz
-33.3461|44.3950|Shorjah
-35.5156|44.8427|Shūrash
-36.8583|42.8501|Simele
-36.2955|41.8931|Sinjar
-36.3209|41.8766|Sinjār
-36.6532|44.5441|Soran
-33.3934|44.3614|Suleikh
-36.8582|42.8482|Sumayl
-34.1959|43.8857|Sāmarrā’
-36.8085|43.0393|Sīnah
-36.4912|43.1211|Tallkayf
-36.3791|42.4481|Tall ‘Afar
-34.6158|43.6786|Tikrīt
-34.8881|44.6326|Tozkhurmato|Ţūz Khūrmātū
-35.3024|44.3264|Tāzah Khūrmātū
-30.0362|47.9195|Umm Qaşr
-33.4169|44.3906|Ur
-33.3637|44.3820|Wazireya
-36.2780|43.6707|Xebat
-33.3394|44.3221|Yarmouk
-37.1487|42.6859|Zaxo
-33.3248|44.4545|Ziyouna
-36.7336|43.8804|'Ākra
-34.1366|42.3773|Ḩadīthah
-36.5511|44.3526|Ḩarir
-36.6114|44.5219|Ṟuwandiz
-32.0643|45.2474|‘Afak
-32.4619|46.6879|‘Alī al Gharbī
-34.3686|41.9819|‘Anah
-34.4693|41.9422|‘Anat al Qadīmah
-36.7604|43.8943|‘Aqrah
+32.5271|44.3440|Abu Gharaq|Babil|108212|
+33.2919|44.0692|Abu Ghraib|Baghdad|0|
+30.4431|47.8780|Abū al-Kahṣīb|Basra|357771|
+33.3056|44.1848|Abū Ghurayb|Baghdad|900000|
+33.3692|44.3396|Adamiyah|Baghdad|0|
+33.8467|44.2344|Ad Dujayl|Saladin|26362|
+31.9929|44.9255|Ad Dīwānīyah|Al-Qādisiyyah|318801|Al Diwaniyah
+33.3591|44.2814|Al Adel|Baghdad|0|
+34.7090|43.6951|Al-'Alam|Salah ad Din|25662|
+33.3493|44.4107|Al Baladiyat|Baghdad|0|
+30.5032|47.8151|Al Başrah al Qadīmah|Basra|0|
+33.3491|43.7860|Al Fallūjah|Al Anbar|190159|
+29.9742|48.4731|Al Fāw|Basra|104569|
+36.2709|43.3776|Al-Hamdaniya|Nineveh|50000|
+32.5467|44.2276|Al Hindīyah|Karbala|139578|
+30.5848|47.7611|Al Hārithah|Basra|92395|
+33.3411|44.3406|Al Jamaa|Baghdad|0|
+32.5128|45.8182|Al Kūt|Wasit|315162|Al-Kut
+30.9632|47.2700|Al Madīnah|Basra|255000|
+36.3327|43.1056|Al Mawşil al Jadīdah|Nineveh|2065597|
+33.0622|44.3656|Al Maḩmūdīyah|Baghdad|350000|
+32.6614|44.4085|Al Maḩāwīl|Babil|31200|
+31.4294|47.2035|Al-Mejar Al-Kabi|Maysan|0|
+33.9786|44.9369|Al Miqdādīyah|Diyala|155968|
+31.8044|44.4893|Al Mishkhāb|Najaf|23189|
+32.7787|44.2901|Al Musayyib|Babylon|101873|Al-Musayab
+31.0155|47.4336|Al Qurnah|Basra|134174|
+34.3925|40.9894|Al Qā’im|Anbar|74100|
+33.3248|44.4147|Al Saadoon Park|Baghdad|0|
+33.3225|44.3843|Al Salhiah|Baghdad|0|
+33.3204|44.4596|Al-Ubaidi|Baghdad|0|
+33.3112|44.4335|Al-Wahda|Baghdad|0|
+33.3186|44.4869|Al Za'franiya|Baghdad|0|
+35.2608|43.4067|AlZwya|Salah ad Din|15000|
+32.1742|46.0434|Al Ḩayy|Wasit|78272|
+32.4637|44.4196|Al Ḩillah|Babylon|455700|Al Hillah
+37.0921|43.4877|Al ‘Amādīyah|Dohuk|0|
+31.8356|47.1448|Al ‘Amārah|Maysan|323302|
+32.9094|45.0636|Al ‘Azīzīyah|Wasit|44751|
+33.2967|44.2708|Ameria|Baghdad|0|
+33.2761|44.3104|Amil|Baghdad|0|
+33.3125|44.4863|Amin|Baghdad|0|
+32.5562|45.4129|An Nu‘mānīyah|Wasit|110000|
+33.2934|44.4230|Arasat AlHindiya|Baghdad|0|
+36.1907|44.0095|Arbil|Erbil|0|
+31.5284|45.2038|Ar Rumaythah|Al Muthanna|47248|
+33.0372|40.2859|Ar Ruţbah|Al Anbar|22370|
+35.5172|43.2281|Ash Sharqāt|Salah ad Din|160000|
+36.6960|43.3520|Ash Shaykhān|Nineveh|0|
+31.4091|46.1727|Ash Shaţrah|Dhi Qar|182175|
+31.9626|44.6007|Ash Shāmīyah|Al-Qādisiyyah|57661|
+31.3320|45.2944|As Samawah|Al Muthanna|152890|
+35.5650|45.4329|As Sulaymānīyah|Sulaymaniyah|878146|Sulaymaniyah
+32.9256|44.7758|Aş Şuwayrah|Wasit|77200|
+33.3564|44.3579|At Taifiya|Baghdad|0|
+30.3921|47.7017|Az Zubayr|Basra|122676|
+33.3601|44.3651|Bab Al Moatham|Baghdad|0|
+33.3325|44.4141|Bab Al Sharqi|Baghdad|0|
+33.3406|44.4009|Baghdad|Baghdad|7216000|
+33.3134|44.4716|Baghdad Al Jadeeda|Baghdad|0|
+33.3325|44.3451|Baijai|Baghdad|0|
+34.0149|44.1457|Balad|Saladin|42088|
+33.6963|45.0778|Baladrūz|Diyala|0|
+33.7540|44.6052|Baqubah|Diyala|152550|
+36.3537|43.3813|Barţalah|Nineveh|15000|
+30.5085|47.7804|Basrah|Basra|1326564|
+33.3211|44.4086|Bataween|Baghdad|0|
+37.1745|43.0123|Batifa|Dohuk|28000|
+33.2826|44.3753|Bayaa|Baghdad|0|
+34.9291|43.4888|Bayjī|Saladin|173677|
+35.6205|45.9491|Baynjiwayn|Sulaymaniyah|27116|
+36.3156|44.0353|Baḥarkah|Erbil|130518|
+37.2375|43.1628|Begova|Duhok|15000|
+33.3928|44.4111|Binouk|Baghdad|0|
+33.2419|44.4270|Bo'aitha|Baghdad|0|
+33.3011|44.4447|Camp Sarah|Baghdad|0|
+33.3121|44.3258|Daoudi|Baghdad|0|
+35.1121|45.6866|Derbendîxan|Sulaymaniyah|54896|
+37.0560|43.6519|Dêrelûk Devera Nihêliya|Duhok|44448|
+36.8671|42.9885|Dihok|Dohuk|340900|
+33.2313|44.3620|Dora|Baghdad|0|
+36.1833|44.0119|Erbil|Erbil|1612700|
+33.3375|44.4628|Ghadeer|Baghdad|0|
+33.3414|44.2235|Ghazaliya|Baghdad|0|
+33.3921|44.3044|Gherai'at|Baghdad|0|
+33.3138|44.3590|Green Zone|Baghdad|0|
+33.7841|44.5066|Habhab|Diyala|21373|
+33.3392|44.4685|Habibiya|Baghdad|0|
+36.2358|44.7947|Hajiawa|Sulaymaniyah|80000|
+33.2263|44.3983|Harthiya|Baghdad|0|
+33.3424|44.3066|Hurriya|Baghdad|0|
+33.6366|42.8277|Hīt|Al Anbar|31901|
+33.7348|42.6823|Hīt District|Al Anbar|0|
+32.2980|44.6828|Imam Qasim|Babylon|93546|Al-Qāsim
+33.3341|44.3230|Iskan|Baghdad|0|
+33.2608|44.4112|Jadriyah|Baghdad|0|
+33.3511|44.4150|Jamila|Baghdad|0|
+35.5336|44.8343|Jamjamāl|Sulaymaniyah|42593|
+33.2529|44.2923|Jihad|Baghdad|0|
+33.3813|44.3514|Kadhimiya|Baghdad|0|
+33.3501|44.5089|Kamaliyah|Baghdad|0|
+33.2934|44.3964|Karada|Baghdad|0|
+32.6160|44.0249|Karbala|Karbala|1218732|
+34.6281|45.3185|Kelar|Sulaymaniyah|250000|
+33.3197|44.2876|Khadra|Baghdad|0|
+36.6087|44.4048|Khalīfān|Erbil|19891|
+36.2009|44.1424|Khasnahzān|Erbil|146639|
+33.8081|44.5334|Khāliş|Diyala|70046|
+34.3482|45.3907|Khānaqīn|Diyala|175000|
+34.6896|44.9606|Kifrī|Diyala|30143|
+35.4681|44.3922|Kirkuk|Kirkuk|1031000|
+36.0829|44.6287|Koysinceq|Erbil|44987|
+32.0511|44.4402|Kufa|Najaf|110000|
+33.7481|45.5550|Mandalī|Diyala|29785|
+33.3142|44.3363|Mansour|Baghdad|0|
+33.3244|44.4931|Mashtal|Baghdad|0|
+31.5500|47.0333|Mostafa|Maysan|150000|
+36.3350|43.1189|Mosul|Nineveh|1683000|
+33.3630|44.3870|Mustansiriya|Baghdad|0|
+31.7431|44.6196|Nahiyat Ghammas|Al-Qādisiyyah|30909|
+32.0259|44.3462|Najaf|Najaf|482576|
+31.0580|46.2573|Nasiriyah|Dhi Qar|558400|
+30.9697|46.7228|Nāḩiyat al Fuhūd|Dhi Qar|21551|
+32.8873|44.3462|Nāḩiyat al Iskandarīyah|Babil|100600|
+31.5838|44.6467|Nāḩiyat ash Shināfīyah|Al-Qādisiyyah|22643|
+32.7156|44.2786|Nāḩīyat Saddat al Hindīyah|Babylon|35720|Saddat al Hindīyah
+36.3852|44.1970|Pīrmām|Erbil|38686|
+33.3272|44.3162|Qadisiyah|Baghdad|0|
+31.8632|46.0732|Qal‘at Sukkar|Dhi Qar|110000|
+31.5280|47.2936|Qal‘at Şāliḩ|Maysan|39698|
+34.5229|44.8582|Qaḑā’ Kifrī|Diyala|0|
+36.1825|45.1302|Qeładizê|Sulaymaniyah|140688|
+33.4206|43.3078|Ramadi|Al Anbar|223500|
+36.6121|44.5237|Ruwāndiz|Erbil|0|
+36.2551|44.8824|Rānyah|Sulaymaniyah|114173|
+34.4823|41.9190|Rāwah|Al Anbar|13000|
+33.3769|44.4045|Sadr City|Baghdad|1211849|
+30.1165|47.7163|Şafwān|Basra|22929|
+33.2650|44.3316|Saidiya|Baghdad|0|
+33.4131|44.3861|Sha'ab|Baghdad|0|
+36.4042|44.3256|Shaqlāwah|Erbil|32599|
+33.3390|44.3479|Sheik Maaruf|Baghdad|0|
+37.0326|43.7762|Shelādiz|Duhok|50000|
+33.3461|44.3950|Shorjah|Baghdad|0|
+35.5156|44.8427|Shūrash|Sulaymaniyah|29960|
+36.8583|42.8501|Simele|Duhok|152512|
+36.2955|41.8931|Sinjar|Nineveh|0|
+36.3209|41.8766|Sinjār|Nineveh|38294|
+36.6532|44.5441|Soran|Erbil|91589|
+33.3934|44.3614|Suleikh|Baghdad|0|
+36.8582|42.8482|Sumayl|Duhok|152512|
+34.1959|43.8857|Sāmarrā’|Saladin|158508|
+36.8085|43.0393|Sīnah|Dohuk|128776|
+36.4912|43.1211|Tallkayf|Nineveh|23524|
+36.3791|42.4481|Tall ‘Afar|Nineveh|0|
+34.6158|43.6786|Tikrīt|Saladin|42477|
+34.8881|44.6326|Tozkhurmato|Saladin|120712|Ţūz Khūrmātū
+35.3024|44.3264|Tāzah Khūrmātū|Kirkuk|21788|
+30.0362|47.9195|Umm Qaşr|Basra|107620|
+33.4169|44.3906|Ur|Baghdad|0|
+33.3637|44.3820|Wazireya|Baghdad|0|
+36.2780|43.6707|Xebat|Erbil|148047|
+33.3394|44.3221|Yarmouk|Baghdad|0|
+37.1487|42.6859|Zaxo|Dohuk|95052|
+33.3248|44.4545|Ziyouna|Baghdad|0|
+36.7336|43.8804|'Ākra|Nineveh|105370|
+34.1366|42.3773|Ḩadīthah|Al Anbar|30925|
+35.1778|45.9861|Ḩalabjah|Sulaymaniyah|57333|Halabja
+36.5511|44.3526|Ḩarir|Erbil|32171|
+36.6114|44.5219|Ṟuwandiz|Erbil|22943|
+32.0643|45.2474|‘Afak|Al-Qādisiyyah|35536|
+32.4619|46.6879|‘Alī al Gharbī|Maysan|19711|
+34.3686|41.9819|‘Anah|Al Anbar|27000|
+34.4693|41.9422|‘Anat al Qadīmah|Al Anbar|19719|
+36.7604|43.8943|‘Aqrah|Nineveh|23000|

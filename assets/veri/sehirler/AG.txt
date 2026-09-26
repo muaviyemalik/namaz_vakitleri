@@ -1,9 +1,9 @@
-17.0667|-61.7930|All Saints
-17.0657|-61.8747|Bolands
-17.6333|-61.8333|Codrington
-17.0274|-61.7814|Falmouth
-17.0414|-61.7905|Liberta
-17.0968|-61.7705|Parham
-17.1167|-61.8000|Piggotts
-17.1134|-61.8196|Potters Village
-17.1210|-61.8433|Saint John’s
+17.0667|-61.7930|All Saints|Saint Peter|2526|
+17.0657|-61.8747|Bolands|Saint Mary|1657|
+17.6333|-61.8333|Codrington|Barbuda|1325|
+17.0274|-61.7814|Falmouth|Saint Paul|619|
+17.0414|-61.7905|Liberta|Saint Paul|2560|
+17.0968|-61.7705|Parham|Saint Peter|969|
+17.1167|-61.8000|Piggotts|Saint George|1878|
+17.1134|-61.8196|Potters Village|Saint John|1433|
+17.1210|-61.8433|Saint John’s|Saint John|51737|

@@ -1,7 +1,7 @@
-13.2113|-59.5260|Bathsheba
-13.1073|-59.6202|Bridgetown
-13.1049|-59.4486|Crane
-13.2581|-59.5776|Greenland
-13.1867|-59.6381|Holetown
-13.0707|-59.5464|Oistins
-13.2507|-59.6440|Speightstown
+13.2113|-59.5260|Bathsheba|Saint Joseph|1765|
+13.1073|-59.6202|Bridgetown|Saint Michael|98511|
+13.1049|-59.4486|Crane|Saint Philip|935|
+13.2581|-59.5776|Greenland|Saint Andrew|623|
+13.1867|-59.6381|Holetown|Saint James|1350|
+13.0707|-59.5464|Oistins|Christ Church|2285|
+13.2507|-59.6440|Speightstown|Saint Peter|3634|

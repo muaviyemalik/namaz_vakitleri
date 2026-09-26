@@ -1,1492 +1,1508 @@
-47.4920|8.9010|Aadorf
-47.3925|8.0442|Aarau
-47.0444|7.2758|Aarberg
-47.3207|7.8999|Aarburg
-47.2385|7.7685|Aarwangen
-46.4547|8.9426|Acquarossa
-46.4914|7.5603|Adelboden
-47.0652|8.3612|Adligenswil
-47.3100|8.5246|Adliswil
-47.3113|8.5267|Adliswil / Adliswil (Stadtkern)
-47.3164|8.5189|Adliswil / Hündli-Zopf
-47.3202|8.5151|Adliswil / Oberleimbach
-47.3096|8.5206|Adliswil / Sonnenberg
-47.3187|8.5243|Adliswil / Sood
-47.3114|8.5345|Adliswil / Tal
-47.4710|7.5973|Aesch
-46.6585|7.6965|Aeschi b. Spiez
-47.5258|9.0331|Affeltrangen
-47.2732|8.4522|Affoltern / Hasenbüel
-47.2785|8.4565|Affoltern / Oberdorf
-47.2805|8.4601|Affoltern / Sonnenberg
-47.2828|8.4541|Affoltern / Unterdorf
-47.2774|8.4513|Affoltern am Albis
-45.9986|8.9003|Agno
-46.3181|6.9646|Aigle
-46.3058|7.0297|Aigle District
-46.1906|6.0429|Aire-la-Ville
-46.5286|8.6119|Airolo
-47.4254|7.1302|Alle
-47.5507|7.5360|Allschwil
-46.9423|8.2718|Alpnach
-46.8804|8.6444|Altdorf
-47.1899|8.8382|Altendorf
-46.7959|7.2588|Alterswil
-47.1992|7.9696|Altishofen
-47.6105|9.2616|Altnau
-47.3777|9.5475|Altstätten
-47.1489|9.1423|Amden
-47.5470|9.2959|Amriswil
-47.5945|8.6783|Andelfingen
-46.6356|8.5939|Andermatt
-47.4385|9.2744|Andwil
-46.2767|6.2220|Anières
-47.3310|9.4100|Appenzell
-46.5524|6.4289|Apples
-47.5167|9.4333|Arbon
-47.5487|9.3516|Arbon District
-47.1653|7.4314|Arch
-46.2095|7.2601|Ardon
-47.5132|7.7652|Arisdorf
-47.2869|8.3636|Aristau
-47.4941|7.6198|Arlesheim
-46.7779|9.6762|Arosa
-47.0634|8.5235|Arth
-46.3021|9.1130|Arvigo
-46.4596|6.2081|Arzier
-45.8761|8.9410|Arzo
-46.1545|8.7733|Ascona
-46.5055|6.8504|Attalens
-46.8625|8.6304|Attinghausen
-47.2467|7.6135|Attiswil
-47.4309|9.6345|Au
-47.2430|8.6459|Au / Mittel-Dorf
-47.2473|8.6327|Au / Unter-Dorf
-46.4951|6.3915|Aubonne
-46.9755|6.8790|Auvernier
-47.2108|8.3658|Auw
-46.8800|7.0407|Avenches
-46.7875|7.0674|Avry-sur-Matran
-46.2825|7.4103|Ayent
-47.1962|8.5295|Baar
-47.2039|8.7322|Bäch
-47.5032|8.5456|Bachenbülach
-47.4733|8.3059|Baden
-47.0060|9.5027|Bad Ragaz
-47.5876|8.2936|Bad Zurzach
-46.0833|7.2167|Bagnes
-45.8464|9.0072|Balerna
-47.4056|9.6070|Balgach
-46.5549|6.3731|Ballens
-47.1537|8.3223|Ballwil
-47.3161|7.6932|Balsthal
-46.3089|7.8657|Baltschieder
-47.3371|8.8565|Bäretswil
-47.0195|7.5271|Bäriswil
-47.5547|7.5906|Basel
-47.3381|7.2437|Bassecourt
-46.1899|7.3121|Basse-Nendaz
-47.4434|8.6285|Bassersdorf
-46.9619|7.1125|Bas-Vully
-47.1316|7.5382|Bätterkinden
-46.9356|8.5784|Bauen
-47.3674|8.8790|Bauma
-46.6840|6.5671|Bavois
-46.6990|7.7943|Beatenberg
-46.9665|8.4757|Beckenried
-46.4415|6.2476|Begnins
-46.8217|7.1067|Belfaux
-46.2574|6.1547|Bellevue
-46.1928|9.0170|Bellinzona
-46.1886|9.0025|Bellinzona District
-47.1085|7.2461|Bellmund
-46.5189|6.6764|Belmont-sur-Lausanne
-46.8913|7.4982|Belp
-47.3608|8.6369|Benglen
-47.1994|9.0074|Benken
-47.5788|9.1663|Berg
-47.3516|8.3723|Berikon
-47.6976|8.5743|Beringen
-46.9481|7.4474|Bern
-46.1765|6.0754|Bernex
-46.9253|7.4902|Bern-Mittelland
-46.5580|6.3355|Berolle
-47.2061|8.1927|Beromünster
-47.3144|8.3459|Besenbüren
-47.5714|7.6642|Bettingen
-47.2006|7.4241|Bettlach
-46.9296|6.8147|Bevaix
-47.2371|7.2832|Bévilard
-46.2497|7.0098|Bex
-47.3771|8.0524|Bezirk Aarau
-47.2731|8.4744|Bezirk Affoltern
-47.6133|8.6812|Bezirk Andelfingen
-47.5167|7.5873|Bezirk Arlesheim
-47.4566|8.3006|Bezirk Baden
-47.3493|8.3334|Bezirk Bremgarten
-47.4778|8.1780|Bezirk Brugg
-47.1320|7.4789|Bezirk Bucheggberg
-47.4971|8.5676|Bezirk Bülach
-47.4718|8.4563|Bezirk Dielsdorf
-47.3880|8.4426|Bezirk Dietikon
-47.4803|7.6182|Bezirk Dorneck
-47.1079|8.7601|Bezirk Einsiedeln
-47.2961|7.7750|Bezirk Gäu
-47.0080|8.5168|Bezirk Gersau
-47.3776|7.9203|Bezirk Gösgen
-47.3647|9.2735|Bezirk Hinterland
-47.2965|8.8343|Bezirk Hinwil
-47.1904|8.7396|Bezirk Höfe
-47.2577|8.5970|Bezirk Horgen
-47.2876|8.1330|Bezirk Kulm
-47.0861|8.4444|Bezirk Küssnacht
-47.4232|7.4875|Bezirk Laufen
-47.5184|8.0388|Bezirk Laufenburg
-47.2180|7.4805|Bezirk Lebern
-47.3718|8.1891|Bezirk Lenzburg
-47.4812|7.7271|Bezirk Liestal
-47.1613|8.9110|Bezirk March
-47.2792|8.6626|Bezirk Meilen
-47.3770|9.4347|Bezirk Mittelland
-47.2523|8.3536|Bezirk Muri
-47.6989|8.5177|Bezirk Oberklettgau
-47.3443|7.9075|Bezirk Olten
-47.4091|8.7721|Bezirk Pfäffikon
-47.7475|8.7082|Bezirk Reiat
-47.5405|7.8333|Bezirk Rheinfelden
-47.6944|8.6352|Bezirk Schaffhausen
-47.7500|8.5111|Bezirk Schleitheim
-47.0281|8.6362|Bezirk Schwyz
-47.4424|7.8487|Bezirk Sissach
-47.2082|7.5308|Bezirk Solothurn
-47.6643|8.8468|Bezirk Stein
-47.3109|7.6359|Bezirk Thal
-47.3833|7.5500|Bezirk Thierstein
-47.6800|8.4633|Bezirk Unterklettgau
-47.3495|8.7135|Bezirk Uster
-47.4417|9.5387|Bezirk Vorderland
-47.3937|7.7414|Bezirk Waldenburg
-47.1891|7.5916|Bezirk Wasseramt
-47.5078|8.7690|Bezirk Winterthur
-47.2886|7.9570|Bezirk Zofingen
-47.3711|8.5432|Bezirk Zürich
-47.5618|8.2802|Bezirk Zurzach
-46.3597|8.9696|Biasca
-47.1801|7.5625|Biberist
-47.1371|7.2461|Biel/Bienne
-47.1272|7.2617|Biel/Bienne District
-46.5376|6.3336|Bière
-46.9263|7.6251|Biglen
-47.1499|9.0255|Bilten
-47.5402|7.5693|Binningen
-47.3563|8.6266|Binz
-47.2763|8.7585|Binzikon
-46.0136|8.9110|Bioggio
-47.4543|8.6348|Birchwil
-47.3552|8.4426|Birmensdorf
-47.4615|8.2482|Birmenstorf
-47.4343|8.2089|Birr
-47.5529|7.6232|Birsfelden
-46.5393|6.6223|Blécherette
-46.4761|8.9461|Blenio
-46.4678|6.8961|Blonay
-46.7421|7.5214|Blumenstein
-46.3781|8.9099|Bodio
-46.9751|7.4970|Bolligen
-46.6285|7.3905|Boltigen
-46.8110|9.3982|Bonaduz
-47.4949|7.0130|Boncourt
-46.6874|7.8935|Bönigen
-47.3173|8.1896|Boniswil
-47.3150|8.4684|Bonstetten
-46.8923|7.2277|Bösingen
-46.6160|6.6615|Bottens
-47.6364|9.2088|Bottighofen
-47.5234|7.5721|Bottmingen
-46.9499|6.8376|Boudry
-46.9459|6.8284|Boudry District
-46.8930|7.6976|Bowil
-46.7699|9.0604|Breíl
-47.4067|7.5455|Breitenbach
-47.3511|8.3421|Bremgarten
-46.7545|8.0385|Brienz
-46.3167|7.9833|Brig
-46.2826|8.0119|Brig District
-47.4176|7.5434|Brislach
-46.1201|8.7118|Brissago
-47.2595|7.9469|Brittnau
-46.6051|7.0989|Broc
-47.4783|9.0345|Bronschhofen
-46.8221|6.9025|Broye
-46.7808|6.9016|Broye-Vully
-47.1237|7.2789|Brügg
-46.2595|10.1238|Brusio
-47.4732|8.6757|Brütten
-47.4217|8.6326|Brüttisellen
-47.4459|7.7376|Bubendorf
-47.2670|8.8179|Bubikon
-46.8135|7.6746|Buchholterberg
-47.0962|8.3473|Buchrain
-47.3936|8.0823|Buchs
-47.3735|9.4251|Bühler
-47.5220|8.5405|Bülach
-47.5234|8.5488|Bülach / Gstückt
-47.5172|8.5465|Bülach / Seematt
-47.5263|8.5411|Bülach / Soligänter
-46.6180|7.0569|Bulle
-46.9740|8.4228|Buochs
-47.0590|7.6279|Burgdorf
-46.7846|7.4999|Burgistein
-47.5492|9.1495|Bürglen
-47.2119|8.0942|Büron
-46.2738|9.1074|Buseno
-47.3942|7.5412|Büsserach
-46.5511|6.5560|Bussigny
-47.3602|9.0721|Bütschwil
-47.1144|8.0943|Buttisholz
-47.2683|8.3106|Buttwil
-47.5063|7.8641|Buus
-46.0367|8.9340|Cadempino
-46.1517|8.9472|Cadenazzo
-46.0459|8.9872|Cadro
-46.1648|9.0055|Camorino
-46.0359|8.9660|Canobbio
-46.1810|6.1392|Carouge
-45.9736|8.8774|Caslano
-45.8621|9.0084|Castel San Pietro
-46.3354|9.1213|Cauco
-46.4324|6.9386|Caux
-46.7194|9.4327|Cazis
-46.5122|9.8579|Celerina
-47.0588|6.9004|Cernier
-46.3148|8.6033|Cevio
-46.2676|7.5114|Chalais
-47.1821|8.4636|Cham
-46.2028|7.2232|Chamoson
-46.1754|6.8690|Champéry
-46.1500|5.9715|Chancy
-46.4768|6.8268|Chardonne
-46.6196|7.1649|Charmey
-46.1249|7.1314|Charrat
-46.4746|7.1315|Château-d'Oex
-46.5269|6.9008|Châtel-Saint-Denis
-46.5301|6.5707|Chavannes
-46.6070|6.4509|Chavannes-le-Veyron
-46.7024|6.5694|Chavornay
-46.1984|6.1864|Chêne-Bougeries
-46.1953|6.1941|Chêne-Bourg
-46.2884|7.4749|Chermignon-d’en Haut
-46.5862|6.6059|Cheseaux
-46.6427|6.4766|Chevilly
-46.4821|6.7781|Chexbres
-47.0663|6.9333|Chézard-Saint-Martin
-45.8320|9.0312|Chiasso
-46.2802|7.5396|Chippis
-46.8499|9.5329|Chur
-46.7814|9.5438|Churwalden
-46.2576|9.0225|Claro
-46.2739|6.9479|Collombey-Muraz
-46.5571|6.4728|Colombier
-46.0363|8.9553|Comano
-46.1734|6.0844|Confignon
-46.2237|7.3028|Conthey
-46.2049|7.2786|Conthey District
-46.3168|6.1911|Coppet
-47.1946|7.1452|Corgémont
-46.8103|7.1053|Corminboeuf
-47.0396|7.0187|Cornaux
-46.2630|6.2246|Corsier
-46.9431|6.8444|Cortaillod
-46.6144|6.5063|Cossonay
-47.3346|7.2819|Courfaivre
-47.4048|7.1252|Courgenay
-46.9065|7.1121|Courgevaux
-47.3385|7.3724|Courrendlin
-47.3607|7.3737|Courroux
-47.2396|7.3365|Court
-47.1782|7.0724|Courtelary
-47.3407|7.3183|Courtételle
-46.9252|6.6327|Couvet
-46.5459|6.5757|Crissier
-46.6255|6.4371|Cuarnens
-46.1747|8.9168|Cugnasco
-46.8148|6.8889|Cugy
-46.4889|6.7294|Cully
-47.6651|8.6179|Dachsen
-47.2141|7.9852|Dagmersellen
-46.9242|8.3879|Dallenwil
-47.4398|8.4381|Dällikon / Dällikon (Dorf)
-47.4467|8.4065|Dänikon
-46.1956|5.9950|Dardagny
-46.6617|7.8081|Därligen
-46.8043|9.8372|Davos
-47.3743|9.2002|Degersheim
-47.2152|7.6188|Deitingen
-47.3649|7.3445|Delémont
-47.3543|7.3305|Delémont District
-47.4526|8.0533|Densbüren
-47.1985|7.5884|Derendingen
-47.4138|7.8109|Diegten
-47.4815|8.4585|Dielsdorf
-46.6493|7.5648|Diemtigen
-47.3860|9.6556|Diepoldsau
-47.6891|8.7496|Diessenhofen
-47.4016|8.4002|Dietikon
-47.4048|8.3917|Dietikon / Almend
-47.4001|8.4082|Dietikon / Guggenbühl
-47.3972|8.4161|Dietikon / Hofacker
-47.3992|8.4015|Dietikon / Kreuzacker
-47.4006|8.3942|Dietikon / Oberdorf
-47.3971|8.4258|Dietikon / Schönenwerd
-47.4082|8.3972|Dietikon / Vorstadt
-47.4183|8.6188|Dietlikon / Dietlikon (Dorf)
-47.4191|8.6208|Dietlikon / Eichwiesen
-46.7034|8.8509|Disentis
-46.8348|9.4507|Domat
-47.0719|6.9592|Dombresson
-46.8672|7.0134|Domdidier
-47.2390|8.7357|Dorf
-47.4804|7.6164|Dornach
-47.3844|8.2398|Dottikon
-47.3972|8.6187|Dübendorf
-47.4011|8.6272|Dübendorf / Kunklerstrasse
-47.3947|8.6316|Dübendorf / Sonnenberg
-47.3950|8.6118|Dübendorf / Vogelquartier
-47.3935|8.6085|Dübendorf / Wasserfurren
-46.8492|7.1915|Düdingen
-47.2786|8.8416|Dürnten
-47.3209|8.1587|Dürrenäsch
-47.0895|7.7917|Dürrenroth
-47.0794|8.3404|Ebikon
-47.3499|8.6401|Ebmatingen
-47.2619|9.1247|Ebnat-Kappel
-46.6413|6.6332|Echallens
-46.6073|6.8090|Ecublens
-47.4258|8.6909|Effretikon
-47.4239|8.6965|Effretikon / Rappenhalde-Bannhalde
-47.4310|8.6862|Effretikon / Rikon
-47.4280|8.6982|Effretikon / Watt
-47.3196|7.7842|Egerkingen
-47.2998|8.6903|Egg
-47.4420|9.4690|Eggersriet
-46.8757|7.7957|Eggiwil
-47.3492|8.1855|Egliswil
-47.5427|9.3805|Egnach
-47.5025|8.3473|Ehrendingen
-47.1512|8.1669|Eich
-47.3437|9.5314|Eichberg
-47.5336|7.9880|Eiken
-47.1285|8.7474|Einsiedeln
-47.4971|8.8652|Elgg
-47.4926|8.8668|Elgg / Städtchen und Umgebung
-47.5024|8.7987|Elsau-Räterschen
-47.4993|8.7960|Elsau-Räterschen / Räterschen
-47.5056|8.5941|Embrach
-47.5040|8.5948|Embrach / Embrach (Dorfkern)
-47.5145|8.5915|Embrach / Kellersacker
-47.0782|8.2733|Emmen
-47.0442|7.6618|Emmental
-46.9566|8.5147|Emmetten
-47.5374|8.2904|Endingen
-46.8211|8.4013|Engelberg
-47.0336|9.0789|Ennenda
-46.9842|8.4100|Ennetbürgen
-46.9956|8.0635|Entlebuch
-46.9259|8.0143|Entlebuch District
-46.0210|7.2126|Entremont
-46.5490|6.6683|Epalinges
-46.7537|7.1461|Ependes
-47.0782|7.8515|Eriswil
-47.0422|7.0973|Erlach
-47.5481|9.2341|Erlen
-47.3030|8.5974|Erlenbach
-47.2995|8.6019|Erlenbach / links des Dorfbachs oberhalb Bahnlinie
-47.3066|8.6027|Erlenbach / rechts des Dorfbachs oberhalb Bahnlinie
-46.6602|7.5545|Erlenbach im Simmental
-47.3975|8.0080|Erlinsbach
-47.6706|9.0857|Ermatingen
-47.0937|7.5951|Ersigen
-46.8188|8.6505|Erstfeld
-47.2398|8.9216|Eschenbach
-47.6479|8.8747|Eschenz
-47.4636|8.9638|Eschlikon
-46.9135|7.9343|Escholzmatt
-47.2833|8.7104|Esslingen
-46.8488|6.8465|Estavayer-le-Lac
-47.4823|7.5465|Ettingen
-47.1503|8.0176|Ettiswil
-47.1505|7.2389|Evilard
-46.1810|7.0223|Evionnaz
-46.1142|7.4941|Evolène
-46.4770|8.8012|Faido
-47.3717|8.6387|Fällanden
-47.3877|8.7515|Fehraltorf
-47.2787|8.6217|Feldmeilen
-46.8457|9.4759|Felsberg
-46.9488|7.2112|Ferenbalm
-46.6580|6.4852|Ferreyres
-47.6905|8.6436|Feuerthalen
-47.1871|8.7472|Feusisberg
-46.3998|8.1353|Fiesch
-47.4142|8.9686|Fischingen
-46.8899|7.3220|Flamatt
-47.4130|9.1832|Flawil
-46.9022|6.5825|Fleurier
-46.8370|9.2846|Flims
-46.9048|8.6240|Flüelen
-46.8839|8.0156|Flühli
-47.0906|9.3430|Flums
-47.6839|8.6299|Flurlingen
-47.0549|6.8868|Fontainemelon
-47.4029|7.0811|Fontenais
-46.3328|6.1924|Founex
-47.2493|7.0456|Franches-Montagnes
-47.0862|7.5273|Fraubrunnen
-47.5578|8.8989|Frauenfeld
-47.6112|8.8944|Frauenfeld District
-46.9543|7.3384|Frauenkappelen
-47.2053|8.7584|Freienbach
-47.5331|8.5846|Freienstein
-47.5069|7.7165|Frenkendorf
-46.8024|7.1513|Fribourg
-47.5117|8.0247|Frick
-46.6012|6.6809|Froideville
-46.5872|7.6494|Frutigen
-46.6024|7.6229|Frutigen-Niedersimmental
-47.2710|7.8314|Fulenbach
-47.5069|7.7313|Füllinsdorf
-46.1385|7.1147|Fully
-47.5393|8.8531|Gachnang
-47.3615|9.4536|Gais
-46.3160|7.7421|Gampel
-47.2043|9.4417|Gams
-47.3810|9.0924|Ganterschwil
-47.2844|8.5483|Gattikon
-47.4814|8.2395|Gebenstorf
-47.4650|7.8517|Gelterkinden
-46.2022|6.1457|Genève|Geneva
-46.4354|6.2181|Genolier
-47.1709|7.5725|Gerlafingen
-47.4221|8.4108|Geroldswil
-46.9942|8.5250|Gersau
-47.1997|8.1069|Geuensee
-46.7623|7.2085|Giffers
-46.5095|6.3074|Gimel
-47.4988|8.0050|Gipf-Oberfrick
-46.8333|8.1806|Giswil
-46.1725|9.0079|Giubiasco
-46.8120|7.1264|Givisiez
-46.4208|6.2701|Gland
-46.6667|6.9167|Glâne
-47.0406|9.0680|Glarus
-47.4313|8.5627|Glattbrugg
-47.4372|8.5664|Glattbrugg / Rohr/Platten-Balsberg
-47.4291|8.5666|Glattbrugg / Wydacker/Bettacker/Lättenwiesen
-47.5587|8.5017|Glattfelden
-47.3353|7.2056|Glovelier
-47.3810|8.5998|Gockhausen
-47.4740|9.4671|Goldach
-47.0476|8.5462|Goldau
-47.2648|8.9617|Goldingen
-47.2313|9.0236|Gommiswald
-46.4616|8.2219|Goms
-47.3272|9.3470|Gonten
-47.2717|8.1440|Gontenschwil
-46.1826|8.8666|Gordola
-46.9014|6.7798|Gorgier
-47.4155|9.2548|Gossau
-47.6638|9.1337|Gottlieben
-47.1825|9.4439|Grabs
-46.1953|7.8374|Grächen
-46.5921|6.4639|Grancy
-47.0510|6.9549|Grand-Savagnier
-46.8095|6.6460|Grandson
-47.3593|8.1024|Gränichen
-46.0421|8.9183|Gravesano
-47.3672|8.6812|Greifensee
-47.3704|8.6815|Greifensee / Müllerwis / Seilerwis
-47.3643|8.6898|Greifensee / Pfisterhölzli
-47.4423|7.5891|Grellingen
-47.1921|7.3959|Grenchen
-46.2594|7.3841|Grimisuat
-46.6240|8.0360|Grindelwald
-46.8336|7.0712|Grolley
-46.2529|7.4595|Grône
-46.6518|6.6573|Gros-de-Vaud
-47.4270|8.5789|Grossacker/Opfikon
-47.0653|7.3569|Grossaffoltern
-47.1331|8.0504|Grosswangen
-46.9796|9.6464|Grüsch
-47.3115|8.7834|Grüt
-46.6075|7.1074|Gruyère
-46.5834|7.0821|Gruyères
-46.2738|7.0598|Gryon
-46.4721|7.2869|Gstaad
-46.7676|7.3295|Guggisberg
-47.3137|7.8310|Gunzgen
-47.2107|8.1793|Gunzwil
-47.3839|8.7176|Gutenswil
-47.6035|9.2874|Güttingen
-47.2099|9.4893|Haag (Rheintal)
-47.2875|8.8572|Hadlikon
-47.3350|7.8413|Hägendorf
-47.4946|9.3449|Häggenschwil
-47.3885|8.2529|Hägglingen
-47.6965|8.4583|Hallau
-46.9779|8.0533|Hasle
-47.3693|9.3675|Haslen
-47.4640|8.2099|Hausen
-47.2450|8.5330|Hausen am Albis / Hausen (Dorf)
-47.2979|8.4483|Hedingen
-47.3923|8.6699|Hegnau
-47.3871|8.6666|Hegnau / Dammboden-Grindel
-47.3925|8.6791|Hegnau / Sunnebüel-Eich
-47.4425|9.5329|Heiden
-46.7948|7.6043|Heimberg
-47.0675|7.6666|Heimiswil
-46.8276|7.2994|Heitenried
-47.5627|8.6822|Henggart
-46.1803|7.4048|Hérémence
-46.1941|7.4239|Hérens
-46.9843|8.3094|Hergiswil
-47.3862|9.2792|Herisau
-46.8312|7.4778|Hermiswil
-47.2906|8.6146|Herrliberg
-47.1880|7.7062|Herzogenbuchsee
-47.5461|8.7053|Hettlingen
-47.1507|8.2258|Hildisrieden
-46.7352|7.6619|Hilterfingen
-47.4214|7.5998|Himmelried
-47.0427|7.5414|Hindelbank
-47.3074|8.6834|Hinteregg
-46.5333|9.2000|Hinterrhein
-47.2943|8.8439|Hinwil
-47.3633|8.8242|Hittnau / Hittnau (Dorf)
-47.2240|8.2643|Hitzkirch
-47.1684|8.2918|Hochdorf
-47.1706|8.2870|Hochdorf District
-47.5226|8.5156|Hochfelden
-47.4539|7.6446|Hochwald
-47.4778|8.5065|Hofstetten
-47.1808|8.3180|Hohenrain
-47.4229|7.7704|Hölstein
-47.2530|8.7721|Hombrechtikon
-47.6347|9.0076|Homburg
-47.2598|8.5978|Horgen
-47.2473|8.6066|Horgen / Allmend
-47.2560|8.6016|Horgen / Horgen (Dorfkern)
-47.2584|8.5901|Horgen / Oberdorf
-47.2658|8.5876|Horgen / Scheller-Stockerstrasse
-47.5080|8.5120|Höri
-47.4943|9.4625|Horn
-47.0169|8.3096|Horw
-47.1754|8.4250|Hünenberg
-47.1150|7.8621|Huttwil
-47.6067|8.8734|Hüttwilen
-47.0110|8.6454|Ibach
-46.9453|9.5722|Igis
-46.7741|9.2046|Ilanz
-47.4113|8.7212|Illnau
-47.4079|8.7261|Illnau / Unter-Illnau
-46.9988|8.6153|Ingenbohl
-47.0058|7.1061|Ins
-46.6839|7.8664|Interlaken
-46.6893|7.9887|Interlaken-Oberhasli
-47.1253|8.3489|Inwil
-47.4665|7.7850|Itingen
-47.0480|7.5079|Jegenstorf
-46.9289|9.7127|Jenaz
-47.2298|8.8388|Jona
-47.2975|8.3928|Jonen
-46.4788|6.8411|Jongny
-47.4240|9.0869|Jonschwil
-47.2189|7.2198|Jura bernois
-46.7298|6.4543|Jura-Nord vaudois
-46.2359|6.2670|Jussy
-47.5397|7.7260|Kaiseraugst
-47.5416|8.0434|Kaisten
-47.0203|7.2355|Kallnach
-47.2137|9.0259|Kaltbrunn
-46.4947|7.6733|Kandersteg
-47.0602|7.2686|Kappelen
-46.9104|7.4710|Kehrsatz
-46.9012|8.2751|Kerns
-46.9759|7.1957|Kerzers
-47.3244|8.5455|Kilchberg
-47.3273|8.5396|Kilchberg / Bächler-Stocken
-47.3201|8.5431|Kilchberg / Kilchberg (Dorfkern)
-47.4322|8.3510|Killwangen
-47.4064|8.6830|Kindhausen / Kindhausen (Dorf)
-47.0854|7.5829|Kirchberg
-46.9997|7.4173|Kirchlindach
-47.6006|8.6836|Kleinandelfingen
-47.4252|7.4161|Kleinlützel
-47.5836|8.2488|Klingnau
-46.8892|9.8383|Klosters Serneus
-47.4515|8.5849|Kloten
-47.4423|8.5750|Kloten / Balsberg
-47.4658|8.5815|Kloten / Freienberg (Chanzler-Chlini Chaseren)
-47.4542|8.5907|Kloten / Geissberg
-47.4464|8.5766|Kloten / Holberg
-47.4540|8.5831|Kloten / Horainli
-47.4526|8.5946|Kloten / Hostrass
-47.4513|8.5868|Kloten / Kloten (Zentrum)
-47.4473|8.5881|Kloten / Rütlen
-47.4445|8.5872|Kloten / Spitz
-47.2235|8.4620|Knonau
-47.1995|8.0732|Knutwil
-47.6097|8.2375|Koblenz
-47.4579|8.7829|Kollbrunn
-47.4575|8.7741|Kollbrunn / Kollbrunn (Dorfkern)
-47.3334|8.0224|Kölliken
-46.9244|7.4146|Köniz
-46.8791|7.6201|Konolfingen
-47.1313|7.6052|Koppigen
-47.0096|7.5664|Krauchthal
-47.6505|9.1750|Kreuzlingen
-47.6305|9.1646|Kreuzlingen District
-47.1745|7.5980|Kriegstetten
-47.0311|8.2855|Kriens
-47.2475|9.1706|Krummenau
-47.3889|8.3305|Künten
-47.3180|8.5840|Küsnacht
-47.3178|8.5830|Küsnacht / Dorf
-47.3273|8.5808|Küsnacht / Goldbach
-47.3131|8.5885|Küsnacht / Heslibach
-47.3271|8.6007|Küsnacht / Itschnach
-47.3211|8.5888|Küsnacht / Schiedhalden
-47.0856|8.4421|Küssnacht
-47.4148|8.0498|Küttigen
-46.8045|9.2579|Laax
-47.0999|6.8259|La Chaux-de-Fonds
-47.1216|6.8406|La Chaux-de-Fonds District
-47.1922|8.8532|Lachen
-46.9102|7.1409|Lake
-46.1898|6.1144|Lancy
-46.9500|9.5667|Landquart
-47.0659|7.0972|La Neuveville
-47.3492|7.7680|Langenbruck
-47.2197|7.5147|Langendorf
-47.2153|7.7961|Langenthal
-46.9394|7.7874|Langnau
-47.2864|8.5363|Langnau / Langnau (Dorf)
-47.2938|8.5376|Langnau / Vitaquartier
-47.2888|8.5411|Langnau am Albis
-47.5935|9.2473|Langrickenbach
-46.5789|9.9201|La Punt Chamues-ch
-46.6962|7.1372|La Roche
-46.6586|6.5108|La Sarraz
-46.4531|6.8586|La Tour-de-Peilz
-46.6106|7.0650|La Tour-de-Trême
-47.3946|7.8558|Läufelfingen
-47.4219|7.4995|Laufen
-47.5598|8.0623|Laufenburg
-47.5015|8.2312|Lauffohr (Brugg)
-46.9021|7.2397|Laupen
-47.3126|7.6547|Laupersdorf
-46.9656|7.7421|Lauperswil
-46.5160|6.6328|Lausanne
-46.5213|6.6333|Lausanne District
-47.4714|7.7603|Lausen
-46.5931|7.9094|Lauterbrunnen
-46.5362|6.7709|Lavaux-Oron
-46.2589|8.8376|Lavertezzo
-46.6069|6.2306|Le Chenit
-46.2319|6.1209|Le Grand-Saconnex
-47.5879|8.1761|Leibstadt
-47.0570|7.0705|Le Landeron
-47.0562|6.7491|Le Locle
-47.0193|6.6963|Le Locle District
-46.5581|6.6315|Le Mont-sur-Lausanne
-47.1816|7.3681|Lengnau
-46.4583|7.4430|Lenk
-47.2246|6.9578|Le Noirmont
-46.2830|7.4498|Lens
-47.3885|8.1750|Lenzburg
-46.7221|9.5590|Lenzerheide
-46.2217|6.1081|Les Avanchets
-47.1771|6.9050|Les Bois
-47.0677|6.7048|Les Brenets
-47.2110|7.0079|Les Breuleux
-47.0153|6.8513|Les Geneveys-sur-Coffrane
-46.9973|6.7306|Les Ponts-de-Martel
-46.3174|7.6341|Leuk
-46.3144|7.6729|Leuk District
-46.3794|7.6269|Leukerbad
-47.1746|7.4577|Leuzigen
-46.4775|6.2360|Le Vaud
-46.4691|8.7554|Leventina
-46.3418|7.0115|Leysin
-46.1866|7.2078|Leytron
-47.3238|9.0876|Lichtensteig
-46.9334|7.3961|Liebefeld
-47.4040|7.4279|Liesberg
-47.4845|7.7345|Liestal
-45.8616|8.9517|Ligornetto
-46.8469|7.6783|Linden
-46.9213|8.9980|Linthal
-47.0500|8.2627|Littau
-46.1709|8.7995|Locarno
-46.1803|8.7599|Locarno District
-46.3002|8.9799|Lodrino
-47.7012|8.5524|Löhningen
-46.1687|8.7593|Losone
-47.3837|7.9466|Lostorf
-47.1913|7.7910|Lotzwil
-46.7085|6.8393|Lucens
-47.0405|8.2927|Lucerne-Land
-47.0533|8.3106|Lucerne-Stadt
-46.9664|9.0372|Luchsingen
-46.0101|8.9600|Lugano
-46.0232|8.9380|Lugano District
-46.2302|9.0642|Lumino
-46.7858|8.1598|Lungern
-47.2143|7.5846|Luterbach
-47.0575|7.9169|Luthern
-47.3945|9.0831|Lütisburg
-46.5024|6.6865|Lutry
-47.0076|7.6917|Lützelflüh
-46.9196|9.7608|Luzein
-47.0505|8.3064|Luzern
-47.0741|7.3065|Lyss
-47.0645|7.5823|Lyssach
-47.1646|7.7986|Madiswil
-46.1489|8.8561|Magadino
-47.5287|7.8113|Magden
-47.0047|9.5312|Maienfeld
-46.9810|9.5753|Malans
-47.2384|7.2729|Malleray
-47.0363|8.1819|Malters
-46.4059|8.9819|Malvaglia
-47.2569|8.6989|Männedorf
-47.2464|8.7061|Männedorf / Ausserfeld
-47.2561|8.6916|Männedorf / Dorfkern
-47.0102|6.9994|Marin-Epagnier
-46.7761|7.1646|Marly
-46.6564|7.0595|Marsens
-47.5925|9.0685|Märstetten-Dorf
-47.6291|8.6533|Marthalen
-46.1239|7.1035|Martigny
-46.0782|7.0510|Martigny-Combe
-46.1028|7.0724|Martigny-Ville
-46.0126|8.9435|Massagno
-46.6783|7.8689|Matten
-47.4871|8.7468|Mattenbach (Kreis 7)
-47.4942|8.7395|Mattenbach (Kreis 7) / Deutweg
-47.4882|8.7494|Mattenbach (Kreis 7) / Endliker
-47.4910|8.7526|Mattenbach (Kreis 7) / Gutschick
-47.3037|7.6282|Matzendorf
-47.5196|8.9337|Matzingen
-47.1670|8.0679|Mauensee
-46.6056|6.4207|Mauraz
-47.0469|8.3747|Meggen
-47.1247|8.4427|Meierskappel
-47.2723|8.6462|Meilen
-46.2471|6.2342|Meinier
-47.1596|7.3480|Meinisberg
-46.7271|8.1872|Meiringen
-47.2949|8.2287|Meisterschwanden
-45.9220|8.9843|Melano
-47.1821|7.8513|Melchnau
-45.9545|8.9473|Melide
-47.4190|8.2733|Mellingen
-45.8702|8.9816|Mendrisio
-45.8659|8.9993|Mendrisio District
-47.2396|8.1900|Menziken
-47.1776|8.5922|Menzingen
-47.0836|8.0397|Menznau
-47.2594|8.3763|Merenschwand
-46.3939|9.2333|Mesocco
-47.0915|7.4453|Messen
-47.2453|8.4635|Mettmenstetten
-46.2342|6.0803|Meyrin
-46.6796|6.9263|Mézières
-46.1777|8.8147|Minusio
-47.3622|9.1354|Mogelsberg
-47.5592|7.8433|Möhlin
-46.5776|6.3632|Mollens
-47.0888|9.0724|Mollis
-47.3096|8.7203|Mönchaltorf
-47.3040|8.7221|Mönchaltorf / Dorf
-45.9832|8.9179|Montagnola
-46.7929|6.6122|Montagny
-46.3134|7.4884|Montana
-46.1865|8.9989|Monte Carasso
-46.2545|6.9541|Monthey
-46.2704|6.9027|Monthey District
-46.4330|6.9114|Montreux
-45.8492|9.0191|Morbio Inferiore
-46.5113|6.4985|Morges
-46.5358|6.4866|Morges District
-47.4710|9.4228|Mörschwil
-47.3625|9.0430|Mosnang
-46.6676|6.7978|Moudon
-47.2782|7.3695|Moutier
-47.3358|8.0554|Muhen
-46.9547|7.2610|Mühleberg
-47.2831|8.5339|Mühlehalde
-46.8135|7.5088|Mühlethurnen
-47.6020|9.0036|Müllheim
-47.5456|7.9212|Mumpf
-47.0217|7.4504|Münchenbuchsee
-47.5185|7.6097|Münchenstein
-46.9133|7.1256|Münchenwiler
-47.4772|8.9968|Münchwilen
-47.4732|8.9881|Münchwilen District
-46.8730|7.5610|Münsingen
-47.6320|9.2327|Münsterlingen
-46.9955|7.1463|Müntschemier
-47.5210|9.3248|Muolen
-46.9768|8.7650|Muotathal
-46.1732|8.8022|Muralto
-47.2715|7.8393|Murgenthal
-47.2743|8.3385|Muri
-46.9283|7.1171|Murten/Morat
-47.5227|7.6451|Muttenz
-47.0977|9.0636|Näfels
-47.3698|8.6889|Nänikon
-47.3710|8.6925|Nänikon / Nänikon (Dorfkern)
-46.3254|7.9891|Naters
-47.1919|7.9777|Nebikon
-47.5110|8.4710|Neerach
-47.5276|8.6649|Neftenbach / Dorf Neftenbach
-47.0634|9.0573|Netstal
-46.9918|6.9310|Neuchâtel
-47.0180|6.9934|Neuchâtel District
-47.1770|8.2091|Neudorf
-47.4498|8.3268|Neuenhof
-47.0999|8.2042|Neuenkirch
-47.6858|8.6147|Neuhausen
-47.6901|8.4998|Neunkirch
-47.1255|7.2403|Nidau
-47.2717|7.6958|Niederbipp
-47.4655|9.2057|Niederbüren
-47.4907|8.4999|Niederglatt
-47.4907|8.5005|Niederglatt / Niederglatt (Dorfkern)
-47.3716|7.9884|Niedergösgen
-47.4801|8.4858|Niederhasli
-47.4749|9.1854|Niederhelfenschwil
-47.4008|8.1764|Niederlenz
-47.4241|8.3040|Niederrohrdorf
-47.1260|9.0543|Niederurnen
-47.1347|8.1377|Nottwil
-45.8407|8.9824|Novazzano
-47.3941|7.6195|Nunningen
-47.4481|8.6491|Nürensdorf
-46.3832|6.2396|Nyon
-46.4200|6.2218|Nyon District
-47.1920|7.7455|Oberaargau
-47.2607|7.6636|Oberbipp
-47.3133|7.7684|Oberbuchsiten
-47.0367|7.6274|Oberburg
-46.8412|7.6173|Oberdiessbach
-47.3935|7.7517|Oberdorf
-47.4253|9.5513|Oberegg
-47.4084|8.4651|Oberengstringen
-47.4092|8.4563|Oberengstringen / Rauchacher
-47.4121|8.4605|Oberengstringen / Sonnenberg
-47.4071|8.4628|Oberengstringen / Zentrum
-47.3564|8.0459|Oberentfelden
-47.4758|8.5190|Oberglatt
-47.4714|8.5129|Oberglatt / Bahnhofquartier
-47.4760|8.5193|Oberglatt / Oberglatt (Dorfkern)
-47.3654|7.9517|Obergösgen
-47.3567|9.1108|Oberhelfenschwil
-47.1564|8.1157|Oberkirch
-47.3124|8.3924|Oberlunkhofen
-47.2657|8.6557|Obermeilen
-47.2744|8.5784|Oberrieden
-47.2763|8.5726|Oberrieden / Berg
-47.2724|8.5802|Oberrieden / Mitte
-47.3209|9.5681|Oberriet
-47.4183|8.3198|Oberrohrdorf
-47.1667|8.3944|Oberrüti
-46.7413|7.2815|Oberschrot
-47.4875|8.2965|Obersiggenthal
-46.4793|7.3580|Obersimmental-Saanen
-47.1141|9.0587|Oberurnen
-47.4308|9.1272|Oberuzwil
-47.5141|7.5579|Oberwil
-47.5169|8.7686|Oberwinterthur (Kreis 2)
-47.5134|8.7600|Oberwinterthur (Kreis 2) / Guggenbühl
-47.5072|8.7706|Oberwinterthur (Kreis 2) / Hegi
-47.5060|8.7515|Oberwinterthur (Kreis 2) / Talacker
-47.5195|8.7564|Oberwinterthur (Kreis 2) / Zinzikon
-47.2641|8.4215|Obfelden
-47.2620|8.4159|Obfelden / Oberlunnern
-47.2657|8.4301|Obfelden / Toussen
-47.2876|7.7161|Oensingen
-47.2705|8.7202|Oetwil
-47.3138|7.9253|Oftringen
-46.2952|6.9931|Ollon
-47.3500|7.9033|Olten
-46.1840|6.1024|Onex
-47.4317|8.5759|Opfikon
-46.7250|6.5307|Orbe
-47.4694|7.8725|Ormalingen
-46.5709|6.8256|Oron-la-Ville
-47.1389|7.3078|Orpund
-46.0290|7.1444|Orsières
-47.1607|7.2137|Orvin
-47.4605|8.3914|Otelfingen
-47.4012|8.2138|Othmarsingen
-47.2823|8.4043|Ottenbach
-46.5459|6.5700|Ouest Lausannois
-46.7012|6.6754|Pailly
-46.5419|6.8399|Palézieux
-46.5809|6.4294|Pampigny
-46.5055|6.6682|Paudex
-46.8219|6.9382|Payerne
-46.6108|6.5252|Penthalaz
-46.6817|6.6039|Penthéréaz
-46.4669|6.3535|Perroy
-47.1940|7.2491|Péry
-46.9870|6.8890|Peseux
-47.3648|8.6237|Pfaffhausen
-47.2011|8.7782|Pfäffikon
-47.3624|8.7927|Pfäffikon / Irgenhausen
-47.3694|8.7831|Pfäffikon / Pfäffikon (Dorfkern)
-47.2277|7.8972|Pfaffnau
-47.4598|7.5898|Pfeffingen
-47.5139|8.6423|Pfungen
-47.5969|8.9542|Pfyn
-47.1750|7.3379|Pieterlen
-46.7420|7.2867|Plaffeien
-46.1679|6.1166|Plan-les-Ouates
-46.6670|6.5097|Pompaples
-46.4955|9.9013|Pontresina
-47.4173|7.0757|Porrentruy
-47.4147|7.0764|Porrentruy District
-46.3244|10.0582|Poschiavo
-46.3952|6.2496|Prangins
-46.7514|7.1778|Praroman
-47.5207|7.6936|Pratteln
-46.0202|8.9743|Pregassona
-46.5185|6.5268|Préverenges
-46.5370|6.6046|Prilly
-46.5009|6.7825|Puidoux
-46.5103|6.6618|Pully
-46.2104|6.2311|Puplinge
-45.9865|8.8688|Pura
-47.1070|9.2420|Quarten
-47.0215|7.2718|Radelfingen
-47.6044|8.5430|Rafz
-47.7080|8.8095|Ramsen
-46.3095|7.5006|Randogne
-47.2256|8.8223|Rapperswil
-46.3120|7.8003|Raron
-46.3000|7.8000|Raron District
-47.3981|9.5850|Rebstein
-46.7677|7.2403|Rechthalten
-47.2343|7.2224|Reconvilier
-47.4341|8.4687|Regensdorf
-47.4362|8.4666|Regensdorf / Feldblumen-Riedthofstrasse
-47.4353|8.4624|Regensdorf / Hofacher-Geeren
-47.4277|8.4657|Regensdorf / Obstgarten
-46.6026|9.6515|Region Albula
-46.3349|10.0735|Region Bernina
-46.7521|10.2603|Region Engiadina Bassa / Val Müstair
-46.8488|9.3622|Region Imboden
-46.9640|9.5637|Region Landquart
-46.4745|9.8314|Region Maloja
-46.3520|9.1787|Region Moesa
-46.8182|9.6254|Region Plessur
-46.8673|9.8201|Region Prättigau / Davos
-46.6956|9.0483|Region Surselva
-46.5876|9.4003|Region Viamala
-47.4261|9.4830|Rehetobel
-47.1710|8.9770|Reichenburg
-47.2472|7.9714|Reiden
-47.3982|7.6872|Reigoldswil
-47.2573|8.1809|Reinach
-46.5399|6.5881|Renens
-46.7989|9.3976|Rhäzüns
-47.4663|9.5903|Rheineck
-47.5544|7.7940|Rheinfelden
-46.6422|7.0618|Riaz
-47.2062|8.6969|Richterswil
-47.2097|8.6913|Richterswil / Burghalde
-47.2071|8.7061|Richterswil / Dorfkern
-47.2032|8.7052|Richterswil / Richterswil (Dorfkern)
-47.4486|9.0490|Rickenbach bei Wil
-46.1728|7.2236|Riddes
-47.2316|7.5683|Riedholz
-47.5833|7.6333|Riehen
-46.8103|7.4801|Riggisberg
-46.7011|7.8944|Ringgenberg
-45.9012|8.9717|Riva San Vitale
-46.3093|8.9815|Riviera
-46.4646|6.8850|Riviera-Pays-d'Enhaut
-47.4808|7.4577|Rodersdorf
-47.2412|7.8214|Roggwil
-47.4103|7.9533|Rohr
-47.1352|7.8133|Rohrbach
-46.4582|6.3350|Rolle
-46.5640|6.6054|Romanel-sur-Lausanne
-47.5659|9.3787|Romanshorn
-47.1688|8.2453|Römerswil
-46.6965|6.9190|Romont
-47.1146|8.3902|Root
-47.5309|8.5755|Rorbas
-47.4780|9.4903|Rorschach
-47.4237|7.4802|Röschenz
-47.1042|8.6759|Rothenthurm
-47.3051|7.8920|Rothrist
-47.1428|8.4314|Rotkreuz
-46.8987|7.5446|Rubigen
-46.9837|7.7217|Rüderswil
-47.3710|8.3808|Rudolfstetten
-46.6192|6.8223|Rue
-46.8222|7.4389|Rüeggisberg
-47.4504|8.5299|Rümlang
-47.4494|8.5326|Rümlang / Rümlang (Dorfkern)
-47.4013|8.1288|Rupperswil
-46.7798|7.3917|Rüschegg
-47.3069|8.5513|Rüschlikon
-47.3967|8.7752|Russikon
-47.0842|8.1265|Ruswil
-47.2948|9.5386|Rüthi
-47.2560|8.8555|Rüti
-47.2537|8.8565|Rüti / Dorfzentrum Südl. Teil
-47.2589|8.8651|Rüti / Oberdorf
-47.2555|8.8449|Rüti / Westlicher Dorfteil
-46.4894|7.2600|Saanen
-46.1080|7.9274|Saas-Fee
-46.1228|7.9365|Saas-Grund
-46.8672|8.2334|Sachseln
-47.3216|7.9825|Safenwil
-47.2562|6.9965|Saignelégier
-46.1703|7.1877|Saillon
-46.8942|6.7725|Saint-Aubin-Sauges
-47.0151|6.9883|Saint-Blaise
-46.4459|6.1574|Saint-Cergue
-46.8220|6.5028|Sainte-Croix
-47.1528|6.9969|Saint-Imier
-46.2515|7.4171|Saint-Léonard
-46.5079|6.3875|Saint-Livres
-46.2183|7.0032|Saint-Maurice
-46.1538|6.9982|Saint-Maurice District
-46.4796|6.4599|Saint-Prex
-46.6347|6.9734|Sâles
-46.3115|7.5712|Salgesch
-47.5543|9.3723|Salmsach
-46.1189|7.0208|Salvan
-46.5340|9.8728|Samedan
-47.1917|8.6820|Samstagern
-46.8221|7.2609|Sankt Antoni
-47.4239|9.3748|Sankt Gallen
-47.2437|8.9644|Sankt Gallenkappel
-47.4525|9.6374|Sankt Margrethen
-46.1772|7.8035|Sankt Niklaus
-47.3178|9.1760|Sankt Peterzell
-46.5083|7.3956|Sankt Stephan
-47.0490|9.4410|Sargans
-46.7844|7.0999|Sarine
-47.3111|8.2495|Sarmenstorf
-46.8961|8.2453|Sarnen
-46.2146|6.0355|Satigny
-47.0825|8.6357|Sattel
-46.5161|6.3302|Saubraz
-46.2512|7.3456|Savièse
-46.5384|6.7322|Savigny
-46.1494|7.1751|Saxon
-47.3242|8.4725|Schachen
-47.6973|8.6349|Schaffhausen
-47.3766|8.1426|Schafisheim
-47.1600|9.0455|Schänis
-46.7181|9.4590|Scharans
-46.8655|8.6547|Schattdorf
-47.1776|8.1320|Schenkon
-46.9697|9.6872|Schiers
-47.1746|8.7134|Schindellegi
-47.4499|8.1683|Schinznach Bad
-47.4465|8.1409|Schinznach Dorf
-47.7482|8.4821|Schleitheim
-47.3967|8.4476|Schlieren
-47.3972|8.4573|Schlieren / Boden
-47.4034|8.4435|Schlieren / Engstingerquartier
-47.3960|8.4420|Schlieren / Freiestrasse
-47.3936|8.4445|Schlieren / Kamp
-47.3949|8.4303|Schlieren / Spital
-47.3978|8.4477|Schlieren / Zentrum
-47.2254|8.9484|Schmerikon
-46.8575|7.2503|Schmitten
-47.3059|8.0512|Schöftland
-47.5385|7.5057|Schönenbuch
-47.3691|8.0017|Schönenwerd
-47.1690|7.9887|Schötz
-47.1733|8.9281|Schübelbach
-47.0366|7.3772|Schüpfen
-46.9516|8.0172|Schüpfheim
-47.5854|8.1446|Schwaderloch
-46.9954|9.0701|Schwanden
-47.0170|8.1726|Schwarzenberg
-47.3526|9.2489|Schwellbrunn
-47.3821|8.6573|Schwerzenbach
-47.3831|8.6495|Schwerzenbach / Blatten
-47.3859|8.6589|Schwerzenbach / Chimli
-47.0208|8.6541|Schwyz
-46.7967|10.2980|Scuol
-47.1559|7.6657|Seeberg
-47.0344|7.3125|Seedorf
-47.0663|7.2633|Seeland
-47.4765|8.7700|Seen (Kreis 3)
-47.4845|8.7652|Seen (Kreis 3) / Büelwiesen
-47.4810|8.7625|Seen (Kreis 3) / Ganzenbühl
-47.4821|8.7729|Seen (Kreis 3) / Oberseen
-47.4839|8.7559|Seen (Kreis 3) / Waldegg
-47.4891|8.7603|Seen (Kreis 3) / Waser
-47.3250|8.2072|Seengen
-46.7876|7.5394|Seftigen
-47.5724|8.5209|Seglingen
-47.3436|8.4830|Sellenbüren
-47.4625|7.7204|Seltisberg
-47.2053|7.4552|Selzach
-46.1836|8.9916|Sementina
-47.1358|8.1915|Sempach
-47.2606|9.5027|Sennwald
-46.8013|7.2603|Sense
-47.3485|8.1607|Seon
-47.5354|8.7373|Seuzach / Seuzach (Dorf)
-47.5356|8.7321|Seuzach Dorf
-47.5335|8.7341|Seuzach Dorf / Breite-Weid
-47.1221|9.4860|Sevelen
-47.1745|8.8978|Siebnen
-46.2919|7.5356|Sierre
-46.2705|7.5157|Sierre District
-46.9194|7.7242|Signau
-46.7166|7.7134|Sigriswil
-46.7891|8.6732|Silenen
-46.4581|9.7951|Silvaplana
-47.1930|8.3938|Sins
-46.2334|7.3494|Sion
-47.4622|8.9976|Sirnach
-47.4641|7.8089|Sissach
-46.2274|7.3556|Sitten
-47.2079|7.5371|Solothurn
-47.4533|8.4609|Sonnhalde
-45.9977|8.9378|Sorengo
-46.6552|6.7420|Sottens
-47.4109|9.4434|Speicher
-46.6847|7.6911|Spiez
-47.4228|8.3679|Spreitenbach
-45.8485|8.9364|Stabio
-47.4949|8.7195|Stadt Winterthur (Kreis 1)
-47.4995|8.7287|Stadt Winterthur (Kreis 1) / Altstadt
-47.4976|8.7127|Stadt Winterthur (Kreis 1) / Brühlberg
-47.4941|8.7233|Stadt Winterthur (Kreis 1) / Heiligberg
-47.5057|8.7337|Stadt Winterthur (Kreis 1) / Lind
-47.5021|8.7163|Stadt Winterthur (Kreis 1) / Neuwiesen
-47.4934|8.7151|Stadt Winterthur (Kreis 1) / Tössfeld
-47.2425|8.7234|Stäfa
-47.2839|8.0421|Staffelbach
-46.2334|7.8727|Stalden
-46.9581|8.3661|Stans
-46.9768|8.3355|Stansstad
-47.3820|8.1668|Staufen
-47.6667|8.9833|Steckborn
-46.7781|7.6325|Steffisburg
-47.5440|7.9526|Stein
-47.6593|8.8596|Stein am Rhein
-47.0498|8.6121|Steinen
-47.1951|8.4858|Steinhausen
-47.4971|8.4522|Steinmaur
-47.7403|8.6630|Stetten
-47.5259|8.9532|Stettfurt
-46.9584|7.5251|Stettlen
-46.4994|9.8433|St. Moritz
-47.2792|7.9290|Strengelbach
-47.1985|7.6195|Subingen
-47.3717|8.0797|Suhr
-47.5397|9.1859|Sulgen
-47.5360|8.0963|Sulz
-47.0275|7.7453|Sumiswald
-47.1709|8.1111|Sursee
-47.1559|8.1370|Sursee District
-46.8148|7.2185|Tafers
-47.4307|8.6728|Tagelswangen
-47.6570|9.1400|Tägerwilen
-46.8296|9.4065|Tamins
-46.3450|6.8304|Tanay
-47.2690|8.8502|Tann
-47.2649|8.8505|Tann / Tann (Dorfkern)
-47.0663|7.1988|Täuffelen
-47.2208|7.1976|Tavannes
-47.5581|8.2891|Tegerfelden
-46.0681|8.9650|Tesserete
-47.3908|9.3864|Teufen
-47.3290|8.1178|Teufenthal
-47.4668|9.5664|Thal
-47.2918|8.5635|Thalwil
-47.2918|8.5560|Thalwil / Berg
-47.2905|8.5663|Thalwil / Dorfkern
-47.2975|8.5563|Thalwil / Nord
-47.2941|8.5693|Thalwil / See
-47.2850|8.5695|Thalwil / Süd
-47.7472|8.7072|Thayngen
-47.4994|7.5567|Therwil
-46.7532|7.5744|Thierachern
-46.1882|6.1990|Thônex
-46.7512|7.6217|Thun
-46.7629|7.6250|Thun District
-47.5459|8.9636|Thundorf
-46.6972|9.4394|Thusis
-46.6601|9.5788|Tiefencastel
-46.8603|7.4922|Toffen
-47.4789|8.7021|Töss (Kreis 4)
-47.4873|8.7074|Töss (Kreis 4) / Eichliacker
-47.4928|8.7022|Töss (Kreis 4) / Schlosstal
-47.4813|8.6985|Töss (Kreis 4) / Vorder-Dättnau
-47.0170|7.7364|Trachselwald
-47.2230|7.1029|Tramelan
-46.9402|6.6760|Travers
-46.4154|6.2081|Trélex
-46.7280|7.1377|Treyvaux
-47.2357|8.0765|Triengen
-47.3656|7.8868|Trimbach
-46.9008|9.5612|Trimmis
-47.4078|9.4650|Trogen
-46.1631|6.1475|Troinex
-46.2289|6.9159|Troistorrents
-46.9417|7.8800|Trub
-46.9223|7.8452|Trubschachen
-46.7429|8.9872|Trun
-47.2029|8.9490|Tuggen
-47.4363|8.8463|Turbenthal
-47.4920|8.2541|Turgi
-46.3003|7.7020|Turtmann
-47.0900|8.4033|Udligenswil
-46.8659|7.3100|Ueberstorf
-47.2367|8.7573|Uerikon
-47.3035|8.0232|Uerkheim
-46.7739|7.5725|Uetendorf
-47.2644|8.6792|Uetikon
-47.2665|8.6776|Uetikon / Grossdorf
-47.6707|8.6354|Uhwiesen
-47.3691|8.4570|Uitikon
-47.1365|8.5853|Unterägeri
-47.4140|8.4476|Unterengstringen
-47.0626|8.8052|Unteriberg
-47.3100|8.1137|Unterkulm
-47.3212|8.3810|Unterlunkhofen
-46.6853|7.8472|Unterseen
-47.5021|8.2555|Untersiggenthal
-46.9275|9.5342|Untervaz
-47.3851|8.4258|Urdorf
-47.3892|8.4227|Urdorf / Bodenfeld
-47.3898|8.4289|Urdorf / Moos
-47.3807|8.4234|Urdorf / Oberurdorf
-47.3167|9.2795|Urnäsch
-47.0267|7.5008|Urtenen
-47.3471|8.7209|Uster
-47.3602|8.7139|Uster / Gschwader
-47.3458|8.7184|Uster / Kirch-Uster
-47.3474|8.7009|Uster / Nieder-Uster
-47.3409|8.7256|Uster / Nossikon
-47.3487|8.7332|Uster / Ober-Uster
-46.7944|7.5779|Uttigen
-47.5844|9.3410|Uttwil
-47.1325|7.5536|Utzenstorf
-47.2242|8.9826|Uznach
-47.4365|9.1342|Uzwil
-47.0401|6.9083|Val-de-Ruz
-46.9036|6.5631|Val-de-Travers
-46.3548|8.6054|Vallemaggia
-46.7126|6.3789|Vallorbe
-46.6165|9.1802|Vals Platz
-46.2218|6.2028|Vandœuvres
-46.3186|7.6074|Varen
-46.9462|7.5606|Vechigen
-47.4380|8.1472|Veltheim
-47.5142|8.7170|Veltheim (Kreis 5)
-47.5062|8.7156|Veltheim (Kreis 5) / Blumenau
-47.5139|8.7158|Veltheim (Kreis 5) / Rosenberg
-46.1002|7.2265|Verbier
-46.1367|7.0391|Vernayaz
-46.2170|6.0850|Vernier
-46.1848|8.7322|Verscio
-46.2838|6.1621|Versoix
-46.2217|7.2786|Vétroz
-46.4630|6.8434|Vevey
-46.5508|6.9108|Veveyse
-46.2124|7.3983|Vex
-46.1670|6.1844|Veyrier
-47.3500|7.4134|Vicques
-46.0134|8.9688|Viganello
-46.7905|7.1172|Villars-sur-Glâne
-46.2983|7.0563|Villars-sur-Ollon
-46.7207|6.9564|Villaz-Saint-Pierre
-46.3987|6.9265|Villeneuve
-47.5268|8.2149|Villigen
-47.3501|8.2476|Villmergen
-47.4710|8.1598|Villnachern
-46.3110|6.9006|Vionnaz
-46.2937|7.8815|Visp
-46.1761|7.8561|Visp District
-46.2590|7.9019|Visperterminen
-47.0101|8.4842|Vitznau
-47.3902|8.6908|Volketswil / Volketswil (Dorf)
-47.2758|7.9011|Vordemwald
-47.1217|8.9023|Vorderthal
-46.3375|6.8895|Vouvry
-46.6155|7.0173|Vuadens
-46.6858|6.6479|Vuarrens
-47.2268|8.6687|Wädenswil
-47.2212|8.6838|Wädenswil / Boller-Giessen
-47.2340|8.6635|Wädenswil / Büelen
-47.2292|8.6722|Wädenswil / Dorf (Wädenswil)
-47.2185|8.6744|Wädenswil / Eichweid
-47.2337|8.6525|Wädenswil / Hangenmoos
-47.2236|8.6715|Wädenswil / Leihof-Mühlebach
-47.2277|8.6630|Wädenswil / Untermosen-Fuhr
-47.6600|8.8478|Wagenhausen
-47.4023|7.5151|Wahlen
-47.3777|9.5790|Wahlkreis Rheintal
-47.4665|9.4425|Wahlkreis Rorschach
-47.0500|9.4333|Wahlkreis Sarganserland
-47.2246|9.0168|Wahlkreis See-Gaster
-47.4634|9.3905|Wahlkreis St. Gallen
-47.2945|9.1728|Wahlkreis Toggenburg
-47.1774|9.4630|Wahlkreis Werdenberg
-47.4259|9.1245|Wahlkreis Wil
-47.1017|8.5169|Walchwil
-47.2760|8.9140|Wald
-47.3833|7.7500|Waldenburg
-47.4686|9.2866|Waldkirch
-47.3563|9.2835|Waldstatt
-47.1241|9.3119|Walenstadt
-46.9486|7.6204|Walkringen
-47.4150|8.5967|Wallisellen
-47.4174|8.6003|Wallisellen / Rieden
-47.4145|8.5973|Wallisellen / Wallisellen-Ost
-47.4191|8.5859|Wallisellen / Wallisellen-West
-47.3334|8.2979|Waltenschwil
-47.4487|9.6050|Walzenhausen
-47.3436|7.8698|Wangen
-47.2321|7.6525|Wangen an der Aare
-47.4965|8.9533|Wängi
-46.7697|7.5084|Wattenwil
-47.2996|9.0866|Wattwil
-47.1846|8.0210|Wauwil
-47.1345|9.0964|Weesen
-47.4980|7.9314|Wegenstetten
-47.0321|8.4322|Weggis
-47.5667|9.1000|Weinfelden
-47.5424|9.1571|Weinfelden District
-47.4202|8.4364|Weiningen
-47.4306|8.7679|Weisslingen
-47.2805|7.5266|Welschenrohr
-47.0558|8.1018|Werthenstein
-47.4705|8.3164|Wettingen
-47.3320|8.4773|Wettswil / Ausser-Dorf
-47.3415|8.4715|Wettswil / Wettswil (Dorf)
-47.3264|8.7978|Wetzikon
-47.3332|8.8098|Wetzikon / Kempten
-47.3251|8.8001|Wetzikon / Ober-Wetzikon
-47.3309|8.7876|Wetzikon / Robenhausen
-47.3164|8.7937|Wetzikon / Unter-Wetzikon
-46.8501|7.5775|Wichtrach
-47.2519|7.6461|Wiedlisbach
-47.5217|8.7897|Wiesendangen / Wiesendangen (Dorf)
-47.5977|9.0314|Wigoltingen
-47.2634|7.9680|Wikon
-47.4615|9.0455|Wil
-47.4193|8.8452|Wila
-47.6675|8.4677|Wilchingen
-46.6637|7.8617|Wilderswil
-47.2058|9.3540|Wildhaus
-47.1218|7.9942|Willisau
-47.1410|7.9593|Willisau District
-46.6759|7.6397|Wimmis
-47.4790|8.2184|Windisch
-47.5056|8.7241|Winterthur
-47.4611|9.3860|Wittenbach
-47.4814|7.9758|Wittnau
-47.3507|8.2752|Wohlen
-46.9032|8.3942|Wolfenschiessen
-47.2562|8.7991|Wolfhausen
-47.4607|7.9984|Wölflinswil
-47.2687|7.7965|Wolfwil
-47.0598|8.0739|Wolhusen
-47.1948|8.7190|Wollerau
-46.9298|7.5631|Worb
-47.1028|7.2952|Worben
-47.5104|8.6833|Wülflingen (Kreis 6)
-47.5126|8.6840|Wülflingen (Kreis 6) / Härti
-47.5110|8.6929|Wülflingen (Kreis 6) / Lindenplatz
-47.5090|8.6797|Wülflingen (Kreis 6) / Niederfeld
-47.4987|8.6990|Wülflingen (Kreis 6) / Oberfeld
-47.5336|8.2567|Würenlingen
-47.4421|8.3626|Würenlos
-47.2557|7.8163|Wynau
-47.1059|7.6668|Wynigen
-47.0785|7.8292|Wyssachen
-46.7785|6.6411|Yverdon-les-Bains
-46.8003|6.7425|Yvonand
-46.9020|7.6619|Zäziwil
-47.1367|7.9249|Zell
-46.0200|7.7486|Zermatt
-46.6986|10.0927|Zernez
-46.9357|9.5649|Zizers
-47.2878|7.9459|Zofingen
-47.3451|8.6009|Zollikerberg
-46.9990|7.4581|Zollikofen
-47.3402|8.5741|Zollikon
-47.2017|7.5665|Zuchwil
-47.1724|8.5175|Zug
-47.3316|8.6227|Zumikon
-47.4492|7.8079|Zunzgen
-46.6021|9.9596|Zuoz
-47.3667|8.5500|Zürich
-47.3706|8.5418|Zürich (Kreis 1)
-47.3727|8.5358|Zürich (Kreis 1) / City
-47.3719|8.5404|Zürich (Kreis 1) / Lindenhof
-47.3716|8.5450|Zürich (Kreis 1) / Rathaus
-47.4077|8.5005|Zürich (Kreis 10)
-47.4031|8.4971|Zürich (Kreis 10) / Höngg
-47.4144|8.4793|Zürich (Kreis 10) / Rütihof
-47.3950|8.5253|Zürich (Kreis 10) / Wipkingen
-47.4233|8.5217|Zürich (Kreis 11)
-47.4181|8.5122|Zürich (Kreis 11) / Affoltern
-47.4082|8.5426|Zürich (Kreis 11) / Oerlikon
-47.4248|8.5213|Zürich (Kreis 11) / Schwandenholz
-47.4218|8.5478|Zürich (Kreis 11) / Seebach
-47.4037|8.5761|Zürich (Kreis 12)
-47.4151|8.5701|Zürich (Kreis 12) / Auzelg
-47.4019|8.5863|Zürich (Kreis 12) / Hirzenbach
-47.4113|8.5648|Zürich (Kreis 12) / Saatlen
-47.4063|8.5724|Zürich (Kreis 12) / Schwamendingen-Mitte
-47.3376|8.5211|Zürich (Kreis 2)
-47.3605|8.5313|Zürich (Kreis 2) / Enge
-47.3254|8.5139|Zürich (Kreis 2) / Mittel-Leimbach
-47.3336|8.5143|Zürich (Kreis 2) / Unter-Leimbach
-47.3401|8.5313|Zürich (Kreis 2) / Wollishofen
-47.3578|8.5030|Zürich (Kreis 3)
-47.3620|8.5150|Zürich (Kreis 3) / Alt-Wiedikon
-47.3637|8.5042|Zürich (Kreis 3) / Friesenberg
-47.3738|8.5116|Zürich (Kreis 3) / Sihlfeld
-47.3775|8.5213|Zürich (Kreis 4) / Aussersihl
-47.3831|8.5094|Zürich (Kreis 4) / Hard
-47.3777|8.5285|Zürich (Kreis 4) / Langstrasse
-47.3718|8.5258|Zürich (Kreis 4) / Werd
-47.3877|8.5215|Zürich (Kreis 5)
-47.3905|8.5129|Zürich (Kreis 5) / Escher-Wyss
-47.3848|8.5301|Zürich (Kreis 5) / Gewerbeschule
-47.3922|8.5438|Zürich (Kreis 6)
-47.3892|8.5504|Zürich (Kreis 6) / Oberstrass
-47.3953|8.5372|Zürich (Kreis 6) / Unterstrass
-47.3733|8.5804|Zürich (Kreis 7)
-47.3801|8.5613|Zürich (Kreis 7) / Fluntern
-47.3624|8.5676|Zürich (Kreis 7) / Hirslanden
-47.3701|8.5631|Zürich (Kreis 7) / Hottingen
-47.3575|8.5910|Zürich (Kreis 7) / Witikon
-47.3548|8.5610|Zürich (Kreis 8)
-47.3573|8.5574|Zürich (Kreis 8) / Mühlebach
-47.3546|8.5554|Zürich (Kreis 8) / Seefeld
-47.3525|8.5701|Zürich (Kreis 8) / Weinegg
-47.3824|8.4799|Zürich (Kreis 9)
-47.3740|8.4901|Zürich (Kreis 9) / Albisrieden
-47.3895|8.4853|Zürich (Kreis 9) / Altstetten
-47.4745|9.1120|Zuzwil
-46.5554|7.3730|Zweisimmen
-47.4382|7.5303|Zwingen
+47.4920|8.9010|Aadorf|Thurgau|7620|
+47.3925|8.0442|Aarau|Aargau|21503|
+47.0444|7.2758|Aarberg|Bern|3911|
+47.3207|7.8999|Aarburg|Aargau|6828|
+47.2385|7.7685|Aarwangen|Bern|4171|
+46.4547|8.9426|Acquarossa|Ticino|1808|
+46.4914|7.5603|Adelboden|Bern|3541|
+47.0652|8.3612|Adligenswil|Lucerne|5576|
+47.3100|8.5246|Adliswil|Zürich|15230|
+47.3113|8.5267|Adliswil / Adliswil (Stadtkern)|Zürich|2538|
+47.3164|8.5189|Adliswil / Hündli-Zopf|Zürich|1553|
+47.3202|8.5151|Adliswil / Oberleimbach|Zürich|1411|
+47.3096|8.5206|Adliswil / Sonnenberg|Zürich|1283|
+47.3187|8.5243|Adliswil / Sood|Zürich|1494|
+47.3114|8.5345|Adliswil / Tal|Zürich|1125|
+47.4710|7.5973|Aesch|Basel-Land|10138|
+47.3297|8.6541|Aesch|Zürich|1717|
+46.6585|7.6965|Aeschi b. Spiez|Bern|2000|
+47.5258|9.0331|Affeltrangen|Thurgau|2135|
+47.2732|8.4522|Affoltern / Hasenbüel|Zürich|1690|
+47.2785|8.4565|Affoltern / Oberdorf|Zürich|1759|
+47.2805|8.4601|Affoltern / Sonnenberg|Zürich|1262|
+47.2828|8.4541|Affoltern / Unterdorf|Zürich|1989|
+47.2774|8.4513|Affoltern am Albis|Zürich|12226|
+45.9986|8.9003|Agno|Ticino|3639|
+46.3181|6.9646|Aigle|Vaud|10134|
+46.3058|7.0297|Aigle District|Vaud|0|
+46.1906|6.0429|Aire-la-Ville|Geneva|1100|
+46.5286|8.6119|Airolo|Ticino|1559|
+47.4254|7.1302|Alle|Jura|1693|
+47.5507|7.5360|Allschwil|Basel-Land|18189|
+46.9423|8.2718|Alpnach|Obwalden|5218|
+46.8804|8.6444|Altdorf|Uri|9401|
+47.1899|8.8382|Altendorf|Schwyz|5280|
+46.7959|7.2588|Alterswil|Fribourg|1850|
+47.1992|7.9696|Altishofen|Lucerne|1368|
+47.6105|9.2616|Altnau|Thurgau|1887|
+47.3777|9.5475|Altstätten|St. Gallen|10574|
+47.1489|9.1423|Amden|St. Gallen|1557|
+47.5470|9.2959|Amriswil|Thurgau|11351|
+47.5945|8.6783|Andelfingen|Zürich|1328|
+46.6356|8.5939|Andermatt|Uri|1258|
+47.4385|9.2744|Andwil|St. Gallen|1737|
+46.2767|6.2220|Anières|Geneva|2706|
+47.3310|9.4100|Appenzell|Appenzell Innerrhoden|5649|
+46.5524|6.4289|Apples|Vaud|1201|
+47.5167|9.4333|Arbon|Thurgau|14631|
+47.5487|9.3516|Arbon District|Thurgau|0|
+47.1653|7.4314|Arch|Bern|1574|
+46.2095|7.2601|Ardon|Valais|2305|
+47.5132|7.7652|Arisdorf|Basel-Land|1538|
+47.2869|8.3636|Aristau|Aargau|1313|
+47.4941|7.6198|Arlesheim|Basel-Land|9301|
+46.7779|9.6762|Arosa|Graubünden|2307|
+47.0634|8.5235|Arth|Schwyz|9850|
+46.3021|9.1130|Arvigo|Graubünden|92|
+46.4596|6.2081|Arzier|Vaud|1919|
+45.8761|8.9410|Arzo|Ticino|1188|
+46.1545|8.7733|Ascona|Ticino|5084|
+46.5055|6.8504|Attalens|Fribourg|2380|
+46.8625|8.6304|Attinghausen|Uri|1515|
+47.2467|7.6135|Attiswil|Bern|1389|
+47.4309|9.6345|Au|St. Gallen|6673|
+47.2418|8.6441|Au|Zürich|4844|
+47.2430|8.6459|Au / Mittel-Dorf|Zürich|2562|
+47.2473|8.6327|Au / Unter-Dorf|Zürich|1249|
+46.4951|6.3915|Aubonne|Vaud|2703|
+46.9755|6.8790|Auvernier|Neuchâtel|1555|
+47.2108|8.3658|Auw|Aargau|1610|
+46.8800|7.0407|Avenches|Vaud|2758|
+46.7875|7.0674|Avry-sur-Matran|Fribourg|1326|
+46.2825|7.4103|Ayent|Valais|3243|
+47.1962|8.5295|Baar|Zug|20546|
+47.2039|8.7322|Bäch|Schwyz|1479|
+47.5032|8.5456|Bachenbülach|Zürich|2985|
+47.4733|8.3059|Baden|Aargau|19340|
+47.0060|9.5027|Bad Ragaz|St. Gallen|5063|
+47.5876|8.2936|Bad Zurzach|Aargau|4344|
+46.0833|7.2167|Bagnes|Valais|6626|
+45.8464|9.0072|Balerna|Ticino|3456|
+47.4056|9.6070|Balgach|St. Gallen|4019|
+46.5549|6.3731|Ballens|Vaud|389|
+47.1537|8.3223|Ballwil|Lucerne|2284|
+47.3161|7.6932|Balsthal|Solothurn|5863|
+46.3089|7.8657|Baltschieder|Valais|1158|
+47.3371|8.8565|Bäretswil|Zürich|1313|
+47.0195|7.5271|Bäriswil|Bern|1036|
+47.5547|7.5906|Basel|Basel-Stadt|177595|
+47.3381|7.2437|Bassecourt|Jura|3305|
+46.1899|7.3121|Basse-Nendaz|Valais|5410|
+47.4434|8.6285|Bassersdorf|Zürich|7010|
+46.9619|7.1125|Bas-Vully|Fribourg|1963|
+47.1316|7.5382|Bätterkinden|Bern|2748|
+46.9356|8.5784|Bauen|Uri|206|
+47.3674|8.8790|Bauma|Zürich|1029|
+46.6840|6.5671|Bavois|Vaud|662|
+46.6990|7.7943|Beatenberg|Bern|1188|
+46.9665|8.4757|Beckenried|Nidwalden|3050|
+46.4415|6.2476|Begnins|Vaud|1323|
+46.8217|7.1067|Belfaux|Fribourg|2286|
+46.2574|6.1547|Bellevue|Geneva|3674|
+46.1928|9.0170|Bellinzona|Ticino|43220|
+46.1886|9.0025|Bellinzona District|Ticino|0|
+47.1085|7.2461|Bellmund|Bern|1311|
+46.5189|6.6764|Belmont-sur-Lausanne|Vaud|3007|
+46.8913|7.4982|Belp|Bern|9307|
+47.3608|8.6369|Benglen|Zürich|1937|
+47.1994|9.0074|Benken|St. Gallen|2419|
+47.5788|9.1663|Berg|Thurgau|2942|
+47.3516|8.3723|Berikon|Aargau|4527|
+47.6976|8.5743|Beringen|Schaffhausen|3216|
+46.9481|7.4474|Bern|Bern|121631|
+46.1765|6.0754|Bernex|Geneva|9759|
+46.9253|7.4902|Bern-Mittelland|Bern|0|
+46.5580|6.3355|Berolle|Vaud|0|
+47.2061|8.1927|Beromünster|Lucerne|2876|
+47.3144|8.3459|Besenbüren|Aargau|0|
+47.5714|7.6642|Bettingen|Basel-Stadt|1189|
+47.2006|7.4241|Bettlach|Solothurn|4834|
+46.9296|6.8147|Bevaix|Neuchâtel|3866|
+47.2371|7.2832|Bévilard|Bern|1736|
+46.2497|7.0098|Bex|Vaud|5956|
+47.3771|8.0524|Bezirk Aarau|Aargau|0|
+47.2731|8.4744|Bezirk Affoltern|Zürich|0|
+47.6133|8.6812|Bezirk Andelfingen|Zürich|0|
+47.5167|7.5873|Bezirk Arlesheim|Basel-Land|0|
+47.4566|8.3006|Bezirk Baden|Aargau|0|
+47.3493|8.3334|Bezirk Bremgarten|Aargau|0|
+47.4778|8.1780|Bezirk Brugg|Aargau|0|
+47.1320|7.4789|Bezirk Bucheggberg|Solothurn|0|
+47.4971|8.5676|Bezirk Bülach|Zürich|0|
+47.4718|8.4563|Bezirk Dielsdorf|Zürich|0|
+47.3880|8.4426|Bezirk Dietikon|Zürich|0|
+47.4803|7.6182|Bezirk Dorneck|Solothurn|0|
+47.1079|8.7601|Bezirk Einsiedeln|Schwyz|0|
+47.2961|7.7750|Bezirk Gäu|Solothurn|0|
+47.0080|8.5168|Bezirk Gersau|Schwyz|0|
+47.3776|7.9203|Bezirk Gösgen|Solothurn|0|
+47.3647|9.2735|Bezirk Hinterland|Appenzell Ausserrhoden|0|
+47.2965|8.8343|Bezirk Hinwil|Zürich|0|
+47.1904|8.7396|Bezirk Höfe|Schwyz|0|
+47.2577|8.5970|Bezirk Horgen|Zürich|0|
+47.2876|8.1330|Bezirk Kulm|Aargau|0|
+47.0861|8.4444|Bezirk Küssnacht|Schwyz|0|
+47.4232|7.4875|Bezirk Laufen|Basel-Land|0|
+47.5184|8.0388|Bezirk Laufenburg|Aargau|0|
+47.2180|7.4805|Bezirk Lebern|Solothurn|0|
+47.3718|8.1891|Bezirk Lenzburg|Aargau|0|
+47.4812|7.7271|Bezirk Liestal|Basel-Land|0|
+47.1613|8.9110|Bezirk March|Schwyz|0|
+47.2792|8.6626|Bezirk Meilen|Zürich|0|
+47.3770|9.4347|Bezirk Mittelland|Appenzell Ausserrhoden|0|
+47.2523|8.3536|Bezirk Muri|Aargau|0|
+47.6989|8.5177|Bezirk Oberklettgau|Schaffhausen|0|
+47.3443|7.9075|Bezirk Olten|Solothurn|0|
+47.4091|8.7721|Bezirk Pfäffikon|Zürich|0|
+47.7475|8.7082|Bezirk Reiat|Schaffhausen|0|
+47.5405|7.8333|Bezirk Rheinfelden|Aargau|0|
+47.6944|8.6352|Bezirk Schaffhausen|Schaffhausen|0|
+47.7500|8.5111|Bezirk Schleitheim|Schaffhausen|0|
+47.0281|8.6362|Bezirk Schwyz|Schwyz|0|
+47.4424|7.8487|Bezirk Sissach|Basel-Land|0|
+47.2082|7.5308|Bezirk Solothurn|Solothurn|0|
+47.6643|8.8468|Bezirk Stein|Schaffhausen|0|
+47.3109|7.6359|Bezirk Thal|Solothurn|0|
+47.3833|7.5500|Bezirk Thierstein|Solothurn|0|
+47.6800|8.4633|Bezirk Unterklettgau|Schaffhausen|0|
+47.3495|8.7135|Bezirk Uster|Zürich|0|
+47.4417|9.5387|Bezirk Vorderland|Appenzell Ausserrhoden|0|
+47.3937|7.7414|Bezirk Waldenburg|Basel-Land|0|
+47.1891|7.5916|Bezirk Wasseramt|Solothurn|0|
+47.5078|8.7690|Bezirk Winterthur|Zürich|0|
+47.2886|7.9570|Bezirk Zofingen|Aargau|0|
+47.3711|8.5432|Bezirk Zürich|Zürich|0|
+47.5618|8.2802|Bezirk Zurzach|Aargau|0|
+46.3597|8.9696|Biasca|Ticino|5885|
+47.1801|7.5625|Biberist|Solothurn|7889|
+47.1371|7.2461|Biel/Bienne|Bern|55120|
+47.1272|7.2617|Biel/Bienne District|Bern|0|
+46.5376|6.3336|Bière|Vaud|1428|
+46.9263|7.6251|Biglen|Bern|1759|
+47.1499|9.0255|Bilten|Glarus|2011|
+47.5402|7.5693|Binningen|Basel-Land|14130|
+47.3563|8.6266|Binz|Zürich|1601|
+47.2763|8.7585|Binzikon|Zürich|1854|
+46.0136|8.9110|Bioggio|Ticino|1784|
+47.4543|8.6348|Birchwil|Zürich|1066|
+47.3552|8.4426|Birmensdorf|Zürich|4772|
+47.4615|8.2482|Birmenstorf|Aargau|2462|
+47.4343|8.2089|Birr|Aargau|3884|
+47.5529|7.6232|Birsfelden|Basel-Land|10232|
+46.5393|6.6223|Blécherette|Vaud|6516|
+46.4761|8.9461|Blenio|Ticino|0|
+46.4678|6.8961|Blonay|Vaud|5244|
+46.7421|7.5214|Blumenstein|Bern|1154|
+46.3781|8.9099|Bodio|Ticino|1001|
+46.9751|7.4970|Bolligen|Bern|6086|
+46.6285|7.3905|Boltigen|Bern|1443|
+46.8110|9.3982|Bonaduz|Graubünden|2654|
+47.4949|7.0130|Boncourt|Jura|1304|
+46.6874|7.8935|Bönigen|Bern|2233|
+47.3173|8.1896|Boniswil|Aargau|1436|
+47.3150|8.4684|Bonstetten|Zürich|2260|
+46.8923|7.2277|Bösingen|Fribourg|3118|
+46.6160|6.6615|Bottens|Vaud|1030|
+47.6364|9.2088|Bottighofen|Thurgau|1882|
+47.5234|7.5721|Bottmingen|Basel-Land|5912|
+46.9499|6.8376|Boudry|Neuchâtel|4886|
+46.9459|6.8284|Boudry District|Neuchâtel|0|
+46.8930|7.6976|Bowil|Bern|1414|
+46.7699|9.0604|Breíl|Graubünden|1344|
+47.4067|7.5455|Breitenbach|Solothurn|3241|
+47.3511|8.3421|Bremgarten|Aargau|6543|
+46.7545|8.0385|Brienz|Bern|3090|
+46.3167|7.9833|Brig|Valais|5000|
+46.2826|8.0119|Brig District|Valais|0|
+47.4176|7.5434|Brislach|Basel-Land|1493|
+46.1201|8.7118|Brissago|Ticino|1831|
+47.2595|7.9469|Brittnau|Aargau|3735|
+46.6051|7.0989|Broc|Fribourg|2148|
+47.4783|9.0345|Bronschhofen|St. Gallen|4489|
+46.8221|6.9025|Broye|Fribourg|0|
+46.7808|6.9016|Broye-Vully|Vaud|0|
+47.4810|8.2087|Brugg|Aargau|11177|
+47.1237|7.2789|Brügg|Bern|3868|
+46.2595|10.1238|Brusio|Graubünden|1152|
+47.4732|8.6757|Brütten|Zürich|1556|
+47.4217|8.6326|Brüttisellen|Zürich|3697|
+47.4459|7.7376|Bubendorf|Basel-Land|4543|
+47.2670|8.8179|Bubikon|Zürich|2052|
+46.8135|7.6746|Buchholterberg|Bern|1498|
+47.0962|8.3473|Buchrain|Lucerne|5341|
+47.3936|8.0823|Buchs|Aargau|6599|
+47.1674|9.4779|Buchs|St. Gallen|10418|
+47.3735|9.4251|Bühler|Appenzell Ausserrhoden|1612|
+47.5220|8.5405|Bülach|Zürich|20443|
+47.5234|8.5488|Bülach / Gstückt|Zürich|1863|
+47.5172|8.5465|Bülach / Seematt|Zürich|2171|
+47.5263|8.5411|Bülach / Soligänter|Zürich|1434|
+46.6180|7.0569|Bulle|Fribourg|23438|
+46.9740|8.4228|Buochs|Nidwalden|5524|
+47.0590|7.6279|Burgdorf|Bern|16420|
+46.7846|7.4999|Burgistein|Bern|1058|
+47.5492|9.1495|Bürglen|Thurgau|3149|
+46.8757|8.6654|Bürglen|Uri|3996|
+47.2119|8.0942|Büron|Lucerne|1951|
+46.2738|9.1074|Buseno|Graubünden|90|
+47.3942|7.5412|Büsserach|Solothurn|1863|
+46.5511|6.5560|Bussigny|Vaud|7408|
+47.3602|9.0721|Bütschwil|St. Gallen|3393|
+47.1144|8.0943|Buttisholz|Lucerne|2890|
+47.2683|8.3106|Buttwil|Aargau|1185|
+47.5063|7.8641|Buus|Basel-Land|1005|
+46.0367|8.9340|Cadempino|Ticino|1351|
+46.1517|8.9472|Cadenazzo|Ticino|1906|
+46.0459|8.9872|Cadro|Ticino|1596|
+46.1648|9.0055|Camorino|Ticino|2358|
+46.0359|8.9660|Canobbio|Ticino|1869|
+46.1810|6.1392|Carouge|Geneva|19344|
+45.9736|8.8774|Caslano|Ticino|3655|
+45.8621|9.0084|Castel San Pietro|Ticino|2150|
+46.3354|9.1213|Cauco|Graubünden|34|
+46.4324|6.9386|Caux|Vaud|2000|
+46.7194|9.4327|Cazis|Graubünden|1641|
+46.5122|9.8579|Celerina|Graubünden|1241|
+47.0588|6.9004|Cernier|Neuchâtel|2080|
+46.3148|8.6033|Cevio|Ticino|1844|
+46.2676|7.5114|Chalais|Valais|2665|
+47.1821|8.4636|Cham|Zug|16719|
+46.2028|7.2232|Chamoson|Valais|2628|
+46.1754|6.8690|Champéry|Valais|1191|
+46.1500|5.9715|Chancy|Geneva|1653|
+46.4768|6.8268|Chardonne|Vaud|2659|
+46.6196|7.1649|Charmey|Fribourg|1713|
+46.1249|7.1314|Charrat|Valais|1156|
+46.4746|7.1315|Château-d'Oex|Vaud|3034|
+46.5269|6.9008|Châtel-Saint-Denis|Fribourg|5094|
+46.5301|6.5707|Chavannes|Vaud|5454|
+46.6070|6.4509|Chavannes-le-Veyron|Vaud|0|
+46.7024|6.5694|Chavornay|Vaud|2841|
+46.1984|6.1864|Chêne-Bougeries|Geneva|10487|
+46.1953|6.1941|Chêne-Bourg|Geneva|7959|
+46.2884|7.4749|Chermignon-d’en Haut|Valais|2773|
+46.5862|6.6059|Cheseaux|Vaud|3946|
+46.6427|6.4766|Chevilly|Vaud|0|
+46.4821|6.7781|Chexbres|Vaud|2133|
+47.0663|6.9333|Chézard-Saint-Martin|Neuchâtel|1655|
+45.8320|9.0312|Chiasso|Ticino|8060|
+46.2802|7.5396|Chippis|Valais|1556|
+46.8499|9.5329|Chur|Graubünden|35373|
+46.7814|9.5438|Churwalden|Graubünden|1214|
+46.2576|9.0225|Claro|Ticino|2296|
+46.2739|6.9479|Collombey-Muraz|Valais|0|
+46.5571|6.4728|Colombier|Vaud|522|
+46.0363|8.9553|Comano|Ticino|1729|
+46.1734|6.0844|Confignon|Geneva|3425|
+46.2237|7.3028|Conthey|Valais|8792|
+46.2049|7.2786|Conthey District|Valais|0|
+46.3168|6.1911|Coppet|Vaud|2124|
+47.1946|7.1452|Corgémont|Bern|1503|
+46.8103|7.1053|Corminboeuf|Fribourg|1702|
+47.0396|7.0187|Cornaux|Neuchâtel|1557|
+46.2630|6.2246|Corsier|Geneva|1699|
+46.9431|6.8444|Cortaillod|Neuchâtel|4410|
+46.6144|6.5063|Cossonay|Vaud|2795|
+47.3346|7.2819|Courfaivre|Jura|1508|
+47.4048|7.1252|Courgenay|Jura|2106|
+46.9065|7.1121|Courgevaux|Fribourg|1057|
+47.3385|7.3724|Courrendlin|Jura|2314|
+47.3607|7.3737|Courroux|Jura|3085|
+47.2396|7.3365|Court|Bern|1328|
+47.1782|7.0724|Courtelary|Bern|1163|
+47.3407|7.3183|Courtételle|Jura|2248|
+46.9252|6.6327|Couvet|Neuchâtel|2811|
+46.5459|6.5757|Crissier|Vaud|6612|
+46.6255|6.4371|Cuarnens|Vaud|0|
+46.1747|8.9168|Cugnasco|Ticino|1202|
+46.8148|6.8889|Cugy|Fribourg|1523|
+46.4889|6.7294|Cully|Vaud|1793|
+47.6651|8.6179|Dachsen|Zürich|1470|
+47.2141|7.9852|Dagmersellen|Lucerne|3300|
+46.9242|8.3879|Dallenwil|Nidwalden|1738|
+47.4398|8.4381|Dällikon / Dällikon (Dorf)|Zürich|1583|
+47.4467|8.4065|Dänikon|Zürich|1682|
+46.1956|5.9950|Dardagny|Geneva|1329|
+46.6617|7.8081|Därligen|Bern|390|
+46.8043|9.8372|Davos|Graubünden|10898|
+47.3743|9.2002|Degersheim|St. Gallen|3802|
+47.2152|7.6188|Deitingen|Solothurn|2135|
+47.3649|7.3445|Delémont|Jura|12682|
+47.3543|7.3305|Delémont District|Jura|0|
+47.4526|8.0533|Densbüren|Aargau|758|
+47.1985|7.5884|Derendingen|Solothurn|6093|
+47.4138|7.8109|Diegten|Basel-Land|1633|
+47.4815|8.4585|Dielsdorf|Zürich|4671|
+46.6493|7.5648|Diemtigen|Bern|2027|
+47.3860|9.6556|Diepoldsau|St. Gallen|5401|
+47.6891|8.7496|Diessenhofen|Thurgau|0|
+47.4016|8.4002|Dietikon|Zürich|20893|
+47.4048|8.3917|Dietikon / Almend|Zürich|2118|
+47.4001|8.4082|Dietikon / Guggenbühl|Zürich|1312|
+47.3972|8.4161|Dietikon / Hofacker|Zürich|2826|
+47.3992|8.4015|Dietikon / Kreuzacker|Zürich|1955|
+47.4006|8.3942|Dietikon / Oberdorf|Zürich|4147|
+47.3971|8.4258|Dietikon / Schönenwerd|Zürich|1218|
+47.4082|8.3972|Dietikon / Vorstadt|Zürich|2619|
+47.4183|8.6188|Dietlikon / Dietlikon (Dorf)|Zürich|6149|
+47.4191|8.6208|Dietlikon / Eichwiesen|Zürich|1386|
+46.7034|8.8509|Disentis|Graubünden|2193|
+46.8348|9.4507|Domat|Graubünden|6817|
+47.0719|6.9592|Dombresson|Neuchâtel|1659|
+46.8672|7.0134|Domdidier|Fribourg|2353|
+47.2390|8.7357|Dorf|Zürich|529|
+47.4804|7.6164|Dornach|Solothurn|6449|
+47.3844|8.2398|Dottikon|Aargau|3125|
+47.3972|8.6187|Dübendorf|Zürich|19882|
+47.4011|8.6272|Dübendorf / Kunklerstrasse|Zürich|1284|
+47.3947|8.6316|Dübendorf / Sonnenberg|Zürich|1018|
+47.3950|8.6118|Dübendorf / Vogelquartier|Zürich|1391|
+47.3935|8.6085|Dübendorf / Wasserfurren|Zürich|1060|
+46.8492|7.1915|Düdingen|Fribourg|7155|
+47.2786|8.8416|Dürnten|Zürich|1032|
+47.3209|8.1587|Dürrenäsch|Aargau|1187|
+47.0895|7.7917|Dürrenroth|Bern|1037|
+47.0794|8.3404|Ebikon|Lucerne|11471|
+47.3499|8.6401|Ebmatingen|Zürich|2278|
+47.2619|9.1247|Ebnat-Kappel|St. Gallen|4852|
+46.6413|6.6332|Echallens|Vaud|5740|
+46.6073|6.8090|Ecublens|Fribourg|10262|
+46.5290|6.5626|Ecublens|Vaud|10262|
+47.4258|8.6909|Effretikon|Zürich|10119|
+47.4239|8.6965|Effretikon / Rappenhalde-Bannhalde|Zürich|1758|
+47.4310|8.6862|Effretikon / Rikon|Zürich|1120|
+47.4280|8.6982|Effretikon / Watt|Zürich|2632|
+47.3196|7.7842|Egerkingen|Solothurn|2923|
+47.2998|8.6903|Egg|Zürich|8829|
+47.4420|9.4690|Eggersriet|St. Gallen|2209|
+46.8757|7.7957|Eggiwil|Bern|2559|
+47.3492|8.1855|Egliswil|Aargau|1401|
+47.5427|9.3805|Egnach|Thurgau|4179|
+47.5025|8.3473|Ehrendingen|Aargau|4519|
+47.1512|8.1669|Eich|Lucerne|1627|
+47.3437|9.5314|Eichberg|St. Gallen|1260|
+47.5336|7.9880|Eiken|Aargau|1923|
+47.1285|8.7474|Einsiedeln|Schwyz|15867|
+47.4971|8.8652|Elgg|Zürich|3282|
+47.4926|8.8668|Elgg / Städtchen und Umgebung|Zürich|2342|
+47.5024|8.7987|Elsau-Räterschen|Zürich|1395|
+47.4993|8.7960|Elsau-Räterschen / Räterschen|Zürich|1071|
+47.5056|8.5941|Embrach|Zürich|7088|
+47.5040|8.5948|Embrach / Embrach (Dorfkern)|Zürich|2960|
+47.5145|8.5915|Embrach / Kellersacker|Zürich|1467|
+47.0782|8.2733|Emmen|Lucerne|30926|
+47.0442|7.6618|Emmental|Bern|0|
+46.9566|8.5147|Emmetten|Nidwalden|1232|
+47.5374|8.2904|Endingen|Aargau|1935|
+46.8211|8.4013|Engelberg|Obwalden|4181|
+47.0336|9.0789|Ennenda|Glarus|2699|
+46.9842|8.4100|Ennetbürgen|Nidwalden|4226|
+46.9956|8.0635|Entlebuch|Lucerne|3293|
+46.9259|8.0143|Entlebuch District|Lucerne|0|
+46.0210|7.2126|Entremont|Valais|0|
+46.5490|6.6683|Epalinges|Vaud|7706|
+46.7537|7.1461|Ependes|Fribourg|1006|
+47.0782|7.8515|Eriswil|Bern|1414|
+47.0422|7.0973|Erlach|Bern|1108|
+47.5481|9.2341|Erlen|Thurgau|3057|
+47.3030|8.5974|Erlenbach|Zürich|4519|
+47.2995|8.6019|Erlenbach / links des Dorfbachs oberhalb Bahnlinie|Zürich|1709|
+47.3066|8.6027|Erlenbach / rechts des Dorfbachs oberhalb Bahnlinie|Zürich|1470|
+46.6602|7.5545|Erlenbach im Simmental|Bern|1730|
+47.3975|8.0080|Erlinsbach|Solothurn|2258|
+47.6706|9.0857|Ermatingen|Thurgau|2453|
+47.0937|7.5951|Ersigen|Bern|1507|
+46.8188|8.6505|Erstfeld|Uri|3876|
+47.2398|8.9216|Eschenbach|St. Gallen|9175|
+47.6479|8.8747|Eschenz|Thurgau|1508|
+47.4636|8.9638|Eschlikon|Thurgau|3425|
+46.9135|7.9343|Escholzmatt|Lucerne|3192|
+47.2833|8.7104|Esslingen|Zürich|1203|
+46.8488|6.8465|Estavayer-le-Lac|Fribourg|5061|
+47.4823|7.5465|Ettingen|Basel-Land|4980|
+47.1503|8.0176|Ettiswil|Lucerne|1801|
+47.1505|7.2389|Evilard|Bern|2328|
+46.1810|7.0223|Evionnaz|Valais|1001|
+46.1142|7.4941|Evolène|Valais|1557|
+46.4770|8.8012|Faido|Ticino|1512|
+47.3717|8.6387|Fällanden|Zürich|2100|
+47.3877|8.7515|Fehraltorf|Zürich|3767|
+47.2787|8.6217|Feldmeilen|Zürich|3732|
+46.8457|9.4759|Felsberg|Graubünden|2088|
+46.9488|7.2112|Ferenbalm|Bern|1310|
+46.6580|6.4852|Ferreyres|Vaud|0|
+47.6905|8.6436|Feuerthalen|Zürich|2165|
+47.1871|8.7472|Feusisberg|Schwyz|4210|
+46.3998|8.1353|Fiesch|Valais|1003|
+47.4142|8.9686|Fischingen|Thurgau|2548|
+46.8899|7.3220|Flamatt|Fribourg|4922|
+47.4130|9.1832|Flawil|St. Gallen|9739|
+46.9022|6.5825|Fleurier|Neuchâtel|3681|
+46.8370|9.2846|Flims|Graubünden|2536|
+46.9048|8.6240|Flüelen|Uri|2000|
+46.8839|8.0156|Flühli|Lucerne|1937|
+47.0906|9.3430|Flums|St. Gallen|4848|
+47.6839|8.6299|Flurlingen|Zürich|1221|
+47.0549|6.8868|Fontainemelon|Neuchâtel|1647|
+47.4029|7.0811|Fontenais|Jura|1289|
+46.3328|6.1924|Founex|Vaud|2254|
+47.2493|7.0456|Franches-Montagnes|Jura|0|
+47.0862|7.5273|Fraubrunnen|Bern|1616|
+47.5578|8.8989|Frauenfeld|Thurgau|25607|
+47.6112|8.8944|Frauenfeld District|Thurgau|0|
+46.9543|7.3384|Frauenkappelen|Bern|1281|
+47.2053|8.7584|Freienbach|Schwyz|14302|
+47.5331|8.5846|Freienstein|Zürich|1617|
+47.5069|7.7165|Frenkendorf|Basel-Land|6180|
+46.8024|7.1513|Fribourg|Fribourg|38365|
+47.5117|8.0247|Frick|Aargau|4583|
+46.6012|6.6809|Froideville|Vaud|1518|
+46.5872|7.6494|Frutigen|Bern|6671|
+46.6024|7.6229|Frutigen-Niedersimmental|Bern|0|
+47.2710|7.8314|Fulenbach|Solothurn|1526|
+47.5069|7.7313|Füllinsdorf|Basel-Land|4442|
+46.1385|7.1147|Fully|Valais|5922|
+47.5393|8.8531|Gachnang|Thurgau|3235|
+47.3615|9.4536|Gais|Appenzell Ausserrhoden|2778|
+46.3160|7.7421|Gampel|Valais|1386|
+47.2043|9.4417|Gams|St. Gallen|2971|
+47.3810|9.0924|Ganterschwil|St. Gallen|1145|
+47.2844|8.5483|Gattikon|Zürich|2142|
+47.4814|8.2395|Gebenstorf|Aargau|4100|
+47.4650|7.8517|Gelterkinden|Basel-Land|5709|
+46.2022|6.1457|Genève|Geneva|201741|Geneva
+46.4354|6.2181|Genolier|Vaud|1498|
+47.1709|7.5725|Gerlafingen|Solothurn|4864|
+47.4221|8.4108|Geroldswil|Zürich|3681|
+46.9942|8.5250|Gersau|Schwyz|1983|
+47.1997|8.1069|Geuensee|Lucerne|2168|
+46.7623|7.2085|Giffers|Fribourg|1566|
+46.5095|6.3074|Gimel|Vaud|1454|
+47.4988|8.0050|Gipf-Oberfrick|Aargau|3102|
+46.8333|8.1806|Giswil|Obwalden|3563|
+46.1725|9.0079|Giubiasco|Ticino|7752|
+46.8120|7.1264|Givisiez|Fribourg|3010|
+46.4208|6.2701|Gland|Vaud|10641|
+46.6667|6.9167|Glâne|Fribourg|0|
+47.0406|9.0680|Glarus|Glarus|12425|
+47.4313|8.5627|Glattbrugg|Zürich|2642|
+47.4372|8.5664|Glattbrugg / Rohr/Platten-Balsberg|Zürich|1780|
+47.4291|8.5666|Glattbrugg / Wydacker/Bettacker/Lättenwiesen|Zürich|1551|
+47.5587|8.5017|Glattfelden|Zürich|2578|
+47.3353|7.2056|Glovelier|Jura|1199|
+47.3810|8.5998|Gockhausen|Zürich|1411|
+47.4740|9.4671|Goldach|St. Gallen|9094|
+47.0476|8.5462|Goldau|Schwyz|5285|
+47.2648|8.9617|Goldingen|St. Gallen|1013|
+47.2313|9.0236|Gommiswald|St. Gallen|2781|
+46.4616|8.2219|Goms|Valais|0|
+47.3272|9.3470|Gonten|Appenzell Innerrhoden|1406|
+47.2717|8.1440|Gontenschwil|Aargau|2067|
+46.1826|8.8666|Gordola|Ticino|3974|
+46.9014|6.7798|Gorgier|Neuchâtel|1832|
+47.4155|9.2548|Gossau|St. Gallen|17043|
+47.3051|8.7583|Gossau|Zürich|4287|
+47.6638|9.1337|Gottlieben|Thurgau|290|
+47.1825|9.4439|Grabs|St. Gallen|6384|
+46.1953|7.8374|Grächen|Valais|1362|
+46.5921|6.4639|Grancy|Vaud|308|
+47.0510|6.9549|Grand-Savagnier|Neuchâtel|1116|
+46.8095|6.6460|Grandson|Vaud|2735|
+47.3593|8.1024|Gränichen|Aargau|6557|
+46.0421|8.9183|Gravesano|Ticino|1062|
+47.3672|8.6812|Greifensee|Zürich|5032|
+47.3704|8.6815|Greifensee / Müllerwis / Seilerwis|Zürich|1064|
+47.3643|8.6898|Greifensee / Pfisterhölzli|Zürich|1135|
+47.4423|7.5891|Grellingen|Basel-Land|1767|
+47.1921|7.3959|Grenchen|Solothurn|15927|
+46.2594|7.3841|Grimisuat|Valais|2332|
+46.6240|8.0360|Grindelwald|Bern|3730|
+46.8336|7.0712|Grolley|Fribourg|1575|
+46.2529|7.4595|Grône|Valais|2039|
+46.6518|6.6573|Gros-de-Vaud|Vaud|0|
+47.4270|8.5789|Grossacker/Opfikon|Zürich|1076|
+47.0653|7.3569|Grossaffoltern|Bern|2810|
+47.1331|8.0504|Grosswangen|Lucerne|2941|
+46.9796|9.6464|Grüsch|Graubünden|1243|
+47.3115|8.7834|Grüt|Zürich|1565|
+46.6075|7.1074|Gruyère|Fribourg|0|
+46.5834|7.0821|Gruyères|Fribourg|1646|
+46.2738|7.0598|Gryon|Vaud|1122|
+46.4721|7.2869|Gstaad|Bern|9200|
+46.7676|7.3295|Guggisberg|Bern|1628|
+47.3137|7.8310|Gunzgen|Solothurn|1604|
+47.2107|8.1793|Gunzwil|Lucerne|1925|
+47.3839|8.7176|Gutenswil|Zürich|1188|
+47.6035|9.2874|Güttingen|Thurgau|1336|
+47.2099|9.4893|Haag (Rheintal)|St. Gallen|1180|
+47.2875|8.8572|Hadlikon|Zürich|1321|
+47.3350|7.8413|Hägendorf|Solothurn|4338|
+47.4946|9.3449|Häggenschwil|St. Gallen|1216|
+47.3885|8.2529|Hägglingen|Aargau|2183|
+47.6965|8.4583|Hallau|Schaffhausen|2000|
+46.9779|8.0533|Hasle|Lucerne|1725|
+47.3693|9.3675|Haslen|Appenzell Innerrhoden|638|
+47.4640|8.2099|Hausen|Aargau|2881|
+47.2450|8.5330|Hausen am Albis / Hausen (Dorf)|Zürich|3253|
+47.2979|8.4483|Hedingen|Zürich|2835|
+47.3923|8.6699|Hegnau|Zürich|7961|
+47.3871|8.6666|Hegnau / Dammboden-Grindel|Zürich|2817|
+47.3925|8.6791|Hegnau / Sunnebüel-Eich|Zürich|3250|
+47.4425|9.5329|Heiden|Appenzell Ausserrhoden|3999|
+46.7948|7.6043|Heimberg|Bern|5501|
+47.0675|7.6666|Heimiswil|Bern|1570|
+46.8276|7.2994|Heitenried|Fribourg|1106|
+47.5627|8.6822|Henggart|Zürich|1574|
+46.1803|7.4048|Hérémence|Valais|1331|
+46.1941|7.4239|Hérens|Valais|0|
+46.9843|8.3094|Hergiswil|Nidwalden|5437|
+47.3862|9.2792|Herisau|Appenzell Ausserrhoden|15744|
+46.8312|7.4778|Hermiswil|Bern|3156|
+47.2906|8.6146|Herrliberg|Zürich|5025|
+47.1880|7.7062|Herzogenbuchsee|Bern|5522|
+47.5461|8.7053|Hettlingen|Zürich|2221|
+47.1507|8.2258|Hildisrieden|Lucerne|1882|
+46.7352|7.6619|Hilterfingen|Bern|3841|
+47.4214|7.5998|Himmelried|Solothurn|1002|
+47.0427|7.5414|Hindelbank|Bern|1994|
+47.3074|8.6834|Hinteregg|Zürich|1107|
+46.5333|9.2000|Hinterrhein|Graubünden|61|
+47.2943|8.8439|Hinwil|Zürich|11135|
+47.3633|8.8242|Hittnau / Hittnau (Dorf)|Zürich|1502|
+47.2240|8.2643|Hitzkirch|Lucerne|2165|
+47.1684|8.2918|Hochdorf|Lucerne|8192|
+47.1706|8.2870|Hochdorf District|Lucerne|0|
+47.5226|8.5156|Hochfelden|Zürich|1442|
+47.4539|7.6446|Hochwald|Solothurn|1254|
+47.4778|8.5065|Hofstetten|Zürich|1115|
+47.1808|8.3180|Hohenrain|Lucerne|2090|
+47.4229|7.7704|Hölstein|Basel-Land|2249|
+47.2530|8.7721|Hombrechtikon|Zürich|9212|
+47.6347|9.0076|Homburg|Thurgau|1406|
+47.2598|8.5978|Horgen|Zürich|22662|
+47.2473|8.6066|Horgen / Allmend|Zürich|3809|
+47.2560|8.6016|Horgen / Horgen (Dorfkern)|Zürich|6140|
+47.2584|8.5901|Horgen / Oberdorf|Zürich|2524|
+47.2658|8.5876|Horgen / Scheller-Stockerstrasse|Zürich|2690|
+47.5080|8.5120|Höri|Zürich|1041|
+47.4943|9.4625|Horn|St. Gallen|2274|
+47.0169|8.3096|Horw|Lucerne|12348|
+47.1754|8.4250|Hünenberg|Zug|9032|
+47.1150|7.8621|Huttwil|Bern|4643|
+47.6067|8.8734|Hüttwilen|Thurgau|1381|
+47.0110|8.6454|Ibach|Schwyz|3500|
+46.9453|9.5722|Igis|Graubünden|6828|
+46.7741|9.2046|Ilanz|Graubünden|2321|
+47.4113|8.7212|Illnau|Zürich|2964|
+47.4079|8.7261|Illnau / Unter-Illnau|Zürich|2011|
+46.9988|8.6153|Ingenbohl|Schwyz|7967|
+47.0058|7.1061|Ins|Bern|2826|
+46.6839|7.8664|Interlaken|Bern|5067|
+46.6893|7.9887|Interlaken-Oberhasli|Bern|0|
+47.1253|8.3489|Inwil|Lucerne|2163|
+47.4665|7.7850|Itingen|Basel-Land|1750|
+47.0480|7.5079|Jegenstorf|Bern|4027|
+46.9289|9.7127|Jenaz|Graubünden|1130|
+47.2298|8.8388|Jona|St. Gallen|17655|
+47.2975|8.3928|Jonen|Aargau|1683|
+46.4788|6.8411|Jongny|Vaud|1423|
+47.4240|9.0869|Jonschwil|St. Gallen|3221|
+47.2189|7.2198|Jura bernois|Bern|0|
+46.7298|6.4543|Jura-Nord vaudois|Vaud|0|
+46.2359|6.2670|Jussy|Geneva|1356|
+47.5397|7.7260|Kaiseraugst|Aargau|3600|
+47.5416|8.0434|Kaisten|Aargau|2140|
+47.0203|7.2355|Kallnach|Bern|1545|
+47.2137|9.0259|Kaltbrunn|St. Gallen|3803|
+46.4947|7.6733|Kandersteg|Bern|1123|
+47.0602|7.2686|Kappelen|Bern|1075|
+46.9104|7.4710|Kehrsatz|Bern|3636|
+46.9012|8.2751|Kerns|Obwalden|5217|
+46.9759|7.1957|Kerzers|Fribourg|4459|
+47.3244|8.5455|Kilchberg|Zürich|6511|
+47.3273|8.5396|Kilchberg / Bächler-Stocken|Zürich|1147|
+47.3201|8.5431|Kilchberg / Kilchberg (Dorfkern)|Zürich|2244|
+47.4322|8.3510|Killwangen|Aargau|1783|
+47.4064|8.6830|Kindhausen / Kindhausen (Dorf)|Zürich|1107|
+47.0854|7.5829|Kirchberg|Bern|5335|
+47.4116|9.0402|Kirchberg|St. Gallen|8127|
+46.9997|7.4173|Kirchlindach|Bern|2553|
+47.6006|8.6836|Kleinandelfingen|Zürich|1094|
+47.4252|7.4161|Kleinlützel|Solothurn|1296|
+47.5836|8.2488|Klingnau|Aargau|3069|
+46.8892|9.8383|Klosters Serneus|Graubünden|4044|
+47.4515|8.5849|Kloten|Zürich|16289|
+47.4423|8.5750|Kloten / Balsberg|Zürich|1389|
+47.4658|8.5815|Kloten / Freienberg (Chanzler-Chlini Chaseren)|Zürich|1588|
+47.4542|8.5907|Kloten / Geissberg|Zürich|1941|
+47.4464|8.5766|Kloten / Holberg|Zürich|2239|
+47.4540|8.5831|Kloten / Horainli|Zürich|1391|
+47.4526|8.5946|Kloten / Hostrass|Zürich|1012|
+47.4513|8.5868|Kloten / Kloten (Zentrum)|Zürich|1681|
+47.4473|8.5881|Kloten / Rütlen|Zürich|2510|
+47.4445|8.5872|Kloten / Spitz|Zürich|1153|
+47.2235|8.4620|Knonau|Zürich|1077|
+47.1995|8.0732|Knutwil|Lucerne|1722|
+47.6097|8.2375|Koblenz|Aargau|1651|
+47.4579|8.7829|Kollbrunn|Zürich|1848|
+47.4575|8.7741|Kollbrunn / Kollbrunn (Dorfkern)|Zürich|1040|
+47.3334|8.0224|Kölliken|Aargau|4059|
+46.9244|7.4146|Köniz|Bern|41784|
+46.8791|7.6201|Konolfingen|Bern|4562|
+47.1313|7.6052|Koppigen|Bern|1977|
+47.0096|7.5664|Krauchthal|Bern|2339|
+47.6505|9.1750|Kreuzlingen|Thurgau|21997|
+47.6305|9.1646|Kreuzlingen District|Thurgau|0|
+47.1745|7.5980|Kriegstetten|Solothurn|1116|
+47.0311|8.2855|Kriens|Lucerne|25010|
+47.2475|9.1706|Krummenau|St. Gallen|1453|
+47.3889|8.3305|Künten|Aargau|1732|
+47.3180|8.5840|Küsnacht|Zürich|11525|
+47.3178|8.5830|Küsnacht / Dorf|Zürich|1574|
+47.3273|8.5808|Küsnacht / Goldbach|Zürich|2607|
+47.3131|8.5885|Küsnacht / Heslibach|Zürich|3228|
+47.3271|8.6007|Küsnacht / Itschnach|Zürich|2397|
+47.3211|8.5888|Küsnacht / Schiedhalden|Zürich|1033|
+47.0856|8.4421|Küssnacht|Schwyz|13084|
+47.4148|8.0498|Küttigen|Aargau|5234|
+46.8045|9.2579|Laax|Graubünden|1252|
+47.0999|6.8259|La Chaux-de-Fonds|Neuchâtel|37942|
+47.1216|6.8406|La Chaux-de-Fonds District|Neuchâtel|0|
+47.1922|8.8532|Lachen|Schwyz|8754|
+46.9102|7.1409|Lake|Fribourg|0|
+46.1898|6.1144|Lancy|Geneva|27291|
+46.9500|9.5667|Landquart|Graubünden|8886|
+47.0659|7.0972|La Neuveville|Bern|3495|
+47.3492|7.7680|Langenbruck|Basel-Land|1049|
+47.2197|7.5147|Langendorf|Solothurn|3518|
+47.2153|7.7961|Langenthal|Bern|14184|
+46.9394|7.7874|Langnau|Bern|8784|
+47.2864|8.5363|Langnau / Langnau (Dorf)|Zürich|4745|
+47.2938|8.5376|Langnau / Vitaquartier|Zürich|1161|
+47.2888|8.5411|Langnau am Albis|Zürich|7000|
+47.5935|9.2473|Langrickenbach|Thurgau|1031|
+46.5789|9.9201|La Punt Chamues-ch|Graubünden|0|
+46.6962|7.1372|La Roche|Fribourg|1405|
+46.6586|6.5108|La Sarraz|Vaud|1734|
+46.4531|6.8586|La Tour-de-Peilz|Vaud|10522|
+46.6106|7.0650|La Tour-de-Trême|Fribourg|3686|
+47.3946|7.8558|Läufelfingen|Basel-Land|1271|
+47.4219|7.4995|Laufen|Basel-Land|5618|
+47.5598|8.0623|Laufenburg|Aargau|3632|
+47.5015|8.2312|Lauffohr (Brugg)|Aargau|2000|
+46.9021|7.2397|Laupen|Bern|2774|
+47.3126|7.6547|Laupersdorf|Solothurn|1670|
+46.9656|7.7421|Lauperswil|Bern|2700|
+46.5160|6.6328|Lausanne|Vaud|139111|
+46.5213|6.6333|Lausanne District|Vaud|0|
+47.4714|7.7603|Lausen|Basel-Land|4892|
+46.5931|7.9094|Lauterbrunnen|Bern|2646|
+46.5362|6.7709|Lavaux-Oron|Vaud|0|
+46.2589|8.8376|Lavertezzo|Ticino|1168|
+46.6069|6.2306|Le Chenit|Vaud|4062|
+46.2319|6.1209|Le Grand-Saconnex|Geneva|9781|
+47.5879|8.1761|Leibstadt|Aargau|1287|
+47.0570|7.0705|Le Landeron|Neuchâtel|4278|
+47.0562|6.7491|Le Locle|Neuchâtel|10216|
+47.0193|6.6963|Le Locle District|Neuchâtel|0|
+46.5581|6.6315|Le Mont-sur-Lausanne|Vaud|5270|
+47.1816|7.3681|Lengnau|Bern|7336|
+46.4583|7.4430|Lenk|Bern|2268|
+47.2246|6.9578|Le Noirmont|Jura|1617|
+46.2830|7.4498|Lens|Valais|3497|
+47.3885|8.1750|Lenzburg|Aargau|10569|
+46.7221|9.5590|Lenzerheide|Graubünden|2610|
+46.2217|6.1081|Les Avanchets|Geneva|5730|
+47.1771|6.9050|Les Bois|Jura|1104|
+47.0677|6.7048|Les Brenets|Neuchâtel|1169|
+47.2110|7.0079|Les Breuleux|Jura|1277|
+47.0153|6.8513|Les Geneveys-sur-Coffrane|Neuchâtel|1458|
+46.9973|6.7306|Les Ponts-de-Martel|Neuchâtel|1278|
+46.3174|7.6341|Leuk|Valais|3386|
+46.3144|7.6729|Leuk District|Valais|0|
+46.3794|7.6269|Leukerbad|Valais|1427|
+47.1746|7.4577|Leuzigen|Bern|1167|
+46.4775|6.2360|Le Vaud|Vaud|1104|
+46.4691|8.7554|Leventina|Ticino|0|
+46.3418|7.0115|Leysin|Vaud|3066|
+46.1866|7.2078|Leytron|Valais|2194|
+47.3238|9.0876|Lichtensteig|St. Gallen|1870|
+46.9334|7.3961|Liebefeld|Bern|0|
+47.4040|7.4279|Liesberg|Basel-Land|1210|
+47.4845|7.7345|Liestal|Basel-Land|12832|
+45.8616|8.9517|Ligornetto|Ticino|1524|
+46.8469|7.6783|Linden|Bern|1315|
+46.9213|8.9980|Linthal|Glarus|1080|
+47.0500|8.2627|Littau|Lucerne|16121|
+46.1709|8.7995|Locarno|Ticino|15824|
+46.1803|8.7599|Locarno District|Ticino|0|
+46.3002|8.9799|Lodrino|Ticino|1526|
+47.7012|8.5524|Löhningen|Schaffhausen|1124|
+46.1687|8.7593|Losone|Ticino|6070|
+47.3837|7.9466|Lostorf|Solothurn|3749|
+47.1913|7.7910|Lotzwil|Bern|2391|
+46.7085|6.8393|Lucens|Vaud|2192|
+47.0405|8.2927|Lucerne-Land|Lucerne|0|
+47.0533|8.3106|Lucerne-Stadt|Lucerne|0|
+46.9664|9.0372|Luchsingen|Glarus|1119|
+46.0101|8.9600|Lugano|Ticino|63185|
+46.0232|8.9380|Lugano District|Ticino|0|
+46.2302|9.0642|Lumino|Ticino|1190|
+46.7858|8.1598|Lungern|Obwalden|1921|
+47.2143|7.5846|Luterbach|Solothurn|3292|
+47.0575|7.9169|Luthern|Lucerne|1392|
+47.3945|9.0831|Lütisburg|St. Gallen|1476|
+46.5024|6.6865|Lutry|Vaud|8774|
+47.0076|7.6917|Lützelflüh|Bern|4035|
+46.9196|9.7608|Luzein|Graubünden|1153|
+47.0505|8.3064|Luzern|Lucerne|81691|
+47.0741|7.3065|Lyss|Bern|10937|
+47.0645|7.5823|Lyssach|Bern|1375|
+47.1646|7.7986|Madiswil|Bern|1991|
+46.1489|8.8561|Magadino|Ticino|1538|
+47.5287|7.8113|Magden|Aargau|3433|
+47.0047|9.5312|Maienfeld|Graubünden|2435|
+46.9810|9.5753|Malans|Graubünden|2051|
+47.2384|7.2729|Malleray|Bern|1918|
+47.0363|8.1819|Malters|Lucerne|6181|
+46.4059|8.9819|Malvaglia|Ticino|1290|
+47.2569|8.6989|Männedorf|Zürich|7951|
+47.2464|8.7061|Männedorf / Ausserfeld|Zürich|1175|
+47.2561|8.6916|Männedorf / Dorfkern|Zürich|4893|
+47.0102|6.9994|Marin-Epagnier|Neuchâtel|4087|
+46.7761|7.1646|Marly|Fribourg|7653|
+46.6564|7.0595|Marsens|Fribourg|1571|
+47.5925|9.0685|Märstetten-Dorf|Thurgau|2600|
+47.6291|8.6533|Marthalen|Zürich|1567|
+46.1239|7.1035|Martigny|Valais|0|
+46.0782|7.0510|Martigny-Combe|Valais|1731|
+46.1028|7.0724|Martigny-Ville|Valais|18301|
+46.0126|8.9435|Massagno|Ticino|5774|
+46.6783|7.8689|Matten|Bern|3676|
+47.4871|8.7468|Mattenbach (Kreis 7)|Zürich|11043|
+47.4942|8.7395|Mattenbach (Kreis 7) / Deutweg|Zürich|5930|
+47.4882|8.7494|Mattenbach (Kreis 7) / Endliker|Zürich|2169|
+47.4910|8.7526|Mattenbach (Kreis 7) / Gutschick|Zürich|2923|
+47.3037|7.6282|Matzendorf|Solothurn|1282|
+47.5196|8.9337|Matzingen|Thurgau|2399|
+47.1670|8.0679|Mauensee|Lucerne|1199|
+46.6056|6.4207|Mauraz|Vaud|0|
+47.0469|8.3747|Meggen|Lucerne|6533|
+47.1247|8.4427|Meierskappel|Lucerne|1128|
+47.2723|8.6462|Meilen|Zürich|14207|
+46.2471|6.2342|Meinier|Geneva|1811|
+47.1596|7.3480|Meinisberg|Bern|1198|
+46.7271|8.1872|Meiringen|Bern|4652|
+47.2949|8.2287|Meisterschwanden|Aargau|2459|
+45.9220|8.9843|Melano|Ticino|1133|
+47.1821|7.8513|Melchnau|Bern|1467|
+45.9545|8.9473|Melide|Ticino|1577|
+47.4190|8.2733|Mellingen|Aargau|4224|
+45.8702|8.9816|Mendrisio|Ticino|14942|
+45.8659|8.9993|Mendrisio District|Ticino|0|
+47.2396|8.1900|Menziken|Aargau|5415|
+47.1776|8.5922|Menzingen|Zug|3878|
+47.0836|8.0397|Menznau|Lucerne|2628|
+47.2594|8.3763|Merenschwand|Aargau|2479|
+46.3939|9.2333|Mesocco|Graubünden|1262|
+47.0915|7.4453|Messen|Solothurn|1018|
+47.2453|8.4635|Mettmenstetten|Zürich|2798|
+46.2342|6.0803|Meyrin|Geneva|19772|
+46.6796|6.9263|Mézières|Fribourg|1060|
+46.1777|8.8147|Minusio|Ticino|6653|
+47.3622|9.1354|Mogelsberg|St. Gallen|2213|
+47.5592|7.8433|Möhlin|Aargau|9382|
+46.5776|6.3632|Mollens|Vaud|282|
+47.0888|9.0724|Mollis|Glarus|3014|
+47.3096|8.7203|Mönchaltorf|Zürich|2779|
+47.3040|8.7221|Mönchaltorf / Dorf|Zürich|1077|
+45.9832|8.9179|Montagnola|Ticino|2297|
+46.7929|6.6122|Montagny|Vaud|1467|
+46.3134|7.4884|Montana|Valais|2301|
+46.1865|8.9989|Monte Carasso|Ticino|2336|
+46.2545|6.9541|Monthey|Valais|17777|
+46.2704|6.9027|Monthey District|Valais|0|
+46.4330|6.9114|Montreux|Vaud|25984|
+45.8492|9.0191|Morbio Inferiore|Ticino|4331|
+46.5113|6.4985|Morges|Vaud|15705|
+46.5358|6.4866|Morges District|Vaud|0|
+47.4710|9.4228|Mörschwil|St. Gallen|3496|
+47.3625|9.0430|Mosnang|St. Gallen|2936|
+46.6676|6.7978|Moudon|Vaud|4343|
+47.2782|7.3695|Moutier|Bern|7721|
+47.3358|8.0554|Muhen|Aargau|3419|
+46.9547|7.2610|Mühleberg|Bern|2739|
+47.2831|8.5339|Mühlehalde|Zürich|1220|
+46.8135|7.5088|Mühlethurnen|Bern|1265|
+47.6020|9.0036|Müllheim|Thurgau|2493|
+47.5456|7.9212|Mumpf|Aargau|1425|
+47.0217|7.4504|Münchenbuchsee|Bern|9801|
+47.5185|7.6097|Münchenstein|Basel-Land|11644|
+46.9133|7.1256|Münchenwiler|Bern|0|
+47.4772|8.9968|Münchwilen|Thurgau|5623|
+47.4732|8.9881|Münchwilen District|Thurgau|0|
+46.8730|7.5610|Münsingen|Bern|10928|
+47.6320|9.2327|Münsterlingen|Thurgau|2459|
+46.9955|7.1463|Müntschemier|Bern|1333|
+47.5210|9.3248|Muolen|St. Gallen|1118|
+46.9768|8.7650|Muotathal|Schwyz|3548|
+46.1732|8.8022|Muralto|Ticino|2818|
+47.2715|7.8393|Murgenthal|Aargau|3044|
+47.2743|8.3385|Muri|Aargau|6463|
+46.9312|7.4866|Muri|Bern|13054|
+46.9283|7.1171|Murten/Morat|Fribourg|5800|
+47.5227|7.6451|Muttenz|Basel-Land|16927|
+47.0977|9.0636|Näfels|Glarus|3978|
+47.3698|8.6889|Nänikon|Zürich|1560|
+47.3710|8.6925|Nänikon / Nänikon (Dorfkern)|Zürich|1178|
+46.3254|7.9891|Naters|Valais|7552|
+47.1919|7.9777|Nebikon|Lucerne|2241|
+47.5110|8.4710|Neerach|Zürich|1435|
+47.5276|8.6649|Neftenbach / Dorf Neftenbach|Zürich|3171|
+47.0634|9.0573|Netstal|Glarus|2900|
+46.9918|6.9310|Neuchâtel|Neuchâtel|33475|
+47.0180|6.9934|Neuchâtel District|Neuchâtel|0|
+47.1770|8.2091|Neudorf|Lucerne|1068|
+47.4498|8.3268|Neuenhof|Aargau|7957|
+47.0999|8.2042|Neuenkirch|Lucerne|5963|
+47.6858|8.6147|Neuhausen|Schaffhausen|10019|
+47.6901|8.4998|Neunkirch|Schaffhausen|2289|
+47.1255|7.2403|Nidau|Bern|6696|
+47.2717|7.6958|Niederbipp|Bern|3862|
+47.4655|9.2057|Niederbüren|St. Gallen|1415|
+47.4907|8.4999|Niederglatt|Zürich|3632|
+47.4907|8.5005|Niederglatt / Niederglatt (Dorfkern)|Zürich|1147|
+47.3716|7.9884|Niedergösgen|Solothurn|3847|
+47.4801|8.4858|Niederhasli|Zürich|2848|
+47.4749|9.1854|Niederhelfenschwil|St. Gallen|2668|
+47.4008|8.1764|Niederlenz|Aargau|4022|
+47.4241|8.3040|Niederrohrdorf|Aargau|2784|
+47.1260|9.0543|Niederurnen|Glarus|3657|
+47.1347|8.1377|Nottwil|Lucerne|2911|
+45.8407|8.9824|Novazzano|Ticino|2395|
+47.3941|7.6195|Nunningen|Solothurn|1939|
+47.4481|8.6491|Nürensdorf|Zürich|2310|
+46.3832|6.2396|Nyon|Vaud|16797|
+46.4200|6.2218|Nyon District|Vaud|0|
+47.1920|7.7455|Oberaargau|Bern|0|
+47.2607|7.6636|Oberbipp|Bern|1440|
+47.3133|7.7684|Oberbuchsiten|Solothurn|1807|
+47.0367|7.6274|Oberburg|Bern|2901|
+46.8412|7.6173|Oberdiessbach|Bern|2860|
+47.3935|7.7517|Oberdorf|Basel-Land|2248|
+47.4253|9.5513|Oberegg|Appenzell Innerrhoden|1827|
+47.4084|8.4651|Oberengstringen|Zürich|5805|
+47.4092|8.4563|Oberengstringen / Rauchacher|Zürich|1126|
+47.4121|8.4605|Oberengstringen / Sonnenberg|Zürich|1477|
+47.4071|8.4628|Oberengstringen / Zentrum|Zürich|1271|
+47.3564|8.0459|Oberentfelden|Aargau|7553|
+47.4758|8.5190|Oberglatt|Zürich|3564|
+47.4714|8.5129|Oberglatt / Bahnhofquartier|Zürich|1333|
+47.4760|8.5193|Oberglatt / Oberglatt (Dorfkern)|Zürich|1406|
+47.3654|7.9517|Obergösgen|Solothurn|2076|
+47.3567|9.1108|Oberhelfenschwil|St. Gallen|1318|
+47.1564|8.1157|Oberkirch|Lucerne|3228|
+47.3124|8.3924|Oberlunkhofen|Aargau|1880|
+47.2657|8.6557|Obermeilen|Zürich|2871|
+47.2744|8.5784|Oberrieden|Zürich|4413|
+47.2763|8.5726|Oberrieden / Berg|Zürich|1961|
+47.2724|8.5802|Oberrieden / Mitte|Zürich|1807|
+47.3209|9.5681|Oberriet|St. Gallen|7675|
+47.4183|8.3198|Oberrohrdorf|Aargau|4001|
+47.1667|8.3944|Oberrüti|Aargau|1268|
+46.7413|7.2815|Oberschrot|Fribourg|1099|
+47.4875|8.2965|Obersiggenthal|Aargau|7990|
+46.4793|7.3580|Obersimmental-Saanen|Bern|0|
+47.1141|9.0587|Oberurnen|Glarus|1932|
+47.4308|9.1272|Oberuzwil|St. Gallen|5616|
+47.5141|7.5579|Oberwil|Basel-Land|10187|
+47.5169|8.7686|Oberwinterthur (Kreis 2)|Zürich|16356|
+47.5134|8.7600|Oberwinterthur (Kreis 2) / Guggenbühl|Zürich|5376|
+47.5072|8.7706|Oberwinterthur (Kreis 2) / Hegi|Zürich|1539|
+47.5060|8.7515|Oberwinterthur (Kreis 2) / Talacker|Zürich|5375|
+47.5195|8.7564|Oberwinterthur (Kreis 2) / Zinzikon|Zürich|1842|
+47.2641|8.4215|Obfelden|Zürich|4039|
+47.2620|8.4159|Obfelden / Oberlunnern|Zürich|1103|
+47.2657|8.4301|Obfelden / Toussen|Zürich|1146|
+47.2876|7.7161|Oensingen|Solothurn|4609|
+47.2705|8.7202|Oetwil|Zürich|4925|
+47.3138|7.9253|Oftringen|Aargau|10390|
+46.2952|6.9931|Ollon|Vaud|6665|
+47.3500|7.9033|Olten|Solothurn|18362|
+46.1840|6.1024|Onex|Geneva|17302|
+47.4317|8.5759|Opfikon|Zürich|21554|
+46.7250|6.5307|Orbe|Vaud|5132|
+47.4694|7.8725|Ormalingen|Basel-Land|1803|
+46.5709|6.8256|Oron-la-Ville|Vaud|1198|
+47.1389|7.3078|Orpund|Bern|2488|
+46.0290|7.1444|Orsières|Valais|2725|
+47.1607|7.2137|Orvin|Bern|1181|
+47.4605|8.3914|Otelfingen|Zürich|1808|
+47.4012|8.2138|Othmarsingen|Aargau|2267|
+47.2823|8.4043|Ottenbach|Zürich|2039|
+46.5459|6.5700|Ouest Lausannois|Vaud|0|
+46.7012|6.6754|Pailly|Vaud|430|
+46.5419|6.8399|Palézieux|Vaud|1209|
+46.5809|6.4294|Pampigny|Vaud|843|
+46.5055|6.6682|Paudex|Vaud|1352|
+46.8219|6.9382|Payerne|Vaud|9943|
+46.6108|6.5252|Penthalaz|Vaud|2241|
+46.6817|6.6039|Penthéréaz|Vaud|0|
+46.4669|6.3535|Perroy|Vaud|1315|
+47.1940|7.2491|Péry|Bern|1342|
+46.9870|6.8890|Peseux|Neuchâtel|5716|
+47.3648|8.6237|Pfaffhausen|Zürich|1684|
+47.2011|8.7782|Pfäffikon|Schwyz|7310|
+47.3645|8.7920|Pfäffikon|Zürich|11931|
+47.3624|8.7927|Pfäffikon / Irgenhausen|Zürich|2032|
+47.3694|8.7831|Pfäffikon / Pfäffikon (Dorfkern)|Zürich|5595|
+47.2277|7.8972|Pfaffnau|Lucerne|2047|
+47.4598|7.5898|Pfeffingen|Basel-Land|2201|
+47.5139|8.6423|Pfungen|Zürich|2369|
+47.5969|8.9542|Pfyn|Thurgau|1839|
+47.1750|7.3379|Pieterlen|Bern|3317|
+46.7420|7.2867|Plaffeien|Fribourg|1938|
+46.1679|6.1166|Plan-les-Ouates|Geneva|10540|
+46.6670|6.5097|Pompaples|Vaud|0|
+46.4955|9.9013|Pontresina|Graubünden|1863|
+47.4173|7.0757|Porrentruy|Jura|6675|
+47.4147|7.0764|Porrentruy District|Jura|0|
+46.3244|10.0582|Poschiavo|Graubünden|3428|
+46.3952|6.2496|Prangins|Vaud|3172|
+46.7514|7.1778|Praroman|Fribourg|1223|
+47.5207|7.6936|Pratteln|Basel-Land|14877|
+46.0202|8.9743|Pregassona|Ticino|7548|
+46.5185|6.5268|Préverenges|Vaud|4695|
+46.5370|6.6046|Prilly|Vaud|10524|
+46.5009|6.7825|Puidoux|Vaud|2398|
+46.5103|6.6618|Pully|Vaud|16263|
+46.2104|6.2311|Puplinge|Geneva|2163|
+45.9865|8.8688|Pura|Ticino|1069|
+47.1070|9.2420|Quarten|St. Gallen|2715|
+47.0215|7.2718|Radelfingen|Bern|1218|
+47.6044|8.5430|Rafz|Zürich|3233|
+47.7080|8.8095|Ramsen|Schaffhausen|1316|
+46.3095|7.5006|Randogne|Valais|3157|
+47.2256|8.8223|Rapperswil|St. Gallen|34776|
+46.3120|7.8003|Raron|Valais|1944|
+46.3000|7.8000|Raron District|Valais|0|
+47.3981|9.5850|Rebstein|St. Gallen|4163|
+46.7677|7.2403|Rechthalten|Fribourg|1058|
+47.2343|7.2224|Reconvilier|Bern|2291|
+47.4341|8.4687|Regensdorf|Zürich|7531|
+47.4362|8.4666|Regensdorf / Feldblumen-Riedthofstrasse|Zürich|1122|
+47.4353|8.4624|Regensdorf / Hofacher-Geeren|Zürich|1038|
+47.4277|8.4657|Regensdorf / Obstgarten|Zürich|1090|
+46.6026|9.6515|Region Albula|Graubünden|0|
+46.3349|10.0735|Region Bernina|Graubünden|0|
+46.7521|10.2603|Region Engiadina Bassa / Val Müstair|Graubünden|0|
+46.8488|9.3622|Region Imboden|Graubünden|0|
+46.9640|9.5637|Region Landquart|Graubünden|0|
+46.4745|9.8314|Region Maloja|Graubünden|0|
+46.3520|9.1787|Region Moesa|Graubünden|0|
+46.8182|9.6254|Region Plessur|Graubünden|0|
+46.8673|9.8201|Region Prättigau / Davos|Graubünden|0|
+46.6956|9.0483|Region Surselva|Graubünden|0|
+46.5876|9.4003|Region Viamala|Graubünden|0|
+47.4261|9.4830|Rehetobel|Appenzell Ausserrhoden|1779|
+47.1710|8.9770|Reichenburg|Schwyz|2876|
+47.2472|7.9714|Reiden|Lucerne|3926|
+47.3982|7.6872|Reigoldswil|Basel-Land|1509|
+47.2573|8.1809|Reinach|Aargau|7845|
+47.4970|7.5917|Reinach|Basel-Landschaft|19216|
+46.5399|6.5881|Renens|Vaud|20927|
+46.7989|9.3976|Rhäzüns|Graubünden|1257|
+47.4663|9.5903|Rheineck|St. Gallen|3298|
+47.5544|7.7940|Rheinfelden|Aargau|10733|
+46.6422|7.0618|Riaz|Fribourg|1894|
+47.2062|8.6969|Richterswil|Zürich|10189|
+47.2097|8.6913|Richterswil / Burghalde|Zürich|1137|
+47.2071|8.7061|Richterswil / Dorfkern|Zürich|1216|
+47.2032|8.7052|Richterswil / Richterswil (Dorfkern)|Zürich|3292|
+47.4486|9.0490|Rickenbach bei Wil|Thurgau|2714|
+46.1728|7.2236|Riddes|Valais|2213|
+47.2316|7.5683|Riedholz|Solothurn|1576|
+47.5833|7.6333|Riehen|Basel-Stadt|20000|
+46.8103|7.4801|Riggisberg|Bern|2001|
+46.7011|7.8944|Ringgenberg|Bern|2514|
+45.9012|8.9717|Riva San Vitale|Ticino|2390|
+46.3093|8.9815|Riviera|Ticino|4262|
+46.4646|6.8850|Riviera-Pays-d'Enhaut|Vaud|0|
+47.4808|7.4577|Rodersdorf|Solothurn|1338|
+47.2412|7.8214|Roggwil|Bern|3673|
+47.4998|9.3958|Roggwil|Thurgau|2500|
+47.4103|7.9533|Rohr|Solothurn|2849|
+47.1352|7.8133|Rohrbach|Bern|1386|
+46.4582|6.3350|Rolle|Vaud|4425|
+46.5640|6.6054|Romanel-sur-Lausanne|Vaud|3123|
+47.5659|9.3787|Romanshorn|Thurgau|8956|
+47.1688|8.2453|Römerswil|Lucerne|1882|
+46.6965|6.9190|Romont|Fribourg|5276|
+47.1146|8.3902|Root|Lucerne|3886|
+47.5309|8.5755|Rorbas|Zürich|1797|
+47.4780|9.4903|Rorschach|St. Gallen|9000|
+47.4237|7.4802|Röschenz|Basel-Land|1753|
+47.1042|8.6759|Rothenthurm|Schwyz|2098|
+47.3051|7.8920|Rothrist|Aargau|7423|
+47.1428|8.4314|Rotkreuz|Zug|10439|
+46.8987|7.5446|Rubigen|Bern|2426|
+46.9837|7.7217|Rüderswil|Bern|2329|
+47.3710|8.3808|Rudolfstetten|Aargau|3800|
+46.6192|6.8223|Rue|Fribourg|1108|
+46.8222|7.4389|Rüeggisberg|Bern|1933|
+47.4504|8.5299|Rümlang|Zürich|5144|
+47.4494|8.5326|Rümlang / Rümlang (Dorfkern)|Zürich|3528|
+47.4013|8.1288|Rupperswil|Aargau|4137|
+46.7798|7.3917|Rüschegg|Bern|1697|
+47.3069|8.5513|Rüschlikon|Zürich|4653|
+47.3967|8.7752|Russikon|Zürich|2415|
+47.0842|8.1265|Ruswil|Lucerne|6432|
+47.2948|9.5386|Rüthi|St. Gallen|1945|
+47.2560|8.8555|Rüti|Zürich|9576|
+47.2537|8.8565|Rüti / Dorfzentrum Südl. Teil|Zürich|3618|
+47.2589|8.8651|Rüti / Oberdorf|Zürich|2875|
+47.2555|8.8449|Rüti / Westlicher Dorfteil|Zürich|3083|
+46.4894|7.2600|Saanen|Bern|6621|
+46.1080|7.9274|Saas-Fee|Valais|1611|
+46.1228|7.9365|Saas-Grund|Valais|1116|
+46.8672|8.2334|Sachseln|Obwalden|4511|
+47.3216|7.9825|Safenwil|Aargau|3201|
+47.2562|6.9965|Saignelégier|Jura|2194|
+46.1703|7.1877|Saillon|Valais|1598|
+46.8942|6.7725|Saint-Aubin-Sauges|Neuchâtel|2476|
+47.0151|6.9883|Saint-Blaise|Neuchâtel|3089|
+46.4459|6.1574|Saint-Cergue|Vaud|1816|
+46.8220|6.5028|Sainte-Croix|Vaud|4214|
+47.1528|6.9969|Saint-Imier|Bern|5220|
+46.2515|7.4171|Saint-Léonard|Valais|1937|
+46.5079|6.3875|Saint-Livres|Vaud|568|
+46.2183|7.0032|Saint-Maurice|Valais|3701|
+46.1538|6.9982|Saint-Maurice District|Valais|0|
+46.4796|6.4599|Saint-Prex|Vaud|4461|
+46.6347|6.9734|Sâles|Fribourg|1326|
+46.3115|7.5712|Salgesch|Valais|1240|
+47.5543|9.3723|Salmsach|Thurgau|1293|
+46.1189|7.0208|Salvan|Valais|1127|
+46.5340|9.8728|Samedan|Graubünden|2700|
+47.1917|8.6820|Samstagern|Zürich|3163|
+46.8221|7.2609|Sankt Antoni|Fribourg|1849|
+47.4239|9.3748|Sankt Gallen|St. Gallen|75833|
+47.2437|8.9644|Sankt Gallenkappel|St. Gallen|1811|
+47.4525|9.6374|Sankt Margrethen|St. Gallen|5395|
+46.1772|7.8035|Sankt Niklaus|Valais|2352|
+47.3178|9.1760|Sankt Peterzell|St. Gallen|1207|
+46.5083|7.3956|Sankt Stephan|Bern|1352|
+47.0490|9.4410|Sargans|St. Gallen|6134|
+46.7844|7.0999|Sarine|Fribourg|0|
+47.3111|8.2495|Sarmenstorf|Aargau|2322|
+46.8961|8.2453|Sarnen|Obwalden|10368|
+46.2146|6.0355|Satigny|Geneva|3055|
+47.0825|8.6357|Sattel|Schwyz|1597|
+46.5161|6.3302|Saubraz|Vaud|354|
+46.2512|7.3456|Savièse|Valais|5575|
+46.5384|6.7322|Savigny|Vaud|3440|
+46.1494|7.1751|Saxon|Valais|3477|
+47.3242|8.4725|Schachen|Zürich|1278|
+47.6973|8.6349|Schaffhausen|Schaffhausen|36587|
+47.3766|8.1426|Schafisheim|Aargau|2758|
+47.1600|9.0455|Schänis|St. Gallen|3404|
+46.7181|9.4590|Scharans|Graubünden|867|
+46.8655|8.6547|Schattdorf|Uri|4860|
+47.1776|8.1320|Schenkon|Lucerne|2616|
+46.9697|9.6872|Schiers|Graubünden|2423|
+47.1746|8.7134|Schindellegi|Schwyz|3174|
+47.4499|8.1683|Schinznach Bad|Aargau|1327|
+47.4465|8.1409|Schinznach Dorf|Aargau|1736|
+47.7482|8.4821|Schleitheim|Schaffhausen|1723|
+47.3967|8.4476|Schlieren|Zürich|12695|
+47.3972|8.4573|Schlieren / Boden|Zürich|1241|
+47.4034|8.4435|Schlieren / Engstingerquartier|Zürich|0|
+47.3960|8.4420|Schlieren / Freiestrasse|Zürich|1212|
+47.3936|8.4445|Schlieren / Kamp|Zürich|1129|
+47.3949|8.4303|Schlieren / Spital|Zürich|2587|
+47.3978|8.4477|Schlieren / Zentrum|Zürich|1207|
+47.2254|8.9484|Schmerikon|St. Gallen|3307|
+46.8575|7.2503|Schmitten|Fribourg|4040|
+47.3059|8.0512|Schöftland|Aargau|3310|
+47.5385|7.5057|Schönenbuch|Basel-Land|1313|
+47.3691|8.0017|Schönenwerd|Solothurn|4732|
+47.1690|7.9887|Schötz|Lucerne|3231|
+47.1733|8.9281|Schübelbach|Schwyz|7745|
+47.0366|7.3772|Schüpfen|Bern|3248|
+46.9516|8.0172|Schüpfheim|Lucerne|3723|
+47.5854|8.1446|Schwaderloch|Aargau|726|
+46.9954|9.0701|Schwanden|Glarus|2541|
+47.0170|8.1726|Schwarzenberg|Lucerne|1591|
+47.3526|9.2489|Schwellbrunn|Appenzell Ausserrhoden|1517|
+47.3821|8.6573|Schwerzenbach|Zürich|4180|
+47.3831|8.6495|Schwerzenbach / Blatten|Zürich|1078|
+47.3859|8.6589|Schwerzenbach / Chimli|Zürich|1020|
+47.0208|8.6541|Schwyz|Schwyz|15181|
+46.7967|10.2980|Scuol|Graubünden|2184|
+47.1559|7.6657|Seeberg|Bern|1321|
+47.0344|7.3125|Seedorf|Bern|2920|
+46.8820|8.6161|Seedorf|Uri|1522|
+47.0663|7.2633|Seeland|Bern|0|
+47.4765|8.7700|Seen (Kreis 3)|Zürich|15434|
+47.4845|8.7652|Seen (Kreis 3) / Büelwiesen|Zürich|2632|
+47.4810|8.7625|Seen (Kreis 3) / Ganzenbühl|Zürich|2362|
+47.4821|8.7729|Seen (Kreis 3) / Oberseen|Zürich|2133|
+47.4839|8.7559|Seen (Kreis 3) / Waldegg|Zürich|1184|
+47.4891|8.7603|Seen (Kreis 3) / Waser|Zürich|4088|
+47.3250|8.2072|Seengen|Aargau|3288|
+46.7876|7.5394|Seftigen|Bern|2014|
+47.5724|8.5209|Seglingen|Zürich|1144|
+47.3436|8.4830|Sellenbüren|Zürich|1572|
+47.4625|7.7204|Seltisberg|Basel-Land|1412|
+47.2053|7.4552|Selzach|Solothurn|2900|
+46.1836|8.9916|Sementina|Ticino|2695|
+47.1358|8.1915|Sempach|Lucerne|3754|
+47.2606|9.5027|Sennwald|St. Gallen|4768|
+46.8013|7.2603|Sense|Fribourg|0|
+47.3485|8.1607|Seon|Aargau|4407|
+47.5354|8.7373|Seuzach / Seuzach (Dorf)|Zürich|1419|
+47.5356|8.7321|Seuzach Dorf|Zürich|3969|
+47.5335|8.7341|Seuzach Dorf / Breite-Weid|Zürich|1016|
+47.1221|9.4860|Sevelen|St. Gallen|4392|
+47.1745|8.8978|Siebnen|Schwyz|7104|
+46.2919|7.5356|Sierre|Valais|16790|
+46.2705|7.5157|Sierre District|Valais|0|
+46.9194|7.7242|Signau|Bern|2821|
+46.7166|7.7134|Sigriswil|Bern|4341|
+46.7891|8.6732|Silenen|Uri|2243|
+46.4581|9.7951|Silvaplana|Graubünden|973|
+47.1930|8.3938|Sins|Aargau|3600|
+46.2334|7.3494|Sion|Valais|0|
+47.4622|8.9976|Sirnach|Thurgau|6463|
+47.4641|7.8089|Sissach|Basel-Land|5873|
+46.2274|7.3556|Sitten|Valais|34708|
+47.2079|7.5371|Solothurn|Solothurn|16777|
+47.4533|8.4609|Sonnhalde|Zürich|1984|
+45.9977|8.9378|Sorengo|Ticino|1629|
+46.6552|6.7420|Sottens|Vaud|209|
+47.4109|9.4434|Speicher|Appenzell Ausserrhoden|3985|
+46.6847|7.6911|Spiez|Bern|12594|
+47.4228|8.3679|Spreitenbach|Aargau|11875|
+45.8485|8.9364|Stabio|Ticino|3917|
+47.4949|8.7195|Stadt Winterthur (Kreis 1)|Zürich|16182|
+47.4995|8.7287|Stadt Winterthur (Kreis 1) / Altstadt|Zürich|1665|
+47.4976|8.7127|Stadt Winterthur (Kreis 1) / Brühlberg|Zürich|1476|
+47.4941|8.7233|Stadt Winterthur (Kreis 1) / Heiligberg|Zürich|3034|
+47.5057|8.7337|Stadt Winterthur (Kreis 1) / Lind|Zürich|4617|
+47.5021|8.7163|Stadt Winterthur (Kreis 1) / Neuwiesen|Zürich|3149|
+47.4934|8.7151|Stadt Winterthur (Kreis 1) / Tössfeld|Zürich|2207|
+47.2425|8.7234|Stäfa|Zürich|5737|
+47.2839|8.0421|Staffelbach|Aargau|1059|
+46.2334|7.8727|Stalden|Valais|1232|
+46.9581|8.3661|Stans|Nidwalden|8393|
+46.9768|8.3355|Stansstad|Nidwalden|4471|
+47.3820|8.1668|Staufen|Aargau|2424|
+47.6667|8.9833|Steckborn|Thurgau|3229|
+46.7781|7.6325|Steffisburg|Bern|15709|
+47.5440|7.9526|Stein|Aargau|2504|
+47.6593|8.8596|Stein am Rhein|Schaffhausen|3224|
+47.0498|8.6121|Steinen|Schwyz|3041|
+47.1951|8.4858|Steinhausen|Zug|8509|
+47.4971|8.4522|Steinmaur|Zürich|1438|
+47.7403|8.6630|Stetten|Schaffhausen|1065|
+47.5259|8.9532|Stettfurt|Thurgau|1048|
+46.9584|7.5251|Stettlen|Bern|2884|
+46.4994|9.8433|St. Moritz|Graubünden|4952|
+47.2792|7.9290|Strengelbach|Aargau|4349|
+47.1985|7.6195|Subingen|Solothurn|2852|
+47.3717|8.0797|Suhr|Aargau|9374|
+47.5397|9.1859|Sulgen|Thurgau|3367|
+47.5360|8.0963|Sulz|Aargau|1215|
+47.5395|8.7889|Sulz|Zürich|1244|
+47.0275|7.7453|Sumiswald|Bern|5159|
+47.1709|8.1111|Sursee|Lucerne|9953|
+47.1559|8.1370|Sursee District|Lucerne|0|
+46.8148|7.2185|Tafers|Fribourg|2833|
+47.4307|8.6728|Tagelswangen|Zürich|1606|
+47.6570|9.1400|Tägerwilen|Thurgau|3414|
+46.8296|9.4065|Tamins|Graubünden|1160|
+46.3450|6.8304|Tanay|Valais|1124|
+47.2690|8.8502|Tann|Zürich|3034|
+47.2649|8.8505|Tann / Tann (Dorfkern)|Zürich|2080|
+47.0663|7.1988|Täuffelen|Bern|2492|
+47.2208|7.1976|Tavannes|Bern|3367|
+47.5581|8.2891|Tegerfelden|Aargau|1040|
+46.0681|8.9650|Tesserete|Ticino|1533|
+47.3908|9.3864|Teufen|Appenzell Ausserrhoden|5683|
+47.3290|8.1178|Teufenthal|Aargau|1665|
+47.4668|9.5664|Thal|St. Gallen|6433|
+47.2918|8.5635|Thalwil|Zürich|13296|
+47.2918|8.5560|Thalwil / Berg|Zürich|1568|
+47.2905|8.5663|Thalwil / Dorfkern|Zürich|6829|
+47.2975|8.5563|Thalwil / Nord|Zürich|1751|
+47.2941|8.5693|Thalwil / See|Zürich|1893|
+47.2850|8.5695|Thalwil / Süd|Zürich|1255|
+47.7472|8.7072|Thayngen|Schaffhausen|4120|
+47.4994|7.5567|Therwil|Basel-Land|9595|
+46.7532|7.5744|Thierachern|Bern|2040|
+46.1882|6.1990|Thônex|Geneva|13057|
+46.7512|7.6217|Thun|Bern|43723|
+46.7629|7.6250|Thun District|Bern|0|
+47.5459|8.9636|Thundorf|Thurgau|1179|
+46.6972|9.4394|Thusis|Graubünden|2572|
+46.6601|9.5788|Tiefencastel|Graubünden|244|
+46.8603|7.4922|Toffen|Bern|2277|
+47.4789|8.7021|Töss (Kreis 4)|Zürich|8672|
+47.4873|8.7074|Töss (Kreis 4) / Eichliacker|Zürich|3626|
+47.4928|8.7022|Töss (Kreis 4) / Schlosstal|Zürich|2762|
+47.4813|8.6985|Töss (Kreis 4) / Vorder-Dättnau|Zürich|1476|
+47.0170|7.7364|Trachselwald|Bern|1068|
+47.2230|7.1029|Tramelan|Bern|4186|
+46.9402|6.6760|Travers|Neuchâtel|1233|
+46.4154|6.2081|Trélex|Vaud|1092|
+46.7280|7.1377|Treyvaux|Fribourg|1349|
+47.2357|8.0765|Triengen|Lucerne|4193|
+47.3656|7.8868|Trimbach|Solothurn|6220|
+46.9008|9.5612|Trimmis|Graubünden|2831|
+47.4078|9.4650|Trogen|Appenzell Ausserrhoden|1618|
+46.1631|6.1475|Troinex|Geneva|2192|
+46.2289|6.9159|Troistorrents|Valais|3873|
+46.9417|7.8800|Trub|Bern|1503|
+46.9223|7.8452|Trubschachen|Bern|1530|
+46.7429|8.9872|Trun|Graubünden|1243|
+47.2029|8.9490|Tuggen|Schwyz|2671|
+47.4363|8.8463|Turbenthal|Zürich|3109|
+47.4920|8.2541|Turgi|Aargau|2982|
+46.3003|7.7020|Turtmann|Valais|1025|
+47.0900|8.4033|Udligenswil|Lucerne|2252|
+46.8659|7.3100|Ueberstorf|Fribourg|2133|
+47.2367|8.7573|Uerikon|Zürich|1794|
+47.3035|8.0232|Uerkheim|Aargau|1302|
+46.7739|7.5725|Uetendorf|Bern|5654|
+47.2644|8.6792|Uetikon|Zürich|3431|
+47.2665|8.6776|Uetikon / Grossdorf|Zürich|1040|
+47.6707|8.6354|Uhwiesen|Zürich|1140|
+47.3691|8.4570|Uitikon|Zürich|3282|
+47.1365|8.5853|Unterägeri|Zug|7973|
+47.4140|8.4476|Unterengstringen|Zürich|2675|
+47.0626|8.8052|Unteriberg|Schwyz|2307|
+47.3100|8.1137|Unterkulm|Aargau|3099|
+47.3212|8.3810|Unterlunkhofen|Aargau|1263|
+46.6853|7.8472|Unterseen|Bern|5150|
+47.5021|8.2555|Untersiggenthal|Aargau|6344|
+46.9275|9.5342|Untervaz|Graubünden|2303|
+47.3851|8.4258|Urdorf|Zürich|9205|
+47.3892|8.4227|Urdorf / Bodenfeld|Zürich|1840|
+47.3898|8.4289|Urdorf / Moos|Zürich|1266|
+47.3807|8.4234|Urdorf / Oberurdorf|Zürich|1008|
+47.3167|9.2795|Urnäsch|Appenzell Ausserrhoden|2304|
+47.0267|7.5008|Urtenen|Bern|5258|
+47.3471|8.7209|Uster|Zürich|34715|
+47.3602|8.7139|Uster / Gschwader|Zürich|1763|
+47.3458|8.7184|Uster / Kirch-Uster|Zürich|10428|
+47.3474|8.7009|Uster / Nieder-Uster|Zürich|4128|
+47.3409|8.7256|Uster / Nossikon|Zürich|1433|
+47.3487|8.7332|Uster / Ober-Uster|Zürich|5100|
+46.7944|7.5779|Uttigen|Bern|1673|
+47.5844|9.3410|Uttwil|Thurgau|1492|
+47.1325|7.5536|Utzenstorf|Bern|3625|
+47.2242|8.9826|Uznach|St. Gallen|5561|
+47.4365|9.1342|Uzwil|St. Gallen|12885|
+47.0401|6.9083|Val-de-Ruz|Neuchâtel|0|
+46.9036|6.5631|Val-de-Travers|Neuchâtel|0|
+46.3548|8.6054|Vallemaggia|Ticino|0|
+46.7126|6.3789|Vallorbe|Vaud|3098|
+46.6165|9.1802|Vals Platz|Graubünden|1006|
+46.2218|6.2028|Vandœuvres|Geneva|2826|
+46.3186|7.6074|Varen|Valais|1203|
+46.9462|7.5606|Vechigen|Bern|4619|
+47.4380|8.1472|Veltheim|Aargau|1374|
+47.5142|8.7170|Veltheim (Kreis 5)|Zürich|8901|
+47.5062|8.7156|Veltheim (Kreis 5) / Blumenau|Zürich|4135|
+47.5139|8.7158|Veltheim (Kreis 5) / Rosenberg|Zürich|4765|
+46.1002|7.2265|Verbier|Valais|2000|
+46.1367|7.0391|Vernayaz|Valais|1612|
+46.2170|6.0850|Vernier|Geneva|30086|
+46.1848|8.7322|Verscio|Ticino|1009|
+46.2838|6.1621|Versoix|Geneva|11467|
+46.2217|7.2786|Vétroz|Valais|4137|
+46.4630|6.8434|Vevey|Vaud|19891|
+46.5508|6.9108|Veveyse|Fribourg|0|
+46.2124|7.3983|Vex|Valais|1418|
+46.1670|6.1844|Veyrier|Geneva|9800|
+47.3500|7.4134|Vicques|Jura|1741|
+46.0134|8.9688|Viganello|Ticino|6375|
+46.7905|7.1172|Villars-sur-Glâne|Fribourg|10021|
+46.2983|7.0563|Villars-sur-Ollon|Vaud|2500|
+46.7207|6.9564|Villaz-Saint-Pierre|Fribourg|1093|
+46.3987|6.9265|Villeneuve|Vaud|4349|
+47.5268|8.2149|Villigen|Aargau|1381|
+47.3501|8.2476|Villmergen|Aargau|5489|
+47.4710|8.1598|Villnachern|Aargau|1473|
+46.3110|6.9006|Vionnaz|Valais|1719|
+46.2937|7.8815|Visp|Valais|7948|
+46.1761|7.8561|Visp District|Valais|0|
+46.2590|7.9019|Visperterminen|Valais|1440|
+47.0101|8.4842|Vitznau|Lucerne|1496|
+47.3902|8.6908|Volketswil / Volketswil (Dorf)|Zürich|2723|
+47.2758|7.9011|Vordemwald|Aargau|1661|
+47.1217|8.9023|Vorderthal|Schwyz|1006|
+46.3375|6.8895|Vouvry|Valais|3296|
+46.6155|7.0173|Vuadens|Fribourg|1835|
+46.6858|6.6479|Vuarrens|Vaud|0|
+47.2268|8.6687|Wädenswil|Zürich|13269|
+47.2212|8.6838|Wädenswil / Boller-Giessen|Zürich|1538|
+47.2340|8.6635|Wädenswil / Büelen|Zürich|2710|
+47.2292|8.6722|Wädenswil / Dorf (Wädenswil)|Zürich|2556|
+47.2185|8.6744|Wädenswil / Eichweid|Zürich|1252|
+47.2337|8.6525|Wädenswil / Hangenmoos|Zürich|1407|
+47.2236|8.6715|Wädenswil / Leihof-Mühlebach|Zürich|1830|
+47.2277|8.6630|Wädenswil / Untermosen-Fuhr|Zürich|1976|
+47.6600|8.8478|Wagenhausen|Thurgau|1524|
+47.4023|7.5151|Wahlen|Basel-Land|1383|
+47.3777|9.5790|Wahlkreis Rheintal|St. Gallen|0|
+47.4665|9.4425|Wahlkreis Rorschach|St. Gallen|0|
+47.0500|9.4333|Wahlkreis Sarganserland|St. Gallen|0|
+47.2246|9.0168|Wahlkreis See-Gaster|St. Gallen|0|
+47.4634|9.3905|Wahlkreis St. Gallen|St. Gallen|0|
+47.2945|9.1728|Wahlkreis Toggenburg|St. Gallen|0|
+47.1774|9.4630|Wahlkreis Werdenberg|St. Gallen|0|
+47.4259|9.1245|Wahlkreis Wil|St. Gallen|0|
+47.1017|8.5169|Walchwil|Zug|3268|
+47.2760|8.9140|Wald|Zürich|3061|
+47.3833|7.7500|Waldenburg|Basel-Land|1081|
+47.4686|9.2866|Waldkirch|St. Gallen|3137|
+47.3563|9.2835|Waldstatt|Appenzell Ausserrhoden|1722|
+47.1241|9.3119|Walenstadt|St. Gallen|5000|
+46.9486|7.6204|Walkringen|Bern|1817|
+47.4150|8.5967|Wallisellen|Zürich|11705|
+47.4174|8.6003|Wallisellen / Rieden|Zürich|2261|
+47.4145|8.5973|Wallisellen / Wallisellen-Ost|Zürich|5031|
+47.4191|8.5859|Wallisellen / Wallisellen-West|Zürich|3511|
+47.3334|8.2979|Waltenschwil|Aargau|2192|
+47.4487|9.6050|Walzenhausen|Appenzell Ausserrhoden|2120|
+47.3436|7.8698|Wangen|Solothurn|4686|
+47.4118|8.6452|Wangen|Zürich|2015|
+47.2321|7.6525|Wangen an der Aare|Bern|1944|
+47.4965|8.9533|Wängi|Thurgau|4051|
+46.7697|7.5084|Wattenwil|Bern|2788|
+47.2996|9.0866|Wattwil|St. Gallen|8089|
+47.1846|8.0210|Wauwil|Lucerne|1657|
+47.1345|9.0964|Weesen|St. Gallen|1402|
+47.4980|7.9314|Wegenstetten|Aargau|1080|
+47.0321|8.4322|Weggis|Lucerne|3863|
+47.5667|9.1000|Weinfelden|Thurgau|9414|
+47.5424|9.1571|Weinfelden District|Thurgau|0|
+47.4202|8.4364|Weiningen|Zürich|1753|
+47.4306|8.7679|Weisslingen|Zürich|1975|
+47.2805|7.5266|Welschenrohr|Solothurn|1179|
+47.0558|8.1018|Werthenstein|Lucerne|1909|
+47.4705|8.3164|Wettingen|Aargau|18191|
+47.3320|8.4773|Wettswil / Ausser-Dorf|Zürich|1438|
+47.3415|8.4715|Wettswil / Wettswil (Dorf)|Zürich|3605|
+47.3264|8.7978|Wetzikon|Zürich|24764|
+47.3332|8.8098|Wetzikon / Kempten|Zürich|4377|
+47.3251|8.8001|Wetzikon / Ober-Wetzikon|Zürich|3858|
+47.3309|8.7876|Wetzikon / Robenhausen|Zürich|2213|
+47.3164|8.7937|Wetzikon / Unter-Wetzikon|Zürich|2521|
+46.8501|7.5775|Wichtrach|Bern|3843|
+47.2519|7.6461|Wiedlisbach|Bern|2213|
+47.5217|8.7897|Wiesendangen / Wiesendangen (Dorf)|Zürich|1649|
+47.5977|9.0314|Wigoltingen|Thurgau|2040|
+47.2634|7.9680|Wikon|Lucerne|1218|
+47.4615|9.0455|Wil|St. Gallen|23955|
+47.4193|8.8452|Wila|Zürich|1387|
+47.6675|8.4677|Wilchingen|Schaffhausen|2193|
+46.6637|7.8617|Wilderswil|Bern|2303|
+47.2058|9.3540|Wildhaus|St. Gallen|1221|
+47.1218|7.9942|Willisau|Lucerne|7780|
+47.1410|7.9593|Willisau District|Lucerne|0|
+46.6759|7.6397|Wimmis|Bern|2237|
+47.4790|8.2184|Windisch|Aargau|6689|
+47.5056|8.7241|Winterthur|Zürich|111840|
+47.4611|9.3860|Wittenbach|St. Gallen|8542|
+47.4814|7.9758|Wittnau|Aargau|1062|
+47.3507|8.2752|Wohlen|Aargau|13875|
+46.9712|7.3568|Wohlen|Bern|9159|
+46.9032|8.3942|Wolfenschiessen|Nidwalden|2080|
+47.2562|8.7991|Wolfhausen|Zürich|2402|
+47.4607|7.9984|Wölflinswil|Aargau|910|
+47.2687|7.7965|Wolfwil|Solothurn|2079|
+47.0598|8.0739|Wolhusen|Lucerne|4050|
+47.1948|8.7190|Wollerau|Schwyz|6883|
+46.9298|7.5631|Worb|Bern|11053|
+47.1028|7.2952|Worben|Bern|2042|
+47.5104|8.6833|Wülflingen (Kreis 6)|Zürich|12598|
+47.5126|8.6840|Wülflingen (Kreis 6) / Härti|Zürich|2602|
+47.5110|8.6929|Wülflingen (Kreis 6) / Lindenplatz|Zürich|2555|
+47.5090|8.6797|Wülflingen (Kreis 6) / Niederfeld|Zürich|1227|
+47.4987|8.6990|Wülflingen (Kreis 6) / Oberfeld|Zürich|4288|
+47.5336|8.2567|Würenlingen|Aargau|3741|
+47.4421|8.3626|Würenlos|Aargau|5497|
+47.2557|7.8163|Wynau|Bern|1610|
+47.1059|7.6668|Wynigen|Bern|2090|
+47.0785|7.8292|Wyssachen|Bern|1251|
+46.7785|6.6411|Yverdon-les-Bains|Vaud|30157|
+46.8003|6.7425|Yvonand|Vaud|2401|
+46.9020|7.6619|Zäziwil|Bern|1535|
+47.1367|7.9249|Zell|Lucerne|1943|
+46.0200|7.7486|Zermatt|Valais|6629|
+46.6986|10.0927|Zernez|Graubünden|1053|
+46.9357|9.5649|Zizers|Graubünden|3009|
+47.2878|7.9459|Zofingen|Aargau|11655|
+47.3451|8.6009|Zollikerberg|Zürich|4187|
+46.9990|7.4581|Zollikofen|Bern|9121|
+47.3402|8.5741|Zollikon|Zürich|5812|
+47.2017|7.5665|Zuchwil|Solothurn|9268|
+47.1724|8.5175|Zug|Zug|30542|
+47.3316|8.6227|Zumikon|Zürich|4424|
+47.4492|7.8079|Zunzgen|Basel-Land|2632|
+46.6021|9.9596|Zuoz|Graubünden|1209|
+47.3667|8.5500|Zürich|Zürich|415367|
+47.3706|8.5418|Zürich (Kreis 1)|Zürich|6185|
+47.3727|8.5358|Zürich (Kreis 1) / City|Zürich|1089|
+47.3719|8.5404|Zürich (Kreis 1) / Lindenhof|Zürich|1298|
+47.3716|8.5450|Zürich (Kreis 1) / Rathaus|Zürich|3091|
+47.4077|8.5005|Zürich (Kreis 10)|Zürich|36216|
+47.4031|8.4971|Zürich (Kreis 10) / Höngg|Zürich|17117|
+47.4144|8.4793|Zürich (Kreis 10) / Rütihof|Zürich|3326|
+47.3950|8.5253|Zürich (Kreis 10) / Wipkingen|Zürich|15718|
+47.4233|8.5217|Zürich (Kreis 11)|Zürich|54260|
+47.4181|8.5122|Zürich (Kreis 11) / Affoltern|Zürich|17241|
+47.4082|8.5426|Zürich (Kreis 11) / Oerlikon|Zürich|17922|
+47.4248|8.5213|Zürich (Kreis 11) / Schwandenholz|Zürich|1145|
+47.4218|8.5478|Zürich (Kreis 11) / Seebach|Zürich|17851|
+47.4037|8.5761|Zürich (Kreis 12)|Zürich|28189|
+47.4151|8.5701|Zürich (Kreis 12) / Auzelg|Zürich|1143|
+47.4019|8.5863|Zürich (Kreis 12) / Hirzenbach|Zürich|11335|
+47.4113|8.5648|Zürich (Kreis 12) / Saatlen|Zürich|5209|
+47.4063|8.5724|Zürich (Kreis 12) / Schwamendingen-Mitte|Zürich|10476|
+47.3376|8.5211|Zürich (Kreis 2)|Zürich|29215|
+47.3605|8.5313|Zürich (Kreis 2) / Enge|Zürich|8253|
+47.3254|8.5139|Zürich (Kreis 2) / Mittel-Leimbach|Zürich|1891|
+47.3336|8.5143|Zürich (Kreis 2) / Unter-Leimbach|Zürich|2778|
+47.3401|8.5313|Zürich (Kreis 2) / Wollishofen|Zürich|16073|
+47.3578|8.5030|Zürich (Kreis 3)|Zürich|46018|
+47.3620|8.5150|Zürich (Kreis 3) / Alt-Wiedikon|Zürich|14931|
+47.3637|8.5042|Zürich (Kreis 3) / Friesenberg|Zürich|9909|
+47.3738|8.5116|Zürich (Kreis 3) / Sihlfeld|Zürich|20977|
+47.3775|8.5213|Zürich (Kreis 4) / Aussersihl|Zürich|27273|
+47.3831|8.5094|Zürich (Kreis 4) / Hard|Zürich|12976|
+47.3777|8.5285|Zürich (Kreis 4) / Langstrasse|Zürich|10386|
+47.3718|8.5258|Zürich (Kreis 4) / Werd|Zürich|3911|
+47.3877|8.5215|Zürich (Kreis 5)|Zürich|11737|
+47.3905|8.5129|Zürich (Kreis 5) / Escher-Wyss|Zürich|1846|
+47.3848|8.5301|Zürich (Kreis 5) / Gewerbeschule|Zürich|9891|
+47.3922|8.5438|Zürich (Kreis 6)|Zürich|29951|
+47.3892|8.5504|Zürich (Kreis 6) / Oberstrass|Zürich|9906|
+47.3953|8.5372|Zürich (Kreis 6) / Unterstrass|Zürich|20045|
+47.3733|8.5804|Zürich (Kreis 7)|Zürich|33820|
+47.3801|8.5613|Zürich (Kreis 7) / Fluntern|Zürich|7009|
+47.3624|8.5676|Zürich (Kreis 7) / Hirslanden|Zürich|6769|
+47.3701|8.5631|Zürich (Kreis 7) / Hottingen|Zürich|9934|
+47.3575|8.5910|Zürich (Kreis 7) / Witikon|Zürich|9099|
+47.3548|8.5610|Zürich (Kreis 8)|Zürich|15519|
+47.3573|8.5574|Zürich (Kreis 8) / Mühlebach|Zürich|5570|
+47.3546|8.5554|Zürich (Kreis 8) / Seefeld|Zürich|4998|
+47.3525|8.5701|Zürich (Kreis 8) / Weinegg|Zürich|4951|
+47.3824|8.4799|Zürich (Kreis 9)|Zürich|44878|
+47.3740|8.4901|Zürich (Kreis 9) / Albisrieden|Zürich|16480|
+47.3895|8.4853|Zürich (Kreis 9) / Altstetten|Zürich|28307|
+47.4745|9.1120|Zuzwil|St. Gallen|4226|
+46.5554|7.3730|Zweisimmen|Bern|2813|
+47.4382|7.5303|Zwingen|Basel-Land|2162|

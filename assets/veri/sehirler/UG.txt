@@ -1,168 +1,171 @@
-2.7017|33.6761|Abim
-3.3779|31.7909|Adjumani
-1.9500|34.9500|Amudat
-2.6011|31.9475|Anaka
-1.9756|32.5386|Apac
-3.0201|30.9110|Arua
-0.5739|32.5155|Bombo
-1.1481|34.3261|Budadiri
-1.0039|33.9256|Budaka
-0.4821|33.2407|Bugembe
-0.5714|33.7417|Bugiri
-0.5810|30.2101|Buhesi
-1.3472|31.3081|Buhimba
-0.3375|33.0106|Buikwe
--0.1285|31.6253|Bukomansimbi
-0.6975|32.0286|Bukomero
-0.6786|31.8197|Bukuya
-1.2712|34.6678|Bukwa
-1.3205|34.2806|Bulambuli
-0.2534|32.5572|Bunamwaya
-0.7112|30.0647|Bundibugyo
-0.7772|33.6236|Busembatia
-0.6263|33.6003|Busesa
-0.4659|34.0922|Busia
-0.8501|33.9262|Busolwe
-0.9119|33.9511|Butaleja
-1.1594|31.6108|Butemba
-0.5547|30.8548|Butunduzi
--0.3674|33.2007|Buvuma
-0.6500|33.1713|Buwenge
-1.9342|32.1164|Buyale
-1.1517|33.1550|Buyende
-0.3577|32.6633|Bweyogerere
--0.5917|30.6286|Bwizibwera
--0.7425|31.4064|Byakabanda
-1.8983|33.1775|Dokolo
-0.0562|32.4795|Entebbe
-0.6617|30.2748|Fort Portal
-0.2002|31.7502|Gomba
-0.2033|32.0881|Gombe
-2.7746|32.2990|Gulu
-1.4331|31.3524|Hoima
--0.1340|30.4962|Ibanda
--0.0810|30.5560|Ibanda District
-0.6092|33.4686|Iganga
--0.9667|30.6000|Iryango
--0.5431|30.1369|Ishaka
--0.8686|30.8302|Isingiro
-0.4390|33.2032|Jinja
--1.2486|29.9899|Kabale
-0.9378|30.8089|Kagadi
-0.2155|32.5345|Kajansi
-0.5083|33.2878|Kakira
-0.4199|32.3913|Kakiri
-0.7806|31.3236|Kakumiro
-0.8944|33.4994|Kaliro
--0.5364|31.6214|Kalisizo
-0.3163|32.5822|Kampala
-0.3351|32.5831|Kampala District
-0.9472|33.1197|Kamuli
-0.1866|30.4539|Kamwenge
-0.1772|31.8811|Kanoni
--0.9575|29.7897|Kanungu
-1.4010|34.4504|Kapchorwa
--0.6167|31.5500|Kasaali
-0.4333|31.2333|Kasambya
-0.5567|31.8022|Kasanda
-0.4380|32.6025|Kasangati
-0.1533|32.4009|Kasanje
-0.1833|30.0833|Kasese
-0.0200|30.4986|Kasozi
-0.0841|32.4697|Katabi
-0.7583|30.6825|Katoke
-0.7025|32.8886|Kayunga
--0.0744|30.7853|Kazo
-0.8000|31.0667|Kibale
-0.9161|31.7742|Kiboga
-1.0500|33.8088|Kibuku
-1.6162|31.3089|Kigorobya
-1.8084|32.0050|Kigumba
--0.7500|29.7000|Kihihi
-1.3564|31.2222|Kikube
-0.1983|30.0130|Kilembe
--0.7011|30.4939|Kinoni
-0.4000|32.6333|Kira
-0.3475|32.6492|Kireka
--0.1966|30.8445|Kiruhura
-1.9399|32.1660|Kiryandongo Refugee Camp
-0.0768|29.8683|Kisinga
--1.2854|29.6850|Kisoro
-3.2783|32.8867|Kitgum
-0.5139|32.3506|Kiziba
-3.4136|30.9599|Koboko
-2.9806|34.1331|Kotido
-1.4608|33.9361|Kumi
-0.3674|31.1082|Kyaka II Refugee Camp
--0.4514|30.1133|Kyamahungu
-1.1881|30.7828|Kyangwali Refugee Camp
-0.7842|30.5311|Kyarusozi
--0.3833|31.3500|Kyazanga
-0.5022|31.0414|Kyegegwa
-0.2952|32.5016|Kyengera
-0.6328|30.6214|Kyenjojo
--0.6156|31.5175|Kyotera
-2.2499|32.8999|Lira
-0.3679|32.9376|Lugazi
--0.1131|31.8539|Lukaya
-0.8492|32.4731|Luwero
-1.1167|31.4000|Lwakyomba
--0.4161|31.4081|Lwengo
--0.4031|31.1572|Lyantonde
--0.9667|30.4500|Mabare
-0.5196|33.3469|Magamaga
-0.6444|34.2606|Malaba
-0.9520|34.2700|Manafwa
-0.4186|29.8911|Margherita
--0.3338|31.7341|Masaka
-1.6744|31.7150|Masindi
-1.6961|32.0861|Masindi Port
-0.4597|33.4803|Mayuge
-1.0821|34.1750|Mbale
--0.6047|30.6485|Mbarara
-0.4175|32.0228|Mityana
-2.5345|34.6666|Moroto
-3.6609|31.7247|Moyo
-0.2250|32.3136|Mpigi
-0.0401|29.7248|Mpondwe
-0.5585|31.3949|Mubende
-0.5000|31.5000|Mubende District
-0.9381|30.7594|Muhororo
-0.9151|30.7508|Muhorro
-0.3533|32.7553|Mukono
-1.1500|34.1500|Nakaloke
-1.3089|32.4564|Nakasongola
--0.7406|30.9963|Nakivale Refugee Camp
-0.6894|32.4214|Namasuba
-0.3640|33.8176|Namavundu
-0.5289|32.2486|Namayumba
-0.8361|33.6861|Namutumba
-0.3639|32.5286|Nansana
-2.4783|31.0889|Nebbi
-1.4314|33.7772|Ngora
-0.4417|33.1792|Njeru
--0.8794|30.2642|Ntungamo
--0.9000|30.4167|Nyachera
-0.6750|29.9926|Nyahuka
--0.8349|30.0922|Nyamunuka
-2.6111|32.4756|Opit
-2.4837|33.3420|Otuke
-2.3813|32.5007|Oyam
-3.0500|33.2167|Pader
-2.8006|33.1350|Pader Palwo
-2.4167|30.9855|Paidha
-2.4634|31.4983|Pakwach
-1.1450|33.7094|Pallisa
--1.1883|29.8461|Rubanda
--0.8411|29.9419|Rukungiri
--0.5667|30.3833|Rutoma
-0.3480|30.6543|Rwamwanja Refugee Camp
-0.3796|30.2304|Rwiimi
--0.0772|31.4567|Sembabule
-1.2313|34.2477|Sironko
-1.7146|33.6111|Soroti
-0.6930|34.1808|Tororo
-0.4044|32.4594|Wakiso
-0.2376|32.4784|Wakiso District
-0.7283|32.5122|Wobulenzi
-3.4651|31.2469|Yumbe
+2.7017|33.6761|Abim|Northern Region|24400|
+3.3779|31.7909|Adjumani|Northern|37100|
+1.9500|34.9500|Amudat|Northern|15000|
+2.6011|31.9475|Anaka|Northern Region|24000|
+1.9756|32.5386|Apac|Northern|67700|
+3.0201|30.9110|Arua|Northern|72400|
+0.5739|32.5155|Bombo|Central Region|29600|
+1.1481|34.3261|Budadiri|Eastern Region|19200|
+1.0039|33.9256|Budaka|Eastern Region|29100|
+0.4821|33.2407|Bugembe|Eastern|45600|
+0.5714|33.7417|Bugiri|Eastern|36000|
+0.5810|30.2101|Buhesi|Western Region|16000|
+1.3472|31.3081|Buhimba|Western Region|19500|
+0.3375|33.0106|Buikwe|Central Region|18500|
+-0.1285|31.6253|Bukomansimbi|Central|0|
+0.6975|32.0286|Bukomero|Central Region|16400|
+0.6786|31.8197|Bukuya|Central Region|26972|
+1.2712|34.6678|Bukwa|Eastern|0|
+1.3205|34.2806|Bulambuli|Eastern|0|
+0.2534|32.5572|Bunamwaya|Central Region|413400|
+0.7112|30.0647|Bundibugyo|Western|22300|
+0.7772|33.6236|Busembatia|Eastern|15889|
+0.6263|33.6003|Busesa|Eastern Region|32900|
+0.4659|34.0922|Busia|Eastern|64900|
+0.8501|33.9262|Busolwe|Eastern Region|16800|
+0.9119|33.9511|Butaleja|Eastern Region|24000|
+1.1594|31.6108|Butemba|Central Region|18800|
+0.5547|30.8548|Butunduzi|Western Region|17600|
+-0.3674|33.2007|Buvuma|Central|0|
+0.6500|33.1713|Buwenge|Eastern|24200|
+1.9342|32.1164|Buyale|Western Region|36700|
+1.1517|33.1550|Buyende|Eastern Region|29700|
+0.3577|32.6633|Bweyogerere|Central|11473|
+-0.5917|30.6286|Bwizibwera|Western|79157|
+-0.7425|31.4064|Byakabanda|Central|7608|
+1.8983|33.1775|Dokolo|Northern Region|23700|
+0.0562|32.4795|Entebbe|Central|102600|
+0.6617|30.2748|Fort Portal|Western|60800|
+0.2002|31.7502|Gomba|Central|0|
+0.2033|32.0881|Gombe|Central Region|16600|
+2.7746|32.2990|Gulu|Northern|177400|
+0.3489|30.1622|Hima|Western Region|15000|
+1.4331|31.3524|Hoima|Western|122700|
+-0.1340|30.4962|Ibanda|Western|117700|
+-0.0810|30.5560|Ibanda District|Western|0|
+0.6092|33.4686|Iganga|Eastern|65500|
+-0.9667|30.6000|Iryango|Western Region|20000|
+-0.5431|30.1369|Ishaka|Western Region|43700|
+-0.8686|30.8302|Isingiro|Western Region|34300|
+0.4390|33.2032|Jinja|Eastern|93061|
+-1.2486|29.9899|Kabale|Western|53200|
+0.9378|30.8089|Kagadi|Western|28000|
+0.2155|32.5345|Kajansi|Central|135600|
+0.5083|33.2878|Kakira|Eastern Region|35800|
+0.4199|32.3913|Kakiri|Central Region|28100|
+0.7806|31.3236|Kakumiro|Western Region|15900|
+0.8944|33.4994|Kaliro|Eastern Region|20500|
+-0.5364|31.6214|Kalisizo|Central Region|15200|
+0.3163|32.5822|Kampala|Central|1680600|
+0.3351|32.5831|Kampala District|Central|0|
+0.9472|33.1197|Kamuli|Eastern|67800|
+0.1866|30.4539|Kamwenge|Western|23900|
+0.1772|31.8811|Kanoni|Central|0|
+-0.9575|29.7897|Kanungu|Western|16600|
+1.4010|34.4504|Kapchorwa|Eastern|51200|
+-0.6167|31.5500|Kasaali|Central Region|29000|
+0.4333|31.2333|Kasambya|Central Region|15700|
+0.5567|31.8022|Kasanda|Central Region|17000|
+0.4380|32.6025|Kasangati|Central Region|207800|
+0.1533|32.4009|Kasanje|Central Region|42300|
+0.1833|30.0833|Kasese|Western|115400|
+0.0200|30.4986|Kasozi|Western Region|24500|
+0.0841|32.4697|Katabi|Central Region|154300|
+0.7583|30.6825|Katoke|Western Region|18200|
+0.7025|32.8886|Kayunga|Central|30000|
+-0.0744|30.7853|Kazo|Western Region|15900|
+-0.9211|30.0367|Kebisoni|Western Region|15000|
+0.8000|31.0667|Kibale|Western|5200|
+0.9161|31.7742|Kiboga|Central|22400|
+1.0500|33.8088|Kibuku|Eastern|0|
+1.6162|31.3089|Kigorobya|Western|5420|
+1.8084|32.0050|Kigumba|Western Region|22000|
+-0.7500|29.7000|Kihihi|Western Region|21800|
+1.3564|31.2222|Kikube|Western Region|18100|
+0.1983|30.0130|Kilembe|Western|7914|
+-0.7011|30.4939|Kinoni|Western Region|19400|
+0.4000|32.6333|Kira|Central Region|462900|
+0.3475|32.6492|Kireka|Central|17947|
+-0.1966|30.8445|Kiruhura|Western|14000|
+1.9399|32.1660|Kiryandongo Refugee Camp|Western Region|16600|
+0.0768|29.8683|Kisinga|Western Region|18300|
+-1.2854|29.6850|Kisoro|Western|17700|
+3.2783|32.8867|Kitgum|Northern|56891|
+0.5139|32.3506|Kiziba|Central Region|21300|
+3.4136|30.9599|Koboko|Northern Region|64500|
+2.9806|34.1331|Kotido|Northern|75700|
+1.4608|33.9361|Kumi|Eastern|43500|
+0.3674|31.1082|Kyaka II Refugee Camp|Western Region|27300|
+-0.4514|30.1133|Kyamahungu|Western Region|15800|
+1.1881|30.7828|Kyangwali Refugee Camp|Western Region|23847|
+0.7842|30.5311|Kyarusozi|Western Region|16300|
+-0.3833|31.3500|Kyazanga|Central Region|16000|
+0.5022|31.0414|Kyegegwa|Western Region|29400|
+0.2952|32.5016|Kyengera|Central Region|285400|
+0.6328|30.6214|Kyenjojo|Western|28600|
+-0.6156|31.5175|Kyotera|Central|8472|
+2.2499|32.8999|Lira|Northern|119323|
+0.3679|32.9376|Lugazi|Central|128400|
+-0.1131|31.8539|Lukaya|Central Region|25600|
+0.8492|32.4731|Luwero|Central|49100|
+1.1167|31.4000|Lwakyomba|Western Region|20500|
+-0.4161|31.4081|Lwengo|Central Region|15100|
+-0.4031|31.1572|Lyantonde|Central|16300|
+-0.9667|30.4500|Mabare|Western Region|20100|
+0.5196|33.3469|Magamaga|Eastern Region|19500|
+0.6444|34.2606|Malaba|Eastern Region|20800|
+0.9520|34.2700|Manafwa|Eastern Region|16000|
+0.4186|29.8911|Margherita|Western|0|
+-0.3338|31.7341|Masaka|Central|116600|
+1.6744|31.7150|Masindi|Western|110500|
+1.6961|32.0861|Masindi Port|Western|7828|
+0.4597|33.4803|Mayuge|Eastern|20800|
+1.0821|34.1750|Mbale|Eastern|111300|
+-0.6047|30.6485|Mbarara|Western|221300|
+0.4175|32.0228|Mityana|Central|105200|
+2.5345|34.6666|Moroto|Northern|16300|
+3.6609|31.7247|Moyo|Northern|18800|
+0.2250|32.3136|Mpigi|Central|49500|
+0.0401|29.7248|Mpondwe|Western Region|58600|
+0.5585|31.3949|Mubende|Central|121600|
+0.5000|31.5000|Mubende District|Central|0|
+0.9381|30.7594|Muhororo|Western|1567|
+0.9151|30.7508|Muhorro|Western Region|27400|
+0.3533|32.7553|Mukono|Central|191300|
+1.1500|34.1500|Nakaloke|Eastern Region|33700|
+1.3089|32.4564|Nakasongola|Central|6921|
+-0.7406|30.9963|Nakivale Refugee Camp|Western Region|68400|
+0.6894|32.4214|Namasuba|Central|22507|
+0.3640|33.8176|Namavundu|Eastern Region|17300|
+0.5289|32.2486|Namayumba|Central Region|22100|
+0.8361|33.6861|Namutumba|Eastern Region|22600|
+0.3639|32.5286|Nansana|Central Region|532800|
+2.4783|31.0889|Nebbi|Northern|41400|
+1.4314|33.7772|Ngora|Eastern Region|17700|
+0.4417|33.1792|Njeru|Central|178800|
+-0.8794|30.2642|Ntungamo|Western|20900|
+-0.8833|29.6500|Ntungamo|Western Region|20900|
+-0.9000|30.4167|Nyachera|Western|30509|
+0.6750|29.9926|Nyahuka|Western Region|19600|
+-0.8349|30.0922|Nyamunuka|Western Region|16800|
+2.6111|32.4756|Opit|Northern Region|23200|
+2.4837|33.3420|Otuke|Northern|0|
+2.3813|32.5007|Oyam|Northern|0|
+3.0500|33.2167|Pader|Northern|11600|
+2.8006|33.1350|Pader Palwo|Northern|11152|
+2.4167|30.9855|Paidha|Northern|37500|
+2.4634|31.4983|Pakwach|Northern Region|28700|
+1.1450|33.7094|Pallisa|Eastern|42300|
+-1.1883|29.8461|Rubanda|Western Region|22800|
+-0.8411|29.9419|Rukungiri|Western|37200|
+-0.5667|30.3833|Rutoma|Western Region|86100|
+0.3480|30.6543|Rwamwanja Refugee Camp|Western Region|49700|
+0.3796|30.2304|Rwiimi|Western Region|18600|
+-0.0772|31.4567|Sembabule|Central|4320|
+1.2313|34.2477|Sironko|Eastern|19300|
+1.7146|33.6111|Soroti|Eastern|60900|
+0.6930|34.1808|Tororo|Eastern|48500|
+0.4044|32.4594|Wakiso|Central|87900|
+0.2376|32.4784|Wakiso District|Central|0|
+0.7283|32.5122|Wobulenzi|Central|31000|
+3.4651|31.2469|Yumbe|Northern|47600|

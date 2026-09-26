@@ -1,320 +1,323 @@
--33.3693|-71.6681|Algarrobo
--38.0500|-71.3167|Alto Biobío
--28.9336|-70.4623|Alto del Carmen
--20.2500|-70.1167|Alto Hospicio
--41.8707|-73.8162|Ancud
--30.2167|-71.0833|Andacollo
--37.7952|-72.7164|Angol
--53.1414|-70.9058|Antártica
--23.6524|-70.3954|Antofagasta
--37.3333|-71.6833|Antuco
--37.2463|-73.3175|Arauco
--18.4746|-70.2979|Arica
--45.4030|-72.6918|Aysén|Puerto Aysén
--33.2328|-70.8092|Batuco
--33.7326|-70.7428|Buin
--36.7423|-72.2985|Bulnes
--32.4174|-70.8243|Cabildo
--54.9333|-67.6167|Cabo de Hornos
--37.0339|-72.4047|Cabrero
--22.4567|-68.9237|Calama
--41.7734|-73.1305|Calbuco
--27.0667|-70.8167|Caldera
--32.8500|-70.6333|Calle Larga
--19.0167|-69.8667|Camarones
--19.3000|-69.4167|Camiña
--31.4000|-71.4500|Canela
--37.8013|-73.3962|Cañete
--38.7112|-73.1610|Carahue
--33.5538|-71.6076|Cartagena
--33.3167|-71.4167|Casablanca
--42.4721|-73.7732|Castro
--32.6333|-71.0333|Catemu
--35.9671|-72.3225|Cauquenes
--42.9160|-72.7063|Chaitén
--26.3479|-70.6224|Chañaral
--35.7333|-72.5333|Chanco
--34.7333|-71.2833|Chépica
--33.2838|-70.6533|Chicureo
--36.9256|-73.0284|Chiguayante
--46.5376|-71.7293|Chile Chico
--36.6066|-72.1034|Chillán
--36.6229|-72.1317|Chillán Viejo
--34.7125|-71.0434|Chimbarongo
--38.6000|-72.8500|Cholchol
--42.6239|-73.7750|Chonchi
--44.7275|-72.6805|Cisnes
--36.1333|-72.7833|Cobquecura
--41.5000|-72.3167|Cochamó
--47.2539|-72.5732|Cochrane
--34.0333|-70.6667|Codegua
--36.4833|-72.7000|Coelemu
--36.6279|-71.8307|Coihueco
--34.2667|-70.9667|Coínco
--35.6949|-71.4057|Colbún
--19.2754|-68.6396|Colchane
--33.2000|-70.6833|Colina
--37.9545|-72.4344|Collipulli
--34.3000|-71.1000|Coltauco
--31.1667|-71.0500|Combarbalá
--36.8270|-73.0498|Concepción
--32.9167|-71.5167|Concón
--35.3332|-72.4116|Constitución
--38.0000|-73.2333|Contulmo
--27.3665|-70.3323|Copiapó
--29.9533|-71.3395|Coquimbo
--37.0339|-73.1402|Coronel
--39.8873|-73.4310|Corral
--45.5752|-72.0662|Coyhaique
--38.9167|-72.0333|Cunco
--38.4405|-71.9054|Curacautín
--33.3976|-71.1271|Curacaví
--42.4397|-73.6029|Curaco de Vélez
--37.4779|-73.3449|Curanilahue
--39.3500|-71.5833|Curarrehue
--35.0833|-72.0167|Curepto
--34.9828|-71.2394|Curicó
--42.3785|-73.6501|Dalcahue
--26.3667|-70.0500|Diego de Almagro
--34.2333|-70.9667|Doñihue
--36.9000|-72.0333|El Carmen
--33.6797|-70.9848|El Monte
--33.4000|-71.7000|El Quisco
--33.4500|-71.6667|El Tabo
--35.6000|-72.2833|Empedrado
--38.0500|-72.3833|Ercilla
--36.8167|-72.6667|Florida
--38.9525|-72.6265|Freire
--28.5000|-71.0667|Freirina
--41.1536|-73.4210|Fresia
--41.0872|-73.0956|Frutillar
--43.1849|-71.8672|Futaleufú
--40.1333|-72.4000|Futrono
--38.4000|-72.7833|Galvarino
--17.5667|-69.5000|General Lagos
--39.1000|-72.6833|Gorbea
--34.0686|-70.7275|Graneros
--43.8833|-73.7333|Guaitecas
--32.7833|-71.2167|Hacienda La Calera|La Calera
--32.8000|-71.1667|Hijuelas
--42.0167|-72.6833|Hualaihué
--34.9765|-71.8048|Hualañé
--36.7833|-73.0833|Hualpén
--36.9727|-72.9356|Hualqui
--19.9667|-69.7667|Huara
--28.4500|-71.2167|Huasco
--31.6335|-71.1697|Illapel
--20.2133|-70.1503|Iquique
--27.1105|-109.2975|Isla de Pascua
--30.0256|-82.0519|Juan Fernández
--38.7652|-72.7530|Labranza
--32.8167|-71.2333|La Cruz
--34.2000|-71.6667|La Estrella
--40.3167|-72.5000|Lago Ranco
--44.2403|-71.8495|Lago Verde
--52.2500|-71.9167|Laguna Blanca
--29.5000|-71.2667|La Higuera
--37.2841|-72.7111|Laja
--32.4524|-71.2311|La Ligua
--33.2863|-70.8756|Lampa
--39.4525|-72.7712|Lanco
--33.5833|-70.6342|La Pintana
--39.8087|-73.2182|Las Animas
--34.3000|-71.3167|Las Cabras
--29.9045|-71.2489|La Serena
--40.2931|-73.0817|La Unión
--38.5307|-72.4365|Lautaro
--37.6082|-73.6536|Lebu
--34.9833|-72.0000|Licantén
--33.0167|-71.2667|Limache
--35.8467|-71.5931|Linares
--34.1167|-71.7333|Litueche
--32.8404|-70.9562|Llaillay
--41.3428|-72.6580|Llanquihue
--34.7286|-71.6447|Lolol
--39.3671|-72.6309|Loncoche
--35.9650|-71.6836|Longaví
--38.4333|-71.2333|Lonquimay
--33.4443|-70.7255|Lo Prado
--37.6167|-73.4667|Los Álamos
--32.8337|-70.5983|Los Andes
--37.4697|-72.3537|Los Ángeles
--39.8500|-72.8333|Los Lagos
--41.4000|-73.4833|Los Muermos
--37.9667|-72.8333|Los Sauces
--31.9000|-71.5167|Los Vilos
--37.0899|-73.1577|Lota
--38.1500|-72.9167|Lumaco
--34.1808|-70.6493|Machalí
--39.6500|-72.9500|Máfil
--33.5142|-70.7651|Maipú
--34.4500|-70.9500|Malloa
--34.4000|-71.6333|Marchigüe
--22.3500|-69.6667|María Elena
--39.5167|-72.9667|Mariquina
--35.5333|-71.7000|Maule
--41.6167|-73.6000|Maullín
--23.1000|-70.4500|Mejillones
--38.8500|-71.7000|Melipeuco
--33.6891|-71.2153|Melipilla
--35.1143|-71.2823|Molina
--30.6950|-70.9577|Monte Patria
--33.9833|-70.7000|Mostazal
--37.7189|-72.2410|Mulchén
--37.5025|-72.6731|Nacimiento
--34.6667|-71.2167|Nancagua
--51.7333|-72.5167|Natales
--33.9333|-71.8333|Navidad
--37.5833|-72.5167|Negrete
--36.4000|-72.4000|Ninhue
--36.3000|-71.9000|Ñiquén
--32.7167|-71.2333|Nogales
--38.7445|-72.9502|Nueva Imperial
--33.4474|-70.5828|Ñuñoa
--48.4667|-72.5667|O'Higgins
--34.2116|-70.8201|Olivar
--21.2250|-68.2535|Ollagüe
--33.0000|-71.2000|Olmué
--40.5740|-73.1335|Osorno
--30.6011|-71.1990|Ovalle
--33.5684|-70.8058|Padre Hurtado
--38.7667|-72.6000|Padre Las Casas
--30.0288|-70.5171|Paihuano
--40.0706|-72.8727|Paillaco
--33.8080|-70.7411|Paine
--43.6188|-71.8043|Palena
--34.6000|-71.3667|Palmilla
--39.6435|-72.3327|Panguipulli
--32.8000|-70.8333|Panquehue
--32.5167|-71.4500|Papudo
--34.7833|-71.1667|Paredones
--36.1431|-71.8260|Parral
--35.3833|-71.4500|Pelarco
--35.8333|-72.6333|Pelluhue
--36.9667|-72.1000|Pemuco
--33.6063|-70.8765|Peñaflor
--33.4684|-70.5341|Peñalolén
--35.4000|-71.8167|Pencahue
--36.7407|-72.9953|Penco
--34.4833|-71.4833|Peralillo
--38.4167|-72.3833|Perquenco
--32.2500|-70.9333|Petorca
--34.4000|-71.1667|Peumo
--20.5000|-69.3333|Pica
--34.3500|-71.3000|Pichidegua
--34.3833|-72.0000|Pichilemu
--36.7000|-71.9000|Pinto
--38.9864|-72.6372|Pitrufquén
--34.6333|-71.1167|Placilla
--36.5333|-72.4333|Portezuelo
--53.3000|-70.3667|Porvenir
--20.2597|-69.7862|Pozo Almonte
--52.7167|-69.2500|Primavera
--32.7257|-71.4151|Puchuncaví
--39.2822|-71.9543|Pucón
--33.6117|-70.5758|Puente Alto
--41.4693|-72.9424|Puerto Montt
--51.7299|-72.5060|Puerto Natales
--40.9667|-72.9000|Puerto Octay
--41.3195|-72.9854|Puerto Varas
--34.6000|-71.6667|Pumanque
--30.9000|-71.2667|Punitaqui
--53.1627|-70.9081|Punta Arenas
--42.6000|-73.6746|Puqueldón
--38.0167|-73.0833|Purén
--40.9130|-73.1591|Purranque
--32.6333|-70.7333|Putaendo
--18.1964|-69.5592|Putre
--40.7097|-72.6419|Puyehue
--42.8557|-73.5644|Queilén
--43.1182|-73.6166|Quellón
--42.1333|-73.5167|Quemchi
--37.6844|-72.0064|Quilaco
--33.3680|-70.7139|Quilicura
--37.4667|-71.9667|Quilleco
--36.7333|-72.4667|Quillón
--32.8834|-71.2488|Quillota
--33.0475|-71.4425|Quilpué
--42.5333|-73.4167|Quinchao
--34.3555|-70.9653|Quinta de Tilcoco
--32.7833|-71.5333|Quintero
--36.2800|-72.5412|Quirihue
--34.1708|-70.7444|Rancagua
--36.6500|-72.5500|Ránquil
--34.9255|-71.3172|Rauco
--37.7178|-72.5757|Renaico
--33.4019|-70.7062|Renca
--34.4064|-70.8583|Rengo
--34.2833|-70.8333|Requínoa
--36.0500|-71.7667|Retiro
--32.8333|-70.7000|Rinconada
--40.3349|-72.9556|Río Bueno
--35.2833|-71.2667|Río Claro
--30.2667|-70.7000|Río Hurtado
--46.3000|-71.9333|Río Ibáñez
--40.7961|-73.2161|Río Negro
--52.6500|-71.4833|Río Verde
--34.9667|-71.1333|Romeral
--38.7833|-73.4000|Saavedra
--35.0000|-71.3833|Sagrada Familia
--31.7792|-70.9639|Salamanca
--33.5947|-71.6075|San Antonio
--33.5922|-70.6996|San Bernardo
--36.4248|-71.9580|San Carlos
--35.5378|-71.4870|San Clemente
--32.8000|-70.5833|San Esteban
--36.5500|-71.5500|San Fabián
--32.7498|-70.7258|San Felipe
--34.7433|-70.6033|San Fernando
--52.3167|-69.6833|San Gregorio
--36.8000|-72.0421|San Ignacio
--35.5952|-71.7292|San Javier
--40.5167|-73.4000|San Juan de la Costa
--36.5000|-72.2167|San Nicolás
--40.4000|-73.0167|San Pablo
--22.9111|-68.2011|San Pedro de Atacama
--36.8408|-73.1031|San Pedro de la Paz
--35.3167|-71.5333|San Rafael
--37.2667|-72.7167|San Rosendo
--37.6667|-72.0167|Santa Bárbara
--34.6388|-71.3658|Santa Cruz
--37.1667|-72.9333|Santa Juana
--32.7500|-70.6667|Santa María
--33.4569|-70.6483|Santiago
--33.6472|-71.6353|Santo Domingo
--34.4386|-71.0775|San Vicente|San Vicente de Tagua Tagua
--22.8833|-69.3167|Sierra Gorda
--33.6639|-70.9273|Talagante
--35.4264|-71.6554|Talca
--36.7249|-73.1168|Talcahuano
--25.4071|-70.4855|Taltal
--38.7396|-72.5984|Temuco
--34.8706|-71.1622|Teno
--38.9667|-73.0500|Teodoro Schmidt
--27.4667|-70.2667|Tierra Amarilla
--53.6667|-69.9000|Timaukel
--38.3333|-73.5000|Tirúa
--22.0920|-70.1979|Tocopilla
--39.1785|-73.1645|Toltén
--36.6176|-72.9559|Tomé
--51.2667|-72.3500|Torres del Paine
--47.8333|-73.5667|Tortel
--38.2496|-72.6703|Traiguén
--36.4333|-72.6667|Treguaco
--37.2833|-71.9500|Tucapel
--39.8142|-73.2459|Valdivia
--28.5762|-70.7594|Vallenar
--33.0360|-71.6296|Valparaíso
--34.8833|-72.0000|Vichuquén
--38.2329|-72.3329|Victoria
--30.0354|-70.7127|Vicuña
--38.6688|-72.2257|Vilcún
--35.6667|-71.7500|Villa Alegre
--33.0422|-71.3733|Villa Alemana
--37.4042|-71.9795|Villa Mercedes
--39.2857|-72.2279|Villarrica
--33.0246|-71.5518|Viña del Mar
--35.7500|-71.5833|Yerbas Buenas
--37.0982|-72.5608|Yumbel
--37.1167|-72.0167|Yungay
--32.5539|-71.4577|Zapallar
+-33.3693|-71.6681|Algarrobo|Valparaíso|10217|
+-38.0500|-71.3167|Alto Biobío|Biobío|0|
+-28.9336|-70.4623|Alto del Carmen|Atacama|5034|
+-20.2500|-70.1167|Alto Hospicio|Tarapacá|142086|
+-41.8707|-73.8162|Ancud|Los Lagos|40819|
+-30.2167|-71.0833|Andacollo|Coquimbo|11093|
+-37.7952|-72.7164|Angol|La Araucanía|44856|
+-53.1414|-70.9058|Antártica|Magallanes y de la Antártica Chilena|0|
+-23.6524|-70.3954|Antofagasta|Antofagasta|401096|
+-37.3333|-71.6833|Antuco|Biobío|3862|
+-37.2463|-73.3175|Arauco|Biobío|24659|
+-18.4746|-70.2979|Arica|Arica y Parinacota|241653|
+-45.4030|-72.6918|Aysén|Aisén del General Carlos Ibañez del Campo|16936|Puerto Aysén
+-33.2328|-70.8092|Batuco|Santiago Metropolitan|16784|
+-33.7326|-70.7428|Buin|Santiago Metropolitan|63419|
+-36.7423|-72.2985|Bulnes|Ñuble|12715|
+-32.4174|-70.8243|Cabildo|Valparaíso|19315|
+-54.9333|-67.6167|Cabo de Hornos|Magallanes y de la Antártica Chilena|0|
+-37.0339|-72.4047|Cabrero|Biobío|27595|
+-22.4567|-68.9237|Calama|Antofagasta|166334|
+-41.7734|-73.1305|Calbuco|Los Lagos|32963|
+-27.0667|-70.8167|Caldera|Atacama|16150|
+-32.8500|-70.6333|Calle Larga|Valparaíso|13366|
+-19.0167|-69.8667|Camarones|Arica y Parinacota|606|
+-19.3000|-69.4167|Camiña|Tarapacá|1335|
+-31.4000|-71.4500|Canela|Coquimbo|0|
+-37.8013|-73.3962|Cañete|Biobío|31805|
+-38.7112|-73.1610|Carahue|La Araucanía|24377|
+-33.5538|-71.6076|Cartagena|Valparaíso|17978|
+-33.3167|-71.4167|Casablanca|Valparaíso|24537|
+-42.4721|-73.7732|Castro|Los Lagos|41667|
+-32.6333|-71.0333|Catemu|Valparaíso|13285|
+-35.9671|-72.3225|Cauquenes|Maule|38522|
+-42.9160|-72.7063|Chaitén|Los Lagos|3347|
+-26.3479|-70.6224|Chañaral|Atacama|0|
+-35.7333|-72.5333|Chanco|Maule|9003|
+-34.7333|-71.2833|Chépica|Libertador General Bernardo O'Higgins|6237|
+-33.2838|-70.6533|Chicureo|Santiago Metropolitan|16520|
+-36.9256|-73.0284|Chiguayante|Biobío|84718|
+-46.5376|-71.7293|Chile Chico|Aisén del General Carlos Ibañez del Campo|2500|
+-36.6066|-72.1034|Chillán|Ñuble|150396|
+-36.6229|-72.1317|Chillán Viejo|Ñuble|28735|
+-34.7125|-71.0434|Chimbarongo|Libertador General Bernardo O'Higgins|33446|
+-38.6000|-72.8500|Cholchol|La Araucanía|3908|
+-42.6239|-73.7750|Chonchi|Los Lagos|12959|
+-44.7275|-72.6805|Cisnes|Aisén del General Carlos Ibañez del Campo|0|
+-36.1333|-72.7833|Cobquecura|Ñuble|5043|
+-41.5000|-72.3167|Cochamó|Los Lagos|3908|
+-47.2539|-72.5732|Cochrane|Aisén del General Carlos Ibañez del Campo|2867|
+-34.0333|-70.6667|Codegua|Libertador General Bernardo O'Higgins|7290|
+-36.4833|-72.7000|Coelemu|Ñuble|15711|
+-36.6279|-71.8307|Coihueco|Ñuble|25159|
+-34.2667|-70.9667|Coínco|Libertador General Bernardo O'Higgins|0|
+-35.6949|-71.4057|Colbún|Maule|17619|
+-19.2754|-68.6396|Colchane|Tarapacá|1728|
+-33.2000|-70.6833|Colina|Región Metropolitana de Santiago|146207|
+-37.9545|-72.4344|Collipulli|La Araucanía|23321|
+-34.3000|-71.1000|Coltauco|Libertador General Bernardo O'Higgins|5755|
+-31.1667|-71.0500|Combarbalá|Coquimbo|13605|
+-36.8270|-73.0498|Concepción|Biobío|223574|
+-32.9167|-71.5167|Concón|Valparaíso|42152|
+-35.3332|-72.4116|Constitución|Maule|41207|
+-38.0000|-73.2333|Contulmo|Biobío|5838|
+-27.3665|-70.3323|Copiapó|Atacama|129280|
+-29.9533|-71.3395|Coquimbo|Coquimbo|161317|
+-37.0339|-73.1402|Coronel|Biobío|107759|
+-39.8873|-73.4310|Corral|Los Ríos|5084|
+-45.5752|-72.0662|Coyhaique|Aisén del General Carlos Ibañez del Campo|45787|
+-38.9167|-72.0333|Cunco|La Araucanía|15628|
+-38.4405|-71.9054|Curacautín|La Araucanía|12837|
+-33.3976|-71.1271|Curacaví|Santiago Metropolitan|18378|
+-42.4397|-73.6029|Curaco de Vélez|Los Lagos|0|
+-37.4779|-73.3449|Curanilahue|Biobío|32000|
+-39.3500|-71.5833|Curarrehue|La Araucanía|6624|
+-35.0833|-72.0167|Curepto|Maule|0|
+-34.9828|-71.2394|Curicó|Maule|102438|
+-42.3785|-73.6501|Dalcahue|Los Lagos|13076|
+-26.3667|-70.0500|Diego de Almagro|Atacama|13925|
+-34.2333|-70.9667|Doñihue|Libertador General Bernardo O'Higgins|7525|
+-36.9000|-72.0333|El Carmen|Ñuble|12277|
+-33.6797|-70.9848|El Monte|Santiago Metropolitan|26459|
+-33.4000|-71.7000|El Quisco|Valparaíso|16967|
+-33.4500|-71.6667|El Tabo|Valparaíso|9133|
+-35.6000|-72.2833|Empedrado|Maule|4253|
+-38.0500|-72.3833|Ercilla|La Araucanía|8466|
+-36.8167|-72.6667|Florida|Biobío|8916|
+-38.9525|-72.6265|Freire|La Araucanía|22390|
+-28.5000|-71.0667|Freirina|Atacama|6038|
+-41.1536|-73.4210|Fresia|Los Lagos|11366|
+-41.0872|-73.0956|Frutillar|Los Lagos|15034|
+-43.1849|-71.8672|Futaleufú|Los Lagos|2297|
+-40.1333|-72.4000|Futrono|Los Ríos|13736|
+-38.4000|-72.7833|Galvarino|La Araucanía|12469|
+-17.5667|-69.5000|General Lagos|Arica y Parinacota|684|
+-39.1000|-72.6833|Gorbea|La Araucanía|14414|
+-34.0686|-70.7275|Graneros|Libertador General Bernardo O'Higgins|23301|
+-43.8833|-73.7333|Guaitecas|Aisén del General Carlos Ibañez del Campo|0|
+-32.8000|-71.1667|Hijuelas|Valparaíso|10005|
+-42.0167|-72.6833|Hualaihué|Los Lagos|0|
+-34.9765|-71.8048|Hualañé|Maule|5594|
+-36.7833|-73.0833|Hualpén|Biobío|86639|
+-36.9727|-72.9356|Hualqui|Biobío|24333|
+-19.9667|-69.7667|Huara|Tarapacá|2858|
+-28.4500|-71.2167|Huasco|Atacama|8977|
+-31.6335|-71.1697|Illapel|Coquimbo|22816|
+-20.2133|-70.1503|Iquique|Tarapacá|199587|
+-27.1105|-109.2975|Isla de Pascua|Valparaíso|0|
+-30.0256|-82.0519|Juan Fernández|Valparaíso|0|
+-38.7652|-72.7530|Labranza|Araucania|35893|
+-32.7833|-71.2167|La Calera|Valparaíso|50221|Hacienda La Calera
+-32.8167|-71.2333|La Cruz|Valparaíso|17310|
+-34.2000|-71.6667|La Estrella|Libertador General Bernardo O'Higgins|0|
+-40.3167|-72.5000|Lago Ranco|Los Ríos|1984|
+-44.2403|-71.8495|Lago Verde|Aisén del General Carlos Ibañez del Campo|869|
+-52.2500|-71.9167|Laguna Blanca|Magallanes y de la Antártica Chilena|0|
+-29.5000|-71.2667|La Higuera|Coquimbo|4285|
+-37.2841|-72.7111|Laja|Biobío|11113|
+-32.4524|-71.2311|La Ligua|Valparaíso|32131|
+-33.2863|-70.8756|Lampa|Santiago Metropolitan|102234|
+-39.4525|-72.7712|Lanco|Los Ríos|7550|
+-33.5833|-70.6342|La Pintana|Santiago Metropolitan|201178|
+-39.8087|-73.2182|Las Animas|Los Ríos Region|30000|
+-34.3000|-71.3167|Las Cabras|Libertador General Bernardo O'Higgins|8374|
+-29.9045|-71.2489|La Serena|Coquimbo|154521|
+-40.2931|-73.0817|La Unión|Los Ríos|26298|
+-38.5307|-72.4365|Lautaro|La Araucanía|34268|
+-37.6082|-73.6536|Lebu|Biobío|22345|
+-34.9833|-72.0000|Licantén|Maule|0|
+-33.0167|-71.2667|Limache|Valparaíso|46121|
+-35.8467|-71.5931|Linares|Maule|69535|
+-34.1167|-71.7333|Litueche|Libertador General Bernardo O'Higgins|0|
+-32.8404|-70.9562|Llaillay|Valparaíso|22659|
+-41.3428|-72.6580|Llanquihue|Los Lagos|0|
+-41.2560|-73.0065|Llanquihue|Los Lagos Region|16249|
+-34.7286|-71.6447|Lolol|Libertador General Bernardo O'Higgins|2419|
+-39.3671|-72.6309|Loncoche|La Araucanía|21458|
+-35.9650|-71.6836|Longaví|Maule|28499|
+-38.4333|-71.2333|Lonquimay|La Araucanía|3677|
+-33.4443|-70.7255|Lo Prado|Santiago Metropolitan|104316|
+-37.6167|-73.4667|Los Álamos|Biobío|19494|
+-32.8337|-70.5983|Los Andes|Valparaíso|63009|
+-37.4697|-72.3537|Los Ángeles|Biobío|125430|
+-39.8500|-72.8333|Los Lagos|Los Ríos|9277|
+-41.4000|-73.4833|Los Muermos|Los Lagos|7876|
+-37.9667|-72.8333|Los Sauces|La Araucanía|7169|
+-31.9000|-71.5167|Los Vilos|Coquimbo|18275|
+-37.0899|-73.1577|Lota|Biobío|47339|
+-38.1500|-72.9167|Lumaco|La Araucanía|11405|
+-34.1808|-70.6493|Machalí|Libertador General Bernardo O'Higgins|42572|
+-39.6500|-72.9500|Máfil|Los Ríos|0|
+-33.5142|-70.7651|Maipú|Santiago Metropolitan|503635|
+-34.4500|-70.9500|Malloa|Libertador General Bernardo O'Higgins|0|
+-34.4000|-71.6333|Marchigüe|Libertador General Bernardo O'Higgins|0|
+-22.3500|-69.6667|María Elena|Antofagasta|7530|
+-39.5167|-72.9667|Mariquina|Los Ríos|0|
+-35.5333|-71.7000|Maule|Maule|7366|
+-41.6167|-73.6000|Maullín|Los Lagos|15580|
+-23.1000|-70.4500|Mejillones|Antofagasta|14084|
+-38.8500|-71.7000|Melipeuco|La Araucanía|2733|
+-33.6891|-71.2153|Melipilla|Región Metropolitana de Santiago|63100|
+-35.1143|-71.2823|Molina|Maule|40329|
+-30.6950|-70.9577|Monte Patria|Coquimbo|13945|
+-33.9833|-70.7000|Mostazal|Libertador General Bernardo O'Higgins|0|
+-37.7189|-72.2410|Mulchén|Biobío|27557|
+-37.5025|-72.6731|Nacimiento|Biobío|26523|
+-34.6667|-71.2167|Nancagua|Libertador General Bernardo O'Higgins|9007|
+-51.7333|-72.5167|Natales|Magallanes y de la Antártica Chilena|0|
+-33.9333|-71.8333|Navidad|Libertador General Bernardo O'Higgins|0|
+-37.5833|-72.5167|Negrete|Biobío|9394|
+-36.4000|-72.4000|Ninhue|Ñuble|5268|
+-36.3000|-71.9000|Ñiquén|Ñuble|0|
+-32.7167|-71.2333|Nogales|Valparaíso|8547|
+-38.7445|-72.9502|Nueva Imperial|La Araucanía|29366|
+-33.4474|-70.5828|Ñuñoa|Santiago Metropolitan|255823|
+-48.4667|-72.5667|O'Higgins|Aisén del General Carlos Ibañez del Campo|0|
+-34.2116|-70.8201|Olivar|Libertador General Bernardo O'Higgins|2646|
+-21.2250|-68.2535|Ollagüe|Antofagasta|0|
+-33.0000|-71.2000|Olmué|Valparaíso|12499|
+-40.5740|-73.1335|Osorno|Los Lagos|135773|
+-30.6011|-71.1990|Ovalle|Coquimbo|77138|
+-33.5684|-70.8058|Padre Hurtado|Santiago Metropolitan|63250|
+-38.7667|-72.6000|Padre Las Casas|La Araucanía|72892|
+-30.0288|-70.5171|Paihuano|Coquimbo|0|
+-40.0706|-72.8727|Paillaco|Los Ríos|19088|
+-33.8080|-70.7411|Paine|Santiago Metropolitan|72759|
+-43.6188|-71.8043|Palena|Los Lagos|1773|
+-34.6000|-71.3667|Palmilla|Libertador General Bernardo O'Higgins|2268|
+-39.6435|-72.3327|Panguipulli|Los Ríos|32525|
+-32.8000|-70.8333|Panquehue|Valparaíso|6837|
+-32.5167|-71.4500|Papudo|Valparaíso|4015|
+-34.7833|-71.1667|Paredones|Libertador General Bernardo O'Higgins|0|
+-36.1431|-71.8260|Parral|Maule|26904|
+-35.3833|-71.4500|Pelarco|Maule|7632|
+-35.8333|-72.6333|Pelluhue|Maule|0|
+-36.9667|-72.1000|Pemuco|Ñuble|8300|
+-33.6063|-70.8765|Peñaflor|Santiago Metropolitan|85671|
+-33.4684|-70.5341|Peñalolén|Santiago Metropolitan|241599|
+-35.4000|-71.8167|Pencahue|Maule|7924|
+-36.7407|-72.9953|Penco|Biobío|46091|
+-34.4833|-71.4833|Peralillo|Libertador General Bernardo O'Higgins|5024|
+-38.4167|-72.3833|Perquenco|La Araucanía|3654|
+-32.2500|-70.9333|Petorca|Valparaíso|2548|
+-34.4000|-71.1667|Peumo|Libertador General Bernardo O'Higgins|8667|
+-20.5000|-69.3333|Pica|Tarapacá|9296|
+-34.3500|-71.3000|Pichidegua|Libertador General Bernardo O'Higgins|5227|
+-34.3833|-72.0000|Pichilemu|Libertador General Bernardo O'Higgins|13916|
+-36.7000|-71.9000|Pinto|Ñuble|10673|
+-38.9864|-72.6372|Pitrufquén|La Araucanía|21981|
+-34.6333|-71.1167|Placilla|Libertador General Bernardo O'Higgins|0|
+-33.1144|-71.5681|Placilla|Valparaiso|39344|
+-36.5333|-72.4333|Portezuelo|Ñuble|0|
+-53.3000|-70.3667|Porvenir|Magallanes y de la Antártica Chilena|6809|
+-20.2597|-69.7862|Pozo Almonte|Tarapacá|16878|
+-52.7167|-69.2500|Primavera|Magallanes y de la Antártica Chilena|0|
+-32.7257|-71.4151|Puchuncaví|Valparaíso|5353|
+-39.2822|-71.9543|Pucón|La Araucanía|26953|
+-33.6117|-70.5758|Puente Alto|Región Metropolitana de Santiago|568106|
+-41.4693|-72.9424|Puerto Montt|Los Lagos|245902|
+-51.7299|-72.5060|Puerto Natales|Region of Magallanes|18505|
+-40.9667|-72.9000|Puerto Octay|Los Lagos|0|
+-41.3195|-72.9854|Puerto Varas|Los Lagos|37561|
+-34.6000|-71.6667|Pumanque|Libertador General Bernardo O'Higgins|0|
+-30.9000|-71.2667|Punitaqui|Coquimbo|10418|
+-53.1627|-70.9081|Punta Arenas|Magallanes y de la Antártica Chilena|117430|
+-42.6000|-73.6746|Puqueldón|Los Lagos|0|
+-38.0167|-73.0833|Purén|La Araucanía|11815|
+-40.9130|-73.1591|Purranque|Los Lagos|20705|
+-32.6333|-70.7333|Putaendo|Valparaíso|15361|
+-18.1964|-69.5592|Putre|Arica y Parinacota|2765|
+-40.7097|-72.6419|Puyehue|Los Lagos|3932|
+-42.8557|-73.5644|Queilén|Los Lagos|0|
+-43.1182|-73.6166|Quellón|Los Lagos|21823|
+-42.1333|-73.5167|Quemchi|Los Lagos|0|
+-37.6844|-72.0064|Quilaco|Biobío|3850|
+-33.3680|-70.7139|Quilicura|Santiago Metropolitan|210410|
+-37.4667|-71.9667|Quilleco|Biobío|2043|
+-36.7333|-72.4667|Quillón|Ñuble|17485|
+-32.8834|-71.2488|Quillota|Valparaíso|67779|
+-33.0475|-71.4425|Quilpué|Valparaíso|130263|
+-42.5333|-73.4167|Quinchao|Los Lagos|0|
+-34.3555|-70.9653|Quinta de Tilcoco|Libertador General Bernardo O'Higgins|7626|
+-32.7833|-71.5333|Quintero|Valparaíso|22174|
+-36.2800|-72.5412|Quirihue|Ñuble|8000|
+-34.1708|-70.7444|Rancagua|Libertador General Bernardo O'Higgins|212695|
+-36.6500|-72.5500|Ránquil|Ñuble|0|
+-34.9255|-71.3172|Rauco|Maule|9543|
+-37.7178|-72.5757|Renaico|La Araucanía|6576|
+-33.4019|-70.7062|Renca|Santiago Metropolitan|147151|
+-34.4064|-70.8583|Rengo|Libertador General Bernardo O'Higgins|38100|
+-34.2833|-70.8333|Requínoa|Libertador General Bernardo O'Higgins|11452|
+-36.0500|-71.7667|Retiro|Maule|5670|
+-32.8333|-70.7000|Rinconada|Valparaíso|0|
+-40.3349|-72.9556|Río Bueno|Los Ríos|31366|
+-35.2833|-71.2667|Río Claro|Maule|0|
+-30.2667|-70.7000|Río Hurtado|Coquimbo|0|
+-46.3000|-71.9333|Río Ibáñez|Aisén del General Carlos Ibañez del Campo|0|
+-40.7961|-73.2161|Río Negro|Los Lagos|3779|
+-52.6500|-71.4833|Río Verde|Magallanes y de la Antártica Chilena|0|
+-34.9667|-71.1333|Romeral|Maule|8295|
+-38.7833|-73.4000|Saavedra|La Araucanía|11384|
+-35.0000|-71.3833|Sagrada Familia|Maule|17569|
+-31.7792|-70.9639|Salamanca|Coquimbo|13265|
+-33.5947|-71.6075|San Antonio|Valparaíso|87675|
+-33.5922|-70.6996|San Bernardo|Región Metropolitana de Santiago|249858|
+-36.4248|-71.9580|San Carlos|Ñuble|31517|
+-35.5378|-71.4870|San Clemente|Maule|39538|
+-32.8000|-70.5833|San Esteban|Valparaíso|17090|
+-36.5500|-71.5500|San Fabián|Ñuble|0|
+-32.7498|-70.7258|San Felipe|Valparaíso|59294|
+-34.7433|-70.6033|San Fernando|Libertador General Bernardo O'Higgins|0|
+-52.3167|-69.6833|San Gregorio|Magallanes y de la Antártica Chilena|0|
+-36.8000|-72.0421|San Ignacio|Ñuble|2990|
+-35.5952|-71.7292|San Javier|Maule|40189|
+-40.5167|-73.4000|San Juan de la Costa|Los Lagos|0|
+-36.5000|-72.2167|San Nicolás|Ñuble|2722|
+-40.4000|-73.0167|San Pablo|Los Lagos|5279|
+-22.9111|-68.2011|San Pedro de Atacama|Antofagasta|10960|
+-36.8408|-73.1031|San Pedro de la Paz|Biobío|121631|
+-35.3167|-71.5333|San Rafael|Maule|7964|
+-37.2667|-72.7167|San Rosendo|Biobío|0|
+-37.6667|-72.0167|Santa Bárbara|Biobío|13405|
+-34.6388|-71.3658|Santa Cruz|Libertador General Bernardo O'Higgins|34914|
+-37.1667|-72.9333|Santa Juana|Biobío|13228|
+-32.7500|-70.6667|Santa María|Valparaíso|7603|
+-33.4569|-70.6483|Santiago|Región Metropolitana de Santiago|4837295|
+-33.6472|-71.6353|Santo Domingo|Valparaíso|6696|
+-34.4386|-71.0775|San Vicente|Libertador General Bernardo O'Higgins|44046|San Vicente de Tagua Tagua
+-22.8833|-69.3167|Sierra Gorda|Antofagasta|1069|
+-33.6639|-70.9273|Talagante|Región Metropolitana de Santiago|57323|
+-35.4264|-71.6554|Talca|Maule|197479|
+-36.7249|-73.1168|Talcahuano|Biobío|150499|
+-25.4071|-70.4855|Taltal|Antofagasta|11132|
+-38.7396|-72.5984|Temuco|La Araucanía|238129|
+-34.8706|-71.1622|Teno|Maule|6858|
+-38.9667|-73.0500|Teodoro Schmidt|La Araucanía|15504|
+-27.4667|-70.2667|Tierra Amarilla|Atacama|12898|
+-53.6667|-69.9000|Timaukel|Magallanes y de la Antártica Chilena|0|
+-38.3333|-73.5000|Tirúa|Biobío|2404|
+-22.0920|-70.1979|Tocopilla|Antofagasta|25400|
+-39.1785|-73.1645|Toltén|La Araucanía|0|
+-36.6176|-72.9559|Tomé|Biobío|53219|
+-51.2667|-72.3500|Torres del Paine|Magallanes y de la Antártica Chilena|0|
+-47.8333|-73.5667|Tortel|Aisén del General Carlos Ibañez del Campo|0|
+-38.2496|-72.6703|Traiguén|La Araucanía|17164|
+-36.4333|-72.6667|Treguaco|Ñuble|0|
+-37.2833|-71.9500|Tucapel|Biobío|13427|
+-39.8142|-73.2459|Valdivia|Los Ríos|133419|
+-28.5762|-70.7594|Vallenar|Atacama|44895|
+-33.0360|-71.6296|Valparaíso|Valparaíso|282448|
+-34.8833|-72.0000|Vichuquén|Maule|0|
+-38.2329|-72.3329|Victoria|La Araucanía|32448|
+-30.0354|-70.7127|Vicuña|Coquimbo|27771|
+-38.6688|-72.2257|Vilcún|La Araucanía|22499|
+-35.6667|-71.7500|Villa Alegre|Maule|14695|
+-33.0422|-71.3733|Villa Alemana|Valparaíso|97320|
+-37.4042|-71.9795|Villa Mercedes|Biobio|131936|
+-33.4607|-70.5802|Villa Presidente Frei|Santiago Metropolitan|15000|
+-39.2857|-72.2279|Villarrica|La Araucanía|49184|
+-33.0246|-71.5518|Viña del Mar|Valparaíso|334248|
+-35.7500|-71.5833|Yerbas Buenas|Maule|3169|
+-37.0982|-72.5608|Yumbel|Biobío|11111|
+-37.1167|-72.0167|Yungay|Ñuble|11177|
+-32.5539|-71.4577|Zapallar|Valparaíso|0|

@@ -29,7 +29,7 @@ Proje, Sorumlulukların Ayrılması (Separation of Concerns) prensibine uygun ol
 * 📂 **`lib/data/` (Repository Katmanı):** Ayetler, Hadisler, Özel Günler veri havuzu (`veri_havuzu.dart`) ve ülke/şehir verisinin yüklenmesi (`ulke_verisi.dart`).
 * 📂 **`lib/utils/` (Business Logic):** Matematiksel kıble hesaplamaları gibi arayüzden bağımsız çalışan yardımcı algoritmalar.
 * 📄 **`lib/main.dart` (Entry Point):** Bağımlılıkları başlatan, temayı ayarlayan, seçili ülke/şehir durumunu yöneten ana iskelet.
-* 🔧 **`tool/` (Veri Üretimi):** Ülke/şehir veri dosyalarını üreten `veri_uretici.dart` ve çeviri anahtarı güncelleyici `cevirileri_guncelle.dart`.
+* 🔧 **`tool/` (Veri Üretimi):** Ülke/şehir veri dosyalarını üreten `sehir_verisi_uret.dart`, veri bütünlüğünü denetleyen `sehir_butunluk_denetim.dart` ve çeviri anahtarı güncelleyici `cevirileri_guncelle.dart`.
 
 ## 🗺️ Ülke ve Şehir Verisi
 
@@ -61,49 +61,127 @@ Kullanıcı **Ayarlar → Hesaplama Yöntemi** ekranından 24 resmi yöntem aras
 | | |
 | :--- | :--- |
 | **Kapsam** | Avrupa (53), Amerika (56), Asya (50), Afrika (60), Okyanusya (26) → **245 ülke** |
-| **Şehir sayısı** | **148.967** |
-| **Kaynak** | [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) (ODbL-1.0) + [GeoNames cities15000](https://www.geonames.org/webservices/) (CC BY 4.0) |
-| **Üretim** | `tool/veri_uretici.dart` → `tool/sehir_birlestir.dart` → `tool/mukerrer_birlestir.dart` |
+| **Kayıt sayısı** | **160.869** = 34.229 şehir + 126.640 köy |
+| **Kaynak** | [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) (ODbL-1.0) + [GeoNames](https://www.geonames.org/webservices/) cities500/1000/5000/15000 ve admin1CodesASCII (CC BY 4.0) |
+| **Üretim** | `dart run tool/sehir_verisi_uret.dart` |
 
-**Dosya düzeni:** `assets/veri/ulkeler.json` (ülke listesi, 65 KB) uygulama açılışında yüklenir. Şehirler ülke başına ayrı dosyalarda tutulur (`assets/veri/sehirler/TR.txt`) ve **yalnızca seçilen ülke açıldığında** okunup önbelleğe alınır. En kalabalık ülke dosyası (ABD, 12.167 şehir) 337 KB'dir; uygulama açılışında 3.8 MB'lık şehir verisinin tamamı yüklenmez.
+**Dosya düzeni:** `assets/veri/ulkeler.json` (ülke listesi, 65 KB) uygulama açılışında yüklenir. Şehirler ülke başına ayrı dosyalarda tutulur (`assets/veri/sehirler/TR.txt`) ve **yalnızca seçilen ülke açıldığında** okunup önbelleğe alınır. En kalabalık ülke dosyası (ABD, 16.867 kayıt) 717 KB'dır; uygulama açılışında 4.5 MB'lık şehir verisinin tamamı yüklenmez.
 
 **Kapsam dışı bırakılanlar:** Kutup bölgeleri (Polar) ve şehir/koordinat verisi bulunmayan iki yerleşim — `United States Minor Outlying Islands` (kalıcı nüfusu yok) ve `Tokelau`.
 
 ### 🗃️ Şehir verisi nasıl üretiliyor
 
-Ana veri kaynağı (dr5hn) ilçe ve köy düzeyine odaklanır. Türkiye için 905
-kayıt içerir ama bunların içinde Bursa, Konya, Gaziantep, Kahramanmaraş,
-Diyarbakır gibi 13 büyük il **yoktur** — kullanıcı "Kahramanmaraş" aradığında
-sonuç çıkmaz. ABD'de düz "New York" kaydı da yoktur (yalnızca "New York City").
+**160.869 kayıt**, 245 ülke, 34.229 şehir + 126.640 köy.
 
-Bu nedenle veri üç aşamadan geçer:
+#### Neden iki sekme?
 
-| Aşama | Araç | Ne yapar |
+Veri tabanı ilçe ve köy düzeyini de içerir. Türkiye için 1.049 kayıt var ama
+bunların 615'i nüfusu 15.000'in altında küçük yerleşimler. Bunlar alfabetik
+sırayla listelenirse kullanıcı ilk ekranda **"Abana, Acıgül, Adaklı"** görür,
+Adana ancak 6. sırada olur. Bu yüzden seçici iki sekmelidir:
+
+| Sekme | İçerik | Sıralama |
 | :--- | :--- | :--- |
-| 1 | `tool/veri_uretici.dart` | dr5hn verisinden 245 ülke ve şehir dosyalarını üretir |
-| 2 | `tool/sehir_birlestir.dart` | GeoNames cities15000'ı (nüfus ≥ 15.000) **birleştirir**: küçük yerleşimler korunur, büyük şehirler eklenir. Türkiye için resmî 81 il kanonik yazımla garanti edilir |
-| 3 | `tool/mukerrer_birlestir.dart` | Aynı koordinatı taşıyan mükerrer kayıtları birleştirir; büyük şehirlerde yerel adı ana ad, uluslararası adı takma ad yapar |
+| **Şehirler** | nüfusu ≥ 15.000 | büyükten küçüğe |
+| **Köyler** | nüfusu < 15.000 (veya bilinmeyen) | alfabetik |
 
-**Mükerrer kayıtlar:** İki kaynak aynı şehri farklı yazımlarla saklıyor.
-BAE'de "Adh Dhayd"/"Al Dhaid", Almanya'da "Nürnberg"/"Nuremberg", Belarus'ta
-"Polotsk"/"Polatsk" gibi **1.342** çift bulundu; hepsi aynı koordinatı
-taşıyordu ve tek satıra birleştirildi.
+Arama yazıldığında sekmeler gizlenir ve tüm kayıtlar taranır — kullanıcı ne
+aradığını bilmiyor olabilir.
 
-**Takma adlar:** Kayıt biçimi `enlem|boylam|ad|takma1,takma2` şeklindedir.
-Alman kullanıcı "München", İngiliz kullanıcı "Munich" yazdığında aynı kayıt
-bulunur ve listede mükerrer görünmez. Türkiye'de de `İzmit|Kocaeli`,
-`Adapazarı|Sakarya`, `Antakya|Hatay` biçimindedir.
+#### Aynı adlı yerler nasıl ayırt ediliyor?
 
-**Arama:** `UlkeVerisi.normalize` Türkçe karakterleri, şapkalı ve aksanlı
-harfleri indirger (`ş→s`, `ı→i`, `â→a`, `é→e` …). Kullanıcı "Hakkari"
-yazınca "Hakkâri", "suleyman" yazınca "Süleyman" bulunur. Sıralama da aynı
-anahtarla yapılır; bu sayede Türkçe alfabeye uygun sıra gelir
-("Afşin", "Afyonkarahisar" öncesinde).
+Türkiye'de iki "Gölbaşı" vardır ve bu bir belirsizlik yaratır:
 
-**Koruma:** `test/sehir_kapsam_test.dart` 81 ilin tamamının, öndeki büyük
-şehirlerin, mükerrer ad veya koordinat olmadığının ve takma adların
-çalıştığının doğrulamasını yapar. Veri kaynağı yenilenirse aynı kayıp
-sessizce tekrarlanamaz.
+```
+39.7904|32.8090|Gölbaşı|Ankara|165201|          →  Ankara / Gölbaşı
+37.7836|37.6367|Gölbaşı|Adıyaman|28078|         →  Adıyaman / Gölbaşı
+```
+
+Her kayıt **il bilgisini** taşıdığı için liste "Kahramanmaraş / Dulkadiroğlu"
+gibi etiketlenir ve kullanıcı hangisini seçtiğini anlar. Aynı mekanizma
+ABD'de "Texas / Dallas" ile "Oregon / Dallas"ı ayırır.
+
+Bu ayrım veri katmanında şart: ayırt edici anahtar **(ad, il)** çiftidir.
+Daha önce anahtar yalnızca **ad** idi ve aynı adlı ikinci yer sessizce
+atlanıyordu — ölçülen kayıp **1.271 yer** (nüfus ≥ 15.000), bunların
+1.105'i için listedeki aynı adlı kayıt **300 km'den uzaktaydı**. Yani
+kullanıcı "Dallas" yazınca vakitleri 1.118 km öteden alıyordu.
+
+#### Kayıt biçimi
+
+```
+enlem|boylam|ad|il|nüfus|takma1,takma2
+```
+
+Altıncı alan, aramada da eşleşmesi istenen alternatif adlardır. İki veri
+kaynağı aynı şehri farklı yazımlarla saklar; tek satırda birleştirilir:
+
+```
+48.1374|11.5755|München|München|1488000|Munich
+45.0705|7.6868|Torino|Turin|847287|Turin
+38.6120|27.4265|Manisa|Manisa|440336|
+```
+
+Alman kullanıcı "München", İngiliz kullanıcı "Munich" yazar; ikisi de aynı
+kaydı bulur, listede mükerrer görünmez.
+
+#### Üretim
+
+Tek araç: `dart run tool/sehir_verisi_uret.dart`
+
+| Kaynak | Katkısı | Lisans |
+| :--- | :--- | :--- |
+| dr5hn/countries-states-cities-database | her yerleşimin **ili** (`states[].cities[]`) | ODbL-1.0 |
+| GeoNames `cities500` + `1000` + `5000` + `15000` | **nüfus** (merdiven; 500'den küçük olmayan her yerleşim) | CC BY 4.0 |
+| GeoNames `admin1CodesASCII.txt` | GeoNames il kodunun **yerel dilde il adına** çevrilmesi | CC BY 4.0 |
+
+Adım adım:
+
+1. **dr5hn tabanı** — 152.970 yerleşim, il bilgisiyle.
+2. **Nüfus zenginleştirme** — *yalnızca isim eşleşmesiyle*. Nüfus bir yere
+   aittir; yakınlıkla eşleştirmek yanlıştır (önceki sürümde Kahramanmaraş'ın
+   nüfusu 700 m ötedeki Dulkadiroğlu'na yazılıyordu).
+3. **Önemli GeoNames şehirlerini ekle** — aynı ad varsa **yakınlık belirleyici**:
+   25 km içindeyse aynı şehir (nüfus tamamlanır, diğer ad takma ad olur),
+   dışındaysa **farklı bir yerdir** ve eklenir.
+4. **Türkiye** — resmî 81 il kanonik yazımla, ASCII formlar (`Diyarbakir`,
+   `Agri`, `Sanliurfa`) resmî yazıma çevrilir.
+5. **Yerel ad** — büyük şehirlerde yerel ad ana ad, uluslararası ad takma ad
+   (`Wien|Vienna`, `Makkah|Mecca`).
+6. **Çakışma temizliği** — takma ad, başka bir kaydın ana adıyla çakışmaz.
+
+#### Arama sıralaması
+
+Sonuçlar ham dosya sırasında değil **alakalılığa göre** sıralanır:
+
+| Puan | Eşleşme | Örnek |
+| ---: | :--- | :--- |
+| 0 | ad tam eşleşme | "Kahramanmaraş" → Kahramanmaraş |
+| 1 | takma ad tam eşleşme | "Munich" → München |
+| 2 | ad ile başlıyor | "Kahr" → Kahramanmaraş |
+| 3 | il tam eşleşme | "Kocaeli" → İzmit |
+| 4 | il ile başlıyor | |
+| 5 | herhangi bir yerde geçiyor | |
+
+Aynı puan içinde **büyük şehir önce** gelir. Bu şart: "New York" yazan
+kullanıcı, New York eyaletinin yüzlerce köyüyle sonuç sınırına takılıp
+New York City'yi hiç görmüyordu.
+
+#### Koruma
+
+`test/sehir_kapsam_test.dart` (143 test) şunları doğrular: 81 ilin tamamı,
+öndeki büyük şehirler, **aynı (ad, il) ve aynı koordinat mükerreri yok**,
+takma ad çakışmaları yok, Gölbaşı/Dallas/Ereğli ayrımı çalışıyor, arama
+sıralaması gerçek şehri kesmiyor, 25 dilde sekme başlıkları çevrili.
+`tool/sehir_butunluk_denetim.dart` ise 245 dosyanın tamamını bağımsız
+denetler.
+
+#### Bilinen sınır
+
+16 mikro-bölge (Anguilla, Vatikan, Cocos, Pitcairn…) listede **0 şehir**
+gösterir: kaynak veride yerleşim kaydı yoktur ve nüfusları 15.000 eşiğinin
+altındadır (Anguilla'nın nüfusu 13.254'tür, tüm ada). Bu durumda seçici
+"şehir verisi yok" der.
 
 ## 📦 Kullanılan Temel Paketler
 
@@ -136,9 +214,14 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 
 4. Ülke/şehir verisini yeniden üretmek isterseniz (isteğe bağlı — veriler depoda gelir):
    ```bash
-   # Kaynak: https://github.com/dr5hn/countries-states-cities-database
-   #         -> json/countries+states+cities.json dosyasını indirin
-   dart run tool/veri_uretici.dart /path/to/countries+states+cities.json
+   # Kaynak dosyalar (üçü de geçici klasöre indirilir):
+   #   dr5hn/countries-states-cities-database -> json/countries+states+cities.json
+   #   GeoNames -> cities500.zip, cities1000.zip, cities5000.zip,
+   #               cities15000.zip, admin1CodesASCII.txt
+   dart run tool/sehir_verisi_uret.dart
+
+   # Üretilen verinin bütünlüğünü denetlemek için:
+   dart run tool/sehir_butunluk_denetim.dart
 
    # Yeni arayüz metinlerini çeviri dosyalarına eklemek için:
    dart run tool/cevirileri_guncelle.dart

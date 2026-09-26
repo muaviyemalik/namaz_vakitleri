@@ -1,195 +1,196 @@
-41.9191|21.4798|Batinci
-42.1417|21.6964|Bedinje
-41.3028|20.8303|Belčišta
-41.1597|21.3596|Beranci
-41.7031|22.8578|Berovo
-40.9789|21.3658|Bistrica
-41.0314|21.3347|Bitola
-41.8367|22.5791|Blatec
-41.2031|22.5756|Bogdanci
-41.5931|21.4717|Bogomila
-41.9236|20.9136|Bogovinje
-42.0001|21.1927|Bojane
-41.4406|22.7278|Bosilovo
-41.9672|20.9808|Brvenica
-41.2738|21.3169|Bučin
-41.9683|21.2369|Bukovik
-42.0308|21.4467|Butel
-42.0153|21.4411|Čair
-41.0566|21.1788|Capari
-41.6506|21.6622|Čaška
-41.8389|20.9758|Cegrane
-41.9317|21.0133|Čelopek
-41.4785|20.5594|Centar Župa
-41.8715|22.2896|Češinovo
-42.0508|21.5097|Cresevo
-41.5303|21.4142|Crnilište
-41.5229|20.5220|Debar
-41.9672|22.7694|Delcevo
-41.2573|20.7218|Delogožda
-41.2210|21.2030|Demir Hisar
-41.4061|22.2463|Demir Kapija
-41.4628|21.4911|Desovo
-41.9553|21.0888|Dobarce
-41.8652|20.8901|Dobri Dol
-42.1033|21.0778|Dobrošte
-41.1686|21.4825|Dobruševo
-41.7861|20.9061|Dolna Banjica
-41.4258|21.4540|Dolneni
-41.8864|21.4856|Dolno Količani
-41.0503|21.3794|Dolno Orizari
-41.9686|20.9290|Dolno Palčište
-41.1748|21.3646|Dolno Srpci
-41.9367|21.5217|Dračevo
-41.4849|20.9264|Drugovo
-42.0329|20.9982|Džepčište
-41.8233|20.9617|Forino
-41.1417|22.5014|Gevgelija
-42.0078|21.3531|Gjorče Petro
-41.9880|20.9452|Golema Rečica
-41.6858|21.7347|Gorno Orizari
-41.8751|21.8760|Gorobinci
-41.7960|20.9082|Gostivar
-41.8507|22.5113|Gradec
-41.5775|21.9428|Gradsko
-41.9881|21.3303|Grčec
-41.0172|21.0533|Grnčari
-41.8451|21.1054|Gurgurnica
-41.9945|21.5800|Ilinden
-41.4722|22.8048|Ilovica
-41.8489|21.8203|Ivankovci
-42.2032|21.5781|Izvor
-41.1103|21.0114|Jankovec
-42.0724|21.1237|Jegunovce
-41.9689|21.6014|Kadino
-41.9457|20.9289|Kamenjane
-41.2103|21.5033|Kanatlarci
-41.8176|22.2353|Karbinci
-41.4331|22.0119|Kavadarci
-41.5127|20.9589|Kičevo
-41.9489|21.5028|Kisela Voda
-41.9164|22.4128|Kochani
-41.4951|22.3836|Konče
-42.0117|21.3136|Kondovo
-41.1744|20.8356|Kosel
-40.9393|21.1091|Krani
-42.0784|22.1807|Kratovo
-42.2009|22.3324|Kriva Palanka
-41.3361|21.3331|Krivogashtani
-41.3689|21.2489|Krusevo
-41.9783|21.3544|Krušopek
-41.4053|22.6653|Kuklis
-41.0956|21.3245|Kukurečani
-42.1322|21.7144|Kumanovo
-41.2686|20.5961|Labunista
-41.9332|21.1263|Larce
-41.4422|21.3158|Lažani
-42.1564|21.5853|Lipkovo
-41.4614|21.0544|Lisičani
-42.0014|21.3092|Ljubin
-41.0310|21.4097|Logovardi
-42.2328|21.6655|Lojane
-41.7839|21.9056|Lozovo
-41.3534|20.6064|Lukovo
-42.0208|22.5876|Makedonska Kamenica
-41.5136|21.2153|Makedonski Brod
-41.9878|21.5915|Marino
-41.3572|21.5325|Markov Grad
-42.1256|21.5978|Matejce
-41.2381|20.7741|Mešeišta
-41.9803|21.6498|Miladinovci
-41.9075|21.0160|Miletino
-41.3092|22.4364|Miravci
-41.1850|20.7086|Mislesevo
-41.1083|21.3786|Mogila
-41.9098|21.5500|Morani
-41.4154|22.7259|Murtino
-41.4846|22.0906|Negotino
-42.1071|21.1081|Nerašte
-41.0420|21.4587|Novaci
-41.4149|22.8816|Novo Selo
-41.8833|22.3339|Oblesevo
-41.2817|21.3615|Obršani
-41.1172|20.8019|Ohrid
-41.1667|20.8333|Ohrid Opština
-41.2325|20.6072|Oktisi
-41.6258|22.5133|Oraovica
-42.0625|21.7997|Orashac
-41.9226|22.4463|Orizari
-42.1431|21.5867|Otlja
-41.7623|22.8892|Pehčevo
-41.3204|22.5305|Pirava
-41.9108|20.9106|Pirok
-41.4672|21.1231|Plasnica
-41.6139|22.5422|Podareš
-42.0291|20.9927|Poroj
-41.3451|21.5550|Prilep
-42.0031|22.1786|Probishtip
-42.0834|21.0599|Pršovce
-42.0611|21.4478|Radishani
-41.1642|20.6233|Radolista
-41.6383|22.4647|Radovis
-41.0893|21.0109|Resen
-42.0947|21.6931|Romanovci
-41.5167|21.9459|Rosoman
-41.6100|20.6000|Rostusa
-41.6873|22.8085|Rusinovo
-41.6833|21.1462|Samokov
-42.0000|21.3278|Saraj
-41.8831|21.1275|Sedlarevo
-41.4400|22.7954|Sekirnik
-42.0348|20.9403|Selce
-41.7458|22.1958|Shtip
-42.0350|20.9156|Šipkovica
-41.9965|21.4314|Skopje
-42.0678|21.0390|Slatino
-41.2333|21.1750|Slepče
-41.2959|21.1536|Sopotnica
-41.5867|21.0303|Srbica
-41.7059|20.9586|Srbinovo
-41.9574|21.7149|Sredno Konjare
-41.1865|22.7203|Star Dojran
-41.1556|22.5775|Stojakovo
-41.5405|21.0056|Strelci
-41.9672|21.0360|Strimnica
-41.1780|20.6778|Struga
-41.4375|22.6433|Strumica
-41.9221|21.5348|Studeničane|Studeničani
-41.4398|22.8368|Sušica
-42.0400|21.4250|Šuto Orizare
-41.8696|21.9527|Sveti Nikole
-42.0767|21.0531|Tearce
-42.0097|20.9716|Tetovo
-41.2277|21.4311|Topolčani
-41.6194|21.0453|Tuin
-41.9587|21.4583|Usje
-42.2061|21.6631|Vaksince
-41.3174|22.5600|Valandovo
-41.4741|22.6430|Vasilevo
-41.4169|22.0189|Vataša
-41.7156|21.7756|Veles
-41.2408|20.6439|Velesta
-41.4761|22.5675|Veljusa
-41.2406|20.5933|Vevčani
-41.8828|22.5092|Vinica
-41.7100|22.7928|Vladimirovo
-41.4450|21.0268|Vraneštica
-41.8344|20.8856|Vrapčište
-42.1433|21.1169|Vratnica
-41.7686|20.8392|Vrutok
-41.6072|20.9383|Zajas
-41.8841|21.5885|Zelenikovo
-41.9803|21.0642|Zelino
-41.4199|21.2908|Žitoše
-41.9886|22.2361|Zletovo
-41.8542|22.4444|Zrnovci
-42.0264|21.5619|Арачиново
-41.9608|21.5756|Идризово
-42.1161|21.8572|Клечовце
-41.9389|21.6150|Петровец
-42.1696|22.1162|Ранковце
-42.1733|21.6278|Слупчане
-41.9547|21.4275|Сопиште
-42.1981|21.8286|Старо Нагоричане
-42.1036|21.3822|Чучер - Сандево
-41.9672|21.5569|Јурумлери
+41.9191|21.4798|Batinci|Studeničani|3239|
+42.1417|21.6964|Bedinje|Kumanovo|2256|
+41.3028|20.8303|Belčišta|Debarca|2804|
+41.1597|21.3596|Beranci|Mogila|1264|
+41.7031|22.8578|Berovo|Berovo|13847|
+40.9789|21.3658|Bistrica|Bitola|4798|
+41.0314|21.3347|Bitola|Bitola|69287|
+41.8367|22.5791|Blatec|Vinica|2024|
+41.2031|22.5756|Bogdanci|Bogdanci|8636|
+41.5931|21.4717|Bogomila|Čaška|1223|
+41.9236|20.9136|Bogovinje|Bogovinje|15166|
+42.0001|21.1927|Bojane|Saraj|1579|
+41.4406|22.7278|Bosilovo|Bosilovo|12447|
+41.9672|20.9808|Brvenica|Brvenica|16267|
+41.2738|21.3169|Bučin|Kruševo|1243|
+41.9683|21.2369|Bukovik|Saraj|1256|
+42.0308|21.4467|Butel|Butel|36154|
+42.0153|21.4411|Čair|Čair|64773|
+41.0566|21.1788|Capari|Bitola|1311|
+41.6506|21.6622|Čaška|Čaška|2878|
+41.8389|20.9758|Cegrane|Gostivar|12523|
+41.9317|21.0133|Čelopek|Brvenica|4731|
+41.4785|20.5594|Centar Župa|Centar Župa|45412|
+41.8715|22.2896|Češinovo|Češinovo-Obleševo|2377|
+42.0508|21.5097|Cresevo|Gazi Baba|1479|
+41.5303|21.4142|Crnilište|Dolneni|1303|
+41.5229|20.5220|Debar|Debar|18074|
+41.9672|22.7694|Delcevo|Delčevo|17415|
+41.2573|20.7218|Delogožda|Struga|8413|
+41.2210|21.2030|Demir Hisar|Demir Hisar|2283|
+41.4061|22.2463|Demir Kapija|Demir Kapija|4451|
+41.4628|21.4911|Desovo|Dolneni|1317|
+41.9553|21.0888|Dobarce|Želino|1306|
+41.8652|20.8901|Dobri Dol|Vrapčište|4124|
+42.1033|21.0778|Dobrošte|Tetovo|3339|
+41.1686|21.4825|Dobruševo|Mogila|2103|
+41.7861|20.9061|Dolna Banjica|Gostivar|10147|
+41.4258|21.4540|Dolneni|Dolneni|11534|
+41.8864|21.4856|Dolno Količani|Studeničani|1276|
+41.0503|21.3794|Dolno Orizari|Bitola|1236|
+41.9686|20.9290|Dolno Palčište|Bogovinje|2414|
+41.1748|21.3646|Dolno Srpci|Mogila|1433|
+41.9367|21.5217|Dračevo|Kisela Voda|10605|
+41.4849|20.9264|Drugovo|Kičevo|3149|
+42.0329|20.9982|Džepčište|Tetovo|8166|
+41.8233|20.9617|Forino|Gostivar|3637|
+41.1417|22.5014|Gevgelija|Gevgelija|20664|
+42.0078|21.3531|Gjorče Petro|Gjorče Petrov|41000|
+41.9880|20.9452|Golema Rečica|Tetovo|3050|
+41.6858|21.7347|Gorno Orizari|Veles|1999|
+41.8751|21.8760|Gorobinci|Sveti Nikole|1061|
+41.7960|20.9082|Gostivar|Gostivar|50974|
+41.8507|22.5113|Gradec|Vinica|1244|
+41.5775|21.9428|Gradsko|Gradsko|3737|
+41.9881|21.3303|Grčec|Saraj|1315|
+41.0172|21.0533|Grnčari|Resen|1205|
+41.8451|21.1054|Gurgurnica|Brvenica|1159|
+41.9945|21.5800|Ilinden|Ilinden|16406|
+41.4722|22.8048|Ilovica|Bosilovo|2042|
+41.8489|21.8203|Ivankovci|Veles|1009|
+42.2032|21.5781|Izvor|Lipkovo|1014|
+41.1103|21.0114|Jankovec|Resen|1291|
+42.0724|21.1237|Jegunovce|Jegunovce|7313|
+41.9689|21.6014|Kadino|Ilinden|1466|
+41.9457|20.9289|Kamenjane|Bogovinje|15376|
+41.2103|21.5033|Kanatlarci|Prilep|1041|
+41.8176|22.2353|Karbinci|Karbinci|3900|
+41.4331|22.0119|Kavadarci|Kavadarci|38799|
+41.5127|20.9589|Kičevo|Kičevo|31123|
+41.9489|21.5028|Kisela Voda|Kisela Voda|58216|
+41.9164|22.4128|Kochani|Kočani|34258|
+41.4951|22.3836|Konče|Konče|3475|
+42.0117|21.3136|Kondovo|Saraj|11656|
+41.1744|20.8356|Kosel|Ohrid|1281|
+40.9393|21.1091|Krani|Resen|1087|
+42.0784|22.1807|Kratovo|Kratovo|10288|
+42.2009|22.3324|Kriva Palanka|Kriva Palanka|20820|
+41.3361|21.3331|Krivogashtani|Krivogaštani|5899|
+41.3689|21.2489|Krusevo|Kruševo|5211|
+41.9783|21.3544|Krušopek|Saraj|1277|
+41.4053|22.6653|Kuklis|Strumica|4368|
+41.0956|21.3245|Kukurečani|Bitola|2395|
+42.1322|21.7144|Kumanovo|Kumanovo|75051|
+41.2686|20.5961|Labunista|Struga|8805|
+41.9332|21.1263|Larce|Želino|1489|
+41.4422|21.3158|Lažani|Dolneni|1954|
+42.1564|21.5853|Lipkovo|Lipkovo|28102|
+41.4614|21.0544|Lisičani|Plasnica|1188|
+42.0014|21.3092|Ljubin|Saraj|1230|
+41.0310|21.4097|Logovardi|Bitola|1272|
+42.2328|21.6655|Lojane|Lipkovo|2234|
+41.7839|21.9056|Lozovo|Lozovo|2836|
+41.3534|20.6064|Lukovo|Struga|1424|
+42.0208|22.5876|Makedonska Kamenica|Makedonska Kamenica|8114|
+41.5136|21.2153|Makedonski Brod|Makedonski Brod|5607|
+41.9878|21.5915|Marino|Ilinden|2503|
+41.3572|21.5325|Markov Grad|Prilep|3175|
+42.1256|21.5978|Matejce|Lipkovo|2781|
+41.2381|20.7741|Mešeišta|Debarca|2452|
+41.9803|21.6498|Miladinovci|Ilinden|1315|
+41.9075|21.0160|Miletino|Brvenica|1820|
+41.3092|22.4364|Miravci|Gevgelija|2573|
+41.1850|20.7086|Mislesevo|Struga|1988|
+41.1083|21.3786|Mogila|Mogila|4392|
+41.9098|21.5500|Morani|Studeničani|1099|
+41.4154|22.7259|Murtino|Strumica|2202|
+41.4846|22.0906|Negotino|Negotino|19515|
+41.8779|20.8839|Negotino|Vrapchishte|17518|
+42.1071|21.1081|Nerašte|Tearce|2901|
+41.0420|21.4587|Novaci|Novaci|2357|
+41.4149|22.8816|Novo Selo|Novo Selo|11818|
+41.8833|22.3339|Oblesevo|Češinovo-Obleševo|4972|
+41.2817|21.3615|Obršani|Krivogaštani|1138|
+41.1172|20.8019|Ohrid|Ohrid|42033|
+41.1667|20.8333|Ohrid Opština|Ohrid|0|
+41.2325|20.6072|Oktisi|Struga|2692|
+41.6258|22.5133|Oraovica|Radoviš|3776|
+42.0625|21.7997|Orashac|Tearce|1179|
+41.9226|22.4463|Orizari|Kočani|4292|
+42.1431|21.5867|Otlja|Lipkovo|2326|
+41.7623|22.8892|Pehčevo|Pehčevo|2440|
+41.3204|22.5305|Pirava|Valandovo|1633|
+41.9108|20.9106|Pirok|Tetovo|3801|
+41.4672|21.1231|Plasnica|Plasnica|4574|
+41.6139|22.5422|Podareš|Radoviš|3774|
+42.0291|20.9927|Poroj|Tetovo|2370|
+41.3451|21.5550|Prilep|Prilep|73814|
+42.0031|22.1786|Probishtip|Probištip|12702|
+42.0834|21.0599|Pršovce|Tearce|1999|
+42.0611|21.4478|Radishani|Butel|9123|
+41.1642|20.6233|Radolista|Struga|2814|
+41.6383|22.4647|Radovis|Radoviš|24984|
+41.0893|21.0109|Resen|Resen|16539|
+42.0947|21.6931|Romanovci|Kumanovo|2492|
+41.5167|21.9459|Rosoman|Rosoman|4106|
+41.6100|20.6000|Rostusa|Mavrovo and Rostuša|9147|
+41.6873|22.8085|Rusinovo|Berovo|2173|
+41.6833|21.1462|Samokov|Makedonski Brod|1429|
+42.0000|21.3278|Saraj|Saraj|25379|
+41.8831|21.1275|Sedlarevo|Želino|1269|
+41.4400|22.7954|Sekirnik|Bosilovo|1222|
+42.0348|20.9403|Selce|Tetovo|1991|
+41.7458|22.1958|Shtip|Štip|48279|
+42.0350|20.9156|Šipkovica|Tetovo|8228|
+41.9965|21.4314|Skopje|Karpoš|474889|
+42.0678|21.0390|Slatino|Tearce|3422|
+41.2333|21.1750|Slepče|Demir Hisar|1031|
+41.2959|21.1536|Sopotnica|Demir Hisar|2110|
+41.5867|21.0303|Srbica|Kičevo|1533|
+41.7059|20.9586|Srbinovo|Gostivar|3629|
+41.9574|21.7149|Sredno Konjare|Petrovec|0|
+41.1865|22.7203|Star Dojran|Dojran|3348|
+41.1556|22.5775|Stojakovo|Bogdanci|2125|
+41.5405|21.0056|Strelci|Kičevo|1563|
+41.9672|21.0360|Strimnica|Želino|1831|
+41.1780|20.6778|Struga|Struga|37387|
+41.4375|22.6433|Strumica|Strumica|33825|
+41.9221|21.5348|Studeničane|Studeničani|18219|Studeničani
+41.4398|22.8368|Sušica|Novo Selo|1941|
+42.0400|21.4250|Šuto Orizare|Šuto Orizari|20800|
+41.8696|21.9527|Sveti Nikole|Sveti Nikole|13292|
+42.0767|21.0531|Tearce|Tearce|23096|
+42.0097|20.9716|Tetovo|Tetovo|63176|
+41.2277|21.4311|Topolčani|Prilep|2773|
+41.6194|21.0453|Tuin|Kičevo|1346|
+41.9587|21.4583|Usje|Aerodrom|1054|
+42.2061|21.6631|Vaksince|Lipkovo|2095|
+41.3174|22.5600|Valandovo|Valandovo|3798|
+41.4741|22.6430|Vasilevo|Vasilevo|12382|
+41.4169|22.0189|Vataša|Kavadarci|2802|
+41.7156|21.7756|Veles|Veles|57873|
+41.2408|20.6439|Velesta|Struga|8646|
+41.4761|22.5675|Veljusa|Strumica|1720|
+41.2406|20.5933|Vevčani|Vevčani|2429|
+41.8828|22.5092|Vinica|Vinica|18218|
+41.7100|22.7928|Vladimirovo|Berovo|1290|
+41.4450|21.0268|Vraneštica|Kičevo|1265|
+41.8344|20.8856|Vrapčište|Vrapčište|8652|
+42.1433|21.1169|Vratnica|Jegunovce|3678|
+41.7686|20.8392|Vrutok|Gostivar|5999|
+41.6072|20.9383|Zajas|Kičevo|12218|
+41.8841|21.5885|Zelenikovo|Zelenikovo|4020|
+41.9803|21.0642|Zelino|Želino|25422|
+41.4199|21.2908|Žitoše|Dolneni|2131|
+41.9886|22.2361|Zletovo|Probištip|3340|
+41.8542|22.4444|Zrnovci|Zrnovci|3236|
+42.0264|21.5619|Арачиново|Aračinovo|12800|
+41.9608|21.5756|Идризово|Ilinden|2292|
+42.1161|21.8572|Клечовце|Krivogaštani|0|
+41.9389|21.6150|Петровец|Petrovec|8298|
+42.1696|22.1162|Ранковце|Rankovce|0|
+42.1733|21.6278|Слупчане|Lipkovo|2658|
+41.9547|21.4275|Сопиште|Sopište|0|
+42.1981|21.8286|Старо Нагоричане|Staro Nagoričane|4112|
+42.1036|21.3822|Чучер - Сандево|Čučer-Sandevo|0|
+41.9672|21.5569|Јурумлери|Ilinden|2061|

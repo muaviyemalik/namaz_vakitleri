@@ -1,5 +1,5 @@
--46.4325|51.8576|Alfred Faure
--66.6628|140.0011|Dumont d'Urville Station
--37.7956|77.5733|Martin-de-Viviès
--49.3500|70.2189|Port-aux-Français
--15.8922|54.5208|Tromelin
+-46.4325|51.8576|Alfred Faure|Crozet Islands|0|
+-66.6628|140.0011|Dumont d'Urville Station|Adélie Land|0|
+-37.7956|77.5733|Martin-de-Viviès|Saint-Paul and Amsterdam Islands|0|
+-49.3500|70.2189|Port-aux-Français|Kerguelen Islands|45|
+-15.8922|54.5208|Tromelin|Scattered Islands|0|

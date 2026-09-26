@@ -1,170 +1,170 @@
-58.1253|25.3497|Abja-Paluoja
-58.5981|27.1336|Alatskivi
-59.2764|25.4817|Anija vald
-57.8256|26.5406|Antsla
-57.7774|26.5952|Antsla vald
-59.3669|25.0762|Aruküla
-59.4506|26.8675|Aseri
-58.4086|24.3739|Audru
-58.2225|26.4211|Elva
-59.4233|24.6465|Haabersti
-59.5136|24.8223|Haabneeme
-58.9431|23.5414|Haapsalu
-58.9358|23.5300|Haapsalu linn
-59.4336|26.2614|Haljala
-59.4543|26.2202|Haljala vald
-59.3864|24.5718|Harku
-59.3916|24.4621|Harku vald
-58.9900|23.2444|Hullo
-59.1014|27.3081|Iisaku
-59.0386|25.8864|Järva-Jaani
-58.7789|24.8258|Järvakandi
-59.3542|24.8942|Jüri
-59.4400|25.1353|Jõelähtme vald
-58.7467|26.3939|Jõgeva
-58.7873|26.3812|Jõgeva vald
-59.3592|27.4211|Jõhvi
-59.3565|27.3930|Jõhvi vald
-59.3347|26.1450|Kadrina
-59.3746|26.0415|Kadrina vald
-58.6631|27.1616|Kallaste
-58.2026|26.6900|Kambja vald
-57.9831|26.7564|Kanepi
-57.9806|26.7615|Kanepi vald
-58.9978|22.7492|Kärdla
-58.1033|25.5628|Karksi-Nuia
-59.3361|25.3211|Kehra
-58.9303|24.8781|Kehtna
-58.8427|24.8900|Kehtna vald
-59.3036|24.4131|Keila
-59.4355|24.7575|Kesklinn
-58.1300|23.9900|Kihnu vald
-59.3077|24.8378|Kiili
-59.2967|24.8529|Kiili vald
-58.1503|24.9642|Kilingi-Nõmme
-59.3531|26.9711|Kiviõli
-58.9631|26.0308|Koeru
-59.1681|24.7575|Kohila
-59.1528|24.7334|Kohila vald
-59.3986|27.2731|Kohtla-Järve
-59.3517|27.1750|Kohtla-Nõmme
-59.4600|24.8782|Kose
-59.4150|24.7092|Kristiine
-59.4986|26.5261|Kunda
-58.3186|26.8408|Kurepalu
-58.2481|22.5039|Kuressaare
-59.4439|25.4414|Kuusalu
-58.4242|26.7822|Kõrveküla
-59.3508|24.6142|Laagri
-58.9605|23.7449|Lääne-Nigula vald
-59.4336|24.8602|Lasnamäe
-58.6814|23.8453|Lihula
-58.6019|23.2469|Liiva
-58.1372|23.9744|Linaküla
-59.5764|25.7214|Loksa
-59.5784|25.7167|Loksa linn
-59.4312|24.9495|Loo
-59.3926|27.0764|Lüganuse vald
-58.3558|26.8808|Luunja
-58.3918|26.9557|Luunja vald
-59.4653|24.9822|Maardu
-59.4639|24.9735|Maardu linn
-58.9039|24.4306|Märjamaa
-58.9026|24.3942|Märjamaa vald
-58.5849|23.2561|Muhu vald
-59.4048|24.6812|Mustamäe
-58.8486|26.9397|Mustvee
-58.0922|25.1864|Mõisaküla
-59.3772|28.1903|Narva
-59.4589|28.0408|Narva-Jõesuu
-59.4413|28.0214|Narva-Jõesuu linn
-59.3776|24.6859|Nõmme
-58.2756|26.5375|Nõo
-58.2420|26.5250|Nõo vald
-58.5592|23.0826|Orissaare
-58.0218|26.4531|Otepää vald
-58.8856|25.5572|Paide
-58.8850|25.5602|Paide linn
-58.3792|24.6344|Paikuse
-59.2744|26.4233|Pajusti
-59.3567|24.0531|Paldiski
-58.3859|24.4971|Pärnu
-58.6105|24.5069|Pärnu-Jaagupi
-58.3790|24.5278|Pärnu linn
-58.5156|27.1844|Peipsiääre vald
-59.4690|24.8380|Pirita
-59.5346|24.7973|Pringi
-58.3419|26.3147|Puhja
-59.3600|27.0497|Püssi
-59.4490|24.6981|Põhja-Tallinn
-58.6525|25.9706|Põltsamaa
-58.6407|26.0096|Põltsamaa vald
-58.0603|27.0694|Põlva
-58.0837|26.9824|Põlva vald
-59.3664|25.1831|Raasiku
-59.3320|24.9393|Rae vald
-58.9817|26.2544|Rakke
-59.3464|26.3558|Rakvere
-59.3246|26.2976|Rakvere vald
-58.0981|27.4636|Räpina
-58.1078|27.3858|Räpina vald
-59.0072|24.7928|Rapla
-59.0331|24.7179|Rapla vald
-59.1142|24.3106|Riisipere
-57.8003|23.2483|Ruhnu
-57.8031|23.2425|Ruhnu vald
-59.5353|24.7997|Rummu
-57.7278|26.9097|Rõuge
-57.7278|26.8803|Rõuge vald
-58.1380|24.9556|Saarde vald
-59.3035|24.6638|Saku
-59.2807|24.7165|Saku vald
-58.7900|25.4281|Särevere
-59.3226|24.5497|Saue
-59.2925|24.5250|Saue vald
-58.4272|24.4950|Sauga
-59.3970|27.7633|Sillamäe
-58.4006|24.6675|Sindi
-58.5361|25.4706|Suure-Jaani
-59.3611|26.4375|Sõmeru
-59.4261|24.5533|Tabasalu
-58.9539|23.7522|Taebla
-59.4370|24.7535|Tallinn
-59.1586|26.1153|Tamsalu
-59.2606|25.9586|Tapa
-59.2382|25.8457|Tapa vald
-58.3806|26.7251|Tartu
-58.3750|26.7326|Tartu linn
-58.4780|26.7496|Tartu vald
-58.1803|22.2465|Tehumardi
-59.4213|27.5081|Toila
-58.5781|24.7925|Tootsi
-58.4866|24.8896|Tori vald
-59.0831|24.2250|Turba
-58.8086|25.4325|Türi
-58.7414|25.4644|Türi vald
-58.0028|25.9350|Tõrva
-58.3162|26.7252|Ülenurme
-58.9394|23.5894|Uuemõisa
-58.2836|24.5872|Uulu
-59.3556|25.9953|Vaiatu
-59.2855|24.9790|Vaida
-59.1264|26.2500|Väike-Maarja
-59.0656|26.3142|Väike-Maarja vald
-57.7778|26.0473|Valga
-57.8661|26.5322|Vana-Antsla
-58.6481|25.0361|Vändra
-57.9581|27.6381|Värska
-59.5050|24.8481|Viimsi
-59.5020|24.8483|Viimsi vald
-58.3600|25.6372|Viiratsi
-58.3639|25.5900|Viljandi
-58.3639|25.4910|Viljandi vald
-59.2958|26.4322|Vinni
-59.2374|26.6226|Vinni vald
-59.4639|26.5859|Viru-Nigula vald
-59.4078|27.5826|Voka
-58.9999|23.2341|Vormsi vald
-58.6283|25.5483|Võhma
-57.8339|27.0194|Võru
-57.8662|26.9742|Võru vald
+58.1253|25.3497|Abja-Paluoja|Viljandi|1057|
+58.5981|27.1336|Alatskivi|Tartu|430|
+59.2764|25.4817|Anija vald|Harju|0|
+57.8256|26.5406|Antsla|Võru|0|
+57.7774|26.5952|Antsla vald|Võru|0|
+59.3669|25.0762|Aruküla|Harju|2113|
+59.4506|26.8675|Aseri|Lääne-Viru|1439|
+58.4086|24.3739|Audru|Pärnu|1430|
+58.2225|26.4211|Elva|Tartu|5616|
+59.4233|24.6465|Haabersti|Harjumaa|51423|
+59.5136|24.8223|Haabneeme|Harju|7265|
+58.9431|23.5414|Haapsalu|Lääne|9595|
+58.9358|23.5300|Haapsalu linn|Lääne|0|
+59.4336|26.2614|Haljala|Lääne-Viru|1233|
+59.4543|26.2202|Haljala vald|Lääne-Viru|0|
+59.3864|24.5718|Harku|Harju|720|
+59.3916|24.4621|Harku vald|Harju|0|
+58.9900|23.2444|Hullo|Lääne|104|
+59.1014|27.3081|Iisaku|Ida-Viru|1425|
+59.0386|25.8864|Järva-Jaani|Järva|1051|
+58.7789|24.8258|Järvakandi|Rapla|1471|
+59.3542|24.8942|Jüri|Harju|3719|
+59.4400|25.1353|Jõelähtme vald|Harju|0|
+58.7467|26.3939|Jõgeva|Jõgeva|6396|
+58.7873|26.3812|Jõgeva vald|Jõgeva|0|
+59.3592|27.4211|Jõhvi|Ida-Viru|10130|
+59.3565|27.3930|Jõhvi vald|Ida-Viru|0|
+59.3347|26.1450|Kadrina|Lääne-Viru|2406|
+59.3746|26.0415|Kadrina vald|Lääne-Viru|0|
+58.6631|27.1616|Kallaste|Tartu|714|
+58.2026|26.6900|Kambja vald|Tartu|0|
+57.9831|26.7564|Kanepi|Põlva|638|
+57.9806|26.7615|Kanepi vald|Põlva|0|
+58.9978|22.7492|Kärdla|Hiiu|3160|
+58.1033|25.5628|Karksi-Nuia|Viljandi|1554|
+59.3361|25.3211|Kehra|Harju|2694|
+58.9303|24.8781|Kehtna|Rapla|1579|
+58.8427|24.8900|Kehtna vald|Rapla|0|
+59.3036|24.4131|Keila|Harju|10068|
+59.4355|24.7575|Kesklinn|Harjumaa|67766|
+58.1300|23.9900|Kihnu vald|Pärnu|0|
+59.3077|24.8378|Kiili|Harju|1584|
+59.2967|24.8529|Kiili vald|Harju|0|
+58.1503|24.9642|Kilingi-Nõmme|Pärnu|1671|
+59.3531|26.9711|Kiviõli|Ida-Viru|4725|
+58.9631|26.0308|Koeru|Järva|1178|
+59.1681|24.7575|Kohila|Rapla|3355|
+59.1528|24.7334|Kohila vald|Rapla|0|
+59.3986|27.2731|Kohtla-Järve|Ida-Viru|35395|
+59.3517|27.1750|Kohtla-Nõmme|Ida-Viru|1075|
+59.4600|24.8782|Kose|Harju|2232|
+59.4150|24.7092|Kristiine|Harjumaa|34306|
+59.4986|26.5261|Kunda|Lääne-Viru|2865|
+58.3186|26.8408|Kurepalu|Tartu|0|
+58.2481|22.5039|Kuressaare|Saare|12698|
+59.4439|25.4414|Kuusalu|Harju|6464|
+58.4242|26.7822|Kõrveküla|Tartu|571|
+59.3508|24.6142|Laagri|Harju|5165|
+58.9605|23.7449|Lääne-Nigula vald|Lääne|0|
+59.4336|24.8602|Lasnamäe|Harjumaa|115008|
+58.6814|23.8453|Lihula|Pärnu|1457|
+58.6019|23.2469|Liiva|Saare|0|
+58.1372|23.9744|Linaküla|Pärnu|119|
+59.5764|25.7214|Loksa|Harju|3463|
+59.5784|25.7167|Loksa linn|Harju|0|
+59.4312|24.9495|Loo|Harju|2093|
+59.3926|27.0764|Lüganuse vald|Ida-Viru|0|
+58.3558|26.8808|Luunja|Tartu|579|
+58.3918|26.9557|Luunja vald|Tartu|0|
+59.4653|24.9822|Maardu|Harju|16630|
+59.4639|24.9735|Maardu linn|Harju|0|
+58.9039|24.4306|Märjamaa|Rapla|3063|
+58.9026|24.3942|Märjamaa vald|Rapla|0|
+58.5849|23.2561|Muhu vald|Saare|0|
+59.4048|24.6812|Mustamäe|Harjumaa|67968|
+58.8486|26.9397|Mustvee|Jõgeva|1662|
+58.0922|25.1864|Mõisaküla|Viljandi|745|
+59.3772|28.1903|Narva|Ida-Viru|54409|
+59.4589|28.0408|Narva-Jõesuu|Ida-Viru|2681|
+59.4413|28.0214|Narva-Jõesuu linn|Ida-Viru|0|
+59.3776|24.6859|Nõmme|Harjumaa|39422|
+58.2756|26.5375|Nõo|Tartu|1476|
+58.2420|26.5250|Nõo vald|Tartu|0|
+58.5592|23.0826|Orissaare|Saare|1065|
+58.0218|26.4531|Otepää vald|Valga|0|
+58.8856|25.5572|Paide|Järva|7793|
+58.8850|25.5602|Paide linn|Järva|0|
+58.3792|24.6344|Paikuse|Pärnu|1996|
+59.2744|26.4233|Pajusti|Lääne-Viru|756|
+59.3567|24.0531|Paldiski|Harju|3542|
+58.3859|24.4971|Pärnu|Pärnu|40228|
+58.6105|24.5069|Pärnu-Jaagupi|Pärnu|1341|
+58.3790|24.5278|Pärnu linn|Pärnu|0|
+58.5156|27.1844|Peipsiääre vald|Tartu|0|
+59.4690|24.8380|Pirita|Harjumaa|18310|
+59.5346|24.7973|Pringi|Harju|603|
+58.3419|26.3147|Puhja|Tartu|1072|
+59.3600|27.0497|Püssi|Ida-Viru|917|
+59.4490|24.6981|Põhja-Tallinn|Harjumaa|63240|
+58.6525|25.9706|Põltsamaa|Jõgeva|3933|
+58.6407|26.0096|Põltsamaa vald|Jõgeva|0|
+58.0603|27.0694|Põlva|Põlva|5115|
+58.0837|26.9824|Põlva vald|Põlva|0|
+59.3664|25.1831|Raasiku|Harju|5161|
+59.3320|24.9393|Rae vald|Harju|0|
+58.9817|26.2544|Rakke|Lääne-Viru|1015|
+59.3464|26.3558|Rakvere|Lääne-Viru|14984|
+59.3246|26.2976|Rakvere vald|Lääne-Viru|0|
+58.0981|27.4636|Räpina|Põlva|2066|
+58.1078|27.3858|Räpina vald|Põlva|0|
+59.0072|24.7928|Rapla|Rapla|5132|
+59.0331|24.7179|Rapla vald|Rapla|0|
+59.1142|24.3106|Riisipere|Harju|1058|
+57.8003|23.2483|Ruhnu|Saare|64|
+57.8031|23.2425|Ruhnu vald|Saare|0|
+59.5353|24.7997|Rummu|Harju|3488|
+57.7278|26.9097|Rõuge|Võru|442|
+57.7278|26.8803|Rõuge vald|Võru|0|
+58.1380|24.9556|Saarde vald|Pärnu|0|
+59.3035|24.6638|Saku|Harju|4548|
+59.2807|24.7165|Saku vald|Harju|0|
+58.7900|25.4281|Särevere|Järva|1035|
+59.3226|24.5497|Saue|Harju|5810|
+59.2925|24.5250|Saue vald|Harju|0|
+58.4272|24.4950|Sauga|Pärnu|1062|
+59.3970|27.7633|Sillamäe|Ida-Viru|12480|
+58.4006|24.6675|Sindi|Pärnu|3906|
+58.5361|25.4706|Suure-Jaani|Viljandi|1173|
+59.3611|26.4375|Sõmeru|Lääne-Viru|1350|
+59.4261|24.5533|Tabasalu|Harju|3938|
+58.9539|23.7522|Taebla|Lääne|882|
+59.4370|24.7535|Tallinn|Harju|394024|
+59.1586|26.1153|Tamsalu|Lääne-Viru|2119|
+59.2606|25.9586|Tapa|Lääne-Viru|5168|
+59.2382|25.8457|Tapa vald|Lääne-Viru|0|
+58.3806|26.7251|Tartu|Tartu|91407|
+58.3750|26.7326|Tartu linn|Tartu|0|
+58.4780|26.7496|Tartu vald|Tartu|0|
+58.1803|22.2465|Tehumardi|Saare|0|
+59.4213|27.5081|Toila|Ida-Viru|4735|
+58.5781|24.7925|Tootsi|Pärnu|951|
+58.4866|24.8896|Tori vald|Pärnu|0|
+59.0831|24.2250|Turba|Harju|1096|
+58.8086|25.4325|Türi|Järva|5064|
+58.7414|25.4644|Türi vald|Järva|0|
+58.0028|25.9350|Tõrva|Valga|2690|
+58.3162|26.7252|Ülenurme|Tartu|1047|
+58.9394|23.5894|Uuemõisa|Lääne|1122|
+58.2836|24.5872|Uulu|Pärnu|524|
+59.3556|25.9953|Vaiatu|Lääne-Viru|102|
+59.2855|24.9790|Vaida|Harju|1016|
+59.1264|26.2500|Väike-Maarja|Lääne-Viru|2155|
+59.0656|26.3142|Väike-Maarja vald|Lääne-Viru|0|
+57.7778|26.0473|Valga|Valga|11792|
+57.8661|26.5322|Vana-Antsla|Võru|1468|
+58.6481|25.0361|Vändra|Pärnu|2544|
+57.9581|27.6381|Värska|Võru|414|
+59.5050|24.8481|Viimsi|Harju|2703|
+59.5020|24.8483|Viimsi vald|Harju|0|
+58.3600|25.6372|Viiratsi|Viljandi|1332|
+58.3639|25.5900|Viljandi|Viljandi|17407|
+58.3639|25.4910|Viljandi vald|Viljandi|0|
+59.2958|26.4322|Vinni|Lääne-Viru|1032|
+59.2374|26.6226|Vinni vald|Lääne-Viru|0|
+59.4639|26.5859|Viru-Nigula vald|Lääne-Viru|0|
+59.4078|27.5826|Voka|Ida-Viru|823|
+58.9999|23.2341|Vormsi vald|Lääne|0|
+58.6283|25.5483|Võhma|Viljandi|1280|
+57.8339|27.0194|Võru|Võru|12367|
+57.8662|26.9742|Võru vald|Võru|0|

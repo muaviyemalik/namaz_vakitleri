@@ -1,23 +1,23 @@
-5.4979|-54.0552|Albina
-5.8057|-55.1737|Beekhuizen
-5.8434|-55.1193|Blauwgrond
-5.0559|-54.9804|Brokopondo
-5.0043|-55.1533|Brownsweg
-5.8000|-55.2000|Flora
-5.8000|-55.4667|Groningen
-5.7967|-55.2086|Latour
-5.7000|-55.2333|Lelydorp
-5.8772|-55.0432|Mariënburg
-5.6141|-54.4012|Moengo
-5.8412|-55.1825|Munder Buiten
-5.8857|-55.0887|Nieuw Amsterdam
-5.9261|-56.9730|Nieuw Nickerie
-5.5898|-55.1946|Onverwacht
-5.8664|-55.1668|Paramaribo
-5.7881|-55.2090|Pontbuiten
-5.8344|-55.1377|Rainville
-5.8289|-55.2020|Tammenga
-5.8762|-56.3257|Totness
-5.7601|-56.6652|Wageningen
-5.8713|-55.2149|Weg naar Zee
-5.8421|-55.2186|Welgelegen
+5.4979|-54.0552|Albina|Marowijne|3985|
+5.8057|-55.1737|Beekhuizen|Paramaribo District|17185|
+5.8434|-55.1193|Blauwgrond|Paramaribo District|31483|
+5.0559|-54.9804|Brokopondo|Brokopondo|14662|
+5.0043|-55.1533|Brownsweg|Brokopondo|4793|
+5.8000|-55.2000|Flora|Paramaribo District|19538|
+5.8000|-55.4667|Groningen|Saramacca|3216|
+5.7967|-55.2086|Latour|Paramaribo District|29526|
+5.7000|-55.2333|Lelydorp|Wanica|18223|
+5.8772|-55.0432|Mariënburg|Commewijne|4427|
+5.6141|-54.4012|Moengo|Marowijne|10834|
+5.8412|-55.1825|Munder Buiten|Paramaribo District|17234|
+5.8857|-55.0887|Nieuw Amsterdam|Commewijne|4935|
+5.9261|-56.9730|Nieuw Nickerie|Nickerie|12818|
+5.5898|-55.1946|Onverwacht|Para|2105|
+5.8664|-55.1668|Paramaribo|Paramaribo|223757|
+5.7881|-55.2090|Pontbuiten|Wanica District|23211|
+5.8344|-55.1377|Rainville|Paramaribo District|22747|
+5.8289|-55.2020|Tammenga|Paramaribo District|15819|
+5.8762|-56.3257|Totness|Coronie|2150|
+5.7601|-56.6652|Wageningen|Nickerie|2937|
+5.8713|-55.2149|Weg naar Zee|Paramaribo District|16037|
+5.8421|-55.2186|Welgelegen|Paramaribo District|19304|

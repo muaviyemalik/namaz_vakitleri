@@ -1,290 +1,291 @@
-30.2994|31.6142|10th of Ramadan
-29.8167|31.0500|6th of October City|Madīnat Sittah Uktūbar
-27.2696|31.1511|Abnūb
-31.3167|30.0667|Abu Qir
-22.3457|31.6162|Abu Simbel
-30.5698|32.1146|Abu Suweir-el-Mahatta
-30.9102|30.1744|Abū al Maţāmīr
-29.9500|31.2000|Abū an Numrus
-30.7251|31.6715|Abū Kabīr
-27.9312|30.8384|Abū Qurqāş
-31.3110|30.0612|Abū Qīr
-27.0441|31.3190|Abū Tīj
-26.1204|32.0954|Abū Ţisht
-30.5377|31.6788|Abū Ḩammād
-31.0931|30.3142|Abū Ḩummuş
-30.8280|30.5355|Ad Dilinjāt
-30.9416|31.2904|Aga|Ajā
-31.0959|29.7604|Agami
-29.6002|32.3167|Ain Sukhna
-26.5622|31.7450|Akhmīm
-29.8500|31.2667|Al Badrashayn
-26.9926|31.4155|Al Badārī
-26.2357|32.0035|Al Balyanā
-25.1500|32.7167|Al Başalīyah Baḩrī
-28.3492|28.8659|Al Bawīţī
-25.6648|32.6354|Al Bayāḑīyah
-31.5823|30.9809|Al Burj
-30.4305|31.0368|Al Bājūr
-31.2018|29.9158|Alexandria
-28.8243|30.8995|Al Fashn
-29.3100|30.8418|Al Fayyum|Al Fayyūm
-26.8752|31.3296|Al Ghanāyim
-30.7188|31.5630|Al Ibrāhīmīyah
-31.1806|31.8650|Al Jammālīyah
-30.1529|31.3150|Al Khuşūş
-30.2103|31.3681|Al Khānkah
-25.4514|30.5464|Al Khārijah
-25.4510|30.5465|Al Khārjah
-26.4769|31.8035|Al Manshāh
-31.0364|31.3807|Al Mansurah|Al Manşūrah
-31.1582|31.9360|Al Manzalah
-31.2679|32.2846|Al-Manākh
-26.6998|31.6046|Al Marāghah
-31.1829|32.0311|Al Maţarīyah
-30.9706|31.1669|Al Maḩallah al Kubrá
-31.1835|30.5245|Al Maḩmūdīyah
-26.4775|31.8039|Al Minshāh
-28.1099|30.7503|Al Minyā
-28.0864|30.8146|Al-Minyā al-Jadīdah
-30.6193|31.4616|Al Qanāyāt
-30.1933|31.1370|Al Qanāţir al Khayrīyah
-30.8571|32.3118|Al Qanţarah
-30.5641|31.9339|Al Qaşşāşīn
-30.6162|31.7351|Al Qurayn
-26.2930|31.8495|Al Qurein
-26.1043|34.2779|Al Quşayr
-30.0421|31.4445|Al Qāhirah al Jadīdah
-27.4402|30.8184|Al Qūşīyah
-30.2289|31.4815|Al-'Ubūr
-26.0866|32.4226|Al Waqf
-29.3378|31.2056|Al Wāsiţah
-30.8453|29.3882|Al Ḩammām
-29.9000|31.2500|Al Ḩawāmidīyah
-30.8616|31.9181|Al Ḩusaynīyah
-31.3115|31.1477|Al Ḩāmūl
-30.8301|28.9550|Al ‘Alamayn
-29.5890|32.3360|Al ‘Ayn as Sukhnah
-29.6197|31.2575|Al ‘Ayyāţ
-28.6992|30.7673|Al ‘Idwah
-30.2964|31.7463|Al ‘Āshir min Ramaḑān
-31.4071|26.5832|An-Najaylah
-27.2058|31.1964|An Nāşirīyah
-30.6687|30.0739|An Nūbārīyah
-31.1316|33.7984|Arish|Arīsh
-25.6199|32.5431|Armant
-24.9065|32.8856|Ar Radīsīyah Qiblī
-31.2482|29.9737|Ar-Raml
-31.3234|31.7612|Ar-Rawḍah
-31.1048|30.6413|Ar Raḩmānīyah
-31.2419|30.9450|Ar Riyāḑ
-30.2974|30.9764|Ashmūn
-31.2163|34.1107|Ash Shaykh Zuwayd
-30.0200|31.0000|Ash-Shaykh Zāyid
-30.5968|30.8993|Ash Shuhadā’
-29.5647|31.2811|Aş Şaff
-31.5537|25.1579|As Sallūm
-31.0021|31.6263|Aş Şalāḩāt
-30.7461|31.1296|As Sanţah
-31.2387|31.6538|As Sarw
-25.1941|32.6771|As Sibā‘īyah
-30.8825|31.4627|As Sinbillāwayn
-27.1810|31.1837|Assiut|Asyūţ
-30.6315|31.9393|Aş Şāliḩīyah al Jadīdah
-27.0631|31.3442|As Sāḩil
-24.0908|32.8994|Aswan|Aswān
-30.5432|31.7850|At Tall al Kabīr
-30.9310|31.6913|Awlad Saqr
-30.9306|31.6986|Awlād Şaqr
-30.1230|31.1357|Awsīm
-31.2086|31.6353|Az Zarqā
-25.7509|32.6776|Az Zaynīyah Qiblī
-31.2650|32.2640|Az-Zuhūr
-29.4075|31.2525|Aţfīḩ
-25.7383|32.6368|Aţ Ţārif
-31.2441|32.2773|Aḍ-Ḍawāḥy
-30.1360|31.7150|Badr
-31.5558|31.0892|Balţīm
-30.4598|31.1842|Banhā
-28.5036|30.8004|Banī Mazār
-29.0744|31.0979|Banī Suwayf
-29.0330|31.1141|Banī Suwayf al Jadīdah
-27.9524|30.7808|Banī ‘Ubayd
-30.9398|30.8134|Basyūn
-28.9241|30.9854|Bibā
-30.4168|31.5543|Bilbeis
-31.2145|31.3580|Bilqās
-31.0189|33.0098|Bi’r al ‘Abd
-30.6291|31.0824|Birkat as Sab‘
-31.1742|31.2218|Biyalā
-30.9167|29.5333|Borg El Arab
-30.0530|31.2300|Bulaq
-30.9032|29.5528|Burj al ‘Arab
-30.8852|29.5772|Burj al ‘Arab al Jadīdah|New Borg El Arab
-30.0604|31.2315|Būlāq Abū al ‘Ilā
-31.2441|32.3195|Būr Fu’ād
-29.1482|31.1273|Būsh
-30.0626|31.2497|Cairo
-30.0475|31.2383|Cairo Downtown
-28.4821|34.4950|Dahab
-31.0341|30.4682|Damanhur|Damanhūr
-31.4165|31.8133|Damietta
-24.4080|32.9232|Darāw
-27.6418|30.8466|Dayr Mawās
-27.5560|30.8076|Dayrūţ
-31.0890|31.5948|Dikirnis
-26.1247|32.4760|Dishnā
-31.1326|30.6478|Disūq
-30.7544|31.4402|Diyarb Najm
-30.7480|31.3889|Diyarb Negm
-31.4348|31.6751|Dumyāţ al Jadīdah
-26.2784|32.0561|Dār as Salām
-24.9792|32.8772|Edfu|Idfū
-31.0282|28.4450|El Dabaa
-27.3942|33.6782|El Gouna
-31.1393|32.1495|El Husseiniya
-30.1295|31.2889|El Mataria
-30.1381|31.6156|El Shorouk
-28.2417|33.6222|El-Tor
-25.2934|32.5540|Esna|Isnā
-30.7229|31.7614|Faqous
-26.0549|32.1633|Farshūţ
-30.0000|31.2333|Fustat
-31.2036|30.5491|Fuwwah
-30.7282|31.7970|Fāqūs
-31.3298|31.7151|Fāraskūr
-30.3126|32.3094|Fāyīd
-26.3372|31.8929|Girga
-30.0081|31.2109|Giza
-30.0967|31.3103|Hadayek El Kobba
-22.2227|36.6468|Hala'ib
-30.1333|31.3000|Heliopolis
-29.8419|31.3342|Helwan
-30.6552|31.5067|Hihya
-30.6713|31.5880|Hihyā
-27.2574|33.8129|Hurghada
-29.3590|30.6806|Ibshawāy
-31.3073|30.2981|Idkū
-29.0895|30.9432|Ihnāsyā al Madīnah
-29.0928|31.0204|Ihnāsīyah
-30.6043|32.2722|Ismailia
-29.2376|30.7894|Iţsā
-25.8720|32.7559|Jarājūs
-26.3383|31.8916|Jirjā
-26.6732|31.4976|Juhaynah
-31.1338|30.1297|Kafr ad Dawwār
-31.4040|31.7378|Kafr al Baţţīkh
-31.1684|31.7655|Kafr al Kurdī
-31.1117|30.9399|Kafr ash Shaykh
-30.8248|30.8180|Kafr az Zayyāt
-30.7796|31.6177|Kafr Saqr
-31.3557|31.6848|Kafr Sa‘d
-30.5497|31.2444|Kafr Shukr
-24.4767|32.9463|Kawm Umbū|Kom Ombo
-30.7613|30.6997|Kawm Ḩamādah
-30.0310|31.1111|Kirdāsah
-25.9141|32.7636|Kousa
-25.6989|32.6421|Luxor
-29.9667|31.2500|Maadi
-30.0667|31.3000|Madīnat an Naşr
-30.3674|30.5087|Madīnat as Sādāt
-30.3775|30.3503|Madīnat Wādī an Naţrūn
-28.6478|30.8410|Maghāghah
-26.9912|33.8995|Makadi Bay
-27.7314|30.8417|Mallawī
-27.3104|30.9700|Manfalūţ
-30.1848|31.1065|Manshīyat al Qanāţir
-30.5360|31.6597|Markaz Abū Ḩammād
-25.6299|32.5902|Markaz al Uqşur
-31.1459|30.7161|Markaz Disūq
-26.3068|31.8457|Markaz Jirjā
-26.5395|31.6752|Markaz Sūhāj
-25.0631|34.8901|Marsa Alam
-31.3529|27.2372|Marsá Maţrūḩ|Mersa Matruh
-30.3557|31.3628|Mashtoul El Souk
-30.3606|31.3776|Mashtūl as Sūq
-28.4190|30.7792|Maţāy
-31.0729|31.4950|Maḩallat Damanah
-28.0919|30.7581|Minya
-30.5004|31.2377|Minya El Qamh
-31.1262|31.6431|Minyat an Naşr
-30.5155|31.3463|Minyā al Qamḩ
-31.2827|30.0219|Montaza
-30.9071|32.0234|Munsha‘at Abū ‘Umar
-31.1579|30.7018|Munshāt ‘Alī Āghā
-30.4660|30.9320|Munūf
-30.1388|31.2924|Musturud
-31.2944|30.5225|Muţūbas
-31.2884|31.6772|Mīt Abū Ghālib
-30.7152|31.2592|Mīt Ghamr
-31.1676|31.8012|Mīt Salsīl
-25.4874|28.9792|Mūţ
-31.0975|31.3031|Nabarūh
-26.0495|32.2414|Nag Hammâdi|Naja' Ḥammādī
-25.9011|32.7239|Naqādah
-30.0500|31.3667|Nasr City|Rehab
-30.0275|31.7650|New Administrative Capital of Egypt
-29.0356|31.1179|New Bani Sewif City
-30.0300|31.4700|New Cairo
-30.6287|31.9210|New Salhia
-29.0468|34.6634|Nuwaybi‘a
-30.2050|31.4575|Obour City
-31.2565|32.2841|Port Said
-30.2801|31.2053|Qahā
-30.1792|31.2056|Qalyub|Qalyūb
-27.0568|27.9698|Qaşr al Farāfirah
-25.9984|32.8181|Qifţ
-31.0475|30.8549|Qillīn
-26.1642|32.7267|Qina|Qinā
-30.5648|31.1578|Quwaysinā
-30.9722|30.9561|Quţūr
-25.9154|32.7629|Qūş
-31.2820|34.2387|Rafaḩ
-28.3583|33.0783|Ras Gharib
-31.3995|30.4172|Rosetta
-26.7491|33.9389|Safaga
-28.5619|33.9493|Saint Catherine
-30.9616|31.2407|Samannūd
-28.3121|30.7101|Samālūţ
-27.9158|34.3299|Sharm el-Sheikh
-30.5526|31.0090|Shibīn al Kawm
-30.3127|31.3202|Shibīn al Qanāţir|Shibīn al Qanāṭir
-31.1969|31.5243|Shirbīn
-30.0725|31.2408|Shubra
-30.1251|31.2505|Shubrā al Khaymah
-31.0280|30.7149|Shubrākhīt
-26.9664|31.3795|Şidfā
-31.2521|29.9945|Sidi Bishr
-29.4135|30.8658|Sinnūris
-30.4428|30.9698|Sirs al Layyānah
-29.2032|25.5196|Siwa Oasis|Sīwah
-26.5570|31.6948|Sohag
-29.9737|32.5263|Suez
-28.9210|30.8537|Sumusţā al Waqf
-28.9167|30.8500|Sumusţā as Sulţānī
-30.9748|31.8723|Şān al Ḩajar al Qiblīyah
-26.6582|31.6714|Sāqultah
-31.6117|25.9254|Sīdī Barānī
-31.2111|31.0512|Sīdī Ghāzī
-31.2713|30.7862|Sīdī Sālim
-30.6798|30.9436|Talā
-30.7885|31.0019|Tanda|Tanta
-30.9438|31.5293|Timayy al Imdīd
-30.3549|31.2010|Toukh|Ţūkh
-29.9393|31.2900|Tura
-29.3850|30.5570|Yūsuf aṣ-Ṣiddīq
-29.1101|32.6601|Zaafarana
-30.5846|31.3475|Zagazig
-30.0619|31.2206|Zamalek
-30.7142|31.2443|Zefta
-30.8870|30.6672|Ītāy al Bārūd
-26.7693|31.5021|Ţahţā
-31.0539|31.3779|Ţalkhā
-26.9084|31.4347|Ţimā
-29.4764|30.9612|Ţāmiyah
-25.5828|32.5329|Ţūd
-30.0884|31.2835|Ḩadā’iq al Qubbah
-29.8414|31.3008|Ḩalwān
-30.9128|30.2902|Ḩawsh ‘Īsá
-31.5084|31.8411|‘Izbat al Burj
-31.1567|30.1477|‘Izbat ‘Alī as Sayyid
+30.2994|31.6142|10th of Ramadan|Sharqia|0|
+27.2696|31.1511|Abnūb|Asyut|111785|
+31.3167|30.0667|Abu Qir|Alexandria|0|
+22.3457|31.6162|Abu Simbel|Aswan|5000|
+30.5698|32.1146|Abu Suweir-el-Mahatta|Sharqia|32763|
+30.9102|30.1744|Abū al Maţāmīr|Beheira|66946|
+29.9500|31.2000|Abū an Numrus|Giza|86601|
+30.7251|31.6715|Abū Kabīr|Sharqia|154466|
+27.9312|30.8384|Abū Qurqāş|Minya|90266|
+31.3110|30.0612|Abū Qīr|Alexandria|37997|
+27.0441|31.3190|Abū Tīj|Asyut|105418|
+26.1204|32.0954|Abū Ţisht|Qena|18194|
+30.5377|31.6788|Abū Ḩammād|Sharqia|43001|
+31.0931|30.3142|Abū Ḩummuş|Beheira|61388|
+30.8280|30.5355|Ad Dilinjāt|Beheira|68901|
+31.0959|29.7604|Agami|Alexandria|0|
+29.6002|32.3167|Ain Sukhna|Suez|45552|
+30.9416|31.2904|Ajā|Dakahlia|47013|Aga
+26.5622|31.7450|Akhmīm|Sohag|151430|
+29.8500|31.2667|Al Badrashayn|Giza|90833|
+26.9926|31.4155|Al Badārī|Asyut|56033|
+26.2357|32.0035|Al Balyanā|Sohag|68413|
+25.1500|32.7167|Al Başalīyah Baḩrī|Aswan|32920|
+28.3492|28.8659|Al Bawīţī|Giza|15653|
+25.6648|32.6354|Al Bayāḑīyah|Luxor|23550|
+31.5823|30.9809|Al Burj|Kafr el-Sheikh|60320|
+30.4305|31.0368|Al Bājūr|Monufia|62961|
+31.2018|29.9158|Alexandria|Alexandria|5263542|
+28.8243|30.8995|Al Fashn|Beni Suef|112999|
+29.3100|30.8418|Al Fayyūm|Faiyum|519047|Al Fayyum
+26.8752|31.3296|Al Ghanāyim|Asyut|70884|
+30.7188|31.5630|Al Ibrāhīmīyah|Sharqia|53791|
+31.1806|31.8650|Al Jammālīyah|Dakahlia|99641|
+30.1529|31.3150|Al Khuşūş|Qalyubia|488904|
+30.2103|31.3681|Al Khānkah|Qalyubia|81646|
+25.4514|30.5464|Al Khārijah|New Valley|83108|
+25.4510|30.5465|Al Khārjah|New Valley|83108|
+26.4769|31.8035|Al Manshāh|Sohag|0|
+31.0364|31.3807|Al Manşūrah|Dakahlia|621953|Al Mansurah
+31.1582|31.9360|Al Manzalah|Dakahlia|127394|
+31.2679|32.2846|Al-Manākh|Port Said|84679|
+26.6998|31.6046|Al Marāghah|Sohag|53643|
+31.1829|32.0311|Al Maţarīyah|Dakahlia|162045|
+30.9706|31.1669|Al Maḩallah al Kubrá|Gharbia|592573|
+31.1835|30.5245|Al Maḩmūdīyah|Beheira|34660|
+26.4775|31.8039|Al Minshāh|Sohag|91149|
+28.1099|30.7503|Al Minyā|Minya|0|
+28.0864|30.8146|Al-Minyā al-Jadīdah|Minya|17470|
+30.6193|31.4616|Al Qanāyāt|Sharqia|70687|
+30.1933|31.1370|Al Qanāţir al Khayrīyah|Qalyubia|83568|
+30.8571|32.3118|Al Qanţarah|Ismailia|31808|
+30.5641|31.9339|Al Qaşşāşīn|Sharqia|24364|
+30.6162|31.7351|Al Qurayn|Sharqia|94632|
+26.2930|31.8495|Al Qurein|Sharqia|0|
+26.1043|34.2779|Al Quşayr|Red Sea|24653|
+30.0421|31.4445|Al Qāhirah al Jadīdah||313139|
+27.4402|30.8184|Al Qūşīyah|Asyut|99598|
+30.2289|31.4815|Al-'Ubūr|Qalyubia|138987|
+26.0866|32.4226|Al Waqf|Qena|34723|
+29.3378|31.2056|Al Wāsiţah|Faiyum|57870|
+30.8453|29.3882|Al Ḩammām|Matruh|18407|
+29.9000|31.2500|Al Ḩawāmidīyah|Giza|155055|
+30.8616|31.9181|Al Ḩusaynīyah|Sharqia|50651|
+31.3115|31.1477|Al Ḩāmūl|Kafr El-Sheikh|58430|
+30.8301|28.9550|Al ‘Alamayn|Matrouh|7400|
+29.5890|32.3360|Al ‘Ayn as Sukhnah|Suez|45552|
+29.6197|31.2575|Al ‘Ayyāţ|Giza|45793|
+28.6992|30.7673|Al ‘Idwah|Minya|26092|
+30.2964|31.7463|Al ‘Āshir min Ramaḑān|Sharqia|246148|
+31.4071|26.5832|An-Najaylah|Matruh|19768|
+27.2058|31.1964|An Nāşirīyah|Asyut|22435|
+30.6687|30.0739|An Nūbārīyah|Beheira|23282|
+31.1316|33.7984|Arish|North Sinai|199243|Arīsh
+25.6199|32.5431|Armant|Qena|78695|
+24.9065|32.8856|Ar Radīsīyah Qiblī|Red Sea|16190|
+31.2482|29.9737|Ar-Raml|Alexandria|0|
+31.3234|31.7612|Ar-Rawḍah|Damietta|31240|
+31.1048|30.6413|Ar Raḩmānīyah|Beheira|44482|
+31.2419|30.9450|Ar Riyāḑ|Kafr el-Sheikh|24254|
+30.2974|30.9764|Ashmūn|Monufia|124483|
+31.2163|34.1107|Ash Shaykh Zuwayd|North Sinai|26713|
+30.0200|31.0000|Ash-Shaykh Zāyid|Giza|95854|
+30.5968|30.8993|Ash Shuhadā’|Monufia|76071|
+29.5647|31.2811|Aş Şaff|Giza|61531|
+31.5537|25.1579|As Sallūm|Matruh|16545|
+31.0021|31.6263|Aş Şalāḩāt|Dakahlia|45557|
+30.7461|31.1296|As Sanţah|Gharbia|45813|
+31.2387|31.6538|As Sarw|Damietta|29286|
+25.1941|32.6771|As Sibā‘īyah|Aswan|21610|
+30.8825|31.4627|As Sinbillāwayn|Dakahlia|124020|
+30.6315|31.9393|Aş Şāliḩīyah al Jadīdah|Sharqia|59320|
+27.0631|31.3442|As Sāḩil|Asyut|54094|
+24.0908|32.8994|Aswan|Aswan|379774|Aswān
+27.1810|31.1837|Asyūţ|Asyut|528669|Assiut
+30.5432|31.7850|At Tall al Kabīr|Sharqia|46962|
+30.9310|31.6913|Awlad Saqr|Sharqia|0|
+30.9306|31.6986|Awlād Şaqr|Sharqia|32840|
+30.1230|31.1357|Awsīm|Giza|94174|
+31.2086|31.6353|Az Zarqā|Damietta|26955|
+25.7509|32.6776|Az Zaynīyah Qiblī|Luxor|20000|
+31.2650|32.2640|Az-Zuhūr|Port Said|266381|
+29.4075|31.2525|Aţfīḩ|Giza|26943|
+25.7383|32.6368|Aţ Ţārif|New Valley|38871|
+31.2441|32.2773|Aḍ-Ḍawāḥy|Port Said|148624|
+30.5750|30.7111|Badr|Beheira|28091|
+30.1360|31.7150|Badr|Cairo|32940|
+31.5558|31.0892|Balţīm|Kafr el-Sheikh|51280|
+30.4598|31.1842|Banhā|Qalyubia|182254|
+28.5036|30.8004|Banī Mazār|Minya|115759|
+29.0744|31.0979|Banī Suwayf|Beni Suef|273151|
+29.0330|31.1141|Banī Suwayf al Jadīdah|Red Sea|32278|
+27.9524|30.7808|Banī ‘Ubayd|Minya|46060|
+30.9398|30.8134|Basyūn|Gharbia|75084|
+28.9241|30.9854|Bibā|Beni Suweif|94677|
+30.4168|31.5543|Bilbeis|Sharqia|185237|
+31.2145|31.3580|Bilqās|Dakahlia|137080|
+31.0189|33.0098|Bi’r al ‘Abd|North Sinai|26330|
+30.6291|31.0824|Birkat as Sab‘|Monufia|50924|
+31.1742|31.2218|Biyalā|Kafr el-Sheikh|89068|
+30.9167|29.5333|Borg El Arab|Alexandria|0|
+30.0530|31.2300|Bulaq|Cairo|0|
+30.9032|29.5528|Burj al ‘Arab|Alexandria|22444|
+30.0604|31.2315|Būlāq Abū al ‘Ilā|Cairo|51741|
+31.2441|32.3195|Būr Fu’ād|Port Said|81591|
+29.1482|31.1273|Būsh|Beni Suef|136441|
+30.0626|31.2497|Cairo|Cairo|9606916|
+30.0475|31.2383|Cairo Downtown|Cairo|0|
+28.4821|34.4950|Dahab|South Sinai|8000|
+31.0341|30.4682|Damanhūr|Beheira|318207|Damanhur
+31.4165|31.8133|Damietta|Damietta|305920|
+24.4080|32.9232|Darāw|Aswan|61790|
+27.6418|30.8466|Dayr Mawās|Minya|60835|
+27.5560|30.8076|Dayrūţ|Asyut|102570|
+31.0890|31.5948|Dikirnis|Dakahlia|101082|
+26.1247|32.4760|Dishnā|Qena|64744|
+31.1326|30.6478|Disūq|Kafr El-Sheikh|149291|
+30.7544|31.4402|Diyarb Najm|Sharqia|80954|
+30.7480|31.3889|Diyarb Negm|Sharqia|0|
+31.4348|31.6751|Dumyāţ al Jadīdah|Damietta|54508|
+26.2784|32.0561|Dār as Salām|Sohag|38008|
+31.0282|28.4450|El Dabaa|Matruh|27697|
+27.3942|33.6782|El Gouna|Red Sea|15000|
+31.1393|32.1495|El Husseiniya|Sharqia|0|
+30.1295|31.2889|El Mataria|Cairo|0|
+30.1381|31.6156|El Shorouk|Cairo|91899|
+28.2417|33.6222|El-Tor|South Sinai|38285|
+30.7229|31.7614|Faqous|Sharqia|0|
+26.0549|32.1633|Farshūţ|Qena|71013|
+30.0000|31.2333|Fustat|Cairo|0|
+31.2036|30.5491|Fuwwah|Kafr El-Sheikh|93392|
+30.7282|31.7970|Fāqūs|Sharqia|116945|
+31.3298|31.7151|Fāraskūr|Damietta|43400|
+30.3126|32.3094|Fāyīd|Ismailia|35066|
+26.3372|31.8929|Girga|Sohag|151256|
+30.0081|31.2109|Giza|Giza|4367343|
+30.0967|31.3103|Hadayek El Kobba|Cairo|0|
+22.2227|36.6468|Hala'ib|Red Sea|27000|
+30.1333|31.3000|Heliopolis|Cairo|0|
+29.8419|31.3342|Helwan|Cairo|0|
+30.6552|31.5067|Hihya|Sharqia|0|
+30.6713|31.5880|Hihyā|Sharqia|74823|
+27.2574|33.8129|Hurghada|Red Sea|207132|
+29.3590|30.6806|Ibshawāy|Faiyum|86186|
+24.9792|32.8772|Idfū|Aswan|79510|Edfu
+31.3073|30.2981|Idkū|Beheira|177152|
+29.0895|30.9432|Ihnāsyā al Madīnah|Beni Suweif|68976|
+29.0928|31.0204|Ihnāsīyah|Beni Suweif|64058|
+30.6043|32.2722|Ismailia|Ismailia|429465|
+25.2934|32.5540|Isnā|Qena|462787|Esna
+29.2376|30.7894|Iţsā|Faiyum|74357|
+25.8720|32.7559|Jarājūs|Qena|20427|
+26.3383|31.8916|Jirjā|Sohag|0|
+26.6732|31.4976|Juhaynah|Sohag|76555|
+31.1338|30.1297|Kafr ad Dawwār|Beheira|128539|
+31.4040|31.7378|Kafr al Baţţīkh|Damietta|47198|
+31.1684|31.7655|Kafr al Kurdī|Dakahlia|44905|
+31.1117|30.9399|Kafr ash Shaykh|Kafr El-Sheikh|194569|
+30.8248|30.8180|Kafr az Zayyāt|Gharbia|83348|
+30.7796|31.6177|Kafr Saqr|Sharqia|44529|
+31.3557|31.6848|Kafr Sa‘d|Damietta|18120|
+30.5497|31.2444|Kafr Shukr|Monufia|30948|
+24.4767|32.9463|Kawm Umbū|Aswan|409311|Kom Ombo
+30.7613|30.6997|Kawm Ḩamādah|Beheira|55652|
+30.0310|31.1111|Kirdāsah|Giza|137588|
+25.9141|32.7636|Kousa|Qena|0|
+25.6989|32.6421|Luxor|Luxor|422407|
+29.9667|31.2500|Maadi|Cairo|0|
+30.0667|31.3000|Madīnat an Naşr|Cairo|668413|
+30.3674|30.5087|Madīnat as Sādāt|Beheira|71501|
+29.8167|31.0500|Madīnat Sittah Uktūbar|Giza|368650|6th of October City
+30.3775|30.3503|Madīnat Wādī an Naţrūn|Beheira|41186|
+28.6478|30.8410|Maghāghah|Minya|118223|
+26.9912|33.8995|Makadi Bay|Red Sea|4000|
+27.7314|30.8417|Mallawī|Minya|212628|
+27.3104|30.9700|Manfalūţ|Asyut|117925|
+30.1848|31.1065|Manshīyat al Qanāţir|Giza|19185|
+30.5360|31.6597|Markaz Abū Ḩammād|Sharqia|0|
+25.6299|32.5902|Markaz al Uqşur|Luxor|0|
+31.1459|30.7161|Markaz Disūq|Kafr El-Sheikh|0|
+26.3068|31.8457|Markaz Jirjā|Sohag|0|
+26.5395|31.6752|Markaz Sūhāj|Sohag|0|
+25.0631|34.8901|Marsa Alam|Red Sea|10000|
+30.3557|31.3628|Mashtoul El Souk|Sharqia|0|
+30.3606|31.3776|Mashtūl as Sūq|Sharqia|75837|
+28.4190|30.7792|Maţāy|Minya|82328|
+31.0729|31.4950|Maḩallat Damanah|Dakahlia|31921|
+31.3529|27.2372|Mersa Matruh|Matrouh|176498|Marsá Maţrūḩ
+28.0919|30.7581|Minya|Minya|283605|
+30.5004|31.2377|Minya El Qamh|Sharqia|0|
+31.1262|31.6431|Minyat an Naşr|Dakahlia|82429|
+30.5155|31.3463|Minyā al Qamḩ|Sharqia|99284|
+31.2827|30.0219|Montaza|Alexandria|0|
+30.9071|32.0234|Munsha‘at Abū ‘Umar|Sharqia|22543|
+31.1579|30.7018|Munshāt ‘Alī Āghā|Kafr El-Sheikh|3847|
+30.4660|30.9320|Munūf|Monufia|125707|
+30.1388|31.2924|Musturud|Cairo|0|
+31.2944|30.5225|Muţūbas|Kafr el-Sheikh|43899|
+31.2884|31.6772|Mīt Abū Ghālib|Damietta|20470|
+30.7152|31.2592|Mīt Ghamr|Dakahlia|153754|
+31.1676|31.8012|Mīt Salsīl|Dakahlia|48166|
+25.4874|28.9792|Mūţ|New Valley|26820|
+31.0975|31.3031|Nabarūh|Dakahlia|59202|
+26.0495|32.2414|Naja' Ḥammādī|Qena|59601|Nag Hammâdi
+25.9011|32.7239|Naqādah|Qena|26774|
+30.0500|31.3667|Nasr City|Cairo|0|
+30.0275|31.7650|New Administrative Capital of Egypt|Cairo|0|
+29.0356|31.1179|New Bani Sewif City|Beni Suweif|29117|
+30.8852|29.5772|New Borg El Arab|Alexandria|45865|Burj al ‘Arab al Jadīdah
+30.0300|31.4700|New Cairo|Cairo|313139|
+30.6287|31.9210|New Salhia|Sharqia|0|
+29.0468|34.6634|Nuwaybi‘a|South Sinai|5000|
+30.2050|31.4575|Obour City|Qalyubia|0|
+31.2565|32.2841|Port Said|Port Said|780515|
+30.2801|31.2053|Qahā|Qalyubia|36225|
+30.1792|31.2056|Qalyūb|Qalyubia|156363|Qalyub
+27.0568|27.9698|Qaşr al Farāfirah|New Valley|5000|
+25.9984|32.8181|Qifţ|Qena|24010|
+31.0475|30.8549|Qillīn|Kafr el-Sheikh|48233|
+26.1642|32.7267|Qinā|Qena|252883|Qina
+30.5648|31.1578|Quwaysinā|Monufia|65690|
+30.9722|30.9561|Quţūr|Gharbia|32043|
+25.9154|32.7629|Qūş|Qena|84386|
+31.2820|34.2387|Rafaḩ|North Sinai|44215|
+28.3583|33.0783|Ras Gharib|Red Sea|44852|
+31.3995|30.4172|Rosetta|Beheira|301795|
+26.7491|33.9389|Safaga|Red Sea|53639|
+28.5619|33.9493|Saint Catherine|South Sinai|4603|
+30.9616|31.2407|Samannūd|Gharbia|87921|
+28.3121|30.7101|Samālūţ|Minya|142009|
+27.9158|34.3299|Sharm el-Sheikh|South Sinai|38478|
+30.5526|31.0090|Shibīn al Kawm|Monufia|267945|
+30.3127|31.3202|Shibīn al Qanāṭir|Qalyubia|73711|Shibīn al Qanāţir
+31.1969|31.5243|Shirbīn|Dakahlia|76081|
+30.0725|31.2408|Shubra|Cairo|0|
+30.1251|31.2505|Shubrā al Khaymah|Qalyubia|1240289|
+31.0280|30.7149|Shubrākhīt|Beheira|41233|
+26.9664|31.3795|Şidfā|Asyut|30228|
+31.2521|29.9945|Sidi Bishr|Alexandria|0|
+29.4135|30.8658|Sinnūris|Faiyum|133532|
+30.4428|30.9698|Sirs al Layyānah|Monufia|78168|
+29.2032|25.5196|Siwa Oasis|Matrouh|25031|Sīwah
+26.5570|31.6948|Sohag|Sohag|266944|
+29.9737|32.5263|Suez|Suez|699541|
+28.9210|30.8537|Sumusţā al Waqf|Beni Suweif|64965|
+28.9167|30.8500|Sumusţā as Sulţānī|Beni Suef|37260|
+30.9748|31.8723|Şān al Ḩajar al Qiblīyah|Sharqia|30969|
+26.6582|31.6714|Sāqultah|Sohag|34273|
+31.6117|25.9254|Sīdī Barānī|Matruh|38253|
+31.2111|31.0512|Sīdī Ghāzī|Kafr el-Sheikh|28136|
+31.2713|30.7862|Sīdī Sālim|Kafr El-Sheikh|44709|
+30.6798|30.9436|Talā|Monufia|72536|
+30.7885|31.0019|Tanda|Gharbia|576648|Tanta
+30.9438|31.5293|Timayy al Imdīd|Dakahlia|20389|
+30.3549|31.2010|Toukh|Qalyubia|52593|Ţūkh
+29.9393|31.2900|Tura|Cairo|0|
+29.3850|30.5570|Yūsuf aṣ-Ṣiddīq|Faiyum|23965|
+29.1101|32.6601|Zaafarana|Red Sea|46993|
+30.5846|31.3475|Zagazig|Sharqia|430445|
+30.0619|31.2206|Zamalek|Cairo|0|
+30.7142|31.2443|Zefta|Gharbia|111700|
+30.8870|30.6672|Ītāy al Bārūd|Beheira|77606|
+26.7693|31.5021|Ţahţā|Sohag|134314|
+31.0539|31.3779|Ţalkhā|Dakahlia|112851|
+26.9084|31.4347|Ţimā|Sohag|101130|
+29.4764|30.9612|Ţāmiyah|Faiyum|73070|
+25.5828|32.5329|Ţūd|Luxor|30780|
+30.0884|31.2835|Ḩadā’iq al Qubbah|Cairo|339612|
+29.8414|31.3008|Ḩalwān|Cairo|230000|
+30.9128|30.2902|Ḩawsh ‘Īsá|Beheira|82999|
+31.5084|31.8411|‘Izbat al Burj|Dakahlia|37953|
+31.1567|30.1477|‘Izbat ‘Alī as Sayyid|Beheira|53079|

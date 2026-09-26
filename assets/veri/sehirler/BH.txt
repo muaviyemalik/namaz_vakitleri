@@ -1,9 +1,9 @@
-26.2572|50.6119|Al Muharraq
-26.2456|50.6542|Al Ḩadd
-26.1300|50.5550|Ar Rifā‘
-26.0686|50.5039|Dār Kulayb
-26.2186|50.5478|Jidd Ḩafş
-26.1153|50.5069|Madīnat Ḩamad
-26.1736|50.5478|Madīnat ‘Īsá
-26.2279|50.5857|Manama
-26.1547|50.6206|Sitrah
+26.2572|50.6119|Al Muharraq|Muharraq|176583|
+26.2456|50.6542|Al Ḩadd|Muharraq|12797|
+26.1300|50.5550|Ar Rifā‘|Southern|115495|
+26.0686|50.5039|Dār Kulayb|Southern|65466|
+26.2186|50.5478|Jidd Ḩafş|Capital|66588|
+26.1153|50.5069|Madīnat Ḩamad|Northern|133550|
+26.1736|50.5478|Madīnat ‘Īsá|Southern|38090|
+26.2279|50.5857|Manama|Capital|147074|
+26.1547|50.6206|Sitrah|Capital|72601|

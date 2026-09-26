@@ -1,37 +1,37 @@
-1.8529|172.9437|Abaiang
-0.4000|173.8667|Abemama
-1.3532|173.0426|Ambo Village
-0.1643|173.6058|Aranuka
--2.6349|176.8223|Arorae
-1.3292|172.9752|Bairiki Village
--0.8550|169.5380|Banaba
-1.9833|-157.3653|Banana Village
-1.3454|173.0346|Banraeaba Village
--1.3296|175.9807|Beru
-1.3580|172.9211|Betio Village
-1.3673|173.1241|Bikenibeu Village
-1.3808|173.1389|Bonriki Village
-1.3908|173.1308|Buota Village
-3.1721|172.7968|Butaritari
-1.3615|173.0811|Eita Village
--2.8100|-171.6780|Kanton
-1.9400|-157.4750|Kiritimati
-0.2652|173.3888|Kuria
-1.9849|-157.4750|London Village
-0.9187|172.9976|Maiana
-3.3882|172.9966|Makin
-2.0108|173.2764|Marakei
-3.9081|-159.3883|Napari Village
-1.3636|173.1394|Nawerewere Village
--1.3657|176.4641|Nikunau
--0.6667|174.3500|Nonouti
--1.8859|175.5639|Onotoa
-2.0538|173.2635|Rawannawi Village
--1.4224|174.8981|Tabiteuea
-3.8667|-159.3333|Tabuaeran
-2.0164|-157.4877|Tabwakea Village
--2.5011|175.9862|Tamana
-1.3278|172.9770|Tarawa
-1.3331|173.0116|Teaoraereke Village
-1.3629|173.1623|Temaiku Village
-4.6876|-160.3880|Teraina
+1.8529|172.9437|Abaiang|Gilbert|0|
+0.4000|173.8667|Abemama|Gilbert|0|
+1.3532|173.0426|Ambo Village|Gilbert|1688|
+0.1643|173.6058|Aranuka|Gilbert|0|
+-2.6349|176.8223|Arorae|Gilbert|0|
+1.3292|172.9752|Bairiki Village|Gilbert|2766|
+-0.8550|169.5380|Banaba|Gilbert|0|
+1.9833|-157.3653|Banana Village|Line|1170|
+1.3454|173.0346|Banraeaba Village|Gilbert|1789|
+-1.3296|175.9807|Beru|Gilbert|0|
+1.3580|172.9211|Betio Village|Gilbert|12509|
+1.3673|173.1241|Bikenibeu Village|Gilbert|6170|
+1.3808|173.1389|Bonriki Village|Gilbert|2119|
+1.3908|173.1308|Buota Village|Gilbert|1373|
+3.1721|172.7968|Butaritari|Gilbert|0|
+1.3615|173.0811|Eita Village|Gilbert|2299|
+-2.8100|-171.6780|Kanton|Phoenix|0|
+1.9400|-157.4750|Kiritimati|Line|0|
+0.2652|173.3888|Kuria|Gilbert|0|
+1.9849|-157.4750|London Village|Line|1829|
+0.9187|172.9976|Maiana|Gilbert|0|
+3.3882|172.9966|Makin|Gilbert|0|
+2.0108|173.2764|Marakei|Gilbert|0|
+3.9081|-159.3883|Napari Village|Line|194|
+1.3636|173.1394|Nawerewere Village|Gilbert|1780|
+-1.3657|176.4641|Nikunau|Gilbert|0|
+-0.6667|174.3500|Nonouti|Gilbert|0|
+-1.8859|175.5639|Onotoa|Gilbert|0|
+2.0538|173.2635|Rawannawi Village|Gilbert|1075|
+-1.4224|174.8981|Tabiteuea|Gilbert|0|
+3.8667|-159.3333|Tabuaeran|Line|0|
+2.0164|-157.4877|Tabwakea Village|Line|1881|
+-2.5011|175.9862|Tamana|Gilbert|0|
+1.3278|172.9770|Tarawa|Gilbert|40311|
+1.3331|173.0116|Teaoraereke Village|Gilbert|3939|
+1.3629|173.1623|Temaiku Village|Gilbert|2011|
+4.6876|-160.3880|Teraina|Line|0|

@@ -1,100 +1,100 @@
-35.1002|33.8616|Acherítou
-35.0551|33.7839|Áchna
-34.7116|32.7313|Ágios Tomás
-34.7261|33.1387|Ágios Týchon
-35.1542|33.3964|Aglantziá
-35.1334|33.1287|Akáki
-34.9890|33.3989|Alámpra
-35.1176|33.9434|Ammochostos
-34.9515|33.5920|Aradíppou
-35.0484|33.1961|Aredioú
-35.0665|32.4945|Argáka
-35.1410|33.0379|Astromerítis
-35.0618|33.5416|Athíenou
-35.0361|33.8392|Avgórou
-34.9821|34.0018|Ayia Napa
-34.7977|32.4121|Chlórakas
-35.0229|33.4220|Dáli
-35.0648|33.9608|Derýneia
-34.8755|33.5868|Dhromolaxia
-35.1627|33.8832|Égkomi
-34.8070|32.4241|Emba
-35.0536|33.2429|Ergátes
-34.6777|32.9181|Erími
-35.1205|33.9389|Famagusta
-35.0412|33.9224|Frénaros
-35.1056|33.4198|Géri
-34.7221|33.0825|Germasógeia
-34.7550|32.4515|Geroskipou
-34.7619|32.4513|Geroskípou (quarter)
-34.7514|32.4545|Geroskípou Municipality
-34.9877|32.9047|Kakopetriá
-35.0849|33.2756|Káto Defterá
-35.1176|33.3254|Káto Lakatámeia
-34.6972|32.9932|Káto Polemídia
-35.1790|32.6860|Káto Pýrgos
-34.8228|32.4013|Kissonerga
-34.8470|33.5734|Kíti
-35.0200|33.1781|Klírou
-34.8245|33.3913|Kofínou
-35.1530|33.1997|Kokkinotrimithiá
-34.7523|32.4649|Koloni
-34.6686|32.9338|Kolossi
-34.7852|32.4590|Konia
-34.9240|33.3976|Kórnos
-34.9382|32.9755|Kyperoúnta
-35.3363|33.3173|Kyrenia
-35.3367|33.3150|Kyrenia Municipality
-35.3382|33.1737|Lápithos
-34.9229|33.6233|Larnaca
-35.1120|32.8500|Léfka
-35.2598|33.7319|Lefkónoiko
-34.6922|33.0285|Lemesós
-35.4689|34.1389|Leonárisso
-34.6841|33.0379|Limassol
-35.0089|33.8926|Liopétri
-34.9512|33.6266|Livádia
-34.9511|33.2978|Lythrodóntas
-34.9989|33.4618|Lýmpia
-35.1760|33.2043|Mámmari
-34.8611|33.5952|Meneou
-35.1095|33.1447|Méniko
-34.8158|32.4554|Mesógi
-35.1987|32.9934|Mórfou
-34.9526|33.4251|Mosfilotí
-34.7202|33.1007|Mouttagiáka
-35.1753|33.3642|Nicosia
-35.1694|33.3608|Nicosia Municipality
-34.7787|32.7936|Páchna
-35.0778|33.2658|Páno Defterá
-34.7056|32.9927|Páno Polemídia
-34.7768|32.4245|Paphos
-35.0395|33.9818|Paralímni
-34.7458|33.1583|Parekklisha
-34.8834|32.3817|Pégeia
-34.8960|32.9682|Peléndri
-35.0335|33.2541|Péra
-35.0417|33.7083|Pérgamos
-35.1293|33.0786|Peristeróna
-34.8336|33.5820|Perivólia
-34.6694|32.7013|Pissoúri
-35.0353|32.4258|Pólis
-35.0125|34.0583|Protaras
-34.9465|33.4628|Psevdás
-35.0625|33.2625|Psimolofou
-34.7417|33.1833|Pyrgos
-35.0124|33.6919|Pýla
-35.5972|34.3792|Rizokárpaso
-34.7119|32.8634|Sotíra
-34.7357|32.8844|Soúni-Zanakiá
-35.1487|33.3338|Stróvolos
-34.8374|32.4327|Tála
-34.8541|33.5475|Tersefánou
-35.2863|33.8917|Tríkomo
-35.0320|33.6150|Troúlloi
-34.8380|32.4755|Tsáda
-35.0731|33.3234|Tséri
-34.9860|33.6539|Voróklini
-34.9774|33.8489|Xylofágou
-35.0172|33.7424|Xylotymbou
-34.6880|32.9619|Ýpsonas
+35.1002|33.8616|Acherítou|Famagusta (Mağusa)|1721|
+35.0551|33.7839|Áchna|Famagusta (Mağusa)|2043|
+34.7116|32.7313|Ágios Tomás|Limassol (Leymasun)|0|
+34.7261|33.1387|Ágios Týchon|Limassol (Leymasun)|2204|
+35.1542|33.3964|Aglantziá|Nicosia|21543|
+35.1334|33.1287|Akáki|Nicosia (Lefkoşa)|2769|
+34.9890|33.3989|Alámpra|Nicosia (Lefkoşa)|1192|
+35.1176|33.9434|Ammochostos|Famagusta (Mağusa)|0|
+34.9515|33.5920|Aradíppou|Larnaca (Larnaka)|22934|
+35.0484|33.1961|Aredioú|Nicosia (Lefkoşa)|1129|
+35.0665|32.4945|Argáka|Paphos (Pafos)|1078|
+35.1410|33.0379|Astromerítis|Nicosia (Lefkoşa)|2463|
+35.0618|33.5416|Athíenou|Larnaca (Larnaka)|5202|
+35.0361|33.8392|Avgórou|Famagusta (Mağusa)|4921|
+34.9821|34.0018|Ayia Napa|Famagusta (Mağusa)|4717|
+34.7977|32.4121|Chlórakas|Paphos (Pafos)|6421|
+35.0229|33.4220|Dáli|Nicosia (Lefkoşa)|12350|
+35.0648|33.9608|Derýneia|Famagusta (Mağusa)|6229|
+34.8755|33.5868|Dhromolaxia|Larnaca (Larnaka)|6866|
+35.1627|33.8832|Égkomi|Ammochostos|20502|
+34.8070|32.4241|Emba|Paphos (Pafos)|5505|
+35.0536|33.2429|Ergátes|Nicosia (Lefkoşa)|1656|
+34.6777|32.9181|Erími|Limassol (Leymasun)|1493|
+35.1205|33.9389|Famagusta|Famagusta (Mağusa)|42526|
+35.0412|33.9224|Frénaros|Famagusta (Mağusa)|3450|
+35.1056|33.4198|Géri|Nicosia (Lefkoşa)|9651|
+34.7221|33.0825|Germasógeia|Limassol (Leymasun)|17325|
+34.7550|32.4515|Geroskipou|Paphos (Pafos)|8355|
+34.7619|32.4513|Geroskípou (quarter)|Paphos (Pafos)|0|
+34.7514|32.4545|Geroskípou Municipality|Paphos (Pafos)|0|
+34.9877|32.9047|Kakopetriá|Nicosia (Lefkoşa)|1255|
+35.0849|33.2756|Káto Defterá|Nicosia (Lefkoşa)|1706|
+35.1176|33.3254|Káto Lakatámeia|Nicosia|40000|
+34.6972|32.9932|Káto Polemídia|Limassol|23231|
+35.1790|32.6860|Káto Pýrgos|Nicosia (Lefkoşa)|1170|
+34.8228|32.4013|Kissonerga|Paphos (Pafos)|2004|
+34.8470|33.5734|Kíti|Larnaca (Larnaka)|5136|
+35.0200|33.1781|Klírou|Nicosia (Lefkoşa)|1623|
+34.8245|33.3913|Kofínou|Larnaca (Larnaka)|1372|
+35.1530|33.1997|Kokkinotrimithiá|Nicosia (Lefkoşa)|4817|
+34.7523|32.4649|Koloni|Paphos (Pafos)|264|
+34.6686|32.9338|Kolossi|Larnaca (Larnaka)|6478|
+34.7852|32.4590|Konia|Paphos (Pafos)|2209|
+34.9240|33.3976|Kórnos|Larnaca (Larnaka)|1943|
+34.9382|32.9755|Kyperoúnta|Limassol (Leymasun)|1560|
+35.3363|33.3173|Kyrenia|Kyrenia (Keryneia)|26701|
+35.3367|33.3150|Kyrenia Municipality|Kyrenia (Keryneia)|0|
+35.3382|33.1737|Lápithos|Kyrenia (Keryneia)|5215|
+34.9229|33.6233|Larnaca|Larnaca (Larnaka)|72000|
+35.1120|32.8500|Léfka|Nicosia (Lefkoşa)|7835|
+35.2598|33.7319|Lefkónoiko|Famagusta (Mağusa)|3187|
+34.6922|33.0285|Lemesós|Limassol (Leymasun)|0|
+35.4689|34.1389|Leonárisso|Famagusta (Mağusa)|1593|
+34.6841|33.0379|Limassol|Limassol (Leymasun)|154000|
+35.0089|33.8926|Liopétri|Famagusta (Mağusa)|4005|
+34.9512|33.6266|Livádia|Larnaca (Larnaka)|5329|
+34.9511|33.2978|Lythrodóntas|Nicosia (Lefkoşa)|2736|
+34.9989|33.4618|Lýmpia|Nicosia (Lefkoşa)|2262|
+35.1760|33.2043|Mámmari|Nicosia (Lefkoşa)|1122|
+34.8611|33.5952|Meneou|Larnaca (Larnaka)|1248|
+35.1095|33.1447|Méniko|Nicosia (Lefkoşa)|1023|
+34.8158|32.4554|Mesógi|Paphos (Pafos)|1689|
+35.1987|32.9934|Mórfou|Nicosia (Lefkoşa)|24070|
+34.9526|33.4251|Mosfilotí|Larnaca (Larnaka)|1158|
+34.7202|33.1007|Mouttagiáka|Limassol (Leymasun)|2818|
+35.1753|33.3642|Nicosia|Nicosia (Lefkoşa)|200452|
+35.1694|33.3608|Nicosia Municipality|Nicosia (Lefkoşa)|0|
+34.7787|32.7936|Páchna|Limassol (Leymasun)|1008|
+35.0778|33.2658|Páno Defterá|Nicosia (Lefkoşa)|1983|
+34.7056|32.9927|Páno Polemídia|Limassol (Leymasun)|3781|
+34.7768|32.4245|Paphos|Paphos (Pafos)|35961|
+35.0395|33.9818|Paralímni|Famagusta (Mağusa)|11836|
+34.7458|33.1583|Parekklisha|Limassol (Leymasun)|1382|
+34.8834|32.3817|Pégeia|Paphos (Pafos)|2462|
+34.8960|32.9682|Peléndri|Limassol (Leymasun)|1237|
+35.0335|33.2541|Péra|Nicosia (Lefkoşa)|1060|
+35.0417|33.7083|Pérgamos|Larnaca (Larnaka)|15000|
+35.1293|33.0786|Peristeróna|Nicosia (Lefkoşa)|2190|
+34.8336|33.5820|Perivólia|Larnaca (Larnaka)|1876|
+34.6694|32.7013|Pissoúri|Limassol (Leymasun)|1078|
+35.0353|32.4258|Pólis|Paphos (Pafos)|1975|
+35.0125|34.0583|Protaras|Famagusta (Mağusa)|20230|
+34.9465|33.4628|Psevdás|Larnaca (Larnaka)|1070|
+35.0625|33.2625|Psimolofou|Nicosia (Lefkoşa)|1686|
+34.7417|33.1833|Pyrgos|Limassol (Leymasun)|1407|
+35.0124|33.6919|Pýla|Larnaca (Larnaka)|1434|
+35.5972|34.3792|Rizokárpaso|Famagusta (Mağusa)|5215|
+34.7119|32.8634|Sotíra|Limassol (Leymasun)|4444|
+34.7357|32.8844|Soúni-Zanakiá|Limassol (Leymasun)|0|
+35.1487|33.3338|Stróvolos|Nicosia|67904|
+34.8374|32.4327|Tála|Paphos (Pafos)|1655|
+34.8541|33.5475|Tersefánou|Larnaca (Larnaka)|1018|
+35.2863|33.8917|Tríkomo|Famagusta (Mağusa)|4490|
+35.0320|33.6150|Troúlloi|Larnaca (Larnaka)|1078|
+34.8380|32.4755|Tsáda|Paphos (Pafos)|1043|
+35.0731|33.3234|Tséri|Nicosia (Lefkoşa)|5498|
+34.9860|33.6539|Voróklini|Larnaca (Larnaka)|3446|
+34.9774|33.8489|Xylofágou|Larnaca (Larnaka)|6000|
+35.0172|33.7424|Xylotymbou|Larnaca (Larnaka)|3593|
+34.6880|32.9619|Ýpsonas|Limassol (Leymasun)|7348|

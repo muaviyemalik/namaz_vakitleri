@@ -1,118 +1,118 @@
-2.7388|23.7833|Aketi
-2.8622|30.8414|Aru
-0.1833|27.4833|Babamba
-4.1263|27.3953|Bakwa
--3.3169|17.3806|Bandundu|Bandundu Province
-1.2209|19.8021|Basankusu
-1.2391|23.6160|Basoko
--7.0841|29.7368|Baudhuinville
-0.4911|29.4731|Beni
-2.3735|20.4977|Binga
--0.2816|20.8805|Boende
-0.0000|18.2167|Bolenge
--2.1580|16.2325|Bolobo
--5.8510|13.0536|Boma
-3.8146|23.6867|Bondo
-1.5070|21.0726|Bongandanga
-4.1898|19.8833|Bosobolo
--9.2044|25.8547|Bukama
--2.4908|28.8428|Bukavu
--4.5444|18.6036|Bulungu
-2.1877|22.4683|Bumba
-1.5594|30.2522|Bunia
-3.3386|20.8858|Businga
-2.7858|24.7300|Buta
-0.1416|29.2912|Butembo
--5.4957|22.2696|Demba
--4.1587|19.8619|Dibaya-Lubwe
-1.9193|30.5026|Djugu
--3.6244|18.8494|Dungu
--10.6177|26.3211|Fungurume
--6.7450|23.9533|Gandajika
-4.2790|21.0028|Gbadolite
-3.2565|19.7723|Gemena
--1.6741|29.2284|Goma
-0.6978|29.5186|Hyosha
--4.9659|19.5915|Idiofa
--4.3311|20.5864|Ilebo
--5.1312|15.0541|Inkisi
--1.9275|18.2881|Inongo
-2.7739|27.6160|Isiro
--6.0526|26.9143|Kabalo
--2.4968|28.7908|Kabare
--5.9988|23.2539|Kabeya-Kamwanga
--6.1379|24.4818|Kabinda
--5.9475|29.1947|Kalemie
--5.4854|28.2160|Kalima
--10.8735|26.5975|Kambove
--8.7351|24.9980|Kamina
--3.5968|26.6671|Kampene
--5.8962|22.4166|Kananga
--7.5167|24.1740|Kanyama
--0.6998|29.1718|Kanyobagonga
--10.3834|23.4499|Kasaji
--4.5833|15.1655|Kasangulu
--4.4274|26.6666|Kasongo
--6.4783|16.8174|Kasongo-Lunda
--0.8254|29.3645|Katanda
-0.0893|29.3086|Katwa
--0.6093|29.1725|Kayna
--5.7652|13.6571|Kenge
--5.0410|18.8162|Kikwit
--5.5615|14.4316|Kimpese
--2.9437|25.9224|Kindu
--4.3276|15.3136|Kinshasa
--8.2059|26.4204|Kipamba
--11.7610|27.2513|Kipushi
--1.0906|29.2925|Kirumba
-0.5153|25.1910|Kisangani
--7.5816|30.2060|Kituku
--10.7167|25.4667|Kolwezi
--5.3853|27.0003|Kongolo
--2.7249|18.1476|Kutu
-3.6533|18.6357|Libenge
--10.9830|26.7384|Likasi
-2.1513|21.5167|Lisala
--3.5210|23.6005|Lodja
--5.3877|25.7489|Lubao
--0.1584|29.2386|Lubero
--11.6609|27.4794|Lubumbashi
--5.3522|21.4219|Luebo
--1.0605|17.1821|Lukolela
--3.8688|23.8835|Lukula
--7.1618|23.7006|Luputa
--4.9750|23.4439|Lusambo
--10.3781|24.5452|Malemba
--8.0448|26.7963|Malemba-Nkulu
--4.0233|19.5339|Mangai
-1.9447|30.0386|Mangbwalu
-0.6042|29.3100|Mangina
--7.2986|27.3989|Manono
--4.7755|17.8910|Masi-Manimba
--4.3836|15.3914|Masina
--5.8386|13.4631|Matadi
-0.0486|18.2603|Mbandaka
--5.2584|14.8584|Mbanza-Ngungu
--6.1360|23.5898|Mbuji-Mayi
--6.2215|23.3925|Miabi
--5.9275|12.3715|Moanda
--12.4276|28.3468|Mokambo
--7.8349|26.9985|Mulongo
--3.0173|16.9224|Mushie
--4.8519|21.5595|Mweka
--9.8170|22.8702|Mwene
--7.0091|23.4528|Mwene-Ditu
--2.7204|17.6900|Nioki
--5.9561|28.0165|Nyunzu
--7.6981|29.7772|Pepa
--8.4660|28.9008|Pweto
--1.1867|29.4467|Rutshuru
--1.5739|29.0434|Sake
--4.9971|12.9484|Tshela
--6.4162|20.7999|Tshikapa
--10.9667|22.9000|Tshilenge
--3.3953|29.1378|Uvira
-2.1484|27.9947|Wamba
-3.0372|29.5355|Watsa
-0.7675|24.4397|Yangambi
-4.3428|18.5945|Zongo
+2.7388|23.7833|Aketi|Bas-Uélé|61437|
+2.8622|30.8414|Aru|Ituri|45516|
+0.1833|27.4833|Babamba|Tshopo|81740|
+4.1263|27.3953|Bakwa|Haut-Uele|100575|
+-3.3169|17.3806|Bandundu|Kwilu|202904|Bandundu Province
+1.2209|19.8021|Basankusu|Équateur|41141|
+1.2391|23.6160|Basoko|Tshopo|76371|
+-7.0841|29.7368|Baudhuinville|Tanganyika|81181|
+0.4911|29.4731|Beni|Nord-Kivu|140731|
+2.3735|20.4977|Binga|Mongala|96790|
+-0.2816|20.8805|Boende|Tshuapa|50794|
+0.0000|18.2167|Bolenge|Équateur|79648|
+-2.1580|16.2325|Bolobo|Mai-Ndombe|47032|
+-5.8510|13.0536|Boma|Kongo Central|297009|
+3.8146|23.6867|Bondo|Bas-Uélé|17860|
+1.5070|21.0726|Bongandanga|Sud-Ubangi|4105|
+4.1898|19.8833|Bosobolo|Nord-Ubangi|14553|
+-9.2044|25.8547|Bukama|Haut-Lomami|105530|
+-2.4908|28.8428|Bukavu|Sud-Kivu|816811|
+-4.5444|18.6036|Bulungu|Kwilu|81393|
+2.1877|22.4683|Bumba|Mongala|154586|
+1.5594|30.2522|Bunia|Ituri|399282|
+3.3386|20.8858|Businga|Nord-Ubangi|48339|
+2.7858|24.7300|Buta|Bas-Uélé|80751|
+0.1416|29.2912|Butembo|Nord-Kivu|286242|
+-5.4957|22.2696|Demba|Kasai-Central|22263|
+-4.1587|19.8619|Dibaya-Lubwe|Kwilu|55672|
+1.9193|30.5026|Djugu|Ituri|41409|
+-3.6244|18.8494|Dungu|Mai-Ndombe|41076|
+-10.6177|26.3211|Fungurume|Lualaba|50100|
+-6.7450|23.9533|Gandajika|Kasaï Oriental|208051|
+4.2790|21.0028|Gbadolite|Nord-Ubangi|73835|
+3.2565|19.7723|Gemena|Équateur|197159|
+-1.6741|29.2284|Goma|Nord-Kivu|78200|
+0.6978|29.5186|Hyosha|North Kivu|74502|
+-4.9659|19.5915|Idiofa|Kwilu|87882|
+-4.3311|20.5864|Ilebo|Kasaï|117245|
+-5.1312|15.0541|Inkisi|Bas-Congo|115317|
+-1.9275|18.2881|Inongo|Mai-Ndombe|68852|
+2.7739|27.6160|Isiro|Haut-Uélé|255409|
+-6.0526|26.9143|Kabalo|Tanganyika|81191|
+-2.4968|28.7908|Kabare|Sud-Kivu|37034|
+-5.9988|23.2539|Kabeya-Kamwanga|East Kasai|44093|
+-6.1379|24.4818|Kabinda|Kasaï Oriental|219396|
+-5.9475|29.1947|Kalemie|Tanganyika|160961|
+-5.4854|28.2160|Kalima|Tanganyika|72327|
+-10.8735|26.5975|Kambove|Haut-Katanga|99884|
+-8.7351|24.9980|Kamina|Haut-Lomami|200184|
+-3.5968|26.6671|Kampene|Maniema|37034|
+-5.8962|22.4166|Kananga|Kasai-Central|1271704|
+-7.5167|24.1740|Kanyama|Haut-Lomami|80043|
+-0.6998|29.1718|Kanyobagonga|North Kivu|44146|
+-10.3834|23.4499|Kasaji|Lualaba|0|
+-4.5833|15.1655|Kasangulu|Kongo Central|45400|
+-4.4274|26.6666|Kasongo|Maniema|81629|
+-6.4783|16.8174|Kasongo-Lunda|Kwango|20060|
+-0.8254|29.3645|Katanda|North Kivu|42105|
+0.0893|29.3086|Katwa|North Kivu|89352|
+-0.6093|29.1725|Kayna|North Kivu|51103|
+-5.7652|13.6571|Kenge|Bas-Congo|63317|
+-5.0410|18.8162|Kikwit|Kwilu|509367|
+-5.5615|14.4316|Kimpese|Bas-Congo|79539|
+-2.9437|25.9224|Kindu|Maniema|234651|
+-4.3276|15.3136|Kinshasa|Kinshasa|16000000|
+-8.2059|26.4204|Kipamba|Haut-Lomami|46430|
+-11.7610|27.2513|Kipushi|Haut-Katanga|169635|
+-1.0906|29.2925|Kirumba|North Kivu|52041|
+0.5153|25.1910|Kisangani|Tshopo|1602144|
+-7.5816|30.2060|Kituku|Tanganyika|66378|
+-10.7167|25.4667|Kolwezi|Lualaba|790248|
+-5.3853|27.0003|Kongolo|Tanganyika|86932|
+-2.7249|18.1476|Kutu|Mai-Ndombe|56061|
+3.6533|18.6357|Libenge|Sud-Ubangi|37344|
+-10.9830|26.7384|Likasi|Haut-Katanga|635768|
+2.1513|21.5167|Lisala|Équateur|117464|
+-3.5210|23.6005|Lodja|Sankuru|91409|
+-5.3877|25.7489|Lubao|Lomami|37818|
+-0.1584|29.2386|Lubero|North Kivu|41722|
+-11.6609|27.4794|Lubumbashi|Haut-Katanga|2221925|
+-5.3522|21.4219|Luebo|Kasaï|45443|
+-1.0605|17.1821|Lukolela|Équateur|15000|
+-3.8688|23.8835|Lukula|Sankuru|46534|
+-7.1618|23.7006|Luputa|Lomami|54676|
+-4.9750|23.4439|Lusambo|Sankuru|49376|
+-10.3781|24.5452|Malemba|Lualaba|44027|
+-8.0448|26.7963|Malemba-Nkulu|Haut-Lomami|25430|
+-4.0233|19.5339|Mangai|Kwilu|63713|
+1.9447|30.0386|Mangbwalu|Ituri|45318|
+0.6042|29.3100|Mangina|North Kivu|55439|
+-7.2986|27.3989|Manono|Tanganyika|82465|
+-4.7755|17.8910|Masi-Manimba|Kwilu|45775|
+-4.3836|15.3914|Masina|Kinshasa|485167|
+-5.8386|13.4631|Matadi|Kongo Central|425662|
+0.0486|18.2603|Mbandaka|Équateur|455011|
+-5.2584|14.8584|Mbanza-Ngungu|Kongo Central|142773|
+-6.1360|23.5898|Mbuji-Mayi|Kasaï Oriental|2101332|
+-6.2215|23.3925|Miabi|East Kasai|79929|
+-5.9275|12.3715|Moanda|Kongo Central|128804|
+-12.4276|28.3468|Mokambo|Haut-Katanga|34762|
+-7.8349|26.9985|Mulongo|Haut-Lomami|89340|
+-3.0173|16.9224|Mushie|Mai-Ndombe|61336|
+-4.8519|21.5595|Mweka|Kasaï|81267|
+-9.8170|22.8702|Mwene|Lualaba|295683|
+-7.0091|23.4528|Mwene-Ditu|Lomami|189177|
+-2.7204|17.6900|Nioki|Mai-Ndombe|62153|
+-5.9561|28.0165|Nyunzu|Tanganyika|62565|
+-7.6981|29.7772|Pepa|Tanganyika|24767|
+-8.4660|28.9008|Pweto|Haut-Katanga|38298|
+-1.1867|29.4467|Rutshuru|North Kivu|82680|
+-1.5739|29.0434|Sake|Nord-Kivu|17151|
+-4.9971|12.9484|Tshela|Kongo Central|64210|
+-6.4162|20.7999|Tshikapa|Kasaï|634529|
+-10.9667|22.9000|Tshilenge|Lualaba|116073|
+-3.3953|29.1378|Uvira|Sud-Kivu|407092|
+2.1484|27.9947|Wamba|Haut-Uélé|17373|
+3.0372|29.5355|Watsa|Haut-Uélé|47278|
+0.7675|24.4397|Yangambi|Tshopo|62082|
+4.3428|18.5945|Zongo|Sud-Ubangi|48658|

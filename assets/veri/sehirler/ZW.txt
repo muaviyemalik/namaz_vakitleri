@@ -1,110 +1,111 @@
--17.3833|30.4000|Banket
--18.2528|30.8473|Beatrice
--22.2167|30.0000|Beitbridge
--21.8983|30.0741|Beitbridge District
--20.1375|31.9316|Bikita
--17.3019|31.3306|Bindura
--17.2123|31.3030|Bindura District
--17.6203|27.3414|Binga
--17.8046|27.7009|Binga District
--19.5251|28.6800|Bubi
--19.4566|31.9316|Buhera
--20.1500|28.5833|Bulawayo
--16.7229|31.1146|Centenary
--16.4167|31.1667|Centenary District
--18.0629|29.8925|Chakari
--18.1302|30.1407|Chegutu
--18.1310|30.4005|Chegutu District
--19.8000|32.8667|Chimanimani
--19.7829|32.7334|Chimanimani District
--17.3667|30.2000|Chinhoyi
--20.1883|32.6236|Chipinge
--20.5496|32.4311|Chipinge District
--21.0500|31.6667|Chiredzi
--21.2858|31.7704|Chiredzi District
--16.0333|28.8500|Chirundu
--18.0127|31.0755|Chitungwiza
--19.0211|30.8922|Chivhu
--20.5000|30.5833|Chivi
--17.3833|30.9500|Concession
--18.6167|26.8667|Dete
--19.0667|31.7500|Dorowa Mining Lease
--17.8900|31.1475|Epworth
--20.2898|28.9226|Esigodini
--20.5333|29.2850|Filabusi
--17.3551|31.0672|Glendale
--18.2048|28.9349|Gokwe
--17.8070|31.3637|Goromonzi
--16.3721|30.6061|Guruve
--19.6088|31.2506|Gutu
--20.9362|29.0070|Gwanda
--21.2093|29.1756|Gwanda District
--19.4500|29.8167|Gweru
--19.4566|29.6450|Gweru District
--17.8277|31.0534|Harare
--17.8415|30.8767|Harare Western Suburbs
--18.2773|32.0515|Headlands
--16.4130|29.5858|Hurungwe
--18.3645|26.4988|Hwange
--18.7500|26.5000|Hwange District
--19.7833|29.2000|Insiza
--20.2643|29.4739|Insiza District
--19.6756|28.8469|Inyati
--18.3333|29.9153|Kadoma
--18.3405|29.8283|Kadoma District
--18.3156|27.0573|Kamativi Mine
--16.5167|28.8000|Kariba
--16.9101|28.6598|Kariba District
--16.8099|29.6925|Karoi
--18.9281|29.8149|Kwekwe
--18.7500|29.5000|Kwekwe District
--19.3322|30.1777|Lalapanzi
--18.9315|27.8070|Lupane
--18.8361|27.9910|Lupane District
--18.1390|31.8493|Macheke
--17.1667|30.0833|Makonde
--18.3355|32.1465|Makoni
--20.9554|27.9829|Mangwe
--18.1853|31.5519|Marondera
--18.2921|31.5125|Marondera District
--20.0367|30.4823|Mashava
--20.0637|30.8277|Masvingo
--20.3148|30.9001|Masvingo District
--20.9554|28.4946|Matobo
--17.5040|30.9739|Mazowe
--17.2808|30.9323|Mazowe District
--20.7258|30.0096|Mberengwa
--16.8939|30.1683|Mhangura
--16.7725|31.5838|Mount Darwin
--17.7417|30.9389|Mount Hampden
--17.0471|32.6528|Mudzi
--17.6432|31.7840|Murehwa
--17.8006|31.8308|Murehwa District
--18.9707|32.6709|Mutare
--19.2551|32.4433|Mutare District
--18.6628|32.7455|Mutasa
--17.3970|32.2268|Mutoko
--19.2792|30.5283|Mvuma
--17.0333|30.8500|Mvurwi
--21.3584|30.7067|Mwenezi
--18.9247|28.7122|Nkayi
--17.8833|30.7000|Norton
--18.2167|32.7500|Nyanga
--17.9295|32.7656|Nyanga District
--18.7059|32.1680|Nyazura
--18.9617|32.4056|Odzi
--18.8911|32.6978|Penhalonga
--20.4833|27.8167|Plumtree
--17.0333|30.4333|Raffingora
--19.0333|29.7833|Redcliff
--18.5279|32.1284|Rusape
--16.6079|32.3143|Rushinga
--17.8897|31.2447|Ruwa
--17.3116|31.5756|Shamva
--17.1237|31.6415|Shamva District
--19.7833|29.3667|Shangani
--19.6702|30.0059|Shurugwi
--19.7500|30.1667|Shurugwi District
--20.3470|28.9499|Umzingwane
--17.9328|25.8307|Victoria Falls
--20.3267|30.0665|Zvishavane
+-17.3833|30.4000|Banket|Mashonaland West|9845|
+-18.2528|30.8473|Beatrice|Mashonaland East|1647|
+-22.2167|30.0000|Beitbridge|Matabeleland South|58574|
+-21.8983|30.0741|Beitbridge District|Matabeleland South|0|
+-20.1375|31.9316|Bikita|Masvingo|0|
+-17.3019|31.3306|Bindura|Mashonaland Central|50400|
+-17.2123|31.3030|Bindura District|Mashonaland Central|0|
+-17.6203|27.3414|Binga|Matabeleland North|4327|
+-17.8046|27.7009|Binga District|Matabeleland North|0|
+-19.5251|28.6800|Bubi|Matabeleland North|0|
+-19.4566|31.9316|Buhera|Manicaland|0|
+-20.1500|28.5833|Bulawayo|Bulawayo|665952|
+-16.7229|31.1146|Centenary|Mashonaland Central|3388|
+-16.4167|31.1667|Centenary District|Mashonaland Central|0|
+-18.0629|29.8925|Chakari|Mashonaland West|6472|
+-18.1302|30.1407|Chegutu|Mashonaland West|65800|
+-18.1310|30.4005|Chegutu District|Mashonaland West|0|
+-19.8000|32.8667|Chimanimani|Manicaland|2752|
+-19.7829|32.7334|Chimanimani District|Manicaland|0|
+-17.3667|30.2000|Chinhoyi|Mashonaland West|90800|
+-20.1883|32.6236|Chipinge|Manicaland|34959|
+-20.5496|32.4311|Chipinge District|Manicaland|0|
+-21.0500|31.6667|Chiredzi|Masvingo|40100|
+-21.2858|31.7704|Chiredzi District|Masvingo|0|
+-16.0333|28.8500|Chirundu|Mashonaland West|1911|
+-18.0127|31.0755|Chitungwiza|Harare|371246|
+-19.0211|30.8922|Chivhu|Mashonaland East|12958|
+-20.5000|30.5833|Chivi|Masvingo|0|
+-17.3833|30.9500|Concession|Mashonaland Central|4983|
+-18.6167|26.8667|Dete|Matabeleland North|2993|
+-19.0667|31.7500|Dorowa Mining Lease|Manicaland|1676|
+-17.8900|31.1475|Epworth|Harare|206365|
+-20.2898|28.9226|Esigodini|Matabeleland South|2228|
+-20.5333|29.2850|Filabusi|Matabeleland South|1756|
+-17.3551|31.0672|Glendale|Mashonaland Central|9798|
+-18.2048|28.9349|Gokwe|Midlands|33073|
+-17.8070|31.3637|Goromonzi|Mashonaland East|0|
+-16.3721|30.6061|Guruve|Mashonaland Central|0|
+-19.6088|31.2506|Gutu|Masvingo|0|
+-20.9362|29.0070|Gwanda|Matabeleland South|26700|
+-21.2093|29.1756|Gwanda District|Matabeleland South|0|
+-19.4500|29.8167|Gweru|Midlands|158200|
+-19.4566|29.6450|Gweru District|Midlands|0|
+-17.8277|31.0534|Harare|Harare|1542813|
+-17.8415|30.8767|Harare Western Suburbs|Mashonaland West|15556|
+-18.2773|32.0515|Headlands|Manicaland|1728|
+-16.4130|29.5858|Hurungwe|Mashonaland West|0|
+-18.3645|26.4988|Hwange|Matabeleland North|39750|
+-18.7500|26.5000|Hwange District|Matabeleland North|0|
+-19.7833|29.2000|Insiza|Matabeleland South|2645|
+-20.2643|29.4739|Insiza District|Matabeleland South|0|
+-19.6756|28.8469|Inyati|Matabeleland North|8402|
+-18.3333|29.9153|Kadoma|Mashonaland West|117381|
+-18.3405|29.8283|Kadoma District|Mashonaland West|0|
+-18.3156|27.0573|Kamativi Mine|Matabeleland North|1575|
+-16.5167|28.8000|Kariba|Mashonaland West|27600|
+-16.9101|28.6598|Kariba District|Mashonaland West|0|
+-16.8099|29.6925|Karoi|Mashonaland West|37564|
+-18.9281|29.8149|Kwekwe|Midlands|119863|
+-18.7500|29.5000|Kwekwe District|Midlands|0|
+-19.3322|30.1777|Lalapanzi|Midlands|1390|
+-18.9315|27.8070|Lupane|Matabeleland North|2211|
+-18.8361|27.9910|Lupane District|Matabeleland North|0|
+-18.1390|31.8493|Macheke|Mashonaland East|3642|
+-17.1667|30.0833|Makonde|Mashonaland West|0|
+-18.3355|32.1465|Makoni|Manicaland|0|
+-20.9554|27.9829|Mangwe|Matabeleland South|0|
+-18.1853|31.5519|Marondera|Mashonaland East|66204|
+-18.2921|31.5125|Marondera District|Mashonaland East|0|
+-20.0367|30.4823|Mashava|Masvingo|12994|
+-20.0637|30.8277|Masvingo|Masvingo|90286|
+-20.3148|30.9001|Masvingo District|Masvingo|0|
+-20.9554|28.4946|Matobo|Matabeleland South|0|
+-17.5040|30.9739|Mazowe|Mashonaland Central|9966|
+-17.2808|30.9323|Mazowe District|Mashonaland Central|0|
+-20.7258|30.0096|Mberengwa|Midlands|0|
+-16.8939|30.1683|Mhangura|Mashonaland West|6503|
+-16.7725|31.5838|Mount Darwin|Mashonaland Central|6349|
+-17.7417|30.9389|Mount Hampden|Mashonaland East|30000|
+-17.0471|32.6528|Mudzi|Mashonaland East|0|
+-17.6432|31.7840|Murehwa|Mashonaland East|0|
+-17.8006|31.8308|Murehwa District|Mashonaland East|0|
+-18.9707|32.6709|Mutare|Manicaland|224802|
+-19.2551|32.4433|Mutare District|Manicaland|0|
+-18.6628|32.7455|Mutasa|Manicaland|0|
+-17.3970|32.2268|Mutoko|Mashonaland East|12336|
+-19.2792|30.5283|Mvuma|Midlands|4331|
+-17.0333|30.8500|Mvurwi|Mashonaland Central|15646|
+-21.3584|30.7067|Mwenezi|Masvingo|0|
+-18.9247|28.7122|Nkayi|Matabeleland North|0|
+-17.8833|30.7000|Norton|Mashonaland West|87039|
+-18.2167|32.7500|Nyanga|Manicaland|4852|
+-17.9295|32.7656|Nyanga District|Manicaland|0|
+-18.7059|32.1680|Nyazura|Manicaland|2110|
+-18.9617|32.4056|Odzi|Manicaland|3438|
+-18.8911|32.6978|Penhalonga|Manicaland|7681|
+-20.4833|27.8167|Plumtree|Matabeleland South|14460|
+-17.0333|30.4333|Raffingora|Mashonaland West|1957|
+-19.0333|29.7833|Redcliff|Midlands|41526|
+-18.5279|32.1284|Rusape|Manicaland|37906|
+-16.6079|32.3143|Rushinga|Mashonaland Central|0|
+-17.8897|31.2447|Ruwa|Mashonaland East|94083|
+-17.3116|31.5756|Shamva|Mashonaland Central|10317|
+-17.1237|31.6415|Shamva District|Mashonaland Central|0|
+-19.7833|29.3667|Shangani|Midlands|3835|
+-19.6702|30.0059|Shurugwi|Midlands|23304|
+-19.7500|30.1667|Shurugwi District|Midlands|0|
+-20.3470|28.9499|Umzingwane|Matabeleland South|0|
+-17.9328|25.8307|Victoria Falls|Matabeleland North|35215|
+-20.3267|30.0665|Zvishavane|Masvingo|59717|
+-20.3035|30.0751|Zvishavane|Midlands|59717|

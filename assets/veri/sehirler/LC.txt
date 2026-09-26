@@ -1,455 +1,479 @@
-14.0194|-60.9777|Active Hill
-14.0077|-60.9646|Agard Lands/Morne Dudon
-14.0185|-60.9616|Almondale
-13.7745|-61.0051|Annus
-13.9087|-60.9044|Anse Canot
-13.8643|-61.0702|Anse Chastanet
-13.9226|-61.0525|Anse Cochon
-13.9322|-61.0429|Anse Galet
-13.7957|-60.9157|Anse Ger
-13.9462|-61.0388|Anse La Raye
-13.9096|-61.0476|Anse La Verdue
-13.9057|-60.8918|Athens
-13.7667|-60.9806|Augier
-13.9525|-60.9046|Au Leon
-14.0007|-60.9867|Aurendel Hill
-13.9454|-61.0411|Au Tabor
-13.9446|-61.0356|Au Tabor Hill
-14.0053|-60.9464|Babonneau Proper
-13.9980|-60.9816|Bagatelle
-14.0147|-60.9517|Balata
-13.7712|-61.0239|Balca
-13.7764|-61.0193|Balca/En Leur Ba
-13.7599|-61.0284|Balembouche
-14.0109|-61.0014|Banannes Bay
-13.7921|-60.9928|Banse
-13.7815|-60.9984|Banse La Grace
-13.9591|-60.9341|Bara Bara
-14.0142|-60.9892|Barnard Hill
-13.8514|-61.0594|Barons Drive/Coin De L'Anse
-13.9681|-60.9907|Barre Denis
-13.9619|-60.9968|Barre Duchaussee
-13.9725|-61.0183|Barre St.Joseph
-13.9108|-60.9243|Bazile
-13.7398|-60.9474|Beane Field
-13.8215|-61.0340|Beasejour/Myers Bridge
-13.8178|-60.9153|Beauchamp
-14.0765|-60.9378|Beausejour
-14.0745|-60.9293|Beausejour/Fostin'S Development
-14.0773|-60.9268|Beausejour/Ndc
-13.9528|-60.9975|Belair
-14.0078|-60.9963|Bella Rosa
-13.8275|-61.0427|Bellefond
-13.8270|-61.0313|Belle Plaine
-13.8051|-61.0361|Belle Vue
-14.0884|-60.9461|Belle Vue Estate
-13.9504|-60.9328|Belmont
-13.8912|-61.0555|Belvedere
-13.9608|-60.9750|Bexon
-14.0243|-60.9744|Bisee
-14.0002|-60.9850|Bishop'S Gap
-14.0226|-60.9749|Bissee
-13.7433|-60.9827|Black Bay
-14.0046|-60.9881|Black Mallet
-13.8062|-60.9463|Blanchard
-14.0020|-60.9695|Bocage
-14.0155|-60.9209|Boguis
-14.0106|-60.9256|Boguis/Desa Blond
-14.0040|-60.9944|Bois Catchet
-13.8046|-61.0495|Bois Dinde
-14.0580|-60.9599|Bois D'Orange
-14.0620|-60.9691|Bois D'Ornange/Trouya
-13.9202|-60.9141|Bois Joli
-14.0089|-60.9821|Bois Patat
-13.7667|-61.0299|Bongalo
-14.0699|-60.9415|Bonneterre
-14.0674|-60.9339|Bonneterre Gardens
-13.8955|-60.9009|Bordelais
-13.9289|-60.9113|Bosquet D'Or
-13.8794|-61.0645|Bouton
-13.7256|-60.9491|Bruceville/Shanty Town
-14.0058|-60.9543|Cabiche/Babonneau
-13.7789|-60.9386|Cacoa
-13.9887|-60.9511|Cacoa/Babonneau
-13.7841|-61.0355|Caffiere
-13.9195|-60.9926|Caico/Millet
-14.0139|-60.9866|Calvary
-13.8504|-61.0562|Calvary/Calvaire
-13.9022|-61.0646|Canaries
-13.7851|-60.9179|Canelles
-13.7567|-60.9766|Cantonement
-14.0941|-60.9359|Cap Estate
-14.0927|-60.9516|Cap Estate/Becune Point
-14.1002|-60.9245|Cap Estate/Caribbean Park
-14.1000|-60.9370|Cap Estate/Golf Park
-14.1052|-60.9431|Cap Estate/Lower Saline Point
-14.1055|-60.9376|Cap Estate/Mon Du Cap
-14.1044|-60.9336|Cap Estate/Ranch Site
-14.1002|-60.9425|Cap Estate/Saddlec Back
-14.1074|-60.9449|Cap Estate/Upper Saline Point
-13.9931|-60.9910|Capital Hill
-14.0189|-60.9685|Carellie
-13.7851|-60.9672|Carierre
-14.0833|-60.9321|Cas En Bas
-13.9957|-61.0061|Castries
-13.7769|-60.9797|Catin
-14.0663|-60.9356|Caye Manje'
-13.8000|-60.9048|Cazuca
-14.0060|-60.9823|Cedars
-13.7699|-61.0472|Cedars/Chu Tigre
-13.8721|-61.0424|Cenac
-13.9202|-61.0441|Chalon
-13.9358|-61.0299|Champen Estate
-14.0148|-60.9740|Chase Gardens
-13.9910|-60.9219|Chassin/Babonneau
-13.8183|-61.0535|Chateau Belair
-13.8012|-60.9497|Chique/Blanchard
-13.7727|-61.0493|Choiseul
-13.9560|-60.9862|Choppin Ridge/Sarot
-13.7735|-61.0469|Christian Hill
-13.9930|-61.0088|Ciceron
-14.0095|-60.9903|City
-14.0212|-60.9815|City Gate/La Clery
-13.7309|-60.9719|Cocoa Dan
-13.8686|-61.0499|Colombette
-13.8359|-61.0593|Compar
-14.0139|-60.9905|Conway/Waterfront
-13.9568|-61.0144|Coolie Town
-14.0471|-60.9605|Corinth
-14.0447|-60.9448|Corinth/La Bel Lair
-14.0434|-60.9539|Corinth Estate
-14.0022|-61.0092|Coubaril
-13.8600|-61.0403|Cresslands
-13.9517|-60.9715|Crownlands/Marc
-13.9808|-61.0065|Cul De Sac
-13.8049|-61.0044|Daban
-13.7962|-61.0357|Dacretin
-14.0136|-60.9878|Darling Road
-14.0565|-60.9019|Dauphin
-13.7903|-61.0258|Debreuil
-13.9773|-60.9733|Deglos
-13.9299|-60.9058|Delaide
-13.8012|-61.0589|Delcer
-13.8034|-60.9293|Delomel
-13.7965|-60.9494|De Mailly
-13.9141|-60.8913|Dennery
-13.9116|-60.8945|Dennery By Pass
-13.9109|-60.8981|Dennery By Pass/Green Mountain
-13.9144|-60.9002|Dennery By Pass/Rocky Lane
-13.9142|-60.8933|Dennery By Pass/White Rock Gardens
-13.7681|-60.9772|Derierre Bois
-13.9947|-60.9851|Derierre Fort/Old Victoria Road
-13.7413|-60.9606|Derierre Morne
-13.9568|-60.9258|Derniere Riviere
-13.9513|-60.9222|Derniere Riviere/Fond Maricient
-13.9629|-60.9203|Derniere Riviere/Mardi Gras/Morne Caca Cochon
-13.9525|-60.9292|Derniere Riviere/Morne Panache
-13.9417|-61.0189|Derriere Lagoon
-13.8092|-61.0510|Derriere Morne
-13.9995|-60.9017|Des Barras
-14.0169|-60.9010|Des Barras/Cacolie
-13.8116|-60.9342|Des Blanchard
-13.9497|-60.9118|Despinoze
-14.0368|-60.9270|Desrameaux
-13.7964|-60.9354|Desruisseaux
-13.8137|-61.0505|Deville
-13.8517|-61.0435|Diamond/Diamond Estate
-13.7420|-60.9560|Docamel/La Resource
-13.9281|-60.9234|Dubonnaire
-13.9838|-60.9715|Dubrassay
-13.8039|-61.0283|Dugard
-13.7943|-61.0295|Dupre
-13.9228|-60.9951|Durandeau
-13.7602|-60.9401|Eau Piquant/St Urbain
-13.7815|-60.9476|En Bamboo
-13.9117|-60.9927|Enbar Pwin
-13.9885|-60.9410|En Pois Doux/Babonneau
-13.9998|-60.9795|Entrepot
-13.8303|-60.8967|Escap
-13.8078|-61.0533|Esperance
-13.8190|-61.0406|Etangs
-14.0088|-60.9956|Faux A Chaud
-13.9868|-60.9849|Ferrand
-13.9628|-60.9588|Floissac/Marc
-13.7942|-60.9413|Fond/Desruisseaux
-13.9949|-60.9363|Fond Assau/Babonneau
-13.7824|-61.0035|Fond Berange
-13.8584|-61.0595|Fond Bernier
-13.8544|-61.0508|Fond Cacoa
-13.9919|-60.9595|Fond Canie
-13.7745|-60.9483|Fond Capeche
-13.8107|-60.9212|Fond D'Lor/Dugard
-13.8210|-61.0495|Fond Doux
-13.8424|-60.9186|Fond Estate
-13.8079|-61.0626|Fond Gens Libre
-13.7766|-60.9555|Fond Sabot
-13.9778|-60.9577|Forestiere
-13.8040|-61.0545|Franciou
-13.9594|-60.9103|Gadette
-14.0042|-60.9327|Garrand
-13.7864|-61.0183|Gayabois
-13.7682|-60.9888|Gentil
-14.0050|-60.9867|George Charles Boulevard
-13.7819|-61.0074|Getrine
-14.0000|-60.9596|Girard
-13.7925|-61.0084|Giraud
-14.0131|-60.9845|Goergeville
-13.8148|-60.9525|Gomier
-13.9912|-60.9984|Goodlands
-13.8065|-60.9396|Gouette
-13.7768|-60.9664|Grace
-13.9426|-60.9340|Grande Ravine
-13.9331|-60.9324|Grande Riviere
-14.0397|-60.9512|Grande Riviere/Assou Canal
-13.9338|-60.9350|Grande Riviere/Des Branch
-13.9322|-60.9346|Grande Riviere/En Leur Morne/Discompere
-13.9324|-60.9331|Grande Riviere/Funier
-14.0309|-60.9559|Grande Riviere/Ingle Woods
-13.9296|-60.9379|Grande Riviere/Morne Caca Cochon
-14.0351|-60.9606|Grande Riviere/Morne Serpent
-14.0432|-60.9493|Grande Riviere/Norbert
-14.0393|-60.9436|Grande Riviere/Piat
-14.0362|-60.9556|Grande Riviere/White Rock
-14.0355|-60.9515|Grand Riviere
-14.0071|-60.9876|Grass Street
-13.9960|-60.9528|Green Gold
-14.0667|-60.9500|Gros Islet
-14.0791|-60.9497|Gros Islet/Edge Water
-13.9908|-60.9649|Guesneau
-13.7560|-60.9870|H'Erelle
-13.7449|-60.9728|Hewanorra Orchard
-13.9994|-60.9499|Hill 20/Babonneau
-14.0112|-60.9708|Hillcrest Gardens
-13.7775|-60.9049|Honeymoon Beach
-13.7648|-60.9583|Hope Estate
-14.0091|-60.9991|Hospital Road
-14.0020|-60.9788|Independence City
-13.7410|-60.9739|Industrial Estate
-13.7913|-61.0599|Industry
-13.9480|-61.0130|Jacmel
-13.8281|-61.0589|Jalousie
-13.9470|-61.0158|Jean Baptiste
-14.0191|-60.9911|John Compton Highway
-13.7831|-60.9607|Joyeux
-13.7538|-60.9959|Kennedy Highway/Laborie Bypass
-13.9404|-60.9732|Labayee
-13.7500|-60.9833|Laborie
-14.0181|-60.9872|La Carierre
-13.9329|-60.9043|La Caye
-14.0185|-60.9842|La Clery
-13.8106|-60.9277|La Courville
-14.0115|-60.9402|La Croix Chabourgh
-13.9657|-61.0058|La Croix Maingot
-13.7720|-61.0412|La Fargue
-14.0219|-60.9249|La Guerre
-14.0239|-60.9311|La Guerre/Chicken Back Street
-13.7921|-61.0001|La Haut
-13.8065|-61.0191|Lamaze
-14.0188|-60.9880|L'Anse Road
-14.0137|-60.9819|La Pansee
-13.8574|-61.0476|La Pearle
-13.9410|-60.9057|La Pelle
-13.7648|-61.0209|La Perle
-13.7944|-61.0650|La Pointe
-13.7480|-60.9624|La Resource
-13.9429|-60.9158|La Ressource
-13.7594|-60.9663|La Retraite
-14.0076|-60.9832|Lastic Hill
-13.8274|-60.9172|La Tille
-14.0082|-61.0040|La Toc
-13.7411|-60.9652|La Tourney/Cedar Heights
-13.9401|-60.9973|La Trielle
-13.8067|-60.9210|L'Eau Mineau
-13.8506|-61.0591|Lenny Hill
-13.7836|-61.0481|Le Riche
-14.0075|-60.9867|Leslie Land
-13.8037|-60.9391|Lezy
-14.0652|-60.9397|L'Hermitage
-13.8577|-60.9151|Lombard
-13.7762|-61.0136|Londonderry
-13.9393|-60.8889|Lumiere
-13.7750|-60.9851|Macdomel
-13.7945|-60.9851|Maganier
-13.8439|-60.9540|Mahaut
-13.8179|-61.0277|Mailly Motete
-13.8420|-60.9041|Malgretoute
-13.8674|-60.9018|Mamiku
-13.9569|-60.9572|Marc
-14.0041|-60.9853|Marchand
-13.9621|-61.0221|Marigot
-14.0462|-60.9706|Marisule
-14.0506|-60.9712|Marisule/Bon Air
-14.0541|-60.9685|Marisule/East Winds
-14.0571|-60.9718|Marisule/La Brellotte
-14.0439|-60.9689|Marisule/Top Of The World
-14.0296|-60.9073|Marquis Estate
-13.7894|-61.0454|Martin
-13.9487|-61.0354|Massacre
-14.0829|-60.9495|Massade
-14.0031|-60.9897|Maynard Hill
-13.9230|-60.9695|Miami/Bexon
-13.8167|-60.9000|Micoud
-13.8417|-61.0181|Migny
-13.9099|-60.9888|Millet
-13.8312|-61.0250|Mocha
-14.0550|-60.9262|Monchy
-14.0593|-60.9507|Monchy/Careffe
-14.0514|-60.9238|Monchy/Cletus Village
-14.0463|-60.9196|Monchy/La Borne
-14.0450|-60.8996|Monchy/La Borne/Sans Souci
-14.0595|-60.9409|Monchy/Lafeuillee
-14.0642|-60.9456|Monchy/La Retraite
-14.0580|-60.9291|Monchy/Lawi Fwen
-14.0411|-60.9191|Monchy/Malgretoute
-14.0628|-60.9502|Monchy/Moulin A Vent
-14.0479|-60.9251|Monchy/Ravine Macock
-14.0499|-60.9403|Monchy/Riviere Mitan
-14.0408|-60.9323|Monchy/Ti Dauphin
-14.0500|-60.9499|Monchy/Vieux Sucreic
-14.0561|-60.9515|Monchy/Vieux Sucreic/Bois D'Inde
-14.0565|-60.9495|Monchy/Vieux Sucreic/Careffe
-14.0629|-60.9572|Mongiraud
-13.8030|-61.0452|Mongouge
-14.0295|-60.9410|Monier
-13.9888|-61.0061|Monkey Town Ciceron
-13.8587|-60.8959|Mon Repos
-13.8067|-61.0230|Monzie
-13.8268|-60.9424|Moreau
-13.9908|-60.9324|Morne Assau/Babonneau
-13.8317|-61.0329|Morne Bonin
-13.7835|-60.9551|Morne Cayenne
-13.9360|-61.0033|Morne Ciseaux
-14.0300|-60.9281|Morne Citon
-13.9493|-61.0060|Morne D'Or
-14.0119|-60.9638|Morne Dudon
-13.7655|-60.9952|Morne Gomier
-13.8116|-61.0316|Morne Jacques
-13.8176|-61.0615|Morne La Croix
-13.8663|-61.0589|Morne Lastic/Desruisseaux
-13.7587|-60.9991|Morne Le Blanc
-13.9217|-60.9365|Morne Panache
-14.0054|-60.9969|Morne Road
-13.9584|-60.9697|Morne Rouge/Marc
-13.7925|-61.0547|Morne Sion
-13.7790|-60.9762|Morne Vert
-13.8065|-60.9524|Morne Vient
-13.8133|-61.0232|Motete
-13.7146|-60.9483|Moule A Chique
-14.0149|-60.9858|Mount Pleasant
-13.8186|-60.9044|Myette Gardens
-13.8618|-61.0479|New Development
-13.7881|-61.0522|New Field/Fiette
-14.0110|-60.9846|New Village
-13.7683|-60.9731|Obrier
-13.9748|-60.9832|Odsan
-13.7763|-60.9993|Olibo
-14.0175|-60.9385|Paix Bouche
-13.8584|-61.0558|Palmiste
-13.8538|-60.9601|Palmiste Estate
-13.7964|-61.0161|Parc Estate
-14.0038|-60.9905|Parker'S Hill
-13.8500|-60.9087|Patience
-14.0066|-60.9847|Patterson'S Gap
-14.0028|-60.9919|Pavee
-14.0104|-60.9860|Peart'S Gap
-13.9596|-61.0073|Perou
-13.7563|-61.0228|Piaye
-13.7686|-60.9438|Pierrot
-14.0897|-60.9572|Pigeon Island
-13.8052|-60.9154|Planard
-14.0261|-60.9347|Plateau
-13.8408|-61.0557|Plat Pays
-13.7742|-60.9608|Plut
-14.0158|-60.9930|Pointe Seraphine
-13.7579|-60.9815|Pomme
-13.7964|-61.0436|Ponyon
-13.8755|-60.8972|Praslin
-13.9914|-60.9763|Quarte Chemins
-13.8338|-61.0454|Rabot
-13.8306|-60.9237|Rameau
-13.8102|-61.0464|Raveneau
-14.0005|-60.9762|Ravine Chabot
-13.8526|-61.0289|Ravine Claire
-13.9316|-60.9685|Ravine Poisson
-14.0032|-60.9881|Ravine Touterelle
-14.0683|-60.9614|Reduit
-14.0659|-60.9534|Reduit Orchard
-14.0662|-60.9556|Reduit Park
-14.0029|-60.9420|Resinard/Babonneau
-13.7786|-61.0453|Reunion
-13.9364|-60.9203|Riche Fond
-13.9378|-60.9291|Riche Fond/La Belle Vie
-13.9365|-60.9239|Riche Fond/New Village
-13.7677|-61.0365|River Doree
-13.8941|-61.0499|Riverside Road
-13.8032|-61.0230|Roblot
-14.0001|-60.9893|Rock Hall
-14.0729|-60.9544|Rodney Bay
-14.0673|-60.9491|Rodney Heights
-13.9532|-61.0268|Roseau Valley
-14.0082|-60.9856|Rose Hill
-13.8581|-61.0498|Ruby Estate
-13.8544|-60.9180|Saint Marie Road
-13.8121|-61.0098|Saltibus
-13.9278|-60.9803|Sand De Feu
-14.0169|-60.9898|San Soucis
-13.7567|-61.0121|Saphire
-13.9421|-60.9849|Sarot
-13.8127|-60.9438|Saut
-13.7774|-61.0337|Sauzay
-13.7710|-60.9202|Savannes
-13.7785|-61.0514|Savannesgeorge/Constitution
-13.8562|-61.0566|Soufrière
-13.8517|-61.0542|Soufriere Estate
-13.7873|-60.9073|St Helen Estate
-13.9007|-60.9144|St. Joseph Estate
-13.7587|-60.9736|St Jude'S Highway
-13.9385|-61.0250|St Lawrence
-13.9424|-61.0425|St Lawrence Estate
-13.8451|-61.0599|Stonefield
-13.8443|-61.0277|St Phillip
-13.8400|-61.0451|Sulphur Springs
-14.0258|-60.9764|Summersdale
-14.0056|-60.9792|Sunbilt
-14.0281|-60.9736|Sunny Acres
-13.9958|-60.9441|Talvern
-14.0138|-61.0049|Tapion
-13.8909|-60.9978|Tete Chemin
-13.7616|-61.0340|Tete Morne
-13.7711|-60.9519|Tete Morne/Morne Andrew
-13.9324|-60.9479|Thamazo
-13.9978|-60.9962|The Morne
-13.9288|-61.0497|Theodrine
-13.8374|-61.0246|Ti Boug
-13.9707|-61.0023|Ti Colon
-13.8339|-61.0641|Ti Delcer
-13.8301|-60.9377|Ti Riviere
-13.9949|-60.9711|Ti Rocher
-13.8570|-61.0330|Toraille
-13.8549|-61.0576|Town
-13.9889|-60.9726|Trois Piton
-13.9422|-60.9620|Trou Cochan/Marc
-13.9452|-60.9538|Trou Florent/Marc
-13.8089|-60.9034|Troumassee
-14.0060|-60.9895|Trou Rouge
-14.0291|-60.9648|Union
-14.0228|-60.9527|Union/Ti Morne
-14.0265|-60.9571|Union Terrace
-13.8110|-61.0569|Union Vale
-13.9356|-60.9936|Vanard
-13.9156|-61.0168|Venus
-13.8112|-61.0396|Victoria
-14.0244|-60.9807|Vide Bouteille
-13.7167|-60.9500|Vieux Fort
-13.7320|-60.9548|Vieux Fort/Laborie Highway
-13.7869|-60.9355|Vige'
-14.0205|-60.9961|Vigie
-13.9394|-61.0415|Village
-13.9380|-61.0418|Village/Petite Bourgh
-13.8263|-60.9079|Volet
-13.8108|-61.0005|Warwick/Daban
-14.0050|-60.9763|Waterworks
-13.7271|-60.9531|Westall Group/The Mangue
-14.0097|-60.9864|Wilton'S Yard/Grave Yard
-14.0169|-60.9792|Yorke Hill
-13.8595|-61.0339|Zenon
+14.0194|-60.9777|Active Hill|Castries|0|
+14.0077|-60.9646|Agard Lands/Morne Dudon|Castries|0|
+14.0185|-60.9616|Almondale|Castries|0|
+13.7745|-61.0051|Annus|Laborie|0|
+13.9087|-60.9044|Anse Canot|Dennery|0|
+13.8643|-61.0702|Anse Chastanet|Soufrière|0|
+13.9226|-61.0525|Anse Cochon|Canaries|0|
+13.9322|-61.0429|Anse Galet|Canaries|0|
+13.7957|-60.9157|Anse Ger|Micoud|1471|
+13.9462|-61.0388|Anse La Raye|Anse la Raye|1256|
+13.9096|-61.0476|Anse La Verdue|Canaries|0|
+13.9057|-60.8918|Athens|Dennery|0|
+13.7667|-60.9806|Augier|Vieux Fort|1850|
+13.9525|-60.9046|Au Leon|Dennery|1393|
+14.0007|-60.9867|Aurendel Hill|Castries|0|
+13.9454|-61.0411|Au Tabor|Anse la Raye|0|
+13.9446|-61.0356|Au Tabor Hill|Anse la Raye|0|
+14.0053|-60.9464|Babonneau Proper|Castries|0|
+13.9980|-60.9816|Bagatelle|Castries|1084|
+14.0147|-60.9517|Balata|Castries|1812|
+13.7712|-61.0239|Balca|Laborie|0|
+13.7764|-61.0193|Balca/En Leur Ba|Laborie|0|
+13.7599|-61.0284|Balembouche|Laborie|0|
+14.0109|-61.0014|Banannes Bay|Castries|0|
+13.7921|-60.9928|Banse|Laborie|0|
+13.7815|-60.9984|Banse La Grace|Laborie|0|
+13.9591|-60.9341|Bara Bara|Dennery|0|
+14.0142|-60.9892|Barnard Hill|Castries|0|
+13.8514|-61.0594|Barons Drive/Coin De L'Anse|Soufrière|0|
+13.9681|-60.9907|Barre Denis|Castries|0|
+13.9619|-60.9968|Barre Duchaussee|Castries|0|
+13.9725|-61.0183|Barre St.Joseph|Castries|0|
+13.9108|-60.9243|Bazile|Dennery|0|
+13.7398|-60.9474|Beane Field|Vieux Fort|0|
+13.8215|-61.0340|Beasejour/Myers Bridge|Soufrière|0|
+13.8178|-60.9153|Beauchamp|Micoud|0|
+14.0765|-60.9378|Beausejour|Gros Islet|1685|
+13.7523|-60.9552|Beausejour|Vieux Fort|0|
+14.0745|-60.9293|Beausejour/Fostin'S Development|Gros Islet|0|
+14.0773|-60.9268|Beausejour/Ndc|Gros Islet|0|
+13.9528|-60.9975|Belair|Castries|0|
+14.0078|-60.9963|Bella Rosa|Castries|0|
+14.0771|-60.9457|Bella Rosa|Gros Islet|0|
+13.8275|-61.0427|Bellefond|Soufrière|0|
+13.8270|-61.0313|Belle Plaine|Soufrière|0|
+13.8051|-61.0361|Belle Vue|Choiseul|0|
+14.0847|-60.9434|Belle Vue|Gros Islet|0|
+13.7922|-60.9538|Belle Vue|Vieux Fort|0|
+14.0884|-60.9461|Belle Vue Estate|Gros Islet|0|
+13.9504|-60.9328|Belmont|Dennery|0|
+13.8912|-61.0555|Belvedere|Canaries|0|
+13.8344|-61.0177|Belvedere|Soufrière|0|
+13.9608|-60.9750|Bexon|Castries|1049|
+14.0243|-60.9744|Bisee|Castries|12980|
+14.0002|-60.9850|Bishop'S Gap|Castries|0|
+14.0226|-60.9749|Bissee|Castries|0|
+13.7433|-60.9827|Black Bay|Vieux Fort|0|
+14.0046|-60.9881|Black Mallet|Castries|0|
+13.8062|-60.9463|Blanchard|Micoud|0|
+14.0020|-60.9695|Bocage|Castries|1420|
+14.0155|-60.9209|Boguis|Gros Islet|0|
+14.0106|-60.9256|Boguis/Desa Blond|Gros Islet|0|
+14.0040|-60.9944|Bois Catchet|Castries|0|
+13.9415|-61.0097|Bois D'Inde|Anse la Raye|0|
+13.8046|-61.0495|Bois Dinde|Choiseul|0|
+13.8365|-61.0349|Bois D'Inde|Soufrière|0|
+14.0580|-60.9599|Bois D'Orange|Gros Islet|0|
+14.0620|-60.9691|Bois D'Ornange/Trouya|Gros Islet|0|
+13.9202|-60.9141|Bois Joli|Dennery|0|
+14.0089|-60.9821|Bois Patat|Castries|0|
+13.7667|-61.0299|Bongalo|Laborie|0|
+14.0699|-60.9415|Bonneterre|Gros Islet|0|
+14.0674|-60.9339|Bonneterre Gardens|Gros Islet|0|
+13.8955|-60.9009|Bordelais|Dennery|0|
+13.9289|-60.9113|Bosquet D'Or|Dennery|0|
+13.8794|-61.0645|Bouton|Soufrière|0|
+13.7256|-60.9491|Bruceville/Shanty Town|Vieux Fort|0|
+14.0058|-60.9543|Cabiche/Babonneau|Castries|0|
+13.7789|-60.9386|Cacoa|Vieux Fort|0|
+13.9887|-60.9511|Cacoa/Babonneau|Castries|0|
+13.7841|-61.0355|Caffiere|Choiseul|0|
+13.9195|-60.9926|Caico/Millet|Anse la Raye|0|
+14.0139|-60.9866|Calvary|Castries|0|
+13.8504|-61.0562|Calvary/Calvaire|Soufrière|0|
+13.9022|-61.0646|Canaries|Anse la Raye|1862|
+13.7851|-60.9179|Canelles|Micoud|0|
+13.7567|-60.9766|Cantonement|Vieux Fort|1105|
+14.0941|-60.9359|Cap Estate|Gros Islet|677|
+14.0927|-60.9516|Cap Estate/Becune Point|Gros Islet|0|
+14.1002|-60.9245|Cap Estate/Caribbean Park|Gros Islet|0|
+14.1000|-60.9370|Cap Estate/Golf Park|Gros Islet|0|
+14.1052|-60.9431|Cap Estate/Lower Saline Point|Gros Islet|0|
+14.1055|-60.9376|Cap Estate/Mon Du Cap|Gros Islet|0|
+14.1044|-60.9336|Cap Estate/Ranch Site|Gros Islet|0|
+14.1002|-60.9425|Cap Estate/Saddlec Back|Gros Islet|0|
+14.1074|-60.9449|Cap Estate/Upper Saline Point|Gros Islet|0|
+13.9931|-60.9910|Capital Hill|Castries|0|
+14.0189|-60.9685|Carellie|Castries|0|
+13.7851|-60.9672|Carierre|Vieux Fort|0|
+14.0833|-60.9321|Cas En Bas|Gros Islet|0|
+13.9957|-61.0061|Castries|Castries|20000|
+13.7769|-60.9797|Catin|Vieux Fort|0|
+14.0663|-60.9356|Caye Manje'|Gros Islet|0|
+13.8000|-60.9048|Cazuca|Micoud|0|
+14.0060|-60.9823|Cedars|Castries|0|
+13.7699|-61.0472|Cedars/Chu Tigre|Choiseul|0|
+13.8721|-61.0424|Cenac|Soufrière|0|
+13.9202|-61.0441|Chalon|Canaries|0|
+13.9358|-61.0299|Champen Estate|Anse la Raye|0|
+14.0148|-60.9740|Chase Gardens|Castries|0|
+13.9910|-60.9219|Chassin/Babonneau|Castries|0|
+13.8183|-61.0535|Chateau Belair|Soufrière|0|
+13.8012|-60.9497|Chique/Blanchard|Micoud|0|
+13.7727|-61.0493|Choiseul|Choiseul|6098|
+13.9560|-60.9862|Choppin Ridge/Sarot|Castries|0|
+13.7735|-61.0469|Christian Hill|Choiseul|0|
+13.9930|-61.0088|Ciceron|Castries|2471|
+14.0095|-60.9903|City|Castries|0|
+14.0212|-60.9815|City Gate/La Clery|Castries|0|
+13.7309|-60.9719|Cocoa Dan|Vieux Fort|0|
+13.8686|-61.0499|Colombette|Soufrière|0|
+13.8359|-61.0593|Compar|Soufrière|0|
+14.0139|-60.9905|Conway/Waterfront|Castries|0|
+13.9568|-61.0144|Coolie Town|Castries|0|
+13.8543|-60.9138|Coolie Town|Micoud|0|
+13.7691|-60.9668|Coolie Town|Vieux Fort|0|
+14.0471|-60.9605|Corinth|Gros Islet|0|
+14.0447|-60.9448|Corinth/La Bel Lair|Gros Islet|0|
+14.0434|-60.9539|Corinth Estate|Gros Islet|0|
+14.0022|-61.0092|Coubaril|Castries|0|
+13.8600|-61.0403|Cresslands|Soufrière|0|
+13.9517|-60.9715|Crownlands/Marc|Castries|0|
+13.9808|-61.0065|Cul De Sac|Castries|0|
+13.8049|-61.0044|Daban|Laborie|0|
+13.7962|-61.0357|Dacretin|Choiseul|0|
+14.0136|-60.9878|Darling Road|Castries|0|
+14.0565|-60.9019|Dauphin|Gros Islet|0|
+13.7903|-61.0258|Debreuil|Choiseul|0|
+13.9773|-60.9733|Deglos|Castries|0|
+13.9299|-60.9058|Delaide|Dennery|0|
+13.8012|-61.0589|Delcer|Choiseul|0|
+13.8034|-60.9293|Delomel|Micoud|0|
+13.7965|-60.9494|De Mailly|Vieux Fort|0|
+13.9141|-60.8913|Dennery|Dennery|12589|
+13.9116|-60.8945|Dennery By Pass|Dennery|0|
+13.9109|-60.8981|Dennery By Pass/Green Mountain|Dennery|0|
+13.9144|-60.9002|Dennery By Pass/Rocky Lane|Dennery|0|
+13.9142|-60.8933|Dennery By Pass/White Rock Gardens|Dennery|0|
+13.7681|-60.9772|Derierre Bois|Vieux Fort|0|
+13.9947|-60.9851|Derierre Fort/Old Victoria Road|Castries|0|
+13.7413|-60.9606|Derierre Morne|Vieux Fort|0|
+13.9568|-60.9258|Derniere Riviere|Dennery|0|
+13.9513|-60.9222|Derniere Riviere/Fond Maricient|Dennery|0|
+13.9629|-60.9203|Derniere Riviere/Mardi Gras/Morne Caca Cochon|Dennery|0|
+13.9525|-60.9292|Derniere Riviere/Morne Panache|Dennery|0|
+13.9417|-61.0189|Derriere Lagoon|Anse la Raye|0|
+13.8092|-61.0510|Derriere Morne|Choiseul|0|
+13.9995|-60.9017|Des Barras|Gros Islet|0|
+14.0169|-60.9010|Des Barras/Cacolie|Gros Islet|0|
+13.8116|-60.9342|Des Blanchard|Micoud|0|
+13.9497|-60.9118|Despinoze|Dennery|0|
+14.0368|-60.9270|Desrameaux|Gros Islet|0|
+13.7964|-60.9354|Desruisseaux|Micoud|0|
+13.8137|-61.0505|Deville|Soufrière|0|
+13.8517|-61.0435|Diamond/Diamond Estate|Soufrière|0|
+13.7420|-60.9560|Docamel/La Resource|Vieux Fort|0|
+13.9281|-60.9234|Dubonnaire|Dennery|0|
+13.9838|-60.9715|Dubrassay|Castries|0|
+13.8039|-61.0283|Dugard|Choiseul|0|
+13.8109|-60.9141|Dugard|Micoud|0|
+13.7943|-61.0295|Dupre|Choiseul|0|
+13.9228|-60.9951|Durandeau|Anse la Raye|0|
+13.7602|-60.9401|Eau Piquant/St Urbain|Vieux Fort|0|
+13.7815|-60.9476|En Bamboo|Vieux Fort|0|
+13.9117|-60.9927|Enbar Pwin|Anse la Raye|0|
+13.9885|-60.9410|En Pois Doux/Babonneau|Castries|0|
+13.9998|-60.9795|Entrepot|Castries|1048|
+13.8303|-60.8967|Escap|Micoud|0|
+13.8078|-61.0533|Esperance|Choiseul|0|
+13.8456|-61.0371|Esperance|Soufrière|0|
+13.7885|-60.9611|Esperance|Vieux Fort|0|
+13.8190|-61.0406|Etangs|Soufrière|0|
+14.0088|-60.9956|Faux A Chaud|Castries|0|
+13.9868|-60.9849|Ferrand|Castries|0|
+13.9628|-60.9588|Floissac/Marc|Castries|0|
+13.7942|-60.9413|Fond/Desruisseaux|Micoud|0|
+13.9949|-60.9363|Fond Assau/Babonneau|Castries|0|
+13.7824|-61.0035|Fond Berange|Laborie|0|
+13.8584|-61.0595|Fond Bernier|Soufrière|0|
+13.8544|-61.0508|Fond Cacoa|Soufrière|0|
+13.9919|-60.9595|Fond Canie|Castries|0|
+13.7745|-60.9483|Fond Capeche|Vieux Fort|0|
+13.8107|-60.9212|Fond D'Lor/Dugard|Micoud|0|
+13.8210|-61.0495|Fond Doux|Soufrière|0|
+13.8424|-60.9186|Fond Estate|Micoud|0|
+13.8079|-61.0626|Fond Gens Libre|Soufrière|0|
+13.7766|-60.9555|Fond Sabot|Vieux Fort|0|
+13.9778|-60.9577|Forestiere|Castries|1003|
+13.8040|-61.0545|Franciou|Choiseul|0|
+13.9594|-60.9103|Gadette|Dennery|0|
+14.0042|-60.9327|Garrand|Gros Islet|0|
+13.7864|-61.0183|Gayabois|Laborie|0|
+13.7682|-60.9888|Gentil|Laborie|0|
+14.0050|-60.9867|George Charles Boulevard|Castries|0|
+13.7819|-61.0074|Getrine|Laborie|0|
+14.0000|-60.9596|Girard|Castries|0|
+13.7925|-61.0084|Giraud|Laborie|0|
+14.0131|-60.9845|Goergeville|Castries|0|
+13.8148|-60.9525|Gomier|Micoud|0|
+13.9912|-60.9984|Goodlands|Castries|0|
+13.8065|-60.9396|Gouette|Micoud|0|
+13.7768|-60.9664|Grace|Vieux Fort|0|
+13.9426|-60.9340|Grande Ravine|Dennery|0|
+13.9331|-60.9324|Grande Riviere|Dennery|1121|
+14.0397|-60.9512|Grande Riviere/Assou Canal|Gros Islet|0|
+13.9338|-60.9350|Grande Riviere/Des Branch|Dennery|0|
+13.9322|-60.9346|Grande Riviere/En Leur Morne/Discompere|Dennery|0|
+13.9324|-60.9331|Grande Riviere/Funier|Dennery|0|
+14.0309|-60.9559|Grande Riviere/Ingle Woods|Gros Islet|0|
+13.9296|-60.9379|Grande Riviere/Morne Caca Cochon|Dennery|0|
+14.0351|-60.9606|Grande Riviere/Morne Serpent|Gros Islet|0|
+14.0432|-60.9493|Grande Riviere/Norbert|Gros Islet|0|
+14.0393|-60.9436|Grande Riviere/Piat|Gros Islet|0|
+14.0362|-60.9556|Grande Riviere/White Rock|Gros Islet|0|
+14.0355|-60.9515|Grand Riviere|Gros Islet|0|
+14.0071|-60.9876|Grass Street|Castries|0|
+13.9960|-60.9528|Green Gold|Castries|0|
+14.0667|-60.9500|Gros Islet|Gros Islet|25210|
+14.0791|-60.9497|Gros Islet/Edge Water|Gros Islet|0|
+13.9908|-60.9649|Guesneau|Castries|0|
+13.7560|-60.9870|H'Erelle|Laborie|0|
+13.7449|-60.9728|Hewanorra Orchard|Vieux Fort|0|
+13.9994|-60.9499|Hill 20/Babonneau|Castries|0|
+14.0112|-60.9708|Hillcrest Gardens|Castries|0|
+13.7775|-60.9049|Honeymoon Beach|Micoud|0|
+13.7648|-60.9583|Hope Estate|Vieux Fort|0|
+14.0091|-60.9991|Hospital Road|Castries|0|
+14.0020|-60.9788|Independence City|Castries|0|
+13.7410|-60.9739|Industrial Estate|Vieux Fort|0|
+13.7913|-61.0599|Industry|Choiseul|0|
+13.9480|-61.0130|Jacmel|Anse la Raye|0|
+13.8281|-61.0589|Jalousie|Soufrière|0|
+13.9470|-61.0158|Jean Baptiste|Anse la Raye|0|
+14.0191|-60.9911|John Compton Highway|Castries|0|
+13.7831|-60.9607|Joyeux|Vieux Fort|0|
+13.7538|-60.9959|Kennedy Highway/Laborie Bypass|Laborie|0|
+13.9404|-60.9732|Labayee|Castries|0|
+13.7500|-60.9833|Laborie|Laborie|6701|
+14.0181|-60.9872|La Carierre|Castries|0|
+13.9329|-60.9043|La Caye|Dennery|0|
+14.0185|-60.9842|La Clery|Castries|1242|
+13.8106|-60.9277|La Courville|Micoud|0|
+14.0115|-60.9402|La Croix Chabourgh|Gros Islet|0|
+13.9657|-61.0058|La Croix Maingot|Castries|0|
+13.7720|-61.0412|La Fargue|Choiseul|0|
+14.0219|-60.9249|La Guerre|Gros Islet|0|
+14.0239|-60.9311|La Guerre/Chicken Back Street|Gros Islet|0|
+13.7921|-61.0001|La Haut|Laborie|0|
+13.8628|-61.0558|La Haut|Soufrière|0|
+13.8065|-61.0191|Lamaze|Choiseul|0|
+14.0188|-60.9880|L'Anse Road|Castries|0|
+14.0137|-60.9819|La Pansee|Castries|0|
+13.8574|-61.0476|La Pearle|Soufrière|0|
+13.9410|-60.9057|La Pelle|Dennery|0|
+13.7648|-61.0209|La Perle|Laborie|0|
+13.7944|-61.0650|La Pointe|Choiseul|1274|
+13.9153|-60.8883|La Pointe|Dennery|1274|
+13.8459|-60.8933|La Pointe|Micoud|1274|
+13.7480|-60.9624|La Resource|Vieux Fort|1521|
+13.9429|-60.9158|La Ressource|Dennery|0|
+13.7594|-60.9663|La Retraite|Vieux Fort|0|
+14.0076|-60.9832|Lastic Hill|Castries|0|
+13.8274|-60.9172|La Tille|Micoud|0|
+14.0082|-61.0040|La Toc|Castries|0|
+13.7411|-60.9652|La Tourney/Cedar Heights|Vieux Fort|0|
+13.9401|-60.9973|La Trielle|Anse la Raye|0|
+13.8067|-60.9210|L'Eau Mineau|Micoud|0|
+13.8506|-61.0591|Lenny Hill|Soufrière|0|
+13.7836|-61.0481|Le Riche|Choiseul|0|
+14.0075|-60.9867|Leslie Land|Castries|0|
+13.8037|-60.9391|Lezy|Micoud|0|
+14.0652|-60.9397|L'Hermitage|Gros Islet|0|
+13.8577|-60.9151|Lombard|Micoud|0|
+13.7762|-61.0136|Londonderry|Laborie|0|
+13.9393|-60.8889|Lumiere|Dennery|0|
+13.7750|-60.9851|Macdomel|Laborie|0|
+13.7945|-60.9851|Maganier|Vieux Fort|0|
+13.8439|-60.9540|Mahaut|Micoud|0|
+13.8179|-61.0277|Mailly Motete|Choiseul|0|
+13.8420|-60.9041|Malgretoute|Micoud|0|
+13.8423|-61.0600|Malgretoute|Soufrière|0|
+13.8674|-60.9018|Mamiku|Micoud|0|
+13.9569|-60.9572|Marc|Castries|0|
+14.0041|-60.9853|Marchand|Castries|0|
+13.9621|-61.0221|Marigot|Castries|0|
+14.0462|-60.9706|Marisule|Gros Islet|0|
+14.0506|-60.9712|Marisule/Bon Air|Gros Islet|0|
+14.0541|-60.9685|Marisule/East Winds|Gros Islet|0|
+14.0571|-60.9718|Marisule/La Brellotte|Gros Islet|0|
+14.0439|-60.9689|Marisule/Top Of The World|Gros Islet|0|
+14.0296|-60.9073|Marquis Estate|Gros Islet|0|
+13.7894|-61.0454|Martin|Choiseul|0|
+13.9487|-61.0354|Massacre|Anse la Raye|0|
+14.0829|-60.9495|Massade|Gros Islet|0|
+14.0031|-60.9897|Maynard Hill|Castries|0|
+13.9230|-60.9695|Miami/Bexon|Castries|0|
+13.8167|-60.9000|Micoud|Micoud|3406|
+13.8417|-61.0181|Migny|Soufrière|0|
+13.9099|-60.9888|Millet|Anse la Raye|0|
+13.8312|-61.0250|Mocha|Soufrière|0|
+14.0550|-60.9262|Monchy|Gros Islet|1011|
+14.0593|-60.9507|Monchy/Careffe|Gros Islet|0|
+14.0514|-60.9238|Monchy/Cletus Village|Gros Islet|0|
+14.0463|-60.9196|Monchy/La Borne|Gros Islet|0|
+14.0450|-60.8996|Monchy/La Borne/Sans Souci|Gros Islet|0|
+14.0595|-60.9409|Monchy/Lafeuillee|Gros Islet|0|
+14.0642|-60.9456|Monchy/La Retraite|Gros Islet|0|
+14.0580|-60.9291|Monchy/Lawi Fwen|Gros Islet|0|
+14.0411|-60.9191|Monchy/Malgretoute|Gros Islet|0|
+14.0628|-60.9502|Monchy/Moulin A Vent|Gros Islet|0|
+14.0479|-60.9251|Monchy/Ravine Macock|Gros Islet|0|
+14.0499|-60.9403|Monchy/Riviere Mitan|Gros Islet|0|
+14.0408|-60.9323|Monchy/Ti Dauphin|Gros Islet|0|
+14.0500|-60.9499|Monchy/Vieux Sucreic|Gros Islet|0|
+14.0561|-60.9515|Monchy/Vieux Sucreic/Bois D'Inde|Gros Islet|0|
+14.0565|-60.9495|Monchy/Vieux Sucreic/Careffe|Gros Islet|0|
+14.0629|-60.9572|Mongiraud|Gros Islet|0|
+13.8030|-61.0452|Mongouge|Choiseul|0|
+14.0295|-60.9410|Monier|Gros Islet|0|
+13.9888|-61.0061|Monkey Town Ciceron|Castries|0|
+13.8587|-60.8959|Mon Repos|Micoud|1212|
+13.8067|-61.0230|Monzie|Choiseul|0|
+13.8268|-60.9424|Moreau|Micoud|0|
+13.9908|-60.9324|Morne Assau/Babonneau|Castries|0|
+13.8317|-61.0329|Morne Bonin|Soufrière|0|
+13.7835|-60.9551|Morne Cayenne|Vieux Fort|0|
+13.9360|-61.0033|Morne Ciseaux|Anse la Raye|0|
+14.0300|-60.9281|Morne Citon|Gros Islet|0|
+13.9493|-61.0060|Morne D'Or|Anse la Raye|0|
+14.0119|-60.9638|Morne Dudon|Castries|0|
+13.7655|-60.9952|Morne Gomier|Laborie|0|
+13.8116|-61.0316|Morne Jacques|Choiseul|0|
+13.8176|-61.0615|Morne La Croix|Soufrière|0|
+13.8663|-61.0589|Morne Lastic/Desruisseaux|Soufrière|0|
+13.7587|-60.9991|Morne Le Blanc|Laborie|0|
+13.9217|-60.9365|Morne Panache|Dennery|0|
+14.0054|-60.9969|Morne Road|Castries|0|
+13.9584|-60.9697|Morne Rouge/Marc|Castries|0|
+13.7925|-61.0547|Morne Sion|Choiseul|0|
+13.7790|-60.9762|Morne Vert|Vieux Fort|0|
+13.8065|-60.9524|Morne Vient|Micoud|0|
+13.8133|-61.0232|Motete|Choiseul|0|
+13.7146|-60.9483|Moule A Chique|Vieux Fort|0|
+14.0149|-60.9858|Mount Pleasant|Castries|0|
+13.8186|-60.9044|Myette Gardens|Micoud|0|
+13.8618|-61.0479|New Development|Soufrière|0|
+13.7881|-61.0522|New Field/Fiette|Choiseul|0|
+14.0110|-60.9846|New Village|Castries|0|
+13.8245|-60.8986|New Village|Micoud|0|
+13.7683|-60.9731|Obrier|Vieux Fort|0|
+13.9748|-60.9832|Odsan|Castries|0|
+13.7763|-60.9993|Olibo|Laborie|0|
+14.0175|-60.9385|Paix Bouche|Gros Islet|0|
+13.8156|-60.9407|Paix Bouche|Micoud|0|
+13.8584|-61.0558|Palmiste|Soufrière|0|
+13.8538|-60.9601|Palmiste Estate|Micoud|0|
+13.7964|-61.0161|Parc Estate|Laborie|0|
+14.0038|-60.9905|Parker'S Hill|Castries|0|
+13.8500|-60.9087|Patience|Micoud|0|
+14.0066|-60.9847|Patterson'S Gap|Castries|0|
+14.0028|-60.9919|Pavee|Castries|1028|
+14.0104|-60.9860|Peart'S Gap|Castries|0|
+13.9596|-61.0073|Perou|Castries|0|
+13.7563|-61.0228|Piaye|Laborie|0|
+13.7686|-60.9438|Pierrot|Vieux Fort|1457|
+14.0897|-60.9572|Pigeon Island|Gros Islet|0|
+13.8052|-60.9154|Planard|Micoud|0|
+14.0261|-60.9347|Plateau|Gros Islet|0|
+13.8408|-61.0557|Plat Pays|Soufrière|0|
+13.7742|-60.9608|Plut|Vieux Fort|0|
+14.0158|-60.9930|Pointe Seraphine|Castries|0|
+13.7579|-60.9815|Pomme|Vieux Fort|0|
+13.7964|-61.0436|Ponyon|Choiseul|0|
+13.8755|-60.8972|Praslin|Micoud|1906|
+13.9914|-60.9763|Quarte Chemins|Castries|0|
+13.8338|-61.0454|Rabot|Soufrière|0|
+13.8306|-60.9237|Rameau|Micoud|0|
+13.8102|-61.0464|Raveneau|Choiseul|0|
+14.0005|-60.9762|Ravine Chabot|Castries|0|
+13.8526|-61.0289|Ravine Claire|Soufrière|0|
+13.9316|-60.9685|Ravine Poisson|Castries|0|
+14.0032|-60.9881|Ravine Touterelle|Castries|0|
+14.0683|-60.9614|Reduit|Gros Islet|0|
+14.0659|-60.9534|Reduit Orchard|Gros Islet|0|
+14.0662|-60.9556|Reduit Park|Gros Islet|0|
+14.0029|-60.9420|Resinard/Babonneau|Castries|0|
+13.7786|-61.0453|Reunion|Choiseul|0|
+13.9364|-60.9203|Riche Fond|Dennery|0|
+13.9378|-60.9291|Riche Fond/La Belle Vie|Dennery|0|
+13.9365|-60.9239|Riche Fond/New Village|Dennery|0|
+13.7677|-61.0365|River Doree|Choiseul|0|
+13.8941|-61.0499|Riverside Road|Canaries|0|
+13.8032|-61.0230|Roblot|Choiseul|0|
+14.0001|-60.9893|Rock Hall|Castries|0|
+14.0729|-60.9544|Rodney Bay|Gros Islet|0|
+14.0673|-60.9491|Rodney Heights|Gros Islet|0|
+13.9532|-61.0268|Roseau Valley|Anse la Raye|0|
+14.0082|-60.9856|Rose Hill|Castries|0|
+13.8581|-61.0498|Ruby Estate|Soufrière|0|
+13.8544|-60.9180|Saint Marie Road|Micoud|0|
+13.8121|-61.0098|Saltibus|Laborie|0|
+13.9278|-60.9803|Sand De Feu|Castries|0|
+14.0169|-60.9898|San Soucis|Castries|0|
+13.7567|-61.0121|Saphire|Laborie|0|
+13.9421|-60.9849|Sarot|Castries|0|
+13.8127|-60.9438|Saut|Micoud|0|
+13.7774|-61.0337|Sauzay|Choiseul|0|
+13.7710|-60.9202|Savannes|Micoud|0|
+13.7785|-61.0514|Savannesgeorge/Constitution|Choiseul|0|
+13.8562|-61.0566|Soufrière|Soufrière|2918|
+13.8517|-61.0542|Soufriere Estate|Soufrière|0|
+13.7873|-60.9073|St Helen Estate|Micoud|0|
+13.9007|-60.9144|St. Joseph Estate|Dennery|0|
+13.7587|-60.9736|St Jude'S Highway|Vieux Fort|0|
+13.9385|-61.0250|St Lawrence|Anse la Raye|0|
+13.9424|-61.0425|St Lawrence Estate|Anse la Raye|0|
+13.8451|-61.0599|Stonefield|Soufrière|0|
+13.8443|-61.0277|St Phillip|Soufrière|0|
+13.8400|-61.0451|Sulphur Springs|Soufrière|0|
+14.0258|-60.9764|Summersdale|Castries|0|
+14.0056|-60.9792|Sunbilt|Castries|0|
+14.0281|-60.9736|Sunny Acres|Castries|0|
+13.9958|-60.9441|Talvern|Castries|0|
+14.0138|-61.0049|Tapion|Castries|0|
+13.8909|-60.9978|Tete Chemin|Anse la Raye|0|
+13.7616|-61.0340|Tete Morne|Laborie|0|
+13.7711|-60.9519|Tete Morne/Morne Andrew|Vieux Fort|0|
+13.9324|-60.9479|Thamazo|Dennery|0|
+13.9978|-60.9962|The Morne|Castries|0|
+13.9288|-61.0497|Theodrine|Canaries|0|
+13.8374|-61.0246|Ti Boug|Soufrière|0|
+13.9707|-61.0023|Ti Colon|Castries|0|
+13.8339|-61.0641|Ti Delcer|Soufrière|0|
+13.8301|-60.9377|Ti Riviere|Micoud|0|
+13.9949|-60.9711|Ti Rocher|Castries|1371|
+13.8173|-60.9286|Ti Rocher|Micoud|1371|
+13.8570|-61.0330|Toraille|Soufrière|0|
+13.8549|-61.0576|Town|Soufrière|0|
+13.7284|-60.9541|Town|Vieux Fort|0|
+13.9889|-60.9726|Trois Piton|Castries|0|
+13.9422|-60.9620|Trou Cochan/Marc|Castries|0|
+13.9452|-60.9538|Trou Florent/Marc|Castries|0|
+13.8089|-60.9034|Troumassee|Micoud|0|
+14.0060|-60.9895|Trou Rouge|Castries|0|
+14.0291|-60.9648|Union|Gros Islet|0|
+14.0228|-60.9527|Union/Ti Morne|Gros Islet|0|
+14.0265|-60.9571|Union Terrace|Gros Islet|0|
+13.8110|-61.0569|Union Vale|Soufrière|0|
+13.9356|-60.9936|Vanard|Anse la Raye|0|
+13.9156|-61.0168|Venus|Anse la Raye|0|
+13.8112|-61.0396|Victoria|Choiseul|0|
+14.0244|-60.9807|Vide Bouteille|Castries|0|
+13.7167|-60.9500|Vieux Fort|Vieux Fort|4574|
+13.7320|-60.9548|Vieux Fort/Laborie Highway|Vieux Fort|0|
+13.7869|-60.9355|Vige'|Vieux Fort|0|
+14.0205|-60.9961|Vigie|Castries|0|
+13.9394|-61.0415|Village|Anse la Raye|0|
+13.9053|-61.0611|Village|Canaries|0|
+13.7746|-61.0502|Village|Choiseul|0|
+13.7493|-60.9937|Village|Laborie|0|
+13.8190|-60.8969|Village|Micoud|0|
+13.9380|-61.0418|Village/Petite Bourgh|Anse la Raye|0|
+13.8263|-60.9079|Volet|Micoud|0|
+13.8108|-61.0005|Warwick/Daban|Laborie|0|
+14.0050|-60.9763|Waterworks|Castries|0|
+13.7271|-60.9531|Westall Group/The Mangue|Vieux Fort|0|
+14.0097|-60.9864|Wilton'S Yard/Grave Yard|Castries|0|
+14.0169|-60.9792|Yorke Hill|Castries|0|
+13.8595|-61.0339|Zenon|Soufrière|0|

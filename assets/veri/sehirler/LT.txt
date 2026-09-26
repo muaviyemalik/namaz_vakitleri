@@ -1,132 +1,132 @@
-54.8964|23.8241|Akademija (Kaunas)
-56.2500|22.7500|Akmenė
-54.8804|23.9084|Aleksotas
-54.3963|24.0414|Alytus
-54.7078|25.3171|Antakalnis
-55.5256|25.1026|Anyksciai
-55.2620|23.4770|Ariogala
-54.5795|24.5268|Aukstadvaris
-54.6000|25.1932|Baltoji Vokė
-54.6167|24.0333|Birštonas
-56.2000|24.7500|Birzai
-55.4139|22.6089|Būgai
-54.9153|23.9683|Dainava (Kaunas)
-54.3667|24.3333|Daugai
-54.0157|23.9870|Druskininkai
-55.5220|26.3210|Dūkštas
-54.9313|23.9324|Eiguliai
-54.1741|24.9992|Eišiškės
-54.7854|24.6630|Elektrėnai
-54.8832|23.6040|Ežerėlis
-54.7333|25.2417|Fabijoniškės
-55.7095|21.3944|Gargždai
-54.8214|23.8713|Garliava
-55.0769|22.9770|Gelgaudiškis
-54.6833|25.0833|Grigiškės
-55.3500|26.1667|Ignalina
-54.5994|24.1759|Jieznas
-55.0833|24.2833|Jonava
-56.2333|23.6167|Joniškis
-56.0870|25.6070|Juodupė
-55.1086|22.7989|Jurbarkas
-54.7166|25.2174|Justiniškės
-54.8667|24.4500|Kaišiadorys
-54.4170|23.2230|Kalvarija
-54.4147|23.2248|Kalvarija Municipality
-54.9706|24.0618|Karmėlava
-54.6903|25.2190|Karoliniškės
-54.9027|23.9096|Kaunas
-54.7490|23.4900|Kazlų Rūda
-54.7475|23.4927|Kazlų Rūda Municipality
-55.6333|22.9333|Kelmė
-55.7167|21.1167|Klaipėda
-55.8888|21.2445|Kretinga
-54.7735|22.8614|Kudirkos Naumiestis
-54.9421|23.6422|Kulautuva
-55.8403|24.9798|Kupiskis
-56.0032|22.9366|Kuršėnai
-54.6386|22.7632|Kybartai
-55.2833|23.9667|Kėdainiai
-54.2333|23.5167|Lazdijai
-54.6681|25.2068|Lazdynai
-54.6436|25.0516|Lentvaris
-56.0860|23.9706|Linkuva
-54.5599|23.3541|Marijampolė
-54.5667|23.3500|Marijampolė Municipality
-54.8200|23.8446|Mastaiciai
-56.3167|22.3333|Mazeikiai
-55.2333|25.4167|Moletai
-54.6795|25.2686|Naujamiestis
-54.6643|25.2842|Naujininkai
-56.3167|22.9000|Naujoji Akmene
-54.6951|25.4197|Naujoji Vilnia
-54.8478|25.4699|Nemenčinė
-55.3667|21.0667|Neringa
-55.3086|20.9965|Nida
-55.9689|25.1565|Obeliai
-54.9810|25.7610|Pabradė
-55.1340|21.9045|Pagėgiai
-55.9667|23.8667|Pakruojis
-55.9175|21.0686|Palanga
-55.7333|24.3500|Panevėžys
-55.7330|24.3761|Panevėžys District Municipality
-54.7343|25.2191|Pašilaičiai
-56.0667|24.4000|Pasvalys
-54.6998|25.1839|Pilaitė
-56.0466|21.8162|Plateliai
-55.9114|21.8442|Plunge
-55.5543|21.3190|Priekulė
-54.6333|23.9500|Prienai
-55.8167|23.5333|Radviliskis
-54.9483|24.0305|Ramučiai
-55.5140|24.3000|Ramygala
-55.3667|23.1167|Raseiniai
-54.6788|25.3117|Rasos
-55.7238|21.9327|Rietavas
-55.9667|25.5833|Rokiškis
-55.2982|21.3712|Rusnė
-54.5161|24.8308|Rūdiškės
-54.9500|23.0500|Sakiai
-56.0565|21.5689|Salantai
-54.3000|25.3833|Šalčininkai
-54.9493|23.8832|Sargėnai
-56.1685|22.0907|Seda
-55.7493|23.7561|Šeduva
-54.6090|24.9800|Senieji Trakai
-54.7097|25.2505|Šeškinė
-55.9333|23.3167|Šiauliai
-54.9291|23.8860|Šilainiai
-55.4667|22.2000|Šilalė
-55.3489|21.4831|Silute
-54.3820|23.6460|Simnas
-55.0500|24.9500|Sirvintos
-54.6140|25.3957|Skaidiškės
-56.2667|21.5333|Skuodas
-55.1500|26.1667|Svencionys
-55.1616|26.0018|Švenčionėliai
-56.0261|21.0841|Šventoji
-55.2522|22.2897|Taurage
-55.9814|22.2472|Telsiai
-54.6378|24.9343|Trakai
-55.6234|23.1716|Tytuvėnėliai
-55.2500|24.7500|Ukmerge
-55.4976|25.5992|Utena
-55.9815|24.7483|Vabalninkas
-55.7443|22.3725|Varniai
-54.2167|24.5667|Varėna
-54.1011|23.6961|Veisiejai
-56.1916|22.6953|Venta
-56.2360|22.5167|Viekšniai
-54.7667|24.8000|Vievis
-54.6517|23.0322|Vilkaviskis
-54.6500|23.0333|Vilkaviškis District Municipality
-55.0461|23.5855|Vilkija
-54.6697|25.2477|Vilkpėdė
-54.6892|25.2798|Vilnius
-54.7333|25.3833|Vilnius District Municipality
-54.6286|22.8227|Virbalis
-55.6000|26.4167|Visaginas
-56.3615|23.2509|Žagarė
-55.7333|26.2500|Zarasai
-55.3594|21.7036|Žemaičių Naumiestis
-54.8073|24.4407|Žiežmariai
+54.8964|23.8241|Akademija (Kaunas)|Kaunas|2807|
+56.2500|22.7500|Akmenė|Šiauliai|3026|
+54.8804|23.9084|Aleksotas|Kaunas|24270|
+54.3963|24.0414|Alytus|Alytus|49195|
+54.7078|25.3171|Antakalnis|Vilnius|40000|
+55.5256|25.1026|Anyksciai|Utena|10575|
+55.2620|23.4770|Ariogala|Kaunas|3653|
+54.5795|24.5268|Aukstadvaris|Vilnius|977|
+54.6000|25.1932|Baltoji Vokė|Vilnius|1071|
+54.6167|24.0333|Birštonas|Kaunas|2331|
+56.2000|24.7500|Birzai|Panevėžys|14911|
+55.4139|22.6089|Būgai|Tauragė|1976|
+54.9153|23.9683|Dainava (Kaunas)|Kaunas|70000|
+54.3667|24.3333|Daugai|Alytus|1279|
+54.0157|23.9870|Druskininkai|Alytus|12055|
+55.5220|26.3210|Dūkštas|Utena|888|
+54.9313|23.9324|Eiguliai|Kaunas|40453|
+54.1741|24.9992|Eišiškės|Vilnius|3416|
+54.7854|24.6630|Elektrėnai|Vilnius|13501|
+54.8832|23.6040|Ežerėlis|Kaunas|2051|
+54.7333|25.2417|Fabijoniškės|Vilnius|37000|
+55.7095|21.3944|Gargždai|Klaipėda|16433|
+54.8214|23.8713|Garliava|Kaunas|9873|
+55.0769|22.9770|Gelgaudiškis|Marijampolė|1839|
+54.6833|25.0833|Grigiškės|Vilnius|11555|
+55.3500|26.1667|Ignalina|Utena|5106|
+54.5994|24.1759|Jieznas|Kaunas|1032|
+55.0833|24.2833|Jonava|Kaunas|26423|
+56.2333|23.6167|Joniškis|Šiauliai|11113|
+56.0870|25.6070|Juodupė|Panevėžys|1989|
+55.1086|22.7989|Jurbarkas|Tauragė|10186|
+54.7166|25.2174|Justiniškės|Vilnius|31000|
+54.8667|24.4500|Kaišiadorys|Kaunas|9867|
+54.4170|23.2230|Kalvarija|Marijampolė|4457|
+54.4147|23.2248|Kalvarija Municipality|Marijampolė|0|
+54.9706|24.0618|Karmėlava|Kaunas|1395|
+54.6903|25.2190|Karoliniškės|Vilnius|31200|
+54.9027|23.9096|Kaunas|Kaunas|289380|
+54.7490|23.4900|Kazlų Rūda|Marijampolė|5666|
+54.7475|23.4927|Kazlų Rūda Municipality|Marijampolė|0|
+55.6333|22.9333|Kelmė|Šiauliai|8245|
+55.7167|21.1167|Klaipėda|Klaipėda|172292|
+55.8888|21.2445|Kretinga|Klaipėda|17249|
+54.7735|22.8614|Kudirkos Naumiestis|Marijampolė|1961|
+54.9421|23.6422|Kulautuva|Kaunas|1425|
+55.8403|24.9798|Kupiskis|Panevėžys|8263|
+56.0032|22.9366|Kuršėnai|Šiauliai|10829|
+54.6386|22.7632|Kybartai|Marijampolė|5631|
+55.2833|23.9667|Kėdainiai|Kaunas|22677|
+54.2333|23.5167|Lazdijai|Alytus|3629|
+54.6681|25.2068|Lazdynai|Vilnius|31097|
+54.6436|25.0516|Lentvaris|Vilnius|10004|
+56.0860|23.9706|Linkuva|Šiauliai|1719|
+54.5599|23.3541|Marijampolė|Marijampolė|34975|
+54.5667|23.3500|Marijampolė Municipality|Marijampolė|0|
+54.8200|23.8446|Mastaiciai|Kaunas|1339|
+56.3167|22.3333|Mazeikiai|Telšiai|32470|
+55.2333|25.4167|Moletai|Utena|0|
+54.6795|25.2686|Naujamiestis|Vilnius|28157|
+54.6643|25.2842|Naujininkai|Vilnius|33500|
+56.3167|22.9000|Naujoji Akmene|Šiauliai|11922|
+54.6951|25.4197|Naujoji Vilnia|Vilnius|36800|
+54.8478|25.4699|Nemenčinė|Vilnius|5054|
+55.3667|21.0667|Neringa|Klaipėda|2380|
+55.3086|20.9965|Nida|Klaipėda|3530|
+55.9689|25.1565|Obeliai|Panevėžys|1247|
+54.9810|25.7610|Pabradė|Vilnius|6375|
+55.1340|21.9045|Pagėgiai|Tauragė|1576|
+55.9667|23.8667|Pakruojis|Šiauliai|4352|
+55.9175|21.0686|Palanga|Klaipėda|18207|
+55.7333|24.3500|Panevėžys|Panevėžys|85885|
+55.7330|24.3761|Panevėžys District Municipality|Panevėžys|0|
+54.7343|25.2191|Pašilaičiai|Vilnius|33056|
+56.0667|24.4000|Pasvalys|Panevėžys|6361|
+54.6998|25.1839|Pilaitė|Vilnius|20320|
+56.0466|21.8162|Plateliai|Telšiai|1100|
+55.9114|21.8442|Plunge|Telšiai|18904|
+55.5543|21.3190|Priekulė|Klaipėda|1710|
+54.6333|23.9500|Prienai|Kaunas|8610|
+55.8167|23.5333|Radviliskis|Šiauliai|16344|
+54.9483|24.0305|Ramučiai|Kaunas|2372|
+55.5140|24.3000|Ramygala|Panevėžys|1440|
+55.3667|23.1167|Raseiniai|Kaunas|9686|
+54.6788|25.3117|Rasos|Vilnius|10597|
+55.7238|21.9327|Rietavas|Telšiai|3234|
+55.9667|25.5833|Rokiškis|Panevėžys|11765|
+55.2982|21.3712|Rusnė|Klaipėda|2484|
+54.5161|24.8308|Rūdiškės|Vilnius|2300|
+54.9500|23.0500|Sakiai|Marijampolė|4998|
+56.0565|21.5689|Salantai|Klaipėda|1829|
+54.3000|25.3833|Šalčininkai|Vilnius|6891|
+54.9493|23.8832|Sargėnai|Kaunas|2495|
+56.1685|22.0907|Seda|Telšiai|1224|
+55.7493|23.7561|Šeduva|Šiauliai|3321|
+54.6090|24.9800|Senieji Trakai|Vilnius|1501|
+54.7097|25.2505|Šeškinė|Vilnius|36000|
+55.9333|23.3167|Šiauliai|Šiauliai|99462|
+54.9291|23.8860|Šilainiai|Kaunas|40600|
+55.4667|22.2000|Šilalė|Tauragė|4640|
+55.3489|21.4831|Silute|Klaipėda|14968|
+54.3820|23.6460|Simnas|Alytus|1864|
+55.0500|24.9500|Sirvintos|Vilnius|7321|
+54.6140|25.3957|Skaidiškės|Vilnius|4203|
+56.2667|21.5333|Skuodas|Klaipėda|5508|
+55.1500|26.1667|Svencionys|Vilnius|5538|
+55.1616|26.0018|Švenčionėliai|Vilnius|4726|
+56.0261|21.0841|Šventoji|Klaipėda|2000|
+55.2522|22.2897|Taurage|Tauragė|21203|
+55.9814|22.2472|Telsiai|Telšiai|21294|
+54.6378|24.9343|Trakai|Vilnius|5530|
+55.6234|23.1716|Tytuvėnėliai|Šiauliai|2775|
+55.2500|24.7500|Ukmerge|Vilnius|20154|
+55.4976|25.5992|Utena|Utena|25397|
+55.9815|24.7483|Vabalninkas|Panevėžys|852|
+55.7443|22.3725|Varniai|Telšiai|961|
+54.2167|24.5667|Varėna|Alytus|7892|
+54.1011|23.6961|Veisiejai|Alytus|1654|
+56.1916|22.6953|Venta|Šiauliai|3270|
+56.2360|22.5167|Viekšniai|Telšiai|1938|
+54.7667|24.8000|Vievis|Vilnius|4521|
+54.6517|23.0322|Vilkaviskis|Marijampolė|9444|
+54.6500|23.0333|Vilkaviškis District Municipality|Marijampolė|0|
+55.0461|23.5855|Vilkija|Kaunas|2289|
+54.6697|25.2477|Vilkpėdė|Vilnius|21346|
+54.6892|25.2798|Vilnius|Vilnius|542366|
+54.7333|25.3833|Vilnius District Municipality|Vilnius|0|
+54.6286|22.8227|Virbalis|Marijampolė|895|
+55.6000|26.4167|Visaginas|Utena|18024|
+56.3615|23.2509|Žagarė|Šiauliai|1309|
+55.7333|26.2500|Zarasai|Utena|6051|
+55.3594|21.7036|Žemaičių Naumiestis|Klaipėda|1284|
+54.8073|24.4407|Žiežmariai|Kaunas|3268|

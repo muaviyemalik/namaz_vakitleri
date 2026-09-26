@@ -1,13 +1,13 @@
-14.8444|39.3772|Adi Keyh
-16.1883|38.6873|Af’abet
-15.5480|37.8829|Ak’ordat
-15.3381|38.9318|Asmara
-13.0092|42.7394|Assab
-15.1058|37.5907|Barentu
-15.0700|39.0475|Dek’emhāre
-13.9309|41.6938|Edd
-14.3043|36.6060|Himora
-15.7779|38.4511|Keren
-15.6081|39.4746|Massawa
-14.8872|38.8153|Mendefera
-15.1100|36.6575|Teseney
+14.8444|39.3772|Adi Keyh|Debub|13061|
+16.1883|38.6873|Af’abet|Debub|35673|
+15.5480|37.8829|Ak’ordat|Gash-Barka|8857|
+15.3381|38.9318|Asmara|Maekel|563930|
+13.0092|42.7394|Assab|Southern Red Sea|21300|
+15.1058|37.5907|Barentu|Gash-Barka|15891|
+15.0700|39.0475|Dek’emhāre|Debub|10959|
+13.9309|41.6938|Edd|Southern Red Sea|11259|
+14.3043|36.6060|Himora|Gash-Barka|46100|
+15.7779|38.4511|Keren|Anseba|74800|
+15.6081|39.4746|Massawa|Northern Red Sea|23100|
+14.8872|38.8153|Mendefera|Debub|17781|
+15.1100|36.6575|Teseney|Gash-Barka|3753|

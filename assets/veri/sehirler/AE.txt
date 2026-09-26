@@ -1,77 +1,80 @@
-24.4136|54.4329|Abu Dhabi
-25.2841|55.3315|Abū Hayl
-25.2881|55.8816|Adh Dhayd|Al Dhaid
-25.4033|55.5234|Ajman
-24.1917|55.7606|Al Ain City
-25.2246|55.2689|Al Bada'a
-25.2232|55.7427|Al Batayih
-23.6575|53.7223|Al Dhafra
-25.0265|55.1457|Al Furjan
-25.4612|55.5481|Al Hamriyah
-25.4181|55.5079|Al Jurf
-25.2400|55.3011|Al Karama
-24.9554|55.7682|Al Madam
-25.3235|55.3877|Al Majaz
-25.2480|55.4413|Al Mizhar First
-25.2758|55.3074|Al Murar al Qadīm
-25.2737|55.3227|Al Muteena
-25.2793|55.3700|Al Qusais 1
-25.1705|55.2334|Al Safa
-25.3153|55.6321|Al Sajaah
-24.3927|54.7078|Al Shamkhah City
-25.2917|55.3382|Al Waheda
-25.1927|55.4201|Al Warqaa
-25.1988|55.2557|Al Wasl
-25.4000|55.5292|Al Ḩamīdīyah
-25.4034|55.4334|Ar Rumaylah
-24.1103|52.7306|Ar Ruways|Ruwais
-25.2250|55.3895|Ar Rāshidīyah
-25.2219|55.2746|As Saţwah
-24.3098|54.6294|Bani Yas City
-25.2604|55.2989|Bur Dubai
-25.1854|55.2697|Business Bay
-25.2714|55.3021|Dayrah
-25.5925|56.2618|Dibba Al-Fujairah
-25.6196|56.2729|Dibba Al-Hisn
-25.0657|55.1713|Dubai
-25.2218|55.3573|Dubai Festival City
-25.2106|55.2779|Dubai International Financial Centre
-25.0954|55.1617|Dubai Internet City
-25.0083|55.1568|Dubai Investments Park
-25.0852|55.1465|Dubai Marina
-25.1198|55.3872|Dubai Silicon Oasis
-25.1164|56.3414|Fujairah
-23.9045|52.5871|Ghayathi
-25.3459|55.4216|Halwan
-25.2774|55.3368|Hawr al ‘Anz
-25.1638|55.4099|International City
-25.0025|55.1081|Jebel Ali
-25.2080|55.2497|Jumayrā
-24.9982|56.2721|Kalba
-25.0513|56.3542|Kalbā
-24.4259|54.6050|Khalifa City|Khalifah A City
-25.3313|56.3420|Khawr Fakkān
-25.3397|56.3028|Khor Fakkan
-25.0376|55.5913|Lahbab
-22.8697|53.2409|Liwa Oasis
-25.3257|56.0026|Manama
-25.2461|55.2922|Mankhūl
-24.8398|56.0516|Masfut
-25.1010|55.9128|Milehah
-25.2244|55.4141|Mirdif
-24.3479|54.5537|Mohammed Bin Zayed City
-25.2762|56.3626|Murbaḩ
-24.3589|54.4827|Musaffah|Mussafah
-23.1436|53.7881|Muzayri‘
-25.2714|55.3032|Nāyf
-25.4612|56.0406|Ras Al Khaimah
-25.1448|56.2476|Reef Al Fujairah City
-25.3374|55.4121|Sharjah
-25.1161|55.1351|The Palm Jumeirah
-25.4933|55.7352|Umm AL Quwain
-25.5647|55.5552|Umm Al Quwain City
-25.1549|55.2101|Umm Suqaym
-25.1674|55.4071|Warīsān
-23.6542|53.7052|Zayed City
-25.0695|56.3312|Ţarīf Kalbā
-24.8007|56.1273|Ḩattā
+24.4136|54.4329|Abu Dhabi|Abu Dhabi|1807000|
+25.2841|55.3315|Abū Hayl|Dubai|18043|
+25.4033|55.5234|Ajman|Ajman|490035|
+24.1917|55.7606|Al Ain City|Abu Dhabi|846747|
+25.2246|55.2689|Al Bada'a|Dubai|18816|
+25.2232|55.7427|Al Batayih|Sharjah|0|
+23.6575|53.7223|Al Dhafra|Abu Dhabi|0|
+25.2881|55.8816|Al Dhaid|Sharjah|20165|Adh Dhayd
+25.0265|55.1457|Al Furjan|Dubai|26000|
+25.4612|55.5481|Al Hamriyah|Sharjah|0|
+25.4181|55.5079|Al Jurf|Ajman|18000|
+25.2400|55.3011|Al Karama|Dubai|75560|
+24.9554|55.7682|Al Madam|Sharjah|8652|
+25.3235|55.3877|Al Majaz|Sharjah|116503|
+25.2480|55.4413|Al Mizhar First|Dubai|17498|
+25.2758|55.3074|Al Murar al Qadīm|Dubai|19831|
+25.2737|55.3227|Al Muteena|Dubai|48739|
+25.2793|55.3700|Al Qusais 1|Dubai|48378|
+25.1705|55.2334|Al Safa|Dubai|15672|
+25.3153|55.6321|Al Sajaah|Sharjah|53079|
+24.3927|54.7078|Al Shamkhah City|Abu Dhabi|61710|
+25.2917|55.3382|Al Waheda|Dubai|21608|
+25.1927|55.4201|Al Warqaa|Dubai|59111|
+25.1988|55.2557|Al Wasl|Dubai|22153|
+25.4000|55.5292|Al Ḩamīdīyah|Ajman|27000|
+25.4034|55.4334|Ar Rumaylah|Ajman|86000|
+25.2250|55.3895|Ar Rāshidīyah|Dubai|38425|
+25.2219|55.2746|As Saţwah|Dubai|40997|
+24.3098|54.6294|Bani Yas City|Abu Dhabi|80498|
+25.2604|55.2989|Bur Dubai|Dubai|18698|
+25.1854|55.2697|Business Bay|Dubai|191000|
+25.2714|55.3021|Dayrah|Dubai|400000|
+25.5858|56.2479|Dibba Al Fujairah|Fujairah|30000|
+25.6196|56.2729|Dibba Al-Hisn|Fujairah|26395|
+25.0657|55.1713|Dubai|Dubai|3790000|
+25.2218|55.3573|Dubai Festival City|Dubai|77000|
+25.2106|55.2779|Dubai International Financial Centre|Dubai|36000|
+25.0954|55.1617|Dubai Internet City|Dubai|24000|
+25.0083|55.1568|Dubai Investments Park|Dubai|160000|
+25.0852|55.1465|Dubai Marina|Dubai|120000|
+25.1198|55.3872|Dubai Silicon Oasis|Dubai|90000|
+25.0388|55.2172|Dubai Sports City|Dubai|15000|
+25.1164|56.3414|Fujairah|Fujairah|118933|
+23.9045|52.5871|Ghayathi|Abu Dhabi|0|
+25.3459|55.4216|Halwan|Sharjah|19389|
+25.2774|55.3368|Hawr al ‘Anz|Dubai|84661|
+25.1638|55.4099|International City|Dubai|120000|
+25.0025|55.1081|Jebel Ali|Dubai|210000|
+25.2080|55.2497|Jumayrā|Dubai|39080|
+24.9982|56.2721|Kalba|Sharjah|0|
+25.0513|56.3542|Kalbā|Sharjah|37545|
+24.4259|54.6050|Khalifa City|Abu Dhabi|85374|Khalifah A City
+25.3313|56.3420|Khawr Fakkān|Sharjah|40677|
+25.3397|56.3028|Khor Fakkan|Sharjah|0|
+25.1022|55.1643|Knowledge Village|Dubai|15000|
+25.0376|55.5913|Lahbab|Dubai|53079|
+22.8697|53.2409|Liwa Oasis|Abu Dhabi|0|
+25.3257|56.0026|Manama|Ajman|0|
+25.2461|55.2922|Mankhūl|Dubai|41244|
+24.4321|54.6158|Masdar City|Abu Dhabi|15000|
+24.8398|56.0516|Masfut|Ajman|0|
+25.1010|55.9128|Milehah|Sharjah|0|
+25.2244|55.4141|Mirdif|Dubai|60288|
+24.3479|54.5537|Mohammed Bin Zayed City|Abu Dhabi|85000|
+25.2762|56.3626|Murbaḩ|Sharjah|2000|
+24.3589|54.4827|Mussafah|Abu Dhabi|243341|Musaffah
+23.1436|53.7881|Muzayri‘|Abu Dhabi|10000|
+25.2714|55.3032|Nāyf|Dubai|53075|
+25.4612|56.0406|Ras Al Khaimah|Ras Al Khaimah|351943|
+25.1448|56.2476|Reef Al Fujairah City|Fujairah|82310|
+24.1103|52.7306|Ruwais|Abu Dhabi|25000|Ar Ruways
+25.3374|55.4121|Sharjah|Sharjah|1800000|
+25.1161|55.1351|The Palm Jumeirah|Dubai|25500|
+25.4933|55.7352|Umm AL Quwain|Umm Al Quwain|0|
+25.5647|55.5552|Umm Al Quwain City|Umm Al Quwain|59098|
+25.1549|55.2101|Umm Suqaym|Dubai|16459|
+25.1674|55.4071|Warīsān|Dubai|108759|
+23.6542|53.7052|Zayed City|Abu Dhabi|63482|
+25.0695|56.3312|Ţarīf Kalbā|Fujairah|51000|
+24.8007|56.1273|Ḩattā|Dubai|15324|

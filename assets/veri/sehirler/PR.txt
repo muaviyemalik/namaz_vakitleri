@@ -1,80 +1,80 @@
-18.1635|-66.7232|Adjuntas
-18.3802|-67.1887|Aguada
-18.4274|-67.1541|Aguadilla
-18.2569|-66.1029|Aguas Buenas
-18.1400|-66.2660|Aibonito
-18.2854|-67.1403|Añasco
-18.4705|-66.7218|Arecibo
-17.9964|-66.0925|Arroyo
-41.3801|2.1897|Barceloneta
-18.1866|-66.3063|Barranquitas
-18.3894|-66.1653|Bayamón
-18.0866|-67.1457|Cabo Rojo
-18.2388|-66.0352|Caguas
-18.4838|-66.8449|Camuy
-18.4041|-66.2088|Candelaria
-18.3749|-65.8998|Canóvanas
-18.3681|-66.0425|Carolina
-18.4465|-66.1356|Cataño
-18.1119|-66.1660|Cayey
-18.2475|-65.9085|Ceiba
-18.3361|-66.4688|Ciales
-18.1758|-66.1613|Cidra
-18.0800|-66.3579|Coamo
-18.2192|-66.2256|Comerío
-18.4031|-88.3968|Corozal
-18.3104|-65.3031|Culebra
-43.1481|-77.5772|Dorado
-18.3252|-65.6539|Fajardo
-27.6648|-81.5158|Florida
-17.9725|-66.9086|Guánica
-17.9841|-66.1138|Guayama
-18.0191|-66.7918|Guayanilla
-18.3613|-66.1103|Guaynabo
-18.2544|-65.9729|Gurabo
-18.4285|-66.7875|Hatillo
-18.1335|-67.1128|Hormigueros
-18.1516|-65.8249|Humacao
-16.9754|121.8107|Isabela
-18.2186|-66.5916|Jayuya
-18.0534|-66.5075|Juana Díaz
-18.2275|-65.9210|Juncos
-18.0500|-67.0593|Lajas
-34.0251|-118.4595|Lares
-35.8382|-78.6104|Las Marías
-18.1856|-65.8736|Las Piedras
-18.4500|-66.1816|Levittown
-18.4330|-65.8784|Loíza
-18.3725|-65.7166|Luquillo
-18.4181|-66.5263|Manatí
-18.1808|-66.9799|Maricao
-18.0072|-65.8993|Maunabo
-18.2013|-67.1452|Mayagüez
-18.3968|-67.1479|Moca
-18.3258|-66.4066|Morovis
-18.2116|-65.7349|Naguabo
-18.3008|-66.2449|Naranjito
-18.2269|-66.3912|Orocovis
-18.0037|-66.0134|Patillas
-18.0634|-66.7274|Peñuelas
-18.0111|-66.6141|Ponce
-18.4738|-66.9385|Quebradillas
-18.3402|-67.2499|Rincón
-28.8106|-101.8354|Río Grande
-18.0777|-66.9605|Sabana Grande
-36.6777|-121.6555|Salinas
-18.0807|-67.0411|San Germán
-18.4632|-66.1148|San Juan
-18.1887|-65.9766|San Lorenzo
-43.3183|-1.9812|San Sebastián
-17.9661|-66.4049|Santa Isabel
-18.3883|-66.2482|Toa Alta
-18.4445|-66.2543|Toa Baja
-18.3547|-66.0074|Trujillo Alto
-18.2655|-66.7005|Utuado
-18.4122|-66.3313|Vega Alta
-18.4461|-66.4042|Vega Baja
-18.1263|-65.4401|Vieques
-18.1218|-66.4986|Villalba
-18.0505|-65.8793|Yabucoa
-18.0350|-66.8499|Yauco
+18.1635|-66.7232|Adjuntas|Adjuntas|5080|
+18.3802|-67.1887|Aguada|Aguada|4040|
+18.4274|-67.1541|Aguadilla|Aguadilla|16073|
+18.2569|-66.1029|Aguas Buenas|Aguas Buenas|4576|
+18.1400|-66.2660|Aibonito|Aibonito|8947|
+18.2854|-67.1403|Añasco|Añasco|6136|
+18.4705|-66.7218|Arecibo|Arecibo|87754|
+17.9964|-66.0925|Arroyo|Arroyo|7520|
+41.3801|2.1897|Barceloneta|Barceloneta|22322|
+18.1866|-66.3063|Barranquitas|Barranquitas|3021|
+18.3894|-66.1653|Bayamón|Bayamon|203499|
+18.0866|-67.1457|Cabo Rojo|Cabo Rojo|10839|
+18.2388|-66.0352|Caguas|Caguas|86804|
+18.4838|-66.8449|Camuy|Camuy|4240|
+18.4041|-66.2088|Candelaria|Toa Baja|17631|
+18.3749|-65.8998|Canóvanas|Canóvanas|8437|
+18.3681|-66.0425|Carolina|Carolina|170404|
+18.4465|-66.1356|Cataño|Cataño|28093|
+18.1119|-66.1660|Cayey|Cayey|18494|
+18.2475|-65.9085|Ceiba|Ceiba|6277|
+18.3361|-66.4688|Ciales|Ciales|3256|
+18.1758|-66.1613|Cidra|Cidra|5067|
+18.0800|-66.3579|Coamo|Coamo|11940|
+18.2192|-66.2256|Comerío|Comerío|4649|
+18.4031|-88.3968|Corozal|Corozal|11297|
+18.3104|-65.3031|Culebra|Culebra|1486|
+43.1481|-77.5772|Dorado|Dorado|13117|
+18.3252|-65.6539|Fajardo|Fajardo|32124|
+27.6648|-81.5158|Florida|Florida|5652|
+17.9725|-66.9086|Guánica|Guánica|9224|
+17.9841|-66.1138|Guayama|Guayama|21575|
+18.0191|-66.7918|Guayanilla|Guayanilla|5213|
+18.3613|-66.1103|Guaynabo|Guaynabo|81360|
+18.2544|-65.9729|Gurabo|Gurabo|8973|
+18.4285|-66.7875|Hatillo|Hatillo|5622|
+18.1335|-67.1128|Hormigueros|Hormigueros|11934|
+18.1516|-65.8249|Humacao|Humacao|20387|
+16.9754|121.8107|Isabela|Isabela|12505|
+18.2186|-66.5916|Jayuya|Jayuya|3587|
+18.0534|-66.5075|Juana Díaz|Juana Díaz|9427|
+18.2275|-65.9210|Juncos|Juncos|8905|
+18.0500|-67.0593|Lajas|Lajas|5255|
+34.0251|-118.4595|Lares|Lares|7184|
+35.8382|-78.6104|Las Marías|Las Marías|1031|
+18.1856|-65.8736|Las Piedras|Las Piedras|6655|
+18.4500|-66.1816|Levittown|Toa Baja|29785|
+18.4330|-65.8784|Loíza|Loíza|4311|
+18.3725|-65.7166|Luquillo|Luquillo|8326|
+18.4181|-66.5263|Manatí|Manatí|16092|
+18.1808|-66.9799|Maricao|Maricao|1172|
+18.0072|-65.8993|Maunabo|Maunabo|2154|
+18.2013|-67.1452|Mayagüez|Mayagüez|73077|
+18.3968|-67.1479|Moca|Moca|4964|
+18.3258|-66.4066|Morovis|Morovis|2414|
+18.2116|-65.7349|Naguabo|Naguabo|4643|
+18.3008|-66.2449|Naranjito|Naranjito|2005|
+18.2269|-66.3912|Orocovis|Orocovis|944|
+18.0037|-66.0134|Patillas|Patillas|4247|
+18.0634|-66.7274|Peñuelas|Peñuelas|6847|
+18.0111|-66.6141|Ponce|Ponce|137491|
+18.4738|-66.9385|Quebradillas|Quebradillas|5620|
+18.3402|-67.2499|Rincón|Rincón|1499|
+28.8106|-101.8354|Río Grande|Río Grande|13467|
+18.0777|-66.9605|Sabana Grande|Sabana Grande|8961|
+36.6777|-121.6555|Salinas|Salinas|6375|
+18.0807|-67.0411|San Germán|San Germán|12055|
+18.4632|-66.1148|San Juan|San Juan|418140|
+18.1887|-65.9766|San Lorenzo|San Lorenzo|9373|
+43.3183|-1.9812|San Sebastián|San Sebastián|11590|
+17.9661|-66.4049|Santa Isabel|Santa Isabel|7260|
+18.3883|-66.2482|Toa Alta|Toa Alta|4483|
+18.4445|-66.2543|Toa Baja|Toa Baja|1889|
+18.3547|-66.0074|Trujillo Alto|Trujillo Alto|75243|
+18.2655|-66.7005|Utuado|Utuado|9844|
+18.4122|-66.3313|Vega Alta|Vega Alta|12036|
+18.4461|-66.4042|Vega Baja|Vega Baja|29325|
+18.1263|-65.4401|Vieques|Vieques|0|
+18.1218|-66.4986|Villalba|Villalba|4555|
+18.0505|-65.8793|Yabucoa|Yabucoa|6952|
+18.0350|-66.8499|Yauco|Yauco|20295|

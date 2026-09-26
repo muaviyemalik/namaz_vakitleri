@@ -1,17 +1,17 @@
-8.7619|27.3919|Aweil
-6.2089|31.5586|Bor
-8.5332|28.1004|Gogrial
-4.8517|31.5825|Juba
-9.2735|24.4170|Kafia Kingi
-8.3028|27.9800|Kuacjok
-8.3031|30.1406|Leer
-9.5334|31.6605|Malakal
-3.8651|32.4821|Pajok
-6.8062|29.6774|Rumbek
-7.2739|28.6775|Tonj
-4.4118|32.5705|Torit
-7.7011|27.9897|Wau
-9.0122|27.5708|Winejok
-4.5708|28.3942|Yambio
-4.0944|30.6764|Yei
-6.5525|30.4981|Yirol
+8.7619|27.3919|Aweil|Northern Bahr al Ghazal|38745|
+6.2089|31.5586|Bor|Jonglei|26782|
+8.5332|28.1004|Gogrial|Warrap|44600|
+4.8517|31.5825|Juba|Central Equatoria|450000|
+9.2735|24.4170|Kafia Kingi|Western Bahr al Ghazal|16000|
+8.3028|27.9800|Kuacjok|Warrap|78000|
+8.3031|30.1406|Leer|Unity|17827|
+9.5334|31.6605|Malakal|Upper Nile|160765|
+3.8651|32.4821|Pajok|Eastern Equatoria|49000|
+6.8062|29.6774|Rumbek|Lakes|32083|
+7.2739|28.6775|Tonj|Warrap|17338|
+4.4118|32.5705|Torit|Eastern Equatoria|20048|
+7.7011|27.9897|Wau|Western Bahr al Ghazal|127384|
+9.0122|27.5708|Winejok|Northern Bahr al Ghazal|300000|
+4.5708|28.3942|Yambio|Western Equatoria|40382|
+4.0944|30.6764|Yei|Central Equatoria|260720|
+6.5525|30.4981|Yirol|Lakes|11650|

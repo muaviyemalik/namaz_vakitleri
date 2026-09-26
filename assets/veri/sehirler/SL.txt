@@ -1,94 +1,94 @@
-9.1536|-11.3871|Alikalia
-8.1083|-11.8477|Baiima
-7.9934|-11.7147|Baoma
-8.3496|-11.3306|Barma
-9.9138|-11.4467|Bindi
-8.9522|-11.9803|Binkolo
-7.8748|-11.3455|Blama
-7.9647|-11.7383|Bo
-8.1876|-11.3403|Boajibu
-7.9888|-11.6734|Bo District
-9.2844|-12.1645|Bombali
-7.2461|-11.5258|Bomi
-7.5264|-12.5050|Bonthe
-7.5162|-12.3359|Bonthe District
-8.2796|-10.3713|Buedu
-9.0447|-11.7458|Bumbuna
-7.8921|-11.9054|Bumpe
-8.1742|-10.8643|Bunumbu
-7.9898|-10.8422|Daru
-7.4091|-11.5433|Foindu
-8.4871|-13.2356|Freetown
-7.5550|-11.6926|Gandorhun
-9.8785|-11.1655|Gberia Fotombu
-7.5509|-11.6075|Gbewebu
-7.8841|-11.0491|Giehun
-8.4276|-13.2860|Goderich
-7.4644|-11.2395|Gorahun
-7.9397|-11.1413|Hangha
-8.3799|-13.1369|Hastings
-7.8781|-10.7898|Jojoima
-9.5889|-11.5526|Kabala
-8.2789|-10.5730|Kailahun
-8.1077|-10.7515|Kailahun District
-9.4969|-12.2406|Kamakwie
-9.1250|-12.9182|Kambia
-8.9381|-13.1154|Kassiri
-8.8879|-11.1593|Kayima
-7.8769|-11.1903|Kenema
-7.9517|-11.1900|Kenema District
-8.3333|-13.0667|Kent
-8.6439|-10.9714|Koidu
-9.5099|-11.3460|Koinadugu
-8.6978|-13.2392|Konakridee
-8.7069|-10.9337|Kono
-7.7095|-11.6935|Koribundu
-8.7055|-11.0224|Koyima
-9.3984|-12.6648|Kukuna
-8.2790|-12.1578|Largo
-9.7593|-12.0338|Loma
-8.6844|-12.5350|Lunsar
-8.7231|-11.9488|Magburaka
-8.6296|-11.6617|Makali
-8.8860|-12.0442|Makeni
-8.9186|-13.0367|Mambolo
-8.0874|-11.6884|Mamboma
-8.9226|-12.8569|Mange
-8.1739|-10.7483|Manowa
-8.6649|-11.8026|Masaka
-8.7820|-11.9517|Masingbi
-8.6112|-13.1910|Masoyila
-8.4660|-12.2146|Mile 91
-7.9934|-10.7536|Mobai
-7.7624|-12.3086|Mogbwemo
-8.6143|-11.0125|Motema
-8.1590|-12.4317|Moyamba
-8.0629|-12.4440|Moyamba District
-8.2323|-12.0156|Njala
-8.1200|-11.5070|Palima
-8.1851|-11.1329|Panguma
-8.0981|-10.6943|Pendembu
-8.5861|-13.0544|Pepel
-8.7667|-12.7875|Port Loko
-7.5060|-11.4790|Potoru
-7.3581|-11.7208|Pujehun
-7.3186|-11.5792|Pujehun District
-8.6712|-12.3850|Rokupr
-8.2259|-12.6776|Rotifunk
-8.6323|-13.2025|Sawkta
-7.9947|-10.9502|Segbwema
-9.0180|-10.5950|Seidu
-7.7931|-12.0529|Serabu
-8.6124|-11.0076|Simbakoro
-7.6479|-11.9606|Sumbuya
-8.7040|-11.2126|Tefeya
-8.6267|-13.2150|Tintafor
-8.1353|-10.6196|Tombodu
-8.5399|-10.7313|Tombu
-7.4509|-11.9007|Tongole
-8.6189|-11.8417|Tonkolili
-8.3389|-13.0709|Waterloo
-8.3005|-11.2045|Wima
-8.7144|-11.1706|Yengema
-8.4435|-12.2393|Yonibana
-7.3136|-11.3082|Zimmi
+9.1536|-11.3871|Alikalia|Northern|3138|
+8.1083|-11.8477|Baiima|Southern|3771|
+7.9934|-11.7147|Baoma|Southern|7044|
+8.3496|-11.3306|Barma|Eastern|7529|
+9.9138|-11.4467|Bindi|Northern|3188|
+8.9522|-11.9803|Binkolo|Northern|13867|
+7.8748|-11.3455|Blama|Eastern|8146|
+7.9647|-11.7383|Bo|Southern|233684|
+8.1876|-11.3403|Boajibu|Eastern|7384|
+7.9888|-11.6734|Bo District|Southern|0|
+9.2844|-12.1645|Bombali|Northern|0|
+7.2461|-11.5258|Bomi|Southern|5463|
+7.5264|-12.5050|Bonthe|Southern|10206|
+7.5162|-12.3359|Bonthe District|Southern|0|
+8.2796|-10.3713|Buedu|Eastern|5412|
+9.0447|-11.7458|Bumbuna|Northern|3222|
+7.8921|-11.9054|Bumpe|Southern|16123|
+8.1742|-10.8643|Bunumbu|Eastern|7355|
+7.9898|-10.8422|Daru|Eastern|5958|
+7.4091|-11.5433|Foindu|Southern|5868|
+8.4871|-13.2356|Freetown|Western|802639|
+7.5550|-11.6926|Gandorhun|Southern|12288|
+9.8785|-11.1655|Gberia Fotombu|Northern|3034|
+7.5509|-11.6075|Gbewebu|Southern|4122|
+7.8841|-11.0491|Giehun|Eastern|2845|
+8.4276|-13.2860|Goderich|Western Area|19209|
+7.4644|-11.2395|Gorahun|Eastern|4089|
+7.9397|-11.1413|Hangha|Eastern|5007|
+8.3799|-13.1369|Hastings|Western|5121|
+7.8781|-10.7898|Jojoima|Eastern|3136|
+9.5889|-11.5526|Kabala|Northern|17948|
+8.2789|-10.5730|Kailahun|Eastern|14085|
+8.1077|-10.7515|Kailahun District|Eastern|0|
+9.4969|-12.2406|Kamakwie|North Western|8098|
+9.1250|-12.9182|Kambia|North Western|11520|
+8.9381|-13.1154|Kassiri|Northern|5161|
+8.8879|-11.1593|Kayima|Eastern|1881|
+7.8769|-11.1903|Kenema|Eastern|255110|
+7.9517|-11.1900|Kenema District|Eastern|0|
+8.3333|-13.0667|Kent|Western|1804|
+8.6439|-10.9714|Koidu|Eastern|128030|
+9.5099|-11.3460|Koinadugu|Northern|0|
+8.6978|-13.2392|Konakridee|Northern|3104|
+8.7069|-10.9337|Kono|Eastern|0|
+7.7095|-11.6935|Koribundu|Southern|4617|
+8.7055|-11.0224|Koyima|Eastern|2705|
+9.3984|-12.6648|Kukuna|Northern|7676|
+8.2790|-12.1578|Largo|Southern|3441|
+9.7593|-12.0338|Loma|Northern|3435|
+8.6844|-12.5350|Lunsar|North Western|22461|
+8.7231|-11.9488|Magburaka|Northern|14915|
+8.6296|-11.6617|Makali|Northern|3550|
+8.8860|-12.0442|Makeni|Northern|85116|
+8.9186|-13.0367|Mambolo|Northern|6624|
+8.0874|-11.6884|Mamboma|Southern|5201|
+8.9226|-12.8569|Mange|Northern|3339|
+8.1739|-10.7483|Manowa|Eastern|4214|
+8.6649|-11.8026|Masaka|Northern|3219|
+8.7820|-11.9517|Masingbi|Northern|5644|
+8.6112|-13.1910|Masoyila|Northern|3658|
+8.4660|-12.2146|Mile 91|Northern|15491|
+7.9934|-10.7536|Mobai|Eastern|3441|
+7.7624|-12.3086|Mogbwemo|Southern|2900|
+8.6143|-11.0125|Motema|Eastern|5474|
+8.1590|-12.4317|Moyamba|Southern|6700|
+8.0629|-12.4440|Moyamba District|Southern|0|
+8.2323|-12.0156|Njala|Southern|40000|
+8.1200|-11.5070|Palima|Southern|4116|
+8.1851|-11.1329|Panguma|Eastern|7965|
+8.0981|-10.6943|Pendembu|Eastern|8780|
+8.5861|-13.0544|Pepel|North Western|4462|
+8.7667|-12.7875|Port Loko|North Western|44900|
+7.5060|-11.4790|Potoru|Southern|4937|
+7.3581|-11.7208|Pujehun|Southern|7926|
+7.3186|-11.5792|Pujehun District|Southern|0|
+8.6712|-12.3850|Rokupr|North Western|12744|
+8.2259|-12.6776|Rotifunk|Southern|4858|
+8.6323|-13.2025|Sawkta|Northern|3452|
+7.9947|-10.9502|Segbwema|Eastern|16532|
+9.0180|-10.5950|Seidu|Northern|2243|
+7.7931|-12.0529|Serabu|Southern|4261|
+8.6124|-11.0076|Simbakoro|Eastern|2514|
+7.6479|-11.9606|Sumbuya|Southern|7074|
+8.7040|-11.2126|Tefeya|Eastern|3544|
+8.6267|-13.2150|Tintafor|Northern|5460|
+8.1353|-10.6196|Tombodu|Eastern|5985|
+8.5399|-10.7313|Tombu|Eastern|4005|
+7.4509|-11.9007|Tongole|Southern|3492|
+8.6189|-11.8417|Tonkolili|Northern|0|
+8.3389|-13.0709|Waterloo|Western|55000|
+8.3005|-11.2045|Wima|Eastern|3691|
+8.7144|-11.1706|Yengema|Eastern|13358|
+8.4435|-12.2393|Yonibana|Northern|3589|
+7.3136|-11.3082|Zimmi|Southern|4796|

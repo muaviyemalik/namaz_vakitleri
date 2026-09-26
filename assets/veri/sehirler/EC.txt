@@ -1,123 +1,123 @@
--2.2033|-78.8471|Alausí
--1.9167|-79.5167|Alfredo Baquerizo Moreno
--1.2491|-78.6167|Ambato
--0.9095|-77.8077|Archidona
--3.5540|-80.0668|Arenillas
-0.3325|-78.2137|Atuntaqui
--2.7397|-78.8486|Azogues
--1.8022|-79.5344|Babahoyo
--0.5979|-80.4237|Bahía de Caráquez
--2.9110|-79.8144|Baláo
--1.3650|-79.9049|Balzar
--1.3970|-78.4229|Baños
--0.6983|-77.1408|Boca Suno
--0.8458|-80.1639|Calceta
--2.5606|-78.9394|Cañar
--1.0500|-80.4500|Cantón Portoviejo
--3.1335|-79.2689|Cantón San Fernando
--4.3280|-79.5558|Cariamanga
--3.9866|-79.3576|Catamayo
--1.5750|-79.4600|Catarama
-0.0408|-78.1452|Cayambe
--0.6982|-80.0936|Chone
--1.5455|-80.0117|Colimes
--2.2092|-79.4325|Coronel Marcelino Maridueña
-0.3011|-78.2643|Cotacachi
--2.9005|-79.0045|Cuenca
--1.8603|-79.9768|Daule
-0.6228|-77.9400|El Ángel
--1.0449|-79.6384|El Empalme
--2.1758|-79.8552|Eloy Alfaro
--1.9333|-79.9667|El Triunfo
-0.9592|-79.6540|Esmeraldas
--0.4667|-76.9667|Francisco de Orellana Canton
--3.2440|-79.8287|Guabo
--2.8926|-78.7781|Gualaceo
--3.4036|-78.5817|Gualaquiza
--1.6079|-78.6311|Guano
--1.5926|-79.0010|Guaranda
--2.1962|-79.8862|Guayaquil
--3.4752|-80.2308|Huaquillas
-0.3517|-78.1223|Ibarra
--1.3487|-80.5787|Jipijapa
--0.9278|-80.2058|Junín
--2.2330|-80.9104|La Libertad
--0.9409|-79.2251|La Maná
--0.9352|-78.6155|Latacunga
--2.4236|-79.3398|La Troncal
--2.8500|-78.7833|La Unión
--2.8667|-78.8833|Llacao
--3.9931|-79.2042|Loja
--1.8833|-80.0833|Lomas de Sargentillo
--0.6949|-77.3025|Loreto Canton
--2.3087|-78.1114|Macas
--0.5101|-78.5671|Machachi
--3.2586|-79.9605|Machala
--0.9621|-80.7127|Manta
--2.1340|-79.5941|Milagro
--1.7901|-79.2876|Montalvo
--1.0458|-80.6589|Montecristi
-0.6113|-80.0186|Muisne
--2.6736|-79.6183|Naranjal
--2.1667|-79.4654|Naranjito
-0.0860|-76.8953|Nueva Loja
--2.9167|-78.8500|Nulti
-0.2346|-78.2625|Otavalo
--1.5524|-80.4296|Paján
--1.4380|-79.7565|Palenque
--1.9371|-79.7140|Palestina
--1.7013|-77.9652|Palora
-1.3525|-78.8936|Pampanal de Bolívar
--3.3256|-79.8070|Pasaje
-0.0717|-80.0525|Pedernales
--1.8156|-80.2331|Pedro Carbo
--1.3299|-78.5434|Pelileo
--1.1741|-78.5468|Píllaro
-0.3912|-77.9407|Pimampiro
--3.6811|-79.6808|Piñas
--2.6320|-80.3881|Playas
--0.0542|-78.4538|Pomasqui
--3.7214|-79.6219|Portovelo
--1.0546|-80.4544|Portoviejo
--2.7092|-80.2472|Posorja
--0.7402|-90.3138|Puerto Ayora
--0.9017|-89.6102|Puerto Baquerizo Moreno
--3.2665|-79.9975|Puerto Bolívar
--0.4664|-76.9872|Puerto Francisco de Orellana
--0.9554|-90.9665|Puerto Villamil
--0.9576|-78.6964|Pujilí
--1.4837|-78.0026|Puyo
--1.0286|-79.4635|Quevedo
--0.2298|-78.5250|Quito
--1.6710|-78.6471|Riobamba
-1.0623|-79.3994|Rio Verde
--0.9236|-80.4495|Rocafuerte
-0.3278|-79.4741|Rosa Zarate
--2.2145|-80.9515|Salinas
--1.9628|-79.7240|Samborondón
-0.5932|-77.8308|San Gabriel
--0.3341|-78.4522|Sangolquí
-1.2863|-78.8351|San Lorenzo de Esmeraldas
--1.7088|-79.0431|San Miguel
--1.0455|-78.5906|San Miguel de Salcedo
--1.2073|-80.3713|Santa Ana
--2.2262|-80.8587|Santa Elena
--2.1833|-80.0000|Santa Lucía
--3.4488|-79.9595|Santa Rosa
--0.2530|-79.1754|Santo Domingo de los Colorados
--0.6044|-80.4027|San Vicente
--0.8399|-78.6670|Saquisilí
--1.2797|-80.4189|Sucre
--2.4587|-78.1717|Sucúa
--0.9938|-77.8129|Tena
--0.7868|-80.2347|Tosagua
-0.8119|-77.7173|Tulcán
-1.2492|-78.9831|Valdez
--0.9531|-79.3551|Valencia
--1.0438|-79.6384|Velasco Ibarra
--1.4416|-79.4594|Ventanas
--1.5561|-79.7519|Vinces
--2.0968|-79.6949|Yaguachi Nuevo
--3.8326|-78.7608|Yantzaza
--4.0668|-78.9549|Zamora
--3.6913|-79.6117|Zaruma
+-2.2033|-78.8471|Alausí|Chimborazo|14294|
+-1.9167|-79.5167|Alfredo Baquerizo Moreno|Guayas|12617|
+-1.2491|-78.6167|Ambato|Tungurahua|387309|
+-0.9095|-77.8077|Archidona|Napo|7309|
+-3.5540|-80.0668|Arenillas|El Oro|26000|
+0.3325|-78.2137|Atuntaqui|Imbabura|17456|
+-2.7397|-78.8486|Azogues|Cañar|34877|
+-1.8022|-79.5344|Babahoyo|Los Ríos|76279|
+-0.5979|-80.4237|Bahía de Caráquez|Manabí|37056|
+-2.9110|-79.8144|Baláo|Guayas|12205|
+-1.3650|-79.9049|Balzar|Guayas|40115|
+-1.3970|-78.4229|Baños|Tungurahua|9501|
+-0.6983|-77.1408|Boca Suno|Orellana|20313|
+-0.8458|-80.1639|Calceta|Manabí|17286|
+-2.5606|-78.9394|Cañar|Cañar|9900|
+-1.0500|-80.4500|Cantón Portoviejo|Manabí|0|
+-3.1335|-79.2689|Cantón San Fernando|Azuay|0|
+-4.3280|-79.5558|Cariamanga|Loja|16862|
+-3.9866|-79.3576|Catamayo|Loja|18565|
+-1.5750|-79.4600|Catarama|Los Ríos|9723|
+0.0408|-78.1452|Cayambe|Pichincha|26582|
+-0.6982|-80.0936|Chone|Manabí|44751|
+-1.5455|-80.0117|Colimes|Guayas|9384|
+-2.2092|-79.4325|Coronel Marcelino Maridueña|Guayas|7303|
+0.3011|-78.2643|Cotacachi|Imbabura|8238|
+-2.9005|-79.0045|Cuenca|Azuay|636996|
+-1.8603|-79.9768|Daule|Guayas|173684|
+0.6228|-77.9400|El Ángel|Carchi|3983|
+-1.0449|-79.6384|El Empalme|Guayas|48754|
+-2.1758|-79.8552|Eloy Alfaro|Guayas|315724|
+-1.9333|-79.9667|El Triunfo|Guayas|32282|
+0.9592|-79.6540|Esmeraldas|Esmeraldas|218727|
+-0.4667|-76.9667|Francisco de Orellana Canton|Orellana|0|
+-3.2440|-79.8287|Guabo|El Oro|26635|
+-2.8926|-78.7781|Gualaceo|Azuay|17122|
+-3.4036|-78.5817|Gualaquiza|Morona-Santiago|4611|
+-1.6079|-78.6311|Guano|Chimborazo|12659|
+-1.5926|-79.0010|Guaranda|Bolívar|22199|
+-2.1962|-79.8862|Guayaquil|Guayas|2723665|
+-3.4752|-80.2308|Huaquillas|El Oro|39757|
+0.3517|-78.1223|Ibarra|Imbabura|221149|
+-1.3487|-80.5787|Jipijapa|Manabí|35901|
+-0.9278|-80.2058|Junín|Manabí|9128|
+-2.2330|-80.9104|La Libertad|Santa Elena|75881|
+-0.9409|-79.2251|La Maná|Cotopaxi|16450|
+-0.9352|-78.6155|Latacunga|Cotopaxi|205624|
+-2.4236|-79.3398|La Troncal|Cañar|36353|
+-2.8500|-78.7833|La Unión|Azuay|1622|
+-2.8667|-78.8833|Llacao|Azuay|4501|
+-3.9931|-79.2042|Loja|Loja|274112|
+-1.8833|-80.0833|Lomas de Sargentillo|Guayas|7542|
+-0.6949|-77.3025|Loreto Canton|Orellana|0|
+-2.3087|-78.1114|Macas|Morona-Santiago|23687|
+-0.5101|-78.5671|Machachi|Pichincha|25742|
+-3.2586|-79.9605|Machala|El Oro|289141|
+-0.9621|-80.7127|Manta|Manabí|264281|
+-2.1340|-79.5941|Milagro|Guayas|133508|
+-1.7901|-79.2876|Montalvo|Los Ríos|15547|
+-1.0458|-80.6589|Montecristi|Manabí|18351|
+0.6113|-80.0186|Muisne|Esmeraldas|13393|
+-2.6736|-79.6183|Naranjal|Guayas|32045|
+-2.1667|-79.4654|Naranjito|Guayas|34206|
+0.0860|-76.8953|Nueva Loja|Sucumbíos|24211|
+-2.9167|-78.8500|Nulti|Azuay|4589|
+0.2346|-78.2625|Otavalo|Imbabura|32330|
+-1.5524|-80.4296|Paján|Manabí|9183|
+-1.4380|-79.7565|Palenque|Los Ríos|9083|
+-1.9371|-79.7140|Palestina|Guayas|9364|
+-1.7013|-77.9652|Palora|Morona-Santiago|6472|
+1.3525|-78.8936|Pampanal de Bolívar|Esmeraldas|1118|
+-3.3256|-79.8070|Pasaje|El Oro|44860|
+0.0717|-80.0525|Pedernales|Manabí|5983|
+-1.8156|-80.2331|Pedro Carbo|Guayas|23372|
+-1.3299|-78.5434|Pelileo|Tungurahua|16572|
+-1.1741|-78.5468|Píllaro|Tungurahua|7462|
+0.3912|-77.9407|Pimampiro|Imbabura|7408|
+-3.6811|-79.6808|Piñas|El Oro|16981|
+-2.6320|-80.3881|Playas|Guayas|30564|
+-0.0542|-78.4538|Pomasqui|Pichincha|28724|
+-3.7214|-79.6219|Portovelo|El Oro|9708|
+-1.0546|-80.4544|Portoviejo|Manabí|321800|
+-2.7092|-80.2472|Posorja|Guayas|30886|
+-0.7402|-90.3138|Puerto Ayora|Galápagos|12696|
+-0.9017|-89.6102|Puerto Baquerizo Moreno|Galápagos|7290|
+-3.2665|-79.9975|Puerto Bolívar|El Oro|8300|
+-0.4664|-76.9872|Puerto Francisco de Orellana|Orellana|48144|
+-0.9554|-90.9665|Puerto Villamil|Galápagos|2200|
+-0.9576|-78.6964|Pujilí|Cotopaxi|16168|
+-1.4837|-78.0026|Puyo|Pastaza|24881|
+-1.0286|-79.4635|Quevedo|Los Ríos|213842|
+-0.2298|-78.5250|Quito|Pichincha|2781641|
+-1.6710|-78.6471|Riobamba|Chimborazo|264048|
+1.0623|-79.3994|Rio Verde|Esmeraldas|0|
+-0.9236|-80.4495|Rocafuerte|Manabí|10274|
+0.3278|-79.4741|Rosa Zarate|Esmeraldas|42121|
+-2.2145|-80.9515|Salinas|Santa Elena|43862|
+-1.9628|-79.7240|Samborondón|Guayas|24118|
+0.5932|-77.8308|San Gabriel|Carchi|14487|
+-0.3341|-78.4522|Sangolquí|Pichincha|5114|
+1.2863|-78.8351|San Lorenzo de Esmeraldas|Esmeraldas|20209|
+-1.7088|-79.0431|San Miguel|Bolívar|0|
+-1.0455|-78.5906|San Miguel de Salcedo|Cotopaxi|0|
+-1.2073|-80.3713|Santa Ana|Manabí|0|
+-2.2262|-80.8587|Santa Elena|Santa Elena|42214|
+-2.1833|-80.0000|Santa Lucía|Guayas|12523|
+-3.4488|-79.9595|Santa Rosa|El Oro|41816|
+-0.2530|-79.1754|Santo Domingo de los Colorados|Santo Domingo de los Tsáchilas|458580|
+-0.6044|-80.4027|San Vicente|Manabí|0|
+-0.8399|-78.6670|Saquisilí|Cotopaxi|3778|
+-1.2797|-80.4189|Sucre|Manabí|15286|
+-2.4587|-78.1717|Sucúa|Morona-Santiago|7413|
+-0.9938|-77.8129|Tena|Napo|17172|
+-0.7868|-80.2347|Tosagua|Manabí|14680|
+0.8119|-77.7173|Tulcán|Carchi|86498|
+1.2492|-78.9831|Valdez|Esmeraldas|11441|
+-0.9531|-79.3551|Valencia|Los Ríos|18841|
+-1.0438|-79.6384|Velasco Ibarra|Guayas|0|
+-1.4416|-79.4594|Ventanas|Los Ríos|38168|
+-1.5561|-79.7519|Vinces|Los Ríos|32497|
+-2.0968|-79.6949|Yaguachi Nuevo|Guayas|27947|
+-3.8326|-78.7608|Yantzaza|Zamora Chinchipe|9970|
+-4.0668|-78.9549|Zamora|Zamora Chinchipe|15276|
+-3.6913|-79.6117|Zaruma|El Oro|12505|

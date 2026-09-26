@@ -1,484 +1,547 @@
-14.4500|-87.2667|Agalteca
-14.9167|-87.9667|Agua Azul
-14.9000|-87.9500|Agua Azul Rancho
-15.2500|-87.8833|Agua Blanca Sur
-14.8833|-88.8167|Agua Caliente
-13.4689|-87.5511|Agua Fría
-15.3353|-88.5531|Agualote
-13.9861|-87.6462|Aguanqueterique
-14.5667|-87.8833|Aguas del Padre
-15.4692|-84.3448|Ahuas
-14.3833|-87.7000|Ajuterique
-13.8402|-86.6953|Alauca
-13.4482|-87.6864|Alianza
-13.7823|-87.4699|Alubarén
-13.2922|-87.6539|Amapala
-14.4000|-89.2000|Antigua Ocotepeque
-13.4582|-87.0112|Apacilagua
-14.8500|-88.3000|Arada
-13.7422|-87.7103|Aramecina
-13.9500|-86.5500|Araulí
-15.3500|-86.8333|Arenal
-14.7833|-86.0000|Arimís
-15.6333|-87.3167|Arizona
-15.4667|-86.3667|Armenia
-15.5000|-88.0500|Armenta
-15.6833|-87.3167|Atenas de San Cristóbal
-14.9333|-88.4833|Atima
-15.4833|-84.3333|Auas
-14.9409|-83.8323|Auka
-15.1117|-87.1756|Ayapa
-14.7167|-88.1000|Azacualpa
-15.8885|-87.8555|Baja Mar
-15.7571|-86.2905|Balfate
-15.4833|-86.3333|Bálsamo Oriental
-15.7667|-87.8500|Baracoa
-15.8000|-84.2833|Barra Patuca
-15.1333|-87.9333|Bejuco
-14.5083|-88.4282|Belén
-14.4833|-88.8000|Belén Gualcho
-14.8333|-88.5000|Berlín
-15.7464|-85.7361|Bonito Oriental
-15.7500|-84.4833|Brus Laguna
-15.0333|-88.9667|Buenos Aires
-14.7600|-89.0600|Cabañas
-15.1667|-88.6500|Callejones
-15.3333|-88.3333|Camalote
-14.0000|-88.3833|Camasca
-14.5500|-86.6500|Campamento
-14.9833|-88.0167|Cañaveral
-14.0607|-88.5591|Candelaria
-14.2833|-87.6667|Cane
-15.5167|-86.3500|Carbajales
-13.8156|-87.6812|Caridad
-15.1167|-88.0833|Casa Quemada
-14.6038|-85.5426|Catacamas
-14.5046|-87.2168|Cedros
-14.8000|-88.2000|Ceguaca
-14.6667|-87.7833|Cerro Blanco
-13.8167|-87.2500|Cerro Grande
-15.1000|-88.6833|Chalmeca
-14.1829|-87.9540|Chinacla
-15.1167|-88.2000|Chinda
-15.7500|-87.9833|Chivana
-15.6400|-87.9200|Choloma
-13.2826|-87.2012|Choluteca
-15.4167|-87.9833|Chotepe
-13.3003|-87.1908|Ciudad Choluteca
-15.4000|-88.1500|Cofradía
-14.3119|-88.8772|Cololaca
-13.9725|-88.2767|Colomoncagua
-14.4841|-87.6006|Comayagua
-14.8808|-88.8792|Concepción
-14.6000|-87.6500|Concepción de Guasistagua
-15.1667|-88.7167|Concepción de la Barranca
-15.2023|-88.1373|Concepción del Norte
-14.8126|-88.1532|Concepción del Sur
-13.2236|-86.9624|Concepción de María
-14.6167|-86.6500|Concordia
-14.8333|-89.1500|Copán
-14.9200|-89.1500|Copán Ruinas
-15.7500|-85.7833|Corocito
-15.8000|-86.7167|Corozal
-13.2889|-87.0347|Corpus
-14.5667|-88.8667|Corquín
-15.4167|-88.4500|Correderos
-16.3176|-86.5379|Coxen Hole
-15.4000|-86.6667|Coyoles Central
-14.6500|-88.8667|Cucuyagua
-13.8300|-87.5700|Curarén
-15.8500|-85.2333|Cusuna
-13.8833|-86.5500|Cuyalí
-15.6667|-88.2000|Cuyamel
-14.0333|-86.5833|Danlí
-14.1497|-87.2481|Distrito Central
-14.8667|-88.8333|Dolores
-14.5510|-89.1249|Dolores Merendón
-14.8555|-88.8386|Dulce Nombre
-15.1000|-85.5333|Dulce Nombre de Culmí
-13.6333|-86.8167|Duyure
-14.0833|-88.7500|El Achiotal
-14.7000|-87.7500|El Agua Dulcita
-15.0667|-87.4667|El Bálsamo
-14.0333|-86.4667|El Benque
-14.0667|-86.3000|El Chichicaste
-14.1333|-87.1167|El Chimbo
-15.3000|-88.5000|El Ciruelo
-15.0667|-88.6167|El Corozal
-13.3046|-87.0097|El Corpus
-13.4667|-87.6667|El Cubolero
-14.6667|-87.1000|El Escanito
-14.7500|-87.0667|El Escaño de Tepale
-14.5500|-87.1000|El Guante
-14.6000|-87.3000|El Guantillo
-13.7667|-87.4667|El Guapinol
-14.8333|-86.0333|El Guayabito
-15.4833|-86.3000|Elíxir
-15.4500|-86.4333|El Juncal
-15.1500|-87.8833|El Llano
-14.1167|-87.2667|El Lolo
-15.4000|-88.0500|El Marañón
-15.4000|-87.9667|El Milagro
-14.8667|-88.0833|El Mochito
-15.3167|-87.7000|El Negrito
-14.7596|-88.3444|El Níspero
-13.1542|-87.1308|El Obraje
-15.4167|-86.5667|El Ocote
-15.0333|-88.8833|El Ocotón
-15.0833|-87.8833|El Olivar
-15.0422|-88.9805|El Paraíso
-14.7000|-87.1167|El Pedernal
-15.0833|-88.1000|El Perico
-15.7000|-86.9333|El Pino
-15.2833|-87.9667|El Plan
-15.7500|-86.9333|El Porvenir
-15.4276|-87.7740|El Progreso
-13.2833|-87.1167|El Puente
-14.6833|-87.5000|El Rancho
-14.5833|-87.9333|El Rincón
-14.5750|-87.7431|El Rosario
-14.4667|-86.3667|El Rusio
-14.5285|-87.6657|El Sauce
-14.6333|-87.9167|El Socorro
-14.5167|-87.2167|El Suyatal
-14.0333|-87.1667|El Tablón
-14.0667|-87.0667|El Terrero
-14.9333|-87.9833|El Tigre
-14.3833|-88.9167|El Tránsito
-13.0802|-87.0178|El Triunfo
-15.7667|-87.4333|El Triunfo de la Cruz
-13.4664|-87.5153|El Tular
-15.5167|-88.0500|El Zapotal del Norte
-14.2333|-88.4667|Erandique
-15.6629|-87.2562|Esparta
-14.7333|-87.3667|Esquías
-15.2776|-86.5576|Esquipulas del Norte
-14.2833|-87.5667|Flores
-15.0333|-88.8333|Florida
-15.8500|-85.5833|Francia
-14.5809|-89.0774|Fraternidad
-16.3500|-86.4333|French Harbor
-13.5833|-87.6167|Goascorán
-14.5903|-88.5819|Gracias
-15.0167|-88.1500|Guacamaya
-14.5333|-86.8167|Guaimaca
-15.5000|-87.7167|Guaimitas
-14.0698|-87.7745|Guajiquiro
-15.0252|-86.0708|Gualaco
-14.9800|-88.1700|Gualala
-14.1287|-88.5681|Gualcince
-14.9500|-88.2333|Gualjoco
-16.4479|-85.8943|Guanaja
-14.2078|-88.8516|Guarita
-14.9167|-86.3333|Guarizama
-15.1513|-86.3762|Guata
-14.7167|-86.8333|Guayape
-13.8833|-86.9333|Güinope
-14.2500|-87.6667|Humuya
-15.0667|-88.2167|Ilama
-14.4300|-88.1700|Intibucá
-15.0000|-83.2333|Iralaya
-15.5908|-85.2055|Iriona
-14.0167|-86.6667|Jacaleapa
-14.7000|-87.5833|Jamalteca
-15.0790|-86.5152|Jano
-15.9500|-85.9667|Jericó
-14.4833|-87.9833|Jesús de Otoro
-13.5317|-87.4389|Jícaro Galán
-14.0000|-88.3500|Jiquinlaca
-15.2833|-86.9667|Jocón
-15.3544|-88.6356|Joconal
-16.4176|-86.3063|José Santos Guardiola
-15.9168|-84.9099|Juan Francisco Bulnes
-15.6959|-86.5041|Jutiapa
-14.6667|-86.2194|Juticalpa
-14.7167|-86.0833|Jutiquile
-13.5122|-87.7244|La Alianza
-15.8000|-85.9667|La Brea
-14.4728|-88.5609|La Campa
-15.7597|-86.7822|La Ceiba
-14.7000|-86.2333|La Concepción
-13.4536|-87.4133|La Criba
-14.6667|-89.0474|La Encarnación
-15.0500|-88.7333|La Entrada
-14.4667|-87.0667|La Ermita
-15.6333|-85.7667|La Esperanza
-15.0500|-86.3500|La Estancia
-15.2833|-88.4833|La Flecha
-15.2500|-87.8000|La Guacamaya
-14.8833|-87.9333|La Guama
-15.0833|-86.3833|La Guata
-14.7000|-86.1000|Laguna Seca
-15.2000|-88.1667|Laguna Verde
-15.5833|-87.8833|La Huesa
-14.6644|-88.4636|La Iguala
-15.1000|-88.7600|La Jigua
-15.6333|-88.0000|La Jutosa
-14.4833|-89.0000|La Labor
-14.8800|-87.5500|La Libertad
-15.4333|-87.9167|La Lima
-14.2000|-87.6167|Lamaní
-15.5986|-87.1350|La Masica
-15.3167|-87.8333|La Mina
-13.6208|-87.6525|Langue
-14.3194|-87.6792|La Paz
-15.1167|-88.9833|La Playona
-15.3500|-87.0667|La Rosa
-15.3667|-87.9333|La Sabana
-14.2500|-86.5667|Las Ánimas
-15.2333|-87.8333|La Sarrosa
-14.6793|-88.6504|Las Flores
-14.9000|-87.5833|Las Lajas
-14.8000|-88.6000|Las Tejeras
-14.0667|-85.9833|Las Trojes
-14.8664|-88.0723|Las Vegas
-14.8765|-88.0747|Las Vegas Santa Barbara
-14.7000|-87.6629|La Trinidad
-15.7167|-87.0000|La Unión
-13.8643|-87.6579|Lauterique
-13.7311|-87.3287|La Venta
-14.0716|-88.6858|La Virtud
-15.0167|-88.9000|La Zumbadora
-14.3667|-87.7000|Lejamaní
-14.7833|-88.5833|Lepaera
-14.0559|-87.4791|Lepaterique
-15.7966|-85.5080|Limón
-13.5358|-87.0919|Liure
-15.3967|-88.5597|Loma Alta
-15.1000|-87.2167|Lomitas
-14.9500|-87.9667|Los Caminos
-13.2869|-87.3344|Los Llanitos
-14.9000|-88.0500|Los Naranjos
-14.0500|-88.0167|Los Planes
-15.1500|-88.6833|Los Tangos
-14.5500|-88.9333|Lucerna
-15.2600|-88.6600|Macuelizo
-13.9245|-88.3667|Magdalena
-15.0667|-86.8000|Mangulile
-14.9167|-86.3833|Manto
-14.0429|-88.6244|Mapulaca
-13.8720|-87.0563|Maraita
-14.9411|-87.0989|Marale
-14.1485|-88.0241|Marcala
-13.2881|-87.3097|Marcovia
-14.4043|-87.9825|Masaguara
-14.6000|-87.2833|Mata de Plátano
-14.0833|-87.3167|Mateo
-14.8205|-87.7842|Meámbar
-14.3167|-88.9833|Mercedes
-13.9094|-87.7780|Mercedes de Oriente
-15.5833|-87.6500|Mezapa
-14.8000|-87.3500|Minas de Oro
-15.2667|-87.6000|Mojimán
-13.2006|-87.3742|Monjarás
-15.5891|-87.8816|Monterrey
-15.3167|-87.6000|Morazán
-14.1167|-86.8667|Morocelí
-13.5680|-86.8882|Morolica
-15.4865|-86.1632|Municipio de Sabá
-14.8418|-86.1182|Municipio de San Francisco de La Paz
-13.6637|-87.0348|Municipio de Texiguat
-13.5221|-87.5248|Nacaome
-15.3833|-88.1833|Naco
-13.2047|-87.1389|Namasigüe
-14.9500|-88.6833|Naranjito
-15.3500|-86.6833|Nombre de Jesús
-15.0800|-88.6900|Nueva Arcadia
-15.7956|-86.4985|Nueva Armenia
-15.2625|-87.5957|Nueva Esperanza
-15.2100|-88.5600|Nueva Frontera
-14.9167|-88.3333|Nueva Jalapa
-14.4333|-89.1833|Nueva Ocotepeque
-14.9755|-88.3673|Nuevo Celilac
-15.3833|-88.0167|Nuevo Chamelecón
-15.4167|-87.6000|Ocote Paulino
-14.0167|-86.3500|Ojo de Agua
-13.9339|-87.2958|Ojojona
-14.7950|-87.6501|Ojos de Agua
-15.4813|-86.5742|Olanchito
-15.7667|-88.0333|Omoa
-14.0245|-87.8798|Opatoro
-14.8064|-86.9576|Orica
-13.4817|-87.1050|Orocuina
-15.0167|-87.9333|Oropéndolas
-13.8167|-86.8167|Oropolí
-15.5000|-84.3167|Paptalaya
-14.3600|-85.9700|Patuca
-15.1000|-87.3500|Paujiles
-15.5333|-88.0500|Peña Blanca
-13.5922|-87.3617|Pespire
-15.2667|-88.2833|Petoa
-15.2650|-87.9667|Pimienta
-15.2333|-87.9667|Pimienta Vieja
-15.3833|-88.4000|Pinalejo
-14.0626|-88.4632|Piraera
-14.5500|-87.8667|Potrerillos
-15.5806|-86.1366|Prieta
-15.0333|-88.6500|Protección
-15.0000|-88.7500|Pueblo Nuevo
-15.7000|-87.8667|Puerto Alto
-16.0167|-85.9667|Puerto Castilla
-15.7900|-87.8490|Puerto Cortés
-15.8256|-87.9297|Puerto Cortez
-15.2667|-83.7722|Puerto Lempira
-15.2000|-87.2833|Punta Ocote
-15.9000|-85.2833|Punta Piedra
-14.7333|-85.9667|Punuare
-15.7667|-85.9167|Quebrada de Arena
-14.1000|-86.3667|Quebrada Larga
-14.5000|-87.3500|Quebradas
-15.6598|-87.9500|Quebrada Seca
-14.8833|-88.7333|Quezailica
-15.3500|-88.4000|Quimistán
-13.8258|-87.4653|Reitoca
-14.1667|-87.2167|Río Abajo
-15.7333|-87.9000|Río Blanquito
-14.7667|-87.8833|Río Bonito
-15.6333|-88.2500|Río Chiquito
-15.8333|-86.3000|Río Esteban
-15.0333|-87.9833|Río Lindo
-16.3410|-86.5376|Roatán
-15.4667|-86.2500|Sabá
-13.8078|-87.2592|Sabanagrande
-15.7500|-85.9667|Salamá
-15.8167|-86.6833|Sambo Creek
-14.8197|-88.9303|San Agustín
-14.2197|-88.5498|San Andrés
-15.6000|-87.1500|San Antonio
-15.1167|-88.0333|San Antonio de Cortés
-13.6415|-87.3407|San Antonio de Flores
-14.6333|-87.6000|San Antonio de la Cuesta
-13.8800|-87.7200|San Antonio del Norte
-14.0386|-86.9895|San Antonio de Oriente
-15.0167|-88.0000|San Buenaventura
-14.0500|-86.4667|San Diego
-16.3292|-86.5645|Sandy Bay
-15.2947|-85.6949|San Esteban
-14.6879|-89.1015|San Fernando
-15.6525|-87.0174|San Francisco
-14.6333|-86.1000|San Francisco de Becerra
-14.5167|-88.9000|San Francisco de Cones
-13.6614|-87.5328|San Francisco de Coray
-14.9000|-86.2000|San Francisco de la Paz
-14.4333|-88.9500|San Francisco del Valle
-14.6700|-88.2100|San Francisco de Ojuera
-14.5844|-88.3025|San Francisco de Opalaca
-15.0167|-87.9667|San Francisco de Yojoa
-14.7379|-87.0476|San Ignacio
-13.6445|-87.2609|San Isidro
-13.1767|-87.1364|San Jerónimo
-15.0500|-88.9000|San Joaquín
-14.6370|-89.1186|San Jorge
-13.7142|-87.4226|San José
-15.0333|-88.3000|San José de Colinas
-14.7333|-88.0333|San José de Comayagua
-14.9000|-88.7167|San José de Copán
-13.3253|-87.3956|San José de Las Conchas
-15.4833|-87.8667|San José del Boquerón
-14.8620|-87.2905|San José del Potrero
-14.9333|-85.7000|San José de Río Tinto
-15.3000|-88.7000|San José de Tarros
-14.4213|-88.4195|San Juan
-14.2667|-87.0333|San Juan de Flores
-14.7833|-88.7000|San Juan de Opoa
-14.9333|-88.7833|San Juan de Planes
-14.1549|-88.7748|San Juan Guarita
-15.5833|-87.2333|San Juan Pueblo
-13.4515|-87.4074|San Lorenzo
-13.7459|-86.9516|San Lucas
-14.7500|-87.4167|San Luis
-14.9833|-88.1333|San Luis de Planes
-15.3728|-87.9017|San Manuel
-14.4444|-88.6705|San Manuel Colohete
-14.3800|-88.9200|San Marcos
-14.4161|-88.6013|San Marcos de Caiquin
-13.4151|-86.8209|San Marcos de Colón
-14.1324|-88.2469|San Marcos de la Sierra
-13.9597|-86.6403|San Matías
-13.7457|-87.4923|San Miguelito
-14.9800|-88.7300|San Nicolás
-14.6167|-88.8000|San Pedro de Copán
-14.2500|-87.8500|San Pedro de Tutule
-15.5042|-88.0250|San Pedro Sula
-14.7500|-88.1167|San Pedro Zacapa
-14.7333|-88.4167|San Rafael
-14.2369|-87.6321|San Sebastián
-15.6500|-87.0667|Santa Ana
-13.3006|-87.1139|Santa Ana de Yusguare
-14.9194|-88.2361|Santa Bárbara
-13.2581|-87.3483|Santa Cruz
-14.9833|-87.9000|Santa Cruz de Yojoa
-15.3833|-88.1333|Santa Elena
-15.8542|-86.1108|Santa Fe
-14.1259|-87.0918|Santa Lucía
-14.2690|-87.9116|Santa María
-14.7667|-85.9500|Santa María del Real
-14.8800|-89.0100|Santa Rita
-14.8675|-89.1000|Santa Rita Copan
-15.9500|-85.7167|Santa Rosa de Aguán
-14.7667|-88.7792|Santa Rosa de Copán
-14.3500|-87.9000|Santiago Puringla
-14.8833|-88.2833|San Vicente Centenario
-16.4500|-85.8500|Savannah Bight
-14.4833|-88.9333|Sensenti
-14.6000|-87.8333|Siguatepeque
-14.7621|-86.5152|Silca
-14.4500|-89.1833|Sinuapa
-13.5833|-87.1167|Soledad
-15.6400|-86.2600|Sonaguera
-15.2000|-87.4500|Subirana
-15.2500|-88.5667|Sula
-14.9167|-87.2667|Sulaco
-14.4139|-87.0694|Talanga
-14.6811|-88.7280|Talgua
-14.1500|-87.3333|Támara
-14.2128|-88.7677|Tambla
-14.7500|-88.4833|Taragual
-13.9847|-87.0698|Tatumbla
-15.7000|-85.9167|Taujica
-14.6715|-87.9869|Taulabé
-15.3667|-86.6000|Teguajinal
-14.0818|-87.2068|Tegucigalpa
-15.7743|-87.4673|Tela
-14.3333|-87.7500|Tepanguare
-15.4167|-86.3167|Tepusteca
-14.2167|-86.7000|Teupasenti
-13.6497|-87.0225|Texíguat
-15.6833|-86.0000|Tocoa
-14.2433|-88.7314|Tomalá
-15.7500|-87.5500|Tornabé
-15.5500|-87.6500|Toyós
-15.3000|-88.6667|Tras Cerros
-15.8667|-87.9000|Travesía
-15.1333|-88.2333|Trinidad
-14.9500|-88.7500|Trinidad de Copán
-15.3500|-86.7000|Trojas
-14.0597|-86.0017|Trojes
-15.9167|-85.9542|Trujillo
-16.1003|-86.9307|Utila
-13.6435|-86.9555|Vado Ancho
-14.1471|-88.7084|Valladolid
-14.5131|-87.4024|Vallecillo
-14.5000|-87.6333|Valle de Ángeles
-14.8834|-88.7857|Veracruz
-15.1001|-87.5302|Victoria
-14.3167|-87.6167|Villa de San Antonio
-14.1667|-86.9667|Villa de San Francisco
-15.3167|-88.0000|Villanueva
-15.0847|-83.3536|Villeda Morales
-14.0052|-88.5619|Virginia
-15.1833|-84.6167|Wampusirpi
-15.4167|-84.4333|Wawina
-14.0167|-87.2167|Yaguacire
-14.2683|-88.2465|Yamaranguila
-14.5333|-88.8167|Yaruchel
-14.1000|-88.0800|Yarula
-14.3333|-87.6333|Yarumela
-13.7487|-87.0761|Yauyupe
-14.9500|-86.8200|Yocón
-15.0667|-87.2833|Yorito
-15.1375|-87.1278|Yoro
-13.9571|-86.8317|Yuscarán
-14.2667|-87.4000|Zambrano
-15.6333|-86.0667|Zamora
-14.6000|-86.2667|Zopilotepe
+14.4500|-87.2667|Agalteca|Francisco Morazán|1029|
+14.9167|-87.9667|Agua Azul|Cortés|1079|
+14.9000|-87.9500|Agua Azul Rancho|Cortés|1043|
+15.2500|-87.8833|Agua Blanca Sur|Yoro|7592|
+14.8833|-88.8167|Agua Caliente|Copán|1075|
+13.4689|-87.5511|Agua Fría|Valle|3196|
+15.3353|-88.5531|Agualote|Santa Bárbara|1759|
+13.9861|-87.6462|Aguanqueterique|La Paz|4807|
+14.5667|-87.8833|Aguas del Padre|Comayagua|1104|
+15.4692|-84.3448|Ahuas|Gracias a Dios|0|
+14.3833|-87.7000|Ajuterique|Comayagua|11356|
+13.8402|-86.6953|Alauca|El Paraíso|9273|
+13.4482|-87.6864|Alianza|Valle|0|
+13.7823|-87.4699|Alubarén|Francisco Morazán|5558|
+13.2922|-87.6539|Amapala|Valle|12743|
+14.4000|-89.2000|Antigua Ocotepeque|Ocotepeque|1862|
+13.4582|-87.0112|Apacilagua|Choluteca|0|
+14.8500|-88.3000|Arada|Santa Bárbara|2913|
+13.7422|-87.7103|Aramecina|Valle|7173|
+13.9500|-86.5500|Araulí|El Paraíso|1160|
+15.3500|-86.8333|Arenal|Yoro|1722|
+14.7833|-86.0000|Arimís|Olancho|1817|
+15.6333|-87.3167|Arizona|Atlántida|25320|
+15.4667|-86.3667|Armenia|Yoro|1488|
+15.5000|-88.0500|Armenta|Cortés|2989|
+15.6833|-87.3167|Atenas de San Cristóbal|Atlántida|1783|
+14.9333|-88.4833|Atima|Santa Bárbara|17648|
+15.4833|-84.3333|Auas|Gracias a Dios|1505|
+14.9409|-83.8323|Auka|Gracias a Dios|1254|
+15.1117|-87.1756|Ayapa|Yoro|1559|
+14.7167|-88.1000|Azacualpa|Santa Bárbara|20210|
+15.8885|-87.8555|Baja Mar|Cortés|1064|
+15.7571|-86.2905|Balfate|Colón|0|
+15.4833|-86.3333|Bálsamo Oriental|Yoro|1465|
+15.7667|-87.8500|Baracoa|Cortés|9202|
+15.8000|-84.2833|Barra Patuca|Gracias a Dios|2758|
+15.1333|-87.9333|Bejuco|Cortés|1276|
+14.5083|-88.4282|Belén|Lempira|0|
+14.4833|-88.8000|Belén Gualcho|Ocotepeque|15983|
+14.8333|-88.5000|Berlín|Santa Bárbara|1050|
+15.7464|-85.7361|Bonito Oriental|Colón|3732|
+15.7500|-84.4833|Brus Laguna|Gracias a Dios|13224|
+15.0333|-88.9667|Buenos Aires|Copán|1131|
+14.7600|-89.0600|Cabañas|Copán|0|
+13.9942|-88.0286|Cabañas|La Paz|0|
+15.1667|-88.6500|Callejones|Santa Bárbara|1033|
+15.3333|-88.3333|Camalote|Santa Bárbara|1319|
+14.0000|-88.3833|Camasca|Intibucá|6873|
+14.5500|-86.6500|Campamento|Olancho|6560|
+14.9833|-88.0167|Cañaveral|Cortés|2137|
+14.0607|-88.5591|Candelaria|Lempira|0|
+14.2833|-87.6667|Cane|La Paz|3859|
+15.5167|-86.3500|Carbajales|Yoro|1102|
+13.8156|-87.6812|Caridad|Valle|3927|
+15.1167|-88.0833|Casa Quemada|Cortés|3036|
+15.2667|-88.5500|Casa Quemada|Santa Bárbara|1030|
+14.6038|-85.5426|Catacamas|Olancho|0|
+14.8511|-85.8941|Catacamas|Olancho Department|140548|
+14.5046|-87.2168|Cedros|Francisco Morazán|1041|
+14.8000|-88.2000|Ceguaca|Santa Bárbara|1239|
+14.6667|-87.7833|Cerro Blanco|Comayagua|1169|
+13.8167|-87.2500|Cerro Grande|Francisco Morazán|1093|
+15.1000|-88.6833|Chalmeca|Copán|2008|
+14.1829|-87.9540|Chinacla|La Paz|8096|
+15.1167|-88.2000|Chinda|Santa Bárbara|4702|
+15.7500|-87.9833|Chivana|Cortés|1018|
+15.6400|-87.9200|Choloma|Cortés|139100|
+13.2826|-87.2012|Choluteca|Choluteca|0|
+15.4167|-87.9833|Chotepe|Cortés|1564|
+13.3003|-87.1908|Ciudad Choluteca|Choluteca|75872|
+15.4000|-88.1500|Cofradía|Cortés|20353|
+14.2167|-87.1833|Cofradía|Francisco Morazán|1301|
+14.3119|-88.8772|Cololaca|Lempira|1014|
+13.9725|-88.2767|Colomoncagua|Intibucá|18484|
+14.4841|-87.6006|Comayagua|Comayagua|58784|
+14.8808|-88.8792|Concepción|Copán|0|
+14.0473|-88.3194|Concepción|Intibucá|0|
+14.5238|-89.1937|Concepción|Ocotepeque|0|
+14.6000|-87.6500|Concepción de Guasistagua|Comayagua|1470|
+15.1667|-88.7167|Concepción de la Barranca|Copán|1014|
+15.2023|-88.1373|Concepción del Norte|Santa Bárbara|8989|
+14.8126|-88.1532|Concepción del Sur|Santa Bárbara|1049|
+13.2236|-86.9624|Concepción de María|Choluteca|923|
+14.6167|-86.6500|Concordia|Olancho|1272|
+14.8333|-89.1500|Copán|Copán|0|
+14.9200|-89.1500|Copán Ruinas|Copán|6336|
+15.7500|-85.7833|Corocito|Colón|2855|
+15.8000|-86.7167|Corozal|Atlántida|2261|
+13.2889|-87.0347|Corpus|Choluteca|1199|
+14.5667|-88.8667|Corquín|Copán|19145|
+15.4167|-88.4500|Correderos|Santa Bárbara|1162|
+16.3176|-86.5379|Coxen Hole|Bay Islands|7514|
+15.4000|-86.6667|Coyoles Central|Yoro|1144|
+14.6500|-88.8667|Cucuyagua|Copán|16707|
+13.8300|-87.5700|Curarén|Francisco Morazán|0|
+15.8500|-85.2333|Cusuna|Colón|1441|
+13.8833|-86.5500|Cuyalí|El Paraíso|1572|
+15.6667|-88.2000|Cuyamel|Cortés|5022|
+14.0333|-86.5833|Danlí|El Paraíso|233789|
+14.1497|-87.2481|Distrito Central|Francisco Morazán|0|
+14.8667|-88.8333|Dolores|Copán|6652|
+14.2619|-88.3579|Dolores|Intibucá|0|
+14.5510|-89.1249|Dolores Merendón|Ocotepeque|0|
+14.8555|-88.8386|Dulce Nombre|Copán|3589|
+15.1000|-85.5333|Dulce Nombre de Culmí|Olancho|30543|
+13.6333|-86.8167|Duyure|Choluteca|3519|
+14.0833|-88.7500|El Achiotal|Lempira|1210|
+14.7000|-87.7500|El Agua Dulcita|Comayagua|1017|
+15.0667|-87.4667|El Bálsamo|Yoro|1741|
+14.0333|-86.4667|El Benque|El Paraíso|1101|
+14.0667|-86.3000|El Chichicaste|El Paraíso|1671|
+14.1333|-87.1167|El Chimbo|Francisco Morazán|1145|
+15.3000|-88.5000|El Ciruelo|Santa Bárbara|2980|
+15.0667|-88.6167|El Corozal|Santa Bárbara|1039|
+13.3046|-87.0097|El Corpus|Choluteca|0|
+14.7000|-88.9167|El Corpus|Copán|1193|
+13.4667|-87.6667|El Cubolero|Valle|1286|
+14.6667|-87.1000|El Escanito|Francisco Morazán|1184|
+14.7500|-87.0667|El Escaño de Tepale|Francisco Morazán|1026|
+14.5500|-87.1000|El Guante|Francisco Morazán|1082|
+14.6000|-87.3000|El Guantillo|Francisco Morazán|1223|
+13.7667|-87.4667|El Guapinol|Francisco Morazán|1817|
+14.8333|-86.0333|El Guayabito|Olancho|1404|
+15.4833|-86.3000|Elíxir|Colón|3079|
+15.4500|-86.4333|El Juncal|Yoro|1286|
+15.1500|-87.8833|El Llano|Cortés|1923|
+14.1167|-87.2667|El Lolo|Francisco Morazán|1438|
+15.4000|-88.0500|El Marañón|Cortés|1836|
+15.4000|-87.9667|El Milagro|Cortés|1917|
+14.8667|-88.0833|El Mochito|Santa Bárbara|1950|
+15.3167|-87.7000|El Negrito|Yoro|50550|
+14.7596|-88.3444|El Níspero|Santa Bárbara|2474|
+13.1542|-87.1308|El Obraje|Choluteca|1172|
+14.0000|-86.4333|El Obraje|El Paraíso|1703|
+15.4167|-86.5667|El Ocote|Yoro|1908|
+15.0333|-88.8833|El Ocotón|Copán|1038|
+15.0833|-87.8833|El Olivar|Cortés|1279|
+15.0422|-88.9805|El Paraíso|Copán|0|
+13.8538|-86.5309|El Paraíso|El Paraíso|18779|
+14.7000|-87.1167|El Pedernal|Francisco Morazán|1648|
+15.0833|-88.1000|El Perico|Cortés|1141|
+15.7000|-86.9333|El Pino|Atlántida|3004|
+15.2833|-87.9667|El Plan|Cortés|2176|
+15.7500|-86.9333|El Porvenir|Atlántida|2269|
+14.5833|-87.8833|El Porvenir|Comayagua|1337|
+15.8333|-87.9333|El Porvenir|Cortés|2940|
+14.7201|-87.2104|El Porvenir|Francisco Morazán|0|
+15.4276|-87.7740|El Progreso|Yoro|100810|
+13.2833|-87.1167|El Puente|Choluteca|1325|
+14.6833|-87.5000|El Rancho|Comayagua|0|
+15.5544|-88.0234|El Rancho|Cortés|1101|
+14.5833|-87.9333|El Rincón|Comayagua|1522|
+14.5750|-87.7431|El Rosario|Comayagua|30042|
+14.8872|-86.6876|El Rosario|Olancho|962|
+14.4667|-86.3667|El Rusio|Olancho|1016|
+14.5285|-87.6657|El Sauce|Comayagua|1389|
+14.6333|-87.9167|El Socorro|Comayagua|1092|
+14.5167|-87.2167|El Suyatal|Francisco Morazán|2027|
+14.0333|-87.1667|El Tablón|Francisco Morazán|1121|
+14.0667|-87.0667|El Terrero|Francisco Morazán|1087|
+14.9333|-87.9833|El Tigre|Cortés|1435|
+14.3833|-88.9167|El Tránsito|Ocotepeque|1025|
+13.0802|-87.0178|El Triunfo|Choluteca|7182|
+15.7667|-87.4333|El Triunfo de la Cruz|Atlántida|2190|
+13.4664|-87.5153|El Tular|Valle|1927|
+15.5167|-88.0500|El Zapotal del Norte|Cortés|2508|
+14.2333|-88.4667|Erandique|Lempira|15633|
+15.6629|-87.2562|Esparta|Atlántida|0|
+14.7333|-87.3667|Esquías|Comayagua|21009|
+15.2776|-86.5576|Esquipulas del Norte|Olancho|10781|
+14.2833|-87.5667|Flores|Comayagua|3018|
+15.0333|-88.8333|Florida|Copán|5340|
+15.8500|-85.5833|Francia|Colón|1331|
+14.5809|-89.0774|Fraternidad|Ocotepeque|0|
+16.3500|-86.4333|French Harbor|Bay Islands|2698|
+13.5833|-87.6167|Goascorán|Valle|14342|
+14.5903|-88.5819|Gracias|Lempira|7909|
+15.0167|-88.1500|Guacamaya|Santa Bárbara|1250|
+14.5333|-86.8167|Guaimaca|Francisco Morazán|12899|
+15.5000|-87.7167|Guaimitas|Yoro|2321|
+14.0698|-87.7745|Guajiquiro|La Paz|14959|
+15.0252|-86.0708|Gualaco|Olancho|22327|
+14.9800|-88.1700|Gualala|Santa Bárbara|0|
+14.1287|-88.5681|Gualcince|Lempira|11564|
+14.9500|-88.2333|Gualjoco|Santa Bárbara|1432|
+16.4479|-85.8943|Guanaja|Bay Islands|5538|
+14.2078|-88.8516|Guarita|Lempira|8509|
+14.9167|-86.3333|Guarizama|Olancho|1300|
+15.1513|-86.3762|Guata|Olancho|0|
+14.7167|-86.8333|Guayape|Olancho|12907|
+13.8833|-86.9333|Güinope|El Paraíso|8794|
+14.2500|-87.6667|Humuya|Comayagua|1319|
+15.0667|-88.2167|Ilama|Santa Bárbara|1811|
+14.4300|-88.1700|Intibucá|Intibucá|13741|
+15.0000|-83.2333|Iralaya|Gracias a Dios|1520|
+15.5908|-85.2055|Iriona|Colón|0|
+15.9678|-85.0932|Iriona|Colón Department|21207|
+14.0167|-86.6667|Jacaleapa|El Paraíso|2578|
+14.7000|-87.5833|Jamalteca|Comayagua|1107|
+15.0790|-86.5152|Jano|Olancho|0|
+15.9500|-85.9667|Jericó|Colón|2364|
+14.4833|-87.9833|Jesús de Otoro|Intibucá|6988|
+13.5317|-87.4389|Jícaro Galán|Valle|1370|
+14.0000|-88.3500|Jiquinlaca|Intibucá|1248|
+15.2833|-86.9667|Jocón|Yoro|9659|
+15.3544|-88.6356|Joconal|Santa Bárbara|1206|
+16.4176|-86.3063|José Santos Guardiola|Bay Islands|0|
+15.9168|-84.9099|Juan Francisco Bulnes|Gracias a Dios|0|
+15.6959|-86.5041|Jutiapa|Atlántida|2815|
+13.9833|-86.4000|Jutiapa|El Paraíso|1153|
+14.6667|-86.2194|Juticalpa|Olancho|33686|
+14.7167|-86.0833|Jutiquile|Olancho|3585|
+13.5122|-87.7244|La Alianza|Valle|6923|
+15.8000|-85.9667|La Brea|Colón|1055|
+14.4728|-88.5609|La Campa|Lempira|0|
+15.7597|-86.7822|La Ceiba|Atlántida|222055|
+14.7000|-86.2333|La Concepción|Olancho|1985|
+13.4536|-87.4133|La Criba|Valle|1001|
+14.6667|-89.0474|La Encarnación|Ocotepeque|1484|
+15.0500|-88.7333|La Entrada|Copán|14739|
+14.4667|-87.0667|La Ermita|Francisco Morazán|2495|
+15.6333|-85.7667|La Esperanza|Colón|2014|
+14.3111|-88.1806|La Esperanza|Intibucá|5318|
+15.0500|-86.3500|La Estancia|Olancho|1508|
+15.2833|-87.5500|La Estancia|Yoro|1668|
+15.2833|-88.4833|La Flecha|Santa Bárbara|2136|
+15.2500|-87.8000|La Guacamaya|Yoro|2525|
+14.8833|-87.9333|La Guama|Cortés|1242|
+15.0833|-86.3833|La Guata|Olancho|12084|
+14.7000|-86.1000|Laguna Seca|Olancho|1131|
+15.2000|-88.1667|Laguna Verde|Santa Bárbara|1460|
+15.5833|-87.8833|La Huesa|Cortés|0|
+14.6644|-88.4636|La Iguala|Lempira|26805|
+15.1000|-88.7600|La Jigua|Copán|971|
+15.6333|-88.0000|La Jutosa|Cortés|4183|
+14.4833|-89.0000|La Labor|Ocotepeque|9838|
+14.8800|-87.5500|La Libertad|Comayagua|4673|
+13.7066|-87.5042|La Libertad|Francisco Morazán|0|
+14.8000|-88.5833|La Libertad|Lempira|1444|
+15.4333|-87.9167|La Lima|Cortés|45955|
+14.2000|-87.6167|Lamaní|Comayagua|7117|
+15.5986|-87.1350|La Masica|Atlántida|4022|
+15.3167|-87.8333|La Mina|Yoro|2690|
+13.6208|-87.6525|Langue|Valle|20944|
+14.3194|-87.6792|La Paz|La Paz|17555|
+15.1167|-88.9833|La Playona|Copán|1285|
+15.3500|-87.0667|La Rosa|Yoro|1552|
+15.3667|-87.9333|La Sabana|Cortés|1524|
+14.2500|-86.5667|Las Ánimas|El Paraíso|1117|
+15.2333|-87.8333|La Sarrosa|Yoro|2188|
+14.6793|-88.6504|Las Flores|Lempira|0|
+14.9000|-87.5833|Las Lajas|Comayagua|3011|
+14.8000|-88.6000|Las Tejeras|Lempira|1140|
+14.0667|-85.9833|Las Trojes|El Paraíso|6253|
+14.8664|-88.0723|Las Vegas|Santa Bárbara|0|
+15.0167|-87.4500|Las Vegas|Yoro|1308|
+14.8765|-88.0747|Las Vegas Santa Barbara|Santa Bárbara|7487|
+14.7000|-87.6629|La Trinidad|Comayagua|880|
+15.1000|-87.2000|La Trinidad|Yoro|1314|
+15.7167|-87.0000|La Unión|Atlántida|2382|
+14.6935|-88.9473|La Unión|Copán|0|
+14.8167|-88.4000|La Unión|Lempira|3054|
+15.0976|-86.6891|La Unión|Olancho|0|
+13.8643|-87.6579|Lauterique|La Paz|3021|
+13.7311|-87.3287|La Venta|Francisco Morazán|0|
+14.0716|-88.6858|La Virtud|Lempira|1315|
+15.0167|-88.9000|La Zumbadora|Copán|1086|
+14.3667|-87.7000|Lejamaní|Comayagua|5781|
+14.7833|-88.5833|Lepaera|Lempira|37876|
+14.0559|-87.4791|Lepaterique|Francisco Morazán|2090|
+15.7966|-85.5080|Limón|Colón|14421|
+13.5358|-87.0919|Liure|El Paraíso|10760|
+15.3967|-88.5597|Loma Alta|Santa Bárbara|1067|
+15.1000|-87.2167|Lomitas|Yoro|1552|
+14.9500|-87.9667|Los Caminos|Cortés|1146|
+13.2869|-87.3344|Los Llanitos|Choluteca|1040|
+14.9000|-88.0500|Los Naranjos|Cortés|1684|
+14.0500|-88.0167|Los Planes|La Paz|1320|
+15.1500|-88.6833|Los Tangos|Copán|1424|
+14.5500|-88.9333|Lucerna|Ocotepeque|6009|
+15.2600|-88.6600|Macuelizo|Santa Bárbara|34401|
+13.9245|-88.3667|Magdalena|Intibucá|966|
+15.0667|-86.8000|Mangulile|Olancho|1263|
+14.9167|-86.3833|Manto|Olancho|11641|
+14.0429|-88.6244|Mapulaca|Lempira|4314|
+13.8720|-87.0563|Maraita|Francisco Morazán|6809|
+14.9411|-87.0989|Marale|Francisco Morazán|1523|
+14.1485|-88.0241|Marcala|La Paz|10054|
+13.2881|-87.3097|Marcovia|Choluteca|24646|
+14.4043|-87.9825|Masaguara|Intibucá|0|
+14.6000|-87.2833|Mata de Plátano|Francisco Morazán|1151|
+14.0833|-87.3167|Mateo|Francisco Morazán|1021|
+14.8205|-87.7842|Meámbar|Comayagua|12522|
+14.3167|-88.9833|Mercedes|Ocotepeque|984|
+13.9094|-87.7780|Mercedes de Oriente|La Paz|1111|
+15.5833|-87.6500|Mezapa|Atlántida|6324|
+14.8000|-87.3500|Minas de Oro|Comayagua|13341|
+15.2667|-87.6000|Mojimán|Yoro|1498|
+13.2006|-87.3742|Monjarás|Choluteca|6772|
+15.5891|-87.8816|Monterrey|Cortés|2234|
+15.3167|-87.6000|Morazán|Yoro|11076|
+14.1167|-86.8667|Morocelí|El Paraíso|17153|
+13.5680|-86.8882|Morolica|Choluteca|5472|
+15.4865|-86.1632|Municipio de Sabá|Colón|0|
+14.8418|-86.1182|Municipio de San Francisco de La Paz|Olancho|0|
+13.6637|-87.0348|Municipio de Texiguat|El Paraíso|0|
+13.5221|-87.5248|Nacaome|Valle|13929|
+15.3833|-88.1833|Naco|Santa Bárbara|3966|
+13.2047|-87.1389|Namasigüe|Choluteca|1804|
+14.9500|-88.6833|Naranjito|Santa Bárbara|3813|
+15.3500|-86.6833|Nombre de Jesús|Yoro|1250|
+15.0800|-88.6900|Nueva Arcadia|Copán|0|
+15.7956|-86.4985|Nueva Armenia|Atlántida|1392|
+13.7500|-87.1531|Nueva Armenia|Francisco Morazán|0|
+15.2625|-87.5957|Nueva Esperanza|Yoro|2120|
+15.2100|-88.5600|Nueva Frontera|Santa Bárbara|0|
+14.9167|-88.3333|Nueva Jalapa|Santa Bárbara|1094|
+14.4333|-89.1833|Nueva Ocotepeque|Ocotepeque|8780|
+14.9755|-88.3673|Nuevo Celilac|Santa Bárbara|8086|
+15.3833|-88.0167|Nuevo Chamelecón|Cortés|2098|
+15.4167|-87.6000|Ocote Paulino|Yoro|1697|
+14.0167|-86.3500|Ojo de Agua|El Paraíso|2330|
+13.9339|-87.2958|Ojojona|Francisco Morazán|2790|
+14.7950|-87.6501|Ojos de Agua|Comayagua|0|
+14.7000|-88.8167|Ojos de Agua|Copán|1340|
+15.4813|-86.5742|Olanchito|Yoro|124286|
+15.7667|-88.0333|Omoa|Cortés|58172|
+14.0245|-87.8798|Opatoro|La Paz|7572|
+14.8064|-86.9576|Orica|Francisco Morazán|2342|
+13.4817|-87.1050|Orocuina|Choluteca|1655|
+15.0167|-87.9333|Oropéndolas|Cortés|1333|
+13.8167|-86.8167|Oropolí|El Paraíso|6013|
+15.5000|-84.3167|Paptalaya|Gracias a Dios|1227|
+14.3600|-85.9700|Patuca|Olancho|0|
+15.1000|-87.3500|Paujiles|Yoro|1244|
+15.5333|-88.0500|Peña Blanca|Cortés|3552|
+13.5922|-87.3617|Pespire|Choluteca|3172|
+15.2667|-88.2833|Petoa|Santa Bárbara|12135|
+15.2650|-87.9667|Pimienta|Cortés|0|
+15.2333|-87.9667|Pimienta Vieja|Cortés|8761|
+15.3833|-88.4000|Pinalejo|Santa Bárbara|3767|
+14.0626|-88.4632|Piraera|Lempira|14124|
+14.5500|-87.8667|Potrerillos|Comayagua|1334|
+15.2100|-87.9500|Potrerillos|Cortés|26954|
+14.0448|-86.7620|Potrerillos|El Paraíso|0|
+15.5806|-86.1366|Prieta|Colón|1103|
+15.0333|-88.6500|Protección|Santa Bárbara|2101|
+15.0000|-88.7500|Pueblo Nuevo|Copán|1053|
+15.2833|-88.0167|Pueblo Nuevo|Cortés|3556|
+15.7000|-87.8667|Puerto Alto|Cortés|1385|
+16.0167|-85.9667|Puerto Castilla|Colón|1220|
+15.7900|-87.8490|Puerto Cortés|Cortés|0|
+15.8256|-87.9297|Puerto Cortez|Cortés|142311|
+15.2667|-83.7722|Puerto Lempira|Gracias a Dios|5000|
+15.2000|-87.2833|Punta Ocote|Yoro|1399|
+15.9000|-85.2833|Punta Piedra|Colón|1188|
+14.7333|-85.9667|Punuare|Olancho|1905|
+15.7667|-85.9167|Quebrada de Arena|Colón|2723|
+14.1000|-86.3667|Quebrada Larga|El Paraíso|1217|
+14.5000|-87.3500|Quebradas|Francisco Morazán|1405|
+15.6598|-87.9500|Quebrada Seca|Cortés|2248|
+14.8833|-88.7333|Quezailica|Copán|1115|
+15.3500|-88.4000|Quimistán|Santa Bárbara|47993|
+13.8258|-87.4653|Reitoca|Francisco Morazán|1094|
+14.1667|-87.2167|Río Abajo|Francisco Morazán|2055|
+15.7333|-87.9000|Río Blanquito|Cortés|2458|
+14.7667|-87.8833|Río Bonito|Comayagua|1054|
+15.6333|-88.2500|Río Chiquito|Cortés|1405|
+15.8333|-86.3000|Río Esteban|Colón|1208|
+15.0333|-87.9833|Río Lindo|Cortés|3479|
+16.3410|-86.5376|Roatán|Bay Islands|0|
+15.4667|-86.2500|Sabá|Colón|33879|
+13.8078|-87.2592|Sabanagrande|Francisco Morazán|23943|
+15.7500|-85.9667|Salamá|Colón|1737|
+14.8105|-86.6200|Salamá|Olancho|2820|
+15.8167|-86.6833|Sambo Creek|Atlántida|2532|
+14.8197|-88.9303|San Agustín|Copán|1777|
+14.2197|-88.5498|San Andrés|Lempira|13585|
+15.6000|-87.1500|San Antonio|Atlántida|1151|
+15.0400|-88.8800|San Antonio|Copán|0|
+13.9504|-88.4649|San Antonio|Intibucá|0|
+15.3333|-87.1500|San Antonio|Yoro|1711|
+15.1167|-88.0333|San Antonio de Cortés|Cortés|22884|
+13.6415|-87.3407|San Antonio de Flores|Choluteca|0|
+13.7109|-86.8423|San Antonio de Flores|El Paraíso|0|
+14.6333|-87.6000|San Antonio de la Cuesta|Comayagua|1033|
+13.8800|-87.7200|San Antonio del Norte|La Paz|1002|
+14.0386|-86.9895|San Antonio de Oriente|Francisco Morazán|0|
+15.0167|-88.0000|San Buenaventura|Cortés|1452|
+13.8910|-87.1855|San Buenaventura|Francisco Morazán|0|
+14.0500|-86.4667|San Diego|El Paraíso|1306|
+16.3292|-86.5645|Sandy Bay|Bay Islands|1072|
+15.2947|-85.6949|San Esteban|Olancho|3439|
+14.6879|-89.1015|San Fernando|Ocotepeque|1026|
+15.6525|-87.0174|San Francisco|Atlántida|2806|
+14.1243|-88.3719|San Francisco|Lempira|9146|
+14.6333|-86.1000|San Francisco de Becerra|Olancho|2411|
+14.5167|-88.9000|San Francisco de Cones|Ocotepeque|1066|
+13.6614|-87.5328|San Francisco de Coray|Valle|9742|
+14.9000|-86.2000|San Francisco de la Paz|Olancho|5411|
+14.4333|-88.9500|San Francisco del Valle|Ocotepeque|9839|
+14.6700|-88.2100|San Francisco de Ojuera|Santa Bárbara|7000|
+14.5844|-88.3025|San Francisco de Opalaca|Intibucá|0|
+15.0167|-87.9667|San Francisco de Yojoa|Cortés|24740|
+14.7379|-87.0476|San Ignacio|Francisco Morazán|2330|
+13.6445|-87.2609|San Isidro|Choluteca|0|
+14.5676|-88.1174|San Isidro|Intibucá|0|
+13.1767|-87.1364|San Jerónimo|Choluteca|2381|
+14.6404|-87.5677|San Jerónimo|Comayagua|1789|
+14.9621|-88.9027|San Jerónimo|Copán|1046|
+15.0500|-88.9000|San Joaquín|Copán|1130|
+14.6370|-89.1186|San Jorge|Ocotepeque|0|
+13.7142|-87.4226|San José|Choluteca|0|
+14.9118|-88.7167|San José|Copán|1789|
+14.2264|-87.9624|San José|La Paz|1463|
+15.3167|-87.1667|San José|Yoro|1897|
+15.0333|-88.3000|San José de Colinas|Santa Bárbara|18791|
+14.7333|-88.0333|San José de Comayagua|Comayagua|7856|
+14.9000|-88.7167|San José de Copán|Copán|0|
+13.3253|-87.3956|San José de Las Conchas|Choluteca|1084|
+15.4833|-87.8667|San José del Boquerón|Cortés|1432|
+14.8620|-87.2905|San José del Potrero|Comayagua|1091|
+14.9333|-85.7000|San José de Río Tinto|Olancho|1071|
+15.3000|-88.7000|San José de Tarros|Santa Bárbara|1634|
+14.4213|-88.4195|San Juan|Intibucá|0|
+13.9543|-87.7295|San Juan|La Paz|0|
+14.2667|-87.0333|San Juan de Flores|Francisco Morazán|16070|
+14.7833|-88.7000|San Juan de Opoa|Copán|9709|
+14.9333|-88.7833|San Juan de Planes|Copán|1048|
+14.1549|-88.7748|San Juan Guarita|Lempira|2678|
+15.5833|-87.2333|San Juan Pueblo|Atlántida|5735|
+13.4515|-87.4074|San Lorenzo|Valle|22289|
+13.7459|-86.9516|San Lucas|El Paraíso|1307|
+14.7500|-87.4167|San Luis|Comayagua|1967|
+15.0833|-88.3833|San Luis|Santa Bárbara|24606|
+14.9833|-88.1333|San Luis de Planes|Santa Bárbara|1111|
+15.3728|-87.9017|San Manuel|Cortés|6389|
+14.4444|-88.6705|San Manuel Colohete|Lempira|0|
+14.3800|-88.9200|San Marcos|Ocotepeque|5346|
+15.3000|-88.4167|San Marcos|Santa Bárbara|3923|
+14.4161|-88.6013|San Marcos de Caiquin|Lempira|0|
+13.4151|-86.8209|San Marcos de Colón|Choluteca|8821|
+14.1324|-88.2469|San Marcos de la Sierra|Intibucá|0|
+13.9597|-86.6403|San Matías|El Paraíso|1251|
+13.7457|-87.4923|San Miguelito|Francisco Morazán|0|
+14.3488|-88.3398|San Miguelito|Intibucá|0|
+14.9800|-88.7300|San Nicolás|Copán|2231|
+14.5500|-86.2500|San Nicolás|Olancho|1313|
+14.9191|-88.3791|San Nicolás|Santa Bárbara|3522|
+14.6167|-88.8000|San Pedro de Copán|Copán|63829|
+14.2500|-87.8500|San Pedro de Tutule|La Paz|7165|
+15.5042|-88.0250|San Pedro Sula|Cortés|801259|
+14.7500|-88.1167|San Pedro Zacapa|Santa Bárbara|10535|
+14.7333|-88.4167|San Rafael|Lempira|0|
+14.2369|-87.6321|San Sebastián|Comayagua|1471|
+14.3459|-88.7349|San Sebastián|Lempira|10857|
+15.6500|-87.0667|Santa Ana|Atlántida|3579|
+13.9400|-87.2100|Santa Ana|Francisco Morazán|1052|
+14.0001|-87.9411|Santa Ana|La Paz|0|
+13.3006|-87.1139|Santa Ana de Yusguare|Choluteca|1823|
+14.9194|-88.2361|Santa Bárbara|Santa Bárbara|15119|
+13.2581|-87.3483|Santa Cruz|Choluteca|1174|
+13.8667|-86.6333|Santa Cruz|El Paraíso|1430|
+14.3443|-88.5268|Santa Cruz|Lempira|0|
+14.9833|-87.9000|Santa Cruz de Yojoa|Cortés|97848|
+15.3833|-88.1333|Santa Elena|Cortés|1361|
+14.0715|-88.1544|Santa Elena|La Paz|0|
+15.8542|-86.1108|Santa Fe|Colón|0|
+14.5004|-89.2732|Santa Fe|Ocotepeque|915|
+14.1259|-87.0918|Santa Lucía|Francisco Morazán|2288|
+13.9081|-88.4157|Santa Lucía|Intibucá|0|
+14.4167|-89.2000|Santa Lucía|Ocotepeque|1224|
+14.2690|-87.9116|Santa María|La Paz|0|
+14.7667|-85.9500|Santa María del Real|Olancho|10767|
+14.8800|-89.0100|Santa Rita|Copán|0|
+14.7601|-88.2678|Santa Rita|Santa Bárbara|1687|
+15.1800|-87.8100|Santa Rita|Yoro|21536|
+14.8675|-89.1000|Santa Rita Copan|Copán|2704|
+15.9500|-85.7167|Santa Rosa de Aguán|Colón|5432|
+14.7667|-88.7792|Santa Rosa de Copán|Copán|27753|
+14.3500|-87.9000|Santiago Puringla|La Paz|0|
+14.8833|-88.2833|San Vicente Centenario|Santa Bárbara|3601|
+16.4500|-85.8500|Savannah Bight|Bay Islands|1031|
+14.4833|-88.9333|Sensenti|Ocotepeque|11668|
+14.6000|-87.8333|Siguatepeque|Comayagua|127468|
+14.7621|-86.5152|Silca|Olancho|1112|
+14.4500|-89.1833|Sinuapa|Ocotepeque|9145|
+13.5833|-87.1167|Soledad|El Paraíso|0|
+15.6400|-86.2600|Sonaguera|Colón|48087|
+15.2000|-87.4500|Subirana|Yoro|1362|
+15.2500|-88.5667|Sula|Santa Bárbara|2502|
+14.9167|-87.2667|Sulaco|Yoro|18161|
+14.4139|-87.0694|Talanga|Francisco Morazán|13492|
+14.6811|-88.7280|Talgua|Lempira|10744|
+14.1500|-87.3333|Támara|Francisco Morazán|2683|
+14.2128|-88.7677|Tambla|Lempira|0|
+14.7500|-88.4833|Taragual|Lempira|1043|
+13.9847|-87.0698|Tatumbla|Francisco Morazán|0|
+15.7000|-85.9167|Taujica|Colón|1271|
+14.6715|-87.9869|Taulabé|Comayagua|4660|
+15.3667|-86.6000|Teguajinal|Yoro|1117|
+14.0818|-87.2068|Tegucigalpa|Francisco Morazán|850848|
+15.7743|-87.4673|Tela|Atlántida|29325|
+14.3333|-87.7500|Tepanguare|La Paz|1040|
+15.4167|-86.3167|Tepusteca|Yoro|1638|
+14.2167|-86.7000|Teupasenti|El Paraíso|43477|
+13.6497|-87.0225|Texíguat|El Paraíso|1012|
+15.6833|-86.0000|Tocoa|Colón|111972|
+14.2433|-88.7314|Tomalá|Lempira|6495|
+15.7500|-87.5500|Tornabé|Atlántida|1452|
+15.5500|-87.6500|Toyós|Yoro|2530|
+15.3000|-88.6667|Tras Cerros|Santa Bárbara|4174|
+15.8667|-87.9000|Travesía|Cortés|1283|
+15.1333|-88.2333|Trinidad|Santa Bárbara|4276|
+14.9500|-88.7500|Trinidad de Copán|Copán|7031|
+15.3500|-86.7000|Trojas|Yoro|1068|
+14.0597|-86.0017|Trojes|El Paraíso|0|
+15.9167|-85.9542|Trujillo|Colón|9646|
+16.1003|-86.9307|Utila|Bay Islands|0|
+13.6435|-86.9555|Vado Ancho|El Paraíso|0|
+14.1471|-88.7084|Valladolid|Lempira|3747|
+14.5131|-87.4024|Vallecillo|Francisco Morazán|1986|
+14.5000|-87.6333|Valle de Ángeles|Comayagua|1101|
+14.1500|-87.0333|Valle de Ángeles|Francisco Morazán|4649|
+14.8834|-88.7857|Veracruz|Copán|1045|
+15.1001|-87.5302|Victoria|Yoro|34215|
+14.3167|-87.6167|Villa de San Antonio|Comayagua|32419|
+14.1667|-86.9667|Villa de San Francisco|Francisco Morazán|10816|
+15.3167|-88.0000|Villanueva|Cortés|31571|
+14.0333|-87.1333|Villa Nueva|Francisco Morazán|2295|
+15.0847|-83.3536|Villeda Morales|Gracias a Dios|0|
+14.0052|-88.5619|Virginia|Lempira|2574|
+15.1833|-84.6167|Wampusirpi|Gracias a Dios|0|
+15.4167|-84.4333|Wawina|Gracias a Dios|1481|
+14.0167|-87.2167|Yaguacire|Francisco Morazán|1449|
+14.2683|-88.2465|Yamaranguila|Intibucá|21633|
+14.5333|-88.8167|Yaruchel|Ocotepeque|1105|
+14.1000|-88.0800|Yarula|La Paz|9185|
+14.3333|-87.6333|Yarumela|La Paz|3059|
+13.7487|-87.0761|Yauyupe|El Paraíso|1363|
+14.9500|-86.8200|Yocón|Olancho|12182|
+15.0667|-87.2833|Yorito|Yoro|19824|
+15.1375|-87.1278|Yoro|Yoro|15774|
+13.9571|-86.8317|Yuscarán|El Paraíso|2371|
+14.2667|-87.4000|Zambrano|Francisco Morazán|3873|
+15.6333|-86.0667|Zamora|Colón|2999|
+14.6000|-86.2667|Zopilotepe|Olancho|1300|

@@ -1,2 +1,2 @@
-47.0972|-56.3814|Miquelon-Langlade
-46.7783|-56.1775|Saint-Pierre
+47.0972|-56.3814|Miquelon-Langlade|Saint-Pierre and Miquelon|0|
+46.7783|-56.1775|Saint-Pierre|Saint-Pierre and Miquelon|6200|

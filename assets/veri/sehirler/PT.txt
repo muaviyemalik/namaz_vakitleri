@@ -1,1197 +1,1320 @@
-39.4667|-8.2000|Abrantes
-40.6814|-7.9210|Abraveses
-39.1442|-9.0185|Abrigada
-40.6450|-7.3053|Açores
-40.4592|-7.1650|Adão
-41.5873|-8.3982|Adaúfe
-39.1524|-9.2972|A dos Cunhados
-39.3227|-9.0474|A dos Francos
-41.1439|-8.6464|Afurada de Baixo
-40.5229|-8.4270|Aguada de Cima
-37.7214|-25.5117|Água de Pau
-32.7014|-16.7787|Água de Pena
-41.2497|-8.4929|Água Longa
-38.7700|-9.2988|Agualva
-40.3747|-7.1669|Águas Belas
-41.2102|-8.5760|Águas Santas
-41.4312|-8.7784|Aguçadoura
-40.5772|-8.4444|Águeda
-40.8173|-7.5443|Aguiar da Beira
-38.7075|-9.1983|Ajuda
-38.6292|-7.3660|Alandroal
-40.5115|-7.1303|Albardo
-40.6871|-8.5040|Albergaria-a-Velha
-37.0882|-8.2503|Albufeira
-38.7336|-9.4092|Alcabideche
-38.3733|-8.5144|Alcácer do Sal
-39.9154|-7.4611|Alcains
-39.4150|-8.8219|Alcanede
-39.4590|-8.6689|Alcanena
-39.2960|-8.6585|Alcanhões
-38.7064|-9.1742|Alcântara
-37.1304|-8.3462|Alcantarilha
-39.5522|-8.9775|Alcobaça
-38.7383|-8.9794|Alcochete
-39.2086|-8.9594|Alcoentre
-37.4240|-7.6546|Alcoutim
-40.4135|-6.8691|Aldeia da Ponte
-40.4567|-6.8978|Aldeia da Ribeira
-40.1390|-7.5169|Aldeia de Joanes
-38.6167|-9.0833|Aldeia de Paio Pires
-40.3431|-7.1364|Aldeia de Santo António
-40.3233|-6.8481|Aldeia do Bispo
-39.0822|-9.1119|Aldeia Galega da Merceana
-39.0844|-9.0964|Aldeia Gavinha
-37.9260|-7.4080|Aldeia Nova de São Bento
-40.7258|-7.4238|Aldeia Nova Miranda do Douro
-40.4686|-7.5981|Aldeias
-40.3433|-6.8675|Aldeia Velha
-40.5789|-7.3178|Aldeia Viçosa
-41.1671|-8.6691|Aldoar
-39.0500|-9.0167|Alenquer
-40.3911|-6.9133|Alfaiates
-41.3432|-6.9611|Alfândega da Fé
-40.1506|-8.6533|Alfarelos
-39.4997|-9.1034|Alfeizerão
-41.2367|-8.5245|Alfena
-39.4833|-8.1667|Alferrarede
-38.7633|-9.2064|Alfornelos
-38.7318|-9.2157|Alfragide
-38.6995|-9.2293|Algés
-40.9525|-7.0547|Algodres
-37.1630|-8.3036|Algoz
-39.2758|-9.0189|Alguber
-38.8024|-9.3418|Algueirão
-38.7941|-9.3451|Algueirão–Mem Martins
-40.1861|-8.7906|Alhadas
-38.9239|-9.0114|Alhandra
-38.6549|-9.0237|Alhos Vedros
-41.2845|-7.4855|Alijó
-37.3175|-8.8015|Aljezur
-39.5671|-8.9292|Aljubarrota
-37.8776|-8.1652|Aljustrel
-38.6790|-9.1569|Almada
-37.0869|-8.0307|Almancil
-38.8447|-9.2731|Almargem
-38.8475|-9.2714|Almargem do Bispo
-40.7307|-6.9059|Almeida
-39.2084|-8.6264|Almeirim
-40.9928|-7.0576|Almendra
-37.4959|-8.0937|Almodôvar
-40.8603|-6.8486|Almofala
-37.6566|-8.7921|Almograve
-41.0894|-8.2464|Alpendurada
-39.2571|-8.5819|Alpiarça
-39.2310|-7.7443|Alter do Chão
-38.7403|-9.1281|Alto do Pina
-37.1756|-7.5006|Altura
-39.8195|-8.3886|Alvaiázere
-38.7469|-9.1361|Alvalade
-40.5850|-7.2583|Alvendre
-40.7006|-7.2175|Alverca da Beira
-38.8987|-9.0395|Alverca do Ribatejo
-38.2465|-8.0504|Alvito
-40.2956|-7.6703|Alvoco da Serra
-37.1299|-8.5917|Alvor
-39.3822|-9.0367|Alvorninha
-38.7500|-9.2333|Amadora
-41.2727|-8.0824|Amarante
-41.6472|-8.3556|Amares
-38.7878|-9.1525|Ameixoeira
-39.4430|-8.7336|Amiães de Baixo
-39.8040|-8.8598|Amor
-38.6296|-9.1156|Amora
-40.5881|-7.0156|Amoreira
-41.4050|-8.7505|Amorim
-40.4384|-8.4335|Anadia
-40.2716|-8.5209|Ançã
-38.6548|-27.2173|Angra do Heroísmo
-38.5255|-28.6313|Angústias
-38.7239|-9.1364|Anjos
-39.9342|-8.4205|Ansião
-41.2663|-8.6284|Anta
-38.8150|-9.1325|Apelação
-41.4851|-8.7641|Apúlia
-41.5119|-8.7729|Apúlia e Fão
-40.6208|-8.6419|Aradas
-40.2863|-8.6500|Arazede
-32.7150|-17.1497|Arco da Calheta
-40.4478|-8.4417|Arcos
-41.8467|-8.4191|Arcos de Valdevez
-40.5406|-7.6272|Arcozelo
-38.7410|-9.1380|Areeiro
-40.2183|-8.0540|Arganil
-41.3774|-8.7299|Argivai
-41.0254|-8.5389|Argoncilhe
-37.1026|-8.3569|Armação de Pêra
-41.0972|-7.6855|Armamar
-40.9266|-8.2725|Arouca
-38.7677|-7.9583|Arraiolos
-38.9537|-9.1350|Arranhó
-38.6250|-9.1015|Arrentela
-40.9156|-8.4966|Arrifana
-37.7667|-25.7000|Arrifes
-39.1224|-7.2862|Arronches
-38.9830|-9.0776|Arruda dos Vinhos
-41.3392|-8.7181|Árvore
-41.4555|-8.2142|Arões
-40.1589|-8.4317|Assafarge
-40.6600|-7.0331|Atalaia
-39.3381|-9.3263|Atouguia da Baleia
-40.8077|-8.5722|Avanca
-39.1114|-8.8692|Aveiras de Baixo
-39.1377|-8.9000|Aveiras de Cima
-40.6443|-8.6455|Aveiro
-40.6777|-7.2149|Avelãs da Ribeira
-41.5211|-8.4668|Aveleda
-40.9311|-7.3167|Aveloso
-41.4061|-8.7796|Aver-o-Mar
-41.3703|-8.4101|Aves
-41.1071|-8.5513|Avintes
-39.0645|-7.8956|Avis
-39.0667|-8.8667|Azambuja
-39.0703|-8.8683|Azambuja (town)
-38.5192|-9.0139|Azeitão
-41.0765|-8.6247|Azenha
-38.8406|-9.4600|Azenhas do Mar
-40.8517|-7.1314|Azevo
-39.3488|-8.5300|Azinhaga
-39.0065|-9.2747|Azueira
-41.1920|-8.5412|Baguim do Monte
-41.1638|-8.0358|Baião
-41.5432|-8.4072|Bairro Novo
-41.4044|-8.6239|Balazar
-41.1927|-8.3877|Baltar
-40.3936|-7.0852|Baraçal
-38.7325|-9.2800|Barcarena
-41.5317|-8.6184|Barcelos
-41.4911|-8.7319|Barqueiros
-38.1345|-6.9760|Barrancos
-40.9111|-7.1864|Barreira
-38.6631|-9.0724|Barreiro
-41.3553|-8.2994|Barrosas
-39.6602|-8.8247|Batalha
-38.7347|-9.1058|Beato
-38.7333|-9.1034|Beato António
-40.7643|-8.5611|Beduido
-41.3973|-8.7239|Beiriz de Baixo
-38.0151|-7.8632|Beja
-38.7667|-9.2667|Belas
-38.6987|-9.1929|Belém
-40.3618|-7.3516|Belmonte
-41.2470|-7.2759|Belver
-39.1433|-8.6872|Bemfica
-38.9080|-8.7690|Benavente
-40.3708|-7.2547|Bendada
-39.4247|-8.9700|Benedita
-40.4403|-7.2764|Benespera
-38.7511|-9.2022|Benfica
-37.1558|-8.7352|Bensafrim
-38.0566|-7.9843|Beringel
-38.7833|-27.2500|Biscoitos
-40.4469|-6.9644|Bismula
-32.8185|-16.9727|Boaventura
-37.5806|-8.6644|Boavista dos Pinheiros
-38.8066|-9.0973|Bobadela
-37.1372|-8.1582|Boliqueime
-39.2672|-9.1579|Bombarral
-41.1542|-8.5869|Bomfim
-38.8055|-7.4546|Borba
-41.6894|-7.6691|Boticas
-40.7046|-7.2383|Bouça Cova
-41.3398|-8.5518|Bougado
-41.5503|-8.4200|Braga
-41.7561|-6.7553|Bragança
-40.7665|-8.4826|Branca
-38.7661|-9.2144|Brandoa
-41.4582|-8.3610|Brito
-40.1660|-8.8768|Buarcos
-38.9000|-9.1167|Bucelas
-38.7422|-9.2094|Buraca
-37.1352|-7.6005|Cabanas de Tavira
-39.1563|-9.0633|Cabanas de Torres
-40.4766|-7.9745|Cabanas de Viriato
-40.3192|-7.7353|Cabeça
-37.9240|-7.7929|Cabeça Gorda
-41.5208|-7.9720|Cabeceiras de Basto
-37.7667|-25.5667|Cabouco
-38.7704|-9.3081|Cacem
-38.9858|-9.0164|Cachoeiras
-38.6864|-9.1494|Cacilhas
-39.0044|-9.0042|Cadafais
-40.5847|-7.3619|Cadafaz
-38.1586|-6.9698|Cadaval
-38.5253|-28.3207|Cais do Pico
-39.4033|-9.1384|Caldas da Rainha
-41.4847|-8.3485|Caldas das Taipas
-41.3821|-8.3089|Caldas de Vizela
-41.6710|-8.3815|Caldelas
-41.4036|-8.5297|Calendário
-38.9250|-9.0678|Calhandriz
-38.6019|-28.0179|Calheta
-38.5977|-27.9146|Calheta de São Jorge
-32.6792|-16.8446|Camacha
-32.6504|-16.9772|Câmara de Lobos
-38.7980|-9.1378|Camarate
-41.8465|-8.8013|Caminha
-32.6658|-17.0358|Campanário
-41.1571|-8.5747|Campanhã
-39.2000|-9.2333|Campelos
-41.1852|-8.4649|Campo
-40.5566|-8.1343|Campo de Besteiros
-38.7213|-9.1674|Campo De Ourique
-38.7569|-9.1536|Campo Grande
-38.7264|-9.1633|Campolide
-39.0294|-7.0648|Campo Maior
-40.5001|-7.8987|Canas de Senhorim
-41.4277|-8.3217|Candoso
-38.8167|-9.2333|Caneças
-41.0833|-8.6000|Canelas
-32.6947|-17.0987|Canhas
-32.7383|-16.7384|Caniçal
-32.6508|-16.8375|Caniço
-41.1231|-8.6465|Canidelo
-40.3635|-8.6055|Cantanhede
-38.6618|-9.2003|Caparica
-39.7462|-8.7074|Caranguejeira
-40.2062|-8.6481|Carapinheira
-40.7676|-7.4545|Carapito
-38.6922|-9.3333|Carcavelos
-38.9772|-9.0408|Cardosas
-39.0578|-9.1342|Carmões
-38.7267|-9.2417|Carnaxide
-40.7333|-7.3183|Carnicães
-38.7608|-9.1836|Carnide
-39.0336|-9.0717|Carnota
-40.4057|-7.7608|Carragozela
-40.5619|-7.4869|Carrapichana
-41.2425|-7.3072|Carrazeda de Anciães
-41.2342|-7.3113|Carrazeda de Ansiães
-39.0233|-8.9645|Carregado
-40.4501|-7.9982|Carregal do Sal
-39.1538|-8.8137|Cartaxo
-40.8836|-7.2836|Carvalhal
-41.3006|-8.3608|Carvalhosa
-39.0806|-9.1622|Carvoeira
-37.0974|-8.4685|Carvoeiro
-38.8024|-9.2319|Casal de Cambra
-40.5442|-7.1642|Casal de Cinza
-40.6379|-7.5554|Casal Vasco
-40.6189|-7.4064|Casas do Soeiro
-38.6969|-9.4204|Cascais
-40.5747|-7.0794|Castanheira
-40.0072|-8.2105|Castanheira de Pêra
-38.9833|-8.9667|Castanheira do Ribatejo
-40.8808|-7.3258|Casteição
-40.3022|-7.2317|Casteleiro
-38.7136|-9.1333|Castelo (Lisbon)
-40.6203|-6.9006|Castelo Bom
-38.5220|-28.7137|Castelo Branco
-41.0335|-8.2982|Castelo de Paiva
-39.4162|-7.4568|Castelo de Vide
-41.0275|-7.0650|Castelo Melhor
-40.8756|-6.9639|Castelo Rodrigo
-41.2026|-8.3352|Castelões de Cepeda
-40.9228|-7.9388|Castro Daire
-37.2587|-7.5073|Castro Marim
-37.6983|-8.0858|Castro Verde
-40.5308|-7.6819|Cativelos
-40.5847|-7.2867|Cavadoude
-38.7000|-9.2833|Caxias
-41.0333|-7.3167|Cedovim
-39.5408|-9.0345|Cela
-40.6333|-7.4000|Celorico da Beira
-41.4028|-8.0335|Celorico de Basto
-39.2339|-8.9983|Cercal
-40.5142|-7.0467|Cerdeira
-40.7294|-7.2236|Cerejo
-39.2990|-8.3993|Chamusca
-38.7853|-9.1450|Charneca
-38.6203|-9.1943|Charneca de Caparica
-40.9897|-7.1703|Chãs
-41.4524|-8.6019|Chavão
-41.7396|-7.4503|Chaves
-38.8897|-9.3289|Cheleiros
-38.7520|-9.1592|Cidade Universitária
-41.0399|-8.1122|Cinfães
-40.6511|-7.2050|Codesseiro
-40.8128|-7.2614|Cogula
-40.2056|-8.4195|Coimbra
-38.8021|-9.4631|Colares
-38.3806|-8.7861|Comporta
-37.1479|-7.6043|Conceição
-40.1064|-8.4963|Condeixa-a-Nova
-39.4572|-8.3037|Constância
-38.7242|-9.1450|Coração de Jesus
-40.8620|-7.2037|Coriscada
-38.6400|-9.1508|Corroios
-40.9488|-8.6213|Cortegaça
-40.7650|-7.5422|Cortiçada
-40.6631|-7.4947|Cortiçô
-40.6012|-7.4343|Cortiçô da Serra
-40.7936|-7.5408|Coruche
-40.5061|-7.3280|Corujeira
-39.6977|-31.1055|Corvo
-38.6446|-9.2356|Costa de Caparica
-40.8275|-7.2397|Cótimos
-40.2811|-7.5050|Covilhã
-39.2866|-7.6441|Crato
-41.4796|-8.6979|Cristelo
-38.7061|-9.2506|Cruz Quebrada - Dafundo
-38.2197|-7.9211|Cuba
-40.8741|-8.5069|Cucujães
-32.7203|-16.9699|Curral das Freiras
-41.1053|-7.3208|Custoias
-38.7453|-9.2183|Damaia
-39.0384|-9.1856|Dois Portos
-40.7311|-7.5589|Dornelas
-40.7733|-7.4900|Eirado
-40.2483|-8.4155|Eiras
-40.6276|-8.5692|Eixo
-38.8815|-7.1628|Elvas
-39.0333|-9.3681|Encarnação
-39.4667|-8.4667|Entroncamento
-38.9919|-9.2408|Enxara do Bispo
-38.9628|-9.4153|Ericeira
-41.2165|-8.5532|Ermesinde
-40.7406|-7.1861|Ervas Tenras
-40.8469|-7.1761|Ervedosa
-41.1663|-7.4730|Ervedosa do Douro
-40.9494|-6.9261|Escalhão
-40.6490|-8.6294|Esgueira
-40.9577|-8.6275|Esmoriz
-40.9246|-8.5749|Espargo
-41.0076|-8.6412|Espinho
-41.5101|-8.4173|Esporões
-41.5361|-8.7820|Esposende
-40.7546|-8.5792|Estarreja
-41.4494|-8.7517|Estela
-37.0950|-7.8944|Estói
-37.1463|-8.4850|Estômbar
-38.7096|-9.3901|Estoril
-32.7370|-17.1867|Estreito da Calheta
-38.8500|-7.6012|Estremoz
-38.5667|-7.9000|Évora
-41.4684|-8.1586|Fafe
-40.5606|-7.3103|Faia
-32.7833|-16.8500|Faial
-32.7746|-17.2341|Fajã da Ovelha
-37.7604|-25.6447|Fajã de Baixo
-38.7590|-9.2199|Falagueira
-40.4436|-7.3772|Famalicão
-38.7833|-9.2167|Famões
-38.8811|-9.1525|Fanhões
-41.1675|-8.5298|Fânzeres
-41.4830|-8.6715|Faria
-37.0187|-7.9272|Faro
-39.6207|-8.6524|Fátima
-41.2688|-7.5046|Favaios
-39.1755|-8.5693|Fazendas de Almeirim
-40.9254|-8.5428|Feira
-41.3477|-8.2081|Felgueiras
-37.8513|-25.3241|Fenais da Ajuda
-37.8249|-25.6423|Fenais da Luz
-40.4869|-7.3553|Fernão Joanes
-37.1247|-8.5191|Ferragudo
-41.2672|-8.3443|Ferreira
-38.0500|-8.0333|Ferreira do Alentejo
-39.7230|-8.3166|Ferreira do Zêzere
-37.1293|-8.2376|Ferreiras
-41.3500|-8.5500|Ferreiros
-39.3640|-9.3154|Ferrel
-38.6543|-27.1500|Feteira
-40.9945|-8.5254|Fiães
-40.1508|-8.8618|Figueira da Foz
-40.9000|-6.9667|Figueira de Castelo Rodrigo
-38.7500|-9.4667|Figueira do Guincho
-41.2992|-8.1678|Figueiró
-40.6281|-7.4992|Figueiró da Granja
-40.5406|-7.4889|Figueiró da Serra
-39.9062|-8.2775|Figueiró Dos Vinhos
-39.2795|-9.0508|Figueiros
-40.2867|-6.8925|Fóios
-40.5094|-7.5139|Folgosinho
-40.3794|-7.7847|Folhadosa
-38.8500|-9.4333|Fontanelas
-38.6920|-27.0794|Fonte Bastardo
-41.0131|-7.2336|Fonte Longa
-40.7047|-7.5542|Forninhos
-40.6167|-7.5333|Fornos de Algodres
-40.6733|-7.3978|Forno Telheiro
-38.8739|-9.0522|Forte da Casa
-39.4367|-9.2137|Foz do Arelho
-41.1512|-8.6713|Foz do Douro
-41.0967|-8.5018|Foz do Sousa
-41.3685|-8.5989|Fradelos
-41.2587|-8.4001|Frazão
-41.2884|-8.3353|Freamunde
-40.7317|-7.3464|Freches
-40.5831|-6.8911|Freineda
-39.0274|-9.3200|Freiria
-40.8903|-7.0322|Freixeda do Torrão
-40.6919|-7.1631|Freixedas
-40.6186|-7.0103|Freixo
-41.0903|-6.8065|Freixo de Espada à Cinta
-41.0667|-7.2167|Freixo de Numão
-38.8258|-9.1444|Frielas
-39.0718|-7.6105|Fronteira
-41.5659|-8.4513|Frossos
-32.6657|-16.9255|Funchal
-40.1241|-7.4954|Fundão
-37.7757|-25.3103|Furnas
-37.0543|-7.7470|Fuzeta
-40.6181|-8.7330|Gafanha da Encarnação
-40.6362|-8.7134|Gafanha da Nazaré
-40.5839|-7.1147|Gagos
-41.5627|-8.5720|Galegos
-41.5219|-8.7619|Gandra
-39.4446|-7.8953|Gavião
-41.2677|-8.6451|Gemunde
-40.5094|-7.7367|Girabolhos
-41.1710|-7.8030|Godim
-40.1253|-8.0834|Góis
-39.3868|-8.5059|Golegã
-40.4167|-7.3500|Gonçalo
-40.5767|-7.1775|Gonçalo Bocas
-41.5416|-8.4557|Gondizalves
-41.1202|-8.4960|Gondomar
-40.5000|-7.6000|Gouveia
-38.7172|-9.1308|Graça
-38.9822|-9.2808|Gradil
-40.8594|-7.5286|Gradiz
-38.1900|-8.6120|Grândola
-40.7520|-7.2043|Granja
-41.0284|-8.5802|Grijó
-40.5364|-7.2683|Guarda
-41.4586|-8.6295|Gueral
-37.1296|-8.2996|Guia
-41.1975|-8.6690|Guifões
-40.8981|-7.4097|Guilheiro
-41.4438|-8.2892|Guimarães
-41.4826|-8.4456|Guisande
-41.0829|-8.6268|Gulpilhares
-38.5374|-28.6261|Horta
-39.9296|-7.2369|Idanha-A-Nova
-38.9169|-9.3194|Igreja Nova
-40.6019|-8.6702|Ílhavo
-40.6300|-7.5394|Infias
-40.6004|-7.1491|Jarmelo São Miguel
-40.5945|-7.1302|Jarmelo São Pedro
-41.4391|-8.4085|Joane
-40.4644|-7.2394|João Antão
-41.1110|-8.5190|Jovim
-40.6814|-6.8856|Junça
-40.6094|-7.5075|Juncais
-40.4858|-7.6694|Lagarinhos
-41.6215|-8.4126|Lago
-37.7449|-25.5718|Lagoa
-37.1020|-8.6742|Lagos
-40.3435|-6.8162|Lajeosa
-40.6275|-7.3375|Lajeosa do Mondego
-38.7635|-27.1034|Lajes
-39.4162|-31.2172|Lajes das Flores
-38.4280|-28.1740|Lajes do Pico
-40.9860|-8.5692|Lamas
-40.6650|-7.0797|Lamegal
-41.1023|-7.8102|Lamego
-40.7114|-7.1044|Lameiras
-38.7119|-9.1601|Lapa
-40.3789|-7.7094|Lapa Dos Dinheiros
-38.6560|-9.1538|Laranjeira
-37.0680|-7.8078|Laranjeiro
-40.0936|-8.8283|Lavos
-41.2593|-8.7185|Lavra
-38.6681|-9.0520|Lavradio
-41.1910|-8.7003|Leça da Palmeira
-41.2120|-8.6342|Leça do Bailio
-39.7436|-8.8071|Leiria
-40.6353|-6.9642|Leomil
-38.7114|-9.2408|Linda-a-Velha
-40.5408|-7.4611|Linhares (Celorico da Beira)
-38.7263|-9.1484|Lisboa|Lisbon
-40.9866|-8.4857|Lobão
-40.9810|-7.2033|Longroiva
-41.3741|-8.3802|Lordelo
-41.1506|-8.6485|Lordelo do Ouro
-40.3167|-7.6833|Loriga
-40.2594|-8.3168|Lorvão
-37.1440|-8.0235|Loulé
-38.8333|-9.1667|Loures
-40.0039|-8.7374|Louriçal
-39.2500|-9.3167|Lourinhã
-40.9842|-8.5514|Lourosa
-38.8917|-9.2097|Lousa
-41.2835|-8.2744|Lousada
-38.7653|-9.1586|Lumiar
-40.3843|-8.3785|Luso
-41.3408|-8.3171|Lustosa
-37.0922|-7.7043|Luz
-40.5367|-7.3025|Maçainhas
-40.6917|-7.2918|Maçal do Chão
-39.5933|-7.9977|Mação
-41.5513|-6.9336|Macedo de Cavaleiros
-40.6856|-7.4717|Maceira
-32.7162|-16.7676|Machico
-40.8594|-8.3734|Macieira de Cambra
-41.4409|-8.6343|Macieira de Rates
-39.1947|-8.8672|Maçussa
-38.5364|-28.5266|Madalena
-38.9333|-9.3333|Mafra
-37.8325|-25.3898|Maia
-40.2999|-7.0615|Malcata
-40.5364|-6.9144|Malhada Sorda
-40.7600|-6.8667|Malpartida
-38.9306|-9.2616|Malveira
-40.6043|-7.7611|Mangualde
-40.4664|-7.6217|Mangualde da Serra
-40.7083|-7.0758|Manigoto
-39.2211|-8.8936|Manique do Intendente
-37.1685|-7.5180|Manta Rota
-40.4000|-7.5333|Manteigas
-40.3661|-7.5461|Manteigas (São Pedro)
-41.1555|-8.1695|Marco de Canaveses
-41.1839|-8.1486|Marco de Canavezes
-41.3648|-8.2000|Margaride
-40.9100|-7.2317|Marialva
-39.7768|-8.9500|Marinha Grande
-39.0473|-8.7024|Marinhais
-41.5591|-8.7830|Marinhas
-41.5282|-8.6708|Mariz
-40.4686|-7.1142|Marmeleiro
-37.3101|-8.6681|Marmelete
-39.2131|-9.2833|Marteleira
-38.7086|-9.1417|Mártires
-39.3938|-7.3766|Marvão
-38.7453|-9.1042|Marvila
-38.7556|-9.2843|Massamá
-39.0928|-9.2122|Matacães
-40.9169|-6.8880|Mata de Lobos
-40.6789|-7.5289|Matança
-41.1821|-8.6891|Matosinhos
-39.1430|-9.1690|Maxial
-40.3627|-8.4478|Mealhada
-39.0897|-9.0256|Meca
-40.9667|-7.2667|Mêda
-41.2483|-8.2581|Meinedo
-40.4936|-7.3592|Meios
-42.0807|-8.2484|Melgaço
-40.5194|-7.5336|Melo
-41.0699|-8.4009|Melres
-38.7936|-9.3440|Mem Martins
-38.7161|-9.1489|Mercês
-41.5857|-8.4656|Merelim
-37.6592|-7.6643|Mértola
-41.1619|-7.8728|Mesão Frio
-40.5881|-7.4894|Mesquitela
-37.1586|-8.6149|Mexilhoeira Grande
-38.9472|-9.1992|Milharado
-41.2148|-8.5884|Milheirós
-40.9216|-8.4679|Milheirós de Poiares
-38.7617|-9.2361|Mina
-37.6732|-7.4977|Minas de São Domingos
-39.5163|-8.6880|Minde
-41.3153|-8.7212|Mindelo
-40.6894|-7.3467|Minhocal
-40.4456|-8.7385|Mira
-39.2358|-9.2650|Miragaia
-40.0932|-8.3326|Miranda do Corvo
-41.4969|-6.2731|Miranda do Douro
-41.5010|-7.1918|Mirandela
-38.7842|-9.3015|Mira-Sintra
-40.5106|-7.0050|Miuzela
-40.5575|-7.3411|Mizarela
-41.3403|-6.7119|Mogadouro
-40.9713|-7.6296|Moimenta da Beira
-40.4736|-7.6384|Moimenta da Serra
-40.7456|-7.2278|Moimentinha
-40.3000|-7.1975|Moita
-39.2482|-9.2236|Moita dos Ferreiros
-39.2839|-9.2572|Moledo
-42.0789|-8.4808|Monção
-37.0836|-7.7876|Moncarapacho
-37.3166|-8.5834|Monchique
-41.4135|-7.9548|Mondim de Basto
-39.0496|-7.4443|Monforte
-39.4620|-8.7118|Monsanto
-41.8318|-7.7900|Montalegre
-39.4843|-8.3058|Montalvinho
-39.4849|-8.3000|Montalvo
-39.0777|-8.1704|Montargil
-38.7584|-9.2653|Monte Abraão
-38.7036|-9.4064|Monte Estoril
-37.1819|-7.4523|Monte Gordo
-38.8697|-9.3158|Montelavar
-38.6710|-8.2996|Montemor-o-Novo
-40.1938|-8.6670|Montemor-o-Velho
-39.8521|-8.8635|Monte Real
-39.1150|-9.2044|Monte Redondo
-38.7299|-8.6936|Montijo
-38.9217|-8.0997|Mora
-41.0560|-8.3894|Moreira
-41.3868|-8.3394|Moreira de Conegos
-40.8391|-7.3232|Moreira de Rei
-40.3943|-8.2581|Mortágua
-41.1131|-7.1972|Mós
-38.7827|-9.1110|Moscavide e Portela
-40.8984|-8.5320|Mosteirô
-37.8902|-25.8200|Mosteiros
-38.1401|-7.4486|Moura
-38.2978|-7.2223|Mourão
-41.1006|-7.2314|Murça
-40.7430|-8.6402|Murtosa
-41.0361|-7.1500|Muxagata
-40.5200|-7.5556|Nabais
-39.4193|-9.1909|Nadadouro
-40.3982|-6.9603|Nave
-40.5217|-6.8342|Nave de Haver
-39.5996|-9.0716|Nazaré
-41.4355|-8.6140|Negreiros
-41.3495|-8.4015|Negrelos
-40.5322|-7.8515|Nelas
-40.5172|-7.6097|Nespereira
-38.0227|-7.8134|Neves
-39.5183|-7.6750|Nisa
-41.2425|-8.5869|Nogueira
-41.0053|-8.5920|Nogueira da Regedoura
-37.8272|-25.2286|Nordeste
-38.7392|-9.1508|Nossa Senhora de Fátima
-32.6667|-16.9000|Nossa Senhora do Monte
-41.0975|-7.2911|Numão
-39.3585|-9.1760|Óbidos
-37.5980|-8.6397|Odemira
-38.8000|-9.1833|Odivelas
-38.7970|-9.1911|Odivelas Municipality
-38.6970|-9.3017|Oeiras
-38.6972|-9.3083|Oeiras e São Julião da Barra
-40.5426|-8.5386|Oiã
-39.9495|-7.8859|Oleiros
-39.0986|-9.0639|Olhalvo
-37.0451|-7.8103|Olhão
-37.0902|-8.1917|Olhos de Água
-38.7699|-9.1067|Olivais
-41.0502|-8.5442|Olival
-38.7908|-9.1672|Olival de Basto
-38.7908|-9.1661|Olival do Basto
-41.4782|-8.4696|Oliveira
-40.8410|-8.4756|Oliveira de Azemeis
-40.7336|-8.1748|Oliveira de Frades
-40.5098|-8.5637|Oliveira do Bairro
-41.1247|-8.5846|Oliveira do Douro
-40.3552|-7.8648|Oliveira do Hospital
-40.3231|-8.2237|Oliveira do Mondego
-40.6071|-8.5920|Oliveirinha
-39.1100|-8.9897|Ota
-39.6618|-8.5790|Ourém
-37.6916|-8.3103|Ourique
-39.1922|-9.1822|Outeiro da Cabeça
-40.9522|-7.3022|Outeiro de Gatos
-40.8586|-8.6251|Ovar
-38.6950|-9.2936|Paço de Arcos
-40.4597|-7.6506|Paços da Serra
-40.9754|-8.5835|Paços de Brandão
-41.2896|-8.3758|Paços de Ferreira
-37.1793|-8.2015|Paderne
-39.5640|-8.4683|Paialvo
-39.3022|-9.0494|Painho
-40.7631|-7.1511|Pala
-40.8167|-7.4300|Palhais
-38.5690|-8.9013|Palmela
-40.0462|-7.9518|Pampilhosa da Serra
-40.3358|-8.4274|Pampilhosa do Botão
-40.4978|-7.2328|Panoias de Cima
-40.5397|-7.0378|Parada
-40.4864|-7.7945|Paranhos
-37.1383|-8.5170|Parchal
-40.7993|-8.6260|Pardilhó
-38.6933|-9.3569|Parede
-41.2050|-8.3751|Paredes
-41.9100|-8.5703|Paredes de Coura
-38.7691|-9.0963|Parque das Nações
-39.6698|-8.9958|Pataias
-39.9268|-8.2009|Pedrógão Grande
-41.4110|-8.7490|Pedroso
-41.1888|-8.5862|Pedrouços
-40.4286|-7.1444|Pega
-39.4615|-8.1495|Pego
-38.7214|-9.1400|Pena
-40.2688|-8.2824|Penacova
-41.2093|-8.2700|Penafiel
-40.3928|-7.2039|Pena Lobo
-40.6679|-7.6601|Penalva do Castelo
-40.1549|-7.1715|Penamacor
-40.7283|-7.5053|Pena Verde
-37.9848|-7.9165|Penedo Gordo
-40.9888|-7.3939|Penedono
-40.0333|-8.3833|Penela
-40.8664|-7.0681|Penha de Águia
-38.7300|-9.1317|Penha de França
-39.3558|-9.3811|Peniche
-37.1230|-8.3412|Pêra
-40.6131|-7.2097|Pêra do Moço
-41.1825|-8.2545|Perafita
-39.2617|-9.0744|Peral
-40.7350|-7.0131|Pereiro
-39.0428|-9.1089|Pereiro de Palhacana
-41.5307|-8.6898|Perelhal
-39.2214|-9.1236|Pêro Moniz
-38.8399|-9.3207|Pero Pinheiro
-41.0651|-8.5853|Perozinho
-41.1916|-7.8367|Peso da Régua
-40.6647|-6.9908|Peva
-38.6701|-9.1585|Piedade
-38.6311|-8.9138|Pinhal Novo
-40.4664|-7.6831|Pinhanços
-40.8008|-7.5983|Pinheiro
-39.3921|-8.4341|Pinheiro Grande
-40.7833|-7.0667|Pinhel
-40.6025|-7.0653|Pínzio
-38.8310|-8.7936|Poceirão
-40.9994|-7.2683|Poço do Canto
-40.2103|-8.2575|Poiares
-40.6431|-7.1381|Pomares
-39.9074|-8.6695|Pombal
-37.7423|-25.6709|Ponta Delgada
-32.6798|-17.1000|Ponta do Sol
-37.7167|-25.3667|Ponta Garça
-41.4706|-8.3299|Ponte
-41.8067|-8.3101|Ponte da Barca
-41.7468|-8.5764|Ponte de Lima
-39.2144|-8.0542|Ponte de Sor
-39.0928|-9.3192|Ponte do Rol
-39.1495|-8.8388|Pontével
-38.7770|-9.2038|Pontinha
-37.1266|-8.4016|Porches
-39.2974|-7.4154|Portalegre
-38.2938|-7.7276|Portel
-38.7828|-9.1111|Portela
-37.1754|-8.5842|Portimão
-41.1496|-8.6110|Porto
-37.8526|-8.7902|Porto Covo
-40.6053|-7.2922|Porto da Carne
-32.7667|-16.8333|Porto da Cruz
-39.6019|-8.8184|Porto de Mós
-38.6481|-27.1194|Porto Judeu
-38.6815|-27.0584|Porto Martins
-32.8668|-17.1667|Porto Moniz
-38.7172|-9.2992|Porto Salvo
-33.0714|-16.3430|Porto Santo
-40.5472|-7.1261|Pousada
-40.4122|-7.1792|Pousafoles do Bispo
-37.7647|-25.2449|Povoação
-41.5760|-8.2701|Póvoa de Lanhoso
-38.8611|-9.0644|Póvoa de Santa Iria
-38.8002|-9.1639|Póvoa de Santo Adrião
-41.3834|-8.7636|Póvoa de Varzim
-40.7597|-7.2664|Póvoa do Concelho
-41.6025|-8.4630|Prado
-40.5614|-7.3767|Prados
-38.6746|-9.1698|Pragal
-38.7333|-27.0667|Praia da Vitória
-39.4667|-8.3500|Praia do Ribatejo
-38.7089|-9.1689|Prazeres
-38.7919|-9.1208|Prior Velho
-39.7570|-7.9260|Proença-a-Nova
-40.9125|-7.3419|Prova
-40.3247|-6.9983|Quadrazais
-37.0695|-8.1006|Quarteira
-38.7224|-9.2659|Queijas
-40.7360|-7.4500|Queiriz
-37.0600|-7.8216|Quelfes
-38.7566|-9.2545|Queluz
-40.8819|-7.0831|Quintã de Pêro Martins
-38.5675|-8.9423|Quinta do Anjo
-38.5653|-9.0432|Quinta Do Conde
-40.3714|-7.0986|Quintas de São Bartolomeu
-40.8625|-7.2494|Rabaçal
-37.8102|-25.5826|Rabo de Peixe
-38.8036|-9.1911|Ramada
-39.1447|-9.2322|Ramalhal
-40.4778|-7.2589|Ramela
-40.9953|-7.3294|Ranhados
-40.5842|-7.3456|Rapa
-40.4211|-7.0475|Rapoula do Côa
-40.6403|-7.3536|Ratoeira
-41.5584|-8.4433|Real
-38.7508|-9.2303|Reboleira
-40.8325|-7.4189|Reboleiro
-40.4236|-6.9111|Rebolosa
-41.2240|-8.4067|Rebordosa
-41.3551|-8.4236|Rebordões
-41.1536|-8.4118|Recarei
-38.5801|-7.5966|Redondo
-41.5132|-7.9952|Refojos de Basto
-39.2872|-9.2147|Reguengo Grande
-38.4253|-7.5349|Reguengos de Monsaraz
-40.8044|-6.9481|Reigada
-37.7527|-25.7185|Relva
-40.3797|-7.0444|Rendo
-41.6290|-8.4086|Rendufe
-41.0769|-7.9512|Resende
-39.4447|-8.5142|Riachos
-41.3965|-8.3869|Riba de Ave
-39.0619|-9.0947|Ribafria
-39.2025|-9.3325|Ribamar
-40.5681|-7.5814|Ribamondego
-32.6748|-17.0629|Ribeira Brava
-40.2050|-8.4793|Ribeira de Frades
-41.5102|-7.7967|Ribeira de Pena
-40.6214|-7.1422|Ribeira Dos Carinhos
-38.5167|-28.7000|Ribeira Grande
-41.3608|-8.5677|Ribeirão
-37.8167|-25.5333|Ribeira Seca
-38.6620|-27.1809|Ribeirinha
-40.6660|-7.8778|Rio de Loba
-40.8078|-7.3936|Rio de Mel
-38.7689|-9.3327|Rio de Mouro
-39.3429|-8.9381|Rio Maior
-41.4042|-8.6799|Rio Mau
-40.9577|-8.5782|Rio Meão
-41.1787|-8.5595|Rio Tinto
-40.5092|-7.6569|Rio Torto
-40.5164|-7.0933|Rochoso
-41.4415|-8.3841|Ronfe
-38.6773|-9.0084|Rosairinho
-37.7661|-25.6229|Rosto de Cão
-39.0653|-9.2089|Runa
-40.4150|-7.0106|Ruvina
-41.2670|-7.5760|Sabrosa
-40.3500|-7.0833|Sabugal
-40.4019|-7.6397|Sabugueiro
-38.7944|-9.1053|Sacavém
-38.7122|-9.1400|Sacramento
-40.6369|-7.0689|Safurdão
-37.0086|-8.9431|Sagres
-40.5744|-7.4225|Salgueirais
-39.4319|-9.0948|Salir de Matos
-40.7397|-8.5572|Salreu
-37.9377|-7.7745|Salvada
-39.0448|-8.6890|Salvaterra de Magos
-40.4344|-7.7761|Sameice
-40.4092|-7.4900|Sameiro
-41.7763|-6.7570|Samil
-38.9371|-8.8718|Samora Correia
-38.7204|-9.0047|Samouco
-41.7019|-8.3925|Sande
-41.0351|-8.5070|Sandim
-40.3581|-7.7828|Sandomil
-40.9298|-8.5256|Sanfins
-40.4868|-8.4697|Sangalhos
-38.6961|-27.3391|Santa Bárbara
-37.1062|-7.9665|Santa Bárbara de Nexe
-38.7114|-9.1481|Santa Catarina
-39.6796|-8.6868|Santa Catarina da Serra
-40.1998|-8.4402|Santa Clara
-40.4506|-7.7147|Santa Comba
-40.4044|-8.1138|Santa Comba Dão
-32.6881|-16.7939|Santa Cruz
-39.0495|-28.0043|Santa Cruz da Graciosa
-39.4698|-31.1851|Santa Cruz das Flores
-41.2146|-8.6741|Santa Cruz do Bispo
-38.7192|-9.1197|Santa Engrácia
-40.7983|-7.1808|Santa Eufémia
-40.4144|-7.7872|Santa Eulália
-38.8463|-9.0875|Santa Iria da Azóia
-38.8464|-9.0881|Santa Iria de Azoia
-38.7186|-9.1583|Santa Isabel
-38.7156|-9.1364|Santa Justa
-37.1022|-7.6620|Santa Luzia
-39.4500|-8.3167|Santa Margarida da Coutada
-40.4239|-7.5214|Santa Maria
-40.9604|-8.5154|Santa Maria da Feira
-38.6991|-9.2087|Santa Maria de Belém
-39.1086|-9.2391|Santa Maria do Castelo e São Miguel
-38.7699|-9.1207|Santa Maria dos Olivais
-38.8008|-9.3794|Santa Maria e São Miguel
-40.4503|-7.6633|Santa Marinha
-41.2099|-7.7839|Santa Marta de Penaguião
-32.8000|-16.8833|Santana
-40.4736|-7.2092|Santana da Azinha
-39.2333|-8.6833|Santarém
-40.4239|-7.7292|Santiago
-38.0250|-8.6758|Santiago do Cacém
-38.9417|-9.1036|Santiago dos Velhos
-39.0553|-8.2441|Santo André
-38.8536|-9.1431|Santo Antão do Tojal
-32.6614|-16.9348|Santo António
-38.6256|-9.0304|Santo António da Charneca
-38.8117|-9.1611|Santo António dos Cavaleiros
-40.2180|-8.4052|Santo António dos Olivais
-38.7153|-9.1669|Santo Condestável
-39.0422|-9.0158|Santo Estêvão
-38.8901|-9.2507|Santo Estêvão das Galés
-38.9936|-9.3986|Santo Isidoro
-41.2108|-8.1422|Santo Izidoro
-41.1138|-8.6023|Santo Ovídio
-39.0061|-9.1497|Santo Quintino
-38.7069|-9.1564|Santos-o-Velho
-41.3301|-8.4383|Santo Tirso
-38.6749|-27.2935|São Bartolomeu
-37.2565|-8.2867|São Bartolomeu de Messines
-39.2758|-9.2794|São Bartolomeu dos Galegos
-38.7675|-9.2331|São Brás
-37.1956|-7.8755|São Brás de Alportel
-38.7128|-9.1356|São Cristóvão e São Lourenço
-38.7436|-9.1700|São Domingos de Benfica
-38.7012|-9.3276|São Domingos de Rana
-41.0356|-8.6226|São Félix da Marinha
-38.7072|-9.2172|São Francisco Xavier
-40.8680|-8.6067|São João
-40.9007|-8.4902|São João da Madeira
-41.1480|-7.4049|São João da Pesqueira
-38.8700|-9.4211|São João das Lampas
-38.8258|-9.0922|São João da Talha
-40.3872|-8.0678|São João de Areias
-38.7550|-9.1378|São João de Brito
-38.7403|-9.1378|São João de Deus
-40.9553|-8.5512|São João de Ver
-38.9517|-9.0545|São João Dos Montes
-32.8167|-16.9000|São Jorge
-38.7289|-9.1389|São Jorge de Arroios
-38.7181|-9.1425|São José
-40.4876|-7.5950|São Julião
-38.8581|-9.1356|São Julião do Tojal
-37.7156|-8.6647|São Luis
-38.7202|-9.1530|São Mamede
-41.1918|-8.6111|São Mamede de Infesta
-38.7562|-9.2973|São Marcos
-37.3610|-8.3776|São Marcos da Serra
-40.4431|-7.6719|São Martinho
-40.2102|-8.4569|São Martinho do Bispo
-39.5144|-9.1311|São Martinho do Porto
-38.6563|-27.2693|São Mateus
-38.7111|-9.1294|São Miguel
-40.5556|-7.2461|São Miguel da Guarda
-38.9211|-9.2958|São Miguel de Alcainça
-39.4333|-8.2167|São Miguel de Rio Torto
-41.3317|-8.4619|São Miguel do Couto
-38.7075|-9.1367|São Nicolau
-40.5153|-7.5822|São Paio
-38.7076|-9.1471|São Paulo
-40.2468|-8.3940|São Paulo de Frades
-40.6322|-7.3814|São Pedro
-39.0697|-9.3717|São Pedro da Cadeira
-41.1433|-8.5003|São Pedro da Cova
-40.3004|-8.1662|São Pedro de Alva
-38.7695|-9.3896|São Pedro de Penaferrim
-40.6619|-6.8392|São Pedro de Rio Seco
-40.8007|-8.0902|São Pedro do Sul
-40.4019|-7.7169|São Romão
-41.2854|-8.5632|São Romão do Coronado
-37.7542|-25.6413|São Roque
-38.5163|-28.3075|São Roque do Pico
-38.6658|-27.0898|São Sebastião
-38.7308|-9.1492|São Sebastião da Pedreira
-37.5128|-8.7071|São Teotónio
-41.2000|-8.6333|São Tiago de Custoias
-37.8183|-25.6658|São Vicente
-38.7158|-9.1242|São Vicente de Fora
-39.3495|-8.6222|São Vicente do Paul
-38.9719|-9.2020|Sapataria
-39.5564|-8.1432|Sardoal
-38.6818|-8.9823|Sarilhos Pequenos
-40.7625|-7.6760|Sátão
-40.3489|-7.7353|Sazes da Beira
-40.5386|-7.2692|Sé
-41.0522|-7.2697|Sebadelhe
-40.8711|-7.3983|Sebadelhe da Serra
-40.4203|-7.7033|Seia
-38.6117|-9.1037|Seixal
-41.1120|-7.2525|Seixas
-40.4631|-7.0267|Seixo do Côa
-41.4194|-8.3460|Selho
-41.5544|-8.4628|Semelhe
-41.3874|-6.4262|Sendim
-41.1864|-8.6517|Senhora da Hora
-37.0877|-8.7265|Senhora da Luz
-37.8333|-25.1500|Senhora do Rosário
-40.5536|-7.2258|Sequeira
-40.8371|-7.4980|Sequeiros
-41.0471|-8.5845|Sermonde
-40.9210|-7.5123|Sernancelhe
-41.2651|-8.4289|Seroa
-37.9520|-7.4753|Serpa
-39.3329|-9.2684|Serra de El-Rei
-39.8021|-8.0959|Sertã
-41.4013|-8.3689|Serzedelo
-41.4050|-8.2293|Serzedo
-38.4949|-9.1201|Sesimbra
-38.7413|-9.1613|Sete Rios
-38.5244|-8.8882|Setúbal
-40.7316|-8.3549|Sever do Vouga
-40.9920|-8.6257|Silvalde
-39.1111|-9.3642|Silveira
-37.2034|-8.3347|Silves
-37.9562|-8.8698|Sines
-38.8355|-9.3522|Sintra
-41.2104|-8.4549|Sobrado
-38.9983|-9.3292|Sobral da Abelheira
-40.6192|-7.2797|Sobral da Serra
-39.0167|-9.1500|Sobral de Monte Agraço
-38.9175|-9.0261|Sobralinho
-40.6907|-7.4560|Sobral Pichorro
-38.6496|-9.1898|Sobreda
-41.5237|-7.8023|Sobreira
-38.7167|-9.1344|Socorro
-40.3314|-7.2114|Sortelha
-40.0599|-8.6260|Soure
-40.7450|-7.1247|Souro Pires
-38.9669|-7.7179|Sousel
-40.9850|-8.6219|Souto
-39.8487|-8.8351|Souto da Carpalhosa
-40.8107|-7.4924|Souto de Aguiar da Beira
-40.7969|-7.3141|Souto Maior
-40.3621|-8.0294|Tábua
-41.0956|-7.5674|Tabuaço
-40.7617|-7.3156|Tamanhos
-41.0265|-7.7500|Tarouca
-40.1669|-8.8457|Tavarede
-37.1273|-7.6486|Tavira
-41.4825|-8.4840|Tebosa
-40.2533|-7.7417|Teixeira
-40.3145|-7.4576|Teixoso
-41.3105|-8.1110|Telões
-41.7391|-8.1911|Terras de Bouro
-40.8661|-7.3542|Terrenho
-38.8511|-9.3747|Terrugem
-40.3131|-8.7534|Tocha
-39.6020|-8.4092|Tomar
-40.5405|-8.1004|Tondela
-41.1745|-7.0536|Torre de Moncorvo
-40.8889|-7.3594|Torre do Terrenho
-40.7483|-7.3192|Torres
-39.4916|-8.5480|Torres Novas
-39.0833|-9.2667|Torres Vedras
-40.3861|-7.7603|Torrozelo
-41.0472|-7.2339|Touça
-40.4714|-7.7508|Tourais
-38.6722|-9.2327|Trafaria
-39.4500|-8.2500|Tramagal
-40.7833|-7.3500|Trancoso
-40.3236|-8.1869|Travanca
-40.4223|-7.8217|Travancinha
-40.4325|-8.0943|Treixedo
-39.0699|-8.9866|Triana
-40.5044|-7.3553|Trinta
-41.3065|-8.5764|Trofa
-37.1659|-8.2592|Tunes
-39.0358|-9.2602|Turcifal
-39.4641|-8.9774|Turquel
-38.8258|-9.1214|Unhos
-41.4272|-8.2980|Urgeses
-40.4994|-8.6783|Vagos
-41.3329|-8.6666|Vairão
-41.1474|-7.9812|Valadares
-39.5843|-9.0229|Valado de Frades
-40.7806|-7.1289|Valbom
-40.8450|-7.2669|Valdujo
-39.0697|-7.6985|Vale da Amoreira
-40.7036|-6.8236|Vale da Mula
-40.4142|-7.4414|Vale de Amoreira
-40.6049|-7.3642|Vale de Azares
-40.8450|-8.3602|Vale de Cambra
-40.2969|-6.9506|Vale de Espinho
-40.4994|-7.3078|Vale de Estrela
-39.3057|-8.6288|Vale de Figueira
-39.1905|-8.7273|Vale de Santarém
-39.1156|-8.8858|Vale do Paraíso
-40.7929|-7.2727|Vale do Seixo
-40.9128|-7.2822|Vale Flor
-40.8363|-8.5806|Válega
-42.0282|-8.6339|Valença
-40.3589|-7.7083|Valezim
-40.4072|-7.4031|Valhelhas
-40.6167|-8.4500|Valongo
-41.6208|-7.3361|Valpaços
-40.7842|-7.5219|Valverde
-41.5151|-8.5840|Várzea
-40.3953|-7.7836|Várzea de Meruge
-40.7342|-7.0697|Vascoveiro
-40.4359|-7.3037|Vela
-38.6799|-28.1516|Velas
-40.6525|-7.2900|Velosa
-38.9253|-9.2322|Venda do Pinheiro
-38.7542|-9.2145|Venda Nova
-38.6397|-8.5470|Vendas Novas
-38.7594|-9.2411|Venteira
-39.1269|-9.0842|Ventosa
-39.2728|-9.1056|Vermelha
-40.8272|-6.8775|Vermiosa
-41.2431|-8.6065|Vermoim
-39.5527|-8.9979|Vestiaria
-38.8709|-9.0682|Vialonga
-38.3364|-8.0001|Viana do Alentejo
-41.6937|-8.8346|Viana do Castelo
-39.3689|-9.0492|Vidais
-40.2944|-7.7842|Vide
-40.5972|-7.4042|Vide Entre Vinhas
-40.5139|-7.3900|Videmonte
-38.1845|-7.7447|Vidigueira
-39.8695|-8.9324|Vieira de Leiria
-41.6356|-8.1324|Vieira do Minho
-40.3831|-7.0039|Vila Boa
-40.6269|-7.4378|Vila Boa do Mondego
-41.5179|-8.4836|Vilaça
-40.8667|-8.4667|Vila Chã
-39.1722|-8.7666|Vila Chã de Ourique
-40.5508|-7.5294|Vila Cortês da Serra
-40.6059|-7.3124|Vila Cortês do Mondego
-41.5511|-8.7165|Vila Cova
-40.3833|-7.7342|Vila Cova à Coelheira
-39.7069|-8.1284|Vila de Rei
-37.0832|-8.9114|Vila do Bispo
-41.3533|-8.7452|Vila do Conde
-36.9745|-25.0997|Vila do Porto
-40.4164|-7.1056|Vila do Touro
-40.4947|-7.1544|Vila Fernando
-41.3143|-7.1507|Vila Flor
-40.5872|-7.5394|Vila Franca da Serra
-40.7239|-7.2621|Vila Franca das Naves
-38.9500|-8.9833|Vila Franca de Xira
-37.7167|-25.4333|Vila Franca do Campo
-40.6528|-7.2422|Vila Franca do Deão
-38.9747|-9.2561|Vila Franca do Rosário
-41.5385|-8.6397|Vila Frescainha
-40.7941|-7.2332|Vila Garcia
-41.2512|-8.1840|Vila Meã
-37.0873|-8.1170|Vilamoura
-39.4608|-8.4359|Vila Nova da Barquinha
-39.0372|-8.9336|Vila Nova da Rainha
-41.0717|-8.6415|Vila Nova da Telha
-37.1739|-7.5317|Vila Nova De Cacela
-41.4080|-8.5198|Vila Nova de Famalicão
-41.0833|-7.1333|Vila Nova de Foz Côa
-41.1240|-8.6124|Vila Nova de Gaia
-37.7238|-8.7828|Vila Nova de Milfontes
-40.8659|-7.7613|Vila Nova de Paiva
-40.2213|-8.2410|Vila Nova de Poiares
-39.2198|-8.8404|Vila Nova de São Pedro
-40.5025|-7.7031|Vila Nova de Tazem
-41.5208|-7.6367|Vila Pouca de Aguiar
-39.1867|-9.1069|Vilar
-40.9464|-7.0016|Vilar de Amargo
-41.1057|-8.5862|Vilar de Andorinho
-41.4755|-8.6538|Vilar de Figos
-41.0897|-8.6211|Vilar do Paraíso
-41.3002|-7.7398|Vila Real
-37.1923|-7.4254|Vila Real de Santo António
-40.7206|-7.2835|Vilares
-40.6138|-6.8349|Vilar Formoso
-41.3595|-8.3312|Vilarinho
-40.4847|-6.9200|Vilar Maior
-40.8256|-6.9519|Vilar Torpim
-40.5694|-7.5142|Vila Ruiva
-41.5003|-8.6852|Vila Seca
-40.6104|-7.4820|Vila Soeiro do Chão
-39.6871|-7.6599|Vila Velha de Ródão
-41.6487|-8.4363|Vila Verde
-39.1544|-9.1133|Vila Verde dos Francos
-38.7879|-7.4185|Vila Viçosa
-41.2251|-7.6034|Vilela
-39.1778|-9.3178|Vimeiro
-41.5729|-6.5209|Vimioso
-41.8351|-7.0050|Vinhais
-40.4958|-7.6269|Vinhó
-40.6745|-7.9172|Viseu
-41.3753|-8.2931|Vizela
-40.6894|-8.1136|Vouzela
-37.5280|-8.7848|Zambujeira do Mar
+39.4667|-8.2000|Abrantes|Santarém|13646|
+40.6814|-7.9210|Abraveses|Viseu|9319|
+39.1442|-9.0185|Abrigada|Lisbon|3416|
+40.6450|-7.3053|Açores|Guarda|0|
+40.4592|-7.1650|Adão|Guarda|0|
+41.5873|-8.3982|Adaúfe|Braga|3850|
+39.1524|-9.2972|A dos Cunhados|Lisbon|6594|
+39.3227|-9.0474|A dos Francos|Leiria|1701|
+41.1439|-8.6464|Afurada de Baixo|Porto|34332|
+40.5229|-8.4270|Aguada de Cima|Aveiro|4388|
+37.7214|-25.5117|Água de Pau|Açores|3058|
+32.7014|-16.7787|Água de Pena|Madeira|2434|
+41.2497|-8.4929|Água Longa|Porto|2207|
+38.7700|-9.2988|Agualva|Guarda|0|
+40.3747|-7.1669|Águas Belas|Guarda|0|
+41.2102|-8.5760|Águas Santas|Porto|27686|
+41.4312|-8.7784|Aguçadoura|Porto|4521|
+40.5772|-8.4444|Águeda|Aveiro|11941|
+40.8173|-7.5443|Aguiar da Beira|Guarda|5473|
+38.7075|-9.1983|Ajuda|Guarda|14306|
+38.6292|-7.3660|Alandroal|Évora|0|
+40.5115|-7.1303|Albardo|Guarda|0|
+40.6871|-8.5040|Albergaria-a-Velha|Aveiro|7974|
+37.0882|-8.2503|Albufeira|Faro|15851|
+38.7336|-9.4092|Alcabideche|Guarda|33315|
+38.7337|-9.4093|Alcabideche|Lisbon|33315|
+38.3733|-8.5144|Alcácer do Sal|Setúbal|9198|
+39.9154|-7.4611|Alcains|Guarda|4616|
+39.4150|-8.8219|Alcanede|Santarém|5020|
+39.4590|-8.6689|Alcanena|Santarém|4408|
+39.2960|-8.6585|Alcanhões|Santarém|1469|
+38.7064|-9.1742|Alcântara|Guarda|20267|
+37.1304|-8.3462|Alcantarilha|Faro|4972|
+39.5522|-8.9775|Alcobaça|Leiria|15800|
+38.7383|-8.9794|Alcochete|Setúbal|9705|
+39.2086|-8.9594|Alcoentre|Guarda|3923|
+39.2086|-8.9595|Alcoentre|Lisbon|3923|
+37.4240|-7.6546|Alcoutim|Faro|0|
+40.4135|-6.8691|Aldeia da Ponte|Guarda|0|
+40.4567|-6.8978|Aldeia da Ribeira|Guarda|0|
+40.1390|-7.5169|Aldeia de Joanes|Castelo Branco|1333|
+38.6167|-9.0833|Aldeia de Paio Pires|Setúbal|12179|
+40.3431|-7.1364|Aldeia de Santo António|Guarda|0|
+40.3233|-6.8481|Aldeia do Bispo|Guarda|0|
+39.0822|-9.1119|Aldeia Galega da Merceana|Guarda|0|
+39.0844|-9.0964|Aldeia Gavinha|Guarda|0|
+37.9260|-7.4080|Aldeia Nova de São Bento|Beja|0|
+40.7258|-7.4238|Aldeia Nova Miranda do Douro|Guarda|0|
+40.4686|-7.5981|Aldeias|Guarda|0|
+40.3433|-6.8675|Aldeia Velha|Guarda|0|
+40.5789|-7.3178|Aldeia Viçosa|Guarda|0|
+41.1671|-8.6691|Aldoar|Porto|29085|
+39.0500|-9.0167|Alenquer|Guarda|9626|
+39.0532|-9.0093|Alenquer|Lisbon|9626|
+40.3911|-6.9133|Alfaiates|Guarda|0|
+41.3432|-6.9611|Alfândega da Fé|Bragança|0|
+40.1506|-8.6533|Alfarelos|Coimbra|1439|
+39.4997|-9.1034|Alfeizerão|Leiria|3854|
+41.2367|-8.5245|Alfena|Porto|15211|
+39.4833|-8.1667|Alferrarede|Santarém|3654|
+38.7633|-9.2064|Alfornelos|Guarda|27093|
+38.7318|-9.2157|Alfragide|Lisbon|17044|
+38.6995|-9.2293|Algés|Guarda|19327|
+38.7024|-9.2294|Algés|Lisbon|19327|
+40.9525|-7.0547|Algodres|Guarda|0|
+37.1630|-8.3036|Algoz|Faro|2946|
+39.2758|-9.0189|Alguber|Guarda|833|
+38.8024|-9.3418|Algueirão|Lisbon|66250|
+38.7941|-9.3451|Algueirão–Mem Martins|Guarda|0|
+40.1861|-8.7906|Alhadas|Coimbra|3768|
+38.9239|-9.0114|Alhandra|Lisbon|7226|
+38.6549|-9.0237|Alhos Vedros|Setúbal|13384|
+41.2845|-7.4855|Alijó|Vila Real|11942|
+37.3175|-8.8015|Aljezur|Faro|5884|
+39.5671|-8.9292|Aljubarrota|Leiria|6146|
+37.8776|-8.1652|Aljustrel|Beja|5334|
+38.6790|-9.1569|Almada|Setúbal|34008|
+37.0869|-8.0307|Almancil|Faro|11291|
+38.8447|-9.2731|Almargem|Guarda|8271|
+38.8449|-9.2731|Almargem|Lisbon|8271|
+38.8475|-9.2714|Almargem do Bispo|Guarda|0|
+40.7307|-6.9059|Almeida|Guarda|0|
+39.2084|-8.6264|Almeirim|Santarém|11557|
+40.9928|-7.0576|Almendra|Guarda|0|
+37.4959|-8.0937|Almodôvar|Beja|7449|
+40.8603|-6.8486|Almofala|Guarda|0|
+37.6566|-8.7921|Almograve|Beja|1356|
+41.0894|-8.2464|Alpendurada|Porto|8485|
+39.2571|-8.5819|Alpiarça|Santarém|7946|
+39.2310|-7.7443|Alter do Chão|Portalegre|2600|
+38.7403|-9.1281|Alto do Pina|Guarda|0|
+37.1756|-7.5006|Altura|Faro|2195|
+39.8195|-8.3886|Alvaiázere|Leiria|0|
+38.7469|-9.1361|Alvalade|Guarda|31813|
+38.7533|-9.1440|Alvalade|Lisbon|31813|
+40.5850|-7.2583|Alvendre|Guarda|0|
+40.7006|-7.2175|Alverca da Beira|Guarda|0|
+38.8987|-9.0395|Alverca do Ribatejo|Guarda|0|
+38.2465|-8.0504|Alvito|Beja|2504|
+40.2956|-7.6703|Alvoco da Serra|Guarda|0|
+37.1299|-8.5917|Alvor|Faro|5272|
+39.3822|-9.0367|Alvorninha|Leiria|2987|
+38.7500|-9.2333|Amadora|Guarda|178858|
+38.7538|-9.2308|Amadora|Lisbon|178858|
+41.2727|-8.0824|Amarante|Porto|6782|
+41.6472|-8.3556|Amares|Braga|0|
+38.7878|-9.1525|Ameixoeira|Guarda|0|
+39.4430|-8.7336|Amiães de Baixo|Santarém|1851|
+39.8040|-8.8598|Amor|Leiria|4870|
+38.6296|-9.1156|Amora|Setúbal|52577|
+40.5881|-7.0156|Amoreira|Guarda|0|
+41.4050|-8.7505|Amorim|Porto|2856|
+40.4384|-8.4335|Anadia|Aveiro|0|
+40.2716|-8.5209|Ançã|Coimbra|2625|
+38.6548|-27.2173|Angra do Heroísmo|Açores|12045|
+38.5255|-28.6313|Angústias|Açores|2418|
+38.7239|-9.1364|Anjos|Guarda|9361|
+39.9342|-8.4205|Ansião|Leiria|1357|
+41.2663|-8.6284|Anta|Porto|10951|
+38.8150|-9.1325|Apelação|Guarda|7182|
+38.8139|-9.1323|Apelação|Lisbon|7182|
+41.4851|-8.7641|Apúlia|Braga|4394|
+41.5119|-8.7729|Apúlia e Fão|Braga|7301|
+40.6208|-8.6419|Aradas|Aveiro|10087|
+40.2863|-8.6500|Arazede|Coimbra|5906|
+32.7150|-17.1497|Arco da Calheta|Madeira|3241|
+40.4478|-8.4417|Arcos|Aveiro|6725|
+41.5219|-8.4215|Arcos|Braga|6805|
+41.8467|-8.4191|Arcos de Valdevez|Viana do Castelo|22847|
+40.5406|-7.6272|Arcozelo|Guarda|0|
+41.0619|-8.6319|Arcozelo|Porto|14352|
+38.7410|-9.1380|Areeiro|Lisbon|21160|
+40.2183|-8.0540|Arganil|Coimbra|11596|
+41.3774|-8.7299|Argivai|Porto|2187|
+41.0254|-8.5389|Argoncilhe|Aveiro|8743|
+37.1026|-8.3569|Armação de Pêra|Faro|6003|
+41.0972|-7.6855|Armamar|Viseu|0|
+40.9266|-8.2725|Arouca|Aveiro|21146|
+38.7677|-7.9583|Arraiolos|Évora|0|
+38.9537|-9.1350|Arranhó|Guarda|2531|
+38.9538|-9.1347|Arranhó|Lisbon|2531|
+38.6250|-9.1015|Arrentela|Setúbal|30156|
+40.9156|-8.4966|Arrifana|Aveiro|6927|
+40.5697|-7.2103|Arrifana|Guarda|0|
+37.7667|-25.7000|Arrifes|Açores|6981|
+39.1224|-7.2862|Arronches|Portalegre|3165|
+38.9830|-9.0776|Arruda dos Vinhos|Lisbon|6170|
+41.3392|-8.7181|Árvore|Porto|5196|
+41.4555|-8.2142|Arões|Braga|4855|
+40.1589|-8.4317|Assafarge|Coimbra|5302|
+40.6600|-7.0331|Atalaia|Guarda|0|
+39.4555|-7.8730|Atalaia|Portalegre|1747|
+39.3381|-9.3263|Atouguia da Baleia|Leiria|8313|
+40.8077|-8.5722|Avanca|Aveiro|6540|
+39.1114|-8.8692|Aveiras de Baixo|Guarda|0|
+39.1377|-8.9000|Aveiras de Cima|Guarda|4615|
+39.1380|-8.8993|Aveiras de Cima|Lisbon|4615|
+40.6443|-8.6455|Aveiro|Aveiro|80880|
+40.6777|-7.2149|Avelãs da Ribeira|Guarda|0|
+41.5211|-8.4668|Aveleda|Braga|6671|
+40.9311|-7.3167|Aveloso|Guarda|0|
+41.4061|-8.7796|Aver-o-Mar|Porto|10501|
+41.3703|-8.4101|Aves|Porto|8507|
+41.1071|-8.5513|Avintes|Porto|11577|
+39.0645|-7.8956|Avis|Portalegre|4571|
+39.0667|-8.8667|Azambuja|Guarda|21422|
+39.0703|-8.8682|Azambuja|Lisbon|21422|
+39.0703|-8.8683|Azambuja (town)|Guarda|0|
+38.5192|-9.0139|Azeitão|Setúbal|18877|
+41.0765|-8.6247|Azenha|Porto|12260|
+38.8406|-9.4600|Azenhas do Mar|Guarda|800|
+40.8517|-7.1314|Azevo|Guarda|0|
+39.3488|-8.5300|Azinhaga|Santarém|1620|
+39.0065|-9.2747|Azueira|Guarda|4434|
+41.1920|-8.5412|Baguim do Monte|Porto|15850|
+41.1638|-8.0358|Baião|Porto|20522|
+41.5432|-8.4072|Bairro Novo|Braga|32876|
+41.4044|-8.6239|Balazar|Porto|2543|
+41.1927|-8.3877|Baltar|Porto|4929|
+40.3936|-7.0852|Baraçal|Guarda|0|
+38.7325|-9.2800|Barcarena|Guarda|11968|
+41.5317|-8.6184|Barcelos|Braga|19085|
+41.4911|-8.7319|Barqueiros|Braga|1957|
+38.1345|-6.9760|Barrancos|Beja|0|
+40.9111|-7.1864|Barreira|Guarda|0|
+38.6631|-9.0724|Barreiro|Setúbal|51280|
+41.3553|-8.2994|Barrosas|Porto|5573|
+39.6602|-8.8247|Batalha|Leiria|7910|
+38.7347|-9.1058|Beato|Guarda|0|
+38.7333|-9.1034|Beato António|Lisbon|12737|
+40.7643|-8.5611|Beduido|Aveiro|8201|
+41.3973|-8.7239|Beiriz de Baixo|Porto|3229|
+38.0151|-7.8632|Beja|Beja|34760|
+38.7667|-9.2667|Belas|Guarda|21019|
+38.7767|-9.2635|Belas|Lisbon|21019|
+38.6987|-9.1929|Belém|Lisbon|16546|
+40.3618|-7.3516|Belmonte|Castelo Branco|0|
+41.2470|-7.2759|Belver|Bragança|1100|
+39.1433|-8.6872|Bemfica|Santarém|3067|
+38.9080|-8.7690|Benavente|Santarém|8932|
+40.3708|-7.2547|Bendada|Guarda|0|
+39.4247|-8.9700|Benedita|Leiria|8556|
+40.4403|-7.2764|Benespera|Guarda|0|
+38.7511|-9.2022|Benfica|Guarda|36985|
+38.7509|-9.2028|Benfica|Lisbon|36985|
+37.1558|-8.7352|Bensafrim|Faro|2004|
+38.0566|-7.9843|Beringel|Beja|1301|
+38.7833|-27.2500|Biscoitos|Açores|1425|
+40.4469|-6.9644|Bismula|Guarda|0|
+32.8185|-16.9727|Boaventura|Madeira|1221|
+37.5806|-8.6644|Boavista dos Pinheiros|Beja|1633|
+38.8066|-9.0973|Bobadela|Guarda|8399|
+38.8077|-9.0992|Bobadela|Lisbon|8399|
+37.1372|-8.1582|Boliqueime|Faro|4470|
+39.2672|-9.1579|Bombarral|Leiria|5852|
+41.1542|-8.5869|Bomfim|Porto|22978|
+38.8055|-7.4546|Borba|Évora|4586|
+41.6894|-7.6691|Boticas|Vila Real|5750|
+40.7046|-7.2383|Bouça Cova|Guarda|0|
+41.3398|-8.5518|Bougado|Porto|21680|
+41.5503|-8.4200|Braga|Braga|193324|
+41.7561|-6.7553|Bragança|Bragança|35341|
+40.7665|-8.4826|Branca|Aveiro|5632|
+38.7661|-9.2144|Brandoa|Guarda|0|
+41.4582|-8.3610|Brito|Braga|5051|
+40.1660|-8.8768|Buarcos|Coimbra|7865|
+38.9000|-9.1167|Bucelas|Guarda|4614|
+38.9019|-9.1189|Bucelas|Lisbon|4614|
+38.7422|-9.2094|Buraca|Guarda|16081|
+37.1352|-7.6005|Cabanas de Tavira|Faro|1181|
+39.1563|-9.0633|Cabanas de Torres|Guarda|1018|
+39.1558|-9.0659|Cabanas de Torres|Lisbon|1018|
+40.4766|-7.9745|Cabanas de Viriato|Viseu|1533|
+40.3192|-7.7353|Cabeça|Guarda|0|
+37.9240|-7.7929|Cabeça Gorda|Beja|1386|
+41.5208|-7.9720|Cabeceiras de Basto|Braga|16710|
+37.7667|-25.5667|Cabouco|Açores|1921|
+38.7704|-9.3081|Cacem|Guarda|93982|
+38.7670|-9.2979|Cacém|Lisbon|93982|
+38.9858|-9.0164|Cachoeiras|Guarda|0|
+38.6864|-9.1494|Cacilhas|Setúbal|6494|
+39.0044|-9.0042|Cadafais|Guarda|1687|
+39.0046|-9.0042|Cadafais|Lisbon|1687|
+40.5847|-7.3619|Cadafaz|Guarda|0|
+38.1586|-6.9698|Cadaval|Guarda|0|
+39.2429|-9.1027|Cadaval|Lisbon|14228|
+38.5253|-28.3207|Cais do Pico|Açores|3388|
+39.4033|-9.1384|Caldas da Rainha|Leiria|27378|
+41.4847|-8.3485|Caldas das Taipas|Braga|0|
+41.3821|-8.3089|Caldas de Vizela|Braga|10239|
+41.6710|-8.3815|Caldelas|Braga|5724|
+41.4036|-8.5297|Calendário|Braga|11357|
+38.9250|-9.0678|Calhandriz|Guarda|0|
+38.6019|-28.0179|Calheta|Açores|3773|
+32.7167|-17.1833|Calheta|Madeira|1618|
+38.5977|-27.9146|Calheta de São Jorge|Açores|0|
+32.6792|-16.8446|Camacha|Madeira|5149|
+32.6504|-16.9772|Câmara de Lobos|Madeira|32209|
+38.7980|-9.1378|Camarate|Lisbon|20177|
+41.8465|-8.8013|Caminha|Viana do Castelo|0|
+32.6658|-17.0358|Campanário|Madeira|3987|
+41.1571|-8.5747|Campanhã|Porto|29666|
+39.2000|-9.2333|Campelos|Guarda|3667|
+39.1968|-9.2352|Campelos|Lisbon|3667|
+41.1852|-8.4649|Campo|Porto|8916|
+40.7109|-7.9145|Campo|Viseu|4551|
+40.5566|-8.1343|Campo de Besteiros|Viseu|1474|
+38.7213|-9.1674|Campo De Ourique|Lisbon|22140|
+38.7569|-9.1536|Campo Grande|Guarda|15514|
+38.7264|-9.1633|Campolide|Guarda|14787|
+39.0294|-7.0648|Campo Maior|Portalegre|8235|
+40.5001|-7.8987|Canas de Senhorim|Viseu|3509|
+41.4277|-8.3217|Candoso|Braga|3893|
+38.8167|-9.2333|Caneças|Guarda|10978|
+38.8132|-9.2268|Caneças|Lisbon|10978|
+41.0833|-8.6000|Canelas|Porto|14247|
+32.6947|-17.0987|Canhas|Madeira|3769|
+32.7383|-16.7384|Caniçal|Madeira|3893|
+32.6508|-16.8375|Caniço|Madeira|23368|
+41.1231|-8.6465|Canidelo|Porto|26431|
+40.3635|-8.6055|Cantanhede|Coimbra|7347|
+38.6618|-9.2003|Caparica|Setúbal|21167|
+39.7462|-8.7074|Caranguejeira|Leiria|5248|
+40.2062|-8.6481|Carapinheira|Coimbra|2898|
+40.7676|-7.4545|Carapito|Guarda|0|
+38.6922|-9.3333|Carcavelos|Guarda|20366|
+38.6910|-9.3222|Carcavelos|Lisbon|20366|
+38.9772|-9.0408|Cardosas|Guarda|0|
+39.0578|-9.1342|Carmões|Guarda|0|
+38.7267|-9.2417|Carnaxide|Guarda|23698|
+38.7271|-9.2467|Carnaxide|Lisbon|23698|
+40.7333|-7.3183|Carnicães|Guarda|0|
+38.7608|-9.1836|Carnide|Guarda|18028|
+39.0336|-9.0717|Carnota|Guarda|0|
+40.4057|-7.7608|Carragozela|Guarda|0|
+40.5619|-7.4869|Carrapichana|Guarda|0|
+41.2425|-7.3072|Carrazeda de Anciães|Bragança|6373|
+41.2342|-7.3113|Carrazeda de Ansiães|Bragança|0|
+39.0233|-8.9645|Carregado|Guarda|10474|
+39.0236|-8.9769|Carregado|Lisbon|10474|
+40.4501|-7.9982|Carregal do Sal|Viseu|5600|
+39.1538|-8.8137|Cartaxo|Santarém|10502|
+40.8836|-7.2836|Carvalhal|Guarda|0|
+41.3006|-8.3608|Carvalhosa|Porto|4502|
+39.0806|-9.1622|Carvoeira|Guarda|0|
+37.0974|-8.4685|Carvoeiro|Faro|10141|
+38.8024|-9.2319|Casal de Cambra|Guarda|0|
+40.5442|-7.1642|Casal de Cinza|Guarda|0|
+40.6379|-7.5554|Casal Vasco|Guarda|0|
+40.6189|-7.4064|Casas do Soeiro|Guarda|0|
+38.6969|-9.4204|Cascais|Lisbon|36436|
+40.5747|-7.0794|Castanheira|Guarda|0|
+40.0072|-8.2105|Castanheira de Pêra|Leiria|3331|
+38.9833|-8.9667|Castanheira do Ribatejo|Guarda|7651|
+38.9930|-8.9735|Castanheira do Ribatejo|Lisbon|7651|
+40.8808|-7.3258|Casteição|Guarda|0|
+40.3022|-7.2317|Casteleiro|Guarda|0|
+38.7136|-9.1333|Castelo (Lisbon)|Guarda|0|
+40.6203|-6.9006|Castelo Bom|Guarda|0|
+38.5220|-28.7137|Castelo Branco|Açores|1309|
+39.8222|-7.4909|Castelo Branco|Castelo Branco|33479|
+41.0335|-8.2982|Castelo de Paiva|Aveiro|0|
+39.4162|-7.4568|Castelo de Vide|Portalegre|3780|
+41.0275|-7.0650|Castelo Melhor|Guarda|0|
+40.8756|-6.9639|Castelo Rodrigo|Guarda|0|
+41.2026|-8.3352|Castelões de Cepeda|Porto|8322|
+40.9228|-7.9388|Castro Daire|Viseu|4744|
+37.2587|-7.5073|Castro Marim|Faro|5089|
+37.6983|-8.0858|Castro Verde|Beja|4857|
+40.5308|-7.6819|Cativelos|Guarda|0|
+40.5847|-7.2867|Cavadoude|Guarda|0|
+38.7000|-9.2833|Caxias|Guarda|9007|
+38.7031|-9.2767|Caxias|Lisbon|9007|
+41.0333|-7.3167|Cedovim|Guarda|0|
+39.5408|-9.0345|Cela|Leiria|3264|
+40.6333|-7.4000|Celorico da Beira|Guarda|0|
+41.4028|-8.0335|Celorico de Basto|Braga|0|
+39.2339|-8.9983|Cercal|Guarda|0|
+37.8013|-8.6740|Cercal|Setúbal|3772|
+40.5142|-7.0467|Cerdeira|Guarda|0|
+40.7294|-7.2236|Cerejo|Guarda|0|
+39.2990|-8.3993|Chamusca|Santarém|0|
+38.7853|-9.1450|Charneca|Guarda|10509|
+38.7835|-9.1435|Charneca|Lisbon|10509|
+38.6203|-9.1943|Charneca de Caparica|Setúbal|29763|
+40.9897|-7.1703|Chãs|Guarda|0|
+41.4524|-8.6019|Chavão|Braga|2364|
+41.7396|-7.4503|Chaves|Vila Real|17535|
+38.8897|-9.3289|Cheleiros|Guarda|0|
+38.7520|-9.1592|Cidade Universitária|Lisbon|37000|
+41.0399|-8.1122|Cinfães|Viseu|0|
+40.6511|-7.2050|Codesseiro|Guarda|0|
+40.8128|-7.2614|Cogula|Guarda|0|
+40.2056|-8.4195|Coimbra|Coimbra|140796|
+38.8021|-9.4631|Colares|Guarda|7905|
+38.7992|-9.4469|Colares|Lisbon|7905|
+38.3806|-8.7861|Comporta|Setúbal|1268|
+37.1479|-7.6043|Conceição|Faro|2519|
+40.1064|-8.4963|Condeixa-a-Nova|Coimbra|17078|
+39.4572|-8.3037|Constância|Santarém|993|
+38.7242|-9.1450|Coração de Jesus|Guarda|0|
+40.8620|-7.2037|Coriscada|Guarda|0|
+38.6400|-9.1508|Corroios|Setúbal|52520|
+40.9488|-8.6213|Cortegaça|Aveiro|4139|
+40.7650|-7.5422|Cortiçada|Guarda|0|
+40.6631|-7.4947|Cortiçô|Guarda|0|
+40.6012|-7.4343|Cortiçô da Serra|Guarda|0|
+40.7936|-7.5408|Coruche|Guarda|0|
+38.9595|-8.5274|Coruche|Santarém|8776|
+40.5061|-7.3280|Corujeira|Guarda|0|
+39.6977|-31.1055|Corvo|Açores|0|
+38.6446|-9.2356|Costa de Caparica|Setúbal|14231|
+40.8275|-7.2397|Cótimos|Guarda|0|
+40.2811|-7.5050|Covilhã|Castelo Branco|17610|
+39.2866|-7.6441|Crato|Portalegre|0|
+41.4796|-8.6979|Cristelo|Braga|1875|
+38.7061|-9.2506|Cruz Quebrada - Dafundo|Guarda|0|
+38.2197|-7.9211|Cuba|Beja|4878|
+40.8741|-8.5069|Cucujães|Aveiro|11087|
+32.7203|-16.9699|Curral das Freiras|Madeira|1673|
+41.1053|-7.3208|Custoias|Guarda|19406|
+38.7453|-9.2183|Damaia|Guarda|37607|
+39.0384|-9.1856|Dois Portos|Guarda|0|
+40.7311|-7.5589|Dornelas|Guarda|0|
+40.7733|-7.4900|Eirado|Guarda|0|
+40.2483|-8.4155|Eiras|Coimbra|17154|
+40.6276|-8.5692|Eixo|Aveiro|5978|
+38.8815|-7.1628|Elvas|Portalegre|9904|
+39.0333|-9.3681|Encarnação|Guarda|0|
+39.4667|-8.4667|Entroncamento|Santarém|19887|
+38.9919|-9.2408|Enxara do Bispo|Guarda|0|
+38.9628|-9.4153|Ericeira|Guarda|7538|
+38.9627|-9.4156|Ericeira|Lisbon|7538|
+41.2165|-8.5532|Ermesinde|Porto|39420|
+40.7406|-7.1861|Ervas Tenras|Guarda|0|
+40.8469|-7.1761|Ervedosa|Guarda|0|
+41.1663|-7.4730|Ervedosa do Douro|Viseu|1294|
+40.9494|-6.9261|Escalhão|Guarda|0|
+40.6490|-8.6294|Esgueira|Aveiro|13431|
+40.9577|-8.6275|Esmoriz|Aveiro|11393|
+40.9246|-8.5749|Espargo|Aveiro|1309|
+41.0076|-8.6412|Espinho|Aveiro|32786|
+41.5101|-8.4173|Esporões|Braga|1709|
+41.5361|-8.7820|Esposende|Braga|34625|
+40.7546|-8.5792|Estarreja|Aveiro|0|
+41.4494|-8.7517|Estela|Porto|2307|
+37.0950|-7.8944|Estói|Faro|8331|
+37.1463|-8.4850|Estômbar|Faro|8590|
+38.7096|-9.3901|Estoril|Lisbon|23700|
+32.7370|-17.1867|Estreito da Calheta|Madeira|1630|
+38.8500|-7.6012|Estremoz|Évora|9350|
+38.5667|-7.9000|Évora|Évora|53591|
+41.4684|-8.1586|Fafe|Braga|16868|
+40.5606|-7.3103|Faia|Guarda|0|
+32.7833|-16.8500|Faial|Madeira|1567|
+32.7746|-17.2341|Fajã da Ovelha|Madeira|1016|
+37.7604|-25.6447|Fajã de Baixo|Açores|4915|
+38.7590|-9.2199|Falagueira|Guarda|20788|
+40.4436|-7.3772|Famalicão|Guarda|615|
+39.5364|-9.0831|Famalicão|Leiria|505|
+38.7833|-9.2167|Famões|Guarda|9435|
+38.7880|-9.2103|Famões|Lisbon|9435|
+38.8811|-9.1525|Fanhões|Guarda|2639|
+41.1675|-8.5298|Fânzeres|Porto|23916|
+41.4830|-8.6715|Faria|Braga|2066|
+37.0187|-7.9272|Faro|Faro|70347|
+39.6207|-8.6524|Fátima|Santarém|11798|
+41.2688|-7.5046|Favaios|Vila Real|1064|
+39.1755|-8.5693|Fazendas de Almeirim|Santarém|6635|
+40.9254|-8.5428|Feira|Aveiro|16376|
+41.3477|-8.2081|Felgueiras|Porto|58065|
+37.8513|-25.3241|Fenais da Ajuda|Açores|1131|
+37.8249|-25.6423|Fenais da Luz|Açores|2009|
+40.4869|-7.3553|Fernão Joanes|Guarda|0|
+37.1247|-8.5191|Ferragudo|Faro|1973|
+41.2672|-8.3443|Ferreira|Porto|4205|
+38.0500|-8.0333|Ferreira do Alentejo|Beja|4689|
+39.7230|-8.3166|Ferreira do Zêzere|Santarém|0|
+37.1293|-8.2376|Ferreiras|Faro|7267|
+41.3500|-8.5500|Ferreiros|Braga|3212|
+39.3640|-9.3154|Ferrel|Leiria|2649|
+38.6543|-27.1500|Feteira|Açores|1239|
+40.9945|-8.5254|Fiães|Aveiro|8708|
+40.7331|-7.3731|Fiães|Guarda|0|
+40.1508|-8.8618|Figueira da Foz|Coimbra|46600|
+40.9000|-6.9667|Figueira de Castelo Rodrigo|Guarda|0|
+38.7500|-9.4667|Figueira do Guincho|Guarda|0|
+41.2992|-8.1678|Figueiró|Porto|4579|
+40.6281|-7.4992|Figueiró da Granja|Guarda|0|
+40.5406|-7.4889|Figueiró da Serra|Guarda|0|
+39.9062|-8.2775|Figueiró Dos Vinhos|Leiria|1550|
+39.2795|-9.0508|Figueiros|Guarda|0|
+40.2867|-6.8925|Fóios|Guarda|0|
+40.5094|-7.5139|Folgosinho|Guarda|0|
+40.3794|-7.7847|Folhadosa|Guarda|0|
+38.8500|-9.4333|Fontanelas|Guarda|6001|
+38.8481|-9.4394|Fontanelas|Lisbon|6001|
+38.6920|-27.0794|Fonte Bastardo|Açores|1278|
+41.0131|-7.2336|Fonte Longa|Guarda|0|
+40.7047|-7.5542|Forninhos|Guarda|0|
+40.6167|-7.5333|Fornos de Algodres|Guarda|0|
+40.6733|-7.3978|Forno Telheiro|Guarda|0|
+38.8739|-9.0522|Forte da Casa|Guarda|0|
+39.4367|-9.2137|Foz do Arelho|Leiria|1339|
+41.1512|-8.6713|Foz do Douro|Porto|10997|
+41.0967|-8.5018|Foz do Sousa|Porto|6315|
+41.3685|-8.5989|Fradelos|Braga|1580|
+41.2587|-8.4001|Frazão|Porto|4314|
+41.2884|-8.3353|Freamunde|Porto|7983|
+40.7317|-7.3464|Freches|Guarda|0|
+40.5831|-6.8911|Freineda|Guarda|0|
+39.0274|-9.3200|Freiria|Guarda|0|
+40.8903|-7.0322|Freixeda do Torrão|Guarda|0|
+40.6919|-7.1631|Freixedas|Guarda|0|
+40.6186|-7.0103|Freixo|Guarda|0|
+41.0903|-6.8065|Freixo de Espada à Cinta|Bragança|3780|
+41.0667|-7.2167|Freixo de Numão|Guarda|609|
+38.8258|-9.1444|Frielas|Guarda|0|
+39.0718|-7.6105|Fronteira|Portalegre|3410|
+41.5659|-8.4513|Frossos|Braga|3726|
+32.6657|-16.9255|Funchal|Madeira|105795|
+40.1241|-7.4954|Fundão|Castelo Branco|9725|
+37.7757|-25.3103|Furnas|Açores|1599|
+37.0543|-7.7470|Fuzeta|Faro|9267|
+40.6181|-8.7330|Gafanha da Encarnação|Aveiro|4914|
+40.6362|-8.7134|Gafanha da Nazaré|Aveiro|0|
+40.5839|-7.1147|Gagos|Guarda|0|
+41.5627|-8.5720|Galegos|Braga|5404|
+41.5219|-8.7619|Gandra|Braga|1323|
+41.2012|-8.4338|Gandra|Porto|6034|
+39.4446|-7.8953|Gavião|Portalegre|4132|
+41.2677|-8.6451|Gemunde|Porto|5284|
+40.5094|-7.7367|Girabolhos|Guarda|0|
+41.1710|-7.8030|Godim|Vila Real|4919|
+40.1253|-8.0834|Góis|Coimbra|2171|
+39.3868|-8.5059|Golegã|Santarém|3830|
+40.4167|-7.3500|Gonçalo|Guarda|0|
+40.5767|-7.1775|Gonçalo Bocas|Guarda|0|
+41.5416|-8.4557|Gondizalves|Braga|9148|
+41.1202|-8.4960|Gondomar|Porto|27691|
+40.5000|-7.6000|Gouveia|Guarda|0|
+38.7172|-9.1308|Graça|Guarda|13956|
+38.9822|-9.2808|Gradil|Guarda|0|
+40.8594|-7.5286|Gradiz|Guarda|0|
+38.1900|-8.6120|Grândola|Setúbal|10737|
+40.7520|-7.2043|Granja|Guarda|0|
+41.0284|-8.5802|Grijó|Porto|10907|
+40.5364|-7.2683|Guarda|Guarda|40126|
+41.4586|-8.6295|Gueral|Braga|2568|
+37.1296|-8.2996|Guia|Faro|4173|
+41.1975|-8.6690|Guifões|Porto|9231|
+40.8981|-7.4097|Guilheiro|Guarda|0|
+41.4438|-8.2892|Guimarães|Braga|40604|
+41.4826|-8.4456|Guisande|Braga|1053|
+41.0829|-8.6268|Gulpilhares|Porto|10660|
+38.5374|-28.6261|Horta|Açores|6572|
+41.0678|-7.3106|Horta|Guarda|0|
+39.9296|-7.2369|Idanha-A-Nova|Castelo Branco|0|
+38.9169|-9.3194|Igreja Nova|Guarda|0|
+40.6019|-8.6702|Ílhavo|Aveiro|17236|
+40.6300|-7.5394|Infias|Guarda|0|
+40.6004|-7.1491|Jarmelo São Miguel|Guarda|0|
+40.5945|-7.1302|Jarmelo São Pedro|Guarda|0|
+41.4391|-8.4085|Joane|Braga|7869|
+40.4644|-7.2394|João Antão|Guarda|0|
+41.1110|-8.5190|Jovim|Porto|7067|
+40.6814|-6.8856|Junça|Guarda|0|
+40.6094|-7.5075|Juncais|Guarda|0|
+40.4858|-7.6694|Lagarinhos|Guarda|0|
+41.6215|-8.4126|Lago|Braga|1910|
+37.7449|-25.5718|Lagoa|Açores|14442|
+37.1050|-8.4597|Lagoa|Faro|6301|
+37.1020|-8.6742|Lagos|Faro|33494|
+40.3435|-6.8162|Lajeosa|Guarda|0|
+40.6275|-7.3375|Lajeosa do Mondego|Guarda|0|
+38.7635|-27.1034|Lajes|Açores|3744|
+40.4836|-7.7164|Lajes|Guarda|0|
+39.4162|-31.2172|Lajes das Flores|Açores|3907|
+38.4280|-28.1740|Lajes do Pico|Açores|0|
+40.9860|-8.5692|Lamas|Aveiro|5628|
+39.2111|-9.0615|Lamas|Guarda|0|
+40.6650|-7.0797|Lamegal|Guarda|0|
+41.1023|-7.8102|Lamego|Viseu|10928|
+40.7114|-7.1044|Lameiras|Guarda|0|
+38.7119|-9.1601|Lapa|Guarda|0|
+40.3789|-7.7094|Lapa Dos Dinheiros|Guarda|0|
+38.6560|-9.1538|Laranjeira|Setúbal|20988|
+37.0680|-7.8078|Laranjeiro|Faro|20473|
+40.0936|-8.8283|Lavos|Coimbra|4164|
+41.2593|-8.7185|Lavra|Porto|9633|
+38.6681|-9.0520|Lavradio|Setúbal|21877|
+41.1910|-8.7003|Leça da Palmeira|Porto|17996|
+41.2120|-8.6342|Leça do Bailio|Porto|16103|
+39.7436|-8.8071|Leiria|Leiria|128640|
+40.6353|-6.9642|Leomil|Guarda|0|
+38.7114|-9.2408|Linda-a-Velha|Lisbon|20895|
+40.5408|-7.4611|Linhares (Celorico da Beira)|Guarda|0|
+38.7263|-9.1484|Lisboa|Lisbon|517802|Lisbon
+40.9866|-8.4857|Lobão|Aveiro|6049|
+40.9810|-7.2033|Longroiva|Guarda|0|
+41.3741|-8.3802|Lordelo|Braga|4560|
+41.2345|-8.4030|Lordelo|Porto|10035|
+41.1506|-8.6485|Lordelo do Ouro|Porto|22270|
+40.3167|-7.6833|Loriga|Guarda|1053|
+40.2594|-8.3168|Lorvão|Coimbra|4158|
+37.1440|-8.0235|Loulé|Faro|17930|
+38.8333|-9.1667|Loures|Guarda|66231|
+38.8309|-9.1684|Loures|Lisbon|66231|
+40.0039|-8.7374|Louriçal|Leiria|5085|
+39.2500|-9.3167|Lourinhã|Guarda|9196|
+39.2475|-9.3119|Lourinhã|Lisbon|9196|
+40.9842|-8.5514|Lourosa|Aveiro|9619|
+40.1167|-8.2492|Lousã|Coimbra|11445|
+38.8917|-9.2097|Lousa|Guarda|0|
+41.2835|-8.2744|Lousada|Porto|2166|
+38.7653|-9.1586|Lumiar|Guarda|46334|
+40.3843|-8.3785|Luso|Aveiro|2593|
+41.3408|-8.3171|Lustosa|Porto|4686|
+37.0922|-7.7043|Luz|Faro|3627|
+40.5367|-7.3025|Maçainhas|Guarda|0|
+40.6917|-7.2918|Maçal do Chão|Guarda|0|
+39.5933|-7.9977|Mação|Santarém|0|
+41.5513|-6.9336|Macedo de Cavaleiros|Bragança|6566|
+40.6856|-7.4717|Maceira|Guarda|0|
+39.6885|-8.8942|Maceira|Leiria|9831|
+32.7162|-16.7676|Machico|Madeira|12567|
+40.8594|-8.3734|Macieira de Cambra|Aveiro|5348|
+41.4409|-8.6343|Macieira de Rates|Braga|2083|
+39.1947|-8.8672|Maçussa|Guarda|0|
+38.5364|-28.5266|Madalena|Açores|6136|
+38.7100|-9.1347|Madalena|Guarda|0|
+41.2162|-8.3345|Madalena|Porto|9618|
+39.5713|-8.4464|Madalena|Santarém|3466|
+38.9333|-9.3333|Mafra|Guarda|12259|
+38.9411|-9.3264|Mafra|Lisbon|12259|
+37.8325|-25.3898|Maia|Açores|1900|
+41.2425|-8.6026|Maia|Porto|36426|
+40.2999|-7.0615|Malcata|Guarda|0|
+40.5364|-6.9144|Malhada Sorda|Guarda|0|
+40.7600|-6.8667|Malpartida|Guarda|0|
+38.9306|-9.2616|Malveira|Guarda|9647|
+38.9321|-9.2578|Malveira|Lisbon|9647|
+40.6043|-7.7611|Mangualde|Viseu|8895|
+40.4664|-7.6217|Mangualde da Serra|Guarda|0|
+40.7083|-7.0758|Manigoto|Guarda|0|
+39.2211|-8.8936|Manique do Intendente|Guarda|0|
+37.1685|-7.5180|Manta Rota|Faro|1200|
+40.4000|-7.5333|Manteigas|Guarda|3900|
+40.3661|-7.5461|Manteigas (São Pedro)|Guarda|0|
+41.1555|-8.1695|Marco de Canaveses|Porto|0|
+41.1839|-8.1486|Marco de Canavezes|Porto|9042|
+41.3648|-8.2000|Margaride|Porto|10652|
+40.9100|-7.2317|Marialva|Guarda|0|
+39.7768|-8.9500|Marinha Grande|Leiria|28916|
+39.0473|-8.7024|Marinhais|Santarém|5788|
+41.5591|-8.7830|Marinhas|Braga|6052|
+41.5282|-8.6708|Mariz|Braga|1208|
+40.4686|-7.1142|Marmeleiro|Guarda|0|
+37.3101|-8.6681|Marmelete|Faro|1087|
+39.2131|-9.2833|Marteleira|Guarda|0|
+38.7086|-9.1417|Mártires|Guarda|0|
+39.3938|-7.3766|Marvão|Portalegre|3739|
+38.7453|-9.1042|Marvila|Guarda|35463|
+38.7556|-9.2843|Massamá|Guarda|28112|
+38.7528|-9.2811|Massamá|Lisbon|28112|
+39.0928|-9.2122|Matacães|Guarda|0|
+40.9169|-6.8880|Mata de Lobos|Guarda|0|
+40.6789|-7.5289|Matança|Guarda|0|
+41.1821|-8.6891|Matosinhos|Porto|28070|
+39.1430|-9.1690|Maxial|Guarda|0|
+40.3627|-8.4478|Mealhada|Aveiro|4443|
+39.0897|-9.0256|Meca|Guarda|1719|
+39.0818|-9.0346|Meca|Lisbon|1719|
+40.9667|-7.2667|Mêda|Guarda|5202|
+41.2483|-8.2581|Meinedo|Porto|4416|
+40.4936|-7.3592|Meios|Guarda|0|
+42.0807|-8.2484|Melgaço|Viana do Castelo|0|
+40.5194|-7.5336|Melo|Guarda|0|
+41.0699|-8.4009|Melres|Porto|10328|
+38.7936|-9.3440|Mem Martins|Lisbon|9000|
+38.7161|-9.1489|Mercês|Guarda|0|
+41.5857|-8.4656|Merelim|Braga|5363|
+37.6592|-7.6643|Mértola|Beja|7274|
+41.1619|-7.8728|Mesão Frio|Vila Real|4433|
+40.5881|-7.4894|Mesquitela|Guarda|954|
+37.1586|-8.6149|Mexilhoeira Grande|Faro|4029|
+38.9472|-9.1992|Milharado|Guarda|5935|
+38.9473|-9.1991|Milharado|Lisbon|5935|
+41.2148|-8.5884|Milheirós|Porto|4342|
+40.9216|-8.4679|Milheirós de Poiares|Aveiro|4339|
+38.7617|-9.2361|Mina|Guarda|0|
+37.6732|-7.4977|Minas de São Domingos|Beja|2500|
+39.5163|-8.6880|Minde|Santarém|3293|
+41.3153|-8.7212|Mindelo|Porto|3491|
+40.6894|-7.3467|Minhocal|Guarda|0|
+40.4456|-8.7385|Mira|Coimbra|7682|
+39.5431|-8.7150|Mira|Leiria|3775|
+39.2358|-9.2650|Miragaia|Guarda|0|
+40.0932|-8.3326|Miranda do Corvo|Coimbra|7857|
+41.4969|-6.2731|Miranda do Douro|Bragança|7482|
+41.5010|-7.1918|Mirandela|Bragança|12504|
+38.7842|-9.3015|Mira-Sintra|Guarda|0|
+40.5106|-7.0050|Miuzela|Guarda|0|
+40.5575|-7.3411|Mizarela|Guarda|0|
+41.3403|-6.7119|Mogadouro|Bragança|3936|
+40.9713|-7.6296|Moimenta da Beira|Viseu|10212|
+40.4736|-7.6384|Moimenta da Serra|Guarda|0|
+40.7456|-7.2278|Moimentinha|Guarda|0|
+40.3000|-7.1975|Moita|Guarda|0|
+38.6585|-9.0104|Moita|Setúbal|17795|
+39.2482|-9.2236|Moita dos Ferreiros|Lisbon|1734|
+39.2839|-9.2572|Moledo|Guarda|0|
+42.0789|-8.4808|Monção|Viana do Castelo|19738|
+37.0836|-7.7876|Moncarapacho|Faro|8545|
+37.3166|-8.5834|Monchique|Faro|5421|
+41.4135|-7.9548|Mondim de Basto|Vila Real|7493|
+39.0496|-7.4443|Monforte|Portalegre|3329|
+39.4620|-8.7118|Monsanto|Santarém|50000|
+41.8318|-7.7900|Montalegre|Vila Real|0|
+39.4843|-8.3058|Montalvinho|Santarém|1275|
+39.4849|-8.3000|Montalvo|Santarém|1275|
+39.0777|-8.1704|Montargil|Portalegre|2316|
+38.7584|-9.2653|Monte Abraão|Guarda|0|
+38.7036|-9.4064|Monte Estoril|Lisbon|23375|
+37.1819|-7.4523|Monte Gordo|Faro|4282|
+38.8697|-9.3158|Montelavar|Guarda|0|
+38.6710|-8.2996|Montemor-o-Novo|Évora|12854|
+40.1938|-8.6670|Montemor-o-Velho|Coimbra|3154|
+39.8521|-8.8635|Monte Real|Leiria|5756|
+39.1150|-9.2044|Monte Redondo|Guarda|0|
+39.8993|-8.8317|Monte Redondo|Leiria|4463|
+38.7299|-8.6936|Montijo|Setúbal|30011|
+38.9217|-8.0997|Mora|Évora|0|
+41.0560|-8.3894|Moreira|Porto|12890|
+41.3868|-8.3394|Moreira de Conegos|Braga|5607|
+40.8391|-7.3232|Moreira de Rei|Guarda|0|
+40.3943|-8.2581|Mortágua|Viseu|0|
+41.1131|-7.1972|Mós|Guarda|0|
+38.7827|-9.1110|Moscavide e Portela|Lisbon|22488|
+40.8984|-8.5320|Mosteirô|Aveiro|2043|
+37.8902|-25.8200|Mosteiros|Açores|1123|
+38.1401|-7.4486|Moura|Beja|9360|
+38.2978|-7.2223|Mourão|Évora|0|
+41.1006|-7.2314|Murça|Guarda|0|
+41.4183|-7.4512|Murça|Vila Real|0|
+40.7430|-8.6402|Murtosa|Aveiro|8282|
+41.0361|-7.1500|Muxagata|Guarda|0|
+40.5200|-7.5556|Nabais|Guarda|0|
+39.4193|-9.1909|Nadadouro|Leiria|1904|
+40.3982|-6.9603|Nave|Guarda|0|
+40.5217|-6.8342|Nave de Haver|Guarda|0|
+39.5996|-9.0716|Nazaré|Leiria|8993|
+41.4355|-8.6140|Negreiros|Braga|2364|
+41.3495|-8.4015|Negrelos|Porto|6664|
+40.5322|-7.8515|Nelas|Viseu|4190|
+40.5172|-7.6097|Nespereira|Guarda|0|
+38.0227|-7.8134|Neves|Beja|1747|
+39.5183|-7.6750|Nisa|Portalegre|7450|
+41.2425|-8.5869|Nogueira|Porto|5473|
+41.0053|-8.5920|Nogueira da Regedoura|Aveiro|5328|
+37.8272|-25.2286|Nordeste|Açores|4937|
+38.7392|-9.1508|Nossa Senhora de Fátima|Guarda|0|
+32.6667|-16.9000|Nossa Senhora do Monte|Madeira|7444|
+41.0975|-7.2911|Numão|Guarda|0|
+39.3585|-9.1760|Óbidos|Leiria|11187|
+37.5980|-8.6397|Odemira|Beja|5830|
+38.8000|-9.1833|Odivelas|Guarda|54624|
+38.7927|-9.1838|Odivelas|Lisbon|54624|
+38.7970|-9.1911|Odivelas Municipality|Guarda|0|
+38.6970|-9.3017|Oeiras|Guarda|35000|
+38.7137|-9.2683|Oeiras|Lisbon|35000|
+38.6972|-9.3083|Oeiras e São Julião da Barra|Guarda|0|
+40.5426|-8.5386|Oiã|Aveiro|7118|
+39.9495|-7.8859|Oleiros|Castelo Branco|5721|
+39.0986|-9.0639|Olhalvo|Guarda|1806|
+37.0451|-7.8103|Olhão|Faro|29239|
+37.0902|-8.1917|Olhos de Água|Faro|13221|
+38.7699|-9.1067|Olivais|Lisbon|33788|
+38.7708|-9.2501|Olival|Lisbon|42961|
+41.0502|-8.5442|Olival|Porto|5715|
+38.7908|-9.1672|Olival de Basto|Guarda|0|
+38.7908|-9.1661|Olival do Basto|Guarda|0|
+38.7908|-9.1662|Olival do Basto|Lisbon|0|
+41.4782|-8.4696|Oliveira|Braga|6222|
+40.8410|-8.4756|Oliveira de Azemeis|Aveiro|11771|
+40.7336|-8.1748|Oliveira de Frades|Viseu|0|
+40.5098|-8.5637|Oliveira do Bairro|Aveiro|6239|
+41.1247|-8.5846|Oliveira do Douro|Porto|24407|
+40.3552|-7.8648|Oliveira do Hospital|Coimbra|4704|
+40.3231|-8.2237|Oliveira do Mondego|Coimbra|1079|
+40.6071|-8.5920|Oliveirinha|Aveiro|4971|
+39.1100|-8.9897|Ota|Guarda|1289|
+39.1120|-8.9910|Ota|Lisbon|1289|
+39.6618|-8.5790|Ourém|Santarém|12729|
+37.6916|-8.3103|Ourique|Beja|0|
+39.1922|-9.1822|Outeiro da Cabeça|Guarda|0|
+40.9522|-7.3022|Outeiro de Gatos|Guarda|0|
+40.8586|-8.6251|Ovar|Aveiro|18452|
+38.6950|-9.2936|Paço de Arcos|Guarda|25974|
+38.6957|-9.2914|Paço de Arcos|Lisbon|25974|
+40.4597|-7.6506|Paços da Serra|Guarda|0|
+40.9754|-8.5835|Paços de Brandão|Aveiro|4637|
+41.2896|-8.3758|Paços de Ferreira|Porto|6782|
+37.1793|-8.2015|Paderne|Faro|3304|
+39.5640|-8.4683|Paialvo|Santarém|2599|
+39.3022|-9.0494|Painho|Guarda|0|
+40.7631|-7.1511|Pala|Guarda|0|
+40.8167|-7.4300|Palhais|Guarda|0|
+38.5690|-8.9013|Palmela|Setúbal|16934|
+40.0462|-7.9518|Pampilhosa da Serra|Coimbra|1389|
+40.3358|-8.4274|Pampilhosa do Botão|Aveiro|0|
+40.4978|-7.2328|Panoias de Cima|Guarda|0|
+40.5397|-7.0378|Parada|Guarda|0|
+40.4864|-7.7945|Paranhos|Guarda|0|
+41.1729|-8.5993|Paranhos|Porto|45883|
+37.1383|-8.5170|Parchal|Faro|5019|
+40.7993|-8.6260|Pardilhó|Aveiro|4169|
+38.6933|-9.3569|Parede|Guarda|17212|
+38.6928|-9.3541|Parede|Lisbon|17212|
+41.2050|-8.3751|Paredes|Porto|19834|
+41.9100|-8.5703|Paredes de Coura|Viana do Castelo|0|
+38.7691|-9.0963|Parque das Nações|Lisbon|22382|
+39.6698|-8.9958|Pataias|Leiria|5510|
+39.9268|-8.2009|Pedrógão Grande|Leiria|3915|
+41.4110|-8.7490|Pedroso|Porto|18963|
+41.1888|-8.5862|Pedrouços|Porto|12553|
+40.4286|-7.1444|Pega|Guarda|0|
+39.4615|-8.1495|Pego|Santarém|2431|
+38.7214|-9.1400|Pena|Guarda|0|
+40.2688|-8.2824|Penacova|Coimbra|3254|
+41.2093|-8.2700|Penafiel|Porto|8065|
+40.3928|-7.2039|Pena Lobo|Guarda|0|
+40.6679|-7.6601|Penalva do Castelo|Viseu|0|
+40.1549|-7.1715|Penamacor|Castelo Branco|0|
+40.7283|-7.5053|Pena Verde|Guarda|0|
+37.9848|-7.9165|Penedo Gordo|Beja|1167|
+40.9888|-7.3939|Penedono|Viseu|2952|
+40.0333|-8.3833|Penela|Coimbra|0|
+40.8664|-7.0681|Penha de Águia|Guarda|0|
+38.7300|-9.1317|Penha de França|Guarda|0|
+39.3558|-9.3811|Peniche|Leiria|15662|
+37.1230|-8.3412|Pêra|Faro|1951|
+40.6131|-7.2097|Pêra do Moço|Guarda|0|
+41.1825|-8.2545|Perafita|Porto|12538|
+39.2617|-9.0744|Peral|Guarda|0|
+40.7350|-7.0131|Pereiro|Guarda|0|
+39.0428|-9.1089|Pereiro de Palhacana|Guarda|0|
+41.5307|-8.6898|Perelhal|Braga|1749|
+39.2214|-9.1236|Pêro Moniz|Guarda|0|
+38.8399|-9.3207|Pero Pinheiro|Guarda|4792|
+38.8578|-9.3235|Pero Pinheiro|Lisbon|4792|
+41.0651|-8.5853|Perozinho|Porto|6259|
+41.1916|-7.8367|Peso da Régua|Vila Real|5048|
+40.6647|-6.9908|Peva|Guarda|0|
+38.6701|-9.1585|Piedade|Setúbal|19472|
+38.6311|-8.9138|Pinhal Novo|Setúbal|23510|
+40.4664|-7.6831|Pinhanços|Guarda|0|
+40.8008|-7.5983|Pinheiro|Guarda|0|
+39.3921|-8.4341|Pinheiro Grande|Santarém|1051|
+40.7833|-7.0667|Pinhel|Guarda|0|
+40.6025|-7.0653|Pínzio|Guarda|0|
+38.8310|-8.7936|Poceirão|Santarém|4225|
+40.9994|-7.2683|Poço do Canto|Guarda|0|
+40.2103|-8.2575|Poiares|Coimbra|5514|
+40.6431|-7.1381|Pomares|Guarda|0|
+39.9074|-8.6695|Pombal|Leiria|17355|
+37.7423|-25.6709|Ponta Delgada|Açores|20056|
+32.6798|-17.1000|Ponta do Sol|Madeira|4235|
+37.7167|-25.3667|Ponta Garça|Açores|3547|
+41.4706|-8.3299|Ponte|Braga|7041|
+41.8067|-8.3101|Ponte da Barca|Viana do Castelo|4372|
+41.7468|-8.5764|Ponte de Lima|Viana do Castelo|44667|
+39.2144|-8.0542|Ponte de Sor|Portalegre|11062|
+39.0928|-9.3192|Ponte do Rol|Guarda|0|
+39.1495|-8.8388|Pontével|Santarém|4435|
+38.7770|-9.2038|Pontinha|Guarda|23249|
+38.7677|-9.1994|Pontinha|Lisbon|23249|
+37.1266|-8.4016|Porches|Faro|2011|
+39.2974|-7.4154|Portalegre|Portalegre|22368|
+38.2938|-7.7276|Portel|Évora|0|
+38.7828|-9.1111|Portela|Guarda|0|
+37.1754|-8.5842|Portimão|Faro|38487|
+41.1496|-8.6110|Porto|Porto|252687|
+37.8526|-8.7902|Porto Covo|Setúbal|1400|
+40.6053|-7.2922|Porto da Carne|Guarda|0|
+32.7667|-16.8333|Porto da Cruz|Madeira|2597|
+37.0853|-8.6837|Porto de Mós|Faro|23648|
+39.6019|-8.8184|Porto de Mós|Leiria|6032|
+38.6481|-27.1194|Porto Judeu|Açores|2501|
+38.6815|-27.0584|Porto Martins|Açores|1001|
+32.8668|-17.1667|Porto Moniz|Madeira|2762|
+38.7172|-9.2992|Porto Salvo|Guarda|13867|
+38.7229|-9.3047|Porto Salvo|Lisbon|13867|
+33.0714|-16.3430|Porto Santo|Madeira|0|
+40.5472|-7.1261|Pousada|Guarda|0|
+40.4122|-7.1792|Pousafoles do Bispo|Guarda|0|
+37.7647|-25.2449|Povoação|Açores|2161|
+41.5760|-8.2701|Póvoa de Lanhoso|Braga|5008|
+38.8611|-9.0644|Póvoa de Santa Iria|Guarda|28901|
+38.8610|-9.0645|Póvoa de Santa Iria|Lisbon|28901|
+38.8002|-9.1639|Póvoa de Santo Adrião|Guarda|14897|
+38.8000|-9.1667|Póvoa de Santo Adrião|Lisbon|14897|
+41.3834|-8.7636|Póvoa de Varzim|Porto|29044|
+40.7597|-7.2664|Póvoa do Concelho|Guarda|0|
+41.6025|-8.4630|Prado|Braga|4518|
+40.5614|-7.3767|Prados|Guarda|0|
+38.6746|-9.1698|Pragal|Setúbal|7701|
+38.7333|-27.0667|Praia da Vitória|Açores|6061|
+39.4667|-8.3500|Praia do Ribatejo|Santarém|1702|
+38.7089|-9.1689|Prazeres|Guarda|8096|
+38.7919|-9.1208|Prior Velho|Guarda|6500|
+38.7917|-9.1212|Prior Velho|Lisbon|6500|
+39.7570|-7.9260|Proença-a-Nova|Castelo Branco|4590|
+40.9125|-7.3419|Prova|Guarda|0|
+40.3247|-6.9983|Quadrazais|Guarda|0|
+37.0695|-8.1006|Quarteira|Faro|24420|
+38.7224|-9.2659|Queijas|Guarda|8828|
+38.7193|-9.2625|Queijas|Lisbon|8828|
+40.7360|-7.4500|Queiriz|Guarda|0|
+37.0600|-7.8216|Quelfes|Faro|17253|
+38.7566|-9.2545|Queluz|Lisbon|103399|
+40.8819|-7.0831|Quintã de Pêro Martins|Guarda|0|
+38.5675|-8.9423|Quinta do Anjo|Setúbal|9124|
+38.5653|-9.0432|Quinta Do Conde|Setúbal|25606|
+40.3714|-7.0986|Quintas de São Bartolomeu|Guarda|0|
+40.8625|-7.2494|Rabaçal|Guarda|0|
+37.8102|-25.5826|Rabo de Peixe|Açores|7681|
+38.8036|-9.1911|Ramada|Guarda|17535|
+38.8037|-9.1877|Ramada|Lisbon|17535|
+39.1447|-9.2322|Ramalhal|Guarda|0|
+40.4778|-7.2589|Ramela|Guarda|0|
+40.9953|-7.3294|Ranhados|Guarda|0|
+40.5842|-7.3456|Rapa|Guarda|0|
+40.4211|-7.0475|Rapoula do Côa|Guarda|0|
+40.6403|-7.3536|Ratoeira|Guarda|0|
+41.5584|-8.4433|Real|Braga|11700|
+38.7508|-9.2303|Reboleira|Guarda|0|
+40.8325|-7.4189|Reboleiro|Guarda|0|
+40.4236|-6.9111|Rebolosa|Guarda|0|
+41.2240|-8.4067|Rebordosa|Porto|11491|
+41.3551|-8.4236|Rebordões|Porto|3368|
+41.1536|-8.4118|Recarei|Porto|4856|
+38.5801|-7.5966|Redondo|Évora|5845|
+41.5132|-7.9952|Refojos de Basto|Braga|5037|
+39.2872|-9.2147|Reguengo Grande|Guarda|0|
+38.4253|-7.5349|Reguengos de Monsaraz|Évora|7217|
+40.8044|-6.9481|Reigada|Guarda|0|
+37.7527|-25.7185|Relva|Açores|3006|
+40.3797|-7.0444|Rendo|Guarda|0|
+41.6290|-8.4086|Rendufe|Braga|1124|
+41.0769|-7.9512|Resende|Viseu|3166|
+39.4447|-8.5142|Riachos|Santarém|5463|
+41.3965|-8.3869|Riba de Ave|Braga|3425|
+39.0619|-9.0947|Ribafria|Guarda|0|
+39.2025|-9.3325|Ribamar|Guarda|0|
+40.5681|-7.5814|Ribamondego|Guarda|0|
+32.6748|-17.0629|Ribeira Brava|Madeira|5932|
+40.2050|-8.4793|Ribeira de Frades|Coimbra|15315|
+41.5102|-7.7967|Ribeira de Pena|Vila Real|5887|
+40.6214|-7.1422|Ribeira Dos Carinhos|Guarda|0|
+38.5167|-28.7000|Ribeira Grande|Açores|5198|
+41.3608|-8.5677|Ribeirão|Braga|8735|
+37.8167|-25.5333|Ribeira Seca|Açores|2950|
+38.6620|-27.1809|Ribeirinha|Açores|2684|
+40.6660|-7.8778|Rio de Loba|Viseu|9529|
+40.8078|-7.3936|Rio de Mel|Guarda|0|
+38.7689|-9.3327|Rio de Mouro|Guarda|54695|
+38.7661|-9.3280|Rio de Mouro|Lisbon|54695|
+39.3429|-8.9381|Rio Maior|Santarém|12064|
+41.4042|-8.6799|Rio Mau|Porto|2681|
+40.9577|-8.5782|Rio Meão|Aveiro|4802|
+41.1787|-8.5595|Rio Tinto|Porto|49966|
+40.5092|-7.6569|Rio Torto|Guarda|0|
+40.5164|-7.0933|Rochoso|Guarda|0|
+41.4415|-8.3841|Ronfe|Braga|4888|
+38.6773|-9.0084|Rosairinho|Setúbal|2377|
+37.7661|-25.6229|Rosto de Cão|Açores|7880|
+39.0653|-9.2089|Runa|Guarda|0|
+40.4150|-7.0106|Ruvina|Guarda|0|
+41.2670|-7.5760|Sabrosa|Vila Real|6361|
+40.3500|-7.0833|Sabugal|Guarda|0|
+40.4019|-7.6397|Sabugueiro|Guarda|0|
+38.7944|-9.1053|Sacavém|Guarda|17718|
+38.7920|-9.1080|Sacavém|Lisbon|17718|
+38.7122|-9.1400|Sacramento|Guarda|0|
+40.6369|-7.0689|Safurdão|Guarda|0|
+37.0086|-8.9431|Sagres|Faro|1939|
+40.5744|-7.4225|Salgueirais|Guarda|0|
+39.4319|-9.0948|Salir de Matos|Leiria|2583|
+40.7397|-8.5572|Salreu|Aveiro|4141|
+37.9377|-7.7745|Salvada|Beja|1352|
+39.0448|-8.6890|Salvaterra de Magos|Santarém|5165|
+40.4344|-7.7761|Sameice|Guarda|0|
+40.4092|-7.4900|Sameiro|Guarda|0|
+41.7763|-6.7570|Samil|Bragança|1246|
+38.9371|-8.8718|Samora Correia|Santarém|14154|
+38.7204|-9.0047|Samouco|Setúbal|3143|
+41.7019|-8.3925|Sande|Braga|7789|
+41.0351|-8.5070|Sandim|Porto|6449|
+40.3581|-7.7828|Sandomil|Guarda|0|
+40.9298|-8.5256|Sanfins|Aveiro|1970|
+40.4868|-8.4697|Sangalhos|Aveiro|4516|
+38.6961|-27.3391|Santa Bárbara|Açores|1274|
+39.2100|-9.3139|Santa Bárbara|Guarda|0|
+37.1062|-7.9665|Santa Bárbara de Nexe|Faro|4087|
+38.7114|-9.1481|Santa Catarina|Guarda|0|
+39.6796|-8.6868|Santa Catarina da Serra|Leiria|4405|
+40.1998|-8.4402|Santa Clara|Coimbra|9637|
+40.4506|-7.7147|Santa Comba|Guarda|0|
+40.4044|-8.1138|Santa Comba Dão|Viseu|11597|
+32.6881|-16.7939|Santa Cruz|Madeira|6010|
+41.7601|-7.4683|Santa Cruz|Vila Real|3430|
+39.0495|-28.0043|Santa Cruz da Graciosa|Açores|1776|
+39.4698|-31.1851|Santa Cruz das Flores|Açores|1725|
+41.2146|-8.6741|Santa Cruz do Bispo|Porto|6230|
+38.7192|-9.1197|Santa Engrácia|Guarda|0|
+40.7983|-7.1808|Santa Eufémia|Guarda|0|
+40.4144|-7.7872|Santa Eulália|Guarda|0|
+38.8463|-9.0875|Santa Iria da Azóia|Guarda|18573|
+38.8411|-9.0991|Santa Iria da Azóia|Lisbon|18573|
+38.8464|-9.0881|Santa Iria de Azoia|Guarda|0|
+38.7186|-9.1583|Santa Isabel|Guarda|0|
+38.7156|-9.1364|Santa Justa|Guarda|0|
+37.1022|-7.6620|Santa Luzia|Faro|1455|
+39.4500|-8.3167|Santa Margarida da Coutada|Santarém|1788|
+40.4239|-7.5214|Santa Maria|Guarda|0|
+40.9604|-8.5154|Santa Maria da Feira|Aveiro|0|
+38.6991|-9.2087|Santa Maria de Belém|Guarda|8541|
+39.1086|-9.2391|Santa Maria do Castelo e São Miguel|Guarda|0|
+38.7699|-9.1207|Santa Maria dos Olivais|Guarda|0|
+38.8008|-9.3794|Santa Maria e São Miguel|Guarda|0|
+40.4503|-7.6633|Santa Marinha|Guarda|0|
+41.2099|-7.7839|Santa Marta de Penaguião|Vila Real|0|
+32.8000|-16.8833|Santana|Madeira|8804|
+40.4736|-7.2092|Santana da Azinha|Guarda|0|
+39.2333|-8.6833|Santarém|Santarém|29385|
+40.4239|-7.7292|Santiago|Guarda|0|
+38.0250|-8.6758|Santiago do Cacém|Setúbal|7797|
+38.9417|-9.1036|Santiago dos Velhos|Guarda|0|
+39.0553|-8.2441|Santo André|Portalegre|11213|
+38.0608|-8.7822|Santo André|Setúbal|10601|
+38.8536|-9.1431|Santo Antão do Tojal|Guarda|4156|
+38.8515|-9.1397|Santo Antão do Tojal|Lisbon|4156|
+32.6614|-16.9348|Santo António|Madeira|25940|
+38.6256|-9.0304|Santo António da Charneca|Setúbal|11143|
+38.8117|-9.1611|Santo António dos Cavaleiros|Guarda|0|
+40.2180|-8.4052|Santo António dos Olivais|Coimbra|41150|
+38.7153|-9.1669|Santo Condestável|Guarda|0|
+39.0422|-9.0158|Santo Estêvão|Guarda|0|
+38.8901|-9.2507|Santo Estêvão das Galés|Guarda|0|
+38.9936|-9.3986|Santo Isidoro|Guarda|3814|
+38.9959|-9.3994|Santo Isidoro|Lisbon|3814|
+41.2108|-8.1422|Santo Izidoro|Porto|1495|
+41.1138|-8.6023|Santo Ovídio|Porto|38544|
+39.0061|-9.1497|Santo Quintino|Guarda|0|
+38.7069|-9.1564|Santos-o-Velho|Guarda|4013|
+38.7069|-9.1561|Santos-o-Velho|Lisbon|4013|
+41.3301|-8.4383|Santo Tirso|Porto|14021|
+38.6749|-27.2935|São Bartolomeu|Açores|1983|
+40.3719|-7.0992|São Bartolomeu|Guarda|0|
+39.2909|-9.2796|São Bartolomeu|Lisbon|1041|
+37.2565|-8.2867|São Bartolomeu de Messines|Faro|8381|
+39.2758|-9.2794|São Bartolomeu dos Galegos|Guarda|0|
+38.7675|-9.2331|São Brás|Guarda|0|
+37.1956|-7.8755|São Brás de Alportel|Faro|11153|
+38.7128|-9.1356|São Cristóvão e São Lourenço|Guarda|0|
+38.7436|-9.1700|São Domingos de Benfica|Guarda|0|
+38.7012|-9.3276|São Domingos de Rana|Guarda|46718|
+38.7019|-9.3408|São Domingos de Rana|Lisbon|46718|
+41.0356|-8.6226|São Félix da Marinha|Porto|11685|
+38.7072|-9.2172|São Francisco Xavier|Guarda|0|
+40.8680|-8.6067|São João|Aveiro|6762|
+38.7289|-9.1228|São João|Guarda|0|
+40.9007|-8.4902|São João da Madeira|Aveiro|22079|
+41.1480|-7.4049|São João da Pesqueira|Viseu|7874|
+38.8700|-9.4211|São João das Lampas|Guarda|10484|
+38.8738|-9.3984|São João das Lampas|Lisbon|10484|
+38.8258|-9.0922|São João da Talha|Guarda|18925|
+38.8238|-9.0972|São João da Talha|Lisbon|18925|
+40.3872|-8.0678|São João de Areias|Viseu|1939|
+38.7550|-9.1378|São João de Brito|Guarda|0|
+38.7403|-9.1378|São João de Deus|Guarda|0|
+40.9553|-8.5512|São João de Ver|Aveiro|9568|
+38.9517|-9.0545|São João Dos Montes|Guarda|4772|
+38.9394|-9.0189|São João dos Montes|Lisbon|4772|
+32.8167|-16.9000|São Jorge|Madeira|1473|
+38.7289|-9.1389|São Jorge de Arroios|Guarda|22990|
+38.7181|-9.1425|São José|Guarda|0|
+40.4876|-7.5950|São Julião|Guarda|0|
+38.8581|-9.1356|São Julião do Tojal|Guarda|3837|
+37.7156|-8.6647|São Luis|Beja|1006|
+38.7202|-9.1530|São Mamede|Guarda|5420|
+41.1918|-8.6111|São Mamede de Infesta|Porto|25940|
+38.7562|-9.2973|São Marcos|Guarda|0|
+37.3610|-8.3776|São Marcos da Serra|Faro|1352|
+40.4431|-7.6719|São Martinho|Guarda|0|
+32.6448|-16.9384|São Martinho|Madeira|26482|
+40.2102|-8.4569|São Martinho do Bispo|Coimbra|15315|
+39.5144|-9.1311|São Martinho do Porto|Leiria|2868|
+38.6563|-27.2693|São Mateus|Açores|3757|
+38.7111|-9.1294|São Miguel|Guarda|0|
+40.5556|-7.2461|São Miguel da Guarda|Guarda|0|
+38.9211|-9.2958|São Miguel de Alcainça|Guarda|0|
+39.4333|-8.2167|São Miguel de Rio Torto|Santarém|4881|
+41.3317|-8.4619|São Miguel do Couto|Porto|5416|
+38.7075|-9.1367|São Nicolau|Guarda|0|
+40.5153|-7.5822|São Paio|Guarda|0|
+38.7076|-9.1471|São Paulo|Guarda|2728|
+40.2468|-8.3940|São Paulo de Frades|Coimbra|17154|
+40.6322|-7.3814|São Pedro|Guarda|0|
+39.0697|-9.3717|São Pedro da Cadeira|Guarda|4452|
+39.0698|-9.3717|São Pedro da Cadeira|Lisbon|4452|
+41.1433|-8.5003|São Pedro da Cova|Porto|17011|
+40.3004|-8.1662|São Pedro de Alva|Coimbra|1818|
+38.7695|-9.3896|São Pedro de Penaferrim|Guarda|0|
+40.6619|-6.8392|São Pedro de Rio Seco|Guarda|0|
+40.8007|-8.0902|São Pedro do Sul|Viseu|5497|
+40.4019|-7.7169|São Romão|Guarda|6500|
+41.2854|-8.5632|São Romão do Coronado|Porto|0|
+37.7542|-25.6413|São Roque|Açores|4932|
+40.8722|-8.4715|São Roque|Aveiro|5575|
+32.6667|-16.9167|São Roque|Madeira|9385|
+38.5163|-28.3075|São Roque do Pico|Açores|3705|
+38.6658|-27.0898|São Sebastião|Açores|2096|
+38.7308|-9.1492|São Sebastião da Pedreira|Guarda|6362|
+37.5128|-8.7071|São Teotónio|Beja|4936|
+41.2000|-8.6333|São Tiago de Custoias|Porto|19000|
+37.8183|-25.6658|São Vicente|Açores|2361|
+40.5398|-7.2354|São Vicente|Guarda|0|
+32.7967|-17.0432|São Vicente|Madeira|6063|
+38.7158|-9.1242|São Vicente de Fora|Guarda|0|
+39.3495|-8.6222|São Vicente do Paul|Santarém|2917|
+38.9719|-9.2020|Sapataria|Guarda|0|
+39.5564|-8.1432|Sardoal|Santarém|3939|
+38.6818|-8.9823|Sarilhos Pequenos|Setúbal|2049|
+40.7625|-7.6760|Sátão|Viseu|4034|
+40.3489|-7.7353|Sazes da Beira|Guarda|0|
+40.5386|-7.2692|Sé|Guarda|0|
+41.0522|-7.2697|Sebadelhe|Guarda|0|
+40.8711|-7.3983|Sebadelhe da Serra|Guarda|0|
+40.4203|-7.7033|Seia|Guarda|7082|
+38.6117|-9.1037|Seixal|Setúbal|2776|
+41.1120|-7.2525|Seixas|Guarda|0|
+40.4631|-7.0267|Seixo do Côa|Guarda|0|
+41.4194|-8.3460|Selho|Braga|10223|
+41.5544|-8.4628|Semelhe|Braga|11700|
+41.3874|-6.4262|Sendim|Bragança|1487|
+41.1864|-8.6517|Senhora da Hora|Porto|28930|
+37.0877|-8.7265|Senhora da Luz|Faro|3545|
+37.8333|-25.1500|Senhora do Rosário|Açores|0|
+40.5536|-7.2258|Sequeira|Guarda|28502|
+40.8371|-7.4980|Sequeiros|Guarda|0|
+41.0471|-8.5845|Sermonde|Porto|1360|
+40.9210|-7.5123|Sernancelhe|Viseu|5671|
+41.2651|-8.4289|Seroa|Porto|4040|
+37.9520|-7.4753|Serpa|Beja|6586|
+39.3329|-9.2684|Serra de El-Rei|Leiria|1401|
+39.8021|-8.0959|Sertã|Castelo Branco|5636|
+41.4013|-8.3689|Serzedelo|Braga|4020|
+41.4050|-8.2293|Serzedo|Braga|8000|
+41.0510|-8.6160|Serzedo|Porto|7891|
+38.4949|-9.1201|Sesimbra|Setúbal|41134|
+38.7413|-9.1613|Sete Rios|Lisbon|23261|
+38.5244|-8.8882|Setúbal|Setúbal|118166|
+40.7316|-8.3549|Sever do Vouga|Aveiro|0|
+40.9920|-8.6257|Silvalde|Aveiro|7188|
+39.1111|-9.3642|Silveira|Guarda|6942|
+39.1112|-9.3643|Silveira|Lisbon|6942|
+37.2034|-8.3347|Silves|Faro|10917|
+37.9562|-8.8698|Sines|Setúbal|12791|
+38.8355|-9.3522|Sintra|Lisbon|26193|
+41.2104|-8.4549|Sobrado|Porto|6703|
+38.9983|-9.3292|Sobral da Abelheira|Guarda|0|
+40.6192|-7.2797|Sobral da Serra|Guarda|0|
+39.0167|-9.1500|Sobral de Monte Agraço|Guarda|3406|
+39.0196|-9.1508|Sobral de Monte Agraço|Lisbon|3406|
+38.9175|-9.0261|Sobralinho|Guarda|4453|
+38.9170|-9.0266|Sobralinho|Lisbon|4453|
+40.6907|-7.4560|Sobral Pichorro|Guarda|0|
+38.6496|-9.1898|Sobreda|Setúbal|11146|
+41.5237|-7.8023|Sobreira|Vila Real|4219|
+38.7167|-9.1344|Socorro|Guarda|0|
+40.3314|-7.2114|Sortelha|Guarda|0|
+40.0599|-8.6260|Soure|Coimbra|8416|
+40.7450|-7.1247|Souro Pires|Guarda|0|
+38.9669|-7.7179|Sousel|Portalegre|0|
+40.9850|-8.6219|Souto|Aveiro|4922|
+40.3567|-6.9583|Souto|Guarda|0|
+39.8487|-8.8351|Souto da Carpalhosa|Leiria|4130|
+40.8107|-7.4924|Souto de Aguiar da Beira|Guarda|0|
+40.7969|-7.3141|Souto Maior|Guarda|0|
+40.3621|-8.0294|Tábua|Coimbra|12071|
+41.0956|-7.5674|Tabuaço|Viseu|6350|
+40.7617|-7.3156|Tamanhos|Guarda|0|
+41.0265|-7.7500|Tarouca|Viseu|3400|
+40.1669|-8.8457|Tavarede|Coimbra|8586|
+37.1273|-7.6486|Tavira|Faro|15133|
+41.4825|-8.4840|Tebosa|Braga|1129|
+40.2533|-7.7417|Teixeira|Guarda|0|
+40.3145|-7.4576|Teixoso|Castelo Branco|4703|
+41.3105|-8.1110|Telões|Porto|4675|
+41.7391|-8.1911|Terras de Bouro|Braga|0|
+40.8661|-7.3542|Terrenho|Guarda|0|
+38.8511|-9.3747|Terrugem|Guarda|4693|
+38.7065|-9.2869|Terrugem|Lisbon|4693|
+40.3131|-8.7534|Tocha|Coimbra|3992|
+39.6020|-8.4092|Tomar|Santarém|19168|
+40.5405|-8.1004|Tondela|Viseu|8800|
+41.1745|-7.0536|Torre de Moncorvo|Bragança|8572|
+40.8889|-7.3594|Torre do Terrenho|Guarda|0|
+40.7483|-7.3192|Torres|Guarda|0|
+39.4916|-8.5480|Torres Novas|Santarém|15002|
+39.0833|-9.2667|Torres Vedras|Guarda|24443|
+39.0911|-9.2586|Torres Vedras|Lisbon|24443|
+40.3861|-7.7603|Torrozelo|Guarda|0|
+41.0472|-7.2339|Touça|Guarda|0|
+40.4714|-7.7508|Tourais|Guarda|0|
+38.6722|-9.2327|Trafaria|Setúbal|5603|
+39.4500|-8.2500|Tramagal|Santarém|3821|
+40.7833|-7.3500|Trancoso|Guarda|0|
+40.3236|-8.1869|Travanca|Coimbra|1079|
+40.4223|-7.8217|Travancinha|Guarda|0|
+40.4325|-8.0943|Treixedo|Viseu|1104|
+39.0699|-8.9866|Triana|Guarda|0|
+40.5044|-7.3553|Trinta|Guarda|0|
+41.3065|-8.5764|Trofa|Porto|20692|
+37.1659|-8.2592|Tunes|Faro|6837|
+39.0358|-9.2602|Turcifal|Guarda|0|
+39.4641|-8.9774|Turquel|Leiria|4434|
+38.8258|-9.1214|Unhos|Guarda|10712|
+38.8196|-9.1201|Unhos|Lisbon|10712|
+41.4272|-8.2980|Urgeses|Braga|5457|
+40.4994|-8.6783|Vagos|Aveiro|4529|
+41.3329|-8.6666|Vairão|Porto|2643|
+41.1474|-7.9812|Valadares|Porto|22322|
+39.5843|-9.0229|Valado de Frades|Leiria|3109|
+40.7806|-7.1289|Valbom|Guarda|0|
+41.1292|-8.5620|Valbom|Porto|14443|
+40.8450|-7.2669|Valdujo|Guarda|0|
+39.0697|-7.6985|Vale da Amoreira|Portalegre|10828|
+40.7036|-6.8236|Vale da Mula|Guarda|0|
+40.4142|-7.4414|Vale de Amoreira|Guarda|0|
+40.6049|-7.3642|Vale de Azares|Guarda|0|
+40.8450|-8.3602|Vale de Cambra|Aveiro|7649|
+40.2969|-6.9506|Vale de Espinho|Guarda|0|
+40.4994|-7.3078|Vale de Estrela|Guarda|0|
+39.3057|-8.6288|Vale de Figueira|Santarém|2000|
+39.1905|-8.7273|Vale de Santarém|Santarém|2920|
+39.1156|-8.8858|Vale do Paraíso|Guarda|955|
+40.7929|-7.2727|Vale do Seixo|Guarda|0|
+40.9128|-7.2822|Vale Flor|Guarda|0|
+40.8363|-8.5806|Válega|Aveiro|7005|
+42.0282|-8.6339|Valença|Viana do Castelo|0|
+40.3589|-7.7083|Valezim|Guarda|0|
+40.4072|-7.4031|Valhelhas|Guarda|0|
+40.6167|-8.4500|Valongo|Aveiro|5085|
+41.2080|-8.5009|Valongo|Porto|21328|
+41.6208|-7.3361|Valpaços|Vila Real|4573|
+40.7842|-7.5219|Valverde|Guarda|0|
+41.5151|-8.5840|Várzea|Braga|1904|
+40.3953|-7.7836|Várzea de Meruge|Guarda|0|
+40.7342|-7.0697|Vascoveiro|Guarda|0|
+40.4359|-7.3037|Vela|Guarda|0|
+38.6799|-28.1516|Velas|Açores|1980|
+40.6525|-7.2900|Velosa|Guarda|0|
+38.9253|-9.2322|Venda do Pinheiro|Guarda|10000|
+38.9237|-9.2318|Venda do Pinheiro|Lisbon|10000|
+38.7542|-9.2145|Venda Nova|Guarda|0|
+38.6397|-8.5470|Vendas Novas|Évora|11248|
+38.7594|-9.2411|Venteira|Guarda|0|
+39.1269|-9.0842|Ventosa|Guarda|5215|
+39.1270|-9.0842|Ventosa|Lisbon|5215|
+39.2728|-9.1056|Vermelha|Guarda|0|
+40.8272|-6.8775|Vermiosa|Guarda|0|
+41.2431|-8.6065|Vermoim|Porto|15764|
+39.5527|-8.9979|Vestiaria|Leiria|1258|
+38.8709|-9.0682|Vialonga|Guarda|16088|
+38.8721|-9.0780|Vialonga|Lisbon|16088|
+38.3364|-8.0001|Viana do Alentejo|Évora|0|
+41.6937|-8.8346|Viana do Castelo|Viana do Castelo|36148|
+39.3689|-9.0492|Vidais|Leiria|1155|
+40.2944|-7.7842|Vide|Guarda|761|
+40.5972|-7.4042|Vide Entre Vinhas|Guarda|0|
+40.5139|-7.3900|Videmonte|Guarda|0|
+38.1845|-7.7447|Vidigueira|Beja|5932|
+39.8695|-8.9324|Vieira de Leiria|Leiria|5807|
+41.6356|-8.1324|Vieira do Minho|Braga|1687|
+40.3831|-7.0039|Vila Boa|Guarda|0|
+40.6269|-7.4378|Vila Boa do Mondego|Guarda|0|
+41.5179|-8.4836|Vilaça|Braga|1580|
+40.8667|-8.4667|Vila Chã|Aveiro|4295|
+39.1722|-8.7666|Vila Chã de Ourique|Santarém|2771|
+40.5508|-7.5294|Vila Cortês da Serra|Guarda|0|
+40.6059|-7.3124|Vila Cortês do Mondego|Guarda|0|
+41.5511|-8.7165|Vila Cova|Braga|2564|
+40.3833|-7.7342|Vila Cova à Coelheira|Guarda|0|
+39.7069|-8.1284|Vila de Rei|Castelo Branco|3452|
+37.0832|-8.9114|Vila do Bispo|Faro|5717|
+41.3533|-8.7452|Vila do Conde|Porto|27642|
+36.9745|-25.0997|Vila do Porto|Açores|0|
+40.4164|-7.1056|Vila do Touro|Guarda|0|
+40.4947|-7.1544|Vila Fernando|Guarda|0|
+41.3143|-7.1507|Vila Flor|Bragança|0|
+40.5872|-7.5394|Vila Franca da Serra|Guarda|0|
+40.7239|-7.2621|Vila Franca das Naves|Guarda|0|
+38.9500|-8.9833|Vila Franca de Xira|Guarda|18355|
+38.9214|-9.0322|Vila Franca de Xira|Lisbon|18355|
+37.7167|-25.4333|Vila Franca do Campo|Açores|5035|
+40.6528|-7.2422|Vila Franca do Deão|Guarda|0|
+38.9747|-9.2561|Vila Franca do Rosário|Guarda|0|
+41.5385|-8.6397|Vila Frescainha|Braga|4018|
+40.7941|-7.2332|Vila Garcia|Guarda|0|
+41.2512|-8.1840|Vila Meã|Porto|5000|
+37.0873|-8.1170|Vilamoura|Faro|2819|
+39.4608|-8.4359|Vila Nova da Barquinha|Santarém|7322|
+39.0372|-8.9336|Vila Nova da Rainha|Guarda|0|
+41.0717|-8.6415|Vila Nova da Telha|Porto|6004|
+37.1739|-7.5317|Vila Nova De Cacela|Faro|3902|
+41.4080|-8.5198|Vila Nova de Famalicão|Braga|9496|
+41.0833|-7.1333|Vila Nova de Foz Côa|Guarda|7312|
+41.1240|-8.6124|Vila Nova de Gaia|Porto|70811|
+37.7238|-8.7828|Vila Nova de Milfontes|Beja|4393|
+40.8659|-7.7613|Vila Nova de Paiva|Viseu|5176|
+40.2213|-8.2410|Vila Nova de Poiares|Coimbra|0|
+39.2198|-8.8404|Vila Nova de São Pedro|Guarda|0|
+40.5025|-7.7031|Vila Nova de Tazem|Guarda|0|
+41.5208|-7.6367|Vila Pouca de Aguiar|Vila Real|0|
+40.6273|-8.6323|Vilar|Aveiro|21227|
+39.1867|-9.1069|Vilar|Guarda|0|
+40.9464|-7.0016|Vilar de Amargo|Guarda|0|
+41.1057|-8.5862|Vilar de Andorinho|Porto|18944|
+41.4755|-8.6538|Vilar de Figos|Braga|2066|
+41.0897|-8.6211|Vilar do Paraíso|Porto|14727|
+41.3002|-7.7398|Vila Real|Vila Real|17001|
+37.1923|-7.4254|Vila Real de Santo António|Faro|11560|
+40.7206|-7.2835|Vilares|Guarda|0|
+40.6138|-6.8349|Vilar Formoso|Guarda|0|
+41.3595|-8.3312|Vilarinho|Porto|4177|
+40.4847|-6.9200|Vilar Maior|Guarda|0|
+40.8256|-6.9519|Vilar Torpim|Guarda|0|
+40.5694|-7.5142|Vila Ruiva|Guarda|0|
+41.5003|-8.6852|Vila Seca|Braga|1197|
+40.6104|-7.4820|Vila Soeiro do Chão|Guarda|0|
+39.6871|-7.6599|Vila Velha de Ródão|Castelo Branco|3521|
+41.6487|-8.4363|Vila Verde|Braga|4389|
+40.4575|-7.7883|Vila Verde|Guarda|0|
+38.8352|-9.3691|Vila Verde|Lisbon|0|
+39.1544|-9.1133|Vila Verde dos Francos|Guarda|1162|
+38.7879|-7.4185|Vila Viçosa|Évora|8319|
+41.2251|-7.6034|Vilela|Vila Real|5540|
+39.1778|-9.3178|Vimeiro|Guarda|1470|
+39.1777|-9.3170|Vimeiro|Lisbon|1470|
+41.5729|-6.5209|Vimioso|Bragança|0|
+41.8351|-7.0050|Vinhais|Bragança|9066|
+40.4958|-7.6269|Vinhó|Guarda|0|
+40.6745|-7.9172|Viseu|Viseu|103502|
+41.3753|-8.2931|Vizela|Braga|4066|
+41.3824|-8.2489|Vizela|Porto|4066|
+40.6894|-8.1136|Vouzela|Viseu|0|
+37.5280|-8.7848|Zambujeira do Mar|Beja|2011|

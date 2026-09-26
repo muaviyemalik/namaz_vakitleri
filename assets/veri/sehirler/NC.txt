@@ -1,11 +1,11 @@
--21.5701|165.4804|Bourail
--22.1500|166.4500|Dumbéa
--21.2909|165.6217|Houaïlou
--21.0590|164.8518|Koné
--22.2157|166.4665|Le Mont-Dore
--20.9667|167.2333|Lifou
--21.5167|167.9833|Maré
--22.2626|166.5662|Mont-Dore
--22.2758|166.4580|Nouméa
--22.1337|166.3505|Païta
--20.9496|165.3293|Poindimié
+-21.5701|165.4804|Bourail|South Province|5531|
+-22.1500|166.4500|Dumbéa|South Province|19346|
+-21.2909|165.6217|Houaïlou|North Province|4562|
+-21.0590|164.8518|Koné|North Province|4572|
+-22.2157|166.4665|Le Mont-Dore|South Province|0|
+-20.9667|167.2333|Lifou|Loyalty Islands Province|0|
+-21.5167|167.9833|Maré|Loyalty Islands Province|0|
+-22.2626|166.5662|Mont-Dore|South|24680|
+-22.2758|166.4580|Nouméa|South Province|93060|
+-22.1337|166.3505|Païta|South Province|12617|
+-20.9496|165.3293|Poindimié|North Province|5006|

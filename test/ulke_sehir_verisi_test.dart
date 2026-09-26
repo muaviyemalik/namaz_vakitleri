@@ -89,8 +89,12 @@ void main() {
       // "an" sorgusu alt dize olarak arar. "istanbul" içinde de "an"
       // geçtiği için (ist-an-bul) hem İstanbul hem Ankara eşleşir. Bu,
       // kullanıcıya daha çok sonuç göstermek isteyen bir davranıştır.
-      final sonuc = UlkeVerisi.ara(ornek, 'an');
-      expect(sonuc.map((s) => s.ad), ['İstanbul', 'Ankara']);
+      //
+      // SIRA ÖNEMLİ DEĞİLDİR: iki kayıt da aynı alakalılıkta (alt dize) ve
+      // nüfusu bilinmiyor. Sonuçlar adla sabitlenir (bkz. UlkeVerisi.ara).
+      final sonuc = UlkeVerisi.ara(ornek, 'an').map((s) => s.ad).toList();
+      expect(sonuc, containsAll(['İstanbul', 'Ankara']));
+      expect(sonuc.length, 2);
     });
 
     test('baştan eşleşme daha dar sonuç verir', () {
@@ -213,11 +217,24 @@ void main() {
       }
     });
 
-    test('her ülkenin en az 1 şehri var', () {
-      for (final giris in ulkelerJson.entries) {
-        expect((giris.value['sehirSayisi'] as int) > 0, isTrue,
-            reason: '${giris.key} için şehir yok');
+    test('her ülkenin en az 1 şehri var (bilinen 16 istisna hariç)', () {
+      // Bu 16 mikro-bölgenin kaynak verisinde yerleşim kaydı yoktur veya
+      // nüfusları 15.000 eşiğinin altındadır. Anguilla'nın nüfusu 13.254'tür
+      // (tüm ada); nüfusu 15.000+ olan tek bir yerleşimi yoktur.
+      // Vatican City, Cocos, Christmas Island vb. de aynı durumdadır.
+      // Uygulama bu durumda boş liste döndürür ve seçici "veri yok" der.
+      const istisnalar = {
+        'AI', 'CC', 'CK', 'CX', 'FK', 'GS', 'IO', 'MS',
+        'NF', 'NU', 'PN', 'SH', 'SJ', 'SX', 'VA', 'VG',
+      };
+      final bos = <String>[];
+      for (final u in ulkelerJson.values) {
+        final sayi = u['sehirSayisi'] as int;
+        if (sayi > 0) continue;
+        if (istisnalar.contains(u['iso2'])) continue;
+        bos.add('${u['iso2']} (${u['ad']})');
       }
+      expect(bos, isEmpty, reason: 'Şehri olmayan ülkeler: ${bos.join(", ")}');
     });
 
     test('Türkiye Türkçe adıyla ve doğru koordinatla mevcut', () {

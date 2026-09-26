@@ -1,430 +1,432 @@
-24.2167|38.5000|`Ajmiyah
-23.8236|38.8833|`Alya'
-23.5000|38.9167|`Ushash
-24.0186|39.6731|`Ushayrah
-18.2164|42.5053|Abha
-25.9340|49.6688|Abqaiq
-21.6500|39.7000|Abu `Urwah
-21.7306|39.7833|Abu Hisani
-21.7730|39.6796|Abu Qirfah
-16.6186|43.1311|Abu Radif
-21.5833|39.7000|Abu Shu`ayb
-24.4167|39.5500|Abyar 'Ali
-23.8667|38.3667|Abū Shayţānah
-16.9689|42.8325|Abū ‘Arīsh
-21.7167|39.8333|Ad Dabbah
-17.7229|42.2526|Ad Darb
-21.7722|39.7014|Ad Dawh
-24.4942|44.3833|Ad Dawādimī
-23.9910|47.1618|Ad Dilam
-24.7519|46.5387|Ad Dir‘īyah|Diriyah
-24.7667|39.5333|Ad Dulu`
-21.8167|39.7667|Ad Dur
-16.5842|42.8431|Ad Dur`iyah
-16.6778|42.9592|Adh Dhagharir
-26.0302|43.1576|Adh Dhibiyah
-23.9065|42.9172|Afif
-24.7581|43.7739|Ain AlBaraha
-24.4500|39.6167|Al `Awali
-26.6085|37.9232|Al-`Ula|Al-Ula
-17.1500|43.1708|Al `Ulayin
-24.5000|39.8167|Al `Uqul
-16.9203|42.7353|Al `Usaylah
-21.4436|39.8561|Al Adl
-23.3156|39.8594|Al Akhal
-26.5039|45.3481|Al Arţāwīyah
-21.5236|39.6167|Al Ashraf
-26.5833|49.9833|Al-Awamiyah
-26.5583|49.9503|Al-Awjam
-26.5632|49.9433|Al Awjām
-16.6333|42.8650|Al Badawi
-25.9855|43.7366|Al Badā’i‘ al Wusţá
-20.0129|41.4677|Al Bahah
-21.4878|39.1936|Al Balad
-21.5203|39.6325|Al Barabir
-24.0439|39.6061|Al Bardiyah
-25.4333|49.6333|Al Baţţālīyah
-22.6497|39.6703|Al Bi'ar
-24.3886|38.5989|Al Biqa'
-25.3000|45.9667|Al Bir
-18.2163|41.5359|Al Birk
-26.1392|43.6578|Al Bukayrīyah
-21.7861|39.7167|Al Buraykah
-23.2783|39.2428|Al Bustan
-23.4217|39.7097|Al Faqirah
-21.8328|40.1611|Al Fawwarah
-21.9844|39.3847|Al Faydah
-21.9833|39.5222|Al Fazz
-24.2200|39.2814|Al Furaysh
-26.4436|43.2516|Al Fuwayliq
-21.6000|41.8833|Al Gharith
-21.4500|39.8667|Al Ghassalah
-21.9500|39.3167|Al Ghulah
-31.4560|37.1481|Al-Haditha
-16.5436|42.8672|Al Hadrur
-21.3675|40.2869|Al Hadā
-24.3907|46.9868|Al Hair
-21.3500|40.4500|Al Halaqah
-21.5167|39.6333|Al Hamimah
-16.5581|42.7653|Al Hanashah
-16.7750|42.9097|Al Harani
-21.9500|39.4833|Al Harra' Makkah
-16.6833|42.9269|Al Hasamah
-21.4242|40.4930|Al Hawiyah
-16.5444|42.8472|Al Hijfar
-25.3647|49.5876|Al Hufūf
-30.7168|37.9777|Al Isawiyah
-21.4000|39.7833|Al Iskan
-24.2500|38.5167|Al Jabriyah
-16.6450|42.9947|Al Jadi
-21.6703|40.1264|Al Jadidah
-25.4167|49.6167|Al-Jafr
-21.4667|39.2500|Al Jami`ah
-16.5795|42.9124|Al Jarādīyah
-16.9567|43.0297|Al Jawah
-21.9333|39.5833|Al Jid`
-16.9264|42.8861|Al Jirbah
-23.3333|40.3000|Al Jissah
-21.5667|39.9500|Al Ju`ranah
-27.0174|49.6225|Al Jubayl
-21.6169|39.6981|Al Jumūm
-25.5293|45.2564|Al Jurayfah
-16.8733|42.6317|Al Karbus
-16.9614|42.6725|Al Kawahilah
-26.0718|43.6250|Al Khabrā’
-16.5858|42.9633|Al Khadra' Jizan
-21.4678|39.9047|Al Khadra' Makkah
-28.4391|48.4913|Al Khafjī
-21.7000|39.8000|Al Khalas
-22.4333|39.4667|Al Khamrah
-16.7558|42.9547|Al Kharabah Jizan
-16.9272|42.6264|Al Kharadilah
-24.1554|47.3346|Al Kharj
-23.9000|38.9000|Al Kharma'
-16.9403|42.6431|Al Khashabiyah
-21.4694|40.6306|Al Khaydar
-21.6833|39.7333|Al Khayf
-16.7886|43.2219|Al Khubah
-21.6833|39.9167|Al Khulasah
-21.9115|42.0309|Al Khurmah
-21.7833|39.6833|Al Kidwah
-16.5772|42.9475|Al Kirs
-21.8000|39.1333|Al Kura`
-16.6606|43.0400|Al Luqiyah
-20.1480|40.2722|Al Līth
-16.6108|43.1472|Al Ma`ayin
-21.1333|40.6000|Al Ma`rash
-16.7697|42.7311|Al Madaya
-21.6758|40.1308|Al Madiq Makkah
-21.9667|39.5500|Al Maghal
-21.4333|39.2000|Al Mahjar
-19.1236|41.9111|Al Majāridah
-23.1833|39.5167|Al Malbanah
-16.7953|42.9536|Al Mali
-21.2667|39.9500|Al Maqrah
-25.4000|49.7333|Al Markaz
-21.3667|40.4667|Al Masarrah
-21.4167|39.8167|Al Masfalah
-21.3500|40.3333|Al Mashayikh
-17.7556|44.4680|Al Mash‘ilīyah
-21.2667|40.3833|Al Mathnah
-16.9478|42.7211|Al Mayasam
-20.1588|41.2834|Al Mindak
-25.8601|44.2223|Al Mithnab
-21.7000|39.9000|Al Mubarak
-25.4077|49.5903|Al Mubarraz
-21.2667|39.9667|Al Mudawwarah
-24.3500|39.4167|Al Mufrihat
-21.8000|40.3500|Al Mulayha'
-24.0833|38.1500|Al Multasa
-25.3833|49.6667|Al Munayzilah
-21.6333|39.7486|Al Mundassah
-21.5486|39.7861|Al Muqayti`
-22.0000|39.3833|Al Muqr
-24.0833|39.1000|Al Musayjid
-22.4333|41.7583|Al Muwayh
-25.4788|49.5582|Al Muţayrifī
-22.3500|39.1500|Al Qadimah
-18.9256|41.9550|Al Qahab
-16.7194|42.9767|Al Qa'im
-21.4289|39.8281|Al Qararah
-21.4667|39.2000|Al Qaryat
-21.6667|39.9833|Al Qawba`iyah
-26.5654|50.0089|Al Qaţīf
-21.5667|39.7000|Al Qirshan
-21.9333|40.3667|Al Qu`tubah
-21.8333|40.4500|Al Qufayf
-16.6733|43.0789|Al Quful
-16.9750|42.7253|Al Qurayb
-25.4833|49.6000|Al Qurayn
-16.7994|43.2250|Al Quwah
-24.0464|45.2656|Al-Quway'iyah
-25.4167|49.6667|Al Qārah
-21.9842|50.9397|Al Ubaylah
-21.9333|40.0167|Al Ukhaydir
-21.2333|40.3500|Al Waht
-26.2455|36.4525|Al Wajh
-16.9469|42.6903|Al Wasili
-24.1789|39.5481|Al Wuday
-21.0981|39.9103|Al Ābār
-20.6500|41.4167|Al ‘Aqīq
-26.5914|49.9795|Al ‘Awwāmīyah
-16.5647|42.9439|An Najamiyah
-19.1455|42.1201|An Nimas
-30.9753|41.0381|Arar
-21.9553|39.4367|Ar Rabwah as Sufla
-21.5167|40.2000|Ar Rafah
-25.8694|43.4973|Ar Rass
-21.7333|39.9667|Ar Rawdah ash Shamaliyah
-23.5499|45.5046|Ar Rayn
-21.7669|39.6859|Ar Rudaymah
-16.6222|42.9675|Ar Rukubah
-21.0856|40.6239|Arya`
-21.0721|40.3118|Ash Shafā
-21.6644|40.0114|Ash Shajwah
-21.8411|39.5244|Ash Shamiyah
-21.4631|39.9461|Ash Shara'i`
-21.6958|39.9417|Ash Shaybi
-21.9689|39.4861|Ash Shi`b
-21.3503|39.8919|Ash Shishah
-23.8167|39.1500|Ash Shufayyah
-21.5833|39.6833|Ash Shumaysi
-17.7031|42.0294|Ash Shuqayq
-21.3797|40.5194|Ash Shuwaybit
-24.3333|38.6333|Asira
-24.2500|39.1833|As Sadayir
-21.5189|40.1975|As Sadr
-27.9708|48.7300|As Saffānīyah
-24.0128|38.9228|As Safra'
-24.2015|47.2887|As Salamiyah
-21.6750|39.7500|As Samd ash Shamali
-21.6264|40.4153|As Sayl al Kabir
-21.5064|40.4822|As Sayl as Saghir
-21.4756|39.8431|As Sifyani
-21.3619|40.8547|As Sudayrah Makkah
-20.4607|45.5779|As Sulayyil
-24.9214|39.6178|As Sumariyah
-21.1339|40.5117|As Suwadah
-23.3500|40.3167|As Suwayriqiyah
-21.4825|39.8050|At Tan`im
-21.7064|39.8714|At Tarfa'
-21.9492|39.4131|At Turqi
-26.5578|49.9917|At Tūbī
-21.6186|40.1133|Az Zaymah
-21.4889|39.5942|Az Zilal
-21.7167|39.9458|Az Zughbah
-26.2995|44.8154|Az Zulfī
-21.9106|39.4000|Az Zurra`
-21.9167|39.9694|Az Zuwayb
-25.3623|49.7276|Aţ Ţaraf
-18.0206|42.9497|Badr Al Janub
-23.7829|38.7905|Badr Ḩunayn
-21.4133|39.4939|Bahrat al Qadimah
-22.4294|39.4294|Bahwil
-16.8986|42.5989|Bakhshat Yamani
-19.8594|41.5572|Baljurashi
-24.2167|38.7167|Baq`a'
-27.7681|41.0692|Baqaa
-27.9065|42.3890|Baq‘ā’
-21.5542|39.8222|Baranah
-18.9297|41.9295|Bariq
-24.2833|38.5833|Bartiyah
-21.9800|39.6756|Barzah
-21.4822|39.8208|Bashm
-24.2167|39.5500|Bi'r al Mashi
-23.8203|38.8597|Birkah
-26.3333|43.9667|Buraidah
-26.3260|43.9750|Buraydah
-22.3444|39.3200|Buraykah
-21.6375|39.2264|Burayman
-20.0005|42.6052|Bīshah
-21.9738|39.3682|City Ghran
-22.4247|39.4461|Dabyah
-21.9333|39.1167|Dahaban
-26.4344|50.1033|Dammam
-24.4460|44.1300|Dawadmi
-26.2886|50.1140|Dhahran
-27.3513|35.6901|Duba
-22.5903|41.3597|Dughaybjah
-25.3562|43.6227|Dukhnah
-23.8167|38.8667|Far`
-16.7022|42.1183|Farasān
-21.9172|39.3883|Fayd
-17.2806|43.1373|Fayfā’
-24.2667|38.5667|Fiji|Khayf Fadil
-16.5650|43.1108|Ghawiyah
-26.9233|42.0289|Ghazalah
-21.9803|39.3652|Ghran
-17.3667|45.2167|Habona
-21.4503|39.5544|Hadda'
-21.7967|39.6833|Haddat ash Sham
-21.6525|40.0142|Hadhah
-28.4328|45.9708|Hafar Al-Batin
-27.5219|41.6901|Hail
-27.1019|41.2053|Hait
-20.2333|41.0500|Hajrah
-23.0178|39.7303|Hajur
-21.9542|39.7028|Halamah
-29.1594|36.0750|Halat Ammar
-16.9894|43.1603|Hamayyah
-16.7619|42.9222|Hamdah
-24.1456|49.0653|Haradh
-25.9167|45.3333|Harmah
-24.2500|38.5500|Harthiyah
-24.0839|39.7250|Haylat Radi al Baham
-23.5250|46.8372|Hotat Bani Tamim
-23.8667|38.9000|Husayniyah
-21.8000|39.5917|Husnah
-23.8167|38.8333|Jadidah
-25.6667|45.4500|Jalajil
-21.4333|39.8167|Jarwal
-21.5424|39.1980|Jeddah
-16.8892|42.5511|Jizan
-28.0062|40.9416|Jubbah
-16.6694|42.8922|Juha Saudi Arabia
-25.5000|49.6000|Julayjilah
-21.9583|39.7583|Julayyil
-16.8975|42.8467|Ka`lul
-16.9978|42.7322|Khabath Sa`id
-16.5547|43.0894|Khalfah
-18.3000|42.7333|Khamis Mushait
-16.8961|41.8575|Khatib Saudi Arabia
-26.2794|50.2083|Khobar
-17.5819|44.2739|Khubash
-22.1555|39.3201|Khulayş
-21.3728|39.2261|Khumrah
-16.7714|42.8019|Khumsiyah
-16.8800|43.1372|Khushaym
-28.4500|45.9667|King Faisal Military City
-27.9051|45.5533|King Khalid Military City
-21.2964|40.7969|Kulakh
-22.2833|46.7333|Layla
-18.8500|41.9667|Ma`riyah
-24.4686|39.6142|Madinah|Medina
-21.9797|39.9875|Madrakah
-24.3500|38.5500|Madsus
-21.5222|40.1794|Mafruq
-16.8333|43.1667|Mahatah
-23.7500|39.3000|Mahattat al Hafah
-23.4997|40.8841|Mahd adh Dhahab
-21.4266|39.8256|Makkah|Mecca
-21.2158|39.9503|Malakan
-16.9978|42.6739|Malgocta
-24.5961|46.7272|Manfuha
-24.4167|38.7000|Maqrah
-23.5833|38.6000|Maqshush
-25.0706|45.4577|Marāt
-24.0333|38.2333|Masahili
-21.7389|39.9667|Mashajji
-21.9417|39.8861|Masihat Mahd al Hayl
-21.7500|40.3164|Maskar
-21.5417|39.8194|Matiyah
-24.2000|38.4333|Mawarah
-27.3840|41.1763|Mawqaq
-18.8917|41.9633|Mifa
-24.0500|38.3000|Milhah
-21.4133|39.8933|Mina
-17.4599|42.5572|Mislīyah
-16.8261|42.7333|Mizhirah
-18.5073|42.0486|Muhayil
-16.5936|43.0328|Mukambal
-27.2710|48.4242|Mulayjah
-18.9464|41.9164|Munayzir
-16.7542|43.1489|Mundaraq
-21.4889|39.7944|Murshidiyah
-22.6292|41.3567|Mushrif
-16.4167|42.8258|Muwassam
-24.0775|47.1659|Najan
-17.4933|44.1277|Najrān
-27.4699|48.4844|Nariyah
-29.1927|44.7160|Nisab
-21.2167|40.7500|Nughayshiyah
-24.2667|38.6500|Nujayl
-22.0000|39.4167|Nuzlat al Faqin
-24.4000|39.6500|Qaba'
-28.3112|46.1273|Qaisumah
-27.4029|44.3277|Qiba
-17.3333|43.2500|Qitabir
-21.0667|41.0167|Qiya
-27.4153|41.6190|Qufar
-31.3318|37.3428|Qurayyat
-16.7333|42.8903|Quwayda'
-21.4903|39.2767|Quwayzah
-21.9833|39.4167|Rabwah Ghran
-16.8333|43.2167|Rahwan
-21.2504|42.8475|Ranyah
-21.7667|40.3500|Raqiyah
-26.7074|50.0673|Ras Tanura
-16.9478|42.7933|Rawkhah
-23.5667|38.6000|Rayyis
-26.7079|50.0619|Raḩīmah
-24.6877|46.7219|Riyadh
-26.0667|43.5534|Riyāḑ al Khabrā’
-25.5639|47.1641|Rumāḩ
-22.7986|39.0349|Rābigh
-19.5773|41.9636|Sabt Alalayah
-21.5833|40.1167|Sabuhah
-17.1495|42.6254|Şabyā
-16.9264|42.8300|Sadiliyah
-26.6497|49.9552|Şafwá
-29.9697|40.2064|Sakakah
-16.9753|42.7564|Salamah
-18.0890|43.1320|Sarāt ‘Abīdah
-26.4750|50.0417|Sayhāt
-24.2333|38.5333|Sha`tha'
-27.3333|41.7500|Shamli
-27.4636|40.6403|Shanan
-25.2483|45.2528|Shaqra
-17.4705|47.1110|Sharurah
-21.2833|40.7833|Shira`ayn
-24.4902|46.2687|shokhaibٍ
-24.5000|39.6167|Sidi Hamzah
-26.4942|42.1249|Simira
-27.5667|42.0000|Sulaimi
-22.5833|39.6333|Sulaym
-24.4926|39.5857|Sulţānah
-27.1500|41.4500|Sumairah
-21.2500|39.1667|Sumaymah
-24.3667|38.4500|Suq Suwayq
-24.2333|38.5000|Suqubiya
-24.0333|38.2000|Suwadah
-30.1171|40.3892|Şuwayr
-21.9500|39.9667|Suways
-25.1825|44.5996|Sājir
-16.5960|42.9444|Şāmitah
-30.5000|38.2167|Tabarjal
-28.3998|36.5715|Tabuk
-19.9500|42.4000|Tabālah
-21.2703|40.4158|Ta'if
-27.1000|44.1333|Tanūmah
-27.6223|38.5388|Taymā’
-17.4208|44.8311|Thar
-21.5167|39.6167|Tharwah
-26.2602|50.2049|Thuqbah
-22.2833|39.1000|Thuwal
-25.7035|45.8683|Tumayr
-21.2141|41.6331|Turabah
-31.6725|38.6637|Turaif
-28.2585|42.9246|Turubah
-26.5733|50.0403|Tārūt
-25.1333|49.3000|Udhailiyah
-25.0213|37.2685|Umluj|Umm Lajj
-26.6536|49.9164|Umm as Sāhik
-28.6798|44.6955|Umm Radamah
-26.0876|43.9913|Unaizah
-25.6431|50.2144|Uqair
-21.9231|39.3559|Usfan
-20.5038|44.3924|Wadi ad-Dawasir
-21.4667|39.8500|Wadi al Jalil
-23.8833|38.9000|Wasitah
-25.4267|42.8343|Wed Alnkil
-17.3653|44.3264|Yadamah
-24.0895|38.0618|Yanbu
-30.4999|38.2160|Ţubarjal
-31.6720|38.6630|Ţurayf
-17.1043|42.7816|Ḑamad
-23.4960|46.8780|Ḥawṭah Banī Tamīm
-29.2863|34.9469|Ḩaql
-26.5196|50.0271|‘Inak
-24.6803|46.6111|‘Irqah
-26.4983|43.6312|‘Uyūn al Jiwā’
+24.2167|38.5000|`Ajmiyah|Al Madinah|0|
+23.8236|38.8833|`Alya'|Al Madinah|0|
+23.5000|38.9167|`Ushash|Al Madinah|0|
+24.0186|39.6731|`Ushayrah|Al Madinah|0|
+18.2164|42.5053|Abha|Asir|210886|
+25.9340|49.6688|Abqaiq|Eastern Province|29474|
+21.6500|39.7000|Abu `Urwah|Makkah|0|
+21.7306|39.7833|Abu Hisani|Makkah|0|
+21.7730|39.6796|Abu Qirfah|Makkah|0|
+16.6186|43.1311|Abu Radif|Jizan|0|
+21.5833|39.7000|Abu Shu`ayb|Makkah|0|
+24.4167|39.5500|Abyar 'Ali|Al Madinah|0|
+23.8667|38.3667|Abū Shayţānah|Al Madinah|0|
+16.9689|42.8325|Abū ‘Arīsh|Jizan|69632|
+21.7167|39.8333|Ad Dabbah|Makkah|0|
+17.7229|42.2526|Ad Darb|Jizan|5378|
+21.7722|39.7014|Ad Dawh|Makkah|0|
+24.4942|44.3833|Ad Dawādimī|Riyadh|86861|
+23.9910|47.1618|Ad Dilam|Riyadh|35371|
+24.7667|39.5333|Ad Dulu`|Al Madinah|0|
+21.8167|39.7667|Ad Dur|Makkah|0|
+16.5842|42.8431|Ad Dur`iyah|Jizan|0|
+16.6778|42.9592|Adh Dhagharir|Jizan|0|
+26.0302|43.1576|Adh Dhibiyah|Al-Qassim|5068|
+23.9065|42.9172|Afif|Riyadh|45525|
+24.7581|43.7739|Ain AlBaraha|Riyadh|1500|
+24.4500|39.6167|Al `Awali|Al Madinah|0|
+17.1500|43.1708|Al `Ulayin|Jizan|0|
+24.5000|39.8167|Al `Uqul|Al Madinah|0|
+16.9203|42.7353|Al `Usaylah|Jizan|0|
+21.4436|39.8561|Al Adl|Makkah|0|
+23.3156|39.8594|Al Akhal|Al Madinah|0|
+26.5039|45.3481|Al Arţāwīyah|Riyadh|9152|
+21.5236|39.6167|Al Ashraf|Makkah|0|
+26.5833|49.9833|Al-Awamiyah|Eastern Province|0|
+26.5583|49.9503|Al-Awjam|Eastern Province|0|
+26.5632|49.9433|Al Awjām|Eastern Province|11460|
+16.6333|42.8650|Al Badawi|Jizan|0|
+25.9855|43.7366|Al Badā’i‘ al Wusţá|Al-Qassim Region|48474|
+20.0129|41.4677|Al Bahah|Al Bahah|88419|
+21.4878|39.1936|Al Balad|Makkah|0|
+21.5203|39.6325|Al Barabir|Makkah|0|
+24.0439|39.6061|Al Bardiyah|Al Madinah|0|
+25.4333|49.6333|Al Baţţālīyah|Eastern Province|16606|
+22.6497|39.6703|Al Bi'ar|Makkah|0|
+24.3886|38.5989|Al Biqa'|Al Madinah|0|
+25.3000|45.9667|Al Bir|Riyadh|0|
+18.2163|41.5359|Al Birk|Makkah|0|
+26.1392|43.6578|Al Bukayrīyah|Al-Qassim|43229|
+21.7861|39.7167|Al Buraykah|Makkah|0|
+23.2783|39.2428|Al Bustan|Al Madinah|0|
+23.4217|39.7097|Al Faqirah|Al Madinah|0|
+21.8328|40.1611|Al Fawwarah|Makkah|0|
+21.9844|39.3847|Al Faydah|Makkah|0|
+21.9833|39.5222|Al Fazz|Makkah|0|
+24.2200|39.2814|Al Furaysh|Al Madinah|0|
+26.4436|43.2516|Al Fuwayliq|Al-Qassim|5205|
+21.6000|41.8833|Al Gharith|Makkah|0|
+21.4500|39.8667|Al Ghassalah|Makkah|0|
+21.9500|39.3167|Al Ghulah|Makkah|0|
+31.4560|37.1481|Al-Haditha|Al Jawf|0|
+16.5436|42.8672|Al Hadrur|Jizan|0|
+21.3675|40.2869|Al Hadā|Makkah|6885|
+24.3907|46.9868|Al Hair|Riyadh|0|
+21.3500|40.4500|Al Halaqah|Makkah|0|
+21.5167|39.6333|Al Hamimah|Makkah|0|
+16.5581|42.7653|Al Hanashah|Jizan|0|
+16.7750|42.9097|Al Harani|Jizan|0|
+21.9500|39.4833|Al Harra' Makkah|Makkah|0|
+16.6833|42.9269|Al Hasamah|Jizan|0|
+21.4242|40.4930|Al Hawiyah|Makkah|0|
+16.5444|42.8472|Al Hijfar|Jizan|0|
+25.3647|49.5876|Al Hufūf|Eastern Province|293179|
+30.7168|37.9777|Al Isawiyah|Al Jawf|0|
+21.4000|39.7833|Al Iskan|Makkah|0|
+24.2500|38.5167|Al Jabriyah|Al Madinah|0|
+16.6450|42.9947|Al Jadi|Jizan|0|
+21.6703|40.1264|Al Jadidah|Makkah|0|
+25.4167|49.6167|Al-Jafr|Al Madinah|8715|
+25.3774|49.7215|Al Jafr|Eastern Province|8715|
+21.4667|39.2500|Al Jami`ah|Makkah|0|
+16.5795|42.9124|Al Jarādīyah|Jizan|7396|
+16.9567|43.0297|Al Jawah|Jizan|0|
+21.9333|39.5833|Al Jid`|Makkah|0|
+16.9264|42.8861|Al Jirbah|Jizan|0|
+23.3333|40.3000|Al Jissah|Al Madinah|0|
+21.5667|39.9500|Al Ju`ranah|Makkah|0|
+27.0174|49.6225|Al Jubayl|Eastern Province|237274|
+21.6169|39.6981|Al Jumūm|Makkah|22207|
+25.5293|45.2564|Al Jurayfah|Riyadh|0|
+16.8733|42.6317|Al Karbus|Jizan|0|
+16.9614|42.6725|Al Kawahilah|Jizan|0|
+26.0718|43.6250|Al Khabrā’|Al-Qassim Region|16906|
+16.5858|42.9633|Al Khadra' Jizan|Jizan|0|
+21.4678|39.9047|Al Khadra' Makkah|Makkah|0|
+28.4391|48.4913|Al Khafjī|Eastern Province|54857|
+21.7000|39.8000|Al Khalas|Makkah|0|
+22.4333|39.4667|Al Khamrah|Makkah|0|
+16.7558|42.9547|Al Kharabah Jizan|Jizan|0|
+16.9272|42.6264|Al Kharadilah|Jizan|0|
+24.1554|47.3346|Al Kharj|Riyadh|425300|
+23.9000|38.9000|Al Kharma'|Al Madinah|0|
+16.9403|42.6431|Al Khashabiyah|Jizan|0|
+21.4694|40.6306|Al Khaydar|Makkah|0|
+21.6833|39.7333|Al Khayf|Makkah|0|
+16.7886|43.2219|Al Khubah|Jizan|0|
+21.6833|39.9167|Al Khulasah|Makkah|0|
+21.9115|42.0309|Al Khurmah|Mecca Region|28491|
+21.7833|39.6833|Al Kidwah|Makkah|0|
+16.5772|42.9475|Al Kirs|Jizan|0|
+21.8000|39.1333|Al Kura`|Makkah|0|
+16.6606|43.0400|Al Luqiyah|Jizan|0|
+20.1480|40.2722|Al Līth|Mecca Region|72000|
+16.6108|43.1472|Al Ma`ayin|Jizan|0|
+21.1333|40.6000|Al Ma`rash|Makkah|0|
+16.7697|42.7311|Al Madaya|Jizan|0|
+21.6758|40.1308|Al Madiq Makkah|Makkah|0|
+21.9667|39.5500|Al Maghal|Makkah|0|
+21.4333|39.2000|Al Mahjar|Makkah|0|
+19.1236|41.9111|Al Majāridah|Asir|14830|
+23.1833|39.5167|Al Malbanah|Al Madinah|0|
+16.7953|42.9536|Al Mali|Jizan|0|
+21.2667|39.9500|Al Maqrah|Makkah|0|
+25.4000|49.7333|Al Markaz|Eastern Province|6464|
+21.3667|40.4667|Al Masarrah|Makkah|0|
+21.4167|39.8167|Al Masfalah|Makkah|0|
+21.3500|40.3333|Al Mashayikh|Makkah|0|
+17.7556|44.4680|Al Mash‘ilīyah|Najran Region|23252|
+21.2667|40.3833|Al Mathnah|Makkah|0|
+16.9478|42.7211|Al Mayasam|Jizan|0|
+20.1588|41.2834|Al Mindak|Al Bahah|9218|
+25.8601|44.2223|Al Mithnab|Al-Qassim|33341|
+21.7000|39.9000|Al Mubarak|Makkah|0|
+25.4077|49.5903|Al Mubarraz|Eastern Province|290802|
+21.2667|39.9667|Al Mudawwarah|Makkah|0|
+24.3500|39.4167|Al Mufrihat|Al Madinah|0|
+21.8000|40.3500|Al Mulayha'|Makkah|0|
+24.0833|38.1500|Al Multasa|Al Madinah|0|
+25.3833|49.6667|Al Munayzilah|Eastern Province|16296|
+21.6333|39.7486|Al Mundassah|Makkah|0|
+21.5486|39.7861|Al Muqayti`|Makkah|0|
+22.0000|39.3833|Al Muqr|Makkah|0|
+24.0833|39.1000|Al Musayjid|Al Madinah|0|
+22.4333|41.7583|Al Muwayh|Makkah|7364|
+25.4788|49.5582|Al Muţayrifī|Eastern Province|5962|
+22.3500|39.1500|Al Qadimah|Makkah|0|
+18.9256|41.9550|Al Qahab|Asir|0|
+16.7194|42.9767|Al Qa'im|Jizan|0|
+21.4289|39.8281|Al Qararah|Makkah|0|
+21.4667|39.2000|Al Qaryat|Makkah|0|
+21.6667|39.9833|Al Qawba`iyah|Makkah|0|
+26.5654|50.0089|Al Qaţīf|Eastern Province|98259|
+21.5667|39.7000|Al Qirshan|Makkah|0|
+21.9333|40.3667|Al Qu`tubah|Makkah|0|
+21.8333|40.4500|Al Qufayf|Makkah|0|
+16.6733|43.0789|Al Quful|Jizan|0|
+16.9750|42.7253|Al Qurayb|Jizan|0|
+25.4833|49.6000|Al Qurayn|Eastern Province|12013|
+16.7994|43.2250|Al Quwah|Jizan|0|
+24.0739|45.2806|Al Quwayiyah|Riyadh|0|
+25.4167|49.6667|Al Qārah|Eastern Province|9106|
+21.9842|50.9397|Al Ubaylah|Eastern Province|0|
+21.9333|40.0167|Al Ukhaydir|Makkah|0|
+26.6085|37.9232|Al-Ula|Al Madinah|32413|Al-`Ula
+21.2333|40.3500|Al Waht|Makkah|0|
+26.2455|36.4525|Al Wajh|Tabuk|26636|
+16.9469|42.6903|Al Wasili|Jizan|0|
+24.1789|39.5481|Al Wuday|Al Madinah|0|
+21.0981|39.9103|Al Ābār|Makkah|0|
+20.6500|41.4167|Al ‘Aqīq|Al Bahah Region|19269|
+26.5914|49.9795|Al ‘Awwāmīyah|Eastern|26276|
+16.5647|42.9439|An Najamiyah|Jizan|0|
+19.1455|42.1201|An Nimas|'Asir Region|24153|
+30.9753|41.0381|Arar|Northern Borders|148540|
+21.9553|39.4367|Ar Rabwah as Sufla|Makkah|0|
+21.5167|40.2000|Ar Rafah|Makkah|0|
+25.8694|43.4973|Ar Rass|Al-Qassim|81728|
+21.7333|39.9667|Ar Rawdah ash Shamaliyah|Makkah|0|
+23.5499|45.5046|Ar Rayn|Riyadh|2726|
+21.7669|39.6859|Ar Rudaymah|Makkah|0|
+16.6222|42.9675|Ar Rukubah|Jizan|0|
+21.0856|40.6239|Arya`|Makkah|0|
+21.0721|40.3118|Ash Shafā|Makkah|72190|
+21.6644|40.0114|Ash Shajwah|Makkah|0|
+21.8411|39.5244|Ash Shamiyah|Makkah|0|
+21.4631|39.9461|Ash Shara'i`|Makkah|0|
+21.6958|39.9417|Ash Shaybi|Makkah|0|
+21.9689|39.4861|Ash Shi`b|Makkah|0|
+21.3503|39.8919|Ash Shishah|Makkah|0|
+23.8167|39.1500|Ash Shufayyah|Al Madinah|0|
+21.5833|39.6833|Ash Shumaysi|Makkah|0|
+17.7031|42.0294|Ash Shuqayq|Jizan|0|
+21.3797|40.5194|Ash Shuwaybit|Makkah|0|
+24.3333|38.6333|Asira|Al Madinah|0|
+24.2500|39.1833|As Sadayir|Al Madinah|0|
+21.5189|40.1975|As Sadr|Makkah|0|
+27.9708|48.7300|As Saffānīyah|Eastern Province|7014|
+24.0128|38.9228|As Safra'|Al Madinah|0|
+24.2015|47.2887|As Salamiyah|Riyadh|0|
+21.6750|39.7500|As Samd ash Shamali|Makkah|0|
+21.6264|40.4153|As Sayl al Kabir|Makkah|0|
+21.5064|40.4822|As Sayl as Saghir|Makkah|0|
+21.4756|39.8431|As Sifyani|Makkah|0|
+21.3619|40.8547|As Sudayrah Makkah|Makkah|0|
+20.4607|45.5779|As Sulayyil|Riyadh|24097|
+24.9214|39.6178|As Sumariyah|Al Madinah|0|
+21.1339|40.5117|As Suwadah|Makkah|0|
+23.3500|40.3167|As Suwayriqiyah|Al Madinah|0|
+21.4825|39.8050|At Tan`im|Makkah|0|
+21.7064|39.8714|At Tarfa'|Makkah|0|
+21.9492|39.4131|At Turqi|Makkah|0|
+26.5578|49.9917|At Tūbī|Eastern Province|7740|
+21.6186|40.1133|Az Zaymah|Makkah|0|
+21.4889|39.5942|Az Zilal|Makkah|0|
+21.7167|39.9458|Az Zughbah|Makkah|0|
+26.2995|44.8154|Az Zulfī|Riyadh|125000|
+21.9106|39.4000|Az Zurra`|Makkah|0|
+21.9167|39.9694|Az Zuwayb|Makkah|0|
+25.3623|49.7276|Aţ Ţaraf|Eastern Province|21386|
+18.0206|42.9497|Badr Al Janub|Najran|0|
+23.7829|38.7905|Badr Ḩunayn|Medina Region|27257|
+21.4133|39.4939|Bahrat al Qadimah|Makkah|0|
+22.4294|39.4294|Bahwil|Makkah|0|
+16.8986|42.5989|Bakhshat Yamani|Jizan|0|
+19.8594|41.5572|Baljurashi|Al Bahah Region|51787|
+24.2167|38.7167|Baq`a'|Al Madinah|0|
+27.7681|41.0692|Baqaa|Ha'il|0|
+27.9065|42.3890|Baq‘ā’|Ha'il Region|19659|
+21.5542|39.8222|Baranah|Makkah|0|
+18.9297|41.9295|Bariq|'Asir Region|75351|
+24.2833|38.5833|Bartiyah|Al Madinah|0|
+21.9800|39.6756|Barzah|Makkah|0|
+21.4822|39.8208|Bashm|Makkah|0|
+24.2167|39.5500|Bi'r al Mashi|Al Madinah|0|
+23.8203|38.8597|Birkah|Al Madinah|0|
+26.3333|43.9667|Buraidah|Al-Qassim|0|
+26.3260|43.9750|Buraydah|Al-Qassim|745353|
+22.3444|39.3200|Buraykah|Makkah|0|
+21.6375|39.2264|Burayman|Makkah|0|
+20.0005|42.6052|Bīshah|'Asir Region|115537|
+21.9738|39.3682|City Ghran|Makkah|0|
+22.4247|39.4461|Dabyah|Makkah|0|
+21.9333|39.1167|Dahaban|Makkah|0|
+26.4344|50.1033|Dammam|Eastern Province|1252523|
+24.4460|44.1300|Dawadmi|Riyadh|0|
+26.2886|50.1140|Dhahran|Eastern Province|99540|
+24.7519|46.5387|Diriyah|Riyadh|61609|Ad Dir‘īyah
+27.3513|35.6901|Duba|Tabuk|22000|
+22.5903|41.3597|Dughaybjah|Makkah|0|
+25.3562|43.6227|Dukhnah|Al-Qassim|6354|
+23.8167|38.8667|Far`|Al Madinah|0|
+16.7022|42.1183|Farasān|Jizan|10527|
+21.9172|39.3883|Fayd|Makkah|0|
+17.2806|43.1373|Fayfā’|Jazan Region|29793|
+24.2667|38.5667|Fiji|Al Madinah|0|
+16.5650|43.1108|Ghawiyah|Jizan|0|
+26.9233|42.0289|Ghazalah|Ha'il|0|
+21.9803|39.3652|Ghran|Makkah|0|
+17.3667|45.2167|Habona|Najran|0|
+21.4503|39.5544|Hadda'|Makkah|0|
+21.7967|39.6833|Haddat ash Sham|Makkah|0|
+21.6525|40.0142|Hadhah|Makkah|0|
+28.4328|45.9708|Hafar Al-Batin|Eastern Province|271642|
+27.5167|41.6833|Ha'il|Eastern Province|605930|
+27.5219|41.6901|Hail|Ha'il|605930|
+27.1019|41.2053|Hait|Ha'il|0|
+20.2333|41.0500|Hajrah|Al Bahah|0|
+23.0178|39.7303|Hajur|Makkah|0|
+21.9542|39.7028|Halamah|Makkah|0|
+29.1594|36.0750|Halat Ammar|Al Jawf|0|
+16.9894|43.1603|Hamayyah|Jizan|0|
+16.7619|42.9222|Hamdah|Jizan|0|
+24.1456|49.0653|Haradh|Eastern Province|0|
+25.9167|45.3333|Harmah|Riyadh|0|
+24.2500|38.5500|Harthiyah|Al Madinah|0|
+24.0839|39.7250|Haylat Radi al Baham|Al Madinah|0|
+23.5250|46.8372|Hotat Bani Tamim|Riyadh|0|
+23.8667|38.9000|Husayniyah|Al Madinah|0|
+21.8000|39.5917|Husnah|Makkah|0|
+23.8167|38.8333|Jadidah|Al Madinah|0|
+25.6667|45.4500|Jalajil|Riyadh|0|
+21.4333|39.8167|Jarwal|Makkah|0|
+21.5424|39.1980|Jeddah|Makkah|4697000|
+16.8892|42.5511|Jizan|Jizan|105198|
+28.0062|40.9416|Jubbah|Ha'il|0|
+16.6694|42.8922|Juha Saudi Arabia|Jizan|0|
+25.5000|49.6000|Julayjilah|Eastern Province|5359|
+21.9583|39.7583|Julayyil|Makkah|0|
+16.8975|42.8467|Ka`lul|Jizan|0|
+16.9978|42.7322|Khabath Sa`id|Jizan|0|
+16.5547|43.0894|Khalfah|Jizan|0|
+18.3000|42.7333|Khamis Mushait|Asir|387553|
+16.8961|41.8575|Khatib Saudi Arabia|Jizan|0|
+26.2794|50.2083|Khobar|Eastern Province|165799|
+17.5819|44.2739|Khubash|Najran|0|
+22.1555|39.3201|Khulayş|Mecca Region|20139|
+21.3728|39.2261|Khumrah|Makkah|0|
+16.7714|42.8019|Khumsiyah|Jizan|0|
+16.8800|43.1372|Khushaym|Jizan|0|
+28.4500|45.9667|King Faisal Military City|Eastern|65000|
+27.9051|45.5533|King Khalid Military City|Eastern|25356|
+21.2964|40.7969|Kulakh|Makkah|0|
+22.2833|46.7333|Layla|Riyadh|29698|
+18.8500|41.9667|Ma`riyah|Asir|0|
+24.4686|39.6142|Madinah|Al Madinah|1300000|Medina
+21.9797|39.9875|Madrakah|Makkah|0|
+24.3500|38.5500|Madsus|Al Madinah|0|
+21.5222|40.1794|Mafruq|Makkah|0|
+16.8333|43.1667|Mahatah|Jizan|0|
+23.7500|39.3000|Mahattat al Hafah|Al Madinah|0|
+23.4997|40.8841|Mahd adh Dhahab|Medina Region|20272|
+21.4266|39.8256|Makkah|Makkah|1578722|Mecca
+21.2158|39.9503|Malakan|Makkah|0|
+16.9978|42.6739|Malgocta|Jizan|0|
+24.5961|46.7272|Manfuha|Riyadh|0|
+24.4167|38.7000|Maqrah|Al Madinah|0|
+23.5833|38.6000|Maqshush|Al Madinah|0|
+25.0706|45.4577|Marāt|Riyadh|8885|
+24.0333|38.2333|Masahili|Al Madinah|0|
+21.7389|39.9667|Mashajji|Makkah|0|
+21.9417|39.8861|Masihat Mahd al Hayl|Makkah|0|
+21.7500|40.3164|Maskar|Makkah|0|
+21.5417|39.8194|Matiyah|Makkah|0|
+24.2000|38.4333|Mawarah|Al Madinah|0|
+27.3840|41.1763|Mawqaq|Ha'il|0|
+18.8917|41.9633|Mifa|Asir|0|
+24.0500|38.3000|Milhah|Al Madinah|0|
+21.4133|39.8933|Mina|Makkah|0|
+17.4599|42.5572|Mislīyah|Jizan|6117|
+16.8261|42.7333|Mizhirah|Jizan|5529|
+18.5073|42.0486|Muhayil|Asir|0|
+16.5936|43.0328|Mukambal|Jizan|0|
+27.2710|48.4242|Mulayjah|Eastern Province|5247|
+18.9464|41.9164|Munayzir|Asir|0|
+16.7542|43.1489|Mundaraq|Jizan|0|
+21.4889|39.7944|Murshidiyah|Makkah|0|
+22.6292|41.3567|Mushrif|Makkah|0|
+16.4167|42.8258|Muwassam|Jizan|0|
+24.0775|47.1659|Najan|Riyadh|0|
+17.4933|44.1277|Najrān|Najran|505652|
+27.4699|48.4844|Nariyah|Eastern Province|0|
+29.1927|44.7160|Nisab|Northern Borders|0|
+21.2167|40.7500|Nughayshiyah|Makkah|0|
+24.2667|38.6500|Nujayl|Al Madinah|0|
+22.0000|39.4167|Nuzlat al Faqin|Makkah|0|
+24.4000|39.6500|Qaba'|Al Madinah|0|
+28.3112|46.1273|Qaisumah|Eastern Province|20685|
+27.4029|44.3277|Qiba|Al-Qassim|0|
+17.3333|43.2500|Qitabir|Jizan|0|
+21.0667|41.0167|Qiya|Makkah|0|
+27.4153|41.6190|Qufar|Ha'il|0|
+31.3318|37.3428|Qurayyat|Al Jawf|102903|
+16.7333|42.8903|Quwayda'|Jizan|0|
+21.4903|39.2767|Quwayzah|Makkah|0|
+21.9833|39.4167|Rabwah Ghran|Makkah|0|
+16.8333|43.2167|Rahwan|Jizan|0|
+21.2504|42.8475|Ranyah|'Asir Region|45942|
+21.7667|40.3500|Raqiyah|Makkah|0|
+26.7074|50.0673|Ras Tanura|Eastern|62314|
+16.9478|42.7933|Rawkhah|Jizan|0|
+23.5667|38.6000|Rayyis|Al Madinah|0|
+26.7079|50.0619|Raḩīmah|Eastern Province|41188|
+24.6877|46.7219|Riyadh|Riyadh|4205961|
+26.0667|43.5534|Riyāḑ al Khabrā’|Al-Qassim Region|25588|
+25.5639|47.1641|Rumāḩ|Riyadh Region|25031|
+22.7986|39.0349|Rābigh|Makkah|72928|
+19.5773|41.9636|Sabt Alalayah|'Asir Region|100000|
+21.5833|40.1167|Sabuhah|Makkah|0|
+17.1495|42.6254|Şabyā|Jizan|228375|
+16.9264|42.8300|Sadiliyah|Jizan|0|
+26.6497|49.9552|Şafwá|Eastern Province|45876|
+29.9697|40.2064|Sakakah|Al Jawf|128332|
+16.9753|42.7564|Salamah|Jizan|0|
+18.0890|43.1320|Sarāt ‘Abīdah|'Asir Region|19855|
+26.4750|50.0417|Sayhāt|Eastern Province|66702|
+24.2333|38.5333|Sha`tha'|Al Madinah|0|
+27.3333|41.7500|Shamli|Ha'il|0|
+27.4636|40.6403|Shanan|Ha'il|0|
+25.2483|45.2528|Shaqra|Riyadh|32215|
+17.4705|47.1110|Sharurah|Najran|0|
+21.2833|40.7833|Shira`ayn|Makkah|0|
+24.4902|46.2687|shokhaibٍ|Riyadh|1500|
+24.5000|39.6167|Sidi Hamzah|Al Madinah|0|
+26.4942|42.1249|Simira|Ha'il|0|
+27.5667|42.0000|Sulaimi|Ha'il|0|
+22.5833|39.6333|Sulaym|Makkah|0|
+24.4926|39.5857|Sulţānah|Medina Region|946697|
+27.1500|41.4500|Sumairah|Ha'il|0|
+21.2500|39.1667|Sumaymah|Makkah|0|
+24.3667|38.4500|Suq Suwayq|Al Madinah|0|
+24.2333|38.5000|Suqubiya|Al Madinah|0|
+24.0333|38.2000|Suwadah|Al Madinah|0|
+30.1171|40.3892|Şuwayr|Al Jawf|8515|
+21.9500|39.9667|Suways|Makkah|0|
+25.1825|44.5996|Sājir|Riyadh|11717|
+16.5960|42.9444|Şāmitah|Jizan|26945|
+30.5000|38.2167|Tabarjal|Al Jawf|0|
+28.3998|36.5715|Tabuk|Tabuk|667000|
+19.9500|42.4000|Tabālah|Asir|5151|
+21.2703|40.4158|Ta'if|Makkah|688693|
+27.1000|44.1333|Tanūmah|Al-Qassim|13594|
+27.6223|38.5388|Taymā’|Tabuk Region|37579|
+17.4208|44.8311|Thar|Najran|0|
+21.5167|39.6167|Tharwah|Makkah|0|
+26.2602|50.2049|Thuqbah|Eastern|248888|
+22.2833|39.1000|Thuwal|Makkah|26957|
+25.7035|45.8683|Tumayr|Riyadh|8246|
+21.2141|41.6331|Turabah|Makkah|23235|
+31.6725|38.6637|Turaif|Northern Borders|40819|
+28.2585|42.9246|Turubah|Ha'il Region|28279|
+26.5733|50.0403|Tārūt|Eastern Province|85371|
+25.1333|49.3000|Udhailiyah|Eastern Province|1350|
+26.6536|49.9164|Umm as Sāhik|Eastern Province|11813|
+25.0213|37.2685|Umm Lajj|Tabuk|33874|Umluj
+28.6798|44.6955|Umm Radamah|Northern Borders|0|
+26.0876|43.9913|Unaizah|Al-Qassim|183319|
+25.6431|50.2144|Uqair|Eastern Province|0|
+21.9231|39.3559|Usfan|Makkah|0|
+20.5038|44.3924|Wadi ad-Dawasir|Riyadh|0|
+21.4667|39.8500|Wadi al Jalil|Makkah|0|
+23.8833|38.9000|Wasitah|Al Madinah|0|
+25.4267|42.8343|Wed Alnkil|Al-Qassim|1500|
+17.3653|44.3264|Yadamah|Najran|0|
+24.0895|38.0618|Yanbu|Al Madinah|200161|
+30.4999|38.2160|Ţubarjal|Al Jawf|40019|
+31.6720|38.6630|Ţurayf|Northern Borders Region|66014|
+17.1043|42.7816|Ḑamad|Jazan Region|26079|
+23.4960|46.8780|Ḥawṭah Banī Tamīm|Riyadh Region|30720|
+29.2863|34.9469|Ḩaql|Al Jawf Region|25649|
+26.5196|50.0271|‘Inak|Eastern|20038|
+24.6803|46.6111|‘Irqah|Riyadh Region|42179|
+26.4983|43.6312|‘Uyūn al Jiwā’|Al-Qassim Region|15619|

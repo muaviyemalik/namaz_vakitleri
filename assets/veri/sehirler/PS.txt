@@ -1,170 +1,171 @@
-31.3232|34.3234|Abasan al-Kabira
-31.3397|34.3260|Abasan al-Saghira
-31.7636|35.2371|Abu Dis
-31.4097|34.9549|ad-Dhahiriya
-32.3600|35.1774|Ajjah
-32.3526|35.3267|Al 'Aqaba
-31.9481|35.4506|al-Auja
-31.2635|34.2610|Al-Bayuk
-31.9126|35.2011|Al-Bireh
-31.4394|34.4031|Al Burayj
-31.9100|35.2165|Al Bīrah
-31.6977|35.1460|Al-Dawha
-32.1414|35.4466|al-Jiftlik
-31.6948|35.1501|al-Khader
-31.3484|34.2355|Al-Mawasi
-32.0033|35.2555|al-Mazra'a ash-Sharqiya
-31.3713|34.3147|Al-Qarara
-31.3232|34.2016|Al Qarya as Suwaydiya
-31.3739|34.3409|Al Qarārah
-31.7239|35.2712|al-Ubeidiya
-32.4867|35.2130|al-Yamun
-32.4856|35.2301|Al Yāmūn
-31.4725|34.3778|Al-Zahra
-31.7708|35.2692|Al ‘Ayzarīyah
-32.3073|35.0989|Anabta
-31.4486|34.3925|An Nuşayrāt
-32.1276|35.3221|Aqraba
-32.4033|35.1853|Arrabah
-31.8493|35.2129|Ar-Ram
-31.8495|35.2342|Ar Rām wa Ḑāḩiyat al Barīd
-32.2519|35.2476|Asira ash-Shamaliya
-31.3986|35.0447|as-Samu
-31.3967|35.0661|As Samū‘
-32.3701|35.0519|Attil
-31.4298|34.3501|az-Zawayda
-32.0947|35.0187|az-Zawiya
-32.1771|35.0354|Azzun
-31.4395|34.3805|Az Zuwāydah
-31.4097|34.9733|Az̧ Z̧āhirīyah
-32.3326|35.0894|Bal'a
-32.2121|35.2856|Balāţah
-31.5149|35.1447|Bani Na'im
-31.3421|34.3047|Bani Suheila
-32.0407|35.1533|Bani Zeid al-Sharqiya
-31.5159|35.1642|Banī Na‘īm
-31.3434|34.3234|Banī Suhaylā
-32.4112|35.0506|Baqa ash-Sharqiyya
-31.7282|35.1174|Battir
-31.7155|35.1879|Bayt Jālā
-31.5464|34.4951|Bayt Lāhyā
-31.8300|35.2254|Bayt Ḩanīnā
-31.5353|34.5358|Bayt Ḩānūn
-32.1414|35.2658|Beita
-31.8511|35.0911|Beit 'Anan
-31.5068|34.9296|Beit 'Awwa
-31.6217|35.1343|Beit Fajjar
-32.1755|35.3159|Beit Furik
-31.5385|34.5162|Beit Hanoun
-31.7160|35.1665|Beit Jala
-31.5513|34.4886|Beit Lahia
-32.2616|35.1097|Beit Lid
-31.8700|35.0446|Beit Liqya
-31.6979|35.2079|Beit Sahour
-31.5985|35.0058|Beit Ula
-31.6228|35.0816|Beit Ummar
-31.8893|35.1492|Beitunia
-31.7054|35.1818|Bethlehem
-31.8345|35.0744|Biddu
-32.1134|35.0569|Biddya
-31.8512|35.1802|Bir Nabala
-31.9753|35.1754|Bir Zeit
-32.0726|35.0778|Bruqin
-32.4562|35.2411|Burqin
-31.4183|34.3493|Dayr al Balaḩ
-32.4561|35.3443|Deir Abu Da'if
-31.4172|34.3303|Deir al-Balah
-32.0651|35.0049|Deir Ballut
-31.9112|35.2484|Deir Dibwan
-32.1308|35.1195|Deir Istiya
-31.9656|35.2732|Deir Jarir
-31.5200|34.9521|Deir Sammit
-31.5051|35.0069|Dura
-31.5078|35.0293|Dūrā
-31.7965|35.0105|East Jerusalem
-32.0688|35.1303|Farkha
-31.5016|34.4667|Gaza
-31.5017|34.4462|Gaza City
-32.1639|34.9577|Hableh
-31.5799|35.0793|Halhul
-32.1134|35.1231|Haris
-31.5326|35.0792|Hebron
-31.8365|35.2426|Hizma
-31.7085|35.1128|Husan
-32.1513|35.2362|Huwara
-31.5573|34.9586|Idhna
-31.5587|34.9744|Idhnā
-32.1030|35.2039|Iskaka
-31.5473|34.5020|Izbat Beit Hanoun
-32.3251|35.1996|Jaba
-31.5294|34.4591|Jabalia
-31.5272|34.4835|Jabālyā
-32.1321|35.1827|Jammain
-32.4594|35.3009|Janīn
-32.4573|35.2816|Jenin
-31.8595|35.4439|Jericho
-32.0686|35.0605|Kafr ad-Dik
-31.8747|35.2172|Kafr Aqab
-32.4780|35.2332|Kafr Dan
-32.3735|35.1349|Kafr Rai
-32.1528|35.0247|Kafr Thulth
-31.3462|34.2834|Khan Yunis
-31.6123|35.0237|Kharas
-31.8853|35.0515|Kharbatha al-Misbah
-31.3071|34.3394|Khuzaʽa
-31.3402|34.3063|Khān Yūnis
-32.1169|35.1364|Kifl Hares
-32.1143|35.1753|Marda
-32.1073|35.0304|Mas-ha
-31.7774|35.2987|Ma‘ale Adummim
-32.3492|35.2509|Meithalun
-32.2244|35.2065|Nablus
-31.6856|35.0998|Nahalin
-31.9469|35.0009|Ni'lin
-31.6138|35.0058|Nuba
-31.7767|35.2342|Old City
-32.1019|35.2671|Qabalan
-32.4096|35.2595|Qabatiya
-32.4104|35.2809|Qabāţīyah
-32.4334|35.0637|Qaffin
-31.8616|35.1873|Qalandiya
-32.1960|34.9609|Qalqilya
-32.1897|34.9706|Qalqīlyah
-32.1285|35.0788|Qarawat Bani Hassan
-31.8270|35.0896|Qatanna
-32.1221|35.1506|Qira
-31.2968|34.2229|Rafah
-32.0787|35.0247|Rafat
-31.2972|34.2436|Rafaḩ
-31.9074|35.1647|Ramallah
-32.0102|35.1713|Rawabi
-31.5825|35.1232|Sa'ir
-32.1034|35.0712|Sarta
-31.5785|35.1402|Sa‘īr
-32.2783|35.1780|Sebastia
-31.2509|34.2452|Shokat as-Sufi
-31.8165|35.2274|Shu‘fāţ
-32.3175|35.1666|Silat ad-Dhahr
-32.5098|35.2068|Silat al-Harithiya
-31.9794|35.2413|Silwad
-32.0336|35.2433|Sinjil
-31.6496|35.0441|Surif
-31.6508|35.0644|Surif City
-31.5385|35.0304|Taffuh
-32.2832|35.3652|Tammun
-31.5774|34.9936|Tarqumiya
-32.3211|35.3494|Tubas
-32.3080|35.0080|Tulkarm
-31.6391|35.1919|Tuqu'
-32.0328|35.2678|Turmus Ayya
-32.4469|35.1467|Ya'bad
-32.1094|35.2191|Yasuf
-31.4442|35.0695|Yatta
-31.4459|35.0944|Yaţţā
-31.6745|35.2345|Za'atara
-32.3852|35.3029|Zababdeh
-32.3209|35.3699|Ţūbās
-32.3116|35.0269|Ţūlkarm
-31.5803|35.1018|Ḩalḩūl
-31.3191|34.3400|‘Abasān al Kabīrah
-31.8667|35.2167|‘Aţārūt
+31.3232|34.3234|Abasan al-Kabira|Khan Yunis|0|
+31.3397|34.3260|Abasan al-Saghira|Khan Yunis|0|
+31.7636|35.2371|Abu Dis|Jerusalem (Quds)|0|
+31.4097|34.9549|ad-Dhahiriya|Hebron|0|
+32.3600|35.1774|Ajjah|Jenin|0|
+32.3526|35.3267|Al 'Aqaba|Tubas|0|
+31.9481|35.4506|al-Auja|Jericho|0|
+31.2635|34.2610|Al-Bayuk|Rafah|0|
+31.9126|35.2011|Al-Bireh|Ramallah|0|
+31.4394|34.4031|Al Burayj|Gaza Strip|34951|
+31.9100|35.2165|Al Bīrah|West Bank|38192|
+31.6977|35.1460|Al-Dawha|Bethlehem|0|
+32.1414|35.4466|al-Jiftlik|Jericho|3666|
+31.6948|35.1501|al-Khader|Bethlehem|0|
+31.3484|34.2355|Al-Mawasi|Rafah|0|
+32.0033|35.2555|al-Mazra'a ash-Sharqiya|Ramallah|0|
+31.3713|34.3147|Al-Qarara|Khan Yunis|0|
+31.3232|34.2016|Al Qarya as Suwaydiya|Rafah|0|
+31.3739|34.3409|Al Qarārah|Gaza Strip|19500|
+31.7239|35.2712|al-Ubeidiya|Bethlehem|0|
+32.4867|35.2130|al-Yamun|Jenin|0|
+32.4856|35.2301|Al Yāmūn|West Bank|16164|
+31.4725|34.3778|Al-Zahra|Gaza|0|
+31.7708|35.2692|Al ‘Ayzarīyah|West Bank|17455|
+32.3073|35.0989|Anabta|Tulkarm|0|
+31.4486|34.3925|An Nuşayrāt|Gaza Strip|36123|
+32.1276|35.3221|Aqraba|Nablus|0|
+32.4033|35.1853|Arrabah|Jenin|0|
+31.8493|35.2129|Ar-Ram|Jerusalem (Quds)|0|
+31.8495|35.2342|Ar Rām wa Ḑāḩiyat al Barīd|West Bank|24838|
+32.2519|35.2476|Asira ash-Shamaliya|Nablus|0|
+31.3986|35.0447|as-Samu|Hebron|0|
+31.3967|35.0661|As Samū‘|West Bank|19355|
+32.3701|35.0519|Attil|Tulkarm|0|
+31.4298|34.3501|az-Zawayda|Deir El Balah|0|
+32.0947|35.0187|az-Zawiya|Salfit|0|
+32.1771|35.0354|Azzun|Qalqilya|0|
+31.4395|34.3805|Az Zuwāydah|Gaza Strip|16688|
+31.4097|34.9733|Az̧ Z̧āhirīyah|West Bank|27616|
+32.3326|35.0894|Bal'a|Tulkarm|0|
+32.2121|35.2856|Balāţah|West Bank|17146|
+31.5149|35.1447|Bani Na'im|Hebron|0|
+31.3421|34.3047|Bani Suheila|Khan Yunis|0|
+32.0407|35.1533|Bani Zeid al-Sharqiya|Ramallah|0|
+31.5159|35.1642|Banī Na‘īm|West Bank|19783|
+31.3434|34.3234|Banī Suhaylā|Gaza Strip|31272|
+32.4112|35.0506|Baqa ash-Sharqiyya|Tulkarm|0|
+31.7282|35.1174|Battir|Bethlehem|56746|
+31.7155|35.1879|Bayt Jālā|West Bank|16183|
+31.5464|34.4951|Bayt Lāhyā|Gaza Strip|56919|
+31.8300|35.2254|Bayt Ḩanīnā|West Bank|27000|
+31.5353|34.5358|Bayt Ḩānūn|Gaza Strip|37392|
+32.1414|35.2658|Beita|Nablus|0|
+31.8511|35.0911|Beit 'Anan|Jerusalem (Quds)|0|
+31.5068|34.9296|Beit 'Awwa|Hebron|0|
+31.6217|35.1343|Beit Fajjar|Bethlehem|0|
+32.1755|35.3159|Beit Furik|Nablus|0|
+31.5385|34.5162|Beit Hanoun|North Gaza|0|
+31.7160|35.1665|Beit Jala|Bethlehem|0|
+31.5513|34.4886|Beit Lahia|North Gaza|0|
+32.2616|35.1097|Beit Lid|Tulkarm|0|
+31.8700|35.0446|Beit Liqya|Ramallah|0|
+31.6979|35.2079|Beit Sahour|Bethlehem|0|
+31.5985|35.0058|Beit Ula|Hebron|0|
+31.6228|35.0816|Beit Ummar|Hebron|0|
+31.8893|35.1492|Beitunia|Ramallah|0|
+31.7054|35.1818|Bethlehem|Bethlehem|29019|
+31.8345|35.0744|Biddu|Jerusalem (Quds)|0|
+32.1134|35.0569|Biddya|Salfit|0|
+31.8512|35.1802|Bir Nabala|Jerusalem (Quds)|0|
+31.9753|35.1754|Bir Zeit|Ramallah|0|
+32.0726|35.0778|Bruqin|Salfit|0|
+32.4562|35.2411|Burqin|Jenin|0|
+31.4183|34.3493|Dayr al Balaḩ|Gaza Strip|59504|
+32.4561|35.3443|Deir Abu Da'if|Jenin|0|
+31.4172|34.3303|Deir al-Balah|Deir El Balah|0|
+32.0651|35.0049|Deir Ballut|Salfit|0|
+31.9112|35.2484|Deir Dibwan|Ramallah|0|
+32.1308|35.1195|Deir Istiya|Salfit|0|
+31.9656|35.2732|Deir Jarir|Ramallah|0|
+31.5200|34.9521|Deir Sammit|Hebron|0|
+31.5051|35.0069|Dura|Hebron|0|
+31.5078|35.0293|Dūrā|West Bank|20835|
+31.7965|35.0105|East Jerusalem|Jerusalem (Quds)|428304|
+32.0688|35.1303|Farkha|Salfit|0|
+31.5016|34.4667|Gaza|Gaza Strip|410000|
+31.5017|34.4462|Gaza City|Gaza|0|
+32.1639|34.9577|Hableh|Qalqilya|0|
+31.5799|35.0793|Halhul|Hebron|0|
+32.1134|35.1231|Haris|Salfit|0|
+31.5326|35.0792|Hebron|Hebron|160470|
+31.8365|35.2426|Hizma|Jerusalem (Quds)|0|
+31.7085|35.1128|Husan|Bethlehem|0|
+32.1513|35.2362|Huwara|Nablus|5570|
+31.5573|34.9586|Idhna|Hebron|0|
+31.5587|34.9744|Idhnā|West Bank|18727|
+32.1030|35.2039|Iskaka|Salfit|0|
+31.5473|34.5020|Izbat Beit Hanoun|North Gaza|0|
+32.3251|35.1996|Jaba|Jenin|0|
+31.5294|34.4591|Jabalia|North Gaza|0|
+31.5272|34.4835|Jabālyā|Gaza Strip|168568|
+32.1321|35.1827|Jammain|Nablus|0|
+32.4594|35.3009|Janīn|West Bank|34730|
+32.4573|35.2816|Jenin|Jenin|0|
+31.8595|35.4439|Jericho|Jericho|19783|
+32.0686|35.0605|Kafr ad-Dik|Salfit|0|
+31.8747|35.2172|Kafr Aqab|Jerusalem (Quds)|0|
+32.4780|35.2332|Kafr Dan|Jenin|0|
+32.3735|35.1349|Kafr Rai|Jenin|0|
+32.1528|35.0247|Kafr Thulth|Qalqilya|4218|
+31.3462|34.2834|Khan Yunis|Khan Yunis|0|
+31.6123|35.0237|Kharas|Hebron|0|
+31.8853|35.0515|Kharbatha al-Misbah|Ramallah|0|
+31.3071|34.3394|Khuzaʽa|Khan Yunis|0|
+31.3402|34.3063|Khān Yūnis|Gaza Strip|173183|
+32.1169|35.1364|Kifl Hares|Salfit|0|
+32.1143|35.1753|Marda|Salfit|0|
+32.1073|35.0304|Mas-ha|Salfit|0|
+31.7774|35.2987|Ma‘ale Adummim|West Bank|38193|
+32.3492|35.2509|Meithalun|Jenin|0|
+32.2244|35.2065|Nablus|Nablus|130326|
+31.6856|35.0998|Nahalin|Bethlehem|0|
+31.9469|35.0009|Ni'lin|Ramallah|0|
+31.6138|35.0058|Nuba|Hebron|0|
+31.7767|35.2342|Old City|West Bank|36000|
+32.1019|35.2671|Qabalan|Nablus|0|
+32.4096|35.2595|Qabatiya|Jenin|0|
+32.4104|35.2809|Qabāţīyah|West Bank|19127|
+32.4334|35.0637|Qaffin|Tulkarm|0|
+31.8616|35.1873|Qalandiya|Jerusalem (Quds)|0|
+32.1960|34.9609|Qalqilya|Qalqilya|0|
+32.1897|34.9706|Qalqīlyah|West Bank|43212|
+32.1285|35.0788|Qarawat Bani Hassan|Salfit|0|
+31.8270|35.0896|Qatanna|Jerusalem (Quds)|0|
+32.1221|35.1506|Qira|Salfit|0|
+31.2968|34.2229|Rafah|Rafah|0|
+32.0787|35.0247|Rafat|Salfit|0|
+31.2972|34.2436|Rafaḩ|Gaza Strip|126305|
+31.9074|35.1647|Ramallah|Ramallah|43880|
+32.0102|35.1713|Rawabi|Ramallah|0|
+31.5825|35.1232|Sa'ir|Hebron|0|
+32.1034|35.0712|Sarta|Salfit|0|
+31.5785|35.1402|Sa‘īr|West Bank|17775|
+32.2783|35.1780|Sebastia|Nablus|0|
+31.2509|34.2452|Shokat as-Sufi|Rafah|15000|
+31.8165|35.2274|Shu‘fāţ|West Bank|35000|
+32.3175|35.1666|Silat ad-Dhahr|Jenin|0|
+32.5098|35.2068|Silat al-Harithiya|Jenin|0|
+31.9794|35.2413|Silwad|Ramallah|0|
+32.0336|35.2433|Sinjil|Ramallah|5371|
+31.6496|35.0441|Surif|Hebron|0|
+31.6508|35.0644|Surif City|West Bank|25242|
+31.7368|35.2334|Şūr Bāhir|West Bank|15000|
+31.5385|35.0304|Taffuh|Hebron|0|
+32.2832|35.3652|Tammun|Tubas|0|
+31.5774|34.9936|Tarqumiya|Hebron|0|
+32.3211|35.3494|Tubas|Tubas|0|
+32.3080|35.0080|Tulkarm|Tulkarm|0|
+31.6391|35.1919|Tuqu'|Bethlehem|0|
+32.0328|35.2678|Turmus Ayya|Ramallah|0|
+32.4469|35.1467|Ya'bad|Jenin|0|
+32.1094|35.2191|Yasuf|Salfit|0|
+31.4442|35.0695|Yatta|Hebron|0|
+31.4459|35.0944|Yaţţā|West Bank|41425|
+31.6745|35.2345|Za'atara|Bethlehem|0|
+32.3852|35.3029|Zababdeh|Jenin|0|
+32.3209|35.3699|Ţūbās|West Bank|15591|
+32.3116|35.0269|Ţūlkarm|West Bank|44169|
+31.5803|35.1018|Ḩalḩūl|West Bank|21076|
+31.3191|34.3400|‘Abasān al Kabīrah|Gaza Strip|18163|
+31.8667|35.2167|‘Aţārūt|West Bank|25595|

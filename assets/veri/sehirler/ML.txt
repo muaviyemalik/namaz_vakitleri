@@ -1,81 +1,80 @@
-19.1167|1.7500|Abeïbara
-15.4275|3.0175|Andéranboukan
-15.6597|0.5022|Ansongo
-18.9048|-3.5265|Araouane
-13.8065|-10.8321|Bafoulabé
-12.6500|-8.0000|Bamako
-10.3833|-7.1500|Bamba
-13.5477|-7.4481|Banamba
-14.3500|-3.6104|Bandiagara
-14.0775|-3.5159|Bankass
-13.0749|-6.5717|Baroueli
-12.9508|-5.7556|Bla
-11.4177|-7.4832|Bougouni
-16.9550|-0.3486|Bourem
-19.4888|2.2003|Cercle d’Abeïbara
-17.7119|-0.3428|Cercle de Bourem
-18.6003|-4.9931|Cercle de Goundam
-13.1790|-5.0162|Cercle de San
-12.7035|-7.9646|Dialakorodji
-14.5400|-9.1921|Diéma
-12.4873|-6.8031|Dioïla
-13.6872|-5.8320|Diourou
-16.2802|-3.3130|Dire
-16.2570|-3.4013|Diré
-13.9061|-4.5533|Djenné
-15.0015|-2.9498|Douentza
-15.0695|-2.4087|Douentza Cercle
-13.8205|-6.1206|Dougabougou
-12.7787|-6.9564|Fana
-11.2682|-5.5105|Finnkolo
-16.2717|-0.0447|Gao
-16.7224|0.4398|Gao Cercle
-16.4145|-3.6707|Goundam
-16.0798|-1.7698|Gourma-Rharous Cercle
-15.9594|3.1411|Inékar
-15.5461|-0.4606|I-n-Tillit
-12.5255|-8.0393|Kabala
-10.5500|-5.7667|Kadiolo
-12.5733|-8.0291|Kalaban Koro
-11.9333|-8.4167|Kangaba
-12.7441|-8.0726|Kati
-14.4469|-11.4445|Kayes
-13.9641|-5.3579|Ké-Macina
-18.4411|1.4078|Kidal
-12.8422|-4.9245|Kinmparana
-13.0349|-9.4895|Kita
-12.8833|-9.9500|Kokofata
-13.5728|-8.0339|Kolokani
-11.0894|-6.8929|Kolondiéba
-14.0640|-3.0754|Koro
-12.8627|-7.5598|Koulikoro
-12.1840|-4.8028|Kouri
-12.3917|-5.4642|Koutiala
-12.3531|-5.5839|Koutiala Cercle
-13.9044|-10.0986|Mahina
-13.7021|-6.0659|Markala
-10.3064|-6.1097|Massiogo
-14.1508|-5.5209|Moninnpébougou
-14.4843|-4.1830|Mopti
-12.6867|-7.8638|Moribabougou
-15.1693|-7.2899|Nara
-15.9322|-3.9906|Niafunké
-14.2505|-5.9868|Niono
-15.2307|-9.5936|Nioro
-12.5304|-5.7700|Ntossoni
-13.4274|-6.2220|Pèlèngana
-12.2000|-10.7000|Sagalo
-13.3034|-4.8956|San
-12.7058|-7.9027|Sangarébougou
-13.4317|-6.2157|Ségou
-12.3755|-8.3349|Sibi
-11.3176|-5.6665|Sikasso
-12.5644|-7.9155|Sirakoro Méguétana
-14.0432|-6.1067|Siribala Coro
-14.7328|-6.1219|Sokolo
-14.4572|-4.9169|Ténenkou
-16.7735|-3.0074|Timbuktu
-13.4637|-7.3828|Toubakoura
-11.1833|-8.1500|Yanfolila
-12.3581|-4.7769|Yorosso
-10.4880|-5.6494|Zégoua
+19.1167|1.7500|Abeïbara|Kidal|0|
+15.4275|3.0175|Andéranboukan|Ménaka|18688|
+15.6597|0.5022|Ansongo|Gao|3000|
+18.9048|-3.5265|Araouane|Tombouctou|4026|
+13.8065|-10.8321|Bafoulabé|Kayes|26823|
+12.6500|-8.0000|Bamako|Bamako|4227569|
+10.3833|-7.1500|Bamba|Gao|28524|
+13.5477|-7.4481|Banamba|Koulikoro|30591|
+14.3500|-3.6104|Bandiagara|Mopti|26460|
+14.0775|-3.5159|Bankass|Mopti|30159|
+13.0749|-6.5717|Baroueli|Ségou|0|
+12.9508|-5.7556|Bla|Ségou|33779|
+11.4177|-7.4832|Bougouni|Sikasso|90234|
+16.9550|-0.3486|Bourem|Gao|42371|
+19.4888|2.2003|Cercle d’Abeïbara|Kidal|0|
+17.7119|-0.3428|Cercle de Bourem|Gao|0|
+18.6003|-4.9931|Cercle de Goundam|Tombouctou|0|
+13.1790|-5.0162|Cercle de San|Ségou|0|
+12.7035|-7.9646|Dialakorodji|Koulikoro|70619|
+14.5400|-9.1921|Diéma|Kayes|30592|
+12.4873|-6.8031|Dioïla|Koulikoro|23535|
+13.6872|-5.8320|Diourou|Ségou|26559|
+16.2802|-3.3130|Dire|Tombouctou|31348|
+13.9061|-4.5533|Djénné|Mopti|40489|
+15.0015|-2.9498|Douentza|Mopti|37002|
+15.0695|-2.4087|Douentza Cercle|Mopti|0|
+13.8205|-6.1206|Dougabougou|Ségou|26399|
+12.7787|-6.9564|Fana|Koulikoro|56809|
+11.2682|-5.5105|Finnkolo|Sikasso|24229|
+16.2717|-0.0447|Gao|Gao|133110|
+16.7224|0.4398|Gao Cercle|Gao|0|
+16.4145|-3.6707|Goundam|Tombouctou|19400|
+16.0798|-1.7698|Gourma-Rharous Cercle|Tombouctou|0|
+15.9594|3.1411|Inékar|Gao|8714|
+15.5461|-0.4606|I-n-Tillit|Gao|22100|
+12.5255|-8.0393|Kabala|Koulikoro|24241|
+10.5500|-5.7667|Kadiolo|Sikasso|38149|
+12.5733|-8.0291|Kalaban Koro|Koulikoro|148247|
+11.9333|-8.4167|Kangaba|Koulikoro|17232|
+12.7441|-8.0726|Kati|Koulikoro|130254|
+14.4469|-11.4445|Kayes|Kayes|194716|
+13.9641|-5.3579|Ké-Macina|Ségou|15750|
+18.4411|1.4078|Kidal|Kidal|40030|
+12.8422|-4.9245|Kinmparana|Ségou|6014|
+13.0349|-9.4895|Kita|Kayes|75598|
+12.8833|-9.9500|Kokofata|Kayes|12985|
+13.5728|-8.0339|Kolokani|Koulikoro|48774|
+11.0894|-6.8929|Kolondiéba|Sikasso|10041|
+14.0640|-3.0754|Koro|Mopti|24694|
+12.8627|-7.5598|Koulikoro|Koulikoro|64128|
+12.1840|-4.8028|Kouri|Sikasso|22991|
+12.3917|-5.4642|Koutiala|Sikasso|218031|
+12.3531|-5.5839|Koutiala Cercle|Sikasso|0|
+13.9044|-10.0986|Mahina|Kayes|26754|
+13.7021|-6.0659|Markala|Ségou|53738|
+10.3064|-6.1097|Massiogo|Sikasso|41317|
+14.1508|-5.5209|Moninnpébougou|Ségou|32899|
+14.4843|-4.1830|Mopti|Mopti|186187|
+12.6867|-7.8638|Moribabougou|Koulikoro|24085|
+15.1693|-7.2899|Nara|Koulikoro|23599|
+15.9322|-3.9906|Niafunké|Tombouctou|6901|
+14.2505|-5.9868|Niono|Ségou|52584|
+15.2307|-9.5936|Nioro|Kayes|51933|
+12.5304|-5.7700|Ntossoni|Sikasso|8700|
+13.4274|-6.2220|Pèlèngana|Ségou|50552|
+12.2000|-10.7000|Sagalo|Kayes|15830|
+13.3034|-4.8956|San|Ségou|103227|
+12.7058|-7.9027|Sangarébougou|Koulikoro|42314|
+13.4317|-6.2157|Ségou|Ségou|205787|
+12.3755|-8.3349|Sibi|Koulikoro|26633|
+11.3176|-5.6665|Sikasso|Sikasso|349324|
+12.5644|-7.9155|Sirakoro Méguétana|Koulikoro|22499|
+14.0432|-6.1067|Siribala Coro|Ségou|24301|
+14.7328|-6.1219|Sokolo|Ségou|4374|
+14.4572|-4.9169|Ténenkou|Mopti|7471|
+16.7735|-3.0074|Timbuktu|Tombouctou|84208|
+13.4637|-7.3828|Toubakoura|Koulikoro|22059|
+11.1833|-8.1500|Yanfolila|Sikasso|24399|
+12.3581|-4.7769|Yorosso|Sikasso|17447|
+10.4880|-5.6494|Zégoua|Sikasso|31593|

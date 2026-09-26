@@ -1,60 +1,59 @@
-13.8292|20.8324|Abéché
-13.4665|22.1988|Adré
-16.0667|22.8354|Amdjarass
-11.0297|20.2827|Am Timan
-21.8375|17.4275|Aozou
-13.2154|18.3353|Ati
-11.3983|16.1675|Baguirmi Department
-8.6761|16.5660|Bébédja
-8.2668|16.9390|Béboto
-8.6289|17.1864|Bédiondo
-8.6698|15.3813|Beïnamar
-8.9833|16.3199|Benoy
-9.3202|16.1552|Béré
-14.5279|20.9275|Biltine
-11.9801|18.2138|Bitkine
-12.3781|17.0588|Bokoro
-13.4671|14.7136|Bol
-10.2806|15.3722|Bongor
-10.4825|16.7161|Bousso
-12.3800|17.0600|Dababa
-9.7602|16.2698|Déressia
-8.6500|16.8500|Doba
-11.8062|15.8669|Dourbali
-17.1853|21.5811|Fada
-17.9257|19.1043|Faya-Largeau
-9.9146|15.1399|Fianga
-12.1807|15.1476|Gaoui
-8.6500|16.5167|Goré
-9.3627|17.3660|Goundi
-9.6294|15.5132|Gounou Gaya
-12.2264|21.4098|Goz Beida
-12.2248|21.4103|Goz Beïda
-13.9456|20.5468|Goz Béïda
-10.9176|15.5501|Guelendeng
-15.1167|22.2500|Iriba
-9.3086|15.8066|Kelo
-8.9126|17.5539|Koumra
-9.4515|18.9449|Kyabé
-8.7050|15.9830|Lac Wey
-9.3972|16.3007|Laï
-9.6447|14.2151|Léré
-12.0562|15.3038|Linia
-11.7302|15.2447|Mandelia
-11.1986|15.3611|Mandjafa
-12.3546|19.6139|Mangalmé
-14.1212|15.3103|Mao
-9.2235|17.7102|Maro
-12.4755|15.4365|Massaguet
-12.9960|15.7293|Massakory
-11.4028|16.1700|Massenya
-9.7639|14.1539|Mboursou Léré
-11.0598|17.9355|Melfi
-8.3404|17.7663|Moïssala
-12.1844|18.6930|Mongo
-8.5667|16.0833|Moundou
-13.6414|16.4894|Moussoro
-12.1100|15.0500|N'Djamena
-13.2954|19.6966|Oum Hadjer|Umm Hājar
-9.3642|14.9046|Pala
-9.1429|18.3923|Sarh
+13.8292|20.8324|Abéché|Ouaddaï|139983|
+13.4665|22.1988|Adré|Ouaddaï|21950|
+16.0667|22.8354|Amdjarass|Ennedi-Est|29793|
+11.0297|20.2827|Am Timan|Salamat|74691|
+21.8375|17.4275|Aozou|Tibesti|1880|
+13.2154|18.3353|Ati|Batha|29867|
+11.3983|16.1675|Baguirmi Department|Chari-Baguirmi|0|
+8.6761|16.5660|Bébédja|Logone Oriental|40289|
+8.2668|16.9390|Béboto|Logone Oriental|9321|
+8.6289|17.1864|Bédiondo|Mandoul|15841|
+8.6698|15.3813|Beïnamar|Logone Occidental|12901|
+8.9833|16.3199|Benoy|Logone Occidental|17285|
+9.3202|16.1552|Béré|Tandjilé|15431|
+14.5279|20.9275|Biltine|Wadi Fira|33540|
+11.9801|18.2138|Bitkine|Guéra|41871|
+12.3781|17.0588|Bokoro|Hadjer-Lamis|26095|
+13.4671|14.7136|Bol|Lac|51389|
+10.2806|15.3722|Bongor|Mayo-Kebbi Est|63699|
+10.4825|16.7161|Bousso|Chari-Baguirmi|16732|
+12.3800|17.0600|Dababa|Chari-Baguirmi|0|
+9.7602|16.2698|Déressia|Tandjilé|50113|
+8.6500|16.8500|Doba|Logone Oriental|70942|
+11.8062|15.8669|Dourbali|Chari-Baguirmi|18604|
+17.1853|21.5811|Fada|Ennedi-Ouest|17240|
+17.9257|19.1043|Faya-Largeau|Borkou|44011|
+9.9146|15.1399|Fianga|Mayo-Kebbi Est|31668|
+12.1807|15.1476|Gaoui|Chari-Baguirmi|0|
+8.6500|16.5167|Goré|Logone Oriental|30936|
+9.3627|17.3660|Goundi|Mandoul|10577|
+9.6294|15.5132|Gounou Gaya|Mayo-Kebbi Est|29742|
+13.9456|20.5468|Goz Béïda|Ouaddaï|1500|
+12.2248|21.4103|Goz Beïda|Sila|58941|
+10.9176|15.5501|Guelendeng|Mayo-Kebbi Est|23320|
+15.1167|22.2500|Iriba|Wadi Fira|47972|
+9.3086|15.8066|Kelo|Tandjilé|82677|
+8.9126|17.5539|Koumra|Mandoul|54109|
+9.4515|18.9449|Kyabé|Moyen-Chari|22806|
+8.7050|15.9830|Lac Wey|Logone Occidental|0|
+9.3972|16.3007|Laï|Tandjilé|27071|
+9.6447|14.2151|Léré|Mayo-Kebbi Ouest|32721|
+12.0562|15.3038|Linia|Chari-Baguirmi|0|
+11.7302|15.2447|Mandelia|Chari-Baguirmi|19373|
+11.1986|15.3611|Mandjafa|Chari-Baguirmi|0|
+12.3546|19.6139|Mangalmé|Guéra|15939|
+14.1212|15.3103|Mao|Kanem|50681|
+9.2235|17.7102|Maro|Mandoul|21274|
+12.4755|15.4365|Massaguet|Hadjer-Lamis|28401|
+12.9960|15.7293|Massakory|Hadjer-Lamis|39944|
+11.4028|16.1700|Massenya|Chari-Baguirmi|4611|
+9.7639|14.1539|Mboursou Léré|Mayo-Kebbi Ouest|17132|
+11.0598|17.9355|Melfi|Guéra|12924|
+8.3404|17.7663|Moïssala|Mandoul|17281|
+12.1844|18.6930|Mongo|Guéra|53768|
+8.5667|16.0833|Moundou|Logone Occidental|196124|
+13.6414|16.4894|Moussoro|Bahr el Gazel|35100|
+12.1100|15.0500|N'Djamena|N'Djamena|1359526|
+13.2954|19.6966|Oum Hadjer|Batha|37941|Umm Hājar
+9.3642|14.9046|Pala|Mayo-Kebbi Ouest|70677|
+9.1429|18.3923|Sarh|Moyen-Chari|138928|

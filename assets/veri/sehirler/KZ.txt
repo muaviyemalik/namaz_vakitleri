@@ -1,274 +1,278 @@
-49.6358|72.8616|Abay
-49.6333|72.8833|Abay Qalasy
-51.9937|70.9470|Akkol
-53.2962|69.6000|Akkol’
-52.4442|71.9576|Aksu
-48.7679|73.6727|Aksu-Ayuly
-49.7795|72.9613|Aktas
-48.0333|72.8333|Aktau
-50.2797|57.2072|Aktobe
-48.1667|75.3000|Aktogay
-43.2567|76.9286|Almaty
-49.7363|84.2542|Altay
-50.2459|82.3625|Altayskiy
-48.2601|72.8585|Aqadyr
-45.0000|72.7833|Aqbaqay
-51.1681|52.9978|Aqsay
-47.9892|74.0575|Aqshataū
-46.9500|79.6667|Aqtoghay
-48.5000|74.7500|Aqtoghay Aūdany
-46.8000|61.6667|Aral
-50.2492|66.9203|Arkalyk
-42.4301|68.8087|Arys
-43.5537|68.8979|Ashchysay
-51.1801|71.4460|Astana|Nur-Sultan
-51.5309|69.7968|Astrakhan
-40.8946|68.3643|Asyqata
-49.5569|83.0636|Asūbulaq
-40.8478|68.5064|Atakent
-48.6866|71.6447|Atasū
-51.8065|68.3600|Atbasar
-47.1167|51.8833|Atyrau
-49.7100|81.5802|Auezov
-47.9645|80.4344|Ayagoz
-52.8355|62.5208|Ayat
-45.8461|62.1526|Ayteke Bi
-45.6167|63.3167|Baikonur
-44.8084|76.2721|Bakanas
-52.5178|68.7516|Balkashino
-44.9023|78.2316|Balpyk Bī
-46.8481|74.9950|Balqash
-47.0667|51.8667|Balykshi
-50.5602|58.2771|Batamshinskiy
-50.7930|75.7012|Bayanaul
-48.6897|55.8751|Bayganin
-47.2414|52.9411|Bayshonas
-43.1671|69.9146|Bayzhansay
-44.5448|50.2463|Baūtīno
-44.8116|65.5880|Belköl
-49.4770|83.1480|Belogorskīy
-51.5298|77.4715|Belogor’ye
-50.1329|82.5248|Belousovka
-42.4219|69.8271|Belyye Vody
-52.4980|73.0959|Bestobe
-45.3167|55.2000|Beyneu
-53.5841|68.3538|Birlestik
-54.7776|69.0995|Bishkul
-50.7184|80.9295|Borodulikha
-53.7927|64.1827|Borovskoy
-49.8566|73.6812|Bukhar-Zhyrau
-54.9060|70.4416|Bulayevo
-51.4272|52.7139|Burlin
-43.3557|76.8548|Burunday
-53.0838|70.3138|Būrabay
-50.2000|51.1667|Chapaev
-41.2583|67.9699|Chardara|Shardara
-43.0340|69.3805|Chayan
-43.3763|76.6246|Chemolgan
-51.0988|54.0843|Chingirlau
-43.6033|73.7592|Chu
-43.7645|69.1786|Chulakkurgan
-51.0992|66.3156|Derzhavīnsk
-49.6769|72.6782|Dolinka
-47.5272|52.9811|Dossor
-45.2533|82.4804|Druzhba
-45.0833|64.6667|Dzhalagash
-50.2568|52.5990|Dzhambeyty
-52.1902|61.1989|Dzhetygara|Zhitikara
-51.0541|69.4793|Egindiköl
-51.7237|75.3229|Ekibastuz
-48.8298|58.1504|Embi
-43.3552|77.4524|Esik
-51.9549|66.4084|Esil
-51.2210|51.9572|Fedorovka
-44.5065|50.2639|Fort-Shevchenko
-53.6381|62.6965|Fyodorovka
-43.0388|74.7129|Georgiyevka
-49.3267|81.5737|Georgīevka
-50.1389|82.3111|Glubokoye
-42.7440|73.4685|Granitogorsk
-48.5500|51.7833|Inderbor
-53.3336|75.4578|Irtyshsk
-49.3301|81.5727|Kalbatau
-51.9535|76.0272|Kalkaman
-49.4691|57.4191|Kandyagash
-43.5279|68.5829|Kantagi
-43.8668|77.0630|Kapshagay|Konayev
-49.8019|73.1021|Karagandy
-52.6600|65.4842|Karasu
-43.1787|70.4677|Karatau
-49.7661|48.6890|Kaztalovka
-43.0214|79.2206|Kegen
-43.5167|68.5046|Kentau
-44.2274|73.7956|Khantaū
-50.2512|58.4400|Khromtau
-53.2833|69.4000|Kokshetau
-49.6500|73.5167|Koktal
-42.4944|70.2548|Kokterek
-53.7502|62.0584|Komsomolets
-53.2144|63.6246|Kostanay
-52.2456|66.5208|Krasnogorskiy
-51.0785|51.2899|Krūgloozernoe
-50.7562|78.5419|Kurchatov
-48.5660|83.6615|Kurchum
-50.2309|73.4015|Kushoky
-44.8528|65.5092|Kyzylorda
-49.9820|72.6076|Kyzylzhar
-53.6359|72.3408|Kzyltu
-50.2621|71.5484|Kīevka
-42.1815|69.8858|Lenger
-52.2535|76.7821|Leninskiy
-41.7564|69.3839|Leninskoye
-46.2350|78.9456|Lepsy
-52.5471|62.4999|Lisakovsk
-42.9420|72.7610|Lugovoy
-42.9101|72.7207|Lugovoye
-47.6667|51.5833|Makhambet
-52.6329|70.4191|Makinsk
-49.8144|84.2910|Maleyevsk
-46.6000|49.2667|Maloye Ganyushkino
-43.6909|51.3224|Mangistau
-46.7817|82.0226|Maqanshy
-47.6500|53.3167|Maqat
-40.7500|68.5833|Maqtaaral Aūdany
-50.7475|56.5061|Martuk
-45.8950|78.7181|Matay
-51.4598|75.8023|Mayqayyng
-42.8698|73.1846|Merke
-48.8850|53.7919|Miyaly
-44.2846|72.9392|Moyynkum
-47.2211|73.3669|Moyynty
-43.4911|52.1086|Munayshy
-45.4161|73.6844|Mynaral
-40.6634|68.5451|Myrzakent
-49.7065|72.7081|Novodolinskiy
-53.1981|66.7694|Novoishimskiy
-45.8481|62.1525|Novokazalinsk
-49.6835|83.0167|Ognevka
-43.5979|51.2417|Ömirzaq
-51.2333|51.3667|Oral
-52.4477|61.7494|Ordzhonikidze
-50.5622|72.5709|Osakarovka
-43.4195|77.0202|Otegen Batyra
-42.9057|73.2697|Oytal
-52.2833|76.9667|Pavlodar
-51.1992|50.8554|Peremetnoe
-43.3736|76.9400|Pervomayka
-54.8667|69.1500|Petropavl
-49.6924|75.5844|Prigorodnoye
-49.0603|81.6453|Priisk Boko
-46.0311|73.7025|Priozersk
-46.4353|53.4864|Qaraton
-48.0063|70.7961|Qarazhal
-48.9451|79.2550|Qaraūyl
-49.4129|75.4729|Qarqaraly
-53.3680|62.8684|Qashar
-53.0665|76.1049|Qashyr
-45.7628|62.1075|Qazaly
-42.8277|68.2807|Qogham
-46.9531|54.0198|Qulsary
-52.4511|64.6198|Qusmuryn
-50.3441|83.5129|Ridder
-52.9729|63.1168|Rudnyy
-49.8025|72.8319|Saran
-45.4113|79.9155|Sarkand
-45.4132|79.9171|Sarqant
-41.4604|69.1679|Saryaghash
-41.6667|68.8333|Saryaghash Aūdany
-43.0000|71.5000|Sarykemer
-44.3618|77.9728|Saryozek
-46.1192|73.6192|Saryshaghan
-42.5533|69.9984|Sastobe
-47.9041|67.5411|Satpayev
-47.0000|77.2667|Sayaq
-48.8561|46.8336|Saykhin
-44.3278|53.5325|Sayötesh
-47.0900|61.1519|Sekseūil
-50.4267|80.2667|Semey
-53.8814|67.4088|Sergeyevka
-49.8196|72.6541|Shakhan
-49.7088|72.5921|Shakhtinsk
-48.0333|48.9000|Shalkar
-47.8333|59.6000|Shalqar
-44.0095|67.4106|Shalqīya
-52.4538|68.1748|Shantobe
-49.5872|81.0488|Shar
-46.8169|75.0403|Shashūbay
-52.9359|70.1890|Shchuchinsk
-43.5962|78.2575|Shelek
-50.6290|81.9109|Shemonaikha
-50.6281|81.9121|Shemonaīkha
-44.1667|52.1167|Shetpe
-44.1706|66.7338|Shiyeli
-51.6995|70.9946|Shortandy
-43.6051|73.7622|Shu
-48.8822|68.8072|Shubarköl
-49.1439|56.4820|Shubarkuduk
-48.5802|57.1829|Shubarshi
-44.8306|70.0019|Shyghanaq
-42.3099|69.6004|Shymkent
-44.1688|66.7389|Shīeli
-54.5148|69.4273|Smirnovo
-49.7908|72.8374|Soran
-44.8333|68.5000|Sozaq Aūdany
-52.3506|71.8816|Stepnogorsk
-52.8349|70.7886|Stepnyak
-49.7084|81.0485|Suykbulak
-53.8480|69.7677|Taiynsha
-45.0156|78.3739|Taldykorgan
-43.3035|77.2408|Talghar
-53.6374|71.8740|Talshik
-42.9000|71.3667|Taraz
-44.7738|65.5523|Tasböget
-44.7702|65.5546|Tasbuget
-51.1107|50.2945|Tasqala
-44.3468|51.3493|Taūshyq
-44.8332|78.8309|Tekeli
-49.1413|57.1285|Temir
-42.6000|69.2584|Temirlanovka
-50.0549|72.9646|Temirtau
-45.0505|64.9839|Terenozek
-53.7495|66.4885|Timiryazevo
-52.6937|62.5914|Tobol
-50.1157|73.1603|Tokarevka
-49.6339|63.4981|Torghay
-54.4431|66.0798|Troyebratskiy
-42.5334|70.3496|Turar Ryskulov
-43.4006|77.5933|Turgen
-43.2973|68.2518|Turkestan
-43.2946|68.2569|Turkistan
-42.4858|70.2960|Tyul’kubas
-47.7252|84.2063|Tūghyl
-45.2119|73.9786|Ülken
-47.0930|81.6294|Urzhar
-45.2526|77.9828|Ushtobe
-45.2520|77.9801|Ush-Tyube
-49.9714|82.6059|Ust-Kamenogorsk
-48.6833|73.2833|Verkhniye Kayrakty
-53.2927|68.1050|Volodarskoye
-43.9065|67.2464|Yanykurgan|Zhangaqorghan
-54.3453|68.4574|Yavlenka
-43.1803|51.6812|Yeraliyev
-51.6236|73.1026|Yermentau
-48.6167|61.2667|Yrghyz
-52.4703|72.0151|Zavodskoy
-47.4666|84.8714|Zaysan
-42.4378|70.4784|Zhabagly
-49.2109|81.2160|Zhalghyztobe
-47.2069|71.3969|Zhambyl
-43.3412|52.8619|Zhanaozen
-49.6295|83.5247|Zhanga Buqtyrma
-43.5622|69.7343|Zhangatas
-49.4221|46.8471|Zhänibek
-51.9106|67.3166|Zhaqsy
-44.1666|80.0066|Zharkent
-48.8569|72.8360|Zharyk
-53.5388|75.3133|Zhelezinka
-43.5942|52.0789|Zhetibay
-40.7763|68.3277|Zhetysay
-50.9311|81.3615|Zhezkent
-47.7833|67.7667|Zhezqazghan
-51.7421|71.7125|Zholymbet
-45.4878|64.0781|Zhosaly
-49.7265|84.2732|Zyryanovsk
-50.5493|81.8500|Ūst’-Talovka
+49.6358|72.8616|Abay|Karaganda|35454|
+41.3468|68.9504|Abay|Turkistan|24047|
+49.6333|72.8833|Abay Qalasy|Karaganda|0|
+51.9937|70.9470|Akkol|Akmola|2605|
+53.2962|69.6000|Akkol’|Aqmola|16773|
+48.7718|53.1858|Akkol’|Atyrau|4245|
+52.4442|71.9576|Aksu|Akmola|8543|
+52.0402|76.9275|Aksu|Pavlodar|44808|
+48.7679|73.6727|Aksu-Ayuly|Karaganda|4721|
+49.7795|72.9613|Aktas|Karaganda|9888|
+48.0333|72.8333|Aktau|Karaganda|9500|
+43.6500|51.1667|Aktau|Mangystau|147443|
+50.2797|57.2072|Aktobe|Aktobe|500757|
+48.1667|75.3000|Aktogay|Karaganda|3741|
+43.2567|76.9286|Almaty|Almaty|1977011|
+49.7363|84.2542|Altay|East Kazakhstan|44929|
+50.2459|82.3625|Altayskiy|East Kazakhstan|2678|
+48.2601|72.8585|Aqadyr|Karaganda|9710|
+45.0000|72.7833|Aqbaqay|Jambyl|0|
+51.1681|52.9978|Aqsay|West Kazakhstan|34799|
+47.9892|74.0575|Aqshataū|Karaganda|4899|
+46.9500|79.6667|Aqtoghay|East Kazakhstan|4974|
+48.5000|74.7500|Aqtoghay Aūdany|Karaganda|0|
+46.8000|61.6667|Aral|Kyzylorda|33017|
+50.2492|66.9203|Arkalyk|Kostanay|42000|
+42.4301|68.8087|Arys|Turkistan|36285|
+43.5537|68.8979|Ashchysay|Turkistan|5635|
+51.5309|69.7968|Astrakhan|Akmola|0|
+40.8946|68.3643|Asyqata|Turkistan|11378|
+49.5569|83.0636|Asūbulaq|East Kazakhstan|0|
+40.8478|68.5064|Atakent|Turkistan|12895|
+48.6866|71.6447|Atasū|Karaganda|0|
+51.8065|68.3600|Atbasar|Akmola|34797|
+47.1167|51.8833|Atyrau|Atyrau|290700|
+49.7100|81.5802|Auezov|East Kazakhstan|4209|
+47.9645|80.4344|Ayagoz|East Kazakhstan|33479|
+52.8355|62.5208|Ayat|Kostanay|3130|
+45.8461|62.1526|Ayteke Bi|Kyzylorda|0|
+45.6167|63.3167|Baikonur|Baikonur|70000|
+44.8084|76.2721|Bakanas|Almaty|6965|
+52.5178|68.7516|Balkashino|Akmola|6147|
+44.9023|78.2316|Balpyk Bī|Almaty|0|
+46.8481|74.9950|Balqash|Karaganda|81364|
+47.0667|51.8667|Balykshi|Atyrau|19260|
+50.5602|58.2771|Batamshinskiy|Aktobe|0|
+50.7930|75.7012|Bayanaul|Pavlodar|5700|
+48.6897|55.8751|Bayganin|Aktobe|7657|
+47.2414|52.9411|Bayshonas|Atyrau|0|
+43.1671|69.9146|Bayzhansay|Turkistan|2384|
+44.5448|50.2463|Baūtīno|Mangystau|0|
+44.8116|65.5880|Belköl|Kyzylorda|1486|
+49.4770|83.1480|Belogorskīy|East Kazakhstan|0|
+51.5298|77.4715|Belogor’ye|Pavlodar|0|
+50.1329|82.5248|Belousovka|East Kazakhstan|9948|
+42.4219|69.8271|Belyye Vody|Turkistan|26115|
+52.4980|73.0959|Bestobe|Akmola|7189|
+45.3167|55.2000|Beyneu|Mangystau|14245|
+53.5841|68.3538|Birlestik|North Kazakhstan|1354|
+54.7776|69.0995|Bishkul|North Kazakhstan|5423|
+50.7184|80.9295|Borodulikha|East Kazakhstan|5931|
+53.7927|64.1827|Borovskoy|Kostanay|9659|
+49.8566|73.6812|Bukhar-Zhyrau|Karaganda|0|
+54.9060|70.4416|Bulayevo|North Kazakhstan|9886|
+51.4272|52.7139|Burlin|West Kazakhstan|3593|
+43.3557|76.8548|Burunday|Almaty|20996|
+53.0838|70.3138|Būrabay|North Kazakhstan|6500|
+50.2000|51.1667|Chapaev|West Kazakhstan|0|
+41.2583|67.9699|Chardara|Turkistan|25356|Shardara
+43.0340|69.3805|Chayan|Turkistan|0|
+43.3763|76.6246|Chemolgan|Almaty|0|
+51.0988|54.0843|Chingirlau|West Kazakhstan|0|
+43.6033|73.7592|Chu|Jambyl|0|
+43.7645|69.1786|Chulakkurgan|Turkistan|0|
+51.0992|66.3156|Derzhavīnsk|Akmola|0|
+49.6769|72.6782|Dolinka|Karaganda|4543|
+47.5272|52.9811|Dossor|Atyrau|9526|
+45.2533|82.4804|Druzhba|Almaty|2930|
+45.0833|64.6667|Dzhalagash|Kyzylorda|0|
+50.2568|52.5990|Dzhambeyty|West Kazakhstan|0|
+52.1902|61.1989|Dzhetygara|Kostanay|43104|Zhitikara
+51.0541|69.4793|Egindiköl|Akmola|3751|
+51.7237|75.3229|Ekibastuz|Pavlodar|121470|
+48.8298|58.1504|Embi|Aktobe|18760|
+43.3552|77.4524|Esik|Almaty|32995|
+51.9549|66.4084|Esil|Akmola|13504|
+51.2210|51.9572|Fedorovka|West Kazakhstan|0|
+44.5065|50.2639|Fort-Shevchenko|Mangystau|5213|
+53.6381|62.6965|Fyodorovka|Kostanay|0|
+43.0388|74.7129|Georgiyevka|Jambyl|0|
+49.3267|81.5737|Georgīevka|East Kazakhstan|0|
+50.1389|82.3111|Glubokoye|East Kazakhstan|11192|
+42.7440|73.4685|Granitogorsk|Jambyl|2004|
+48.5500|51.7833|Inderbor|Atyrau|13254|
+53.3336|75.4578|Irtyshsk|Pavlodar|9216|
+49.3301|81.5727|Kalbatau|Abai Region|22047|
+51.9535|76.0272|Kalkaman|Pavlodar|5415|
+49.4691|57.4191|Kandyagash|Aktobe|28196|
+43.5279|68.5829|Kantagi|Turkistan|10186|
+43.8668|77.0630|Kapshagay|Almaty|42167|Konayev
+49.8019|73.1021|Karagandy|Karaganda|497777|
+52.6600|65.4842|Karasu|Kostanay|3220|
+43.1787|70.4677|Karatau|Jambyl|37881|
+49.7661|48.6890|Kaztalovka|West Kazakhstan|4825|
+43.0214|79.2206|Kegen|Almaty|9993|
+43.5167|68.5046|Kentau|Turkistan|57408|
+44.2274|73.7956|Khantaū|Jambyl|0|
+50.2512|58.4400|Khromtau|Aktobe|23715|
+53.2833|69.4000|Kokshetau|Akmola|150649|
+49.6500|73.5167|Koktal|Karaganda|1403|
+42.4944|70.2548|Kokterek|Turkistan|2384|
+53.7502|62.0584|Komsomolets|Kostanay|0|
+53.2144|63.6246|Kostanay|Kostanay|210000|
+52.2456|66.5208|Krasnogorskiy|Akmola|3646|
+51.0785|51.2899|Krūgloozernoe|West Kazakhstan|0|
+50.7562|78.5419|Kurchatov|East Kazakhstan|10747|
+48.5660|83.6615|Kurchum|East Kazakhstan|8800|
+50.2309|73.4015|Kushoky|Karaganda|3920|
+44.8528|65.5092|Kyzylorda|Kyzylorda|354800|
+49.9820|72.6076|Kyzylzhar|Karaganda|1514|
+53.6359|72.3408|Kzyltu|North Kazakhstan|0|
+50.2621|71.5484|Kīevka|Karaganda|0|
+42.1815|69.8858|Lenger|Turkistan|21238|
+52.2535|76.7821|Leninskiy|Pavlodar|8646|
+41.7564|69.3839|Leninskoye|Turkistan|0|
+46.2350|78.9456|Lepsy|Almaty|0|
+52.5471|62.4999|Lisakovsk|Kostanay|40000|
+42.9420|72.7610|Lugovoy|Jambyl|10422|
+42.9101|72.7207|Lugovoye|Jambyl|0|
+47.6667|51.5833|Makhambet|Atyrau|8905|
+52.6329|70.4191|Makinsk|Akmola|17711|
+49.8144|84.2910|Maleyevsk|East Kazakhstan|2678|
+46.6000|49.2667|Maloye Ganyushkino|Atyrau|8387|
+43.6909|51.3224|Mangistau|Mangystau|31368|
+46.7817|82.0226|Maqanshy|Abai Region|18754|
+47.6500|53.3167|Maqat|Atyrau|14082|
+40.7500|68.5833|Maqtaaral Aūdany|Turkistan|0|
+50.7475|56.5061|Martuk|Aktobe|7756|
+45.8950|78.7181|Matay|Almaty|4139|
+51.4598|75.8023|Mayqayyng|Pavlodar|7695|
+42.8698|73.1846|Merke|Jambyl|15934|
+48.8850|53.7919|Miyaly|Atyrau|6213|
+44.2846|72.9392|Moyynkum|Jambyl|10923|
+47.2211|73.3669|Moyynty|Karaganda|2049|
+43.4911|52.1086|Munayshy|Mangystau|4085|
+45.4161|73.6844|Mynaral|Jambyl|1303|
+40.6634|68.5451|Myrzakent|Turkistan|9752|
+49.7065|72.7081|Novodolinskiy|Karaganda|5167|
+53.1981|66.7694|Novoishimskiy|North Kazakhstan|6062|
+45.8481|62.1525|Novokazalinsk|Kyzylorda|35883|
+51.1801|71.4460|Nur-Sultan|Astana|1544142|Astana
+49.6835|83.0167|Ognevka|East Kazakhstan|0|
+43.5979|51.2417|Ömirzaq|Mangystau|0|
+51.2333|51.3667|Oral|West Kazakhstan|330000|
+52.4477|61.7494|Ordzhonikidze|Kostanay|0|
+50.5622|72.5709|Osakarovka|Karaganda|7305|
+43.4195|77.0202|Otegen Batyra|Almaty|18864|
+42.9057|73.2697|Oytal|Jambyl|9821|
+52.2833|76.9667|Pavlodar|Pavlodar|329002|
+51.1992|50.8554|Peremetnoe|West Kazakhstan|4003|
+43.3736|76.9400|Pervomayka|Almaty|7874|
+54.8667|69.1500|Petropavl|North Kazakhstan|200920|
+49.6924|75.5844|Prigorodnoye|Karaganda|3563|
+49.0603|81.6453|Priisk Boko|East Kazakhstan|0|
+46.0311|73.7025|Priozersk|Karaganda|13457|
+46.4353|53.4864|Qaraton|Atyrau|0|
+48.0063|70.7961|Qarazhal|Karaganda|13807|
+48.9451|79.2550|Qaraūyl|East Kazakhstan|0|
+49.4129|75.4729|Qarqaraly|Karaganda|8195|
+53.3680|62.8684|Qashar|Kostanay|10285|
+53.0665|76.1049|Qashyr|Pavlodar|0|
+45.7628|62.1075|Qazaly|Kyzylorda|0|
+42.8277|68.2807|Qogham|Turkistan|2276|
+46.9531|54.0198|Qulsary|Atyrau|51216|
+52.4511|64.6198|Qusmuryn|Kostanay|8049|
+50.3441|83.5129|Ridder|East Kazakhstan|52664|
+52.9729|63.1168|Rudnyy|Kostanay|124000|
+49.8025|72.8319|Saran|Karaganda|42552|
+45.4113|79.9155|Sarkand|Almaty|0|
+45.4132|79.9171|Sarqant|Zhetysu Region|76919|
+41.4604|69.1679|Saryaghash|Turkistan|25139|
+41.6667|68.8333|Saryaghash Aūdany|Turkistan|0|
+43.0000|71.5000|Sarykemer|Jambyl|15132|
+44.3618|77.9728|Saryozek|Almaty|13930|
+46.1192|73.6192|Saryshaghan|Karaganda|4365|
+42.5533|69.9984|Sastobe|Turkistan|6827|
+47.9041|67.5411|Satpayev|Ulytau Region|69782|
+47.0000|77.2667|Sayaq|Karaganda|4543|
+48.8561|46.8336|Saykhin|West Kazakhstan|4825|
+44.3278|53.5325|Sayötesh|Mangystau|0|
+47.0900|61.1519|Sekseūil|Kyzylorda|0|
+50.4267|80.2667|Semey|East Kazakhstan|292780|
+53.8814|67.4088|Sergeyevka|North Kazakhstan|8845|
+49.8196|72.6541|Shakhan|Karaganda|13273|
+49.7088|72.5921|Shakhtinsk|Karaganda|41602|
+48.0333|48.9000|Shalkar|Atyrau|27072|
+47.8333|59.6000|Shalqar|Aktobe|27399|
+44.0095|67.4106|Shalqīya|Kyzylorda|3822|
+52.4538|68.1748|Shantobe|Akmola|5626|
+49.5872|81.0488|Shar|East Kazakhstan|9087|
+46.8169|75.0403|Shashūbay|Karaganda|0|
+52.9359|70.1890|Shchuchinsk|Akmola|47290|
+43.5962|78.2575|Shelek|Almaty Region|29032|
+50.6290|81.9109|Shemonaikha|East Kazakhstan|20087|
+50.6281|81.9121|Shemonaīkha|East Kazakhstan|0|
+44.1667|52.1167|Shetpe|Mangystau|11836|
+44.1706|66.7338|Shiyeli|Kyzylorda|29832|
+51.6995|70.9946|Shortandy|Akmola|6980|
+43.6051|73.7622|Shu|Zhambyl|39785|
+48.8822|68.8072|Shubarköl|Karaganda|1247|
+49.1439|56.4820|Shubarkuduk|Aktobe|11733|
+48.5802|57.1829|Shubarshi|Aktobe|8651|
+44.8306|70.0019|Shyghanaq|Jambyl|0|
+42.3099|69.6004|Shymkent|Shymkent|1200000|
+44.1688|66.7389|Shīeli|Kyzylorda|0|
+54.5148|69.4273|Smirnovo|North Kazakhstan|5742|
+49.7908|72.8374|Soran|Karaganda|0|
+44.8333|68.5000|Sozaq Aūdany|Turkistan|0|
+52.3506|71.8816|Stepnogorsk|Akmola|46736|
+52.8349|70.7886|Stepnyak|Akmola|4928|
+49.7084|81.0485|Suykbulak|East Kazakhstan|1244|
+53.8480|69.7677|Taiynsha|North Kazakhstan|13148|
+45.0156|78.3739|Taldykorgan|Almaty|116558|
+43.3035|77.2408|Talghar|Almaty|42194|
+53.6374|71.8740|Talshik|North Kazakhstan|3111|
+42.9000|71.3667|Taraz|Jambyl|358153|
+44.7738|65.5523|Tasböget|Kyzylorda|0|
+44.7702|65.5546|Tasbuget|Kyzylorda|16455|
+51.1107|50.2945|Tasqala|West Kazakhstan|6980|
+44.3468|51.3493|Taūshyq|Mangystau|2600|
+44.8332|78.8309|Tekeli|Almaty|26678|
+49.1413|57.1285|Temir|Aktobe|2560|
+42.6000|69.2584|Temirlanovka|Turkistan|12245|
+50.0549|72.9646|Temirtau|Karaganda|170600|
+45.0505|64.9839|Terenozek|Kyzylorda|9661|
+53.7495|66.4885|Timiryazevo|North Kazakhstan|4147|
+52.6937|62.5914|Tobol|Kostanay|7155|
+50.1157|73.1603|Tokarevka|Karaganda|4098|
+49.6339|63.4981|Torghay|Kostanay|5277|
+54.4431|66.0798|Troyebratskiy|Kostanay|2951|
+42.5334|70.3496|Turar Ryskulov|Turkistan|18421|
+43.4006|77.5933|Turgen|Almaty|13000|
+43.2973|68.2518|Turkestan|Turkistan|0|
+43.2946|68.2569|Turkistan|Turkistan|227098|
+42.4858|70.2960|Tyul’kubas|Turkistan|10802|
+47.7252|84.2063|Tūghyl|East Kazakhstan|0|
+45.2119|73.9786|Ülken|Almaty|3735|
+47.0930|81.6294|Urzhar|East Kazakhstan|14826|
+45.2526|77.9828|Ushtobe|Zhetysu Region|20492|
+45.2520|77.9801|Ush-Tyube|Almaty|0|
+49.9714|82.6059|Ust-Kamenogorsk|East Kazakhstan|319067|
+48.6833|73.2833|Verkhniye Kayrakty|Karaganda|1158|
+53.2927|68.1050|Volodarskoye|North Kazakhstan|950|
+43.9065|67.2464|Yanykurgan|Kyzylorda|21339|Zhangaqorghan
+54.3453|68.4574|Yavlenka|North Kazakhstan|4945|
+43.1803|51.6812|Yeraliyev|Mangystau|0|
+51.6236|73.1026|Yermentau|Akmola|0|
+48.6167|61.2667|Yrghyz|Aktobe|4673|
+52.4703|72.0151|Zavodskoy|Akmola|6043|
+47.4666|84.8714|Zaysan|East Kazakhstan|17600|
+42.4378|70.4784|Zhabagly|Turkistan|2000|
+49.2109|81.2160|Zhalghyztobe|East Kazakhstan|4400|
+47.2069|71.3969|Zhambyl|Karaganda|0|
+43.3412|52.8619|Zhanaozen|Mangystau|103598|
+49.6295|83.5247|Zhanga Buqtyrma|East Kazakhstan|0|
+43.5622|69.7343|Zhangatas|Jambyl|33492|
+49.4221|46.8471|Zhänibek|West Kazakhstan|8212|
+51.9106|67.3166|Zhaqsy|Akmola|0|
+44.1666|80.0066|Zharkent|Almaty|34422|
+48.8569|72.8360|Zharyk|Karaganda|2940|
+53.5388|75.3133|Zhelezinka|Pavlodar|5225|
+43.5942|52.0789|Zhetibay|Mangystau|0|
+40.7763|68.3277|Zhetysay|Turkistan|36494|
+50.9311|81.3615|Zhezkent|East Kazakhstan|8896|
+47.7833|67.7667|Zhezqazghan|Karaganda|104357|
+51.7421|71.7125|Zholymbet|Akmola|6876|
+45.4878|64.0781|Zhosaly|Kyzylorda|20065|
+49.7265|84.2732|Zyryanovsk|East Kazakhstan|0|
+50.5493|81.8500|Ūst’-Talovka|East Kazakhstan|6122|

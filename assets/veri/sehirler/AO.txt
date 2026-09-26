@@ -1,157 +1,163 @@
--12.2333|15.5500|Alto Hama
--7.8574|13.1251|Ambriz
--11.4868|16.6966|Andulo
--12.5766|13.4776|Baía Farta
--9.5750|15.9944|Bailundo
--12.9046|13.5959|Balombo
--8.4718|13.3701|Barra do Dande
--9.0687|13.1607|Belas
--4.6500|12.7667|Belize
--8.9443|13.1643|Benfica
--12.5763|13.4055|Benguela
--14.9333|13.6833|Bibala
--12.5303|13.4042|Bocoio
--4.7667|12.5500|Buco Zau
--7.3117|14.3147|Bula Atumba
--12.8525|15.5606|Caála
--5.5500|12.2000|Cabinda
--13.7333|15.0667|Caconda
--8.8296|13.2973|Cacuaco
--9.4210|15.7467|Cacuso
--8.7672|17.9957|Cafunfo
--8.2997|14.3449|Cage Mazumbo
--16.2856|14.3096|Cahama
--12.6133|14.4194|Caimbambo
--10.0006|14.8952|Calulo
--9.1469|13.4194|Calumbo
--13.9209|14.5348|Caluquembe
--8.1881|15.3750|Camabatela
--12.0167|17.4833|Camacupa
--8.9361|13.2652|Camama
--7.4686|17.0377|Cambundi
--10.0753|17.5506|Cambundi Catembo
--15.4500|12.8833|Camucuio
--8.1626|14.1166|Canacassala
--9.7833|16.4333|Cangandala
--11.1333|14.4667|Capunda
--7.4837|21.3034|Cassanguidi
--12.1500|17.2833|Catabola
--12.5660|16.2259|Catchiungo
--12.4300|13.5468|Catumbela
--8.5785|13.6642|Caxito
--11.0671|20.7015|Cazaji
--8.8286|13.2665|Cazenga
--11.8991|22.9022|Cazombo
--11.4217|15.1235|Cela
--12.3026|15.4336|Chela
--15.2366|13.8847|Chibia
--14.3079|14.9867|Chicomba
--11.9500|14.4667|Chindumbo
--12.5571|16.3380|Chinguar
--13.8683|15.7328|Chipindo
--12.1667|17.3333|Chissamba
--7.3000|20.7333|Chitato
--13.5500|16.6333|Chitembo
--12.7888|13.7975|Chongoroi
--11.1086|14.3362|Conda
--9.1458|18.0445|Cuango-Luzamba
--12.5885|14.4267|Cubal
--12.3126|14.1265|Cubal do Lumbo
--12.1500|18.0833|Cuemba
--8.2362|19.5257|Cuilo
--6.1208|14.6209|Cuímba
--12.3833|16.9333|Cuito
--14.2769|16.3148|Cuvango
--8.1133|13.7652|Dande
--12.9517|13.1025|Dombe Grande
--9.6846|14.4279|Dondo
--7.3664|20.8156|Dundo
--12.6789|15.5056|Ecunna
--10.8515|14.3799|Gabela
--8.5675|13.4764|Gama
--15.8093|14.0766|Gambos
--12.6825|14.4233|Ganda
--8.8664|13.2617|Golfe
--9.1333|14.7667|Golungo Alto
--8.1244|14.2908|Gombe
--8.8052|13.2897|Hoji ya Henda
--12.7761|15.7392|Huambo
--16.6864|14.9032|Humbe
--15.0725|13.3677|Humpata
--9.2419|13.7355|Icolo e Bengo
--8.8181|13.2289|Ingombota
--14.7629|15.8349|Jamba
--8.7815|13.3338|Kikolo
--8.8486|13.2750|Kilamba
--8.8341|13.2952|Kima Kieza
--8.9077|17.0534|Kunda dya Baze
--11.6500|20.4500|Léua
--12.3644|13.5360|Lobito
--12.2371|15.3170|Londuimbali
--12.9067|15.2533|Longonjo
--8.8368|13.2343|Luanda
--10.7073|22.2247|Luau
--9.1545|19.2814|Lubalo
--14.9172|13.4925|Lubango
--9.2727|15.2521|Lucala
--8.6834|20.2705|Lucapa
--11.7833|19.9167|Luena
--14.1016|21.4353|Lumbala
--11.5500|20.7833|Lumeje
--10.7391|17.7177|Luquembo
--8.5243|13.6862|Mabubas
--8.8469|13.2370|Maianga
--9.5402|16.3410|Malanje
--6.0572|15.1097|Maquela do Zombo
--15.2397|15.1725|Matala
--6.2670|14.2401|Mbanza Congo
--6.2667|14.2383|Mbanza Kongo
--14.6585|17.6910|Menongue
--15.1961|12.1522|Mossamedes
--8.8669|13.3344|Mulenvos
--11.8327|16.2361|Mungo
--10.5143|16.0199|Mussende
--8.1231|14.2884|Muxaluando
--9.5879|13.5251|Muxima
--8.5656|13.6572|Nambuangongo
--15.1967|12.1522|Namibe
--12.5900|13.3912|Navegantes
--9.2978|14.9116|N'dalatando
--7.7594|15.2722|Negage
--11.4751|16.9650|Nharêa
--8.9055|13.2221|Nova Vida
--8.3855|15.3013|Nzagi
--7.2312|12.8666|N'zeto
--17.0667|15.7333|Ondjiva
--8.5544|13.5815|Pango Aluquém
--8.6934|13.4491|Panguíla
--8.5341|14.4355|Piri
--10.7325|13.7684|Porto Amboim
--10.7337|14.9800|Quibala
--13.9921|13.7670|Quilengues
--15.1220|14.5595|Quipungo
--11.3922|15.0920|Quissecula
--9.0626|13.0456|Ramiros
--8.8264|13.2629|Rangel
--8.8800|13.1962|Samba
--8.7888|13.2751|Sambizanga
--10.1916|15.4341|Santa Clara
--7.3147|16.0024|Sanza Pombo
--9.6608|20.3915|Saurimo
--6.1349|12.3689|Soio|Soyo
--7.3521|14.8463|Songo
--11.2061|13.8448|Sumbe
--8.8957|13.1943|Talatona
--6.8052|13.3302|Tombôco
--15.7833|11.8667|Tombua
--15.8039|11.8448|Tômbua
--11.3567|15.1172|Uacu Cungo
--8.6724|13.6829|Úcua
--12.9612|15.0596|Ucuma
--11.4124|14.3066|Ucu Seles
--7.6087|15.0613|Uíge
--8.9021|13.2861|Viana
--8.9801|13.3078|Vila Flor
--14.4667|13.2667|Virei
--16.7444|14.9749|Xangongo
--9.0121|13.3844|Zango
+-12.2333|15.5500|Alto Hama|Huambo|36661|
+-7.8574|13.1251|Ambriz|Bengo|11640|
+-11.4868|16.6966|Andulo|Bíe|50000|
+-12.5766|13.4776|Baía Farta|Benguela|107841|
+-9.5750|15.9944|Bailundo|Malanje|70481|
+-12.9046|13.5959|Balombo|Benguela|108965|
+-8.4718|13.3701|Barra do Dande|Bengo|75000|
+-9.0687|13.1607|Belas|Luanda|0|
+-4.6500|12.7667|Belize|Cabinda|24430|
+-8.9443|13.1643|Benfica|Luanda|191828|
+-12.5763|13.4055|Benguela|Benguela|555124|
+-14.9333|13.6833|Bibala|Namibe|10500|
+-12.5303|13.4042|Bocoio|Benguela|164685|
+-4.7667|12.5500|Buco Zau|Cabinda|40953|
+-7.3117|14.3147|Bula Atumba|Bengo|30537|
+-12.8525|15.5606|Caála|Huambo|130000|
+-5.5500|12.2000|Cabinda|Cabinda|550000|
+-13.7333|15.0667|Caconda|Huíla|15000|
+-5.2386|12.1443|Cacongo|Cabinda|15000|
+-8.8296|13.2973|Cacuaco|Luanda|146867|
+-9.4210|15.7467|Cacuso|Malanje|39302|
+-8.7672|17.9957|Cafunfo|Luanda Norte|90000|
+-8.2997|14.3449|Cage Mazumbo|Bengo|16093|
+-16.2856|14.3096|Cahama|Cunene|70061|
+-12.6133|14.4194|Caimbambo|Benguela|14544|
+-13.7739|15.0911|Calonamba|Huíla|15000|
+-11.3228|16.1959|Calucinga|Bíe|15000|
+-10.0006|14.8952|Calulo|Kwanza Sul|44000|
+-9.1469|13.4194|Calumbo|Bengo|652270|
+-13.9209|14.5348|Caluquembe|Huíla|31000|
+-8.1881|15.3750|Camabatela|Cuanza Norte|21767|
+-12.0167|17.4833|Camacupa|Bié|59000|
+-8.9361|13.2652|Camama|Luanda|667094|
+-7.4686|17.0377|Cambundi|Malanje|17212|
+-10.0753|17.5506|Cambundi Catembo|Malanje|17212|
+-15.4500|12.8833|Camucuio|Namibe|66112|
+-8.1626|14.1166|Canacassala|Bengo|20913|
+-9.7833|16.4333|Cangandala|Malanje|52220|
+-11.1333|14.4667|Capunda|Kwanza Sul|21260|
+-7.4837|21.3034|Cassanguidi|Luanda Norte|20000|
+-12.1500|17.2833|Catabola|Bié|28831|
+-12.5660|16.2259|Catchiungo|Huambo|120677|
+-12.4300|13.5468|Catumbela|Benguela|95034|
+-8.5785|13.6642|Caxito|Bengo|55000|
+-11.0671|20.7015|Cazaji|Lunda Sul|0|
+-8.8286|13.2665|Cazenga|Luanda|394170|
+-8.7320|15.3712|Cazombo|Cuanza Norte|34000|
+-11.8991|22.9022|Cazombo|Moxico|34000|
+-11.4217|15.1235|Cela|Kwanza Sul|90000|
+-12.3026|15.4336|Chela|Huambo|5811|
+-15.2366|13.8847|Chibia|Huíla|10000|
+-14.3079|14.9867|Chicomba|Huíla|9428|
+-11.9500|14.4667|Chindumbo|Benguela|32013|
+-12.5571|16.3380|Chinguar|Bíe|26811|
+-13.8683|15.7328|Chipindo|Huíla|10000|
+-12.1667|17.3333|Chissamba|Bié|7677|
+-7.3000|20.7333|Chitato|Luanda Norte|246880|
+-13.5500|16.6333|Chitembo|Bíe|25000|
+-12.7888|13.7975|Chongoroi|Benguela|12000|
+-11.1086|14.3362|Conda|Kwanza Sul|21260|
+-9.1458|18.0445|Cuango-Luzamba|Luanda Norte|55000|
+-12.5885|14.4267|Cubal|Benguela|90367|
+-12.3126|14.1265|Cubal do Lumbo|Benguela|18451|
+-14.6498|16.8993|Cuchi|Cubango|15000|
+-12.1500|18.0833|Cuemba|Bíe|19995|
+-8.2362|19.5257|Cuilo|Luanda Norte|26577|
+-6.1208|14.6209|Cuímba|Zaire|41878|
+-12.3833|16.9333|Cuito|Bié|355423|
+-14.2769|16.3148|Cuvango|Huíla|0|
+-8.1133|13.7652|Dande|Bengo|0|
+-12.9517|13.1025|Dombe Grande|Benguela|25000|
+-9.6846|14.4279|Dondo|Cuanza Norte|64643|
+-7.3664|20.8156|Dundo|Luanda Norte|177604|
+-12.6789|15.5056|Ecunna|Huambo|82541|
+-10.8515|14.3799|Gabela|Kwanza Sul|116903|
+-8.5675|13.4764|Gama|Bengo|66202|
+-15.8093|14.0766|Gambos|Huíla|0|
+-12.6825|14.4233|Ganda|Benguela|65000|
+-8.8664|13.2617|Golfe|Luanda|655796|
+-9.1333|14.7667|Golungo Alto|Cuanza Norte|19992|
+-8.1244|14.2908|Gombe|Bengo|19209|
+-8.8052|13.2897|Hoji ya Henda|Luanda|642050|
+-12.7761|15.7392|Huambo|Huambo|595304|
+-16.6864|14.9032|Humbe|Cunene|35985|
+-15.0725|13.3677|Humpata|Huíla|0|
+-9.2419|13.7355|Icolo e Bengo|Luanda|0|
+-8.8181|13.2289|Ingombota|Luanda|144911|
+-14.7629|15.8349|Jamba|Huíla|0|
+-8.7815|13.3338|Kikolo|Luanda|728205|
+-8.8486|13.2750|Kilamba|Luanda|237528|
+-8.8341|13.2952|Kima Kieza|Luanda|428855|
+-8.9077|17.0534|Kunda dya Baze|Malanje|15965|
+-11.6500|20.4500|Léua|Moxico|5168|
+-12.3644|13.5360|Lobito|Benguela|393079|
+-12.2371|15.3170|Londuimbali|Huambo|17000|
+-12.9067|15.2533|Longonjo|Huambo|92103|
+-8.8368|13.2343|Luanda|Luanda|2776168|
+-10.7073|22.2247|Luau|Moxico|55432|
+-9.1545|19.2814|Lubalo|Luanda Norte|26103|
+-14.9172|13.4925|Lubango|Huíla|600751|
+-9.2727|15.2521|Lucala|Cuanza Norte|19422|
+-8.4192|20.7447|Lucapa|Luanda Norte|110000|
+-8.6834|20.2705|Lucapa|Lunda Norte|0|
+-11.7833|19.9167|Luena|Moxico|273675|
+-14.1016|21.4353|Lumbala|Moxico|19000|
+-11.5500|20.7833|Lumeje|Moxico|0|
+-10.7391|17.7177|Luquembo|Malanje|69420|
+-8.5243|13.6862|Mabubas|Bengo|16981|
+-8.8469|13.2370|Maianga|Luanda|727681|
+-9.5402|16.3410|Malanje|Malanje|455000|
+-6.0572|15.1097|Maquela do Zombo|Uíge|42000|
+-15.2397|15.1725|Matala|Huíla|78000|
+-6.2670|14.2401|Mbanza Congo|Zaire|0|
+-6.2667|14.2383|Mbanza Kongo|Zaire|148000|
+-14.6585|17.6910|Menongue|Cuando Cubango|251178|
+-15.1961|12.1522|Mossamedes|Namibe|255000|
+-8.8669|13.3344|Mulenvos|Luanda|882014|
+-11.8327|16.2361|Mungo|Huambo|21662|
+-10.5143|16.0199|Mussende|Kwanza Sul|33558|
+-8.1231|14.2884|Muxaluando|Bengo|21052|
+-9.5879|13.5251|Muxima|Bengo|8166|
+-8.5656|13.6572|Nambuangongo|Bengo|0|
+-15.1967|12.1522|Namibe|Namibe|0|
+-12.5900|13.3912|Navegantes|Benguela|240075|
+-9.2978|14.9116|N’dalatando|Cuanza Norte|161584|
+-7.7594|15.2722|Negage|Uíge|92950|
+-11.4751|16.9650|Nharêa|Bíe|18000|
+-8.9055|13.2221|Nova Vida|Luanda|464985|
+-8.3855|15.3013|Nzagi|Cuanza Norte|60000|
+-7.2312|12.8666|N'zeto|Zaire|28840|
+-17.0667|15.7333|Ondjiva|Cunene|121537|
+-8.5544|13.5815|Pango Aluquém|Bengo|16080|
+-8.6934|13.4491|Panguíla|Bengo|158068|
+-8.5341|14.4355|Piri|Bengo|26265|
+-10.7325|13.7684|Porto Amboim|Kwanza Sul|91605|
+-10.7337|14.9800|Quibala|Cuanza|27128|
+-13.9921|13.7670|Quilengues|Huíla|0|
+-15.1220|14.5595|Quipungo|Huíla|23014|
+-11.3922|15.0920|Quissecula|Kwanza Sul|90000|
+-9.0626|13.0456|Ramiros|Luanda|323576|
+-8.8264|13.2629|Rangel|Luanda|190569|
+-8.8800|13.1962|Samba|Luanda|364986|
+-8.7888|13.2751|Sambizanga|Luanda|177808|
+-10.1916|15.4341|Santa Clara|Kwanza Sul|29000|
+-7.3147|16.0024|Sanza Pombo|Uíge|23000|
+-9.6608|20.3915|Saurimo|Lunda Sul|393000|
+-6.1349|12.3689|Soio|Zaire|221555|Soyo
+-7.3521|14.8463|Songo|Uíge|31382|
+-11.2061|13.8448|Sumbe|Benguela|205832|
+-11.2060|13.8437|Sumbe|Cuanza|205832|
+-8.8957|13.1943|Talatona|Luanda|500000|
+-6.8052|13.3302|Tombôco|Zaire|20358|
+-15.7833|11.8667|Tombua|Namibe|46573|
+-11.3567|15.1172|Uacu Cungo|Cuanza|0|
+-8.6724|13.6829|Úcua|Bengo|41654|
+-12.9612|15.0596|Ucuma|Huambo|21809|
+-11.4124|14.3066|Ucu Seles|Kwanza Sul|47421|
+-7.6087|15.0613|Uíge|Uíge|322531|
+-8.9021|13.2861|Viana|Luanda|865863|
+-8.9801|13.3078|Vila Flor|Luanda|256066|
+-14.4667|13.2667|Virei|Namibe|42607|
+-16.7444|14.9749|Xangongo|Cunene|35000|
+-9.0121|13.3844|Zango|Luanda|198538|

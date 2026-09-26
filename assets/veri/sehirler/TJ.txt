@@ -1,79 +1,79 @@
-37.9464|68.8088|Abdurahmoni Jomí
-40.6493|69.9847|Adrasmon
-39.3941|68.5377|Ayní
-37.8365|68.7776|Bokhtar
-37.5203|68.1282|Boshchorbogh
-38.4661|68.8053|Boshkengash
-40.2342|69.6948|Buston|Chkalov
-40.5229|69.3331|Bŭston
-37.8478|68.8312|Bŭstonqal’a
-37.6145|69.7053|Chubek
-39.7490|68.9957|Dalyoni Bolo
-38.0958|69.3400|Danghara
-38.8678|69.9664|Darband
-38.5367|68.7800|Dushanbe
-37.3481|68.6640|Dŭstí
-37.4922|69.4036|Farkhor
-40.2157|69.7287|Ghafurov
-37.5670|68.4467|Gharavŭtí
-38.5250|68.5512|Hisor
-37.8054|69.6452|Hulbuk
-40.1265|70.6253|Isfara
-36.7248|71.6133|Ishqoshim
-39.9142|69.0033|Istaravshan
-40.5702|69.6418|Istiqlol|Taboshar
-37.4917|68.5311|Jilikŭl
-39.2358|71.5241|Karakenja
-38.7446|68.6270|Khodzha-Maston
-37.4897|71.5530|Khorugh
-40.2826|69.6222|Khujand|Khŭjand
-40.2080|70.4688|Kim
-37.8191|68.8590|Kirov
-37.5882|68.6589|Kolkhozobod
-40.2941|70.4312|Konibodom
-40.4915|69.7024|Konsoy
-37.9146|69.7845|Kŭlob
-37.6093|68.5809|Moskovskiy
-39.8815|69.1822|Muchun
-38.1702|73.9667|Murghob
-38.1071|70.0321|Mŭ’minobod
-40.2152|70.5719|Neftobod
-37.5728|68.8153|Nohiyai Kolkhozobod
-40.2688|70.3306|Nohiyai Konibodom
-37.3161|69.1668|Nohiyai Panj
-37.7000|72.1675|Nohiyai Shughnon
-37.7560|68.9414|Nohiyai Vakhsh
-38.3892|69.3227|Norak
-40.1522|69.3708|Nov
-39.0108|70.1508|Novobod
-38.7173|69.7088|Obigarm
-40.6542|69.5981|Oltintopkan
-37.5582|68.8195|Orzu
-40.1571|68.7466|Pakhtakoron
-40.3163|69.7374|Palos
-37.2363|69.0991|Panj
-39.4952|67.6093|Panjakent
-40.1671|69.5016|Proletar
-40.2660|69.7959|Qayroqqum
-40.5765|69.3796|Quruqsoy
-37.8340|68.7819|Qŭrghonteppa
-39.0287|70.3745|Rasht
-38.6933|69.7369|Roghun
-38.5709|68.3350|Shahrinav
-39.7745|68.8093|Shahriston
-37.2621|68.1385|Shahritus
-40.6699|70.3502|Shaydon
-40.0461|70.5412|Shŭrob
-38.0467|69.5882|Sovet
-38.8383|68.8985|Tagob
-37.5822|68.1335|Tartiki
-38.5127|68.2316|Tursunzoda
-38.5563|69.0135|Vahdat
-38.8333|69.3333|Vahdat District
-37.7148|68.8346|Vakhsh
-38.7737|68.8178|Varzob
-38.7500|68.7500|Varzob District
-39.8513|70.5801|Vorukh
-37.8040|69.6442|Vose’
-38.3141|69.0378|Yovon
-37.4647|68.1695|Zarhalol
+37.9464|68.8088|Abdurahmoni Jomí|Khatlon|9943|
+40.6493|69.9847|Adrasmon|Sughd|13372|
+39.3941|68.5377|Ayní|Sughd|2128|
+37.8365|68.7776|Bokhtar|Khatlon|110800|
+37.5203|68.1282|Boshchorbogh|Khatlon|4237|
+38.4661|68.8053|Boshkengash|Dushanbe|23696|
+40.5229|69.3331|Bŭston|Sughd|13043|
+37.8478|68.8312|Bŭstonqal’a|Khatlon|4900|
+40.2342|69.6948|Chkalov|Sughd|36900|Buston
+37.6145|69.7053|Chubek|Khatlon|19563|
+39.7490|68.9957|Dalyoni Bolo|Sughd|23670|
+38.0958|69.3400|Danghara|Khatlon|22824|
+38.8678|69.9664|Darband|Nohiyahoi Tobei Jumhurí|1115|
+38.5367|68.7800|Dushanbe|Dushanbe|679400|
+37.3481|68.6640|Dŭstí|Khatlon|8700|
+37.4922|69.4036|Farkhor|Khatlon|21736|
+40.2157|69.7287|Ghafurov|Sughd|0|
+37.5670|68.4467|Gharavŭtí|Khatlon|8474|
+38.5250|68.5512|Hisor|Nohiyahoi Tobei Jumhurí|23978|
+37.8054|69.6452|Hulbuk|Khatlon|21736|
+40.1265|70.6253|Isfara|Sughd|274000|
+36.7248|71.6133|Ishqoshim|Gorno-Badakhshan|26000|
+39.9142|69.0033|Istaravshan|Sughd|273500|
+37.4917|68.5311|Jilikŭl|Khatlon|5434|
+39.2358|71.5241|Karakenja|Nohiyahoi Tobei Jumhurí|2899|
+38.7446|68.6270|Khodzha-Maston|Nohiyahoi Tobei Jumhurí|9781|
+37.4897|71.5530|Khorugh|Gorno-Badakhshan|30500|
+40.2826|69.6222|Khŭjand|Sughd|191000|Khujand
+40.2080|70.4688|Kim|Sughd|1600|
+37.8191|68.8590|Kirov|Khatlon|7696|
+37.5882|68.6589|Kolkhozobod|Khatlon|18476|
+40.2941|70.4312|Konibodom|Sughd|211100|
+40.4915|69.7024|Konsoy|Sughd|6000|
+37.9146|69.7845|Kŭlob|Khatlon|214700|
+37.6093|68.5809|Moskovskiy|Khatlon|22100|
+39.8815|69.1822|Muchun|Sughd|27835|
+38.1702|73.9667|Murghob|Gorno-Badakhshan|10815|
+38.1071|70.0321|Mŭ’minobod|Khatlon|11955|
+40.2152|70.5719|Neftobod|Sughd|4603|
+37.5728|68.8153|Nohiyai Kolkhozobod|Khatlon|0|
+40.2688|70.3306|Nohiyai Konibodom|Sughd|0|
+37.3161|69.1668|Nohiyai Panj|Khatlon|0|
+37.7000|72.1675|Nohiyai Shughnon|Gorno-Badakhshan|0|
+37.7560|68.9414|Nohiyai Vakhsh|Khatlon|0|
+38.3892|69.3227|Norak|Khatlon|18122|
+40.1522|69.3708|Nov|Sughd|13833|
+39.0108|70.1508|Novobod|Nohiyahoi Tobei Jumhurí|5352|
+38.7173|69.7088|Obigarm|Nohiyahoi Tobei Jumhurí|7400|
+40.6542|69.5981|Oltintopkan|Sughd|4823|
+37.5582|68.8195|Orzu|Khatlon|5988|
+40.1571|68.7466|Pakhtakoron|Sughd|8220|
+40.3163|69.7374|Palos|Sughd|3288|
+37.2363|69.0991|Panj|Khatlon|8019|
+39.4952|67.6093|Panjakent|Sughd|35085|
+40.1671|69.5016|Proletar|Sughd|16441|
+40.2660|69.7959|Qayroqqum|Sughd|49200|
+40.5765|69.3796|Quruqsoy|Sughd|3400|
+37.8340|68.7819|Qŭrghonteppa|Khatlon|0|
+39.0287|70.3745|Rasht|Nohiyahoi Tobei Jumhurí|10771|
+38.6933|69.7369|Roghun|Nohiyahoi Tobei Jumhurí|7731|
+38.5709|68.3350|Shahrinav|Nohiyahoi Tobei Jumhurí|5385|
+39.7745|68.8093|Shahriston|Sughd|22903|
+37.2621|68.1385|Shahritus|Khatlon|13042|
+40.6699|70.3502|Shaydon|Sughd|11705|
+40.0461|70.5412|Shŭrob|Sughd|2900|
+38.0467|69.5882|Sovet|Khatlon|8695|
+40.5702|69.6418|Taboshar|Sughd|17600|Istiqlol
+38.8383|68.8985|Tagob|Nohiyahoi Tobei Jumhurí|2565|
+37.5822|68.1335|Tartiki|Khatlon|2342|
+38.5127|68.2316|Tursunzoda|Nohiyahoi Tobei Jumhurí|37000|
+38.5563|69.0135|Vahdat|Nohiyahoi Tobei Jumhurí|45693|
+38.8333|69.3333|Vahdat District|Nohiyahoi Tobei Jumhurí|0|
+37.7148|68.8346|Vakhsh|Khatlon|15215|
+38.7737|68.8178|Varzob|Nohiyahoi Tobei Jumhurí|2154|
+38.7500|68.7500|Varzob District|Nohiyahoi Tobei Jumhurí|0|
+39.8513|70.5801|Vorukh|Sughd|3836|
+37.8040|69.6442|Vose’|Khatlon|0|
+38.3141|69.0378|Yovon|Khatlon|17471|
+37.4647|68.1695|Zarhalol|Khatlon|30689|

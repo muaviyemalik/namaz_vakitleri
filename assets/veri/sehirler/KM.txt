@@ -1,88 +1,88 @@
--12.2925|44.4972|Adda-Douéni
--12.3564|44.5225|Antsahé
--12.2331|44.3197|Assimpao
--11.6397|43.2842|Bahani
--11.4786|43.3772|Bambadjani
--12.2033|44.5164|Bambao
--12.1917|44.2869|Bandajou
--12.1386|44.4303|Barakani
--12.1883|44.2356|Bimbini
--12.2056|44.2994|Boungouéni
--11.4869|43.3883|Bouni
--12.1950|44.4647|Chandra
--11.4314|43.3963|Chezani
--11.9233|43.4911|Chindini
--12.1911|44.3525|Chironkamba
--12.1858|44.3356|Chitrouni
--11.8233|43.2943|Chouani
--12.3258|44.4886|Daji
--11.8736|43.3978|Dembéni
--12.3059|43.7743|Djoyézi
--12.2569|44.5319|Domoni
--11.4211|43.2889|Douniani
--11.8529|43.3499|Dzahadjou
--12.1833|44.4833|Dziani
--12.2876|43.7434|Fomboni
--11.8654|43.4953|Foumbouni
--12.1243|44.4888|Hajoho
--11.4318|43.4110|Hantsindzi
--12.1511|44.4983|Harembo
--11.5439|43.3797|Héroumbili
--12.2508|43.6747|Hoani
--11.6711|43.2547|Itsandra
--11.4728|43.3844|Itsandzéni
--11.3916|43.3945|Ivouani
--12.3210|44.4727|Kangani
--12.1919|44.2694|Kavani
--12.1714|44.4417|Koki
--12.2297|44.4817|Koni-Djodjo
--12.2158|44.4800|Koni-Ngani
--11.4208|43.2764|Koua
--12.3322|44.5192|Kyo
--12.2394|44.5053|Limbi
--12.2558|44.4183|Lingoni
--11.8217|43.2781|Madjeouéni
--12.2781|44.4158|Magnassini-Nindri
--11.4181|43.2953|Mandza
--12.2308|44.3133|Maraharé
--11.7164|43.2525|Mavingouni
--11.5014|43.3775|Mbéni
--12.1567|44.4081|Mirontsi
--11.3847|43.2844|Mitsamiouli
--11.8121|43.2804|Mitsoudjé
--12.1936|44.3100|Mjamaoué
--12.1917|44.3703|Mjimandra
--11.5178|43.3739|Mnoungou
--11.8270|43.4544|Mohoro
--11.7022|43.2551|Moroni
--12.1667|44.3994|Moutsamoudou
--12.3097|44.4368|Moya
--12.3464|44.5286|Mramani
--12.3083|44.4986|Mrémani
--12.2611|43.7036|Mtakoudja
--11.6069|43.3806|Mtsamdou
--11.7161|43.2647|Mvouni
--12.3614|43.7153|Nioumachoua
--11.8546|43.4461|Nioumamilima
--11.4658|43.2628|Ntsaouéni
--11.6597|43.2614|Ntsoudjini
--12.1703|44.5069|Ongoni
--12.3375|43.7975|Ouanani
--12.1355|44.4249|Ouani
--11.3903|43.3319|Ouellah
--11.4050|43.2822|Ouhozi
--11.9138|43.4980|Ourovéni
--11.5850|43.2672|Oussivo
--12.2672|44.4797|Ouzini
--12.1697|44.3881|Pajé
--12.1556|44.4372|Patsi
--11.8115|43.2682|Salimani
--11.7844|43.2608|Séléa
--12.1956|44.2767|Sima
--11.8478|43.3173|Singani
--11.6981|43.2619|Tsidjé
--12.2058|44.4647|Tsimbeo
--11.6075|43.2761|Vanadjou
--11.6114|43.2531|Vanambouani
--12.2442|44.3744|Vouani
--12.3325|43.7775|Ziroudani
+-12.2925|44.4972|Adda-Douéni|Anjouan|10858|
+-12.3564|44.5225|Antsahé|Anjouan|1180|
+-12.2331|44.3197|Assimpao|Anjouan|1112|
+-11.6397|43.2842|Bahani|Grande Comore|1272|
+-11.4786|43.3772|Bambadjani|Grande Comore|1355|
+-12.2033|44.5164|Bambao|Anjouan|2699|
+-12.1917|44.2869|Bandajou|Anjouan|1816|
+-12.1386|44.4303|Barakani|Anjouan|6089|
+-12.1883|44.2356|Bimbini|Anjouan|2052|
+-12.2056|44.2994|Boungouéni|Anjouan|2465|
+-11.4869|43.3883|Bouni|Grande Comore|1104|
+-12.1950|44.4647|Chandra|Anjouan|5645|
+-11.4314|43.3963|Chezani|Grande Comore|2322|
+-11.9233|43.4911|Chindini|Grande Comore|1471|
+-12.1911|44.3525|Chironkamba|Anjouan|2391|
+-12.1858|44.3356|Chitrouni|Anjouan|1081|
+-11.8233|43.2943|Chouani|Grande Comore|2615|
+-12.3258|44.4886|Daji|Anjouan|2676|
+-11.8736|43.3978|Dembéni|Grande Comore|2657|
+-12.3059|43.7743|Djoyézi|Mohéli|2096|
+-12.2569|44.5319|Domoni|Anjouan|12262|
+-11.4211|43.2889|Douniani|Grande Comore|1778|
+-11.8529|43.3499|Dzahadjou|Grande Comore|2000|
+-12.1833|44.4833|Dziani|Anjouan|1754|
+-12.2876|43.7434|Fomboni|Mohéli|17291|
+-11.8654|43.4953|Foumbouni|Grande Comore|3386|
+-12.1243|44.4888|Hajoho|Anjouan|2505|
+-11.4318|43.4110|Hantsindzi|Grande Comore|2004|
+-12.1511|44.4983|Harembo|Anjouan|1698|
+-11.5439|43.3797|Héroumbili|Grande Comore|1463|
+-12.2508|43.6747|Hoani|Mohéli|1114|
+-11.6711|43.2547|Itsandra|Grande Comore|2684|
+-11.4728|43.3844|Itsandzéni|Grande Comore|1382|
+-11.3916|43.3945|Ivouani|Grande Comore|1317|
+-12.3210|44.4727|Kangani|Anjouan|3711|
+-12.1919|44.2694|Kavani|Anjouan|2160|
+-12.1714|44.4417|Koki|Anjouan|4929|
+-12.2297|44.4817|Koni-Djodjo|Anjouan|8109|
+-12.2158|44.4800|Koni-Ngani|Anjouan|3288|
+-11.4208|43.2764|Koua|Grande Comore|1391|
+-12.3322|44.5192|Kyo|Anjouan|2209|
+-12.2394|44.5053|Limbi|Anjouan|1037|
+-12.2558|44.4183|Lingoni|Anjouan|3583|
+-11.8217|43.2781|Madjeouéni|Grande Comore|1320|
+-12.2781|44.4158|Magnassini-Nindri|Anjouan|2213|
+-11.4181|43.2953|Mandza|Grande Comore|1602|
+-12.2308|44.3133|Maraharé|Anjouan|1415|
+-11.7164|43.2525|Mavingouni|Grande Comore|1390|
+-11.5014|43.3775|Mbéni|Grande Comore|5128|
+-12.1567|44.4081|Mirontsi|Anjouan|11955|
+-11.3847|43.2844|Mitsamiouli|Grande Comore|4811|
+-11.8121|43.2804|Mitsoudjé|Grande Comore|3129|
+-12.1936|44.3100|Mjamaoué|Anjouan|1490|
+-12.1917|44.3703|Mjimandra|Anjouan|3114|
+-11.5178|43.3739|Mnoungou|Grande Comore|1013|
+-11.8270|43.4544|Mohoro|Grande Comore|2014|
+-11.7022|43.2551|Moroni|Grande Comore|74749|
+-12.1667|44.3994|Moutsamoudou|Anjouan|26313|
+-12.3097|44.4368|Moya|Anjouan|7529|
+-12.3464|44.5286|Mramani|Anjouan|5126|
+-12.3083|44.4986|Mrémani|Anjouan|5470|
+-12.2611|43.7036|Mtakoudja|Mohéli|1410|
+-11.6069|43.3806|Mtsamdou|Grande Comore|1171|
+-11.7161|43.2647|Mvouni|Grande Comore|4791|
+-12.3614|43.7153|Nioumachoua|Mohéli|2687|
+-11.8546|43.4461|Nioumamilima|Grande Comore|1068|
+-11.4658|43.2628|Ntsaouéni|Grande Comore|2760|
+-11.6597|43.2614|Ntsoudjini|Grande Comore|3559|
+-12.1703|44.5069|Ongoni|Anjouan|2058|
+-12.3375|43.7975|Ouanani|Mohéli|1917|
+-12.1355|44.4249|Ouani|Anjouan|10073|
+-11.3903|43.3319|Ouellah|Grande Comore|5478|
+-11.4050|43.2822|Ouhozi|Grande Comore|1930|
+-11.9138|43.4980|Ourovéni|Grande Comore|1419|
+-11.5850|43.2672|Oussivo|Grande Comore|1708|
+-12.2672|44.4797|Ouzini|Anjouan|1886|
+-12.1697|44.3881|Pajé|Anjouan|1894|
+-12.1556|44.4372|Patsi|Anjouan|1498|
+-11.8115|43.2682|Salimani|Grande Comore|1662|
+-11.7844|43.2608|Séléa|Grande Comore|1662|
+-12.1956|44.2767|Sima|Anjouan|8737|
+-11.8478|43.3173|Singani|Grande Comore|2309|
+-11.6981|43.2619|Tsidjé|Grande Comore|4600|
+-12.2058|44.4647|Tsimbeo|Anjouan|12590|
+-11.6075|43.2761|Vanadjou|Grande Comore|1830|
+-11.6114|43.2531|Vanambouani|Grande Comore|1654|
+-12.2442|44.3744|Vouani|Anjouan|2513|
+-12.3325|43.7775|Ziroudani|Mohéli|1197|

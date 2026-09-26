@@ -98,55 +98,114 @@ class Sehir {
   final double enlem;
   final double boylam;
 
-  /// Aramada da eslesmesi istenen alternatif adlar.
+  /// Bağlı olduğu il / eyalet / bölge adı (yerel dilde).
   ///
-  /// Veri kaynaklari ayni sehiri farkli adlarla saklar: GeoNames Almanca
-  /// "Munchen" icin uluslararasi adi "Munich" olarak yazar, dr5hn ise
-  /// "Nurnberg" ve "Nuremberg" olarak iki ayri kayit tutar. Bu durumda
-  /// kullanici kendi dilinde yazip sehiri bulamaz, ya da ayni sehir
-  /// listede iki kez gorunur.
+  /// Neden gerekli? Aynı adı taşıyan farklı yerler var:
+  ///   Ankara/Gölbaşı   (165.201 kişi)
+  ///   Adıyaman/Gölbaşı (4.500 kişi)
+  /// Kullanıcı "Gölbaşı" yazdığında hangisini seçtiğini bilemez. İl
+  /// bilgisi hem ayrımı sağlar hem de seçici ekranında
+  /// "Kahramanmaraş / Dulkadiroğlu" biçiminde etiketlenmesini sağlar.
   ///
-  /// Cozum: kayit tek satirda tutulur, alternatif adlar 4. alanda virgulle
-  /// ayrilmis olarak saklanir. Hem "Munchen" hem "Munich" yazan kullanici
-  /// ayni kaydi bulur ve listede mukerrer gorunmez.
+  /// Bazı kaynaklarda il bilgisi yoktur; o durumda boş string olur.
+  final String il;
+
+  /// Nüfus. 0 ise bilinmiyor demektir.
+  ///
+  /// Şehir seçicisinde "Şehirler" ve "Köyler" ayrımını ve nüfusa göre
+  /// sıralamayı bununla yaparız: nüfusu [sehirEsigi] ve üzeri olan yerler
+  /// "Şehirler", kalanlar "Köyler" sekmesinde gösterilir.
+  final int nufus;
+
+  /// Aramada da eşleşmesi istenen alternatif adlar.
+  ///
+  /// Veri kaynakları aynı şehri farklı adlarla saklar: GeoNames Almanca
+  /// "München" için uluslararası adı "Munich" olarak yazar, dr5hn ise
+  /// "Nürnberg" olarak yazar. Bu durumda kullanıcı kendi dilinde yazıp
+  /// şehri bulamaz, ya da aynı şehir listede iki kez görünür.
+  ///
+  /// Çözüm: kayıt tek satırda tutulur, alternatif adlar 6. alanda virgülle
+  /// ayrılmış olarak saklanır. Hem "München" hem "Munich" yazan kullanıcı
+  /// aynı kaydı bulur ve listede mükerrer görünmez.
   final List<String> takmaAdlar;
+
+  /// "Şehirler" sekmesinin eşiği. Nüfusu bu değerin altındaki yerleşimler
+  /// "Köyler" sekmesinde listelenir.
+  static const int sehirEsigi = 15000;
 
   const Sehir({
     required this.ad,
     required this.enlem,
     required this.boylam,
+    this.il = '',
+    this.nufus = 0,
     this.takmaAdlar = const [],
   });
 
-  /// "41.9786|34.0110|Abana" satirini cozer.
+  /// Bu kayıt "Şehirler" sekmesine mi düşer?
+  bool get sehirMi => nufus >= sehirEsigi;
+
+  /// Ekranda gösterilecek etiket: "Kahramanmaraş / Dulkadiroğlu".
   ///
-  /// Dorduncu alan varsa virgulle ayrilmis takma adlar olarak okunur:
-  /// "48.1374|11.5755|Munchen,Munich"
+  /// İl bilgisi yoksa ya da şehrin adı zaten il adıysa (Kahramanmaraş
+  /// ili Kahramanmaraş) tekrar etmeyiz.
+  String etiket() {
+    if (il.isEmpty) return ad;
+    if (UlkeVerisi.normalize(il) == UlkeVerisi.normalize(ad)) return ad;
+    return '$il / $ad';
+  }
+
+  /// "37.5825|36.9197|Dulkadiroğlu|Kahramanmaraş|384953|Turkey" satırını çözer.
+  ///
+  /// Alan sırası: enlem|boylam|ad|il|nüfus|takma1,takma2
+  ///
+  /// Eski biçimler de okunur, çünkü testlerde ve geçmiş verilerde var:
+  ///   3 alan: "41.9786|34.0110|Abana"
+  ///   4 alan: "48.1374|11.5755|München|Munich"  (4. alan takma adlar)
+  ///
+  /// Ayrım ALAN SAYISIYLA yapılır. İçeriğe bakarak ayırmak belirsizdir:
+  /// "Kahramanmaraş" bir il adı da, takma ad da olabilir; sayı olup olmama
+  /// ayırt ettirmez. 5 veya 6 alan yeni biçimdir.
   factory Sehir.satirdan(String satir) {
     final parca = satir.split('|');
+    final yeniBicim = parca.length >= 5;
+
     return Sehir(
       ad: parca.length > 2 ? parca[2] : '',
       enlem: double.parse(parca[0]),
       boylam: double.parse(parca[1]),
-      takmaAdlar: parca.length > 3 && parca[3].trim().isNotEmpty
-          ? parca[3]
-              .split(',')
-              .map((s) => s.trim())
-              .where((s) => s.isNotEmpty)
-              .toList(growable: false)
-          : const [],
+      il: yeniBicim ? parca[3].trim() : '',
+      nufus: yeniBicim && parca.length > 4
+          ? (int.tryParse(parca[4].trim()) ?? 0)
+          : 0,
+      takmaAdlar: _takmalariOku(
+          yeniBicim ? (parca.length > 5 ? parca[5] : '') : (parca.length > 3 ? parca[3] : '')),
     );
   }
 
-  /// Bu sehiri veri dosyasi bicimine cevirir. [satirdan]'in tersidir.
+  static List<String> _takmalariOku(String alan) {
+    if (alan.trim().isEmpty) return const [];
+    return alan
+        .split(',')
+        .map((s) => s.trim())
+        .where((s) => s.isNotEmpty)
+        .toList(growable: false);
+  }
+
+  /// Bu şehiri veri dosyası biçimine çevirir. [satirdan]'in tersidir.
   String satira() {
     final buf = StringBuffer()
       ..write(enlem.toStringAsFixed(4))
       ..write('|')
       ..write(boylam.toStringAsFixed(4))
       ..write('|')
-      ..write(ad);
-    if (takmaAdlar.isNotEmpty) buf.write('|${takmaAdlar.join(",")}');
+      ..write(ad)
+      ..write('|')
+      ..write(il)
+      ..write('|')
+      ..write(nufus)
+      ..write('|')
+      ..write(takmaAdlar.join(','));
     return buf.toString();
   }
 
@@ -229,28 +288,92 @@ class UlkeVerisi {
   /// senkron filtreleme yapabilmek icin kullanilir.
   List<Sehir>? onbellektekiSehirler(String iso2) => _sehirOnbellegi[iso2];
 
-  /// Sehir adına göre arar. Türkçe karakterleri duyarsızlaştırır, böylece
+  /// Şehir adına göre arar. Türkçe karakterleri duyarsızlaştırır, böylece
   /// "suleyman" yazan kullanıcı "Süleyman" bulur.
   ///
-  /// Takma adlar da taranır: "München" yazan kullanıcı "Munich" kaydını,
-  /// "Munich" yazan kullanıcı "München" kaydını bulur.
+  /// Sıralama ÖNEMLİDİR. Ham dosya sırası ilk 300 sonucu doldurup gerçek
+  /// şehri kesiyordu: "New York" yazan kullanıcı, New York eyaletinin köy
+  /// adlarını (il alanı eşleştiği için) alıyor, "New York City" 300. sırada
+  /// kalıyordu. Aynı sorun "Turin" (İtalya) ve "Kahramanmaraş" için de vardı.
   ///
-  /// Çevrimdışı: nokta, tırnak ve tire gibi ayırıcı işaretler temizlenir;
-  /// çünkü veri setinde "St. John's", "Côte d'Ivoire" gibi yazımlar var.
+  /// Bu yüzden sonuçlar alakalılığa göre sıralanır:
+  ///   0  ad tam eşleşme            ("Kahramanmaraş" -> Kahramanmaraş)
+  ///   1  takma ad tam eşleşme      ("Munich" -> München)
+  ///   2  ad ile başlıyor           ("Kahr" -> Kahramanmaraş)
+  ///   3  il tam eşleşme            ("Kocaeli" -> İzmit)
+  ///   4  il ile başlıyor
+  ///   5  herhangi bir yerde geçiyor
+  /// Aynı alakalılıkta nüfusu büyük olan önce gelir.
   static List<Sehir> ara(List<Sehir> kaynak, String sorgu, {int enFazla = 300}) {
     final temiz = normalize(sorgu);
     if (temiz.isEmpty) {
       return kaynak.take(enFazla).toList(growable: false);
     }
-    final sonuc = <Sehir>[];
+
+    final eslesen = <(int, Sehir)>[];
     for (final s in kaynak) {
-      if (normalize(s.ad).contains(temiz) ||
-          s.takmaAdlar.any((t) => normalize(t).contains(temiz))) {
-        sonuc.add(s);
-        if (sonuc.length >= enFazla) break;
+      final nAd = normalize(s.ad);
+      final nIl = s.il.isEmpty ? '' : normalize(s.il);
+      final takmaTamsi = s.takmaAdlar.any((t) => normalize(t) == temiz);
+      final adIcinde = nAd.contains(temiz) ||
+          s.takmaAdlar.any((t) => normalize(t).contains(temiz));
+      final ilIcinde = nIl.contains(temiz);
+
+      final int puan;
+      if (nAd == temiz) {
+        puan = 0;
+      } else if (takmaTamsi) {
+        puan = 1;
+      } else if (nAd.startsWith(temiz)) {
+        puan = 2;
+      } else if (nIl == temiz) {
+        puan = 3;
+      } else if (nIl.startsWith(temiz)) {
+        puan = 4;
+      } else if (adIcinde || ilIcinde) {
+        puan = 5;
+      } else {
+        continue; // eşleşme yok
       }
+      eslesen.add((puan, s));
     }
-    return sonuc;
+
+    if (eslesen.isEmpty) return const [];
+
+    eslesen.sort((a, b) {
+      if (a.$1 != b.$1) return a.$1.compareTo(b.$1);
+      // Aynı alakalılıkta büyük şehir önce: kullanıcı "New York" yazınca
+      // New York City'yi, eyaletin köyünü değil görmeli.
+      final n = b.$2.nufus.compareTo(a.$2.nufus);
+      if (n != 0) return n;
+      // Son eşitlik bozucu: ad. Dart'ta List.sort kararlı (stable) DEĞİLDİR;
+      // bu olmadan ayni sorgu iki farklı sıra döndürebilir ve testler titrer.
+      return a.$2.ad.compareTo(b.$2.ad);
+    });
+    return eslesen.take(enFazla).map((e) => e.$2).toList(growable: false);
+  }
+
+  /// Listeyi "Şehirler" ve "Köyler" olarak böler ve her birini sıralar.
+  ///
+  /// Şehirler: nüfusu [Sehir.sehirEsigi] ve üzeri olanlar, **büyükten küçüğe**.
+  ///   Nüfusa göre sıralamak şart: alfabetik sırada kullanıcı ilk ekranda
+  ///   "Abana, Acıgül, Adaklı" görür, İstanbul ancak çok aşağıdadır.
+  /// Köyler: geri kalanlar, alfabetik (dosyadaki sıra).
+  ///
+  /// Arayüz katmanı bu yöntemi çağırır; mantık burada olduğu için ekran
+  /// görüntüsü alınmadan da test edilebilir.
+  static (List<Sehir> sehirler, List<Sehir> koyler) bol(
+    List<Sehir> kaynak,
+  ) {
+    final sehirler = kaynak.where((s) => s.sehirMi).toList()
+      ..sort((a, b) {
+        final n = b.nufus.compareTo(a.nufus);
+        // Aynı nüfuste ada göre: Dart'ta sort kararlı değildir, bu olmadan
+        // liste her kurulumda farklı sırada görünür.
+        return n != 0 ? n : a.ad.compareTo(b.ad);
+      });
+    final koyler = kaynak.where((s) => !s.sehirMi).toList();
+    return (sehirler, koyler);
   }
 
   /// Ülke adına göre arar. Hem Türkçe hem İngilizce ada ve ISO kodlarına

@@ -1,33 +1,33 @@
-22.3793|57.5272|Adam
-24.2509|55.7931|Al Buraymī
-23.9714|57.0931|Al Khābūrah
-23.8494|57.4386|As Suwayq
-22.4500|58.8000|Badīyah
-22.9789|57.3047|Bahlā’
-23.6787|57.8860|Barkā’
-23.5777|58.3998|Bawshar
-23.3032|57.5246|Bayt al ‘Awābī
-23.4079|58.1283|Bidbid
-26.1978|56.2578|Dib Dibba
-19.9593|56.2758|Haymā’
-22.6906|58.5334|Ibrā’
-22.9333|57.7667|Izkī
-26.1799|56.2477|Khasab
-24.5308|56.5630|Liwá
-25.2834|56.3328|Madḩā’ al Jadīdah
-20.6506|58.8728|Maşīrah
-23.5841|58.4078|Muscat
-22.9333|57.5333|Nizwá
-23.6527|57.5993|Oman Smart Future City
-23.2630|58.9201|Qurayyāt
-23.3908|57.4244|Rustaq
-17.0150|54.0924|Şalālah
-23.2984|57.9531|Samā’il
-24.1722|56.8886|Şaḩam
-23.6703|58.1891|Seeb
-24.7426|56.4670|Shināş
-24.3474|56.7094|Sohar
-23.3167|58.0167|Sufālat Samā’il
-22.5667|59.5289|Sur
-23.5864|56.5397|Yanqul
-23.2257|56.5157|‘Ibrī
+22.3793|57.5272|Adam|Ad Dakhiliyah|17283|
+24.2509|55.7931|Al Buraymī|Al Buraimi|73670|
+23.9714|57.0931|Al Khābūrah|Al Batinah North|50223|
+23.8494|57.4386|As Suwayq|Al Batinah North|107143|
+22.4500|58.8000|Badīyah|Northeastern Governorate|18479|
+22.9789|57.3047|Bahlā’|Ad Dakhiliyah|54338|
+23.6787|57.8860|Barkā’|Al Batinah South|81647|
+23.5777|58.3998|Bawshar|Muscat|383257|
+23.3032|57.5246|Bayt al ‘Awābī|Al Batinah South|10711|
+23.4079|58.1283|Bidbid|Ad Dakhiliyah|21188|
+26.1978|56.2578|Dib Dibba|Musandam|5000|
+19.9593|56.2758|Haymā’|Al Wusta|1294|
+22.6906|58.5334|Ibrā’|Northeastern Governorate|25265|
+22.9333|57.7667|Izkī|Ad Dakhiliyah|36203|
+26.1799|56.2477|Khasab|Musandam|17904|
+24.5308|56.5630|Liwá|Al Batinah North|26372|
+25.2834|56.3328|Madḩā’ al Jadīdah|Musandam|2260|
+20.6506|58.8728|Maşīrah|Southeastern Governorate|15059|
+23.5841|58.4078|Muscat|Muscat|797000|
+22.9333|57.5333|Nizwá|Ad Dakhiliyah|72076|
+23.6527|57.5993|Oman Smart Future City|Al Batinah South|0|
+23.2630|58.9201|Qurayyāt|Muscat|63133|
+23.3908|57.4244|Rustaq|Al Batinah South|120000|
+17.0150|54.0924|Şalālah|Dhofar|163140|
+23.2984|57.9531|Samā’il|Ad Dakhiliyah|80538|
+24.1722|56.8886|Şaḩam|Al Batinah North|140000|
+23.6703|58.1891|Seeb|Muscat|470878|
+24.7426|56.4670|Shināş|Al Batinah North|48009|
+24.3474|56.7094|Sohar|Al Batinah North|108274|
+23.3167|58.0167|Sufālat Samā’il|Ad Dakhiliyah|47718|
+22.5667|59.5289|Sur|Ash Sharqiyah South|71152|
+23.5864|56.5397|Yanqul|Ad Dhahirah|16599|
+23.2257|56.5157|‘Ibrī|Ad Dhahirah|163473|

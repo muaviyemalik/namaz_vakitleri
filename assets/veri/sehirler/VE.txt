@@ -1,237 +1,241 @@
-9.5545|-69.1956|Acarigua
-7.7792|-68.2237|Achaguas
-9.8600|-66.3814|Altagracia de Orituco
-8.5931|-70.2261|Alto Barinas
-9.4296|-64.4643|Anaco
-9.4559|-64.8293|Aragua de Barcelona
-9.5814|-69.2385|Araure
-10.5800|-64.2555|Araya
-10.4395|-68.8950|Aroa
-8.2535|-71.8282|Bailadores
-10.1363|-64.6862|Barcelona
-8.6226|-70.2075|Barinas
-8.7617|-70.4120|Barinitas
-10.0647|-69.3570|Barquisimeto
-8.7696|-70.1109|Barrancas
-10.4342|-66.8756|Baruta
-10.1738|-68.2589|Bejuma
-7.8448|-67.5168|Biruaca
-9.2538|-70.2511|Boconó
-8.8466|-69.9803|Boconoito
-10.2475|-68.7697|Boraure
-10.3991|-71.4521|Cabimas
-10.0266|-69.2620|Cabudare
-10.1863|-67.4594|Cagua
-9.8176|-63.6133|Caicara
-7.6350|-66.1681|Caicara del Orinoco
-9.1415|-71.0674|Caja Seca
-8.9242|-67.4293|Calabozo
-8.1073|-67.6074|Camaguán
-9.3057|-64.3584|Cantaura
-7.8247|-72.3084|Capacho Nuevo
-10.6122|-66.8519|Caraballeda
-10.5000|-66.9333|Caracas
-10.4968|-63.5529|Cariaco
-10.1113|-63.0999|Caripito
-10.1728|-70.0810|Carora
-10.3498|-66.9863|Carrizal
-10.6652|-63.2539|Carúpano
-10.5042|-63.4173|Casanay
-8.7460|-72.5189|Casigua El Cubo
-10.6054|-67.0324|Catia La Mar
-10.2831|-66.3759|Caucagua
-10.3578|-66.8025|Caucaguita
-10.4867|-66.7380|Caucagüito
-10.4958|-66.8537|Chacao
-9.3375|-66.2528|Chaguaramas
-10.2425|-66.8572|Charallave
-10.9287|-68.2728|Chichiriviche
-10.4433|-71.6472|Chiquinquirá
-10.1595|-68.8945|Chivacoa
-8.1292|-63.5409|Ciudad Bolívar
-8.3530|-70.5712|Ciudad Bolivia
-8.3512|-62.6410|Ciudad Guayana
-10.2016|-71.3148|Ciudad Ojeda
-7.4521|-63.3199|Ciudad Piar
-9.9399|-65.1652|Clarines
-10.3195|-68.7830|Cocorote
-8.0313|-72.2605|Colón
-8.3261|-72.0874|Coloncito
-10.4119|-71.6892|Concepción
-11.4045|-69.6734|Coro
-10.1624|-66.8825|Cúa
-10.4540|-64.1826|Cumaná
-10.2506|-63.9194|Cumanacoa
-11.0227|-70.6777|Dabajuro
-10.2855|-69.1624|Duaca
-8.5466|-71.2409|Ejido
-10.4654|-66.8295|El Cafetal
-9.4751|-70.7349|El Dividive
-6.7158|-61.6374|El Dorado
-10.4241|-66.8258|El Hatillo
-10.3059|-67.6321|El Limón
-7.0609|-69.4976|Elorza
-9.6393|-68.1292|El Pao
-9.3863|-67.0582|El Sombrero
-8.8890|-64.2527|El Tigre
-9.7871|-69.7929|El Tocuyo
-8.6135|-71.6570|El Vigía
-9.0598|-72.2346|Encontrados
-9.2969|-70.6719|Escuque
-10.2261|-67.8770|Guacara
-10.2664|-68.8199|Guama
-9.0418|-69.7421|Guanare
-8.6962|-69.2083|Guanarito
-10.4703|-66.6193|Guarenas
-7.2424|-70.7323|Guasdualito
-7.4770|-61.8967|Guasipati
-10.4740|-66.5424|Guatire
-10.0834|-67.7780|Güigüe
-10.5772|-62.2984|Güiria
-10.4829|-66.1010|Higuerote
-11.0817|-63.9655|Juan Griego
-11.7591|-70.1842|Judibana
-11.0333|-63.8628|La Asunción
-8.7136|-71.4442|La Azulita
-10.6192|-71.8381|La Concepción
-10.4883|-66.7861|La Dolorita
-8.2152|-72.2489|La Fría
-8.1332|-71.9839|La Grita
-10.6016|-66.9329|La Guaira
-10.9974|-64.0181|La Guardia
-10.1301|-71.2595|Lagunillas
-10.1833|-66.7000|Lander
-6.8333|-63.3333|La Paragua
-10.2542|-67.1733|Las Tejerías
-9.5372|-68.6302|Las Vegas
-11.4608|-69.5657|La Vela de Coro
-10.2268|-67.3312|La Victoria
-10.3258|-72.3134|La Villa del Rosario
-10.1917|-64.6921|Lecherías
-10.4939|-66.8286|Los Dos Caminos
-10.1893|-67.9383|Los Guayos
-10.7149|-71.5217|Los Puertos de Altagracia
-10.0259|-69.2417|Los Rastrojos
-10.3445|-67.0433|Los Teques
-10.0608|-72.5521|Machiques
-10.5945|-66.9562|Maiquetía
-10.3656|-66.1339|Mamporal
-10.6666|-71.6124|Maracaibo
-10.2354|-67.5911|Maracay
-10.2953|-67.7177|Mariara
-2.7188|-67.5605|Maroa
-9.7457|-63.1832|Maturín
-10.6809|-71.0361|Mene de Mauroa
-9.8464|-70.9266|Mene Grande
-8.5897|-71.1561|Mérida
-7.9564|-72.2424|Michelena
-10.1508|-68.3932|Miranda
-10.2131|-68.3267|Montalbán
-10.4871|-68.2008|Morón
-9.3918|-70.5906|Motatán
-8.4167|-71.1333|Mucumpiz
-2.7346|-64.8303|Municipio Autónomo Alto Orinoco
-8.6150|-70.1985|Municipio Barinas
-10.3347|-68.7555|Municipio Independencia
-7.7387|-64.7188|Municipio José Gregorio Monagas
-8.0351|-72.0567|Municipio José María Vargas
-8.3333|-71.1167|Municipio Libertador
-11.8231|-70.2535|Municipio Los Taques
-9.4000|-63.0333|Municipio Maturín
-11.3167|-69.8667|Municipio Miranda
-8.0245|-61.8819|Municipio Padre Pedro Chien
-9.4115|-70.4959|Municipio Pampanito
-9.3076|-70.5897|Municipio San Rafael de Carvajal
-8.9996|-62.3516|Municipio Uracoa
-10.5794|-62.3003|Municipio Valdez
-10.1504|-68.5648|Nirgua
-9.1401|-71.0914|Nueva Bolivia
-8.6070|-70.1049|Obispos
-10.1182|-66.7751|Ocumare del Tuy
-9.5971|-65.1935|Onoto
-9.2957|-69.4543|Ospino
-7.8375|-72.2279|Palmira
-10.1739|-67.5419|Palo Negro
-9.4452|-70.4756|Pampán
-9.4104|-70.5012|Pampanito
-11.0008|-63.7930|Pampatar
-8.8436|-64.7105|Pariaguán
-10.4768|-66.8079|Petare
-9.3708|-69.2103|Píritu
-10.9577|-63.8697|Porlamar
-11.9479|-69.9231|Pueblo Nuevo
-8.9625|-71.6075|Pueblo Nuevo El Chivo
-5.6605|-67.5834|Puerto Ayacucho
-10.4731|-68.0125|Puerto Cabello
-11.4861|-69.3532|Puerto Cumarebo
-10.2138|-64.6328|Puerto La Cruz
-10.0590|-65.0370|Puerto Píritu
-11.6581|-70.2150|Punta Cardón
-9.6913|-63.6092|Punta de Mata
-10.9012|-64.0969|Punta de Piedras
-11.6915|-70.1992|Punto Fijo
-9.9287|-69.6201|Quíbor
-10.3190|-65.9775|Río Chico
-7.7013|-72.3557|Rubio
-9.4349|-70.7750|Sabana de Mendoza
-10.1211|-69.0364|Sabana de Parra
-8.7523|-69.9335|Sabaneta
-10.3885|-66.9518|San Antonio de Los Altos
-7.8145|-72.4431|San Antonio del Táchira
-9.7521|-69.6524|Sanare
-9.6612|-68.5827|San Carlos
-9.0010|-71.9268|San Carlos del Zulia
-1.9203|-67.0609|San Carlos de Río Negro
-7.7669|-72.2250|San Cristóbal
-10.3399|-68.7425|San Felipe
-7.8727|-67.4819|San Fernando de Apure
-4.0456|-67.6993|San Fernando de Atabapo
-10.2606|-67.7935|San Joaquín
-7.6611|-72.2201|San Josecito
-10.3012|-65.9905|San José de Barlovento
-8.8872|-64.1651|San José de Guanipa
-11.0124|-63.9441|San Juan Bautista
-9.9115|-67.3538|San Juan de los Morros
-5.3266|-66.0540|San Juan de Manapiare
-10.2130|-67.4236|San Mateo
-10.9620|-71.7303|San Rafael
-9.6781|-68.9728|San Rafael de Onoto
-7.6429|-72.2764|Santa Ana
-7.8135|-71.1779|Santa Bárbara
-11.8235|-70.2564|Santa Cruz de los Taques
-10.7927|-71.6851|Santa Cruz de Mara
-8.3993|-71.6408|Santa Cruz de Mora
-4.6023|-61.1103|Santa Elena de Uairén
-10.2054|-67.5595|Santa Rita
-10.2329|-66.6647|Santa Teresa del Tuy
-9.7901|-71.0708|San Timoteo
-8.2306|-70.8220|Socopó
-8.1621|-63.5654|Soledad
-8.6317|-71.0783|Tabay
-10.0862|-67.9198|Tacarigua
-7.8188|-72.2243|Táriba
-9.0053|-62.6449|Temblador
-10.2593|-71.3634|Tía Juana
-8.9822|-70.7393|Timotes
-9.6989|-68.4327|Tinaco
-9.9186|-68.3047|Tinaquillo
-10.1135|-68.0678|Tocuyito
-8.3301|-71.7528|Tovar
-9.3658|-70.4369|Trujillo
-10.7901|-68.3256|Tucacas
-8.9700|-71.2728|Tucaní
-9.2730|-65.7715|Tucupido
-9.0581|-62.0500|Tucupita
-7.2986|-61.5050|Tumeremo
-10.2286|-67.4742|Turmero
-8.0162|-62.4056|Upata
-10.1585|-69.0078|Urachiche
-7.9216|-72.4440|Ureña
-10.1620|-68.0076|Valencia
-9.3178|-70.6036|Valera
-9.2155|-66.0073|Valle de La Pascua
-9.3319|-69.1197|Villa Bruzual
-10.0386|-67.4894|Villa de Cura
-10.0808|-69.1242|Yaritagua
-10.5970|-68.6733|Yumare
-9.3503|-65.3245|Zaraza
+9.5545|-69.1956|Acarigua|Portuguesa|188278|
+7.7792|-68.2237|Achaguas|Apure|45311|
+9.8600|-66.3814|Altagracia de Orituco|Guárico|68207|
+8.5931|-70.2261|Alto Barinas|Barinas|284289|
+9.4296|-64.4643|Anaco|Anzoátegui|139397|
+9.4559|-64.8293|Aragua de Barcelona|Anzoátegui|34048|
+9.5814|-69.2385|Araure|Portuguesa|181820|
+10.5800|-64.2555|Araya|Sucre|23693|
+10.4395|-68.8950|Aroa|Yaracuy|35508|
+8.2535|-71.8282|Bailadores|Mérida|20113|
+10.1363|-64.6862|Barcelona|Anzoátegui|815141|
+8.6226|-70.2075|Barinas|Barinas|397279|
+8.7617|-70.4120|Barinitas|Barinas|51556|
+10.0647|-69.3570|Barquisimeto|Lara|1240714|
+8.7696|-70.1109|Barrancas|Barinas|24354|
+8.6989|-62.1966|Barrancas|Monagas|19474|
+10.4342|-66.8756|Baruta|Miranda|244216|
+10.1738|-68.2589|Bejuma|Carabobo|34618|
+7.8448|-67.5168|Biruaca|Apure|76553|
+9.2538|-70.2511|Boconó|Trujillo|68990|
+8.8466|-69.9803|Boconoito|Portuguesa|18086|
+10.2475|-68.7697|Boraure|Yaracuy|21588|
+10.3991|-71.4521|Cabimas|Zulia|351736|
+10.0266|-69.2620|Cabudare|Lara|102686|
+10.1863|-67.4594|Cagua|Aragua|119033|
+9.8176|-63.6133|Caicara|Monagas|23625|
+7.6350|-66.1681|Caicara del Orinoco|Bolívar|67277|
+9.1415|-71.0674|Caja Seca|Zulia|34165|
+8.9242|-67.4293|Calabozo|Guárico|168605|
+8.1073|-67.6074|Camaguán|Guárico|20791|
+9.3057|-64.3584|Cantaura|Anzoátegui|68885|
+7.8247|-72.3084|Capacho Nuevo|Táchira|40169|
+10.6122|-66.8519|Caraballeda|La Guaira|37824|
+10.5000|-66.9333|Caracas|Distrito Capital|3000000|
+10.4968|-63.5529|Cariaco|Sucre|41589|
+10.1113|-63.0999|Caripito|Monagas|43448|
+10.1728|-70.0810|Carora|Lara|121741|
+10.3498|-66.9863|Carrizal|Miranda|40618|
+10.6652|-63.2539|Carúpano|Sucre|167187|
+10.5042|-63.4173|Casanay|Sucre|20609|
+8.7460|-72.5189|Casigua El Cubo|Zulia|24592|
+10.6054|-67.0324|Catia La Mar|La Guaira|106822|
+10.2831|-66.3759|Caucagua|Miranda|31788|
+10.3578|-66.8025|Caucaguita|Miranda|0|
+10.4867|-66.7380|Caucagüito|Miranda|52556|
+10.4958|-66.8537|Chacao|Miranda|64609|
+9.3375|-66.2528|Chaguaramas|Guárico|17728|
+10.2425|-66.8572|Charallave|Miranda|129182|
+10.9287|-68.2728|Chichiriviche|Falcón|12500|
+10.4433|-71.6472|Chiquinquirá|Zulia|17271|
+10.1595|-68.8945|Chivacoa|Yaracuy|70298|
+8.1292|-63.5409|Ciudad Bolívar|Bolívar|412619|
+8.3530|-70.5712|Ciudad Bolivia|Barinas|52476|
+8.3512|-62.6410|Ciudad Guayana|Bolívar|978202|
+10.2016|-71.3148|Ciudad Ojeda|Zulia|240283|
+7.4521|-63.3199|Ciudad Piar|Bolívar|51967|
+9.9399|-65.1652|Clarines|Anzoátegui|21582|
+10.3195|-68.7830|Cocorote|Yaracuy|52803|
+8.0313|-72.2605|Colón|Táchira|62513|
+8.3261|-72.0874|Coloncito|Táchira|25352|
+10.4119|-71.6892|Concepción|Zulia|92463|
+11.4045|-69.6734|Coro|Falcón|246657|
+10.1624|-66.8825|Cúa|Miranda|182558|
+10.4540|-64.1826|Cumaná|Sucre|405626|
+10.2506|-63.9194|Cumanacoa|Sucre|25858|
+11.0227|-70.6777|Dabajuro|Falcón|28117|
+10.2855|-69.1624|Duaca|Lara|39653|
+8.5466|-71.2409|Ejido|Mérida|120978|
+10.4654|-66.8295|El Cafetal|Miranda|80029|
+9.4751|-70.7349|El Dividive|Trujillo|19243|
+6.7158|-61.6374|El Dorado|Bolívar|16100|
+10.4241|-66.8258|El Hatillo|Miranda|57591|
+10.3059|-67.6321|El Limón|Aragua|148247|
+7.0609|-69.4976|Elorza|Apure|27795|
+9.6393|-68.1292|El Pao|Cojedes|18520|
+9.3863|-67.0582|El Sombrero|Guárico|31788|
+8.8890|-64.2527|El Tigre|Anzoátegui|222450|
+9.7871|-69.7929|El Tocuyo|Lara|74829|
+8.6135|-71.6570|El Vigía|Mérida|162289|
+9.0598|-72.2346|Encontrados|Zulia|26121|
+9.2969|-70.6719|Escuque|Trujillo|18128|
+10.2261|-67.8770|Guacara|Carabobo|198883|
+10.2664|-68.8199|Guama|Yaracuy|24570|
+9.0418|-69.7421|Guanare|Portuguesa|112286|
+8.6962|-69.2083|Guanarito|Portuguesa|37219|
+10.4703|-66.6193|Guarenas|Miranda|248588|
+7.2424|-70.7323|Guasdualito|Apure|64608|
+7.4770|-61.8967|Guasipati|Bolívar|27988|
+10.4740|-66.5424|Guatire|Miranda|227666|
+10.0834|-67.7780|Güigüe|Carabobo|80627|
+10.5772|-62.2984|Güiria|Sucre|40000|
+10.4829|-66.1010|Higuerote|Miranda|41364|
+11.0817|-63.9655|Juan Griego|Nueva Esparta|28256|
+11.7591|-70.1842|Judibana|Falcón|23182|
+11.0333|-63.8628|La Asunción|Nueva Esparta|35084|
+8.7136|-71.4442|La Azulita|Mérida|17111|
+10.6192|-71.8381|La Concepción|Zulia|120478|
+10.4883|-66.7861|La Dolorita|Miranda|56846|
+8.2152|-72.2489|La Fría|Táchira|61568|
+8.1332|-71.9839|La Grita|Táchira|37545|
+10.6016|-66.9329|La Guaira|La Guaira|25259|
+10.9974|-64.0181|La Guardia|Nueva Esparta|34700|
+8.5046|-71.3894|Lagunillas|Mérida|28176|
+10.1301|-71.2595|Lagunillas|Zulia|44257|
+10.1833|-66.7000|Lander|Miranda|176346|
+6.8333|-63.3333|La Paragua|Bolívar|18591|
+10.2542|-67.1733|Las Tejerías|Aragua|43445|
+9.5372|-68.6302|Las Vegas|Cojedes|20172|
+11.4608|-69.5657|La Vela de Coro|Falcón|34680|
+10.2268|-67.3312|La Victoria|Aragua|126721|
+10.3258|-72.3134|La Villa del Rosario|Zulia|82766|
+10.1917|-64.6921|Lecherías|Anzoátegui|47778|
+10.4939|-66.8286|Los Dos Caminos|Miranda|58168|
+10.1893|-67.9383|Los Guayos|Carabobo|0|
+10.7149|-71.5217|Los Puertos de Altagracia|Zulia|101527|
+10.0259|-69.2417|Los Rastrojos|Lara|100497|
+10.3445|-67.0433|Los Teques|Miranda|252242|
+10.0608|-72.5521|Machiques|Zulia|132734|
+10.5945|-66.9562|Maiquetía|La Guaira|52564|
+10.3656|-66.1339|Mamporal|Miranda|30918|
+10.6666|-71.6124|Maracaibo|Zulia|1752602|
+10.2354|-67.5911|Maracay|Aragua|464700|
+10.2953|-67.7177|Mariara|Carabobo|116142|
+2.7188|-67.5605|Maroa|Amazonas|0|
+9.7457|-63.1832|Maturín|Monagas|647459|
+10.6809|-71.0361|Mene de Mauroa|Falcón|19174|
+9.8464|-70.9266|Mene Grande|Zulia|60580|
+8.5897|-71.1561|Mérida|Mérida|300000|
+7.9564|-72.2424|Michelena|Táchira|20539|
+10.1508|-68.3932|Miranda|Carabobo|32907|
+10.2131|-68.3267|Montalbán|Carabobo|29451|
+10.4871|-68.2008|Morón|Carabobo|68084|
+9.3918|-70.5906|Motatán|Trujillo|25437|
+8.4167|-71.1333|Mucumpiz|Mérida|0|
+2.7346|-64.8303|Municipio Autónomo Alto Orinoco|Amazonas|0|
+8.6150|-70.1985|Municipio Barinas|Barinas|0|
+10.3347|-68.7555|Municipio Independencia|Yaracuy|0|
+7.7387|-64.7188|Municipio José Gregorio Monagas|Anzoátegui|0|
+8.0351|-72.0567|Municipio José María Vargas|Táchira|0|
+8.3333|-71.1167|Municipio Libertador|Mérida|0|
+11.8231|-70.2535|Municipio Los Taques|Falcón|0|
+9.4000|-63.0333|Municipio Maturín|Monagas|0|
+11.3167|-69.8667|Municipio Miranda|Falcón|0|
+8.0245|-61.8819|Municipio Padre Pedro Chien|Bolívar|0|
+9.4115|-70.4959|Municipio Pampanito|Trujillo|0|
+9.3076|-70.5897|Municipio San Rafael de Carvajal|Trujillo|0|
+8.9996|-62.3516|Municipio Uracoa|Monagas|0|
+10.5794|-62.3003|Municipio Valdez|Sucre|0|
+10.1504|-68.5648|Nirgua|Yaracuy|54080|
+9.1401|-71.0914|Nueva Bolivia|Mérida|19885|
+8.6070|-70.1049|Obispos|Barinas|17440|
+10.1182|-66.7751|Ocumare del Tuy|Miranda|166072|
+9.5971|-65.1935|Onoto|Anzoátegui|0|
+9.2957|-69.4543|Ospino|Portuguesa|33547|
+7.8375|-72.2279|Palmira|Táchira|48087|
+10.1739|-67.5419|Palo Negro|Aragua|128875|
+9.4452|-70.4756|Pampán|Trujillo|59657|
+9.4104|-70.5012|Pampanito|Trujillo|35847|
+11.0008|-63.7930|Pampatar|Nueva Esparta|64983|
+8.8436|-64.7105|Pariaguán|Anzoátegui|40751|
+10.4768|-66.8079|Petare|Miranda|364684|
+9.3708|-69.2103|Píritu|Portuguesa|43746|
+10.9577|-63.8697|Porlamar|Nueva Esparta|216234|
+11.9479|-69.9231|Pueblo Nuevo|Falcón|18525|
+8.9625|-71.6075|Pueblo Nuevo El Chivo|Zulia|41740|
+5.6605|-67.5834|Puerto Ayacucho|Amazonas|125840|
+10.4731|-68.0125|Puerto Cabello|Carabobo|174000|
+11.4861|-69.3532|Puerto Cumarebo|Falcón|31644|
+10.2138|-64.6328|Puerto La Cruz|Anzoátegui|370000|
+10.0590|-65.0370|Puerto Píritu|Anzoátegui|37745|
+11.6581|-70.2150|Punta Cardón|Falcón|113999|
+9.6913|-63.6092|Punta de Mata|Monagas|61080|
+10.9012|-64.0969|Punta de Piedras|Nueva Esparta|31886|
+11.6915|-70.1992|Punto Fijo|Falcón|141729|
+9.9287|-69.6201|Quíbor|Lara|51377|
+10.3190|-65.9775|Río Chico|Miranda|22830|
+7.7013|-72.3557|Rubio|Táchira|93197|
+9.4349|-70.7750|Sabana de Mendoza|Trujillo|34869|
+10.1211|-69.0364|Sabana de Parra|Yaracuy|24262|
+8.7523|-69.9335|Sabaneta|Barinas|39493|
+10.3885|-66.9518|San Antonio de Los Altos|Miranda|63873|
+7.8145|-72.4431|San Antonio del Táchira|Táchira|66392|
+9.7521|-69.6524|Sanare|Lara|35850|
+9.6612|-68.5827|San Carlos|Cojedes|120375|
+9.0010|-71.9268|San Carlos del Zulia|Zulia|126353|
+1.9203|-67.0609|San Carlos de Río Negro|Amazonas|0|
+7.7669|-72.2250|San Cristóbal|Táchira|289852|
+10.3399|-68.7425|San Felipe|Yaracuy|206270|
+7.8727|-67.4819|San Fernando de Apure|Apure|229197|
+4.0456|-67.6993|San Fernando de Atabapo|Amazonas|11929|
+10.2606|-67.7935|San Joaquín|Carabobo|69894|
+7.6611|-72.2201|San Josecito|Táchira|54669|
+10.3012|-65.9905|San José de Barlovento|Miranda|22352|
+8.8872|-64.1651|San José de Guanipa|Anzoátegui|83092|
+11.0124|-63.9441|San Juan Bautista|Nueva Esparta|90387|
+9.9115|-67.3538|San Juan de los Morros|Guárico|160868|
+5.3266|-66.0540|San Juan de Manapiare|Amazonas|0|
+10.2130|-67.4236|San Mateo|Aragua|50401|
+10.9620|-71.7303|San Rafael|Zulia|55810|
+9.6781|-68.9728|San Rafael de Onoto|Portuguesa|17402|
+11.0683|-63.9226|Santa Ana|Nueva Esparta|19215|
+7.6429|-72.2764|Santa Ana|Táchira|35452|
+7.8135|-71.1779|Santa Bárbara|Barinas|45808|
+11.8235|-70.2564|Santa Cruz de los Taques|Falcón|25047|
+10.7927|-71.6851|Santa Cruz de Mara|Zulia|69781|
+8.3993|-71.6408|Santa Cruz de Mora|Mérida|21209|
+4.6023|-61.1103|Santa Elena de Uairén|Bolívar|29795|
+10.2054|-67.5595|Santa Rita|Aragua|0|
+10.5364|-71.5110|Santa Rita|Zulia|31810|
+10.2329|-66.6647|Santa Teresa del Tuy|Miranda|278890|
+9.7901|-71.0708|San Timoteo|Zulia|81017|
+8.2306|-70.8220|Socopó|Barinas|72352|
+8.1621|-63.5654|Soledad|Anzoátegui|29763|
+8.6317|-71.0783|Tabay|Mérida|23539|
+10.0862|-67.9198|Tacarigua|Carabobo|69636|
+7.8188|-72.2243|Táriba|Táchira|138402|
+9.0053|-62.6449|Temblador|Monagas|36447|
+10.2593|-71.3634|Tía Juana|Zulia|23714|
+8.9822|-70.7393|Timotes|Mérida|20098|
+9.6989|-68.4327|Tinaco|Cojedes|38172|
+9.9186|-68.3047|Tinaquillo|Cojedes|115937|
+10.1135|-68.0678|Tocuyito|Carabobo|0|
+8.3301|-71.7528|Tovar|Mérida|48395|
+9.3658|-70.4369|Trujillo|Trujillo|71362|
+10.7901|-68.3256|Tucacas|Falcón|34407|
+8.9700|-71.2728|Tucaní|Mérida|24034|
+9.2730|-65.7715|Tucupido|Guárico|42633|
+9.0581|-62.0500|Tucupita|Delta Amacuro|99778|
+7.2986|-61.5050|Tumeremo|Bolívar|37614|
+10.2286|-67.4742|Turmero|Aragua|344700|
+8.0162|-62.4056|Upata|Bolívar|112617|
+10.1585|-69.0078|Urachiche|Yaracuy|26755|
+7.9216|-72.4440|Ureña|Táchira|56509|
+10.1620|-68.0076|Valencia|Carabobo|1619470|
+9.3178|-70.6036|Valera|Trujillo|244708|
+9.2155|-66.0073|Valle de La Pascua|Guárico|153136|
+9.3319|-69.1197|Villa Bruzual|Portuguesa|55244|
+10.0386|-67.4894|Villa de Cura|Aragua|99669|
+10.0808|-69.1242|Yaritagua|Yaracuy|113343|
+10.5970|-68.6733|Yumare|Yaracuy|15661|
+9.3503|-65.3245|Zaraza|Guárico|74017|

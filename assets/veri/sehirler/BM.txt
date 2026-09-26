@@ -1,9 +1,9 @@
-32.2930|-64.8000|Devonshire
-32.3280|-64.7360|Flatts
-32.2940|-64.7830|Hamilton
-32.2780|-64.7690|Paget
-32.2820|-64.8440|Somerset
-32.2490|-64.8610|Southampton
-32.3810|-64.6740|St. George's
-32.3328|-64.6881|Tucker’s Town
-32.2670|-64.8060|Warwick
+32.2930|-64.8000|Devonshire|Devonshire|0|
+32.3280|-64.7360|Flatts|Smith's|0|
+32.2940|-64.7830|Hamilton|Hamilton|902|
+32.2780|-64.7690|Paget|Paget|0|
+32.2820|-64.8440|Somerset|Sandys|1000|
+32.2490|-64.8610|Southampton|Southampton|0|
+32.3810|-64.6740|St. George's|Saint George's|0|
+32.3328|-64.6881|Tucker’s Town|Saint George's|0|
+32.2670|-64.8060|Warwick|Warwick|0|

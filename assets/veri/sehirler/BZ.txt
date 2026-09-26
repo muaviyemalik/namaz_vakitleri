@@ -1,13 +1,13 @@
-17.4995|-88.1976|Belize City
-17.2500|-88.7667|Belmopan
-17.0750|-89.1392|Benque Viejo el Carmen
-18.3938|-88.3885|Corozal
-16.9697|-88.2331|Dangriga
-17.8000|-89.1000|Hopelchén
-18.0812|-88.5633|Orange Walk
-16.5142|-88.3665|Placencia
-16.0983|-88.8097|Punta Gorda
-17.1588|-89.0696|San Ignacio
-17.9160|-87.9659|San Pedro
-17.8938|-88.6545|Shipyard
-17.3347|-88.8347|Valley of Peace
+17.4995|-88.1976|Belize City|Belize|65222|
+17.2500|-88.7667|Belmopan|Cayo|13381|
+17.0750|-89.1392|Benque Viejo el Carmen|Cayo|7160|
+18.3938|-88.3885|Corozal|Corozal|9815|
+16.9697|-88.2331|Dangriga|Stann Creek|9927|
+17.8000|-89.1000|Hopelchén|Orange Walk|0|
+18.0812|-88.5633|Orange Walk|Orange Walk|15298|
+16.5142|-88.3665|Placencia|Stann Creek|4300|
+16.0983|-88.8097|Punta Gorda|Toledo|5406|
+17.1588|-89.0696|San Ignacio|Cayo|21229|
+17.9160|-87.9659|San Pedro|Belize|17429|
+17.8938|-88.6545|Shipyard|Orange Walk|4070|
+17.3347|-88.8347|Valley of Peace|Cayo|3246|

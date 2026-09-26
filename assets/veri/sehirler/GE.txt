@@ -1,112 +1,110 @@
-42.2049|42.2033|Abasha
-41.6819|42.6987|Adigeni
-41.7167|42.7333|Adigeni Municipality
-42.0376|43.8238|Agara
-41.6540|42.1516|Akhaldaba
-42.1260|44.4833|Akhalgori
-41.4051|43.4863|Akhalk’alak’i
-41.6390|42.9826|Akhaltsikhe
-41.6333|43.0000|Akhaltsikhis Munitsip’alit’et’i
-42.0311|45.2075|Akhmeta
-42.5211|43.1622|Ambrolauri
-42.5667|43.1000|Ambrolauris Munitsip’alit’et’i
-41.5739|43.2483|Aspindza
-41.5000|43.2500|Asp’indzis Munitsip’alit’et’i
-42.0000|42.9000|Baghdatis Munitsip’alit’et’i
-41.7497|43.5325|Bakuriani
-41.6423|41.6339|Batumi
-43.1620|40.3410|Bich’vinta
-41.4479|44.5384|Bolnisi
-41.3667|44.5167|Bolnisis Munitsip’alit’et’i
-41.8527|43.4128|Borjomi
-41.7253|41.7328|Chakvi
-42.2981|43.2989|Chiat’ura
-41.7361|44.9647|Didi Lilo
-41.6293|42.3917|Dioknisi
-41.3500|44.1333|Dmanisis Munitsip’alit’et’i
-42.8717|41.1533|Dranda
-41.8457|44.6010|Dzegvi
-43.2786|40.2712|Gagra
-42.6266|41.7381|Gali
-43.3811|40.0794|Gantiadi
-41.4605|45.0928|Gardabani
-41.6167|45.0000|Gardabnis Munitsip’alit’et’i
-41.9842|44.1158|Gori
-42.0667|44.1167|Goris Munitsip’alit’et’i
-42.4780|44.4762|Gudauri
-43.1055|40.6207|Gudauta
-41.7429|45.8011|Gurjaani
-42.3997|43.9367|Java
-42.7169|42.0520|Jvari
-42.2833|43.2500|K’alak’i Chiat’ura
-41.9252|44.4257|Kaspi
-42.9788|41.0707|Kelasuri
-42.0214|43.1977|Kharagauli
-41.9941|43.5999|Khashuri
-41.5856|41.6689|Khelvachauri
-42.3156|41.8987|Khobi
-42.3226|42.4206|Khoni
-41.6435|42.3040|Khulo
-41.8214|41.7792|Kobuleti
-42.2041|42.3429|K’ulashi
-42.2679|42.6946|Kutaisi
-42.4810|42.0966|Kveda Chkhorots’q’u
-41.8268|46.2767|Lagodekhi
-42.0903|42.0324|Lanchkhuti
-42.7889|42.7223|Lent’ekhi
-41.6739|41.6940|Makhinjauri
-41.6970|44.3845|Manglisi
-41.4759|44.8090|Marneuli
-41.3833|44.8500|Marneulis Munitsip’alit’et’i
-42.4144|42.3792|Mart’vili
-43.0458|42.7278|Mest’ia
-43.0500|42.5500|Mest’iis Munitsip’alit’et’i
-41.8451|44.7188|Mtskheta
-41.3527|44.7618|Naghvarevi
-41.9069|41.9542|Naruja
-41.2646|43.5916|Ninotsminda
-42.7123|41.4686|Och’amch’ire
-41.8597|41.8531|Ochkhamuri
-42.5794|43.4425|Oni
-42.4678|41.6738|Orsant’ia
-41.9244|42.0068|Ozurgeti
-42.3506|44.6891|P’asanauri
-42.1427|41.6738|Poti
-42.1462|41.6720|P’ot’i
-43.0924|40.6965|P’rimorsk’oe
-41.9549|45.8172|Qvareli
-41.5627|44.9787|Rustavi
-41.5495|44.9932|Rust’avi
-42.3453|43.4194|Sach’khere
-41.7340|45.3315|Sagarejo
-42.1537|42.3352|Samtredia
-42.2704|42.0675|Senak’i
-42.0898|43.0866|Shorapani
-41.6300|42.1908|Shuakhevi
-41.6205|45.9220|Sighnaghi
-43.0070|40.9893|Sokhumi
-43.0806|40.8383|Stantsiya Novyy Afon
-42.6567|44.6433|Step’antsminda
-42.0243|43.5556|Surami
-41.6941|44.8337|Tbilisi
-41.9198|45.4731|Telavi
-41.6000|44.5000|Tetrits’q’alos Munitsip’alit’et’i
-41.5445|44.4615|T’et’ri Tsqaro
-42.3512|42.9987|Tqibuli
-42.8404|41.6801|Tqvarch'eli
-41.8036|43.4819|Tsaghveri
-42.6044|42.0682|Tsalenjikha
-41.5946|44.0891|Tsalka
-41.6333|43.9667|Ts’alk’is Munitsip’alit’et’i
-41.7666|41.7552|Tsikhisdziri
-41.8931|45.5713|Tsinandali
-42.2276|43.9686|Ts’khinvali
-41.6209|45.9694|Tsnori
-42.3413|42.5976|Tsqaltubo
-41.9956|41.7786|Urek’i
-41.6156|42.8722|Vale
-42.0832|42.5216|Vani
-42.1075|43.0329|Zestaponi
-42.1100|43.0525|Zestap’oni
-42.1318|44.7726|Zhinvali
-42.5088|41.8709|Zugdidi
+42.2049|42.2033|Abasha|Samegrelo-Zemo Svaneti|4133|
+41.6819|42.6987|Adigeni|Samtskhe-Javakheti|1068|
+41.7167|42.7333|Adigeni Municipality|Samtskhe-Javakheti|0|
+42.0376|43.8238|Agara|Shida Kartli|2803|
+41.6540|42.1516|Akhaldaba|Adjara|3640|
+41.9295|43.4876|Akhaldaba|Samtskhe-Javakheti|1763|
+42.1260|44.4833|Akhalgori|Mtskheta-Mtianeti|1420|
+41.4051|43.4863|Akhalk’alak’i|Samtskhe-Javakheti|7437|
+41.6390|42.9826|Akhaltsikhe|Samtskhe-Javakheti|17445|
+41.6333|43.0000|Akhaltsikhis Munitsip’alit’et’i|Samtskhe-Javakheti|0|
+42.0311|45.2075|Akhmeta|Kakheti|5664|
+42.5211|43.1622|Ambrolauri|Racha-Lechkhumi and Kvemo Svaneti|1952|
+42.5667|43.1000|Ambrolauris Munitsip’alit’et’i|Racha-Lechkhumi and Kvemo Svaneti|0|
+41.5739|43.2483|Aspindza|Samtskhe-Javakheti|2425|
+41.5000|43.2500|Asp’indzis Munitsip’alit’et’i|Samtskhe-Javakheti|0|
+42.0000|42.9000|Baghdatis Munitsip’alit’et’i|Imereti|0|
+41.7497|43.5325|Bakuriani|Samtskhe-Javakheti|1817|
+41.6423|41.6339|Batumi|Adjara|186949|
+43.1620|40.3410|Bich’vinta|Abkhazia|3986|
+41.4479|44.5384|Bolnisi|Kvemo Kartli|8461|
+41.3667|44.5167|Bolnisis Munitsip’alit’et’i|Kvemo Kartli|0|
+41.8527|43.4128|Borjomi|Samtskhe-Javakheti|11248|
+41.7253|41.7328|Chakvi|Adjara|7492|
+42.2981|43.2989|Chiat’ura|Imereti|11943|
+41.7361|44.9647|Didi Lilo|Kvemo Kartli|3349|
+41.6293|42.3917|Dioknisi|Adjara|7725|
+41.3500|44.1333|Dmanisis Munitsip’alit’et’i|Kvemo Kartli|0|
+42.8717|41.1533|Dranda|Abkhazia|3205|
+41.8457|44.6010|Dzegvi|Mtskheta-Mtianeti|2911|
+43.2786|40.2712|Gagra|Abkhazia|11807|
+42.6266|41.7381|Gali|Abkhazia|7452|
+43.3811|40.0794|Gantiadi|Abkhazia|4902|
+41.4605|45.0928|Gardabani|Kvemo Kartli|12364|
+41.6167|45.0000|Gardabnis Munitsip’alit’et’i|Kvemo Kartli|0|
+41.9842|44.1158|Gori|Shida Kartli|41933|
+42.0667|44.1167|Goris Munitsip’alit’et’i|Shida Kartli|0|
+42.4780|44.4762|Gudauri|Mtskheta-Mtianeti|10000|
+43.1055|40.6207|Gudauta|Abkhazia|8752|
+41.7429|45.8011|Gurjaani|Kakheti|7217|
+42.3997|43.9367|Java|Mtskheta-Mtianeti|426|
+42.7169|42.0520|Jvari|Samegrelo-Zemo Svaneti|1148|
+42.2833|43.2500|K’alak’i Chiat’ura|Imereti|0|
+41.9252|44.4257|Kaspi|Shida Kartli|12319|
+42.9788|41.0707|Kelasuri|Abkhazia|1373|
+42.0214|43.1977|Kharagauli|Imereti|1738|
+41.9941|43.5999|Khashuri|Shida Kartli|23949|
+41.5856|41.6689|Khelvachauri|Adjara|0|
+42.3156|41.8987|Khobi|Samegrelo-Zemo Svaneti|2970|
+42.3226|42.4206|Khoni|Imereti|7651|
+41.6435|42.3040|Khulo|Adjara|874|
+41.8214|41.7792|Kobuleti|Adjara|17538|
+42.2041|42.3429|K’ulashi|Imereti|945|
+42.2679|42.6946|Kutaisi|Imereti|135201|
+42.4810|42.0966|Kveda Chkhorots’q’u|Samegrelo-Zemo Svaneti|4357|
+41.8268|46.2767|Lagodekhi|Kakheti|5607|
+42.0903|42.0324|Lanchkhuti|Guria|6214|
+42.7889|42.7223|Lent’ekhi|Racha-Lechkhumi and Kvemo Svaneti|1020|
+41.6739|41.6940|Makhinjauri|Adjara|2736|
+41.6970|44.3845|Manglisi|Kvemo Kartli|1673|
+41.4759|44.8090|Marneuli|Kvemo Kartli|26400|
+41.3833|44.8500|Marneulis Munitsip’alit’et’i|Kvemo Kartli|0|
+42.4144|42.3792|Mart’vili|Samegrelo-Zemo Svaneti|3966|
+43.0458|42.7278|Mest’ia|Samegrelo-Zemo Svaneti|1689|
+43.0500|42.5500|Mest’iis Munitsip’alit’et’i|Samegrelo-Zemo Svaneti|0|
+41.8451|44.7188|Mtskheta|Mtskheta-Mtianeti|7380|
+41.3527|44.7618|Naghvarevi|Kvemo Kartli|0|
+41.9069|41.9542|Naruja|Guria|1501|
+41.2646|43.5916|Ninotsminda|Samtskhe-Javakheti|3844|
+42.7123|41.4686|Och’amch’ire|Abkhazia|5238|
+41.8597|41.8531|Ochkhamuri|Adjara|3024|
+42.5794|43.4425|Oni|Racha-Lechkhumi and Kvemo Svaneti|2480|
+42.4678|41.6738|Orsant’ia|Samegrelo-Zemo Svaneti|1200|
+41.9244|42.0068|Ozurgeti|Guria|13935|
+42.3506|44.6891|P’asanauri|Mtskheta-Mtianeti|1084|
+42.1462|41.6720|P’ot’i|Samegrelo-Zemo Svaneti|41175|
+43.0924|40.6965|P’rimorsk’oe|Abkhazia|2573|
+41.9549|45.8172|Qvareli|Kakheti|0|
+41.5495|44.9932|Rust’avi|Kvemo Kartli|128249|
+42.3453|43.4194|Sach’khere|Imereti|5235|
+41.7340|45.3315|Sagarejo|Kakheti|10166|
+42.1537|42.3352|Samtredia|Imereti|20633|
+42.2704|42.0675|Senak’i|Samegrelo-Zemo Svaneti|14991|
+42.0898|43.0866|Shorapani|Imereti|1971|
+41.6300|42.1908|Shuakhevi|Adjara|566|
+41.6205|45.9220|Sighnaghi|Kakheti|1407|
+43.0070|40.9893|Sokhumi|Abkhazia|65439|
+43.0806|40.8383|Stantsiya Novyy Afon|Abkhazia|26636|
+42.6567|44.6433|Step’antsminda|Mtskheta-Mtianeti|1552|
+42.0243|43.5556|Surami|Shida Kartli|6973|
+41.6941|44.8337|Tbilisi|Tbilisi|1049498|
+41.9198|45.4731|Telavi|Kakheti|19875|
+41.6000|44.5000|Tetrits’q’alos Munitsip’alit’et’i|Kvemo Kartli|0|
+41.5445|44.4615|T’et’ri Tsqaro|Kvemo Kartli|5041|
+42.3512|42.9987|Tqibuli|Imereti|7957|
+42.8404|41.6801|Tqvarch'eli|Abkhazia|5044|
+41.8036|43.4819|Tsaghveri|Samtskhe-Javakheti|627|
+42.6044|42.0682|Tsalenjikha|Samegrelo-Zemo Svaneti|2938|
+41.5946|44.0891|Tsalka|Kvemo Kartli|3900|
+41.6333|43.9667|Ts’alk’is Munitsip’alit’et’i|Kvemo Kartli|0|
+41.7666|41.7552|Tsikhisdziri|Adjara|1500|
+41.8931|45.5713|Tsinandali|Kakheti|2675|
+42.2276|43.9686|Ts’khinvali|Shida Kartli|32180|
+41.6209|45.9694|Tsnori|Kakheti|4767|
+42.3413|42.5976|Tsqaltubo|Imereti|7104|
+41.9956|41.7786|Urek’i|Guria|1591|
+41.6156|42.8722|Vale|Samtskhe-Javakheti|4982|
+42.0832|42.5216|Vani|Imereti|3151|
+42.1100|43.0525|Zestap’oni|Imereti|20183|
+42.1318|44.7726|Zhinvali|Mtskheta-Mtianeti|2643|
+42.5088|41.8709|Zugdidi|Samegrelo-Zemo Svaneti|40067|

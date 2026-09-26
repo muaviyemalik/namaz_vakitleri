@@ -1,125 +1,125 @@
-10.7667|104.6500|Angkor Chey
-11.0129|104.6729|Ângk Tasaôm
-14.2322|104.0811|Anlong Veaeng
-12.7800|103.7900|Bakan
-13.7394|106.9873|Banlung
-10.6167|104.5333|Banteay Meas
-12.4300|104.4700|Baribour
-13.1027|103.1982|Battambang
-11.0632|106.1356|Bavet
-11.5727|104.8902|Boeng Kak Pir
-12.1000|105.0700|Cheung Prey
-10.8167|104.4500|Chhouk
-11.6305|104.8854|Chrang Chamreh Muoy
-11.5088|104.8914|Dangkao
-11.7885|106.0933|Dar
-10.5955|104.1714|Kampong Bay
-11.9800|105.4450|Kampong Cham
-12.2600|104.6700|Kampong Chhnang
-11.4533|104.5208|Kampong Speu
-12.7111|104.8887|Kampong Thom
-10.5500|104.4667|Kampong Tranch
-10.6104|104.1814|Kampot
-11.2916|104.8410|Kandoeng
-10.4829|104.3167|Kep|Krong Kep
-11.5625|104.9141|Khan 7 Makara
-11.5439|104.9218|Khan Châmkar Mon
-11.5246|104.8394|Khan Dângkaô
-11.5756|104.9202|Khan Duŏn Pénh
-11.5198|104.9547|Khan Méan Chey
-11.6195|104.9099|Khan Russey Keo
-11.6129|104.8608|Khan Saen Sokh
-12.9798|102.6396|Khan Sala Krau
-11.6153|102.9838|Koh Kong
-12.5700|106.2000|Kracheh
-12.4800|104.1900|Krakor
-12.4881|106.0188|Kratié
-11.4709|104.5066|Krŏng Chbar Mon
-10.9946|104.7955|Krŏng Doun Kaev
-12.5048|107.1552|Krŏng Sênmônoŭrôm
-11.4547|104.9435|Krŏng Ta Khmau
-13.4915|106.9802|Lumphat
-11.8288|106.1821|Mémót
-13.4553|102.9919|Mongkol Borei
-13.7736|102.7373|Ou Bei Choan
-12.8490|102.6093|Pailin
-13.6580|102.5636|Paoy Paet
-11.5625|104.9160|Phnom Penh
-13.0834|103.2350|Phum Ânlŭng Vĭl
-12.0092|105.4341|Phumĭ Âmpĭl Leu
-12.9473|104.5691|Phumĭ Tnaôt
-10.9808|104.7783|Phumĭ Véal Srê
-11.6962|104.5806|Phumĭ Véal Tônsay
-11.2823|104.7380|Phumĭ Yoŭl Toŭng
-12.3537|106.0356|Preaek Prasab
-11.4868|105.3253|Prey Veng
-12.5388|103.9192|Pursat
-12.2100|104.6100|Rolea B'ier
-12.4705|103.9182|Sampov Meas
-14.1817|103.5176|Samraong
-13.4740|104.7705|Sangkom Thmei
-12.4558|107.1881|Sen Monorom
-13.3618|103.8606|Siem Reap
-10.6093|103.5296|Sihanoukville
-13.5859|102.9737|Sisophon
-11.5466|103.0357|Smach Mean Chey
-12.1937|106.4736|Snuol
-11.1097|103.7623|Srae Ambel
-10.8525|103.7402|Srok Stueng Hav
-10.7456|104.1101|Srok Tuek Chhou
-13.2362|103.4589|Srŏk Âk Phnŭm
-13.9335|107.3115|Srŏk Ândong Méas
-10.9929|104.9518|Srŏk Ângkôr Borei
-13.5788|103.8564|Srŏk Ângkôr Thum
-13.7075|107.1944|Srŏk Bâ Kêv
-13.6820|107.0302|Srŏk Ban Lŭng
-14.1859|103.2592|Srŏk Bântéay Âmpĭl
-12.9707|103.0474|Srŏk Banăn
-11.1843|104.5358|Srŏk Basedth
-12.0299|104.9317|Srŏk Bathéay
-11.1146|103.3899|Srŏk Batum Sakôr
-13.2360|102.8291|Srŏk Bâvĭl
-10.8141|104.9899|Srŏk Borei Cholsar
-13.5822|105.3453|Srŏk Ch’êh Sên
-13.9108|105.4618|Srŏk Chhêb
-12.1586|104.8229|Srŏk Chol Kiri
-11.0054|104.4421|Srŏk Chŭm Kiri
-10.5339|104.3486|Srŏk Dâmnăk Châng’aeur
-10.7073|104.4223|Srŏk Dângtóng
-12.4172|106.7703|Srŏk Kaev Seima
-11.5097|105.3011|Srŏk Kâmpóng Léav
-12.7125|104.0259|Srŏk Kândiĕng
-11.6922|105.0373|Srŏk Khsăch Kândal
-11.3165|104.6599|Srŏk Kông Pĭsei
-13.5177|106.7514|Srŏk Koun Mom
-13.7860|104.6105|Srŏk Kulén
-13.4990|102.6016|Srŏk Malai
-11.3553|105.5724|Srŏk Mésang
-11.8129|103.0116|Srŏk Môndôl Seima
-13.8407|107.0347|Srŏk Ou Chum
-13.5433|107.4464|Srŏk Ou Ya Dav
-12.7278|107.0948|Srŏk Pech Chreada
-13.2103|103.9769|Srŏk Prasat Bakong
-11.0869|105.3750|Srŏk Preăh Sdéch
-12.8405|102.8870|Srŏk Rotanak Mondol
-13.3511|105.0996|Srŏk Rôviĕng
-11.8679|104.5555|Srŏk Sameakki Mean Chey
-14.2504|103.6274|Srŏk Sâmraông
-13.6053|106.3582|Srŏk Srêsén
-13.8131|102.9527|Srŏk Svay Chék
-11.1116|105.6981|Srŏk Svay Chrŭm
-14.2919|107.2403|Srŏk Ta Vêng
-13.7862|105.0159|Srŏk Tbêng Méanchey
-14.2581|104.3084|Srŏk Trâpeăng Prasat
-12.2423|103.1344|Srŏk Véal Vêng
-11.6684|104.6122|Srŏk Ŏdŏngk
-13.6500|106.0700|Stueng Traeng
-13.5259|105.9683|Stung Treng
-11.9167|105.6500|Suong
-13.6917|104.2745|Svay Leu
-11.0878|105.7994|Svay Rieng
-10.9908|104.7850|Takeo
-11.4833|104.9500|Ta Khmau
-13.8073|104.9805|Tbeng Meanchey
-13.8357|103.8997|Varin
-13.5497|103.6090|Yeang
+10.7667|104.6500|Angkor Chey|Kampot|4191|
+11.0129|104.6729|Ângk Tasaôm|Takeo|16026|
+14.2322|104.0811|Anlong Veaeng|Ŏtâr Méanchey|56927|
+12.7800|103.7900|Bakan|Pursat|0|
+13.7394|106.9873|Banlung|Ratanakiri|17000|
+10.6167|104.5333|Banteay Meas|Kampot|0|
+12.4300|104.4700|Baribour|Kampong Chhnang|0|
+13.1027|103.1982|Battambang|Battambang|119251|
+11.0632|106.1356|Bavet|Svay Rieng|43783|
+11.5727|104.8902|Boeng Kak Pir|Phnom Penh|24937|
+12.1000|105.0700|Cheung Prey|Kampong Cham|0|
+10.8167|104.4500|Chhouk|Kampot|0|
+11.6305|104.8854|Chrang Chamreh Muoy|Phnom Penh|22911|
+11.5088|104.8914|Dangkao|Phnom Penh|76421|
+11.7885|106.0933|Dar|Tboung Khmum|22898|
+10.5955|104.1714|Kampong Bay|Kampot|0|
+11.9800|105.4450|Kampong Cham|Kampong Cham|61750|
+12.2600|104.6700|Kampong Chhnang|Kampong Chhnang|75244|
+11.4533|104.5208|Kampong Speu|Kampong Speu|33231|
+12.7111|104.8887|Kampong Thom|Kampong Thom|19951|
+10.5500|104.4667|Kampong Tranch|Kampot|0|
+10.6104|104.1814|Kampot|Kampot|22691|
+11.2916|104.8410|Kandoeng|Takeo|33827|
+11.5625|104.9141|Khan 7 Makara|Phnom Penh|0|
+11.5439|104.9218|Khan Châmkar Mon|Phnom Penh|0|
+11.5246|104.8394|Khan Dângkaô|Phnom Penh|0|
+11.5756|104.9202|Khan Duŏn Pénh|Phnom Penh|0|
+11.5198|104.9547|Khan Méan Chey|Phnom Penh|0|
+11.6195|104.9099|Khan Russey Keo|Phnom Penh|0|
+11.6129|104.8608|Khan Saen Sokh|Phnom Penh|0|
+12.9798|102.6396|Khan Sala Krau|Pailin|0|
+11.6153|102.9838|Koh Kong|Koh Kong|33134|
+12.5700|106.2000|Kracheh|Kratie|0|
+12.4800|104.1900|Krakor|Pursat|0|
+12.4881|106.0188|Kratié|Kratie|19975|
+10.4829|104.3167|Krong Kep|Kep|35990|Kep
+11.4709|104.5066|Krŏng Chbar Mon|Kampong Speu|0|
+10.9946|104.7955|Krŏng Doun Kaev|Takeo|0|
+12.5048|107.1552|Krŏng Sênmônoŭrôm|Mondulkiri|0|
+11.4547|104.9435|Krŏng Ta Khmau|Kandal|0|
+13.4915|106.9802|Lumphat|Ratanakiri|19205|
+11.8288|106.1821|Mémót|Tboung Khmum|17061|
+13.4553|102.9919|Mongkol Borei|Banteay Meanchey|0|
+13.7736|102.7373|Ou Bei Choan|Banteay Meanchey|15351|
+12.8490|102.6093|Pailin|Pailin|17850|
+13.6580|102.5636|Paoy Paet|Banteay Meanchey|98934|
+11.5625|104.9160|Phnom Penh|Phnom Penh|1573544|
+13.0834|103.2350|Phum Ânlŭng Vĭl|Battambang|16479|
+12.0092|105.4341|Phumĭ Âmpĭl Leu|Kampong Cham|16110|
+12.9473|104.5691|Phumĭ Tnaôt|Kampong Thom|21727|
+10.9808|104.7783|Phumĭ Véal Srê|Takeo|44270|
+11.6962|104.5806|Phumĭ Véal Tônsay|Kampong Speu|25168|
+11.2823|104.7380|Phumĭ Yoŭl Toŭng|Takeo|44395|
+12.3537|106.0356|Preaek Prasab|Kratie|64466|
+11.4868|105.3253|Prey Veng|Prey Veng|33079|
+12.5388|103.9192|Pursat|Pursat|52476|
+12.2100|104.6100|Rolea B'ier|Kampong Chhnang|0|
+12.4705|103.9182|Sampov Meas|Pursat|0|
+14.1817|103.5176|Samraong|Oddar Meanchey|18694|
+13.4740|104.7705|Sangkom Thmei|Preah Vihear|0|
+12.4558|107.1881|Sen Monorom|Mondulkiri|7944|
+13.3618|103.8606|Siem Reap|Siem Reap|139458|
+10.6093|103.5296|Sihanoukville|Sihanoukville|73036|
+13.5859|102.9737|Sisophon|Banteay Meanchey|23218|
+11.5466|103.0357|Smach Mean Chey|Koh Kong|29329|
+12.1937|106.4736|Snuol|Kratie|16473|
+11.1097|103.7623|Srae Ambel|Koh Kong|0|
+10.8525|103.7402|Srok Stueng Hav|Sihanoukville|0|
+10.7456|104.1101|Srok Tuek Chhou|Kampot|0|
+13.2362|103.4589|Srŏk Âk Phnŭm|Battambang|0|
+13.9335|107.3115|Srŏk Ândong Méas|Ratanakiri|0|
+10.9929|104.9518|Srŏk Ângkôr Borei|Takeo|0|
+13.5788|103.8564|Srŏk Ângkôr Thum|Siem Reap|0|
+13.7075|107.1944|Srŏk Bâ Kêv|Ratanakiri|0|
+13.6820|107.0302|Srŏk Ban Lŭng|Ratanakiri|0|
+14.1859|103.2592|Srŏk Bântéay Âmpĭl|Oddar Meanchey|0|
+12.9707|103.0474|Srŏk Banăn|Battambang|0|
+11.1843|104.5358|Srŏk Basedth|Kampong Speu|0|
+12.0299|104.9317|Srŏk Bathéay|Kampong Cham|0|
+11.1146|103.3899|Srŏk Batum Sakôr|Koh Kong|0|
+13.2360|102.8291|Srŏk Bâvĭl|Battambang|0|
+10.8141|104.9899|Srŏk Borei Cholsar|Takeo|0|
+13.5822|105.3453|Srŏk Ch’êh Sên|Preah Vihear|0|
+13.9108|105.4618|Srŏk Chhêb|Preah Vihear|0|
+12.1586|104.8229|Srŏk Chol Kiri|Kampong Chhnang|0|
+11.0054|104.4421|Srŏk Chŭm Kiri|Kampot|0|
+10.5339|104.3486|Srŏk Dâmnăk Châng’aeur|Kep|0|
+10.7073|104.4223|Srŏk Dângtóng|Kampot|0|
+12.4172|106.7703|Srŏk Kaev Seima|Mondulkiri|0|
+11.5097|105.3011|Srŏk Kâmpóng Léav|Prey Veng|0|
+12.7125|104.0259|Srŏk Kândiĕng|Pursat|0|
+11.6922|105.0373|Srŏk Khsăch Kândal|Kandal|0|
+11.3165|104.6599|Srŏk Kông Pĭsei|Kampong Speu|0|
+13.5177|106.7514|Srŏk Koun Mom|Ratanakiri|0|
+13.7860|104.6105|Srŏk Kulén|Preah Vihear|0|
+13.4990|102.6016|Srŏk Malai|Banteay Meanchey|0|
+11.3553|105.5724|Srŏk Mésang|Prey Veng|0|
+11.8129|103.0116|Srŏk Môndôl Seima|Koh Kong|0|
+13.8407|107.0347|Srŏk Ou Chum|Ratanakiri|0|
+13.5433|107.4464|Srŏk Ou Ya Dav|Ratanakiri|0|
+12.7278|107.0948|Srŏk Pech Chreada|Mondulkiri|0|
+13.2103|103.9769|Srŏk Prasat Bakong|Siem Reap|0|
+11.0869|105.3750|Srŏk Preăh Sdéch|Prey Veng|0|
+12.8405|102.8870|Srŏk Rotanak Mondol|Battambang|0|
+13.3511|105.0996|Srŏk Rôviĕng|Preah Vihear|0|
+11.8679|104.5555|Srŏk Sameakki Mean Chey|Kampong Chhnang|0|
+14.2504|103.6274|Srŏk Sâmraông|Oddar Meanchey|0|
+13.6053|106.3582|Srŏk Srêsén|Stung Treng|0|
+13.8131|102.9527|Srŏk Svay Chék|Banteay Meanchey|0|
+11.1116|105.6981|Srŏk Svay Chrŭm|Svay Rieng|0|
+14.2919|107.2403|Srŏk Ta Vêng|Ratanakiri|0|
+13.7862|105.0159|Srŏk Tbêng Méanchey|Preah Vihear|0|
+14.2581|104.3084|Srŏk Trâpeăng Prasat|Oddar Meanchey|0|
+12.2423|103.1344|Srŏk Véal Vêng|Pursat|0|
+11.6684|104.6122|Srŏk Ŏdŏngk|Kampong Speu|0|
+13.6500|106.0700|Stueng Traeng|Stung Treng|0|
+13.5259|105.9683|Stung Treng|Stung Treng|25000|
+11.9167|105.6500|Suong|Tboung Khmum|30000|
+13.6917|104.2745|Svay Leu|Siem Reap|0|
+11.0878|105.7994|Svay Rieng|Svay Rieng|23956|
+10.9908|104.7850|Takeo|Takeo|843931|
+11.4833|104.9500|Ta Khmau|Kandal|52066|
+13.8073|104.9805|Tbeng Meanchey|Preah Vihear|24380|
+13.8357|103.8997|Varin|Siem Reap|1684|
+13.5497|103.6090|Yeang|Siem Reap|16177|

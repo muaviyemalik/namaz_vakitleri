@@ -1,48 +1,48 @@
--17.4119|-145.6628|Anaa
--17.2774|-149.8720|Arue
--15.3120|-146.9126|Arutua
--16.3917|-151.9300|Bora-Bora
--17.5839|-149.6461|Faaa
--16.2985|-145.9222|Fakarava
--15.8210|-140.9081|Fangatau
--10.4860|-138.6919|Fatu-Hiva
--23.1009|-135.0792|Gambier
--18.7453|-145.3338|Hao
--17.5877|-142.6912|Hikueru
--17.5914|-149.4732|Hitiaa O Te Ra
--9.7263|-139.3100|Hiva-Oa
--16.7521|-151.0789|Huahine
--17.5575|-149.5165|Mahina
--16.5933|-144.0176|Makemo
--14.3976|-146.1222|Manihi
--16.3144|-154.7991|Maupiti
--17.5757|-150.8619|Moorea-Maiao
--14.1734|-141.3068|Napuka
--8.4103|-141.0233|Nuku-Hiva
--18.9781|-139.2928|Nukutavake
--17.6962|-149.5897|Paea
--17.7119|-149.5904|Papara
--17.5571|-149.5966|Papeete
--17.5699|-149.5635|Pirae
--14.8190|-138.8610|Puka-Puka
--17.6180|-149.6310|Punaauia
--23.8695|-147.7324|Raivavae
--15.1228|-147.9114|Rangiroa
--27.6082|-144.3843|Rapa
--18.5195|-136.4609|Reao
--22.6438|-152.8312|Rimatara
--22.4696|-151.3911|Rurutu
--16.6196|-151.5722|Tahaa
--9.9573|-139.1656|Tahuata
--17.7555|-149.3953|Taiarapu-Est
--17.8100|-149.3270|Taiarapu-Ouest
--14.6726|-145.2268|Takaroa
--16.8206|-151.4774|Taputapuatea
--17.3417|-138.4758|Tatakoto
--17.7225|-149.4820|Teva I Uta
--23.3685|-149.5450|Tubuai
--16.8299|-151.5338|Tumaraa
--20.8280|-138.5816|Tureia
--8.9097|-139.6317|Ua-Huka
--9.4089|-140.1555|Ua-Pou
--16.7386|-151.4955|Uturoa
+-17.4119|-145.6628|Anaa|Tuamotu-Gambier|0|
+-17.2774|-149.8720|Arue|Windward Islands|0|
+-15.3120|-146.9126|Arutua|Tuamotu-Gambier|0|
+-16.3917|-151.9300|Bora-Bora|Leeward Islands|0|
+-17.5839|-149.6461|Faaa|Windward Islands|29851|
+-16.2985|-145.9222|Fakarava|Tuamotu-Gambier|0|
+-15.8210|-140.9081|Fangatau|Tuamotu-Gambier|0|
+-10.4860|-138.6919|Fatu-Hiva|Marquesas Islands|0|
+-23.1009|-135.0792|Gambier|Tuamotu-Gambier|0|
+-18.7453|-145.3338|Hao|Tuamotu-Gambier|0|
+-17.5877|-142.6912|Hikueru|Tuamotu-Gambier|0|
+-17.5914|-149.4732|Hitiaa O Te Ra|Windward Islands|0|
+-9.7263|-139.3100|Hiva-Oa|Marquesas Islands|0|
+-16.7521|-151.0789|Huahine|Leeward Islands|0|
+-17.5575|-149.5165|Mahina|Windward Islands|14369|
+-16.5933|-144.0176|Makemo|Tuamotu-Gambier|0|
+-14.3976|-146.1222|Manihi|Tuamotu-Gambier|0|
+-16.3144|-154.7991|Maupiti|Leeward Islands|0|
+-17.5757|-150.8619|Moorea-Maiao|Windward Islands|0|
+-14.1734|-141.3068|Napuka|Tuamotu-Gambier|0|
+-8.4103|-141.0233|Nuku-Hiva|Marquesas Islands|0|
+-18.9781|-139.2928|Nukutavake|Tuamotu-Gambier|0|
+-17.6962|-149.5897|Paea|Windward Islands|12084|
+-17.7119|-149.5904|Papara|Windward Islands|0|
+-17.5571|-149.5966|Papeete|Windward Islands|26357|
+-17.5699|-149.5635|Pirae|Windward Islands|14475|
+-14.8190|-138.8610|Puka-Puka|Tuamotu-Gambier|0|
+-17.6180|-149.6310|Punaauia|Windward Islands|25750|
+-23.8695|-147.7324|Raivavae|Austral Islands|0|
+-15.1228|-147.9114|Rangiroa|Tuamotu-Gambier|0|
+-27.6082|-144.3843|Rapa|Austral Islands|0|
+-18.5195|-136.4609|Reao|Tuamotu-Gambier|0|
+-22.6438|-152.8312|Rimatara|Austral Islands|0|
+-22.4696|-151.3911|Rurutu|Austral Islands|0|
+-16.6196|-151.5722|Tahaa|Leeward Islands|0|
+-9.9573|-139.1656|Tahuata|Marquesas Islands|0|
+-17.7555|-149.3953|Taiarapu-Est|Windward Islands|0|
+-17.8100|-149.3270|Taiarapu-Ouest|Windward Islands|0|
+-14.6726|-145.2268|Takaroa|Tuamotu-Gambier|0|
+-16.8206|-151.4774|Taputapuatea|Leeward Islands|0|
+-17.3417|-138.4758|Tatakoto|Tuamotu-Gambier|0|
+-17.7225|-149.4820|Teva I Uta|Windward Islands|0|
+-23.3685|-149.5450|Tubuai|Austral Islands|0|
+-16.8299|-151.5338|Tumaraa|Leeward Islands|0|
+-20.8280|-138.5816|Tureia|Tuamotu-Gambier|0|
+-8.9097|-139.6317|Ua-Huka|Marquesas Islands|0|
+-9.4089|-140.1555|Ua-Pou|Marquesas Islands|0|
+-16.7386|-151.4955|Uturoa|Leeward Islands|3668|

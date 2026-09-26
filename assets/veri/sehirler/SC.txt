@@ -1,9 +1,9 @@
--4.7167|55.4833|Anse Boileau
--4.5917|55.4500|Anse Etoile
--4.7333|55.5167|Anse Royale
--4.6209|55.4301|Beau Vallon
--4.6167|55.4167|Bel Ombre
--4.6667|55.5000|Cascade
--4.6667|55.4167|Port Glaud
--4.7667|55.5000|Takamaka
--4.6200|55.4550|Victoria
+-4.7167|55.4833|Anse Boileau|Anse Boileau|4183|
+-4.5917|55.4500|Anse Etoile|Anse Etoile|0|
+-4.7333|55.5167|Anse Royale|Anse Royale|3818|
+-4.6209|55.4301|Beau Vallon|Beau Vallon|4142|
+-4.6167|55.4167|Bel Ombre|Bel Ombre|4163|
+-4.6667|55.5000|Cascade|Cascade|7263|
+-4.6667|55.4167|Port Glaud|Port Glaud|3243|
+-4.7667|55.5000|Takamaka|Takamaka|2580|
+-4.6200|55.4550|Victoria|La Rivière Anglaise|22881|

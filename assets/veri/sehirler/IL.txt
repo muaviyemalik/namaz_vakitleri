@@ -1,181 +1,181 @@
-31.8059|35.1093|Abū Ghaush
-32.9281|35.0765|Acre
-32.6091|35.2892|Afula
-31.2588|35.2128|Arad
-32.1065|35.1845|Ariel
-32.7222|35.3156|Ar Rayna
-31.7921|34.6497|Ashdod
-31.6693|34.5715|Ashkelon
-32.6889|34.9424|Atlit
-32.0243|34.8063|Azor
-32.7390|35.1572|Basmat Ṭab‘ūn
-32.0238|34.7518|Bat Yam
-31.2518|34.7913|Beersheba
-31.9386|34.8375|Be’er Ya‘aqov
-32.9646|35.3815|Beit Jann
-32.0019|34.8298|Bet Dagan
-32.4973|35.4963|Bet She’an
-31.7307|34.9929|Bet Shemesh
-32.3275|34.8888|Bet Yiẕẖaq
-32.5182|34.9540|Binyamina-Giv'at Ada
-32.5230|34.9449|Binyamina-Giv‘at ‘Ada
-31.7833|34.7500|Bnei Ayish
-32.0807|34.8338|Bnei Brak
-32.9775|35.3334|Buqei‘a
-32.8064|35.3649|Bu‘eina
-32.4206|35.0427|Bāqa el Gharbīya
-32.7773|35.2207|Bīr el Maksūr
-32.5189|34.9046|Caesarea
-32.6926|35.3712|Dabbūrīya
-32.6938|35.0469|Daliyat al Karmel
-32.8620|35.3636|Deir Ḥannā
-31.0708|35.0327|Dimona
-29.5581|34.9482|Eilat
-32.5981|34.9515|El Fureidīs
-32.9834|35.0984|El Mazra‘a
-32.4079|34.9243|Elyakhin
-32.0511|34.9570|El‘ad
-32.7234|35.3162|Er Reina
-32.9941|35.1480|Esh Sheikh Dannūn
-32.2696|34.8876|Even Yehuda
-32.2662|35.0089|Eṭ Ṭaiyiba
-32.2341|34.9502|Eṭ Ṭīra|Tirah
-32.0597|34.8732|Ganei Tikva
-31.7874|34.7066|Gan Yavne
-31.8146|34.7800|Gedera
-31.7667|35.2333|Giv`at H̱ananya
-32.0722|34.8125|Givatayim
-32.0782|34.8486|Giv'at Shmuel
-32.4419|34.9039|Hadera
-32.8184|34.9885|Haifa
-31.8275|35.1309|Har Adar
-32.1663|34.8254|Herzliya
-32.1741|34.8028|Herzliya Pituah
-32.1593|34.8932|Hod HaSharon
-32.0103|34.7792|H̱olon
-31.3008|34.9361|H̱ura
-32.7615|35.1140|Ibṭīn
-32.6816|35.3237|Iksāl
-32.0504|34.7522|Jaffa
-32.1547|34.9537|Jaljūlya
-31.7690|35.2163|Jerusalem
-32.9282|35.1570|Judeida Makr
-33.0222|35.4469|Jīsh
-32.2778|34.9194|Kadima Zoran
-32.7213|35.4412|Kafr Kammā
-32.7466|35.3424|Kafr Kannā
-32.8103|35.2601|Kafr Mandā
-32.6452|35.4215|Kafr Miṣr
-32.5053|35.0521|Kafr Qari‘
-32.1141|34.9762|Kafr Qāsim
-32.9171|35.3050|Karmi’el
-32.8316|35.2485|Kaukab Abū el Hījā
-31.9879|34.8516|Kefar H̱abad
-33.0861|35.1135|Kefar Rosh HaNiqra
-32.1853|34.8208|Kefar Shemaryahu
-32.6865|35.4212|Kefar Tavor
-32.9939|35.2779|Kefar Weradim
-32.3167|34.9351|Kefar Yona
-32.1750|34.9069|Kfar Saba
-32.9545|35.1623|Kfar Yasif
-32.3152|34.9357|Kfar Yona
-31.6100|34.7642|Kiryat Gat|Qiryat Gat
-32.0612|34.8562|Kiryat Ono
-31.2453|35.0931|Kuseifa
-32.8686|35.2117|Kābūl
-31.9176|35.0322|Lapid
-31.3728|34.8162|Lehavim
-31.9467|34.8903|Lod
-33.0167|35.2667|maalot Tarshīhā
-32.8898|35.4070|Maghār
-32.9209|35.2544|Majd el Kurūm
-31.8536|34.8465|Mazkeret Batya
-33.2792|35.5795|Metulla
-31.8019|35.1507|Mevasseret Tsiyyon|Mevasseret Ẕiyyon
-30.8515|34.7834|Midreshet Ben-Gurion
-32.6760|35.2399|Migdal Ha‘Emeq
-30.6094|34.8011|Mitzpe Ramon
-33.0278|35.2566|Mi‘ilyā
-31.9322|35.0442|Modiin Ilit
-31.8939|35.0150|Modi‘in Makkabbim Re‘ut
-33.0089|35.0981|Nahariyya
-32.7006|35.2972|Nazareth
-32.9344|35.3168|Naḥf
-32.7082|35.3247|Naẕerat ‘Illit
-32.9500|35.2333|Nefat ‘Akko
-32.6306|35.3488|Nein
-32.7662|35.0442|Nesher
-31.9293|34.7987|Ness Ziona
-32.3329|34.8599|Netanya
-31.4230|34.5891|Netivot
-32.0601|34.9107|Neẖalim
-32.1468|34.9862|Nirit
-31.8711|34.9908|Nof Ayalon
-32.3147|34.8962|Nordiyya
-31.3141|34.6202|Ofaqim
-32.5064|34.9209|Or Akiva
-32.0292|34.8579|Or Yehuda
-32.4741|34.9778|Pardés H̱anna Karkur
-32.3058|34.9091|Pardesiyya
-33.0489|35.3089|Pasuta
-32.0888|34.8867|Petaẖ Tiqva
-32.0871|34.8875|Petaẖ Tiqwa
-32.2849|34.9811|Qalansuwa
-32.8115|35.1132|Qiryat Ata
-32.8275|35.0858|Qiryat Bialik
-31.7667|35.1667|Qiryat HaYovel
-31.7289|34.7463|Qiryat Mal’akhi
-32.8371|35.0776|Qiryat Motsqin|Qiryat Moẕqin
-33.2073|35.5721|Qiryat Shemona
-33.2120|35.5704|Qiryat Shmona
-32.7122|35.1251|Qiryat Tiv‘on
-32.8497|35.0697|Qiryat Yam
-32.1836|34.8739|Ra'anana
-31.3955|34.7570|Rahat
-32.0823|34.8107|Ramat Gan
-32.1461|34.8394|Ramat HaSharon
-32.7044|35.1707|Ramat Yishay
-31.9292|34.8656|Ramla
-32.7491|35.0990|Rekhasim
-31.8942|34.8120|Reẖovot
-31.9710|34.7894|Rishon LeTsiyyon|Rishon LeẔiyyon
-32.0956|34.9566|Rosh Ha‘Ayin
-32.9689|35.5426|Rosh Pinna
-32.7780|35.3057|Rumat Heib
-32.9646|35.4960|Safed
-32.8642|35.2971|Sakhnīn
-32.8944|35.3693|Sallama
-32.0497|34.8777|Savyon
-31.5250|34.5969|Sderot|Sederot
-32.8058|35.1690|Shefar‘am
-33.0722|35.1445|Shelomi
-32.6946|35.3925|Shibli
-31.9987|34.9456|Shoham
-32.9427|35.3414|Sājūr
-32.6061|35.3341|Sūlam
-32.8530|35.1987|Tamra
-32.0809|34.7806|Tel Aviv
-32.2499|34.9174|Tel Mond
-31.2486|34.8601|Tel Sheva‘
-32.7922|35.5312|Tiberias
-32.7030|35.2236|Timrat
-32.7602|34.9718|Tirat Karmel
-32.5172|35.1535|Umm el Faḥm
-31.7820|35.2196|West Jerusalem
-31.8781|34.7398|Yavné
-32.7062|35.5044|Yavne’el
-32.0332|34.8909|Yehud
-32.0284|34.8796|Yehud-Monosson
-30.9882|34.9318|Yeroẖam
-32.9543|35.2120|Yirkā
-32.6466|35.0920|Yoqne‘am ‘Illit
-32.6892|35.2783|Yāfā
-32.5688|34.9543|Zikhron Ya‘aqov
-33.0171|35.3484|Ḥurfeish
-31.7191|35.0971|Ẕur Hadassa
-32.2982|34.9131|Ẕur Moshe
-32.4956|35.0926|‘Ara-‘Ar‘ara
-31.1605|35.0227|‘Ar‘ara BaNegev
-32.8369|35.4003|‘Eilabun
-31.1994|35.3625|‘En Boqeq
-32.7921|35.3298|‘Uzeir
+31.8059|35.1093|Abū Ghaush|Jerusalem|7698|
+32.9281|35.0765|Acre|Northern|51420|
+32.6091|35.2892|Afula|Northern|44930|
+31.2588|35.2128|Arad|Southern|27967|
+32.1065|35.1845|Ariel|Judea and Samaria Area|20540|
+32.7222|35.3156|Ar Rayna|Northern District|15621|
+31.7921|34.6497|Ashdod|Southern|226838|
+31.6693|34.5715|Ashkelon|Southern|144073|
+32.6889|34.9424|Atlit|Haifa|8875|
+32.0243|34.8063|Azor|Tel Aviv|12957|
+32.7390|35.1572|Basmat Ṭab‘ūn|Northern|7916|
+32.0238|34.7518|Bat Yam|Tel Aviv|129012|
+31.2518|34.7913|Beersheba|Southern|186600|
+31.9386|34.8375|Be’er Ya‘aqov|Central District|27768|
+32.9646|35.3815|Beit Jann|Northern|12001|
+32.0019|34.8298|Bet Dagan|Central|7099|
+32.4973|35.4963|Bet She’an|Northern|16800|
+31.7307|34.9929|Bet Shemesh|Jerusalem|124957|
+32.3275|34.8888|Bet Yiẕẖaq|Central|0|
+32.5182|34.9540|Binyamina-Giv'at Ada|Haifa|15847|
+32.5230|34.9449|Binyamina-Giv‘at ‘Ada|Haifa|15847|
+31.7833|34.7500|Bnei Ayish|Central|6978|
+32.0807|34.8338|Bnei Brak|Tel Aviv|214444|
+32.9775|35.3334|Buqei‘a|Northern|5893|
+32.8064|35.3649|Bu‘eina|Northern|7900|
+32.4206|35.0427|Bāqa el Gharbīya|Haifa|29950|
+32.7773|35.2207|Bīr el Maksūr|Northern|7106|
+32.5189|34.9046|Caesarea|Haifa|5343|
+32.6926|35.3712|Dabbūrīya|Northern|8305|
+32.6938|35.0469|Daliyat al Karmel|Haifa|25000|
+32.8620|35.3636|Deir Ḥannā|Northern|10339|
+31.0708|35.0327|Dimona|Southern|36192|
+29.5581|34.9482|Eilat|Southern|52299|
+32.5981|34.9515|El Fureidīs|Haifa|0|
+32.9834|35.0984|El Mazra‘a|Northern|3900|
+32.4079|34.9243|Elyakhin|Central|3415|
+32.0511|34.9570|El‘ad|Central District|48763|
+32.7234|35.3162|Er Reina|Northern|0|
+32.9941|35.1480|Esh Sheikh Dannūn|Northern|2887|
+32.2696|34.8876|Even Yehuda|Central|13826|
+32.2662|35.0089|Eṭ Ṭaiyiba|Central|43957|
+32.0597|34.8732|Ganei Tikva|Central|25093|
+31.7874|34.7066|Gan Yavne|Central|23869|
+31.8146|34.7800|Gedera|Central|30798|
+31.7667|35.2333|Giv`at H̱ananya|Jerusalem|15500|
+32.0722|34.8125|Givatayim|Tel Aviv|60644|
+32.0782|34.8486|Giv'at Shmuel|Tel Aviv|28628|
+32.4419|34.9039|Hadera|Haifa|97335|
+32.8184|34.9885|Haifa|Haifa|285316|
+31.8275|35.1309|Har Adar|Jerusalem|3300|
+32.1663|34.8254|Herzliya|Tel Aviv|97470|
+32.1741|34.8028|Herzliya Pituah|Tel Aviv|10000|
+32.1593|34.8932|Hod HaSharon|Central|63175|
+32.0103|34.7792|H̱olon|Tel Aviv|196282|
+31.3008|34.9361|H̱ura|Southern District|21558|
+32.7615|35.1140|Ibṭīn|Haifa|2835|
+32.6816|35.3237|Iksāl|Northern|14784|
+32.0504|34.7522|Jaffa|Tel Aviv|100000|
+32.1547|34.9537|Jaljūlya|Central|10148|
+31.7690|35.2163|Jerusalem|Jerusalem|971800|
+32.9282|35.1570|Judeida Makr|Northern|21163|
+33.0222|35.4469|Jīsh|Northern|3105|
+32.2778|34.9194|Kadima Zoran|Central District|22490|
+32.7213|35.4412|Kafr Kammā|Northern|3373|
+32.7466|35.3424|Kafr Kannā|Northern|22751|
+32.8103|35.2601|Kafr Mandā|Northern|20188|
+32.6452|35.4215|Kafr Miṣr|Northern|2750|
+32.5053|35.0521|Kafr Qari‘|Haifa|19018|
+32.1141|34.9762|Kafr Qāsim|Central|23823|
+32.9171|35.3050|Karmi’el|Northern|46252|
+32.8316|35.2485|Kaukab Abū el Hījā|Northern|3589|
+31.9879|34.8516|Kefar H̱abad|Central|0|
+33.0861|35.1135|Kefar Rosh HaNiqra|Northern|0|
+32.1853|34.8208|Kefar Shemaryahu|Tel Aviv|0|
+32.6865|35.4212|Kefar Tavor|Northern|0|
+32.9939|35.2779|Kefar Weradim|Northern|0|
+32.3167|34.9351|Kefar Yona|Central|0|
+32.1750|34.9069|Kfar Saba|Central|110456|
+32.9545|35.1623|Kfar Yasif|Northern|10133|
+32.3152|34.9357|Kfar Yona|Central District|24778|
+32.0612|34.8562|Kiryat Ono|Tel Aviv|39986|
+31.2453|35.0931|Kuseifa|Southern District|21079|
+32.8686|35.2117|Kābūl|Northern|14095|
+31.9176|35.0322|Lapid|Central|2497|
+31.3728|34.8162|Lehavim|Southern|6415|
+31.9467|34.8903|Lod|Central|77223|
+33.0167|35.2667|maalot Tarshīhā|Northern|21836|
+32.8898|35.4070|Maghār|Northern|22957|
+32.9209|35.2544|Majd el Kurūm|Northern District|15455|
+31.8536|34.8465|Mazkeret Batya|Central|14837|
+33.2792|35.5795|Metulla|Northern|0|
+31.8019|35.1507|Mevasseret Ẕiyyon|Jerusalem|24052|Mevasseret Tsiyyon
+30.8515|34.7834|Midreshet Ben-Gurion|Southern|1972|
+32.6760|35.2399|Migdal Ha‘Emeq|Northern|25675|
+30.6094|34.8011|Mitzpe Ramon|Southern|5211|
+33.0278|35.2566|Mi‘ilyā|Northern|2700|
+31.9322|35.0442|Modiin Ilit|Jerusalem|76374|
+31.8939|35.0150|Modi‘in Makkabbim Re‘ut|Central|93277|
+33.0089|35.0981|Nahariyya|Northern|58096|
+32.7006|35.2972|Nazareth|Northern|77445|
+32.9344|35.3168|Naḥf|Northern|13113|
+32.7082|35.3247|Naẕerat ‘Illit|Northern District|43556|
+32.9500|35.2333|Nefat ‘Akko|Northern|0|
+32.6306|35.3488|Nein|Northern|0|
+32.7662|35.0442|Nesher|Haifa|24148|
+31.9293|34.7987|Ness Ziona|Central|50351|
+32.3329|34.8599|Netanya|Central|228204|
+31.4230|34.5891|Netivot|Southern|43732|
+32.0601|34.9107|Neẖalim|Central|1788|
+32.1468|34.9862|Nirit|Central|926|
+31.8711|34.9908|Nof Ayalon|Central|2128|
+32.3147|34.8962|Nordiyya|Central|0|
+31.3141|34.6202|Ofaqim|Southern|34666|
+32.5064|34.9209|Or Akiva|Haifa|18972|
+32.0292|34.8579|Or Yehuda|Tel Aviv|36813|
+32.4741|34.9778|Pardés H̱anna Karkur|Haifa|44840|
+32.3058|34.9091|Pardesiyya|Central|0|
+33.0489|35.3089|Pasuta|Northern|0|
+32.0888|34.8867|Petaẖ Tiqva|Central District|253529|
+32.0871|34.8875|Petaẖ Tiqwa|Central|0|
+32.2849|34.9811|Qalansuwa|Central|16898|
+32.8115|35.1132|Qiryat Ata|Haifa|59030|
+32.8275|35.0858|Qiryat Bialik|Haifa|43955|
+31.6100|34.7642|Qiryat Gat|Southern|61817|Kiryat Gat
+31.7667|35.1667|Qiryat HaYovel|Jerusalem|25000|
+31.7289|34.7463|Qiryat Mal’akhi|Southern District|25362|
+32.8371|35.0776|Qiryat Moẕqin|Haifa|43303|Qiryat Motsqin
+33.2073|35.5721|Qiryat Shemona|Northern|0|
+33.2120|35.5704|Qiryat Shmona|Northern District|22512|
+32.7122|35.1251|Qiryat Tiv‘on|Haifa|18130|
+32.8497|35.0697|Qiryat Yam|Haifa|39897|
+32.1836|34.8739|Ra'anana|Central|75421|
+31.3955|34.7570|Rahat|Southern|19586|
+32.0823|34.8107|Ramat Gan|Tel Aviv|170822|
+32.1461|34.8394|Ramat HaSharon|Tel Aviv|47245|
+32.7044|35.1707|Ramat Yishay|Northern|7785|
+31.9292|34.8656|Ramla|Central|76246|
+32.7491|35.0990|Rekhasim|Haifa|12668|
+31.8942|34.8120|Reẖovot|Central|149392|
+31.9710|34.7894|Rishon LeẔiyyon|Central|258535|Rishon LeTsiyyon
+32.0956|34.9566|Rosh Ha‘Ayin|Central|72881|
+32.9689|35.5426|Rosh Pinna|Northern|3148|
+32.7780|35.3057|Rumat Heib|Northern|0|
+32.9646|35.4960|Safed|Northern|36094|
+32.8642|35.2971|Sakhnīn|Northern|31702|
+32.8944|35.3693|Sallama|Northern|0|
+32.0497|34.8777|Savyon|Central|4036|
+31.5250|34.5969|Sederot|Southern|27635|Sderot
+32.8058|35.1690|Shefar‘am|Northern District|42137|
+33.0722|35.1445|Shelomi|Northern|0|
+32.6946|35.3925|Shibli|Northern|4800|
+31.9987|34.9456|Shoham|Central|20740|
+32.9427|35.3414|Sājūr|Northern|4270|
+32.6061|35.3341|Sūlam|Northern|2609|
+32.8530|35.1987|Tamra|Northern|25917|
+32.0809|34.7806|Tel Aviv|Tel Aviv|432892|
+32.2499|34.9174|Tel Mond|Central|13144|
+31.2486|34.8601|Tel Sheva‘|Southern District|20204|
+32.7922|35.5312|Tiberias|Northern|44779|
+32.7030|35.2236|Timrat|Northern|1292|
+32.2341|34.9502|Tirah|Central|26552|Eṭ Ṭīra
+32.7602|34.9718|Tirat Karmel|Haifa|27822|
+32.5172|35.1535|Umm el Faḥm|Haifa|56109|
+31.7820|35.2196|West Jerusalem|Jerusalem|400000|
+31.8781|34.7398|Yavné|Central|47585|
+32.7062|35.5044|Yavne’el|Northern|4460|
+32.0332|34.8909|Yehud|Central|25600|
+32.0284|34.8796|Yehud-Monosson|Tel Aviv|29312|
+30.9882|34.9318|Yeroẖam|Southern|10294|
+32.9543|35.2120|Yirkā|Northern District|17171|
+32.6466|35.0920|Yoqne‘am ‘Illit|Northern District|23796|
+32.6892|35.2783|Yāfā|Northern District|18905|
+32.5688|34.9543|Zikhron Ya‘aqov|Haifa|23206|
+33.0171|35.3484|Ḥurfeish|Northern|6410|
+31.7191|35.0971|Ẕur Hadassa|Jerusalem|0|
+32.2982|34.9131|Ẕur Moshe|Central|0|
+32.4956|35.0926|‘Ara-‘Ar‘ara|Haifa|24904|
+31.1605|35.0227|‘Ar‘ara BaNegev|Southern District|17640|
+32.8369|35.4003|‘Eilabun|Northern|5752|
+31.1994|35.3625|‘En Boqeq|Southern|1400|
+32.7921|35.3298|‘Uzeir|Northern|0|

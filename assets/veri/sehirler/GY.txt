@@ -1,14 +1,14 @@
-7.2644|-58.5077|Anna Regina
-6.4080|-58.6219|Bartica
-6.8045|-58.1553|Georgetown
-3.3833|-59.8000|Lethem
-6.0081|-58.3071|Linden
-8.2000|-59.7833|Mabaruma
-6.6841|-57.9218|Mahaica Village
-6.5763|-57.8049|Mahaicony Village
-5.2667|-59.1500|Mahdia
-6.2479|-57.5171|New Amsterdam
-6.8371|-58.4294|Parika
-6.2710|-57.5370|Rosignol
-5.8833|-57.1333|Skeldon
-6.8093|-58.1980|Vreed-en-Hoop
+7.2644|-58.5077|Anna Regina|Pomeroon-Supenaam|12448|
+6.4080|-58.6219|Bartica|Cuyuni-Mazaruni|11486|
+6.8045|-58.1553|Georgetown|Demerara-Mahaica|235017|
+3.3833|-59.8000|Lethem|Upper Takutu-Upper Essequibo|3893|
+6.0081|-58.3071|Linden|Upper Demerara-Berbice|44690|
+8.2000|-59.7833|Mabaruma|Barima-Waini|6366|
+6.6841|-57.9218|Mahaica Village|Demerara-Mahaica|4867|
+6.5763|-57.8049|Mahaicony Village|Mahaica-Berbice|2130|
+5.2667|-59.1500|Mahdia|Potaro-Siparuni|4200|
+6.2479|-57.5171|New Amsterdam|East Berbice-Corentyne|35039|
+6.8371|-58.4294|Parika|Essequibo Islands-West Demerara|4081|
+6.2710|-57.5370|Rosignol|Mahaica-Berbice|5782|
+5.8833|-57.1333|Skeldon|East Berbice-Corentyne|5859|
+6.8093|-58.1980|Vreed-en-Hoop|Essequibo Islands-West Demerara|3073|

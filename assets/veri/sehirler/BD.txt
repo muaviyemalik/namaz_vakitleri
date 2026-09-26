@@ -1,170 +1,192 @@
-24.0402|91.0117|Ashuganj City
-22.2173|90.2096|Ayla Patakata
-23.7298|90.3854|Azimpur
-25.6742|89.0538|Badarganj
-22.3488|89.0747|Bagerhat
-22.0000|92.3333|Bandarban
-24.5186|91.3579|Baniachang
-22.1717|89.7974|Barguna
-22.4204|89.7825|Barisal
-22.7050|90.3701|Barishal
-24.0782|89.6326|Bera
-24.0524|90.9764|Bhairab Bāzār
-23.3919|89.9839|Bhanga
-23.8000|90.4500|Bhatara
-24.0245|88.9923|Bherāmāra
-22.3245|90.1057|Bhola
-22.4890|90.0627|Bhāndāria
-23.0147|89.4394|Bhātpāra Abhaynagar
-22.6835|91.7906|Bibir Hat
-24.8297|89.0260|Bogra
-23.9833|91.1667|Brahmanbaria
-23.9746|91.1123|Brāhmanbāria
-22.4952|90.7239|Burhānuddin
-22.1399|90.2064|Burirchar
-24.2162|90.9500|Bājitpur
-22.1953|92.2195|Bāndarban
-23.2500|90.8333|Chandpur
-24.5999|88.2850|Chapai Nawabganj
-23.3092|90.2270|Char Bhadrāsan
-22.6420|90.4260|Charāmaddi
-22.3384|91.8317|Chattogram
-23.0248|91.5109|Chhāgalnāiya
-25.0385|91.6696|Chhātak
-25.5561|89.6710|Chilmāri
-22.4875|91.9633|Chittagong
-23.6035|88.4873|Chuadanga
-23.2271|90.6543|Chāndpur
-23.4417|91.0099|Comilla
-21.5839|92.0153|Cox's Bazar
-21.4397|92.0096|Cox’s Bāzār
-23.7842|89.9286|Dhaka
-23.7400|90.3850|Dhanmondi
-25.6426|88.1834|Dinajpur
-22.1639|92.0733|Dohazāri
-23.5931|90.1425|Dohār
-23.7110|90.3741|Dukuria
-23.4512|89.5282|Faridpur
-23.6061|89.8406|Farīdpur
-22.9667|91.3167|Feni
-24.4320|90.5585|Gafargaon
-25.3432|89.1398|Gaibandha
-22.9737|90.2238|Gaurnadi
-24.1091|90.0960|Gazipur
-23.1066|89.5780|Gopalganj
-23.2235|90.0604|Gopālganj
-24.3348|90.7490|Habiganj
-23.2519|90.8551|Hājīganj
-22.5052|91.8134|Hāthazāri
-24.1286|89.0657|Ishwardi
-25.0011|89.2605|Jamalpur
-24.9197|89.9481|Jamālpur
-23.0847|88.8748|Jessore
-22.5630|89.8719|Jhalokati
-23.4952|88.7069|Jhenaidah
-23.1113|89.0906|Jhingergācha
-25.0657|88.7683|Joypurhat
-25.1015|89.0273|Joypur Hāt
-23.7882|90.3736|Kafrul
-22.6906|92.2347|Karnaphuli
-22.9073|89.2195|Kesabpur
-23.1667|91.9000|Khagrachhari
-22.3535|88.8341|Khulna
-24.3389|90.5850|Kishoreganj
-24.4394|90.7829|Kishorganj
-25.8083|89.0092|Kurigram
-23.9460|88.7018|Kushtia
-23.0430|89.6309|Kālia
-23.4096|89.1380|Kālīganj
-22.9167|90.8333|Lakshmipur
-22.9443|90.8300|Lakshmīpur
-26.1244|88.9106|Lalmonirhat
-23.2402|91.1214|Lākshām
-22.3377|90.7371|Lālmohan
-23.2346|89.8109|Madaripur
-23.4656|89.1155|Magura
-22.8667|91.1000|Maijdi
-22.8396|91.8413|Manikchari
-23.8317|89.6410|Manikganj
-22.2862|89.9588|Mathba
-24.4889|91.7708|Maulavi Bāzār
-22.8226|90.5286|Mehendiganj
-23.7897|88.3932|Meherpur
-23.8093|90.3609|Mirpur Model Thana
-24.1029|90.0984|Mirzāpur
-24.8984|88.5284|Mohammadpur
-22.4557|89.8558|Morrelgonj
-23.7277|90.4192|Motijheel
-24.4862|91.2874|Moulvibazar
-24.7648|90.2570|Muktāgācha
-23.5262|90.1159|Munshiganj
-24.7231|89.7841|Mymensingh
-23.8577|90.0096|Mānikganj
-23.7121|90.4598|Mātuail
-23.8879|90.9679|Nabīnagar
-24.1561|90.7728|Nagar Naluākot
-25.9682|89.6915|Nageswari
-24.8743|88.4375|Naogaon
-23.1318|89.2626|Narail
-23.7488|90.2564|Narayanganj
-24.0097|90.4448|Narsingdi
-22.0513|90.0320|Natona
-24.3802|88.7630|Natore
-24.5903|88.2744|Nawābganj
-24.8835|90.7290|Netrakona
-24.8720|90.5229|Netrokona
-26.0226|88.6341|Nilphamari
-22.7500|91.1667|Noakhali
-24.0578|89.8770|Nāgarpur
-22.6370|90.2720|Nālchiti
-24.0813|89.0372|Pabna
-23.8250|90.3700|Pallabi
-23.7362|90.4143|Paltan
-26.3209|88.5471|Panchagarh
-25.6647|89.5026|Paotana Hat
-25.6637|88.9309|Parbatipur
-22.2954|91.9790|Patiya
-22.1871|89.7165|Patuakhali
-22.7167|89.5119|Phultala
-22.5094|89.3643|Pirojpur
-24.3654|88.8343|Puthia
-24.0064|89.2372|Pābna
-23.2182|90.3508|Pālang
-24.8042|88.9488|Pār Naogaon
-25.8559|88.3594|Pīrgaaj
-23.7384|89.2555|Rajbari
-24.4207|88.2960|Rajshahi
-23.7333|90.4000|Ramna Maidan
-22.6333|92.2000|Rangamati
-25.6239|88.9009|Rangpur
-22.5351|91.9192|Raojān
-23.0391|90.7681|Rāipur
-23.1006|90.8499|Rāmganj
-25.7777|88.8917|Saidpur
-24.3199|90.1694|Sakhipur
-22.5141|91.4549|Sandwīp
-22.3101|89.7911|Sarankhola
-24.7513|89.8313|Sarishābāri
-22.2990|88.4754|Satkhira
-23.8486|90.2500|Savar
-23.2312|90.0829|Shariatpur
-25.0926|89.7635|Sherpur
-25.0015|89.3227|Shibganj
-24.0530|91.1719|Shāhbāzpur Town
-24.1769|89.5988|Shāhzādpur
-24.3988|88.8764|Sirajganj
-23.6500|90.6167|Sonārgaon
-24.3065|91.7296|Srimangal
-24.8891|91.0025|Sunamganj
-25.0689|91.4024|Sunāmganj
-24.8919|91.7355|Sylhet
-22.0764|92.0495|Sātkania
-22.7082|89.0718|Sātkhira
-22.1400|89.9414|Taluker Char Doani
-24.3763|89.3580|Tangail
-20.8583|92.2977|Teknāf
-25.9365|88.0337|Thakurgaon
-26.0310|88.4699|Thākurgaon
-23.8915|90.4023|Tungi
-22.8998|89.9033|Tungipara
-22.2265|90.7127|Uttar Char Fasson
+24.0402|91.0117|Ashuganj City|Chittagong|210356|
+22.2173|90.2096|Ayla Patakata|Barisal Division|19782|
+23.7298|90.3854|Azimpur|Dhaka Division|96641|
+25.6742|89.0538|Badarganj|Rangpur Division|32600|
+22.3488|89.0747|Bagerhat|Bagerhat|0|
+22.6566|89.7912|Bagerhat|Khulna Division|266388|
+22.0000|92.3333|Bandarban|Bandarban|0|
+24.5186|91.3579|Baniachang|Sylhet Division|37807|
+22.1717|89.7974|Barguna|Barguna|0|
+22.4204|89.7825|Barisal|Barishal|0|
+22.7050|90.3701|Barishal|Barisal Division|202242|
+24.0782|89.6326|Bera|Rajshahi Division|39604|
+24.0524|90.9764|Bhairab Bāzār|Dhaka Division|105457|
+23.3919|89.9839|Bhanga|Dhaka Division|43202|
+23.8000|90.4500|Bhatara|Dhaka Division|324300|
+24.0245|88.9923|Bherāmāra|Khulna Division|38159|
+22.6876|90.6440|Bhola|Barisal Division|99079|
+22.3245|90.1057|Bhola|Bhola|0|
+22.4890|90.0627|Bhāndāria|Barisal Division|30219|
+23.0147|89.4394|Bhātpāra Abhaynagar|Khulna Division|42653|
+22.6835|91.7906|Bibir Hat|Chittagong|89030|
+24.8297|89.0260|Bogra|Bogura|0|
+24.8510|89.3711|Bogra|Rajshahi Division|210000|
+23.9833|91.1667|Brahmanbaria|Brahmanbaria|0|
+23.9746|91.1123|Brāhmanbāria|Chittagong|264326|
+22.4952|90.7239|Burhānuddin|Barisal Division|45670|
+22.1399|90.2064|Burirchar|Barisal Division|29542|
+24.2162|90.9500|Bājitpur|Dhaka Division|34560|
+22.1953|92.2195|Bāndarban|Chittagong|54450|
+23.2500|90.8333|Chandpur|Chandpur|0|
+24.5999|88.2850|Chapai Nawabganj|Chapai Nawabganj|0|
+23.3092|90.2270|Char Bhadrāsan|Dhaka Division|34423|
+22.6420|90.4260|Charāmaddi|Barisal Division|18122|
+22.3384|91.8317|Chattogram|Chittagong|3920222|
+23.0248|91.5109|Chhāgalnāiya|Chittagong|39335|
+25.0385|91.6696|Chhātak|Sylhet Division|39218|
+25.5561|89.6710|Chilmāri|Rangpur Division|49736|
+22.4875|91.9633|Chittagong|Chattogram|0|
+23.6035|88.4873|Chuadanga|Chuadanga|0|
+23.2271|90.6543|Chāndpur|Chittagong|203000|
+23.4417|91.0099|Comilla|Cumilla|634654|
+21.5839|92.0153|Cox's Bazar|Cox's Bazar|0|
+21.4397|92.0096|Cox’s Bāzār|Chittagong|253788|
+23.7842|89.9286|Dhaka|Dhaka|0|
+23.7104|90.4074|Dhaka|Dhaka Division|10356500|
+23.7400|90.3850|Dhanmondi|Dhaka Division|54210|
+25.6426|88.1834|Dinajpur|Dinajpur|0|
+25.6274|88.6378|Dinajpur|Rangpur Division|206234|
+22.1639|92.0733|Dohazāri|Chittagong|40147|
+23.5931|90.1425|Dohār|Dhaka Division|45543|
+23.7110|90.3741|Dukuria|Dhaka Division|37894|
+23.4512|89.5282|Faridpur|Faridpur|0|
+23.6061|89.8406|Farīdpur|Dhaka Division|112187|
+22.9667|91.3167|Feni|Feni|84028|
+24.4320|90.5585|Gafargaon|Mymensingh Division|34177|
+25.3432|89.1398|Gaibandha|Gaibandha|0|
+22.9737|90.2238|Gaurnadi|Barisal Division|40519|
+23.9984|90.4223|Gazipur|Dhaka Division|2674697|
+24.1091|90.0960|Gazipur|Gazipur|0|
+23.1066|89.5780|Gopalganj|Gopalganj|0|
+23.2235|90.0604|Gopālganj|Dhaka Division|51346|
+24.3348|90.7490|Habiganj|Habiganj|0|
+24.3804|91.4130|Habiganj|Sylhet Division|88760|
+23.2519|90.8551|Hājīganj|Chittagong|44343|
+22.5052|91.8134|Hāthazāri|Chittagong|498179|
+24.1286|89.0657|Ishwardi|Rajshahi Division|81995|
+25.0011|89.2605|Jamalpur|Jamalpur|0|
+24.9197|89.9481|Jamālpur|Mymensingh Division|167900|
+23.0847|88.8748|Jessore|Jashore|0|
+23.1697|89.2137|Jessore|Khulna Division|243987|
+22.5630|89.8719|Jhalokati|Jhalakathi|0|
+23.4952|88.7069|Jhenaidah|Jhenaidah|0|
+23.1113|89.0906|Jhingergācha|Khulna Division|41957|
+25.0657|88.7683|Joypurhat|Joypurhat|0|
+25.1015|89.0273|Joypur Hāt|Rajshahi Division|73068|
+23.7882|90.3736|Kafrul|Dhaka Division|339734|
+22.6906|92.2347|Karnaphuli|Chittagong|203697|
+22.9073|89.2195|Kesabpur|Khulna Division|30926|
+23.1667|91.9000|Khagrachhari|Khagrachhari|50364|
+22.3535|88.8341|Khulna|Khulna|0|
+22.8098|89.5644|Khulna|Khulna Division|1500689|
+24.3389|90.5850|Kishoreganj|Kishoreganj|0|
+24.4394|90.7829|Kishorganj|Dhaka Division|90690|
+25.8083|89.0092|Kurigram|Kurigram|0|
+23.9028|89.1194|Kushtia|Khulna Division|135724|
+23.9460|88.7018|Kushtia|Kushtia|0|
+23.0430|89.6309|Kālia|Khulna Division|40492|
+23.4096|89.1380|Kālīganj|Khulna Division|45631|
+22.9167|90.8333|Lakshmipur|Lakshmipur|0|
+22.9443|90.8300|Lakshmīpur|Chittagong|61703|
+26.1244|88.9106|Lalmonirhat|Lalmonirhat|0|
+25.9172|89.4459|Lalmonirhat|Rangpur Division|65127|
+23.2402|91.1214|Lākshām|Chittagong|82290|
+22.3377|90.7371|Lālmohan|Barisal Division|42220|
+23.1710|90.2094|Madaripur|Dhaka Division|84789|
+23.2346|89.8109|Madaripur|Madaripur|0|
+23.4656|89.1155|Magura|Magura|0|
+22.8667|91.1000|Maijdi|Chittagong|132185|
+22.8396|91.8413|Manikchari|Chittagong|24813|
+23.8317|89.6410|Manikganj|Manikganj|0|
+22.2862|89.9588|Mathba|Barisal Division|29760|
+24.4889|91.7708|Maulavi Bāzār|Sylhet Division|57441|
+22.8226|90.5286|Mehendiganj|Barisal Division|39424|
+23.7897|88.3932|Meherpur|Meherpur|0|
+23.8093|90.3609|Mirpur Model Thana|Dhaka Division|546503|
+24.1029|90.0984|Mirzāpur|Dhaka Division|41137|
+24.8984|88.5284|Mohammadpur|Rajshahi Division|527571|
+22.4557|89.8558|Morrelgonj|Khulna Division|31647|
+23.7277|90.4192|Motijheel|Dhaka Division|202308|
+24.4862|91.2874|Moulvibazar|Moulvibazar|0|
+24.7648|90.2570|Muktāgācha|Mymensingh Division|24684|
+23.5262|90.1159|Munshiganj|Munshiganj|0|
+24.7231|89.7841|Mymensingh|Mymensingh|0|
+24.7564|90.4065|Mymensingh|Mymensingh Division|225126|
+23.8577|90.0096|Mānikganj|Dhaka Division|71698|
+23.7121|90.4598|Mātuail|Dhaka Division|34310|
+23.8879|90.9679|Nabīnagar|Chittagong|31671|
+24.1561|90.7728|Nagar Naluākot|Dhaka Division|273000|
+25.9682|89.6915|Nageswari|Rangpur Division|49425|
+24.8743|88.4375|Naogaon|Naogaon|0|
+23.1318|89.2626|Narail|Narail|55112|
+23.6135|90.5030|Narayanganj|Dhaka Division|223622|
+23.7488|90.2564|Narayanganj|Narayanganj|223622|
+23.9230|90.7177|Narsingdi|Dhaka Division|281080|
+24.0097|90.4448|Narsingdi|Narsingdi|281080|
+22.0513|90.0320|Natona|Barisal Division|19705|
+24.3802|88.7630|Natore|Natore|369138|
+24.5903|88.2744|Nawābganj|Rajshahi Division|142361|
+24.8835|90.7290|Netrakona|Mymensingh Division|79016|
+24.8720|90.5229|Netrokona|Netrakona|0|
+26.0226|88.6341|Nilphamari|Nilphamari|0|
+22.7500|91.1667|Noakhali|Noakhali|0|
+24.0578|89.8770|Nāgarpur|Dhaka Division|238422|
+22.6370|90.2720|Nālchiti|Barisal Division|38703|
+24.0813|89.0372|Pabna|Pabna|0|
+23.8250|90.3700|Pallabi|Dhaka Division|597574|
+23.7362|90.4143|Paltan|Dhaka Division|184492|
+26.3209|88.5471|Panchagarh|Panchagarh|48531|
+25.6647|89.5026|Paotana Hat|Rangpur Division|45911|
+25.6637|88.9309|Parbatipur|Rangpur Division|48020|
+22.2954|91.9790|Patiya|Chittagong|51360|
+22.3683|90.3458|Patuakhali|Barisal Division|65000|
+22.1871|89.7165|Patuakhali|Patuakhali|0|
+22.7167|89.5119|Phultala|Khulna Division|37985|
+22.5797|89.9752|Pirojpur|Barisal Division|54418|
+22.5094|89.3643|Pirojpur|Pirojpur|0|
+24.3654|88.8343|Puthia|Rajshahi Division|159406|
+24.0064|89.2372|Pābna|Rajshahi Division|186781|
+23.2182|90.3508|Pālang|Dhaka Division|67652|
+24.8042|88.9488|Pār Naogaon|Rajshahi Division|192464|
+25.8559|88.3594|Pīrgaaj|Rangpur Division|34606|
+23.7384|89.2555|Rajbari|Rajbari|0|
+24.4207|88.2960|Rajshahi|Rajshahi|0|
+24.3740|88.6011|Rajshahi|Rajshahi Division|763580|
+23.7333|90.4000|Ramna Maidan|Dhaka Division|143677|
+22.6333|92.2000|Rangamati|Rangamati|106069|
+25.6239|88.9009|Rangpur|Rangpur|0|
+25.7466|89.2517|Rangpur|Rangpur Division|1031388|
+22.5351|91.9192|Raojān|Chittagong|25708|
+23.0391|90.7681|Rāipur|Chittagong|64652|
+23.1006|90.8499|Rāmganj|Chittagong|55241|
+25.7777|88.8917|Saidpur|Rangpur Division|199422|
+24.3199|90.1694|Sakhipur|Dhaka Division|40869|
+22.5141|91.4549|Sandwīp|Chittagong|52152|
+22.3101|89.7911|Sarankhola|Khulna Division|36470|
+24.7513|89.8313|Sarishābāri|Mymensingh Division|81325|
+22.2990|88.4754|Satkhira|Satkhira|0|
+23.8486|90.2500|Savar|Dhaka Division|286008|
+23.2312|90.0829|Shariatpur|Shariatpur|0|
+25.0188|90.0175|Sherpur|Mymensingh Division|107419|
+25.0926|89.7635|Sherpur|Sherpur|107419|
+25.0015|89.3227|Shibganj|Rajshahi Division|378701|
+24.0530|91.1719|Shāhbāzpur Town|Chittagong|29757|
+24.1769|89.5988|Shāhzādpur|Rajshahi Division|102420|
+24.4577|89.7080|Sirajganj|Rajshahi Division|127481|
+24.3988|88.8764|Sirajganj|Sirajganj|0|
+23.6500|90.6167|Sonārgaon|Dhaka Division|130000|
+24.3065|91.7296|Srimangal|Sylhet Division|23332|
+24.8891|91.0025|Sunamganj|Sunamganj|0|
+25.0689|91.4024|Sunāmganj|Sylhet Division|74570|
+24.8919|91.7355|Sylhet|Sylhet|237000|
+22.0764|92.0495|Sātkania|Chittagong|52005|
+22.7082|89.0718|Sātkhira|Khulna Division|128918|
+22.1400|89.9414|Taluker Char Doani|Khulna Division|24563|
+24.2498|89.9166|Tangail|Dhaka Division|180144|
+24.3763|89.3580|Tangail|Tangail|0|
+20.8583|92.2977|Teknāf|Chittagong|40557|
+25.9365|88.0337|Thakurgaon|Thakurgaon|0|
+26.0310|88.4699|Thākurgaon|Rangpur Division|71096|
+23.8915|90.4023|Tungi|Dhaka Division|337579|
+22.8998|89.9033|Tungipara|Dhaka Division|114482|
+22.2265|90.7127|Uttar Char Fasson|Khulna Division|48305|

@@ -1,22 +1,22 @@
-4.6744|-8.2331|Barclayville
-6.4472|-10.6128|Bensonville
-7.0667|-10.4875|Bopolu
-5.8769|-10.0496|Buchanan
-5.4568|-9.5817|Cestos City
-5.1974|-7.8758|Fish Town
-8.3603|-10.2064|Foya Kamara
-7.3022|-8.5308|Ganta
-6.9954|-9.4712|Gbarnga
-5.0113|-9.0388|Greenville
-6.2468|-10.3564|Harbel
-4.3782|-7.7108|Harper
-6.5310|-10.3537|Kakata
-6.3005|-10.7969|Monrovia
-7.5794|-8.5378|New Yekepa
-4.5895|-7.6722|Pleebo City
-6.7533|-11.3671|Robertsport
-6.9625|-8.8406|Saclepea
-7.3621|-8.7133|Sanniquellie
-6.8706|-10.8211|Tubmanburg
-8.4219|-9.7478|Voinjama
-6.0685|-8.1356|Zwedru
+4.6744|-8.2331|Barclayville|Grand Kru|4692|
+6.4472|-10.6128|Bensonville|Montserrado|785|
+7.0667|-10.4875|Bopolu|Gbarpolu|4396|
+5.8769|-10.0496|Buchanan|Grand Bassa|75854|
+5.4568|-9.5817|Cestos City|River Cess|0|
+5.1974|-7.8758|Fish Town|River Gee|5383|
+8.3603|-10.2064|Foya Kamara|Lofa County|31052|
+7.3022|-8.5308|Ganta|Nimba|63523|
+6.9954|-9.4712|Gbarnga|Bong|86031|
+5.0113|-9.0388|Greenville|Sinoe|20184|
+6.2468|-10.3564|Harbel|Margibi County|38208|
+4.3782|-7.7108|Harper|Maryland|35503|
+6.5310|-10.3537|Kakata|Margibi|52247|
+6.3005|-10.7969|Monrovia|Montserrado|1542549|
+7.5794|-8.5378|New Yekepa|Nimba|24695|
+4.5895|-7.6722|Pleebo City|Maryland County|35423|
+6.7533|-11.3671|Robertsport|Grand Cape Mount|5306|
+6.9625|-8.8406|Saclepea|Nimba|20818|
+7.3621|-8.7133|Sanniquellie|Nimba|17895|
+6.8706|-10.8211|Tubmanburg|Bomi|22005|
+8.4219|-9.7478|Voinjama|Lofa|23051|
+6.0685|-8.1356|Zwedru|Grand Gedeh|38269|

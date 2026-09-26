@@ -1,232 +1,234 @@
-44.8633|19.3393|Balatun
-44.7784|17.1939|Banja Luka
-44.4060|18.5265|Banovići
-44.5406|18.4807|Barice
-44.8169|15.8708|Bihać
-43.6087|17.9508|Bijela
-44.7658|19.1508|Bijeljina
-43.7826|16.9268|Bila
-42.8764|18.4297|Bileća
-43.2589|17.8881|Blagaj
-44.4868|17.8228|Blatnica
-44.8825|16.1514|Bosanska Krupa
-44.5554|16.3690|Bosanski Petrovac
-44.1794|16.3639|Bosansko Grahovo
-44.8700|18.8101|Brčko
-44.0186|18.2606|Breza
-44.8284|18.7242|Brka
-45.1375|17.9872|Brod
-44.7924|16.9404|Bronzani Majdan
-44.0572|17.4508|Bugojno
-44.0977|17.8783|Busovača
-45.0536|16.0325|Bužim
-43.5571|19.0719|Čajniče
-43.1214|17.6844|Čapljina
-44.9669|15.9431|Cazin
-44.6796|17.7578|Čečava
-44.7252|18.8147|Čelić
-44.7245|17.3243|Čelinac
-43.3540|17.7804|Cim
-43.2286|17.7008|Čitluk
-45.0069|15.8719|Ćoralići
-43.1316|17.8645|Crnići
-44.9784|17.9078|Derventa
-44.3668|17.3268|Divičani
-44.7594|18.0650|Doboj
-44.0501|18.1196|Dobrinje
-45.1511|16.4787|Dobrljin
-45.0611|18.5861|Domaljevac
-45.0756|18.4102|Donja Dubica
-45.0433|18.6700|Donja Mahala
-44.8023|18.4048|Donja Međiđa
-44.1436|17.4000|Donji Vakuf
-43.5289|17.2812|Drežnica
-43.3545|17.3254|Drinovci
-44.3739|16.3808|Drvar
-44.4806|18.6971|Dubrave Donje
-44.4723|18.7268|Dubrave Gornje
-44.4413|18.1188|Dubravica
-44.8075|19.2600|Dvorovi
-43.5065|18.7785|Foča
-43.9595|17.9029|Fojnica
-43.1672|18.5353|Gacko
-44.0458|16.8486|Glamoč
-44.6206|18.4468|Gnojnica
-43.6679|18.9756|Goražde
-43.4183|17.2850|Gorica
-44.0376|18.2456|Gornja Breza
-45.0109|15.9549|Gornja Koprivna
-44.5566|18.7616|Gornja Tuzla
-44.0191|18.1548|Gornje Moštre
-44.4292|18.6167|Gornje Živinice
-43.9381|17.5883|Gornji Vakuf
-44.4112|18.1703|Gostovići
-43.7333|18.2833|Gračanica
-44.8785|18.4276|Gradačac
-45.1448|17.2545|Gradiška
-43.9667|18.0550|Gromiljak
-43.3721|17.4145|Grude
-43.8222|18.2067|Hadžići
-43.4572|17.8125|Hercegovačko-Neretvanski Kanton
-44.7611|17.1794|Hiseti
-43.8934|18.3775|Hotonj
-43.3477|17.7685|Ilići
-43.8315|18.3070|Ilidža
-43.9513|18.2713|Ilijaš
-43.4206|18.0083|Istočni Mostar
-44.8749|15.7826|Izačić
-43.6603|17.7617|Jablanica
-44.3420|17.2706|Jajce
-44.6655|19.2469|Janja
-44.6540|17.9590|Jelah
-44.9817|16.0945|Jezerski
-44.0643|17.9389|Kačuni
-44.1331|18.1229|Kakanj
-44.9467|17.8378|Kalenderovci Donji
-43.8433|18.2422|Kanton Sarajevo
-44.5707|18.0177|Karadaglije
-44.4890|18.5698|Kiseljak
-44.2267|18.6927|Kladanj
-44.5325|16.7768|Ključ
-44.4907|17.3816|Kneževo
-45.1055|16.6767|Knežica
-43.8819|18.3886|Kobilja Glava
-43.3901|17.4855|Kočerin
-43.6513|17.9608|Konjic
-43.8104|18.5700|Koran
-45.2196|16.5393|Kostajnica
-44.6183|17.3720|Kotor Varoš
-44.4487|18.2052|Kovači
-45.1767|16.8094|Kozarska Dubica
-44.6187|17.1435|Krupa na Vrbasu
-44.9086|17.3013|Laktaši
-44.9202|16.8993|Lamovita
-44.4950|18.0764|Liješnica
-43.8269|17.0075|Livno
-42.9512|18.0870|Ljubinje
-43.1969|17.5450|Ljubuški
-44.2047|17.8566|Lokvine
-44.6350|18.8434|Lopare
-44.5425|18.5262|Lukavac
-44.7645|18.1689|Lukavica
-44.5477|18.1000|Maglaj
-44.9498|17.3501|Maglajani
-44.0119|18.2553|Mahala
-45.1344|15.8522|Mala Kladuša
-44.7382|18.2734|Malešići
-44.8680|16.8551|Marićka
-44.5659|17.5322|Maslovare
-44.7632|17.1901|Mejdan - Obilićevo
-44.1702|19.0920|Milići
-44.8665|18.4660|Mionica
-44.9544|18.3036|Modriča
-43.3433|17.8081|Mostar
-44.5923|18.5646|Mramor
-44.4173|17.0829|Mrkonjić Grad
-42.9233|17.6156|Neum
-43.2586|18.1133|Nevesinje
-45.0464|16.3778|Novi Grad
-44.5103|18.0262|Novi Šeher
-44.1713|17.6582|Novi Travnik
-44.9522|18.5987|Obudovac
-45.0246|18.3211|Odžak
-44.1277|18.5806|Olovo
-44.6983|17.9576|Omanjska
-44.8917|16.8981|Omarska
-44.7328|16.8286|Opština Oštra Luka
-43.7217|19.3136|Opština Višegrad
-44.6534|18.3695|Orahovica Donja
-44.6304|16.0744|Orašac
-45.0337|18.6933|Orašje
-43.7741|16.8633|Orguz
-44.9972|18.5846|Oštra Luka
-44.9087|15.9405|Ostrožac
-44.9600|16.1792|Otoka
-43.9758|17.5275|Pajić Polje
-43.8166|18.5695|Pale
-43.7888|18.1605|Pazarić
-44.6314|16.7825|Peći
-45.0544|15.8969|Pećigrad
-44.9010|18.5919|Pelagićevo
-44.4685|19.0747|Petkovci
-44.8672|16.9746|Piskavica
-44.9857|15.8230|Pjanići
-44.4419|17.0149|Podbrdo
-43.7229|16.9989|Podhum
-45.1742|15.8736|Podzvizd
-43.8801|18.0745|Polje
-43.6330|17.9722|Polje-Bijela
-44.7655|19.2867|Popovi
-43.4095|17.8786|Potoci
-44.6101|17.6898|Pribinić
-44.6023|18.9317|Priboj
-44.9799|16.7140|Prijedor
-43.8222|17.6092|Prozor
-44.5456|18.4786|Puračić
-43.2230|17.5406|Radišići
-43.3145|17.8029|Rodoč
-43.7989|19.0036|Rogatica
-43.6178|19.3672|Rudo
-43.8315|17.5027|Rumboci
-45.0599|18.4676|Šamac
-44.6135|16.6406|Sanica
-44.7667|16.6670|Sanski Most
-44.5038|18.9982|Sapna
-43.8486|18.3564|Sarajevo
-44.2990|18.8553|Šekovići
-44.4667|18.5637|Šerići
-44.2824|17.0860|Šipovo
-43.3829|17.5942|Široki Brijeg
-45.0314|15.9144|Skokovi
-44.7290|18.4258|Sladna
-43.9382|18.8008|Sokolac
-44.5623|18.6932|Solina
-45.0973|17.5233|Srbac
-44.1075|19.2967|Srebrenica
-44.7082|18.4883|Srebrenik
-44.7448|17.8271|Stanari
-44.7571|17.2118|Starcevica
-44.9363|16.0222|Stijena
-44.7163|18.2578|Stjepan-Polje
-43.0840|17.9599|Stolac
-45.0639|15.7781|Šturlić
-45.0974|15.8582|Šumatac
-45.0377|16.5402|Svodna
-43.1133|17.7200|Tasovčići
-44.6119|17.9855|Tešanj
-44.6723|18.0111|Tešanjka
-44.6064|17.8597|Teslić
-45.0883|15.9308|Todorovo
-44.5013|18.7852|Tojšići
-43.7185|17.2251|Tomislavgrad
-44.2264|17.6658|Travnik
-42.7120|18.3436|Trebinje
-44.8583|17.2358|Trn
-44.9760|15.7849|Tržačka Raštela
-44.2435|17.5750|Turbe
-44.5384|18.6671|Tuzla
-44.6636|19.0203|Ugljevik
-43.5834|18.7911|Ustikolina
-44.1644|18.3283|Vareš
-45.0894|16.0191|Varoška Rijeka
-44.5562|16.7335|Velagići
-45.1850|15.8058|Velika Kladuša
-44.8046|19.1618|Velika Obarska
-43.7714|17.0283|Vidoši
-43.7826|19.2926|Višegrad
-43.9889|18.1781|Visoko
-44.1542|17.7901|Vitez
-43.2375|17.4839|Vitina
-44.1818|18.9410|Vlasenica
-43.9023|18.3444|Vogošća
-43.8787|17.6586|Voljevac
-45.1637|15.9544|Vrnograč
-44.4621|18.7494|Vukovije Donje
-43.7922|16.9422|Zabrišće
-44.4458|18.1497|Zavidovići
-45.1459|16.0173|Zborište
-44.3987|17.9410|Željezno Polje
-44.2017|17.9040|Zenica
-44.4267|18.0378|Žepče
-44.4493|18.6498|Živinice
-44.3860|19.1025|Zvornik
+44.8633|19.3393|Balatun|Republika Srpska|1400|
+44.7784|17.1939|Banja Luka|Republika Srpska|221106|
+44.4060|18.5265|Banovići|Federation of Bosnia and Herzegovina|7211|
+44.5406|18.4807|Barice|Federation of Bosnia and Herzegovina|3697|
+44.8169|15.8708|Bihać|Federation of Bosnia and Herzegovina|75641|
+43.6087|17.9508|Bijela|Federation of Bosnia and Herzegovina|3484|
+44.7658|19.1508|Bijeljina|Republika Srpska|37692|
+43.7826|16.9268|Bila|Federation of Bosnia and Herzegovina|4397|
+42.8764|18.4297|Bileća|Republika Srpska|13257|
+43.2589|17.8881|Blagaj|Federation of Bosnia and Herzegovina|4715|
+44.4868|17.8228|Blatnica|Republika Srpska|5676|
+44.8825|16.1514|Bosanska Krupa|Federation of Bosnia and Herzegovina|15193|
+44.5554|16.3690|Bosanski Petrovac|Federation of Bosnia and Herzegovina|4|
+44.1794|16.3639|Bosansko Grahovo|Federation of Bosnia and Herzegovina|5643|
+44.8700|18.8101|Brčko|Brčko|38968|
+44.0186|18.2606|Breza|Federation of Bosnia and Herzegovina|0|
+44.8284|18.7242|Brka|Brčko|2800|
+45.1375|17.9872|Brod|Republika Srpska|9249|
+44.7924|16.9404|Bronzani Majdan|Republika Srpska|3945|
+44.0572|17.4508|Bugojno|Federation of Bosnia and Herzegovina|41378|
+44.0977|17.8783|Busovača|Federation of Bosnia and Herzegovina|4776|
+45.0536|16.0325|Bužim|Federation of Bosnia and Herzegovina|7229|
+43.5571|19.0719|Čajniče|Republika Srpska|3909|
+43.1214|17.6844|Čapljina|Federation of Bosnia and Herzegovina|7923|
+44.9669|15.9431|Cazin|Federation of Bosnia and Herzegovina|21741|
+44.6796|17.7578|Čečava|Republika Srpska|3847|
+44.7252|18.8147|Čelić|Federation of Bosnia and Herzegovina|4|
+44.7245|17.3243|Čelinac|Republika Srpska|6670|
+43.3540|17.7804|Cim|Federation of Bosnia and Herzegovina|3966|
+43.2286|17.7008|Čitluk|Federation of Bosnia and Herzegovina|5718|
+45.0069|15.8719|Ćoralići|Federation of Bosnia and Herzegovina|5223|
+43.1316|17.8645|Crnići|Federation of Bosnia and Herzegovina|5789|
+44.9784|17.9078|Derventa|Republika Srpska|9773|
+44.3668|17.3268|Divičani|Federation of Bosnia and Herzegovina|7251|
+44.7594|18.0650|Doboj|Republika Srpska|27235|
+44.0501|18.1196|Dobrinje|Federation of Bosnia and Herzegovina|3987|
+45.1511|16.4787|Dobrljin|Republika Srpska|3582|
+45.0611|18.5861|Domaljevac|Federation of Bosnia and Herzegovina|4|
+45.0756|18.4102|Donja Dubica|Federation of Bosnia and Herzegovina|3489|
+45.0433|18.6700|Donja Mahala|Federation of Bosnia and Herzegovina|5565|
+44.8023|18.4048|Donja Međiđa|Federation of Bosnia and Herzegovina|3782|
+44.1436|17.4000|Donji Vakuf|Federation of Bosnia and Herzegovina|7955|
+43.5289|17.2812|Drežnica|Federation of Bosnia and Herzegovina|3908|
+43.3545|17.3254|Drinovci|Federation of Bosnia and Herzegovina|3791|
+44.3739|16.3808|Drvar|Federation of Bosnia and Herzegovina|3730|
+44.4806|18.6971|Dubrave Donje|Federation of Bosnia and Herzegovina|3811|
+44.4723|18.7268|Dubrave Gornje|Federation of Bosnia and Herzegovina|4821|
+44.4413|18.1188|Dubravica|Federation of Bosnia and Herzegovina|3868|
+44.8075|19.2600|Dvorovi|Republika Srpska|1710|
+43.5065|18.7785|Foča|Republika Srpska|14615|
+43.9595|17.9029|Fojnica|Federation of Bosnia and Herzegovina|8244|
+43.1672|18.5353|Gacko|Republika Srpska|3417|
+44.0458|16.8486|Glamoč|Federation of Bosnia and Herzegovina|4016|
+44.6206|18.4468|Gnojnica|Federation of Bosnia and Herzegovina|3985|
+43.6679|18.9756|Goražde|Federation of Bosnia and Herzegovina|17650|
+43.4183|17.2850|Gorica|Federation of Bosnia and Herzegovina|1179|
+44.0376|18.2456|Gornja Breza|Federation of Bosnia and Herzegovina|3732|
+45.0109|15.9549|Gornja Koprivna|Federation of Bosnia and Herzegovina|4600|
+44.5566|18.7616|Gornja Tuzla|Federation of Bosnia and Herzegovina|3017|
+44.0191|18.1548|Gornje Moštre|Federation of Bosnia and Herzegovina|4009|
+44.4292|18.6167|Gornje Živinice|Federation of Bosnia and Herzegovina|4661|
+43.9381|17.5883|Gornji Vakuf|Federation of Bosnia and Herzegovina|7014|
+44.4112|18.1703|Gostovići|Federation of Bosnia and Herzegovina|5802|
+44.7031|18.3101|Gračanica|Federation of B&H|15758|
+43.7333|18.2833|Gračanica|Federation of Bosnia and Herzegovina|3871|
+44.8785|18.4276|Gradačac|Federation of Bosnia and Herzegovina|15659|
+45.1448|17.2545|Gradiška|Republika Srpska|13346|
+43.9667|18.0550|Gromiljak|Federation of Bosnia and Herzegovina|6457|
+43.3721|17.4145|Grude|Federation of Bosnia and Herzegovina|4627|
+43.8222|18.2067|Hadžići|Federation of Bosnia and Herzegovina|7173|
+43.4572|17.8125|Hercegovačko-Neretvanski Kanton|Federation of Bosnia and Herzegovina|0|
+44.7611|17.1794|Hiseti|Republika Srpska|5000|
+43.8934|18.3775|Hotonj|Federation of Bosnia and Herzegovina|4013|
+43.3477|17.7685|Ilići|Federation of Bosnia and Herzegovina|3688|
+43.8315|18.3070|Ilidža|Federation of B&H|71277|
+43.9513|18.2713|Ilijaš|Federation of Bosnia and Herzegovina|5855|
+43.4206|18.0083|Istočni Mostar|Republika Srpska|0|
+44.8749|15.7826|Izačić|Federation of Bosnia and Herzegovina|4089|
+43.6603|17.7617|Jablanica|Federation of Bosnia and Herzegovina|6209|
+44.3420|17.2706|Jajce|Federation of Bosnia and Herzegovina|9763|
+44.6655|19.2469|Janja|Republika Srpska|5544|
+44.6540|17.9590|Jelah|Federation of Bosnia and Herzegovina|5291|
+44.9817|16.0945|Jezerski|Federation of Bosnia and Herzegovina|4361|
+44.0643|17.9389|Kačuni|Federation of Bosnia and Herzegovina|5042|
+44.1331|18.1229|Kakanj|Federation of Bosnia and Herzegovina|12406|
+44.9467|17.8378|Kalenderovci Donji|Republika Srpska|0|
+43.8433|18.2422|Kanton Sarajevo|Federation of Bosnia and Herzegovina|0|
+44.5707|18.0177|Karadaglije|Federation of Bosnia and Herzegovina|3700|
+44.4890|18.5698|Kiseljak|Federation of Bosnia and Herzegovina|3447|
+44.2267|18.6927|Kladanj|Federation of Bosnia and Herzegovina|6783|
+44.5325|16.7768|Ključ|Federation of Bosnia and Herzegovina|7245|
+44.4907|17.3816|Kneževo|Republika Srpska|6866|
+45.1055|16.6767|Knežica|Republika Srpska|4792|
+43.8819|18.3886|Kobilja Glava|Federation of Bosnia and Herzegovina|3666|
+43.3901|17.4855|Kočerin|Federation of Bosnia and Herzegovina|3516|
+43.6513|17.9608|Konjic|Federation of Bosnia and Herzegovina|15950|
+43.8104|18.5700|Koran|Republika Srpska|3395|
+45.2196|16.5393|Kostajnica|Republika Srpska|4739|
+44.6183|17.3720|Kotor Varoš|Republika Srpska|5068|
+44.4487|18.2052|Kovači|Federation of Bosnia and Herzegovina|6410|
+45.1767|16.8094|Kozarska Dubica|Republika Srpska|9959|
+44.6187|17.1435|Krupa na Vrbasu|Republika Srpska|1257|
+44.9086|17.3013|Laktaši|Republika Srpska|6464|
+44.9202|16.8993|Lamovita|Republika Srpska|4582|
+44.4950|18.0764|Liješnica|Federation of Bosnia and Herzegovina|3559|
+43.8269|17.0075|Livno|Federation of Bosnia and Herzegovina|11748|
+42.9512|18.0870|Ljubinje|Republika Srpska|4235|
+43.1969|17.5450|Ljubuški|Federation of Bosnia and Herzegovina|9987|
+44.2047|17.8566|Lokvine|Federation of Bosnia and Herzegovina|3928|
+44.6350|18.8434|Lopare|Republika Srpska|3614|
+44.5425|18.5262|Lukavac|Federation of Bosnia and Herzegovina|44520|
+44.7645|18.1689|Lukavica|Federation of Bosnia and Herzegovina|4084|
+44.5477|18.1000|Maglaj|Federation of Bosnia and Herzegovina|7399|
+44.9498|17.3501|Maglajani|Republika Srpska|4221|
+44.0119|18.2553|Mahala|Federation of Bosnia and Herzegovina|5062|
+45.1344|15.8522|Mala Kladuša|Federation of Bosnia and Herzegovina|6033|
+44.7382|18.2734|Malešići|Federation of Bosnia and Herzegovina|3764|
+44.8680|16.8551|Marićka|Republika Srpska|3707|
+44.5659|17.5322|Maslovare|Republika Srpska|4899|
+44.7632|17.1901|Mejdan - Obilićevo|Republika Srpska|5400|
+44.1702|19.0920|Milići|Republika Srpska|8210|
+44.8665|18.4660|Mionica|Federation of Bosnia and Herzegovina|8701|
+44.9544|18.3036|Modriča|Republika Srpska|8996|
+43.3433|17.8081|Mostar|Federation of Bosnia and Herzegovina|104518|
+44.5923|18.5646|Mramor|Federation of Bosnia and Herzegovina|3918|
+44.4173|17.0829|Mrkonjić Grad|Republika Srpska|14737|
+42.9233|17.6156|Neum|Federation of Bosnia and Herzegovina|4200|
+43.2586|18.1133|Nevesinje|Republika Srpska|7313|
+45.0464|16.3778|Novi Grad|Republika Srpska|8920|
+44.5103|18.0262|Novi Šeher|Federation of Bosnia and Herzegovina|4416|
+44.1713|17.6582|Novi Travnik|Federation of Bosnia and Herzegovina|10006|
+44.9522|18.5987|Obudovac|Republika Srpska|2171|
+45.0246|18.3211|Odžak|Federation of Bosnia and Herzegovina|11621|
+44.1277|18.5806|Olovo|Federation of Bosnia and Herzegovina|3305|
+44.6983|17.9576|Omanjska|Federation of Bosnia and Herzegovina|4|
+44.8917|16.8981|Omarska|Republika Srpska|6466|
+44.7328|16.8286|Opština Oštra Luka|Republika Srpska|0|
+43.7217|19.3136|Opština Višegrad|Republika Srpska|0|
+44.6534|18.3695|Orahovica Donja|Federation of Bosnia and Herzegovina|5612|
+44.6304|16.0744|Orašac|Federation of Bosnia and Herzegovina|3856|
+45.0337|18.6933|Orašje|Federation of Bosnia and Herzegovina|3613|
+43.7741|16.8633|Orguz|Federation of Bosnia and Herzegovina|4371|
+44.9972|18.5846|Oštra Luka|Republika Srpska|3923|
+44.9087|15.9405|Ostrožac|Federation of Bosnia and Herzegovina|5456|
+44.9600|16.1792|Otoka|Federation of Bosnia and Herzegovina|6595|
+43.9758|17.5275|Pajić Polje|Federation of Bosnia and Herzegovina|4026|
+43.8166|18.5695|Pale|Republika Srpska|7458|
+43.7888|18.1605|Pazarić|Federation of Bosnia and Herzegovina|4787|
+44.6314|16.7825|Peći|Federation of Bosnia and Herzegovina|3650|
+45.0544|15.8969|Pećigrad|Federation of Bosnia and Herzegovina|6514|
+44.9010|18.5919|Pelagićevo|Republika Srpska|4|
+44.4685|19.0747|Petkovci|Republika Srpska|2212|
+44.8672|16.9746|Piskavica|Republika Srpska|3797|
+44.9857|15.8230|Pjanići|Federation of Bosnia and Herzegovina|3537|
+44.4419|17.0149|Podbrdo|Republika Srpska|4028|
+43.7229|16.9989|Podhum|Federation of Bosnia and Herzegovina|5801|
+45.1742|15.8736|Podzvizd|Federation of Bosnia and Herzegovina|6665|
+43.8801|18.0745|Polje|Federation of Bosnia and Herzegovina|3799|
+43.6330|17.9722|Polje-Bijela|Federation of Bosnia and Herzegovina|1078|
+44.7655|19.2867|Popovi|Republika Srpska|1145|
+43.4095|17.8786|Potoci|Federation of Bosnia and Herzegovina|8312|
+44.6101|17.6898|Pribinić|Republika Srpska|3558|
+44.6023|18.9317|Priboj|Republika Srpska|4351|
+44.9799|16.7140|Prijedor|Republika Srpska|36347|
+43.8222|17.6092|Prozor|Federation of Bosnia and Herzegovina|10349|
+44.5456|18.4786|Puračić|Federation of Bosnia and Herzegovina|3461|
+43.2230|17.5406|Radišići|Federation of Bosnia and Herzegovina|4072|
+43.3145|17.8029|Rodoč|Federation of Bosnia and Herzegovina|5159|
+43.7989|19.0036|Rogatica|Republika Srpska|4947|
+43.6178|19.3672|Rudo|Republika Srpska|1760|
+43.8315|17.5027|Rumboci|Federation of Bosnia and Herzegovina|3854|
+45.0599|18.4676|Šamac|Republika Srpska|3599|
+44.6135|16.6406|Sanica|Federation of Bosnia and Herzegovina|5666|
+44.7667|16.6670|Sanski Most|Federation of Bosnia and Herzegovina|13551|
+44.5038|18.9982|Sapna|Federation of Bosnia and Herzegovina|0|
+43.8486|18.3564|Sarajevo|Federation of Bosnia and Herzegovina|696731|
+44.2990|18.8553|Šekovići|Republika Srpska|6315|
+44.4667|18.5637|Šerići|Federation of Bosnia and Herzegovina|3663|
+44.2824|17.0860|Šipovo|Republika Srpska|10738|
+43.3829|17.5942|Široki Brijeg|Federation of Bosnia and Herzegovina|9370|
+45.0314|15.9144|Skokovi|Federation of Bosnia and Herzegovina|3553|
+44.7290|18.4258|Sladna|Federation of Bosnia and Herzegovina|4304|
+43.9382|18.8008|Sokolac|Republika Srpska|8842|
+44.5623|18.6932|Solina|Federation of Bosnia and Herzegovina|4780|
+45.0973|17.5233|Srbac|Republika Srpska|7380|
+44.1075|19.2967|Srebrenica|Republika Srpska|2862|
+44.7082|18.4883|Srebrenik|Federation of Bosnia and Herzegovina|6723|
+44.7448|17.8271|Stanari|Republika Srpska|3590|
+44.7571|17.2118|Starcevica|Republika Srpska|2300|
+44.9363|16.0222|Stijena|Federation of Bosnia and Herzegovina|10844|
+44.7163|18.2578|Stjepan-Polje|Federation of Bosnia and Herzegovina|4341|
+43.0840|17.9599|Stolac|Federation of Bosnia and Herzegovina|7733|
+45.0639|15.7781|Šturlić|Federation of Bosnia and Herzegovina|5014|
+45.0974|15.8582|Šumatac|Federation of Bosnia and Herzegovina|4987|
+45.0377|16.5402|Svodna|Republika Srpska|4388|
+43.1133|17.7200|Tasovčići|Federation of Bosnia and Herzegovina|2007|
+44.6119|17.9855|Tešanj|Federation of Bosnia and Herzegovina|7550|
+44.6723|18.0111|Tešanjka|Federation of Bosnia and Herzegovina|5666|
+44.6064|17.8597|Teslić|Republika Srpska|6405|
+45.0883|15.9308|Todorovo|Federation of Bosnia and Herzegovina|9560|
+44.5013|18.7852|Tojšići|Federation of Bosnia and Herzegovina|6587|
+43.7185|17.2251|Tomislavgrad|Federation of Bosnia and Herzegovina|7737|
+44.2264|17.6658|Travnik|Federation of Bosnia and Herzegovina|31127|
+42.7120|18.3436|Trebinje|Republika Srpska|33178|
+44.8583|17.2358|Trn|Republika Srpska|7553|
+44.9760|15.7849|Tržačka Raštela|Federation of Bosnia and Herzegovina|6617|
+44.2435|17.5750|Turbe|Federation of Bosnia and Herzegovina|4767|
+44.5384|18.6671|Tuzla|Federation of Bosnia and Herzegovina|142486|
+44.6636|19.0203|Ugljevik|Republika Srpska|3452|
+43.5834|18.7911|Ustikolina|Federation of Bosnia and Herzegovina|4446|
+44.1644|18.3283|Vareš|Federation of Bosnia and Herzegovina|7193|
+45.0894|16.0191|Varoška Rijeka|Federation of Bosnia and Herzegovina|6573|
+44.5562|16.7335|Velagići|Federation of Bosnia and Herzegovina|4972|
+45.1850|15.8058|Velika Kladuša|Federation of Bosnia and Herzegovina|19330|
+44.8046|19.1618|Velika Obarska|Republika Srpska|3549|
+43.7714|17.0283|Vidoši|Federation of Bosnia and Herzegovina|3905|
+43.7826|19.2926|Višegrad|Republika Srpska|6087|
+43.9889|18.1781|Visoko|Federation of Bosnia and Herzegovina|17890|
+44.1542|17.7901|Vitez|Federation of Bosnia and Herzegovina|8140|
+43.2375|17.4839|Vitina|Federation of Bosnia and Herzegovina|4384|
+44.1818|18.9410|Vlasenica|Republika Srpska|4508|
+43.9023|18.3444|Vogošća|Federation of Bosnia and Herzegovina|8180|
+43.8787|17.6586|Voljevac|Federation of Bosnia and Herzegovina|3764|
+45.1637|15.9544|Vrnograč|Federation of Bosnia and Herzegovina|6860|
+44.4621|18.7494|Vukovije Donje|Federation of Bosnia and Herzegovina|3535|
+43.7922|16.9422|Zabrišće|Federation of Bosnia and Herzegovina|4261|
+44.4458|18.1497|Zavidovići|Federation of Bosnia and Herzegovina|14380|
+45.1459|16.0173|Zborište|Federation of Bosnia and Herzegovina|4922|
+44.3987|17.9410|Željezno Polje|Federation of Bosnia and Herzegovina|5783|
+44.2017|17.9040|Zenica|Federation of Bosnia and Herzegovina|164423|
+44.4267|18.0378|Žepče|Federation of Bosnia and Herzegovina|8502|
+44.4493|18.6498|Živinice|Federation of Bosnia and Herzegovina|13641|
+44.5476|17.3736|Živinice|Republika Srpska|3718|
+44.3860|19.1025|Zvornik|Republika Srpska|8026|

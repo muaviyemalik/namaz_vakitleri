@@ -1,70 +1,70 @@
-2.1381|45.1212|Afgooye
-8.9500|46.4167|Aynaba
-2.3446|42.2764|Baardheere
-3.1138|43.6498|Baidoa
-9.8921|43.3853|Baki
-5.7690|45.7630|Balanbale
-9.4942|50.8122|Bandarbeyla
-11.2864|51.0773|Bargaal
-3.9284|41.8800|Beled Hawo
-4.7358|45.2036|Beledweyne
-10.4396|45.0143|Berbera
-11.8704|51.0579|Bereeda
-9.9361|43.1828|Borama
-11.2842|49.1816|Bosaso
-1.0833|42.5833|Bu’aale
-9.5221|45.5336|Burao
-3.8537|45.5674|Buulobarde
--1.2192|41.8372|Buur Gaabo
-2.8026|44.0780|Buurhakaba
-6.2458|46.2247|Cabudwaaq
-2.7603|46.3222|Cadale
-11.9661|50.7569|Caluula
-8.9991|45.3582|Ceek
-4.6850|46.6176|Ceelbuur
-3.8488|47.1806|Ceeldheer
-10.6162|47.3680|Ceerigaabo
-6.4317|46.4619|Dhabad
-3.1530|41.3357|Dhamas
-5.5360|46.3867|Dhuusamarreeb
-2.4085|42.9771|Diinsoor
-1.2531|42.5738|Dujuuma
-11.7667|51.2167|El Dibir
-7.9803|49.8164|Eyl
-6.7697|47.4308|Gaalkacyo
-9.7000|43.6236|Gabiley
-3.3289|42.2209|Garbahaarrey
-8.4021|48.4828|Garoowe
-9.7003|43.6244|Gebiley
-9.5631|44.0675|Hargeisa
-9.5600|44.0650|Hargeysa
-5.3505|48.5268|Hobyo
-9.1542|47.4769|Hudun
-10.2837|50.2300|Iskushuban
-3.3766|45.5996|Jalalaqsi
-0.0697|42.7450|Jamaame
-2.7809|45.5005|Jawhar
-0.4883|42.7854|Jilib
--1.6377|41.5866|Kaambooni
--0.3582|42.5454|Kismayo
-8.4774|47.3597|Laascaanood
-8.4760|47.3570|Las Anod
-11.1595|48.1967|Las Khorey
-3.8032|42.5442|Luuq
-2.9726|45.5347|Mahaddayweyne
-1.7159|44.7717|Marka
-2.0371|45.3438|Mogadishu
-9.4092|45.0640|Oodweyne
-11.4720|49.8728|Qandala
-1.7878|44.5300|Qoryooley
-9.9729|43.4276|Ruqi
-1.6279|42.4407|Saacow
-6.7729|46.7969|Saaxo
-11.3539|43.4731|Saylac
-4.0190|44.5111|Tayeeglow
-9.5997|43.3350|Tog Wajaale
-3.8096|43.2463|Waajid
-2.6185|44.8938|Wanlaweyn
-4.6544|47.8575|Xarardheere
-4.1213|43.8894|Xuddur
-4.5500|43.0333|Yeed
+2.1381|45.1212|Afgooye|Lower Shebelle|65461|
+8.9500|46.4167|Aynaba|Sool|0|
+2.3446|42.2764|Baardheere|Gedo|42240|
+3.1138|43.6498|Baidoa|Bay|129839|
+9.8921|43.3853|Baki|Awdal|20000|
+5.7690|45.7630|Balanbale|Galguduud|68000|
+9.4942|50.8122|Bandarbeyla|Bari|13753|
+11.2864|51.0773|Bargaal|Bari|6798|
+3.9284|41.8800|Beled Hawo|Gedo|73000|
+4.7358|45.2036|Beledweyne|Hiran|55410|
+10.4396|45.0143|Berbera|Woqooyi Galbeed|242344|
+11.8704|51.0579|Bereeda|Bari|11262|
+9.9361|43.1828|Borama|Awdal|597842|
+11.2842|49.1816|Bosaso|Bari|74287|
+1.0833|42.5833|Bu’aale|Middle Juba|17475|
+9.5221|45.5336|Burao|Togdheer|99270|
+3.8537|45.5674|Buulobarde|Hiran|16928|
+-1.2192|41.8372|Buur Gaabo|Lower Juba|3096|
+2.8026|44.0780|Buurhakaba|Bay|27792|
+6.2458|46.2247|Cabudwaaq|Galguduud|120000|
+2.7603|46.3222|Cadale|Middle Shebelle|5385|
+11.9661|50.7569|Caluula|Bari|6100|
+8.9991|45.3582|Ceek|Togdheer|4325|
+4.6850|46.6176|Ceelbuur|Galguduud|9031|
+3.8488|47.1806|Ceeldheer|Galguduud|26562|
+10.6162|47.3680|Ceerigaabo|Sanaag|33853|
+6.4317|46.4619|Dhabad|Galguduud|36000|
+3.1530|41.3357|Dhamas|Gedo|27000|
+5.5360|46.3867|Dhuusamarreeb|Galguduud|9000|
+2.4085|42.9771|Diinsoor|Bay|20000|
+1.2531|42.5738|Dujuuma|Middle Juba|2432|
+11.7667|51.2167|El Dibir|Bari|200000|
+7.9803|49.8164|Eyl|Nugal|18904|
+6.7697|47.4308|Gaalkacyo|Mudug|61200|
+9.7000|43.6236|Gabiley|Woqooyi Galbeed|0|
+3.3289|42.2209|Garbahaarrey|Gedo|12652|
+8.4021|48.4828|Garoowe|Nugal|57300|
+9.7003|43.6244|Gebiley|Woqooyi Galbeed|77320|
+9.5631|44.0675|Hargeisa|Woqooyi Galbeed|0|
+9.5600|44.0650|Hargeysa|Woqooyi Galbeed|477876|
+5.3505|48.5268|Hobyo|Mudug|12564|
+9.1542|47.4769|Hudun|Sool|0|
+10.2837|50.2300|Iskushuban|Bari|5759|
+3.3766|45.5996|Jalalaqsi|Hiran|9743|
+0.0697|42.7450|Jamaame|Lower Juba|42270|
+2.7809|45.5005|Jawhar|Middle Shebelle|47086|
+0.4883|42.7854|Jilib|Middle Juba|43694|
+-1.6377|41.5866|Kaambooni|Lower Juba|79000|
+-0.3582|42.5454|Kismayo|Lower Juba|234852|
+8.4774|47.3597|Laascaanood|Sool|60100|
+8.4760|47.3570|Las Anod|Sool|0|
+11.1595|48.1967|Las Khorey|Sanaag|6941|
+3.8032|42.5442|Luuq|Gedo|33820|
+2.9726|45.5347|Mahaddayweyne|Middle Shebelle|8273|
+1.7159|44.7717|Marka|Lower Shebelle|230100|
+2.0371|45.3438|Mogadishu|Banaadir|2587183|
+9.4092|45.0640|Oodweyne|Togdheer|5491|
+11.4720|49.8728|Qandala|Bari|19300|
+1.7878|44.5300|Qoryooley|Lower Shebelle|51720|
+9.9729|43.4276|Ruqi|Awdal|148702|
+1.6279|42.4407|Saacow|Middle Juba|7893|
+6.7729|46.7969|Saaxo|Mudug|26000|
+11.3539|43.4731|Saylac|Awdal|18600|
+4.0190|44.5111|Tayeeglow|Bakool|2119|
+9.5997|43.3350|Tog Wajaale|Woqooyi Galbeed|22700|
+3.8096|43.2463|Waajid|Bakool|6666|
+2.6185|44.8938|Wanlaweyn|Lower Shebelle|22022|
+4.6544|47.8575|Xarardheere|Mudug|2018|
+4.1213|43.8894|Xuddur|Bakool|12500|
+4.5500|43.0333|Yeed|Bakool|8429|

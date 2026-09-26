@@ -1,1038 +1,1105 @@
-39.7936|19.8174|Acharávi
-38.0833|23.7333|Acharnés
-36.7251|24.4469|Adámas
-40.6713|22.6047|Ádendro
-37.7467|23.4275|Aegina
-36.2935|28.1623|Afántou
-38.2033|23.8398|Afidnés
-38.4521|23.6878|Afrátion
-40.0992|23.4367|Áfytos
-38.1164|23.9818|Aghios Panteleímon
-39.7179|22.7461|Agia
-35.2546|24.6349|Agía Foteiní
-35.0971|24.6882|Agía Galíni
-39.5226|20.8836|Agía Kyriakí
-35.5178|23.9267|Agía Marína
-38.0167|23.8333|Agía Paraskeví
-38.3550|22.9088|Agía Triáda
-37.9894|23.6601|Agía Varvára
-38.0301|23.7238|Ágioi Anárgyroi
-35.0667|24.9667|Ágioi Déka
-37.9274|23.1422|Ágioi Theódoroi
-41.1014|23.6799|Ágio Pnévma
-37.3452|22.7647|Ágios Andréas
-40.7160|22.7284|Ágios Athanásios
-37.9333|23.7333|Agios Dimitrios
-37.8061|23.8579|Agios Dimítrios Kropiás
-39.5391|24.9845|Agios Efstratios
-38.3934|22.9319|Ágios Geórgios
-39.7236|19.6997|Agios Georgis
-37.9649|23.6651|Agios Ioannis Rentis
-40.7180|22.2954|Ágios Loukás
-39.4951|19.8734|Ágios Matthaíos
-40.2493|23.6962|Ágios Nikólaos
-40.6407|22.9604|Ágios Pávlos
-40.8672|22.5830|Ágios Pétros
-40.2078|22.4431|Ágios Spyrídon
-38.1466|23.8561|Ágios Stéfanos
-40.6642|23.1137|Ágios Vasíleios
-40.1604|24.2883|Agiou Pavlou
-40.5553|22.4708|Agkathiá
-39.4859|21.8479|Agnanteró
-39.3408|23.0126|Agriá
-38.6214|21.4078|Agrínio
-40.1638|21.8194|Aianí
-37.9213|23.4588|Aiánteio
-38.8792|23.0469|Aidipsós
-37.9833|23.6833|Aigáleo
-40.5014|22.5400|Aigínio
-38.2486|22.0819|Aígio
-38.4370|21.3536|Aitolikó
-38.1485|22.3543|Aíyira
-38.4566|23.2209|Akraifnía
-38.1547|22.3183|Akráta
-40.4349|21.9061|Akriní
-40.6802|22.2645|Akrolímni
-38.3044|21.7944|Aktaío
-39.6159|19.8956|Alepoú
-40.6267|22.4442|Alexándreia
-40.8499|25.8764|Alexandroupoli
-40.8492|25.8547|Alexandroupolis
-37.6402|21.5375|Alfeioúsa
-38.3667|23.1000|Alíartos
-37.9103|23.7236|Álimos
-41.0644|23.9575|Alistráti
-38.4167|24.0333|Alivéri
-39.3704|22.9835|Álli Meriá
-39.1826|22.7502|Almyros
-39.1498|23.8426|Alonnisos
-37.7984|21.3507|Amaliáda
-38.3930|23.8849|Amárynthos
-37.7581|20.8725|Ambelókipoi
-38.6391|22.5917|Amfíkleia
-38.8594|21.1664|Amfilochía
-38.5281|22.3771|Ámfissa
-40.7820|21.4846|Ammochóri
-36.8317|25.8982|Amorgós
-37.9505|23.5280|Ampelákia
-40.8342|22.3877|Ampeleíes
-40.6530|22.9262|Ampelókipoi
-40.9635|24.3601|Amygdaleónas
-40.6897|21.6797|Amýntaio
-36.3500|25.7667|Anáfi
-39.3811|22.9748|Anakasiá
-40.4923|21.5728|Anaráchi
-39.6353|20.8658|Anatolí
-40.6615|22.7119|Anatolikó
-39.1900|22.0931|Anávra
-37.7341|23.9439|Anávyssos
-37.9059|21.2694|Andravída
-37.8333|24.9333|Andros
-39.0866|20.9230|Anéza
-40.6786|22.1993|Angelochóri
-38.5658|21.2963|Angelókastro
-35.2333|25.1667|Ano Arhanes
-35.2908|24.8841|Anógeia
-38.1327|23.8587|Anoixi
-39.2500|21.1853|Áno Kalentíni
-38.2723|21.8360|Áno Kastrítsi
-40.2266|21.8283|Áno Kómi
-39.3276|23.0540|Áno Lekhónia
-38.0833|23.7000|Áno Liósia
-37.4490|25.3910|Áno Merá
-37.4500|24.9356|Áno Sýros
-38.8500|22.4791|Anthíli
-39.3472|21.4583|Anthiró
-38.0254|23.8762|Anthoúsa
-38.3833|22.6333|Antikyra
-36.8089|27.0976|Antimácheia
-37.0394|25.0826|Antíparos
-38.3301|21.7641|Antirrio
-40.8924|22.0571|Ápsalos
-38.4796|22.5835|Aráchova
-41.0814|25.5519|Áratos
-40.8435|22.3018|Aravissós
-37.6479|21.6271|Archaía Olympía
-36.2149|28.1149|Archángelos
-38.7005|21.0390|Archontochóri
-37.1562|22.0449|Arfará
-39.2263|23.2187|Argalastí
-39.3593|21.5271|Argithea
-37.6333|22.7333|Árgos
-40.4535|21.2589|Argos Orestiko
-38.1811|20.4890|Argostólion
-37.9059|23.7504|Argyroúpoli
-37.5737|22.8354|Aria
-40.9731|22.0564|Aridaía
-37.0992|22.0044|Áris
-41.0700|25.5904|Arísvi
-35.1463|25.2654|Arkalochóri
-37.9095|22.8835|Arkhaía Kórinthos
-37.8468|21.1102|Arkoúdi
-38.3512|23.4860|Árma
-40.4865|23.5954|Arnaía
-40.7955|21.8358|Árnissa
-41.0821|25.6904|Arriana
-40.7141|22.1592|Arsénio
-39.1601|20.9856|Árta
-37.9673|23.9968|Artémida
-39.4019|21.8965|Artesianó
-35.0432|25.0928|Asímion
-37.5443|22.8644|Asíni
-40.7510|23.3872|Askós
-38.2988|23.5019|Asopía
-36.7299|22.8545|Asopós
-39.8233|20.7286|Asprángeloi
-38.0613|23.5897|Asprópyrgos
-40.7305|23.7118|Asproválta
-40.8214|23.0301|Ássiros
-37.9395|22.8222|Ássos
-38.5356|21.0814|Astakós
-37.4040|22.7212|Ástros
-36.5500|26.3500|Astypálaia
-40.6412|23.0253|Asvestochóri
-38.6511|22.9992|Atalánti
-37.9838|23.7278|Athenai|Athens
-37.8167|22.9294|Athíkia
-40.8261|22.5928|Áthyra
-35.3525|24.4338|Atsipópoulo
-40.9628|24.8044|Ávato
-38.2515|23.6955|Avlónas
-40.9858|22.5417|Axioúpoli
-40.8022|22.3616|Axós
-37.6371|22.8050|Ayía Triás
-38.2917|23.9101|Áyioi Apóstoloi
-37.5998|22.8456|Áyios Adhrianós
-38.7561|22.8576|Áyios Konstandínos
-38.4205|23.6477|Áyios Nikólaos
-38.2772|23.5891|Áyios Thomás
-37.7976|22.7973|Áyios Vasílios
-38.0114|23.6660|Chaïdári
-38.4955|22.8442|Chairóneia
-38.1084|21.7835|Chalandrítsa
-40.6264|22.7329|Chalástra
-36.2224|27.6119|Chálki
-39.1598|20.9329|Chalkiádes
-38.4635|23.6028|Chalkída
-40.7318|22.5999|Chalkidóna
-35.5112|24.0292|Chaniá
-41.2603|23.3728|Charopó
-37.8484|21.3840|Chávari
-38.3745|26.0894|Chios
-40.5392|21.2592|Chlói
-38.0000|23.8000|Cholargós
-37.0511|21.7169|Chóra
-35.2018|24.1371|Chóra Sfakíon
-41.1306|24.2084|Choristí
-40.6095|23.1001|Chortiátis
-41.0581|23.6511|Chrysó
-41.1810|23.2355|Chrysochórafa
-40.9333|24.7109|Chrysochóri
-40.9856|24.6939|Chrysoúpolis
-39.6207|19.9198|Corfu
-35.4995|23.9749|Darátsos
-38.4794|22.4936|Delphi
-39.9242|21.8103|Deskáti
-37.9500|23.7344|Dhafní
-38.6135|21.3807|Dhokímion
-38.0237|23.9079|Dhráfi
-38.4841|23.5477|Dhrosiá
-40.6874|22.8580|Diavatá
-40.5461|22.2669|Diavatós
-37.4625|23.1718|Dídyma
-41.3499|26.4868|Didymoteicho
-38.3376|23.6708|Dílesi
-37.5952|22.0403|Dimitsána
-40.1717|22.4846|Díon
-38.0233|23.9329|Dióni
-40.1683|24.2719|Dionysiou
-38.1046|23.8794|Diónysos
-38.4289|22.6673|Dístomo
-40.2679|24.1641|Docheiariou
-39.1272|22.3003|Domokós
-38.2530|22.9821|Domvraína
-41.0926|24.2198|Doxato
-41.2699|23.5443|Drama
-37.9499|23.6231|Drapetsóna
-40.9239|23.8712|Dravískos
-37.5389|22.8932|Drépanon
-38.1198|23.8643|Drosiá
-40.7810|22.9589|Drymós
-41.2756|24.9724|Echínos
-40.8026|22.0475|Édessa
-40.6880|22.9535|Efkarpía
-40.6781|22.1928|Eirinoúpoli
-38.1103|23.8350|Ekáli
-39.6874|20.8224|Eksochí
-40.8203|24.2437|Elaiochóri
-39.8901|22.1792|Elassona
-38.6277|22.7649|Eláteia
-38.0414|23.5430|Elefsína
-40.8467|24.2543|Eleftherés
-40.6639|22.8969|Elefthério - Kordelió
-40.9139|24.2514|Eleftheroúpolis
-39.1528|20.9621|Eleoúsa
-37.8901|23.7441|Ellinikó
-35.2650|25.7213|Eloúnda
-36.2268|27.8564|Émponas
-36.3582|25.4461|Emporeío
-40.4887|21.5577|Empório
-40.4261|22.9278|Epanomí
-40.6875|22.1364|Episkopí
-37.6268|21.4953|Epitálio
-40.3425|21.5133|Erátyra
-38.4010|23.8022|Erétria
-37.3849|23.2469|Ermióni
-37.4447|24.9429|Ermoúpolis
-38.2174|23.3223|Erythrés
-40.3526|24.1355|Esphigmenou
-40.9833|24.8000|Évlalo
-40.6706|22.9083|Évosmos
-40.8970|22.5528|Evropós
-41.0658|24.7199|Evros
-39.1841|22.7383|Evxinoúpolis
-37.8974|22.9283|Examília
-40.9764|22.1296|Exaplátanos
-36.3398|28.1994|Faliraki
-39.5926|22.0575|Farkadona
-38.3996|23.6227|Fáros
-39.2966|22.3603|Farsala
-40.8931|26.1723|Féres
-39.5160|21.6556|Fíki
-39.6011|20.3119|Filiátes
-37.1564|21.5853|Filiatrá
-39.2047|20.8822|Filippiáda
-40.6915|23.0046|Fíliro
-38.4418|23.6831|Fílla
-41.1167|25.6333|Fillýra
-40.6252|21.7085|Filótas
-38.0252|23.7826|Filothéi
-37.0517|25.4983|Filótion
-36.4211|25.4309|Fira
-40.7820|21.4098|Flórina
-36.6279|24.9202|Folégandros
-41.0601|24.0472|Fotolívos
-37.5798|26.3176|Fournoi Korseon
-35.4162|26.9233|Fry
-41.0827|24.1897|Fteliá
-38.1024|23.6690|Fylí
-38.6952|21.1847|Fyteíes
-39.1972|20.1856|Gáïos
-37.7913|20.8741|Gaïtánion
-40.7559|22.2806|Galatádes
-37.4962|23.4489|Galatás
-40.3197|21.5515|Galatiní
-40.4682|23.2801|Galátista
-38.0167|23.7500|Galátsi
-38.3807|22.3800|Galaxídhion
-37.0652|21.6381|Gargaliánoi
-37.8500|21.2500|Gastoúni
-38.5290|21.5323|Gavaloú
-35.3253|25.0669|Gázi
-41.0256|23.7757|Gázoros
-40.7325|22.6936|Géfyra
-41.0617|24.9625|Genisséa
-35.3623|24.2601|Georgioupolis
-40.6267|23.2157|Gerakaroú
-38.0228|23.8576|Gérakas
-36.9923|22.7066|Geráki
-35.5172|23.8782|Geráni
-35.1328|24.9496|Gérgeri
-40.7919|22.4075|Giannitsá
-37.8629|23.7580|Glyfáda
-39.4641|21.6934|Gómfoi
-40.9460|22.4497|Gouménissa
-37.7624|21.6185|Goúmero
-35.3263|25.2774|Goúrnes
-39.4979|20.2761|Graikochóri
-35.0147|25.6913|Gra Liyiá
-38.2025|23.9650|Grammatikó
-39.1844|20.9793|Grammenítsa
-40.0845|21.4274|Grevená
-39.6319|22.0526|Grizáno
-36.7550|22.5642|Gýtheio
-35.3387|25.1442|Heraklion
-40.3400|24.1181|Hilandar
-36.4135|28.1552|Ialysós
-41.1263|25.1743|Iasmos
-35.0119|25.7423|Ierápetra
-40.3975|23.8751|Ierissós
-39.5034|20.2673|Igoumenítsa
-37.5974|25.9417|Ikaria
-40.9493|24.7886|Iliokentima
-38.0333|23.7000|Ílion
-37.9315|23.7678|Ilioúpoli
-39.6649|20.8519|Ioánnina
-36.7333|25.2833|Íos
-41.1822|23.2824|Irákleia
-38.0528|23.7652|Irákleio
-35.3279|25.1434|Irákleion
-37.9136|23.0046|Isthmía
-38.9552|23.1521|Istiaía
-38.4320|22.4244|Itéa
-38.3642|20.7185|Itháki
-40.2461|24.2823|Iviron
-38.7928|22.7247|Kainoúryion
-37.9634|23.7652|Kaisarianí
-41.0994|23.4240|Kalá Déndra
-40.5825|22.9503|Kalamariá
-37.0391|22.1126|Kalamata
-39.1653|20.9321|Kalamiá
-38.2845|23.8631|Kálamos
-39.7044|21.6174|Kalampaka
-41.0500|24.1833|Kalampáki
-38.0322|22.1125|Kalávryta
-40.8193|22.1776|Kalí
-41.1465|23.9067|Kalí Vrýsi
-39.2771|21.9613|Kallifóni
-41.1728|24.2153|Kallífytos
-37.9500|23.7000|Kallithéa
-39.2810|21.9049|Kallíthiro
-40.6419|22.8573|Kalochóri
-41.1054|24.0857|Kalós Agrós
-39.8878|20.6239|Kalpáki
-36.9503|26.9839|Kálymnos
-35.4505|24.1751|Kalýves
-40.2866|23.3903|Kalýves Polygýrou
-40.7551|22.2175|Kalývia
-37.8389|23.9250|Kalývia Thorikoú
-38.2988|21.9989|Kamárai
-40.4750|25.4746|Kamariótissa
-38.0559|23.7051|Kamaterón
-38.7784|22.7857|Kaména Voúrla
-40.8895|22.9168|Kampánis
-39.2336|20.6000|Kanaláki
-39.6056|19.8925|Kanáli
-39.4993|22.8859|Kanália
-38.7056|20.9475|Kandíla
-38.2158|23.8794|Kapandríti
-38.2370|23.2141|Kaparéllion
-40.2234|24.3063|Karakallou
-37.7356|21.5358|Karátoula
-36.7831|27.1429|Kardámaina
-37.7673|21.3395|Kardamás
-39.6782|20.8196|Kardamítsia
-36.8878|22.2332|Kardamýli
-40.4691|22.9938|Kardiá
-39.2909|21.4765|Karditsa
-39.3906|21.9233|Karditsomagoúla
-37.9344|23.8648|Karellás
-40.1874|22.4817|Karítsa
-35.5070|27.2132|Karpathos
-38.9122|21.7984|Karpenísi
-39.3357|22.0113|Karpochóri
-37.2912|22.5007|Karyés
-40.7692|22.3133|Karyótissa
-38.0133|24.4161|Kárystos
-40.0483|23.4136|Kassándreia
-41.6455|26.4768|Kastaniés
-38.5705|23.6313|Kastélla
-35.2090|25.3377|Kastélli
-40.5217|21.2634|Kastoria
-39.7169|21.6186|Kastráki
-34.8346|24.0857|Kastrí
-37.8301|20.7575|Katastárion
-40.2696|22.5061|Kateríni
-38.1500|21.5500|Káto Achaḯa
-35.2027|24.9983|Káto Asítai
-38.4124|21.2526|Katochí
-38.0249|22.7329|Káto Dhiminió
-36.8279|22.7773|Káto Glykóvrysi
-35.3293|25.3135|Káto Goúves
-41.0212|23.4834|Káto Kamíla
-39.3309|23.0396|Káto Lekhónia
-40.7575|22.1796|Káto Lipochóri
-38.0703|21.6510|Káto Mazaráki
-40.2540|22.3434|Káto Miliá
-41.3422|23.8569|Kato Nevrokopi
-40.4291|23.0298|Káto Scholári
-38.1680|24.0163|Káto Soúlion
-38.6075|22.7135|Káto Tithoréa
-38.7855|21.1142|Katoúna
-39.6228|20.8876|Katsikás
-40.9627|24.0027|Kavala
-40.7154|23.0459|Kavallári
-37.8758|21.2642|Kavásila
-41.5622|26.5147|Kavýli
-36.7451|26.9596|Kéfalos
-35.0326|25.7528|Kentrí
-40.8559|24.7060|Keramotí
-39.0056|21.6378|Kerasochóri
-37.8058|23.9774|Keratéa
-37.9625|23.6197|Keratsíni
-38.0237|23.8007|Khalándrion
-38.3326|23.7319|Khalkoútsion
-37.8102|22.8697|Khiliomódhi
-38.0132|22.7484|Kiáto
-38.0744|23.8111|Kifisiá
-39.5050|22.6286|Kileler
-40.9930|22.8743|Kilkís
-41.1479|24.9387|Kimméria
-36.7937|24.5758|Kímolos
-37.9684|23.2135|Kinéta
-38.0029|23.7375|Kipséli
-38.4294|22.4444|Kírra
-35.4946|23.6537|Kíssamos
-40.3740|22.5786|Kítros
-37.8518|23.8407|Kítsi
-40.5663|22.5903|Kleidí
-40.4314|21.8581|Kleítos
-40.3306|21.7910|Koíla
-37.4123|23.1255|Koilás
-41.2128|23.3004|Koímisi
-35.3283|25.2581|Kokkíni Cháni
-40.9269|24.3081|Kokkinóchoma
-37.9706|22.7802|Kokkónion
-40.7566|23.1338|Kolchikón
-40.4789|22.4832|Kolindrós
-35.5412|23.7799|Kolympári
-40.5906|21.7767|Komniná
-41.1181|25.3863|Komotini
-39.1026|21.0839|Kompóti
-40.0486|20.7567|Kónitsa
-40.2887|24.1723|Konstamonitou
-40.2275|22.4610|Kontariótissa
-39.6444|19.8519|Kontokáli
-37.2891|21.8185|Kopanáki
-40.6338|22.1289|Kopanós
-40.3166|22.5882|Korinós
-37.9401|22.9513|Kórinthos
-36.7953|21.9579|Koróni
-37.8989|23.8718|Koropí
-37.9847|23.6471|Korydallós
-40.6029|22.5068|Koryfí
-36.8929|27.2877|Kos
-39.1367|20.9576|Kostakioí
-40.7778|22.5719|Koufália
-40.5465|22.3179|Kouloúra
-40.2532|24.2452|Koutloumousiou
-39.5881|20.9120|Koutselió
-37.6843|22.7136|Koutsopódi
-37.8271|23.9672|Kouvarás
-40.3007|21.7890|Kozáni
-37.3797|23.1597|Kranídi
-36.4098|28.1192|Kremastí
-37.5919|21.6203|Kréstena
-38.9453|21.1791|Kríkellos
-41.0140|24.2965|Krinídes
-40.8418|22.9829|Krithiá
-35.1582|25.6446|Kritsá
-36.8830|22.5468|Krokeés
-40.2635|21.8176|Krókos
-35.2306|24.9829|Krousón
-38.1371|23.8305|Kryonéri
-40.6874|22.3052|Krýa Vrýsi
-37.9354|21.1450|Kyllíni
-39.5678|19.8836|Kynopiástes
-37.2511|21.6736|Kyparissía
-41.5754|26.2291|Kyprínos
-37.7602|23.4545|Kypséli
-37.9130|22.9865|Kyrás Vrýsi
-38.3537|22.7884|Kyriáki
-38.6348|24.1029|Kými
-40.6135|22.6928|Kýmina
-41.0990|24.2891|Kýria
-36.1495|22.9898|Kýthira
-37.4124|24.4307|Kýthnos
-40.7500|23.0667|Lagkadás
-41.4510|26.4607|Lagós
-40.7235|23.0042|Lagyná
-40.8363|21.1406|Laimós
-39.3011|21.5643|Lake Plastiras
-37.1334|26.8524|Lakkí
-40.3914|23.0558|Lákkoma
-37.7094|21.7212|Lálas
-38.9000|22.4333|Lamía
-37.6819|22.0300|Langádhia
-38.0975|21.4186|Lápas
-36.0942|28.0157|Lárdos
-39.6285|22.4211|Lárisa
-39.6284|22.1801|Larissa
-41.2696|26.3852|Lávara
-37.7144|24.0565|Lávrio
-37.9333|21.2667|Lechainá
-40.5844|21.4922|Léchovo
-38.7500|20.6667|Lefkada
-39.4234|20.0709|Lefkímmi
-41.1003|23.4966|Lefkónas
-37.9328|22.8500|Lékhaio
-39.9090|25.0755|Lemnos
-37.9870|23.8552|Leondárion
-37.1668|22.8577|Leonídio
-38.7084|21.2897|Lepenoú
-40.0603|22.5612|Leptokaryá
-39.1711|25.0410|Lesbos
-37.6827|22.2959|Levídion
-38.9166|22.3034|Lianokládhion
-40.6353|22.5082|Lianovérgi
-38.5239|22.1997|Lidoríki
-37.6123|23.0377|Ligourión
-40.6274|24.5765|Limenária
-35.3230|25.3927|Limín Khersonísou
-37.8911|24.0031|Limín Mesoyaías
-38.7667|23.3167|Límni
-38.1412|21.4805|Limnokhórion
-37.7193|20.8301|Lithakiá
-40.7453|22.9798|Lití
-40.1006|22.4978|Litóchoro
-38.4362|22.8767|Livadeiá
-40.0346|21.9428|Livaderó
-38.7110|23.0503|Livanátes
-38.2013|20.4371|Lixoúri
-40.2439|22.3803|Lófos
-38.4795|23.4480|Loukísia
-39.1660|20.7561|Loúros
-38.8569|23.0474|Loutrá Aidhipsoú
-40.9712|21.9466|Loutráki
-37.8647|22.9961|Loutrá Oraías Elénis
-40.5887|22.3998|Loutrós
-38.0693|23.7822|Lykóvrysi
-41.0641|25.6857|Lýkeio
-39.2855|22.2614|Magnesia
-38.0799|23.5211|Magoúla
-38.9415|22.1153|Makrakómi
-37.6096|21.6051|Makrísia
-40.5513|22.2495|Makrochóri
-39.4398|21.9658|Makrychóri
-40.4155|22.6039|Makrýgialos
-38.4000|23.7667|Malakónta
-38.6223|23.2337|Malesína
-35.2837|25.4626|Mália
-40.8568|22.2126|Mándalo
-38.0667|23.5000|Mándra
-36.6114|27.1333|Mandráki
-40.5006|21.2445|Maniákoi
-38.0471|21.3481|Manoláda
-38.7981|23.4797|Mantoúdi
-38.1532|23.9628|Marathónas
-40.6920|22.1010|Marína
-37.8833|23.9333|Markópoulo
-38.2898|23.8248|Markópoulo Oropoú
-38.0484|24.3204|Marmárion
-40.9967|25.4972|Maroneia-Sapes
-38.0500|23.8000|Maroúsi
-38.5682|23.2146|Martínon
-38.5236|21.4733|Mataránga
-40.5122|21.3204|Mavrochóri
-39.4239|21.6938|Mavrommáti
-40.8943|23.7505|Mavrothálassa
-40.7824|22.1563|Mavrovoúni
-39.4969|21.7880|Megála Kalývia
-38.6463|21.3731|Megáli Khóra
-40.4451|23.6800|Megáli Panagía
-37.7105|23.3466|Megalochóri
-37.4582|26.9727|Megálo Chorió
-37.4011|22.1422|Megalópoli
-37.9947|23.3432|Mégara
-36.1489|29.5936|Megísti
-40.1708|24.3801|Megisti Lavra
-37.2167|21.9667|Meligalás
-40.5168|22.3960|Melíki
-40.7741|22.3530|Melíssi
-38.0500|23.8333|Melíssia
-40.7680|22.9286|Melissochóri
-40.8343|21.5843|Melíti
-40.6583|22.8971|Meneméni
-39.0421|21.1187|Menídi
-36.3989|25.4481|Mesariá
-40.4134|23.0075|Mesiméri
-38.3714|21.4315|Mesolóngi
-40.5025|21.1611|Mesopotamía
-37.0511|22.0078|Messíni
-38.0658|23.7636|Metamórfosi
-36.8197|21.7049|Methóni
-39.7694|21.1822|Metsovo
-40.7043|22.5411|Mikró Monastíri
-41.1935|23.8157|Mikrópolis
-36.7454|24.4265|Mílos
-38.1839|21.7013|Mindilóglion
-39.3393|21.8375|Mitrópoli
-41.0704|23.4606|Mitroúsi
-35.0514|24.8733|Moíres
-35.2634|25.4230|Mokhós
-36.8076|22.8513|Moláoi
-38.8100|22.6454|Mólos
-38.8505|20.9446|Monastiráki
-39.3525|21.7500|Morfovoúni
-37.9479|23.6788|Moskháton
-37.9932|22.7253|Moúlki
-35.4823|24.0125|Mourniés
-39.4278|21.6522|Mouzaki
-35.5388|24.1555|Mouzourás
-41.2450|24.9149|Myki
-37.4453|25.3287|Mykonos
-37.9212|21.2370|Myrsíni
-38.4437|23.6536|Mytikas
-39.0995|26.5155|Mytilene
-41.2438|24.9208|Mýki
-38.3917|21.8275|Náfpaktos
-37.5686|22.8069|Náfplio
-40.6294|22.0681|Náousa
-37.1056|25.3764|Náxos
-35.3398|25.1590|Néa Alikarnassós
-35.0092|25.6617|Néa Anatolí
-39.2801|22.8182|Néa Anchiálos
-40.6256|23.4407|Néa Apollonía
-38.5203|23.6330|Néa Artáki
-38.0271|23.7305|Néa Chalkidóna
-40.2292|22.4981|Néa Éfesos
-38.0927|23.8222|Néa Erythraía
-38.0349|23.7381|Néa Filadélfeia
-40.2611|23.2211|Néa Flogitá
-40.1333|23.3975|Néa Fókaia
-38.0357|23.7573|Néa Ionía
-40.8644|24.3165|Néa Iraklítsa
-40.3131|23.0634|Néa Kallikráteia
-40.9615|24.5113|Néa Karváli
-40.9062|24.7073|Néa Karyá
-37.5902|22.7434|Néa Kíos
-38.4373|23.6282|Néa Lámpsakos
-40.1905|22.0132|Nea Lava
-40.6878|22.8458|Néa Magnisía
-38.0873|23.9764|Néa Mákri
-40.6099|22.6820|Néa Málgara
-38.0538|21.3819|Néa Manoláda
-40.7516|22.7690|Néa Mesimvría
-40.4637|22.8617|Néa Michanióna
-40.2439|23.2848|Néa Moudhaniá
-38.3194|23.7965|Néa Palátia
-40.7652|22.4917|Néa Pélla
-38.0606|23.8593|Néa Pentéli
-38.0065|23.4235|Néa Péramos
-40.2654|23.2038|Néa Plágia
-40.6532|22.9416|Neapoli
-38.6714|21.3627|Neápolis
-40.1941|23.3283|Néa Poteídaia
-40.1943|23.3287|Néa Potídhaia
-40.3812|23.9237|Néa Róda
-40.8408|22.9216|Néa Sánta
-39.5246|20.2552|Néa Seléfkeia
-37.9450|23.7142|Néa Smýrni
-38.1793|24.2084|Néa Stíra
-37.6079|22.8200|Néa Tírins
-40.3058|23.2066|Néa Tríglia
-40.7059|23.6985|Néa Vrasná
-41.5845|26.5432|Néa Výssa
-41.0320|23.8287|Néa Zíchni
-37.8207|22.6610|Neméa
-40.8083|22.7073|Néo Agionéri
-41.0523|23.5800|Neochóri
-38.4085|21.2751|Neochórion
-39.6255|20.8356|Neochorópoulo
-40.7382|22.8756|Neochoroúda
-40.4986|22.9119|Néoi Epivátes
-39.2399|22.2747|Néon Monastírion
-41.2746|23.2938|Néo Petrítsi
-38.0062|23.7837|Néo Psychikó
-40.4960|22.9879|Néo Rýsi
-40.0961|23.7832|Néos Marmarás
-40.8187|22.3549|Néos Mylótopos
-39.1506|20.7364|Néos Oropós
-41.0940|23.6438|Néo Soúli
-41.0239|23.6093|Néos Skopós
-38.0431|23.9775|Neos Voutzás
-35.4759|24.0400|Nerokoúros
-40.4128|21.0622|Nestório
-40.9053|23.4994|Nigríta
-37.9667|23.6500|Níkaia
-40.9474|24.1431|Nikísiani
-40.2220|23.6684|Níkiti
-40.6361|22.3888|Nisí
-38.0000|22.0000|Nomós Achaḯas
-38.5000|21.5000|Nomós Aitolías kai Akarnanías
-37.5833|22.2500|Nomós Arkadías
-40.4167|23.5000|Nomós Chalkidikís
-39.0000|21.6667|Nomós Evrytanías
-38.5000|22.2500|Nomós Fokídos
-37.7500|21.5833|Nomós Ileías
-39.7500|20.6667|Nomós Ioannínon
-35.3297|25.1299|Nomós Irakleíou
-39.6667|19.7500|Nomós Kerkýras
-40.3333|21.7167|Nomós Kozánis
-37.4167|24.9167|Nomós Kykládon
-40.8333|22.2500|Nomós Péllis
-35.2500|24.5833|Nomós Rethýmnis
-40.6667|23.0000|Nomós Thessaloníkis
-37.7500|20.7500|Nomós Zakýnthou
-36.4626|25.3764|Oía
-39.6083|21.9800|Oichalía
-38.3116|23.6400|Oinófyta
-38.5146|26.2153|Oinousses
-40.2915|23.3421|Ólynthos
-39.1012|22.2711|Omvriakí
-40.7308|22.9172|Oraiókastro
-38.4929|22.9796|Orchomenós
-38.9503|23.0919|Oreoí
-41.5044|26.4534|Orestiada
-40.2945|23.5433|Ormýlia
-37.4239|25.3225|Ornós
-38.3033|23.7555|Oropós
-40.1955|24.1975|Osiou Gregoriou
-40.3333|23.9833|Ouranoupolis
-38.1887|21.7290|Ovriá
-38.5799|24.1118|Oxílithos
-41.3051|24.8944|Páchni
-37.9553|23.8544|Paianía
-37.6385|23.1561|Palaiá Epídavros
-37.7200|23.9479|Palaiá Fókaia
-40.7828|22.2739|Palaífyto
-35.2313|23.6819|Palaióchora
-40.4919|23.6493|Palaiochóri
-37.9281|23.7010|Palaió Fáliro
-40.8707|23.9012|Palaiokómi
-39.4627|21.6579|Palaiomonástiro
-39.6084|21.8172|Palaiópyrgos
-40.9049|24.3508|Palaió Tsiflíki
-38.7830|20.8818|Pálairos
-39.4662|22.0633|Palamas
-35.1979|26.2543|Palekastro
-38.0051|23.8830|Pallíni
-38.5832|21.4473|Panaitólion
-40.8624|23.7792|Pangaio
-40.5878|23.0315|Panórama
-35.4181|24.6909|Pánormos
-40.2792|24.2340|Pantokratoros
-37.9864|23.7935|Papágou
-39.3144|20.7931|Pappadátes
-38.5282|21.4502|Pappadhátai
-40.2671|22.5962|Paralía
-38.3800|23.6284|Paralía Avlídhos
-40.7666|23.9004|Paralía Ofryníou
-37.0071|22.1568|Paralía Vérgas
-39.4711|20.5111|Paramythiá
-41.2677|24.4947|Paranesti
-39.5486|20.3244|Parapótamos
-38.6147|21.5205|Paravóla
-39.2857|20.4004|Párga
-37.0833|25.1500|Páros
-38.0129|22.7281|Pásion
-39.1466|23.8649|Patitírion
-37.3090|26.5472|Pátmos
-38.2444|21.7344|Pátra
-40.5607|22.1854|Patrída
-39.5999|20.8426|Pediní
-40.6581|22.9938|Péfka
-38.0602|23.7926|Péfki
-39.9878|23.6122|Pefkochóri
-38.9481|22.8398|Pelasgía
-40.7617|22.5264|Pélla
-37.6744|21.5934|Pelópi
-40.7430|22.8526|Pentálofos
-40.8190|22.4190|Pentaplátano
-38.0500|23.8667|Pentéli
-40.9575|26.2658|Péplos
-38.0302|22.9490|Perachóra
-40.4987|22.9262|Peraía
-39.5829|19.9122|Perama
-39.3697|20.3042|Pérdika
-40.2744|22.5416|Perístasi
-40.5488|23.1654|Peristerá
-38.0154|23.6919|Peristéri
-39.4194|20.0147|Perivóli
-35.4849|23.9942|Perivólia
-37.9404|22.8395|Periyiáli
-39.1667|21.0347|Péta
-41.1006|24.8985|Peteinós
-41.0874|24.8409|Petrochóri
-38.0419|23.6849|Petroúpolis
-41.1947|24.0173|Petroússa
-40.2256|24.2887|Philotheou
-39.5106|21.7010|Pigí
-38.0016|23.9408|Pikérmi
-37.9420|23.6462|Piraeus
-35.5167|24.0865|Pithári
-40.4728|22.9579|Plagiári
-38.3495|23.6506|Pláka Dílesi
-40.2008|22.0249|Platanórevma
-37.6673|21.6111|Plátanos
-39.4504|20.2778|Platariá
-40.6424|22.5346|Platý
-40.6667|22.9488|Políchni
-38.5967|23.5446|Politiká
-38.2160|23.8681|Polydéndri
-40.9260|22.0163|Polykárpi
-40.3770|23.4413|Polýgyros
-40.9944|22.5691|Polýkastro
-41.2088|23.2832|Pontisméno
-37.4994|23.4536|Póros
-40.2841|23.2955|Portariá
-37.3279|23.1438|Pórto Chéli
-40.7163|24.7286|Potamiá
-39.6242|19.8783|Potamós
-39.5231|21.1014|Prámanta
-38.9562|20.7505|Préveza
-40.7409|24.5779|Prínos
-39.4868|21.9029|Proástio
-40.7983|22.6666|Próchoma
-40.8137|22.1617|Profítis Ilías
-38.7340|23.4906|Prokópi
-41.0252|22.0044|Prómachoi
-41.1813|23.9618|Prosotsani
-40.9441|24.0012|Próti
-41.0682|23.3903|Provatás
-38.5785|23.6433|Psachná
-38.5414|25.5585|Psara
-38.0132|23.7722|Psychikó
-39.0526|22.9527|Pteleós
-40.5147|21.6786|Ptolemaḯda
-40.5992|22.9861|Pylaía
-39.4597|21.6113|Pyli
-39.5528|21.7485|Pyrgetós
-39.4581|21.6189|Pýli
-36.9130|21.6965|Pýlos
-35.0061|25.1519|Pýrgos
-38.0181|24.0060|Rafína
-35.3655|24.4823|Rethymno
-36.4356|28.2220|Rhodes|Ródos
-41.1027|25.1749|Rhodope
-39.4319|22.4908|Rigas Feraios
-38.2956|21.7850|Río
-40.2884|22.2836|Ritíni
-40.7837|22.0880|Rizári
-41.6249|26.4277|Rízia
-40.7333|22.1367|Rizó
-39.6643|21.7354|Rízoma
-40.3506|22.2108|Rizómata
-39.4276|22.7472|Rizómylos
-38.8883|22.4641|Rodhítsa
-38.2698|22.0487|Rododáfni
-40.9205|23.9749|Rodolívos
-38.1167|23.8757|Rodópoli
-39.7082|20.7266|Rodotópi
-38.8097|23.2307|Roviés
-38.1827|21.6841|Royítika
-37.9643|23.4965|Salamína
-38.2508|20.6469|Sámi
-37.7136|25.6352|Samos
-40.4514|25.4068|Samothrace
-40.4733|25.5222|Samothráki
-41.0286|25.6931|Sápes
-38.8900|21.2062|Sardínia
-37.7481|23.9106|Saronída
-40.0937|23.9786|Sárti
-37.8216|21.2943|Savália
-38.3500|23.5833|Schimatári
-35.2576|25.7280|Schísma Eloúndas
-41.1338|24.9941|Sélero
-37.9332|23.5315|Selínia
-37.1540|24.5061|Sérifos
-41.0850|23.5476|Sérres
-40.1797|21.9944|Sérvia
-40.7687|22.1235|Sevastianá
-40.4131|22.5468|Sfendámi
-40.2619|21.5442|Siátista
-41.2350|23.3890|Sidirókastro
-37.9823|22.7246|Sikyón
-40.3456|23.3103|Símantra
-40.1909|24.2447|Simonopetra
-40.6705|22.8055|Síndos
-35.3077|25.5202|Sísion
-41.1107|24.0276|Sitagroí
-35.2078|26.1047|Sitia
-36.8500|22.6667|Skála
-35.2826|25.1868|Skalánion
-38.3196|23.7876|Skála Oropoú
-38.0113|23.6030|Skarmagkás
-39.1667|23.4762|Skiathos
-39.1190|23.7224|Skopelos
-41.1284|23.3817|Skotoússa
-41.0187|23.5197|Skoútari
-40.7672|22.1519|Skýdra
-38.9042|24.5631|Skýros
-41.2333|24.8667|Smínthi
-40.8179|23.3555|Sochós
-39.3357|22.0771|Sofades
-37.7941|23.0520|Sofikón
-40.9989|22.0325|Sosándra
-35.4872|24.0734|Soúda
-41.1794|25.8529|Soufli
-40.4727|23.0920|Sourotí
-39.1032|22.8979|Soúrpi
-39.2329|22.8691|South Pelion
-37.0745|22.4301|Sparta|Spárti
-37.9616|23.9151|Spáta
-38.9066|22.1279|Spercheiáda
-37.0740|22.0625|Sperchógeia
-37.2619|23.1594|Spétses
-39.2695|23.5302|Sporades
-35.2926|25.4329|Stalís
-38.1255|23.8804|Stamáta
-38.8045|21.1746|Stános
-41.2638|22.8386|Stathmós Mourión
-39.6561|20.8181|Stavráki
-40.2673|24.2734|Stavronikita
-38.8964|22.3708|Stavrós
-40.6694|22.9381|Stavroúpoli
-39.4635|22.7420|Stefanovíkeio
-38.4083|22.7116|Steíri
-40.2378|24.1987|St. Panteleimon
-40.5141|23.8247|Stratónion
-41.0414|23.3149|Strymonikó
-38.9167|22.6167|Stylída
-40.2681|22.4637|Svorónos
-40.0387|23.9405|Sykiá
-40.6494|22.9508|Sykiés
-38.1614|22.3316|Sylivainiótika
-37.8558|21.3879|Synoikismós Chavaríou
-36.6155|27.8362|Sými
-37.9706|23.6904|Távros
-39.5757|21.8925|Taxiárches
-38.2371|22.1253|Témeni
-39.8594|22.5284|Tempi
-40.9164|23.4814|Terpní
-40.7781|24.7094|Thásos
-40.5471|23.0197|Thérmi
-38.5736|21.6663|Thérmo
-38.3030|23.1502|Thespiés
-39.2511|20.7853|Thesprotikó
-40.6436|22.9309|Thessaloníki
-38.3250|23.3189|Thívai
-37.0836|22.0489|Thouría
-38.1296|23.7575|Thrakomakedónes
-35.1880|25.2809|Thrapsanón
-35.2961|25.0159|Tílisos
-37.5375|25.1634|Tínos
-37.5202|22.8586|Tolón
-41.0102|24.4743|Topeiros
-37.8979|21.3124|Traganón
-38.6553|21.3832|Triandaíika
-40.6150|22.9762|Triandría
-39.6275|21.0135|Trikala
-39.1011|23.0767|Tríkeri
-40.4690|22.9718|Trílofos
-37.5089|22.3794|Trípoli
-39.6562|20.8388|Tsiflikópoulo
-35.4762|24.0627|Tsikalariá
-40.2615|21.3253|Tsotíli
-41.0288|26.2946|Tycheró
-35.0729|24.7685|Tympáki
-39.7405|22.2651|Tyrnavos
-38.3175|23.1775|Vágia
-38.1760|20.5839|Valsamáta
-41.1793|23.3202|Valteró
-41.1792|23.3960|Vamvakófyto
-37.7945|20.8519|Vanáton
-38.0306|21.3651|Várda
-37.8332|23.8031|Vári
-38.2236|23.9231|Varnávas
-37.8622|21.2057|Vartholomió
-37.6711|21.4989|Varvásaina
-38.1272|23.7873|Varybóbi
-40.4797|23.1369|Vasiliká
-39.6398|21.7045|Vasilikí
-38.4259|23.6719|Vasilikón
-38.4049|23.6033|Vathí
-37.7642|23.4801|Vathý
-40.7694|22.7088|Vathýlakkos
-40.3148|24.2083|Vatopedi
-39.3818|22.7462|Velestíno
-37.9761|22.7599|Vélo
-40.2553|22.0754|Velventós
-40.4865|22.3174|Vergína
-40.5244|22.2024|Véroia
-38.1672|23.3366|Vília
-35.3586|24.4386|Violí Charáki
-39.5834|19.8827|Virós
-36.8609|22.7083|Vlachiótis
-37.0319|21.7916|Vlachópoulo
-38.0273|23.4366|Vlycháda
-37.9484|22.7920|Vokhaïkó
-41.3166|24.0022|Vólakas
-39.3653|22.9061|Volos
-38.9164|20.8864|Vónitsa
-37.8422|23.7765|Voúla
-39.3719|21.1833|Voulgaréli
-37.8142|23.7789|Vouliagméni
-39.6916|20.7860|Vounoplagiá
-38.1625|21.6669|Vrachnaíika
-37.9590|22.8057|Vrakháti
-38.1250|23.9520|Vraná
-38.0338|23.8296|Vrilissia
-40.1936|22.4320|Vrontoú
-35.3758|24.2011|Vrýses
-37.9611|23.7530|Výronas
-39.1761|25.8940|West Lesbos
-41.1271|24.5133|Xanthi
-40.2586|24.1761|Xenophontos
-40.2349|24.1486|Xeropotamou
-40.9271|23.1794|Xilópolis
-40.6903|21.6232|Xinó Neró
-41.1921|24.1039|Xiropótamos
-40.9744|25.4202|Xylaganí
-38.0776|22.6317|Xylókastro
-38.4405|23.8840|Yimnón
-37.9534|23.7490|Ymittos
-37.4833|21.6500|Zacháro
-39.4500|23.1000|Zagorá
-39.4382|22.9407|Zagora-Mouresi
-37.7802|20.8956|Zakynthos
-39.6086|22.1234|Zárkos
-35.1303|24.9041|Zarós
-38.0665|23.7170|Zefyri
-37.9333|22.8000|Zevgolateió
-36.8770|27.2053|Zipári
-37.9757|23.7691|Zográfos
-40.3063|24.1577|Zografou
-35.2950|24.8294|Zonianá
-41.0132|24.3813|Zygós
-37.3498|23.4656|Ýdra
+39.7936|19.8174|Acharávi|Ionian Islands|1100|
+38.0833|23.7333|Acharnés|Attica|99346|
+36.7251|24.4469|Adámas|South Aegean|1268|
+40.6713|22.6047|Ádendro|Central Macedonia|1889|
+37.7467|23.4275|Aegina|Attica|6867|
+36.2935|28.1623|Afántou|South Aegean|5562|
+38.2033|23.8398|Afidnés|Attica|3739|
+38.4521|23.6878|Afrátion|Central Greece|1405|
+40.0992|23.4367|Áfytos|Central Macedonia|1178|
+38.1164|23.9818|Aghios Panteleímon|Attica|1591|
+39.7179|22.7461|Agia|Central Greece|2827|
+35.2546|24.6349|Agía Foteiní|Crete|0|
+35.0971|24.6882|Agía Galíni|Crete|646|
+39.5226|20.8836|Agía Kyriakí|Epirus|83|
+35.5178|23.9267|Agía Marína|Crete|1679|
+38.0167|23.8333|Agía Paraskeví|Attica|59704|
+40.4815|23.0486|Agía Paraskeví|Central Macedonia|557|
+38.3550|22.9088|Agía Triáda|Central Greece|1098|
+40.5000|22.8735|Agía Triáda|Central Macedonia|1990|
+39.4636|21.8985|Agía Triáda|Thessaly|1030|
+37.9894|23.6601|Agía Varvára|Attica|26550|
+35.1371|25.0013|Agía Varvára|Crete|4241|
+38.0301|23.7238|Ágioi Anárgyroi|Attica|34168|
+35.0667|24.9667|Ágioi Déka|Crete|0|
+37.9274|23.1422|Ágioi Theódoroi|Peloponnese|4934|
+41.1014|23.6799|Ágio Pnévma|Central Macedonia|1353|
+37.3452|22.7647|Ágios Andréas|Peloponnese|1033|
+40.7160|22.7284|Ágios Athanásios|Central Macedonia|13026|
+41.0746|24.2455|Ágios Athanásios|East Attica|3419|
+37.9333|23.7333|Agios Dimitrios|Attica|71294|
+37.8061|23.8579|Agios Dimítrios Kropiás|Attica|1011|
+39.5391|24.9845|Agios Efstratios|East Attica|0|
+38.3934|22.9319|Ágios Geórgios|Central Greece|2045|
+40.6022|22.1943|Ágios Geórgios|Central Macedonia|1767|
+39.7236|19.6997|Agios Georgis|Ionian Islands|4958|
+37.9649|23.6651|Agios Ioannis Rentis|Attica|15411|
+40.7180|22.2954|Ágios Loukás|Central Macedonia|1665|
+39.4951|19.8734|Ágios Matthaíos|Ionian Islands|1088|
+40.2493|23.6962|Ágios Nikólaos|Central Macedonia|1965|
+35.1911|25.7152|Ágios Nikólaos|Crete|11421|
+40.6407|22.9604|Ágios Pávlos|Central Macedonia|6852|
+40.8672|22.5830|Ágios Pétros|Central Macedonia|1505|
+40.2078|22.4431|Ágios Spyrídon|Central Macedonia|1337|
+38.1466|23.8561|Ágios Stéfanos|Attica|9892|
+40.6642|23.1137|Ágios Vasíleios|Central Macedonia|1180|
+40.1604|24.2883|Agiou Pavlou|Central Macedonia|0|
+40.5553|22.4708|Agkathiá|Central Macedonia|1459|
+39.4859|21.8479|Agnanteró|Thessaly|1859|
+39.3408|23.0126|Agriá|Thessaly|5519|
+38.6214|21.4078|Agrínio|West Greece|46899|
+40.1638|21.8194|Aianí|West Macedonia|2826|
+37.9213|23.4588|Aiánteio|Attica|4860|
+38.8792|23.0469|Aidipsós|Central Greece|1249|
+37.9833|23.6833|Aigáleo|Attica|69946|
+40.5014|22.5400|Aigínio|Central Macedonia|4275|
+38.2486|22.0819|Aígio|West Greece|20422|
+38.4370|21.3536|Aitolikó|West Greece|6215|
+38.1485|22.3543|Aíyira|West Greece|2293|
+38.4566|23.2209|Akraifnía|Central Greece|2276|
+38.1547|22.3183|Akráta|West Greece|4247|
+40.4349|21.9061|Akriní|West Macedonia|1113|
+40.6802|22.2645|Akrolímni|Central Macedonia|1398|
+38.3044|21.7944|Aktaío|West Greece|1494|
+39.6159|19.8956|Alepoú|Ionian Islands|3149|
+40.6267|22.4442|Alexándreia|Central Macedonia|13665|
+40.8499|25.8764|Alexandroupoli|East Attica|52979|
+40.8492|25.8547|Alexandroupolis|East Macedonia and Thrace|0|
+37.6402|21.5375|Alfeioúsa|West Greece|722|
+38.3667|23.1000|Alíartos|Central Greece|4275|
+37.9103|23.7236|Álimos|Attica|41720|
+41.0644|23.9575|Alistráti|Central Macedonia|2312|
+38.4167|24.0333|Alivéri|Central Greece|5184|
+39.3704|22.9835|Álli Meriá|Thessaly|1188|
+39.1826|22.7502|Almyros|Central Greece|7955|
+39.1822|22.7594|Almyrós|Thessaly|7955|
+39.1498|23.8426|Alonnisos|Central Greece|0|
+37.7984|21.3507|Amaliáda|West Greece|16763|
+38.3930|23.8849|Amárynthos|Central Greece|6085|
+37.7581|20.8725|Ambelókipoi|Ionian Islands|2082|
+38.6391|22.5917|Amfíkleia|Central Greece|2996|
+38.8594|21.1664|Amfilochía|West Greece|4022|
+38.5281|22.3771|Ámfissa|Central Greece|6854|
+40.7820|21.4846|Ammochóri|West Macedonia|1077|
+36.8317|25.8982|Amorgós|South Aegean|397|
+37.9505|23.5280|Ampelákia|Attica|6985|
+40.8342|22.3877|Ampeleíes|Central Macedonia|1070|
+40.6530|22.9262|Ampelókipoi|Central Macedonia|0|
+40.9635|24.3601|Amygdaleónas|East Attica|2724|
+40.6897|21.6797|Amýntaio|West Macedonia|3671|
+36.3500|25.7667|Anáfi|South Aegean|0|
+39.3811|22.9748|Anakasiá|Thessaly|1012|
+40.4923|21.5728|Anaráchi|West Macedonia|753|
+39.6353|20.8658|Anatolí|Epirus|12119|
+40.6615|22.7119|Anatolikó|Central Macedonia|2589|
+39.1900|22.0931|Anávra|Thessaly|1145|
+37.7341|23.9439|Anávyssos|Attica|6180|
+37.9059|21.2694|Andravída|West Greece|3753|
+37.8333|24.9333|Andros|South Aegean|3918|
+39.0866|20.9230|Anéza|Epirus|1111|
+40.6786|22.1993|Angelochóri|Central Macedonia|1526|
+38.5658|21.2963|Angelókastro|West Greece|1661|
+35.2333|25.1667|Ano Arhanes|Crete|3913|
+35.2908|24.8841|Anógeia|Crete|2545|
+38.1327|23.8587|Anoixi|Attica|6592|
+39.2500|21.1853|Áno Kalentíni|Epirus|172|
+38.2723|21.8360|Áno Kastrítsi|West Greece|745|
+40.2266|21.8283|Áno Kómi|West Macedonia|1263|
+39.3276|23.0540|Áno Lekhónia|Thessaly|1214|
+38.0833|23.7000|Áno Liósia|Attica|33565|
+37.4490|25.3910|Áno Merá|South Aegean|1459|
+37.4500|24.9356|Áno Sýros|South Aegean|1138|
+38.8500|22.4791|Anthíli|Central Greece|1693|
+39.3472|21.4583|Anthiró|Thessaly|270|
+38.0254|23.8762|Anthoúsa|Attica|2132|
+38.3833|22.6333|Antikyra|Central Greece|1529|
+36.8089|27.0976|Antimácheia|South Aegean|2251|
+37.0394|25.0826|Antíparos|South Aegean|0|
+38.3301|21.7641|Antirrio|West Greece|2603|
+40.8924|22.0571|Ápsalos|Central Macedonia|1121|
+38.4796|22.5835|Aráchova|Central Greece|2439|
+41.0814|25.5519|Áratos|East Attica|906|
+40.8435|22.3018|Aravissós|Central Macedonia|1513|
+37.6479|21.6271|Archaía Olympía|West Greece|11153|
+36.2149|28.1149|Archángelos|South Aegean|7786|
+38.7005|21.0390|Archontochóri|West Greece|1194|
+37.1562|22.0449|Arfará|Peloponnese|1285|
+39.2263|23.2187|Argalastí|Thessaly|1285|
+37.9751|23.8856|Argithéa|Attica|1024|
+39.3593|21.5271|Argithea|Central Greece|0|
+37.6333|22.7333|Árgos|Peloponnese|22209|
+40.4535|21.2589|Argos Orestiko|West Macedonia|7473|
+38.1811|20.4890|Argostólion|Ionian Islands|9820|
+37.9059|23.7504|Argyroúpoli|Attica|34097|
+37.5737|22.8354|Aria|Peloponnese|3529|
+40.9731|22.0564|Aridaía|Central Macedonia|6561|
+37.0992|22.0044|Áris|Peloponnese|1036|
+41.0700|25.5904|Arísvi|East Attica|1068|
+35.1463|25.2654|Arkalochóri|Crete|8547|
+37.9095|22.8835|Arkhaía Kórinthos|Peloponnese|1939|
+37.8468|21.1102|Arkoúdi|West Greece|1305|
+38.3512|23.4860|Árma|Central Greece|1078|
+40.4865|23.5954|Arnaía|Central Macedonia|2300|
+40.7955|21.8358|Árnissa|Central Macedonia|1370|
+41.0813|25.6949|Arrianá|East Attica|14905|
+41.0821|25.6904|Arriana|East Macedonia and Thrace|14905|
+40.7141|22.1592|Arsénio|Central Macedonia|1389|
+39.1601|20.9856|Árta|Epirus|21895|
+37.9673|23.9968|Artémida|Attica|21924|
+39.4019|21.8965|Artesianó|Thessaly|1412|
+35.0432|25.0928|Asímion|Crete|1259|
+37.5443|22.8644|Asíni|Peloponnese|5077|
+40.7510|23.3872|Askós|Central Macedonia|1014|
+38.2988|23.5019|Asopía|Central Greece|1375|
+36.7299|22.8545|Asopós|Peloponnese|4164|
+39.8233|20.7286|Asprángeloi|Epirus|165|
+38.0613|23.5897|Asprópyrgos|Attica|30251|
+40.7305|23.7118|Asproválta|Central Macedonia|2405|
+40.8214|23.0301|Ássiros|Central Macedonia|3290|
+37.9395|22.8222|Ássos|Peloponnese|1916|
+38.5356|21.0814|Astakós|West Greece|5719|
+37.4040|22.7212|Ástros|Peloponnese|2474|
+36.5500|26.3500|Astypálaia|South Aegean|1129|
+40.6412|23.0253|Asvestochóri|Central Macedonia|6551|
+38.6511|22.9992|Atalánti|Central Greece|4978|
+37.9838|23.7278|Athenai|Attica|664046|Athens
+37.8167|22.9294|Athíkia|Peloponnese|1942|
+40.8261|22.5928|Áthyra|Central Macedonia|1722|
+35.3525|24.4338|Atsipópoulo|Crete|5417|
+40.9628|24.8044|Ávato|East Attica|956|
+38.2515|23.6955|Avlónas|Attica|3244|
+40.9858|22.5417|Axioúpoli|Central Macedonia|4794|
+40.8022|22.3616|Axós|Central Macedonia|1336|
+37.6371|22.8050|Ayía Triás|Peloponnese|1151|
+38.2917|23.9101|Áyioi Apóstoloi|Attica|1904|
+37.5998|22.8456|Áyios Adhrianós|Peloponnese|1080|
+38.7561|22.8576|Áyios Konstandínos|Central Greece|2952|
+38.6334|21.3995|Áyios Konstandínos|West Greece|6534|
+38.4205|23.6477|Áyios Nikólaos|Central Greece|3426|
+38.2772|23.5891|Áyios Thomás|Central Greece|1131|
+37.7976|22.7973|Áyios Vasílios|Peloponnese|1025|
+38.0114|23.6660|Chaïdári|Attica|45642|
+38.4955|22.8442|Chairóneia|Central Greece|993|
+38.1084|21.7835|Chalandrítsa|West Greece|949|
+40.6264|22.7329|Chalástra|Central Macedonia|9066|
+36.2224|27.6119|Chálki|South Aegean|0|
+39.1598|20.9329|Chalkiádes|Epirus|1284|
+38.4635|23.6028|Chalkída|Central Greece|59125|
+40.7318|22.5999|Chalkidóna|Central Macedonia|30030|
+35.5112|24.0292|Chaniá|Crete|53910|
+41.2603|23.3728|Charopó|Central Macedonia|1042|
+37.8484|21.3840|Chávari|West Greece|1012|
+38.3745|26.0894|Chios|East Attica|23953|
+40.5392|21.2592|Chlói|West Macedonia|3079|
+38.0000|23.8000|Cholargós|Attica|30840|
+37.0511|21.7169|Chóra|Peloponnese|2609|
+35.2018|24.1371|Chóra Sfakíon|Crete|243|
+41.1306|24.2084|Choristí|East Attica|2512|
+40.6095|23.1001|Chortiátis|Central Macedonia|17862|
+41.0581|23.6511|Chrysó|Central Macedonia|1571|
+41.1810|23.2355|Chrysochórafa|Central Macedonia|1023|
+40.9333|24.7109|Chrysochóri|East Attica|1818|
+40.9856|24.6939|Chrysoúpolis|East Attica|8885|
+39.6207|19.9198|Corfu|Ionian Islands|40047|
+35.4995|23.9749|Darátsos|Crete|4732|
+38.4794|22.4936|Delphi|Central Greece|2373|
+39.9242|21.8103|Deskáti|West Macedonia|3856|
+37.9500|23.7344|Dhafní|Attica|22913|
+38.6135|21.3807|Dhokímion|West Greece|1664|
+38.0237|23.9079|Dhráfi|Attica|2976|
+38.4841|23.5477|Dhrosiá|Central Greece|5020|
+40.6874|22.8580|Diavatá|Central Macedonia|11876|
+40.5461|22.2669|Diavatós|Central Macedonia|1294|
+37.4625|23.1718|Dídyma|Peloponnese|1047|
+41.3481|26.4961|Didymóteicho|East Attica|8336|
+41.3499|26.4868|Didymoteicho|East Macedonia and Thrace|8336|
+38.3376|23.6708|Dílesi|Central Greece|1976|
+37.5952|22.0403|Dimitsána|Peloponnese|739|
+40.1717|22.4846|Díon|Central Macedonia|9067|
+38.0233|23.9329|Dióni|Attica|2111|
+40.1683|24.2719|Dionysiou|Central Macedonia|0|
+38.1046|23.8794|Diónysos|Attica|5651|
+38.4289|22.6673|Dístomo|Central Greece|0|
+40.2679|24.1641|Docheiariou|Central Macedonia|0|
+39.1272|22.3003|Domokós|Central Greece|1531|
+38.2530|22.9821|Domvraína|Central Greece|1138|
+41.0926|24.2198|Doxato|East Macedonia and Thrace|0|
+41.1528|24.1473|Dráma|East Attica|44823|
+41.2699|23.5443|Drama|East Macedonia and Thrace|44823|
+37.9499|23.6231|Drapetsóna|Attica|13815|
+40.9239|23.8712|Dravískos|Central Macedonia|1488|
+37.5389|22.8932|Drépanon|Peloponnese|1272|
+38.1198|23.8643|Drosiá|Attica|7837|
+40.7810|22.9589|Drymós|Central Macedonia|3659|
+41.2756|24.9724|Echínos|East Attica|2780|
+40.8026|22.0475|Édessa|Central Macedonia|18669|
+40.6880|22.9535|Efkarpía|Central Macedonia|15416|
+40.6781|22.1928|Eirinoúpoli|Central Macedonia|3484|
+38.1103|23.8350|Ekáli|Attica|5574|
+39.6874|20.8224|Eksochí|Epirus|2975|
+40.8203|24.2437|Elaiochóri|East Attica|998|
+39.8901|22.1792|Elassona|Central Greece|7060|
+38.6277|22.7649|Eláteia|Central Greece|2804|
+38.0414|23.5430|Elefsína|Attica|24910|
+40.8467|24.2543|Eleftherés|East Attica|8647|
+40.6639|22.8969|Elefthério - Kordelió|Central Macedonia|27067|
+40.9139|24.2514|Eleftheroúpolis|East Attica|4360|
+39.1528|20.9621|Eleoúsa|Epirus|3484|
+37.8901|23.7441|Ellinikó|Attica|16715|
+35.2650|25.7213|Eloúnda|Crete|2193|
+36.2268|27.8564|Émponas|South Aegean|1167|
+36.3582|25.4461|Emporeío|South Aegean|3704|
+40.4887|21.5577|Empório|West Macedonia|744|
+40.4261|22.9278|Epanomí|Central Macedonia|9910|
+40.6875|22.1364|Episkopí|Central Macedonia|1990|
+37.6268|21.4953|Epitálio|West Greece|1291|
+40.3425|21.5133|Erátyra|West Macedonia|738|
+38.4010|23.8022|Erétria|Central Greece|4166|
+37.3849|23.2469|Ermióni|Peloponnese|3936|
+37.4447|24.9429|Ermoúpolis|South Aegean|11351|
+38.2174|23.3223|Erythrés|Attica|2567|
+40.3526|24.1355|Esphigmenou|Central Macedonia|0|
+40.9833|24.8000|Évlalo|East Attica|0|
+40.6706|22.9083|Évosmos|Central Macedonia|74686|
+40.8970|22.5528|Evropós|Central Macedonia|3757|
+41.0658|24.7199|Evros|East Macedonia and Thrace|0|
+39.1841|22.7383|Evxinoúpolis|Thessaly|2078|
+37.8974|22.9283|Examília|Peloponnese|2670|
+40.9764|22.1296|Exaplátanos|Central Macedonia|6105|
+36.3398|28.1994|Faliraki|South Aegean|6000|
+39.5926|22.0575|Farkadona|Central Greece|0|
+39.6000|22.0667|Farkadóna|Thessaly|0|
+38.3996|23.6227|Fáros|Central Greece|1171|
+39.2966|22.3603|Farsala|Central Greece|10380|
+40.8931|26.1723|Féres|East Attica|6500|
+39.5160|21.6556|Fíki|Thessaly|1098|
+39.6011|20.3119|Filiátes|Epirus|2129|
+37.1564|21.5853|Filiatrá|Peloponnese|5359|
+39.2047|20.8822|Filippiáda|Epirus|4619|
+40.6915|23.0046|Fíliro|Central Macedonia|5495|
+38.4418|23.6831|Fílla|Central Greece|1459|
+41.1167|25.6333|Fillýra|East Attica|1041|
+40.6252|21.7085|Filótas|West Macedonia|1772|
+38.0252|23.7826|Filothéi|Attica|7370|
+37.0517|25.4983|Filótion|South Aegean|1617|
+36.4211|25.4309|Fira|South Aegean|2376|
+40.7820|21.4098|Flórina|West Macedonia|17686|
+36.6279|24.9202|Folégandros|South Aegean|667|
+41.0601|24.0472|Fotolívos|East Attica|1844|
+37.5798|26.3176|Fournoi Korseon|East Attica|0|
+35.4162|26.9233|Fry|South Aegean|357|
+41.0827|24.1897|Fteliá|East Attica|612|
+38.1024|23.6690|Fylí|Attica|48157|
+38.6952|21.1847|Fyteíes|West Greece|1812|
+39.1972|20.1856|Gáïos|Ionian Islands|487|
+37.7913|20.8741|Gaïtánion|Ionian Islands|1899|
+40.7559|22.2806|Galatádes|Central Macedonia|2459|
+37.4962|23.4489|Galatás|Attica|2195|
+35.4986|23.9634|Galatás|Crete|3166|
+38.3574|21.5622|Galatás|West Greece|1057|
+40.3197|21.5515|Galatiní|West Macedonia|2085|
+40.4682|23.2801|Galátista|Central Macedonia|2537|
+38.0167|23.7500|Galátsi|Attica|59345|
+38.3807|22.3800|Galaxídhion|Central Greece|2597|
+37.0652|21.6381|Gargaliánoi|Peloponnese|6864|
+37.8500|21.2500|Gastoúni|West Greece|8114|
+38.5290|21.5323|Gavaloú|West Greece|1018|
+35.3253|25.0669|Gázi|Crete|12606|
+41.0256|23.7757|Gázoros|Central Macedonia|912|
+40.7325|22.6936|Géfyra|Central Macedonia|2782|
+36.6872|23.0351|Géfyra|Peloponnese|1299|
+41.0617|24.9625|Genisséa|East Attica|1935|
+35.3623|24.2601|Georgioupolis|Crete|2708|
+40.6267|23.2157|Gerakaroú|Central Macedonia|1080|
+38.0228|23.8576|Gérakas|Attica|29939|
+36.9923|22.7066|Geráki|Peloponnese|1323|
+35.5172|23.8782|Geráni|Crete|932|
+35.1328|24.9496|Gérgeri|Crete|1345|
+40.7919|22.4075|Giannitsá|Central Macedonia|27817|
+37.8629|23.7580|Glyfáda|Attica|87305|
+39.4641|21.6934|Gómfoi|Thessaly|4097|
+40.9460|22.4497|Gouménissa|Central Macedonia|5157|
+37.7624|21.6185|Goúmero|West Greece|588|
+35.3263|25.2774|Goúrnes|Crete|1628|
+39.4979|20.2761|Graikochóri|Epirus|1263|
+35.0147|25.6913|Gra Liyiá|Crete|1528|
+38.2025|23.9650|Grammatikó|Attica|1383|
+39.1844|20.9793|Grammenítsa|Epirus|1258|
+40.0845|21.4274|Grevená|West Macedonia|10563|
+39.6319|22.0526|Grizáno|Thessaly|1192|
+36.7550|22.5642|Gýtheio|Peloponnese|4279|
+35.3387|25.1442|Heraklion|Crete|0|
+40.3400|24.1181|Hilandar|Central Macedonia|0|
+36.4135|28.1552|Ialysós|South Aegean|12717|
+41.1275|25.1857|Íasmos|East Attica|2586|
+41.1263|25.1743|Iasmos|East Macedonia and Thrace|2586|
+35.0119|25.7423|Ierápetra|Crete|12355|
+40.3975|23.8751|Ierissós|Central Macedonia|3266|
+39.5034|20.2673|Igoumenítsa|Epirus|9496|
+37.5974|25.9417|Ikaria|East Attica|0|
+40.9493|24.7886|Iliokentima|East Attica|1405|
+38.0333|23.7000|Ílion|Attica|84793|
+37.9315|23.7678|Ilioúpoli|Attica|78153|
+39.6649|20.8519|Ioánnina|Epirus|65574|
+36.7333|25.2833|Íos|South Aegean|2024|
+41.1822|23.2824|Irákleia|Central Macedonia|3786|
+38.0528|23.7652|Irákleio|Attica|49642|
+35.3279|25.1434|Irákleion|Crete|137154|
+37.9136|23.0046|Isthmía|Peloponnese|2709|
+38.9552|23.1521|Istiaía|Central Greece|4339|
+38.4320|22.4244|Itéa|Central Greece|6050|
+39.4567|22.1658|Itéa|Thessaly|1301|
+38.3642|20.7185|Itháki|Ionian Islands|1843|
+40.2461|24.2823|Iviron|Central Macedonia|0|
+38.7928|22.7247|Kainoúryion|Central Greece|1138|
+38.6045|21.4878|Kainoúryion|West Greece|2790|
+37.9634|23.7652|Kaisarianí|Attica|26370|
+41.0994|23.4240|Kalá Déndra|Central Macedonia|1131|
+40.5825|22.9503|Kalamariá|Central Macedonia|91518|
+37.0391|22.1126|Kalamata|Peloponnese|54100|
+39.1653|20.9321|Kalamiá|Epirus|1018|
+38.2845|23.8631|Kálamos|Attica|4941|
+39.7044|21.6174|Kalampaka|Central Greece|8138|
+39.7044|21.6269|Kalampáka|Thessaly|8138|
+41.0500|24.1833|Kalampáki|East Attica|3514|
+38.0322|22.1125|Kalávryta|West Greece|1629|
+40.8193|22.1776|Kalí|Central Macedonia|1773|
+41.1465|23.9067|Kalí Vrýsi|East Attica|1163|
+39.2771|21.9613|Kallifóni|Thessaly|1991|
+41.1728|24.2153|Kallífytos|East Attica|1098|
+37.9500|23.7000|Kallithéa|Attica|100641|
+40.0737|23.4464|Kallithéa|Central Macedonia|2933|
+39.2810|21.9049|Kallíthiro|Thessaly|1098|
+40.6419|22.8573|Kalochóri|Central Macedonia|4626|
+41.1054|24.0857|Kalós Agrós|East Attica|1275|
+39.8878|20.6239|Kalpáki|Epirus|625|
+36.9503|26.9839|Kálymnos|South Aegean|12324|
+35.4505|24.1751|Kalýves|Crete|1457|
+40.2866|23.3903|Kalýves Polygýrou|Central Macedonia|1286|
+40.7551|22.2175|Kalývia|Central Macedonia|1130|
+37.8389|23.9250|Kalývia Thorikoú|Attica|14424|
+38.2988|21.9989|Kamárai|West Greece|1200|
+40.4750|25.4746|Kamariótissa|East Attica|1022|
+38.0559|23.7051|Kamaterón|Attica|29179|
+38.7784|22.7857|Kaména Voúrla|Central Greece|2761|
+40.8895|22.9168|Kampánis|Central Macedonia|999|
+39.2336|20.6000|Kanaláki|Epirus|2446|
+39.6056|19.8925|Kanáli|Ionian Islands|4086|
+39.4993|22.8859|Kanália|Thessaly|893|
+38.7056|20.9475|Kandíla|West Greece|866|
+38.2158|23.8794|Kapandríti|Attica|3534|
+38.2370|23.2141|Kaparéllion|Central Greece|1478|
+40.2234|24.3063|Karakallou|Central Macedonia|0|
+37.7356|21.5358|Karátoula|West Greece|602|
+36.7831|27.1429|Kardámaina|South Aegean|2132|
+37.7673|21.3395|Kardamás|West Greece|826|
+39.6782|20.8196|Kardamítsia|Epirus|3172|
+36.8878|22.2332|Kardamýli|Peloponnese|300|
+40.4691|22.9938|Kardiá|Central Macedonia|3369|
+39.2909|21.4765|Karditsa|Central Greece|0|
+39.3648|21.9219|Kardítsa|Thessaly|32789|
+39.3906|21.9233|Karditsomagoúla|Thessaly|1950|
+37.9344|23.8648|Karellás|Attica|1579|
+40.1874|22.4817|Karítsa|Central Macedonia|1843|
+35.5070|27.2132|Karpathos|South Aegean|7790|
+38.9122|21.7984|Karpenísi|Central Greece|6888|
+39.3357|22.0113|Karpochóri|Thessaly|1059|
+37.2912|22.5007|Karyés|Peloponnese|0|
+40.7692|22.3133|Karyótissa|Central Macedonia|1965|
+38.0133|24.4161|Kárystos|Central Greece|5091|
+40.0483|23.4136|Kassándreia|Central Macedonia|2775|
+41.6455|26.4768|Kastaniés|East Attica|698|
+38.5705|23.6313|Kastélla|Central Greece|1370|
+35.2090|25.3377|Kastélli|Crete|1828|
+40.5217|21.2634|Kastoria|West Macedonia|13387|
+39.7169|21.6186|Kastráki|Thessaly|1172|
+34.8346|24.0857|Kastrí|Crete|37|
+37.8301|20.7575|Katastárion|Ionian Islands|1331|
+40.2696|22.5061|Kateríni|Central Macedonia|53293|
+38.1500|21.5500|Káto Achaḯa|West Greece|5752|
+35.2027|24.9983|Káto Asítai|Crete|1264|
+38.4124|21.2526|Katochí|West Greece|2829|
+38.0249|22.7329|Káto Dhiminió|Peloponnese|1201|
+36.8279|22.7773|Káto Glykóvrysi|Peloponnese|1753|
+35.3293|25.3135|Káto Goúves|Crete|2153|
+41.0212|23.4834|Káto Kamíla|Central Macedonia|1127|
+39.3309|23.0396|Káto Lekhónia|Thessaly|1751|
+40.7575|22.1796|Káto Lipochóri|Central Macedonia|1074|
+38.0703|21.6510|Káto Mazaráki|West Greece|1005|
+40.2540|22.3434|Káto Miliá|Central Macedonia|776|
+41.3500|23.8667|Káto Nevrokópi|East Attica|0|
+41.3422|23.8569|Kato Nevrokopi|East Macedonia and Thrace|0|
+40.4291|23.0298|Káto Scholári|Central Macedonia|1963|
+38.1680|24.0163|Káto Soúlion|Attica|2142|
+38.6075|22.7135|Káto Tithoréa|Central Greece|2753|
+38.7855|21.1142|Katoúna|West Greece|1634|
+39.6228|20.8876|Katsikás|Epirus|5180|
+40.9396|24.4069|Kavála|East Attica|54027|
+40.9627|24.0027|Kavala|East Macedonia and Thrace|54027|
+40.7154|23.0459|Kavallári|Central Macedonia|1575|
+37.8758|21.2642|Kavásila|West Greece|1231|
+41.5622|26.5147|Kavýli|East Attica|523|
+36.7451|26.9596|Kéfalos|South Aegean|2713|
+35.0326|25.7528|Kentrí|Crete|1021|
+40.8559|24.7060|Keramotí|East Attica|4381|
+39.0056|21.6378|Kerasochóri|Central Greece|274|
+37.8058|23.9774|Keratéa|Attica|14483|
+37.9625|23.6197|Keratsíni|Attica|77077|
+38.0237|23.8007|Khalándrion|Attica|74192|
+38.3326|23.7319|Khalkoútsion|Attica|2094|
+37.8102|22.8697|Khiliomódhi|Peloponnese|1510|
+38.0132|22.7484|Kiáto|Peloponnese|9812|
+38.0744|23.8111|Kifisiá|Attica|47332|
+39.5050|22.6286|Kileler|Central Greece|0|
+40.9930|22.8743|Kilkís|Central Macedonia|22914|
+41.1479|24.9387|Kimméria|East Attica|3424|
+36.7937|24.5758|Kímolos|South Aegean|837|
+37.9684|23.2135|Kinéta|Attica|1651|
+38.0029|23.7375|Kipséli|Attica|2096|
+38.4294|22.4444|Kírra|Central Greece|1392|
+35.4946|23.6537|Kíssamos|Crete|4236|
+40.3740|22.5786|Kítros|Central Macedonia|1061|
+37.8518|23.8407|Kítsi|Attica|4788|
+40.5663|22.5903|Kleidí|Central Macedonia|1412|
+40.4314|21.8581|Kleítos|West Macedonia|0|
+40.3306|21.7910|Koíla|West Macedonia|1360|
+37.4123|23.1255|Koilás|Peloponnese|1165|
+41.2128|23.3004|Koímisi|Central Macedonia|1414|
+35.3283|25.2581|Kokkíni Cháni|Crete|1755|
+40.9269|24.3081|Kokkinóchoma|East Attica|1472|
+37.9706|22.7802|Kokkónion|Peloponnese|1056|
+40.7566|23.1338|Kolchikón|Central Macedonia|1768|
+40.4789|22.4832|Kolindrós|Central Macedonia|2914|
+35.5412|23.7799|Kolympári|Crete|4139|
+40.5906|21.7767|Komniná|West Macedonia|517|
+41.1192|25.4053|Komotiní|East Attica|45631|
+41.1181|25.3863|Komotini|East Macedonia and Thrace|45631|
+39.1026|21.0839|Kompóti|Epirus|2150|
+40.0486|20.7567|Kónitsa|Epirus|2942|
+40.2887|24.1723|Konstamonitou|Central Macedonia|0|
+40.2275|22.4610|Kontariótissa|Central Macedonia|1489|
+39.6444|19.8519|Kontokáli|Ionian Islands|1660|
+37.2891|21.8185|Kopanáki|Peloponnese|913|
+40.6338|22.1289|Kopanós|Central Macedonia|2202|
+40.3166|22.5882|Korinós|Central Macedonia|4488|
+37.9401|22.9513|Kórinthos|Peloponnese|30176|
+36.7953|21.9579|Koróni|Peloponnese|3600|
+37.8989|23.8718|Koropí|Attica|19164|
+37.9847|23.6471|Korydallós|Attica|63445|
+40.6029|22.5068|Koryfí|Central Macedonia|1552|
+36.8929|27.2877|Kos|South Aegean|19244|
+39.1367|20.9576|Kostakioí|Epirus|2078|
+40.7778|22.5719|Koufália|Central Macedonia|7850|
+40.5465|22.3179|Kouloúra|Central Macedonia|1156|
+40.2532|24.2452|Koutloumousiou|Central Macedonia|0|
+39.5881|20.9120|Koutselió|Epirus|1118|
+37.6843|22.7136|Koutsopódi|Peloponnese|3254|
+37.8271|23.9672|Kouvarás|Attica|1932|
+40.3007|21.7890|Kozáni|West Macedonia|36481|
+37.3797|23.1597|Kranídi|Peloponnese|4006|
+36.4098|28.1192|Kremastí|South Aegean|4700|
+37.5919|21.6203|Kréstena|West Greece|1864|
+38.9453|21.1791|Kríkellos|West Greece|1312|
+41.0140|24.2965|Krinídes|East Attica|2925|
+40.8418|22.9829|Krithiá|Central Macedonia|1253|
+35.1582|25.6446|Kritsá|Crete|2630|
+36.8830|22.5468|Krokeés|Peloponnese|2138|
+40.2635|21.8176|Krókos|West Macedonia|2687|
+35.2306|24.9829|Krousón|Crete|2564|
+38.1371|23.8305|Kryonéri|Attica|5318|
+40.6874|22.3052|Krýa Vrýsi|Central Macedonia|7255|
+37.9354|21.1450|Kyllíni|West Greece|1079|
+39.5678|19.8836|Kynopiástes|Ionian Islands|1054|
+37.2511|21.6736|Kyparissía|Peloponnese|5033|
+41.5754|26.2291|Kyprínos|East Attica|1095|
+37.7602|23.4545|Kypséli|Attica|2124|
+37.9130|22.9865|Kyrás Vrýsi|Peloponnese|1128|
+38.3537|22.7884|Kyriáki|Central Greece|1804|
+38.6348|24.1029|Kými|Central Greece|6706|
+40.6135|22.6928|Kýmina|Central Macedonia|3210|
+41.0990|24.2891|Kýria|East Attica|1535|
+36.1495|22.9898|Kýthira|Attica|281|
+37.4124|24.4307|Kýthnos|South Aegean|0|
+40.7500|23.0667|Lagkadás|Central Macedonia|37022|
+41.4510|26.4607|Lagós|East Attica|0|
+40.7235|23.0042|Lagyná|Central Macedonia|3552|
+40.8363|21.1406|Laimós|West Macedonia|185|
+39.3011|21.5643|Lake Plastiras|Central Greece|0|
+37.1334|26.8524|Lakkí|South Aegean|2093|
+40.3914|23.0558|Lákkoma|Central Macedonia|1171|
+37.7094|21.7212|Lálas|West Greece|1168|
+38.9000|22.4333|Lamía|Central Greece|52006|
+37.6819|22.0300|Langádhia|Peloponnese|0|
+38.0975|21.4186|Lápas|West Greece|1377|
+36.0942|28.0157|Lárdos|South Aegean|1348|
+39.6285|22.4211|Lárisa|Thessaly|146926|
+39.6284|22.1801|Larissa|Central Greece|0|
+41.2696|26.3852|Lávara|East Attica|747|
+37.7144|24.0565|Lávrio|Attica|7078|
+37.9333|21.2667|Lechainá|West Greece|3714|
+40.5844|21.4922|Léchovo|West Macedonia|782|
+38.7500|20.6667|Lefkada|Ionian Islands|8673|
+39.4234|20.0709|Lefkímmi|Ionian Islands|5647|
+41.1003|23.4966|Lefkónas|Central Macedonia|3534|
+37.9328|22.8500|Lékhaio|Peloponnese|2672|
+39.9090|25.0755|Lemnos|East Attica|0|
+37.9870|23.8552|Leondárion|Attica|5929|
+37.1668|22.8577|Leonídio|Peloponnese|3020|
+38.7084|21.2897|Lepenoú|West Greece|2090|
+40.0603|22.5612|Leptokaryá|Central Macedonia|3612|
+39.1711|25.0410|Lesbos|East Attica|0|
+37.6827|22.2959|Levídion|Peloponnese|1025|
+38.9166|22.3034|Lianokládhion|Central Greece|1085|
+40.6353|22.5082|Lianovérgi|Central Macedonia|1345|
+38.5239|22.1997|Lidoríki|Central Greece|840|
+37.6123|23.0377|Ligourión|Peloponnese|2500|
+40.6274|24.5765|Limenária|East Attica|2428|
+35.3230|25.3927|Limín Khersonísou|Crete|2968|
+37.8911|24.0031|Limín Mesoyaías|Attica|10526|
+38.7667|23.3167|Límni|Central Greece|2072|
+38.1412|21.4805|Limnokhórion|West Greece|1213|
+37.7193|20.8301|Lithakiá|Ionian Islands|1307|
+40.7453|22.9798|Lití|Central Macedonia|3302|
+40.1006|22.4978|Litóchoro|Central Macedonia|6709|
+38.4362|22.8767|Livadeiá|Central Greece|21492|
+40.0346|21.9428|Livaderó|West Macedonia|912|
+38.7110|23.0503|Livanátes|Central Greece|2333|
+38.2013|20.4371|Lixoúri|Ionian Islands|6989|
+40.2439|22.3803|Lófos|Central Macedonia|1694|
+38.4795|23.4480|Loukísia|Central Greece|1161|
+39.1660|20.7561|Loúros|Epirus|3987|
+38.8569|23.0474|Loutrá Aidhipsoú|Central Greece|2560|
+40.9712|21.9466|Loutráki|Central Macedonia|1146|
+37.9783|22.9778|Loutráki|Peloponnese|11564|
+37.8647|22.9961|Loutrá Oraías Elénis|Peloponnese|1005|
+40.5887|22.3998|Loutrós|Central Macedonia|1296|
+38.0693|23.7822|Lykóvrysi|Attica|9705|
+41.0641|25.6857|Lýkeio|East Attica|1081|
+39.2855|22.2614|Magnesia|Central Greece|0|
+38.0799|23.5211|Magoúla|Attica|4735|
+38.4118|23.8213|Magoúla|Central Greece|1063|
+37.0801|22.4047|Magoúla|Peloponnese|1566|
+39.4539|21.8035|Magoúla|Thessaly|1036|
+38.9415|22.1153|Makrakómi|Central Greece|13500|
+37.6096|21.6051|Makrísia|West Greece|1584|
+40.5513|22.2495|Makrochóri|Central Macedonia|4870|
+39.4398|21.9658|Makrychóri|Thessaly|1835|
+40.4155|22.6039|Makrýgialos|Central Macedonia|1495|
+38.4000|23.7667|Malakónta|Central Greece|1097|
+38.6223|23.2337|Malesína|Central Greece|4200|
+35.2837|25.4626|Mália|Crete|4343|
+40.8568|22.2126|Mándalo|Central Macedonia|1204|
+38.0667|23.5000|Mándra|Attica|11327|
+36.6114|27.1333|Mandráki|South Aegean|682|
+40.5006|21.2445|Maniákoi|West Macedonia|2612|
+38.0471|21.3481|Manoláda|West Greece|1448|
+38.7981|23.4797|Mantoúdi|Central Greece|2245|
+38.1532|23.9628|Marathónas|Attica|7170|
+40.6920|22.1010|Marína|Central Macedonia|1091|
+37.8833|23.9333|Markópoulo|Attica|9513|
+38.2898|23.8248|Markópoulo Oropoú|Attica|2308|
+38.0484|24.3204|Marmárion|Central Greece|1972|
+40.9967|25.4972|Maroneia-Sapes|East Macedonia and Thrace|0|
+38.0500|23.8000|Maroúsi|Attica|72333|
+38.5682|23.2146|Martínon|Central Greece|1722|
+38.5236|21.4733|Mataránga|West Greece|1344|
+40.5122|21.3204|Mavrochóri|West Macedonia|1379|
+39.4239|21.6938|Mavrommáti|Thessaly|1426|
+40.8943|23.7505|Mavrothálassa|Central Macedonia|1572|
+40.7824|22.1563|Mavrovoúni|Central Macedonia|1067|
+39.4969|21.7880|Megála Kalývia|Thessaly|2345|
+38.6463|21.3731|Megáli Khóra|West Greece|1408|
+40.4451|23.6800|Megáli Panagía|Central Macedonia|3126|
+37.7105|23.3466|Megalochóri|Attica|566|
+39.5598|21.8420|Megalochóri|Thessaly|1564|
+37.4582|26.9727|Megálo Chorió|South Aegean|168|
+37.4011|22.1422|Megalópoli|Peloponnese|5283|
+37.9947|23.3432|Mégara|Attica|23456|
+36.1489|29.5936|Megísti|South Aegean|0|
+40.1708|24.3801|Megisti Lavra|Central Macedonia|0|
+37.2167|21.9667|Meligalás|Peloponnese|1431|
+40.5168|22.3960|Melíki|Central Macedonia|6350|
+40.7741|22.3530|Melíssi|Central Macedonia|1024|
+38.0500|23.8333|Melíssia|Attica|22741|
+40.7680|22.9286|Melissochóri|Central Macedonia|3437|
+40.8343|21.5843|Melíti|West Macedonia|1212|
+40.6583|22.8971|Meneméni|Central Macedonia|14297|
+39.0421|21.1187|Menídi|West Greece|1858|
+36.3989|25.4481|Mesariá|South Aegean|1233|
+40.4134|23.0075|Mesiméri|Central Macedonia|899|
+38.3714|21.4315|Mesolóngi|West Greece|12785|
+40.5025|21.1611|Mesopotamía|West Macedonia|3855|
+37.0511|22.0078|Messíni|Peloponnese|6773|
+38.0658|23.7636|Metamórfosi|Attica|29891|
+36.8197|21.7049|Methóni|Peloponnese|2157|
+39.7694|21.1822|Metsovo|Epirus|2503|
+40.7043|22.5411|Mikró Monastíri|Central Macedonia|1779|
+41.1935|23.8157|Mikrópolis|East Attica|1094|
+36.7454|24.4265|Mílos|South Aegean|819|
+38.1839|21.7013|Mindilóglion|West Greece|2331|
+39.3393|21.8375|Mitrópoli|Thessaly|1572|
+41.0704|23.4606|Mitroúsi|Central Macedonia|1479|
+35.0514|24.8733|Moíres|Crete|6379|
+35.2634|25.4230|Mokhós|Crete|1132|
+36.8076|22.8513|Moláoi|Peloponnese|3018|
+38.8100|22.6454|Mólos|Central Greece|1974|
+38.8505|20.9446|Monastiráki|West Greece|1299|
+39.3525|21.7500|Morfovoúni|Thessaly|485|
+37.9479|23.6788|Moskháton|Attica|25441|
+37.9932|22.7253|Moúlki|Peloponnese|1316|
+35.4823|24.0125|Mourniés|Crete|5318|
+39.4278|21.6522|Mouzaki|Central Greece|2127|
+37.7356|20.8229|Mouzaki|Ionian Islands|1702|
+39.4297|21.6636|Mouzáki|Thessaly|2127|
+35.5388|24.1555|Mouzourás|Crete|1462|
+41.2450|24.9149|Myki|East Macedonia and Thrace|0|
+37.4453|25.3287|Mykonos|South Aegean|10704|
+37.9212|21.2370|Myrsíni|West Greece|1213|
+38.4437|23.6536|Mytikas|Central Greece|1808|
+39.0995|26.5155|Mytilene|East Attica|28322|
+41.2438|24.9208|Mýki|East Attica|1130|
+38.3917|21.8275|Náfpaktos|West Greece|13415|
+37.5686|22.8069|Náfplio|Peloponnese|14582|
+40.6294|22.0681|Náousa|Central Macedonia|19887|
+37.1218|25.2401|Náousa|South Aegean|3134|
+37.1056|25.3764|Náxos|South Aegean|7070|
+35.3398|25.1590|Néa Alikarnassós|Crete|14624|
+35.0092|25.6617|Néa Anatolí|Crete|1002|
+39.2801|22.8182|Néa Anchiálos|Thessaly|5881|
+40.6256|23.4407|Néa Apollonía|Central Macedonia|1652|
+38.5203|23.6330|Néa Artáki|Central Greece|10302|
+38.0271|23.7305|Néa Chalkidóna|Attica|9760|
+40.2292|22.4981|Néa Éfesos|Central Macedonia|1328|
+38.0927|23.8222|Néa Erythraía|Attica|18604|
+38.0349|23.7381|Néa Filadélfeia|Attica|25734|
+40.2611|23.2211|Néa Flogitá|Central Macedonia|1595|
+40.1333|23.3975|Néa Fókaia|Central Macedonia|1944|
+38.0357|23.7573|Néa Ionía|Attica|67134|
+39.3790|22.9275|Néa Ionía|Thessaly|31884|
+40.8644|24.3165|Néa Iraklítsa|East Attica|1560|
+40.3131|23.0634|Néa Kallikráteia|Central Macedonia|10144|
+40.9615|24.5113|Néa Karváli|East Attica|2003|
+40.9062|24.7073|Néa Karyá|East Attica|1426|
+37.5902|22.7434|Néa Kíos|Peloponnese|2778|
+38.4373|23.6282|Néa Lámpsakos|Central Greece|2196|
+40.1905|22.0132|Nea Lava|West Macedonia|0|
+40.6878|22.8458|Néa Magnisía|Central Macedonia|4088|
+38.0873|23.9764|Néa Mákri|Attica|18114|
+40.6099|22.6820|Néa Málgara|Central Macedonia|2218|
+38.0538|21.3819|Néa Manoláda|West Greece|3696|
+40.7516|22.7690|Néa Mesimvría|Central Macedonia|2303|
+40.4637|22.8617|Néa Michanióna|Central Macedonia|10784|
+40.2439|23.2848|Néa Moudhaniá|Central Macedonia|10042|
+38.3194|23.7965|Néa Palátia|Attica|3656|
+40.7652|22.4917|Néa Pélla|Central Macedonia|1595|
+38.0606|23.8593|Néa Pentéli|Attica|6916|
+38.0065|23.4235|Néa Péramos|Attica|7260|
+40.8385|24.3013|Néa Péramos|East Attica|3516|
+40.2654|23.2038|Néa Plágia|Central Macedonia|1127|
+40.6532|22.9416|Neapoli|Central Macedonia|25822|
+35.2563|25.6042|Neápoli|Crete|4320|
+38.6714|21.3627|Neápolis|West Greece|1442|
+40.1941|23.3283|Néa Poteídaia|Central Macedonia|1543|
+40.1943|23.3287|Néa Potídhaia|Central Macedonia|1559|
+40.3812|23.9237|Néa Róda|Central Macedonia|1192|
+40.8408|22.9216|Néa Sánta|Central Macedonia|1582|
+39.5246|20.2552|Néa Seléfkeia|Epirus|1213|
+37.9450|23.7142|Néa Smýrni|Attica|73076|
+38.1793|24.2084|Néa Stíra|Central Greece|1031|
+37.6079|22.8200|Néa Tírins|Peloponnese|3207|
+40.3058|23.2066|Néa Tríglia|Central Macedonia|3071|
+40.7059|23.6985|Néa Vrasná|Central Macedonia|1841|
+41.5845|26.5432|Néa Výssa|East Attica|1679|
+41.0320|23.8287|Néa Zíchni|Central Macedonia|2530|
+37.8207|22.6610|Neméa|Peloponnese|3853|
+40.8083|22.7073|Néo Agionéri|Central Macedonia|1176|
+41.0523|23.5800|Neochóri|Central Macedonia|1227|
+41.5113|26.4574|Neochóri|East Attica|655|
+39.0703|21.0189|Neochóri|Epirus|1372|
+37.9079|21.2039|Neochóri|West Greece|1105|
+38.4085|21.2751|Neochórion|West Greece|2827|
+39.6255|20.8356|Neochorópoulo|Epirus|1326|
+40.7382|22.8756|Neochoroúda|Central Macedonia|2844|
+40.4986|22.9119|Néoi Epivátes|Central Macedonia|5882|
+39.2399|22.2747|Néon Monastírion|Central Greece|904|
+41.2746|23.2938|Néo Petrítsi|Central Macedonia|1932|
+38.0062|23.7837|Néo Psychikó|Attica|10671|
+40.4960|22.9879|Néo Rýsi|Central Macedonia|2845|
+40.0961|23.7832|Néos Marmarás|Central Macedonia|3038|
+40.8187|22.3549|Néos Mylótopos|Central Macedonia|2835|
+39.1506|20.7364|Néos Oropós|Epirus|1375|
+41.0940|23.6438|Néo Soúli|Central Macedonia|2051|
+41.0239|23.6093|Néos Skopós|Central Macedonia|1934|
+38.0431|23.9775|Neos Voutzás|Attica|1116|
+35.4759|24.0400|Nerokoúros|Crete|5593|
+40.4128|21.0622|Nestório|West Macedonia|865|
+40.9053|23.4994|Nigríta|Central Macedonia|4947|
+37.9667|23.6500|Níkaia|Attica|89380|
+40.9474|24.1431|Nikísiani|East Attica|2236|
+40.2220|23.6684|Níkiti|Central Macedonia|2711|
+40.6361|22.3888|Nisí|Central Macedonia|1473|
+38.0000|22.0000|Nomós Achaḯas|West Greece|0|
+38.5000|21.5000|Nomós Aitolías kai Akarnanías|West Greece|0|
+37.5833|22.2500|Nomós Arkadías|Peloponnese|0|
+40.4167|23.5000|Nomós Chalkidikís|Central Macedonia|0|
+39.0000|21.6667|Nomós Evrytanías|Central Greece|0|
+38.5000|22.2500|Nomós Fokídos|Central Greece|0|
+37.7500|21.5833|Nomós Ileías|West Greece|0|
+39.7500|20.6667|Nomós Ioannínon|Epirus|0|
+35.3297|25.1299|Nomós Irakleíou|Crete|0|
+39.6667|19.7500|Nomós Kerkýras|Ionian Islands|0|
+40.3333|21.7167|Nomós Kozánis|West Macedonia|0|
+37.4167|24.9167|Nomós Kykládon|South Aegean|0|
+40.8333|22.2500|Nomós Péllis|Central Macedonia|0|
+35.2500|24.5833|Nomós Rethýmnis|Crete|0|
+40.6667|23.0000|Nomós Thessaloníkis|Central Macedonia|0|
+37.7500|20.7500|Nomós Zakýnthou|Ionian Islands|0|
+36.4626|25.3764|Oía|South Aegean|1087|
+39.6083|21.9800|Oichalía|Thessaly|3271|
+38.3116|23.6400|Oinófyta|Central Greece|4314|
+38.5146|26.2153|Oinousses|East Attica|792|
+40.2915|23.3421|Ólynthos|Central Macedonia|1111|
+39.1012|22.2711|Omvriakí|Central Greece|1210|
+40.7308|22.9172|Oraiókastro|Central Macedonia|20852|
+38.4929|22.9796|Orchomenós|Central Greece|9381|
+38.9503|23.0919|Oreoí|Central Greece|2827|
+41.5031|26.5297|Orestiáda|East Attica|16221|
+41.5044|26.4534|Orestiada|East Macedonia and Thrace|16221|
+40.2945|23.5433|Ormýlia|Central Macedonia|4227|
+37.4239|25.3225|Ornós|South Aegean|1025|
+38.3033|23.7555|Oropós|Attica|1111|
+40.1955|24.1975|Osiou Gregoriou|Central Macedonia|0|
+40.3333|23.9833|Ouranoupolis|Central Macedonia|801|
+38.1887|21.7290|Ovriá|West Greece|6424|
+38.5799|24.1118|Oxílithos|Central Greece|1061|
+41.3051|24.8944|Páchni|East Attica|1110|
+37.9553|23.8544|Paianía|Attica|14595|
+37.6385|23.1561|Palaiá Epídavros|Peloponnese|1713|
+37.7200|23.9479|Palaiá Fókaia|Attica|1254|
+40.7828|22.2739|Palaífyto|Central Macedonia|1475|
+35.2313|23.6819|Palaióchora|Crete|2372|
+40.4919|23.6493|Palaiochóri|Central Macedonia|1262|
+40.9434|24.1775|Palaiochóri|East Attica|1404|
+37.9281|23.7010|Palaió Fáliro|Attica|64021|
+40.8707|23.9012|Palaiokómi|Central Macedonia|1195|
+39.4627|21.6579|Palaiomonástiro|Thessaly|1182|
+39.6084|21.8172|Palaiópyrgos|Thessaly|1035|
+40.9049|24.3508|Palaió Tsiflíki|East Attica|2195|
+38.7830|20.8818|Pálairos|West Greece|3799|
+39.4662|22.0633|Palamas|Central Greece|5719|
+39.4667|22.0833|Palamás|Thessaly|5719|
+35.1979|26.2543|Palekastro|Crete|1254|
+38.0051|23.8830|Pallíni|Attica|14808|
+38.5832|21.4473|Panaitólion|West Greece|2935|
+40.8624|23.7792|Pangaio|East Macedonia and Thrace|0|
+40.5878|23.0315|Panórama|Central Macedonia|17444|
+35.4181|24.6909|Pánormos|Crete|1157|
+36.9716|26.9373|Pánormos|South Aegean|2069|
+40.2792|24.2340|Pantokratoros|Central Macedonia|0|
+37.9864|23.7935|Papágou|Attica|13962|
+39.3144|20.7931|Pappadátes|Epirus|1313|
+38.5282|21.4502|Pappadhátai|West Greece|824|
+40.2671|22.5962|Paralía|Central Macedonia|6228|
+38.1983|21.7026|Paralía|West Greece|8903|
+38.3800|23.6284|Paralía Avlídhos|Central Greece|3115|
+40.7666|23.9004|Paralía Ofryníou|East Attica|1146|
+37.0071|22.1568|Paralía Vérgas|Peloponnese|1966|
+39.4711|20.5111|Paramythiá|Epirus|2568|
+41.2667|24.5000|Paranésti|East Attica|0|
+41.2677|24.4947|Paranesti|East Macedonia and Thrace|0|
+39.5486|20.3244|Parapótamos|Epirus|1126|
+38.6147|21.5205|Paravóla|West Greece|3105|
+39.2857|20.4004|Párga|Epirus|10762|
+37.0833|25.1500|Páros|South Aegean|5289|
+38.0129|22.7281|Pásion|Peloponnese|1298|
+39.1466|23.8649|Patitírion|Thessaly|1628|
+37.3090|26.5472|Pátmos|South Aegean|541|
+38.2444|21.7344|Pátra|West Greece|168034|
+40.5607|22.1854|Patrída|Central Macedonia|1330|
+39.5999|20.8426|Pediní|Epirus|2871|
+40.6581|22.9938|Péfka|Central Macedonia|13435|
+38.0602|23.7926|Péfki|Attica|21352|
+39.9878|23.6122|Pefkochóri|Central Macedonia|2228|
+38.9481|22.8398|Pelasgía|Central Greece|2383|
+40.7617|22.5264|Pélla|Central Macedonia|2476|
+37.6744|21.5934|Pelópi|West Greece|1073|
+40.7430|22.8526|Pentálofos|Central Macedonia|1871|
+40.8190|22.4190|Pentaplátano|Central Macedonia|1015|
+38.0500|23.8667|Pentéli|Attica|4851|
+40.9575|26.2658|Péplos|East Attica|1037|
+38.0302|22.9490|Perachóra|Peloponnese|1141|
+40.4987|22.9262|Peraía|Central Macedonia|18326|
+37.9678|23.5721|Pérama|Attica|25389|
+35.3703|24.7035|Pérama|Crete|1655|
+39.6933|20.8466|Pérama|Epirus|1841|
+39.5829|19.9122|Perama|Ionian Islands|1021|
+39.3697|20.3042|Pérdika|Epirus|1543|
+40.2744|22.5416|Perístasi|Central Macedonia|2367|
+40.5488|23.1654|Peristerá|Central Macedonia|770|
+38.0154|23.6919|Peristéri|Attica|139981|
+39.4194|20.0147|Perivóli|Ionian Islands|1297|
+35.4849|23.9942|Perivólia|Crete|3320|
+37.9404|22.8395|Periyiáli|Peloponnese|1474|
+39.1667|21.0347|Péta|Epirus|1952|
+41.1006|24.8985|Peteinós|East Attica|1014|
+41.0874|24.8409|Petrochóri|East Attica|2709|
+38.0419|23.6849|Petroúpolis|Attica|58979|
+41.1947|24.0173|Petroússa|East Attica|1985|
+40.2256|24.2887|Philotheou|Central Macedonia|0|
+39.5106|21.7010|Pigí|Thessaly|1158|
+38.0016|23.9408|Pikérmi|Attica|7707|
+37.9420|23.6462|Piraeus|Attica|163688|
+35.5167|24.0865|Pithári|Crete|1302|
+40.4728|22.9579|Plagiári|Central Macedonia|5091|
+38.3495|23.6506|Pláka Dílesi|Central Greece|2696|
+40.2008|22.0249|Platanórevma|West Macedonia|864|
+37.6673|21.6111|Plátanos|West Greece|1764|
+39.4504|20.2778|Platariá|Epirus|907|
+40.6424|22.5346|Platý|Central Macedonia|7978|
+40.6667|22.9488|Políchni|Central Macedonia|38887|
+38.5967|23.5446|Politiká|Central Greece|1498|
+38.2160|23.8681|Polydéndri|Attica|1221|
+40.9260|22.0163|Polykárpi|Central Macedonia|1049|
+40.3770|23.4413|Polýgyros|Central Macedonia|10000|
+40.9944|22.5691|Polýkastro|Central Macedonia|7064|
+41.2088|23.2832|Pontisméno|Central Macedonia|1666|
+37.4994|23.4536|Póros|Attica|3651|
+38.1537|20.7712|Póros|Ionian Islands|1131|
+40.2841|23.2955|Portariá|Central Macedonia|1202|
+39.3895|22.9995|Portariá|Thessaly|1849|
+37.3279|23.1438|Pórto Chéli|Peloponnese|2603|
+40.7163|24.7286|Potamiá|East Attica|1274|
+39.6242|19.8783|Potamós|Ionian Islands|3840|
+39.5231|21.1014|Prámanta|Epirus|1137|
+38.9562|20.7505|Préveza|Epirus|17283|
+40.7409|24.5779|Prínos|East Attica|1330|
+39.4868|21.9029|Proástio|Thessaly|1434|
+40.7983|22.6666|Próchoma|Central Macedonia|1940|
+40.8137|22.1617|Profítis Ilías|Central Macedonia|1225|
+35.2056|25.0998|Profítis Ilías|Crete|1482|
+38.7340|23.4906|Prokópi|Central Greece|1108|
+41.0252|22.0044|Prómachoi|Central Macedonia|1654|
+41.1833|23.9667|Prosotsáni|East Attica|4021|
+41.1813|23.9618|Prosotsani|East Macedonia and Thrace|4021|
+40.9441|24.0012|Próti|Central Macedonia|1176|
+41.0682|23.3903|Provatás|Central Macedonia|829|
+38.5785|23.6433|Psachná|Central Greece|5828|
+38.5414|25.5585|Psara|East Attica|454|
+38.0132|23.7722|Psychikó|Attica|9529|
+39.0526|22.9527|Pteleós|Thessaly|1990|
+40.5147|21.6786|Ptolemaḯda|West Macedonia|30045|
+40.5992|22.9861|Pylaía|Central Macedonia|36843|
+39.4597|21.6113|Pyli|Central Greece|0|
+36.8447|27.1593|Pylí|South Aegean|2430|
+39.5528|21.7485|Pyrgetós|Thessaly|1373|
+39.4581|21.6189|Pýli|Thessaly|1790|
+36.9130|21.6965|Pýlos|Peloponnese|2345|
+35.0061|25.1519|Pýrgos|Crete|1134|
+37.6751|21.4410|Pýrgos|West Greece|22399|
+38.0181|24.0060|Rafína|Attica|12168|
+35.3655|24.4823|Rethymno|Crete|32468|
+41.1027|25.1749|Rhodope|East Macedonia and Thrace|0|
+39.4319|22.4908|Rigas Feraios|Central Greece|0|
+38.2956|21.7850|Río|West Greece|14219|
+40.2884|22.2836|Ritíni|Central Macedonia|890|
+40.7837|22.0880|Rizári|Central Macedonia|896|
+41.6249|26.4277|Rízia|East Attica|997|
+40.7333|22.1367|Rizó|Central Macedonia|1106|
+39.6643|21.7354|Rízoma|Thessaly|790|
+40.3506|22.2108|Rizómata|Central Macedonia|1157|
+39.4276|22.7472|Rizómylos|Thessaly|1482|
+38.8883|22.4641|Rodhítsa|Central Greece|3509|
+38.2698|22.0487|Rododáfni|West Greece|2776|
+40.9205|23.9749|Rodolívos|Central Macedonia|2072|
+38.1167|23.8757|Rodópoli|Attica|2110|
+36.4356|28.2220|Ródos|South Aegean|56128|Rhodes
+39.7082|20.7266|Rodotópi|Epirus|1140|
+38.8097|23.2307|Roviés|Central Greece|1206|
+38.1827|21.6841|Royítika|West Greece|1288|
+37.9643|23.4965|Salamína|Attica|25370|
+38.2508|20.6469|Sámi|Ionian Islands|1347|
+37.7136|25.6352|Samos|East Attica|0|
+40.4514|25.4068|Samothrace|East Macedonia and Thrace|0|
+40.4733|25.5222|Samothráki|East Attica|719|
+41.0286|25.6931|Sápes|East Attica|4506|
+38.8900|21.2062|Sardínia|West Greece|1064|
+37.7481|23.9106|Saronída|Attica|3424|
+40.0937|23.9786|Sárti|Central Macedonia|1054|
+37.8216|21.2943|Savália|West Greece|1101|
+38.3500|23.5833|Schimatári|Central Greece|4035|
+35.2576|25.7280|Schísma Eloúndas|Crete|1730|
+41.1338|24.9941|Sélero|East Attica|2059|
+37.9332|23.5315|Selínia|Attica|2509|
+37.1540|24.5061|Sérifos|South Aegean|364|
+41.0850|23.5476|Sérres|Central Macedonia|58287|
+40.1797|21.9944|Sérvia|West Macedonia|3390|
+40.7687|22.1235|Sevastianá|Central Macedonia|1561|
+40.4131|22.5468|Sfendámi|Central Macedonia|694|
+40.2619|21.5442|Siátista|West Macedonia|5612|
+41.2350|23.3890|Sidirókastro|Central Macedonia|5177|
+37.9823|22.7246|Sikyón|Peloponnese|1185|
+40.3456|23.3103|Símantra|Central Macedonia|2421|
+40.1909|24.2447|Simonopetra|Central Macedonia|0|
+40.6705|22.8055|Síndos|Central Macedonia|9289|
+35.3077|25.5202|Sísion|Crete|1003|
+41.1107|24.0276|Sitagroí|East Attica|3240|
+35.2078|26.1047|Sitia|Crete|8707|
+36.8500|22.6667|Skála|Peloponnese|2817|
+37.3222|26.5430|Skála|South Aegean|1747|
+35.2826|25.1868|Skalánion|Crete|1012|
+38.3196|23.7876|Skála Oropoú|Attica|1430|
+38.0113|23.6030|Skarmagkás|Attica|1255|
+39.1667|23.4762|Skiathos|Central Greece|4897|
+39.1623|23.4909|Skiáthos|Thessaly|4897|
+39.1190|23.7224|Skopelos|Central Greece|2886|
+39.1214|23.7269|Skópelos|Thessaly|2886|
+41.1284|23.3817|Skotoússa|Central Macedonia|3248|
+41.0187|23.5197|Skoútari|Central Macedonia|4666|
+40.7672|22.1519|Skýdra|Central Macedonia|4562|
+38.9042|24.5631|Skýros|Central Greece|1732|
+41.2333|24.8667|Smínthi|East Attica|0|
+40.8179|23.3555|Sochós|Central Macedonia|3987|
+39.3357|22.0771|Sofades|Central Greece|0|
+39.3333|22.1000|Sofádes|Thessaly|0|
+37.7941|23.0520|Sofikón|Peloponnese|1679|
+40.9989|22.0325|Sosándra|Central Macedonia|1008|
+35.4872|24.0734|Soúda|Crete|6729|
+41.1919|26.2994|Souflí|East Attica|4149|
+41.1794|25.8529|Soufli|East Macedonia and Thrace|4149|
+40.4727|23.0920|Sourotí|Central Macedonia|1560|
+39.1032|22.8979|Soúrpi|Thessaly|2485|
+39.2329|22.8691|South Pelion|Central Greece|0|
+37.0745|22.4301|Spárti|Peloponnese|16239|Sparta
+37.9616|23.9151|Spáta|Attica|9198|
+38.9066|22.1279|Spercheiáda|Central Greece|2691|
+37.0740|22.0625|Sperchógeia|Peloponnese|1004|
+37.2619|23.1594|Spétses|Attica|4001|
+39.2695|23.5302|Sporades|Central Greece|0|
+35.2926|25.4329|Stalís|Crete|1092|
+38.1255|23.8804|Stamáta|Attica|2901|
+38.8045|21.1746|Stános|West Greece|1132|
+41.2638|22.8386|Stathmós Mourión|Central Macedonia|1040|
+39.6561|20.8181|Stavráki|Epirus|1563|
+40.2673|24.2734|Stavronikita|Central Macedonia|0|
+38.8964|22.3708|Stavrós|Central Greece|2489|
+40.6650|23.7002|Stavrós|Central Macedonia|3672|
+40.6694|22.9381|Stavroúpoli|Central Macedonia|46008|
+39.4635|22.7420|Stefanovíkeio|Thessaly|1970|
+38.4083|22.7116|Steíri|Central Greece|1056|
+40.2378|24.1987|St. Panteleimon|Central Macedonia|0|
+40.5141|23.8247|Stratónion|Central Macedonia|992|
+41.0414|23.3149|Strymonikó|Central Macedonia|2519|
+38.9167|22.6167|Stylída|Central Greece|4892|
+40.2681|22.4637|Svorónos|Central Macedonia|2066|
+40.0387|23.9405|Sykiá|Central Macedonia|2276|
+36.7640|22.9430|Sykiá|Peloponnese|815|
+40.6494|22.9508|Sykiés|Central Macedonia|44955|
+38.1614|22.3316|Sylivainiótika|West Greece|958|
+37.8558|21.3879|Synoikismós Chavaríou|West Greece|1466|
+36.6155|27.8362|Sými|South Aegean|2354|
+37.9706|23.6904|Távros|Attica|14972|
+39.5757|21.8925|Taxiárches|Thessaly|1157|
+38.2371|22.1253|Témeni|West Greece|1213|
+39.8594|22.5284|Tempi|Central Greece|0|
+40.9164|23.4814|Terpní|Central Macedonia|1593|
+40.7781|24.7094|Thásos|East Attica|3234|
+40.5471|23.0197|Thérmi|Central Macedonia|14373|
+38.5736|21.6663|Thérmo|West Greece|1957|
+38.3030|23.1502|Thespiés|Central Greece|1437|
+39.2511|20.7853|Thesprotikó|Epirus|3341|
+40.6436|22.9309|Thessaloníki|Central Macedonia|317778|
+38.3250|23.3189|Thívai|Central Greece|32410|
+37.0836|22.0489|Thouría|Peloponnese|2688|
+38.1296|23.7575|Thrakomakedónes|Attica|7312|
+35.1880|25.2809|Thrapsanón|Crete|1588|
+35.2961|25.0159|Tílisos|Crete|2252|
+37.5375|25.1634|Tínos|South Aegean|4573|
+37.5202|22.8586|Tolón|Peloponnese|1460|
+41.0102|24.4743|Topeiros|East Macedonia and Thrace|0|
+37.8979|21.3124|Traganón|Peloponnese|4276|
+38.6553|21.3832|Triandaíika|West Greece|1484|
+40.6150|22.9762|Triandría|Central Macedonia|9986|
+39.6275|21.0135|Trikala|Central Greece|0|
+40.5981|22.5573|Tríkala|Central Macedonia|1124|
+39.5549|21.7684|Tríkala|Thessaly|61653|
+39.1011|23.0767|Tríkeri|Thessaly|992|
+40.4690|22.9718|Trílofos|Central Macedonia|694|
+37.5089|22.3794|Trípoli|Peloponnese|26561|
+39.6562|20.8388|Tsiflikópoulo|Epirus|1571|
+35.4762|24.0627|Tsikalariá|Crete|1545|
+40.2615|21.3253|Tsotíli|West Macedonia|2619|
+41.0288|26.2946|Tycheró|East Attica|2029|
+35.0729|24.7685|Tympáki|Crete|5285|
+39.7405|22.2651|Tyrnavos|Central Greece|0|
+38.3175|23.1775|Vágia|Central Greece|4535|
+38.1760|20.5839|Valsamáta|Ionian Islands|676|
+41.1793|23.3202|Valteró|Central Macedonia|1102|
+41.1792|23.3960|Vamvakófyto|Central Macedonia|825|
+37.7945|20.8519|Vanáton|Ionian Islands|1191|
+38.0306|21.3651|Várda|West Greece|3687|
+37.8332|23.8031|Vári|Attica|16717|
+37.3986|24.9490|Vári|South Aegean|1266|
+38.2236|23.9231|Varnávas|Attica|1771|
+37.8622|21.2057|Vartholomió|West Greece|6145|
+37.6711|21.4989|Varvásaina|West Greece|1032|
+38.1272|23.7873|Varybóbi|Attica|1950|
+40.4797|23.1369|Vasiliká|Central Macedonia|9578|
+39.6398|21.7045|Vasilikí|Thessaly|1388|
+38.4259|23.6719|Vasilikón|Central Greece|6571|
+38.4049|23.6033|Vathí|Central Greece|5029|
+37.7642|23.4801|Vathý|Attica|1495|
+40.7694|22.7088|Vathýlakkos|Central Macedonia|2002|
+40.3148|24.2083|Vatopedi|Central Macedonia|0|
+39.3818|22.7462|Velestíno|Thessaly|3044|
+37.9761|22.7599|Vélo|Peloponnese|3096|
+40.2553|22.0754|Velventós|West Macedonia|3448|
+40.4865|22.3174|Vergína|Central Macedonia|2034|
+40.5244|22.2024|Véroia|Central Macedonia|44464|
+38.1672|23.3366|Vília|Attica|2514|
+35.3586|24.4386|Violí Charáki|Crete|2785|
+39.5834|19.8827|Virós|Ionian Islands|1201|
+36.8609|22.7083|Vlachiótis|Peloponnese|2404|
+37.0319|21.7916|Vlachópoulo|Peloponnese|682|
+38.0273|23.4366|Vlycháda|Attica|1462|
+37.9484|22.7920|Vokhaïkó|Peloponnese|1020|
+41.3166|24.0022|Vólakas|East Attica|2378|
+39.3653|22.9061|Volos|Central Greece|86048|
+39.3610|22.9425|Volos|Thessaly|86048|
+38.9164|20.8864|Vónitsa|West Greece|4703|
+37.8422|23.7765|Voúla|Attica|28364|
+39.3719|21.1833|Voulgaréli|Epirus|590|
+37.8142|23.7789|Vouliagméni|Attica|4332|
+39.6916|20.7860|Vounoplagiá|Epirus|1404|
+38.1625|21.6669|Vrachnaíika|West Greece|2571|
+37.9590|22.8057|Vrakháti|Peloponnese|3603|
+38.1250|23.9520|Vraná|Attica|1082|
+38.0338|23.8296|Vrilissia|Attica|30741|
+40.1936|22.4320|Vrontoú|Central Macedonia|1762|
+35.3758|24.2011|Vrýses|Crete|740|
+37.9611|23.7530|Výronas|Attica|61308|
+39.1761|25.8940|West Lesbos|East Attica|0|
+41.1349|24.8880|Xánthi|East Attica|48221|
+41.1271|24.5133|Xanthi|East Macedonia and Thrace|48221|
+40.2586|24.1761|Xenophontos|Central Macedonia|0|
+40.2349|24.1486|Xeropotamou|Central Macedonia|0|
+40.9271|23.1794|Xilópolis|Central Macedonia|601|
+40.6903|21.6232|Xinó Neró|West Macedonia|907|
+41.1921|24.1039|Xiropótamos|East Attica|2670|
+40.9744|25.4202|Xylaganí|East Attica|1445|
+38.0776|22.6317|Xylókastro|Peloponnese|5500|
+38.4405|23.8840|Yimnón|Central Greece|2008|
+37.9534|23.7490|Ymittos|Attica|11000|
+37.4833|21.6500|Zacháro|West Greece|5894|
+39.4500|23.1000|Zagorá|Thessaly|2385|
+39.4382|22.9407|Zagora-Mouresi|Central Greece|0|
+37.7802|20.8956|Zakynthos|Ionian Islands|11541|
+39.6086|22.1234|Zárkos|Thessaly|957|
+35.1303|24.9041|Zarós|Crete|2565|
+38.0665|23.7170|Zefyri|Attica|9901|
+37.9333|22.8000|Zevgolateió|Peloponnese|4363|
+36.8770|27.2053|Zipári|South Aegean|2706|
+37.9757|23.7691|Zográfos|Attica|71026|
+40.3063|24.1577|Zografou|Central Macedonia|0|
+35.2950|24.8294|Zonianá|Crete|1206|
+41.0132|24.3813|Zygós|East Attica|1574|
+37.3498|23.4656|Ýdra|Attica|1900|

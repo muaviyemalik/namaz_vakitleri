@@ -1,156 +1,156 @@
-3.9833|13.1833|Abong Mbang
-2.7833|10.5667|Akom II
-3.5000|11.3333|Akono
-3.7667|12.2500|Akonolinga
-2.3833|11.2833|Ambam
-6.1167|10.2500|Babanki
-5.1570|10.1771|Bafang
-4.7500|11.2333|Bafia
-5.4778|10.4176|Bafoussam
-6.0833|10.1000|Bafut
-5.8874|10.0118|Bali
-5.9597|10.1460|Bamenda
-5.3899|10.3301|Bamendjou
-4.4591|8.9027|Bamusso
-5.1466|10.2754|Bana
-5.3757|10.4133|Bandjoun
-5.1408|10.5253|Bangangté
-6.0830|11.4905|Bankim
-5.4484|10.3135|Bansoa
-6.7500|11.8167|Banyo
-5.8358|9.8553|Batibo
-4.4333|14.3667|Batouri
-5.0600|10.4675|Bazou
-4.6819|9.3214|Bekondo
-4.9333|13.3000|Bélabo
-7.0500|14.4333|Bélel
-6.1333|10.2500|Belo
-4.5773|13.6846|Bertoua
-5.6000|14.0833|Bétaré Oya
-12.7752|14.5533|Blangwa
-10.7336|14.6093|Bogo
-4.0714|9.6818|Bonabéri
-6.3636|10.3554|Boyo
-4.1534|9.2423|Buea
-4.2500|10.0167|Diang
-4.1787|9.6561|Dibombari
-4.3833|13.5667|Dimako
-3.7667|9.9833|Dizangué
-6.8333|14.7000|Djohong
-4.0483|9.7043|Douala
-4.2333|13.4500|Doumé
-5.4440|10.0533|Dschang
-2.9000|11.1500|Ébolowa
-3.8000|10.1333|Edéa
-4.6030|9.0404|Ekondo Titi
-3.6500|10.7667|Eséka
-4.1000|11.9000|Essé
-4.0833|11.2000|Évodoula
-4.1667|9.1667|Fako Division
-8.2501|12.8783|Faro Department
-9.7557|13.9647|Figuil
-5.4685|9.8818|Fontem
-5.7266|10.8986|Foumban
-5.5080|10.6325|Foumbot
-6.2500|10.2667|Fundong
-9.3014|13.3977|Garoua
-5.8833|14.5500|Garoua Boulaï
-9.9333|13.9467|Guider
-10.1337|14.7075|Guidiguis
-5.2963|10.3431|Hauts-Plateaux
-6.1000|10.6500|Jakiri
-10.1092|14.4508|Kaélé
-5.1569|10.0200|Kekem
-7.9667|12.2333|Kontcha
-5.3385|10.4745|Koung-Khi
-12.0769|15.0306|Kousséri
-10.8685|13.8820|Koza
-2.9373|9.9077|Kribi
-4.6363|9.4469|Kumba
-6.2000|10.6667|Kumbo
-9.0583|13.6661|Lagdo
-5.5604|9.9232|Lebialem
-4.0236|9.2061|Limbe
-3.2333|10.7333|Lolodorf
-4.7182|9.7351|Loum
-10.8434|14.9396|Maga
-5.9500|11.2167|Magba
-3.5500|11.0333|Makak
-12.5754|14.4548|Makary
-5.7513|9.3137|Mamfe
-4.8428|9.8217|Manjo
-10.5909|14.3159|Maroua
-6.5814|11.7352|Mayo-Banyo
-9.9658|13.7274|Mayo-Louti
-8.1263|14.6146|Mayo-Rey
-11.1068|14.2056|Mayo-Sava
-10.5822|13.7935|Mayo-Tsanaga
-3.5167|11.5000|Mbalmayo
-4.7375|10.9697|Mbam-Et-Inoubou
-4.4500|11.9000|Mbandjok
-4.5833|13.3333|Mbang
-4.5016|9.5671|Mbanga
-3.7833|11.3833|Mbankomo
-6.0167|10.0000|Mbengwi
-5.6261|10.2542|Mbouda
-3.5871|11.3609|Mefou-et-Akono
-6.5167|14.3000|Meïganga
-5.1218|9.9614|Melong
-3.8667|11.5167|Mfoundi|Yaoundé
-10.3976|14.4363|Mindif
-4.5833|12.8000|Minta
-6.3333|10.2333|Mme-Bafumen
-10.7424|13.8023|Mokolo
-11.0461|14.1401|Mora
-3.6397|9.7769|Mouanko
-4.9479|8.8724|Mundemba
-4.0913|9.3144|Mutengene
-4.2898|9.4103|Muyuka
-2.9667|11.5167|Mvangué
-2.7980|11.3943|Mvila
-4.6833|12.3667|Nanga Eboko
-4.0407|14.9250|Ndelele
-4.7667|10.8333|Ndikiniméki
-4.4978|9.5628|Ndom
-5.9884|10.4386|Ndop
-4.2334|10.6153|Ngambé
-6.5000|13.2667|Ngaoundal
-7.3277|13.5847|Ngaoundéré
-3.2500|11.2000|Ngomedzap
-4.9500|11.3833|Ngoro
-5.1969|10.3859|Ngou
-5.3299|9.4185|Nguti
-6.2333|10.2833|Njinikom
-4.5806|9.6647|Njombé
-6.6333|10.6667|Nkambe
-4.9547|9.9404|Nkongsamba
-4.5167|12.0333|Nkoteng
-5.6412|10.9184|Noun
-4.4500|11.6333|Ntui
-4.1667|11.5333|Obala
-3.9833|11.6000|Okoa
-4.0167|11.3833|Okola
-6.2500|10.4333|Oku
-4.6000|11.2500|Ombésa
-4.6391|9.6799|Penja
-9.3839|13.5023|Pitoa
-8.4756|13.2410|Poli
-8.6724|14.1786|Rey Bouba
-4.3667|11.4500|Saa
-2.9333|11.9833|Sangmélima
-6.4584|11.4330|Somié
-4.2344|9.6164|Souza Gare
-9.0287|13.1848|Tchéboa
-8.4022|14.1698|Tcholliré
-6.4650|12.6284|Tibati
-7.3667|12.6500|Tignère
-4.0750|9.3600|Tiko
-4.7466|9.6705|Tombel
-4.9667|10.7000|Tonga
-7.7708|15.3568|Touboro
-7.1636|13.7271|Vina
-6.3833|10.0667|Wum
-4.4570|9.9682|Yabassi
-10.3411|15.2329|Yagoua
-3.5167|15.0500|Yokadouma
-5.5333|12.3167|Yoko
+3.9833|13.1833|Abong Mbang|East|24433|
+2.7833|10.5667|Akom II|South|9709|
+3.5000|11.3333|Akono|Centre|3821|
+3.7667|12.2500|Akonolinga|Centre|30078|
+2.3833|11.2833|Ambam|South|25052|
+6.1167|10.2500|Babanki|Northwest|9851|
+5.1570|10.1771|Bafang|West|54505|
+4.7500|11.2333|Bafia|Centre|74050|
+5.4778|10.4176|Bafoussam|West|373268|
+6.0833|10.1000|Bafut|North-West|25563|
+5.8874|10.0118|Bali|Northwest|27473|
+5.9597|10.1460|Bamenda|Northwest|420445|
+5.3899|10.3301|Bamendjou|West|6643|
+4.4591|8.9027|Bamusso|Southwest|24741|
+5.1466|10.2754|Bana|West|5727|
+5.3757|10.4133|Bandjoun|West|31750|
+5.1408|10.5253|Bangangté|West|43694|
+6.0830|11.4905|Bankim|Adamawa|5727|
+5.4484|10.3135|Bansoa|West|7560|
+6.7500|11.8167|Banyo|Adamawa|47936|
+5.8358|9.8553|Batibo|Northwest|9163|
+4.4333|14.3667|Batouri|East|49422|
+5.0600|10.4675|Bazou|West|13058|
+4.6819|9.3214|Bekondo|Southwest|7331|
+4.9333|13.3000|Bélabo|East|24359|
+7.0500|14.4333|Bélel|Adamawa|6831|
+6.1333|10.2500|Belo|Northwest|8705|
+4.5773|13.6846|Bertoua|East|137993|
+5.6000|14.0833|Bétaré Oya|East|11866|
+12.7752|14.5533|Blangwa|Far North|27208|
+10.7336|14.6093|Bogo|Far North|32830|
+4.0714|9.6818|Bonabéri|Littoral|8091|
+6.3636|10.3554|Boyo|Northwest|0|
+4.1534|9.2423|Buea|Southwest|140533|
+4.2500|10.0167|Diang|Littoral|2062|
+4.1787|9.6561|Dibombari|Littoral|4811|
+4.3833|13.5667|Dimako|East|8476|
+3.7667|9.9833|Dizangué|Littoral|19243|
+6.8333|14.7000|Djohong|Adamawa|4813|
+4.0483|9.7043|Douala|Littoral|1338082|
+4.2333|13.4500|Doumé|East|5581|
+5.4440|10.0533|Dschang|West|99582|
+2.9000|11.1500|Ébolowa|South|101363|
+3.8000|10.1333|Edéa|Littoral|103861|
+4.6030|9.0404|Ekondo Titi|South-West|23975|
+3.6500|10.7667|Eséka|Centre|27928|
+4.1000|11.9000|Essé|Centre|3803|
+4.0833|11.2000|Évodoula|Centre|1521|
+4.1667|9.1667|Fako Division|Southwest|0|
+8.2501|12.8783|Faro Department|North|0|
+9.7557|13.9647|Figuil|North|31550|
+5.4685|9.8818|Fontem|Southwest|42689|
+5.7266|10.8986|Foumban|West|130287|
+5.5080|10.6325|Foumbot|West|74319|
+6.2500|10.2667|Fundong|Northwest|43509|
+9.3014|13.3977|Garoua|North|34957|
+5.8833|14.5500|Garoua Boulaï|East|46615|
+9.9333|13.9467|Guider|North|81608|
+10.1337|14.7075|Guidiguis|Far North|24554|
+5.2963|10.3431|Hauts-Plateaux|West|0|
+6.1000|10.6500|Jakiri|Northwest|5269|
+10.1092|14.4508|Kaélé|Far North|32853|
+5.1569|10.0200|Kekem|West|27038|
+7.9667|12.2333|Kontcha|Adamawa|8018|
+5.3385|10.4745|Koung-Khi|West|0|
+12.0769|15.0306|Kousséri|Far North|139024|
+10.8685|13.8820|Koza|Far North|3665|
+2.9373|9.9077|Kribi|South|93482|
+4.6363|9.4469|Kumba|Southwest|225046|
+6.2000|10.6667|Kumbo|Northwest|125124|
+9.0583|13.6661|Lagdo|North|33564|
+5.5604|9.9232|Lebialem|Southwest|0|
+4.0236|9.2061|Limbe|Southwest|131381|
+3.2333|10.7333|Lolodorf|South|22252|
+4.7182|9.7351|Loum|Littoral|58554|
+10.8434|14.9396|Maga|Far North|24492|
+5.9500|11.2167|Magba|West|30931|
+3.5500|11.0333|Makak|Centre|29135|
+12.5754|14.4548|Makary|Far North|7331|
+5.7513|9.3137|Mamfe|Southwest|20350|
+4.8428|9.8217|Manjo|Littoral|41740|
+10.5909|14.3159|Maroua|Far North|314122|
+6.5814|11.7352|Mayo-Banyo|Adamawa|0|
+9.9658|13.7274|Mayo-Louti|North|0|
+8.1263|14.6146|Mayo-Rey|North|0|
+11.1068|14.2056|Mayo-Sava|Far North|0|
+10.5822|13.7935|Mayo-Tsanaga|Far North|0|
+3.5167|11.5000|Mbalmayo|Centre|82384|
+4.7375|10.9697|Mbam-Et-Inoubou|Centre|0|
+4.4500|11.9000|Mbandjok|Centre|29281|
+4.5833|13.3333|Mbang|East|1237|
+4.5016|9.5671|Mbanga|Littoral|44155|
+3.7833|11.3833|Mbankomo|Centre|2387|
+6.0167|10.0000|Mbengwi|Northwest|9734|
+5.6261|10.2542|Mbouda|West|71867|
+3.5871|11.3609|Mefou-et-Akono|Centre|0|
+6.5167|14.3000|Meïganga|Adamawa|59426|
+5.1218|9.9614|Melong|Littoral|76716|
+3.8667|11.5167|Mfoundi|Centre|1299369|Yaoundé
+10.3976|14.4363|Mindif|Far North|10538|
+4.5833|12.8000|Minta|Centre|4934|
+6.3333|10.2333|Mme-Bafumen|Northwest|6149|
+10.7424|13.8023|Mokolo|Far North|51999|
+11.0461|14.1401|Mora|Far North|61523|
+3.6397|9.7769|Mouanko|Littoral|1604|
+4.9479|8.8724|Mundemba|Southwest|11912|
+4.0913|9.3144|Mutengene|Southwest|64054|
+4.2898|9.4103|Muyuka|Southwest|43749|
+2.9667|11.5167|Mvangué|South|1908|
+2.7980|11.3943|Mvila|South|0|
+4.6833|12.3667|Nanga Eboko|Centre|28518|
+4.0407|14.9250|Ndelele|East|5040|
+4.7667|10.8333|Ndikiniméki|Centre|8247|
+4.4978|9.5628|Ndom|Littoral|5498|
+5.9884|10.4386|Ndop|North-West|40152|
+4.2334|10.6153|Ngambé|Littoral|6414|
+6.5000|13.2667|Ngaoundal|Adamaoua|40328|
+7.3277|13.5847|Ngaoundéré|Adamawa|238196|
+3.2500|11.2000|Ngomedzap|Centre|4284|
+4.9500|11.3833|Ngoro|Centre|2305|
+5.1969|10.3859|Ngou|West|7560|
+5.3299|9.4185|Nguti|Southwest|5498|
+6.2333|10.2833|Njinikom|Northwest|8247|
+4.5806|9.6647|Njombé|Littoral|27130|
+6.6333|10.6667|Nkambe|North-West|26816|
+4.9547|9.9404|Nkongsamba|Littoral|162309|
+4.5167|12.0333|Nkoteng|Centre|27677|
+5.6412|10.9184|Noun|West|0|
+4.4500|11.6333|Ntui|Centre|6185|
+4.1667|11.5333|Obala|Centre|45321|
+3.9833|11.6000|Okoa|Centre|24110|
+4.0167|11.3833|Okola|Centre|5390|
+6.2500|10.4333|Oku|North-West|44443|
+4.6000|11.2500|Ombésa|Centre|1833|
+4.6391|9.6799|Penja|Littoral|21367|
+9.3839|13.5023|Pitoa|North|33610|
+8.4756|13.2410|Poli|North|5727|
+8.6724|14.1786|Rey Bouba|North|11454|
+4.3667|11.4500|Saa|Centre|5727|
+2.9333|11.9833|Sangmélima|South|80036|
+6.4584|11.4330|Somié|Adamawa|2000|
+4.2344|9.6164|Souza Gare|Littoral|24994|
+9.0287|13.1848|Tchéboa|North|35199|
+8.4022|14.1698|Tcholliré|North|23187|
+6.4650|12.6284|Tibati|Adamawa|35673|
+7.3667|12.6500|Tignère|Adamawa|4353|
+4.0750|9.3600|Tiko|Southwest|94836|
+4.7466|9.6705|Tombel|South-West|24384|
+4.9667|10.7000|Tonga|West|16036|
+7.7708|15.3568|Touboro|North|28987|
+7.1636|13.7271|Vina|Adamawa|0|
+6.3833|10.0667|Wum|Northwest|42457|
+4.4570|9.9682|Yabassi|Littoral|7560|
+10.3411|15.2329|Yagoua|Far North|59069|
+3.5167|15.0500|Yokadouma|East|32900|
+5.5333|12.3167|Yoko|Centre|5269|

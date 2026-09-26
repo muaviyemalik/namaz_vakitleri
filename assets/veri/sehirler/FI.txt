@@ -1,459 +1,461 @@
-62.6000|25.7333|Äänekoski
-61.2833|22.6833|Äetsä
-62.5540|24.0619|Ähtäri
-61.3300|23.6900|Aimala
-61.3390|24.4943|Aitoo
-61.1667|23.8681|Akaa
-63.2333|22.8500|Alahärmä
-63.0000|23.8167|Alajärvi
-60.9500|22.8500|Alastaro
-64.1667|24.3000|Alavieska
-62.5833|23.6167|Alavus
-61.5000|23.7450|Amuri
-60.6833|26.8333|Anjala
-60.7454|26.0708|Artjärvi
-61.2167|25.5000|Asikkala
-60.5667|21.8667|Askainen
-60.5333|25.6000|Askola
-60.6471|22.5876|Aura
-61.2990|25.0889|Auttoinen
-60.0667|22.4833|Dragsfjärd
-60.2104|25.0829|East Helsinki
-59.9736|23.4339|Ekenäs
-60.7167|26.4667|Elimäki
-62.8051|30.1542|Eno
-62.0833|28.9333|Enonkoski
-68.3857|23.6321|Enontekiö
-60.2052|24.6522|Espoo
-60.1505|24.6531|Espoonlahti
-61.1333|22.1333|Eura
-61.2000|21.7333|Eurajoki
-63.3667|23.4833|Evijärvi
-60.8146|23.6215|Forssa
-60.2195|24.6168|Gumböle
-60.2213|24.8976|Haaga
-63.7500|25.3333|Haapajärvi
-64.1333|25.3667|Haapavesi
-61.4763|23.8771|Haihara
-65.0090|24.7139|Hailuoto
-60.4000|23.0833|Halikko
-61.4625|23.8292|Hallila
-63.4667|24.1667|Halsua
-61.0222|25.1542|Hämeenkoski
-61.6333|23.2000|Hämeenkyrö
-60.9960|24.4643|Hämeenlinna
-60.5697|27.1979|Hamina
-62.3833|26.4333|Hankasalmi
-59.8333|22.9500|Hanko
-61.3167|22.1333|Harjavalta
-61.5833|26.0167|Hartola
-61.1726|24.5630|Hauho
-65.1765|25.3523|Haukipudas
-62.0175|27.2191|Haukivuori
-60.7833|24.9333|Hausjärvi
-62.4333|28.6000|Heinävesi
-61.2056|26.0381|Heinola
-60.1695|24.9354|Helsinki
-60.1947|25.0354|Herttoniemi
-61.4481|23.8521|Hervanta
-63.0848|21.6172|Hietalahti
-64.0622|23.6545|Himanka
-61.6333|26.8000|Hirvensalmi
-61.0500|25.4333|Hollola
-60.2228|21.3722|Houtskär
-61.1833|22.7000|Huittinen
-60.9333|23.3667|Humppila
-64.6667|28.5333|Hyrynsalmi
-60.6333|24.8667|Hyvinge
-65.3174|25.3731|Ii
-63.5592|27.1907|Iisalmi
-60.8949|26.3387|Iitti
-61.7694|23.0681|Ikaalinen
-62.7333|22.5667|Ilmajoki
-62.6716|30.9328|Ilomantsi
-61.1718|28.7524|Imatra
-68.9060|27.0288|Inari
-60.0459|24.0046|Ingå
-60.4000|21.4000|Iniö
-62.1132|21.9588|Isojoki
-63.0117|22.3333|Isokyrö
-68.6599|27.5389|Ivalo
-61.0525|26.4812|Jaala
-63.6749|22.7026|Jakobstad
-62.5000|22.7500|Jalasjärvi
-61.8167|22.7000|Jämijärvi
-61.8642|25.1900|Jämsä
-61.9190|25.1701|Jämsänkoski
-60.9000|24.6000|Janakkala
-62.3790|27.4337|Jäppilä
-60.4737|25.0899|Järvenpää
-62.6012|29.7632|Joensuu
-60.8016|23.4800|Jokioinen
-62.1782|27.8316|Joroinen
-61.7333|26.1167|Joutsa
-61.1180|28.5076|Joutseno
-62.6833|21.9833|Jurva
-63.2333|29.2500|Juuka
-61.7967|24.3700|Juupajoki
-61.9000|27.8500|Juva
-62.2415|25.7209|Jyväskylä
-60.2517|24.8811|Kaarela
-60.4072|22.3690|Kaarina
-64.2273|27.7285|Kajaani
-64.2500|23.9500|Kalajoki
-60.1843|24.9503|Kallio
-63.8607|23.4529|Kälviä
-61.1008|24.1218|Kalvola
-61.4639|24.0650|Kangasala
-61.9936|26.6478|Kangasniemi
-61.8000|22.4167|Kankaanpää
-62.9667|25.2500|Kannonkoski
-63.9000|23.9000|Kannus
-60.5216|26.9312|Karhula
-62.3085|21.7086|Karijoki
-60.6667|22.7667|Karinainen
-60.0718|23.6616|Karis
-60.2401|23.7179|Karjalohja
-60.5342|24.2098|Karkkila
-60.6129|23.9420|Kärkölä
-63.9667|25.7667|Kärsämäki
-62.8667|24.7833|Karstula
-62.1333|22.5667|Karvia
-62.3844|21.2233|Kaskinen
-62.4333|22.1833|Kauhajoki
-63.1030|23.0713|Kauhava
-60.2121|24.7276|Kauniainen
-63.5488|23.6884|Kaustinen
-60.5327|25.1092|Kellokoski
-65.7364|24.5637|Kemi
-66.7131|27.4306|Kemijärvi
-65.8016|24.5448|Keminmaa
-64.9131|25.5034|Kempele
-60.4034|25.1050|Kerava
-61.9107|29.2823|Kerimäki
-61.8975|29.8349|Kesälahti
-64.3500|26.2792|Kestilä
-62.2667|24.7000|Keuruu
-62.2083|23.1792|Kihniö
-62.4952|30.2508|Kiihtelysvaara
-60.4667|23.5667|Kiikala
-61.3208|22.7754|Kiikka
-61.4500|22.5750|Kiikoinen
-65.1314|25.7974|Kiiminki
-60.2175|24.7815|Kilo
-60.1605|22.7290|Kimito
-63.3833|24.9500|Kinnula
-60.1238|24.4385|Kirkkonummi
-60.2333|23.4833|Kisko
-62.1000|30.1500|Kitee
-67.6647|24.8936|Kittilä
-61.2167|22.0833|Kiukainen
-63.1198|25.0784|Kivijärvi
-60.3824|24.7510|Klaukkala
-61.2565|22.3564|Kokemäki
-63.8541|23.5856|Kokkola
-67.3305|23.7779|Kolari
-62.1333|24.5167|Kolho
-62.6167|26.3167|Konnevesi
-62.7602|29.8471|Kontiolahti
-62.0167|25.5500|Korpilahti
-63.1142|21.6822|Korsholm
-62.7833|21.2000|Korsnäs
-63.3000|23.1667|Kortesjärvi
-60.4664|26.9458|Kotka
-60.1526|24.7647|Koukkuniemi
-60.8667|26.7000|Kouvola
-61.1191|22.3098|Köyliö
-62.2743|21.3760|Kristinestad
-63.7286|23.0339|Kronoby
-61.5050|24.5667|Kuhmalahti
-64.1333|29.5167|Kuhmo
-61.5667|25.1833|Kuhmoinen
-65.5785|25.1881|Kuivaniemi
-61.4700|22.1614|Kullaa
-62.8924|27.6770|Kuopio
-62.8000|23.5000|Kuortane
-62.6167|22.4167|Kurikka
-61.8756|23.7195|Kuru
-60.5453|21.3588|Kustavi
-65.9667|29.1833|Kuusamo
-60.5167|23.2000|Kuusjoki
-61.1500|23.6917|Kylmäkoski
-63.0333|24.5667|Kyyjärvi
-60.1752|25.0309|Laajasalo
-60.9827|25.6615|Lahti
-62.9761|22.0114|Laihia
-60.8757|21.6976|Laitila
-61.0833|25.0167|Lammi
-61.6889|24.6919|Längelmäki
-60.6244|26.1972|Lapinjärvi
-63.2000|23.6333|Lappajärvi
-61.0587|28.1887|Lappeenranta
-61.1000|21.8333|Lappi
-62.9693|23.0088|Lapua
-63.7539|22.7473|Larsmo
-62.4141|25.9519|Laukaa
-60.1590|24.8680|Lauttasaari
-61.6000|22.6000|Lavia
-62.7833|23.9167|Lehtimäki
-61.9120|26.1280|Leivonmäki
-61.0624|27.8057|Lemi
-61.3139|23.7528|Lempäälä
-60.5667|21.9667|Lemu
-61.5280|23.7057|Lentävänniemi
-60.2128|24.8135|Leppävaara
-63.5333|24.6500|Lestijärvi
-63.3167|30.0167|Lieksa
-61.5167|23.6667|Lielahti
-60.5103|22.4618|Lieto
-60.5735|26.0526|Liljendal
-64.8098|25.4154|Liminka
-62.5333|29.3667|Liperi
-60.2486|24.0653|Lohja
-64.0247|23.5048|Lohtaja
-60.8497|23.0561|Loimaa
-60.7167|24.4500|Loppi
-60.4566|26.2250|Lovisa
-61.7968|25.7046|Luhanka
-64.8374|25.1861|Lumijoki
-61.3629|24.6678|Luopioinen
-60.9262|27.5814|Luumäki
-61.3638|21.6256|Luvia
-62.9423|21.5731|Malax
-60.6333|25.3167|Mäntsälä
-62.0301|24.6279|Mänttä
-61.4167|26.8833|Mäntyharju
-60.5833|22.9000|Marttila
-60.5708|22.0988|Masku
-60.1589|24.7424|Matinkylä
-60.7667|22.9500|Mellilä
-60.2336|25.0995|Mellunkylä
-64.3000|24.4500|Merijärvi
-61.8584|21.5004|Merikarvia
-60.4833|21.8667|Merimasku
-61.4853|23.8447|Messukylä
-60.6667|27.7000|Miehikkälä
-60.6333|21.9333|Mietoinen
-61.6886|27.2723|Mikkeli
-61.5000|23.0167|Mouhijärvi
-64.8080|25.9931|Muhos
-62.4167|24.7833|Multia
-60.1986|24.8777|Munkkiniemi
-67.9500|23.7000|Muonio
-62.1333|25.6667|Muurame
-60.3500|23.2833|Muurla
-60.6791|21.9927|Mynämäki
-60.6696|25.8475|Myrskylä
-60.2671|24.8471|Myyrmäki
-60.4674|22.0243|Naantali
-60.1938|21.9097|Nagu
-61.4652|23.6525|Naistenmatka
-61.3667|22.0000|Nakkila
-60.9500|25.9333|Nastola
-61.4833|23.7906|Nekala
-63.9167|24.9667|Nivala
-61.4767|23.5053|Nokia
-61.5927|21.8685|Noormarkku
-60.6042|22.0793|Nousiainen
-60.9601|28.5510|Nuijamaa
-63.5421|29.1396|Nurmes
-61.5378|23.9418|Nurmi
-60.4641|24.8073|Nurmijärvi
-62.8287|22.9099|Nurmo
-61.0400|23.4300|Nuutajärvi
-63.5228|22.5307|Nykarleby
-60.1724|24.7271|Olari
-63.3013|22.3782|Oravais
-60.8049|25.7296|Orimattila
-60.8500|22.6833|Oripää
-61.6778|24.3569|Orivesi
-61.7087|23.1587|Osara
-60.1840|24.8279|Otaniemi
-64.2667|24.8000|Oulainen
-65.0124|25.4682|Oulu
-60.2292|24.9640|Oulunkylä
-64.9346|25.4112|Oulunsalo
-62.7268|29.0159|Outokumpu
-61.3500|25.2833|Padasjoki
-60.4567|22.6869|Paimio
-61.3540|24.5191|Pälkäne
-64.4167|27.8333|Paltamo
-60.3067|22.3010|Pargas
-61.5500|29.5000|Parikkala
-62.0097|23.0250|Parkano
-63.6500|22.6833|Pedersöre
-67.1108|27.5106|Pelkosenniemi
-66.7736|23.9626|Pello
-63.2167|24.4167|Perho
-60.4487|26.0319|Pernå
-60.2000|23.1333|Perniö
-60.4333|23.2667|Pertteli
-61.5000|26.4833|Pertunmaa
-62.2500|25.2000|Petäjävesi
-62.3000|27.1333|Pieksämäki
-63.3833|25.5667|Pihtipudas
-60.4248|22.5160|Piikkiö
-64.1667|25.9667|Piippola
-61.4667|23.6500|Pirkkala
-61.5061|23.7025|Pispala
-60.2229|24.8610|Pitäjänmäki
-60.0963|23.5276|Pohja
-62.1563|24.1319|Pohjaslahti
-61.4535|23.8474|Pohjois-Hervanta
-62.8500|29.3667|Polvijärvi
-61.6935|22.0086|Pomarkku
-61.4833|21.7833|Pori
-60.4758|25.3749|Pornainen
-60.3923|25.6651|Porvoo
-66.1086|28.1719|Posio
-60.7667|22.6667|Pöytyä
-65.3833|26.9167|Pudasjärvi
-60.6500|25.5667|Pukkila
-64.2667|25.8667|Pulkkila
-61.7588|29.3884|Punkaharju
-61.1117|23.1050|Punkalaidun
-64.8667|27.6667|Puolanka
-61.5273|28.1749|Puumala
-67.0701|27.2176|Pyhäjärvi
-64.4667|24.2333|Pyhäjoki
-64.1000|26.3167|Pyhäntä
-60.9500|21.4500|Pyhäranta
-62.4333|29.9667|Pyhäselkä
-60.4935|26.5435|Pyhtää
-62.6667|24.8000|Pylkönmäki
-64.6833|24.4833|Raahe
-62.3167|29.6167|Rääkkylä
-60.0027|23.5550|Raaseporin
-60.4859|22.1689|Raisio
-62.0667|28.3000|Rantasalmi
-64.5061|25.6645|Rantsila
-65.9167|26.5333|Ranua
-59.9774|23.4397|Raseborg
-61.1272|21.5113|Rauma
-61.4333|29.3500|Rautjärvi
-63.6167|24.9000|Reisjärvi
-60.8956|24.2878|Renko
-63.2288|21.4169|Replot
-60.7377|24.7773|Riihimäki
-61.5058|27.2464|Ristiina
-64.5000|28.2167|Ristijärvi
-63.0919|21.7230|Ristinummi
-66.5000|25.7167|Rovaniemi
-61.2833|28.8333|Ruokolahti
-60.5268|26.4620|Ruotsinpyhtää
-61.9833|24.0833|Ruovesi
-60.5333|22.2167|Rusko
-64.6667|25.1000|Ruukki
-60.3766|21.9418|Rymättylä
-61.2000|24.0667|Sääksmäki
-61.6500|29.7500|Saari
-62.7049|25.2540|Saarijärvi
-61.4667|24.3167|Sahalahti
-61.0333|22.3333|Säkylä
-66.8333|28.6667|Salla
-60.3833|23.1333|Salo
-60.3199|23.8209|Sammatti
-60.1139|22.9500|Särkisalo
-61.3417|22.9083|Sastamala
-60.3431|22.6964|Sauvo
-61.2000|27.7000|Savitaipale
-61.8699|28.8800|Savonlinna
-62.1833|29.2000|Savonranta
-67.2925|28.1581|Savukoski
-62.1403|25.7695|Säynätsalo
-62.7945|22.8282|Seinäjoki
-60.3775|25.2691|Sibbo
-63.9000|24.5000|Sievi
-61.8770|21.8194|Siikainen
-64.8145|24.7592|Siikajoki
-63.0833|27.6667|Siilinjärvi
-65.6667|25.0500|Simo
-60.1386|24.2272|Siuntio
-67.4167|26.6000|Sodankylä
-62.8667|24.2167|Soini
-60.6167|23.5333|Somero
-64.1333|28.4167|Sotkamo
-61.7869|28.3730|Sulkava
-62.6574|26.0464|Sumiainen
-61.5581|22.7853|Suodenniemi
-62.5642|25.8536|Suolahti
-60.3500|23.6500|Suomusjärvi
-64.8868|28.9078|Suomussalmi
-61.4411|23.2150|Suoniemi
-60.2696|25.0540|Suurmetsä
-60.2800|25.0176|Suutarila
-61.5000|25.6833|Sysmä
-61.1500|28.0500|Taipalsaari
-65.5667|28.2500|Taivalkoski
-60.5609|21.6164|Taivassalo
-60.1843|24.9195|Taka-Töölö
-60.8103|23.7682|Tammela
-61.4981|23.7600|Tampere
-60.5833|22.7333|Tarvasjoki
-63.0971|21.6959|Teeriniemi
-61.6734|23.8477|Teisko
-60.8141|24.6259|Tervakoski
-66.0833|24.8000|Tervola
-62.4819|21.7416|Teuva
-62.1833|30.3833|Tohmajärvi
-63.7667|24.2500|Toholampi
-61.1678|23.8382|Toijala
-62.1000|26.0833|Toivakka
-65.8481|24.1466|Tornio
-61.3978|23.3428|Tottijärvi
-62.6280|23.8183|Töysä
-60.4515|22.2687|Turku
-61.1500|24.8000|Tuulos
-62.4837|30.6273|Tuupovaara
-60.4037|25.0264|Tuusula
-64.7647|25.6523|Tyrnävä
-63.6000|24.0833|Ullava
-61.4284|21.8710|Ulvila
-61.0833|23.5500|Urjala
-64.7500|26.3833|Utajärvi
-69.9086|27.0284|Utsjoki
-62.5000|25.4500|Uurainen
-60.8004|21.4084|Uusikaupunki
-64.5667|26.8333|Vaala
-63.0960|21.6158|Vaasa
-63.0564|22.1058|Vähäkyrö
-60.6000|22.3000|Vahto
-61.2667|24.0306|Valkeakoski
-63.6667|28.8000|Valtimo
-61.3403|22.9097|Vammala
-61.0167|22.7000|Vampula
-60.2941|25.0410|Vantaa
-62.3153|27.8730|Varkaus
-60.2180|25.0957|Vartiokylä
-60.2997|22.3004|Väståboland
-60.0500|22.6833|Västanfjärd
-60.6833|21.6667|Vehmaa
-60.4667|21.6667|Velkua
-61.3167|23.6167|Vesilahti
-63.4784|23.7828|Veteli
-64.4847|24.9916|Vihanti
-60.4170|24.3196|Vihti
-61.2102|23.7674|Viiala
-60.2218|25.0239|Viikki
-63.0667|25.8667|Viitasaari
-61.7060|23.2669|Viljakkala
-62.0212|24.5048|Vilppula
-63.1619|23.8192|Vimpeli
-60.5794|27.7035|Virojoki
-62.2403|23.7708|Virrat
-62.1270|27.4628|Virtasalmi
-63.1361|22.2522|Vörå
-64.1447|28.2820|Vuokatti
-64.1854|26.9955|Vuolijoki
-61.4310|23.8118|Vuores
-60.2096|25.1420|Vuosaari
-60.8000|28.0000|Ylämaa
-60.8833|22.4167|Yläne
-63.1500|22.7833|Ylihärmä
-65.3718|25.8458|Yli-Ii
-65.0833|26.2500|Ylikiiminki
-62.9396|22.5131|Ylistaro
-66.3089|23.6773|Ylitornio
-64.0833|24.5500|Ylivieska
-61.5500|23.5833|Ylöjärvi
-60.8000|23.2833|Ypäjä
+62.6000|25.7333|Äänekoski|Central Finland|17614|
+61.2833|22.6833|Äetsä|Pirkanmaa|4929|
+62.5540|24.0619|Ähtäri|Southern Ostrobothnia|5180|
+61.3300|23.6900|Aimala|Pirkanmaa|0|
+61.3390|24.4943|Aitoo|Pirkanmaa|0|
+61.1667|23.8681|Akaa|Pirkanmaa|8258|
+63.2333|22.8500|Alahärmä|Southern Ostrobothnia|4915|
+63.0000|23.8167|Alajärvi|Southern Ostrobothnia|8793|
+60.9500|22.8500|Alastaro|Finland Proper|0|
+64.1667|24.3000|Alavieska|Northern Ostrobothnia|2407|
+62.5833|23.6167|Alavus|Southern Ostrobothnia|10722|
+61.5000|23.7450|Amuri|Pirkanmaa|5353|
+60.6833|26.8333|Anjala|Kymenlaakso|16779|
+60.7454|26.0708|Artjärvi|Päijänne Tavastia|1412|
+61.2167|25.5000|Asikkala|Päijänne Tavastia|7870|
+60.5667|21.8667|Askainen|Finland Proper|1004|
+60.5333|25.6000|Askola|Uusimaa|4515|
+60.6471|22.5876|Aura|Finland Proper|3965|
+61.2990|25.0889|Auttoinen|Päijänne Tavastia|1300|
+60.0667|22.4833|Dragsfjärd|Finland Proper|3309|
+60.2104|25.0829|East Helsinki|Uusimaa|170557|
+59.9736|23.4339|Ekenäs|Uusimaa|14377|
+60.7167|26.4667|Elimäki|Kymenlaakso|8751|
+62.8051|30.1542|Eno|North Karelia|6891|
+62.0833|28.9333|Enonkoski|Southern Savonia|1285|
+68.3857|23.6321|Enontekiö|Lapland|1765|
+60.2052|24.6522|Espoo|Uusimaa|323910|
+60.1505|24.6531|Espoonlahti|Uusimaa|17697|
+61.1333|22.1333|Eura|Satakunta|11093|
+61.2000|21.7333|Eurajoki|Satakunta|9000|
+63.3667|23.4833|Evijärvi|Southern Ostrobothnia|2262|
+60.8146|23.6215|Forssa|Tavastia Proper|16368|
+60.2195|24.6168|Gumböle|Uusimaa|1237|
+60.2213|24.8976|Haaga|Uusimaa|27761|
+63.7500|25.3333|Haapajärvi|Northern Ostrobothnia|6482|
+64.1333|25.3667|Haapavesi|Northern Ostrobothnia|6347|
+61.4763|23.8771|Haihara|Pirkanmaa|0|
+65.0090|24.7139|Hailuoto|Northern Ostrobothnia|928|
+60.4000|23.0833|Halikko|Finland Proper|9344|
+61.4625|23.8292|Hallila|Pirkanmaa|2537|
+63.4667|24.1667|Halsua|Central Ostrobothnia|993|
+61.0222|25.1542|Hämeenkoski|Päijänne Tavastia|2149|
+61.6333|23.2000|Hämeenkyrö|Pirkanmaa|10351|
+60.9960|24.4643|Hämeenlinna|Tavastia Proper|68473|
+60.5697|27.1979|Hamina|Kymenlaakso|19305|
+62.3833|26.4333|Hankasalmi|Central Finland|4468|
+59.8333|22.9500|Hanko|Uusimaa|9962|
+61.3167|22.1333|Harjavalta|Satakunta|6605|
+61.5833|26.0167|Hartola|Päijänne Tavastia|2463|
+61.1726|24.5630|Hauho|Tavastia Proper|3755|
+65.1765|25.3523|Haukipudas|Northern Ostrobothnia|17298|
+62.0175|27.2191|Haukivuori|Southern Savonia|2256|
+60.7833|24.9333|Hausjärvi|Tavastia Proper|7923|
+62.4333|28.6000|Heinävesi|Southern Savonia|2909|
+61.2056|26.0381|Heinola|Päijänne Tavastia|17746|
+60.1695|24.9354|Helsinki|Uusimaa|658864|
+60.1947|25.0354|Herttoniemi|Uusimaa|26047|
+61.4481|23.8521|Hervanta|Pirkanmaa|25231|
+63.0848|21.6172|Hietalahti|Ostrobothnia|4700|
+64.0622|23.6545|Himanka|Northern Ostrobothnia|3136|
+61.6333|26.8000|Hirvensalmi|Southern Savonia|2046|
+61.0500|25.4333|Hollola|Päijänne Tavastia|22843|
+60.2228|21.3722|Houtskär|Finland Proper|626|
+61.1833|22.7000|Huittinen|Satakunta|9618|
+60.9333|23.3667|Humppila|Tavastia Proper|2084|
+64.6667|28.5333|Hyrynsalmi|Kainuu|1998|
+60.6333|24.8667|Hyvinge|Uusimaa|43515|
+65.3174|25.3731|Ii|Northern Ostrobothnia|9800|
+63.5592|27.1907|Iisalmi|North Savo|20330|
+60.8949|26.3387|Iitti|Kymenlaakso|6410|
+61.7694|23.0681|Ikaalinen|Pirkanmaa|6713|
+62.7333|22.5667|Ilmajoki|Southern Ostrobothnia|12473|
+62.6716|30.9328|Ilomantsi|North Karelia|4327|
+61.1718|28.7524|Imatra|South Karelia|24581|
+68.9060|27.0288|Inari|Lapland|7049|
+60.0459|24.0046|Ingå|Uusimaa|5416|
+60.4000|21.4000|Iniö|Finland Proper|279|
+62.1132|21.9588|Isojoki|Southern Ostrobothnia|1771|
+63.0117|22.3333|Isokyrö|Ostrobothnia|4296|
+68.6599|27.5389|Ivalo|Lapland|3998|
+61.0525|26.4812|Jaala|Kymenlaakso|1893|
+63.6749|22.7026|Jakobstad|Ostrobothnia|19668|
+62.5000|22.7500|Jalasjärvi|Southern Ostrobothnia|8662|
+61.8167|22.7000|Jämijärvi|Satakunta|1659|
+61.8642|25.1900|Jämsä|Central Finland|19209|
+61.9190|25.1701|Jämsänkoski|Central Finland|7442|
+60.9000|24.6000|Janakkala|Tavastia Proper|15995|
+62.3790|27.4337|Jäppilä|Southern Savonia|1501|
+60.4737|25.0899|Järvenpää|Uusimaa|46942|
+62.6012|29.7632|Joensuu|North Karelia|78398|
+60.8016|23.4800|Jokioinen|Tavastia Proper|4828|
+62.1782|27.8316|Joroinen|Southern Savonia|4543|
+61.7333|26.1167|Joutsa|Central Finland|4060|
+61.1180|28.5076|Joutseno|South Karelia|10603|
+62.6833|21.9833|Jurva|Southern Ostrobothnia|4450|
+63.2333|29.2500|Juuka|North Karelia|4118|
+61.7967|24.3700|Juupajoki|Pirkanmaa|1657|
+61.9000|27.8500|Juva|Southern Savonia|5628|
+62.2415|25.7209|Jyväskylä|Central Finland|148744|
+60.2517|24.8811|Kaarela|Uusimaa|26414|
+60.4072|22.3690|Kaarina|Finland Proper|36631|
+64.2273|27.7285|Kajaani|Kainuu|36458|
+64.2500|23.9500|Kalajoki|Northern Ostrobothnia|12231|
+60.1843|24.9503|Kallio|Uusimaa|27051|
+63.8607|23.4529|Kälviä|Central Ostrobothnia|4449|
+61.1008|24.1218|Kalvola|Tavastia Proper|3406|
+61.4639|24.0650|Kangasala|Pirkanmaa|34315|
+61.9936|26.6478|Kangasniemi|Southern Savonia|5057|
+61.8000|22.4167|Kankaanpää|Satakunta|12571|
+62.9667|25.2500|Kannonkoski|Central Finland|1173|
+63.9000|23.9000|Kannus|Central Ostrobothnia|5255|
+60.5216|26.9312|Karhula|Kymenlaakso|22867|
+62.3085|21.7086|Karijoki|Southern Ostrobothnia|1136|
+60.6667|22.7667|Karinainen|Finland Proper|0|
+60.0718|23.6616|Karis|Uusimaa|8853|
+60.2401|23.7179|Karjalohja|Uusimaa|1657|
+60.5342|24.2098|Karkkila|Uusimaa|8391|
+60.6129|23.9420|Kärkölä|Uusimaa|4853|
+63.9667|25.7667|Kärsämäki|Northern Ostrobothnia|2350|
+62.8667|24.7833|Karstula|Central Finland|3541|
+62.1333|22.5667|Karvia|Satakunta|2162|
+62.3844|21.2233|Kaskinen|Ostrobothnia|1278|
+62.4333|22.1833|Kauhajoki|Southern Ostrobothnia|12500|
+63.1030|23.0713|Kauhava|Southern Ostrobothnia|15066|
+60.2121|24.7276|Kauniainen|Uusimaa|10200|
+63.5488|23.6884|Kaustinen|Central Ostrobothnia|4098|
+60.5327|25.1092|Kellokoski|Uusimaa|4300|
+65.7364|24.5637|Kemi|Lapland|19332|
+66.7131|27.4306|Kemijärvi|Lapland|6918|
+65.8016|24.5448|Keminmaa|Lapland|7591|
+64.9131|25.5034|Kempele|Northern Ostrobothnia|14293|
+60.4034|25.1050|Kerava|Uusimaa|38535|
+61.9107|29.2823|Kerimäki|Southern Savonia|5841|
+61.8975|29.8349|Kesälahti|North Karelia|2665|
+64.3500|26.2792|Kestilä|Northern Ostrobothnia|1576|
+62.2667|24.7000|Keuruu|Central Finland|9088|
+62.2083|23.1792|Kihniö|Pirkanmaa|1697|
+62.4952|30.2508|Kiihtelysvaara|North Karelia|2723|
+60.4667|23.5667|Kiikala|Finland Proper|1771|
+61.3208|22.7754|Kiikka|Pirkanmaa|0|
+61.4500|22.5750|Kiikoinen|Pirkanmaa|1248|
+65.1314|25.7974|Kiiminki|Northern Ostrobothnia|12069|
+60.2175|24.7815|Kilo|Uusimaa|10554|
+60.1605|22.7290|Kimito|Finland Proper|3287|
+63.3833|24.9500|Kinnula|Central Finland|1492|
+60.1238|24.4385|Kirkkonummi|Uusimaa|41821|
+60.2333|23.4833|Kisko|Finland Proper|1958|
+62.1000|30.1500|Kitee|North Karelia|9483|
+67.6647|24.8936|Kittilä|Lapland|6658|
+61.2167|22.0833|Kiukainen|Satakunta|3358|
+63.1198|25.0784|Kivijärvi|Central Finland|1010|
+60.3824|24.7510|Klaukkala|Uusimaa|21019|
+61.2565|22.3564|Kokemäki|Satakunta|6662|
+63.8541|23.5856|Kokkola|Central Ostrobothnia|48361|
+67.3305|23.7779|Kolari|Lapland|3952|
+62.1333|24.5167|Kolho|Pirkanmaa|0|
+62.6167|26.3167|Konnevesi|Central Finland|2429|
+62.7602|29.8471|Kontiolahti|North Karelia|15092|
+62.0167|25.5500|Korpilahti|Central Finland|5050|
+63.1142|21.6822|Korsholm|Ostrobothnia|17176|
+62.7833|21.2000|Korsnäs|Ostrobothnia|1985|
+63.3000|23.1667|Kortesjärvi|Southern Ostrobothnia|2400|
+60.4664|26.9458|Kotka|Kymenlaakso|50157|
+60.1526|24.7647|Koukkuniemi|Uusimaa|1038|
+60.8667|26.7000|Kouvola|Kymenlaakso|78094|
+61.1191|22.3098|Köyliö|Satakunta|2901|
+62.2743|21.3760|Kristinestad|Ostrobothnia|6131|
+63.7286|23.0339|Kronoby|Ostrobothnia|6318|
+61.5050|24.5667|Kuhmalahti|Pirkanmaa|0|
+64.1333|29.5167|Kuhmo|Kainuu|7413|
+61.5667|25.1833|Kuhmoinen|Central Finland|2020|
+65.5785|25.1881|Kuivaniemi|Northern Ostrobothnia|1979|
+61.4700|22.1614|Kullaa|Satakunta|1494|
+62.8924|27.6770|Kuopio|North Savo|125462|
+62.8000|23.5000|Kuortane|Southern Ostrobothnia|3328|
+62.6167|22.4167|Kurikka|Southern Ostrobothnia|19474|
+61.8756|23.7195|Kuru|Pirkanmaa|2701|
+60.5453|21.3588|Kustavi|Finland Proper|965|
+65.9667|29.1833|Kuusamo|Northern Ostrobothnia|14784|
+60.5167|23.2000|Kuusjoki|Finland Proper|1775|
+61.1500|23.6917|Kylmäkoski|Pirkanmaa|2647|
+63.0333|24.5667|Kyyjärvi|Central Finland|1138|
+60.1752|25.0309|Laajasalo|Uusimaa|22419|
+60.9827|25.6615|Lahti|Päijänne Tavastia|121622|
+62.9761|22.0114|Laihia|Ostrobothnia|8020|
+60.8757|21.6976|Laitila|Finland Proper|8492|
+61.0833|25.0167|Lammi|Tavastia Proper|5634|
+61.6889|24.6919|Längelmäki|Pirkanmaa|0|
+61.6500|22.1000|Längelmäki|Satakunta|1636|
+60.6244|26.1972|Lapinjärvi|Uusimaa|2937|
+63.2000|23.6333|Lappajärvi|Southern Ostrobothnia|2710|
+61.0587|28.1887|Lappeenranta|South Karelia|72909|
+61.1000|21.8333|Lappi|Satakunta|3212|
+62.9693|23.0088|Lapua|Southern Ostrobothnia|14016|
+63.7539|22.7473|Larsmo|Ostrobothnia|5934|
+62.4141|25.9519|Laukaa|Central Finland|18876|
+60.1590|24.8680|Lauttasaari|Uusimaa|20000|
+61.6000|22.6000|Lavia|Satakunta|2109|
+62.7833|23.9167|Lehtimäki|Southern Ostrobothnia|0|
+61.9120|26.1280|Leivonmäki|Central Finland|1138|
+61.0624|27.8057|Lemi|South Karelia|2885|
+61.3139|23.7528|Lempäälä|Pirkanmaa|25036|
+60.5667|21.9667|Lemu|Finland Proper|1738|
+61.5280|23.7057|Lentävänniemi|Pirkanmaa|5433|
+60.2128|24.8135|Leppävaara|Uusimaa|28409|
+63.5333|24.6500|Lestijärvi|Central Ostrobothnia|653|
+63.3167|30.0167|Lieksa|North Karelia|10002|
+61.5167|23.6667|Lielahti|Pirkanmaa|701|
+60.5103|22.4618|Lieto|Finland Proper|20694|
+60.5735|26.0526|Liljendal|Uusimaa|1455|
+64.8098|25.4154|Liminka|Northern Ostrobothnia|10166|
+62.5333|29.3667|Liperi|North Karelia|11927|
+60.2486|24.0653|Lohja|Uusimaa|45686|
+64.0247|23.5048|Lohtaja|Central Ostrobothnia|3043|
+60.8497|23.0561|Loimaa|Southwest Finland|15248|
+60.7167|24.4500|Loppi|Tavastia Proper|7622|
+60.4566|26.2250|Lovisa|Uusimaa|14362|
+61.7968|25.7046|Luhanka|Central Finland|688|
+64.8374|25.1861|Lumijoki|Northern Ostrobothnia|2016|
+61.3629|24.6678|Luopioinen|Pirkanmaa|2381|
+60.9262|27.5814|Luumäki|South Karelia|4327|
+61.3638|21.6256|Luvia|Satakunta|3260|
+62.9423|21.5731|Malax|Ostrobothnia|5517|
+60.6333|25.3167|Mäntsälä|Uusimaa|20966|
+62.0301|24.6279|Mänttä|Pirkanmaa|6459|
+61.4167|26.8833|Mäntyharju|Southern Savonia|7076|
+60.5833|22.9000|Marttila|Finland Proper|2125|
+60.5708|22.0988|Masku|Finland Proper|9628|
+60.1589|24.7424|Matinkylä|Uusimaa|22688|
+60.7667|22.9500|Mellilä|Finland Proper|1141|
+60.2336|25.0995|Mellunkylä|Uusimaa|36360|
+64.3000|24.4500|Merijärvi|Northern Ostrobothnia|1032|
+61.8584|21.5004|Merikarvia|Satakunta|2882|
+60.4833|21.8667|Merimasku|Finland Proper|1538|
+61.4853|23.8447|Messukylä|Pirkanmaa|682|
+60.6667|27.7000|Miehikkälä|Kymenlaakso|1697|
+60.6333|21.9333|Mietoinen|Finland Proper|1785|
+61.6886|27.2723|Mikkeli|Southern Savonia|51661|
+61.5000|23.0167|Mouhijärvi|Pirkanmaa|2961|
+64.8080|25.9931|Muhos|Northern Ostrobothnia|8232|
+62.4167|24.7833|Multia|Central Finland|1384|
+60.1986|24.8777|Munkkiniemi|Uusimaa|17334|
+67.9500|23.7000|Muonio|Lapland|2321|
+62.1333|25.6667|Muurame|Central Finland|10662|
+60.3500|23.2833|Muurla|Finland Proper|1486|
+60.6791|21.9927|Mynämäki|Finland Proper|6271|
+60.6696|25.8475|Myrskylä|Uusimaa|1706|
+60.2671|24.8471|Myyrmäki|Uusimaa|18393|
+60.4674|22.0243|Naantali|Finland Proper|20312|
+60.1938|21.9097|Nagu|Finland Proper|1410|
+61.4652|23.6525|Naistenmatka|Pirkanmaa|0|
+61.3667|22.0000|Nakkila|Satakunta|4905|
+60.9500|25.9333|Nastola|Päijänne Tavastia|14911|
+61.4833|23.7906|Nekala|Pirkanmaa|1016|
+63.9167|24.9667|Nivala|Northern Ostrobothnia|10397|
+61.4767|23.5053|Nokia|Pirkanmaa|36486|
+61.5927|21.8685|Noormarkku|Satakunta|6076|
+60.6042|22.0793|Nousiainen|Finland Proper|4685|
+60.9601|28.5510|Nuijamaa|South Karelia|1199|
+63.5421|29.1396|Nurmes|North Karelia|8924|
+61.5378|23.9418|Nurmi|Pirkanmaa|0|
+60.4641|24.8073|Nurmijärvi|Uusimaa|45356|
+62.8287|22.9099|Nurmo|Southern Ostrobothnia|0|
+61.0400|23.4300|Nuutajärvi|Pirkanmaa|0|
+63.5228|22.5307|Nykarleby|Ostrobothnia|7462|
+60.1724|24.7271|Olari|Uusimaa|16929|
+63.3013|22.3782|Oravais|Ostrobothnia|2141|
+60.8049|25.7296|Orimattila|Päijänne Tavastia|15628|
+60.8500|22.6833|Oripää|Finland Proper|1297|
+61.6778|24.3569|Orivesi|Pirkanmaa|8846|
+61.7087|23.1587|Osara|Pirkanmaa|0|
+60.1840|24.8279|Otaniemi|Uusimaa|4574|
+64.2667|24.8000|Oulainen|Northern Ostrobothnia|6887|
+65.0124|25.4682|Oulu|Northern Ostrobothnia|216066|
+60.2292|24.9640|Oulunkylä|Uusimaa|23854|
+64.9346|25.4112|Oulunsalo|Northern Ostrobothnia|9556|
+62.7268|29.0159|Outokumpu|North Karelia|6404|
+61.3500|25.2833|Padasjoki|Päijänne Tavastia|2670|
+60.4567|22.6869|Paimio|Finland Proper|11241|
+61.3540|24.5191|Pälkäne|Pirkanmaa|6203|
+64.4167|27.8333|Paltamo|Kainuu|2972|
+60.3067|22.3010|Pargas|Finland Proper|11962|
+61.5500|29.5000|Parikkala|South Karelia|4274|
+62.0097|23.0250|Parkano|Pirkanmaa|6092|
+63.6500|22.6833|Pedersöre|Ostrobothnia|11330|
+67.1108|27.5106|Pelkosenniemi|Lapland|922|
+66.7736|23.9626|Pello|Lapland|3182|
+63.2167|24.4167|Perho|Central Ostrobothnia|2572|
+60.4487|26.0319|Pernå|Uusimaa|3938|
+60.2000|23.1333|Perniö|Finland Proper|5809|
+60.4333|23.2667|Pertteli|Finland Proper|3740|
+61.5000|26.4833|Pertunmaa|Southern Savonia|2089|
+62.2500|25.2000|Petäjävesi|Central Finland|3548|
+62.3000|27.1333|Pieksämäki|Southern Savonia|17243|
+63.3833|25.5667|Pihtipudas|Central Finland|3697|
+60.4248|22.5160|Piikkiö|Finland Proper|6553|
+64.1667|25.9667|Piippola|Northern Ostrobothnia|550|
+61.4667|23.6500|Pirkkala|Pirkanmaa|21204|
+61.5061|23.7025|Pispala|Pirkanmaa|2752|
+60.2229|24.8610|Pitäjänmäki|Uusimaa|18016|
+60.0963|23.5276|Pohja|Uusimaa|0|
+62.1563|24.1319|Pohjaslahti|Pirkanmaa|0|
+61.4535|23.8474|Pohjois-Hervanta|Pirkanmaa|16053|
+62.8500|29.3667|Polvijärvi|North Karelia|3957|
+61.6935|22.0086|Pomarkku|Satakunta|1921|
+61.4833|21.7833|Pori|Satakunta|83157|
+60.4758|25.3749|Pornainen|Uusimaa|4964|
+60.3923|25.6651|Porvoo|Uusimaa|51853|
+66.1086|28.1719|Posio|Lapland|2872|
+60.7667|22.6667|Pöytyä|Finland Proper|8000|
+65.3833|26.9167|Pudasjärvi|Northern Ostrobothnia|7226|
+60.6500|25.5667|Pukkila|Uusimaa|1737|
+64.2667|25.8667|Pulkkila|Northern Ostrobothnia|1661|
+61.7588|29.3884|Punkaharju|Southern Savonia|3984|
+61.1117|23.1050|Punkalaidun|Pirkanmaa|2595|
+64.8667|27.6667|Puolanka|Kainuu|2348|
+61.5273|28.1749|Puumala|Southern Savonia|2693|
+67.0701|27.2176|Pyhäjärvi|Lapland|6094|
+63.6667|25.9000|Pyhäjärvi|Northern Ostrobothnia|4639|
+64.4667|24.2333|Pyhäjoki|Northern Ostrobothnia|2970|
+64.1000|26.3167|Pyhäntä|Northern Ostrobothnia|1674|
+60.9500|21.4500|Pyhäranta|Finland Proper|1910|
+62.4333|29.9667|Pyhäselkä|North Karelia|7210|
+60.4935|26.5435|Pyhtää|Kymenlaakso|4964|
+62.6667|24.8000|Pylkönmäki|Central Finland|981|
+64.6833|24.4833|Raahe|Northern Ostrobothnia|23566|
+62.3167|29.6167|Rääkkylä|North Karelia|1858|
+60.0027|23.5550|Raaseporin|Uusimaa|0|
+60.4859|22.1689|Raisio|Finland Proper|25846|
+62.0667|28.3000|Rantasalmi|Southern Savonia|3247|
+64.5061|25.6645|Rantsila|Northern Ostrobothnia|2048|
+65.9167|26.5333|Ranua|Lapland|3563|
+59.9774|23.4397|Raseborg|Uusimaa|26982|
+61.1272|21.5113|Rauma|Satakunta|38909|
+61.4333|29.3500|Rautjärvi|South Karelia|4316|
+63.6167|24.9000|Reisjärvi|Northern Ostrobothnia|2534|
+60.8956|24.2878|Renko|Tavastia Proper|2376|
+63.2288|21.4169|Replot|Ostrobothnia|2100|
+60.7377|24.7773|Riihimäki|Tavastia Proper|28610|
+61.5058|27.2464|Ristiina|Southern Savonia|5171|
+64.5000|28.2167|Ristijärvi|Kainuu|1162|
+63.0919|21.7230|Ristinummi|Ostrobothnia|1500|
+66.5000|25.7167|Rovaniemi|Lapland|65670|
+61.2833|28.8333|Ruokolahti|South Karelia|4721|
+60.5268|26.4620|Ruotsinpyhtää|Uusimaa|2836|
+61.9833|24.0833|Ruovesi|Pirkanmaa|4002|
+60.5333|22.2167|Rusko|Finland Proper|6397|
+64.6667|25.1000|Ruukki|Northern Ostrobothnia|4386|
+60.3766|21.9418|Rymättylä|Finland Proper|1987|
+61.2000|24.0667|Sääksmäki|Pirkanmaa|0|
+61.6500|29.7500|Saari|South Karelia|0|
+62.7049|25.2540|Saarijärvi|Central Finland|8831|
+61.4667|24.3167|Sahalahti|Pirkanmaa|2141|
+61.0333|22.3333|Säkylä|Satakunta|6237|
+66.8333|28.6667|Salla|Lapland|3235|
+60.3833|23.1333|Salo|Finland Proper|50794|
+60.3199|23.8209|Sammatti|Uusimaa|1171|
+60.1139|22.9500|Särkisalo|Finland Proper|0|
+61.3417|22.9083|Sastamala|Pirkanmaa|24495|
+60.3431|22.6964|Sauvo|Finland Proper|2968|
+61.2000|27.7000|Savitaipale|South Karelia|3151|
+61.8699|28.8800|Savonlinna|Southern Savonia|31283|
+62.1833|29.2000|Savonranta|Southern Savonia|1255|
+67.2925|28.1581|Savukoski|Lapland|983|
+62.1403|25.7695|Säynätsalo|Central Finland|3322|
+62.7945|22.8282|Seinäjoki|Southern Ostrobothnia|66848|
+60.3775|25.2691|Sibbo|Uusimaa|22903|
+63.9000|24.5000|Sievi|Northern Ostrobothnia|4654|
+61.8770|21.8194|Siikainen|Satakunta|1248|
+64.8145|24.7592|Siikajoki|Northern Ostrobothnia|1293|
+63.0833|27.6667|Siilinjärvi|North Savo|21383|
+65.6667|25.0500|Simo|Lapland|2753|
+60.1386|24.2272|Siuntio|Uusimaa|6251|
+67.4167|26.6000|Sodankylä|Lapland|8067|
+62.8667|24.2167|Soini|Southern Ostrobothnia|1793|
+60.6167|23.5333|Somero|Finland Proper|8423|
+64.1333|28.4167|Sotkamo|Kainuu|10164|
+61.7869|28.3730|Sulkava|Southern Savonia|2328|
+62.6574|26.0464|Sumiainen|Central Finland|1251|
+61.5581|22.7853|Suodenniemi|Pirkanmaa|1274|
+62.5642|25.8536|Suolahti|Central Finland|5399|
+60.3500|23.6500|Suomusjärvi|Finland Proper|1310|
+64.8868|28.9078|Suomussalmi|Kainuu|7001|
+61.4411|23.2150|Suoniemi|Pirkanmaa|0|
+60.2696|25.0540|Suurmetsä|Uusimaa|16452|
+60.2800|25.0176|Suutarila|Uusimaa|19690|
+61.5000|25.6833|Sysmä|Päijänne Tavastia|3393|
+61.1500|28.0500|Taipalsaari|South Karelia|4591|
+65.5667|28.2500|Taivalkoski|Northern Ostrobothnia|3624|
+60.5609|21.6164|Taivassalo|Finland Proper|1722|
+60.1843|24.9195|Taka-Töölö|Uusimaa|15343|
+60.8103|23.7682|Tammela|Tavastia Proper|5810|
+61.4981|23.7600|Tampere|Pirkanmaa|260646|
+60.5833|22.7333|Tarvasjoki|Finland Proper|1961|
+63.0971|21.6959|Teeriniemi|Ostrobothnia|1500|
+61.6734|23.8477|Teisko|Pirkanmaa|0|
+60.8141|24.6259|Tervakoski|Tavastia Proper|4753|
+66.0833|24.8000|Tervola|Lapland|2820|
+62.4819|21.7416|Teuva|Southern Ostrobothnia|4628|
+62.1833|30.3833|Tohmajärvi|North Karelia|3925|
+63.7667|24.2500|Toholampi|Central Ostrobothnia|2787|
+61.1678|23.8382|Toijala|Pirkanmaa|8300|
+62.1000|26.0833|Toivakka|Central Finland|2333|
+65.8481|24.1466|Tornio|Lapland|20932|
+61.3978|23.3428|Tottijärvi|Pirkanmaa|0|
+62.6280|23.8183|Töysä|Southern Ostrobothnia|3144|
+60.4515|22.2687|Turku|Finland Proper|206655|
+61.1500|24.8000|Tuulos|Tavastia Proper|1466|
+62.4837|30.6273|Tuupovaara|North Karelia|2059|
+60.4037|25.0264|Tuusula|Uusimaa|42624|
+64.7647|25.6523|Tyrnävä|Northern Ostrobothnia|6538|
+63.6000|24.0833|Ullava|Central Ostrobothnia|1048|
+61.4284|21.8710|Ulvila|Satakunta|12345|
+61.0833|23.5500|Urjala|Pirkanmaa|4495|
+64.7500|26.3833|Utajärvi|Northern Ostrobothnia|2447|
+69.9086|27.0284|Utsjoki|Lapland|1127|
+62.5000|25.4500|Uurainen|Central Finland|3652|
+60.8004|21.4084|Uusikaupunki|Finland Proper|14750|
+64.5667|26.8333|Vaala|Kainuu|2567|
+63.0960|21.6158|Vaasa|Ostrobothnia|69819|
+63.0564|22.1058|Vähäkyrö|Ostrobothnia|4638|
+60.6000|22.3000|Vahto|Finland Proper|1916|
+61.2667|24.0306|Valkeakoski|Pirkanmaa|20859|
+63.6667|28.8000|Valtimo|North Karelia|2140|
+61.3403|22.9097|Vammala|Pirkanmaa|16635|
+61.0167|22.7000|Vampula|Satakunta|1743|
+60.2941|25.0410|Vantaa|Uusimaa|252724|
+62.3153|27.8730|Varkaus|North Savo|19603|
+60.2180|25.0957|Vartiokylä|Uusimaa|30244|
+60.2997|22.3004|Väståboland|Finland Proper|15498|
+60.0500|22.6833|Västanfjärd|Finland Proper|783|
+60.6833|21.6667|Vehmaa|Finland Proper|2262|
+60.4667|21.6667|Velkua|Finland Proper|217|
+61.3167|23.6167|Vesilahti|Pirkanmaa|4550|
+63.4784|23.7828|Veteli|Central Ostrobothnia|2931|
+64.4847|24.9916|Vihanti|Northern Ostrobothnia|3270|
+60.4170|24.3196|Vihti|Uusimaa|28864|
+61.2102|23.7674|Viiala|Pirkanmaa|5472|
+60.2218|25.0239|Viikki|Uusimaa|15177|
+63.0667|25.8667|Viitasaari|Central Finland|5787|
+61.7060|23.2669|Viljakkala|Pirkanmaa|2125|
+62.0212|24.5048|Vilppula|Pirkanmaa|5422|
+63.1619|23.8192|Vimpeli|Southern Ostrobothnia|2603|
+60.5794|27.7035|Virojoki|Kymenlaakso|1328|
+62.2403|23.7708|Virrat|Pirkanmaa|6165|
+62.1270|27.4628|Virtasalmi|Southern Savonia|1123|
+63.1361|22.2522|Vörå|Ostrobothnia|6264|
+64.1447|28.2820|Vuokatti|Kainuu|6183|
+64.1854|26.9955|Vuolijoki|Kainuu|2557|
+61.4310|23.8118|Vuores|Pirkanmaa|7449|
+60.2096|25.1420|Vuosaari|Uusimaa|38961|
+60.8000|28.0000|Ylämaa|South Karelia|1415|
+60.8833|22.4167|Yläne|Finland Proper|2148|
+63.1500|22.7833|Ylihärmä|Southern Ostrobothnia|2836|
+65.3718|25.8458|Yli-Ii|Northern Ostrobothnia|2235|
+65.0833|26.2500|Ylikiiminki|Northern Ostrobothnia|3386|
+62.9396|22.5131|Ylistaro|Southern Ostrobothnia|0|
+66.3089|23.6773|Ylitornio|Lapland|3697|
+64.0833|24.5500|Ylivieska|Northern Ostrobothnia|15375|
+61.5500|23.5833|Ylöjärvi|Pirkanmaa|33731|
+60.8000|23.2833|Ypäjä|Tavastia Proper|2185|

@@ -1,784 +1,808 @@
-60.1500|14.8000|Abborrberget
-58.6621|16.1759|Åby
-55.9167|14.2833|Åhus
-59.4147|17.9140|Akalla
-55.6540|13.1111|Åkarp
-59.4794|18.2997|Åkersberga
-59.2500|17.0833|Åkers Styckebruk
-57.9258|12.0784|Alafors
-59.2335|17.8538|Alby
-56.7500|12.9333|Åled
-61.3468|16.0750|Alfta
-57.9303|12.5335|Alingsås
-56.5515|14.1383|Älmhult
-59.9667|18.8000|Älmsta
-59.7532|17.7733|Alsike
-59.2667|18.1833|Älta
-60.2667|18.4000|Alunda
-57.9587|12.1235|Älvängen
-61.2277|14.0394|Älvdalen
-56.8993|14.5556|Alvesta
-60.5708|17.4489|Älvkarleby
-65.6762|21.0016|Älvsbyn
-59.0510|12.7049|Åmål
-59.7619|12.3621|Åmotfors
-57.7004|11.7614|Andalen
-55.4384|13.3197|Anderslöv
-57.2833|13.6333|Anderstorp
-57.8389|14.8102|Aneby
-62.5249|15.6590|Ånge
-56.2428|12.8622|Ängelholm
-57.7863|12.0985|Angered
-57.6990|16.3341|Ankarsrum
-60.2417|18.4167|Anneberg
-57.9884|13.0748|Annelund
-59.3939|15.8388|Arboga
-61.4667|16.3833|Arbrå
-59.3922|12.1334|Årjäng
-66.0517|17.8861|Arjeplog
-59.2798|16.6790|Ärla
-55.6325|13.0714|Arlöv
-58.7268|17.0232|Arnö
-59.2978|18.0514|Årsta
-60.5164|16.7344|Årsunda
-65.5903|19.1668|Arvidsjaur
-59.6553|12.5852|Arvika
-63.3667|16.5833|Ås
-57.3500|12.1167|Åsa
-59.0000|15.0500|Åsbro
-57.1701|15.3443|Åseda
-64.1603|17.3476|Åsele
-58.8799|14.9023|Askersund
-55.8833|12.9333|Asmundtorp
-56.1357|12.9443|Åstorp
-58.2015|15.9977|Åtvidaberg
-60.1427|16.1629|Avesta
-58.3833|13.5667|Axvall
-64.9833|21.0667|Backa
-59.9500|17.5333|Bälinge
-59.5671|17.5278|Bålsta
-57.8602|14.1240|Bankeryd
-55.5816|13.1786|Bara
-59.5493|16.5074|Barkarö
-56.0091|12.8058|Bårslöv
-56.4269|12.8534|Båstad
-59.0291|12.2321|Bengtsfors
-58.4883|15.5297|Berg
-60.9293|17.0419|Bergby
-62.5307|17.3812|Bergeforsen
-56.3906|16.0727|Bergkvara
-65.5779|22.1084|Bergnäset
-59.3808|18.0343|Bergshamra
-61.9825|17.0637|Bergsjö
-65.3000|21.3833|Bergsviken
-57.5667|11.9333|Billdal
-55.8833|13.0000|Billeberga
-56.0500|13.0000|Billesholm
-58.9833|12.2500|Billingsfors
-56.2903|13.7113|Bjärnum
-55.7167|13.0167|Bjärred
-63.2000|18.5000|Bjästa
-57.8710|12.3255|Björboholm
-60.0300|17.5520|Björklinge
-57.7322|11.6792|Björkö
-65.6137|22.1770|Björkskatan
-57.7667|11.8333|Björlanda
-59.2412|14.2494|Björneborg
-63.9303|19.2137|Bjurholm
-60.7373|15.4529|Bjursås
-56.0837|12.9191|Bjuv
-55.5833|13.6000|Blentarp
-56.9833|16.3333|Blomstermåla
-57.5000|14.7000|Bodafors
-65.8252|21.6886|Boden
-64.8667|20.3833|Boliden
-57.6687|12.5727|Bollebygd
-59.2420|18.2276|Bollmora
-61.3482|16.3946|Bollnäs
-62.9978|17.6735|Bollstabruk
-59.3333|18.2833|Boo
-57.1167|14.1667|Bor
-57.7378|12.9408|Borås
-58.5667|15.2833|Borensberg
-56.8793|16.6563|Borgholm
-60.4858|15.4371|Borlänge
-58.1972|15.0538|Boxholm
-57.0667|15.0500|Braås
-56.2333|15.1167|Bräkne-Hoby
-58.5634|12.3492|Brålanda
-58.3833|11.4833|Brastad
-57.1734|13.7379|Bredaryd
-63.4466|18.1102|Bredbyn
-59.3500|18.2000|Brevik
-59.5167|17.6333|Bro
-56.2552|14.0780|Broby
-59.3400|17.9400|Bromma
-56.0755|14.4696|Bromölla
-59.2800|18.4300|Brunn
-60.2625|16.0103|Brunna
-57.2378|12.1219|Bua
-55.5448|12.9238|Bunkeflostrand
-64.6167|21.2000|Bureå
-64.5167|20.6500|Burträsk
-64.9526|21.2058|Byske
-59.8842|12.3040|Charlottenberg
-59.1331|18.4064|Dalarö
-55.6666|13.3498|Dalby
-57.7167|13.0833|Dalsjöfors
-58.9256|12.3087|Dals Långed
-59.4040|18.0238|Danderyd
-55.8333|14.0833|Degeberga
-59.2380|14.4308|Degerfors
-59.6030|13.4720|Deje
-61.8010|16.5557|Delsbo
-59.5728|16.3872|Dingtuna
-57.9264|12.0260|Diseröd
-60.5606|15.1328|Djurås
-59.3265|18.7115|Djurö
-59.3993|18.0562|Djursholm
-57.6000|11.7992|Donsö
-64.2618|16.4131|Dorotea
-58.9125|11.9331|Ed
-61.3769|15.8175|Edsbyn
-58.4667|15.6333|Ekängen
-56.0000|12.9667|Ekeby
-59.2600|15.3300|Ekeby-Almby
-57.4918|15.0223|Ekenässjön
-59.2910|17.8121|Ekerö
-60.1728|13.4965|Ekshärad
-57.6664|14.9720|Eksjö
-58.1833|11.4667|Ellös
-56.6327|15.5365|Emmaboda
-60.4099|15.5958|Enbacka
-59.4333|18.0500|Enebyberg
-59.5654|16.5304|Enhagen-Ekbacken
-59.6361|17.0777|Enköping
-59.2424|17.8163|Eriksberg
-57.7714|12.0418|Eriksbo
-63.8833|20.3167|Ersmark
-59.3666|16.5077|Eskilstuna
-55.8393|13.3039|Eslöv
-60.0042|15.7932|Fagersta
-56.9055|12.4912|Falkenberg
-58.1735|13.5507|Falköping
-60.6036|15.6260|Falun
-58.5682|11.9924|Färgelanda
-61.8001|15.8442|Färila
-56.6499|16.4686|Färjestaden
-56.0667|14.0833|Färlöv
-59.4333|15.5833|Fellingsbro
-59.7124|14.1683|Filipstad
-58.7058|15.7674|Finspång
-59.2915|18.2549|Fisksätra
-59.2487|17.8599|Fittja
-56.0436|14.2756|Fjälkinge
-57.4591|12.1751|Fjärås kyrkby
-59.1737|14.8723|Fjugesta
-59.0583|16.5878|Flen
-58.1333|13.3333|Floby
-60.6167|16.8833|Forsbacka
-57.7000|14.4667|Forserum
-59.5254|13.4813|Forshaga
-57.1641|13.8302|Forsheda
-56.3500|12.8167|Förslöv
-62.4986|16.1702|Fränsta
-57.3167|12.1667|Frillesås
-57.8248|13.0106|Fristad
-57.5566|12.7846|Fritsla
-56.6833|12.7333|Frösakull
-59.4667|15.3667|Frövi
-55.7738|13.0902|Furulund
-56.6500|12.9167|Fyllinge
-60.5986|15.0775|Gagnef
-67.1339|20.6528|Gällivare
-59.3263|18.0725|Gamla Stan
-59.8982|17.6339|Gamla Uppsala
-57.8948|16.4051|Gamleby
-65.6393|22.0114|Gammelstad
-57.7000|13.0167|Gånghester
-55.9873|12.8048|Gantofta
-57.8048|12.0288|Gårdsten
-59.3043|14.9462|Garphyttan
-55.5495|14.1792|Gärsnäs
-60.6745|17.1417|Gävle
-56.8675|14.6438|Gemla
-55.5991|13.3982|Genarp
-56.8167|12.7333|Getinge
-60.1730|18.1851|Gimo
-57.3044|13.5408|Gislaved
-56.3000|14.1333|Glimåkra
-56.9333|12.3500|Glommen
-55.9409|12.8093|Glumslöv
-62.0487|17.2586|Gnarp
-59.0475|17.3119|Gnesta
-57.3585|13.7369|Gnosjö
-58.1062|12.1525|Göta
-57.7072|11.9668|Göteborg|Gothenburg
-57.7229|11.9458|Göteborgs stad
-58.5282|13.4946|Götene
-57.5000|18.5000|Gotland
-57.8362|12.2995|Gråbo
-60.0746|15.0078|Grängesberg
-58.0167|14.4667|Gränna
-58.3322|12.6812|Grästorp
-58.7025|11.2574|Grebbestad
-58.3015|15.8709|Grebo
-59.6260|17.2579|Grillby
-59.3514|13.1111|Grums
-60.6875|15.4851|Grycksbo
-56.7000|12.7333|Gullbrandstorp
-58.9862|14.0964|Gullspång
-57.7167|16.5333|Gunnebo
-59.3268|18.3897|Gustavsberg
-58.2688|16.4989|Gusum
-57.9119|14.0744|Habo
-60.0238|13.6721|Hagfors
-55.8500|12.9167|Häljarp
-59.1167|15.2000|Hällabrottet
-59.3915|16.4223|Hällbybrunn
-59.7839|14.5220|Hällefors
-59.1521|16.4970|Hälleforsnäs
-56.0167|14.7000|Hällevik
-59.0646|15.1099|Hallsberg
-59.6140|16.2285|Hallstahammar
-60.0500|18.6000|Hallstavik
-56.6745|12.8568|Halmstad
-56.0167|14.2167|Hammar
-57.7805|12.0360|Hammarkullen
-56.1606|14.0931|Hanaskog
-59.1681|18.1380|Handen
-59.1677|18.1448|Haninge
-65.8355|24.1368|Haparanda
-62.6323|17.9379|Härnösand
-56.7449|12.7276|Harplinge
-59.3800|17.8087|Hässelby Villastad
-56.1591|13.7664|Hässleholm
-56.1167|15.4833|Hasslö
-56.2847|13.9355|Hästveda
-56.7222|12.6719|Haverdal
-59.9382|16.8622|Heby
-60.2797|15.9886|Hedemora
-60.4000|17.0000|Hedesunda
-56.0565|12.7872|Helsingborg
-59.3227|18.4868|Hemmesta
-57.2379|18.3744|Hemse
-58.2385|11.6760|Henån
-58.3833|14.8000|Herrestad
-58.0774|13.0266|Herrljunga
-57.4423|13.5958|Hestra
-57.3129|13.8844|Hillerstorp
-57.7034|12.4466|Hindås
-56.1000|12.6333|Hittarp
-56.3167|12.9167|Hjärnarp
-55.6688|13.1393|Hjärup
-58.3013|14.2878|Hjo
-57.7017|11.7164|Hjuvik
-60.5457|16.2867|Hofors
-55.8049|12.9797|Hofterup
-56.1997|12.5579|Höganäs
-57.1660|16.0256|Högsby
-59.6667|16.5833|Hökåsen
-55.4941|13.0078|Hököpinge
-55.4098|12.9558|Höllviken
-63.7060|20.3641|Holmsund
-59.0167|17.5333|Hölö
-57.6897|11.6497|Hönö
-55.9344|13.5385|Höör
-55.8524|13.6609|Hörby
-60.3000|16.4167|Horndal
-63.6231|19.9086|Hörnefors
-57.3548|12.4778|Horred
-65.2819|21.4054|Hortlax
-58.8536|14.2191|Hova
-58.0333|11.7667|Höviksnäs
-56.7869|15.1402|Hovmantorp
-59.3500|15.2167|Hovsta
-59.2371|17.9819|Huddinge
-61.7274|17.1056|Hudiksvall
-57.4881|15.8436|Hultsfred
-58.4413|11.3032|Hunnebostrand
-57.7860|14.3021|Huskvarna
-63.3333|19.1667|Husum
-56.1000|12.8500|Hyllinge
-56.9989|13.2396|Hyltebruk
-61.6422|17.0748|Iggesund
-57.8599|12.4516|Ingared
-56.7500|14.9167|Ingelstad
-60.6769|15.0949|Insjön
-59.7000|16.9333|Irsta
-59.4227|17.8351|Jakobsberg
-56.1919|15.8412|Jämjö
-56.2333|14.5167|Jämshög
-60.7167|16.6000|Järbo
-60.5333|14.3667|Järna
-61.7167|16.1667|Järvsö
-62.4342|17.3727|Johannedal
-66.6067|19.8232|Jokkmokk
-57.7814|14.1562|Jönköping
-56.2338|12.6718|Jonstorp
-59.1497|18.1167|Jordbro
-57.9863|11.8294|Jörlanda
-58.6576|16.1602|Jursla
-64.8357|20.9845|Kåge
-55.9998|13.0879|Kågeröd
-65.8530|23.1564|Kalix
-58.5100|13.3058|Källby
-57.6099|12.0511|Kållered
-56.2484|15.2872|Kallinge
-56.6616|16.3616|Kalmar
-60.5209|17.6315|Karlholmsbruk
-58.5372|14.5047|Karlsborg
-56.1706|14.8619|Karlshamn
-59.3267|14.5239|Karlskoga
-56.1616|15.5866|Karlskrona
-59.3793|13.5036|Karlstad
-58.9959|16.2072|Katrineholm
-55.7919|13.1102|Kävlinge
-57.8535|14.3046|Kaxholmen
-59.5023|13.3128|Kil
-61.2333|16.5667|Kilafors
-58.5497|15.9630|Kimstad
-57.5073|12.6946|Kinna
-67.8557|20.2251|Kiruna
-57.9878|15.6330|Kisa
-59.4032|17.9448|Kista
-55.5942|13.2457|Klågerup
-57.3867|18.2037|Klintehamn
-56.1356|13.1309|Klippan
-56.5186|13.3242|Knäred
-56.1833|14.0833|Knislinge
-59.7256|17.7875|Knivsta
-57.9426|11.8505|Kode
-59.5652|16.2304|Kolbäck
-59.6000|15.8333|Kolsva
-59.5140|15.9925|Köping
-55.4553|13.9345|Köpingebro
-63.1667|18.5667|Köpmanholmen
-59.8760|14.9944|Kopparberg
-59.3331|18.5831|Kopparmora
-62.9316|17.7765|Kramfors
-57.4007|16.2050|Kristdala
-56.0313|14.1524|Kristianstad
-59.3098|14.1081|Kristinehamn
-58.6723|16.3674|Krokek
-60.1333|16.2167|Krylbo
-59.1277|15.1434|Kumla
-59.3500|18.2833|Kummelnäs
-57.8710|11.9805|Kungälv
-59.4786|17.7483|Kungsängen
-57.4872|12.0761|Kungsbacka
-58.3631|11.2594|Kungshamn
-59.3318|18.0412|Kungsholmen
-59.4224|16.0966|Kungsör
-58.3000|13.1833|Kvänum
-59.4510|16.3213|Kvicksund
-56.1339|13.0468|Kvidinge
-62.2936|17.3750|Kvissleby
-56.9167|13.9833|Lagan
-56.5121|13.0437|Laholm
-57.1667|14.5833|Lammhult
-57.3667|14.9000|Landsbro
-55.8862|12.8588|Landskrona
-57.6867|12.2117|Landvetter
-57.6000|13.2333|Länghem
-64.8167|20.2500|Långsele
-60.4524|16.0383|Långshyttan
-59.2458|18.5167|Långvik
-58.9863|14.6190|Laxå
-60.7303|14.9999|Leksand
-57.0000|15.2833|Lenhovda
-57.7705|12.2690|Lerum
-56.7518|15.2697|Lessebo
-59.3630|18.1510|Lidingö
-58.5052|13.1577|Lidköping
-58.1333|12.1333|Lilla Edet
-55.5833|12.9500|Limhamn
-57.5359|13.3557|Limmared
-59.5920|15.2304|Lindesberg
-59.5833|18.1000|Lindholmen
-58.6167|16.2500|Lindö
-57.5667|12.0833|Lindome
-56.7333|16.3000|Lindsdal
-58.4333|15.7833|Linghem
-58.4109|15.6216|Linköping
-56.8332|13.9408|Ljungby
-56.0744|13.2401|Ljungbyhed
-56.6333|16.1667|Ljungbyholm
-55.3979|12.9249|Ljunghusen
-58.5167|15.5000|Ljungsbro
-58.2245|11.9201|Ljungskile
-61.8288|16.0913|Ljusdal
-61.2117|17.1279|Ljusne
-55.7761|13.5241|Löberöd
-55.7667|13.0167|Löddeköpinge
-58.0299|12.1593|Lödöse
-55.6724|13.0685|Lomma
-56.4000|14.3167|Lönsboda
-57.8156|12.0386|Lövgärdet
-59.9574|17.5783|Lövstalöt
-60.1496|15.1878|Ludvika
-65.5841|22.1547|Luleå
-55.7058|13.1932|Lund
-64.5954|18.6735|Lycksele
-58.2743|11.4358|Lysekil
-57.6919|11.9161|Majorna
-65.1850|18.7424|Malå
-57.3877|15.8067|Målilla
-57.5767|14.4617|Malmbäck
-67.1753|20.6549|Malmberget
-59.1333|16.7333|Malmköping
-55.6059|13.0007|Malmö
-58.4110|15.5165|Malmslätt
-60.6833|13.7154|Malung
-58.3500|15.2833|Mantorp
-57.6167|15.5667|Mariannelund
-60.2333|18.5000|Marieberg
-59.2596|17.2230|Mariefred
-57.3833|13.8500|Marieholm
-65.8531|24.1049|Marielund
-58.7097|13.8237|Mariestad
-56.4614|13.5964|Markaryd
-59.6216|17.8548|Märsta
-62.3486|17.0317|Matfors
-56.4856|12.9396|Mellbystrand
-58.6998|12.4531|Mellerud
-56.0500|14.6833|Mjällby
-58.3259|15.1236|Mjölby
-60.5000|14.9667|Mockfjärd
-57.0000|14.5667|Moheda
-59.6006|13.7211|Molkom
-58.5000|14.4000|Mölltorp
-59.0500|17.4167|Mölnbo
-57.6554|12.0138|Mölndal
-57.6589|12.1179|Mölnlycke
-57.0413|16.4446|Mönsterås
-61.0070|14.5432|Mora
-56.0575|12.8802|Mörarp
-56.5248|16.3788|Mörbylånga
-59.9340|16.9635|Morgongåva
-56.1928|14.7474|Mörrum
-59.3186|18.4431|Mörtnäs
-58.5371|15.0365|Motala
-57.9171|13.8783|Mullsjö
-56.2500|12.9667|Munka-Ljungby
-58.4663|11.6735|Munkedal
-59.8386|13.5436|Munkfors
-58.0618|11.7494|Myggenäs
-59.3105|18.1637|Nacka
-57.6531|14.6968|Nässjö
-56.1769|14.4971|Näsum
-56.2000|15.5167|Nättraby
-62.2634|17.3835|Njurundabommen
-62.2875|17.3692|Nolby
-57.7750|11.8333|Nolvik
-59.5193|15.0398|Nora
-60.0650|15.9237|Norberg
-63.5685|19.5024|Nordmaling
-55.9833|14.1500|Norra Åsum
-65.4180|21.5015|Norrfjärden
-58.5942|16.1826|Norrköping
-59.7580|18.7050|Norrtälje
-64.9121|19.4815|Norsjö
-58.1881|12.7160|Nossebro
-56.7446|15.9071|Nybro
-60.2833|14.9667|Nyhammar
-58.7530|17.0079|Nyköping
-59.8000|18.3000|Nykvarn
-58.9034|17.9479|Nynäshamn
-63.7000|20.3167|Obbola
-60.8912|16.7185|Ockelbo
-57.7081|11.6558|Öckerö
-56.1041|12.7477|Ödåkra
-59.1667|15.5333|Odensbacken
-57.7167|14.1667|Odensjö
-58.2295|14.6529|Ödeshög
-58.1000|11.8500|Ödsmål
-57.6988|12.1345|Öjersjö
-57.8044|12.1713|Olofstorp
-56.2773|14.5340|Olofström
-58.8167|16.6333|Olstorp
-56.0575|14.0223|Önnestad
-57.4253|12.0290|Onsala
-60.2241|17.7014|Örbyhus
-59.2741|15.2066|Örebro
-60.3333|18.4333|Öregrund
-56.2834|13.2777|Örkelljunga
-60.5094|15.5413|Ornäs
-63.2909|18.7153|Örnsköldsvik
-61.1203|14.6155|Orsa
-59.7333|17.3000|Örsundsbro
-58.1803|11.6342|Orust
-56.3817|13.9936|Osby
-57.2645|16.4484|Oskarshamn
-56.8000|12.9667|Oskarström
-58.9833|17.9000|Ösmo
-60.2000|17.9000|Österbybruk
-57.8246|15.2736|Österbymo
-59.3388|18.0849|Östermalm
-63.1792|14.6357|Östersund
-60.1833|17.1833|Östervåla
-60.2591|18.3741|Östhammar
-56.1960|13.0920|Östra Ljungby
-66.3275|22.8441|Överkalix
-66.3878|23.6543|Övertorneå
-57.9886|16.3139|Överum
-58.6706|17.1015|Oxelösund
-55.5401|13.0960|Oxie
-56.0333|12.8167|Påarp
-67.2128|23.3661|Pajala
-59.0656|15.3375|Pålsboda
-57.7395|12.1064|Partille
-57.1667|16.4500|Påskallavik
-59.1549|17.6534|Pershagen
-56.1383|13.3948|Perstorp
-65.3172|21.4794|Piteå
-59.7667|16.2000|Ramnäs
-65.8548|22.2913|Råneå
-57.8024|12.0713|Rannebergen
-59.3659|17.9957|Råsunda
-59.4020|13.4914|Råtorp
-60.8863|15.1179|Rättvik
-57.6534|12.4979|Rävlanda
-57.1747|13.5950|Reftele
-59.4291|18.3339|Resarö
-59.7500|18.3667|Rimbo
-58.1362|15.6865|Rimforsa
-59.3969|18.3943|Rindö
-56.6497|16.2667|Rinkabyholm
-59.3871|17.9275|Rinkeby
-63.8088|20.1890|Röbäck
-64.1932|20.8481|Robertsfors
-56.2608|15.6214|Rödeby
-65.3500|21.2000|Roknäs
-65.8500|23.1167|Rolfs
-60.4333|15.5000|Romme
-57.9333|11.5833|Rönnäng
-56.2100|15.2760|Ronneby
-59.2000|17.7333|Rönninge
-59.5833|17.8833|Rosersberg
-65.4333|21.7000|Rosvik
-57.0167|14.9000|Rottne
-56.4667|14.6833|Ryd
-56.9839|14.3085|Rydaholm
-55.9667|12.7667|Rydebäck
-55.4729|13.5883|Rydsgård
-59.1323|12.9289|Säffle
-59.9199|16.6065|Sala
-57.9833|12.2167|Sålanda
-59.2833|18.3000|Saltsjöbaden
-57.7099|12.7924|Sandared
-61.2589|17.1528|Sandarne
-60.6167|16.7667|Sandviken
-57.5058|11.9321|Särö
-60.3478|15.7505|Säter
-57.5417|12.4343|Sätila
-55.9167|13.5500|Sätofta
-63.9038|20.5501|Sävar
-65.7700|21.7311|Sävast
-59.8187|17.6996|Sävja
-57.4033|14.6624|Sävsjö
-55.8321|12.9443|Saxtorpsskogen
-59.2760|17.9307|Segeltorp
-56.2667|14.2000|Sibbhult
-59.6173|17.7236|Sigtuna
-60.7833|14.8500|Siljansnäs
-55.5565|14.3504|Simrishamn
-55.6313|13.7062|Sjöbo
-57.7153|12.8349|Sjömarken
-58.2000|12.2167|Sjuntorp
-58.3943|15.0866|Skänninge
-55.4000|12.8500|Skanör med Falsterbo
-58.3866|13.4384|Skara
-58.5667|15.9000|Skärblacka
-55.3833|13.0500|Skåre
-57.9866|11.5574|Skärhamn
-59.4121|13.6708|Skattkärr
-55.4063|13.0769|Skegrie
-64.7507|20.9528|Skellefteå
-64.6833|21.2333|Skelleftehamn
-57.9833|12.2000|Skepplanda
-57.4304|14.0938|Skillingaryd
-59.8303|15.6934|Skinnskatteberg
-55.4167|13.5667|Skivarp
-59.3232|13.4655|Skoghall
-59.3247|16.4828|Skogstorp
-59.1374|15.3394|Sköllersta
-62.2906|17.3869|Skottsund
-58.3912|13.8451|Skövde
-56.8833|12.5667|Skrea
-58.3500|13.8333|Skultorp
-59.7167|16.4167|Skultuna
-55.4784|13.5019|Skurup
-60.6251|17.4155|Skutskär
-59.3227|13.1027|Slottsbron
-57.1624|13.4121|Smålandsstenar
-60.7000|15.0500|Smedby
-60.1418|15.4142|Smedjebacken
-58.3559|11.2241|Smögen
-55.3434|13.3699|Smygehamn
-60.3833|17.2333|Söderfors
-61.3037|17.0592|Söderhamn
-58.4806|16.3222|Söderköping
-59.3128|18.0758|Södermalm
-59.1955|17.6253|Södertälje
-56.5667|16.6167|Södra Sandby
-65.6598|21.9400|Södra Sunderbyn
-57.7399|15.7939|Södra Vi
-58.1167|12.5333|Sollebrunn
-63.1667|17.2667|Sollefteå
-59.4280|17.9509|Sollentuna
-59.3600|18.0009|Solna
-56.0521|14.5753|Sölvesborg
-62.5056|17.5103|Söråker
-61.7333|16.9833|Sörforsa
-65.5348|17.5370|Sorsele
-56.0399|13.6781|Sösdala
-55.6428|13.2064|Staffanstorp
-59.3667|17.2000|Stallarholmen
-55.7503|13.1980|Stångby
-59.2833|18.6833|Stavsnäs
-55.9019|13.3958|Stehag
-59.3344|17.6884|Stenhamra
-56.7690|12.6303|Steninge
-57.7948|12.3169|Stenkullen
-58.4833|15.0667|Stenstorp
-58.0705|11.8181|Stenungsund
-58.8000|16.7833|Stigtomta
-57.3174|14.5934|Stockaryd
-59.3326|18.0649|Stockholm
-62.3367|17.3658|Stockvik
-58.4780|13.8661|Stöpen
-59.7141|15.1317|Storå
-58.0167|11.8333|Stora Höga
-57.5833|15.8500|Storebro
-59.5318|14.2720|Storfors
-65.0959|17.1173|Storuman
-60.5833|16.5333|Storvik
-59.9593|17.7059|Storvreta
-59.3774|17.0312|Strängnäs
-59.2833|18.5333|Strömma
-56.5500|13.7167|Strömsnäsbruk
-58.9395|11.1712|Strömstad
-56.1698|12.8392|Strövelstorp
-58.3333|15.7333|Sturefors
-56.0833|15.7000|Sturkö
-57.6164|11.7856|Styrsö
-59.3613|17.9711|Sundbyberg
-62.4581|17.3489|Sundsbruk
-62.3913|17.3063|Sundsvall
-59.8376|13.1430|Sunne
-59.7073|16.2219|Surahammar
-57.8253|12.0160|Surte
-55.9134|13.1076|Svalöv
-58.7427|16.8698|Svalsta
-58.1429|11.8182|Svanesund
-56.2667|14.7667|Svängsta
-60.7402|15.9017|Svärdsjö
-58.6551|16.0282|Svärtinge
-55.5079|13.2352|Svedala
-57.4955|13.1108|Svenljunga
-57.6772|14.0888|Taberg
-59.4439|18.0687|Täby
-63.8397|20.4786|Täfteå
-58.4252|15.6815|Tallboda
-58.7238|11.3259|Tanumshede
-60.1500|16.9333|Tärnsjö
-55.8667|13.0833|Teckomatorp
-57.7076|14.3221|Tenhult
-59.3939|17.9011|Tensta
-58.4245|14.1616|Tibro
-58.1803|13.9582|Tidaholm
-60.3427|17.5181|Tierp
-59.6833|16.6167|Tillberga
-56.9667|16.4333|Timmernabben
-62.4865|17.3261|Timrå
-56.5247|14.9790|Tingsryd
-57.9000|11.7333|Tjuvkil
-59.5082|11.8443|Töcksfors
-55.9333|13.9833|Tollarp
-56.1667|14.2833|Tollarp1
-55.5429|13.9546|Tomelilla
-65.9124|22.6513|Töre
-58.7074|14.1260|Töreboda
-56.4250|12.6333|Torekov
-56.1135|13.7452|Tormestorp
-56.4125|15.9984|Torsås
-60.1353|13.0082|Torsby
-59.4167|16.4667|Torshälla
-57.7243|11.7701|Torslanda
-56.9566|13.0772|Torup
-58.0372|14.9782|Tranås
-57.4833|13.3500|Tranemo
-59.2333|18.1333|Trångsund
-57.0542|12.2790|Träslövsläge
-56.7000|16.1167|Trekanten
-55.3751|13.1569|Trelleborg
-58.2121|12.3503|Trollhättan
-56.6167|12.9333|Trönninge
-58.8962|17.5481|Trosa
-59.2000|17.9000|Tullinge
-59.1986|17.8332|Tumba
-57.0415|12.3995|Tvååker
-55.5167|13.0000|Tygelsjö
-56.1604|13.5981|Tyringe
-58.3478|11.9424|Uddevalla
-57.7916|13.4142|Ulricehamn
-63.8284|20.2597|Umeå
-59.5184|17.9113|Upplands Väsby
-59.8588|17.6389|Uppsala
-64.7126|21.1658|Ursviken
-58.4486|14.8897|Vadstena
-57.4981|14.1484|Vaggeryd
-58.9459|17.4876|Vagnhärad
-59.3914|13.1863|Vålberg
-60.6500|17.0333|Valbo
-58.2031|16.6023|Valdemarsvik
-56.0628|14.5439|Valje
-59.0167|16.3833|Valla
-57.4775|12.0014|Vallda
-59.5344|18.0776|Vallentuna
-58.3807|12.3234|Vänersborg
-63.9068|19.7571|Vännäs
-63.9156|19.8244|Vännäsby
-60.5089|14.2246|Vansbro
-58.2623|12.9541|Vara
-57.1056|12.2508|Varberg
-59.2667|17.8841|Vårby
-58.0371|12.8091|Vårgårda
-58.3560|12.3906|Vargön
-57.1860|14.0400|Värnamo
-59.1653|17.7972|Vårsta
-59.3500|18.0333|Vasastaden
-59.3457|18.0498|Vasastan
-59.6491|16.5645|Västerås
-57.7584|16.6373|Västervik
-57.6467|11.9294|Västra Frölunda
-57.4244|11.9358|Västra Hagen
-60.0167|17.7333|Vattholma
-59.4023|18.3532|Vaxholm
-56.8777|14.8091|Växjö
-55.6333|13.4833|Veberöd
-57.2659|12.3322|Veddige
-56.5500|13.0667|Veinge
-56.3178|12.7672|Vejbystrand
-55.4712|13.0197|Vellinge
-57.4289|15.0776|Vetlanda
-62.4333|17.4167|Vi
-57.6045|18.2560|Vibble
-60.9167|15.0167|Vikarbyn
-56.1506|12.5743|Viken
-58.3830|15.4320|Vikingstad
-64.6242|16.6560|Vilhelmina
-57.6659|15.8552|Vimmerby
-64.2018|19.7194|Vindeln
-59.0433|15.8737|Vingåker
-58.4500|13.2667|Vinninga
-56.1000|13.9167|Vinslöv
-59.2500|14.9500|Vintrosa
-57.3167|15.5833|Virserum
-57.6409|18.2960|Visby
-57.6294|12.8489|Viskafors
-56.7833|14.4500|Vislanda
-56.3437|13.6608|Vittsjö
-57.3500|14.4667|Vrigstad
-55.4297|13.8204|Ystad
+60.1500|14.8000|Abborrberget|Dalarna|1814|
+58.6621|16.1759|Åby|Östergötland|6917|
+55.9167|14.2833|Åhus|Skåne|9840|
+59.4147|17.9140|Akalla|Stockholm|8153|
+55.6540|13.1111|Åkarp|Skåne|5959|
+58.2333|13.6500|Åkarp|Västra Götaland|5393|
+59.4794|18.2997|Åkersberga|Stockholm|32659|
+59.2500|17.0833|Åkers Styckebruk|Södermanland|2730|
+57.9258|12.0784|Alafors|Västra Götaland|0|
+59.2335|17.8538|Alby|Stockholm|11400|
+56.7500|12.9333|Åled|Halland|1690|
+61.3468|16.0750|Alfta|Gävleborg|2348|
+57.9303|12.5335|Alingsås|Västra Götaland|26329|
+56.5515|14.1383|Älmhult|Kronoberg|9495|
+59.9667|18.8000|Älmsta|Stockholm|1376|
+59.7532|17.7733|Alsike|Uppsala|3833|
+59.2667|18.1833|Älta|Stockholm|9274|
+60.2667|18.4000|Alunda|Uppsala|2224|
+57.9587|12.1235|Älvängen|Västra Götaland|4759|
+61.2277|14.0394|Älvdalen|Dalarna|1863|
+56.8993|14.5556|Alvesta|Kronoberg|8627|
+60.5708|17.4489|Älvkarleby|Uppsala|1517|
+65.6762|21.0016|Älvsbyn|Norrbotten|4976|
+59.0510|12.7049|Åmål|Västra Götaland|9373|
+59.7619|12.3621|Åmotfors|Värmland|1347|
+57.7004|11.7614|Andalen|Västra Götaland|1897|
+55.4384|13.3197|Anderslöv|Skåne|1963|
+57.2833|13.6333|Anderstorp|Jönköping|5076|
+58.8833|14.2833|Anderstorp|Västra Götaland|4987|
+57.8389|14.8102|Aneby|Jönköping|3496|
+62.5249|15.6590|Ånge|Västernorrland|2889|
+56.2428|12.8622|Ängelholm|Skåne|23240|
+57.7863|12.0985|Angered|Västra Götaland|1062|
+57.6990|16.3341|Ankarsrum|Kalmar|1234|
+60.2417|18.4167|Anneberg|Uppsala|1398|
+57.9884|13.0748|Annelund|Västra Götaland|1226|
+59.3939|15.8388|Arboga|Västmanland|10841|
+61.4667|16.3833|Arbrå|Gävleborg|1961|
+59.3922|12.1334|Årjäng|Värmland|3302|
+66.0517|17.8861|Arjeplog|Norrbotten|1822|
+59.2798|16.6790|Ärla|Södermanland|1272|
+55.6325|13.0714|Arlöv|Skåne|9108|
+58.7268|17.0232|Arnö|Södermanland|4124|
+60.1167|18.6333|Arnö|Stockholm|3925|
+59.2978|18.0514|Årsta|Stockholm|16807|
+60.5164|16.7344|Årsunda|Gävleborg|1012|
+65.5903|19.1668|Arvidsjaur|Norrbotten|4655|
+59.6553|12.5852|Arvika|Värmland|13926|
+63.3667|16.5833|Ås|Västernorrland|1097|
+57.3500|12.1167|Åsa|Halland|6084|
+59.0000|15.0500|Åsbro|Örebro|1321|
+57.1701|15.3443|Åseda|Kronoberg|2557|
+64.1603|17.3476|Åsele|Västerbotten|1706|
+58.8799|14.9023|Askersund|Örebro|3997|
+55.8833|12.9333|Asmundtorp|Skåne|1563|
+56.1357|12.9443|Åstorp|Skåne|9215|
+58.2015|15.9977|Åtvidaberg|Östergötland|7014|
+60.1427|16.1629|Avesta|Dalarna|11949|
+58.3833|13.5667|Axvall|Västra Götaland|1164|
+64.9833|21.0667|Backa|Västerbotten|1516|
+59.9500|17.5333|Bälinge|Uppsala|2406|
+59.5671|17.5278|Bålsta|Uppsala|13138|
+57.8602|14.1240|Bankeryd|Jönköping|8506|
+55.5816|13.1786|Bara|Skåne|3743|
+58.6833|17.0667|Bara|Södermanland|3270|
+59.5493|16.5074|Barkarö|Västmanland|1404|
+56.0091|12.8058|Bårslöv|Skåne|2753|
+56.4269|12.8534|Båstad|Skåne|5146|
+59.0291|12.2321|Bengtsfors|Västra Götaland|3125|
+58.4883|15.5297|Berg|Östergötland|1229|
+60.9293|17.0419|Bergby|Gävleborg|1549|
+62.5307|17.3812|Bergeforsen|Västernorrland|1787|
+56.3906|16.0727|Bergkvara|Kalmar|1021|
+65.5779|22.1084|Bergnäset|Norrbotten|3604|
+59.3808|18.0343|Bergshamra|Stockholm|7300|
+61.9825|17.0637|Bergsjö|Gävleborg|1292|
+65.3000|21.3833|Bergsviken|Norrbotten|2251|
+57.5667|11.9333|Billdal|Västra Götaland|14874|
+55.8833|13.0000|Billeberga|Skåne|1050|
+56.0500|13.0000|Billesholm|Skåne|2794|
+58.9833|12.2500|Billingsfors|Västra Götaland|1108|
+56.2903|13.7113|Bjärnum|Skåne|2755|
+55.7167|13.0167|Bjärred|Skåne|9844|
+63.2000|18.5000|Bjästa|Västernorrland|1845|
+57.8710|12.3255|Björboholm|Västra Götaland|1036|
+60.0300|17.5520|Björklinge|Uppsala|3186|
+57.7322|11.6792|Björkö|Västra Götaland|1495|
+65.6137|22.1770|Björkskatan|Norrbotten|4388|
+57.7667|11.8333|Björlanda|Västra Götaland|23088|
+59.2412|14.2494|Björneborg|Värmland|1237|
+63.9303|19.2137|Bjurholm|Västerbotten|1000|
+60.7373|15.4529|Bjursås|Dalarna|1968|
+56.0837|12.9191|Bjuv|Skåne|10602|
+55.5833|13.6000|Blentarp|Skåne|1452|
+56.9833|16.3333|Blomstermåla|Kalmar|2380|
+57.5000|14.7000|Bodafors|Jönköping|1957|
+65.8252|21.6886|Boden|Norrbotten|16830|
+64.8667|20.3833|Boliden|Västerbotten|1661|
+57.6687|12.5727|Bollebygd|Västra Götaland|3870|
+59.2420|18.2276|Bollmora|Stockholm|0|
+61.3482|16.3946|Bollnäs|Gävleborg|13716|
+62.9978|17.6735|Bollstabruk|Västernorrland|1883|
+59.3333|18.2833|Boo|Stockholm|24052|
+57.1167|14.1667|Bor|Jönköping|1263|
+57.7378|12.9408|Borås|Västra Götaland|71700|
+58.5667|15.2833|Borensberg|Östergötland|2942|
+56.8793|16.6563|Borgholm|Kalmar|4344|
+60.4858|15.4371|Borlänge|Dalarna|41955|
+58.1972|15.0538|Boxholm|Östergötland|3269|
+57.0667|15.0500|Braås|Kronoberg|1692|
+56.2333|15.1167|Bräkne-Hoby|Blekinge|1708|
+58.5634|12.3492|Brålanda|Västra Götaland|1521|
+58.3833|11.4833|Brastad|Västra Götaland|2289|
+57.1734|13.7379|Bredaryd|Jönköping|1549|
+63.4466|18.1102|Bredbyn|Västernorrland|1200|
+59.3500|18.2000|Brevik|Stockholm|8024|
+59.5167|17.6333|Bro|Stockholm|8266|
+56.2552|14.0780|Broby|Skåne|3104|
+59.3400|17.9400|Bromma|Stockholm|72000|
+56.0755|14.4696|Bromölla|Skåne|7854|
+59.2800|18.4300|Brunn|Stockholm|1180|
+60.2625|16.0103|Brunna|Dalarna|3861|
+59.5167|17.7500|Brunna|Stockholm|3948|
+57.2378|12.1219|Bua|Halland|1792|
+55.5448|12.9238|Bunkeflostrand|Skåne|13048|
+64.6167|21.2000|Bureå|Västerbotten|2533|
+64.5167|20.6500|Burträsk|Västerbotten|1573|
+64.9526|21.2058|Byske|Västerbotten|1785|
+59.8842|12.3040|Charlottenberg|Värmland|2368|
+59.1331|18.4064|Dalarö|Stockholm|1849|
+55.6666|13.3498|Dalby|Skåne|6302|
+57.7167|13.0833|Dalsjöfors|Västra Götaland|3606|
+58.9256|12.3087|Dals Långed|Västra Götaland|1407|
+59.4040|18.0238|Danderyd|Stockholm|32425|
+55.8333|14.0833|Degeberga|Skåne|1328|
+59.2380|14.4308|Degerfors|Örebro|7190|
+59.6030|13.4720|Deje|Värmland|2702|
+61.8010|16.5557|Delsbo|Gävleborg|2185|
+59.5728|16.3872|Dingtuna|Västmanland|1021|
+57.9264|12.0260|Diseröd|Västra Götaland|1328|
+60.5606|15.1328|Djurås|Dalarna|2128|
+59.3265|18.7115|Djurö|Stockholm|1442|
+59.3993|18.0562|Djursholm|Stockholm|8856|
+57.6000|11.7992|Donsö|Västra Götaland|1446|
+64.2618|16.4131|Dorotea|Västerbotten|1491|
+58.9125|11.9331|Ed|Västra Götaland|2994|
+61.3769|15.8175|Edsbyn|Gävleborg|4179|
+58.4667|15.6333|Ekängen|Östergötland|2485|
+56.0000|12.9667|Ekeby|Skåne|3292|
+59.2600|15.3300|Ekeby-Almby|Örebro|1531|
+57.4918|15.0223|Ekenässjön|Jönköping|1563|
+59.2910|17.8121|Ekerö|Stockholm|11505|
+60.1728|13.4965|Ekshärad|Värmland|1020|
+57.6664|14.9720|Eksjö|Jönköping|10157|
+58.1833|11.4667|Ellös|Västra Götaland|1036|
+56.6327|15.5365|Emmaboda|Kalmar|4818|
+60.4099|15.5958|Enbacka|Dalarna|1899|
+59.4333|18.0500|Enebyberg|Stockholm|5000|
+59.5654|16.5304|Enhagen-Ekbacken|Västmanland|1091|
+59.6361|17.0777|Enköping|Uppsala|22553|
+59.2424|17.8163|Eriksberg|Stockholm|3200|
+57.7714|12.0418|Eriksbo|Västra Götaland|2564|
+63.8833|20.3167|Ersmark|Västerbotten|875|
+59.3666|16.5077|Eskilstuna|Södermanland|67359|
+55.8393|13.3039|Eslöv|Skåne|18592|
+60.0042|15.7932|Fagersta|Västmanland|11936|
+56.9055|12.4912|Falkenberg|Halland|24099|
+58.1735|13.5507|Falköping|Västra Götaland|17170|
+60.6036|15.6260|Falun|Dalarna|37291|
+58.5682|11.9924|Färgelanda|Västra Götaland|1986|
+61.8001|15.8442|Färila|Gävleborg|1398|
+56.6499|16.4686|Färjestaden|Kalmar|5645|
+56.0667|14.0833|Färlöv|Skåne|1016|
+59.4333|15.5833|Fellingsbro|Örebro|1475|
+59.7124|14.1683|Filipstad|Värmland|6119|
+58.7058|15.7674|Finspång|Östergötland|12807|
+59.2915|18.2549|Fisksätra|Stockholm|8117|
+59.2487|17.8599|Fittja|Stockholm|7500|
+56.0436|14.2756|Fjälkinge|Skåne|1832|
+57.4591|12.1751|Fjärås kyrkby|Halland|2385|
+59.1737|14.8723|Fjugesta|Örebro|2160|
+59.0583|16.5878|Flen|Södermanland|6594|
+58.1333|13.3333|Floby|Västra Götaland|1562|
+60.6167|16.8833|Forsbacka|Gävleborg|1754|
+64.7667|20.5000|Forsbacka|Västerbotten|1748|
+57.7000|14.4667|Forserum|Jönköping|2080|
+59.5254|13.4813|Forshaga|Värmland|6361|
+57.1641|13.8302|Forsheda|Jönköping|1510|
+56.3500|12.8167|Förslöv|Skåne|2386|
+62.4986|16.1702|Fränsta|Västernorrland|2062|
+57.3167|12.1667|Frillesås|Halland|2832|
+57.8248|13.0106|Fristad|Västra Götaland|5409|
+57.5566|12.7846|Fritsla|Västra Götaland|2307|
+56.6833|12.7333|Frösakull|Halland|2296|
+59.4667|15.3667|Frövi|Örebro|2480|
+55.7738|13.0902|Furulund|Skåne|4359|
+57.7167|12.1333|Furulund|Västra Götaland|3888|
+56.6500|12.9167|Fyllinge|Halland|2830|
+60.5986|15.0775|Gagnef|Dalarna|1199|
+67.1339|20.6528|Gällivare|Norrbotten|10362|
+59.3263|18.0725|Gamla Stan|Stockholm|3000|
+59.8982|17.6339|Gamla Uppsala|Uppsala|17973|
+57.8948|16.4051|Gamleby|Kalmar|2758|
+65.6393|22.0114|Gammelstad|Norrbotten|4892|
+57.7000|13.0167|Gånghester|Västra Götaland|2533|
+55.9873|12.8048|Gantofta|Skåne|1322|
+57.8048|12.0288|Gårdsten|Västra Götaland|8025|
+59.3043|14.9462|Garphyttan|Örebro|1613|
+55.5495|14.1792|Gärsnäs|Skåne|1094|
+60.6745|17.1417|Gävle|Gävleborg|74884|
+56.8675|14.6438|Gemla|Kronoberg|1462|
+55.5991|13.3982|Genarp|Skåne|2962|
+56.8167|12.7333|Getinge|Halland|1909|
+60.1730|18.1851|Gimo|Uppsala|2698|
+57.3044|13.5408|Gislaved|Jönköping|10180|
+56.3000|14.1333|Glimåkra|Skåne|1466|
+56.9333|12.3500|Glommen|Halland|687|
+55.9409|12.8093|Glumslöv|Skåne|2093|
+62.0487|17.2586|Gnarp|Gävleborg|1199|
+59.0475|17.3119|Gnesta|Södermanland|5772|
+57.3585|13.7369|Gnosjö|Jönköping|4528|
+58.1062|12.1525|Göta|Västra Götaland|1002|
+57.7072|11.9668|Göteborg|Västra Götaland|608462|Gothenburg
+57.7229|11.9458|Göteborgs stad|Västra Götaland|0|
+58.5282|13.4946|Götene|Västra Götaland|5027|
+57.5000|18.5000|Gotland|Gotland|0|
+57.8362|12.2995|Gråbo|Västra Götaland|6021|
+60.0746|15.0078|Grängesberg|Dalarna|2146|
+58.0167|14.4667|Gränna|Jönköping|2726|
+58.3322|12.6812|Grästorp|Västra Götaland|2946|
+58.7025|11.2574|Grebbestad|Västra Götaland|1877|
+58.3015|15.8709|Grebo|Östergötland|1047|
+59.6260|17.2579|Grillby|Uppsala|1028|
+59.3514|13.1111|Grums|Värmland|5040|
+60.6875|15.4851|Grycksbo|Dalarna|1870|
+56.7000|12.7333|Gullbrandstorp|Halland|1642|
+58.9862|14.0964|Gullspång|Västra Götaland|1568|
+57.7167|16.5333|Gunnebo|Kalmar|1022|
+59.3268|18.3897|Gustavsberg|Stockholm|20774|
+58.2688|16.4989|Gusum|Östergötland|1149|
+57.9119|14.0744|Habo|Jönköping|7740|
+60.0238|13.6721|Hagfors|Värmland|4869|
+55.8500|12.9167|Häljarp|Skåne|3134|
+59.1167|15.2000|Hällabrottet|Örebro|1806|
+59.3915|16.4223|Hällbybrunn|Södermanland|3323|
+59.7839|14.5220|Hällefors|Örebro|4449|
+59.1521|16.4970|Hälleforsnäs|Södermanland|1624|
+56.0167|14.7000|Hällevik|Blekinge|1545|
+59.0646|15.1099|Hallsberg|Örebro|8146|
+59.6140|16.2285|Hallstahammar|Västmanland|10787|
+60.0500|18.6000|Hallstavik|Stockholm|4536|
+56.6745|12.8568|Halmstad|Halland|70480|
+56.0167|14.2167|Hammar|Skåne|3311|
+57.7805|12.0360|Hammarkullen|Västra Götaland|7914|
+56.1606|14.0931|Hanaskog|Skåne|1385|
+59.1681|18.1380|Handen|Stockholm|11524|
+59.1677|18.1448|Haninge|Stockholm|74968|
+65.8355|24.1368|Haparanda|Norrbotten|6679|
+62.6323|17.9379|Härnösand|Västernorrland|25012|
+56.7449|12.7276|Harplinge|Halland|1498|
+59.3800|17.8087|Hässelby Villastad|Stockholm|19000|
+56.1591|13.7664|Hässleholm|Skåne|19309|
+56.1167|15.4833|Hasslö|Blekinge|1606|
+56.2847|13.9355|Hästveda|Skåne|1693|
+56.7222|12.6719|Haverdal|Halland|1681|
+59.9382|16.8622|Heby|Uppsala|2724|
+60.2797|15.9886|Hedemora|Dalarna|7371|
+60.4000|17.0000|Hedesunda|Gävleborg|1067|
+56.0565|12.7872|Helsingborg|Skåne|104250|
+59.3227|18.4868|Hemmesta|Stockholm|4577|
+57.2379|18.3744|Hemse|Gotland|1668|
+58.2385|11.6760|Henån|Västra Götaland|2243|
+58.3833|14.8000|Herrestad|Östergötland|2412|
+58.0774|13.0266|Herrljunga|Västra Götaland|3982|
+57.4423|13.5958|Hestra|Jönköping|1326|
+57.3129|13.8844|Hillerstorp|Jönköping|1746|
+57.7034|12.4466|Hindås|Västra Götaland|2901|
+56.1000|12.6333|Hittarp|Skåne|3837|
+56.3167|12.9167|Hjärnarp|Skåne|1095|
+55.6688|13.1393|Hjärup|Skåne|4744|
+58.3013|14.2878|Hjo|Västra Götaland|6203|
+57.7017|11.7164|Hjuvik|Västra Götaland|3754|
+60.5457|16.2867|Hofors|Gävleborg|6090|
+55.8049|12.9797|Hofterup|Skåne|3814|
+56.1997|12.5579|Höganäs|Skåne|14778|
+57.1660|16.0256|Högsby|Kalmar|1923|
+59.6667|16.5833|Hökåsen|Västmanland|2986|
+55.4941|13.0078|Hököpinge|Skåne|1164|
+55.4098|12.9558|Höllviken|Skåne|14889|
+63.7060|20.3641|Holmsund|Västerbotten|5962|
+59.0167|17.5333|Hölö|Stockholm|1199|
+57.6897|11.6497|Hönö|Västra Götaland|5293|
+55.9344|13.5385|Höör|Skåne|12152|
+55.8524|13.6609|Hörby|Skåne|7459|
+60.3000|16.4167|Horndal|Dalarna|1120|
+63.6231|19.9086|Hörnefors|Västerbotten|2514|
+57.3548|12.4778|Horred|Västra Götaland|1203|
+65.2819|21.4054|Hortlax|Norrbotten|1128|
+58.8536|14.2191|Hova|Västra Götaland|1254|
+58.0333|11.7667|Höviksnäs|Västra Götaland|1750|
+56.7869|15.1402|Hovmantorp|Kronoberg|3082|
+59.3500|15.2167|Hovsta|Örebro|2831|
+59.2371|17.9819|Huddinge|Stockholm|90182|
+61.7274|17.1056|Hudiksvall|Gävleborg|16081|
+57.4881|15.8436|Hultsfred|Kalmar|5510|
+58.4413|11.3032|Hunnebostrand|Västra Götaland|2053|
+57.7860|14.3021|Huskvarna|Jönköping|21500|
+63.3333|19.1667|Husum|Västernorrland|1563|
+56.1000|12.8500|Hyllinge|Skåne|2287|
+56.9989|13.2396|Hyltebruk|Halland|3992|
+61.6422|17.0748|Iggesund|Gävleborg|3419|
+57.8599|12.4516|Ingared|Västra Götaland|1703|
+56.7500|14.9167|Ingelstad|Kronoberg|1762|
+60.6769|15.0949|Insjön|Dalarna|2141|
+64.4000|17.4833|Insjön|Västerbotten|2150|
+59.7000|16.9333|Irsta|Uppsala|2534|
+59.6000|16.7000|Irsta|Västmanland|2809|
+59.4227|17.8351|Jakobsberg|Stockholm|24046|
+56.1919|15.8412|Jämjö|Blekinge|2629|
+56.2333|14.5167|Jämshög|Blekinge|1612|
+60.7167|16.6000|Järbo|Gävleborg|1813|
+60.5333|14.3667|Järna|Dalarna|1725|
+59.0917|17.5662|Järna|Stockholm|6038|
+61.7167|16.1667|Järvsö|Gävleborg|1557|
+62.4342|17.3727|Johannedal|Västernorrland|2592|
+66.6067|19.8232|Jokkmokk|Norrbotten|2794|
+57.7814|14.1562|Jönköping|Jönköping|112766|
+56.2338|12.6718|Jonstorp|Skåne|1972|
+58.0000|12.7167|Jonstorp|Västra Götaland|1771|
+59.1497|18.1167|Jordbro|Stockholm|10757|
+57.9863|11.8294|Jörlanda|Västra Götaland|1465|
+58.6576|16.1602|Jursla|Östergötland|1647|
+64.8357|20.9845|Kåge|Västerbotten|2376|
+55.9998|13.0879|Kågeröd|Skåne|1516|
+65.8530|23.1564|Kalix|Norrbotten|7495|
+58.5100|13.3058|Källby|Västra Götaland|1737|
+57.6099|12.0511|Kållered|Västra Götaland|6784|
+56.2484|15.2872|Kallinge|Blekinge|4664|
+56.6616|16.3616|Kalmar|Kalmar|38408|
+60.5209|17.6315|Karlholmsbruk|Uppsala|1193|
+58.5372|14.5047|Karlsborg|Västra Götaland|3624|
+56.1706|14.8619|Karlshamn|Blekinge|20112|
+59.3267|14.5239|Karlskoga|Örebro|27490|
+56.1616|15.5866|Karlskrona|Blekinge|66675|
+59.3793|13.5036|Karlstad|Värmland|61492|
+58.9959|16.2072|Katrineholm|Södermanland|23283|
+55.7919|13.1102|Kävlinge|Skåne|9320|
+57.8535|14.3046|Kaxholmen|Jönköping|1561|
+59.5023|13.3128|Kil|Värmland|7627|
+61.2333|16.5667|Kilafors|Gävleborg|1197|
+58.5497|15.9630|Kimstad|Östergötland|1469|
+57.5073|12.6946|Kinna|Västra Götaland|15019|
+67.8557|20.2251|Kiruna|Norrbotten|17037|
+57.9878|15.6330|Kisa|Östergötland|3776|
+59.4032|17.9448|Kista|Stockholm|10254|
+55.5942|13.2457|Klågerup|Skåne|1940|
+57.3867|18.2037|Klintehamn|Gotland|1490|
+56.1356|13.1309|Klippan|Skåne|8411|
+56.5186|13.3242|Knäred|Halland|1211|
+56.1833|14.0833|Knislinge|Skåne|3144|
+59.7256|17.7875|Knivsta|Uppsala|7977|
+57.9426|11.8505|Kode|Västra Götaland|1605|
+59.5652|16.2304|Kolbäck|Västmanland|2034|
+59.6000|15.8333|Kolsva|Västmanland|2440|
+59.5140|15.9925|Köping|Västmanland|18355|
+55.4553|13.9345|Köpingebro|Skåne|1254|
+63.1667|18.5667|Köpmanholmen|Västernorrland|1194|
+59.8760|14.9944|Kopparberg|Örebro|3065|
+59.3331|18.5831|Kopparmora|Stockholm|2280|
+62.9316|17.7765|Kramfors|Västernorrland|6582|
+57.4007|16.2050|Kristdala|Kalmar|1016|
+56.0313|14.1524|Kristianstad|Skåne|39762|
+59.3098|14.1081|Kristinehamn|Värmland|18557|
+58.6723|16.3674|Krokek|Östergötland|5053|
+60.1333|16.2167|Krylbo|Dalarna|4072|
+59.1277|15.1434|Kumla|Örebro|16663|
+59.3500|18.2833|Kummelnäs|Stockholm|3360|
+57.8710|11.9805|Kungälv|Västra Götaland|24101|
+59.4786|17.7483|Kungsängen|Stockholm|10151|
+57.4872|12.0761|Kungsbacka|Halland|18698|
+58.3631|11.2594|Kungshamn|Västra Götaland|3657|
+59.3318|18.0412|Kungsholmen|Stockholm|69363|
+59.4224|16.0966|Kungsör|Västmanland|5885|
+58.3000|13.1833|Kvänum|Västra Götaland|1278|
+59.4510|16.3213|Kvicksund|Södermanland|2179|
+56.1339|13.0468|Kvidinge|Skåne|1823|
+62.2936|17.3750|Kvissleby|Västernorrland|8785|
+56.9167|13.9833|Lagan|Kronoberg|1550|
+56.5121|13.0437|Laholm|Halland|6527|
+57.1667|14.5833|Lammhult|Kronoberg|1694|
+57.3667|14.9000|Landsbro|Jönköping|1438|
+55.8862|12.8588|Landskrona|Skåne|32229|
+57.6867|12.2117|Landvetter|Västra Götaland|8839|
+57.6000|13.2333|Länghem|Västra Götaland|1086|
+64.8167|20.2500|Långsele|Västerbotten|1620|
+63.1833|17.0667|Långsele|Västernorrland|1642|
+60.4524|16.0383|Långshyttan|Dalarna|1609|
+59.2458|18.5167|Långvik|Stockholm|1206|
+58.9863|14.6190|Laxå|Örebro|3125|
+60.7303|14.9999|Leksand|Dalarna|6107|
+57.0000|15.2833|Lenhovda|Kronoberg|1762|
+57.7705|12.2690|Lerum|Västra Götaland|26913|
+56.7518|15.2697|Lessebo|Kronoberg|2857|
+59.3630|18.1510|Lidingö|Stockholm|42466|
+58.5052|13.1577|Lidköping|Västra Götaland|22988|
+58.1333|12.1333|Lilla Edet|Västra Götaland|3772|
+55.5833|12.9500|Limhamn|Skåne|20000|
+57.5359|13.3557|Limmared|Västra Götaland|1434|
+59.5920|15.2304|Lindesberg|Örebro|9571|
+59.5833|18.1000|Lindholmen|Stockholm|1146|
+58.6167|16.2500|Lindö|Östergötland|4763|
+57.5667|12.0833|Lindome|Västra Götaland|10942|
+56.7333|16.3000|Lindsdal|Kalmar|5709|
+58.4333|15.7833|Linghem|Östergötland|2853|
+58.4109|15.6216|Linköping|Östergötland|166673|
+56.8332|13.9408|Ljungby|Kronoberg|15785|
+56.0744|13.2401|Ljungbyhed|Skåne|2127|
+56.6333|16.1667|Ljungbyholm|Kalmar|1725|
+55.3979|12.9249|Ljunghusen|Skåne|2444|
+58.5167|15.5000|Ljungsbro|Östergötland|6763|
+58.2245|11.9201|Ljungskile|Västra Götaland|3689|
+61.8288|16.0913|Ljusdal|Gävleborg|7259|
+61.2117|17.1279|Ljusne|Gävleborg|1946|
+55.7761|13.5241|Löberöd|Skåne|1251|
+55.7667|13.0167|Löddeköpinge|Skåne|6481|
+58.0299|12.1593|Lödöse|Västra Götaland|1540|
+55.6724|13.0685|Lomma|Skåne|12368|
+56.4000|14.3167|Lönsboda|Skåne|1986|
+57.8156|12.0386|Lövgärdet|Västra Götaland|7113|
+59.9574|17.5783|Lövstalöt|Uppsala|1399|
+60.1496|15.1878|Ludvika|Dalarna|15245|
+65.5841|22.1547|Luleå|Norrbotten|77832|
+55.7058|13.1932|Lund|Skåne|87244|
+64.5954|18.6735|Lycksele|Västerbotten|8545|
+58.2743|11.4358|Lysekil|Västra Götaland|7734|
+57.6919|11.9161|Majorna|Västra Götaland|29254|
+65.1850|18.7424|Malå|Västerbotten|2043|
+57.3877|15.8067|Målilla|Kalmar|1348|
+57.5767|14.4617|Malmbäck|Jönköping|1087|
+67.1753|20.6549|Malmberget|Norrbotten|6017|
+59.1333|16.7333|Malmköping|Södermanland|2106|
+55.6059|13.0007|Malmö|Skåne|362133|
+58.4110|15.5165|Malmslätt|Östergötland|5074|
+60.6833|13.7154|Malung|Dalarna|4927|
+58.3500|15.2833|Mantorp|Östergötland|3781|
+57.6167|15.5667|Mariannelund|Jönköping|1503|
+60.2333|18.5000|Marieberg|Uppsala|1181|
+59.2596|17.2230|Mariefred|Södermanland|3911|
+57.3833|13.8500|Marieholm|Jönköping|1578|
+55.8667|13.1500|Marieholm|Skåne|1604|
+65.8531|24.1049|Marielund|Norrbotten|1726|
+58.7097|13.8237|Mariestad|Västra Götaland|16122|
+56.4614|13.5964|Markaryd|Kronoberg|4664|
+59.6216|17.8548|Märsta|Stockholm|27034|
+62.3486|17.0317|Matfors|Västernorrland|3437|
+56.4856|12.9396|Mellbystrand|Halland|3412|
+58.6998|12.4531|Mellerud|Västra Götaland|3797|
+56.0500|14.6833|Mjällby|Blekinge|1319|
+56.6833|12.7667|Mjällby|Halland|1272|
+58.3259|15.1236|Mjölby|Östergötland|12858|
+60.5000|14.9667|Mockfjärd|Dalarna|1920|
+57.0000|14.5667|Moheda|Kronoberg|1880|
+59.6006|13.7211|Molkom|Värmland|1896|
+58.5000|14.4000|Mölltorp|Västra Götaland|1047|
+59.0500|17.4167|Mölnbo|Stockholm|1089|
+57.6554|12.0138|Mölndal|Västra Götaland|59430|
+57.6589|12.1179|Mölnlycke|Västra Götaland|17579|
+57.0413|16.4446|Mönsterås|Kalmar|4998|
+61.0070|14.5432|Mora|Dalarna|12602|
+56.0575|12.8802|Mörarp|Skåne|1935|
+56.5248|16.3788|Mörbylånga|Kalmar|1824|
+59.9340|16.9635|Morgongåva|Uppsala|1441|
+56.1928|14.7474|Mörrum|Blekinge|3903|
+59.3186|18.4431|Mörtnäs|Stockholm|1291|
+58.5371|15.0365|Motala|Östergötland|30944|
+57.9171|13.8783|Mullsjö|Jönköping|5584|
+56.2500|12.9667|Munka-Ljungby|Skåne|3148|
+58.4663|11.6735|Munkedal|Västra Götaland|3910|
+59.8386|13.5436|Munkfors|Värmland|2834|
+58.0618|11.7494|Myggenäs|Västra Götaland|1460|
+59.3105|18.1637|Nacka|Stockholm|25170|
+57.6531|14.6968|Nässjö|Jönköping|17719|
+56.1769|14.4971|Näsum|Skåne|1307|
+56.2000|15.5167|Nättraby|Blekinge|3284|
+62.2634|17.3835|Njurundabommen|Västernorrland|1959|
+62.2875|17.3692|Nolby|Västernorrland|1200|
+57.7750|11.8333|Nolvik|Västra Götaland|987|
+59.5193|15.0398|Nora|Örebro|6597|
+60.0650|15.9237|Norberg|Västmanland|4653|
+63.5685|19.5024|Nordmaling|Västerbotten|2671|
+55.9833|14.1500|Norra Åsum|Skåne|1248|
+65.4180|21.5015|Norrfjärden|Norrbotten|1562|
+58.5942|16.1826|Norrköping|Östergötland|93765|
+59.7580|18.7050|Norrtälje|Stockholm|19365|
+64.9121|19.4815|Norsjö|Västerbotten|2057|
+58.1881|12.7160|Nossebro|Västra Götaland|1884|
+56.7446|15.9071|Nybro|Kalmar|13039|
+60.2833|14.9667|Nyhammar|Dalarna|1052|
+58.7530|17.0079|Nyköping|Södermanland|38780|
+59.8000|18.3000|Nykvarn|Stockholm|6032|
+58.9034|17.9479|Nynäshamn|Stockholm|14532|
+63.7000|20.3167|Obbola|Västerbotten|2173|
+60.8912|16.7185|Ockelbo|Gävleborg|2875|
+57.7081|11.6558|Öckerö|Västra Götaland|3568|
+56.1041|12.7477|Ödåkra|Skåne|5231|
+59.1667|15.5333|Odensbacken|Örebro|1378|
+57.7167|14.1667|Odensjö|Jönköping|2646|
+58.2295|14.6529|Ödeshög|Östergötland|2554|
+58.1000|11.8500|Ödsmål|Västra Götaland|557|
+57.6988|12.1345|Öjersjö|Västra Götaland|4394|
+57.8044|12.1713|Olofstorp|Västra Götaland|2783|
+56.2773|14.5340|Olofström|Blekinge|7526|
+58.8167|16.6333|Olstorp|Södermanland|1017|
+57.8228|12.2770|Olstorp|Västra Götaland|1017|
+56.0575|14.0223|Önnestad|Skåne|1392|
+57.4253|12.0290|Onsala|Halland|12275|
+60.2241|17.7014|Örbyhus|Uppsala|2025|
+59.2741|15.2066|Örebro|Örebro|155989|
+60.3333|18.4333|Öregrund|Uppsala|1589|
+56.2834|13.2777|Örkelljunga|Skåne|5193|
+60.5094|15.5413|Ornäs|Dalarna|1083|
+63.2909|18.7153|Örnsköldsvik|Västernorrland|32493|
+61.1203|14.6155|Orsa|Dalarna|5349|
+59.7333|17.3000|Örsundsbro|Uppsala|1302|
+58.1803|11.6342|Orust|Västra Götaland|0|
+56.3817|13.9936|Osby|Skåne|7554|
+57.2645|16.4484|Oskarshamn|Kalmar|18287|
+56.8000|12.9667|Oskarström|Halland|4172|
+58.9833|17.9000|Ösmo|Stockholm|3866|
+60.2000|17.9000|Österbybruk|Uppsala|2331|
+57.8246|15.2736|Österbymo|Östergötland|897|
+59.3388|18.0849|Östermalm|Stockholm|36418|
+63.1792|14.6357|Östersund|Jämtland|49806|
+60.1833|17.1833|Östervåla|Uppsala|1696|
+60.2591|18.3741|Östhammar|Uppsala|4726|
+56.1960|13.0920|Östra Ljungby|Skåne|1740|
+66.3275|22.8441|Överkalix|Norrbotten|1036|
+66.3878|23.6543|Övertorneå|Norrbotten|1906|
+57.9886|16.3139|Överum|Kalmar|1166|
+58.6706|17.1015|Oxelösund|Södermanland|11157|
+55.5401|13.0960|Oxie|Skåne|12665|
+56.0333|12.8167|Påarp|Skåne|2932|
+67.2128|23.3661|Pajala|Norrbotten|2032|
+59.0656|15.3375|Pålsboda|Örebro|1610|
+57.7395|12.1064|Partille|Västra Götaland|28648|
+57.1667|16.4500|Påskallavik|Kalmar|1099|
+59.1549|17.6534|Pershagen|Stockholm|2235|
+56.1383|13.3948|Perstorp|Skåne|5847|
+65.3172|21.4794|Piteå|Norrbotten|23067|
+59.7667|16.2000|Ramnäs|Västmanland|1333|
+65.8548|22.2913|Råneå|Norrbotten|1966|
+57.8024|12.0713|Rannebergen|Västra Götaland|4364|
+59.3659|17.9957|Råsunda|Stockholm|16877|
+59.4020|13.4914|Råtorp|Värmland|3287|
+60.8863|15.1179|Rättvik|Dalarna|5160|
+57.6534|12.4979|Rävlanda|Västra Götaland|1522|
+57.1747|13.5950|Reftele|Jönköping|1289|
+59.4291|18.3339|Resarö|Stockholm|3249|
+59.7500|18.3667|Rimbo|Stockholm|4882|
+58.1362|15.6865|Rimforsa|Östergötland|2259|
+59.3969|18.3943|Rindö|Stockholm|1100|
+56.6497|16.2667|Rinkabyholm|Kalmar|1631|
+59.3871|17.9275|Rinkeby|Stockholm|19349|
+63.8088|20.1890|Röbäck|Västerbotten|2460|
+64.1932|20.8481|Robertsfors|Västerbotten|2030|
+56.2608|15.6214|Rödeby|Blekinge|3508|
+65.3500|21.2000|Roknäs|Norrbotten|1259|
+65.8500|23.1167|Rolfs|Norrbotten|1001|
+60.4333|15.5000|Romme|Dalarna|1735|
+57.9333|11.5833|Rönnäng|Västra Götaland|1551|
+56.2100|15.2760|Ronneby|Blekinge|12612|
+59.2000|17.7333|Rönninge|Stockholm|0|
+59.5833|17.8833|Rosersberg|Stockholm|1765|
+65.4333|21.7000|Rosvik|Norrbotten|1848|
+57.0167|14.9000|Rottne|Kronoberg|2395|
+56.4667|14.6833|Ryd|Kronoberg|1474|
+58.6667|15.0833|Ryd|Östergötland|1446|
+56.9839|14.3085|Rydaholm|Jönköping|1587|
+55.9667|12.7667|Rydebäck|Skåne|5904|
+55.4729|13.5883|Rydsgård|Skåne|1383|
+59.1323|12.9289|Säffle|Värmland|9150|
+59.9199|16.6065|Sala|Västmanland|13087|
+57.9833|12.2167|Sålanda|Västra Götaland|4240|
+59.2833|18.3000|Saltsjöbaden|Stockholm|9477|
+57.7099|12.7924|Sandared|Västra Götaland|2993|
+61.2589|17.1528|Sandarne|Gävleborg|1681|
+60.6167|16.7667|Sandviken|Gävleborg|24724|
+57.5058|11.9321|Särö|Halland|2982|
+60.3478|15.7505|Säter|Dalarna|4613|
+57.5417|12.4343|Sätila|Västra Götaland|1210|
+55.9167|13.5500|Sätofta|Skåne|1160|
+63.9038|20.5501|Sävar|Västerbotten|2968|
+65.7700|21.7311|Sävast|Norrbotten|3093|
+59.8187|17.6996|Sävja|Uppsala|9723|
+57.4033|14.6624|Sävsjö|Jönköping|5374|
+55.8321|12.9443|Saxtorpsskogen|Skåne|1174|
+59.2760|17.9307|Segeltorp|Stockholm|10536|
+56.2667|14.2000|Sibbhult|Skåne|1431|
+59.6173|17.7236|Sigtuna|Stockholm|9074|
+60.7833|14.8500|Siljansnäs|Dalarna|1274|
+55.5565|14.3504|Simrishamn|Skåne|6779|
+55.6313|13.7062|Sjöbo|Skåne|7910|
+57.7153|12.8349|Sjömarken|Västra Götaland|2596|
+58.2000|12.2167|Sjuntorp|Västra Götaland|2213|
+58.3943|15.0866|Skänninge|Östergötland|3358|
+59.9333|18.4833|Skänninge|Stockholm|3242|
+55.4000|12.8500|Skanör med Falsterbo|Skåne|7077|
+58.3866|13.4384|Skara|Västra Götaland|11437|
+58.5667|15.9000|Skärblacka|Östergötland|4023|
+55.3833|13.0500|Skåre|Skåne|5173|
+59.4333|13.4333|Skåre|Värmland|5444|
+57.9866|11.5574|Skärhamn|Västra Götaland|3495|
+59.4121|13.6708|Skattkärr|Värmland|1979|
+55.4063|13.0769|Skegrie|Skåne|1156|
+64.7507|20.9528|Skellefteå|Västerbotten|35516|
+64.6833|21.2333|Skelleftehamn|Västerbotten|3069|
+57.9833|12.2000|Skepplanda|Västra Götaland|1821|
+57.4304|14.0938|Skillingaryd|Jönköping|3965|
+59.8303|15.6934|Skinnskatteberg|Västmanland|2383|
+55.4167|13.5667|Skivarp|Skåne|1258|
+59.3232|13.4655|Skoghall|Värmland|13605|
+59.3247|16.4828|Skogstorp|Södermanland|2180|
+59.1374|15.3394|Sköllersta|Örebro|1079|
+62.2906|17.3869|Skottsund|Västernorrland|1052|
+58.3912|13.8451|Skövde|Västra Götaland|36842|
+56.8833|12.5667|Skrea|Halland|1846|
+58.3500|13.8333|Skultorp|Västra Götaland|3644|
+59.7167|16.4167|Skultuna|Västmanland|3378|
+55.4784|13.5019|Skurup|Skåne|8040|
+60.6251|17.4155|Skutskär|Uppsala|6279|
+59.3227|13.1027|Slottsbron|Värmland|1010|
+57.1624|13.4121|Smålandsstenar|Jönköping|4564|
+60.7000|15.0500|Smedby|Dalarna|3530|
+56.6741|16.2432|Smedby|Kalmar|3607|
+60.1418|15.4142|Smedjebacken|Dalarna|5258|
+58.3559|11.2241|Smögen|Västra Götaland|1292|
+55.3434|13.3699|Smygehamn|Skåne|1297|
+60.3833|17.2333|Söderfors|Uppsala|1704|
+64.8167|18.0500|Söderfors|Västerbotten|1597|
+61.3037|17.0592|Söderhamn|Gävleborg|12259|
+58.4806|16.3222|Söderköping|Östergötland|7418|
+59.3128|18.0758|Södermalm|Stockholm|127323|
+59.1955|17.6253|Södertälje|Stockholm|70777|
+56.5667|16.6167|Södra Sandby|Kalmar|5941|
+55.7168|13.3466|Södra Sandby|Skåne|6306|
+65.6598|21.9400|Södra Sunderbyn|Norrbotten|3162|
+57.7399|15.7939|Södra Vi|Kalmar|1134|
+58.1167|12.5333|Sollebrunn|Västra Götaland|1482|
+63.1667|17.2667|Sollefteå|Västernorrland|7399|
+59.4280|17.9509|Sollentuna|Stockholm|139606|
+59.3600|18.0009|Solna|Stockholm|66909|
+56.0521|14.5753|Sölvesborg|Blekinge|8972|
+62.5056|17.5103|Söråker|Västernorrland|2374|
+61.7333|16.9833|Sörforsa|Gävleborg|1581|
+65.5348|17.5370|Sorsele|Västerbotten|1175|
+56.0399|13.6781|Sösdala|Skåne|1808|
+55.6428|13.2064|Staffanstorp|Skåne|15373|
+59.3667|17.2000|Stallarholmen|Södermanland|1671|
+55.7503|13.1980|Stångby|Skåne|1943|
+59.2833|18.6833|Stavsnäs|Stockholm|1784|
+55.9019|13.3958|Stehag|Skåne|1191|
+59.3344|17.6884|Stenhamra|Stockholm|3588|
+56.7690|12.6303|Steninge|Halland|1112|
+57.7948|12.3169|Stenkullen|Västra Götaland|2000|
+58.4833|15.0667|Stenstorp|Östergötland|1630|
+58.2725|13.7145|Stenstorp|Västra Götaland|1823|
+58.0705|11.8181|Stenungsund|Västra Götaland|13093|
+58.8000|16.7833|Stigtomta|Södermanland|1949|
+57.3174|14.5934|Stockaryd|Jönköping|1019|
+59.3326|18.0649|Stockholm|Stockholm|1515017|
+62.3367|17.3658|Stockvik|Västernorrland|2532|
+58.4780|13.8661|Stöpen|Västra Götaland|1373|
+59.7141|15.1317|Storå|Örebro|1967|
+58.0167|11.8333|Stora Höga|Västra Götaland|2846|
+57.5833|15.8500|Storebro|Kalmar|1011|
+59.5318|14.2720|Storfors|Värmland|2218|
+65.0959|17.1173|Storuman|Västerbotten|2188|
+60.5833|16.5333|Storvik|Gävleborg|2202|
+65.1500|20.7333|Storvik|Västerbotten|2251|
+59.9593|17.7059|Storvreta|Uppsala|6340|
+59.3774|17.0312|Strängnäs|Södermanland|13693|
+59.2833|18.5333|Strömma|Stockholm|516|
+56.5500|13.7167|Strömsnäsbruk|Kronoberg|2246|
+58.9395|11.1712|Strömstad|Västra Götaland|7176|
+56.1698|12.8392|Strövelstorp|Skåne|1207|
+58.3333|15.7333|Sturefors|Östergötland|2228|
+56.0833|15.7000|Sturkö|Blekinge|1325|
+57.6164|11.7856|Styrsö|Västra Götaland|1324|
+59.3613|17.9711|Sundbyberg|Stockholm|34529|
+62.4581|17.3489|Sundsbruk|Västernorrland|2098|
+62.3913|17.3063|Sundsvall|Västernorrland|57606|
+59.8376|13.1430|Sunne|Värmland|5026|
+59.7073|16.2219|Surahammar|Västmanland|6270|
+57.8253|12.0160|Surte|Västra Götaland|6003|
+55.9134|13.1076|Svalöv|Skåne|3852|
+58.7427|16.8698|Svalsta|Södermanland|1095|
+58.1429|11.8182|Svanesund|Västra Götaland|1946|
+56.2667|14.7667|Svängsta|Blekinge|1904|
+60.7402|15.9017|Svärdsjö|Dalarna|1335|
+58.6551|16.0282|Svärtinge|Östergötland|3326|
+55.5079|13.2352|Svedala|Skåne|11796|
+57.4955|13.1108|Svenljunga|Västra Götaland|3592|
+57.6772|14.0888|Taberg|Jönköping|4486|
+59.4439|18.0687|Täby|Stockholm|58123|
+63.8397|20.4786|Täfteå|Västerbotten|1305|
+58.4252|15.6815|Tallboda|Östergötland|3311|
+58.7238|11.3259|Tanumshede|Västra Götaland|1774|
+60.1500|16.9333|Tärnsjö|Uppsala|1174|
+55.8667|13.0833|Teckomatorp|Skåne|1703|
+57.7076|14.3221|Tenhult|Jönköping|3112|
+59.3939|17.9011|Tensta|Stockholm|17083|
+58.4245|14.1616|Tibro|Västra Götaland|8396|
+58.1803|13.9582|Tidaholm|Västra Götaland|8175|
+60.3427|17.5181|Tierp|Uppsala|5826|
+59.6833|16.6167|Tillberga|Västmanland|2151|
+56.9667|16.4333|Timmernabben|Kalmar|1357|
+62.4865|17.3261|Timrå|Västernorrland|10495|
+56.5247|14.9790|Tingsryd|Kronoberg|3087|
+57.9000|11.7333|Tjuvkil|Västra Götaland|1013|
+59.5082|11.8443|Töcksfors|Värmland|1221|
+55.9333|13.9833|Tollarp|Skåne|3404|
+56.1667|14.2833|Tollarp1|Skåne|3170|
+55.5429|13.9546|Tomelilla|Skåne|6826|
+65.9124|22.6513|Töre|Norrbotten|1051|
+58.7074|14.1260|Töreboda|Västra Götaland|4626|
+56.4250|12.6333|Torekov|Skåne|1078|
+56.1135|13.7452|Tormestorp|Skåne|1043|
+56.4125|15.9984|Torsås|Kalmar|2000|
+60.1353|13.0082|Torsby|Värmland|4419|
+59.4167|16.4667|Torshälla|Södermanland|8928|
+57.7243|11.7701|Torslanda|Västra Götaland|10129|
+56.9566|13.0772|Torup|Halland|1245|
+58.0372|14.9782|Tranås|Jönköping|14550|
+57.4833|13.3500|Tranemo|Västra Götaland|3224|
+59.2333|18.1333|Trångsund|Stockholm|23110|
+57.0542|12.2790|Träslövsläge|Halland|1985|
+56.7000|16.1167|Trekanten|Kalmar|1599|
+55.3751|13.1569|Trelleborg|Skåne|29316|
+58.2121|12.3503|Trollhättan|Västra Götaland|48573|
+56.6167|12.9333|Trönninge|Halland|847|
+58.8962|17.5481|Trosa|Södermanland|5836|
+59.2000|17.9000|Tullinge|Stockholm|16000|
+59.1986|17.8332|Tumba|Stockholm|40832|
+57.0415|12.3995|Tvååker|Halland|2640|
+55.5167|13.0000|Tygelsjö|Skåne|3420|
+56.1604|13.5981|Tyringe|Skåne|4712|
+58.3478|11.9424|Uddevalla|Västra Götaland|34781|
+57.7916|13.4142|Ulricehamn|Västra Götaland|10629|
+63.8284|20.2597|Umeå|Västerbotten|130224|
+59.5184|17.9113|Upplands Väsby|Stockholm|36534|
+59.8588|17.6389|Uppsala|Uppsala|177074|
+64.7126|21.1658|Ursviken|Västerbotten|3913|
+58.4486|14.8897|Vadstena|Östergötland|5674|
+57.4981|14.1484|Vaggeryd|Jönköping|5122|
+58.9459|17.4876|Vagnhärad|Södermanland|3397|
+59.3914|13.1863|Vålberg|Värmland|2848|
+60.6500|17.0333|Valbo|Gävleborg|7147|
+58.2031|16.6023|Valdemarsvik|Östergötland|2685|
+56.0628|14.5439|Valje|Skåne|1067|
+59.0167|16.3833|Valla|Södermanland|1485|
+57.4775|12.0014|Vallda|Halland|3929|
+59.5344|18.0776|Vallentuna|Stockholm|31937|
+58.3807|12.3234|Vänersborg|Västra Götaland|23119|
+63.9068|19.7571|Vännäs|Västerbotten|4373|
+63.9156|19.8244|Vännäsby|Västerbotten|1581|
+60.5089|14.2246|Vansbro|Dalarna|2042|
+58.2623|12.9541|Vara|Västra Götaland|4052|
+57.1056|12.2508|Varberg|Halland|34248|
+59.2667|17.8841|Vårby|Stockholm|10115|
+58.0371|12.8091|Vårgårda|Västra Götaland|5384|
+58.3560|12.3906|Vargön|Västra Götaland|4981|
+57.1860|14.0400|Värnamo|Jönköping|19061|
+59.1653|17.7972|Vårsta|Stockholm|2470|
+59.3500|18.0333|Vasastaden|Stockholm|58458|
+59.3457|18.0498|Vasastan|Stockholm|0|
+59.6491|16.5645|Västerås|Västmanland|127799|
+57.7584|16.6373|Västervik|Kalmar|21178|
+57.6467|11.9294|Västra Frölunda|Västra Götaland|15924|
+57.4244|11.9358|Västra Hagen|Halland|1319|
+60.0167|17.7333|Vattholma|Uppsala|1410|
+59.4023|18.3532|Vaxholm|Stockholm|4849|
+56.8777|14.8091|Växjö|Kronoberg|71282|
+55.6333|13.4833|Veberöd|Skåne|4850|
+57.2659|12.3322|Veddige|Halland|2260|
+56.5500|13.0667|Veinge|Halland|1417|
+56.3178|12.7672|Vejbystrand|Skåne|2764|
+55.4712|13.0197|Vellinge|Skåne|6496|
+57.4289|15.0776|Vetlanda|Jönköping|13430|
+62.4333|17.4167|Vi|Västernorrland|4757|
+57.6045|18.2560|Vibble|Gotland|1709|
+60.9167|15.0167|Vikarbyn|Dalarna|1193|
+56.1506|12.5743|Viken|Skåne|5610|
+64.7259|20.9155|Viken|Västerbotten|3753|
+58.3830|15.4320|Vikingstad|Östergötland|2335|
+64.6242|16.6560|Vilhelmina|Västerbotten|3572|
+57.6659|15.8552|Vimmerby|Kalmar|8037|
+64.2018|19.7194|Vindeln|Västerbotten|2403|
+59.0433|15.8737|Vingåker|Södermanland|4548|
+58.4500|13.2667|Vinninga|Västra Götaland|1033|
+56.1000|13.9167|Vinslöv|Skåne|3989|
+59.2500|14.9500|Vintrosa|Örebro|2285|
+57.3167|15.5833|Virserum|Kalmar|1769|
+57.6409|18.2960|Visby|Gotland|23402|
+57.6294|12.8489|Viskafors|Västra Götaland|3701|
+56.7833|14.4500|Vislanda|Kronoberg|1813|
+56.3437|13.6608|Vittsjö|Skåne|1787|
+57.3500|14.4667|Vrigstad|Jönköping|1461|
+55.4297|13.8204|Ystad|Skåne|18806|

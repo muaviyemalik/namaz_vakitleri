@@ -1,2037 +1,2068 @@
-29.0299|51.2344|Abad
-30.3392|48.3043|Abadan
-31.1608|52.6506|Abadeh
-29.8072|53.7201|Abadeh Tashk
-35.7676|51.9413|Abali
-31.1263|53.2216|Abarkooh
-31.0000|53.4167|Abarkuh
-31.1289|53.2824|Abarkūh
-34.6714|48.2283|Abarlaq-e Sofla
-36.9296|48.9325|Abbar
-36.6333|51.1500|Abbasabad
-34.6528|48.2456|Abdalan
-32.9926|47.4198|abdanan|Ābdānān
-34.6264|49.0175|Abdol Rahim
-39.0498|47.3076|Abeshahmad
-32.1500|49.4000|Abezhdan
-35.7569|49.2774|Abgarm
-36.1468|49.2180|Abhar
-38.2836|48.5448|Abibeiglou
-35.6131|48.2692|Ab Meshkin
-31.5281|48.2154|Abou Homeyzeh
-33.9017|51.7434|Abouzeidabad
-29.3679|51.0514|Ab Pakhsh
-32.5561|51.5733|Abrisham|Abrīsham
-34.9028|48.3203|Abrumand
-35.6293|52.1341|Absard
-34.7819|48.6147|Abshineh
-27.1981|54.3686|Abumusa
-34.0567|48.5092|Abu ol Fathabad
-36.0667|50.5500|Abyek
-37.3954|47.7904|Achachi
-31.1150|61.3926|Adimi
-33.0250|50.0881|Afus
-30.7006|49.8315|Aghajari
-35.3500|48.3425|Aghcheh Qayah
-38.4774|47.0699|Ahar
-27.2112|53.6572|Ahel
-32.3567|53.9919|Ahmadabad
-35.6352|51.2037|Ahmadabad-E Mostowfi
-35.1151|60.6845|Ahmad-abad-e-Solat
-34.6128|48.9928|Ahmadabad-e Tappeh
-37.1281|49.3667|Ahmadsargurab
-28.8826|51.2746|Ahram
-34.9378|48.0011|Ahu Tappeh
-31.3190|48.6842|Ahvaz
-37.4776|45.8943|Ajabshir|Ajab Shīr
-34.7361|47.9242|Ajin
-35.1383|49.2294|Ajorlu
-35.6142|48.1881|Akanlu
-29.2464|52.7793|Akbarabad
-35.2028|49.0825|Akleh
-27.6252|52.9911|Alamarvdasht
-35.2842|48.2158|Alan-e Sofla
-34.7508|47.9597|Alanjeh
-36.0655|52.8325|Alasht
-33.0517|51.0599|Alavijeh
-36.1886|50.0783|Alborz
-33.8642|48.2626|Aleshtar
-34.6400|48.7497|Alfavut
-36.9102|54.8391|Aliabad-e-Katul
-34.8378|48.5111|Aliabad-e Posht Shahr
-33.4040|49.6918|Aligudarz|Alīgūdarz
-28.9308|51.0561|Alishahr
-31.5542|51.0497|Aluni
-32.1114|48.4600|Alvan
-36.1893|50.0643|Alvand
-36.9101|54.8674|'Alī Ābād-e Katūl
-30.8422|55.3321|Aminshahr
-34.9761|49.0917|Amirabad-e Kord
-36.0287|54.1354|Amiriyeh
-36.5987|52.6563|Amir Kala
-37.0925|50.1731|Amlash
-36.4696|52.3507|Amol|Āmol
-34.9367|48.5325|Amzajerd
-36.5967|52.6658|Amīr Kolā
-35.2502|57.8010|Anabad
-30.8500|55.3500|Anar
-33.3070|53.6877|Anarak
-28.0324|52.0590|Anarestan
-28.4333|58.1667|Anbarabad
-38.4884|48.4177|Anbaran
-37.1330|54.6123|Anbar Olum
-32.1667|49.5333|Andika
-32.7000|48.3000|Andimeshk
-35.6803|51.0193|Andisheh|Shahre Jadide Andisheh
-30.2329|57.7355|Andouhjerd
-32.4615|48.3537|Andīmeshk
-35.7471|51.2774|Andīsheh
-34.0914|48.5400|Angoshteh
-35.1925|48.5317|Anjir Baghi
-34.8586|48.4908|Ansar ol Emam
-34.1081|48.5733|Anuch
-30.8707|55.2702|Anār
-35.3669|48.2436|Aqa Bolaghi
-34.9558|49.3242|Aqaj
-34.8458|48.0531|Aqa Jan Bolaghi
-35.6117|48.4414|Aq Bolagh-e Aqdaq
-34.9844|48.5553|Aq Bolagh-e Latgah
-35.6178|48.0297|Aq Bolagh-e Morshed
-35.4792|49.1039|Aq Chay
-35.7136|48.7764|Aqcheh Kharabeh
-35.1314|48.4917|Aqchelu
-32.4432|53.6254|Aqda
-37.2578|48.0614|Aqkend
-37.1667|54.5833|Aq Qala
-37.2747|55.1589|Aq Qayeh
-35.2481|52.4864|Aradan
-34.0949|49.6981|Arak|Arāk
-34.1000|51.9000|Aran va Bidgol
-36.4949|52.9262|Arateh
-38.2498|48.2933|Ardabil|Ardabīl
-36.0514|49.8150|Ardagh
-32.3100|54.0175|Ardakan|Ardakān
-32.0050|50.6148|Ardal
-33.3761|52.3694|Ardestan
-33.3794|52.3698|Ardestān
-34.0739|48.8639|Arges-e Sofla
-33.3315|59.2293|Arian Shahr
-34.5322|48.3606|Arikan
-35.8140|52.5035|Arjmand
-33.3854|46.5758|Arkavaz
-36.9776|48.3633|Armaqankhaneh
-35.9322|45.7914|Armardeh
-35.6914|48.8050|Arpa Darreh
-29.8000|53.4167|Arsanjan
-29.9124|53.3085|Arsanjān
-29.9189|53.2829|Arsenjan
-34.3264|48.5492|Arteh Bolagh
-34.5794|48.4478|Artiman
-30.0589|48.4311|Arvand Kenar
-34.6553|48.6542|Arzan Fud
-34.6544|48.3731|Arzuvaj
-34.7822|48.1183|Asadabad
-32.9139|60.0150|Asadieh
-34.7824|48.1201|Asadābād
-37.7200|48.9266|Asalem
-27.4500|52.7333|Asaluyeh
-36.0391|51.1909|Asara
-33.8518|46.4440|Aseman Abad
-32.6526|51.4712|Asghar Abad
-27.2352|53.5867|Ashkanan
-32.0000|53.6667|Ashkezar
-31.9968|54.2085|Ashkez̄ar
-37.5592|56.9069|Ashkhaneh
-34.1036|48.8844|Ashmizan
-34.4500|50.0500|Ashtian
-27.7248|52.6611|Asir
-32.8662|50.8472|Askaran
-39.4430|47.4004|Aslan Duz
-33.8908|49.3578|Astaneh
-37.2632|49.9432|Astaneh-ye Ashrafiyeh|Āstāneh-ye Ashrafīyeh
-38.3333|48.7667|astara
-37.4772|56.7411|Ava
-35.5769|49.2224|Avaj
-39.3139|44.1647|Avajiq
-34.2664|48.5122|Avarzaman
-34.8037|50.4072|Aveh
-33.8867|58.3690|Ayask
-32.4036|48.2479|Azadi
-37.0864|55.1722|Azadshahr|Āzādshahr
-34.5089|48.6867|Azandarian
-37.7500|45.8333|Azarshahr
-34.4970|47.0402|azeh Abad
-33.4564|49.4565|Azna|Aznā
-34.2375|48.1483|Aznahri
-32.3306|50.4596|Babaheydar
-35.5517|48.5497|Baba Khanjar
-30.0716|51.2003|Baba Monir
-28.9642|53.2164|BabAnar
-34.6142|48.4019|Baba Pir
-34.0800|48.4481|Baba Qasem
-35.6782|47.7939|Babarashani
-36.5513|52.6790|Babol
-34.2428|49.0575|Babolqani
-36.7025|52.6576|Babolsar
-34.7431|48.0803|Bad Khvoreh
-33.0000|47.2500|Badreh
-33.6894|51.9978|Badroud
-28.3972|51.4933|Baduleh
-31.6125|55.3802|Bafgh
-31.6035|55.4025|Bafq|Bāfq
-32.2699|53.9883|Bafruiyeh
-32.8394|53.1366|Bafrān
-29.2331|56.6022|Baft|Bāft
-32.3787|51.1819|Baghbahadoran
-35.5336|51.3955|Baghershahr
-35.6425|51.0802|Baghestan
-30.1855|56.8040|Bagheyn
-31.5000|49.9167|Bagh Malek
-32.3823|51.2294|Baghshad
-31.8702|56.0046|Bahabad
-34.9069|48.4414|Bahar
-32.6510|51.7207|Baharan Shahr
-32.4839|51.7339|Baharestan
-31.0500|50.0833|Bahmai
-31.1935|52.4759|Bahman
-36.6719|52.7433|Bahnamir
-30.9004|55.7169|Bahreman
-34.9072|48.4414|Bahār
-32.4881|51.7731|Bahārestān
-34.5833|58.1333|Bajestan
-37.6213|58.4161|Bajgiran
-35.0167|60.2833|Bakharz
-38.1311|46.9381|Bakhshāyesh
-29.2830|51.9278|Baladeh
-33.6669|46.8024|Balavah Tareh
-29.4232|56.0365|Balvard
-29.0667|58.2333|Bam
-27.1952|60.4472|Bampour
-27.8626|52.0010|Banak
-28.0865|54.0397|Banaruyeh
-34.2239|48.2286|Band Aman
-27.1865|56.2808|Bandar Abbas
-37.4732|49.4579|Bandar Anzali|Bandar-e Anzalī
-28.9109|50.8300|Bandar Bushehr
-26.7306|54.2747|Bandar Charak
-30.0610|50.1462|Bandar Deylam
-30.0542|50.1590|Bandar-e Deylam
-27.8399|51.9378|Bandar-e Deyr
-30.4370|49.1029|Bandar-e Emam Khomeyni
-36.7742|53.9481|Bandar-e Gaz
-29.5791|50.5170|Bandar-e Genāveh|Bandar Ganaveh
-25.6539|57.7700|Bandar-e-Jask
-27.8329|52.0371|Bandar-e Kangan
-27.8343|52.0631|Bandar-e Kangān
-26.9521|55.5851|Bandar-e Khamīr
-26.5978|54.9369|Bandar-e Kong
-26.5621|54.8838|Bandar-e Lengeh
-30.5566|49.1885|Bandar-e Māhshahr
-36.9012|54.0720|Bandar-e Torkaman
-30.4790|49.0048|Bandar Imam Khomeini
-26.9519|55.5727|Bandar Khamir
-26.6029|54.9298|Bandar Kong
-26.5579|54.8807|Bandar Lengeh
-30.6333|49.1167|Bandar Mahshahr
-29.4842|50.6187|Bandar Rig
-27.6644|52.3255|BandarSiraf
-36.9051|54.0353|Bandar Torkaman
-35.9975|45.8853|Baneh|Bāneh
-34.2375|48.4333|Banesareh
-34.9692|46.3503|Banevreh
-36.4913|58.7095|Bar
-34.7519|48.7986|Baraband
-29.0616|58.3850|Baravat
-29.0663|58.4046|Baravāt
-35.2667|57.4833|Bardaskan
-35.5932|46.0840|Bardeh Rasheh
-27.8701|51.9413|Bardestan
-29.9227|56.5743|Bardsir|Bardsīr
-36.7760|49.7458|Barehsar
-32.9952|50.1758|Barf Anbar
-34.4514|48.3011|Bargecheh
-34.3856|48.0864|Barreh Farakh
-36.9530|46.3141|Baruq
-33.7770|51.1974|Barzok
-34.2128|48.2589|Barzul
-26.4500|58.0833|Bashagard
-35.6372|48.1169|Bashqurtaran
-30.4500|51.1167|Basht
-38.0013|46.4462|Basmenj
-27.2000|54.3667|Bastak
-36.4844|54.9907|Bastam
-30.3333|53.6667|Bavanat
-31.5000|48.9500|Bavi
-34.9809|46.2679|Bayangan
-35.3749|59.0306|Bayg
-33.6478|48.5589|Bayranshahr
-39.3909|44.3732|Bazargan
-37.2795|49.3744|Bazar Jomeh
-35.1561|49.4231|Bazeran
-27.8555|60.1671|Bazmān
-32.2000|50.0500|Bazoft
-33.3066|47.0297|Bedreh
-32.0167|56.1500|Behabad
-30.5667|50.2000|Behbahan
-30.5959|50.2417|Behbahān
-35.2722|49.0989|Behkandan
-36.6923|53.5526|Behshahr
-34.3356|48.5158|Belartu
-32.5356|50.7520|Ben
-38.4281|45.9023|Benab e Marand
-26.2888|59.5062|Bent
-35.5361|48.4181|Beshik Tappeh
-34.3478|58.7477|Beydokht
-27.4317|53.5059|Beyram
-29.9720|52.3969|Beyza
-29.2476|56.6890|Bezanjan
-34.8150|48.0992|Biaj
-34.0253|48.9581|Biatan-e Sofla
-36.2308|50.1122|Bidestan
-34.0211|48.8917|Bid Korpeh-ye Sofla
-34.0194|48.8872|Bid Korpeh-ye Vosta
-32.7610|48.2295|Bidrubeh-ye
-34.6147|48.0169|Bifanaj
-34.0911|49.0683|Bighash
-35.8668|47.6051|Bijar|Bījār
-27.3540|57.1699|Bikah
-39.3796|48.3546|Bileh Savar
-36.2667|59.3333|Binalud
-33.0067|59.0722|Birjand
-34.4611|48.7858|Bish Aghaj
-34.3971|47.4376|Bisotun
-34.6544|47.9106|Bitervan
-36.0818|55.8000|Biyārjomand
-35.9382|45.9324|Boeen-e-Sofla
-37.4747|57.3290|Bojnurd|Bojnūrd
-35.1386|47.3081|Bolbanabad
-31.9368|51.0446|Boldaji
-28.2306|57.5047|Boluk
-37.3404|46.0561|Bonab|Bonāb
-31.0391|61.5577|Bonjār
-29.2699|51.2188|Borazjan|Borāzjān
-28.0642|51.4734|Bord Khun
-34.3286|48.0331|Borjaki
-32.9833|51.7667|Borkhvar
-31.9727|51.2716|Boroujen
-31.9652|51.2873|Borujen|Borūjen
-33.8973|48.7516|Borujerd|Borūjerd
-28.8317|51.6911|Boshkan
-33.8637|57.4053|Boshrouyeh
-34.1667|57.4167|Boshruyeh
-33.8685|57.4288|Boshrūyeh
-31.7158|47.9768|Bostan
-37.8395|46.8096|Bostan Abad
-37.8463|46.8354|Bostānābād
-35.0597|48.8417|Boyukabad
-35.1689|49.2244|Bozchalu
-35.0247|48.9439|Bozineh Jerd
-33.0724|50.1464|Buin va Miandasht
-35.6167|49.7000|Buin Zahra
-34.8072|48.0592|Bujin
-36.5210|46.1303|Bukan
-35.7336|51.8681|Bumehen
-28.9689|50.8366|Bushehr
-34.4486|48.4194|Bustandar
-34.8475|49.0892|Buyaqchi
-36.5510|52.6786|Bābol
-36.6993|52.6501|Bābolsar
-31.5240|49.8856|Bāgh-e Malek
-35.6471|51.1338|Bāghestān
-35.5316|51.4048|Bāqershahr
-36.2310|50.1236|Bīdestān
-32.8663|59.2211|Bīrjand
-36.5210|46.2089|Būkān
-35.7297|51.8688|Būmahen
-25.2919|60.6430|Chabahar
-36.9751|50.5466|Chaboksar
-32.7683|50.6287|Chadegan
-37.2294|50.2539|Chaf and Chamkhaleh
-35.5811|48.6500|Chahar Bolagh
-35.5962|51.3156|Chahar Dangeh
-35.8389|50.8481|Chahārbāgh
-35.6031|51.3098|Chahār Dangeh
-36.8137|58.4973|Chakaneh
-33.6652|48.8995|Chalan Chulan
-35.4206|48.9275|Chal Boqa
-39.0667|44.3333|Chaldoran
-35.2750|48.2994|Chaleh Kand
-36.6550|51.4204|Chalus|Chālūs
-36.4786|52.1090|Chamestan
-32.4447|48.4359|Chamgolak
-32.3929|51.3308|Chamgordan
-32.3933|51.3394|Chamgordān
-30.7062|49.1530|Chamran Town
-30.7084|49.1627|Chamrān
-37.3509|59.0695|Chapeshlu
-33.2808|47.5089|Chaqabol
-30.7667|50.8500|Charam
-37.1001|47.0668|Charavimaq
-35.8406|50.8394|Charbagh
-37.1219|45.9590|Charburj
-33.7591|46.5698|Chardavol
-34.8442|48.0661|Charoq
-30.7556|50.7452|Charām
-34.4644|48.2669|Chasht Khvoreh
-30.6021|56.9043|Chatroud
-36.9980|48.7724|Chavarzagh
-30.2036|48.5539|Chavibdeh
-38.8667|45.0000|Chaypareh
-32.4672|50.1223|Chelgard
-32.4626|50.1235|Chelgerd
-36.6455|59.1212|Chenaran|Chenārān
-37.4648|57.4379|Chenaran Shahr
-34.2319|48.1761|Chenari
-32.3243|51.1432|Chermahin
-34.7550|48.4931|Cheshmeh Malek
-34.4589|48.7675|Cheshmeh Pahn-e Nanaj
-34.6269|48.0911|Cheshmeh Qandab
-34.9061|47.8711|Cheshmeh Qareh
-34.8578|48.4189|Cheshmeh Qassaban
-34.8781|47.9839|Cheshmeh Valad
-34.0661|49.1008|Cheshmeh Zowraq
-30.7950|51.3256|Chitab
-35.6324|46.3043|Chnare
-28.9800|51.0076|Choghadak
-32.2092|48.5461|Choghamish
-28.9860|51.0364|Choghādak
-32.2320|50.6207|Choliche
-38.1835|48.8703|Choobar
-34.3153|48.0489|Choqa Sarahi
-30.7537|50.7330|Choram
-33.6952|46.2930|Chovar
-34.8369|48.2519|Chowtash
-34.2347|48.3000|Chulak Qapanuri
-29.6271|51.6496|City Kazeroon
-28.4075|54.1688|Dabiran
-36.4844|52.4517|Dabudasht
-34.9675|48.5006|Dahnejerd
-34.4167|46.2500|Dalahu
-29.4302|51.2828|Dalaki
-37.0347|55.0371|Daland
-27.3167|59.3000|Dalgan
-35.5214|48.0203|Dali Chu
-33.0176|50.4790|Damaneh
-35.4428|48.8231|Damaq
-35.6300|52.1375|Damavand
-36.1679|54.3429|Damghan|Dāmghān
-35.7184|52.0696|Damāvand
-36.5494|47.5937|Dandi
-35.8157|49.7244|Danesfahan
-35.1828|48.7883|Daqdaqabad
-28.7519|54.5444|Darab
-32.9887|50.4127|Daran
-34.4989|48.4122|Darani-ye Sofla
-36.9703|56.2002|Daraq
-29.2346|57.3300|Darb-e Behesht
-33.6893|47.1462|Darb Gonbad
-34.2603|48.8208|Darcham
-26.9583|56.0432|Dargahan
-37.3333|59.0833|Dargaz
-29.5626|52.9188|Dariun
-35.6285|53.3082|Darjazin
-30.7437|48.4185|Darkhovin
-32.9500|60.1667|Darmian
-35.4922|48.0558|Dar Qeshlaq
-34.0994|48.8031|Darreh Chenar
-34.0728|48.8353|Darreh Mianeh-ye Sofla
-34.3761|48.0075|Darreh Mirza
-33.1445|47.3799|Darreh Shahr
-34.1017|48.3944|Darreh-ye Ebrahim
-36.1379|59.1055|Darrod
-34.2697|48.0069|Darsibeh
-32.1626|50.4499|Dashtak
-29.2833|51.2500|Dashtestan
-28.4869|51.5618|Dashti
-29.9069|56.6579|Dashtkar
-32.0588|50.7610|Dastena
-32.8022|51.6571|Dastgerd
-34.5538|50.2391|Dastjerd
-36.3333|56.8333|Davarzan
-34.2203|48.8583|Davijan
-34.2952|49.8466|Davoud Abad
-27.8429|51.9183|Dayyer
-33.1073|50.9390|Dehagh
-31.9372|51.6452|Dehaghan
-30.6937|54.8639|Dehaj
-31.9400|51.6479|Dehaqan
-27.4484|57.1668|Dehbārez
-34.1053|49.1203|Deh Chaneh
-34.8047|48.7114|Deh Dalian
-30.7949|50.5646|Dehdasht
-31.7020|50.2812|Dehdez
-34.3789|48.5478|Deh-e Shaker
-34.2269|48.3139|Deh Ful
-35.3500|47.3500|Dehgolan
-32.6941|47.2679|Dehloran|Dehlorān
-34.1731|49.0494|Deh Mianeh
-34.3069|48.5569|Dehnow-e Avarzaman
-34.7611|48.0031|Deh Nush
-34.8819|48.5147|Deh Piaz
-28.4912|52.2998|Dehram
-31.9399|51.6473|Dehāqān
-35.2372|47.9754|Delbaran
-34.0500|47.7833|Delfan
-33.4063|46.5898|Delgosha
-33.9905|50.6838|Delijan|Delījān
-28.7528|51.0519|Delvar
-33.2930|57.5044|Deyhuk
-30.0229|50.3559|Deylam
-36.8861|49.9003|Deylaman
-35.0647|47.9591|Dezej
-32.5667|48.7833|Dezful
-30.7228|51.9515|Dezhkord
-36.4295|54.2193|Dibaj
-34.8111|48.6847|Dingeleh Kahriz
-31.2992|50.3926|Dishmok
-35.9167|47.0000|Divandarreh
-38.4613|45.0073|Dizaj Diz
-32.4043|51.4848|Diziche
-28.3067|55.1928|DoBorji
-30.3586|50.7981|Dogonbadan
-32.8083|51.6798|Dolatabad
-27.9486|51.9529|Dorahak
-34.2314|48.2194|Doraneh
-32.6150|51.5346|Dorcheh
-32.6153|51.5556|Dorcheh Piaz|Dorcheh Pīāz
-33.4922|49.0252|Dorud
-34.5597|48.4147|Do Rudan
-34.0203|48.9247|Dorudgaran
-33.4922|49.0616|Dorūd
-28.7013|52.9548|Douzeh
-34.9022|48.0336|Dow Baraleh
-32.7998|51.6955|Dowlatabad|Dowlatābād
-35.2811|48.8869|Dowlatabad-e Hajjilu
-35.3478|49.1094|Dowlujerdin-e Bala
-28.4250|57.9425|Dow Sari
-34.3056|48.4897|Durijan
-35.4819|49.0400|Durnian
-31.1466|61.7738|Dust Mohammad
-37.9488|47.1141|Duzduzan
-28.7517|54.5406|Dārāb
-32.9874|50.4108|Dārān
-35.9139|47.0239|Dīvāndarreh
-32.3875|51.5102|Dīzīcheh
-28.3464|52.9611|Efzar
-29.0225|54.2374|Eij
-30.3272|56.9031|Ekhteyarabad
-31.6539|48.5944|Elhayi
-27.4462|53.8521|Emad Deh
-28.4468|53.1463|Emam Shahr
-36.4089|52.3007|Emamzade Abdollah
-34.0497|48.9522|Emamzadeh Khatun
-35.0114|49.0411|Emamzadeh Pir Nahan
-36.2282|49.9067|Eqbaliyeh
-36.2308|49.9250|Eqbālīyeh
-30.7000|52.4000|Eqlid
-30.8988|52.6970|Eqlīd
-33.7028|57.3625|Eresk
-32.2667|52.4500|Esfahan
-37.0765|57.5101|Esfarayen|Esfarāyen
-35.9368|49.7402|Esfarvarin
-33.6461|59.7710|Esfedan
-36.0438|58.6744|Eshqabad
-35.7281|50.4142|Eshtehard
-35.7255|50.3662|Eshtehārd
-34.3581|48.5928|Eskanan
-34.0500|46.6667|Eslamabad-e-Gharb
-34.0456|58.2203|Eslamiyeh
-35.5522|51.2350|Eslamshahr
-38.1311|47.9392|Eslāmābād
-34.1089|46.5299|Eslāmābād-e Gharb
-26.8372|60.1641|Espakeh
-29.1167|54.0000|Estahban
-29.1266|54.0421|Estahbān
-27.7630|53.9794|Evaz
-38.7114|45.1979|Evogli
-33.9000|46.1667|Eyvan
-35.3445|52.0608|Eyvanekey
-33.8272|46.3097|Eyvān
-34.8331|45.8325|Ezgeleh
-32.4424|52.3718|Ezhieh
-28.2141|55.1174|Fadami
-28.9459|58.8760|Fahraj
-34.2242|48.3119|Fahrumand
-38.5226|47.8534|Fakhrabad
-32.5553|51.5097|Falavarjan|Falāvarjān
-34.0390|48.4626|Famast
-35.1139|48.9717|Famenin
-26.5734|59.6299|Fanouj
-26.5747|59.6386|Fanuj
-32.0097|51.1997|Faradonbeh
-34.6000|49.6333|Farahan
-37.2604|55.1664|Faraqi
-34.4861|48.2856|Farasfaj
-28.7500|52.2500|Farashband
-35.7232|50.9787|Fardis
-35.7555|50.9967|Fardīs
-28.0079|56.2446|Fareghan
-32.9410|50.1210|Fareydunshahr
-35.7645|59.7242|Farhadgerd
-36.6236|52.5419|Farim
-35.7000|59.8333|Fariman
-34.5057|49.6697|Farmahin
-37.1874|57.5359|Farooj
-33.8420|54.9438|Farrokhi
-32.2717|50.9801|Farrokh Shahr
-28.8601|52.0945|Farrāshband
-32.2569|50.5609|Farsan|Fārsān
-34.2442|48.1192|Farsban
-37.2167|58.2167|Faruj
-34.2269|48.9011|Farvaz
-28.2000|57.2167|Faryab
-34.5231|48.3325|Faryazan
-28.9667|53.7667|Fasa
-35.9317|51.5113|Fasham
-34.8367|48.3047|Fasijan
-28.9383|53.6482|Fasā
-32.4239|47.8100|FatholMobin
-36.8941|54.7310|Fazelabad
-35.5973|51.0240|Ferdosiye
-34.0194|58.1541|Ferdows
-35.6011|51.0645|Ferdowsīyeh
-33.1000|50.2667|Fereydan
-36.6864|52.5226|Fereydunkenar
-32.9372|50.1203|Fereydun Shahr
-36.6849|52.5192|Fereydūn Kenār
-35.5146|51.6101|Ferunabad
-35.5156|51.6232|Ferūnābād
-35.0182|58.7629|Feyz Abad
-34.1311|48.3964|Fiazaman
-27.6329|55.8819|Fin
-33.8986|48.0990|Firouz Abad
-36.2829|58.5677|Firouzeh
-38.5806|44.8404|Firuraq
-28.8438|52.5707|Firuzabad
-34.3469|48.0964|Firuzabad-e Sofla
-34.2786|48.2400|Firuzan
-36.3000|58.4167|Firuzeh
-35.7285|52.7416|Firuzkuh
-32.5255|51.2963|Fooladshahr
-37.1667|49.1833|Fuman
-36.8980|54.7496|Fāẕelābād
-35.7567|52.7706|Fīrūzkūh
-28.8446|52.5715|Fīrūzābād
-32.4866|51.3967|Fūlād Shahr
-37.2240|49.3125|Fūman
-30.3333|50.7500|Gachsaran
-32.0080|50.8772|Gahru
-34.3442|46.4110|Gahvareh
-27.6574|52.6298|Galehdar
-37.3000|55.6500|Galikesh
-36.7167|53.8667|Galugah
-36.7273|53.8089|Galūgāh
-34.2303|49.0875|Gamasa
-34.0400|48.4650|Gamasb
-31.8635|51.1371|Gandoman
-34.4528|48.9872|Ganjab
-34.9333|48.4636|Ganj Tappeh
-33.4852|48.4880|Garab
-30.9472|50.8878|Garab-e Sofla
-35.8490|48.1900|Garmaab
-35.7537|51.0471|Garmdareh
-35.7480|51.0686|Garmdarreh
-36.9881|56.2640|Garmeh
-34.9636|52.2127|Garmsar
-35.2182|52.3409|Garmsār
-34.6606|48.3914|Gashani
-36.4299|52.6479|Gatab
-34.4869|48.1200|Gavkaran
-35.2292|48.3053|Gav Zaban
-35.9031|52.2181|Gazanak
-32.8022|51.6211|Gazborkhar
-32.8048|51.6209|Gaz-e Borkhar
-32.9999|60.2118|Gazik
-29.6457|50.6470|Genaveh
-27.6697|54.1359|Gerash|Gerāsh
-36.8114|45.2476|Gerd Kashaneh
-39.0000|47.9500|Germi
-39.0215|48.0801|Germī
-26.5886|57.0852|Gerouk
-36.1118|59.0480|Ghadamgah
-32.5689|51.4095|Ghahderijan
-27.5244|57.8530|Ghalehganj
-31.6276|49.8602|Ghale Tol
-33.7407|51.4100|Ghamsar
-28.9281|54.0509|Ghare Bolagh
-35.1082|49.8218|Gharqabad
-33.7248|59.1432|Ghayen
-35.3322|48.9317|Ghazyatan
-28.3364|52.6684|Ghirokarzin
-33.1518|59.6969|Ghohestan
-35.6300|48.5258|Gholam Veys
-33.6754|49.8754|Ghurchi Bashi
-34.1333|46.0000|Gilan Gharb
-34.2725|48.0811|Givaki
-34.1781|48.2442|Giyan
-37.7815|45.8983|Gogan
-36.5637|59.1391|Golbahar
-36.5698|59.1904|Golbahār
-29.8849|57.7145|Golbāf
-34.1022|48.5986|Gol Darreh-ye Anuch
-32.6217|51.4274|Goldasht
-35.5207|51.1702|Golestan
-35.5183|51.1819|Golestān
-31.9647|49.2856|Golgir
-34.0625|48.4167|Gol Heydar
-36.4825|59.1548|Golmakan
-27.4814|59.4382|Golmorti
-34.1550|49.0578|Golparabad
-33.4537|50.2884|Golpayegan|Golpāyegān
-35.9078|50.7825|Golsar
-33.5060|50.4528|Golshahr
-31.9265|51.7228|Golshan
-34.4000|48.6833|Golshir
-35.2208|48.1960|Gol Tappeh
-34.3661|48.7900|Golushjerd
-29.7054|57.0246|Golzar
-37.1500|54.1500|Gomishan
-37.0717|54.0767|Gomish Tepe
-34.9319|48.2897|Gomush Bolagh
-37.0718|54.0765|Gomīshān
-34.3529|58.6837|Gonabad|Gonābād
-34.8683|48.8314|Gonbad Chay
-34.2172|48.1478|Gonbad-e Kabud
-37.2500|55.1672|Gonbad-e Kāvūs|Gonbad Kavus
-28.7148|58.8433|Gonbaki
-33.4764|50.3442|Googad
-32.8663|51.5888|Gorgab
-36.8427|54.4439|Gorgan|Gorgān
-36.3564|59.6600|Gorjī-ye Soflá
-27.7843|61.9271|Gosht
-35.4639|48.8764|Gostar
-32.2167|48.8000|Gotvand
-26.5962|57.8871|Gouharan
-34.5079|48.0748|Gowdin
-35.3217|48.2386|Gozal Abdal
-35.6875|48.0253|Gug Qash
-34.5408|48.8403|Gujak
-32.2456|50.5405|Gujan
-34.3808|48.9753|Gulvand
-34.0303|48.9183|Gunestan
-37.2983|49.2051|Gurab Zarmikh
-34.9333|48.7911|Gur Gaz
-31.8569|48.7567|Guriyeh
-34.1858|48.4056|Gurjiu
-34.8350|48.3225|Gushalan
-34.1553|48.9594|Gusheh-ye Kasavand
-37.2726|55.4339|Gālīkesh
-32.3929|50.5665|Haarooni
-32.8312|51.7660|Habibabad
-36.6823|51.3407|Hachiroud
-38.8283|45.6218|Hadishahr
-32.2256|50.7939|Hafshejan
-32.2266|50.7931|Hafshejān
-34.2073|47.7610|Haft Cheshmeh
-31.4549|49.5087|Haftkel
-33.6033|59.9904|Hajiabad
-28.3333|55.8333|Hajjiabad
-34.1272|48.7483|Hajji Kheder
-34.9697|48.8797|Hajji Maqsud
-34.4508|48.3536|Hajji Tu
-36.2955|48.0592|Halab
-34.1099|47.0871|Halashi
-34.8000|48.5167|Hamadan
-34.7992|48.5146|Hamadān
-30.1117|52.0828|Hamashahr
-34.8123|48.4400|Hamedan
-31.8282|54.3788|Hamidia
-31.4811|48.4330|Hamidiyeh
-33.9373|46.7658|Hamil
-34.4025|48.4608|Hamilabad
-30.9369|61.3369|Hamoon
-34.0578|49.0778|Hamzehlu-ye Sofla
-31.1974|51.7140|Hanna
-29.2985|57.1798|Hanza
-32.3932|48.5737|Hanzeh
-34.2817|48.7825|Haramabad
-32.5749|52.3994|Harand
-30.0501|54.3511|Harat
-34.2721|47.5861|Harsin|Harsīn
-30.5202|52.4516|HasanAbad
-34.9503|48.0508|Hasanabad-e Emam
-34.4236|48.6544|Hasanabad-e Qush Bolagh
-34.8425|48.5492|Hasanabad-e Sheverin
-36.2838|47.7375|Hasanabad Yasukand
-34.2483|48.5753|Hasan Kusej
-35.3758|48.3636|Hasan Teymur
-37.3698|48.3133|Hashjin
-27.1459|57.4333|Hasht Bandi
-35.9619|50.6800|Hashtgerd
-35.9833|50.6852|Hashtgerd New City
-37.7966|48.9052|Hashtpar
-37.4775|47.0370|Hashtrood
-37.4779|47.0508|Hashtrud|Hashtrūd
-32.1393|52.6213|Hassan Abad
-38.1475|48.8922|Haviq
-36.2979|58.4577|Hemmatabad
-30.3333|49.6000|Hendijan
-33.7810|49.2266|Hendoudar
-30.2363|49.7119|Hendījān
-34.2053|48.7431|Heriraz
-38.2306|46.8401|Heris
-29.9698|53.8668|Hesami
-37.5194|57.4825|Hesar-e Garmkhan
-34.8225|48.2686|Hesar-e Qarah Baghi
-35.2386|48.5597|Hesar-e Qujeh Baghi
-34.8206|48.3469|Heydareh-ye Dar-e Emam
-34.8025|48.4575|Heydareh-ye Posht-e Shahr
-36.2551|49.1213|Hidaj
-27.0042|62.1067|Hidouj
-38.0795|48.4894|Hir
-31.2500|61.6167|Hirmand
-34.9300|49.1433|Hizaj
-30.7581|56.9875|Hojedk
-34.6800|48.1347|Holvar-e Sofla
-29.6445|55.8027|Homashahr
-34.3147|48.0100|Hom-e Khosrow
-34.3911|48.3603|Horhoreh
-27.0950|56.4528|Hormuz
-32.1447|48.3925|Horr
-34.8675|48.3683|Hoseynabad-e Bahar
-34.2953|48.6042|Hoseynabad-e Nazem
-34.4461|48.6206|Hoseynabad-e Shamlu
-32.6767|48.2369|Hoseyniye
-32.0585|48.2946|Hosseinabad
-31.4655|48.0614|Hoveyzeh
-34.7336|48.1619|Hudaraj
-38.8592|47.3686|Hurand
-38.8479|45.6623|Hādīshahr
-36.3333|48.2500|Ijrud
-33.6374|46.4227|Ilam|Īlām
-37.9375|45.9433|Ilkhichi
-32.2278|48.4162|Imam
-29.8425|50.2631|Imam Hassan
-32.4839|51.4349|Imanshahr
-37.4542|54.7154|Incheboron
-34.2431|48.5975|Iraneh
-27.2024|60.6848|Iranshahr
-32.6525|51.6746|Isfahan
-35.6950|48.2661|Isti Bolagh
-36.9699|56.2547|Ivar
-31.5164|52.1161|IzadKhast
-36.5944|52.1199|Izadshahr
-31.9167|49.9833|Izeh
-39.4221|48.0789|Jafarabad
-34.7745|50.5065|Jafarie
-28.5306|53.5185|Jahrom
-37.0167|56.6833|Jajarm
-27.8157|52.3100|Jam
-35.2458|48.9767|Jamishlu
-27.0276|54.2713|Janah
-34.0426|54.4051|Jandaq
-34.7075|59.2064|Jangal
-32.1852|48.8046|Jannat Makan
-28.6540|54.6704|JannatShahr
-34.3517|48.4686|Jaria
-25.8833|58.2000|Jask
-35.2102|51.6728|Javadabad
-37.4971|45.9719|Javan Qala
-34.7961|46.5172|Javanrud
-35.2858|49.2214|Javar Sajin
-34.2555|49.3182|Javarseyan
-34.8067|46.4913|Javānrūd
-30.8743|49.8362|Jayezan
-28.9070|57.8823|Jebalbarez
-36.8513|54.5279|Jelin
-35.5864|48.9292|Jerbanlu
-35.2003|48.4939|Jighi
-34.4811|48.5069|Jijan Kuh
-34.3564|48.6086|Jijian Rud
-35.3456|48.4325|Jin Taraqayah
-36.7005|49.7802|Jirindih
-28.8333|57.5833|Jiroft
-36.6667|57.0333|Joghatay
-38.8334|45.9168|Jolfa
-31.2558|48.6167|Jongiyeh
-33.5560|51.1353|Josheqaneqali
-30.0561|57.0981|Joupar
-36.5833|57.5167|Joveyn
-34.4303|48.6780|Jowkar
-33.6000|51.2333|Jowsheqan va Kamu
-30.5130|55.0226|Jowzam
-32.5560|51.3570|Jowzdan
-32.1530|50.6779|Junqan
-34.8847|48.5544|Juraqan
-36.6412|52.9124|Juybar
-28.2589|53.9602|Juyom
-36.9501|56.3800|Jājarm
-27.5966|62.6828|Jālq
-28.6781|57.7406|Jīroft
-36.6409|52.9121|Jūybār
-35.2083|48.7239|Kaboodrahang
-35.2094|48.7068|Kabudrahang
-35.2092|48.7234|Kabūdarāhang
-35.5874|58.8747|Kadkan
-34.3920|50.8546|Kahak
-35.2856|49.0053|Kahard
-34.1439|48.6581|Kahkadan
-27.9793|57.6659|Kahnooj
-27.9000|57.6167|Kahnuj
-27.9403|57.6998|Kahnūj
-34.3838|47.0553|Kahriz
-35.5168|51.3508|Kahrizak
-35.5339|47.9403|Kahriz-e Baba Hoseyn
-35.5114|48.8183|Kahriz-e Boqazi
-34.3189|48.6278|Kahriz-e Hoseynabad-e Nazem
-34.3350|48.1461|Kahriz-e Jamal
-34.3289|48.1622|Kahriz-e Salim
-32.6325|51.4681|Kahrizsang
-35.5172|51.3605|Kahrīzak
-32.0587|50.5782|Kaj
-34.1446|58.6361|Kakhk
-28.3416|51.5063|Kaki
-37.3790|55.4930|Kalaleh|Kalāleh
-28.9405|51.4518|Kalameh
-36.4500|51.1167|Kalar Dasht
-36.9000|59.9000|Kalat
-35.3669|48.3958|Kalb Hesari
-38.8667|47.0245|Kaleybar
-31.3958|50.8358|Kal Geh-ye Sardasht
-34.3392|48.5447|Kalilabad
-35.4808|48.8528|Kal Kabud
-36.6420|52.6105|Kalleh Bast
-36.3555|54.1363|Kalāteh
-36.6724|55.2909|kalāte Khij
-34.8875|47.9686|Kamak-e Sofla
-35.8824|50.8434|Kamalshahr
-34.1750|48.6350|Kamar Boneh
-34.1508|48.9533|Kamazan
-30.3231|52.1840|Kamfiruz
-34.7956|46.9355|Kamyaran
-35.8619|50.8742|Kamālshahr
-35.4300|48.3228|Kand-e Bolaghi
-34.5011|48.7819|Kand Halan
-35.2014|48.3056|Kand Tappeh
-27.7133|52.2686|Kangan
-34.5043|47.9653|Kangavar|Kangāvar
-34.3419|47.9761|Kangavar-e Kohneh
-35.4632|46.2075|Kani Dinar
-36.2148|46.8119|Kani Sur
-35.3633|49.2989|Karafs
-34.0609|49.6446|Karahrūd
-35.8327|50.9915|Karaj
-36.0449|48.4992|Karasf
-34.0994|49.9286|Karchan
-34.8150|60.8064|Kariz
-34.1694|48.2914|Kark-e Sofla
-32.3423|51.4375|Karkevand
-34.3136|48.6492|Kartilabad
-31.2762|48.6417|Karun
-28.4332|53.1239|Karzin
-34.1522|48.9697|Kasavand
-33.8833|51.2833|Kashan
-35.2383|58.4656|Kashmar|Kāshmar
-35.1939|48.1861|Kaslan Qayah
-36.8888|50.6964|Katālem va Sādāt Shahr
-34.6639|47.8969|Kavanaj
-29.2167|52.7333|Kavar
-29.2050|52.6904|Kavār
-30.5669|56.8369|Kazem Abad
-29.6192|51.6535|Kazerun|Kāzerūn
-37.0771|50.3803|Kelachay
-36.6874|51.2306|Kelarabad
-36.4931|51.1190|Kelardasht
-32.5519|51.5216|Kelishad and Soderjaan
-32.5512|51.5276|Kelishad va Sudarjan|Kelīshād va Sūdarjān
-38.1025|46.9848|Kelvanaq
-34.2780|46.2267|Kerend-e Gharb
-30.2832|57.0788|Kerman
-34.3142|47.0650|Kermanshah
-34.4142|48.7225|Kesb
-36.8349|46.3501|Keshavarz
-36.8766|50.7074|Ketalem and Sadat Shahr
-34.1150|48.9392|Keykaleh
-34.8258|47.8864|Keyni Sayeh
-35.3633|48.2767|Khabar Arkhi
-35.5426|51.1481|Khabarābād
-34.5699|60.0988|Khaf
-38.1528|46.5824|Khaje
-29.2725|55.8266|Khajoo Shahr
-36.1300|50.1671|Khakali
-34.7264|48.5364|Khaku
-33.7007|51.9829|Khaled Abad
-35.4108|48.1811|Khaleq Verdi
-36.5068|45.7909|Khalifan
-35.2537|58.2792|Khalil Abad
-34.9781|48.2531|Khalil Kord
-36.6989|53.6232|Khalil Shahr
-37.4060|48.5447|Khalkhal
-37.6184|48.5293|Khalkhāl
-38.1852|45.6131|Khamaneh
-27.2667|55.5500|Khamir
-29.6700|52.1433|KhaneZenian
-30.3492|52.2417|Khaniman
-30.7156|56.7533|Khanook
-33.2675|50.2487|Khansar
-37.3098|46.5217|Kharajoo
-29.5004|53.3011|Kharameh
-29.2406|50.2742|Kharg
-29.2614|50.3306|Khark
-36.1520|58.9841|Kharv
-38.6856|46.1599|Kharvana
-28.2211|61.2158|Khash|Khāsh
-30.3833|54.2000|Khatam
-30.0095|55.4127|KhatonAbad
-28.9368|53.3120|Khavaran
-32.3061|53.6744|Khavas Kuh
-34.7585|49.5224|Khenejin
-34.6258|48.9314|Kheradmand
-29.5000|53.2500|Kherameh
-29.4990|53.3120|Kherāmeh
-27.2335|53.4307|Khesht
-34.2022|48.4014|Kheyr Qoli
-31.8705|53.9464|Khezrabad
-34.0211|58.8078|Khezri Dashtebayaz
-39.0667|46.9500|Khoda Afarin
-36.0000|48.5000|Khodabandeh
-37.3875|49.6395|Khomam
-39.1546|47.0248|Khomarlu
-33.6371|50.0343|Khomein
-35.3697|49.0233|Khomeygan
-33.6389|50.0800|Khomeyn
-32.6856|51.5361|Khomeyni Shahr|Khomeynī Shahr
-37.3902|49.6585|Khomām
-34.3667|49.1833|Khondab
-27.8876|53.4116|Khonj
-30.0092|51.5666|Khoome Zar
-27.4461|52.9608|Khoozi
-28.6484|51.3510|Khormoj
-33.4878|48.3558|Khorramabad
-30.5000|53.0833|Khorrambid
-36.2333|49.2000|Khorramdarreh
-35.9280|49.5034|Khorramdasht
-30.4408|48.1843|Khorramshahr
-30.6167|48.6167|Khorusi-ye Jonubi
-32.7800|51.6254|Khorzugh
-37.3748|49.7392|Khoshkebijar
-35.3953|50.3289|Khoshkrud
-36.3720|52.5575|Khoshroud Pey
-37.9633|46.0150|Khosrowshah
-37.9497|46.0528|Khosrowshahr
-27.6419|54.3375|Khour
-32.7780|51.6469|Khowrzūq
-36.4333|58.0667|Khowshab
-38.5503|44.9521|Khowy|Khūy
-38.5485|44.9166|Khoy
-33.7751|55.0833|Khur
-30.1548|55.0778|Khursand
-32.1833|58.7667|Khusf
-34.5000|60.0000|Khvaf
-35.0000|49.3392|Khvajeh Hesar
-34.1550|48.3786|Khvajeh Hoseyni
-35.3619|48.3850|Khvajeh Kandi
-33.2205|50.3150|Khvansar|Khānsār
-35.0178|48.3575|Khvoshab-e Sofla
-34.5723|60.1440|Khvāf
-37.0095|54.9796|Khānbebin
-28.6543|51.3800|Khūrmūj
-36.5834|52.7990|Kia Kola
-31.1344|56.3981|Kian Shahr
-32.0000|50.7667|Kiar
-36.2402|53.5325|Kiasar
-37.4168|49.9293|Kiashahr
-35.5527|52.1162|Kilan
-26.5578|54.0194|Kish|Kīsh
-35.3197|48.1533|Kitu
-37.6931|48.3208|Kivi
-35.2213|52.5107|Kohanabad
-31.0333|50.4500|Kohgiluyeh
-34.7258|48.2778|Kohnush
-36.3823|51.7240|Kojur
-34.5944|48.3925|Kolanjan
-37.3885|48.7167|Kolor
-31.0632|51.5846|Komeh
-34.7214|49.3265|Komijan
-32.9066|51.8018|Komshecheh
-25.5500|59.8500|Konarak
-29.5251|51.3734|Konartakhteh
-28.0780|51.7425|Konar Torshan
-35.2120|58.1424|Kondor
-34.7922|48.6297|Konjineh
-25.3604|60.3995|Konārak
-35.9624|50.7758|Koohsar
-32.6387|51.4909|Kooshk
-38.1932|45.5433|Koozehkonan
-30.3350|51.2785|Kopen
-34.7672|48.6528|Kord Bolagh
-36.6833|54.2000|Kordkuy
-36.7931|54.1121|Kord Kūy
-30.0304|53.7088|Korei
-34.5944|48.3536|Korzan
-27.2501|52.8572|Koshkonar
-38.4596|45.5570|Koshksaray
-30.5290|55.6323|Koshkuiyeh
-29.2316|52.9532|Kouhenjan
-26.8043|57.0189|Kouhestak
-36.3722|49.6494|Kouhin
-30.0737|52.5882|Koushkak
-37.7214|48.2698|Kowsar
-34.6986|49.0114|Kowzareh
-37.2784|49.7686|Kuchesfahan
-34.1539|48.4050|Kuhani
-31.3833|56.3333|Kuhbanan
-33.5333|47.6100|Kuhdasht|Kūhdasht
-36.6888|52.8985|Kuhi Khil
-32.7029|52.4222|Kuhpayeh
-32.4167|50.0000|Kuhrang
-29.2762|56.8014|Kuh Sefid
-37.1528|50.1769|Kumeleh
-33.4030|47.3164|Kunani
-37.9550|48.2356|Kuraim
-34.7172|48.7733|Kur Kahriz
-34.4042|48.5881|Kusaj Khalil
-31.2353|48.6428|Kut Abdollah
-34.3206|47.9539|Kutah Darreh
-31.4614|48.3783|Kut-e Seyyed Naim
-34.4967|46.5968|Kuzaran
-34.7953|46.9368|Kāmyārān
-34.0023|51.4388|Kāshān
-31.2392|48.6564|Kūt-e ‘Abdollāh
-37.2167|50.0167|Lahijan
-38.5080|47.8221|Lahroud
-35.5811|48.9542|Laleh Dan
-29.5205|56.8075|Laleh zaar
-34.9744|48.4756|Lalejin
-32.4167|49.1667|Lali
-27.3667|53.3833|Lamerd
-34.4628|48.1928|Lamiyan
-30.9799|50.4247|Landeh
-37.1955|50.1526|Langarud|Langarūd
-29.7996|52.6424|Lapouyee
-27.6834|54.3417|Lar|Lār
-27.7500|54.4500|Larestan
-37.3602|49.8451|Lasht-e Nesha
-34.9894|48.5464|Latgah
-27.6902|54.3771|Latifi
-38.3077|48.8461|Lavandvil
-35.8233|51.6053|Lavasan
-34.2506|48.2742|Lavashan
-35.8216|51.6444|Lavāsān
-33.4568|50.6867|Laybid
-37.0117|46.1952|Leilan
-27.0537|54.8364|Lemazan
-30.9778|50.4032|Lendeh
-32.3667|51.2000|Lenjan
-34.2858|48.2103|Leyli Yadegar
-30.8950|50.0931|Likak
-37.9581|48.8897|Lisar
-31.4333|50.8333|Lordegan
-31.5134|50.8267|Lordegān
-36.1769|58.7250|Lotfabad
-37.2575|49.8074|Louleman
-33.5679|46.8051|Loumar
-36.6322|49.4977|Lowshan
-37.6081|57.8575|Lujali
-34.3161|48.4542|Luluhar
-37.2042|50.0092|Lāhījān
-32.3298|49.0932|Lālī
-30.8949|50.0931|Līkak
-30.7184|51.5361|Madavan
-33.5289|52.2134|Mahabad
-33.9049|50.4411|Mahalat
-33.9167|50.4167|Mahallat
-30.0641|57.2560|Mahan
-34.1808|48.2097|Mahanabad
-34.8761|48.8078|Mahbar
-35.7204|50.7664|Mahdasht
-34.0833|48.8833|Mahdaviyeh
-35.7073|53.2508|Mahdi Shahr
-36.7141|46.4916|Mahmoodabad
-36.2923|49.8898|Mahmood Abad nemooneh
-36.6000|52.3667|Mahmudabad
-36.6667|47.5667|Mahneshan
-35.5025|49.0658|Mahnian
-31.5843|54.4428|Mahriz|Mahrīz
-34.9833|58.7833|Mah Velat
-36.7631|45.7222|Mahābād
-34.0504|49.4350|Mahājerān
-32.1954|51.4837|Majlesi
-37.1956|49.1986|Maklavan
-39.4167|44.5834|Maku
-27.8486|52.4230|Makū
-35.6659|50.9767|Malard|Malārd
-34.2942|48.8200|Malayer
-37.1334|46.2167|Malekan
-34.9522|48.3150|Malek-e Ashtar
-31.2917|51.2568|Mal-e Khalifeh
-33.3000|46.5500|Malekshahi
-35.8164|50.8228|Malekābād
-37.1426|46.1035|Malekān
-34.3233|48.3300|Malusan
-34.3016|48.8217|Malāyer
-37.8562|45.9275|Mamaqan
-30.0333|51.3833|Mamasani
-33.3795|47.9518|Mamulan
-35.3041|50.4804|Mamuniyeh
-37.7000|56.6000|Maneh va Samalqan
-34.6575|48.7086|Mangavi
-36.7415|49.4161|Manjil|Pādegān-e Manjīl
-36.7445|49.4008|Manjīl
-27.3682|57.2029|Manoojan
-34.9365|46.4521|Mansur-e Aqai
-30.6283|50.2985|Mansuriyeh
-27.3500|57.6167|Manujan
-31.9464|51.8713|Manzariyeh
-27.3989|57.4972|Manūjān
-37.3806|46.3937|Maragheh
-38.4329|45.7749|Marand
-37.9042|55.9558|Maraveh
-37.8500|55.9167|Maraveh Tappeh
-28.3536|58.1500|Mardehak
-39.1431|44.9299|Marganlar
-30.9931|51.0690|Margoon
-35.5183|46.1830|Marivan|Marīvān
-37.2756|49.3628|Marjaghal
-30.4786|54.2023|Marvast
-30.0833|52.6667|Marvdasht
-34.1681|48.8869|Marvil
-34.8308|48.4592|Maryanaj
-36.4528|51.2851|Marzanabad
-36.3600|52.7300|Marzikola
-35.8292|59.6332|Marāgheh
-37.3500|48.9833|Masal
-36.3156|59.5680|Mashhad
-34.7957|60.4977|Mashhad Rizeh
-34.1839|51.2571|Mashkat
-30.2409|51.5207|Masiri
-35.5428|48.2633|Masjedin
-31.9364|49.3039|Masjed Soleyman|Masjed Soleymān
-37.1570|48.9759|Masuleh
-36.6333|55.9500|Mayamey
-33.2279|46.9129|Maymeh
-28.0562|54.6503|Mazayejan
-36.1564|60.5264|Mazdavand
-32.9530|47.7810|Mazhin
-36.9539|54.8547|Mazraeh
-33.9111|50.4532|Maḩallāt
-36.6319|52.2629|Maḩmūdābād
-36.2897|49.9014|Maḩmūdābād Nemūneh
-35.9891|50.7451|Mehestan
-33.4369|46.4611|Mehr
-38.0815|47.1283|Mehraban
-33.1222|46.1646|Mehran
-31.0228|53.3564|Mehrdasht
-27.0500|61.5333|Mehrestan
-31.5798|54.4067|Mehriz
-31.4847|50.8731|Menj
-34.4481|48.2356|Menjan
-38.4333|47.7500|Meshgin Shahr
-38.3990|47.6820|Meshgīn Shahr
-29.4740|54.3287|Meshkan
-35.7499|50.9438|Meshkīn Dasht
-35.2722|49.1511|Mesinak
-32.1833|53.9333|Meybod
-28.8678|52.7359|Meymand
-33.4450|51.1635|Meymeh
-34.8319|47.8553|Meyvaleh
-36.9667|46.1096|Miandoab|Mīāndoāb
-36.5833|53.3000|Miandorud
-37.4167|47.7000|Mianeh
-32.1531|48.4312|Mianrood
-34.3122|48.5156|Mianzulan
-31.3915|49.8397|Midavod
-35.1000|48.3081|Mihamleh-ye Sofla
-34.0528|48.4797|Milab
-34.6217|49.2005|Milajerd
-27.1310|57.0872|Minab|Mīnāb
-37.1167|55.4500|Minudasht
-30.3444|48.1849|Minushahr
-36.4059|45.3621|Mirabad
-29.0175|61.4505|Mirjaveh
-35.1275|48.4594|Mirza Hesari
-34.1575|48.9272|Mishen
-34.5838|47.4415|Miyan Rahan
-28.7102|53.8515|Miyanshahr
-36.4481|50.4678|Moallem Kelayeh
-28.3597|53.3283|Mobarakabad
-32.3465|51.5045|Mobarakeh
-35.0981|49.4242|Mobarakin
-32.3461|51.5020|Mobārakeh
-35.0739|48.6167|Mohajeran
-27.2021|60.5500|Mohamadan
-28.6284|59.1189|Mohammadabad
-34.2467|48.3044|Mohammadabad-e Chulak
-27.3320|62.3878|Mohammadi
-36.2226|50.1757|Mohammadiyeh
-34.1461|48.3386|Mohammadiyeh-e Sofla
-35.7447|50.8723|Mohammad Shahr
-36.9835|45.5103|Mohammadyar
-30.8825|61.4572|Mohammadābād
-34.5553|48.8686|Mohara
-27.5552|52.8836|Mohr
-30.0840|57.1526|MohyAbad
-36.4792|54.6393|Mojen
-35.4723|51.7240|Mojtame‘-e Maskūnī-ye Nāmjū
-34.6250|48.6978|Mokarrabi
-34.8314|48.1453|Molham Darreh
-35.9938|59.5646|Molkabad
-35.6314|48.7389|Molla Bodagh
-31.5859|48.8701|Mollasani
-33.5852|49.5017|Momen Abad
-34.7203|47.9111|Monavvar Tappeh
-30.4458|48.1708|Moqavemat
-38.7480|47.7402|Moradlu
-35.1883|49.2828|Morghabad
-35.6025|51.3496|Morteẕá Gerd
-31.0106|49.4302|Moshrageh
-32.5187|47.3681|Mousiyan
-34.3325|48.4714|Mowdaran
-35.7630|50.9171|Moḩammad Shahr
-36.2237|50.1825|Moḩammadīyeh
-35.0582|47.1461|Muchesh
-32.7089|59.5168|Mud
-32.7255|47.6674|Murmuri
-34.5989|48.9411|Musa Bolaghi
-30.7153|51.5413|Mādavān
-35.7282|50.8134|Māhdāsht
-30.0594|57.2920|Māhān
-35.3045|50.4993|Māmūnīyeh
-37.3631|49.1329|Māsāl
-37.2302|55.3721|Mīnūdasht
-37.4210|47.7150|Mīāneh
-32.8615|53.0744|Naein
-32.4231|50.7799|Nafch
-31.9346|50.7204|Naghan
-31.9340|51.3219|Naghneh
-34.1494|48.9683|Nahandar
-34.1883|48.3769|Nahavand
-34.1909|48.3745|Nahāvand
-32.8601|53.0875|Nain
-32.6344|51.3668|Najafabad
-34.5550|48.3864|Najafiyeh
-29.3974|55.7018|Najaf Shahr
-32.6346|51.3653|Najafābād
-27.4975|52.5865|Nakhl-e Taqī
-27.5004|52.5763|Nakhl Taghi
-34.3678|48.6569|Nakilabad
-35.3881|49.2653|Nakin
-36.9838|45.1396|Nalous
-34.2711|48.8200|Namileh
-38.3833|48.5167|Namin
-34.4200|48.7539|Nanaj
-36.9553|45.3880|Naqadeh
-34.0104|50.8315|Naragh
-35.9959|49.6105|Narjeh
-29.2667|58.7333|Narmashir
-36.7509|51.0236|Nashtarud
-34.4347|60.1598|Nashtifan
-35.5639|51.1397|Nasimshahr
-35.6102|51.1611|Nasir Abaad
-35.4903|51.1323|Nasirshahr
-35.4179|60.3057|Nasrabad
-35.5650|51.1633|Nasīm Shahr
-33.5112|51.9181|Natanz|Naţanz
-35.9541|50.6061|Nazarabad|Naz̧arābād
-37.3474|46.7596|Nazarkahrizi
-39.0102|45.0509|Nazok-e Olya
-34.2283|48.7181|Nazul
-29.8570|56.7940|Negar
-35.4758|48.5328|Negarabad
-35.1186|48.9256|Negar Khatun
-36.7029|57.3932|Neghab
-37.1394|55.1576|Neginshahr
-25.3897|61.1330|Negour
-31.5667|59.8167|Nehbandan
-31.5419|60.0365|Nehbandān
-34.5411|48.7172|Nehenjeh
-36.6508|53.2991|Neka|Nekā
-34.0769|48.4686|Nesar
-34.6772|48.8669|Neshar
-29.1988|54.3278|Neyriz|Neyrīz
-36.2133|58.7957|Neyshabur|Neyshābūr
-28.9161|58.5503|Nezamshahr
-33.9775|51.1412|Niasar
-32.3038|52.1897|Nik Abad
-36.8495|48.1733|Nik Pey
-26.2258|60.2143|Nikshahr|Nīkshahr
-35.1253|60.7658|Nil Shahr
-33.9117|58.9236|Nimbolook
-31.1033|61.4160|Nimruz
-33.8865|50.5631|Nimvar
-38.0000|48.0833|Nir
-35.3486|48.9172|Niyanj
-28.8559|53.8150|No Bandegan
-27.5319|57.4442|Nodej
-32.0301|53.5318|Nodoushan
-37.5184|58.9802|Nokhandan
-37.7321|45.0383|Noshin
-29.8535|59.9576|Nosrat Abad
-34.6922|48.0856|Nosratabad-e Behraz
-34.6647|47.9628|Nosratabad-e Laklak
-28.5407|60.7533|Noukābād
-30.1135|51.5037|Nourabad
-35.1312|49.7007|Nowbaran
-29.8012|51.6842|Nowdan
-37.0745|55.2531|Nowdeh Khanduz
-35.1821|46.2496|Nowdeshah
-29.1185|51.9823|Nowjein
-36.7405|53.8840|Nowkandeh
-36.6485|51.4962|Nowshahr
-35.1614|46.2001|Nowsud
-36.3167|51.9833|Nur
-30.1140|51.5217|Nurabad
-34.8219|48.2928|Nurabad-e Simineh
-35.9378|48.7947|Nurbahar
-34.0796|51.4279|Nushabad
-32.8600|53.0869|Nā’īn
-36.5717|52.0153|Nūr
-34.0734|47.9725|Nūrābād
-35.6400|48.8458|Ojaq
-38.2867|48.1414|Omidcheh
-30.7628|49.7023|Omidiyeh|Omīdīyeh
-35.4361|48.9686|Ommatlar
-28.4584|56.3532|Orzueeyeh
-28.4667|56.5333|Orzuiyeh
-37.5527|45.0761|Orūmīyeh|Urmia
-37.0358|45.0818|Oshnavieh
-37.0397|45.0983|Oshnaviyeh|Oshnavīyeh
-34.6381|48.2956|Oshtoran
-34.0154|48.6343|Oshtorinan
-34.7758|48.1722|Oshtorjin
-37.9500|45.8834|Osku
-37.9150|46.1226|Oskū
-37.1089|50.1127|Otaghvar
-35.2822|48.6911|Ovraqin
-35.5477|51.1282|Ovrīn
-35.5708|48.6292|Owrteh Qamish
-35.2628|48.3725|Owryad
-36.4289|53.1311|Paein Hoular
-33.0106|46.8793|Pahleh
-34.8417|48.6147|Pahnabad
-35.4945|51.7530|Pakdasht
-34.0653|48.4456|Panbeh Dar
-35.4903|50.9182|Parand
-35.3685|50.6772|Parandak
-35.7417|51.7771|Pardis
-35.7469|51.8122|Pardīs
-37.6017|49.0639|Paresar
-29.8788|55.7269|Pariz
-35.0656|48.2461|Parluk
-39.6482|47.9174|Parsabad|Pārsābād
-27.1667|53.2667|Parsian
-35.1558|48.7678|Parvaraq
-30.2019|53.1800|Pasargad|Pāsārgād
-30.9567|51.2648|Pataveh
-35.0434|46.3565|Paveh|Pāveh
-35.4419|48.8531|Payandeh
-34.1297|48.8675|Peyhan
-35.3839|48.8558|Pileh Jin
-35.2425|48.5136|Pir Anbar
-36.7010|45.1413|Piranshahr
-35.5672|48.1389|Pir Badam
-32.4675|51.5391|Pir Bakran
-28.3145|54.3141|PirCity
-34.3250|48.9286|Pir Khodaverdi
-34.9122|48.0661|Pir Malu
-34.3917|48.6661|Pir Mishan
-34.1181|48.7786|Pir Savaran
-35.7763|48.1117|Pir Taj
-34.1350|49.0453|Piruz
-34.6889|47.8928|Pir Yusof
-37.6501|56.9886|Pish Ghaleh
-26.0831|61.6856|Pishin
-35.3080|51.7267|Pishva|Pīshvā
-39.3480|45.0710|Poldasht
-33.1462|47.7015|Pol Dokhtar
-33.1667|48.0000|Pol-e Dokhtar
-36.1153|53.0114|Pol Sefid
-32.2540|50.5908|Pordanjan
-35.3142|49.0717|Poshtjin
-36.3980|51.5794|Pul
-35.4785|51.6834|Pākdasht
-27.2083|53.0361|Pārsiān
-26.0794|61.7540|Pīshīn
-35.1983|49.1783|Qabanqoli
-30.2783|53.2576|Qaderabad
-35.4011|48.7300|Qader Khalaj
-34.6519|48.7367|Qadimi
-36.4833|52.9000|Qaem Shahr
-29.8509|51.5732|Qaemyeh
-33.7265|59.1844|Qaen|Qā’en
-34.8603|49.0047|Qahavand
-32.5767|51.4550|Qahderijan
-32.5773|51.4537|Qahderījān
-32.7027|51.8280|Qahjavarestan
-34.4353|48.9753|Qajar Ab-e Sofla
-35.6005|59.9363|Qalandarabad
-27.2000|58.3333|Qaleh Ganj
-27.4447|56.5478|Qaleh Qazi
-31.1900|50.4419|Qaleh Raisi
-32.2052|49.4498|Qaleh-ye Khvajeh
-34.6123|51.0137|Qanavat
-35.1253|49.2822|Qarah Day
-34.4403|48.9356|Qarah Tegini
-38.8915|45.0255|Qarahziyaeddin|Qarah Ẕīā’ od Dīn
-35.5131|48.1775|Qaranqu Darreh
-35.4287|51.5754|Qarchak
-37.1286|46.9648|Qareh Aghaj
-36.8220|54.5922|Qarnabad
-38.3878|47.5383|Qasabeh
-34.4200|48.1878|Qasabestan
-35.9102|58.5759|Qasemabad
-34.6753|47.9722|Qasemabad-e Laklak
-26.2483|60.7525|Qasr-e-qand
-34.2000|45.6333|Qasr-e Shirin
-34.5156|45.5791|Qaşr-e Shīrīn
-35.3753|48.9317|Qater Owlan
-29.1458|54.6994|Qatruyeh
-35.4961|48.8669|Qayesh
-35.6619|48.0822|Qazan Qarah
-37.8475|57.3118|Qazi
-34.7769|48.0142|Qazi Mardan
-36.2688|50.0041|Qazvin
-34.1419|48.3625|Qeshlaq Baba Rostam
-34.1161|48.5778|Qeshlaq-e Anuch
-34.2439|48.3375|Qeshlaq-e Deh Ful
-34.5000|48.5667|Qeshlaq-e Dehnow
-34.0667|48.9167|Qeshlaq-e Mohammadi
-34.3722|48.2450|Qeshlaq-e Najaf
-34.4031|48.2164|Qeshlaq-e Pust Shuran
-34.5878|48.8958|Qeshlaq-e Qobad
-34.3839|48.9392|Qeshlaq-e Shirazi
-34.7008|49.0697|Qeshlaq-e Sofla
-34.3522|48.2242|Qeshlaq-e Valiollah
-26.7833|55.8667|Qeshm
-36.1223|48.5754|Qeydar
-35.0150|48.2875|Qeydli Bolagh
-34.3044|48.0608|Qilab
-28.3167|52.9000|Qir va Karzin
-35.7167|51.0667|Qods
-35.4711|48.0594|Qohurd-e Sofla
-34.5281|48.2597|Qoli Laleh-ye Sofla
-35.1308|49.2908|Qolqolabad
-34.6401|50.8764|Qom
-35.1664|47.8056|Qorveh
-35.3126|49.0899|Qorveh-e Darjazin
-28.6485|53.6114|QotbAbad
-38.4654|44.3881|Qotur
-37.1060|58.5095|Quchan|Qūchān
-34.9272|48.0261|Quch Tappeh
-37.9896|45.0271|Qushchi
-35.6642|48.3056|Qushjeh
-37.7466|57.7061|Qushkhaneh
-36.4667|52.8676|Qā’em Shahr
-29.8518|51.5879|Qā’emīyeh
-36.1147|48.5911|Qīdar
-28.4825|53.0346|Qīr
-35.5237|51.6505|Qīāmdasht
-36.2083|45.5500|Rabat
-29.2500|56.9833|Rabor
-30.4067|55.9939|Rafsanjan|Rafsanjān
-37.0287|50.3257|Rahimabad
-34.0886|48.5856|Rahmanabad Malayer
-31.2800|49.6035|Ramhormoz|Rāmhormoz
-36.9333|55.0833|Ramian
-35.1597|48.8050|Ramishan
-36.7667|50.5333|Ramsar
-30.8931|49.4079|Ramshir|Rāmshīr
-37.0523|50.2179|Ranekouh
-37.2761|49.5886|Rasht
-34.9746|59.6145|Rashtkhar
-34.9167|48.2167|Rastguyan
-34.8789|48.2186|Rasulabad-e Sofla
-34.1333|48.3492|Ravand-e Vosta
-34.7500|46.6500|Ravansar
-31.2656|56.8055|Ravar|Rāvar
-34.7153|46.6533|Ravānsar
-35.0711|48.6633|Rayegan-e Sofla
-29.5927|57.4272|Rayen
-37.9306|57.1194|Raz
-34.8953|49.1467|Razaj
-35.3864|49.0336|Razan
-36.2093|59.7610|Razaviye
-35.3308|49.9512|Razeqan
-38.6249|48.0829|Razi
-34.2678|48.1261|Razini
-36.5420|50.1984|Razmian
-32.6833|51.6016|Rehnan|Rehnān
-35.3745|51.2774|Rey
-30.7349|56.6874|Reyhan
-35.1828|49.3144|Reza Baghi
-34.2500|48.8333|Rezvankadeh
-37.5498|49.1370|Rezvanshahr
-32.8369|50.5652|Rezveh
-37.5495|49.1374|Reẕvānshahr
-28.4333|59.1500|Rigan
-34.4803|46.0014|Rijab
-35.8815|52.1601|Rineh
-35.4789|58.4378|Rivash
-34.5772|48.4319|Rivasijan
-28.0516|52.0644|Riz
-34.2655|46.7987|Robat
-35.5484|59.1867|Robat-e-Sang
-34.8611|48.6003|Robat-e Sheverin
-35.4846|51.0829|Robat Karim|Robāţ Karīm
-37.2555|50.0003|Rod Baneh
-36.3504|55.0013|Rodian
-31.5977|47.8853|Rofayyeh
-29.1913|53.7648|RonizOlya
-34.9167|59.3667|Roshtkhvar
-30.4000|51.4167|Rostam
-36.8995|49.4736|Rostamabad
-36.6801|53.3982|Rostam kola
-36.5674|51.9540|Royan
-36.0237|57.3045|Rudab
-27.5333|57.1167|Rudan
-34.5506|48.4106|Rud Avar
-36.8000|49.6000|Rudbar
-34.1244|48.3717|Rud-e Hasan-e Sofla
-35.7338|51.8981|Rudehen
-37.1370|50.2917|Rudsar|Rūdsar
-33.2796|47.4900|Rumeshkhan
-27.4600|55.4083|Ruydar
-36.9180|50.6480|Rāmsar
-26.2416|61.3849|Rāsk
-35.7334|51.9059|Rūdehen
-27.4419|57.1920|Rūdān
-30.0825|53.1276|SaadatShahr
-35.5832|51.0815|Sabashahr
-35.5803|51.1139|Şabbāshahr
-36.2126|57.6819|Sabzevar
-29.3858|51.1117|Sadabad
-29.8048|52.4583|Sadra
-35.6845|50.8247|Safadasht
-30.8281|55.8030|Safaiyeh
-35.4069|48.3061|Safa Riz
-30.6143|53.1783|Safashahr
-32.2600|48.4073|Safiabad
-30.6131|53.1954|Şafāshahr
-35.7661|49.9188|Sagz Abad
-34.5539|48.3047|Sahamabad
-37.9421|46.1132|Sahand
-36.2029|46.4533|Saheb
-34.5833|47.5167|Sahneh
-36.3030|49.0638|Sain Qaleh
-34.4766|50.4550|Salafchegan
-34.7457|59.9691|Salami
-34.8167|45.9833|Salas-e Baba Jani
-34.9236|48.3425|Salehabad
-35.5999|51.2827|salehie
-32.2143|48.6624|Salehshahr
-35.2528|49.1189|Salilak
-36.7006|51.1908|Salman Shahr
-38.1973|44.7653|Salmas|Salmās
-34.3414|48.9931|Saluk
-32.4498|50.9138|Saman
-34.2092|48.7058|Samen
-32.1681|50.2709|Samsami
-35.1222|49.0256|Sanaj
-35.3150|46.9988|Sanandaj
-34.4006|60.2538|Sangan
-37.1797|49.6853|Sangar
-36.9979|54.8526|Sangdevin
-34.6561|48.3933|Sanjuzan
-37.1023|56.8504|Sankhast
-36.2499|46.2735|Saqqez
-37.9408|47.5367|Sarab|Sarāb
-32.8986|47.5703|Sarabbagh
-33.5639|48.0222|Sarab-e Dowreh
-34.2322|48.6064|Sarab-e Tajar
-33.7658|46.5464|Sarableh
-36.5449|61.1577|Sarakhs
-35.1792|48.9464|Saravak
-27.3235|62.5680|Saravan
-33.4167|58.3167|Sarayan
-35.4289|47.9619|Sarayjuq
-26.4339|61.4818|Sarbaz
-32.4908|59.4876|Sarbishe
-32.4000|60.0833|Sarbisheh
-32.0214|48.7928|Sardarabad
-36.2167|45.4832|Sardasht
-26.4587|57.8843|Sardasht Bashagard
-38.0312|46.1297|Sardroud
-38.0261|46.1476|Sardrūd
-34.2031|48.2639|Sar Duran
-38.1464|48.0572|Sarein
-38.1833|47.9833|Sareyn
-30.8072|50.8465|sarfariyab
-28.4256|55.7018|Sargaz
-36.5633|53.0601|Sari
-35.6125|48.8922|Sarijlu
-34.6017|48.4506|Sarkan
-36.8914|54.5692|Sarkhon Kalateh
-31.7458|50.5409|SarKhun
-34.4119|49.4947|Saroogh
-34.4611|45.8626|Sarpol-e Z̄ahāb
-34.5000|45.8500|Sarpol Zahab
-35.2500|46.3333|Sarvabad
-29.2167|53.1333|Sarvestan
-29.2735|53.2203|Sarvestān
-27.3709|62.3310|Sarāvān
-34.8115|47.4601|Satar
-35.9776|52.6825|Savadkuh
-35.0213|50.3566|Saveh|Sāveh
-36.0000|50.8333|Savojbolagh
-34.5736|48.1536|Saziyan
-34.4813|47.6908|Şaḩneh
-30.0792|53.1346|Sa‘ādat Shahr
-35.6677|51.1858|Sa‘īdābād
-30.7029|52.1596|Sedeh
-32.3787|51.3160|Sedeh Lanjān
-32.3745|51.3091|Sedeh Lenjan
-32.1322|51.1742|Sefiddasht
-34.0697|48.5081|Sefid Khaneh
-35.6622|60.0860|Sefid Sang
-34.1241|51.3471|Sefid Shahr
-34.5853|48.1008|Segavi
-33.6605|58.3983|Seh Qaleh
-32.6987|52.0667|Sejzi
-33.8333|48.1667|Selseleh
-32.1976|48.8520|Semaleh
-31.3000|51.5333|Semirom
-35.5769|53.3920|Semnan
-31.4167|51.5667|Semīrom
-26.8382|57.4179|Senderk
-30.1500|52.1000|Sepidan
-33.2190|48.8815|Sepid Dasht
-35.2496|47.7697|Serish Abad
-34.6007|48.4386|Serkan
-37.7275|44.6428|Serow
-35.0458|49.2964|Setaq
-39.0651|44.3842|Seyah Cheshmeh
-31.3653|50.0706|Seydun
-30.0042|53.0012|Seyedan
-33.7488|46.6323|Shabab
-29.4708|50.9755|Shaban Kareh
-38.1827|45.6819|Shabestar
-30.6492|48.6650|Shadegan|Shādegān
-34.3617|48.2806|Shademaneh
-35.1724|59.0339|Shadmehr
-37.0648|49.1777|Shaft
-33.9354|49.3357|Shahbaz
-30.4220|57.6906|Shahdad
-31.9454|54.2460|Shahedieh
-35.5727|51.0788|Shahedshahr
-36.6793|46.5669|Shahin Dej|Shāhīn Dezh
-32.8579|51.5529|Shahin Shahr|Shāhīn Shahr
-35.7701|53.3180|Shahmirzad
-32.5738|50.9927|Shahrabad
-35.4885|51.3457|Shahrak-e Emam Hasan
-35.7720|50.9560|Shahrak-e Mohandesī-ye Zerā‘ī
-34.5573|50.8020|Shahrak-e Pardīsān
-35.7594|51.3760|Shahrak-e Qods
-30.8350|50.1987|Shahrak-e Ţāleqānī
-35.5823|51.4556|Shahrak-e ‘Alā’īn
-30.0002|55.7783|Shahrak Mes Sarcheshmeh
-30.1165|55.1186|Shahrbabak|Shahr-e Bābak
-32.3167|50.8000|Shahrekord
-35.5726|51.4234|Shahr-e-Rey
-32.0089|51.8668|Shahreza
-36.7491|59.9274|Shahrezu
-29.7997|52.5022|Shahr-e Ṣadrā
-32.0088|51.8641|Shahreẕā
-35.6283|51.0663|Shahriar
-32.2845|50.8832|ShahrKian
-36.4057|54.9388|Shahroud
-36.4182|54.9763|Shahrud
-35.6588|51.0577|Shahrīār
-35.8954|49.7510|Shal
-32.0472|50.8090|Shalamzar
-37.1592|50.2069|Shalman
-32.2962|48.4237|Shamsabad
-34.6089|48.1042|Shanabad
-36.3951|59.2906|Shandiz
-35.2972|49.1764|Shanjur
-32.8434|51.7392|Shapur Abad
-37.8819|47.0955|Sharabian
-38.1787|45.4679|Sharafkhaneh
-35.4275|51.7853|Sharifabad
-34.4122|48.8258|Sharifabad-e Quzan
-34.2647|48.6383|Sharifabad-e Tajar
-36.2117|50.1500|Sharīfābād
-34.3031|47.9739|Shatzal
-35.3753|49.2097|Shavand
-33.9000|49.3000|Shazand
-35.9314|51.5900|Shemiranat
-36.0113|51.4865|Shemshak
-38.1456|45.6191|Shendabad
-32.0878|48.7586|Sherafat
-28.9125|53.9923|Sheshdeh
-35.9604|57.7503|Sheshtamad
-34.8075|48.5703|Sheverin
-31.4082|48.7870|Sheyban
-31.4079|48.7946|Sheybān
-35.5022|48.2225|Sheykh Jarrah
-34.6675|48.1686|Shilandar-e Sofla
-29.6103|52.5311|Shiraz
-35.6333|48.3825|Shir Barat
-36.2975|52.8657|Shirgah
-35.4928|48.4506|Shirin Su
-36.8509|50.8032|Shirud
-37.3967|57.9295|Shirvan|Shīrvān
-28.3959|51.7543|Shonbeh
-33.1848|49.1856|Shool Abad
-32.0410|48.7998|Shooshtar
-37.3416|56.8783|Shoqan
-39.2209|44.7492|Showt
-39.2192|44.7700|Showţ
-31.8056|59.9982|Shusf
-32.1942|48.2436|Shush|Shūsh
-34.3536|48.6322|Shush Ab
-32.0497|48.8484|Shushtar|Shūshtar
-35.3570|46.6732|Shuyesheh
-35.5729|51.0850|Shāhedshahr
-35.8981|49.7691|Shāl
-33.9313|49.4063|Shāzand
-39.0647|44.3694|Siah Cheshmeh
-34.9458|47.9683|Siah Goleh
-36.9333|49.9000|Siahkal
-32.3323|48.4895|SiahMansur
-38.8688|45.9967|Siahrood
-34.2169|48.7847|Sib Dar
-27.3333|61.9167|Sib va Suran
-37.4223|44.8500|Silvana
-34.7458|48.5067|Silvar
-34.6825|48.5858|Simin-e Abaru
-34.8767|48.3217|Simin-e Zagheh
-37.0128|54.2158|Siminshahr
-36.7297|46.1511|Simmineh
-36.5791|52.8236|Simorgh
-32.8503|51.6476|Sin
-34.7953|47.9964|Siravand
-36.6473|49.1888|Sirdan
-26.5000|57.1833|Sirik
-29.4514|55.6809|Sirjan
-26.8284|62.6301|Sirkān
-33.7546|46.5665|Sirvan
-38.1969|45.8108|Sis
-30.8563|51.4377|Sisakht
-34.6633|48.3206|Sistaneh
-31.1911|52.5003|Soghad
-36.0731|48.4317|Sohrevard
-36.2394|48.5455|Sojas
-35.7684|52.5609|Soleh Bon
-36.1478|58.8614|Soltanabad
-36.4323|48.7939|Soltanieh
-29.6296|53.2329|SoltanShahr
-34.8261|48.4294|Solulan
-37.3333|49.3000|Someh Sara
-34.7819|47.5994|Sonqor
-33.8812|45.6319|Soomar
-35.4680|53.2098|Sorkheh
-34.0875|48.4292|Sorkh Kand
-36.6692|52.4425|Sorkh Roud
-38.2783|45.9771|Soufian
-37.3013|49.3150|Şowme‘eh Sarā
-34.5054|47.8398|Srmast
-32.5214|50.3962|Sudejan
-35.2686|48.3344|Sulijeh
-30.8590|50.4511|Suq
-36.5969|53.2017|Surak
-27.2876|61.9804|Suran
-32.3171|50.6712|Sureshjan
-30.4551|53.6510|Surian
-31.0325|52.8305|Surmaq
-35.5356|49.0139|Surtajin
-31.5635|48.1896|Susangerd|Sūsangerd
-34.5764|48.2775|Sutlaq
-26.7772|56.0438|Suzā
-32.4990|48.8256|Sāland
-37.0142|54.2300|Sīmīn Shahr
-37.1533|49.8714|Sīāhkal
-32.8030|60.2215|Tabas
-32.8077|60.2150|Tabas Masina
-38.0800|46.2919|Tabriz
-34.6931|50.0160|Tafresh
-34.7633|48.5819|Tafrijan
-31.7438|54.2028|Taft
-34.8386|48.8664|Tahunabad
-34.2256|48.6650|Tajar-e Samen
-35.8046|51.4313|Tajrish
-35.8044|51.4256|Tajrīsh
-36.4009|47.1133|Takab|Takāb
-36.0706|49.6957|Takestan|Tākestān
-27.5036|56.6273|Takht
-34.8122|47.8378|Takhtiabad
-35.5013|51.5315|Taleb abad
-34.0458|48.8778|Taleh Jerd-e Sofla
-36.2053|50.7761|Taleqan
-37.9000|48.7833|Talesh
-32.2500|51.5188|Talkhooncheh
-35.2797|49.1328|Tamuzan
-29.1533|51.5183|Tang Eram
-28.8833|51.2667|Tangestan
-35.8915|50.6059|Tankaman
-34.3367|48.0225|Tappeh Yazdan
-35.4292|48.6942|Tappeh-ye Dibi
-32.2233|50.8386|Taqanak
-35.3189|48.3711|Taraqayah
-34.2733|47.9392|Tarik Darreh-ye Bala
-37.6174|47.7667|Tark
-34.8153|48.1225|Tarkhinabad
-36.9500|48.9000|Tarom
-33.3468|51.7911|Tarq Rud
-34.5614|48.7906|Tasbandi
-30.8292|50.1983|Tashan
-35.3383|48.6339|Tasran
-35.1639|48.4833|Tas Tappeh
-38.3162|45.3365|Tasuj
-37.1110|55.0427|Tatar Olia
-35.1544|49.0439|Tavaleh
-34.2114|48.1858|Tavaneh
-35.1167|49.0272|Taveh
-34.7994|47.8694|Tavilan-e Sofla
-34.7333|60.7333|Taybad
-39.1045|44.8990|Tazakand
-34.0978|48.3153|Tazehnab-e Sofla
-38.1767|44.6838|Taze Shar
-27.2902|56.1521|Tazian
-35.6944|51.4215|Tehran
-37.7354|46.9309|Tekmeh Dash
-34.6319|48.1736|Termianak
-37.8104|45.8815|Teymourlou
-34.6903|48.3414|Timi Jan
-32.7026|51.1537|Tiran
-27.3379|56.9531|Tirour
-37.2289|58.2970|Titkanlu
-33.7255|47.0685|Tohid
-36.8163|50.8738|Tonekabon|Tonekābon
-32.7209|52.6562|Toodeshk
-35.2440|60.6225|Torbat-e-Jam|Torbat-e Jām
-35.2740|59.2195|Torbat-e Ḩeydarīyeh
-35.4667|59.1000|Torbat Heydariyeh
-36.3147|59.3677|Torghabeh
-32.2413|48.8388|Torkalaki
-36.9000|54.1667|Torkaman
-34.2997|48.7150|Tuchaqaz
-35.4953|48.9578|Tulki Tappeh
-36.0483|47.8175|Tup Aghaj
-34.0444|49.2838|Tureh
-37.5818|47.3702|Turkman Chay
-34.2500|48.9900|Tusk-e Sofla
-34.5150|49.0214|Tutal
-36.8909|49.5215|Tutkabon
-34.5481|48.4467|Tuyserkan
-34.7400|60.7756|Tāybād
-32.7033|51.1538|Tīrān
-34.5510|48.4435|Tūyserkān
-35.2528|46.2592|Uraman Takht
-34.8103|48.3842|Vafr-e Jin
-35.5094|49.0475|Vahandeh
-29.4865|51.2183|Vahdatiyeh
-35.6048|51.0163|Vahidieh
-34.2608|48.2708|Vahman
-34.7900|48.2886|Vahnan
-38.1284|45.7049|Vaighan
-37.0408|50.4086|Vajargah
-35.1519|48.3806|Vali Mohammad
-34.2328|48.1894|Vali Sir Ab
-31.5276|51.3215|Vanak
-34.6697|48.0789|Vandarabad
-35.3242|51.6457|Varamin|Varāmīn
-27.4653|53.0441|Varavi
-34.0792|48.4056|Varayeneh
-34.1864|48.1861|Varazaneh
-34.3717|48.8978|Varchaq
-32.4790|50.7501|Vardanjan
-34.7003|48.2939|Vardavard-e Sofla
-34.7044|48.3017|Vardavard-e Vosta
-34.6769|48.6192|Varkaneh
-32.3552|51.3721|Varnamkhast
-32.3564|51.3787|Varnāmkhvāst
-35.3964|49.0092|Varqestan
-35.3658|48.9606|Varvazin
-32.4177|52.6382|Varzaneh
-38.5949|46.4640|Varzaqan
-38.5814|46.1700|Varzeqān
-34.3206|48.2258|Vasaj
-35.2317|48.3517|Vashur
-33.4908|48.0492|Vasian|Veysian
-35.2128|48.3464|Vasleh
-33.4180|51.1740|Vazvan
-35.7144|51.4709|Vaḩīdīyeh
-34.1386|48.4683|Vesht
-31.4877|48.8697|Veys
-34.9581|49.3125|Vezendan
-34.7364|48.6111|Yalfan
-38.5245|45.6342|Yamchi
-35.5175|48.6764|Yaromjeh Bagh
-35.0689|49.3817|Yarom Qayah
-30.6682|51.5880|Yasuj
-31.8972|54.3675|Yazd
-30.8683|56.3334|Yazdan Shahr
-34.8072|48.6378|Yeganeh
-34.8736|48.4542|Yekanabad
-34.8778|49.0067|Yekleh
-35.0611|48.7836|Yeserlu
-34.1586|48.6733|Yunes
-34.8053|58.4375|Yunesi
-34.3586|48.7817|Yunji
-31.0306|61.4949|Zabol|Zābol
-27.1339|61.6546|Zaboli
-33.4989|48.7086|Zagheh
-34.1478|48.5542|Zagheh-ye Anuch
-34.6036|48.8111|Zagheh-ye Tasbandi
-35.1528|49.3758|Zaghlijeh
-30.8914|61.6654|Zahak
-29.4963|60.8629|Zahedan
-28.7518|53.7829|Zahedshahr
-30.4692|49.6844|Zahreh
-34.4125|48.6422|Zamanabad-e Mohammadabad
-34.1543|49.0037|Zangeneh
-34.1467|49.0167|Zangeneh-ye Sofla
-30.4047|56.8978|Zangiabad
-36.6764|48.4963|Zanjan
-34.3839|48.1894|Zapon
-31.9862|54.2249|Zarach
-34.1936|48.3000|Zaramin-e Sofla
-30.8127|56.5640|Zarand
-35.3667|50.3333|Zarandiyeh
-36.5214|52.5756|Zargarmahalleh
-29.7631|52.6747|Zarghan
-32.4118|51.3632|Zarinshahr
-38.0924|47.0768|Zarnaq
-33.9286|46.1788|Zarneh
-29.7724|52.7189|Zarqān
-36.4235|48.2471|Zarrin Abad
-34.2947|48.0519|Zarrin Bagh
-28.3000|54.4667|Zarrin Dasht
-36.0605|46.9118|Zarrineh
-35.7586|48.4715|Zarrin Rood
-32.3897|51.3766|Zarrin Shahr
-32.3906|51.3765|Zarrīn Shahr
-25.5825|59.3779|Zarābād
-33.4441|52.4654|Zavareh
-35.2833|59.7333|Zaveh
-35.3773|50.5509|Zavieh
-32.3826|51.2575|Zayandehrod
-32.5960|51.4840|Zazeran
-30.8667|61.5667|Zehak
-27.7925|58.5869|Zeh-e Kalut
-35.0714|49.1694|Zeraq
-29.6009|55.5268|Zeydabad
-35.9933|49.4478|Ziaabad
-37.4261|49.2459|Ziabar
-32.5112|51.9268|Ziar
-36.7161|58.5455|Ziarat
-32.3868|51.5448|Zibashahr
-36.1806|52.9536|Zirab
-34.4133|48.6169|Zirabiyeh
-33.5833|60.3000|Zirkuh
-27.7356|57.2107|Ziyārat Ali
-33.4233|59.8073|Zohaan
-38.5895|45.8261|Zonouz
-38.8022|44.5771|Zurabad
-36.1797|52.9735|Zīr Āb
-29.3586|51.0742|Āb Pakhsh
-36.0399|50.5310|Ābyek
-28.8317|53.1728|Ābādeh
-37.0139|54.4550|Āq Qalā
-34.0575|51.4829|Ārān Bīdgol
-37.5615|56.9213|Āshkhāneh
-38.4308|48.8699|Āstārā
-37.7590|45.9783|Āz̄arshahr
-37.9373|45.9790|Īlkhchī
-35.2345|52.3094|Īstgāh-e Rāh Āhan-e Garmsār
-31.8303|49.8676|Īz̄eh
-36.3104|59.3735|Ţorqabeh
-29.2702|53.2073|سروستان
-31.4828|48.4332|Ḥamīdiyeh
-35.3673|51.2350|Ḩasanābād
-28.3091|55.9017|Ḩājjīābād
-35.6924|50.8483|Ṣafādasht
-35.5053|51.1914|Ṣāleḥīeh
-28.4759|57.8480|‘Anbarābād
-31.3456|48.6006|‘Eyn-e Do
-28.9312|51.0657|‘Ālī Shahr
+29.0299|51.2344|Abad|Bushehr|0|
+30.3392|48.3043|Abadan|Khuzestan|231476|
+31.1608|52.6506|Abadeh|Fars|59116|
+29.8072|53.7201|Abadeh Tashk|Fars|0|
+35.7676|51.9413|Abali|Tehran|0|
+31.1263|53.2216|Abarkooh|Yazd|0|
+31.0000|53.4167|Abarkuh|Yazd|0|
+31.1289|53.2824|Abarkūh|Yazd|27524|
+34.6714|48.2283|Abarlaq-e Sofla|Hamadan|0|
+36.9296|48.9325|Abbar|Zanjan|0|
+36.6333|51.1500|Abbasabad|Mazandaran|0|
+34.6528|48.2456|Abdalan|Hamadan|0|
+32.9926|47.4198|abdanan|Ilam|23946|Ābdānān
+34.6264|49.0175|Abdol Rahim|Hamadan|0|
+39.0498|47.3076|Abeshahmad|East Azerbaijan|0|
+32.1500|49.4000|Abezhdan|Khuzestan|0|
+35.7569|49.2774|Abgarm|Qazvin|0|
+36.1468|49.2180|Abhar|Zanjan|69889|
+38.2836|48.5448|Abibeiglou|Ardabil|0|
+35.6131|48.2692|Ab Meshkin|Hamadan|0|
+31.5281|48.2154|Abou Homeyzeh|Khuzestan|0|
+33.9017|51.7434|Abouzeidabad|Isfahan|0|
+29.3679|51.0514|Ab Pakhsh|Bushehr|0|
+32.5561|51.5733|Abrisham|Isfahan|20000|Abrīsham
+34.9028|48.3203|Abrumand|Hamadan|0|
+35.6293|52.1341|Absard|Tehran|0|
+34.7819|48.6147|Abshineh|Hamadan|0|
+26.0547|55.1624|Abu Musa|Hormozgan|0|
+34.0567|48.5092|Abu ol Fathabad|Hamadan|0|
+36.0667|50.5500|Abyek|Markazi|55128|
+36.0471|50.5182|Abyek|Qazvin|0|
+37.3954|47.7904|Achachi|East Azerbaijan|0|
+31.1150|61.3926|Adimi|Sistan and Baluchestan|0|
+33.0250|50.0881|Afus|Isfahan|0|
+30.7006|49.8315|Aghajari|Khuzestan|21785|
+35.3500|48.3425|Aghcheh Qayah|Hamadan|0|
+38.4774|47.0699|Ahar|East Azerbaijan|100641|
+27.2112|53.6572|Ahel|Fars|0|
+32.3567|53.9919|Ahmadabad|Yazd|0|
+35.6352|51.2037|Ahmadabad-E Mostowfi|Tehran|0|
+35.1151|60.6845|Ahmad-abad-e-Solat|Razavi Khorasan|0|
+34.6128|48.9928|Ahmadabad-e Tappeh|Hamadan|0|
+37.1281|49.3667|Ahmadsargurab|Gilan|0|
+28.8826|51.2746|Ahram|Bushehr|15198|
+34.9378|48.0011|Ahu Tappeh|Hamadan|0|
+31.3190|48.6842|Ahvaz|Khuzestan|841145|
+37.4776|45.8943|Ajabshir|East Azerbaijan|29675|Ajab Shīr
+34.7361|47.9242|Ajin|Hamadan|0|
+35.1383|49.2294|Ajorlu|Hamadan|0|
+35.6142|48.1881|Akanlu|Hamadan|0|
+29.2464|52.7793|Akbarabad|Fars|0|
+35.2028|49.0825|Akleh|Hamadan|0|
+27.6252|52.9911|Alamarvdasht|Fars|0|
+35.2842|48.2158|Alan-e Sofla|Hamadan|0|
+34.7508|47.9597|Alanjeh|Hamadan|0|
+36.0655|52.8325|Alasht|Mazandaran|0|
+33.0517|51.0599|Alavijeh|Isfahan|14550|
+36.1886|50.0783|Alborz|Qazvin|0|
+33.8642|48.2626|Aleshtar|Lorestan|27701|
+34.6400|48.7497|Alfavut|Hamadan|0|
+36.9102|54.8391|Aliabad-e-Katul|Golestan|0|
+34.8378|48.5111|Aliabad-e Posht Shahr|Hamadan|0|
+33.4040|49.6918|Aligudarz|Lorestan|89268|Alīgūdarz
+28.9308|51.0561|Alishahr|Bushehr|0|
+31.5542|51.0497|Aluni|Chaharmahal and Bakhtiari|0|
+32.1114|48.4600|Alvan|Khuzestan|0|
+36.1893|50.0643|Alvand|Qazvin|90000|
+36.3188|49.1677|Alvand|Zanjan|0|
+36.9101|54.8674|'Alī Ābād-e Katūl|Golestan|52838|
+30.8422|55.3321|Aminshahr|Kerman|0|
+34.9761|49.0917|Amirabad-e Kord|Hamadan|0|
+36.0287|54.1354|Amiriyeh|Semnan|0|
+36.5987|52.6563|Amir Kala|Mazandaran|0|
+37.0925|50.1731|Amlash|Gilan|15444|
+36.4696|52.3507|Amol|Mazandaran|237528|Āmol
+34.9367|48.5325|Amzajerd|Hamadan|0|
+36.5967|52.6658|Amīr Kolā|Māzandarān|30478|
+35.2502|57.8010|Anabad|Razavi Khorasan|0|
+30.8500|55.3500|Anar|Kerman|0|
+33.3070|53.6877|Anarak|Isfahan|0|
+28.0324|52.0590|Anarestan|Bushehr|0|
+28.4333|58.1667|Anbarabad|Kerman|0|
+38.4884|48.4177|Anbaran|Ardabil|0|
+37.1330|54.6123|Anbar Olum|Golestan|0|
+32.1667|49.5333|Andika|Khuzestan|0|
+32.7000|48.3000|Andimeshk|Khuzestan|0|
+35.6803|51.0193|Andisheh|Tehran|116062|Shahre Jadide Andisheh
+30.2329|57.7355|Andouhjerd|Kerman|0|
+32.4615|48.3537|Andīmeshk|Khuzestan|135116|
+35.7471|51.2774|Andīsheh|Tehran|116062|
+34.0914|48.5400|Angoshteh|Hamadan|0|
+35.1925|48.5317|Anjir Baghi|Hamadan|0|
+34.8586|48.4908|Ansar ol Emam|Hamadan|0|
+34.1081|48.5733|Anuch|Hamadan|0|
+30.8707|55.2702|Anār|Kerman|15532|
+35.3669|48.2436|Aqa Bolaghi|Hamadan|0|
+34.9558|49.3242|Aqaj|Hamadan|0|
+34.8458|48.0531|Aqa Jan Bolaghi|Hamadan|0|
+35.6117|48.4414|Aq Bolagh-e Aqdaq|Hamadan|0|
+34.9844|48.5553|Aq Bolagh-e Latgah|Hamadan|0|
+35.6178|48.0297|Aq Bolagh-e Morshed|Hamadan|0|
+35.4792|49.1039|Aq Chay|Hamadan|0|
+35.7136|48.7764|Aqcheh Kharabeh|Hamadan|0|
+35.1314|48.4917|Aqchelu|Hamadan|0|
+32.4432|53.6254|Aqda|Yazd|1754|
+37.2578|48.0614|Aqkend|East Azerbaijan|0|
+37.1667|54.5833|Aq Qala|Golestan|0|
+37.2747|55.1589|Aq Qayeh|Golestan|0|
+35.2481|52.4864|Aradan|Semnan|0|
+34.0949|49.6981|Arak|Markazi|503647|Arāk
+34.1000|51.9000|Aran va Bidgol|Isfahan|0|
+36.4949|52.9262|Arateh|Mazandaran|0|
+38.2498|48.2933|Ardabil|Ardabil|410753|Ardabīl
+36.0514|49.8150|Ardagh|Qazvin|0|
+32.3100|54.0175|Ardakan|Yazd|58834|Ardakān
+32.0050|50.6148|Ardal|Chaharmahal and Bakhtiari|10113|
+33.3761|52.3694|Ardestan|Isfahan|0|
+33.3794|52.3698|Ardestān|Isfahan|16058|
+34.0739|48.8639|Arges-e Sofla|Hamadan|0|
+33.3315|59.2293|Arian Shahr|South Khorasan|0|
+34.5322|48.3606|Arikan|Hamadan|0|
+35.8140|52.5035|Arjmand|Tehran|0|
+33.3854|46.5758|Arkavaz|Ilam|11977|
+36.9776|48.3633|Armaqankhaneh|Zanjan|0|
+35.9322|45.7914|Armardeh|Kurdistan|0|
+35.6914|48.8050|Arpa Darreh|Hamadan|0|
+29.8000|53.4167|Arsanjan|Fars|0|
+29.9124|53.3085|Arsanjān|Fars|17706|
+29.9189|53.2829|Arsenjan|Fars|0|
+34.3264|48.5492|Arteh Bolagh|Hamadan|0|
+34.5794|48.4478|Artiman|Hamadan|0|
+30.0589|48.4311|Arvand Kenar|Khuzestan|0|
+34.6553|48.6542|Arzan Fud|Hamadan|0|
+34.6544|48.3731|Arzuvaj|Hamadan|0|
+34.7822|48.1183|Asadabad|Hamadan|0|
+32.9139|60.0150|Asadieh|South Khorasan|0|
+34.7824|48.1201|Asadābād|Hamadan|55703|
+37.7200|48.9266|Asalem|Gilan|0|
+27.4500|52.7333|Asaluyeh|Bushehr|0|
+36.0391|51.1909|Asara|Alborz|0|
+33.8518|46.4440|Aseman Abad|Ilam|0|
+32.6526|51.4712|Asghar Abad|Isfahan|0|
+27.2352|53.5867|Ashkanan|Fars|0|
+32.0000|53.6667|Ashkezar|Yazd|0|
+31.9968|54.2085|Ashkez̄ar|Yazd|19123|
+37.5592|56.9069|Ashkhaneh|North Khorasan|0|
+34.1036|48.8844|Ashmizan|Hamadan|0|
+34.4500|50.0500|Ashtian|Markazi|0|
+27.7248|52.6611|Asir|Fars|0|
+32.8662|50.8472|Askaran|Isfahan|0|
+39.4430|47.4004|Aslan Duz|Ardabil|0|
+33.8908|49.3578|Astaneh|Markazi|0|
+37.2632|49.9432|Astaneh-ye Ashrafiyeh|Gilan|44941|Āstāneh-ye Ashrafīyeh
+38.3333|48.7667|astara|Gilan|0|
+37.4772|56.7411|Ava|North Khorasan|0|
+35.5769|49.2224|Avaj|Qazvin|0|
+39.3139|44.1647|Avajiq|West Azarbaijan|0|
+34.2664|48.5122|Avarzaman|Hamadan|0|
+34.8037|50.4072|Aveh|Markazi|0|
+33.8867|58.3690|Ayask|South Khorasan|0|
+32.4036|48.2479|Azadi|Khuzestan|0|
+37.0864|55.1722|Azadshahr|Golestan|47590|Āzādshahr
+34.5089|48.6867|Azandarian|Hamadan|0|
+37.7500|45.8333|Azarshahr|East Azerbaijan|0|
+34.4970|47.0402|azeh Abad|Kermanshah|0|
+33.4564|49.4565|Azna|Lorestan|0|
+34.2375|48.1483|Aznahri|Hamadan|0|
+33.6095|48.9307|Aznā|Lorestan|47489|
+32.3306|50.4596|Babaheydar|Chaharmahal and Bakhtiari|0|
+35.5517|48.5497|Baba Khanjar|Hamadan|0|
+30.0716|51.2003|Baba Monir|Fars|0|
+28.9642|53.2164|BabAnar|Fars|0|
+34.6142|48.4019|Baba Pir|Hamadan|0|
+34.0800|48.4481|Baba Qasem|Hamadan|0|
+35.6782|47.7939|Babarashani|Kurdistan|0|
+36.5513|52.6790|Babol|Mazandaran|0|
+34.2428|49.0575|Babolqani|Hamadan|0|
+36.7025|52.6576|Babolsar|Mazandaran|0|
+34.7431|48.0803|Bad Khvoreh|Hamadan|0|
+33.0000|47.2500|Badreh|Ilam|0|
+33.6894|51.9978|Badroud|Isfahan|0|
+28.3972|51.4933|Baduleh|Bushehr|0|
+31.6125|55.3802|Bafgh|Yazd|0|
+31.6035|55.4025|Bafq|Yazd|45453|Bāfq
+32.2699|53.9883|Bafruiyeh|Yazd|0|
+32.8394|53.1366|Bafrān|Isfahan|0|
+29.2331|56.6022|Baft|Kerman|34517|Bāft
+32.3787|51.1819|Baghbahadoran|Isfahan|0|
+35.5336|51.3955|Baghershahr|Tehran|0|
+35.6425|51.0802|Baghestan|Tehran|0|
+30.1855|56.8040|Bagheyn|Kerman|0|
+31.5000|49.9167|Bagh Malek|Khuzestan|0|
+32.3823|51.2294|Baghshad|Isfahan|0|
+31.8702|56.0046|Bahabad|Yazd|0|
+34.9069|48.4414|Bahar|Hamadan|0|
+32.6510|51.7207|Baharan Shahr|Isfahan|0|
+32.4839|51.7339|Baharestan|Isfahan|0|
+35.5333|51.1500|Baharestan|Tehran|0|
+31.0500|50.0833|Bahmai|Kohgiluyeh and Boyer-Ahmad|0|
+31.1935|52.4759|Bahman|Fars|7568|
+36.6719|52.7433|Bahnamir|Mazandaran|0|
+30.9004|55.7169|Bahreman|Kerman|0|
+34.9072|48.4414|Bahār|Hamadan|28645|
+32.4881|51.7731|Bahārestān|Isfahan|106433|
+34.5833|58.1333|Bajestan|Razavi Khorasan|0|
+37.6213|58.4161|Bajgiran|Razavi Khorasan|0|
+35.0167|60.2833|Bakharz|Razavi Khorasan|0|
+38.1311|46.9381|Bakhshāyesh|East Azerbaijan|6102|
+29.2830|51.9278|Baladeh|Fars|0|
+36.1989|51.7977|Baladeh|Mazandaran|970|
+33.6669|46.8024|Balavah Tareh|Ilam|0|
+29.4232|56.0365|Balvard|Kerman|3534|
+29.0667|58.2333|Bam|Kerman|99268|
+27.1952|60.4472|Bampour|Sistan and Baluchestan|0|
+27.8626|52.0010|Banak|Bushehr|14126|
+28.0865|54.0397|Banaruyeh|Fars|0|
+34.2239|48.2286|Band Aman|Hamadan|0|
+27.1865|56.2808|Bandar Abbas|Hormozgan|352173|
+37.4732|49.4579|Bandar Anzali|Gilan|118564|Bandar-e Anzalī
+28.9109|50.8300|Bandar Bushehr|Bushehr|0|
+26.7306|54.2747|Bandar Charak|Hormozgan|0|
+30.0610|50.1462|Bandar Deylam|Bushehr|0|
+30.0542|50.1590|Bandar-e Deylam|Bushehr|25730|
+27.8399|51.9378|Bandar-e Deyr|Bushehr|24083|
+30.4370|49.1029|Bandar-e Emam Khomeyni|Khuzestan|78353|
+36.7742|53.9481|Bandar-e Gaz|Golestan|20742|
+25.6539|57.7700|Bandar-e-Jask|Hormozgan|0|
+27.8329|52.0371|Bandar-e Kangan|Bushehr|0|
+27.8343|52.0631|Bandar-e Kangān|Bushehr|60187|
+26.9521|55.5851|Bandar-e Khamīr|Hormozgan|15320|
+26.5978|54.9369|Bandar-e Kong|Hormozgan|19213|
+26.5621|54.8838|Bandar-e Lengeh|Hormozgan|30435|
+30.5566|49.1885|Bandar-e Māhshahr|Khuzestan|162797|
+36.9012|54.0720|Bandar-e Torkaman|Golestan|53970|
+29.5791|50.5170|Bandar Ganaveh|Bushehr|52750|Bandar-e Genāveh
+30.4790|49.0048|Bandar Imam Khomeini|Khuzestan|0|
+26.9519|55.5727|Bandar Khamir|Hormozgan|0|
+26.6029|54.9298|Bandar Kong|Hormozgan|0|
+26.5579|54.8807|Bandar Lengeh|Hormozgan|0|
+30.6333|49.1167|Bandar Mahshahr|Khuzestan|0|
+29.4842|50.6187|Bandar Rig|Bushehr|0|
+27.6644|52.3255|BandarSiraf|Bushehr|0|
+36.9051|54.0353|Bandar Torkaman|Golestan|0|
+35.9975|45.8853|Baneh|Kurdistan|110218|Bāneh
+34.2375|48.4333|Banesareh|Hamadan|0|
+34.9692|46.3503|Banevreh|Kermanshah|0|
+36.4913|58.7095|Bar|Razavi Khorasan|0|
+34.7519|48.7986|Baraband|Hamadan|0|
+29.0616|58.3850|Baravat|Kerman|0|
+29.0663|58.4046|Baravāt|Kerman|22761|
+35.2667|57.4833|Bardaskan|Razavi Khorasan|28233|
+35.5932|46.0840|Bardeh Rasheh|Kurdistan|0|
+27.8701|51.9413|Bardestan|Bushehr|0|
+29.9227|56.5743|Bardsir|Kerman|25152|Bardsīr
+36.7760|49.7458|Barehsar|Gilan|1612|
+32.9952|50.1758|Barf Anbar|Isfahan|0|
+34.4514|48.3011|Bargecheh|Hamadan|0|
+34.3856|48.0864|Barreh Farakh|Hamadan|0|
+36.9530|46.3141|Baruq|West Azarbaijan|0|
+33.7770|51.1974|Barzok|Isfahan|0|
+34.2128|48.2589|Barzul|Hamadan|0|
+26.4500|58.0833|Bashagard|Hormozgan|0|
+35.6372|48.1169|Bashqurtaran|Hamadan|0|
+30.4500|51.1167|Basht|Kohgiluyeh and Boyer-Ahmad|0|
+38.0013|46.4462|Basmenj|East Azerbaijan|0|
+27.2000|54.3667|Bastak|Hormozgan|9959|
+36.4844|54.9907|Bastam|Semnan|0|
+30.3333|53.6667|Bavanat|Fars|9776|
+31.5000|48.9500|Bavi|Khuzestan|0|
+34.9809|46.2679|Bayangan|Kermanshah|0|
+35.3749|59.0306|Bayg|Razavi Khorasan|0|
+33.6478|48.5589|Bayranshahr|Lorestan|0|
+39.3909|44.3732|Bazargan|West Azarbaijan|0|
+37.2795|49.3744|Bazar Jomeh|Gilan|0|
+35.1561|49.4231|Bazeran|Hamadan|0|
+27.8555|60.1671|Bazmān|Sistan and Baluchestan|5192|
+32.2000|50.0500|Bazoft|Chaharmahal and Bakhtiari|0|
+33.3066|47.0297|Bedreh|Ilam|0|
+32.0167|56.1500|Behabad|Yazd|0|
+30.5667|50.2000|Behbahan|Khuzestan|0|
+30.5959|50.2417|Behbahān|Khuzestan|122604|
+35.2722|49.0989|Behkandan|Hamadan|0|
+36.6923|53.5526|Behshahr|Mazandaran|94702|
+34.3356|48.5158|Belartu|Hamadan|0|
+32.5356|50.7520|Ben|Chaharmahal and Bakhtiari|12971|
+38.4281|45.9023|Benab e Marand|East Azerbaijan|4311|
+26.2888|59.5062|Bent|Sistan and Baluchestan|5822|
+35.5361|48.4181|Beshik Tappeh|Hamadan|0|
+34.3478|58.7477|Beydokht|Razavi Khorasan|0|
+27.4317|53.5059|Beyram|Fars|7300|
+29.9720|52.3969|Beyza|Fars|0|
+29.2476|56.6890|Bezanjan|Kerman|0|
+34.8150|48.0992|Biaj|Hamadan|0|
+34.0253|48.9581|Biatan-e Sofla|Hamadan|0|
+36.2308|50.1122|Bidestan|Qazvin|0|
+34.0211|48.8917|Bid Korpeh-ye Sofla|Hamadan|0|
+34.0194|48.8872|Bid Korpeh-ye Vosta|Hamadan|0|
+32.7610|48.2295|Bidrubeh-ye|Khuzestan|0|
+34.6147|48.0169|Bifanaj|Hamadan|0|
+34.0911|49.0683|Bighash|Hamadan|0|
+35.8668|47.6051|Bijar|Kurdistan|50014|Bījār
+27.3540|57.1699|Bikah|Hormozgan|0|
+39.3796|48.3546|Bileh Savar|Ardabil|0|
+36.2667|59.3333|Binalud|Razavi Khorasan|0|
+33.0067|59.0722|Birjand|South Khorasan|0|
+34.4611|48.7858|Bish Aghaj|Hamadan|0|
+34.3971|47.4376|Bisotun|Kermanshah|0|
+34.6544|47.9106|Bitervan|Hamadan|0|
+36.0818|55.8000|Biyārjomand|Semnan|0|
+35.9382|45.9324|Boeen-e-Sofla|Kurdistan|0|
+37.4747|57.3290|Bojnurd|North Khorasan|192041|Bojnūrd
+35.1386|47.3081|Bolbanabad|Kurdistan|0|
+31.9368|51.0446|Boldaji|Chaharmahal and Bakhtiari|0|
+28.2306|57.5047|Boluk|Kerman|0|
+37.3404|46.0561|Bonab|East Azerbaijan|80359|Bonāb
+31.0391|61.5577|Bonjār|Sistan and Baluchestan|3760|
+29.2699|51.2188|Borazjan|Bushehr|110567|Borāzjān
+28.0642|51.4734|Bord Khun|Bushehr|0|
+34.3286|48.0331|Borjaki|Hamadan|0|
+32.9833|51.7667|Borkhvar|Isfahan|0|
+31.9727|51.2716|Boroujen|Chaharmahal and Bakhtiari|0|
+31.9652|51.2873|Borujen|Chaharmahal and Bakhtiari|57071|Borūjen
+33.8973|48.7516|Borujerd|Lorestan|251958|Borūjerd
+28.8317|51.6911|Boshkan|Bushehr|0|
+33.8637|57.4053|Boshrouyeh|South Khorasan|0|
+34.1667|57.4167|Boshruyeh|South Khorasan|0|
+33.8685|57.4288|Boshrūyeh|South Khorasan|15318|
+31.7158|47.9768|Bostan|Khuzestan|0|
+37.8395|46.8096|Bostan Abad|East Azerbaijan|0|
+37.8463|46.8354|Bostānābād|East Azerbaijan|21734|
+35.0597|48.8417|Boyukabad|Hamadan|0|
+35.1689|49.2244|Bozchalu|Hamadan|0|
+35.0247|48.9439|Bozineh Jerd|Hamadan|0|
+33.0724|50.1464|Buin va Miandasht|Isfahan|0|
+35.6167|49.7000|Buin Zahra|Qazvin|0|
+34.8072|48.0592|Bujin|Hamadan|0|
+36.5210|46.1303|Bukan|West Azarbaijan|0|
+35.7336|51.8681|Bumehen|Tehran|0|
+28.9689|50.8366|Bushehr|Bushehr|165377|
+34.4486|48.4194|Bustandar|Hamadan|0|
+34.8475|49.0892|Buyaqchi|Hamadan|0|
+36.5510|52.6786|Bābol|Māzandarān|202796|
+36.6993|52.6501|Bābolsar|Māzandarān|48051|
+31.5240|49.8856|Bāgh-e Malek|Khuzestan|26343|
+35.6471|51.1338|Bāghestān|Tehran|83934|
+35.5316|51.4048|Bāqershahr|Tehran|65388|
+36.2310|50.1236|Bīdestān|Qazvin|18060|
+32.8663|59.2211|Bīrjand|South Khorasan|196982|
+36.5210|46.2089|Būkān|West Azerbaijan|193501|
+35.7297|51.8688|Būmahen|Tehran|79034|
+25.2919|60.6430|Chabahar|Sistan and Baluchestan|47287|
+36.9751|50.5466|Chaboksar|Gilan|0|
+32.7683|50.6287|Chadegan|Isfahan|0|
+37.2294|50.2539|Chaf and Chamkhaleh|Gilan|0|
+35.5811|48.6500|Chahar Bolagh|Hamadan|0|
+35.5962|51.3156|Chahar Dangeh|Tehran|0|
+35.8389|50.8481|Chahārbāgh|Alborz|48828|
+35.6031|51.3098|Chahār Dangeh|Tehran|49950|
+36.8137|58.4973|Chakaneh|Razavi Khorasan|0|
+33.6652|48.8995|Chalan Chulan|Lorestan|0|
+35.4206|48.9275|Chal Boqa|Hamadan|0|
+39.0667|44.3333|Chaldoran|West Azarbaijan|0|
+35.2750|48.2994|Chaleh Kand|Hamadan|0|
+36.6550|51.4204|Chalus|Mazandaran|107490|Chālūs
+36.4786|52.1090|Chamestan|Mazandaran|0|
+32.4447|48.4359|Chamgolak|Khuzestan|5446|
+32.3929|51.3308|Chamgordan|Isfahan|0|
+32.3933|51.3394|Chamgordān|Isfahan|15574|
+30.7062|49.1530|Chamran Town|Khuzestan|0|
+30.7084|49.1627|Chamrān|Khuzestan|33505|
+37.3509|59.0695|Chapeshlu|Razavi Khorasan|0|
+33.2808|47.5089|Chaqabol|Lorestan|0|
+30.7667|50.8500|Charam|Kohgiluyeh and Boyer-Ahmad|0|
+37.1001|47.0668|Charavimaq|East Azerbaijan|0|
+35.8406|50.8394|Charbagh|Alborz|0|
+37.1219|45.9590|Charburj|West Azarbaijan|0|
+33.7591|46.5698|Chardavol|Ilam|0|
+34.8442|48.0661|Charoq|Hamadan|0|
+30.7556|50.7452|Charām|Kohgiluyeh and Boyer-Ahmad|15218|
+34.4644|48.2669|Chasht Khvoreh|Hamadan|0|
+30.6021|56.9043|Chatroud|Kerman|0|
+36.9980|48.7724|Chavarzagh|Zanjan|0|
+30.2036|48.5539|Chavibdeh|Khuzestan|0|
+38.8667|45.0000|Chaypareh|West Azarbaijan|0|
+32.4672|50.1223|Chelgard|Chaharmahal and Bakhtiari|2989|
+32.4626|50.1235|Chelgerd|Chaharmahal and Bakhtiari|0|
+36.6455|59.1212|Chenaran|Razavi Khorasan|53879|Chenārān
+37.4648|57.4379|Chenaran Shahr|North Khorasan|0|
+34.2319|48.1761|Chenari|Hamadan|0|
+32.3243|51.1432|Chermahin|Isfahan|0|
+34.7550|48.4931|Cheshmeh Malek|Hamadan|0|
+34.4589|48.7675|Cheshmeh Pahn-e Nanaj|Hamadan|0|
+34.6269|48.0911|Cheshmeh Qandab|Hamadan|0|
+34.9061|47.8711|Cheshmeh Qareh|Hamadan|0|
+34.8578|48.4189|Cheshmeh Qassaban|Hamadan|0|
+34.8781|47.9839|Cheshmeh Valad|Hamadan|0|
+34.0661|49.1008|Cheshmeh Zowraq|Hamadan|0|
+30.7950|51.3256|Chitab|Kohgiluyeh and Boyer-Ahmad|0|
+35.6324|46.3043|Chnare|Kurdistan|0|
+28.9800|51.0076|Choghadak|Bushehr|0|
+32.2092|48.5461|Choghamish|Khuzestan|0|
+28.9860|51.0364|Choghādak|Bushehr|18702|
+32.2320|50.6207|Choliche|Chaharmahal and Bakhtiari|0|
+38.1835|48.8703|Choobar|Gilan|0|
+34.3153|48.0489|Choqa Sarahi|Hamadan|0|
+30.7537|50.7330|Choram|Kohgiluyeh and Boyer-Ahmad|0|
+33.6952|46.2930|Chovar|Ilam|0|
+34.8369|48.2519|Chowtash|Hamadan|0|
+34.2347|48.3000|Chulak Qapanuri|Hamadan|0|
+29.6271|51.6496|City Kazeroon|Fars|0|
+28.4075|54.1688|Dabiran|Fars|0|
+36.4844|52.4517|Dabudasht|Mazandaran|1758|
+34.9675|48.5006|Dahnejerd|Hamadan|1019|
+34.4167|46.2500|Dalahu|Kermanshah|0|
+29.4302|51.2828|Dalaki|Bushehr|0|
+37.0347|55.0371|Daland|Golestan|0|
+27.3167|59.3000|Dalgan|Sistan and Baluchestan|0|
+35.5214|48.0203|Dali Chu|Hamadan|0|
+33.0176|50.4790|Damaneh|Isfahan|0|
+35.4428|48.8231|Damaq|Hamadan|0|
+35.6300|52.1375|Damavand|Tehran|0|
+36.1679|54.3429|Damghan|Semnan|67694|Dāmghān
+35.7184|52.0696|Damāvand|Tehran|29144|
+36.5494|47.5937|Dandi|Zanjan|0|
+35.8157|49.7244|Danesfahan|Qazvin|0|
+35.1828|48.7883|Daqdaqabad|Hamadan|0|
+28.7519|54.5444|Darab|Fars|0|
+32.9887|50.4127|Daran|Isfahan|0|
+34.4989|48.4122|Darani-ye Sofla|Hamadan|0|
+36.9703|56.2002|Daraq|North Khorasan|0|
+29.2346|57.3300|Darb-e Behesht|Kerman|10670|
+33.6893|47.1462|Darb Gonbad|Lorestan|0|
+34.2603|48.8208|Darcham|Hamadan|0|
+26.9583|56.0432|Dargahan|Hormozgan|0|
+37.3333|59.0833|Dargaz|Razavi Khorasan|36762|
+29.5626|52.9188|Dariun|Fars|0|
+35.6285|53.3082|Darjazin|Semnan|0|
+30.7437|48.4185|Darkhovin|Khuzestan|0|
+32.9500|60.1667|Darmian|South Khorasan|0|
+35.4922|48.0558|Dar Qeshlaq|Hamadan|0|
+34.0994|48.8031|Darreh Chenar|Hamadan|0|
+34.0728|48.8353|Darreh Mianeh-ye Sofla|Hamadan|0|
+34.3761|48.0075|Darreh Mirza|Hamadan|0|
+33.1445|47.3799|Darreh Shahr|Ilam|24961|
+34.1017|48.3944|Darreh-ye Ebrahim|Hamadan|0|
+36.1379|59.1055|Darrod|Razavi Khorasan|0|
+34.2697|48.0069|Darsibeh|Hamadan|0|
+32.1626|50.4499|Dashtak|Chaharmahal and Bakhtiari|4016|
+29.2833|51.2500|Dashtestan|Bushehr|0|
+28.4869|51.5618|Dashti|Bushehr|0|
+27.1792|52.9982|Dashti|Hormozgan|0|
+29.9069|56.6579|Dashtkar|Kerman|0|
+32.0588|50.7610|Dastena|Chaharmahal and Bakhtiari|0|
+32.8022|51.6571|Dastgerd|Isfahan|17775|
+34.5538|50.2391|Dastjerd|Qom|0|
+36.3333|56.8333|Davarzan|Razavi Khorasan|0|
+34.2203|48.8583|Davijan|Hamadan|0|
+34.2952|49.8466|Davoud Abad|Markazi|0|
+27.8429|51.9183|Dayyer|Bushehr|0|
+33.1073|50.9390|Dehagh|Isfahan|0|
+31.9372|51.6452|Dehaghan|Isfahan|0|
+30.6937|54.8639|Dehaj|Kerman|0|
+31.9400|51.6479|Dehaqan|Isfahan|0|
+27.4484|57.1668|Dehbārez|Hormozgan|0|
+34.1053|49.1203|Deh Chaneh|Hamadan|0|
+34.8047|48.7114|Deh Dalian|Hamadan|0|
+30.7949|50.5646|Dehdasht|Kohgiluyeh and Boyer-Ahmad|57036|
+31.7020|50.2812|Dehdez|Khuzestan|5490|
+34.3789|48.5478|Deh-e Shaker|Hamadan|0|
+34.2269|48.3139|Deh Ful|Hamadan|0|
+35.3500|47.3500|Dehgolan|Kurdistan|0|
+32.6941|47.2679|Dehloran|Ilam|46002|Dehlorān
+34.1731|49.0494|Deh Mianeh|Hamadan|0|
+34.3069|48.5569|Dehnow-e Avarzaman|Hamadan|0|
+34.7611|48.0031|Deh Nush|Hamadan|0|
+34.8819|48.5147|Deh Piaz|Hamadan|0|
+28.4912|52.2998|Dehram|Fars|3468|
+31.9399|51.6473|Dehāqān|Isfahan|17945|
+35.2372|47.9754|Delbaran|Kurdistan|0|
+34.0500|47.7833|Delfan|Lorestan|0|
+33.4063|46.5898|Delgosha|Ilam|0|
+33.9905|50.6838|Delijan|Markazi|33508|Delījān
+28.7528|51.0519|Delvar|Bushehr|0|
+33.2930|57.5044|Deyhuk|South Khorasan|0|
+30.0229|50.3559|Deylam|Bushehr|0|
+36.8861|49.9003|Deylaman|Gilan|0|
+35.0647|47.9591|Dezej|Kurdistan|0|
+32.5667|48.7833|Dezful|Khuzestan|264709|
+30.7228|51.9515|Dezhkord|Fars|0|
+36.4295|54.2193|Dibaj|Semnan|0|
+34.8111|48.6847|Dingeleh Kahriz|Hamadan|0|
+31.2992|50.3926|Dishmok|Kohgiluyeh and Boyer-Ahmad|0|
+35.9167|47.0000|Divandarreh|Kurdistan|0|
+38.4613|45.0073|Dizaj Diz|West Azarbaijan|0|
+32.4043|51.4848|Diziche|Isfahan|0|
+28.3067|55.1928|DoBorji|Fars|0|
+30.3586|50.7981|Dogonbadan|Kohgiluyeh and Boyer-Ahmad|96728|
+32.8083|51.6798|Dolatabad|Isfahan|0|
+27.9486|51.9529|Dorahak|Bushehr|0|
+34.2314|48.2194|Doraneh|Hamadan|0|
+32.6150|51.5346|Dorcheh|Isfahan|0|
+32.6153|51.5556|Dorcheh Piaz|Isfahan|37462|Dorcheh Pīāz
+33.4922|49.0252|Dorud|Lorestan|0|
+34.5597|48.4147|Do Rudan|Hamadan|0|
+34.0203|48.9247|Dorudgaran|Hamadan|0|
+33.4922|49.0616|Dorūd|Lorestan|121638|
+28.7013|52.9548|Douzeh|Fars|0|
+34.9022|48.0336|Dow Baraleh|Hamadan|0|
+32.7998|51.6955|Dowlatabad|Isfahan|33607|Dowlatābād
+35.2840|59.5131|Dowlat Abad|Razavi Khorasan|0|
+35.2811|48.8869|Dowlatabad-e Hajjilu|Hamadan|0|
+35.3478|49.1094|Dowlujerdin-e Bala|Hamadan|0|
+28.4250|57.9425|Dow Sari|Kerman|0|
+34.3056|48.4897|Durijan|Hamadan|0|
+35.4819|49.0400|Durnian|Hamadan|0|
+31.1466|61.7738|Dust Mohammad|Sistan and Baluchestan|0|
+37.9488|47.1141|Duzduzan|East Azerbaijan|0|
+28.7517|54.5406|Dārāb|Fars|70232|
+32.9874|50.4108|Dārān|Isfahan|20078|
+35.9139|47.0239|Dīvāndarreh|Kurdistan|34007|
+32.3875|51.5102|Dīzīcheh|Isfahan|18935|
+28.3464|52.9611|Efzar|Fars|2657|
+29.0225|54.2374|Eij|Fars|0|
+30.3272|56.9031|Ekhteyarabad|Kerman|0|
+31.6539|48.5944|Elhayi|Khuzestan|0|
+27.4462|53.8521|Emad Deh|Fars|0|
+28.4468|53.1463|Emam Shahr|Fars|0|
+36.4089|52.3007|Emamzade Abdollah|Mazandaran|0|
+34.0497|48.9522|Emamzadeh Khatun|Hamadan|0|
+35.0114|49.0411|Emamzadeh Pir Nahan|Hamadan|0|
+36.2282|49.9067|Eqbaliyeh|Qazvin|0|
+35.3022|51.5358|Eqbaliyeh|Tehran|36709|
+36.2308|49.9250|Eqbālīyeh|Qazvin|55066|
+30.7000|52.4000|Eqlid|Fars|0|
+30.8988|52.6970|Eqlīd|Fars|44341|
+33.7028|57.3625|Eresk|South Khorasan|0|
+32.2667|52.4500|Esfahan|Isfahan|0|
+37.0765|57.5101|Esfarayen|North Khorasan|59490|Esfarāyen
+35.9368|49.7402|Esfarvarin|Qazvin|0|
+33.6461|59.7710|Esfedan|South Khorasan|0|
+36.0438|58.6744|Eshqabad|Razavi Khorasan|0|
+34.3669|56.9311|Eshqabad|South Khorasan|0|
+35.7281|50.4142|Eshtehard|Alborz|0|
+35.7255|50.3662|Eshtehārd|Alborz|29993|
+34.3581|48.5928|Eskanan|Hamadan|0|
+34.0500|46.6667|Eslamabad-e-Gharb|Kermanshah|0|
+34.0456|58.2203|Eslamiyeh|South Khorasan|0|
+35.5522|51.2350|Eslamshahr|Tehran|450000|
+38.1311|47.9392|Eslāmābād|Ardabil|0|
+34.1089|46.5299|Eslāmābād-e Gharb|Kermanshah|90559|
+26.8372|60.1641|Espakeh|Sistan and Baluchestan|4719|
+29.1167|54.0000|Estahban|Fars|0|
+29.1266|54.0421|Estahbān|Fars|36410|
+27.7630|53.9794|Evaz|Fars|19987|
+38.7114|45.1979|Evogli|West Azarbaijan|0|
+33.9000|46.1667|Eyvan|Ilam|0|
+35.3445|52.0608|Eyvanekey|Semnan|0|
+33.8272|46.3097|Eyvān|Ilam|31299|
+34.8331|45.8325|Ezgeleh|Kermanshah|0|
+32.4424|52.3718|Ezhieh|Isfahan|0|
+28.2141|55.1174|Fadami|Fars|0|
+28.9459|58.8760|Fahraj|Kerman|0|
+34.2242|48.3119|Fahrumand|Hamadan|0|
+38.5226|47.8534|Fakhrabad|Ardabil|0|
+32.5553|51.5097|Falavarjan|Isfahan|49843|Falāvarjān
+34.0390|48.4626|Famast|Hamadan|1081|
+35.1139|48.9717|Famenin|Hamadan|0|
+26.5734|59.6299|Fanouj|Sistan and Baluchestan|0|
+26.5747|59.6386|Fanuj|Sistan and Baluchestan|0|
+32.0097|51.1997|Faradonbeh|Chaharmahal and Bakhtiari|0|
+34.6000|49.6333|Farahan|Markazi|0|
+37.2604|55.1664|Faraqi|Golestan|0|
+34.4861|48.2856|Farasfaj|Hamadan|0|
+28.7500|52.2500|Farashband|Fars|0|
+35.7232|50.9787|Fardis|Alborz|0|
+35.7555|50.9967|Fardīs|Tehran|181174|
+28.0079|56.2446|Fareghan|Hormozgan|0|
+32.9410|50.1210|Fareydunshahr|Isfahan|0|
+35.7645|59.7242|Farhadgerd|Razavi Khorasan|0|
+36.6236|52.5419|Farim|Mazandaran|0|
+35.7000|59.8333|Fariman|Razavi Khorasan|0|
+34.5057|49.6697|Farmahin|Markazi|0|
+37.1874|57.5359|Farooj|North Khorasan|0|
+33.8420|54.9438|Farrokhi|Isfahan|0|
+32.2717|50.9801|Farrokh Shahr|Chaharmahal and Bakhtiari|32391|
+28.8601|52.0945|Farrāshband|Fars|20320|
+32.2569|50.5609|Farsan|Chaharmahal and Bakhtiari|30504|Fārsān
+34.2442|48.1192|Farsban|Hamadan|0|
+37.2167|58.2167|Faruj|North Khorasan|0|
+34.2269|48.9011|Farvaz|Hamadan|0|
+28.2000|57.2167|Faryab|Kerman|0|
+34.5231|48.3325|Faryazan|Hamadan|0|
+28.9667|53.7667|Fasa|Fars|0|
+35.9317|51.5113|Fasham|Tehran|6945|
+34.8367|48.3047|Fasijan|Hamadan|0|
+28.9383|53.6482|Fasā|Fars|98061|
+32.4239|47.8100|FatholMobin|Khuzestan|0|
+36.8941|54.7310|Fazelabad|Golestan|0|
+35.5973|51.0240|Ferdosiye|Tehran|0|
+34.0194|58.1541|Ferdows|South Khorasan|28965|
+35.6011|51.0645|Ferdowsīyeh|Tehran|34221|
+33.1000|50.2667|Fereydan|Isfahan|0|
+36.6864|52.5226|Fereydunkenar|Mazandaran|0|
+32.9372|50.1203|Fereydun Shahr|Isfahan|0|
+36.6849|52.5192|Fereydūn Kenār|Māzandarān|34097|
+35.5146|51.6101|Ferunabad|Tehran|0|
+35.5156|51.6232|Ferūnābād|Tehran|21682|
+35.0182|58.7629|Feyz Abad|Razavi Khorasan|0|
+34.1311|48.3964|Fiazaman|Hamadan|0|
+27.6329|55.8819|Fin|Hormozgan|0|
+33.8986|48.0990|Firouz Abad|Lorestan|0|
+36.2829|58.5677|Firouzeh|Razavi Khorasan|0|
+38.5806|44.8404|Firuraq|West Azarbaijan|0|
+28.8438|52.5707|Firuzabad|Fars|0|
+34.3469|48.0964|Firuzabad-e Sofla|Hamadan|0|
+34.2786|48.2400|Firuzan|Hamadan|0|
+36.3000|58.4167|Firuzeh|Razavi Khorasan|0|
+35.7285|52.7416|Firuzkuh|Tehran|0|
+32.5255|51.2963|Fooladshahr|Isfahan|0|
+37.1667|49.1833|Fuman|Gilan|0|
+36.8980|54.7496|Fāẕelābād|Golestan|19461|
+35.7567|52.7706|Fīrūzkūh|Tehran|17453|
+28.8446|52.5715|Fīrūzābād|Fars|65417|
+32.4866|51.3967|Fūlād Shahr|Isfahan|88426|
+37.2240|49.3125|Fūman|Gilan|35841|
+30.3333|50.7500|Gachsaran|Kohgiluyeh and Boyer-Ahmad|0|
+32.0080|50.8772|Gahru|Chaharmahal and Bakhtiari|0|
+34.3442|46.4110|Gahvareh|Kermanshah|0|
+27.6574|52.6298|Galehdar|Fars|0|
+37.3000|55.6500|Galikesh|Golestan|0|
+36.7167|53.8667|Galugah|Mazandaran|0|
+36.7273|53.8089|Galūgāh|Māzandarān|21352|
+34.2303|49.0875|Gamasa|Hamadan|0|
+34.0400|48.4650|Gamasb|Hamadan|1081|
+31.8635|51.1371|Gandoman|Chaharmahal and Bakhtiari|0|
+34.4528|48.9872|Ganjab|Hamadan|0|
+34.9333|48.4636|Ganj Tappeh|Hamadan|0|
+33.4852|48.4880|Garab|Lorestan|0|
+30.9472|50.8878|Garab-e Sofla|Kohgiluyeh and Boyer-Ahmad|0|
+35.8490|48.1900|Garmaab|Zanjan|0|
+35.7537|51.0471|Garmdareh|Alborz|0|
+35.7480|51.0686|Garmdarreh|Alborz|22726|
+36.9881|56.2640|Garmeh|North Khorasan|0|
+34.9636|52.2127|Garmsar|Semnan|0|
+35.2182|52.3409|Garmsār|Semnan|48672|
+34.6606|48.3914|Gashani|Hamadan|0|
+36.4299|52.6479|Gatab|Mazandaran|0|
+34.4869|48.1200|Gavkaran|Hamadan|0|
+35.2292|48.3053|Gav Zaban|Hamadan|0|
+35.9031|52.2181|Gazanak|Mazandaran|319|
+32.8022|51.6211|Gazborkhar|Isfahan|0|
+32.8048|51.6209|Gaz-e Borkhar|Isfahan|24433|
+32.9999|60.2118|Gazik|South Khorasan|0|
+29.6457|50.6470|Genaveh|Bushehr|0|
+27.6697|54.1359|Gerash|Fars|34469|Gerāsh
+36.8114|45.2476|Gerd Kashaneh|West Azarbaijan|0|
+39.0000|47.9500|Germi|Ardabil|0|
+39.0215|48.0801|Germī|Ardabil|28967|
+26.5886|57.0852|Gerouk|Hormozgan|0|
+36.1118|59.0480|Ghadamgah|Razavi Khorasan|0|
+32.5689|51.4095|Ghahderijan|Isfahan|0|
+27.5244|57.8530|Ghalehganj|Kerman|0|
+31.6276|49.8602|Ghale Tol|Khuzestan|0|
+33.7407|51.4100|Ghamsar|Isfahan|0|
+28.9281|54.0509|Ghare Bolagh|Fars|0|
+35.1082|49.8218|Gharqabad|Markazi|0|
+33.7248|59.1432|Ghayen|South Khorasan|0|
+35.3322|48.9317|Ghazyatan|Hamadan|0|
+28.3364|52.6684|Ghirokarzin|Fars|0|
+33.1518|59.6969|Ghohestan|South Khorasan|0|
+35.6300|48.5258|Gholam Veys|Hamadan|0|
+33.6754|49.8754|Ghurchi Bashi|Markazi|0|
+34.1333|46.0000|Gilan Gharb|Kermanshah|0|
+34.2725|48.0811|Givaki|Hamadan|0|
+34.1781|48.2442|Giyan|Hamadan|0|
+37.7815|45.8983|Gogan|East Azerbaijan|0|
+36.5637|59.1391|Golbahar|Razavi Khorasan|0|
+36.5698|59.1904|Golbahār|Razavi Khorasan|36877|
+29.8849|57.7145|Golbāf|Kerman|0|
+34.1022|48.5986|Gol Darreh-ye Anuch|Hamadan|0|
+32.6217|51.4274|Goldasht|Isfahan|25235|
+35.5207|51.1702|Golestan|Tehran|0|
+35.5183|51.1819|Golestān|Tehran|240000|
+31.9647|49.2856|Golgir|Khuzestan|0|
+34.0625|48.4167|Gol Heydar|Hamadan|0|
+36.4825|59.1548|Golmakan|Razavi Khorasan|0|
+27.4814|59.4382|Golmorti|Sistan and Baluchestan|0|
+34.1550|49.0578|Golparabad|Hamadan|0|
+33.4537|50.2884|Golpayegan|Isfahan|58936|Golpāyegān
+35.9078|50.7825|Golsar|Alborz|0|
+33.5060|50.4528|Golshahr|Isfahan|9904|
+31.9265|51.7228|Golshan|Isfahan|0|
+34.4000|48.6833|Golshir|Hamadan|0|
+35.2208|48.1960|Gol Tappeh|Hamadan|2237|
+34.3661|48.7900|Golushjerd|Hamadan|0|
+29.7054|57.0246|Golzar|Kerman|0|
+37.1500|54.1500|Gomishan|Golestan|0|
+37.0717|54.0767|Gomish Tepe|Golestan|0|
+34.9319|48.2897|Gomush Bolagh|Hamadan|0|
+37.0718|54.0765|Gomīshān|Golestan|19191|
+34.3529|58.6837|Gonabad|Razavi Khorasan|43465|Gonābād
+34.8683|48.8314|Gonbad Chay|Hamadan|0|
+34.2172|48.1478|Gonbad-e Kabud|Hamadan|0|
+37.2500|55.1672|Gonbad Kavus|Golestan|151910|Gonbad-e Kāvūs
+28.7148|58.8433|Gonbaki|Kerman|0|
+33.4764|50.3442|Googad|Isfahan|0|
+32.8663|51.5888|Gorgab|Isfahan|0|
+36.8427|54.4439|Gorgan|Golestan|244937|Gorgān
+36.3564|59.6600|Gorjī-ye Soflá|Razavi Khorasan|15163|
+27.7843|61.9271|Gosht|Sistan and Baluchestan|0|
+35.4639|48.8764|Gostar|Hamadan|0|
+32.2167|48.8000|Gotvand|Khuzestan|24216|
+26.5962|57.8871|Gouharan|Hormozgan|0|
+34.5079|48.0748|Gowdin|Kermanshah|0|
+35.3217|48.2386|Gozal Abdal|Hamadan|0|
+35.6875|48.0253|Gug Qash|Hamadan|0|
+34.5408|48.8403|Gujak|Hamadan|0|
+32.2456|50.5405|Gujan|Chaharmahal and Bakhtiari|0|
+34.3808|48.9753|Gulvand|Hamadan|0|
+34.0303|48.9183|Gunestan|Hamadan|0|
+37.2983|49.2051|Gurab Zarmikh|Gilan|0|
+34.9333|48.7911|Gur Gaz|Hamadan|0|
+31.8569|48.7567|Guriyeh|Khuzestan|0|
+34.1858|48.4056|Gurjiu|Hamadan|0|
+34.8350|48.3225|Gushalan|Hamadan|0|
+34.1553|48.9594|Gusheh-ye Kasavand|Hamadan|0|
+37.2726|55.4339|Gālīkesh|Golestan|23394|
+32.3929|50.5665|Haarooni|Chaharmahal and Bakhtiari|0|
+32.8312|51.7660|Habibabad|Isfahan|0|
+36.6823|51.3407|Hachiroud|Mazandaran|0|
+38.8283|45.6218|Hadishahr|East Azerbaijan|0|
+32.2256|50.7939|Hafshejan|Chaharmahal and Bakhtiari|0|
+32.2266|50.7931|Hafshejān|Chaharmahal and Bakhtiari|21352|
+34.2073|47.7610|Haft Cheshmeh|Lorestan|0|
+31.4549|49.5087|Haftkel|Khuzestan|15802|
+29.6554|52.3115|HajiAbad|Fars|0|
+28.3135|55.8962|Haji Abad|Hormozgan|0|
+33.6033|59.9904|Hajiabad|South Khorasan|0|
+28.3333|55.8333|Hajjiabad|Hormozgan|0|
+34.1272|48.7483|Hajji Kheder|Hamadan|0|
+34.9697|48.8797|Hajji Maqsud|Hamadan|0|
+34.4508|48.3536|Hajji Tu|Hamadan|0|
+36.2955|48.0592|Halab|Zanjan|0|
+34.1099|47.0871|Halashi|Kermanshah|0|
+34.8000|48.5167|Hamadan|Hamadan|0|
+34.7992|48.5146|Hamadān|Hamadan|528256|
+30.1117|52.0828|Hamashahr|Fars|0|
+34.8123|48.4400|Hamedan|Hamadan|0|
+31.8282|54.3788|Hamidia|Yazd|0|
+31.4811|48.4330|Hamidiyeh|Khuzestan|0|
+33.9373|46.7658|Hamil|Kermanshah|0|
+34.4025|48.4608|Hamilabad|Hamadan|0|
+30.9369|61.3369|Hamoon|Sistan and Baluchestan|0|
+34.0578|49.0778|Hamzehlu-ye Sofla|Hamadan|0|
+31.1974|51.7140|Hanna|Isfahan|0|
+29.2985|57.1798|Hanza|Kerman|0|
+32.3932|48.5737|Hanzeh|Khuzestan|0|
+34.2817|48.7825|Haramabad|Hamadan|0|
+32.5749|52.3994|Harand|Isfahan|0|
+30.0501|54.3511|Harat|Yazd|0|
+34.2721|47.5861|Harsin|Kermanshah|57647|Harsīn
+30.5202|52.4516|HasanAbad|Fars|0|
+35.3695|51.2215|Hasanabad|Tehran|0|
+34.9503|48.0508|Hasanabad-e Emam|Hamadan|0|
+34.4236|48.6544|Hasanabad-e Qush Bolagh|Hamadan|0|
+34.8425|48.5492|Hasanabad-e Sheverin|Hamadan|0|
+36.2838|47.7375|Hasanabad Yasukand|Kurdistan|0|
+34.2483|48.5753|Hasan Kusej|Hamadan|0|
+35.3758|48.3636|Hasan Teymur|Hamadan|0|
+37.3698|48.3133|Hashjin|Ardabil|0|
+27.1459|57.4333|Hasht Bandi|Hormozgan|0|
+35.9619|50.6800|Hashtgerd|Alborz|55640|
+35.9833|50.6852|Hashtgerd New City|Alborz|0|
+37.7966|48.9052|Hashtpar|Gilan|45305|
+37.4775|47.0370|Hashtrood|East Azerbaijan|0|
+37.4779|47.0508|Hashtrud|East Azerbaijan|20572|Hashtrūd
+32.1393|52.6213|Hassan Abad|Isfahan|0|
+38.1475|48.8922|Haviq|Gilan|0|
+36.2979|58.4577|Hemmatabad|Razavi Khorasan|0|
+30.3333|49.6000|Hendijan|Khuzestan|0|
+33.7810|49.2266|Hendoudar|Markazi|0|
+30.2363|49.7119|Hendījān|Khuzestan|29015|
+34.2053|48.7431|Heriraz|Hamadan|0|
+38.2306|46.8401|Heris|East Azerbaijan|0|
+29.9698|53.8668|Hesami|Fars|0|
+37.5194|57.4825|Hesar-e Garmkhan|North Khorasan|0|
+34.8225|48.2686|Hesar-e Qarah Baghi|Hamadan|0|
+35.2386|48.5597|Hesar-e Qujeh Baghi|Hamadan|0|
+34.8206|48.3469|Heydareh-ye Dar-e Emam|Hamadan|0|
+34.8025|48.4575|Heydareh-ye Posht-e Shahr|Hamadan|0|
+36.2551|49.1213|Hidaj|Zanjan|0|
+27.0042|62.1067|Hidouj|Sistan and Baluchestan|0|
+38.0795|48.4894|Hir|Ardabil|0|
+31.2500|61.6167|Hirmand|Sistan and Baluchestan|0|
+34.9300|49.1433|Hizaj|Hamadan|0|
+30.7581|56.9875|Hojedk|Kerman|0|
+34.6800|48.1347|Holvar-e Sofla|Hamadan|0|
+29.6445|55.8027|Homashahr|Kerman|0|
+34.3147|48.0100|Hom-e Khosrow|Hamadan|0|
+34.3911|48.3603|Horhoreh|Hamadan|0|
+27.0950|56.4528|Hormuz|Hormozgan|0|
+32.1447|48.3925|Horr|Khuzestan|0|
+34.8675|48.3683|Hoseynabad-e Bahar|Hamadan|0|
+34.2953|48.6042|Hoseynabad-e Nazem|Hamadan|0|
+34.4461|48.6206|Hoseynabad-e Shamlu|Hamadan|0|
+32.6767|48.2369|Hoseyniye|Khuzestan|0|
+32.0585|48.2946|Hosseinabad|Khuzestan|0|
+31.4655|48.0614|Hoveyzeh|Khuzestan|19481|
+34.7336|48.1619|Hudaraj|Hamadan|0|
+38.8592|47.3686|Hurand|East Azerbaijan|0|
+38.8479|45.6623|Hādīshahr|East Azerbaijan|34346|
+36.3333|48.2500|Ijrud|Zanjan|0|
+33.6374|46.4227|Ilam|Ilam|140940|Īlām
+37.9375|45.9433|Ilkhichi|East Azerbaijan|0|
+32.2278|48.4162|Imam|Khuzestan|0|
+29.8425|50.2631|Imam Hassan|Bushehr|0|
+32.4839|51.4349|Imanshahr|Isfahan|14633|
+37.4542|54.7154|Incheboron|Golestan|0|
+34.2431|48.5975|Iraneh|Hamadan|0|
+27.2024|60.6848|Iranshahr|Sistan and Baluchestan|131232|
+32.6525|51.6746|Isfahan|Isfahan|1547164|
+35.6950|48.2661|Isti Bolagh|Hamadan|0|
+36.9699|56.2547|Ivar|North Khorasan|0|
+31.5164|52.1161|IzadKhast|Fars|0|
+36.5944|52.1199|Izadshahr|Mazandaran|0|
+31.9167|49.9833|Izeh|Khuzestan|0|
+39.4221|48.0789|Jafarabad|Ardabil|0|
+34.7745|50.5065|Jafarie|Qom|0|
+28.5306|53.5185|Jahrom|Fars|141634|
+37.0167|56.6833|Jajarm|North Khorasan|0|
+27.8157|52.3100|Jam|Bushehr|31436|
+35.2458|48.9767|Jamishlu|Hamadan|0|
+27.0276|54.2713|Janah|Hormozgan|0|
+34.0426|54.4051|Jandaq|Isfahan|0|
+34.7075|59.2064|Jangal|Razavi Khorasan|0|
+32.1852|48.8046|Jannat Makan|Khuzestan|0|
+28.6540|54.6704|JannatShahr|Fars|13598|
+34.3517|48.4686|Jaria|Hamadan|0|
+25.8833|58.2000|Jask|Hormozgan|16680|
+35.2102|51.6728|Javadabad|Tehran|0|
+37.4971|45.9719|Javan Qala|East Azerbaijan|0|
+34.7961|46.5172|Javanrud|Kermanshah|0|
+35.2858|49.2214|Javar Sajin|Hamadan|0|
+34.2555|49.3182|Javarseyan|Markazi|0|
+34.8067|46.4913|Javānrūd|Kermanshah|54354|
+30.8743|49.8362|Jayezan|Khuzestan|0|
+28.9070|57.8823|Jebalbarez|Kerman|0|
+36.8513|54.5279|Jelin|Golestan|0|
+35.5864|48.9292|Jerbanlu|Hamadan|0|
+35.2003|48.4939|Jighi|Hamadan|0|
+34.4811|48.5069|Jijan Kuh|Hamadan|0|
+34.3564|48.6086|Jijian Rud|Hamadan|0|
+35.3456|48.4325|Jin Taraqayah|Hamadan|0|
+36.7005|49.7802|Jirindih|Gilan|0|
+28.8333|57.5833|Jiroft|Kerman|0|
+36.6667|57.0333|Joghatay|Razavi Khorasan|0|
+38.8334|45.9168|Jolfa|East Azerbaijan|0|
+31.2558|48.6167|Jongiyeh|Khuzestan|0|
+33.5560|51.1353|Josheqaneqali|Isfahan|0|
+30.0561|57.0981|Joupar|Kerman|0|
+36.5833|57.5167|Joveyn|Razavi Khorasan|0|
+34.4303|48.6780|Jowkar|Hamadan|0|
+33.6000|51.2333|Jowsheqan va Kamu|Isfahan|0|
+30.5130|55.0226|Jowzam|Kerman|0|
+32.5560|51.3570|Jowzdan|Isfahan|0|
+32.1530|50.6779|Junqan|Chaharmahal and Bakhtiari|0|
+34.8847|48.5544|Juraqan|Hamadan|0|
+36.6412|52.9124|Juybar|Mazandaran|0|
+28.2589|53.9602|Juyom|Fars|0|
+36.9501|56.3800|Jājarm|North Khorasan|19580|
+27.5966|62.6828|Jālq|Sistan and Baluchestan|18098|
+28.6781|57.7406|Jīroft|Kerman|130429|
+36.6409|52.9121|Jūybār|Māzandarān|32924|
+35.2083|48.7239|Kaboodrahang|Hamadan|0|
+35.2094|48.7068|Kabudrahang|Hamadan|0|
+35.2092|48.7234|Kabūdarāhang|Hamadan|19216|
+35.5874|58.8747|Kadkan|Razavi Khorasan|0|
+34.3920|50.8546|Kahak|Qom|4837|
+35.2856|49.0053|Kahard|Hamadan|0|
+34.1439|48.6581|Kahkadan|Hamadan|0|
+27.9793|57.6659|Kahnooj|Kerman|0|
+27.9000|57.6167|Kahnuj|Kerman|0|
+27.9403|57.6998|Kahnūj|Kerman|52624|
+34.3838|47.0553|Kahriz|Kermanshah|0|
+35.5168|51.3508|Kahrizak|Tehran|0|
+35.5339|47.9403|Kahriz-e Baba Hoseyn|Hamadan|0|
+35.5114|48.8183|Kahriz-e Boqazi|Hamadan|0|
+34.3189|48.6278|Kahriz-e Hoseynabad-e Nazem|Hamadan|0|
+34.3350|48.1461|Kahriz-e Jamal|Hamadan|0|
+34.3289|48.1622|Kahriz-e Salim|Hamadan|0|
+32.6325|51.4681|Kahrizsang|Isfahan|0|
+35.3465|51.8442|Kahrīzak|Tehran|37527|
+32.0587|50.5782|Kaj|Chaharmahal and Bakhtiari|0|
+34.1446|58.6361|Kakhk|Razavi Khorasan|0|
+28.3416|51.5063|Kaki|Bushehr|0|
+37.3790|55.4930|Kalaleh|Golestan|33700|Kalāleh
+28.9405|51.4518|Kalameh|Bushehr|2463|
+36.4500|51.1167|Kalar Dasht|Mazandaran|0|
+36.9000|59.9000|Kalat|Razavi Khorasan|0|
+35.3669|48.3958|Kalb Hesari|Hamadan|0|
+38.8667|47.0245|Kaleybar|East Azerbaijan|0|
+31.3958|50.8358|Kal Geh-ye Sardasht|Chaharmahal and Bakhtiari|0|
+34.3392|48.5447|Kalilabad|Hamadan|0|
+35.4808|48.8528|Kal Kabud|Hamadan|0|
+36.6420|52.6105|Kalleh Bast|Mazandaran|7889|
+36.3555|54.1363|Kalāteh|Semnan|0|
+36.6724|55.2909|kalāte Khij|Semnan|0|
+34.8875|47.9686|Kamak-e Sofla|Hamadan|0|
+35.8824|50.8434|Kamalshahr|Alborz|0|
+34.1750|48.6350|Kamar Boneh|Hamadan|0|
+34.1508|48.9533|Kamazan|Hamadan|0|
+30.3231|52.1840|Kamfiruz|Fars|0|
+34.7956|46.9355|Kamyaran|Kurdistan|0|
+35.8619|50.8742|Kamālshahr|Alborz|141669|
+35.4300|48.3228|Kand-e Bolaghi|Hamadan|0|
+34.5011|48.7819|Kand Halan|Hamadan|0|
+35.2014|48.3056|Kand Tappeh|Hamadan|0|
+27.7133|52.2686|Kangan|Bushehr|0|
+34.5043|47.9653|Kangavar|Kermanshah|51352|Kangāvar
+34.3419|47.9761|Kangavar-e Kohneh|Hamadan|0|
+35.4632|46.2075|Kani Dinar|Kurdistan|0|
+36.2148|46.8119|Kani Sur|Kurdistan|0|
+35.3633|49.2989|Karafs|Hamadan|0|
+34.0609|49.6446|Karahrūd|Markazi|29721|
+35.8327|50.9915|Karaj|Alborz|1448075|
+36.0449|48.4992|Karasf|Zanjan|0|
+34.0994|49.9286|Karchan|Markazi|0|
+34.8150|60.8064|Kariz|Razavi Khorasan|0|
+34.1694|48.2914|Kark-e Sofla|Hamadan|0|
+32.3423|51.4375|Karkevand|Isfahan|7058|
+34.3136|48.6492|Kartilabad|Hamadan|0|
+31.2762|48.6417|Karun|Khuzestan|0|
+28.4332|53.1239|Karzin|Fars|0|
+34.1522|48.9697|Kasavand|Hamadan|0|
+33.8833|51.2833|Kashan|Isfahan|304487|
+35.2383|58.4656|Kashmar|Razavi Khorasan|131517|Kāshmar
+35.1939|48.1861|Kaslan Qayah|Hamadan|0|
+36.8888|50.6964|Katālem va Sādāt Shahr|Māzandarān|20716|
+34.6639|47.8969|Kavanaj|Hamadan|0|
+29.2167|52.7333|Kavar|Fars|0|
+29.2050|52.6904|Kavār|Fars|31711|
+30.5669|56.8369|Kazem Abad|Kerman|0|
+29.6192|51.6535|Kazerun|Fars|112360|Kāzerūn
+37.0771|50.3803|Kelachay|Gilan|0|
+36.6874|51.2306|Kelarabad|Mazandaran|0|
+36.4931|51.1190|Kelardasht|Mazandaran|0|
+32.5519|51.5216|Kelishad and Soderjaan|Isfahan|0|
+32.5512|51.5276|Kelishad va Sudarjan|Isfahan|25635|Kelīshād va Sūdarjān
+38.1025|46.9848|Kelvanaq|East Azerbaijan|0|
+34.2780|46.2267|Kerend-e Gharb|Kermanshah|0|
+30.2832|57.0788|Kerman|Kerman|577514|
+34.3142|47.0650|Kermanshah|Kermanshah|621100|
+34.4142|48.7225|Kesb|Hamadan|0|
+36.8349|46.3501|Keshavarz|West Azarbaijan|0|
+36.8766|50.7074|Ketalem and Sadat Shahr|Mazandaran|0|
+34.1150|48.9392|Keykaleh|Hamadan|0|
+34.8258|47.8864|Keyni Sayeh|Hamadan|0|
+35.3633|48.2767|Khabar Arkhi|Hamadan|0|
+35.5426|51.1481|Khabarābād|Tehran|17267|
+34.5699|60.0988|Khaf|Razavi Khorasan|0|
+38.1528|46.5824|Khaje|East Azerbaijan|0|
+29.2725|55.8266|Khajoo Shahr|Kerman|0|
+36.1300|50.1671|Khakali|Qazvin|0|
+34.7264|48.5364|Khaku|Hamadan|0|
+33.7007|51.9829|Khaled Abad|Isfahan|0|
+35.4108|48.1811|Khaleq Verdi|Hamadan|0|
+36.5068|45.7909|Khalifan|West Azarbaijan|0|
+35.2537|58.2792|Khalil Abad|Razavi Khorasan|0|
+34.9781|48.2531|Khalil Kord|Hamadan|0|
+36.6989|53.6232|Khalil Shahr|Mazandaran|0|
+37.4060|48.5447|Khalkhal|Ardabil|0|
+37.6184|48.5293|Khalkhāl|Ardabil|51024|
+38.1852|45.6131|Khamaneh|East Azerbaijan|0|
+27.2667|55.5500|Khamir|Hormozgan|0|
+29.6700|52.1433|KhaneZenian|Fars|0|
+30.3492|52.2417|Khaniman|Fars|0|
+30.7156|56.7533|Khanook|Kerman|0|
+33.2675|50.2487|Khansar|Isfahan|0|
+37.3098|46.5217|Kharajoo|East Azerbaijan|0|
+29.5004|53.3011|Kharameh|Fars|0|
+29.2406|50.2742|Kharg|Bushehr|0|
+29.2614|50.3306|Khark|Bushehr|0|
+36.1520|58.9841|Kharv|Razavi Khorasan|0|
+38.6856|46.1599|Kharvana|East Azerbaijan|0|
+28.2211|61.2158|Khash|Sistan and Baluchestan|69603|Khāsh
+30.3833|54.2000|Khatam|Yazd|0|
+30.0095|55.4127|KhatonAbad|Kerman|0|
+28.9368|53.3120|Khavaran|Fars|0|
+32.3061|53.6744|Khavas Kuh|Yazd|0|
+34.7585|49.5224|Khenejin|Markazi|0|
+34.6258|48.9314|Kheradmand|Hamadan|0|
+29.5000|53.2500|Kherameh|Fars|0|
+29.4990|53.3120|Kherāmeh|Fars|18477|
+27.2335|53.4307|Khesht|Fars|0|
+34.2022|48.4014|Kheyr Qoli|Hamadan|0|
+31.8705|53.9464|Khezrabad|Yazd|0|
+34.0211|58.8078|Khezri Dashtebayaz|South Khorasan|0|
+39.0667|46.9500|Khoda Afarin|East Azerbaijan|0|
+36.0000|48.5000|Khodabandeh|Zanjan|0|
+37.3875|49.6395|Khomam|Gilan|0|
+39.1546|47.0248|Khomarlu|East Azerbaijan|0|
+33.6371|50.0343|Khomein|Markazi|0|
+35.3697|49.0233|Khomeygan|Hamadan|0|
+33.6389|50.0800|Khomeyn|Markazi|77425|
+32.6856|51.5361|Khomeyni Shahr|Isfahan|277334|Khomeynī Shahr
+37.3902|49.6585|Khomām|Gilan|20897|
+34.3667|49.1833|Khondab|Markazi|0|
+27.8876|53.4116|Khonj|Fars|19217|
+30.0092|51.5666|Khoome Zar|Fars|0|
+27.4461|52.9608|Khoozi|Fars|0|
+28.6484|51.3510|Khormoj|Bushehr|0|
+33.4878|48.3558|Khorramabad|Lorestan|329825|
+36.7818|50.8605|Khorramabad|Mazandaran|0|
+30.5000|53.0833|Khorrambid|Fars|0|
+36.2333|49.2000|Khorramdarreh|Zanjan|50528|
+35.9280|49.5034|Khorramdasht|Qazvin|0|
+30.4408|48.1843|Khorramshahr|Khuzestan|330606|
+30.6167|48.6167|Khorusi-ye Jonubi|Khuzestan|0|
+32.7800|51.6254|Khorzugh|Isfahan|0|
+37.3748|49.7392|Khoshkebijar|Gilan|0|
+35.3953|50.3289|Khoshkrud|Markazi|0|
+36.3720|52.5575|Khoshroud Pey|Mazandaran|0|
+37.9633|46.0150|Khosrowshah|East Azerbaijan|0|
+37.9497|46.0528|Khosrowshahr|East Azerbaijan|21972|
+27.6419|54.3375|Khour|Fars|0|
+32.7780|51.6469|Khowrzūq|Isfahan|29154|
+36.4333|58.0667|Khowshab|Razavi Khorasan|0|
+38.5503|44.9521|Khowy|West Azarbaijan|198845|Khūy
+38.5485|44.9166|Khoy|West Azarbaijan|0|
+33.7751|55.0833|Khur|Isfahan|0|
+30.1548|55.0778|Khursand|Kerman|0|
+32.1833|58.7667|Khusf|South Khorasan|0|
+34.5000|60.0000|Khvaf|Razavi Khorasan|0|
+35.0000|49.3392|Khvajeh Hesar|Hamadan|0|
+34.1550|48.3786|Khvajeh Hoseyni|Hamadan|0|
+35.3619|48.3850|Khvajeh Kandi|Hamadan|0|
+33.2205|50.3150|Khvansar|Isfahan|21883|Khānsār
+35.0178|48.3575|Khvoshab-e Sofla|Hamadan|0|
+34.5723|60.1440|Khvāf|Razavi Khorasan|33189|
+37.0095|54.9796|Khānbebin|Golestan|0|
+28.6543|51.3800|Khūrmūj|Bushehr|40722|
+36.5834|52.7990|Kia Kola|Mazandaran|0|
+31.1344|56.3981|Kian Shahr|Kerman|0|
+32.0000|50.7667|Kiar|Chaharmahal and Bakhtiari|0|
+36.2402|53.5325|Kiasar|Mazandaran|0|
+37.4168|49.9293|Kiashahr|Gilan|0|
+35.5527|52.1162|Kilan|Tehran|0|
+26.5578|54.0194|Kish|Hormozgan|39853|Kīsh
+35.3197|48.1533|Kitu|Hamadan|0|
+37.6931|48.3208|Kivi|Ardabil|0|
+35.2213|52.5107|Kohanabad|Semnan|0|
+31.0333|50.4500|Kohgiluyeh|Kohgiluyeh and Boyer-Ahmad|0|
+34.7258|48.2778|Kohnush|Hamadan|0|
+36.3823|51.7240|Kojur|Mazandaran|0|
+34.5944|48.3925|Kolanjan|Hamadan|0|
+37.3885|48.7167|Kolor|Ardabil|0|
+31.0632|51.5846|Komeh|Isfahan|0|
+34.7214|49.3265|Komijan|Markazi|0|
+32.9066|51.8018|Komshecheh|Isfahan|0|
+25.5500|59.8500|Konarak|Sistan and Baluchestan|0|
+29.5251|51.3734|Konartakhteh|Fars|0|
+28.0780|51.7425|Konar Torshan|Bushehr|0|
+35.2120|58.1424|Kondor|Razavi Khorasan|6460|
+34.7922|48.6297|Konjineh|Hamadan|0|
+25.3604|60.3995|Konārak|Sistan and Baluchestan|43258|
+35.9624|50.7758|Koohsar|Alborz|0|
+32.6387|51.4909|Kooshk|Isfahan|0|
+38.1932|45.5433|Koozehkonan|East Azerbaijan|0|
+30.3350|51.2785|Kopen|Fars|0|
+34.7672|48.6528|Kord Bolagh|Hamadan|0|
+36.6833|54.2000|Kordkuy|Golestan|0|
+36.7931|54.1121|Kord Kūy|Golestan|39881|
+30.0304|53.7088|Korei|Fars|0|
+34.5944|48.3536|Korzan|Hamadan|0|
+27.2501|52.8572|Koshkonar|Hormozgan|0|
+38.4596|45.5570|Koshksaray|East Azerbaijan|0|
+30.5290|55.6323|Koshkuiyeh|Kerman|0|
+29.2316|52.9532|Kouhenjan|Fars|0|
+26.8043|57.0189|Kouhestak|Hormozgan|0|
+36.3722|49.6494|Kouhin|Qazvin|0|
+30.0737|52.5882|Koushkak|Fars|0|
+37.7214|48.2698|Kowsar|Ardabil|0|
+34.6986|49.0114|Kowzareh|Hamadan|0|
+37.2784|49.7686|Kuchesfahan|Gilan|0|
+34.1539|48.4050|Kuhani|Hamadan|0|
+31.3833|56.3333|Kuhbanan|Kerman|0|
+33.5333|47.6100|Kuhdasht|Lorestan|89091|Kūhdasht
+36.6888|52.8985|Kuhi Khil|Mazandaran|0|
+32.7029|52.4222|Kuhpayeh|Isfahan|0|
+32.4167|50.0000|Kuhrang|Chaharmahal and Bakhtiari|0|
+29.2762|56.8014|Kuh Sefid|Kerman|0|
+37.1528|50.1769|Kumeleh|Gilan|0|
+33.4030|47.3164|Kunani|Lorestan|0|
+37.9550|48.2356|Kuraim|Ardabil|0|
+34.7172|48.7733|Kur Kahriz|Hamadan|0|
+34.4042|48.5881|Kusaj Khalil|Hamadan|0|
+31.2353|48.6428|Kut Abdollah|Khuzestan|0|
+34.3206|47.9539|Kutah Darreh|Hamadan|0|
+31.4614|48.3783|Kut-e Seyyed Naim|Khuzestan|0|
+34.4967|46.5968|Kuzaran|Kermanshah|0|
+34.7953|46.9368|Kāmyārān|Kurdistan|57077|
+34.0023|51.4388|Kāshān|Isfahan|304487|
+31.2392|48.6564|Kūt-e ‘Abdollāh|Khuzestan|56252|
+37.2167|50.0167|Lahijan|Gilan|0|
+38.5080|47.8221|Lahroud|Ardabil|0|
+35.5811|48.9542|Laleh Dan|Hamadan|0|
+29.5205|56.8075|Laleh zaar|Kerman|0|
+34.9744|48.4756|Lalejin|Hamadan|0|
+32.4167|49.1667|Lali|Khuzestan|0|
+27.3667|53.3833|Lamerd|Fars|29380|
+34.4628|48.1928|Lamiyan|Hamadan|0|
+30.9799|50.4247|Landeh|Kohgiluyeh and Boyer-Ahmad|12772|
+37.1955|50.1526|Langarud|Gilan|68148|Langarūd
+29.7996|52.6424|Lapouyee|Fars|0|
+27.6834|54.3417|Lar|Fars|62045|Lār
+27.7500|54.4500|Larestan|Fars|0|
+37.3602|49.8451|Lasht-e Nesha|Gilan|0|
+34.9894|48.5464|Latgah|Hamadan|0|
+27.6902|54.3771|Latifi|Fars|0|
+38.3077|48.8461|Lavandvil|Gilan|0|
+35.8233|51.6053|Lavasan|Tehran|0|
+34.2506|48.2742|Lavashan|Hamadan|0|
+35.8216|51.6444|Lavāsān|Tehran|18146|
+33.4568|50.6867|Laybid|Isfahan|0|
+37.0117|46.1952|Leilan|East Azerbaijan|0|
+27.0537|54.8364|Lemazan|Hormozgan|0|
+30.9778|50.4032|Lendeh|Kohgiluyeh and Boyer-Ahmad|0|
+32.3667|51.2000|Lenjan|Isfahan|0|
+34.2858|48.2103|Leyli Yadegar|Hamadan|0|
+30.8950|50.0931|Likak|Kohgiluyeh and Boyer-Ahmad|0|
+37.9581|48.8897|Lisar|Gilan|0|
+31.4333|50.8333|Lordegan|Chaharmahal and Bakhtiari|0|
+31.5134|50.8267|Lordegān|Chaharmahal and Bakhtiari|40528|
+36.1769|58.7250|Lotfabad|Razavi Khorasan|0|
+37.2575|49.8074|Louleman|Gilan|0|
+33.5679|46.8051|Loumar|Ilam|0|
+36.6322|49.4977|Lowshan|Gilan|0|
+37.6081|57.8575|Lujali|North Khorasan|0|
+34.3161|48.4542|Luluhar|Hamadan|0|
+37.2042|50.0092|Lāhījān|Gilan|101073|
+32.3298|49.0932|Lālī|Khuzestan|18473|
+30.8949|50.0931|Līkak|Kohgiluyeh and Boyer-Ahmad|19857|
+30.7184|51.5361|Madavan|Kohgiluyeh and Boyer-Ahmad|0|
+33.5289|52.2134|Mahabad|Isfahan|0|
+36.7667|45.7333|Mahabad|West Azarbaijan|0|
+33.9049|50.4411|Mahalat|Markazi|0|
+33.9167|50.4167|Mahallat|Markazi|0|
+30.0641|57.2560|Mahan|Kerman|0|
+34.1808|48.2097|Mahanabad|Hamadan|0|
+34.8761|48.8078|Mahbar|Hamadan|0|
+35.7204|50.7664|Mahdasht|Alborz|0|
+34.0833|48.8833|Mahdaviyeh|Hamadan|0|
+35.7073|53.2508|Mahdi Shahr|Semnan|21000|
+36.7141|46.4916|Mahmoodabad|West Azarbaijan|0|
+36.2923|49.8898|Mahmood Abad nemooneh|Qazvin|0|
+36.6000|52.3667|Mahmudabad|Mazandaran|0|
+36.6667|47.5667|Mahneshan|Zanjan|0|
+35.5025|49.0658|Mahnian|Hamadan|0|
+31.5843|54.4428|Mahriz|Yazd|34237|Mahrīz
+34.9833|58.7833|Mah Velat|Razavi Khorasan|0|
+36.7631|45.7222|Mahābād|West Azerbaijan|168393|
+34.0504|49.4350|Mahājerān|Markazi|20346|
+32.1954|51.4837|Majlesi|Isfahan|0|
+37.1956|49.1986|Maklavan|Gilan|0|
+39.4167|44.5834|Maku|West Azarbaijan|46581|
+27.8486|52.4230|Makū|Bushehr|46581|
+35.6659|50.9767|Malard|Tehran|56745|Malārd
+34.2942|48.8200|Malayer|Hamadan|0|
+37.1334|46.2167|Malekan|East Azerbaijan|0|
+34.9522|48.3150|Malek-e Ashtar|Hamadan|0|
+31.2917|51.2568|Mal-e Khalifeh|Chaharmahal and Bakhtiari|0|
+33.3000|46.5500|Malekshahi|Ilam|0|
+35.8164|50.8228|Malekābād|Alborz|15296|
+37.1426|46.1035|Malekān|East Azerbaijan|27431|
+34.3233|48.3300|Malusan|Hamadan|0|
+34.3016|48.8217|Malāyer|Hamadan|170237|
+37.8562|45.9275|Mamaqan|East Azerbaijan|0|
+30.0333|51.3833|Mamasani|Fars|0|
+33.3795|47.9518|Mamulan|Lorestan|0|
+35.3041|50.4804|Mamuniyeh|Markazi|0|
+37.7000|56.6000|Maneh va Samalqan|North Khorasan|0|
+34.6575|48.7086|Mangavi|Hamadan|0|
+36.7415|49.4161|Manjil|Gilan|17396|Pādegān-e Manjīl
+36.7445|49.4008|Manjīl|Gilan|15630|
+27.3682|57.2029|Manoojan|Kerman|0|
+34.9365|46.4521|Mansur-e Aqai|Kermanshah|0|
+30.6283|50.2985|Mansuriyeh|Khuzestan|0|
+27.3500|57.6167|Manujan|Kerman|0|
+31.9464|51.8713|Manzariyeh|Isfahan|0|
+27.3989|57.4972|Manūjān|Kerman|15634|
+37.3806|46.3937|Maragheh|East Azerbaijan|0|
+38.4329|45.7749|Marand|East Azerbaijan|124191|
+37.9042|55.9558|Maraveh|Golestan|0|
+37.8500|55.9167|Maraveh Tappeh|Golestan|0|
+28.3536|58.1500|Mardehak|Kerman|0|
+39.1431|44.9299|Marganlar|West Azarbaijan|0|
+30.9931|51.0690|Margoon|Kohgiluyeh and Boyer-Ahmad|0|
+35.5183|46.1830|Marivan|Kurdistan|136654|Marīvān
+37.2756|49.3628|Marjaghal|Gilan|6735|
+30.4786|54.2023|Marvast|Yazd|9379|
+30.0833|52.6667|Marvdasht|Fars|148858|
+34.1681|48.8869|Marvil|Hamadan|0|
+34.8308|48.4592|Maryanaj|Hamadan|0|
+36.4528|51.2851|Marzanabad|Mazandaran|0|
+36.3600|52.7300|Marzikola|Mazandaran|0|
+37.3921|46.2391|Marāgheh|East Azerbaijan|262604|
+35.8292|59.6332|Marāgheh|Razavi Khorasan|262604|
+37.3500|48.9833|Masal|Gilan|0|
+36.3156|59.5680|Mashhad|Razavi Khorasan|2307177|
+34.7957|60.4977|Mashhad Rizeh|Razavi Khorasan|0|
+34.1839|51.2571|Mashkat|Isfahan|5357|
+30.2409|51.5207|Masiri|Fars|0|
+35.5428|48.2633|Masjedin|Hamadan|0|
+31.9364|49.3039|Masjed Soleyman|Khuzestan|100497|Masjed Soleymān
+37.1570|48.9759|Masuleh|Gilan|0|
+36.6333|55.9500|Mayamey|Semnan|0|
+33.2279|46.9129|Maymeh|Ilam|0|
+28.0562|54.6503|Mazayejan|Fars|0|
+36.1564|60.5264|Mazdavand|Razavi Khorasan|0|
+32.9530|47.7810|Mazhin|Ilam|0|
+36.9539|54.8547|Mazraeh|Golestan|0|
+33.9111|50.4532|Maḩallāt|Markazi|43245|
+36.6319|52.2629|Maḩmūdābād|Māzandarān|31844|
+36.2897|49.9014|Maḩmūdābād Nemūneh|Qazvin|21982|
+35.9891|50.7451|Mehestan|Alborz|85200|
+33.4369|46.4611|Mehr|Ilam|1060|
+38.0815|47.1283|Mehraban|East Azerbaijan|0|
+33.1222|46.1646|Mehran|Ilam|0|
+31.0228|53.3564|Mehrdasht|Yazd|0|
+27.0500|61.5333|Mehrestan|Sistan and Baluchestan|0|
+31.5798|54.4067|Mehriz|Yazd|0|
+31.4847|50.8731|Menj|Chaharmahal and Bakhtiari|0|
+34.4481|48.2356|Menjan|Hamadan|0|
+38.4333|47.7500|Meshgin Shahr|Ardabil|0|
+38.3990|47.6820|Meshgīn Shahr|Ardabil|74109|
+29.4740|54.3287|Meshkan|Fars|0|
+35.7499|50.9438|Meshkīn Dasht|Tehran|62005|
+35.2722|49.1511|Mesinak|Hamadan|0|
+32.1833|53.9333|Meybod|Yazd|51874|
+28.8678|52.7359|Meymand|Fars|10120|
+33.4450|51.1635|Meymeh|Isfahan|0|
+34.8319|47.8553|Meyvaleh|Hamadan|506|
+36.9667|46.1096|Miandoab|West Azarbaijan|134425|Mīāndoāb
+36.5833|53.3000|Miandorud|Mazandaran|0|
+37.4167|47.7000|Mianeh|East Azerbaijan|0|
+32.1531|48.4312|Mianrood|Khuzestan|0|
+34.3122|48.5156|Mianzulan|Hamadan|0|
+31.3915|49.8397|Midavod|Khuzestan|0|
+35.1000|48.3081|Mihamleh-ye Sofla|Hamadan|0|
+34.0528|48.4797|Milab|Hamadan|0|
+34.6217|49.2005|Milajerd|Markazi|0|
+27.1310|57.0872|Minab|Hormozgan|97986|Mīnāb
+37.1167|55.4500|Minudasht|Golestan|0|
+30.3444|48.1849|Minushahr|Khuzestan|0|
+36.4059|45.3621|Mirabad|West Azarbaijan|0|
+29.0175|61.4505|Mirjaveh|Sistan and Baluchestan|0|
+35.1275|48.4594|Mirza Hesari|Hamadan|0|
+34.1575|48.9272|Mishen|Hamadan|0|
+34.5838|47.4415|Miyan Rahan|Kermanshah|0|
+28.7102|53.8515|Miyanshahr|Fars|5912|
+36.4481|50.4678|Moallem Kelayeh|Qazvin|0|
+37.1803|46.0507|Mobarak Abad|East Azerbaijan|0|
+28.3597|53.3283|Mobarakabad|Fars|0|
+32.3465|51.5045|Mobarakeh|Isfahan|0|
+35.0981|49.4242|Mobarakin|Hamadan|0|
+32.3461|51.5020|Mobārakeh|Isfahan|69449|
+35.0739|48.6167|Mohajeran|Hamadan|0|
+34.0493|49.4174|Mohajeran|Markazi|0|
+27.2021|60.5500|Mohamadan|Sistan and Baluchestan|0|
+32.3174|52.0917|Mohammad Abad|Isfahan|0|
+28.6284|59.1189|Mohammadabad|Kerman|0|
+34.2467|48.3044|Mohammadabad-e Chulak|Hamadan|0|
+27.3320|62.3878|Mohammadi|Sistan and Baluchestan|0|
+36.2226|50.1757|Mohammadiyeh|Qazvin|0|
+34.1461|48.3386|Mohammadiyeh-e Sofla|Hamadan|0|
+35.7447|50.8723|Mohammad Shahr|Alborz|0|
+35.7448|50.8723|Mohammad Shahr|South Khorasan|0|
+36.9835|45.5103|Mohammadyar|West Azarbaijan|0|
+30.8825|61.4572|Mohammadābād|Sistan and Baluchestan|0|
+34.5553|48.8686|Mohara|Hamadan|0|
+27.5552|52.8836|Mohr|Fars|7784|
+30.0840|57.1526|MohyAbad|Kerman|0|
+36.4792|54.6393|Mojen|Semnan|0|
+35.4723|51.7240|Mojtame‘-e Maskūnī-ye Nāmjū|Tehran|22990|
+34.6250|48.6978|Mokarrabi|Hamadan|0|
+34.8314|48.1453|Molham Darreh|Hamadan|0|
+35.9938|59.5646|Molkabad|Razavi Khorasan|0|
+35.6314|48.7389|Molla Bodagh|Hamadan|0|
+31.5859|48.8701|Mollasani|Khuzestan|0|
+33.5852|49.5017|Momen Abad|Lorestan|0|
+34.7203|47.9111|Monavvar Tappeh|Hamadan|0|
+30.4458|48.1708|Moqavemat|Khuzestan|0|
+38.7480|47.7402|Moradlu|Ardabil|0|
+35.1883|49.2828|Morghabad|Hamadan|0|
+35.6025|51.3496|Morteẕá Gerd|Tehran|15506|
+31.0106|49.4302|Moshrageh|Khuzestan|0|
+32.5187|47.3681|Mousiyan|Ilam|0|
+34.3325|48.4714|Mowdaran|Hamadan|0|
+35.7630|50.9171|Moḩammad Shahr|Alborz|119418|
+36.2237|50.1825|Moḩammadīyeh|Qazvin|90513|
+35.0582|47.1461|Muchesh|Kurdistan|0|
+32.7089|59.5168|Mud|South Khorasan|0|
+32.7255|47.6674|Murmuri|Ilam|0|
+34.5989|48.9411|Musa Bolaghi|Hamadan|0|
+30.7153|51.5413|Mādavān|Kohgiluyeh and Boyer-Ahmad|18078|
+35.7282|50.8134|Māhdāsht|Tehran|62910|
+30.0594|57.2920|Māhān|Kerman|19423|
+35.3045|50.4993|Māmūnīyeh|Markazi|21814|
+37.3631|49.1329|Māsāl|Gilan|17901|
+37.2302|55.3721|Mīnūdasht|Golestan|30085|
+37.4210|47.7150|Mīāneh|East Azerbaijan|106291|
+32.8615|53.0744|Naein|Isfahan|0|
+32.4231|50.7799|Nafch|Chaharmahal and Bakhtiari|0|
+31.9346|50.7204|Naghan|Chaharmahal and Bakhtiari|0|
+31.9340|51.3219|Naghneh|Chaharmahal and Bakhtiari|0|
+34.1494|48.9683|Nahandar|Hamadan|0|
+34.1883|48.3769|Nahavand|Hamadan|0|
+34.1909|48.3745|Nahāvand|Hamadan|76250|
+32.8601|53.0875|Nain|Isfahan|0|
+32.6344|51.3668|Najafabad|Isfahan|0|
+34.5550|48.3864|Najafiyeh|Hamadan|0|
+29.3974|55.7018|Najaf Shahr|Kerman|20164|
+32.6346|51.3653|Najafābād|Isfahan|235281|
+27.4975|52.5865|Nakhl-e Taqī|Bushehr|18837|
+27.5004|52.5763|Nakhl Taghi|Bushehr|0|
+34.3678|48.6569|Nakilabad|Hamadan|0|
+35.3881|49.2653|Nakin|Hamadan|0|
+36.9838|45.1396|Nalous|West Azarbaijan|0|
+34.2711|48.8200|Namileh|Hamadan|0|
+38.3833|48.5167|Namin|Ardabil|0|
+34.4200|48.7539|Nanaj|Hamadan|778|
+36.9553|45.3880|Naqadeh|West Azarbaijan|81598|
+34.0104|50.8315|Naragh|Markazi|0|
+35.9959|49.6105|Narjeh|Qazvin|5604|
+29.2667|58.7333|Narmashir|Kerman|0|
+36.7509|51.0236|Nashtarud|Mazandaran|0|
+34.4347|60.1598|Nashtifan|Razavi Khorasan|0|
+35.5639|51.1397|Nasimshahr|Tehran|200393|
+35.6102|51.1611|Nasir Abaad|Tehran|28644|
+35.4903|51.1323|Nasirshahr|Tehran|28644|
+32.2802|52.0529|Nasr Abad|Isfahan|0|
+35.4179|60.3057|Nasrabad|Razavi Khorasan|0|
+35.5650|51.1633|Nasīm Shahr|Tehran|200393|
+33.5112|51.9181|Natanz|Isfahan|43977|Naţanz
+35.9541|50.6061|Nazarabad|Alborz|213388|Naz̧arābād
+37.3474|46.7596|Nazarkahrizi|East Azerbaijan|0|
+39.0102|45.0509|Nazok-e Olya|West Azarbaijan|0|
+34.2283|48.7181|Nazul|Hamadan|0|
+29.8570|56.7940|Negar|Kerman|0|
+35.4758|48.5328|Negarabad|Hamadan|0|
+35.1186|48.9256|Negar Khatun|Hamadan|0|
+36.7029|57.3932|Neghab|Razavi Khorasan|0|
+37.1394|55.1576|Neginshahr|Golestan|0|
+25.3897|61.1330|Negour|Sistan and Baluchestan|0|
+31.5667|59.8167|Nehbandan|South Khorasan|0|
+31.5419|60.0365|Nehbandān|South Khorasan|18304|
+34.5411|48.7172|Nehenjeh|Hamadan|0|
+36.6508|53.2991|Neka|Mazandaran|60991|Nekā
+34.0769|48.4686|Nesar|Hamadan|0|
+34.6772|48.8669|Neshar|Hamadan|0|
+29.1988|54.3278|Neyriz|Fars|45506|Neyrīz
+36.2133|58.7957|Neyshabur|Razavi Khorasan|220929|Neyshābūr
+28.9161|58.5503|Nezamshahr|Kerman|0|
+33.9775|51.1412|Niasar|Isfahan|0|
+32.3038|52.1897|Nik Abad|Isfahan|0|
+36.8495|48.1733|Nik Pey|Zanjan|0|
+26.2258|60.2143|Nikshahr|Sistan and Baluchestan|17000|Nīkshahr
+35.1253|60.7658|Nil Shahr|Razavi Khorasan|0|
+33.9117|58.9236|Nimbolook|South Khorasan|0|
+31.1033|61.4160|Nimruz|Sistan and Baluchestan|0|
+33.8865|50.5631|Nimvar|Markazi|0|
+38.0000|48.0833|Nir|Ardabil|0|
+31.4823|54.1208|Nir|Yazd|0|
+35.3486|48.9172|Niyanj|Hamadan|0|
+28.8559|53.8150|No Bandegan|Fars|0|
+27.5319|57.4442|Nodej|Kerman|0|
+32.0301|53.5318|Nodoushan|Yazd|0|
+37.5184|58.9802|Nokhandan|Razavi Khorasan|0|
+37.7321|45.0383|Noshin|West Azarbaijan|0|
+29.8535|59.9576|Nosrat Abad|Sistan and Baluchestan|0|
+34.6922|48.0856|Nosratabad-e Behraz|Hamadan|0|
+34.6647|47.9628|Nosratabad-e Laklak|Hamadan|0|
+28.5407|60.7533|Noukābād|Sistan and Baluchestan|0|
+30.1135|51.5037|Nourabad|Fars|0|
+35.1312|49.7007|Nowbaran|Markazi|0|
+29.8012|51.6842|Nowdan|Fars|0|
+37.0745|55.2531|Nowdeh Khanduz|Golestan|0|
+35.1821|46.2496|Nowdeshah|Kermanshah|0|
+29.1185|51.9823|Nowjein|Fars|0|
+36.7405|53.8840|Nowkandeh|Golestan|6650|
+36.6485|51.4962|Nowshahr|Mazandaran|40000|
+35.1614|46.2001|Nowsud|Kermanshah|0|
+36.3167|51.9833|Nur|Mazandaran|0|
+30.1140|51.5217|Nurabad|Fars|57058|Nūrābād
+34.0734|47.9725|Nurabad|Lorestan|65547|Nūrābād
+34.8219|48.2928|Nurabad-e Simineh|Hamadan|0|
+35.9378|48.7947|Nurbahar|Zanjan|0|
+34.0796|51.4279|Nushabad|Isfahan|0|
+32.8600|53.0869|Nā’īn|Isfahan|27379|
+36.5717|52.0153|Nūr|Māzandarān|26947|
+35.6400|48.8458|Ojaq|Hamadan|0|
+38.2867|48.1414|Omidcheh|Ardabil|0|
+30.7628|49.7023|Omidiyeh|Khuzestan|67427|Omīdīyeh
+35.4361|48.9686|Ommatlar|Hamadan|2126|
+28.4584|56.3532|Orzueeyeh|Kerman|0|
+28.4667|56.5333|Orzuiyeh|Kerman|0|
+37.0358|45.0818|Oshnavieh|West Azarbaijan|0|
+37.0397|45.0983|Oshnaviyeh|West Azarbaijan|50661|Oshnavīyeh
+34.6381|48.2956|Oshtoran|Hamadan|0|
+34.0154|48.6343|Oshtorinan|Lorestan|0|
+34.7758|48.1722|Oshtorjin|Hamadan|0|
+37.9500|45.8834|Osku|East Azerbaijan|0|
+37.9150|46.1226|Oskū|East Azerbaijan|18459|
+37.1089|50.1127|Otaghvar|Gilan|0|
+35.2822|48.6911|Ovraqin|Hamadan|0|
+35.5477|51.1282|Ovrīn|Tehran|17577|
+35.5708|48.6292|Owrteh Qamish|Hamadan|0|
+35.2628|48.3725|Owryad|Hamadan|0|
+36.4289|53.1311|Paein Hoular|Mazandaran|0|
+33.0106|46.8793|Pahleh|Ilam|3870|
+34.8417|48.6147|Pahnabad|Hamadan|0|
+35.4945|51.7530|Pakdasht|Tehran|0|
+34.0653|48.4456|Panbeh Dar|Hamadan|0|
+35.4903|50.9182|Parand|Tehran|97464|
+35.3685|50.6772|Parandak|Markazi|6886|
+35.7417|51.7771|Pardis|Tehran|0|
+35.7469|51.8122|Pardīs|Tehran|114249|
+37.6017|49.0639|Paresar|Gilan|0|
+29.8788|55.7269|Pariz|Kerman|0|
+35.0656|48.2461|Parluk|Hamadan|0|
+39.6482|47.9174|Parsabad|Ardabil|102996|Pārsābād
+27.1667|53.2667|Parsian|Hormozgan|0|
+35.1558|48.7678|Parvaraq|Hamadan|0|
+30.2019|53.1800|Pasargad|Fars|29825|Pāsārgād
+30.9567|51.2648|Pataveh|Kohgiluyeh and Boyer-Ahmad|0|
+35.0434|46.3565|Paveh|Kermanshah|25771|Pāveh
+35.4419|48.8531|Payandeh|Hamadan|0|
+34.1297|48.8675|Peyhan|Hamadan|0|
+35.3839|48.8558|Pileh Jin|Hamadan|0|
+35.2425|48.5136|Pir Anbar|Hamadan|0|
+36.7010|45.1413|Piranshahr|West Azarbaijan|168393|
+35.5672|48.1389|Pir Badam|Hamadan|0|
+32.4675|51.5391|Pir Bakran|Isfahan|0|
+28.3145|54.3141|PirCity|Fars|0|
+34.3250|48.9286|Pir Khodaverdi|Hamadan|0|
+34.9122|48.0661|Pir Malu|Hamadan|0|
+34.3917|48.6661|Pir Mishan|Hamadan|0|
+34.1181|48.7786|Pir Savaran|Hamadan|0|
+35.7763|48.1117|Pir Taj|Kurdistan|0|
+34.1350|49.0453|Piruz|Hamadan|0|
+34.6889|47.8928|Pir Yusof|Hamadan|0|
+37.6501|56.9886|Pish Ghaleh|North Khorasan|0|
+26.0831|61.6856|Pishin|Sistan and Baluchestan|0|
+35.3080|51.7267|Pishva|Tehran|53856|Pīshvā
+39.3480|45.0710|Poldasht|West Azarbaijan|42170|
+33.1462|47.7015|Pol Dokhtar|Lorestan|26352|
+33.1667|48.0000|Pol-e Dokhtar|Lorestan|0|
+36.1153|53.0114|Pol Sefid|Mazandaran|0|
+32.2540|50.5908|Pordanjan|Chaharmahal and Bakhtiari|0|
+35.3142|49.0717|Poshtjin|Hamadan|0|
+36.3980|51.5794|Pul|Mazandaran|0|
+35.4785|51.6834|Pākdasht|Tehran|236319|
+27.2083|53.0361|Pārsiān|Hormozgan|18045|
+26.0794|61.7540|Pīshīn|Sistan and Baluchestan|16011|
+35.1983|49.1783|Qabanqoli|Hamadan|0|
+30.2783|53.2576|Qaderabad|Fars|0|
+35.4011|48.7300|Qader Khalaj|Hamadan|0|
+34.6519|48.7367|Qadimi|Hamadan|0|
+36.4833|52.9000|Qaem Shahr|Mazandaran|0|
+29.8509|51.5732|Qaemyeh|Fars|0|
+33.7265|59.1844|Qaen|South Khorasan|42323|Qā’en
+34.8603|49.0047|Qahavand|Hamadan|0|
+32.5767|51.4550|Qahderijan|Isfahan|0|
+32.5773|51.4537|Qahderījān|Isfahan|29392|
+32.7027|51.8280|Qahjavarestan|Isfahan|0|
+34.4353|48.9753|Qajar Ab-e Sofla|Hamadan|0|
+35.6005|59.9363|Qalandarabad|Razavi Khorasan|0|
+27.2000|58.3333|Qaleh Ganj|Kerman|0|
+27.4447|56.5478|Qaleh Qazi|Hormozgan|0|
+31.1900|50.4419|Qaleh Raisi|Kohgiluyeh and Boyer-Ahmad|0|
+32.2052|49.4498|Qaleh-ye Khvajeh|Khuzestan|0|
+34.6123|51.0137|Qanavat|Qom|0|
+35.1253|49.2822|Qarah Day|Hamadan|0|
+34.4403|48.9356|Qarah Tegini|Hamadan|0|
+38.8915|45.0255|Qarahziyaeddin|West Azarbaijan|26767|Qarah Ẕīā’ od Dīn
+35.5131|48.1775|Qaranqu Darreh|Hamadan|0|
+35.4287|51.5754|Qarchak|Tehran|251834|
+37.1286|46.9648|Qareh Aghaj|East Azerbaijan|0|
+36.8220|54.5922|Qarnabad|Golestan|0|
+38.3878|47.5383|Qasabeh|Ardabil|0|
+34.4200|48.1878|Qasabestan|Hamadan|0|
+35.9102|58.5759|Qasemabad|Razavi Khorasan|0|
+34.6753|47.9722|Qasemabad-e Laklak|Hamadan|0|
+26.2483|60.7525|Qasr-e-qand|Sistan and Baluchestan|37722|
+34.2000|45.6333|Qasr-e Shirin|Kermanshah|0|
+34.5156|45.5791|Qaşr-e Shīrīn|Kermanshah|18473|
+35.3753|48.9317|Qater Owlan|Hamadan|0|
+29.1458|54.6994|Qatruyeh|Fars|0|
+35.4961|48.8669|Qayesh|Hamadan|0|
+35.6619|48.0822|Qazan Qarah|Hamadan|0|
+37.8475|57.3118|Qazi|North Khorasan|0|
+34.7769|48.0142|Qazi Mardan|Hamadan|0|
+36.2688|50.0041|Qazvin|Qazvin|333635|
+34.1419|48.3625|Qeshlaq Baba Rostam|Hamadan|0|
+34.1161|48.5778|Qeshlaq-e Anuch|Hamadan|0|
+34.2439|48.3375|Qeshlaq-e Deh Ful|Hamadan|0|
+34.5000|48.5667|Qeshlaq-e Dehnow|Hamadan|0|
+34.0667|48.9167|Qeshlaq-e Mohammadi|Hamadan|0|
+34.3722|48.2450|Qeshlaq-e Najaf|Hamadan|0|
+34.4031|48.2164|Qeshlaq-e Pust Shuran|Hamadan|0|
+34.5878|48.8958|Qeshlaq-e Qobad|Hamadan|0|
+34.3839|48.9392|Qeshlaq-e Shirazi|Hamadan|0|
+34.7008|49.0697|Qeshlaq-e Sofla|Hamadan|0|
+34.3522|48.2242|Qeshlaq-e Valiollah|Hamadan|0|
+26.7833|55.8667|Qeshm|Hormozgan|25000|
+36.1223|48.5754|Qeydar|Zanjan|0|
+35.0150|48.2875|Qeydli Bolagh|Hamadan|0|
+34.3044|48.0608|Qilab|Hamadan|0|
+28.3167|52.9000|Qir va Karzin|Fars|0|
+35.7167|51.0667|Qods|Tehran|309605|
+35.4711|48.0594|Qohurd-e Sofla|Hamadan|0|
+34.5281|48.2597|Qoli Laleh-ye Sofla|Hamadan|0|
+35.1308|49.2908|Qolqolabad|Hamadan|0|
+34.6401|50.8764|Qom|Qom|900000|
+35.1664|47.8056|Qorveh|Kurdistan|87953|
+35.3126|49.0899|Qorveh-e Darjazin|Hamadan|0|
+28.6485|53.6114|QotbAbad|Fars|0|
+38.4654|44.3881|Qotur|West Azarbaijan|0|
+37.1060|58.5095|Quchan|Razavi Khorasan|111752|Qūchān
+34.9272|48.0261|Quch Tappeh|Hamadan|0|
+37.9896|45.0271|Qushchi|West Azarbaijan|0|
+35.6642|48.3056|Qushjeh|Hamadan|0|
+37.7466|57.7061|Qushkhaneh|North Khorasan|0|
+36.4667|52.8676|Qā’em Shahr|Māzandarān|204953|
+29.8518|51.5879|Qā’emīyeh|Fars|26918|
+36.1147|48.5911|Qīdar|Zanjan|34921|
+28.4825|53.0346|Qīr|Fars|20010|
+35.5237|51.6505|Qīāmdasht|Tehran|36446|
+36.2083|45.5500|Rabat|West Azarbaijan|0|
+29.2500|56.9833|Rabor|Kerman|0|
+30.4067|55.9939|Rafsanjan|Kerman|147680|Rafsanjān
+37.0287|50.3257|Rahimabad|Gilan|0|
+34.0886|48.5856|Rahmanabad Malayer|Hamadan|0|
+31.2800|49.6035|Ramhormoz|Khuzestan|74285|Rāmhormoz
+36.9333|55.0833|Ramian|Golestan|0|
+35.1597|48.8050|Ramishan|Hamadan|0|
+36.7667|50.5333|Ramsar|Mazandaran|0|
+30.8931|49.4079|Ramshir|Khuzestan|25009|Rāmshīr
+37.0523|50.2179|Ranekouh|Gilan|0|
+37.2761|49.5886|Rasht|Gilan|594590|
+34.9746|59.6145|Rashtkhar|Razavi Khorasan|0|
+34.9167|48.2167|Rastguyan|Hamadan|0|
+34.8789|48.2186|Rasulabad-e Sofla|Hamadan|0|
+34.1333|48.3492|Ravand-e Vosta|Hamadan|0|
+34.7500|46.6500|Ravansar|Kermanshah|0|
+31.2656|56.8055|Ravar|Kerman|40167|Rāvar
+34.7153|46.6533|Ravānsar|Kermanshah|24527|
+35.0711|48.6633|Rayegan-e Sofla|Hamadan|0|
+29.5927|57.4272|Rayen|Kerman|0|
+37.9306|57.1194|Raz|North Khorasan|0|
+34.8953|49.1467|Razaj|Hamadan|0|
+35.3864|49.0336|Razan|Hamadan|14275|
+36.2093|59.7610|Razaviye|Razavi Khorasan|0|
+35.3308|49.9512|Razeqan|Markazi|0|
+38.6249|48.0829|Razi|Ardabil|0|
+34.2678|48.1261|Razini|Hamadan|0|
+36.5420|50.1984|Razmian|Qazvin|0|
+32.6833|51.6016|Rehnan|Isfahan|49143|Rehnān
+35.3745|51.2774|Rey|Tehran|0|
+30.7349|56.6874|Reyhan|Kerman|0|
+35.1828|49.3144|Reza Baghi|Hamadan|0|
+34.2500|48.8333|Rezvankadeh|Hamadan|0|
+37.5498|49.1370|Rezvanshahr|Gilan|0|
+32.6658|51.0236|Rezvanshahr|Isfahan|0|
+32.8369|50.5652|Rezveh|Isfahan|4332|
+37.5495|49.1374|Reẕvānshahr|Gilan|19519|
+28.4333|59.1500|Rigan|Kerman|0|
+34.4803|46.0014|Rijab|Kermanshah|0|
+35.8815|52.1601|Rineh|Mazandaran|0|
+35.4789|58.4378|Rivash|Razavi Khorasan|0|
+34.5772|48.4319|Rivasijan|Hamadan|0|
+28.0516|52.0644|Riz|Bushehr|0|
+34.2655|46.7987|Robat|Kermanshah|0|
+35.5484|59.1867|Robat-e-Sang|Razavi Khorasan|0|
+34.8611|48.6003|Robat-e Sheverin|Hamadan|0|
+35.4846|51.0829|Robat Karim|Tehran|105393|Robāţ Karīm
+37.2555|50.0003|Rod Baneh|Gilan|0|
+36.3504|55.0013|Rodian|Semnan|0|
+31.5977|47.8853|Rofayyeh|Khuzestan|0|
+29.1913|53.7648|RonizOlya|Fars|0|
+34.9167|59.3667|Roshtkhvar|Razavi Khorasan|0|
+30.4000|51.4167|Rostam|Fars|0|
+36.8995|49.4736|Rostamabad|Gilan|0|
+36.6801|53.3982|Rostam kola|Mazandaran|0|
+36.5674|51.9540|Royan|Mazandaran|0|
+36.0237|57.3045|Rudab|Razavi Khorasan|0|
+27.5333|57.1167|Rudan|Hormozgan|0|
+34.5506|48.4106|Rud Avar|Hamadan|0|
+36.8000|49.6000|Rudbar|Gilan|0|
+27.9000|58.4667|Rudbar|Kerman|0|
+34.1244|48.3717|Rud-e Hasan-e Sofla|Hamadan|0|
+35.7338|51.8981|Rudehen|Tehran|0|
+37.1370|50.2917|Rudsar|Gilan|47502|Rūdsar
+33.2796|47.4900|Rumeshkhan|Lorestan|0|
+27.4600|55.4083|Ruydar|Hormozgan|0|
+36.9180|50.6480|Rāmsar|Māzandarān|35997|
+26.2416|61.3849|Rāsk|Sistan and Baluchestan|0|
+35.7334|51.9059|Rūdehen|Tehran|28533|
+27.4419|57.1920|Rūdān|Hormozgan|36121|
+30.0825|53.1276|SaadatShahr|Fars|0|
+35.5832|51.0815|Sabashahr|Tehran|0|
+35.5803|51.1139|Şabbāshahr|Tehran|53971|
+36.2126|57.6819|Sabzevar|Razavi Khorasan|243700|
+29.3858|51.1117|Sadabad|Bushehr|0|
+29.8048|52.4583|Sadra|Fars|0|
+35.6845|50.8247|Safadasht|Tehran|0|
+30.8281|55.8030|Safaiyeh|Kerman|0|
+35.4069|48.3061|Safa Riz|Hamadan|0|
+30.6143|53.1783|Safashahr|Fars|0|
+32.2600|48.4073|Safiabad|Khuzestan|0|
+36.6945|57.9215|Safiabad|North Khorasan|0|
+30.6131|53.1954|Şafāshahr|Fars|26933|
+35.7661|49.9188|Sagz Abad|Qazvin|0|
+34.5539|48.3047|Sahamabad|Hamadan|0|
+37.9421|46.1132|Sahand|East Azerbaijan|82494|
+36.2029|46.4533|Saheb|Kurdistan|0|
+34.5833|47.5167|Sahneh|Kermanshah|0|
+36.3030|49.0638|Sain Qaleh|Zanjan|0|
+34.4766|50.4550|Salafchegan|Qom|0|
+34.7457|59.9691|Salami|Razavi Khorasan|0|
+34.8167|45.9833|Salas-e Baba Jani|Kermanshah|0|
+34.9236|48.3425|Salehabad|Hamadan|0|
+33.4716|46.1818|Saleh Abad|Ilam|0|
+35.6906|61.0832|Saleh Abad|Razavi Khorasan|0|
+35.5999|51.2827|salehie|Tehran|0|
+32.2143|48.6624|Salehshahr|Khuzestan|0|
+35.2528|49.1189|Salilak|Hamadan|0|
+36.7006|51.1908|Salman Shahr|Mazandaran|0|
+38.1973|44.7653|Salmas|West Azarbaijan|81606|Salmās
+34.3414|48.9931|Saluk|Hamadan|0|
+32.4498|50.9138|Saman|Chaharmahal and Bakhtiari|0|
+34.2092|48.7058|Samen|Hamadan|0|
+36.4260|59.3820|Samen|Razavi Khorasan|0|
+32.1681|50.2709|Samsami|Chaharmahal and Bakhtiari|0|
+35.1222|49.0256|Sanaj|Hamadan|0|
+35.3150|46.9988|Sanandaj|Kurdistan|349176|
+34.4006|60.2538|Sangan|Razavi Khorasan|0|
+37.1797|49.6853|Sangar|Gilan|12583|
+36.9979|54.8526|Sangdevin|Golestan|0|
+34.6561|48.3933|Sanjuzan|Hamadan|0|
+37.1023|56.8504|Sankhast|North Khorasan|0|
+36.2499|46.2735|Saqqez|Kurdistan|165258|
+37.9408|47.5367|Sarab|East Azerbaijan|45031|Sarāb
+32.8986|47.5703|Sarabbagh|Ilam|0|
+33.5639|48.0222|Sarab-e Dowreh|Lorestan|0|
+34.2322|48.6064|Sarab-e Tajar|Hamadan|0|
+33.7658|46.5464|Sarableh|Ilam|0|
+36.5449|61.1577|Sarakhs|Razavi Khorasan|46499|
+35.1792|48.9464|Saravak|Hamadan|0|
+27.3235|62.5680|Saravan|Sistan and Baluchestan|0|
+33.4167|58.3167|Sarayan|South Khorasan|0|
+35.4289|47.9619|Sarayjuq|Hamadan|0|
+26.4339|61.4818|Sarbaz|Sistan and Baluchestan|0|
+32.4908|59.4876|Sarbishe|South Khorasan|0|
+32.4000|60.0833|Sarbisheh|South Khorasan|0|
+32.0214|48.7928|Sardarabad|Khuzestan|0|
+30.3276|50.2091|Sar Dasht|Khuzestan|6912|
+36.2167|45.4832|Sardasht|West Azarbaijan|46412|
+26.4587|57.8843|Sardasht Bashagard|Hormozgan|0|
+38.0312|46.1297|Sardroud|East Azerbaijan|0|
+38.0261|46.1476|Sardrūd|East Azerbaijan|29739|
+34.2031|48.2639|Sar Duran|Hamadan|0|
+38.1464|48.0572|Sarein|Ardabil|0|
+38.1833|47.9833|Sareyn|Ardabil|0|
+30.8072|50.8465|sarfariyab|Kohgiluyeh and Boyer-Ahmad|0|
+28.4256|55.7018|Sargaz|Hormozgan|0|
+36.5633|53.0601|Sari|Mazandaran|255396|
+35.6125|48.8922|Sarijlu|Hamadan|0|
+34.6017|48.4506|Sarkan|Hamadan|0|
+36.8914|54.5692|Sarkhon Kalateh|Golestan|0|
+31.7458|50.5409|SarKhun|Chaharmahal and Bakhtiari|0|
+34.4119|49.4947|Saroogh|Markazi|0|
+34.4611|45.8626|Sarpol-e Z̄ahāb|Kermanshah|45481|
+34.5000|45.8500|Sarpol Zahab|Kermanshah|0|
+35.2500|46.3333|Sarvabad|Kurdistan|0|
+29.2167|53.1333|Sarvestan|Fars|0|
+29.2735|53.2203|Sarvestān|Fars|18187|
+27.3709|62.3310|Sarāvān|Sistan and Baluchestan|60014|
+34.8115|47.4601|Satar|Kermanshah|0|
+35.9776|52.6825|Savadkuh|Mazandaran|0|
+35.0213|50.3566|Saveh|Markazi|220762|Sāveh
+36.0000|50.8333|Savojbolagh|Alborz|0|
+34.5736|48.1536|Saziyan|Hamadan|0|
+34.4813|47.6908|Şaḩneh|Kermanshah|35508|
+30.0792|53.1346|Sa‘ādat Shahr|Fars|17131|
+35.6677|51.1858|Sa‘īdābād|Tehran|16212|
+30.7029|52.1596|Sedeh|Fars|0|
+32.3787|51.3160|Sedeh Lanjān|Isfahan|19101|
+32.3745|51.3091|Sedeh Lenjan|Isfahan|0|
+32.1322|51.1742|Sefiddasht|Chaharmahal and Bakhtiari|0|
+34.0697|48.5081|Sefid Khaneh|Hamadan|0|
+35.6622|60.0860|Sefid Sang|Razavi Khorasan|0|
+34.1241|51.3471|Sefid Shahr|Isfahan|5804|
+34.5853|48.1008|Segavi|Hamadan|0|
+33.6605|58.3983|Seh Qaleh|South Khorasan|0|
+32.6987|52.0667|Sejzi|Isfahan|0|
+33.8333|48.1667|Selseleh|Lorestan|0|
+32.1976|48.8520|Semaleh|Khuzestan|0|
+31.3000|51.5333|Semirom|Isfahan|0|
+35.5769|53.3920|Semnan|Semnan|124826|
+31.4167|51.5667|Semīrom|Isfahan|26942|
+26.8382|57.4179|Senderk|Hormozgan|0|
+30.1500|52.1000|Sepidan|Fars|0|
+33.2190|48.8815|Sepid Dasht|Lorestan|0|
+35.2496|47.7697|Serish Abad|Kurdistan|0|
+34.6007|48.4386|Serkan|Hamadan|0|
+37.7275|44.6428|Serow|West Azarbaijan|0|
+35.0458|49.2964|Setaq|Hamadan|1046|
+39.0651|44.3842|Seyah Cheshmeh|West Azerbaijan|17804|
+31.3653|50.0706|Seydun|Khuzestan|0|
+30.0042|53.0012|Seyedan|Fars|0|
+33.7488|46.6323|Shabab|Ilam|0|
+29.4708|50.9755|Shaban Kareh|Bushehr|0|
+38.1827|45.6819|Shabestar|East Azerbaijan|22181|
+30.6492|48.6650|Shadegan|Khuzestan|41733|Shādegān
+34.3617|48.2806|Shademaneh|Hamadan|0|
+35.1724|59.0339|Shadmehr|Razavi Khorasan|0|
+37.0648|49.1777|Shaft|Gilan|8184|
+33.9354|49.3357|Shahbaz|Markazi|0|
+30.4220|57.6906|Shahdad|Kerman|0|
+31.9454|54.2460|Shahedieh|Yazd|0|
+35.5727|51.0788|Shahedshahr|Tehran|0|
+36.6793|46.5669|Shahin Dej|West Azarbaijan|41442|Shāhīn Dezh
+32.8579|51.5529|Shahin Shahr|Isfahan|173329|Shāhīn Shahr
+35.7701|53.3180|Shahmirzad|Semnan|0|
+32.5738|50.9927|Shahrabad|Razavi Khorasan|0|
+35.4885|51.3457|Shahrak-e Emam Hasan|Tehran|0|
+35.7720|50.9560|Shahrak-e Mohandesī-ye Zerā‘ī|Alborz|16104|
+34.5573|50.8020|Shahrak-e Pardīsān|Qom|100000|
+35.7594|51.3760|Shahrak-e Qods|Tehran|29774|
+30.8350|50.1987|Shahrak-e Ţāleqānī|Khuzestan|25808|
+35.5823|51.4556|Shahrak-e ‘Alā’īn|Tehran|21594|
+30.0002|55.7783|Shahrak Mes Sarcheshmeh|Kerman|0|
+30.1165|55.1186|Shahrbabak|Kerman|51620|Shahr-e Bābak
+32.3167|50.8000|Shahrekord|Chaharmahal and Bakhtiari|129153|
+35.5726|51.4234|Shahr-e-Rey|Tehran|0|
+32.0089|51.8668|Shahreza|Isfahan|0|
+36.7491|59.9274|Shahrezu|Razavi Khorasan|0|
+29.7997|52.5022|Shahr-e Ṣadrā|Fars|122226|
+32.0088|51.8641|Shahreẕā|Isfahan|134952|
+35.6283|51.0663|Shahriar|Tehran|0|
+32.2845|50.8832|ShahrKian|Chaharmahal and Bakhtiari|0|
+36.4057|54.9388|Shahroud|Semnan|0|
+36.4182|54.9763|Shahrud|Semnan|165000|
+35.6588|51.0577|Shahrīār|Tehran|309607|
+35.8954|49.7510|Shal|Qazvin|0|
+32.0472|50.8090|Shalamzar|Chaharmahal and Bakhtiari|0|
+37.1592|50.2069|Shalman|Gilan|0|
+32.2962|48.4237|Shamsabad|Khuzestan|0|
+34.6089|48.1042|Shanabad|Hamadan|0|
+36.3951|59.2906|Shandiz|Razavi Khorasan|0|
+35.2972|49.1764|Shanjur|Hamadan|0|
+32.8434|51.7392|Shapur Abad|Isfahan|0|
+37.8819|47.0955|Sharabian|East Azerbaijan|0|
+38.1787|45.4679|Sharafkhaneh|East Azerbaijan|0|
+36.2150|50.1427|Sharif Abad|Qazvin|0|
+35.4275|51.7853|Sharifabad|Tehran|0|
+34.4122|48.8258|Sharifabad-e Quzan|Hamadan|0|
+34.2647|48.6383|Sharifabad-e Tajar|Hamadan|0|
+36.2117|50.1500|Sharīfābād|Qazvin|20347|
+34.3031|47.9739|Shatzal|Hamadan|0|
+35.3753|49.2097|Shavand|Hamadan|924|
+33.9000|49.3000|Shazand|Markazi|0|
+35.9314|51.5900|Shemiranat|Tehran|0|
+36.0113|51.4865|Shemshak|Tehran|0|
+38.1456|45.6191|Shendabad|East Azerbaijan|0|
+32.0878|48.7586|Sherafat|Khuzestan|0|
+28.9125|53.9923|Sheshdeh|Fars|0|
+35.9604|57.7503|Sheshtamad|Razavi Khorasan|3108|
+34.8075|48.5703|Sheverin|Hamadan|0|
+31.4082|48.7870|Sheyban|Khuzestan|0|
+31.4079|48.7946|Sheybān|Khuzestan|36374|
+35.5022|48.2225|Sheykh Jarrah|Hamadan|0|
+34.6675|48.1686|Shilandar-e Sofla|Hamadan|0|
+29.6103|52.5311|Shiraz|Fars|1249942|
+35.6333|48.3825|Shir Barat|Hamadan|0|
+36.2975|52.8657|Shirgah|Mazandaran|0|
+35.4928|48.4506|Shirin Su|Hamadan|0|
+36.8509|50.8032|Shirud|Mazandaran|0|
+37.3967|57.9295|Shirvan|North Khorasan|82790|Shīrvān
+28.3959|51.7543|Shonbeh|Bushehr|0|
+33.1848|49.1856|Shool Abad|Lorestan|0|
+32.0410|48.7998|Shooshtar|Khuzestan|0|
+37.3416|56.8783|Shoqan|North Khorasan|0|
+39.2209|44.7492|Showt|West Azarbaijan|0|
+39.2192|44.7700|Showţ|West Azerbaijan|25381|
+31.8056|59.9982|Shusf|South Khorasan|0|
+32.1942|48.2436|Shush|Khuzestan|77148|Shūsh
+34.3536|48.6322|Shush Ab|Hamadan|0|
+32.0497|48.8484|Shushtar|Khuzestan|101878|Shūshtar
+35.3570|46.6732|Shuyesheh|Kurdistan|0|
+35.5729|51.0850|Shāhedshahr|Tehran|25544|
+35.8981|49.7691|Shāl|Qazvin|15290|
+33.9313|49.4063|Shāzand|Markazi|21181|
+39.0647|44.3694|Siah Cheshmeh|West Azarbaijan|0|
+34.9458|47.9683|Siah Goleh|Hamadan|0|
+36.9333|49.9000|Siahkal|Gilan|0|
+32.3323|48.4895|SiahMansur|Khuzestan|0|
+38.8688|45.9967|Siahrood|East Azerbaijan|0|
+34.2169|48.7847|Sib Dar|Hamadan|0|
+27.3333|61.9167|Sib va Suran|Sistan and Baluchestan|0|
+37.4223|44.8500|Silvana|West Azarbaijan|0|
+34.7458|48.5067|Silvar|Hamadan|0|
+34.6825|48.5858|Simin-e Abaru|Hamadan|0|
+34.8767|48.3217|Simin-e Zagheh|Hamadan|0|
+37.0128|54.2158|Siminshahr|Golestan|0|
+36.7297|46.1511|Simmineh|West Azarbaijan|0|
+36.5791|52.8236|Simorgh|Mazandaran|0|
+32.8503|51.6476|Sin|Isfahan|0|
+34.7953|47.9964|Siravand|Hamadan|0|
+36.6473|49.1888|Sirdan|Qazvin|0|
+26.5000|57.1833|Sirik|Hormozgan|0|
+29.4514|55.6809|Sirjan|Kerman|199704|
+26.8284|62.6301|Sirkān|Sistan and Baluchestan|0|
+33.7546|46.5665|Sirvan|Ilam|0|
+38.1969|45.8108|Sis|East Azerbaijan|0|
+30.8563|51.4377|Sisakht|Kohgiluyeh and Boyer-Ahmad|0|
+34.6633|48.3206|Sistaneh|Hamadan|0|
+31.1911|52.5003|Soghad|Fars|0|
+36.0731|48.4317|Sohrevard|Zanjan|0|
+36.2394|48.5455|Sojas|Zanjan|0|
+35.7684|52.5609|Soleh Bon|Tehran|1500|
+36.1478|58.8614|Soltanabad|Razavi Khorasan|0|
+36.4323|48.7939|Soltanieh|Zanjan|0|
+29.6296|53.2329|SoltanShahr|Fars|0|
+34.8261|48.4294|Solulan|Hamadan|0|
+37.3333|49.3000|Someh Sara|Gilan|0|
+34.7819|47.5994|Sonqor|Kermanshah|44256|
+33.8812|45.6319|Soomar|Kermanshah|0|
+35.4680|53.2098|Sorkheh|Semnan|9951|
+34.0875|48.4292|Sorkh Kand|Hamadan|0|
+36.6692|52.4425|Sorkh Roud|Mazandaran|0|
+38.2783|45.9771|Soufian|East Azerbaijan|0|
+37.3013|49.3150|Şowme‘eh Sarā|Gilan|47083|
+34.5054|47.8398|Srmast|Kermanshah|0|
+32.5214|50.3962|Sudejan|Chaharmahal and Bakhtiari|0|
+35.2686|48.3344|Sulijeh|Hamadan|0|
+30.8590|50.4511|Suq|Kohgiluyeh and Boyer-Ahmad|0|
+36.5969|53.2017|Surak|Mazandaran|0|
+27.2876|61.9804|Suran|Sistan and Baluchestan|0|
+32.3171|50.6712|Sureshjan|Chaharmahal and Bakhtiari|0|
+30.4551|53.6510|Surian|Fars|20000|
+31.0325|52.8305|Surmaq|Fars|0|
+35.5356|49.0139|Surtajin|Hamadan|0|
+31.5635|48.1896|Susangerd|Khuzestan|51431|Sūsangerd
+34.5764|48.2775|Sutlaq|Hamadan|0|
+26.7772|56.0438|Suzā|Hormozgan|0|
+32.4990|48.8256|Sāland|Khuzestan|0|
+37.0142|54.2300|Sīmīn Shahr|Golestan|17205|
+37.1533|49.8714|Sīāhkal|Gilan|19924|
+32.8030|60.2215|Tabas|South Khorasan|0|
+33.5959|56.9244|Tabas|Yazd|49993|
+32.8077|60.2150|Tabas Masina|South Khorasan|0|
+38.0800|46.2919|Tabriz|East Azerbaijan|1424641|
+34.6931|50.0160|Tafresh|Markazi|16493|
+34.7633|48.5819|Tafrijan|Hamadan|0|
+31.7438|54.2028|Taft|Yazd|18464|
+34.8386|48.8664|Tahunabad|Hamadan|0|
+34.2256|48.6650|Tajar-e Samen|Hamadan|0|
+35.8046|51.4313|Tajrish|Tehran|0|
+35.8044|51.4256|Tajrīsh|Tehran|86000|
+36.4009|47.1133|Takab|West Azarbaijan|51541|Takāb
+36.0706|49.6957|Takestan|Qazvin|71499|Tākestān
+27.5036|56.6273|Takht|Hormozgan|3082|
+34.8122|47.8378|Takhtiabad|Hamadan|0|
+35.5013|51.5315|Taleb abad|Tehran|0|
+34.0458|48.8778|Taleh Jerd-e Sofla|Hamadan|0|
+36.2053|50.7761|Taleqan|Alborz|0|
+37.9000|48.7833|Talesh|Gilan|0|
+32.2500|51.5188|Talkhooncheh|Isfahan|0|
+35.2797|49.1328|Tamuzan|Hamadan|0|
+29.1533|51.5183|Tang Eram|Bushehr|0|
+28.8833|51.2667|Tangestan|Bushehr|0|
+35.8915|50.6059|Tankaman|Alborz|0|
+34.3367|48.0225|Tappeh Yazdan|Hamadan|0|
+35.4292|48.6942|Tappeh-ye Dibi|Hamadan|0|
+32.2233|50.8386|Taqanak|Chaharmahal and Bakhtiari|0|
+35.3189|48.3711|Taraqayah|Hamadan|0|
+34.2733|47.9392|Tarik Darreh-ye Bala|Hamadan|0|
+37.6174|47.7667|Tark|East Azerbaijan|0|
+34.8153|48.1225|Tarkhinabad|Hamadan|0|
+36.9500|48.9000|Tarom|Zanjan|0|
+33.3468|51.7911|Tarq Rud|Isfahan|0|
+34.5614|48.7906|Tasbandi|Hamadan|0|
+30.8292|50.1983|Tashan|Khuzestan|0|
+35.3383|48.6339|Tasran|Hamadan|0|
+35.1639|48.4833|Tas Tappeh|Hamadan|0|
+38.3162|45.3365|Tasuj|East Azerbaijan|0|
+37.1110|55.0427|Tatar Olia|Golestan|0|
+35.1544|49.0439|Tavaleh|Hamadan|0|
+34.2114|48.1858|Tavaneh|Hamadan|0|
+35.1167|49.0272|Taveh|Hamadan|0|
+34.7994|47.8694|Tavilan-e Sofla|Hamadan|0|
+34.7333|60.7333|Taybad|Razavi Khorasan|0|
+39.1045|44.8990|Tazakand|Ardabil|0|
+34.0978|48.3153|Tazehnab-e Sofla|Hamadan|0|
+38.1767|44.6838|Taze Shar|West Azarbaijan|0|
+27.2902|56.1521|Tazian|Hormozgan|0|
+35.6944|51.4215|Tehran|Tehran|7153309|
+37.7354|46.9309|Tekmeh Dash|East Azerbaijan|0|
+34.6319|48.1736|Termianak|Hamadan|0|
+37.8104|45.8815|Teymourlou|East Azerbaijan|0|
+34.6903|48.3414|Timi Jan|Hamadan|0|
+32.7026|51.1537|Tiran|Isfahan|0|
+27.3379|56.9531|Tirour|Hormozgan|0|
+37.2289|58.2970|Titkanlu|North Khorasan|0|
+33.7255|47.0685|Tohid|Ilam|0|
+36.8163|50.8738|Tonekabon|Mazandaran|37501|Tonekābon
+32.7209|52.6562|Toodeshk|Isfahan|0|
+35.2440|60.6225|Torbat-e-Jam|Razavi Khorasan|58928|Torbat-e Jām
+35.2740|59.2195|Torbat-e Ḩeydarīyeh|Razavi Khorasan|140019|
+35.4667|59.1000|Torbat Heydariyeh|Razavi Khorasan|0|
+36.3147|59.3677|Torghabeh|Razavi Khorasan|0|
+32.2413|48.8388|Torkalaki|Khuzestan|0|
+36.9000|54.1667|Torkaman|Golestan|0|
+34.2997|48.7150|Tuchaqaz|Hamadan|0|
+35.4953|48.9578|Tulki Tappeh|Hamadan|0|
+36.0483|47.8175|Tup Aghaj|Kurdistan|0|
+34.0444|49.2838|Tureh|Markazi|0|
+37.5818|47.3702|Turkman Chay|East Azerbaijan|0|
+34.2500|48.9900|Tusk-e Sofla|Hamadan|0|
+34.5150|49.0214|Tutal|Hamadan|0|
+36.8909|49.5215|Tutkabon|Gilan|0|
+34.5481|48.4467|Tuyserkan|Hamadan|0|
+34.7400|60.7756|Tāybād|Razavi Khorasan|37513|
+32.7033|51.1538|Tīrān|Isfahan|21703|
+34.5510|48.4435|Tūyserkān|Hamadan|50455|
+35.2528|46.2592|Uraman Takht|Kurdistan|0|
+37.5527|45.0761|Urmia|West Azarbaijan|577307|Orūmīyeh
+34.8103|48.3842|Vafr-e Jin|Hamadan|0|
+35.5094|49.0475|Vahandeh|Hamadan|0|
+29.4865|51.2183|Vahdatiyeh|Bushehr|0|
+35.6048|51.0163|Vahidieh|Tehran|0|
+34.2608|48.2708|Vahman|Hamadan|0|
+34.7900|48.2886|Vahnan|Hamadan|0|
+38.1284|45.7049|Vaighan|East Azerbaijan|0|
+37.0408|50.4086|Vajargah|Gilan|0|
+35.1519|48.3806|Vali Mohammad|Hamadan|0|
+34.2328|48.1894|Vali Sir Ab|Hamadan|0|
+31.5276|51.3215|Vanak|Isfahan|1665|
+34.6697|48.0789|Vandarabad|Hamadan|0|
+35.3242|51.6457|Varamin|Tehran|225628|Varāmīn
+27.4653|53.0441|Varavi|Fars|0|
+34.0792|48.4056|Varayeneh|Hamadan|0|
+34.1864|48.1861|Varazaneh|Hamadan|0|
+34.3717|48.8978|Varchaq|Hamadan|0|
+32.4790|50.7501|Vardanjan|Chaharmahal and Bakhtiari|0|
+34.7003|48.2939|Vardavard-e Sofla|Hamadan|0|
+34.7044|48.3017|Vardavard-e Vosta|Hamadan|0|
+34.6769|48.6192|Varkaneh|Hamadan|0|
+32.3552|51.3721|Varnamkhast|Isfahan|0|
+32.3564|51.3787|Varnāmkhvāst|Isfahan|18700|
+35.3964|49.0092|Varqestan|Hamadan|0|
+35.3658|48.9606|Varvazin|Hamadan|0|
+32.4177|52.6382|Varzaneh|Isfahan|12714|
+38.5949|46.4640|Varzaqan|East Azerbaijan|0|
+38.5814|46.1700|Varzeqān|East Azerbaijan|0|
+34.3206|48.2258|Vasaj|Hamadan|820|
+35.2317|48.3517|Vashur|Hamadan|0|
+33.4908|48.0492|Vasian|Lorestan|0|
+35.2128|48.3464|Vasleh|Hamadan|0|
+33.4180|51.1740|Vazvan|Isfahan|0|
+35.7144|51.4709|Vaḩīdīyeh|Tehran|33249|
+34.1386|48.4683|Vesht|Hamadan|0|
+31.4877|48.8697|Veys|Khuzestan|15312|
+34.9581|49.3125|Vezendan|Hamadan|0|
+34.7364|48.6111|Yalfan|Hamadan|0|
+38.5245|45.6342|Yamchi|East Azerbaijan|0|
+35.5175|48.6764|Yaromjeh Bagh|Hamadan|0|
+35.0689|49.3817|Yarom Qayah|Hamadan|0|
+30.6682|51.5880|Yasuj|Kohgiluyeh and Boyer-Ahmad|96786|
+31.8972|54.3675|Yazd|Yazd|477905|
+30.8683|56.3334|Yazdan Shahr|Kerman|0|
+34.8072|48.6378|Yeganeh|Hamadan|0|
+34.8736|48.4542|Yekanabad|Hamadan|0|
+34.8778|49.0067|Yekleh|Hamadan|0|
+35.0611|48.7836|Yeserlu|Hamadan|0|
+34.1586|48.6733|Yunes|Hamadan|0|
+34.8053|58.4375|Yunesi|Razavi Khorasan|0|
+34.3586|48.7817|Yunji|Hamadan|0|
+31.0306|61.4949|Zabol|Sistan and Baluchestan|121989|Zābol
+27.1339|61.6546|Zaboli|Sistan and Baluchestan|0|
+33.4989|48.7086|Zagheh|Lorestan|0|
+34.1478|48.5542|Zagheh-ye Anuch|Hamadan|0|
+34.6036|48.8111|Zagheh-ye Tasbandi|Hamadan|0|
+35.1528|49.3758|Zaghlijeh|Hamadan|0|
+30.8914|61.6654|Zahak|Sistan and Baluchestan|0|
+29.4963|60.8629|Zahedan|Sistan and Baluchestan|551980|
+28.7518|53.7829|Zahedshahr|Fars|0|
+30.4692|49.6844|Zahreh|Khuzestan|0|
+34.4125|48.6422|Zamanabad-e Mohammadabad|Hamadan|0|
+34.1543|49.0037|Zangeneh|Hamadan|0|
+34.1467|49.0167|Zangeneh-ye Sofla|Hamadan|0|
+30.4047|56.8978|Zangiabad|Kerman|0|
+36.6764|48.4963|Zanjan|Zanjan|357471|
+34.3839|48.1894|Zapon|Hamadan|0|
+31.9862|54.2249|Zarach|Yazd|0|
+34.1936|48.3000|Zaramin-e Sofla|Hamadan|0|
+30.8127|56.5640|Zarand|Kerman|58983|
+35.3667|50.3333|Zarandiyeh|Markazi|0|
+36.5214|52.5756|Zargarmahalleh|Mazandaran|0|
+29.7631|52.6747|Zarghan|Fars|0|
+32.4118|51.3632|Zarinshahr|Isfahan|0|
+38.0924|47.0768|Zarnaq|East Azerbaijan|5343|
+33.9286|46.1788|Zarneh|Ilam|0|
+29.7724|52.7189|Zarqān|Fars|32261|
+36.4235|48.2471|Zarrin Abad|Zanjan|0|
+34.2947|48.0519|Zarrin Bagh|Hamadan|0|
+28.3000|54.4667|Zarrin Dasht|Fars|0|
+36.0605|46.9118|Zarrineh|Kurdistan|0|
+35.7586|48.4715|Zarrin Rood|Zanjan|0|
+32.3897|51.3766|Zarrin Shahr|Isfahan|0|
+32.3906|51.3765|Zarrīn Shahr|Isfahan|55817|
+25.5825|59.3779|Zarābād|Sistan and Baluchestan|0|
+33.4441|52.4654|Zavareh|Isfahan|0|
+35.2833|59.7333|Zaveh|Razavi Khorasan|0|
+35.3773|50.5509|Zavieh|Markazi|0|
+32.3826|51.2575|Zayandehrod|Isfahan|0|
+32.5960|51.4840|Zazeran|Isfahan|0|
+30.8667|61.5667|Zehak|Sistan and Baluchestan|14324|
+27.7925|58.5869|Zeh-e Kalut|Kerman|0|
+35.0714|49.1694|Zeraq|Hamadan|0|
+29.6009|55.5268|Zeydabad|Kerman|0|
+35.9933|49.4478|Ziaabad|Qazvin|0|
+37.4261|49.2459|Ziabar|Gilan|0|
+32.5112|51.9268|Ziar|Isfahan|0|
+36.7161|58.5455|Ziarat|North Khorasan|0|
+32.3868|51.5448|Zibashahr|Isfahan|10200|
+36.1806|52.9536|Zirab|Mazandaran|0|
+34.4133|48.6169|Zirabiyeh|Hamadan|0|
+33.5833|60.3000|Zirkuh|South Khorasan|0|
+27.7356|57.2107|Ziyārat Ali|Hormozgan|0|
+33.4233|59.8073|Zohaan|South Khorasan|0|
+38.5895|45.8261|Zonouz|East Azerbaijan|0|
+38.8022|44.5771|Zurabad|West Azarbaijan|0|
+36.1797|52.9735|Zīr Āb|Māzandarān|16191|
+29.3586|51.0742|Āb Pakhsh|Bushehr|18913|
+36.0399|50.5310|Ābyek|Qazvin|60107|
+28.8317|53.1728|Ābādeh|Fars|59116|
+37.0139|54.4550|Āq Qalā|Golestan|35116|
+34.0575|51.4829|Ārān Bīdgol|Isfahan|65404|
+37.5615|56.9213|Āshkhāneh|North Khorasan|25104|
+38.4308|48.8699|Āstārā|Gilan|39065|
+37.7590|45.9783|Āz̄arshahr|East Azerbaijan|44887|
+37.9373|45.9790|Īlkhchī|East Azerbaijan|16574|
+35.2345|52.3094|Īstgāh-e Rāh Āhan-e Garmsār|Semnan|49491|
+31.8303|49.8676|Īz̄eh|Khuzestan|119399|
+36.3104|59.3735|Ţorqabeh|Razavi Khorasan|20998|
+29.2702|53.2073|سروستان|Fars|0|
+31.4828|48.4332|Ḥamīdiyeh|Khuzestan|22057|
+35.3673|51.2350|Ḩasanābād|Tehran|43922|
+28.3574|54.4233|Ḩājjīābād|Fars|21675|
+28.3091|55.9017|Ḩājjīābād|Hormozgan|23309|
+35.6924|50.8483|Ṣafādasht|Tehran|32476|
+35.5053|51.1914|Ṣāleḥīeh|Tehran|58683|
+28.4759|57.8480|‘Anbarābād|Kerman|18185|
+31.3456|48.6006|‘Eyn-e Do|Khuzestan|17653|
+28.9312|51.0657|‘Ālī Shahr|Bushehr|23178|

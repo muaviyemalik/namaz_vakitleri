@@ -1,2648 +1,2839 @@
-51.4565|22.3152|Abramów
-51.7433|22.2641|Adamów
-50.2586|22.6959|Adamówka
-50.0142|22.2241|Albigowa
-50.4663|22.8923|Aleksandrów
-52.8766|18.6934|Aleksandrów Kujawski
-51.8197|19.3038|Aleksandrów Łódzki
-50.0606|19.5395|Alwernia
-51.7278|19.6417|Andrespol
-49.8550|19.3383|Andrychów
-50.8855|21.8568|Annopol
-53.8432|22.9798|Augustów
-52.3453|18.6666|Babiak
-49.9348|21.8703|Babica
-50.0556|19.1995|Babice
-52.1649|15.8277|Babimost
-50.1576|17.9851|Baborów
-52.6807|20.2553|Baboszewo
-49.9581|19.4937|Bachowice
-50.7919|21.2321|Baćkowice
-49.8934|18.7150|Bąków
-50.0880|19.7946|Balice
-49.3309|22.2857|Baligród
-50.1680|19.3834|Balin
-51.0185|21.5438|Bałtów
-53.1003|14.6623|Banie
-54.2466|22.0362|Banie Mazurskie
-54.3922|18.4062|Banino
-52.0165|21.1398|Baniocha
-51.2634|18.0047|Baranów
-52.4353|16.7863|Baranowo
-50.4991|21.5420|Baranów Sandomierski
-54.2199|21.3535|Barciany
-52.8661|17.9462|Barcin
-53.8306|20.6911|Barczewo
-50.5059|16.7399|Bardo
-52.9946|15.2186|Barlinek
-53.2478|19.6043|Bartniczka
-54.2535|20.8082|Bartoszyce
-52.4941|19.2650|Baruchowo
-49.8621|19.6175|Barwałd Górny
-49.8663|19.5936|Barwałd Średni
-53.7449|16.3553|Barwice
-50.8505|22.4931|Batorz
-49.7379|18.7035|Bażanowice
-52.2083|19.5759|Bedlno
-50.2390|20.5983|Bejsce
-51.3688|19.3567|Bełchatów
-50.1305|18.7167|Bełk
-49.9781|18.3631|Bełsznica
-50.3845|23.4384|Bełżec
-51.1741|22.2803|Bełżyce
-52.2546|20.9084|Bemowo
-49.5876|21.9529|Besko
-49.8971|19.0578|Bestwina
-49.9327|19.0669|Bestwinka
-52.6052|19.6496|Biała
-51.2981|20.2972|Białaczów
-53.6119|22.0632|Biała Piska
-52.0324|23.1165|Biała Podlaska
-51.8078|20.4726|Biała Rawska
-53.0952|17.9162|Białe Błota
-49.6931|19.6703|Białka
-49.3897|20.1051|Białka Tatrzańska
-51.6469|20.9504|Białobrzegi
-54.0070|15.9875|Białogard
-52.3213|20.9720|Białołeka
-52.7000|23.8667|Białowieża
-53.1046|17.1253|Białośliwie
-53.8967|16.8354|Biały Bór
-49.3738|20.0090|Biały Dunajec
-53.1333|23.1643|Białystok
-49.7360|21.2630|Biecz
-52.2924|20.9353|Bielany
-51.0361|16.9677|Bielany Wrocławskie
-50.6908|16.6230|Bielawa
-52.0754|19.6556|Bielawy
-53.2002|14.7276|Bielice
-50.8495|20.9415|Bieliny
-52.6718|19.8050|Bielsk
-49.8225|19.0469|Bielsko-Biala
-52.7651|23.1865|Bielsk Podlaski
-52.1827|20.5631|Bieniewice
-50.2811|18.2418|Bierawa
-50.8185|18.1581|Bierdzany
-51.1244|17.5461|Bierutów
-50.0900|19.0929|Bieruń
-53.0357|15.6650|Bierzwnik
-50.0881|20.0279|Bieńczyce
-49.7760|19.7718|Bieńkówka
-52.9611|19.8898|Bieżuń
-50.5411|22.7220|Biłgoraj
-49.7562|21.2282|Binarowa
-49.6917|22.4785|Bircza
-50.1207|20.8594|Biskupice Radłowskie
-53.8647|20.9569|Biskupiec
-51.1010|17.1044|Biskupin
-51.1083|17.0913|Biskupin-Sępolno-Dąbie-Bartoszowice
-50.4015|22.6506|Biszcza
-54.0863|20.9019|Bisztynek
-50.7801|18.9639|Blachownia
-51.6516|18.4347|Błaszki
-49.8852|22.1004|Błażowa
-52.5171|15.4138|Bledzew
-51.9037|18.0100|Blizanów
-49.7533|21.9735|Blizne
-51.1078|20.7594|Bliżyn
-52.1985|20.6171|Błonie
-51.7777|20.6980|Błędów
-53.9551|16.5889|Bobolice
-49.7087|20.9477|Bobowa
-53.8838|18.5568|Bobowo
-51.9485|15.0906|Bobrowice
-52.7809|18.9603|Bobrowniki
-53.2855|19.2705|Bobrowo
-49.9691|20.4303|Bochnia
-52.6516|23.0449|Boćki
-52.4999|20.0295|Bodzanów
-50.9412|20.9572|Bodzentyn
-50.9075|14.9563|Bogatynia
-52.6890|15.0713|Bogdaniec
-50.6517|21.2600|Bogoria
-49.9847|21.9453|Boguchwała
-50.7551|16.2049|Boguszów-Gorce
-52.7168|22.4155|Boguty-Pianki
-51.9532|15.8104|Bojadła
-54.4712|18.3841|Bojano
-50.4253|21.9511|Bojanów
-51.7075|16.7483|Bojanowo
-51.9930|16.5837|Bojanowo Stare
-50.0578|19.1014|Bojszowy
-50.0528|19.0501|Bojszowy Nowe
-50.1483|19.7927|Bolechowice
-50.2973|19.4807|Bolesław
-51.2642|15.5697|Bolesławiec
-52.7249|14.5690|Boleszkowice
-52.0767|20.1635|Bolimów
-50.9220|16.1011|Bolków
-54.6180|18.1759|Bolszewo
-50.1175|19.4812|Bolęcin
-52.4653|18.8912|Boniewo
-50.0178|20.5309|Borek
-51.9167|17.2413|Borek Wielkopolski
-51.7216|22.5213|Borki
-51.3203|20.6834|Borkowice
-53.5766|16.5340|Borne Sulinowo
-50.6746|18.9068|Boronów
-50.3855|21.3515|Borowa
-51.9491|21.7658|Borowie
-50.9325|19.2738|Borowno
-50.0076|18.1575|Borucin
-51.0926|22.2841|Borzechów
-54.2002|17.3680|Borzytuchom
-50.0654|20.7110|Borzęcin
-49.8623|19.9792|Borzęta
-50.5132|16.5753|Bozkow
-51.2858|17.9032|Bralin
-50.0511|17.7940|Branice
-54.3797|19.8196|Braniewo
-51.4990|18.4498|Brąszewice
-52.7444|22.8377|Brańsk
-52.6293|21.5875|Brańszczyk
-52.3539|18.7298|Brdów
-49.7258|18.9025|Brenna
-51.9226|16.2149|Brenno
-52.3195|20.2626|Brochów
-50.0433|19.5888|Brodła
-52.1412|16.8910|Brodnica
-51.0247|21.2215|Brody
-52.4780|20.7497|Brody-Parcele
-53.9571|15.3598|Brojce
-52.6995|21.8570|Brok
-51.9670|17.8165|Broniszewice
-49.8778|18.9210|Bronów
-52.0995|18.6043|Brudzew
-52.6688|19.5040|Brudzeń Duży
-53.8845|17.7179|Brusy
-52.1427|20.7170|Brwinów
-49.8748|20.0371|Brzączowice
-50.8608|17.4674|Brzeg
-51.2730|16.7081|Brzeg Dolny
-49.9691|20.6061|Brzesko
-49.9820|19.1516|Brzeszcze
-50.0424|19.1902|Brzezinka
-50.7727|20.5732|Brzeziny
-50.3544|18.9813|Brzeziny Śląskie
-49.9650|19.6195|Brzeźnica
-51.4940|18.6223|Brzeźnio
-52.6053|18.9017|Brześć Kujawski
-49.8795|21.4110|Brzostek
-50.2391|22.3256|Brzóza Królewska
-50.1996|22.2823|Brzóza Stadnicka
-53.3255|19.6048|Brzozie
-49.6950|22.0193|Brzozów
-53.0546|19.2619|Brzuze
-49.8223|21.3900|Brzyska
-51.5023|19.1642|Buczek
-49.7286|19.0691|Buczkowice
-51.6674|19.9358|Budziszewice
-49.7762|19.6727|Budzów
-52.8895|16.9881|Budzyń
-49.8518|19.1943|Bujaków
-52.3553|16.5196|Buk
-53.4338|18.2405|Bukowiec
-49.3430|20.1081|Bukowina Tatrzańska
-50.2647|19.4596|Bukowno
-49.4804|22.0633|Bukowsko
-52.5409|20.1189|Bulkowo
-49.8765|19.2887|Bulowice
-51.4608|18.8323|Burzenin
-50.4708|20.7188|Busko-Zdrój
-51.0161|22.5330|Bychawa
-51.1139|18.2141|Byczyna
-53.1235|18.0076|Bydgoszcz
-49.6480|19.7799|Bystra
-50.9605|17.3970|Bystrzyca
-50.3018|16.6423|Bystrzyca Kłodzka
-52.1507|15.1695|Bytnica
-50.3480|18.9328|Bytom
-51.7306|15.8236|Bytom Odrzański
-54.1706|17.4919|Bytów
-52.5576|18.5952|Bytoń
-50.1805|19.7874|Bębło
-49.8779|19.8672|Bęczarka
-51.5876|19.7496|Będków
-50.3261|19.1257|Będzin
-54.2471|18.8457|Cedry Wielkie
-52.8793|14.2025|Cedynia
-52.1478|21.7374|Cegłów
-53.5729|18.0112|Cekcyn
-52.0609|21.3911|Celestynów
-52.6308|22.2283|Ceranów
-54.0078|15.1090|Cerkwica
-54.4355|17.7349|Cewice
-49.9256|18.3173|Chałupki
-52.1953|19.9426|Chąśno
-51.1431|23.4716|Chełm
-50.1016|19.2480|Chełmek
-49.6305|20.6642|Chełmiec
-53.3486|18.4251|Chełmno
-50.1082|19.1955|Chełm Śląski
-53.1846|18.6047|Chełmża
-54.8036|18.3735|Chłapowo
-51.2438|20.7687|Chlewiska
-50.6144|20.7521|Chmielnik
-54.3254|18.0986|Chmielno
-50.6496|17.8667|Chmielowice
-52.4862|19.0134|Choceń
-51.4187|15.9017|Chocianów
-53.4670|15.3334|Chociwel
-51.9764|17.8699|Chocz
-54.7399|17.8917|Choczewo
-49.8742|19.4544|Chocznia
-52.4051|19.0276|Chodecz
-51.1118|22.1327|Chodel
-52.2496|19.0122|Chodów
-52.9950|16.9198|Chodzież
-52.9639|14.4280|Chojna
-53.6955|17.5570|Chojnice
-51.2737|15.9366|Chojnów
-49.6467|21.6716|Chorkówka
-53.1433|22.9889|Choroszcz
-50.6818|19.2606|Choroń
-53.2608|20.8973|Chorzele
-50.3058|18.9742|Chorzów
-53.1690|15.4205|Choszczno
-51.2404|21.7766|Chotcza
-52.9438|19.2533|Chrostkowo
-50.7808|17.8123|Chróścice
-50.6658|17.8176|Chrościna
-50.4147|19.3272|Chruszczobród
-50.1355|19.4020|Chrzanów
-50.6662|18.0729|Chrząstowice
-52.6282|16.2285|Chrzypsko Wielkie
-50.7666|21.8868|Chwałowice
-54.4438|18.4187|Chwaszczyno
-49.9025|18.8276|Chybie
-51.9042|21.0821|Chynów
-49.4267|19.6696|Chyżne
-50.8002|20.4623|Chęciny
-50.7543|18.6084|Ciasna
-52.8814|20.6200|Ciechanów
-52.6783|22.4981|Ciechanowiec
-53.0558|18.9263|Ciechocin
-52.8791|18.7950|Ciechocinek
-51.1322|16.5677|Ciechów
-51.7158|20.3443|Cielądz
-50.0883|19.0190|Cielmice
-51.2484|21.5748|Ciepielów
-50.8655|15.6837|Cieplice Śląskie Zdrój
-50.6748|16.9087|Ciepłowody
-50.2456|23.1316|Cieszanów
-51.6310|17.3573|Cieszków
-49.7513|18.6321|Cieszyn
-50.2823|18.1999|Cisek
-49.5921|19.1054|Cisiec
-49.2133|22.3280|Cisna
-49.7228|18.7621|Cisownica
-49.6022|19.1410|Cięcina
-49.7858|20.9732|Ciężkowice
-50.8903|21.5143|Ćmielów
-50.2953|21.7442|Cmolas
-52.1945|14.7957|Cybinka
-51.2993|23.1412|Cyców
-50.5620|19.1196|Cynków
-51.4920|18.3273|Czajków
-49.8507|19.2535|Czaniec
-53.5577|16.2333|Czaplinek
-52.3172|16.9127|Czapury
-50.0183|18.9068|Czarków
-50.0672|21.2561|Czarna
-53.3051|23.2815|Czarna Białostocka
-54.3563|17.5646|Czarna Dąbrówka
-49.3766|20.1305|Czarna Góra
-53.8446|18.1001|Czarna Woda
-53.6842|16.9383|Czarne
-53.3561|21.1952|Czarnia
-52.9021|16.5641|Czarnków
-50.0047|20.0679|Czarnochowice
-50.3408|20.5162|Czarnocin
-50.7286|17.8982|Czarnowąsy
-51.2853|18.5611|Czarnożyły
-50.7708|16.1305|Czarny Bór
-49.4366|19.8516|Czarny Dunajec
-51.2587|18.3195|Czastary
-49.4485|22.2165|Czaszyn
-49.8373|20.6806|Czchów
-49.9134|19.0048|Czechowice-Dziedzice
-50.3154|19.0782|Czeladź
-51.6730|22.6389|Czemierniki
-52.1440|16.7641|Czempiń
-52.5167|23.3500|Czeremcha
-51.9501|17.7496|Czermin
-51.0461|17.2451|Czernica
-53.0320|20.7194|Czernice Borowe
-49.9892|19.6811|Czernichów
-52.4264|17.4892|Czerniejewo
-52.5116|19.0869|Czerniewice
-52.9469|18.9380|Czernikowo
-53.7959|17.9765|Czersk
-52.0129|15.4232|Czerwieńsk
-52.9490|21.7584|Czerwin
-50.1501|18.6776|Czerwionka-Leszczyny
-52.3983|20.3096|Czerwińsk Nad Wisłą
-52.4646|16.9817|Czerwonak
-52.8925|21.2149|Czerwonka
-53.0886|16.1210|Człopa
-53.6672|17.3588|Człuchów
-49.9449|21.8413|Czudec
-50.0596|19.7011|Czułów
-52.7977|22.3124|Czyżew
-49.9849|18.4043|Czyżowice
-50.7965|19.1241|Częstochowa
-52.0867|18.8225|Dąbie
-52.7467|17.9434|Dąbrowa
-53.6536|23.3479|Dąbrowa Białostocka
-53.1752|18.3054|Dąbrowa Chełmińska
-50.3339|19.2048|Dąbrowa Górnicza
-50.1746|20.9863|Dąbrowa Tarnowska
-50.8439|19.5565|Dąbrowa Zielona
-52.3114|19.0844|Dąbrowice
-52.4839|21.2979|Dąbrówka
-53.4341|20.0353|Dąbrówno
-51.0773|18.5784|Dalachów
-50.8023|20.8079|Daleszyce
-51.8848|19.1190|Dalików
-52.8398|17.5006|Damasławek
-54.5003|17.2715|Damnica
-54.4209|16.4107|Darłowo
-52.3000|16.9572|Daszewice
-52.1550|19.1815|Daszyna
-53.5382|17.2364|Debrzno
-52.6699|15.3198|Deszczno
-49.5787|22.0434|Długie
-51.1790|17.1914|Długołęka
-50.2830|18.1487|Długomiłowice
-52.7600|21.5918|Długosiodło
-51.5594|19.3920|Dłutów
-51.9244|19.7593|Dmosin
-49.8811|20.0894|Dobczyce
-52.9695|15.7536|Dobiegniew
-50.3970|19.0130|Dobieszowice
-51.9166|18.6156|Dobra
-52.6840|18.5776|Dobre
-53.9867|20.3975|Dobre Miasto
-50.7287|18.4450|Dobrodzień
-51.2678|17.3421|Dobroszyce
-51.6388|19.2454|Dobroń
-53.3591|15.4289|Dobrzany
-50.7684|17.8465|Dobrzeń Wielki
-51.8666|17.6034|Dobrzyca
-53.2002|23.0113|Dobrzyniewo Duże
-52.6381|19.3188|Dobrzyń nad Wisłą
-50.5859|24.0359|Dołhobyczów
-53.1908|15.2027|Dolice
-51.9818|17.0627|Dolsk
-52.0374|22.1764|Domanice
-52.0062|19.8029|Domaniewice
-49.7867|21.9457|Domaradz
-50.8749|20.6829|Domaszowice
-52.2916|17.3575|Dominowo
-52.3573|16.6756|Dopiewo
-51.1547|23.8032|Dorohusk
-51.4172|18.0770|Doruchów
-53.2199|15.7595|Drawno
-52.8542|16.0313|Drawsko
-53.5306|15.8097|Drawsko Pomorskie
-51.9122|22.8716|Drelów
-52.8383|15.8308|Drezdenko
-52.7377|19.9893|Drobin
-49.8696|18.7573|Drogomyśl
-52.4001|22.6585|Drohiczyn
-51.4637|19.3940|Drużbice
-53.4489|14.5792|Drzetowo-Grabowo
-51.4509|20.4770|Drzewica
-53.5052|18.3094|Drzycim
-49.8261|22.3912|Dubiecko
-51.0486|23.8925|Dubienka
-52.3627|21.2905|Duczki
-49.5555|21.6832|Dukla
-52.4469|16.4060|Duszniki
-50.4033|16.3909|Duszniki-Zdrój
-50.7361|21.7886|Dwikozy
-49.6864|22.1720|Dydnia
-54.1303|15.7199|Dygowo
-49.8151|22.2339|Dynów
-53.8376|20.4782|Dywity
-51.2354|17.7092|Dziadowa Kłoda
-53.2396|20.1700|Działdowo
-50.3653|20.3523|Działoszyce
-51.1170|18.8652|Działoszyn
-50.7695|16.3521|Dziećmorowice
-52.3524|20.8512|Dziekanów Leśny
-54.0064|17.7675|Dziemiany
-50.2425|18.2861|Dziergowice
-52.6281|20.2336|Dzierzążnia
-53.1528|20.6632|Dzierzgowo
-53.9220|19.3470|Dzierzgoń
-50.7282|16.6514|Dzierżoniów
-50.0755|20.4549|Dziewin
-50.2729|21.8437|Dzikowiec
-50.2470|22.9298|Dzików Stary
-54.0282|14.7669|Dziwnów
-49.7226|18.7049|Dzięgielów
-53.7049|20.9604|Dźwierzuty
-50.6966|22.5673|Dzwola
-52.1996|21.4433|Dębe Wielkie
-50.0515|21.4114|Dębica
-51.5591|21.8483|Dęblin
-54.3783|17.1612|Dębnica Kaszubska
-49.9670|20.7198|Dębno
-50.0449|22.4361|Dębów
-51.5945|23.0064|Dębowa Kłoda
-53.2554|19.0959|Dębowa Łąka
-49.8141|18.7206|Dębowiec
-54.1522|19.4088|Elbląg
-53.8282|22.3647|Ełk
-52.7193|19.1094|Fabianki
-51.0959|22.9632|Fajsławice
-51.1361|20.1061|Fałków
-54.1804|22.6208|Filipów
-50.1557|19.5658|Filipowice
-51.5588|22.5084|Firlej
-53.1482|18.1704|Fordon
-50.6716|22.6706|Frampol
-49.6958|22.7462|Fredropol
-54.3577|19.6803|Frombork
-49.9963|19.0728|Frydek
-49.4493|20.2296|Frydman
-49.9048|19.4194|Frydrychowice
-49.8416|21.6094|Frysztak
-52.3985|19.7351|Gąbin
-50.0269|22.3590|Gać
-51.1185|16.9860|Gądów Mały
-51.1272|16.9703|Gądów-Popowice Południowe
-51.0801|17.0402|Gaj
-51.0963|17.0020|Gajowice
-51.3447|18.2576|Galewice
-51.7255|19.7136|Gałków Mały
-51.4832|21.6108|Garbatka-Letnisko
-51.3552|22.3294|Garbów
-54.3476|18.1017|Garcz
-50.1167|18.8000|Gardawice
-53.6112|18.9469|Gardeja
-51.8975|21.6147|Garwolin
-52.7676|17.7558|Gąsawa
-52.7375|20.7118|Gąsocin
-50.1086|18.4304|Gaszowice
-51.6277|15.8820|Gaworzyce
-54.3520|18.6464|Gdańsk
-49.9082|20.1988|Gdów
-54.5189|18.5319|Gdynia
-50.9620|19.4718|Gidle
-50.1456|19.8786|Giebułtów
-50.2269|22.4059|Giedlarowa
-51.4008|20.4813|Gielniów
-49.9443|19.3907|Gierałtowice
-54.0813|21.4955|Gierłoż
-53.5413|20.0887|Gierzwałd
-53.7462|20.2374|Gietrzwałd
-49.9950|19.0961|Gilowice
-52.0427|17.7694|Gizałki
-54.0381|21.7644|Giżycko
-52.8198|20.2920|Glinojeck
-50.2976|18.6766|Gliwice
-49.8945|19.8741|Głogoczów
-51.6636|16.0845|Głogów
-50.3535|17.8640|Głogówek
-50.1512|21.9629|Głogów Małopolski
-54.6193|17.3723|Główczyce
-51.9646|19.7157|Głowno
-50.2009|17.8286|Głubczyce
-50.3150|17.3835|Głuchołazy
-51.7795|20.0767|Głuchów
-50.6874|16.3717|Głuszyca
-50.6661|16.3758|Głuszyca Górna
-50.5962|19.1113|Gniazdów
-50.9880|16.8336|Gniechowice
-53.8360|18.8231|Gniew
-54.7171|18.0166|Gniewino
-52.8946|18.4078|Gniewkowo
-52.5348|17.5826|Gniezno
-54.7474|18.3794|Gnieżdżewo
-49.8940|20.6086|Gnojnik
-50.6026|20.8491|Gnojno
-49.9445|18.9693|Goczałkowice Zdrój
-49.9248|18.4783|Godów
-51.8969|20.0359|Godzianów
-49.7129|19.0759|Godziszka
-50.7489|22.4979|Godziszów
-50.7575|22.4839|Godziszów Pierwszy
-50.4922|18.0199|Gogolin
-52.9433|17.2999|Gołańcz
-49.7716|22.0250|Golcowa
-53.8243|14.9785|Golczewo
-54.3063|22.3036|Gołdap
-53.5639|14.8285|Goleniów
-49.7358|18.7368|Goleszów
-52.2431|18.0927|Golina
-49.9142|18.5142|Gołkowice
-53.1109|19.0538|Golub-Dobrzyń
-51.8504|17.9314|Gołuchów
-52.8080|20.8732|Gołymin-Ośrodek
-51.1689|19.4933|Gomunice
-53.4895|22.7358|Goniadz
-51.6664|16.5349|Góra
-50.7218|22.6665|Goraj
-51.9765|21.2154|Góra Kalwaria
-52.0571|19.3200|Góra Świętej Małgorzaty
-50.5290|18.0100|Górażdże
-50.2080|19.6204|Gorenice
-49.6439|22.0430|Górki
-49.7797|18.8312|Górki Wielkie
-49.6556|21.1604|Gorlice
-50.0922|22.4876|Gorliczyna
-50.8477|20.8250|Górno
-54.2856|20.4889|Górowo Iławeckie
-50.9478|23.0127|Gorzków
-51.2153|19.5963|Gorzkowice
-53.1978|19.6432|Górzno
-52.7368|15.2288|Gorzów Wielkopolski
-51.0287|18.4230|Gorzów Śląski
-52.4945|14.6550|Górzyca
-49.9594|18.3988|Gorzyce
-51.6373|17.7295|Gorzyce Wielkie
-49.9491|18.4033|Gorzyczki
-53.4901|17.8098|Gostycyn
-52.4294|19.4619|Gostynin
-51.8825|17.0123|Gostyń
-51.7916|18.5057|Goszczanów
-51.7319|20.8515|Goszczyn
-51.2784|20.4383|Gowarczów
-52.9008|21.5558|Goworowo
-51.3783|21.3791|Gózd
-51.4363|15.0986|Gozdnica
-52.7246|19.6850|Gozdowo
-54.6046|18.1549|Gościcino
-50.8686|22.0054|Gościeradów
-54.0512|15.6526|Gościno
-51.4799|19.5314|Grabica
-51.0937|16.9782|Grabiszyn
-51.0870|16.9863|Grabiszynek
-52.1272|19.0026|Grabów
-50.8209|23.5506|Grabowiec
-51.5060|18.1193|Grabów nad Prosną
-49.6590|22.0775|Grabownica Starzeńska
-54.1682|18.1469|Grabowo Kościerskie
-53.6473|22.4554|Grajewo
-52.1336|20.8031|Granica
-52.2224|16.5286|Granowo
-50.6984|17.3845|Grodków
-52.0386|18.0597|Grodziec
-52.1039|20.6337|Grodzisk Mazowiecki
-50.1624|22.4629|Grodzisko Dolne
-50.1869|22.4379|Grodzisko Górne
-52.2276|16.3653|Grodzisk Wielkopolski
-49.9815|19.2379|Grojec
-51.3606|15.7645|Gromadka
-49.8384|20.9612|Gromnik
-54.0859|19.3060|Gronowo Elbląskie
-54.1386|19.4599|Gronowo Górne
-53.0949|23.6685|Grudki
-53.0585|20.6249|Grudusk
-53.4841|18.7537|Grudziądz
-50.1916|21.0314|Gruszów Wielki
-53.4532|18.9570|Gruta
-49.6244|20.9480|Grybów
-53.9165|15.2003|Gryfice
-53.2524|14.4883|Gryfino
-51.0308|15.4202|Gryfów Śląski
-49.7136|19.6456|Grzechynia
-52.2018|18.7341|Grzegorzew
-50.0642|19.9676|Grzegórzki
-53.8373|16.4351|Grzmiąca
-51.1333|20.9617|Grzybowa Góra
-54.1589|15.4856|Grzybowo
-50.0830|22.4540|Grzęska
-52.2693|21.9097|Grębków
-51.5991|16.1674|Grębocice
-50.2450|20.7767|Gręboszów
-50.5654|21.8740|Grębów
-51.9496|14.7284|Gubin
-52.1163|20.3367|Guzów
-49.8279|21.9977|Gwoźnica Górna
-52.7405|20.9437|Gzy
-49.6615|21.8979|Haczów
-52.7433|23.5812|Hajnówka
-52.2288|21.3551|Halinów
-49.9953|22.2231|Handzlówka
-50.4751|22.4729|Harasiuki
-49.8124|19.7804|Harbutowice
-51.4129|23.3994|Hańsk
-49.8071|18.6518|Hażlach
-54.6081|18.8013|Hel
-50.6533|17.0103|Henryków
-50.7532|18.8876|Herby
-52.2864|20.8079|Hornówek
-50.8946|24.0372|Horodło
-50.1915|23.3628|Horyniec-Zdrój
-50.8050|23.8925|Hrubieszów
-51.0893|17.0411|Huby
-49.6751|22.0537|Humniska
-49.9797|22.2864|Husów
-50.7379|19.1330|Huta Stara B
-49.9177|22.1813|Hyżne
-53.5960|19.5685|Iława
-52.3395|20.0273|Iłów
-51.5006|15.1998|Iłowa
-53.1681|20.2930|Iłowo -Osada
-51.1631|21.2398|Iłża
-50.1453|19.1860|Imielin
-50.5857|20.4481|Imielno
-51.5272|20.2230|Inowłódz
-52.7989|18.2639|Inowrocław
-49.8635|19.3928|Inwałd
-49.5632|18.9057|Istebna
-50.7315|21.2806|Iwaniska
-50.0296|21.7540|Iwierzyce
-49.8172|20.5902|Iwkowa
-49.5632|21.7899|Iwonicz-Zdrój
-52.2999|20.8173|Izabelin
-50.8873|23.1525|Izbica
-52.4207|18.7627|Izbica Kujawska
-50.5716|18.1559|Izbicko
-49.8722|19.7680|Izdebnik
-53.4361|15.5502|Ińsko
-49.6978|21.8996|Jabłonica Polska
-49.4797|19.6937|Jabłonka
-52.2060|16.2074|Jabłonna
-52.4766|22.4423|Jabłonna Lacka
-53.3914|19.1551|Jabłonowo Pomorskie
-51.7250|23.0874|Jabłoń
-52.4785|21.6320|Jadów
-49.9588|20.6443|Jadowniki
-50.1655|20.7284|Jadowniki Mokre
-50.0946|22.5726|Jagiełła
-52.2197|21.6803|Jakubów
-51.2699|22.6342|Jakubowice Murowane
-52.7533|18.1133|Janikowo
-50.0009|18.9890|Jankowice
-50.0448|18.5471|Jankowice Rybnickie
-51.5981|17.7882|Janków Przygodzki
-49.8915|20.8608|Janowice
-50.8757|15.9232|Janowice Wielkie
-51.3236|21.8894|Janowiec
-52.7558|17.4898|Janowiec Wielkopolski
-50.7069|22.4104|Janów Lubelski
-52.1940|23.2122|Janów Podlaski
-50.3919|18.1368|Januszkowice
-51.9685|17.2971|Jaraczewo
-50.4244|23.5858|Jarczów
-51.1216|16.8662|Jarnołtów-Jerzmanowo
-51.9727|17.5026|Jarocin
-50.0162|22.6778|Jarosław
-49.8627|19.5196|Jaroszowice
-49.8228|19.8419|Jasienica
-49.7514|21.9418|Jasienica Rosielna
-51.8210|20.9410|Jasieniec
-49.9699|20.5719|Jasień
-49.6584|21.9768|Jasionów
-49.7451|21.4725|Jasło
-54.6983|18.6773|Jastarnia
-51.3041|22.4355|Jastków
-53.4205|16.8176|Jastrowie
-51.2473|20.9476|Jastrząb
-49.7973|20.8809|Jastrzębia
-54.8314|18.3130|Jastrzębia Góra
-49.9554|18.5748|Jastrzębie Zdrój
-51.0513|16.1935|Jawor
-49.8558|19.8931|Jawornik
-49.8908|22.2887|Jawornik Polski
-49.7935|18.9479|Jaworze
-50.2053|19.2750|Jaworzno
-50.9134|16.4324|Jaworzyna Śląska
-49.5402|18.8700|Jaworzynka
-49.4423|21.8080|Jaśliska
-49.7175|21.6489|Jedlicze
-50.7201|16.3465|Jedlina-Zdrój
-51.5140|21.1158|Jedlińsk
-51.4307|21.3354|Jedlnia-Letnisko
-53.1412|21.0516|Jednorożec
-53.2855|22.3035|Jedwabne
-53.5299|20.7266|Jedwabno
-50.1081|18.4677|Jejkowice
-51.0210|17.3209|Jelcz
-51.0213|17.3165|Jelcz Laskowice
-50.8997|15.7290|Jelenia Góra
-49.6425|19.3270|Jeleśnia
-50.5457|18.3781|Jemielnica
-52.6965|15.0980|Jenin
-50.2127|19.7467|Jerzmanowice
-53.9758|20.7464|Jeziorany
-52.5304|18.2680|Jeziora Wielkie
-51.6024|22.2767|Jeziorzany
-53.5106|18.4944|Jeżewo
-51.8138|19.9688|Jeżów
-50.3749|22.1275|Jeżowe
-50.9351|15.7431|Jeżów Sudecki
-49.8723|21.2790|Jodłowa
-49.9930|20.5482|Jodłówka
-50.0499|21.1333|Jodłówka-Wałki
-52.6013|20.5818|Joniec
-53.8282|20.3105|Jonkowo
-49.6493|19.8298|Jordanów
-50.8642|16.8687|Jordanów Śląski
-52.1005|21.0463|Józefosław
-50.4812|23.0540|Józefów
-51.0418|21.8302|Józefów nad Wisłą
-50.6276|16.5181|Jugów
-49.6929|19.6913|Juszczyn
-49.6298|19.2203|Juszczyna
-51.6501|17.1696|Jutrosin
-50.6394|20.3045|Jędrzejów
-52.1301|21.0815|Kabaty
-53.1035|16.8817|Kaczory
-49.8275|18.5916|Kaczyce
-53.2343|21.4645|Kadzidło
-50.8366|18.9843|Kalej
-50.5627|18.8926|Kalety
-53.9053|18.2188|Kaliska
-51.7611|18.0910|Kalisz
-53.2991|15.9063|Kalisz Pomorski
-52.2067|21.8084|Kałuszyn
-49.8676|19.6772|Kalwaria Zebrzydowska
-49.5647|19.0212|Kamesznica
-49.5753|20.3451|Kamienica
-50.6709|19.1227|Kamienica Polska
-52.1661|16.4616|Kamieniec
-51.0718|17.1819|Kamieniec Wrocławski
-50.5254|16.8792|Kamieniec Ząbkowicki
-50.7831|16.0304|Kamienna Góra
-50.5703|17.1498|Kamiennik
-50.0121|19.5854|Kamień
-53.5335|17.5202|Kamień Krajeński
-53.9685|14.7726|Kamień Pomorski
-51.2024|19.4966|Kamieńsk
-51.4716|22.4627|Kamionka
-49.5685|20.8236|Kamionka Wielka
-52.2684|20.4631|Kampinos
-50.9018|19.0287|Kamyk
-50.9858|20.6639|Kaniów
-52.0765|21.2496|Karczew
-51.2295|21.9816|Karczmiska
-52.0714|15.8614|Kargowa
-54.0352|15.8774|Karlino
-51.1413|17.0521|Karłowice
-51.1367|17.0432|Karłowice-Różanka
-54.0300|15.0550|Karnice
-52.8370|20.9889|Karniewo
-50.7767|15.7559|Karpacz
-53.9077|17.9209|Karsin
-54.3342|18.1974|Kartuzy
-49.7297|20.1355|Kasina Wielka
-50.0388|19.7193|Kaszów
-50.2584|19.0275|Katowice
-51.0310|16.7677|Kąty Wrocławskie
-51.9092|18.5310|Kawęczyn
-51.8860|20.2470|Kawęczyn Nowy
-51.2759|21.4674|Kazanów
-50.2656|20.4936|Kazimierza Wielka
-52.3110|18.1658|Kazimierz Biskupi
-51.3191|21.9550|Kazimierz Dolny
-52.5131|16.5840|Kaźmierz
-49.9835|22.4117|Kańczuga
-52.9919|17.4883|Kcynia
-50.0262|21.9291|Kielanówka
-50.8703|20.6275|Kielce
-51.1400|17.1780|Kiełczów
-52.3580|20.8621|Kiełpin
-52.2686|19.8709|Kiernozia
-50.0804|18.0043|Kietrz
-50.6072|20.5712|Kije
-52.9099|19.1202|Kikół
-53.6086|19.2635|Kisielice
-52.5887|17.2663|Kiszkowo
-49.9925|20.2990|Kłaj
-52.6318|17.4307|Kłecko
-49.8829|19.5376|Klecza Dolna
-52.3706|18.1771|Kleczew
-52.4065|21.3318|Klembów
-51.9922|15.7839|Klenica
-52.5731|23.3254|Kleszczele
-52.3338|17.1716|Kleszczewo
-51.2236|19.3042|Kleszczów
-49.5193|19.9849|Klikuszowa
-50.6559|21.4559|Klimontów
-50.9008|18.9367|Kłobuck
-51.7213|21.9649|Kłoczew
-52.2545|18.9135|Kłodawa
-50.4349|16.6614|Kłodzko
-50.9216|19.3568|Kłomnice
-51.4193|18.4182|Klonowa
-50.9728|18.2182|Kluczbork
-50.3357|19.5624|Klucze
-51.3419|19.2394|Kluki
-49.4510|20.3018|Kluszkowce
-51.5345|20.6364|Klwów
-50.2197|18.6507|Knurów
-53.3141|22.9196|Knyszyn
-49.8550|19.2165|Kobiernice
-50.9705|16.9351|Kobierzyce
-50.0609|18.9347|Kobiór
-51.3792|17.8381|Kobyla Góra
-49.6689|21.2229|Kobylanka
-51.7165|17.2268|Kobylin
-52.3395|21.1959|Kobyłka
-52.4460|17.0764|Kobylnica
-50.7055|18.7491|Kochanowice
-52.2173|20.0181|Kocierzew Południowy
-51.6400|22.4439|Kock
-53.9045|17.0653|Koczała
-51.9117|23.6030|Kodeń
-50.0125|20.0783|Kokotów
-52.2174|17.6241|Kołaczkowo
-49.8074|21.4341|Kołaczyce
-53.3364|14.4383|Kołbaskowo
-52.0643|21.4815|Kołbiel
-54.2699|18.4664|Kolbudy
-50.2441|21.7761|Kolbuszowa
-54.2390|17.2315|Kołczygłowy
-54.4863|18.3437|Koleczkowo
-53.4115|21.9291|Kolno
-52.2002|18.6386|Koło
-54.1756|15.5834|Kołobrzeg
-50.6534|18.3849|Kolonowskie
-51.9615|15.9599|Kolsko
-51.7387|19.8199|Koluszki
-51.8032|22.9439|Komarówka Podlaska
-50.6289|23.4774|Komarów-Osada
-49.3392|22.0617|Komańcza
-52.3387|16.8106|Komorniki
-52.1456|20.8157|Komorów
-50.6368|17.8264|Komprachcice
-51.6569|17.0419|Konary
-49.5507|18.9491|Koniaków
-50.7747|19.6890|Koniecpol
-49.8421|21.9282|Konieczkowa
-52.2234|18.2512|Konin
-50.7270|19.0078|Konopiska
-51.9316|15.9039|Konotop
-52.0938|21.1176|Konstancin-Jeziorna
-52.2075|23.0853|Konstantynów
-51.7478|19.3256|Konstantynów Łódzki
-50.5934|21.5838|Koprzywnica
-49.5682|19.3500|Korbielów
-52.3533|22.6134|Korczew
-49.7156|21.8094|Korczyna
-50.4889|17.5990|Korfantów
-52.2477|17.0895|Kórnik
-50.0718|18.3285|Kornowac
-53.3137|17.9370|Koronowo
-54.1700|21.1392|Korsze
-53.7573|20.4562|Kortowo
-52.4144|21.8495|Korytnica
-49.6863|20.8436|Korzenna
-54.5893|18.4848|Kosakowo
-50.0721|22.3290|Kosina
-52.5954|22.1471|Kosów Lacki
-50.9268|20.5653|Kostomłoty Drugie
-50.9232|20.5949|Kostomłoty Pierwsze
-52.3985|17.2281|Kostrzyn
-52.5871|14.6495|Kostrzyn nad Odrą
-54.1944|16.1722|Koszalin
-49.6446|19.4008|Koszarawa
-49.9723|20.9417|Koszyce
-49.9808|20.9455|Koszyce Wielkie
-50.6341|18.8413|Koszęcin
-51.7454|16.0358|Kotla
-51.9191|17.6483|Kotlin
-52.1764|22.0682|Kotuń
-52.5302|19.1477|Kowal
-51.3250|21.0697|Kowala
-54.3098|18.5615|Kowale
-54.1635|22.4167|Kowale Oleckie
-51.1309|17.1017|Kowale-Popiele
-53.1543|18.8987|Kowalewo Pomorskie
-50.7931|15.8356|Kowary
-51.8894|20.4193|Kowiesy
-51.1445|16.9694|Kozanów
-50.6003|19.1630|Koziegłowy
-51.5829|21.5478|Kozienice
-50.3356|18.1433|Koźle
-50.4839|20.0246|Kozłów
-53.3065|20.2910|Kozłowo
-51.7987|18.3389|Koźminek
-51.8271|17.4539|Koźmin Wielkopolski
-51.2232|22.4275|Kozubszczyzna
-49.8476|19.1489|Kozy
-50.4258|22.1538|Kończyce
-49.8582|18.6296|Kończyce Małe
-49.8351|18.6447|Kończyce Wielkie
-51.1917|20.4061|Końskie
-51.4092|22.0517|Końskowola
-52.0883|16.6487|Kościan
-52.1743|18.5707|Kościelec
-49.2907|19.8893|Kościelisko
-54.1223|17.9812|Kościerzyna
-51.7456|15.5949|Kożuchów
-50.0380|22.1680|Kraczkowa
-53.2976|16.9908|Krajenka
-50.0726|19.9325|Kraków
-49.8603|22.5014|Kramarzówka
-52.2647|18.4241|Kramsk
-50.4751|17.9654|Krapkowice
-49.7764|22.6525|Krasiczyn
-52.9240|20.9673|Krasne
-50.5455|23.2131|Krasnobród
-54.1161|23.2048|Krasnopol
-53.0338|21.1574|Krasnosielc
-50.9846|23.1742|Krasnystaw
-50.8887|20.1186|Krasocin
-51.5187|18.2200|Kraszewice
-50.9317|23.3493|Kraśniczyn
-50.9236|22.2271|Kraśnik
-49.5113|21.5004|Krempna
-51.7741|16.9824|Krobia
-50.5618|19.5700|Kroczyce
-54.7792|18.1616|Krokowa
-52.2236|16.8325|Krosno
-52.0549|15.0988|Krosno Odrzańskie
-51.6987|17.4374|Krotoszyn
-49.4408|20.4262|Krościenko nad Dunajcem
-49.6795|21.8290|Krościenko Wyżne
-49.4479|20.3396|Krośnica
-51.4764|17.3592|Krośnice
-52.2559|19.1704|Krośniewice
-54.0885|21.9223|Kruklanki
-50.5734|18.6225|Krupski Młyn
-52.6756|18.3313|Kruszwica
-54.3805|19.4441|Krynica Morska
-49.4222|20.9594|Krynica-Zdrój
-50.5876|23.3816|Krynice
-53.2644|23.7730|Krynki
-50.0167|18.8057|Kryry
-50.0438|19.7982|Kryspinów
-50.0182|18.1225|Krzanowice
-49.7381|19.9182|Krzczonów
-49.9888|20.4878|Krzeczów
-49.9892|22.4638|Krzeczowice
-50.0621|22.1805|Krzemienica
-51.8591|16.8335|Krzemieniewo
-50.9706|18.7289|Krzepice
-49.7591|19.4891|Krzeszów
-50.1425|19.6322|Krzeszowice
-52.5833|15.0071|Krzeszyce
-51.0709|16.9947|Krzyki
-51.0641|17.0019|Krzyki-Partynice
-52.1104|17.3741|Krzykosy
-53.1577|20.7858|Krzynowłoga Mała
-49.8835|19.9229|Krzyszkowice
-49.8935|19.8322|Krzywaczka
-49.7989|22.5455|Krzywcza
-51.7952|22.1999|Krzywda
-51.9630|16.8198|Krzywiń
-52.1841|19.4562|Krzyżanów
-49.9825|18.2685|Krzyżanowice
-49.5924|19.3447|Krzyżowa
-49.9853|18.6728|Krzyżowice
-52.8810|16.0112|Krzyż Wielkopolski
-49.9432|19.7416|Krzęcin
-51.6829|19.4028|Ksawerów
-50.1552|18.5993|Książenice
-52.0617|17.2395|Książ Wielkopolski
-51.0729|17.0888|Księże Małe-Księże Wielkie
-50.9085|21.9897|Księżomierz
-50.4232|22.7353|Księżpol
-53.0862|20.0478|Kuczbork-Osada
-50.4430|16.2440|Kudowa-Zdrój
-49.7325|19.4849|Kuków
-51.2223|16.2481|Kunice
-51.5994|15.1649|Kunice Żarskie
-50.9616|21.2806|Kunów
-50.8066|17.8835|Kup
-51.3894|22.1864|Kurów
-50.2998|22.4660|Kuryłówka
-53.3986|19.5786|Kurzętnik
-52.2306|19.3641|Kutno
-50.2006|18.3115|Kuźnia Raciborska
-53.5109|23.6495|Kuźnica
-52.3639|16.3154|Kuślin
-50.0641|19.4921|Kwaczała
-53.7249|18.9311|Kwidzyn
-52.5551|16.0856|Kwilcz
-50.3498|18.2261|Kędzierzyn-Koźle
-54.2411|16.8897|Kępice
-50.6398|21.8813|Kępie Żaleszańskie
-51.2784|17.9891|Kępno
-53.5587|17.7158|Kęsowo
-54.0768|21.3753|Kętrzyn
-49.8821|19.2233|Kęty
-52.9521|17.9197|Łabiszyn
-49.5277|20.8550|Łabowa
-50.6552|23.3662|Łabunie
-49.7156|19.4746|Lachowice
-52.4662|19.6114|Łąck
-49.5576|20.4359|Łącko
-49.9841|19.5787|Łączany
-51.0023|20.7971|Łączna
-52.2093|17.9299|Lądek
-50.3437|16.8795|Lądek-Zdrój
-50.7909|16.8446|Łagiewniki
-50.7752|21.0843|Łagów
-52.4287|20.9495|Łajski
-50.3106|17.5281|Łąka Prudnicka
-49.5345|19.0055|Laliki
-50.5387|17.5610|Łambinowice
-49.8450|19.7158|Lanckorona
-52.3620|19.2803|Łanięta
-49.8654|20.2915|Łapanów
-49.9599|20.3845|Łapczyca
-49.3981|20.2434|Łapsze Niżne
-52.9911|22.8842|Łapy
-49.5088|19.9808|Lasek
-53.5179|19.0883|Łasin
-51.5906|19.1328|Łask
-51.7899|21.5912|Łaskarzew
-49.7615|20.4505|Laskowa
-50.5333|23.7256|Łaszczów
-50.0202|22.9000|Laszki
-52.0264|21.8083|Latowicz
-51.1423|21.8792|Łaziska
-50.1495|18.8422|Łaziska Górne
-50.4277|19.3946|Łazy
-50.0687|22.2291|Łańcut
-54.7610|17.5555|Łeba
-49.8786|22.0137|Lecka
-52.4015|20.9266|Legionowo
-51.2101|16.1619|Legnica
-51.1442|16.2421|Legnickie Pole
-54.3246|20.2248|Lelkowo
-50.6833|19.6256|Lelów
-49.4701|22.3304|Lesko
-51.8403|16.5749|Leszno
-52.0909|20.9348|Lesznowola
-50.7487|17.6169|Lewin Brzeski
-50.4056|16.2910|Lewin Kłodzki
-49.8989|19.7354|Leńcze
-51.0243|15.2641|Leśna
-52.1332|23.0279|Leśna Podlaska
-49.4009|20.0600|Leśnica
-51.1423|16.8477|Leśnica-Ratyń-Pustki
-50.2626|22.4193|Leżajsk
-51.1490|19.3273|Lgota Wielka
-49.9724|19.8946|Libertów
-50.1040|19.3157|Libiąż
-52.3123|18.3551|Licheń Stary
-53.2628|19.8266|Lidzbark
-54.1259|20.5795|Lidzbark Warmiński
-49.8986|18.9509|Ligota
-49.7059|20.4220|Limanowa
-54.4514|17.9345|Linia
-54.0766|18.2267|Liniewo
-51.8986|19.9417|Lipce Reymontowskie
-53.0034|14.9692|Lipiany
-51.0126|18.7966|Lipie
-49.6730|21.2929|Lipinki
-51.6395|14.9987|Lipinki Łużyckie
-53.4960|17.2508|Lipka
-53.9962|17.4070|Lipnica
-49.5151|19.6350|Lipnica Mała
-49.7049|20.8684|Lipnica Wielka
-50.7298|21.4939|Lipnik
-51.9172|16.5671|Lipno
-49.6757|19.0940|Lipowa
-53.1046|20.1764|Lipowiec Kościelny
-53.7331|23.4022|Lipsk
-51.1595|21.6493|Lipsko
-54.0981|17.7845|Lipusz
-53.2958|18.6871|Lisewo
-54.0966|18.8293|Lisewo Malborskie
-50.0804|21.0440|Lisia Góra
-51.8331|18.3979|Lisków
-50.0388|19.7684|Liszki
-53.5280|18.2127|Lniano
-53.6392|15.6213|Łobez
-50.9308|18.9909|Łobodno
-53.2624|17.2557|Łobżenica
-52.5308|21.6816|Łochów
-49.7299|19.1394|Łodygowice
-51.7706|19.4739|Łódź
-51.9044|23.1766|Łomazy
-52.3341|20.8860|Łomianki
-53.1781|22.0593|Łomża
-50.5644|21.5260|Łoniów
-51.0408|23.0183|Łopiennik Górny
-49.9345|22.3930|Łopuszka Wielka
-49.4728|20.1302|Łopuszna
-50.9486|20.2508|Łopuszno
-52.2113|22.7180|Łosice
-50.7910|17.5659|Łosiów
-49.7498|20.6313|Łososina Dolna
-52.1071|19.9453|Łowicz
-50.1570|23.1234|Lubaczów
-52.7469|18.9194|Lubanie
-51.4603|22.6095|Lubartów
-52.8521|16.5234|Lubasz
-53.5043|19.7497|Lubawa
-50.7046|16.0003|Lubawka
-51.1201|15.2877|Lubań
-49.9308|21.9266|Lubenia
-53.1386|18.4811|Łubianka
-53.8514|18.3990|Lubichowo
-53.0315|18.7456|Lubicz Dolny
-53.0269|18.7710|Lubicz Górny
-53.4654|18.0299|Lubiewo
-49.7192|19.9785|Lubień
-52.4057|19.1644|Lubień Kujawski
-51.4009|16.2015|Lubin
-52.7807|14.9479|Lubiszyn
-54.2846|18.5039|Lublewo Gdańskie
-51.2500|22.5667|Lublin
-50.6690|18.6844|Lubliniec
-50.7860|18.0011|Łubniany
-50.4116|21.1501|Łubnice
-52.5164|15.2500|Lubniewice
-51.6079|20.0539|Lubochnia
-50.0397|18.3082|Lubomia
-49.6085|20.2021|Lubomierz
-54.0668|20.2396|Lubomino
-53.1187|19.8459|Lubowidz
-52.5117|17.4533|Łubowo
-52.3471|16.8927|Luboń
-52.5418|18.8325|Lubraniec
-52.3042|15.4432|Lubrza
-51.7847|14.9720|Lubsko
-50.9159|17.5217|Lubsza
-50.3410|23.5194|Lubycza Królewska
-50.6246|16.4605|Ludwikowice Kłodzkie
-51.3460|22.9058|Ludwin
-49.4666|19.9825|Ludźmierz
-51.9290|22.3796|Łuków
-50.0930|20.9755|Łukowa
-49.6111|20.4829|Łukowica
-50.1741|19.4043|Luszowice
-52.9815|19.7665|Lutocin
-51.7538|19.2110|Lutomiersk
-49.9671|21.9124|Lutoryż
-49.2532|22.6925|Lutowiska
-51.3703|18.4348|Lututów
-54.5660|18.1091|Luzino
-49.7129|21.0464|Łużna
-52.4480|16.1811|Lwówek
-51.1107|15.5858|Lwówek Śląski
-53.3644|21.5649|Łyse
-50.1199|18.3915|Lyski
-53.0863|18.6200|Łysomice
-51.9855|19.9065|Łyszkowice
-54.5392|17.7501|Lębork
-51.3012|22.8814|Łęczna
-52.0596|19.1997|Łęczyca
-54.5941|17.8593|Łęczyce
-50.1426|19.1315|Lędziny
-54.2264|18.6428|Łęgowo
-51.2123|18.1071|Łęka Opatowska
-49.7221|19.2650|Łękawica
-49.8100|21.6602|Łęki
-49.9739|21.2474|Łęki Dolne
-49.9739|21.1743|Łęki Górne
-51.1877|19.7980|Łęki Szlacheckie
-51.5415|14.7358|Łęknica
-49.6975|19.8711|Łętownia
-51.6922|21.5534|Maciejowice
-50.3794|21.7462|Majdan Królewski
-51.9470|20.0521|Maków
-52.8649|21.1005|Maków Mazowiecki
-49.7301|19.6771|Maków Podhalański
-51.9536|18.3913|Malanów
-52.4578|20.1022|Mała Wieś
-54.0359|19.0266|Malbork
-51.2204|16.4936|Malczyce
-53.9198|19.7440|Małdyty
-49.9211|19.2453|Malec
-52.6922|22.0284|Małkinia Górna
-50.8121|20.2641|Małogoszcz
-51.5560|15.4500|Małomice
-53.3038|22.0284|Mały Płock
-49.9352|22.3460|Manasterz
-49.4598|20.2645|Maniowy
-50.8447|16.0212|Marciszów
-52.9734|17.0946|Margonin
-53.3829|15.2665|Marianowo
-52.3207|21.1047|Marki
-50.0170|18.5210|Markłowice
-50.0263|22.3316|Markowa
-51.3746|22.2580|Markuszów
-51.1720|16.8844|Marszowice
-50.9006|20.7232|Masłów
-52.0690|14.9055|Maszewo
-52.5803|19.6290|Maszewo Duże
-49.9892|20.6866|Maszkienice
-49.8580|18.9771|Mazańcowice
-51.1494|16.9419|Maślice Małe
-51.1633|16.9284|Maślice Wielkie
-49.8053|22.9223|Medyka
-51.2252|22.7841|Mełgiew
-50.7383|23.5013|Miączyn
-53.0978|17.0048|Miasteczko Krajeńskie
-50.5026|18.9395|Miasteczko Śląskie
-54.0028|16.9826|Miastko
-51.8841|21.8253|Miastków Kościelny
-50.4954|20.4618|Michałów
-50.1590|19.9804|Michałowice
-53.0349|23.6100|Michałowo
-52.4171|20.9659|Michałów-Reginów
-51.5257|22.3144|Michów
-50.3565|20.0279|Miechów
-50.3960|19.9503|Miechów Charsznica
-50.9368|20.5510|Miedziana Góra
-52.3758|15.9588|Miedzichowo
-52.4678|22.0895|Miedzna
-50.9699|18.9811|Miedzno
-49.6344|21.7873|Miejsce Piastowe
-51.6557|16.9583|Miejska Górka
-50.2871|21.4239|Mielec
-52.6687|17.4978|Mieleszyn
-54.2609|16.0621|Mielno
-50.6659|16.1888|Mieroszów
-50.4450|19.1293|Mierzęcice
-52.7873|14.4935|Mieszkowice
-52.7436|17.3321|Mieścisko
-53.8029|21.5701|Mikołajki
-53.8513|19.1657|Mikołajki Pomorskie
-50.1710|18.9041|Mikołów
-51.5324|17.9738|Mikstat
-54.0092|20.0712|Miłakowo
-51.7037|22.8883|Milanów
-52.1188|20.6715|Milanówek
-52.5197|23.1321|Milejczyce
-51.2323|22.9244|Milejów
-51.5277|17.2714|Milicz
-51.2560|16.0723|Miłkowice
-53.7645|19.8380|Miłomłyn
-54.0139|18.9185|Miłoradz
-52.2032|17.4896|Miłosław
-49.5554|19.0907|Milówka
-50.6516|23.8960|Mircze
-51.1611|17.1703|Mirków
-50.0424|22.5560|Mirocin
-53.3407|16.0879|Mirosławiec
-50.9705|15.3857|Mirsk
-51.1347|21.0571|Mirzec
-51.3963|17.6661|Międzybórz
-49.7875|19.1974|Międzybrodzie Bialskie
-52.5988|15.8970|Międzychód
-50.1478|16.6671|Międzylesie
-51.9864|22.7825|Międzyrzec Podlaski
-52.4446|15.5780|Międzyrzecz
-53.9292|14.4510|Międzyzdroje
-50.1556|19.6087|Miękinia
-51.9213|21.5746|Miętne
-52.1793|21.5725|Mińsk Mazowiecki
-53.1128|20.3841|Mława
-52.2995|20.2002|Młodzieszyn
-54.1869|19.7215|Młynary
-52.9542|21.4114|Młynarze
-49.8894|18.8072|Mnich
-50.0604|19.7260|Mników
-51.0122|20.4843|Mniów
-51.3702|20.0391|Mniszków
-52.7657|19.5559|Mochowo
-50.7542|22.3295|Modliborzyce
-50.1296|19.8646|Modlnica
-50.1174|19.8553|Modlniczka
-51.6943|20.7223|Mogielnica
-49.9389|19.8897|Mogilany
-52.6581|17.9558|Mogilno
-52.2652|22.1118|Mokobody
-52.1934|21.0349|Mokotów
-51.1790|18.4888|Mokrsko
-53.9171|19.9260|Morąg
-50.7468|20.6176|Morawica
-52.2116|22.5173|Mordy
-52.8577|14.3930|Moryń
-52.2454|16.8471|Mosina
-54.6120|18.4963|Mosty
-50.3002|17.4911|Moszczanka
-49.7367|21.0924|Moszczenica
-53.4050|22.7979|Mońki
-53.8644|21.3051|Mrągowo
-53.2431|17.6041|Mrocza
-51.1882|16.7883|Mrozów
-52.0198|20.3670|Mrozy
-54.6538|18.4303|Mrzezino
-54.1438|15.2914|Mrzeżyno
-50.8297|19.2855|Mstów
-49.9694|18.5279|Mszana
-49.6743|20.0799|Mszana Dolna
-49.6620|20.0973|Mszana Górna
-51.9742|20.5208|Mszczonów
-50.2004|19.0435|Murcki
-50.8631|17.9456|Murów
-52.5746|17.0093|Murowana Goślina
-49.3566|20.8972|Muszyna
-50.9236|19.2005|Mykanów
-52.1022|21.0186|Mysiadło
-50.8412|15.7789|Mysłakowice
-50.2075|19.1667|Mysłowice
-50.5752|19.3246|Myszków
-53.3805|21.3496|Myszyniec
-50.1851|19.4812|Myślachowice
-49.8338|19.9383|Myślenice
-52.9238|14.8679|Myślibórz
-50.2822|20.9475|Mędrzechów
-50.0525|19.3753|Mętków
-52.0944|20.8078|Nadarzyn
-51.1254|17.0307|Nadodrze
-50.6784|20.1066|Nagłowice
-50.4369|18.9106|Nakło
-53.1421|17.6018|Nakło nad Notecią
-51.2858|22.2154|Nałęczów
-51.0759|17.7228|Namysłów
-49.6466|19.8792|Naprawa
-52.9142|23.5198|Narew
-50.3492|23.3268|Narol
-52.5269|20.3516|Naruszewo
-52.5889|20.8055|Nasielsk
-49.5669|20.7393|Nawojowa
-52.3650|17.4133|Nekla
-49.9049|19.3246|Nidek
-53.3605|20.4275|Nidzica
-49.5035|22.1565|Niebieszczany
-49.6777|22.1048|Niebocko
-52.0777|20.0690|Nieborów
-49.8567|21.9035|Niebylec
-52.4653|17.6781|Niechanowo
-49.9947|21.8782|Niechobrz
-50.0654|18.4953|Niedobczyce
-50.1074|20.8955|Niedomice
-51.1146|22.3891|Niedrzwica Duża
-49.4101|20.3027|Niedzica
-51.5441|22.6914|Niedźwiada
-49.6210|20.0779|Niedźwiedź
-50.3891|19.4226|Niegowonice
-50.8007|23.0445|Nielisz
-51.3616|22.6394|Niemce
-50.7201|16.8357|Niemcza
-50.6420|17.6193|Niemodlin
-49.8290|22.4270|Nienadowa
-50.0407|20.2226|Niepołomice
-52.4315|21.0321|Nieporęt
-52.8345|18.8992|Nieszawa
-50.5199|22.1397|Nisko
-50.2249|21.6304|Niwiska
-50.4297|21.7508|Nowa Dęba
-50.1731|19.5912|Nowa Góra
-50.5801|16.5016|Nowa Ruda
-50.3209|22.3446|Nowa Sarzyna
-50.8643|21.0905|Nowa Słupia
-51.8033|15.7170|Nowa Sól
-49.9075|19.2165|Nowa Wieś
-54.5588|17.7276|Nowa Wieś Lęborska
-52.9716|18.0904|Nowa Wieś Wielka
-53.6491|18.7272|Nowe
-50.1322|20.3766|Nowe Brzesko
-52.1592|20.9111|Nowe Grocholice
-52.3579|21.2712|Nowe Lipiny
-51.6910|15.7317|Nowe Miasteczko
-52.6569|20.6284|Nowe Miasto
-53.4208|19.5952|Nowe Miasto Lubawskie
-51.6181|20.5762|Nowe Miasto nad Pilicą
-52.0901|17.4111|Nowe Miasto nad Wartą
-52.3032|19.1922|Nowe Ostrowy
-50.2319|23.1588|Nowe Sioło
-51.7104|17.9934|Nowe Skalmierzyce
-53.7226|14.2896|Nowe Warpno
-51.6390|22.1018|Nowodwór
-53.6744|15.1163|Nowogard
-53.2270|21.8821|Nowogród
-51.7986|15.2352|Nowogród Bobrzański
-52.9115|15.0295|Nowogródek Pomorski
-51.1954|15.3985|Nowogrodziec
-50.0575|22.4106|Nowosielce
-49.5684|22.0695|Nowosielce-Gniewosz
-52.5827|19.4800|Nowy Duninów
-54.2131|19.1177|Nowy Dwór Gdański
-52.4302|20.7165|Nowy Dwór Mazowiecki
-50.3012|20.8076|Nowy Korczyn
-49.6218|20.6971|Nowy Sącz
-54.1361|19.0091|Nowy Staw
-49.4778|20.0323|Nowy Targ
-52.3195|16.1284|Nowy Tomyśl
-49.9147|20.4611|Nowy Wiśnicz
-49.6035|21.5238|Nowy Żmigród
-49.7732|22.1987|Nozdrzec
-52.6683|22.3221|Nur
-52.4625|23.0857|Nurzec-Stacja
-50.4738|17.3344|Nysa
-50.1611|18.3110|Nędza
-52.6474|16.8141|Oborniki
-51.3014|16.9147|Oborniki Śląskie
-50.6928|21.6504|Obrazów
-52.9715|18.8786|Obrowo
-52.7163|21.2494|Obryte
-52.7034|16.5281|Obrzycko
-50.3152|22.9569|Obsza
-49.8425|18.7689|Ochaby
-51.8790|15.4713|Ochla
-49.9526|19.9745|Ochojno
-52.2210|20.9853|Ochota
-49.5268|20.3426|Ochotnica Dolna
-51.5742|17.6743|Odolanów
-49.7406|21.7407|Odrzykoń
-51.5195|20.5556|Odrzywół
-50.4518|19.5199|Ogrodzieniec
-52.7657|20.5432|Ojrzeń
-49.9489|20.6016|Okocim
-53.5362|16.8516|Okonek
-50.7287|20.1009|Oksa
-50.9466|17.2926|Oława
-51.1213|17.0530|Ołbin
-54.0337|22.5070|Olecko
-50.2015|20.9258|Olesno
-50.1675|23.0348|Oleszyce
-50.4536|21.0646|Oleśnica
-50.2813|19.5650|Olkusz
-49.8069|21.2046|Ołpiny
-49.5675|20.5213|Olszana
-51.2067|15.8004|Olszanica
-50.7951|17.4789|Olszanka
-52.1903|18.8626|Olszówka
-50.7518|19.2674|Olsztyn
-53.5837|20.2847|Olsztynek
-51.0671|15.3723|Olszyna
-49.9539|18.3391|Olza
-52.3089|16.4128|Opalenica
-51.2146|18.1461|Opatów
-51.7399|18.2165|Opatówek
-50.2431|20.7235|Opatowiec
-52.9055|20.7178|Opinogóra Górna
-51.3757|20.2783|Opoczno
-50.6721|17.9253|Opole
-51.1478|21.9690|Opole Lubelskie
-52.2645|19.5642|Oporów
-52.5094|18.0158|Orchowo
-52.7055|23.3321|Orla
-54.6402|18.1706|Orle
-49.8711|22.8030|Orły
-54.1148|20.1333|Orneta
-50.1938|18.7543|Ornontowice
-51.3134|20.9907|Orońsko
-54.3249|18.6157|Orunia Górna-Gdańsk Południe
-50.4274|18.9228|Orzech
-49.7308|21.9452|Orzechówka
-50.1559|18.7792|Orzesze
-53.8097|21.9481|Orzysz
-53.5992|18.3437|Osie
-51.9665|21.4191|Osieck
-49.8425|19.9821|Osieczany
-51.9042|16.6786|Osieczna
-51.0900|17.0529|Osiedle Henrykowskie
-51.1275|16.9619|Osiedle Kosmonautów
-50.8177|20.5412|Osiedle-Nowiny
-51.0929|17.0206|Osiedle Powstańców Śląskich
-50.5200|21.4419|Osiek
-49.6378|21.4884|Osiek Jasielski
-52.2763|18.6023|Osiek Mały
-53.1203|17.2910|Osiek nad Notecią
-49.6808|19.7824|Osielec
-53.1850|18.0842|Osielsko
-53.6047|15.0123|Osina
-52.6293|18.7221|Osięciny
-51.2895|18.7915|Osjaków
-54.4311|18.4673|Osowa
-54.2126|18.9514|Ostaszewo
-53.6967|19.9649|Ostróda
-53.0862|21.5757|Ostrołęka
-52.6265|16.4499|Ostroróg
-50.6458|16.6396|Ostroszowice
-49.9681|22.7871|Ostrów
-51.5815|22.6123|Ostrówek
-50.9294|21.3852|Ostrowiec Świętokrzyski
-52.3820|18.0447|Ostrowite
-51.4942|22.8529|Ostrów Lubelski
-52.8025|21.8951|Ostrów Mazowiecka
-49.4762|20.1005|Ostrowsko
-51.6550|17.8069|Ostrów Wielkopolski
-52.3044|19.1656|Ostrowy
-50.9780|19.0536|Ostrowy nad Okszą
-51.4264|17.9336|Ostrzeszów
-50.1926|19.5708|Ostrężnica
-50.4663|17.1735|Otmuchów
-52.1284|20.7607|Otrębusy
-52.1058|21.2613|Otwock
-51.8477|15.7111|Otyń
-52.1111|20.7047|Owczarnia
-50.6794|18.2137|Ozimek
-51.9634|19.2914|Ozorków
-52.4536|14.8755|Ośno Lubuskie
-50.0344|19.2104|Oświęcim
-50.8880|21.6666|Ożarów
-50.4618|19.0432|Ożarowice
-52.2104|20.7972|Ożarów Mazowiecki
-51.6645|19.3547|Pabianice
-50.4003|21.0415|Pacanów
-52.3028|19.7098|Pacyna
-50.4639|17.0066|Paczków
-50.4395|21.5006|Padew Narodowa
-51.1445|18.9961|Pajęczno
-51.6144|17.0579|Pakosław
-50.5447|17.3658|Pakosławice
-52.8018|18.0853|Pakość
-49.8045|19.7439|Palcza
-52.5533|16.6809|Pamiątkowo
-50.2314|18.7810|Paniówki
-50.8833|18.7516|Panki
-49.9521|22.4356|Pantalowice
-52.2051|20.4232|Paprotnia
-51.3060|20.1137|Paradyż
-54.2066|17.6682|Parchowo
-51.6402|22.9006|Parczew
-51.0680|17.0139|Partynice
-51.9758|21.6801|Parysów
-51.9485|19.2061|Parzęczew
-54.0616|19.6593|Pasłęk
-53.6507|20.7919|Pasym
-51.0108|16.1527|Paszowice
-51.1440|18.6166|Pątnów
-49.9531|20.0549|Pawlikowice
-49.9953|22.6476|Pawłosiów
-50.9622|21.1206|Pawłów
-49.9613|18.7178|Pawłowice
-51.1649|17.0982|Pawłowice-Kłokoczyce
-50.2466|18.0486|Pawłowiczki
-50.6950|18.5815|Pawonków
-49.7517|19.9711|Pcim
-52.1833|16.8000|Pecna
-53.0435|15.3045|Pełczyce
-53.9283|18.6977|Pelplin
-51.2762|17.8097|Perzów
-49.6746|19.3748|Pewel Wielka
-49.6897|19.3343|Pewel Ślemieńska
-52.0814|21.0240|Piaseczno
-50.0106|18.9481|Piasek
-51.8850|17.0729|Piaski
-52.1844|20.8395|Piastów
-52.0689|19.4797|Piątek
-53.1966|22.0959|Piątnica
-50.8496|15.5989|Piechowice
-53.7576|21.3391|Piecki
-54.3570|18.5817|Piecki-Migowo
-50.0249|19.7962|Piekary
-50.3802|18.9265|Piekary Śląskie
-49.4769|19.7681|Piekielnik
-50.8803|20.4642|Piekoszów
-49.9055|18.6489|Pielgrzymowice
-54.2365|20.1283|Pieniężno
-50.6975|20.7549|Pierzchnica
-49.8334|18.8141|Pierściec
-50.7129|16.5823|Pieszyce
-50.0845|18.0915|Pietrowice Wielkie
-49.6963|19.1599|Pietrzykowice
-51.2490|15.0468|Pieńsk
-53.1514|16.7378|Piła
-51.9594|21.5309|Pilawa
-50.6836|16.7436|Piława Górna
-50.2167|18.5613|Pilchowice
-51.1370|16.9575|Pilczyce
-51.1309|16.9765|Pilczyce-Kozanów-Popowice Północne
-50.4680|19.6573|Pilica
-49.9788|21.2923|Pilzno
-51.4760|21.4500|Pionki
-52.5511|18.4991|Piotrków Kujawski
-51.4055|19.7032|Piotrków Trybunalski
-51.1448|15.2306|Pisarzowice
-50.2358|22.5287|Piskorowice
-53.6274|21.8125|Pisz
-51.9812|23.3772|Piszczac
-49.4406|20.7142|Piwniczna-Zdrój
-50.5205|20.5265|Pińczów
-50.9777|19.4552|Pławno
-50.0999|19.4645|Płaza
-51.8964|17.7855|Pleszew
-52.3671|16.8099|Plewiska
-49.9264|20.9453|Pleśna
-52.5468|19.7064|Płock
-52.9778|21.0718|Płoniawy-Bramura
-53.8018|15.2667|Płoty
-52.6235|20.3755|Płońsk
-53.2967|18.7769|Płużnica
-52.5094|16.2567|Pniewy
-52.4775|17.2877|Pobiedziska
-54.0610|14.9328|Pobierowo
-51.8934|18.9573|Poddębice
-51.6402|21.7442|Podebłocie
-51.6882|23.1996|Podedwórze
-49.5769|20.5886|Podegrodzie
-50.8326|15.6816|Podgórzyn
-52.1224|20.7266|Podkowa Leśna
-50.0146|20.1678|Podłęże
-49.5476|19.7387|Podwilk
-50.0185|21.1579|Pogórska Wola
-54.5644|18.4821|Pogórze
-51.8222|17.2302|Pogorzela
-50.1019|19.4223|Pogorzyce
-50.0672|18.2988|Pogrzebień
-49.8038|18.6011|Pogwizdów
-50.9027|17.8375|Pokój
-51.0948|23.4635|Pokrówka
-52.6207|21.0192|Pokrzywnica
-52.7992|16.7335|Połajewo
-50.4037|16.5127|Polanica-Zdrój
-50.4332|21.2812|Połaniec
-49.9850|19.3261|Polanka Wielka
-54.1193|16.6851|Polanów
-49.3697|22.4211|Polańczyk
-53.7642|16.0957|Połczyn-Zdrój
-53.5521|14.5718|Police
-51.4554|21.6268|Policzna
-51.5039|16.0726|Polkowice
-49.9918|18.5510|Połomia
-50.2283|18.1268|Polska Cerekiew
-52.4714|20.7292|Pomiechówek
-51.1798|22.1309|Poniatowa
-51.7634|16.8087|Poniec
-49.8331|19.4657|Ponikiew
-50.8263|17.7438|Popielów
-49.8172|19.2184|Porąbka
-49.9426|20.6905|Porąbka Uszewska
-50.6780|19.2151|Poraj
-49.4860|22.2250|Poraż
-49.3378|20.0029|Poronin
-49.7965|20.0172|Poręba
-49.9400|20.5541|Poręba Spytkowska
-50.0112|19.2838|Poręba Wielka
-50.3848|22.5619|Potok Górny
-50.7915|22.2164|Potok Wielki
-50.7068|19.4309|Potok Złoty
-51.5087|20.7218|Potworów
-54.4828|17.4862|Potęgowo
-52.4136|17.9193|Powidz
-51.0916|17.0247|Powstańców Śląskich Wschód
-51.0961|17.0177|Powstańców Śląskich Zachód-Centrum Południow
-54.1415|21.8597|Pozezdrze
-52.4069|16.9299|Poznań
-51.1570|17.0290|Poświętne
-53.7550|19.2055|Prabuty
-51.1878|16.9082|Pracze Odrzańskie-Janówek
-52.2544|21.0347|Praga Północ
-52.2442|21.0855|Praga Południe
-51.0538|18.4532|Praszka
-51.9404|20.9548|Prażmów
-51.2731|16.3653|Prochowice
-51.6801|20.9592|Promna
-53.6990|22.4318|Prostki
-50.5767|17.8714|Prószków
-50.1927|20.2891|Proszowice
-49.8653|18.6819|Pruchna
-49.9062|22.5155|Pruchnik
-50.3212|17.5746|Prudnik
-51.3712|16.9602|Prusice
-53.3302|18.1989|Pruszcz
-54.2622|18.6363|Pruszcz Gdański
-52.1707|20.8121|Pruszków
-53.0191|20.8803|Przasnysz
-53.7985|17.2521|Przechlewo
-49.9784|19.1705|Przecieszyn
-50.0065|19.3758|Przeciszów
-50.1934|21.4801|Przecław
-51.0879|19.8738|Przedbórz
-52.3344|18.8991|Przedecz
-49.8371|22.3718|Przedmieście Dubieckie
-51.1021|17.0483|Przedmieście Oławskie
-50.2383|19.6885|Przeginia
-53.1041|15.0762|Przelewice
-51.5253|15.7944|Przemków
-49.7850|22.7673|Przemyśl
-52.0081|16.3011|Przemęt
-52.2682|22.5839|Przesmyki
-50.6863|17.1659|Przeworno
-50.0591|22.4941|Przeworsk
-51.4805|14.9519|Przewóz
-54.3799|18.2876|Przodkowo
-53.7578|14.7853|Przybiernów
-50.0303|20.6628|Przyborów
-50.0479|21.9258|Przybyszówka
-51.5919|17.8241|Przygodzice
-51.9817|18.6125|Przykona
-51.3086|21.7474|Przyłęk
-54.4117|18.5984|Przymorze Wielkie
-50.8005|19.5279|Przyrów
-50.8850|18.6917|Przystajń
-51.3586|20.6289|Przysucha
-50.2484|18.7459|Przyszowice
-49.9179|19.6857|Przytkowice
-52.5776|15.6788|Przytoczna
-51.6195|22.2714|Przytoczno
-51.4657|20.9059|Przytyk
-54.1952|18.3212|Przywidz
-50.4947|22.2192|Przędzel
-50.1724|19.5295|Psary
-51.1459|17.0352|Psie Pole
-51.1478|17.1274|Psie Pole Południe-Kiełczów
-51.1476|17.1144|Psie Pole Zawidawie
-52.4772|15.7816|Pszczew
-54.1730|18.6979|Pszczółki
-49.9804|18.9538|Pszczyna
-50.0399|18.3947|Pszów
-51.3105|22.9737|Puchaczów
-54.7179|18.4084|Puck
-51.4166|21.9694|Puławy
-52.7025|21.0828|Pułtusk
-53.7084|20.7068|Purda
-51.9790|20.3504|Puszcza Mariańska
-52.2857|16.8493|Puszczykowo
-49.7184|18.6616|Puńców
-54.2511|23.1812|Puńsk
-53.1462|14.8926|Pyrzyce
-50.4000|18.6333|Pyskowice
-50.5700|22.1291|Pysznica
-52.1706|17.6900|Pyzdry
-51.8038|18.7231|Pęczniew
-51.7657|17.1266|Pępowo
-49.5668|19.8797|Raba Wyżna
-53.8663|15.9449|Rąbino
-49.6089|19.9665|Rabka-Zdrój
-50.5384|23.5469|Rachanie
-52.7815|20.1177|Raciąż
-52.8565|18.8133|Raciążek
-50.0919|18.2193|Racibórz
-50.1934|19.6769|Racławice
-50.3120|17.7753|Racławice Śląskie
-53.9875|22.7849|Raczki
-50.0098|19.7678|Rączna
-50.7516|22.8298|Radecznica
-50.2058|21.1132|Radgoszcz
-50.5043|16.4006|Radków
-50.0502|18.4763|Radlin
-50.0842|20.8497|Radłów
-49.9177|19.4750|Radocza
-51.4025|21.1471|Radom
-53.0867|19.1942|Radomin
-51.0671|19.4448|Radomsko
-50.6810|21.9437|Radomyśl
-50.1969|21.2769|Radomyśl Wielki
-50.0031|18.8810|Radostowice
-51.0739|20.2584|Radoszyce
-53.6658|15.4479|Radowo Małe
-51.0541|17.1093|Radwanice
-49.9472|22.8238|Radymno
-52.9424|20.0922|Radzanów
-52.5731|19.8911|Radzanowo
-49.6465|19.1312|Radziechowy
-52.6248|18.5277|Radziejów
-52.0083|20.5477|Radziejowice
-53.4099|22.4099|Radziłów
-50.4003|18.9023|Radzionków
-49.9353|19.8152|Radziszów
-52.4159|21.1841|Radzymin
-53.3851|18.9372|Radzyń Chełmiński
-51.7833|22.6167|Radzyń Podlaski
-49.5093|19.1128|Rajcza
-53.7310|22.7051|Rajgród
-50.0119|19.1929|Rajsko
-52.1391|16.2735|Rakoniewice
-50.6743|21.0452|Raków
-50.1605|22.2391|Rakszawa
-50.2587|21.9714|Raniżów
-50.1219|18.2996|Raszczyce
-51.7183|17.7257|Raszków
-50.3978|18.1772|Raszowa
-52.1560|20.9226|Raszyn
-51.0331|17.2721|Ratowice
-51.7644|20.2549|Rawa Mazowiecka
-51.6095|16.8585|Rawicz
-53.2599|15.5471|Recz
-54.6053|18.3472|Reda
-52.9417|20.5532|Regimin
-51.7485|20.3871|Regnów
-50.0831|19.5279|Regulice
-51.1337|17.0711|Rejon alei Kromera
-51.1167|17.0613|Rejon placu Grunwaldzkiego
-51.1206|17.0376|Rejon placu Świętego Macieja
-51.0766|17.0258|Rejon ulicy Borowskiej-Południe
-51.1297|17.0338|Rejon ulicy Klęczkowskiej
-51.0915|17.0021|Rejon ulicy Mieleckiej
-51.0861|17.0005|Rejon ulicy Saperów
-51.1025|17.0483|Rejon ulicy Traugutta
-51.0913|23.2819|Rejowiec
-51.1141|23.2472|Rejowiec Fabryczny
-54.6313|18.3628|Rekowo Dolne
-52.2606|21.1636|Rembertów
-52.3856|22.3912|Repki
-53.7731|15.4061|Resko
-54.0504|21.1458|Reszel
-54.0812|15.0147|Rewal
-50.3159|18.1261|Reńska Wieś
-49.8537|19.3157|Roczyny
-52.2495|16.8999|Rogalinek
-51.2041|20.4348|Rogów
-52.7245|17.6512|Rogowo
-50.3911|19.0378|Rogoźnik
-52.7523|16.9905|Rogoźno
-49.5724|19.9230|Rokiciny
-51.6647|19.7831|Rokiciny-Kolonia
-52.5125|16.7457|Rokietnica
-52.1214|23.2951|Rokitno
-50.4320|19.4329|Rokitno Szlacheckie
-49.5915|21.0443|Ropa
-50.0523|21.6089|Ropczyce
-54.2743|18.6038|Rotmanka
-50.0562|22.5469|Rozbórz
-51.7822|17.5049|Rozdrażew
-53.4855|21.3622|Rozogi
-51.3027|19.6457|Rozprza
-50.4349|18.0998|Rozwadza
-52.9033|19.7742|Rościszewo
-52.8876|21.3910|Różan
-51.1434|17.0199|Różanka-Polanka
-53.6416|21.5396|Ruciane-Nida
-51.2367|23.5949|Ruda-Huta
-51.1459|20.2238|Ruda Maleniecka
-50.1215|19.7124|Rudawa
-50.2584|18.8563|Ruda Śląska
-52.7244|22.7268|Rudka
-51.5098|16.2636|Rudna
-50.0989|21.9602|Rudna Mała
-50.0880|21.9476|Rudna Wielka
-49.8524|19.8474|Rudnik
-50.5213|19.4313|Rudniki
-50.4415|22.2486|Rudnik nad Sanem
-50.1900|18.4533|Rudy
-50.0361|18.7623|Rudziczka
-50.3532|18.4091|Rudziniec
-54.5709|18.3880|Rumia
-51.3244|18.9851|Rusiec
-51.4368|20.5870|Rusinów
-49.9960|19.6065|Rusocice
-53.0893|22.4401|Rutki-Kossaki
-49.7296|19.1016|Rybarzowice
-51.0288|22.8505|Rybczewice
-52.1523|20.9366|Rybie
-50.0971|18.5418|Rybnik
-52.2428|20.1030|Rybno
-49.4781|19.0616|Rycerka Dolna
-49.4444|19.0160|Rycerka Górna
-51.1453|17.8513|Rychtal
-52.0715|18.1651|Rychwał
-49.9810|19.5502|Ryczów
-52.8132|16.8311|Ryczywół
-50.0586|18.4170|Rydułtowy
-51.7865|16.6676|Rydzyna
-49.8789|21.1375|Ryglice
-53.8446|18.9608|Ryjewo
-51.6257|21.9327|Ryki
-49.5765|21.8681|Rymanów
-53.9439|15.5287|Rymań
-53.9377|21.5464|Ryn
-53.0660|19.4094|Rypin
-49.4890|20.6663|Rytro
-50.5292|21.2064|Rytwiany
-50.0971|19.8451|Rząska
-52.7133|21.3677|Rząśnik
-53.7579|17.1075|Rzeczenica
-51.1280|21.4401|Rzeczniów
-51.9622|22.7494|Rzeczyca
-53.0476|21.6207|Rzekuń
-49.3700|22.1117|Rzepedź
-49.8054|21.0360|Rzepiennik Strzyżewski
-52.3464|14.8323|Rzepin
-49.9462|19.9728|Rzeszotary
-50.0055|21.9885|Rzeszów
-52.8351|21.3368|Rzewnie
-49.9900|20.5151|Rzezawa
-51.6634|19.4918|Rzgów
-52.1513|18.0498|Rzgów Pierwszy
-49.9540|19.7967|Rzozów
-49.8113|19.3962|Rzyki
-51.1903|19.8538|Ręczno
-50.8592|19.2162|Rędziny
-52.5010|22.3070|Sabnie
-50.4352|19.0304|Sączów
-53.1604|17.4491|Sadki
-51.7252|20.5146|Sadkowice
-53.6654|18.8681|Sadlinki
-50.8526|21.3688|Sadowie
-52.6412|21.8456|Sadowne
-50.6466|21.6482|Samborzec
-50.6827|21.7490|Sandomierz
-50.0687|19.6460|Sanka
-52.3305|19.8677|Sanniki
-49.5557|22.2056|Sanok
-52.7379|15.4102|Santok
-52.3150|22.8904|Sarnaki
-50.3738|19.1506|Sarnów
-50.2289|19.7701|Sąspów
-51.2744|23.4337|Sawin
-50.7668|19.8360|Secemin
-54.1080|23.3470|Sejny
-51.4372|22.6585|Serniki
-52.5104|21.0691|Serock
-51.7007|22.3324|Serokomla
-54.2265|16.2913|Sianów
-53.2039|17.8005|Sicienko
-49.5915|19.7112|Sidzina
-51.0338|17.1474|Siechnice
-52.1677|22.2901|Siedlce
-52.1378|16.0028|Siedlec
-49.9606|22.3795|Siedleczka
-49.8716|20.9962|Siedliska
-51.7686|15.8140|Siedlisko
-51.1222|15.1937|Siekierczyn
-50.3274|19.0290|Siemianowice Śląskie
-52.8811|20.0289|Siemiątkowo
-52.4272|22.8623|Siemiatycze
-49.8536|20.9060|Siemiechów
-51.6288|22.7724|Siemień
-51.2019|18.8988|Siemkowice
-49.5395|19.9301|Sieniawa
-51.6401|15.0604|Sieniawa Żarska
-52.0916|21.6192|Siennica
-51.0012|23.3226|Siennica Różana
-51.0877|21.4833|Sienno
-49.9144|19.9586|Siepraw
-51.5958|18.7302|Sieradz
-50.1350|20.9295|Sieradza
-52.6513|16.0805|Sieraków
-54.3461|17.8925|Sierakowice
-50.8029|18.5755|Sieraków Śląski
-51.6335|17.9720|Sieroszewice
-52.8568|19.6691|Sierpc
-49.9862|22.3467|Sietesz
-50.4666|19.2303|Siewierz
-50.7494|23.3626|Sitno
-50.2305|19.8536|Skała
-50.3199|20.3993|Skalbmierz
-51.7010|17.9633|Skalmierzyce
-52.1529|15.4584|Skąpe
-50.8458|17.4186|Skarbimierz Osiedle
-54.0691|18.4442|Skarszewy
-51.3107|21.2523|Skaryszew
-51.1131|20.8716|Skarżysko-Kamienna
-51.1382|20.9120|Skarżysko Kościelne
-49.6772|19.6232|Skawica
-49.9752|19.8287|Skawina
-49.8228|19.7126|Skawinki
-50.8516|23.3592|Skierbieszów
-51.9549|20.1584|Skierniewice
-49.8009|18.7877|Skoczów
-52.6722|17.1611|Skoki
-49.7495|21.3366|Skołyszyn
-49.7271|19.8363|Skomielna Czarna
-51.1709|18.3870|Skomlin
-53.7944|18.5256|Skórcz
-50.7592|17.6820|Skorogoszcz
-50.5965|17.3824|Skoroszyce
-52.1073|22.1305|Skórzec
-53.0161|19.6236|Skrwilno
-49.7534|20.1862|Skrzydlna
-49.9937|21.0614|Skrzyszów
-52.4820|18.3311|Skulsk
-52.5991|15.5065|Skwierzyna
-52.8680|19.3560|Skępe
-51.8762|16.0721|Sława
-51.7634|23.5546|Sławatycze
-50.3721|18.3218|Sławięcice
-50.2994|19.3897|Sławków
-51.3927|20.1404|Sławno
-53.8899|15.7067|Sławoborze
-50.2401|20.0822|Słomniki
-49.6850|20.3433|Słopnice
-49.9460|21.2943|Słotowa
-52.5635|14.8053|Słońsk
-52.3509|14.5607|Słubice
-52.2873|17.8719|Słupca
-50.6007|19.9744|Słupia
-51.2392|18.0425|Słupia pod Kępnem
-50.3279|21.1937|Słupiec
-52.3841|21.1557|Słupno
-54.4641|17.0287|Słupsk
-54.6632|17.2137|Smołdzino
-51.0732|16.8822|Smolec
-51.0444|20.4003|Smyków
-50.2284|21.0041|Smęgorzów
-53.7464|18.6859|Smętowo Graniczne
-51.9327|21.3033|Sobienie Jeziory
-50.7000|20.4506|Sobków
-51.7366|21.6635|Sobolew
-50.8999|16.7444|Sobótka
-52.2294|20.2384|Sochaczew
-52.6872|20.4726|Sochocin
-53.4072|23.5023|Sokółka
-51.3074|18.3328|Sokolniki
-50.2291|22.1197|Sokołów Małopolski
-52.4068|22.2531|Sokołów Podlaski
-52.9931|22.7005|Sokoły
-49.4876|19.0417|Sól
-53.0837|18.2257|Solec Kujawski
-51.1363|21.7656|Solec Nad Wisłą
-50.3659|20.8896|Solec-Zdrój
-51.1528|17.0710|Sołtysowice
-54.2756|18.1989|Somonino
-52.3883|18.5028|Sompolno
-50.0609|22.2655|Sonina
-54.4418|18.5600|Sopot
-49.5685|19.2829|Sopotnia Wielka
-51.5207|23.0922|Sosnowica
-49.9400|19.7151|Sosnowice
-50.2712|19.1946|Sosnowiec
-50.8183|15.7232|Sosnówka
-52.7816|20.6990|Sońsk
-49.9008|22.8747|Sośnica
-50.2721|18.5298|Sośnicowice
-51.4731|17.6338|Sośnie
-53.3892|17.6871|Sośno
-51.3413|22.7535|Spiczyn
-49.9967|19.5110|Spytkowice
-54.2142|21.5228|Srokowo
-51.1538|16.9002|Stabłowice
-50.5829|22.0533|Stalowa Wola
-49.9047|19.6533|Stanisław Dolny
-49.9115|19.6293|Stanisław Górny
-49.9855|20.3512|Stanisławice
-52.2894|21.5485|Stanisławów
-52.3749|21.0518|Stanisławów Pierwszy
-50.9311|16.3743|Stanowice
-51.1376|20.5717|Stąporków
-51.5468|20.9748|Stara Błotnica
-51.0374|21.0713|Starachowice
-53.4219|15.1441|Stara Dąbrowa
-50.9160|15.5729|Stara Kamienica
-53.9901|18.1696|Stara Kiszewa
-52.1818|22.9375|Stara Kornica
-49.7150|22.0044|Stara Wieś
-50.6642|19.0418|Starcza
-52.2603|20.8340|Stare Babice
-50.8475|16.1931|Stare Bogaczowice
-53.2786|14.7791|Stare Czarnowo
-53.9220|22.1737|Stare Juchy
-52.8567|15.6775|Stare Kurowo
-52.1797|18.2150|Stare Miasto
-54.0567|19.2087|Stare Pole
-53.3367|15.0499|Stargard
-53.9640|18.5264|Starogard Gdański
-50.9486|18.6534|Starokrzepice
-51.6913|19.4837|Starowa Góra
-52.6326|19.9855|Staroźreby
-49.5636|20.6350|Stary Sącz
-53.9233|19.1700|Stary Targ
-49.9255|20.4864|Stary Wiśnicz
-50.8200|23.1715|Stary Zamość
-50.5631|21.1659|Staszów
-53.6572|20.4004|Stawiguda
-53.3799|22.1546|Stawiski
-51.9179|18.1117|Stawiszyn
-54.3268|19.1125|Stegna
-53.6519|14.6256|Stepnica
-52.5803|22.2936|Sterdyń
-52.5433|21.9001|Stoczek
-51.9614|21.9714|Stoczek Łukowski
-50.4402|20.9378|Stopnica
-50.5999|16.7390|Stoszowice
-49.6082|22.0884|Strachocina
-51.1049|17.1507|Strachocin-Wojnów
-52.4269|21.6350|Strachówka
-49.9004|21.9812|Straszydle
-54.2721|18.5811|Straszyn
-50.9418|20.4214|Strawczyn
-51.6470|21.0923|Stromiec
-49.8306|19.6750|Stronie
-50.2955|16.8740|Stronie Śląskie
-49.7963|19.9238|Stróża
-49.9210|18.7664|Strumień
-51.9022|19.6054|Stryków
-49.7133|19.5219|Stryszawa
-49.8257|19.6176|Stryszów
-52.3070|17.8181|Strzałkowo
-50.6165|18.8979|Strzebiń
-50.9626|16.3501|Strzegom
-52.8939|20.2855|Strzegowo
-52.3148|19.4070|Strzelce
-52.8773|15.5298|Strzelce Krajeńskie
-50.5107|18.3006|Strzelce Opolskie
-51.1394|19.1454|Strzelce Wielkie
-50.4622|17.8566|Strzeleczki
-50.7816|17.0648|Strzelin
-52.6279|18.1725|Strzelno
-49.8707|21.7941|Strzyżów
-51.0483|22.4402|Strzyżowice
-49.8981|22.9560|Stubno
-54.0926|17.5758|Studzienice
-49.9623|18.7728|Studzionka
-53.0226|20.4368|Stupsk
-52.2837|16.7008|Stęszew
-51.5819|21.7709|Stężyca
-54.0023|18.7693|Subkowy
-51.6200|20.9489|Sucha
-49.7419|19.5943|Sucha Beskidzka
-53.2800|15.3254|Suchań
-51.0478|20.8292|Suchedniów
-53.5775|23.1060|Suchowola
-52.2595|22.2529|Suchożebry
-54.2081|18.7673|Suchy Dąb
-52.4731|16.8774|Suchy Las
-51.8732|21.6317|Sulbiny Górne
-52.0836|15.6251|Sulechów
-51.3544|19.8854|Sulejów
-52.2522|21.2690|Sulejówek
-51.0762|15.0679|Sulików
-49.8405|19.8010|Sułkowice
-51.6059|17.5305|Sulmierzyce
-50.2679|19.7328|Sułoszowa
-51.4997|17.1681|Sułów
-52.4443|15.1168|Sulęcin
-54.2330|17.7733|Sulęczyno
-53.2053|23.3393|Supraśl
-52.9491|22.9565|Suraż
-50.4197|23.1963|Susiec
-53.7174|19.3364|Susz
-50.0296|18.7916|Suszec
-54.1027|22.9291|Suwałki
-52.4129|17.0850|Swarzędz
-54.0015|22.3183|Swiętajno
-51.1157|17.1254|Swojczyce
-51.3081|17.7198|Syców
-53.4682|16.6058|Sypniewo
-50.0200|18.3460|Syrynia
-51.6917|18.9755|Szadek
-49.4265|20.0271|Szaflary
-53.0279|17.1265|Szamocin
-52.6120|16.5779|Szamotuły
-49.9950|20.2696|Szarów
-50.8553|22.3197|Szastarka
-52.2687|15.6817|Szczaniec
-49.4244|20.4849|Szczawnica
-50.8035|16.2566|Szczawno-Zdrój
-50.6950|22.9795|Szczebrzeszyn
-53.4289|14.5530|Szczecin
-53.7079|16.6994|Szczecinek
-50.6267|19.8250|Szczekociny
-51.1980|16.6106|Szczepanów
-51.1161|17.0102|Szczepin
-50.0942|18.4490|Szczerbice
-51.3332|19.1098|Szczerców
-50.3096|21.0744|Szczucin
-53.5633|22.2853|Szczuczyn
-50.1191|20.6361|Szczurowa
-52.9405|19.5744|Szczutowo
-49.7172|19.0318|Szczyrk
-50.4134|16.4474|Szczytna
-53.5626|20.9875|Szczytno
-52.8349|21.2177|Szelków
-54.4871|18.2228|Szemud
-52.8703|22.5439|Szepietowo
-49.8092|21.2467|Szerzyny
-50.8257|15.5227|Szklarska Poręba
-53.7683|18.1137|Szlachta
-51.7122|16.2443|Szlichtyngowa
-51.5656|15.5366|Szprotawa
-53.0128|20.1201|Szreńsk
-53.9208|19.0307|Sztum
-54.3268|19.1792|Sztutowo
-53.0097|17.7400|Szubin
-52.9188|22.0845|Szumowo
-50.5911|21.0068|Szydłów
-51.2282|20.8611|Szydłowiec
-53.1621|16.6117|Szydłowo
-49.9677|21.1229|Szynwałd
-51.5068|19.0276|Sędziejowice
-50.5659|20.0556|Sędziszów
-50.0707|21.7006|Sędziszów Małopolski
-49.6222|21.1977|Sękowa
-51.1099|17.1020|Sępolno
-53.4520|17.5317|Sępólno Krajeńskie
-54.2690|21.0145|Sępopol
-51.9820|20.8339|Tarczyn
-49.8058|19.3244|Targanice
-52.2918|21.0484|Targówek
-49.9847|20.2935|Targowisko
-51.0016|21.7147|Tarłów
-50.5315|23.3959|Tarnawatka
-50.5730|21.6794|Tarnobrzeg
-50.3609|22.7417|Tarnogród
-50.0138|20.9870|Tarnów
-49.9816|20.9866|Tarnowiec
-53.3417|16.8527|Tarnówka
-52.4664|16.6633|Tarnowo Podgórne
-50.5763|18.0837|Tarnów Opolski
-50.4455|18.8615|Tarnowskie Góry
-54.0924|18.7779|Tczew
-51.3260|21.4468|Tczów
-50.5271|23.8396|Telatyn
-50.1199|19.6131|Tenczynek
-52.1989|20.4167|Teresin
-52.0755|23.6161|Terespol
-50.5837|22.8798|Tereszpol
-52.7471|19.4656|Tłuchowo
-52.4306|21.4356|Tłuszcz
-49.7272|19.8716|Tokarnia
-54.3204|19.5269|Tolkmicko
-49.9792|20.0997|Tomaszkowice
-50.4477|23.4162|Tomaszów Lubelski
-51.5313|20.0085|Tomaszów Mazowiecki
-49.8977|19.4836|Tomice
-52.5033|18.7125|Topólka
-49.6249|19.8023|Toporzysko
-53.0138|18.5981|Toruń
-52.3133|15.0824|Torzym
-50.4544|18.5221|Toszek
-49.9623|20.1424|Trąbki
-54.1706|18.5400|Trąbki Wielkie
-51.3525|21.1288|Trablice
-51.1363|22.9982|Trawniki
-51.6923|21.8111|Trojanów
-53.0311|21.7308|Troszyn
-52.3012|20.7824|Truskaw
-50.8669|18.8270|Truskolasy
-50.1609|22.5501|Tryńcza
-49.8449|20.3742|Trzciana
-53.0406|16.4563|Trzcianka
-52.3650|15.8731|Trzciel
-51.1671|18.0045|Trzcinica
-52.9649|14.6067|Trzcińsko Zdrój
-54.0615|15.2647|Trzebiatów
-52.0211|15.7362|Trzebiechów
-51.6350|14.8161|Trzebiel
-54.2000|17.0873|Trzebielino
-51.9901|22.5550|Trzebieszów
-50.1593|19.4697|Trzebinia
-51.3108|17.0633|Trzebnica
-50.0783|22.0371|Trzebownisko
-49.7915|19.8471|Trzebunia
-52.5614|17.8231|Trzemeszno
-49.8275|20.0221|Trzemeśnia
-50.8489|22.1336|Trzydnik Duży
-53.5879|17.8590|Tuchola
-54.1152|17.3363|Tuchomie
-49.8948|21.0541|Tuchów
-53.1937|16.1537|Tuczno
-50.5168|20.9919|Tuczępy
-52.0766|18.2955|Tuliszków
-50.5958|17.6532|Tułowice
-51.6764|14.8291|Tuplice
-52.0155|18.5006|Turek
-50.8237|22.7427|Turobin
-53.0146|23.0553|Turośń Kościelna
-49.9723|18.4378|Turza Śląska
-49.6633|22.0048|Turze Pole
-51.6095|19.5301|Tuszyn
-50.3435|17.9910|Twardawa
-51.3649|17.4688|Twardogóra
-50.0056|18.2358|Tworków
-50.5310|18.7157|Tworóg
-53.9277|16.2577|Tychowo
-50.1372|18.9664|Tychy
-49.9638|22.0340|Tyczyn
-53.2057|22.7746|Tykocin
-49.3960|21.0237|Tylicz
-49.7286|20.3254|Tymbark
-51.0195|16.9200|Tyniec Mały
-49.5774|22.3699|Tyrawa Wołoska
-50.6170|23.6993|Tyszowce
-50.7549|16.6818|Uciechów
-51.0374|16.4547|Udanin
-49.4646|22.3983|Uherce Mineralne
-51.5978|19.9222|Ujazd
-54.3244|18.6027|Ujeścisko-Łostowice
-49.4829|19.1380|Ujsoły
-53.0534|16.7320|Ujście
-50.4903|22.2636|Ulanów
-50.4497|23.7996|Ulhówek
-51.5919|22.1074|Ułęż
-51.9743|18.7931|Uniejów
-53.2124|18.3862|Unisław
-52.1952|20.8842|Ursus
-52.1505|21.0504|Ursynów
-51.3939|23.1948|Urszulin
-50.0118|22.4619|Urzejowice
-50.9932|22.1426|Urzędów
-54.5805|16.8619|Ustka
-54.2152|15.7557|Ustronie Morskie
-49.7215|18.8020|Ustroń
-49.4304|22.5938|Ustrzyki Dolne
-49.5219|21.1382|Uście Gorlickie
-51.4696|22.9552|Uścimów Stary
-53.2799|18.9477|Wąbrzeźno
-51.0739|21.0124|Wąchock
-49.8834|19.4929|Wadowice
-50.2631|21.3022|Wadowice Górne
-52.8012|18.8759|Waganiec
-52.8084|17.1996|Wągrowiec
-49.4821|20.0756|Waksmund
-50.7714|16.2843|Wałbrzych
-50.3732|18.0043|Walce
-53.2779|16.4712|Wałcz
-51.2958|18.3807|Walichnowy
-50.6975|16.4448|Walim
-53.1376|19.2779|Wąpielsk
-52.9080|17.4750|Wapno
-51.7843|21.1909|Warka
-53.5875|18.6344|Warlubie
-53.2538|14.9940|Warnice
-52.2355|21.0419|Warszawa|Warsaw
-51.7105|18.6248|Warta
-51.9763|19.0018|Wartkowice
-53.1991|23.2078|Wasilków
-51.5622|16.6906|Wąsosz
-52.1966|21.1775|Wawer
-51.2947|22.1468|Wąwolnica
-50.1101|20.3161|Wawrzeńczyce
-50.8991|21.2230|Waśniów
-54.6057|18.2356|Wejherowo
-50.7537|23.7641|Werbkowice
-52.2545|21.2241|Wesoła
-50.8140|17.2021|Wiązów
-50.0807|22.7067|Wiązownica
-51.4385|18.9442|Widawa
-51.1709|17.0216|Widawa-Lipa Piotrowska-Polanowice
-53.1269|14.3907|Widuchowa
-53.1953|20.4764|Wieczfnia Kościelna
-53.3986|20.9463|Wielbark
-52.8946|16.1714|Wieleń
-52.7408|19.2635|Wielgie
-52.1157|16.3518|Wielichowo
-49.9874|20.0647|Wieliczka
-52.4513|20.9683|Wieliszew
-52.9962|18.5097|Wielka Nieszawka
-51.0711|20.9666|Wielka Wieś
-50.0236|23.1641|Wielkie Oczy
-54.4675|18.4881|Wielki Kack
-49.9456|21.6149|Wielopole Skrzyńskie
-50.5097|18.6161|Wielowieś
-51.2210|18.5696|Wieluń
-51.3617|20.7949|Wieniawa
-49.8909|19.3569|Wieprz
-51.2949|18.1555|Wieruszów
-50.2362|22.4509|Wierzawice
-51.2494|21.0826|Wierzbica
-52.4403|18.5109|Wierzbinek
-50.0331|22.6013|Wierzbna
-50.9367|17.1796|Wierzbno
-51.2046|18.6654|Wierzchlas
-52.8692|18.3561|Wierzchosławice
-53.4601|16.0996|Wierzchowo
-54.7880|18.0031|Wierzchucino
-50.3844|18.7592|Wieszowa
-50.1910|20.7650|Wietrzychowice
-51.9163|16.1855|Wijewo
-49.9170|19.1524|Wilamowice
-52.1631|21.0875|Wilanów
-50.1890|18.5967|Wilcza
-52.4735|18.1674|Wilczogóra
-50.7469|21.6578|Wilczyce
-52.4882|18.1613|Wilczyn
-51.8521|21.3775|Wilga
-51.0147|22.3501|Wilkołaz
-51.0921|15.9282|Wilków
-51.8851|16.5342|Wilkowice
-52.6431|20.9411|Winnica
-52.0883|20.3871|Wiskitki
-49.6563|18.8591|Wisła
-51.7892|23.2084|Wisznice
-49.9180|19.5258|Witanowice
-51.9415|17.5618|Witaszyce
-49.9075|19.2796|Witkowice
-52.4396|17.7726|Witkowo
-52.6732|14.8977|Witnica
-52.1465|19.3005|Witonia
-53.1952|22.3824|Wizna
-53.3538|17.4906|Więcbork
-50.3366|18.1022|Większyce
-51.4703|16.6139|Wińsko
-50.3489|20.6744|Wiślica
-52.0727|22.2939|Wiśniew
-53.0647|20.3481|Wiśniewo
-49.7878|20.1150|Wiśniowa
-52.1031|18.4763|Władysławów
-54.7909|18.4009|Władysławowo
-51.0164|15.6747|Wleń
-52.1794|20.9461|Włochy
-52.6482|19.0678|Włocławek
-51.5500|23.5500|Włodawa
-50.5556|19.4516|Włodowice
-50.0182|19.3167|Włosienica
-51.9275|16.3646|Włoszakowice
-50.8526|19.9659|Włoszczowa
-52.0404|21.9557|Wodynie
-51.7183|19.1512|Wodzierady
-50.5205|20.1915|Wodzisław
-50.0038|18.4720|Wodzisław Śląski
-51.7564|22.7858|Wohyń
-49.7778|21.6708|Wojaszówka
-51.2354|22.2455|Wojciechów
-50.8423|21.5894|Wojciechowice
-51.7692|22.3159|Wojcieszków
-50.9519|15.9218|Wojcieszów
-50.3651|19.0365|Wojkowice
-49.9580|20.8378|Wojnicz
-50.9192|23.5460|Wojsławice
-51.0584|17.0451|Wojszyce
-52.2401|20.9887|Wola
-50.0526|20.2662|Wola Batorska
-49.9821|20.6878|Wola Dębińska
-50.1343|19.5801|Wola Filipowska
-50.8452|20.8581|Wola Jachowa
-51.3442|19.5809|Wola Krzysztoporska
-51.3803|20.9770|Wolanów
-49.9056|19.7883|Wola Radziszowska
-51.9018|21.5582|Wola Rębkowska
-51.4498|22.6835|Wola Sernicka
-51.3214|23.6263|Wola Uhruska
-50.0726|20.3322|Wola Zabierzowska
-50.2912|22.2502|Wola Żarczycka
-51.5020|19.8305|Wolbórz
-50.3796|19.7583|Wolbrom
-51.0185|18.0499|Wołczyn
-53.8421|14.6146|Wolin
-50.2423|22.1883|Wólka Niedźwiedzka
-50.0955|22.6234|Wólka Pełkińska
-50.1178|22.1121|Wólka Podleśna
-50.5001|22.2611|Wólka Tanewska
-52.3401|21.2421|Wołomin
-51.3366|16.6443|Wołów
-49.9888|19.7263|Wołowice
-52.1155|16.1171|Wolsztyn
-49.9377|19.4908|Woźniki
-50.5893|19.0599|Wożniki
-51.6121|18.6149|Wróblew
-51.1081|17.0386|Wrocław
-52.7105|16.3804|Wronki
-49.9586|19.9465|Wrząsowice
-54.3765|18.6075|Wrzeszcz
-54.3847|18.6127|Wrzeszcz Dolny
-54.3798|18.5954|Wrzeszcz Górny
-52.3251|17.5652|Września
-50.8459|18.9209|Wręczyca Wielka
-51.8070|16.3166|Wschowa
-53.9819|22.0324|Wydminy
-51.5111|15.0821|Wymiarki
-50.1330|18.9005|Wyry
-53.1530|17.2680|Wyrzysk
-53.1809|17.0835|Wysoka
-50.1602|22.0212|Wysoka Głogowska
-49.8306|21.7407|Wysoka Strzyżowska
-50.9109|22.6660|Wysokie
-52.9166|22.5171|Wysokie Mazowieckie
-52.8413|22.9812|Wyszki
-52.5928|21.4584|Wyszków
-52.3899|20.1908|Wyszogród
-51.6249|20.8139|Wyśmierzyce
-49.6078|19.1164|Węgierska Górka
-51.2875|15.2289|Węgliniec
-49.7342|20.0858|Węglówka
-54.2157|21.7372|Węgorzewo
-53.5410|15.5596|Węgorzyno
-52.3995|22.0163|Węgrów
-50.7432|18.0174|Węgry
-50.0149|20.1108|Węgrzce Wielkie
-50.1142|19.7979|Zabierzów
-50.0682|20.3190|Zabierzów Bocheński
-52.2927|21.1054|Ząbki
-50.5897|16.8124|Ząbkowice Śląskie
-49.9028|18.7815|Zabłocie
-53.0144|23.3383|Zabłudów
-51.9519|15.7168|Zabór
-50.0217|19.2407|Zaborze
-50.3249|18.7858|Zabrze
-49.9162|18.9429|Zabrzeg
-51.1230|17.0746|Zacisze
-51.7767|18.8493|Zadzim
-50.9804|20.6631|Zagnańsk
-49.8371|19.3787|Zagórnik
-52.1683|17.8956|Zagórów
-49.5146|22.2671|Zagórz
-50.0945|19.4036|Zagórze
-50.0169|21.6752|Zagórzyce
-51.1913|15.8653|Zagrodno
-49.8559|20.8093|Zakliczyn
-50.7577|22.1023|Zaklików
-49.2990|19.9489|Zakopane
-52.4335|20.6121|Zakroczym
-50.8900|22.5911|Zakrzew
-53.4119|17.1547|Zakrzewo
-49.8256|19.6497|Zakrzów
-50.9512|22.3814|Zakrzówek
-50.0803|19.6213|Zalas
-50.0123|22.5326|Zalesie
-52.0277|21.0366|Zalesie Górne
-51.1197|17.0919|Zalesie i Stadion
-50.6480|21.8907|Zaleszany
-53.8453|19.6052|Zalewo
-52.5115|20.5286|Załuski
-49.7825|18.6697|Zamarski
-52.9855|22.2432|Zambrów
-50.3171|23.0279|Zamch
-50.7231|23.2520|Zamość
-52.1556|17.1623|Zaniemyśl
-51.5432|18.8834|Zapolice
-49.5818|22.0128|Zarszyn
-50.3672|19.6959|Zarzecze
-49.9960|19.4380|Zator
-52.5993|21.1826|Zatory
-50.6050|18.4847|Zawadzkie
-50.8074|21.8541|Zawichost
-51.0255|15.0621|Zawidów
-52.8274|19.8737|Zawidz
-50.4877|19.4168|Zawiercie
-49.6440|19.5423|Zawoja
-52.2431|15.8165|Zbąszynek
-52.2509|15.9252|Zbąszyń
-53.9337|18.3226|Zblewo
-53.2429|21.7881|Zbójna
-53.0085|19.1575|Zbójno
-50.4161|18.7544|Zbrosławice
-52.0897|22.4383|Zbuczyn
-49.9229|18.7270|Zbytków
-51.6458|17.3769|Zduny
-51.5992|18.9397|Zduńska Wola
-50.7848|22.1100|Zdziechowice Drugie
-50.4248|18.1235|Zdzieszowice
-49.8903|19.6729|Zebrzydowice
-51.4645|19.2197|Zelów
-49.7752|19.6012|Zembrzyce
-51.8556|19.4062|Zgierz
-50.0127|21.8549|Zgłobień
-51.1494|15.0084|Zgorzelec
-51.1383|17.1336|Zgorzelisko
-51.9377|15.5122|Zielona Góra
-52.3038|21.1602|Zielonka
-50.1209|19.9216|Zielonki
-50.6012|17.0406|Ziębice
-53.0956|18.3290|Zławieś Wielka
-53.5329|16.0113|Złocieniec
-51.4172|18.6036|Złoczew
-50.3816|20.5936|Złota
-52.4941|16.8450|Złotniki
-52.8994|18.1456|Złotniki Kujawskie
-51.1264|15.9198|Złotoryja
-53.3635|17.0408|Złotów
-50.4447|16.8759|Złoty Stok
-49.6765|21.9660|Zmiennica
-49.5269|19.6734|Zubrzyca Dolna
-49.5617|19.6497|Zubrzyca Górna
-50.6140|22.9751|Zwierzyniec
-52.8321|15.5676|Zwierzyń
-51.3554|21.5877|Zwoleń
-50.7629|18.3443|Zębowice
-51.4163|16.4251|Ścinawa
-49.7183|19.3673|Ślemień
-52.3704|18.3064|Ślesin
-53.7088|18.1737|Śliwice
-52.0134|16.5270|Śmigiel
-53.1365|16.9208|Śmiłowo
-53.0387|21.9908|Śniadowo
-52.0887|17.0151|Śrem
-52.2284|17.2762|Środa Wielkopolska
-51.1641|16.5951|Środa Śląska
-54.3505|18.6556|Środmieście
-49.9343|19.9536|Świątniki Górne
-50.8438|16.4886|Świdnica
-51.2190|22.6962|Świdnik
-53.7746|15.7767|Świdwin
-50.8597|16.3197|Świebodzice
-52.2475|15.5335|Świebodzin
-53.4095|18.4474|Świecie
-53.4440|19.1017|Świecie nad Osą
-53.1521|19.5546|Świedziebnia
-53.4186|18.0973|Świekatowo
-50.9092|15.3431|Świeradów-Zdrój
-52.6705|20.7639|Świercze
-53.4273|14.5130|Świerczewo
-50.9602|17.7588|Świerczów
-50.4424|18.9373|Świerklaniec
-50.0183|18.5770|Świerklany Dolne
-50.0277|18.5905|Świerklany Górne
-51.0138|15.8952|Świerzawa
-53.9650|14.9654|Świerzno
-50.0718|21.8980|Świlcza
-52.0407|18.9179|Świnice Warckie
-49.6580|19.2541|Świnna
-53.9105|14.2471|Świnoujście
-51.8550|16.4980|Święciechowa
-51.0260|17.1146|Święta Katarzyna
-50.2964|18.9173|Świętochłowice
-52.0317|20.6911|Żabia Wola
-52.0586|21.0482|Żabieniec
-49.5814|19.1562|Żabnica
-50.1333|20.8862|Żabno
-51.6176|15.3149|Żagań
-50.0826|19.3520|Żarki
-50.6230|19.2751|Żarki-Letnisko
-51.2461|20.1748|Żarnów
-50.9412|16.4947|Żarów
-51.6420|15.1373|Żary
-49.8139|20.4196|Żegocina
-51.8542|18.1743|Żelazków
-51.7121|20.0346|Żelechlinek
-51.8105|21.8972|Żelechów
-54.6777|18.4174|Żelistrzewo
-52.0688|17.5635|Żerków
-50.2477|18.6155|Żernica
-51.0331|17.0566|Żerniki Wrocławskie
-51.4667|16.9056|Żmigród
-52.8496|17.7199|Żnin
-52.2690|20.9864|Żoliborz
-50.9099|22.8346|Żółkiewka
-50.1620|22.3083|Żołynia
-50.9808|17.0367|Żórawina
-50.0452|18.7006|Żory
-54.3422|18.3648|Żukowo
-49.8235|22.7892|Żurawica
-50.0137|22.4995|Żurawiczki
-53.0661|19.9089|Żuromin
-49.8264|21.1689|Żurowa
-52.2440|19.6261|Żychlin
-50.0855|21.3962|Żyraków
-52.0488|20.4460|Żyrardów
-51.4992|22.0917|Żyrzyn
-49.6853|19.1924|Żywiec
+51.4565|22.3152|Abramów|Lublin|713|
+51.7433|22.2641|Adamów|Lublin|2100|
+50.2586|22.6959|Adamówka|Subcarpathia|1205|
+50.0142|22.2241|Albigowa|Subcarpathia|2923|
+51.2713|19.9901|Aleksandrów|Łódź|200|
+50.4663|22.8923|Aleksandrów|Lublin|3135|
+52.8766|18.6934|Aleksandrów Kujawski|Kuyavia-Pomerania|12290|
+51.8197|19.3038|Aleksandrów Łódzki|Łódź|20292|
+50.0606|19.5395|Alwernia|Lesser Poland|3362|
+51.7278|19.6417|Andrespol|Łódź|3773|
+49.8550|19.3383|Andrychów|Lesser Poland|21954|
+50.8855|21.8568|Annopol|Lublin|2654|
+53.8432|22.9798|Augustów|Podlaskie|29752|
+52.3453|18.6666|Babiak|Greater Poland|1500|
+49.9348|21.8703|Babica|Subcarpathia|1200|
+50.0556|19.1995|Babice|Lesser Poland|1369|
+52.1649|15.8277|Babimost|Lubusz|4182|
+50.1576|17.9851|Baborów|Upper Silesia|3114|
+52.6807|20.2553|Baboszewo|Mazovia|1800|
+49.9581|19.4937|Bachowice|Lesser Poland|2234|
+50.7919|21.2321|Baćkowice|Holy Cross|540|
+49.8934|18.7150|Bąków|Silesia|1517|
+50.0880|19.7946|Balice|Lesser Poland|1200|
+49.3309|22.2857|Baligród|Subcarpathia|1468|
+50.1680|19.3834|Balin|Lesser Poland|3400|
+51.0185|21.5438|Bałtów|Holy Cross|740|
+53.1003|14.6623|Banie|West Pomerania|1967|
+54.2466|22.0362|Banie Mazurskie|Warmia-Masuria|1500|
+54.3922|18.4062|Banino|Pomerania|2593|
+52.0165|21.1398|Baniocha|Mazovia|4000|
+51.2634|18.0047|Baranów|Greater Poland|1500|
+51.5579|22.1363|Baranów|Lublin|1672|
+52.4353|16.7863|Baranowo|Greater Poland|1331|
+53.1755|21.2980|Baranowo|Mazovia|1250|
+50.4991|21.5420|Baranów Sandomierski|Subcarpathia|1426|
+54.2199|21.3535|Barciany|Warmia-Masuria|1100|
+52.8661|17.9462|Barcin|Kuyavia-Pomerania|7682|
+53.8306|20.6911|Barczewo|Warmia-Masuria|7315|
+50.5059|16.7399|Bardo|Lower Silesia|2763|
+52.9946|15.2186|Barlinek|West Pomerania|14385|
+53.2478|19.6043|Bartniczka|Kuyavia-Pomerania|550|
+54.2535|20.8082|Bartoszyce|Warmia-Masuria|23482|
+52.4941|19.2650|Baruchowo|Kuyavia-Pomerania|434|
+49.8621|19.6175|Barwałd Górny|Lesser Poland|1200|
+49.8663|19.5936|Barwałd Średni|Lesser Poland|1360|
+53.7449|16.3553|Barwice|West Pomerania|3756|
+50.8505|22.4931|Batorz|Lublin|982|
+49.7379|18.7035|Bażanowice|Silesia|1161|
+52.2083|19.5759|Bedlno|Łódź|640|
+50.2390|20.5983|Bejsce|Holy Cross|878|
+51.3688|19.3567|Bełchatów|Łódź|62896|
+50.1305|18.7167|Bełk|Silesia|3353|
+49.9781|18.3631|Bełsznica|Silesia|1095|
+50.3845|23.4384|Bełżec|Lublin|2723|
+51.1741|22.2803|Bełżyce|Lublin|6958|
+52.2546|20.9084|Bemowo|Mazovia|123932|
+49.5876|21.9529|Besko|Subcarpathia|3700|
+49.8971|19.0578|Bestwina|Silesia|4409|
+49.9327|19.0669|Bestwinka|Silesia|1541|
+52.6052|19.6496|Biała|Mazovia|613|
+50.3859|17.6604|Biała|Upper Silesia|2605|
+51.2981|20.2972|Białaczów|Łódź|1500|
+53.6119|22.0632|Biała Piska|Warmia-Masuria|4027|
+52.0324|23.1165|Biała Podlaska|Lublin|57541|
+51.8078|20.4726|Biała Rawska|Łódź|3231|
+53.0952|17.9162|Białe Błota|Kuyavia-Pomerania|5989|
+49.6931|19.6703|Białka|Lesser Poland|2542|
+49.3897|20.1051|Białka Tatrzańska|Lesser Poland|2200|
+51.6469|20.9504|Białobrzegi|Mazovia|1208|
+50.1025|22.3191|Białobrzegi|Subcarpathia|2200|
+54.0070|15.9875|Białogard|West Pomerania|24368|
+52.3213|20.9720|Białołeka|Mazovia|129106|
+52.7000|23.8667|Białowieża|Podlaskie|2670|
+53.1046|17.1253|Białośliwie|Greater Poland|2600|
+53.8967|16.8354|Biały Bór|West Pomerania|2209|
+49.3738|20.0090|Biały Dunajec|Lesser Poland|4200|
+53.1333|23.1643|Białystok|Podlaskie|295683|
+49.7360|21.2630|Biecz|Lesser Poland|4564|
+52.2924|20.9353|Bielany|Mazovia|131910|
+51.0361|16.9677|Bielany Wrocławskie|Lower Silesia|3219|
+50.6908|16.6230|Bielawa|Lower Silesia|29232|
+52.0754|19.6556|Bielawy|Łódź|620|
+53.2002|14.7276|Bielice|West Pomerania|560|
+50.8495|20.9415|Bieliny|Holy Cross|1900|
+50.4424|22.3048|Bieliny|Subcarpathia|1061|
+52.6718|19.8050|Bielsk|Mazovia|2600|
+49.8225|19.0469|Bielsko-Biala|Silesia|176515|
+52.7651|23.1865|Bielsk Podlaski|Podlaskie|26493|
+52.1827|20.5631|Bieniewice|Mazovia|1129|
+50.2811|18.2418|Bierawa|Upper Silesia|1370|
+50.8185|18.1581|Bierdzany|Upper Silesia|1072|
+51.1244|17.5461|Bierutów|Lower Silesia|5065|
+50.0900|19.0929|Bieruń|Silesia|19659|
+53.0357|15.6650|Bierzwnik|West Pomerania|1152|
+50.0881|20.0279|Bieńczyce|Lesser Poland|42633|
+49.7760|19.7718|Bieńkówka|Lesser Poland|2300|
+52.9611|19.8898|Bieżuń|Mazovia|1931|
+50.5411|22.7220|Biłgoraj|Lublin|26987|
+49.7562|21.2282|Binarowa|Lesser Poland|1763|
+49.6917|22.4785|Bircza|Subcarpathia|1000|
+50.1207|20.8594|Biskupice Radłowskie|Lesser Poland|1091|
+53.8647|20.9569|Biskupiec|Warmia-Masuria|10340|
+51.1010|17.1044|Biskupin|Lower Silesia|11292|
+51.1083|17.0913|Biskupin-Sępolno-Dąbie-Bartoszowice|Lower Silesia|19951|
+50.4015|22.6506|Biszcza|Lublin|1901|
+54.0863|20.9019|Bisztynek|Warmia-Masuria|2462|
+50.7801|18.9639|Blachownia|Silesia|9891|
+51.6516|18.4347|Błaszki|Łódź|2132|
+49.8852|22.1004|Błażowa|Subcarpathia|2129|
+52.5171|15.4138|Bledzew|Lubusz|1300|
+51.9037|18.0100|Blizanów|Greater Poland|483|
+49.7533|21.9735|Blizne|Subcarpathia|3500|
+51.1078|20.7594|Bliżyn|Holy Cross|2000|
+52.1985|20.6171|Błonie|Mazovia|12195|
+51.7777|20.6980|Błędów|Mazovia|1098|
+53.9551|16.5889|Bobolice|West Pomerania|4365|
+49.7087|20.9477|Bobowa|Lesser Poland|3018|
+53.8838|18.5568|Bobowo|Pomerania|1271|
+51.9485|15.0906|Bobrowice|Lubusz|884|
+52.7809|18.9603|Bobrowniki|Kuyavia-Pomerania|980|
+52.0644|20.0195|Bobrowniki|Łódź|1200|
+50.3798|18.9866|Bobrowniki|Silesia|2926|
+53.2855|19.2705|Bobrowo|Kuyavia-Pomerania|441|
+49.9691|20.4303|Bochnia|Lesser Poland|29184|
+52.6516|23.0449|Boćki|Podlaskie|1500|
+52.4999|20.0295|Bodzanów|Mazovia|1300|
+50.9412|20.9572|Bodzentyn|Holy Cross|2228|
+50.9075|14.9563|Bogatynia|Lower Silesia|16460|
+52.6890|15.0713|Bogdaniec|Lubusz|1100|
+50.6517|21.2600|Bogoria|Holy Cross|930|
+49.9847|21.9453|Boguchwała|Subcarpathia|5823|
+50.7551|16.2049|Boguszów-Gorce|Lower Silesia|16726|
+52.7168|22.4155|Boguty-Pianki|Mazovia|1690|
+51.9532|15.8104|Bojadła|Lubusz|1200|
+54.4712|18.3841|Bojano|Pomerania|2100|
+50.4253|21.9511|Bojanów|Subcarpathia|1200|
+51.7075|16.7483|Bojanowo|Greater Poland|2960|
+51.9930|16.5837|Bojanowo Stare|Greater Poland|1692|
+50.0578|19.1014|Bojszowy|Silesia|3219|
+50.0528|19.0501|Bojszowy Nowe|Silesia|1192|
+50.1483|19.7927|Bolechowice|Lesser Poland|1515|
+50.2973|19.4807|Bolesław|Lesser Poland|539|
+51.1987|18.1915|Bolesławiec|Łódź|1500|
+51.2642|15.5697|Bolesławiec|Lower Silesia|40682|
+52.7249|14.5690|Boleszkowice|West Pomerania|1316|
+52.0767|20.1635|Bolimów|Łódź|930|
+50.9220|16.1011|Bolków|Lower Silesia|5304|
+54.6180|18.1759|Bolszewo|Pomerania|7064|
+50.1175|19.4812|Bolęcin|Lesser Poland|1819|
+52.4653|18.8912|Boniewo|Kuyavia-Pomerania|700|
+50.0178|20.5309|Borek|Lesser Poland|1200|
+51.9167|17.2413|Borek Wielkopolski|Greater Poland|2527|
+51.7216|22.5213|Borki|Lublin|732|
+51.3203|20.6834|Borkowice|Mazovia|658|
+53.5766|16.5340|Borne Sulinowo|West Pomerania|4349|
+50.6746|18.9068|Boronów|Silesia|2793|
+50.3855|21.3515|Borowa|Subcarpathia|1451|
+51.9491|21.7658|Borowie|Mazovia|400|
+50.9325|19.2738|Borowno|Silesia|1364|
+50.0076|18.1575|Borucin|Silesia|1247|
+51.0926|22.2841|Borzechów|Lublin|390|
+54.2002|17.3680|Borzytuchom|Pomerania|902|
+50.0654|20.7110|Borzęcin|Lesser Poland|3865|
+49.8623|19.9792|Borzęta|Lesser Poland|1269|
+50.5132|16.5753|Bozkow|Lower Silesia|1600|
+51.2858|17.9032|Bralin|Greater Poland|2500|
+50.0511|17.7940|Branice|Upper Silesia|2300|
+54.3797|19.8196|Braniewo|Warmia-Masuria|18356|
+51.4990|18.4498|Brąszewice|Łódź|1100|
+52.7444|22.8377|Brańsk|Podlaskie|3822|
+52.6293|21.5875|Brańszczyk|Mazovia|1109|
+52.3539|18.7298|Brdów|Greater Poland|1050|
+49.7258|18.9025|Brenna|Silesia|5859|
+51.9226|16.2149|Brenno|Greater Poland|1200|
+52.3195|20.2626|Brochów|Mazovia|400|
+50.0433|19.5888|Brodła|Lesser Poland|1005|
+52.1412|16.8910|Brodnica|Greater Poland|722|
+53.2597|19.3965|Brodnica|Kuyavia-Pomerania|27341|
+51.0247|21.2215|Brody|Holy Cross|1737|
+49.8674|19.6975|Brody|Lesser Poland|2577|
+51.7905|14.7734|Brody|Lubusz|750|
+52.4780|20.7497|Brody-Parcele|Mazovia|1600|
+51.6644|19.6480|Brójce|Łódź|385|
+52.3175|15.6741|Brójce|Lubusz|1050|
+53.9571|15.3598|Brojce|West Pomerania|1248|
+52.6995|21.8570|Brok|Mazovia|1896|
+51.9670|17.8165|Broniszewice|Greater Poland|1102|
+49.8778|18.9210|Bronów|Silesia|1012|
+52.0995|18.6043|Brudzew|Greater Poland|1620|
+52.6688|19.5040|Brudzeń Duży|Mazovia|939|
+53.8845|17.7179|Brusy|Pomerania|4728|
+52.1427|20.7170|Brwinów|Mazovia|12315|
+49.8748|20.0371|Brzączowice|Lesser Poland|1230|
+50.8608|17.4674|Brzeg|Upper Silesia|38259|
+51.2730|16.7081|Brzeg Dolny|Lower Silesia|12511|
+49.9691|20.6061|Brzesko|Lesser Poland|16866|
+49.9820|19.1516|Brzeszcze|Lesser Poland|10935|
+50.0424|19.1902|Brzezinka|Lesser Poland|605|
+50.7727|20.5732|Brzeziny|Holy Cross|2015|
+51.8002|19.7514|Brzeziny|Łódź|12289|
+50.3544|18.9813|Brzeziny Śląskie|Silesia|4901|
+49.9650|19.6195|Brzeźnica|Lesser Poland|1171|
+50.1007|21.4803|Brzeźnica|Subcarpathia|2800|
+51.4940|18.6223|Brzeźnio|Łódź|1150|
+52.6053|18.9017|Brześć Kujawski|Kuyavia-Pomerania|4522|
+49.8795|21.4110|Brzostek|Subcarpathia|2599|
+50.2391|22.3256|Brzóza Królewska|Subcarpathia|3400|
+50.1996|22.2823|Brzóza Stadnicka|Subcarpathia|1200|
+53.3255|19.6048|Brzozie|Kuyavia-Pomerania|1578|
+49.6950|22.0193|Brzozów|Subcarpathia|7836|
+53.0546|19.2619|Brzuze|Kuyavia-Pomerania|449|
+49.8223|21.3900|Brzyska|Subcarpathia|1900|
+51.5023|19.1642|Buczek|Łódź|980|
+49.7286|19.0691|Buczkowice|Silesia|4102|
+51.6674|19.9358|Budziszewice|Łódź|880|
+49.7762|19.6727|Budzów|Lesser Poland|2400|
+50.5934|16.7104|Budzów|Lower Silesia|1100|
+52.8895|16.9881|Budzyń|Greater Poland|4861|
+49.8518|19.1943|Bujaków|Silesia|2176|
+52.3553|16.5196|Buk|Greater Poland|6102|
+53.4338|18.2405|Bukowiec|Kuyavia-Pomerania|1210|
+49.3430|20.1081|Bukowina Tatrzańska|Lesser Poland|2700|
+50.2647|19.4596|Bukowno|Lesser Poland|10874|
+49.4804|22.0633|Bukowsko|Subcarpathia|1700|
+52.5409|20.1189|Bulkowo|Mazovia|266|
+49.8765|19.2887|Bulowice|Lesser Poland|4700|
+51.4608|18.8323|Burzenin|Łódź|1100|
+50.4708|20.7188|Busko-Zdrój|Holy Cross|17095|
+51.0161|22.5330|Bychawa|Lublin|5297|
+51.1139|18.2141|Byczyna|Upper Silesia|3665|
+53.1235|18.0076|Bydgoszcz|Kuyavia-Pomerania|330038|
+49.6480|19.7799|Bystra|Lesser Poland|1519|
+49.7604|19.0597|Bystra|Silesia|3887|
+50.9605|17.3970|Bystrzyca|Lower Silesia|2200|
+50.3018|16.6423|Bystrzyca Kłodzka|Lower Silesia|10375|
+52.1507|15.1695|Bytnica|Lubusz|1200|
+50.3480|18.9328|Bytom|Silesia|189186|
+51.7306|15.8236|Bytom Odrzański|Lubusz|4408|
+54.1706|17.4919|Bytów|Pomerania|16724|
+52.5576|18.5952|Bytoń|Kuyavia-Pomerania|436|
+50.1805|19.7874|Bębło|Lesser Poland|1092|
+49.8779|19.8672|Bęczarka|Lesser Poland|1013|
+51.5876|19.7496|Będków|Łódź|550|
+50.3261|19.1257|Będzin|Silesia|58236|
+54.2471|18.8457|Cedry Wielkie|Pomerania|1007|
+52.8793|14.2025|Cedynia|West Pomerania|1622|
+52.1478|21.7374|Cegłów|Mazovia|2846|
+53.5729|18.0112|Cekcyn|Kuyavia-Pomerania|1710|
+52.0609|21.3911|Celestynów|Mazovia|4007|
+52.6308|22.2283|Ceranów|Mazovia|810|
+54.0078|15.1090|Cerkwica|West Pomerania|1261|
+54.4355|17.7349|Cewice|Pomerania|1687|
+49.9256|18.3173|Chałupki|Silesia|1697|
+52.1953|19.9426|Chąśno|Łódź|287|
+51.1431|23.4716|Chełm|Lublin|60231|
+54.3405|18.6193|Chełm|Pomerania|30743|
+50.1016|19.2480|Chełmek|Lesser Poland|9059|
+49.6305|20.6642|Chełmiec|Lesser Poland|2657|
+53.3486|18.4251|Chełmno|Kuyavia-Pomerania|20576|
+50.1082|19.1955|Chełm Śląski|Silesia|5646|
+53.1846|18.6047|Chełmża|Kuyavia-Pomerania|15403|
+54.8036|18.3735|Chłapowo|Pomerania|1069|
+51.2438|20.7687|Chlewiska|Mazovia|1089|
+50.6144|20.7521|Chmielnik|Holy Cross|3926|
+49.9739|22.1454|Chmielnik|Subcarpathia|3466|
+54.3254|18.0986|Chmielno|Pomerania|1580|
+50.6496|17.8667|Chmielowice|Upper Silesia|1500|
+52.4862|19.0134|Choceń|Kuyavia-Pomerania|980|
+51.4187|15.9017|Chocianów|Lower Silesia|8187|
+53.4670|15.3334|Chociwel|West Pomerania|3266|
+51.9764|17.8699|Chocz|Greater Poland|1700|
+54.7399|17.8917|Choczewo|Pomerania|1310|
+49.8742|19.4544|Chocznia|Lesser Poland|5510|
+52.4051|19.0276|Chodecz|Kuyavia-Pomerania|1902|
+51.1118|22.1327|Chodel|Lublin|1500|
+52.2496|19.0122|Chodów|Greater Poland|830|
+52.9950|16.9198|Chodzież|Greater Poland|19776|
+52.9639|14.4280|Chojna|West Pomerania|7398|
+53.6955|17.5570|Chojnice|Pomerania|38789|
+51.2737|15.9366|Chojnów|Lower Silesia|14209|
+49.6467|21.6716|Chorkówka|Subcarpathia|784|
+53.1433|22.9889|Choroszcz|Podlaskie|5449|
+50.6818|19.2606|Choroń|Silesia|1221|
+53.2608|20.8973|Chorzele|Mazovia|2807|
+50.3058|18.9742|Chorzów|Silesia|113430|
+53.1690|15.4205|Choszczno|West Pomerania|15733|
+51.2404|21.7766|Chotcza|Mazovia|270|
+52.9438|19.2533|Chrostkowo|Kuyavia-Pomerania|314|
+50.7808|17.8123|Chróścice|Upper Silesia|3000|
+50.6658|17.8176|Chrościna|Upper Silesia|1585|
+50.4147|19.3272|Chruszczobród|Silesia|1648|
+50.1355|19.4020|Chrzanów|Lesser Poland|39973|
+50.7726|22.6035|Chrzanów|Lublin|3506|
+50.6662|18.0729|Chrząstowice|Upper Silesia|1200|
+52.6282|16.2285|Chrzypsko Wielkie|Greater Poland|920|
+50.7666|21.8868|Chwałowice|Subcarpathia|1100|
+54.4438|18.4187|Chwaszczyno|Pomerania|2678|
+49.9025|18.8276|Chybie|Silesia|3775|
+51.9042|21.0821|Chynów|Mazovia|400|
+49.4267|19.6696|Chyżne|Lesser Poland|1069|
+50.8002|20.4623|Chęciny|Holy Cross|4252|
+50.7543|18.6084|Ciasna|Silesia|1722|
+52.8814|20.6200|Ciechanów|Mazovia|46438|
+52.6783|22.4981|Ciechanowiec|Podlaskie|4946|
+53.0558|18.9263|Ciechocin|Kuyavia-Pomerania|776|
+52.8791|18.7950|Ciechocinek|Kuyavia-Pomerania|10832|
+51.1322|16.5677|Ciechów|Lower Silesia|1500|
+51.7158|20.3443|Cielądz|Łódź|1000|
+50.0883|19.0190|Cielmice|Silesia|1200|
+51.2484|21.5748|Ciepielów|Mazovia|770|
+50.8655|15.6837|Cieplice Śląskie Zdrój|Lower Silesia|15000|
+50.6748|16.9087|Ciepłowody|Lower Silesia|1200|
+50.2456|23.1316|Cieszanów|Subcarpathia|1935|
+51.6310|17.3573|Cieszków|Lower Silesia|1800|
+49.7513|18.6321|Cieszyn|Silesia|35586|
+50.2823|18.1999|Cisek|Upper Silesia|1485|
+49.5921|19.1054|Cisiec|Silesia|3296|
+49.2133|22.3280|Cisna|Subcarpathia|460|
+49.7228|18.7621|Cisownica|Silesia|1705|
+49.6022|19.1410|Cięcina|Silesia|4373|
+49.7858|20.9732|Ciężkowice|Lesser Poland|2395|
+50.8903|21.5143|Ćmielów|Holy Cross|3194|
+50.2953|21.7442|Cmolas|Subcarpathia|4000|
+52.1945|14.7957|Cybinka|Lubusz|2655|
+51.2993|23.1412|Cyców|Lublin|1200|
+50.5620|19.1196|Cynków|Silesia|1198|
+51.4920|18.3273|Czajków|Greater Poland|1100|
+49.8507|19.2535|Czaniec|Silesia|5536|
+53.5577|16.2333|Czaplinek|West Pomerania|6933|
+52.3172|16.9127|Czapury|Greater Poland|1256|
+50.0183|18.9068|Czarków|Silesia|1924|
+50.0672|21.2561|Czarna|Subcarpathia|1600|
+53.3051|23.2815|Czarna Białostocka|Podlaskie|9592|
+54.3563|17.5646|Czarna Dąbrówka|Pomerania|1112|
+49.3766|20.1305|Czarna Góra|Lesser Poland|1506|
+53.8446|18.1001|Czarna Woda|Pomerania|3227|
+53.6842|16.9383|Czarne|Pomerania|6035|
+53.3561|21.1952|Czarnia|Mazovia|457|
+52.9021|16.5641|Czarnków|Greater Poland|11562|
+50.0047|20.0679|Czarnochowice|Lesser Poland|1245|
+50.3408|20.5162|Czarnocin|Holy Cross|410|
+51.5914|19.6816|Czarnocin|Łódź|1300|
+50.7286|17.8982|Czarnowąsy|Upper Silesia|3108|
+51.2853|18.5611|Czarnożyły|Łódź|1300|
+50.7708|16.1305|Czarny Bór|Lower Silesia|4769|
+49.4366|19.8516|Czarny Dunajec|Lesser Poland|3594|
+51.2587|18.3195|Czastary|Łódź|1024|
+49.4485|22.2165|Czaszyn|Subcarpathia|1433|
+49.8373|20.6806|Czchów|Lesser Poland|2256|
+49.9134|19.0048|Czechowice-Dziedzice|Silesia|34703|
+50.3154|19.0782|Czeladź|Silesia|34308|
+51.6730|22.6389|Czemierniki|Lublin|3700|
+52.1440|16.7641|Czempiń|Greater Poland|5093|
+52.5167|23.3500|Czeremcha|Podlaskie|2640|
+51.9501|17.7496|Czermin|Greater Poland|789|
+50.3391|21.3336|Czermin|Subcarpathia|1557|
+51.0461|17.2451|Czernica|Lower Silesia|1186|
+50.0839|18.4007|Czernica|Silesia|2100|
+53.0320|20.7194|Czernice Borowe|Mazovia|480|
+49.9892|19.6811|Czernichów|Lesser Poland|1707|
+49.7544|19.2095|Czernichów|Silesia|1021|
+52.4264|17.4892|Czerniejewo|Greater Poland|2612|
+52.5116|19.0869|Czerniewice|Kuyavia-Pomerania|1027|
+51.6542|20.1555|Czerniewice|Łódź|730|
+52.9469|18.9380|Czernikowo|Kuyavia-Pomerania|2752|
+53.7959|17.9765|Czersk|Pomerania|9390|
+52.0129|15.4232|Czerwieńsk|Lubusz|4197|
+52.9490|21.7584|Czerwin|Mazovia|700|
+50.1501|18.6776|Czerwionka-Leszczyny|Silesia|28740|
+52.3983|20.3096|Czerwińsk Nad Wisłą|Mazovia|1200|
+52.4646|16.9817|Czerwonak|Greater Poland|5432|
+52.8925|21.2149|Czerwonka|Mazovia|150|
+53.9163|20.8969|Czerwonka|Warmia-Masuria|1090|
+53.0886|16.1210|Człopa|West Pomerania|2370|
+53.6672|17.3588|Człuchów|Pomerania|13350|
+49.9449|21.8413|Czudec|Subcarpathia|2900|
+50.0596|19.7011|Czułów|Lesser Poland|1119|
+52.7977|22.3124|Czyżew|Podlaskie|2670|
+49.9849|18.4043|Czyżowice|Silesia|3128|
+50.7965|19.1241|Częstochowa|Silesia|248125|
+52.0867|18.8225|Dąbie|Greater Poland|2003|
+51.1057|17.0811|Dąbie|Lower Silesia|1191|
+52.0106|15.1522|Dąbie|Lubusz|417|
+52.7467|17.9434|Dąbrowa|Kuyavia-Pomerania|1101|
+50.6835|17.7496|Dąbrowa|Upper Silesia|1100|
+53.6536|23.3479|Dąbrowa Białostocka|Podlaskie|6044|
+53.1752|18.3054|Dąbrowa Chełmińska|Kuyavia-Pomerania|1400|
+50.3339|19.2048|Dąbrowa Górnicza|Silesia|116971|
+50.1746|20.9863|Dąbrowa Tarnowska|Lesser Poland|11291|
+50.8439|19.5565|Dąbrowa Zielona|Silesia|881|
+52.3114|19.0844|Dąbrowice|Łódź|1300|
+52.4839|21.2979|Dąbrówka|Mazovia|535|
+53.4341|20.0353|Dąbrówno|Warmia-Masuria|1400|
+51.0773|18.5784|Dalachów|Upper Silesia|1295|
+50.8023|20.8079|Daleszyce|Holy Cross|2932|
+51.8848|19.1190|Dalików|Łódź|410|
+52.8398|17.5006|Damasławek|Greater Poland|2500|
+54.5003|17.2715|Damnica|Pomerania|1240|
+54.4209|16.4107|Darłowo|West Pomerania|13324|
+52.3000|16.9572|Daszewice|Greater Poland|1422|
+52.1550|19.1815|Daszyna|Łódź|600|
+53.5382|17.2364|Debrzno|Pomerania|5251|
+52.6699|15.3198|Deszczno|Lubusz|1100|
+49.5787|22.0434|Długie|Subcarpathia|2600|
+51.1790|17.1914|Długołęka|Lower Silesia|2620|
+50.2830|18.1487|Długomiłowice|Upper Silesia|1600|
+52.7600|21.5918|Długosiodło|Mazovia|2020|
+51.5594|19.3920|Dłutów|Łódź|1000|
+51.9244|19.7593|Dmosin|Łódź|1500|
+49.8811|20.0894|Dobczyce|Lesser Poland|6171|
+52.9695|15.7536|Dobiegniew|Lubusz|3179|
+50.3970|19.0130|Dobieszowice|Silesia|1891|
+51.9166|18.6156|Dobra|Greater Poland|1450|
+49.7179|20.2535|Dobra|Lesser Poland|3100|
+53.5862|15.3098|Dobra|West Pomerania|2336|
+52.6840|18.5776|Dobre|Kuyavia-Pomerania|2500|
+52.3210|21.6788|Dobre|Mazovia|1627|
+53.9867|20.3975|Dobre Miasto|Warmia-Masuria|10514|
+50.7287|18.4450|Dobrodzień|Upper Silesia|4014|
+51.2678|17.3421|Dobroszyce|Lower Silesia|2376|
+51.6388|19.2454|Dobroń|Łódź|1210|
+53.3591|15.4289|Dobrzany|West Pomerania|2360|
+50.7684|17.8465|Dobrzeń Wielki|Upper Silesia|4500|
+51.8666|17.6034|Dobrzyca|Greater Poland|3254|
+53.2002|23.0113|Dobrzyniewo Duże|Podlaskie|1200|
+52.6381|19.3188|Dobrzyń nad Wisłą|Kuyavia-Pomerania|2268|
+50.5859|24.0359|Dołhobyczów|Lublin|1491|
+53.1908|15.2027|Dolice|West Pomerania|2028|
+51.9818|17.0627|Dolsk|Greater Poland|1527|
+52.0374|22.1764|Domanice|Mazovia|304|
+52.0062|19.8029|Domaniewice|Łódź|906|
+49.7867|21.9457|Domaradz|Subcarpathia|3100|
+50.8749|20.6829|Domaszowice|Holy Cross|1003|
+51.0429|17.8888|Domaszowice|Upper Silesia|1100|
+52.2916|17.3575|Dominowo|Greater Poland|547|
+52.3573|16.6756|Dopiewo|Greater Poland|2848|
+51.1547|23.8032|Dorohusk|Lublin|516|
+51.4172|18.0770|Doruchów|Greater Poland|2400|
+53.2199|15.7595|Drawno|West Pomerania|2423|
+52.8542|16.0313|Drawsko|Greater Poland|1640|
+53.5306|15.8097|Drawsko Pomorskie|West Pomerania|11275|
+51.9122|22.8716|Drelów|Lublin|900|
+52.8383|15.8308|Drezdenko|Lubusz|10541|
+52.7377|19.9893|Drobin|Mazovia|2938|
+49.8696|18.7573|Drogomyśl|Silesia|2091|
+52.4001|22.6585|Drohiczyn|Podlaskie|2075|
+51.4637|19.3940|Drużbice|Łódź|530|
+53.4489|14.5792|Drzetowo-Grabowo|West Pomerania|22655|
+51.4509|20.4770|Drzewica|Łódź|3958|
+53.5052|18.3094|Drzycim|Kuyavia-Pomerania|1200|
+49.8261|22.3912|Dubiecko|Subcarpathia|1150|
+51.0486|23.8925|Dubienka|Lublin|1042|
+52.3627|21.2905|Duczki|Mazovia|2500|
+49.5555|21.6832|Dukla|Subcarpathia|2126|
+52.4469|16.4060|Duszniki|Greater Poland|2100|
+50.4033|16.3909|Duszniki-Zdrój|Lower Silesia|4888|
+50.7361|21.7886|Dwikozy|Holy Cross|1723|
+49.6864|22.1720|Dydnia|Subcarpathia|1600|
+54.1303|15.7199|Dygowo|West Pomerania|1549|
+49.8151|22.2339|Dynów|Subcarpathia|6065|
+53.8376|20.4782|Dywity|Warmia-Masuria|2300|
+51.2354|17.7092|Dziadowa Kłoda|Lower Silesia|1174|
+53.2396|20.1700|Działdowo|Warmia-Masuria|21127|
+50.3653|20.3523|Działoszyce|Holy Cross|1040|
+51.1170|18.8652|Działoszyn|Łódź|6222|
+50.7695|16.3521|Dziećmorowice|Lower Silesia|1162|
+52.3524|20.8512|Dziekanów Leśny|Mazovia|1466|
+54.0064|17.7675|Dziemiany|Pomerania|1762|
+50.2425|18.2861|Dziergowice|Upper Silesia|2556|
+52.6281|20.2336|Dzierzążnia|Mazovia|442|
+53.1528|20.6632|Dzierzgowo|Mazovia|660|
+53.9220|19.3470|Dzierzgoń|Pomerania|5518|
+50.7282|16.6514|Dzierżoniów|Lower Silesia|34168|
+50.0755|20.4549|Dziewin|Lesser Poland|1044|
+50.2729|21.8437|Dzikowiec|Subcarpathia|1400|
+50.2470|22.9298|Dzików Stary|Subcarpathia|1320|
+54.0282|14.7669|Dziwnów|West Pomerania|2904|
+49.7226|18.7049|Dzięgielów|Silesia|1332|
+53.7049|20.9604|Dźwierzuty|Warmia-Masuria|1380|
+50.6966|22.5673|Dzwola|Lublin|936|
+52.1996|21.4433|Dębe Wielkie|Mazovia|2750|
+50.0515|21.4114|Dębica|Subcarpathia|47366|
+51.5591|21.8483|Dęblin|Lublin|17775|
+54.3783|17.1612|Dębnica Kaszubska|Pomerania|3220|
+49.9670|20.7198|Dębno|Lesser Poland|1601|
+50.1981|22.5184|Dębno|Subcarpathia|1500|
+52.7390|14.6980|Dębno|West Pomerania|13804|
+50.0449|22.4361|Dębów|Subcarpathia|1244|
+51.5945|23.0064|Dębowa Kłoda|Lublin|474|
+53.2554|19.0959|Dębowa Łąka|Kuyavia-Pomerania|750|
+49.8141|18.7206|Dębowiec|Silesia|1786|
+49.6837|21.4607|Dębowiec|Subcarpathia|2000|
+54.1522|19.4088|Elbląg|Warmia-Masuria|127558|
+53.8282|22.3647|Ełk|Warmia-Masuria|55769|
+52.7193|19.1094|Fabianki|Kuyavia-Pomerania|660|
+51.0959|22.9632|Fajsławice|Lublin|1457|
+51.1361|20.1061|Fałków|Holy Cross|1100|
+54.1804|22.6208|Filipów|Podlaskie|2234|
+50.1557|19.5658|Filipowice|Lesser Poland|2090|
+51.5588|22.5084|Firlej|Lublin|1000|
+53.1482|18.1704|Fordon|Kuyavia-Pomerania|70000|
+50.6716|22.6706|Frampol|Lublin|1411|
+49.6958|22.7462|Fredropol|Subcarpathia|600|
+54.3577|19.6803|Frombork|Warmia-Masuria|2529|
+49.9963|19.0728|Frydek|Silesia|1019|
+49.4493|20.2296|Frydman|Lesser Poland|1622|
+49.9048|19.4194|Frydrychowice|Lesser Poland|2799|
+49.8416|21.6094|Frysztak|Subcarpathia|950|
+52.3985|19.7351|Gąbin|Mazovia|4056|
+50.0269|22.3590|Gać|Subcarpathia|1550|
+51.1185|16.9860|Gądów Mały|Lower Silesia|7042|
+51.1272|16.9703|Gądów-Popowice Południowe|Lower Silesia|24508|
+51.0801|17.0402|Gaj|Lower Silesia|19136|
+51.0963|17.0020|Gajowice|Lower Silesia|21781|
+51.3447|18.2576|Galewice|Łódź|1200|
+51.7255|19.7136|Gałków Mały|Łódź|1455|
+51.4832|21.6108|Garbatka-Letnisko|Mazovia|3295|
+51.3552|22.3294|Garbów|Lublin|2060|
+54.3476|18.1017|Garcz|Pomerania|1908|
+50.1167|18.8000|Gardawice|Silesia|1859|
+53.6112|18.9469|Gardeja|Pomerania|2500|
+51.8975|21.6147|Garwolin|Mazovia|15912|
+52.7676|17.7558|Gąsawa|Kuyavia-Pomerania|1400|
+52.7375|20.7118|Gąsocin|Mazovia|1238|
+50.1086|18.4304|Gaszowice|Silesia|2861|
+51.6277|15.8820|Gaworzyce|Lower Silesia|1500|
+54.3520|18.6464|Gdańsk|Pomerania|487371|
+49.9082|20.1988|Gdów|Lesser Poland|4500|
+54.5189|18.5319|Gdynia|Pomerania|257000|
+50.9620|19.4718|Gidle|Łódź|1540|
+50.1456|19.8786|Giebułtów|Lesser Poland|1032|
+50.2269|22.4059|Giedlarowa|Subcarpathia|4096|
+51.4008|20.4813|Gielniów|Mazovia|1100|
+49.9443|19.3907|Gierałtowice|Lesser Poland|1252|
+50.2249|18.7338|Gierałtowice|Silesia|3752|
+54.0813|21.4955|Gierłoż|Warmia-Masuria|28351|
+53.5413|20.0887|Gierzwałd|Warmia-Masuria|638|
+53.7462|20.2374|Gietrzwałd|Warmia-Masuria|1070|
+49.9950|19.0961|Gilowice|Silesia|1214|
+52.0427|17.7694|Gizałki|Greater Poland|583|
+54.0381|21.7644|Giżycko|Warmia-Masuria|29972|
+52.8198|20.2920|Glinojeck|Mazovia|3117|
+50.2976|18.6766|Gliwice|Silesia|198835|
+49.8945|19.8741|Głogoczów|Lesser Poland|2800|
+51.6636|16.0845|Głogów|Lower Silesia|65400|
+50.3535|17.8640|Głogówek|Upper Silesia|5755|
+50.1512|21.9629|Głogów Małopolski|Subcarpathia|5451|
+54.6193|17.3723|Główczyce|Pomerania|1950|
+51.9646|19.7157|Głowno|Łódź|15103|
+50.2009|17.8286|Głubczyce|Upper Silesia|13697|
+50.3150|17.3835|Głuchołazy|Upper Silesia|15120|
+51.7795|20.0767|Głuchów|Łódź|1000|
+50.0817|22.2714|Głuchów|Subcarpathia|1500|
+50.6874|16.3717|Głuszyca|Lower Silesia|6897|
+50.6661|16.3758|Głuszyca Górna|Lower Silesia|1278|
+50.5962|19.1113|Gniazdów|Silesia|1137|
+50.9880|16.8336|Gniechowice|Lower Silesia|2000|
+53.8360|18.8231|Gniew|Pomerania|6759|
+54.7171|18.0166|Gniewino|Pomerania|1940|
+52.8946|18.4078|Gniewkowo|Kuyavia-Pomerania|7224|
+52.5348|17.5826|Gniezno|Greater Poland|70269|
+54.7474|18.3794|Gnieżdżewo|Pomerania|1113|
+49.8940|20.6086|Gnojnik|Lesser Poland|2344|
+50.6026|20.8491|Gnojno|Holy Cross|721|
+49.9445|18.9693|Goczałkowice Zdrój|Silesia|6321|
+49.9248|18.4783|Godów|Silesia|1922|
+51.8969|20.0359|Godzianów|Łódź|921|
+49.7129|19.0759|Godziszka|Silesia|2222|
+50.7489|22.4979|Godziszów|Lublin|2242|
+50.7575|22.4839|Godziszów Pierwszy|Lublin|1108|
+50.4922|18.0199|Gogolin|Upper Silesia|6077|
+52.9433|17.2999|Gołańcz|Greater Poland|3375|
+49.7716|22.0250|Golcowa|Subcarpathia|2200|
+53.8243|14.9785|Golczewo|West Pomerania|2714|
+54.3063|22.3036|Gołdap|Warmia-Masuria|13769|
+53.5639|14.8285|Goleniów|West Pomerania|22505|
+49.7358|18.7368|Goleszów|Silesia|4045|
+52.2431|18.0927|Golina|Greater Poland|4387|
+49.9142|18.5142|Gołkowice|Silesia|3582|
+53.1109|19.0538|Golub-Dobrzyń|Kuyavia-Pomerania|12937|
+51.8504|17.9314|Gołuchów|Greater Poland|2000|
+52.8080|20.8732|Gołymin-Ośrodek|Mazovia|700|
+51.1689|19.4933|Gomunice|Łódź|1900|
+53.4895|22.7358|Goniadz|Podlaskie|1954|
+51.6664|16.5349|Góra|Lower Silesia|12668|
+49.9797|19.1047|Góra|Silesia|2554|
+50.7218|22.6665|Goraj|Lublin|1048|
+51.9765|21.2154|Góra Kalwaria|Mazovia|10777|
+52.0571|19.3200|Góra Świętej Małgorzaty|Łódź|357|
+50.5290|18.0100|Górażdże|Upper Silesia|1073|
+50.2080|19.6204|Gorenice|Lesser Poland|1350|
+49.6439|22.0430|Górki|Subcarpathia|1800|
+49.7797|18.8312|Górki Wielkie|Silesia|3554|
+49.6556|21.1604|Gorlice|Lesser Poland|28609|
+50.0922|22.4876|Gorliczyna|Subcarpathia|1897|
+50.8477|20.8250|Górno|Holy Cross|1500|
+50.2824|22.1450|Górno|Subcarpathia|1898|
+54.2856|20.4889|Górowo Iławeckie|Warmia-Masuria|4900|
+50.9478|23.0127|Gorzków|Lublin|264|
+51.2153|19.5963|Gorzkowice|Łódź|3310|
+53.1978|19.6432|Górzno|Kuyavia-Pomerania|1352|
+51.8468|21.7093|Górzno|Mazovia|647|
+52.7368|15.2288|Gorzów Wielkopolski|Lubusz|114567|
+51.0287|18.4230|Gorzów Śląski|Upper Silesia|2300|
+52.4945|14.6550|Górzyca|Lubusz|1539|
+49.9594|18.3988|Gorzyce|Silesia|2435|
+50.1284|22.5793|Gorzyce|Subcarpathia|8009|
+51.6373|17.7295|Gorzyce Wielkie|Greater Poland|2076|
+49.9491|18.4033|Gorzyczki|Silesia|2088|
+53.4901|17.8098|Gostycyn|Kuyavia-Pomerania|1800|
+52.4294|19.4619|Gostynin|Mazovia|18976|
+51.8825|17.0123|Gostyń|Greater Poland|20771|
+50.1053|18.8824|Gostyń|Silesia|3276|
+51.7916|18.5057|Goszczanów|Łódź|824|
+51.7319|20.8515|Goszczyn|Mazovia|920|
+51.2784|20.4383|Gowarczów|Holy Cross|1400|
+52.9008|21.5558|Goworowo|Mazovia|820|
+51.3783|21.3791|Gózd|Mazovia|909|
+51.4363|15.0986|Gozdnica|Lubusz|3398|
+52.7246|19.6850|Gozdowo|Mazovia|1403|
+54.6046|18.1549|Gościcino|Pomerania|5278|
+50.8686|22.0054|Gościeradów|Lublin|960|
+54.0512|15.6526|Gościno|West Pomerania|2636|
+51.4799|19.5314|Grabica|Łódź|390|
+51.0937|16.9782|Grabiszyn|Lower Silesia|2175|
+51.0870|16.9863|Grabiszynek|Lower Silesia|11145|
+52.1272|19.0026|Grabów|Łódź|1300|
+50.8209|23.5506|Grabowiec|Lublin|922|
+51.5060|18.1193|Grabów nad Prosną|Greater Poland|1967|
+49.6590|22.0775|Grabownica Starzeńska|Subcarpathia|3000|
+54.1682|18.1469|Grabowo Kościerskie|Pomerania|1159|
+53.6473|22.4554|Grajewo|Podlaskie|22803|
+52.1336|20.8031|Granica|Mazovia|1110|
+52.2224|16.5286|Granowo|Greater Poland|2031|
+50.6984|17.3845|Grodków|Upper Silesia|8654|
+52.0386|18.0597|Grodziec|Greater Poland|1400|
+52.1039|20.6337|Grodzisk Mazowiecki|Mazovia|26684|
+50.1624|22.4629|Grodzisko Dolne|Subcarpathia|1700|
+50.1869|22.4379|Grodzisko Górne|Subcarpathia|2221|
+52.2276|16.3653|Grodzisk Wielkopolski|Greater Poland|13826|
+49.9815|19.2379|Grojec|Lesser Poland|1259|
+51.8625|20.8676|Grójec|Mazovia|14880|
+51.3606|15.7645|Gromadka|Lower Silesia|2150|
+49.8384|20.9612|Gromnik|Lesser Poland|3325|
+54.0859|19.3060|Gronowo Elbląskie|Warmia-Masuria|1600|
+54.1386|19.4599|Gronowo Górne|Warmia-Masuria|1270|
+53.0949|23.6685|Grudki|Podlaskie|5822|
+53.0585|20.6249|Grudusk|Mazovia|1500|
+53.4841|18.7537|Grudziądz|Kuyavia-Pomerania|92552|
+50.1916|21.0314|Gruszów Wielki|Lesser Poland|1189|
+53.4532|18.9570|Gruta|Kuyavia-Pomerania|1600|
+49.6244|20.9480|Grybów|Lesser Poland|5994|
+53.9165|15.2003|Gryfice|West Pomerania|16720|
+53.2524|14.4883|Gryfino|West Pomerania|21270|
+51.0308|15.4202|Gryfów Śląski|Lower Silesia|6890|
+49.7136|19.6456|Grzechynia|Lesser Poland|2503|
+52.2018|18.7341|Grzegorzew|Greater Poland|1650|
+50.0642|19.9676|Grzegórzki|Lesser Poland|28960|
+53.8373|16.4351|Grzmiąca|West Pomerania|1348|
+51.1333|20.9617|Grzybowa Góra|Holy Cross|1052|
+54.1589|15.4856|Grzybowo|West Pomerania|1347|
+50.0830|22.4540|Grzęska|Subcarpathia|1915|
+52.2693|21.9097|Grębków|Mazovia|345|
+51.5991|16.1674|Grębocice|Lower Silesia|1500|
+50.2450|20.7767|Gręboszów|Lesser Poland|430|
+50.5654|21.8740|Grębów|Subcarpathia|3000|
+51.9496|14.7284|Gubin|Lubusz|16629|
+52.1163|20.3367|Guzów|Mazovia|1108|
+49.8279|21.9977|Gwoźnica Górna|Subcarpathia|1480|
+52.7405|20.9437|Gzy|Mazovia|233|
+49.6615|21.8979|Haczów|Subcarpathia|3370|
+52.7433|23.5812|Hajnówka|Podlaskie|22157|
+52.2288|21.3551|Halinów|Mazovia|3551|
+49.9953|22.2231|Handzlówka|Subcarpathia|1500|
+50.4751|22.4729|Harasiuki|Subcarpathia|862|
+49.8124|19.7804|Harbutowice|Lesser Poland|1519|
+51.4129|23.3994|Hańsk|Lublin|1017|
+49.8071|18.6518|Hażlach|Silesia|2175|
+54.6081|18.8013|Hel|Pomerania|4136|
+50.6533|17.0103|Henryków|Lower Silesia|3200|
+50.7532|18.8876|Herby|Silesia|2421|
+52.2864|20.8079|Hornówek|Mazovia|1054|
+50.8946|24.0372|Horodło|Lublin|1119|
+50.1915|23.3628|Horyniec-Zdrój|Subcarpathia|2700|
+50.8050|23.8925|Hrubieszów|Lublin|18605|
+51.0893|17.0411|Huby|Lower Silesia|18727|
+49.6751|22.0537|Humniska|Subcarpathia|4300|
+49.9797|22.2864|Husów|Subcarpathia|2000|
+50.7379|19.1330|Huta Stara B|Silesia|1939|
+49.9177|22.1813|Hyżne|Subcarpathia|3900|
+53.5960|19.5685|Iława|Warmia-Masuria|32557|
+52.3395|20.0273|Iłów|Mazovia|690|
+51.5006|15.1998|Iłowa|Lubusz|3892|
+53.1681|20.2930|Iłowo -Osada|Warmia-Masuria|2800|
+51.1631|21.2398|Iłża|Mazovia|5121|
+50.1453|19.1860|Imielin|Silesia|8057|
+50.5857|20.4481|Imielno|Holy Cross|300|
+51.5272|20.2230|Inowłódz|Łódź|795|
+52.7989|18.2639|Inowrocław|Kuyavia-Pomerania|77597|
+49.8635|19.3928|Inwałd|Lesser Poland|3254|
+49.5632|18.9057|Istebna|Silesia|4895|
+50.7315|21.2806|Iwaniska|Holy Cross|1300|
+50.0296|21.7540|Iwierzyce|Subcarpathia|940|
+49.8172|20.5902|Iwkowa|Lesser Poland|2699|
+49.5632|21.7899|Iwonicz-Zdrój|Subcarpathia|1860|
+52.2999|20.8173|Izabelin|Mazovia|3045|
+50.8873|23.1525|Izbica|Lublin|1933|
+52.4207|18.7627|Izbica Kujawska|Kuyavia-Pomerania|2771|
+50.5716|18.1559|Izbicko|Upper Silesia|1100|
+49.8722|19.7680|Izdebnik|Lesser Poland|2054|
+53.4361|15.5502|Ińsko|West Pomerania|2002|
+49.6978|21.8996|Jabłonica Polska|Subcarpathia|1076|
+49.4797|19.6937|Jabłonka|Lesser Poland|4767|
+49.6942|22.1156|Jabłonka|Subcarpathia|1100|
+52.2060|16.2074|Jabłonna|Greater Poland|1001|
+51.0887|22.5936|Jabłonna|Lublin|2041|
+52.3788|20.9174|Jabłonna|Mazovia|6552|
+52.4766|22.4423|Jabłonna Lacka|Mazovia|1500|
+53.3914|19.1551|Jabłonowo Pomorskie|Kuyavia-Pomerania|3658|
+51.7250|23.0874|Jabłoń|Lublin|1251|
+52.4785|21.6320|Jadów|Mazovia|1200|
+49.9588|20.6443|Jadowniki|Lesser Poland|4975|
+50.1655|20.7284|Jadowniki Mokre|Lesser Poland|1004|
+50.0946|22.5726|Jagiełła|Subcarpathia|1114|
+52.2197|21.6803|Jakubów|Mazovia|551|
+51.2699|22.6342|Jakubowice Murowane|Lublin|259|
+52.7533|18.1133|Janikowo|Kuyavia-Pomerania|9169|
+50.0009|18.9890|Jankowice|Silesia|2840|
+50.0448|18.5471|Jankowice Rybnickie|Silesia|3895|
+51.5981|17.7882|Janków Przygodzki|Greater Poland|1707|
+49.8915|20.8608|Janowice|Lesser Poland|1279|
+49.8850|19.0938|Janowice|Silesia|1708|
+50.8757|15.9232|Janowice Wielkie|Lower Silesia|2100|
+51.3236|21.8894|Janowiec|Lublin|1000|
+52.7558|17.4898|Janowiec Wielkopolski|Kuyavia-Pomerania|5110|
+50.7069|22.4104|Janów Lubelski|Lublin|11811|
+52.1940|23.2122|Janów Podlaski|Lublin|2655|
+50.3919|18.1368|Januszkowice|Upper Silesia|1091|
+51.9685|17.2971|Jaraczewo|Greater Poland|1392|
+50.4244|23.5858|Jarczów|Lublin|876|
+51.1216|16.8662|Jarnołtów-Jerzmanowo|Lower Silesia|1357|
+51.9727|17.5026|Jarocin|Greater Poland|25582|
+50.5646|22.3212|Jarocin|Subcarpathia|1300|
+50.0162|22.6778|Jarosław|Subcarpathia|35475|
+49.8627|19.5196|Jaroszowice|Lesser Poland|1700|
+49.8228|19.8419|Jasienica|Lesser Poland|1500|
+52.4141|21.4115|Jasienica|Mazovia|2000|
+49.8131|18.9215|Jasienica|Silesia|4872|
+49.7514|21.9418|Jasienica Rosielna|Subcarpathia|2100|
+51.8210|20.9410|Jasieniec|Mazovia|1109|
+49.9699|20.5719|Jasień|Lesser Poland|2934|
+51.7514|15.0142|Jasień|Lubusz|4398|
+49.6584|21.9768|Jasionów|Subcarpathia|1300|
+49.7451|21.4725|Jasło|Subcarpathia|37851|
+54.6983|18.6773|Jastarnia|Pomerania|3925|
+51.3041|22.4355|Jastków|Lublin|700|
+53.4205|16.8176|Jastrowie|Greater Poland|8452|
+51.2473|20.9476|Jastrząb|Mazovia|891|
+50.6702|19.1817|Jastrząb|Silesia|1295|
+49.7973|20.8809|Jastrzębia|Lesser Poland|1557|
+51.4974|21.2371|Jastrzębia|Mazovia|1011|
+54.8314|18.3130|Jastrzębia Góra|Pomerania|1068|
+49.9554|18.5748|Jastrzębie Zdrój|Silesia|95813|
+51.0513|16.1935|Jawor|Lower Silesia|23865|
+49.8558|19.8931|Jawornik|Lesser Poland|2822|
+49.8464|21.8940|Jawornik|Subcarpathia|1200|
+49.8908|22.2887|Jawornik Polski|Subcarpathia|1122|
+49.7935|18.9479|Jaworze|Silesia|6723|
+50.2053|19.2750|Jaworzno|Silesia|96541|
+50.9134|16.4324|Jaworzyna Śląska|Lower Silesia|5242|
+49.5402|18.8700|Jaworzynka|Silesia|3109|
+49.4423|21.8080|Jaśliska|Subcarpathia|480|
+49.7175|21.6489|Jedlicze|Subcarpathia|5629|
+50.7201|16.3465|Jedlina-Zdrój|Lower Silesia|5062|
+51.5140|21.1158|Jedlińsk|Mazovia|1700|
+51.4307|21.3354|Jedlnia-Letnisko|Mazovia|3692|
+53.1412|21.0516|Jednorożec|Mazovia|1800|
+53.2855|22.3035|Jedwabne|Podlaskie|2204|
+53.5299|20.7266|Jedwabno|Warmia-Masuria|1125|
+50.1081|18.4677|Jejkowice|Silesia|3753|
+51.0210|17.3209|Jelcz|Lower Silesia|15308|
+51.0213|17.3165|Jelcz Laskowice|Lower Silesia|15340|
+50.8997|15.7290|Jelenia Góra|Lower Silesia|77366|
+49.6425|19.3270|Jeleśnia|Silesia|4098|
+50.5457|18.3781|Jemielnica|Upper Silesia|3500|
+52.6965|15.0980|Jenin|Lubusz|1100|
+50.2127|19.7467|Jerzmanowice|Lesser Poland|2230|
+53.9758|20.7464|Jeziorany|Warmia-Masuria|3382|
+52.5304|18.2680|Jeziora Wielkie|Kuyavia-Pomerania|560|
+51.6024|22.2767|Jeziorzany|Lublin|780|
+53.5106|18.4944|Jeżewo|Kuyavia-Pomerania|1753|
+51.8138|19.9688|Jeżów|Łódź|1400|
+50.3749|22.1275|Jeżowe|Subcarpathia|5358|
+50.9351|15.7431|Jeżów Sudecki|Lower Silesia|1800|
+49.8723|21.2790|Jodłowa|Subcarpathia|4100|
+49.9930|20.5482|Jodłówka|Lesser Poland|1400|
+49.8943|22.4665|Jodłówka|Subcarpathia|1822|
+50.0499|21.1333|Jodłówka-Wałki|Lesser Poland|1119|
+52.6013|20.5818|Joniec|Mazovia|270|
+53.8282|20.3105|Jonkowo|Warmia-Masuria|1500|
+49.6493|19.8298|Jordanów|Lesser Poland|5194|
+50.8642|16.8687|Jordanów Śląski|Lower Silesia|1000|
+52.1005|21.0463|Józefosław|Mazovia|4484|
+50.4812|23.0540|Józefów|Lublin|2418|
+52.1371|21.2359|Józefów|Mazovia|17910|
+51.0418|21.8302|Józefów nad Wisłą|Lublin|1029|
+50.6276|16.5181|Jugów|Lower Silesia|3700|
+49.6929|19.6913|Juszczyn|Lesser Poland|2511|
+49.6298|19.2203|Juszczyna|Silesia|1693|
+51.6501|17.1696|Jutrosin|Greater Poland|1908|
+50.6394|20.3045|Jędrzejów|Holy Cross|16792|
+52.1301|21.0815|Kabaty|Mazovia|30000|
+53.1035|16.8817|Kaczory|Greater Poland|2911|
+49.8275|18.5916|Kaczyce|Silesia|3056|
+53.2343|21.4645|Kadzidło|Mazovia|4210|
+50.8366|18.9843|Kalej|Silesia|1668|
+50.5627|18.8926|Kalety|Silesia|8670|
+53.9053|18.2188|Kaliska|Pomerania|2268|
+51.7611|18.0910|Kalisz|Greater Poland|108759|
+53.2991|15.9063|Kalisz Pomorski|West Pomerania|4110|
+52.2067|21.8084|Kałuszyn|Mazovia|2955|
+49.8676|19.6772|Kalwaria Zebrzydowska|Lesser Poland|4429|
+49.5647|19.0212|Kamesznica|Silesia|2806|
+49.5753|20.3451|Kamienica|Lesser Poland|3100|
+50.4501|16.9540|Kamienica|Upper Silesia|1300|
+50.6709|19.1227|Kamienica Polska|Silesia|1456|
+52.1661|16.4616|Kamieniec|Greater Poland|1098|
+51.0718|17.1819|Kamieniec Wrocławski|Lower Silesia|1970|
+50.5254|16.8792|Kamieniec Ząbkowicki|Lower Silesia|4200|
+50.7831|16.0304|Kamienna Góra|Lower Silesia|21743|
+50.5703|17.1498|Kamiennik|Upper Silesia|702|
+50.0121|19.5854|Kamień|Lesser Poland|1470|
+50.3406|22.1354|Kamień|Subcarpathia|2700|
+53.5335|17.5202|Kamień Krajeński|Kuyavia-Pomerania|2342|
+53.9685|14.7726|Kamień Pomorski|West Pomerania|9036|
+51.2024|19.4966|Kamieńsk|Łódź|2850|
+51.4716|22.4627|Kamionka|Lublin|1800|
+49.5685|20.8236|Kamionka Wielka|Lesser Poland|2925|
+52.2684|20.4631|Kampinos|Mazovia|723|
+50.9018|19.0287|Kamyk|Silesia|1245|
+50.9858|20.6639|Kaniów|Holy Cross|1257|
+49.9432|19.0510|Kaniów|Silesia|2978|
+52.0765|21.2496|Karczew|Mazovia|10319|
+51.2295|21.9816|Karczmiska|Lublin|800|
+52.0714|15.8614|Kargowa|Lubusz|3649|
+54.0352|15.8774|Karlino|West Pomerania|5832|
+51.1413|17.0521|Karłowice|Lower Silesia|12651|
+51.1367|17.0432|Karłowice-Różanka|Lower Silesia|31813|
+54.0300|15.0550|Karnice|West Pomerania|771|
+52.8370|20.9889|Karniewo|Mazovia|968|
+50.7767|15.7559|Karpacz|Lower Silesia|4979|
+53.9077|17.9209|Karsin|Pomerania|2500|
+54.3342|18.1974|Kartuzy|Pomerania|15002|
+49.7297|20.1355|Kasina Wielka|Lesser Poland|2800|
+50.0388|19.7193|Kaszów|Lesser Poland|1956|
+50.2584|19.0275|Katowice|Silesia|286960|
+51.0310|16.7677|Kąty Wrocławskie|Lower Silesia|5418|
+51.9092|18.5310|Kawęczyn|Greater Poland|417|
+51.8860|20.2470|Kawęczyn Nowy|Łódź|110|
+51.2759|21.4674|Kazanów|Mazovia|460|
+50.2656|20.4936|Kazimierza Wielka|Holy Cross|5696|
+52.3110|18.1658|Kazimierz Biskupi|Greater Poland|4280|
+51.3191|21.9550|Kazimierz Dolny|Lublin|3485|
+52.5131|16.5840|Kaźmierz|Greater Poland|3235|
+49.9835|22.4117|Kańczuga|Subcarpathia|3186|
+52.9919|17.4883|Kcynia|Kuyavia-Pomerania|4716|
+50.0262|21.9291|Kielanówka|Subcarpathia|1081|
+50.8703|20.6275|Kielce|Holy Cross|192468|
+51.1400|17.1780|Kiełczów|Lower Silesia|3700|
+52.3580|20.8621|Kiełpin|Mazovia|1381|
+52.2686|19.8709|Kiernozia|Łódź|930|
+50.0804|18.0043|Kietrz|Upper Silesia|6306|
+50.6072|20.5712|Kije|Holy Cross|452|
+52.9099|19.1202|Kikół|Kuyavia-Pomerania|1500|
+53.6086|19.2635|Kisielice|Warmia-Masuria|2234|
+52.5887|17.2663|Kiszkowo|Greater Poland|1893|
+49.9925|20.2990|Kłaj|Lesser Poland|3500|
+52.6318|17.4307|Kłecko|Greater Poland|2648|
+49.8829|19.5376|Klecza Dolna|Lesser Poland|2188|
+52.3706|18.1771|Kleczew|Greater Poland|4217|
+52.4065|21.3318|Klembów|Mazovia|920|
+51.9922|15.7839|Klenica|Lubusz|1400|
+52.5731|23.3254|Kleszczele|Podlaskie|1410|
+52.3338|17.1716|Kleszczewo|Greater Poland|580|
+51.2236|19.3042|Kleszczów|Łódź|2000|
+49.5193|19.9849|Klikuszowa|Lesser Poland|1470|
+50.6559|21.4559|Klimontów|Holy Cross|2000|
+50.2284|20.3199|Klimontów|Lesser Poland|1397|
+50.9008|18.9367|Kłobuck|Silesia|12934|
+51.7213|21.9649|Kłoczew|Lublin|886|
+52.2545|18.9135|Kłodawa|Greater Poland|6714|
+52.7859|15.2145|Kłodawa|Lubusz|1762|
+50.4349|16.6614|Kłodzko|Lower Silesia|25717|
+50.9216|19.3568|Kłomnice|Silesia|2802|
+51.4193|18.4182|Klonowa|Łódź|950|
+50.9728|18.2182|Kluczbork|Upper Silesia|25978|
+50.3357|19.5624|Klucze|Lesser Poland|5926|
+51.3419|19.2394|Kluki|Łódź|800|
+49.4510|20.3018|Kluszkowce|Lesser Poland|1820|
+51.5345|20.6364|Klwów|Mazovia|528|
+50.2197|18.6507|Knurów|Silesia|39744|
+53.3141|22.9196|Knyszyn|Podlaskie|2758|
+49.8550|19.2165|Kobiernice|Silesia|3455|
+50.9705|16.9351|Kobierzyce|Lower Silesia|2095|
+50.0609|18.9347|Kobiór|Silesia|4702|
+51.3792|17.8381|Kobyla Góra|Greater Poland|2000|
+49.6689|21.2229|Kobylanka|Lesser Poland|2443|
+53.3449|14.8714|Kobylanka|West Pomerania|710|
+51.7165|17.2268|Kobylin|Greater Poland|3130|
+52.3395|21.1959|Kobyłka|Mazovia|17659|
+52.4460|17.0764|Kobylnica|Greater Poland|1480|
+54.4397|16.9978|Kobylnica|Pomerania|4500|
+50.7055|18.7491|Kochanowice|Silesia|1944|
+52.2173|20.0181|Kocierzew Południowy|Łódź|395|
+51.6400|22.4439|Kock|Lublin|3484|
+53.9045|17.0653|Koczała|Pomerania|2111|
+51.9117|23.6030|Kodeń|Lublin|1900|
+50.0125|20.0783|Kokotów|Lesser Poland|1367|
+52.2174|17.6241|Kołaczkowo|Greater Poland|753|
+49.8074|21.4341|Kołaczyce|Subcarpathia|1316|
+53.3364|14.4383|Kołbaskowo|West Pomerania|410|
+52.0643|21.4815|Kołbiel|Mazovia|3000|
+54.2699|18.4664|Kolbudy|Pomerania|3012|
+50.2441|21.7761|Kolbuszowa|Subcarpathia|10442|
+54.2390|17.2315|Kołczygłowy|Pomerania|1233|
+54.4863|18.3437|Koleczkowo|Pomerania|2000|
+53.4115|21.9291|Kolno|Podlaskie|10659|
+52.2002|18.6386|Koło|Greater Poland|23493|
+54.1756|15.5834|Kołobrzeg|West Pomerania|44377|
+50.6534|18.3849|Kolonowskie|Upper Silesia|3382|
+51.9615|15.9599|Kolsko|Lubusz|1000|
+51.7387|19.8199|Koluszki|Łódź|13343|
+51.8032|22.9439|Komarówka Podlaska|Lublin|1300|
+50.6289|23.4774|Komarów-Osada|Lublin|1044|
+49.3392|22.0617|Komańcza|Subcarpathia|880|
+52.3387|16.8106|Komorniki|Greater Poland|5144|
+52.1456|20.8157|Komorów|Mazovia|5136|
+50.6368|17.8264|Komprachcice|Upper Silesia|2800|
+51.6569|17.0419|Konary|Greater Poland|1100|
+49.5507|18.9491|Koniaków|Silesia|3584|
+50.7747|19.6890|Koniecpol|Silesia|6318|
+49.8421|21.9282|Konieczkowa|Subcarpathia|1500|
+52.2234|18.2512|Konin|Greater Poland|81258|
+50.7270|19.0078|Konopiska|Silesia|2901|
+51.9316|15.9039|Konotop|Lubusz|1400|
+52.0938|21.1176|Konstancin-Jeziorna|Mazovia|16548|
+52.2075|23.0853|Konstantynów|Lublin|1437|
+51.7478|19.3256|Konstantynów Łódzki|Łódź|18335|
+50.5934|21.5838|Koprzywnica|Holy Cross|2536|
+49.5682|19.3500|Korbielów|Silesia|1191|
+52.3533|22.6134|Korczew|Mazovia|760|
+49.7156|21.8094|Korczyna|Subcarpathia|6100|
+50.4889|17.5990|Korfantów|Upper Silesia|1940|
+52.2477|17.0895|Kórnik|Greater Poland|7206|
+50.0718|18.3285|Kornowac|Silesia|749|
+53.3137|17.9370|Koronowo|Kuyavia-Pomerania|10965|
+54.1700|21.1392|Korsze|Warmia-Masuria|4521|
+53.7573|20.4562|Kortowo|Warmia-Masuria|1070|
+52.4144|21.8495|Korytnica|Mazovia|747|
+49.6863|20.8436|Korzenna|Lesser Poland|1700|
+54.5893|18.4848|Kosakowo|Pomerania|750|
+50.0721|22.3290|Kosina|Subcarpathia|3590|
+52.5954|22.1471|Kosów Lacki|Mazovia|2090|
+50.9268|20.5653|Kostomłoty Drugie|Holy Cross|1522|
+50.9232|20.5949|Kostomłoty Pierwsze|Holy Cross|1571|
+52.3985|17.2281|Kostrzyn|Greater Poland|8965|
+52.5871|14.6495|Kostrzyn nad Odrą|Lubusz|17778|
+54.1944|16.1722|Koszalin|West Pomerania|107450|
+49.6446|19.4008|Koszarawa|Silesia|2538|
+49.9723|20.9417|Koszyce|Lesser Poland|830|
+49.9808|20.9455|Koszyce Wielkie|Lesser Poland|2581|
+50.6341|18.8413|Koszęcin|Silesia|4471|
+51.7454|16.0358|Kotla|Lower Silesia|1400|
+51.9191|17.6483|Kotlin|Greater Poland|3416|
+52.1764|22.0682|Kotuń|Mazovia|2503|
+52.5302|19.1477|Kowal|Kuyavia-Pomerania|3490|
+51.3250|21.0697|Kowala|Mazovia|1023|
+54.3098|18.5615|Kowale|Pomerania|1972|
+54.1635|22.4167|Kowale Oleckie|Warmia-Masuria|2209|
+51.1309|17.1017|Kowale-Popiele|Lower Silesia|2254|
+53.1543|18.8987|Kowalewo Pomorskie|Kuyavia-Pomerania|4081|
+50.7931|15.8356|Kowary|Lower Silesia|10869|
+51.8894|20.4193|Kowiesy|Łódź|185|
+51.1445|16.9694|Kozanów|Lower Silesia|15901|
+50.6003|19.1630|Koziegłowy|Silesia|2481|
+51.5829|21.5478|Kozienice|Mazovia|17075|
+50.3356|18.1433|Koźle|Upper Silesia|14780|
+50.4839|20.0246|Kozłów|Lesser Poland|1021|
+53.3065|20.2910|Kozłowo|Warmia-Masuria|3000|
+51.7987|18.3389|Koźminek|Greater Poland|1800|
+51.8271|17.4539|Koźmin Wielkopolski|Greater Poland|6678|
+51.2232|22.4275|Kozubszczyzna|Lublin|750|
+49.8476|19.1489|Kozy|Silesia|11920|
+50.4258|22.1538|Kończyce|Subcarpathia|384|
+49.8582|18.6296|Kończyce Małe|Silesia|3294|
+49.8351|18.6447|Kończyce Wielkie|Silesia|1844|
+51.1917|20.4061|Końskie|Holy Cross|20756|
+51.4092|22.0517|Końskowola|Lublin|2208|
+52.0883|16.6487|Kościan|Greater Poland|24096|
+52.1743|18.5707|Kościelec|Greater Poland|900|
+50.8971|19.2156|Kościelec|Silesia|1706|
+49.2907|19.8893|Kościelisko|Lesser Poland|3900|
+54.1223|17.9812|Kościerzyna|Pomerania|23327|
+51.7456|15.5949|Kożuchów|Lubusz|9679|
+50.0380|22.1680|Kraczkowa|Subcarpathia|3200|
+53.2976|16.9908|Krajenka|Greater Poland|3609|
+50.0726|19.9325|Kraków|Lesser Poland|816614|
+49.8603|22.5014|Kramarzówka|Subcarpathia|1500|
+52.2647|18.4241|Kramsk|Greater Poland|1700|
+50.4751|17.9654|Krapkowice|Upper Silesia|18275|
+49.7764|22.6525|Krasiczyn|Subcarpathia|440|
+52.9240|20.9673|Krasne|Mazovia|1000|
+50.0563|22.0864|Krasne|Subcarpathia|3500|
+50.5455|23.2131|Krasnobród|Lublin|3075|
+54.1161|23.2048|Krasnopol|Podlaskie|1300|
+53.0338|21.1574|Krasnosielc|Mazovia|1300|
+50.9846|23.1742|Krasnystaw|Lublin|19532|
+50.8887|20.1186|Krasocin|Holy Cross|1123|
+51.5187|18.2200|Kraszewice|Greater Poland|1600|
+50.9317|23.3493|Kraśniczyn|Lublin|447|
+50.9236|22.2271|Kraśnik|Lublin|35834|
+49.5113|21.5004|Krempna|Subcarpathia|500|
+51.7741|16.9824|Krobia|Greater Poland|4060|
+50.5618|19.5700|Kroczyce|Silesia|1699|
+54.7792|18.1616|Krokowa|Pomerania|782|
+52.2236|16.8325|Krosno|Greater Poland|1724|
+49.6887|21.7706|Krosno|Subcarpathia|47784|
+52.0549|15.0988|Krosno Odrzańskie|Lubusz|12178|
+51.6987|17.4374|Krotoszyn|Greater Poland|29231|
+49.4408|20.4262|Krościenko nad Dunajcem|Lesser Poland|3500|
+49.6795|21.8290|Krościenko Wyżne|Subcarpathia|3700|
+49.4479|20.3396|Krośnica|Lesser Poland|1400|
+51.4764|17.3592|Krośnice|Lower Silesia|1800|
+52.2559|19.1704|Krośniewice|Łódź|4610|
+54.0885|21.9223|Kruklanki|Warmia-Masuria|1100|
+50.5734|18.6225|Krupski Młyn|Silesia|2598|
+52.6756|18.3313|Kruszwica|Kuyavia-Pomerania|9494|
+54.3805|19.4441|Krynica Morska|Pomerania|1339|
+49.4222|20.9594|Krynica-Zdrój|Lesser Poland|12270|
+50.5876|23.3816|Krynice|Lublin|567|
+53.2644|23.7730|Krynki|Podlaskie|2700|
+50.0167|18.8057|Kryry|Silesia|1349|
+50.0438|19.7982|Kryspinów|Lesser Poland|1360|
+50.0182|18.1225|Krzanowice|Silesia|2149|
+49.7381|19.9182|Krzczonów|Lesser Poland|1900|
+51.0073|22.7110|Krzczonów|Lublin|1462|
+49.9888|20.4878|Krzeczów|Lesser Poland|1454|
+49.9892|22.4638|Krzeczowice|Subcarpathia|1023|
+50.0621|22.1805|Krzemienica|Subcarpathia|2664|
+51.8591|16.8335|Krzemieniewo|Greater Poland|5000|
+50.9706|18.7289|Krzepice|Silesia|4479|
+49.7591|19.4891|Krzeszów|Lesser Poland|1618|
+50.7343|16.0699|Krzeszów|Lower Silesia|1527|
+50.4038|22.3424|Krzeszów|Subcarpathia|734|
+50.1425|19.6322|Krzeszowice|Lesser Poland|9978|
+52.5833|15.0071|Krzeszyce|Lubusz|1400|
+51.0709|16.9947|Krzyki|Lower Silesia|12993|
+51.0641|17.0019|Krzyki-Partynice|Lower Silesia|21233|
+52.1104|17.3741|Krzykosy|Greater Poland|808|
+53.1577|20.7858|Krzynowłoga Mała|Mazovia|520|
+49.8835|19.9229|Krzyszkowice|Lesser Poland|1900|
+49.8935|19.8322|Krzywaczka|Lesser Poland|1500|
+49.7989|22.5455|Krzywcza|Subcarpathia|600|
+51.7952|22.1999|Krzywda|Lublin|1400|
+51.9630|16.8198|Krzywiń|Greater Poland|1630|
+52.1841|19.4562|Krzyżanów|Łódź|298|
+49.9825|18.2685|Krzyżanowice|Silesia|2005|
+49.5924|19.3447|Krzyżowa|Silesia|1400|
+49.9853|18.6728|Krzyżowice|Silesia|1035|
+52.8810|16.0112|Krzyż Wielkopolski|Greater Poland|6300|
+49.9432|19.7416|Krzęcin|Lesser Poland|1400|
+53.0816|15.4901|Krzęcin|West Pomerania|747|
+51.6829|19.4028|Ksawerów|Łódź|6269|
+50.1552|18.5993|Książenice|Silesia|2459|
+52.0617|17.2395|Książ Wielkopolski|Greater Poland|2736|
+51.0729|17.0888|Księże Małe-Księże Wielkie|Lower Silesia|5541|
+50.9085|21.9897|Księżomierz|Lublin|1153|
+50.4232|22.7353|Księżpol|Lublin|1145|
+53.0862|20.0478|Kuczbork-Osada|Mazovia|310|
+50.4430|16.2440|Kudowa-Zdrój|Lower Silesia|10176|
+49.7325|19.4849|Kuków|Lesser Poland|1319|
+51.2223|16.2481|Kunice|Lower Silesia|1100|
+51.5994|15.1649|Kunice Żarskie|Lubusz|3000|
+50.9616|21.2806|Kunów|Holy Cross|3078|
+50.8066|17.8835|Kup|Upper Silesia|1200|
+51.3894|22.1864|Kurów|Lublin|2804|
+50.2998|22.4660|Kuryłówka|Subcarpathia|1674|
+53.3986|19.5786|Kurzętnik|Warmia-Masuria|3065|
+52.2306|19.3641|Kutno|Łódź|48323|
+50.2006|18.3115|Kuźnia Raciborska|Silesia|5472|
+53.5109|23.6495|Kuźnica|Podlaskie|1740|
+52.3639|16.3154|Kuślin|Greater Poland|558|
+50.0641|19.4921|Kwaczała|Lesser Poland|1857|
+53.7249|18.9311|Kwidzyn|Pomerania|37601|
+52.5551|16.0856|Kwilcz|Greater Poland|2746|
+50.3498|18.2261|Kędzierzyn-Koźle|Upper Silesia|65636|
+54.2411|16.8897|Kępice|Pomerania|3756|
+50.6398|21.8813|Kępie Żaleszańskie|Subcarpathia|1334|
+51.2784|17.9891|Kępno|Greater Poland|14813|
+53.5587|17.7158|Kęsowo|Kuyavia-Pomerania|790|
+54.0768|21.3753|Kętrzyn|Warmia-Masuria|27478|
+49.8821|19.2233|Kęty|Lesser Poland|19249|
+52.9521|17.9197|Łabiszyn|Kuyavia-Pomerania|4454|
+49.5277|20.8550|Łabowa|Lesser Poland|1100|
+50.6552|23.3662|Łabunie|Lublin|1670|
+49.7156|19.4746|Lachowice|Lesser Poland|2121|
+52.4662|19.6114|Łąck|Mazovia|1350|
+49.5576|20.4359|Łącko|Lesser Poland|2875|
+49.9841|19.5787|Łączany|Lesser Poland|1589|
+51.0023|20.7971|Łączna|Holy Cross|780|
+52.2093|17.9299|Lądek|Greater Poland|790|
+50.3437|16.8795|Lądek-Zdrój|Lower Silesia|6140|
+50.7909|16.8446|Łagiewniki|Lower Silesia|2900|
+50.7752|21.0843|Łagów|Holy Cross|1630|
+51.1583|15.0437|Łagów|Lower Silesia|1095|
+52.3343|15.2977|Łagów|Lubusz|1666|
+52.4287|20.9495|Łajski|Mazovia|1300|
+50.3106|17.5281|Łąka Prudnicka|Upper Silesia|1270|
+49.5345|19.0055|Laliki|Silesia|1039|
+50.5387|17.5610|Łambinowice|Upper Silesia|2800|
+49.8450|19.7158|Lanckorona|Lesser Poland|2100|
+52.3620|19.2803|Łanięta|Łódź|634|
+49.8654|20.2915|Łapanów|Lesser Poland|1000|
+49.9599|20.3845|Łapczyca|Lesser Poland|1918|
+49.3981|20.2434|Łapsze Niżne|Lesser Poland|1403|
+52.9911|22.8842|Łapy|Podlaskie|16434|
+49.5088|19.9808|Lasek|Lesser Poland|1086|
+53.5179|19.0883|Łasin|Kuyavia-Pomerania|3285|
+51.5906|19.1328|Łask|Łódź|18577|
+51.7899|21.5912|Łaskarzew|Mazovia|4893|
+49.7615|20.4505|Laskowa|Lesser Poland|3133|
+50.5333|23.7256|Łaszczów|Lublin|2341|
+50.0202|22.9000|Laszki|Subcarpathia|1827|
+52.0264|21.8083|Latowicz|Mazovia|1401|
+51.1423|21.8792|Łaziska|Lublin|519|
+49.9357|18.4471|Łaziska|Silesia|1689|
+50.1495|18.8422|Łaziska Górne|Silesia|21983|
+50.4277|19.3946|Łazy|Silesia|7166|
+50.0687|22.2291|Łańcut|Subcarpathia|18266|
+54.7610|17.5555|Łeba|Pomerania|3744|
+49.8786|22.0137|Lecka|Subcarpathia|1013|
+52.4015|20.9266|Legionowo|Mazovia|50786|
+51.2101|16.1619|Legnica|Lower Silesia|106033|
+51.1442|16.2421|Legnickie Pole|Lower Silesia|1301|
+54.3246|20.2248|Lelkowo|Warmia-Masuria|1080|
+50.6833|19.6256|Lelów|Silesia|2127|
+49.4701|22.3304|Lesko|Subcarpathia|5700|
+51.8403|16.5749|Leszno|Greater Poland|63565|
+52.2580|20.5912|Leszno|Mazovia|3253|
+52.0909|20.9348|Lesznowola|Mazovia|5374|
+50.7487|17.6169|Lewin Brzeski|Upper Silesia|6000|
+50.4056|16.2910|Lewin Kłodzki|Lower Silesia|1200|
+49.8989|19.7354|Leńcze|Lesser Poland|1408|
+51.0243|15.2641|Leśna|Lower Silesia|4648|
+49.6704|19.1276|Leśna|Silesia|2093|
+52.1332|23.0279|Leśna Podlaska|Lublin|900|
+49.4009|20.0600|Leśnica|Lesser Poland|1200|
+50.4308|18.1868|Leśnica|Upper Silesia|2897|
+51.1423|16.8477|Leśnica-Ratyń-Pustki|Lower Silesia|8724|
+50.2626|22.4193|Leżajsk|Subcarpathia|13958|
+51.1490|19.3273|Lgota Wielka|Łódź|636|
+49.9724|19.8946|Libertów|Lesser Poland|1952|
+50.1040|19.3157|Libiąż|Lesser Poland|17834|
+52.3123|18.3551|Licheń Stary|Greater Poland|1100|
+53.2628|19.8266|Lidzbark|Warmia-Masuria|8177|
+54.1259|20.5795|Lidzbark Warmiński|Warmia-Masuria|16540|
+49.8986|18.9509|Ligota|Silesia|4454|
+49.7059|20.4220|Limanowa|Lesser Poland|14738|
+54.4514|17.9345|Linia|Pomerania|1405|
+54.0766|18.2267|Liniewo|Pomerania|1052|
+51.8986|19.9417|Lipce Reymontowskie|Łódź|1200|
+53.0034|14.9692|Lipiany|West Pomerania|4159|
+51.0126|18.7966|Lipie|Silesia|1103|
+49.6730|21.2929|Lipinki|Lesser Poland|2157|
+51.6395|14.9987|Lipinki Łużyckie|Lubusz|1800|
+53.4960|17.2508|Lipka|Greater Poland|2200|
+53.9962|17.4070|Lipnica|Pomerania|747|
+50.2894|21.8881|Lipnica|Subcarpathia|1300|
+49.5151|19.6350|Lipnica Mała|Lesser Poland|2537|
+49.7049|20.8684|Lipnica Wielka|Lesser Poland|1938|
+50.7298|21.4939|Lipnik|Holy Cross|400|
+49.7890|20.0846|Lipnik|Lesser Poland|1600|
+51.9172|16.5671|Lipno|Greater Poland|1176|
+52.8444|19.1785|Lipno|Kuyavia-Pomerania|14821|
+49.6757|19.0940|Lipowa|Silesia|4357|
+53.1046|20.1764|Lipowiec Kościelny|Mazovia|870|
+53.7331|23.4022|Lipsk|Podlaskie|2463|
+51.1595|21.6493|Lipsko|Mazovia|5723|
+54.0981|17.7845|Lipusz|Pomerania|2069|
+53.2958|18.6871|Lisewo|Kuyavia-Pomerania|1700|
+54.0966|18.8293|Lisewo Malborskie|Pomerania|1280|
+50.0804|21.0440|Lisia Góra|Lesser Poland|3019|
+51.8331|18.3979|Lisków|Greater Poland|1858|
+50.0388|19.7684|Liszki|Lesser Poland|1716|
+53.5280|18.2127|Lniano|Kuyavia-Pomerania|1200|
+53.6392|15.6213|Łobez|West Pomerania|10609|
+50.9308|18.9909|Łobodno|Silesia|1810|
+53.2624|17.2557|Łobżenica|Greater Poland|3211|
+52.5308|21.6816|Łochów|Mazovia|6486|
+49.7299|19.1394|Łodygowice|Silesia|6925|
+51.7706|19.4739|Łódź|Łódź|639890|
+51.9044|23.1766|Łomazy|Lublin|1700|
+52.3341|20.8860|Łomianki|Mazovia|15315|
+53.1781|22.0593|Łomża|Podlaskie|62019|
+50.5644|21.5260|Łoniów|Holy Cross|450|
+51.0408|23.0183|Łopiennik Górny|Lublin|563|
+49.9345|22.3930|Łopuszka Wielka|Subcarpathia|1621|
+49.4728|20.1302|Łopuszna|Lesser Poland|1508|
+50.9486|20.2508|Łopuszno|Holy Cross|1279|
+52.2113|22.7180|Łosice|Mazovia|7207|
+50.7910|17.5659|Łosiów|Upper Silesia|1600|
+49.7498|20.6313|Łososina Dolna|Lesser Poland|3400|
+52.1071|19.9453|Łowicz|Łódź|29809|
+50.1570|23.1234|Lubaczów|Subcarpathia|12595|
+52.7469|18.9194|Lubanie|Kuyavia-Pomerania|810|
+51.4603|22.6095|Lubartów|Lublin|22839|
+52.8521|16.5234|Lubasz|Greater Poland|2861|
+53.5043|19.7497|Lubawa|Warmia-Masuria|9302|
+50.7046|16.0003|Lubawka|Lower Silesia|6404|
+51.1201|15.2877|Lubań|Lower Silesia|22245|
+49.9308|21.9266|Lubenia|Subcarpathia|2400|
+53.1386|18.4811|Łubianka|Kuyavia-Pomerania|953|
+53.8514|18.3990|Lubichowo|Pomerania|2276|
+53.0315|18.7456|Lubicz Dolny|Kuyavia-Pomerania|2700|
+53.0269|18.7710|Lubicz Górny|Kuyavia-Pomerania|3520|
+53.4654|18.0299|Lubiewo|Kuyavia-Pomerania|1012|
+49.7192|19.9785|Lubień|Lesser Poland|3200|
+52.4057|19.1644|Lubień Kujawski|Kuyavia-Pomerania|1293|
+51.4009|16.2015|Lubin|Lower Silesia|77532|
+52.7807|14.9479|Lubiszyn|Lubusz|800|
+54.2846|18.5039|Lublewo Gdańskie|Pomerania|1100|
+51.2500|22.5667|Lublin|Lublin|336339|
+50.6690|18.6844|Lubliniec|Silesia|23784|
+50.7860|18.0011|Łubniany|Upper Silesia|1610|
+50.4116|21.1501|Łubnice|Holy Cross|310|
+51.1641|18.2907|Łubnice|Łódź|1100|
+52.5164|15.2500|Lubniewice|Lubusz|1924|
+51.6079|20.0539|Lubochnia|Łódź|684|
+50.0397|18.3082|Lubomia|Silesia|3779|
+49.6085|20.2021|Lubomierz|Lesser Poland|1830|
+51.0128|15.5097|Lubomierz|Lower Silesia|1816|
+54.0668|20.2396|Lubomino|Warmia-Masuria|1194|
+53.1187|19.8459|Lubowidz|Mazovia|2000|
+52.5117|17.4533|Łubowo|Greater Poland|951|
+53.5863|16.3918|Łubowo|West Pomerania|1300|
+52.3471|16.8927|Luboń|Greater Poland|26431|
+52.5418|18.8325|Lubraniec|Kuyavia-Pomerania|3344|
+52.3042|15.4432|Lubrza|Lubusz|995|
+50.3363|17.6264|Lubrza|Upper Silesia|988|
+51.7847|14.9720|Lubsko|Lubusz|14994|
+50.9159|17.5217|Lubsza|Upper Silesia|1375|
+50.3410|23.5194|Lubycza Królewska|Lublin|1800|
+50.6246|16.4605|Ludwikowice Kłodzkie|Lower Silesia|2540|
+51.3460|22.9058|Ludwin|Lublin|5041|
+49.4666|19.9825|Ludźmierz|Lesser Poland|2400|
+51.9290|22.3796|Łuków|Lublin|30465|
+50.0930|20.9755|Łukowa|Lesser Poland|1200|
+50.3743|22.9435|Łukowa|Lublin|2604|
+49.6111|20.4829|Łukowica|Lesser Poland|2220|
+50.1741|19.4043|Luszowice|Lesser Poland|1800|
+52.9815|19.7665|Lutocin|Mazovia|831|
+51.7538|19.2110|Lutomiersk|Łódź|1500|
+49.9671|21.9124|Lutoryż|Subcarpathia|1524|
+49.2532|22.6925|Lutowiska|Subcarpathia|750|
+51.3703|18.4348|Lututów|Łódź|1432|
+54.5660|18.1091|Luzino|Pomerania|7056|
+49.7129|21.0464|Łużna|Lesser Poland|3221|
+52.4480|16.1811|Lwówek|Greater Poland|2939|
+51.1107|15.5858|Lwówek Śląski|Lower Silesia|9657|
+53.3644|21.5649|Łyse|Mazovia|2350|
+50.1199|18.3915|Lyski|Silesia|1871|
+53.0863|18.6200|Łysomice|Kuyavia-Pomerania|1100|
+51.9855|19.9065|Łyszkowice|Łódź|1100|
+54.5392|17.7501|Lębork|Pomerania|35161|
+51.3012|22.8814|Łęczna|Lublin|21719|
+52.0596|19.1997|Łęczyca|Łódź|15528|
+54.5941|17.8593|Łęczyce|Pomerania|1524|
+50.1426|19.1315|Lędziny|Silesia|16305|
+54.2264|18.6428|Łęgowo|Pomerania|2850|
+51.2123|18.1071|Łęka Opatowska|Greater Poland|727|
+49.7221|19.2650|Łękawica|Silesia|2169|
+49.8100|21.6602|Łęki|Subcarpathia|1088|
+49.9739|21.2474|Łęki Dolne|Subcarpathia|1500|
+49.9739|21.1743|Łęki Górne|Subcarpathia|1700|
+51.1877|19.7980|Łęki Szlacheckie|Łódź|450|
+51.5415|14.7358|Łęknica|Lubusz|2565|
+49.6975|19.8711|Łętownia|Lesser Poland|2800|
+50.3248|22.2340|Łętownia|Subcarpathia|1450|
+51.6922|21.5534|Maciejowice|Mazovia|2000|
+50.3794|21.7462|Majdan Królewski|Subcarpathia|2671|
+51.9470|20.0521|Maków|Łódź|1600|
+52.8649|21.1005|Maków Mazowiecki|Mazovia|9978|
+49.7301|19.6771|Maków Podhalański|Lesser Poland|5746|
+51.9536|18.3913|Malanów|Greater Poland|1607|
+52.4578|20.1022|Mała Wieś|Mazovia|1361|
+54.0359|19.0266|Malbork|Pomerania|36709|
+51.2204|16.4936|Malczyce|Lower Silesia|3100|
+53.9198|19.7440|Małdyty|Warmia-Masuria|1410|
+49.9211|19.2453|Malec|Lesser Poland|1239|
+52.6922|22.0284|Małkinia Górna|Mazovia|5199|
+50.8121|20.2641|Małogoszcz|Holy Cross|3890|
+51.5560|15.4500|Małomice|Lubusz|3617|
+53.3038|22.0284|Mały Płock|Podlaskie|1051|
+49.9352|22.3460|Manasterz|Subcarpathia|1149|
+49.4598|20.2645|Maniowy|Lesser Poland|2380|
+50.8447|16.0212|Marciszów|Lower Silesia|1528|
+52.9734|17.0946|Margonin|Greater Poland|2980|
+53.3829|15.2665|Marianowo|West Pomerania|910|
+52.3207|21.1047|Marki|Mazovia|23177|
+50.0170|18.5210|Markłowice|Silesia|5173|
+50.0263|22.3316|Markowa|Subcarpathia|4100|
+51.3746|22.2580|Markuszów|Lublin|1600|
+51.1720|16.8844|Marszowice|Lower Silesia|1493|
+50.9006|20.7232|Masłów|Holy Cross|1528|
+52.0690|14.9055|Maszewo|Lubusz|460|
+53.4962|15.0617|Maszewo|West Pomerania|3231|
+52.5803|19.6290|Maszewo Duże|Mazovia|1332|
+49.9892|20.6866|Maszkienice|Lesser Poland|1401|
+49.8580|18.9771|Mazańcowice|Silesia|3401|
+51.1494|16.9419|Maślice Małe|Lower Silesia|6602|
+51.1633|16.9284|Maślice Wielkie|Lower Silesia|3469|
+49.8053|22.9223|Medyka|Subcarpathia|2800|
+51.2252|22.7841|Mełgiew|Lublin|990|
+50.7383|23.5013|Miączyn|Lublin|749|
+53.0978|17.0048|Miasteczko Krajeńskie|Greater Poland|1163|
+50.5026|18.9395|Miasteczko Śląskie|Silesia|7044|
+54.0028|16.9826|Miastko|Pomerania|10954|
+51.8841|21.8253|Miastków Kościelny|Mazovia|630|
+50.4954|20.4618|Michałów|Holy Cross|1133|
+50.5471|23.6036|Michałów|Lublin|1224|
+50.1590|19.9804|Michałowice|Lesser Poland|1600|
+52.1743|20.8809|Michałowice|Mazovia|2699|
+53.0349|23.6100|Michałowo|Podlaskie|3621|
+52.4171|20.9659|Michałów-Reginów|Mazovia|1318|
+51.5257|22.3144|Michów|Lublin|1746|
+50.3565|20.0279|Miechów|Lesser Poland|11735|
+50.3960|19.9503|Miechów Charsznica|Lesser Poland|1942|
+50.9368|20.5510|Miedziana Góra|Holy Cross|2317|
+52.3758|15.9588|Miedzichowo|Greater Poland|471|
+52.4678|22.0895|Miedzna|Mazovia|1400|
+49.9823|19.0488|Miedźna|Silesia|1588|
+50.9699|18.9811|Miedzno|Silesia|2529|
+49.6344|21.7873|Miejsce Piastowe|Subcarpathia|2000|
+51.6557|16.9583|Miejska Górka|Greater Poland|3169|
+50.2871|21.4239|Mielec|Subcarpathia|59509|
+52.6687|17.4978|Mieleszyn|Greater Poland|921|
+54.2609|16.0621|Mielno|West Pomerania|2184|
+50.6659|16.1888|Mieroszów|Lower Silesia|4480|
+50.4450|19.1293|Mierzęcice|Silesia|2676|
+52.7873|14.4935|Mieszkowice|West Pomerania|3562|
+52.7436|17.3321|Mieścisko|Greater Poland|2500|
+53.8029|21.5701|Mikołajki|Warmia-Masuria|3851|
+53.8513|19.1657|Mikołajki Pomorskie|Pomerania|1416|
+50.1710|18.9041|Mikołów|Silesia|38821|
+51.5324|17.9738|Mikstat|Greater Poland|1832|
+54.0092|20.0712|Miłakowo|Warmia-Masuria|2691|
+51.7037|22.8883|Milanów|Lublin|1105|
+52.1188|20.6715|Milanówek|Mazovia|15784|
+52.5197|23.1321|Milejczyce|Podlaskie|1100|
+51.2323|22.9244|Milejów|Lublin|2676|
+51.5277|17.2714|Milicz|Lower Silesia|11304|
+51.2560|16.0723|Miłkowice|Lower Silesia|2000|
+53.7645|19.8380|Miłomłyn|Warmia-Masuria|2336|
+54.0139|18.9185|Miłoradz|Pomerania|1114|
+52.2032|17.4896|Miłosław|Greater Poland|3560|
+49.5554|19.0907|Milówka|Silesia|4448|
+50.6516|23.8960|Mircze|Lublin|1480|
+51.1611|17.1703|Mirków|Lower Silesia|1200|
+50.0424|22.5560|Mirocin|Subcarpathia|1405|
+53.3407|16.0879|Mirosławiec|West Pomerania|2616|
+50.9705|15.3857|Mirsk|Lower Silesia|4150|
+51.1347|21.0571|Mirzec|Holy Cross|2100|
+51.3963|17.6661|Międzybórz|Lower Silesia|2354|
+49.7875|19.1974|Międzybrodzie Bialskie|Silesia|3154|
+52.5988|15.8970|Międzychód|Greater Poland|10994|
+50.1478|16.6671|Międzylesie|Lower Silesia|2766|
+52.1449|15.3828|Międzylesie|Lubusz|1971|
+51.9864|22.7825|Międzyrzec Podlaski|Lublin|17158|
+52.4446|15.5780|Międzyrzecz|Lubusz|18669|
+53.9292|14.4510|Międzyzdroje|West Pomerania|5502|
+50.1556|19.6087|Miękinia|Lesser Poland|1232|
+51.1884|16.7359|Miękinia|Lower Silesia|2500|
+51.9213|21.5746|Miętne|Mazovia|2000|
+52.1793|21.5725|Mińsk Mazowiecki|Mazovia|37027|
+53.1128|20.3841|Mława|Mazovia|29398|
+52.2995|20.2002|Młodzieszyn|Mazovia|1287|
+54.1869|19.7215|Młynary|Warmia-Masuria|1815|
+52.9542|21.4114|Młynarze|Mazovia|227|
+49.8894|18.8072|Mnich|Silesia|3541|
+50.0604|19.7260|Mników|Lesser Poland|1212|
+51.0122|20.4843|Mniów|Holy Cross|1876|
+51.3702|20.0391|Mniszków|Łódź|525|
+52.7657|19.5559|Mochowo|Mazovia|310|
+50.7542|22.3295|Modliborzyce|Lublin|1904|
+50.1296|19.8646|Modlnica|Lesser Poland|1265|
+50.1174|19.8553|Modlniczka|Lesser Poland|1149|
+51.6943|20.7223|Mogielnica|Mazovia|2453|
+49.9389|19.8897|Mogilany|Lesser Poland|2605|
+52.6581|17.9558|Mogilno|Kuyavia-Pomerania|12465|
+52.2652|22.1118|Mokobody|Mazovia|1600|
+52.1934|21.0349|Mokotów|Mazovia|217683|
+51.1790|18.4888|Mokrsko|Łódź|1500|
+53.9171|19.9260|Morąg|Warmia-Masuria|14745|
+50.7468|20.6176|Morawica|Holy Cross|1576|
+52.2116|22.5173|Mordy|Mazovia|1843|
+52.8577|14.3930|Moryń|West Pomerania|1634|
+52.2454|16.8471|Mosina|Greater Poland|12318|
+54.6120|18.4963|Mosty|Pomerania|1830|
+53.5480|14.9563|Mosty|West Pomerania|1420|
+50.3002|17.4911|Moszczanka|Upper Silesia|1116|
+49.7367|21.0924|Moszczenica|Lesser Poland|3302|
+51.5030|19.7199|Moszczenica|Łódź|2571|
+53.4050|22.7979|Mońki|Podlaskie|10577|
+53.8644|21.3051|Mrągowo|Warmia-Masuria|21965|
+53.2431|17.6041|Mrocza|Kuyavia-Pomerania|4347|
+51.1882|16.7883|Mrozów|Lower Silesia|1100|
+52.0198|20.3670|Mrozy|Mazovia|3368|
+54.6538|18.4303|Mrzezino|Pomerania|2312|
+54.1438|15.2914|Mrzeżyno|West Pomerania|1671|
+50.8297|19.2855|Mstów|Silesia|1704|
+49.9694|18.5279|Mszana|Silesia|3559|
+49.6743|20.0799|Mszana Dolna|Lesser Poland|7500|
+49.6620|20.0973|Mszana Górna|Lesser Poland|2589|
+51.9742|20.5208|Mszczonów|Mazovia|6267|
+50.2004|19.0435|Murcki|Silesia|5796|
+50.8631|17.9456|Murów|Upper Silesia|1577|
+52.5746|17.0093|Murowana Goślina|Greater Poland|9989|
+49.3566|20.8972|Muszyna|Lesser Poland|5018|
+50.9236|19.2005|Mykanów|Silesia|1002|
+52.1022|21.0186|Mysiadło|Mazovia|3000|
+50.8412|15.7789|Mysłakowice|Lower Silesia|5100|
+50.2075|19.1667|Mysłowice|Silesia|72124|
+50.5752|19.3246|Myszków|Silesia|33273|
+53.3805|21.3496|Myszyniec|Mazovia|2980|
+50.1851|19.4812|Myślachowice|Lesser Poland|2081|
+49.8338|19.9383|Myślenice|Lesser Poland|17686|
+52.9238|14.8679|Myślibórz|West Pomerania|12092|
+50.2822|20.9475|Mędrzechów|Lesser Poland|1300|
+50.0525|19.3753|Mętków|Lesser Poland|1409|
+52.0944|20.8078|Nadarzyn|Mazovia|9881|
+51.1254|17.0307|Nadodrze|Lower Silesia|23177|
+50.6784|20.1066|Nagłowice|Holy Cross|950|
+50.4369|18.9106|Nakło|Silesia|614|
+50.5797|18.1182|Nakło|Upper Silesia|1431|
+53.1421|17.6018|Nakło nad Notecią|Kuyavia-Pomerania|19565|
+51.2858|22.2154|Nałęczów|Lublin|4200|
+51.0759|17.7228|Namysłów|Upper Silesia|16376|
+49.6466|19.8792|Naprawa|Lesser Poland|2100|
+52.9142|23.5198|Narew|Podlaskie|1400|
+50.3492|23.3268|Narol|Subcarpathia|2098|
+52.5269|20.3516|Naruszewo|Mazovia|222|
+52.5889|20.8055|Nasielsk|Mazovia|7445|
+49.5669|20.7393|Nawojowa|Lesser Poland|2700|
+52.3650|17.4133|Nekla|Greater Poland|3351|
+49.9049|19.3246|Nidek|Lesser Poland|1339|
+53.3605|20.4275|Nidzica|Warmia-Masuria|14720|
+49.5035|22.1565|Niebieszczany|Subcarpathia|2500|
+49.6777|22.1048|Niebocko|Subcarpathia|1479|
+52.0777|20.0690|Nieborów|Łódź|900|
+49.8567|21.9035|Niebylec|Subcarpathia|594|
+52.4653|17.6781|Niechanowo|Greater Poland|2300|
+49.9947|21.8782|Niechobrz|Subcarpathia|2644|
+50.0654|18.4953|Niedobczyce|Silesia|10846|
+50.1074|20.8955|Niedomice|Lesser Poland|1926|
+51.1146|22.3891|Niedrzwica Duża|Lublin|3900|
+49.4101|20.3027|Niedzica|Lesser Poland|1600|
+51.5441|22.6914|Niedźwiada|Lublin|754|
+49.9894|21.5216|Niedźwiada|Subcarpathia|2466|
+49.6210|20.0779|Niedźwiedź|Lesser Poland|642|
+50.3891|19.4226|Niegowonice|Silesia|2453|
+50.8007|23.0445|Nielisz|Lublin|920|
+51.3616|22.6394|Niemce|Lublin|3161|
+50.7201|16.8357|Niemcza|Lower Silesia|3110|
+50.6420|17.6193|Niemodlin|Upper Silesia|6315|
+49.8290|22.4270|Nienadowa|Subcarpathia|2500|
+50.0407|20.2226|Niepołomice|Lesser Poland|9384|
+52.4315|21.0321|Nieporęt|Mazovia|3239|
+52.8345|18.8992|Nieszawa|Kuyavia-Pomerania|2002|
+50.5199|22.1397|Nisko|Subcarpathia|15573|
+50.2249|21.6304|Niwiska|Subcarpathia|1560|
+50.4297|21.7508|Nowa Dęba|Subcarpathia|11489|
+50.1731|19.5912|Nowa Góra|Lesser Poland|1637|
+50.5801|16.5016|Nowa Ruda|Lower Silesia|24753|
+50.3209|22.3446|Nowa Sarzyna|Subcarpathia|6255|
+50.8643|21.0905|Nowa Słupia|Holy Cross|1422|
+51.8033|15.7170|Nowa Sól|Lubusz|40354|
+49.9075|19.2165|Nowa Wieś|Lesser Poland|3648|
+54.5588|17.7276|Nowa Wieś Lęborska|Pomerania|2188|
+52.9716|18.0904|Nowa Wieś Wielka|Kuyavia-Pomerania|2207|
+53.6491|18.7272|Nowe|Kuyavia-Pomerania|6104|
+50.1322|20.3766|Nowe Brzesko|Lesser Poland|1756|
+52.1592|20.9111|Nowe Grocholice|Mazovia|1106|
+52.3579|21.2712|Nowe Lipiny|Mazovia|1200|
+51.6910|15.7317|Nowe Miasteczko|Lubusz|2825|
+52.6569|20.6284|Nowe Miasto|Mazovia|2000|
+53.4208|19.5952|Nowe Miasto Lubawskie|Warmia-Masuria|10997|
+51.6181|20.5762|Nowe Miasto nad Pilicą|Mazovia|3856|
+52.0901|17.4111|Nowe Miasto nad Wartą|Greater Poland|1543|
+52.3032|19.1922|Nowe Ostrowy|Łódź|484|
+50.2319|23.1588|Nowe Sioło|Subcarpathia|1300|
+51.7104|17.9934|Nowe Skalmierzyce|Greater Poland|4961|
+53.7226|14.2896|Nowe Warpno|West Pomerania|1200|
+51.6390|22.1018|Nowodwór|Lublin|539|
+53.6744|15.1163|Nowogard|West Pomerania|16703|
+53.2270|21.8821|Nowogród|Podlaskie|2084|
+51.7986|15.2352|Nowogród Bobrzański|Lubusz|5114|
+52.9115|15.0295|Nowogródek Pomorski|West Pomerania|450|
+51.1954|15.3985|Nowogrodziec|Lower Silesia|4031|
+50.0575|22.4106|Nowosielce|Subcarpathia|1600|
+49.5684|22.0695|Nowosielce-Gniewosz|Subcarpathia|1200|
+52.5827|19.4800|Nowy Duninów|Mazovia|873|
+54.2131|19.1177|Nowy Dwór Gdański|Pomerania|9822|
+52.4302|20.7165|Nowy Dwór Mazowiecki|Mazovia|27633|
+50.3012|20.8076|Nowy Korczyn|Holy Cross|1032|
+49.6218|20.6971|Nowy Sącz|Lesser Poland|84376|
+54.1361|19.0091|Nowy Staw|Pomerania|4403|
+49.4778|20.0323|Nowy Targ|Lesser Poland|33763|
+52.3195|16.1284|Nowy Tomyśl|Greater Poland|15179|
+49.9147|20.4611|Nowy Wiśnicz|Lesser Poland|2751|
+49.6035|21.5238|Nowy Żmigród|Subcarpathia|1406|
+49.7732|22.1987|Nozdrzec|Subcarpathia|1300|
+52.6683|22.3221|Nur|Mazovia|760|
+52.4625|23.0857|Nurzec-Stacja|Podlaskie|2000|
+50.4738|17.3344|Nysa|Upper Silesia|47283|
+50.1611|18.3110|Nędza|Silesia|3344|
+52.6474|16.8141|Oborniki|Greater Poland|17915|
+51.3014|16.9147|Oborniki Śląskie|Lower Silesia|8440|
+50.6928|21.6504|Obrazów|Holy Cross|518|
+52.9715|18.8786|Obrowo|Kuyavia-Pomerania|1410|
+52.7163|21.2494|Obryte|Mazovia|930|
+52.7034|16.5281|Obrzycko|Greater Poland|2226|
+50.3152|22.9569|Obsza|Lublin|861|
+49.8425|18.7689|Ochaby|Silesia|2016|
+51.8790|15.4713|Ochla|Lubusz|1544|
+49.9526|19.9745|Ochojno|Lesser Poland|1492|
+52.2210|20.9853|Ochota|Mazovia|82774|
+49.5268|20.3426|Ochotnica Dolna|Lesser Poland|2100|
+51.5742|17.6743|Odolanów|Greater Poland|4960|
+49.7406|21.7407|Odrzykoń|Subcarpathia|2950|
+51.5195|20.5556|Odrzywół|Mazovia|2000|
+50.4518|19.5199|Ogrodzieniec|Silesia|4467|
+52.7657|20.5432|Ojrzeń|Mazovia|750|
+49.9489|20.6016|Okocim|Lesser Poland|1900|
+53.5362|16.8516|Okonek|Greater Poland|3833|
+50.7287|20.1009|Oksa|Holy Cross|890|
+50.9466|17.2926|Oława|Lower Silesia|33029|
+51.1213|17.0530|Ołbin|Lower Silesia|31216|
+54.0337|22.5070|Olecko|Warmia-Masuria|15923|
+50.2015|20.9258|Olesno|Lesser Poland|1708|
+50.8770|18.4209|Olesno|Upper Silesia|10236|
+50.1675|23.0348|Oleszyce|Subcarpathia|5193|
+50.4536|21.0646|Oleśnica|Holy Cross|1800|
+51.2134|17.3899|Oleśnica|Lower Silesia|36956|
+50.2813|19.5650|Olkusz|Lesser Poland|37744|
+49.8069|21.2046|Ołpiny|Lesser Poland|2447|
+49.5675|20.5213|Olszana|Lesser Poland|1107|
+51.2067|15.8004|Olszanica|Lower Silesia|1118|
+49.4774|22.4438|Olszanica|Subcarpathia|1100|
+50.7951|17.4789|Olszanka|Upper Silesia|447|
+52.1903|18.8626|Olszówka|Greater Poland|440|
+49.6146|20.0288|Olszówka|Lesser Poland|1435|
+50.7518|19.2674|Olsztyn|Silesia|2331|
+53.7766|20.4666|Olsztyn|Warmia-Masuria|169793|
+53.5837|20.2847|Olsztynek|Warmia-Masuria|7591|
+51.0671|15.3723|Olszyna|Lower Silesia|4739|
+49.9539|18.3391|Olza|Silesia|1699|
+52.3089|16.4128|Opalenica|Greater Poland|8991|
+51.2146|18.1461|Opatów|Greater Poland|1200|
+50.8006|21.4254|Opatów|Holy Cross|6799|
+50.9557|18.8194|Opatów|Silesia|1213|
+51.7399|18.2165|Opatówek|Greater Poland|3800|
+50.2431|20.7235|Opatowiec|Holy Cross|410|
+52.9055|20.7178|Opinogóra Górna|Mazovia|630|
+51.3757|20.2783|Opoczno|Łódź|22592|
+50.6721|17.9253|Opole|Upper Silesia|127676|
+51.1478|21.9690|Opole Lubelskie|Lublin|8780|
+52.2645|19.5642|Oporów|Łódź|280|
+52.5094|18.0158|Orchowo|Greater Poland|1210|
+52.7055|23.3321|Orla|Podlaskie|1100|
+54.6402|18.1706|Orle|Pomerania|1373|
+49.8711|22.8030|Orły|Subcarpathia|1000|
+54.1148|20.1333|Orneta|Warmia-Masuria|9412|
+50.1938|18.7543|Ornontowice|Silesia|5291|
+51.3134|20.9907|Orońsko|Mazovia|1200|
+54.3249|18.6157|Orunia Górna-Gdańsk Południe|Pomerania|19807|
+50.4274|18.9228|Orzech|Silesia|1942|
+49.7308|21.9452|Orzechówka|Subcarpathia|1550|
+50.1559|18.7792|Orzesze|Silesia|18438|
+53.8097|21.9481|Orzysz|Warmia-Masuria|5998|
+53.5992|18.3437|Osie|Kuyavia-Pomerania|2520|
+51.9665|21.4191|Osieck|Mazovia|954|
+49.8425|19.9821|Osieczany|Lesser Poland|1600|
+51.9042|16.6786|Osieczna|Greater Poland|2132|
+51.0900|17.0529|Osiedle Henrykowskie|Lower Silesia|5384|
+51.1275|16.9619|Osiedle Kosmonautów|Lower Silesia|19048|
+50.8177|20.5412|Osiedle-Nowiny|Holy Cross|2492|
+51.0929|17.0206|Osiedle Powstańców Śląskich|Lower Silesia|24329|
+50.5200|21.4419|Osiek|Holy Cross|2031|
+52.9263|18.8076|Osiek|Kuyavia-Pomerania|1064|
+50.2435|19.6005|Osiek|Lesser Poland|1405|
+51.3672|16.2338|Osiek|Lower Silesia|1117|
+53.7223|18.4905|Osiek|Pomerania|1012|
+49.6378|21.4884|Osiek Jasielski|Subcarpathia|680|
+52.2763|18.6023|Osiek Mały|Greater Poland|630|
+53.1203|17.2910|Osiek nad Notecią|Greater Poland|4000|
+49.6808|19.7824|Osielec|Lesser Poland|3000|
+53.1850|18.0842|Osielsko|Kuyavia-Pomerania|3930|
+53.6047|15.0123|Osina|West Pomerania|2952|
+52.6293|18.7221|Osięciny|Kuyavia-Pomerania|2845|
+51.2895|18.7915|Osjaków|Łódź|1221|
+54.4311|18.4673|Osowa|Pomerania|16021|
+54.2126|18.9514|Ostaszewo|Pomerania|1017|
+53.6967|19.9649|Ostróda|Warmia-Masuria|33524|
+53.0862|21.5757|Ostrołęka|Mazovia|53740|
+52.6265|16.4499|Ostroróg|Greater Poland|1984|
+50.6458|16.6396|Ostroszowice|Lower Silesia|1303|
+49.9681|22.7871|Ostrów|Subcarpathia|1500|
+51.5815|22.6123|Ostrówek|Lublin|276|
+52.5535|21.7601|Ostrówek|Mazovia|1700|
+50.9294|21.3852|Ostrowiec Świętokrzyski|Holy Cross|73989|
+52.3820|18.0447|Ostrowite|Greater Poland|582|
+53.0692|19.2934|Ostrowite|Kuyavia-Pomerania|1300|
+51.4942|22.8529|Ostrów Lubelski|Lublin|2206|
+52.8025|21.8951|Ostrów Mazowiecka|Mazovia|22653|
+49.4762|20.1005|Ostrowsko|Lesser Poland|1274|
+51.6550|17.8069|Ostrów Wielkopolski|Greater Poland|72898|
+52.3044|19.1656|Ostrowy|Łódź|1200|
+50.9780|19.0536|Ostrowy nad Okszą|Silesia|1935|
+51.4264|17.9336|Ostrzeszów|Greater Poland|14446|
+50.1926|19.5708|Ostrężnica|Lesser Poland|1054|
+50.4663|17.1735|Otmuchów|Upper Silesia|5181|
+52.1284|20.7607|Otrębusy|Mazovia|2000|
+52.1058|21.2613|Otwock|Mazovia|43388|
+51.8477|15.7111|Otyń|Lubusz|1200|
+52.1111|20.7047|Owczarnia|Mazovia|1700|
+50.6794|18.2137|Ozimek|Upper Silesia|9963|
+51.9634|19.2914|Ozorków|Łódź|20608|
+52.4536|14.8755|Ośno Lubuskie|Lubusz|3730|
+50.0344|19.2104|Oświęcim|Lesser Poland|34170|
+50.8880|21.6666|Ożarów|Holy Cross|4689|
+51.1449|18.5111|Ożarów|Łódź|1013|
+50.4618|19.0432|Ożarowice|Silesia|1532|
+52.2104|20.7972|Ożarów Mazowiecki|Mazovia|8237|
+51.6645|19.3547|Pabianice|Łódź|70542|
+50.4003|21.0415|Pacanów|Holy Cross|1137|
+52.3028|19.7098|Pacyna|Mazovia|219|
+50.4639|17.0066|Paczków|Upper Silesia|8081|
+50.4395|21.5006|Padew Narodowa|Subcarpathia|2300|
+51.1445|18.9961|Pajęczno|Łódź|6731|
+51.6144|17.0579|Pakosław|Greater Poland|960|
+50.5447|17.3658|Pakosławice|Upper Silesia|500|
+52.8018|18.0853|Pakość|Kuyavia-Pomerania|5762|
+49.8045|19.7439|Palcza|Lesser Poland|1100|
+52.5533|16.6809|Pamiątkowo|Greater Poland|1200|
+50.2314|18.7810|Paniówki|Silesia|2297|
+50.8833|18.7516|Panki|Silesia|1733|
+49.9521|22.4356|Pantalowice|Subcarpathia|1242|
+52.2051|20.4232|Paprotnia|Mazovia|184|
+51.3060|20.1137|Paradyż|Łódź|530|
+54.2066|17.6682|Parchowo|Pomerania|1019|
+51.6402|22.9006|Parczew|Lublin|10249|
+51.0680|17.0139|Partynice|Lower Silesia|1991|
+51.9758|21.6801|Parysów|Mazovia|1100|
+51.9485|19.2061|Parzęczew|Łódź|672|
+54.0616|19.6593|Pasłęk|Warmia-Masuria|12267|
+53.6507|20.7919|Pasym|Warmia-Masuria|2539|
+51.0108|16.1527|Paszowice|Lower Silesia|1429|
+51.1440|18.6166|Pątnów|Łódź|1400|
+49.9531|20.0549|Pawlikowice|Lesser Poland|1200|
+49.9953|22.6476|Pawłosiów|Subcarpathia|1800|
+50.9622|21.1206|Pawłów|Holy Cross|1100|
+49.9613|18.7178|Pawłowice|Silesia|9929|
+51.1649|17.0982|Pawłowice-Kłokoczyce|Lower Silesia|2568|
+50.2466|18.0486|Pawłowiczki|Upper Silesia|1300|
+50.6950|18.5815|Pawonków|Silesia|1496|
+49.7517|19.9711|Pcim|Lesser Poland|4900|
+52.1833|16.8000|Pecna|Greater Poland|1825|
+53.0435|15.3045|Pełczyce|West Pomerania|2808|
+53.9283|18.6977|Pelplin|Pomerania|8320|
+51.2762|17.8097|Perzów|Greater Poland|774|
+49.6746|19.3748|Pewel Wielka|Silesia|1548|
+49.6897|19.3343|Pewel Ślemieńska|Silesia|1555|
+52.0814|21.0240|Piaseczno|Mazovia|36278|
+50.0106|18.9481|Piasek|Silesia|3342|
+51.8850|17.0729|Piaski|Greater Poland|3157|
+51.1389|22.8486|Piaski|Lublin|2634|
+52.1844|20.8395|Piastów|Mazovia|23290|
+52.0689|19.4797|Piątek|Łódź|2130|
+53.1966|22.0959|Piątnica|Podlaskie|1800|
+50.8496|15.5989|Piechowice|Lower Silesia|6496|
+53.7576|21.3391|Piecki|Warmia-Masuria|3320|
+54.3570|18.5817|Piecki-Migowo|Pomerania|27173|
+50.0249|19.7962|Piekary|Lesser Poland|1200|
+50.3802|18.9265|Piekary Śląskie|Silesia|59757|
+49.4769|19.7681|Piekielnik|Lesser Poland|2314|
+50.8803|20.4642|Piekoszów|Holy Cross|2671|
+49.9055|18.6489|Pielgrzymowice|Silesia|2407|
+54.2365|20.1283|Pieniężno|Warmia-Masuria|2845|
+50.6975|20.7549|Pierzchnica|Holy Cross|1016|
+49.8334|18.8141|Pierściec|Silesia|2111|
+50.7129|16.5823|Pieszyce|Lower Silesia|9406|
+50.0845|18.0915|Pietrowice Wielkie|Silesia|2239|
+49.6963|19.1599|Pietrzykowice|Silesia|4339|
+51.2490|15.0468|Pieńsk|Lower Silesia|5813|
+53.1514|16.7378|Piła|Greater Poland|75532|
+51.9594|21.5309|Pilawa|Mazovia|4278|
+50.6836|16.7436|Piława Górna|Lower Silesia|6736|
+50.2167|18.5613|Pilchowice|Silesia|2919|
+51.1370|16.9575|Pilczyce|Lower Silesia|5582|
+51.1309|16.9765|Pilczyce-Kozanów-Popowice Północne|Lower Silesia|31320|
+50.4680|19.6573|Pilica|Silesia|1999|
+49.9788|21.2923|Pilzno|Subcarpathia|4535|
+51.4760|21.4500|Pionki|Mazovia|19966|
+52.5511|18.4991|Piotrków Kujawski|Kuyavia-Pomerania|5030|
+51.4055|19.7032|Piotrków Trybunalski|Łódź|80128|
+51.1448|15.2306|Pisarzowice|Lower Silesia|1600|
+49.8836|19.1456|Pisarzowice|Silesia|4673|
+50.2358|22.5287|Piskorowice|Subcarpathia|1116|
+53.6274|21.8125|Pisz|Warmia-Masuria|19232|
+51.9812|23.3772|Piszczac|Lublin|3087|
+49.4406|20.7142|Piwniczna-Zdrój|Lesser Poland|5793|
+50.5205|20.5265|Pińczów|Holy Cross|11806|
+50.9777|19.4552|Pławno|Łódź|1200|
+50.0999|19.4645|Płaza|Lesser Poland|4000|
+51.8964|17.7855|Pleszew|Greater Poland|17640|
+52.3671|16.8099|Plewiska|Greater Poland|5861|
+49.9264|20.9453|Pleśna|Lesser Poland|1890|
+52.5468|19.7064|Płock|Mazovia|127474|
+52.9778|21.0718|Płoniawy-Bramura|Mazovia|359|
+53.8018|15.2667|Płoty|West Pomerania|4093|
+52.6235|20.3755|Płońsk|Mazovia|22217|
+53.2967|18.7769|Płużnica|Kuyavia-Pomerania|543|
+52.5094|16.2567|Pniewy|Greater Poland|7738|
+52.4775|17.2877|Pobiedziska|Greater Poland|8677|
+54.0610|14.9328|Pobierowo|West Pomerania|1084|
+51.8934|18.9573|Poddębice|Łódź|7840|
+51.6402|21.7442|Podebłocie|Mazovia|1025|
+51.6882|23.1996|Podedwórze|Lublin|493|
+49.5769|20.5886|Podegrodzie|Lesser Poland|1902|
+50.8326|15.6816|Podgórzyn|Lower Silesia|1700|
+52.1224|20.7266|Podkowa Leśna|Mazovia|3844|
+50.0146|20.1678|Podłęże|Lesser Poland|1978|
+49.5476|19.7387|Podwilk|Lesser Poland|2396|
+50.0185|21.1579|Pogórska Wola|Lesser Poland|2707|
+54.5644|18.4821|Pogórze|Pomerania|1123|
+49.7996|18.8433|Pogórze|Silesia|1851|
+51.8222|17.2302|Pogorzela|Greater Poland|2015|
+50.1019|19.4223|Pogorzyce|Lesser Poland|1400|
+50.0672|18.2988|Pogrzebień|Silesia|1215|
+49.8038|18.6011|Pogwizdów|Silesia|3449|
+50.9027|17.8375|Pokój|Upper Silesia|1400|
+51.0948|23.4635|Pokrówka|Lublin|1594|
+52.6207|21.0192|Pokrzywnica|Mazovia|510|
+52.7992|16.7335|Połajewo|Greater Poland|2237|
+50.4037|16.5127|Polanica-Zdrój|Lower Silesia|6966|
+50.4332|21.2812|Połaniec|Holy Cross|8158|
+49.9850|19.3261|Polanka Wielka|Lesser Poland|3800|
+54.1193|16.6851|Polanów|West Pomerania|2960|
+49.3697|22.4211|Polańczyk|Subcarpathia|830|
+53.7642|16.0957|Połczyn-Zdrój|West Pomerania|8682|
+53.5521|14.5718|Police|West Pomerania|34350|
+51.4554|21.6268|Policzna|Mazovia|1500|
+51.5039|16.0726|Polkowice|Lower Silesia|21565|
+49.9918|18.5510|Połomia|Silesia|2497|
+49.9047|21.8920|Połomia|Subcarpathia|1800|
+50.2283|18.1268|Polska Cerekiew|Upper Silesia|1429|
+52.4714|20.7292|Pomiechówek|Mazovia|936|
+51.1798|22.1309|Poniatowa|Lublin|10056|
+51.7634|16.8087|Poniec|Greater Poland|2849|
+49.8331|19.4657|Ponikiew|Lesser Poland|1237|
+50.8263|17.7438|Popielów|Upper Silesia|2400|
+49.8172|19.2184|Porąbka|Silesia|3852|
+49.9426|20.6905|Porąbka Uszewska|Lesser Poland|1255|
+50.6780|19.2151|Poraj|Silesia|4418|
+49.4860|22.2250|Poraż|Subcarpathia|1400|
+49.3378|20.0029|Poronin|Lesser Poland|3507|
+49.7965|20.0172|Poręba|Lesser Poland|1178|
+50.4883|19.3390|Poręba|Silesia|8718|
+49.9400|20.5541|Poręba Spytkowska|Lesser Poland|2500|
+50.0112|19.2838|Poręba Wielka|Lesser Poland|1858|
+50.3848|22.5619|Potok Górny|Lublin|1341|
+50.7915|22.2164|Potok Wielki|Lublin|502|
+50.7068|19.4309|Potok Złoty|Silesia|1101|
+51.5087|20.7218|Potworów|Mazovia|990|
+54.4828|17.4862|Potęgowo|Pomerania|1416|
+52.4136|17.9193|Powidz|Greater Poland|1000|
+51.0916|17.0247|Powstańców Śląskich Wschód|Lower Silesia|11456|
+51.0961|17.0177|Powstańców Śląskich Zachód-Centrum Południow|Lower Silesia|12077|
+54.1415|21.8597|Pozezdrze|Warmia-Masuria|1320|
+52.4069|16.9299|Poznań|Greater Poland|536151|
+51.5320|20.3645|Poświętne|Łódź|412|
+51.1570|17.0290|Poświętne|Lower Silesia|3010|
+52.3297|21.4214|Poświętne|Mazovia|290|
+53.7550|19.2055|Prabuty|Pomerania|8488|
+51.1878|16.9082|Pracze Odrzańskie-Janówek|Lower Silesia|1178|
+52.2544|21.0347|Praga Północ|Mazovia|93192|
+52.2442|21.0855|Praga Południe|Mazovia|179836|
+51.0538|18.4532|Praszka|Upper Silesia|8150|
+51.9404|20.9548|Prażmów|Mazovia|403|
+51.2731|16.3653|Prochowice|Lower Silesia|3743|
+51.6801|20.9592|Promna|Mazovia|333|
+53.6990|22.4318|Prostki|Warmia-Masuria|2541|
+50.5767|17.8714|Prószków|Upper Silesia|2691|
+50.1927|20.2891|Proszowice|Lesser Poland|6146|
+49.8653|18.6819|Pruchna|Silesia|2446|
+49.9062|22.5155|Pruchnik|Subcarpathia|3694|
+50.3212|17.5746|Prudnik|Upper Silesia|23343|
+51.3712|16.9602|Prusice|Lower Silesia|2203|
+53.3302|18.1989|Pruszcz|Kuyavia-Pomerania|2300|
+54.2622|18.6363|Pruszcz Gdański|Pomerania|23618|
+52.1707|20.8121|Pruszków|Mazovia|55371|
+53.0191|20.8803|Przasnysz|Mazovia|16718|
+53.7985|17.2521|Przechlewo|Pomerania|2826|
+49.9784|19.1705|Przecieszyn|Lesser Poland|1157|
+50.0065|19.3758|Przeciszów|Lesser Poland|3996|
+50.1934|21.4801|Przecław|Subcarpathia|1599|
+53.3745|14.4725|Przecław|West Pomerania|3362|
+51.0879|19.8738|Przedbórz|Łódź|3765|
+52.3344|18.8991|Przedecz|Greater Poland|1780|
+49.8371|22.3718|Przedmieście Dubieckie|Subcarpathia|1100|
+51.1021|17.0483|Przedmieście Oławskie|Lower Silesia|20316|
+50.2383|19.6885|Przeginia|Lesser Poland|2093|
+53.1041|15.0762|Przelewice|West Pomerania|770|
+51.5253|15.7944|Przemków|Lower Silesia|6487|
+49.7850|22.7673|Przemyśl|Subcarpathia|67013|
+52.0081|16.3011|Przemęt|Greater Poland|1600|
+52.2682|22.5839|Przesmyki|Mazovia|670|
+50.6863|17.1659|Przeworno|Lower Silesia|1259|
+50.0591|22.4941|Przeworsk|Subcarpathia|15805|
+51.4805|14.9519|Przewóz|Lubusz|850|
+54.3799|18.2876|Przodkowo|Pomerania|1286|
+53.7578|14.7853|Przybiernów|West Pomerania|1700|
+50.0303|20.6628|Przyborów|Lesser Poland|1757|
+51.7999|15.7689|Przyborów|Lubusz|1200|
+49.6215|19.3870|Przyborów|Silesia|1793|
+50.0479|21.9258|Przybyszówka|Subcarpathia|2000|
+51.5919|17.8241|Przygodzice|Greater Poland|3000|
+51.9817|18.6125|Przykona|Greater Poland|520|
+51.3086|21.7474|Przyłęk|Mazovia|559|
+54.4117|18.5984|Przymorze Wielkie|Pomerania|24368|
+50.8005|19.5279|Przyrów|Silesia|1222|
+50.8850|18.6917|Przystajń|Silesia|2283|
+51.3586|20.6289|Przysucha|Mazovia|6188|
+50.2484|18.7459|Przyszowice|Silesia|3203|
+49.9179|19.6857|Przytkowice|Lesser Poland|2560|
+52.5776|15.6788|Przytoczna|Lubusz|2400|
+51.6195|22.2714|Przytoczno|Lublin|1100|
+51.4657|20.9059|Przytyk|Mazovia|990|
+54.1952|18.3212|Przywidz|Pomerania|1673|
+50.4947|22.2192|Przędzel|Subcarpathia|1823|
+50.1724|19.5295|Psary|Lesser Poland|1429|
+51.1871|17.0317|Psary|Lower Silesia|1018|
+50.6147|18.9699|Psary|Silesia|1304|
+51.1459|17.0352|Psie Pole|Lower Silesia|95615|
+51.1478|17.1274|Psie Pole Południe-Kiełczów|Lower Silesia|5263|
+51.1476|17.1144|Psie Pole Zawidawie|Lower Silesia|29606|
+52.4772|15.7816|Pszczew|Lubusz|1826|
+54.1730|18.6979|Pszczółki|Pomerania|4053|
+49.9804|18.9538|Pszczyna|Silesia|25288|
+50.0399|18.3947|Pszów|Silesia|14028|
+51.3105|22.9737|Puchaczów|Lublin|817|
+54.7179|18.4084|Puck|Pomerania|11415|
+51.4166|21.9694|Puławy|Lublin|49759|
+52.7025|21.0828|Pułtusk|Mazovia|19039|
+53.7084|20.7068|Purda|Warmia-Masuria|1140|
+51.9790|20.3504|Puszcza Mariańska|Mazovia|500|
+52.2857|16.8493|Puszczykowo|Greater Poland|9143|
+49.7184|18.6616|Puńców|Silesia|1508|
+54.2511|23.1812|Puńsk|Podlaskie|1210|
+53.1462|14.8926|Pyrzyce|West Pomerania|12893|
+50.4000|18.6333|Pyskowice|Silesia|19018|
+50.5700|22.1291|Pysznica|Subcarpathia|2800|
+52.1706|17.6900|Pyzdry|Greater Poland|3203|
+51.8038|18.7231|Pęczniew|Łódź|3871|
+51.7657|17.1266|Pępowo|Greater Poland|1780|
+49.5668|19.8797|Raba Wyżna|Lesser Poland|4116|
+53.8663|15.9449|Rąbino|West Pomerania|1100|
+49.6089|19.9665|Rabka-Zdrój|Lesser Poland|13071|
+50.5384|23.5469|Rachanie|Lublin|990|
+52.7815|20.1177|Raciąż|Mazovia|4676|
+52.8565|18.8133|Raciążek|Kuyavia-Pomerania|1600|
+50.0919|18.2193|Racibórz|Silesia|58464|
+50.1934|19.6769|Racławice|Lesser Poland|510|
+50.5137|22.1655|Racławice|Subcarpathia|1236|
+50.3120|17.7753|Racławice Śląskie|Upper Silesia|1600|
+53.9875|22.7849|Raczki|Podlaskie|2322|
+50.0098|19.7678|Rączna|Lesser Poland|1736|
+50.7516|22.8298|Radecznica|Lublin|920|
+50.2058|21.1132|Radgoszcz|Lesser Poland|3700|
+50.5043|16.4006|Radków|Lower Silesia|2410|
+50.0502|18.4763|Radlin|Silesia|17479|
+50.0842|20.8497|Radłów|Lesser Poland|2793|
+49.9177|19.4750|Radocza|Lesser Poland|1997|
+51.4025|21.1471|Radom|Mazovia|226794|
+53.0867|19.1942|Radomin|Kuyavia-Pomerania|1012|
+51.0671|19.4448|Radomsko|Łódź|44700|
+50.6810|21.9437|Radomyśl|Subcarpathia|808|
+50.1969|21.2769|Radomyśl Wielki|Subcarpathia|2992|
+50.0031|18.8810|Radostowice|Silesia|1559|
+51.0739|20.2584|Radoszyce|Holy Cross|3400|
+53.6658|15.4479|Radowo Małe|West Pomerania|1200|
+51.0541|17.1093|Radwanice|Lower Silesia|2100|
+49.9472|22.8238|Radymno|Subcarpathia|5464|
+52.9424|20.0922|Radzanów|Mazovia|930|
+52.5731|19.8911|Radzanowo|Mazovia|1186|
+49.6465|19.1312|Radziechowy|Silesia|4541|
+52.6248|18.5277|Radziejów|Kuyavia-Pomerania|5759|
+52.0083|20.5477|Radziejowice|Mazovia|546|
+53.4099|22.4099|Radziłów|Podlaskie|1400|
+50.4003|18.9023|Radzionków|Silesia|17167|
+49.9353|19.8152|Radziszów|Lesser Poland|2800|
+52.4159|21.1841|Radzymin|Mazovia|8818|
+53.3851|18.9372|Radzyń Chełmiński|Kuyavia-Pomerania|1934|
+51.7833|22.6167|Radzyń Podlaski|Lublin|16071|
+49.5093|19.1128|Rajcza|Silesia|3438|
+53.7310|22.7051|Rajgród|Podlaskie|1732|
+50.0119|19.1929|Rajsko|Lesser Poland|1440|
+52.1391|16.2735|Rakoniewice|Greater Poland|3322|
+50.6743|21.0452|Raków|Holy Cross|1174|
+50.1605|22.2391|Rakszawa|Subcarpathia|6894|
+50.2587|21.9714|Raniżów|Subcarpathia|2200|
+50.1219|18.2996|Raszczyce|Silesia|1068|
+51.7183|17.7257|Raszków|Greater Poland|2079|
+50.3978|18.1772|Raszowa|Upper Silesia|1041|
+52.1560|20.9226|Raszyn|Mazovia|7109|
+51.0331|17.2721|Ratowice|Lower Silesia|1100|
+51.7644|20.2549|Rawa Mazowiecka|Łódź|17770|
+51.6095|16.8585|Rawicz|Greater Poland|21380|
+53.2599|15.5471|Recz|West Pomerania|2992|
+54.6053|18.3472|Reda|Pomerania|18116|
+52.9417|20.5532|Regimin|Mazovia|523|
+51.7485|20.3871|Regnów|Łódź|340|
+50.0831|19.5279|Regulice|Lesser Poland|1882|
+51.1337|17.0711|Rejon alei Kromera|Lower Silesia|4421|
+51.1167|17.0613|Rejon placu Grunwaldzkiego|Lower Silesia|27030|
+51.1206|17.0376|Rejon placu Świętego Macieja|Lower Silesia|44090|
+51.0766|17.0258|Rejon ulicy Borowskiej-Południe|Lower Silesia|2663|
+51.1297|17.0338|Rejon ulicy Klęczkowskiej|Lower Silesia|6223|
+51.0915|17.0021|Rejon ulicy Mieleckiej|Lower Silesia|6815|
+51.0861|17.0005|Rejon ulicy Saperów|Lower Silesia|1402|
+51.1025|17.0483|Rejon ulicy Traugutta|Lower Silesia|20617|
+51.0913|23.2819|Rejowiec|Lublin|2114|
+51.1141|23.2472|Rejowiec Fabryczny|Lublin|4474|
+54.6313|18.3628|Rekowo Dolne|Pomerania|1509|
+52.2606|21.1636|Rembertów|Mazovia|21893|
+52.3856|22.3912|Repki|Mazovia|829|
+53.7731|15.4061|Resko|West Pomerania|4354|
+54.0504|21.1458|Reszel|Warmia-Masuria|5226|
+54.0812|15.0147|Rewal|West Pomerania|959|
+50.3159|18.1261|Reńska Wieś|Upper Silesia|1800|
+49.8537|19.3157|Roczyny|Lesser Poland|3728|
+52.2495|16.8999|Rogalinek|Greater Poland|1563|
+51.2041|20.4348|Rogów|Holy Cross|1300|
+51.8176|19.8865|Rogów|Łódź|1500|
+49.9910|18.3508|Rogów|Silesia|2961|
+52.7245|17.6512|Rogowo|Kuyavia-Pomerania|2127|
+50.3911|19.0378|Rogoźnik|Silesia|2753|
+52.7523|16.9905|Rogoźno|Greater Poland|10859|
+53.5359|18.9286|Rogóźno|Kuyavia-Pomerania|960|
+50.4642|23.3904|Rogóźno|Lublin|1153|
+50.0737|22.3749|Rogóźno|Subcarpathia|1200|
+49.5724|19.9230|Rokiciny|Lesser Poland|1491|
+51.6508|19.8019|Rokiciny|Łódź|699|
+51.6647|19.7831|Rokiciny-Kolonia|Łódź|1300|
+52.5125|16.7457|Rokietnica|Greater Poland|1900|
+49.8998|22.6417|Rokietnica|Subcarpathia|2500|
+52.1214|23.2951|Rokitno|Lublin|747|
+50.4320|19.4329|Rokitno Szlacheckie|Silesia|1094|
+49.5915|21.0443|Ropa|Lesser Poland|3959|
+50.0523|21.6089|Ropczyce|Subcarpathia|15279|
+54.2743|18.6038|Rotmanka|Pomerania|1782|
+50.0562|22.5469|Rozbórz|Subcarpathia|2005|
+51.7822|17.5049|Rozdrażew|Greater Poland|1800|
+53.4855|21.3622|Rozogi|Warmia-Masuria|1418|
+51.3027|19.6457|Rozprza|Łódź|1646|
+50.4349|18.0998|Rozwadza|Upper Silesia|1100|
+52.9033|19.7742|Rościszewo|Mazovia|668|
+52.8876|21.3910|Różan|Mazovia|2619|
+51.1434|17.0199|Różanka-Polanka|Lower Silesia|15746|
+53.6416|21.5396|Ruciane-Nida|Warmia-Masuria|4722|
+51.2367|23.5949|Ruda-Huta|Lublin|1076|
+51.1459|20.2238|Ruda Maleniecka|Holy Cross|610|
+50.1215|19.7124|Rudawa|Lesser Poland|1720|
+50.2584|18.8563|Ruda Śląska|Silesia|146189|
+52.7244|22.7268|Rudka|Podlaskie|1400|
+51.5098|16.2636|Rudna|Lower Silesia|1619|
+50.0989|21.9602|Rudna Mała|Subcarpathia|1023|
+50.0880|21.9476|Rudna Wielka|Subcarpathia|1318|
+49.8524|19.8474|Rudnik|Lesser Poland|2641|
+50.8803|22.9729|Rudnik|Lublin|543|
+50.1273|18.1860|Rudnik|Silesia|916|
+50.5213|19.4313|Rudniki|Silesia|1726|
+50.4415|22.2486|Rudnik nad Sanem|Subcarpathia|6770|
+50.1900|18.4533|Rudy|Silesia|2768|
+50.0361|18.7623|Rudziczka|Silesia|1152|
+50.3532|18.4091|Rudziniec|Silesia|1633|
+54.5709|18.3880|Rumia|Pomerania|44791|
+51.3244|18.9851|Rusiec|Łódź|1500|
+51.4368|20.5870|Rusinów|Mazovia|751|
+49.9960|19.6065|Rusocice|Lesser Poland|1164|
+53.0893|22.4401|Rutki-Kossaki|Podlaskie|1300|
+49.7296|19.1016|Rybarzowice|Silesia|3448|
+51.0288|22.8505|Rybczewice|Lublin|840|
+52.1523|20.9366|Rybie|Mazovia|4100|
+50.0971|18.5418|Rybnik|Silesia|142510|
+52.2428|20.1030|Rybno|Mazovia|526|
+53.3835|19.9323|Rybno|Warmia-Masuria|2558|
+49.4781|19.0616|Rycerka Dolna|Silesia|1475|
+49.4444|19.0160|Rycerka Górna|Silesia|1602|
+51.1453|17.8513|Rychtal|Greater Poland|1300|
+52.0715|18.1651|Rychwał|Greater Poland|2370|
+49.9810|19.5502|Ryczów|Lesser Poland|2605|
+52.8132|16.8311|Ryczywół|Greater Poland|2000|
+51.6912|21.4220|Ryczywół|Mazovia|1300|
+50.0586|18.4170|Rydułtowy|Silesia|21887|
+51.7865|16.6676|Rydzyna|Greater Poland|2696|
+49.8789|21.1375|Ryglice|Lesser Poland|2802|
+53.8446|18.9608|Ryjewo|Pomerania|2914|
+51.6257|21.9327|Ryki|Lublin|9619|
+49.5765|21.8681|Rymanów|Subcarpathia|3583|
+53.9439|15.5287|Rymań|West Pomerania|1110|
+53.9377|21.5464|Ryn|Warmia-Masuria|2992|
+53.0660|19.4094|Rypin|Kuyavia-Pomerania|16589|
+49.4890|20.6663|Rytro|Lesser Poland|3700|
+50.5292|21.2064|Rytwiany|Holy Cross|1821|
+50.0971|19.8451|Rząska|Lesser Poland|2082|
+52.7133|21.3677|Rząśnik|Mazovia|1600|
+53.7579|17.1075|Rzeczenica|Pomerania|1566|
+51.1280|21.4401|Rzeczniów|Mazovia|673|
+51.5982|20.2948|Rzeczyca|Łódź|1589|
+51.9622|22.7494|Rzeczyca|Lublin|1500|
+53.0476|21.6207|Rzekuń|Mazovia|1800|
+49.3700|22.1117|Rzepedź|Subcarpathia|1400|
+49.8054|21.0360|Rzepiennik Strzyżewski|Lesser Poland|1324|
+52.3464|14.8323|Rzepin|Lubusz|6488|
+49.9462|19.9728|Rzeszotary|Lesser Poland|2698|
+50.0055|21.9885|Rzeszów|Subcarpathia|198317|
+52.8351|21.3368|Rzewnie|Mazovia|293|
+49.9900|20.5151|Rzezawa|Lesser Poland|2500|
+51.6634|19.4918|Rzgów|Łódź|3370|
+52.1513|18.0498|Rzgów Pierwszy|Greater Poland|627|
+49.9540|19.7967|Rzozów|Lesser Poland|1600|
+49.8113|19.3962|Rzyki|Lesser Poland|3105|
+51.1903|19.8538|Ręczno|Łódź|690|
+50.8592|19.2162|Rędziny|Silesia|4753|
+52.5010|22.3070|Sabnie|Mazovia|369|
+50.4352|19.0304|Sączów|Silesia|1406|
+53.1604|17.4491|Sadki|Kuyavia-Pomerania|2000|
+51.7252|20.5146|Sadkowice|Łódź|570|
+53.6654|18.8681|Sadlinki|Pomerania|1987|
+50.8526|21.3688|Sadowie|Holy Cross|600|
+52.6412|21.8456|Sadowne|Mazovia|1200|
+50.6466|21.6482|Samborzec|Holy Cross|475|
+50.6827|21.7490|Sandomierz|Holy Cross|25087|
+50.0687|19.6460|Sanka|Lesser Poland|1159|
+52.3305|19.8677|Sanniki|Mazovia|2000|
+49.5557|22.2056|Sanok|Subcarpathia|39684|
+52.7379|15.4102|Santok|Lubusz|780|
+52.3150|22.8904|Sarnaki|Mazovia|1194|
+50.3738|19.1506|Sarnów|Silesia|1791|
+50.2289|19.7701|Sąspów|Lesser Poland|1358|
+51.2744|23.4337|Sawin|Lublin|2181|
+50.7668|19.8360|Secemin|Holy Cross|1600|
+54.1080|23.3470|Sejny|Podlaskie|5872|
+51.4372|22.6585|Serniki|Lublin|382|
+52.5104|21.0691|Serock|Mazovia|4023|
+51.7007|22.3324|Serokomla|Lublin|1060|
+54.2265|16.2913|Sianów|West Pomerania|6606|
+53.2039|17.8005|Sicienko|Kuyavia-Pomerania|800|
+49.5915|19.7112|Sidzina|Lesser Poland|2000|
+50.5737|17.4490|Sidzina|Upper Silesia|1022|
+51.0338|17.1474|Siechnice|Lower Silesia|4264|
+52.1677|22.2901|Siedlce|Mazovia|77185|
+52.1378|16.0028|Siedlec|Greater Poland|1200|
+49.9606|22.3795|Siedleczka|Subcarpathia|1152|
+49.8716|20.9962|Siedliska|Lesser Poland|2351|
+49.9541|21.9474|Siedliska|Subcarpathia|1700|
+51.7686|15.8140|Siedlisko|Lubusz|1800|
+51.1222|15.1937|Siekierczyn|Lower Silesia|1800|
+50.3274|19.0290|Siemianowice Śląskie|Silesia|73121|
+52.8811|20.0289|Siemiątkowo|Mazovia|432|
+52.4272|22.8623|Siemiatycze|Podlaskie|15421|
+49.8536|20.9060|Siemiechów|Lesser Poland|1890|
+51.6288|22.7724|Siemień|Lublin|581|
+51.2019|18.8988|Siemkowice|Łódź|1100|
+49.5395|19.9301|Sieniawa|Lesser Poland|1929|
+52.3634|15.3777|Sieniawa|Lubusz|1100|
+50.1779|22.6095|Sieniawa|Subcarpathia|2182|
+51.6401|15.0604|Sieniawa Żarska|Lubusz|1090|
+52.0916|21.6192|Siennica|Mazovia|2600|
+51.0012|23.3226|Siennica Różana|Lublin|1000|
+51.0877|21.4833|Sienno|Mazovia|750|
+49.9144|19.9586|Siepraw|Lesser Poland|4237|
+51.5958|18.7302|Sieradz|Łódź|44436|
+50.1350|20.9295|Sieradza|Lesser Poland|1143|
+52.6513|16.0805|Sieraków|Greater Poland|6090|
+54.3461|17.8925|Sierakowice|Pomerania|7068|
+50.8029|18.5755|Sieraków Śląski|Silesia|1704|
+51.6335|17.9720|Sieroszewice|Greater Poland|1014|
+52.8568|19.6691|Sierpc|Mazovia|18866|
+49.9862|22.3467|Sietesz|Subcarpathia|1800|
+50.4666|19.2303|Siewierz|Silesia|5417|
+50.7494|23.3626|Sitno|Lublin|703|
+50.2305|19.8536|Skała|Lesser Poland|3635|
+50.3199|20.3993|Skalbmierz|Holy Cross|1291|
+51.7010|17.9633|Skalmierzyce|Greater Poland|1789|
+52.1529|15.4584|Skąpe|Lubusz|421|
+50.8458|17.4186|Skarbimierz Osiedle|Upper Silesia|1845|
+54.0691|18.4442|Skarszewy|Pomerania|6942|
+51.3107|21.2523|Skaryszew|Mazovia|4135|
+51.1131|20.8716|Skarżysko-Kamienna|Holy Cross|49410|
+51.1382|20.9120|Skarżysko Kościelne|Holy Cross|2700|
+49.6772|19.6232|Skawica|Lesser Poland|2600|
+49.9752|19.8287|Skawina|Lesser Poland|23647|
+49.8228|19.7126|Skawinki|Lesser Poland|1600|
+50.8516|23.3592|Skierbieszów|Lublin|1315|
+51.9549|20.1584|Skierniewice|Łódź|49042|
+49.8009|18.7877|Skoczów|Silesia|14810|
+52.6722|17.1611|Skoki|Greater Poland|3972|
+49.7495|21.3366|Skołyszyn|Subcarpathia|1455|
+49.7271|19.8363|Skomielna Czarna|Lesser Poland|1400|
+51.1709|18.3870|Skomlin|Łódź|1656|
+53.7944|18.5256|Skórcz|Pomerania|3564|
+50.7592|17.6820|Skorogoszcz|Upper Silesia|1200|
+50.5965|17.3824|Skoroszyce|Upper Silesia|1400|
+52.1073|22.1305|Skórzec|Mazovia|969|
+53.0161|19.6236|Skrwilno|Kuyavia-Pomerania|1624|
+49.7534|20.1862|Skrzydlna|Lesser Poland|1100|
+49.9937|21.0614|Skrzyszów|Lesser Poland|3656|
+49.9487|18.4888|Skrzyszów|Silesia|3429|
+52.4820|18.3311|Skulsk|Greater Poland|1400|
+52.5991|15.5065|Skwierzyna|Lubusz|10051|
+52.8680|19.3560|Skępe|Kuyavia-Pomerania|3539|
+51.8762|16.0721|Sława|Lubusz|4038|
+51.7634|23.5546|Sławatycze|Lublin|2647|
+50.3721|18.3218|Sławięcice|Upper Silesia|2770|
+50.2994|19.3897|Sławków|Silesia|6901|
+51.3927|20.1404|Sławno|Łódź|384|
+54.3628|16.6789|Sławno|West Pomerania|13415|
+53.8899|15.7067|Sławoborze|West Pomerania|2009|
+50.2401|20.0822|Słomniki|Lesser Poland|4340|
+49.6850|20.3433|Słopnice|Lesser Poland|4601|
+49.9460|21.2943|Słotowa|Subcarpathia|1087|
+52.5635|14.8053|Słońsk|Lubusz|3000|
+52.3509|14.5607|Słubice|Lubusz|17567|
+52.3694|19.9388|Słubice|Mazovia|2110|
+52.2873|17.8719|Słupca|Greater Poland|14476|
+50.6007|19.9744|Słupia|Holy Cross|937|
+51.8552|19.9700|Słupia|Łódź|812|
+51.2392|18.0425|Słupia pod Kępnem|Greater Poland|1436|
+50.3279|21.1937|Słupiec|Lesser Poland|1118|
+52.3841|21.1557|Słupno|Mazovia|1500|
+54.4641|17.0287|Słupsk|Pomerania|98608|
+54.6632|17.2137|Smołdzino|Pomerania|984|
+51.0732|16.8822|Smolec|Lower Silesia|2795|
+51.0444|20.4003|Smyków|Holy Cross|290|
+50.2284|21.0041|Smęgorzów|Lesser Poland|1305|
+53.7464|18.6859|Smętowo Graniczne|Pomerania|3000|
+51.9327|21.3033|Sobienie Jeziory|Mazovia|700|
+50.7000|20.4506|Sobków|Holy Cross|870|
+51.7366|21.6635|Sobolew|Mazovia|2200|
+50.8999|16.7444|Sobótka|Lower Silesia|6906|
+52.2294|20.2384|Sochaczew|Mazovia|38267|
+52.6872|20.4726|Sochocin|Mazovia|1945|
+53.4072|23.5023|Sokółka|Podlaskie|19079|
+51.3074|18.3328|Sokolniki|Łódź|1200|
+50.6380|21.8065|Sokolniki|Subcarpathia|1965|
+50.2291|22.1197|Sokołów Małopolski|Subcarpathia|3975|
+52.4068|22.2531|Sokołów Podlaski|Mazovia|18241|
+52.9931|22.7005|Sokoły|Podlaskie|1450|
+49.4876|19.0417|Sól|Silesia|1334|
+53.0837|18.2257|Solec Kujawski|Kuyavia-Pomerania|15125|
+51.1363|21.7656|Solec Nad Wisłą|Mazovia|1650|
+50.3659|20.8896|Solec-Zdrój|Holy Cross|900|
+51.1528|17.0710|Sołtysowice|Lower Silesia|4879|
+54.2756|18.1989|Somonino|Pomerania|2206|
+52.3883|18.5028|Sompolno|Greater Poland|3610|
+50.0609|22.2655|Sonina|Subcarpathia|2836|
+54.4418|18.5600|Sopot|Pomerania|35049|
+49.5685|19.2829|Sopotnia Wielka|Silesia|1667|
+51.5207|23.0922|Sosnowica|Lublin|678|
+49.9400|19.7151|Sosnowice|Lesser Poland|1087|
+50.2712|19.1946|Sosnowiec|Silesia|227295|
+50.8183|15.7232|Sosnówka|Lower Silesia|1200|
+51.7508|23.3381|Sosnówka|Lublin|520|
+52.7816|20.6990|Sońsk|Mazovia|881|
+49.9008|22.8747|Sośnica|Subcarpathia|1409|
+50.2721|18.5298|Sośnicowice|Silesia|1691|
+51.4731|17.6338|Sośnie|Greater Poland|1300|
+53.3892|17.6871|Sośno|Kuyavia-Pomerania|980|
+51.3413|22.7535|Spiczyn|Lublin|697|
+49.9967|19.5110|Spytkowice|Lesser Poland|3898|
+54.2142|21.5228|Srokowo|Warmia-Masuria|1400|
+51.1538|16.9002|Stabłowice|Lower Silesia|14099|
+50.5829|22.0533|Stalowa Wola|Subcarpathia|66495|
+49.9047|19.6533|Stanisław Dolny|Lesser Poland|2135|
+49.9115|19.6293|Stanisław Górny|Lesser Poland|1017|
+49.9855|20.3512|Stanisławice|Lesser Poland|1300|
+52.2894|21.5485|Stanisławów|Mazovia|568|
+52.3749|21.0518|Stanisławów Pierwszy|Mazovia|1176|
+50.9311|16.3743|Stanowice|Lower Silesia|1200|
+50.1304|18.6708|Stanowice|Silesia|2254|
+51.1376|20.5717|Stąporków|Holy Cross|5946|
+51.5468|20.9748|Stara Błotnica|Mazovia|272|
+51.0374|21.0713|Starachowice|Holy Cross|53739|
+53.4219|15.1441|Stara Dąbrowa|West Pomerania|618|
+50.9160|15.5729|Stara Kamienica|Lower Silesia|1253|
+53.9901|18.1696|Stara Kiszewa|Pomerania|1480|
+52.1818|22.9375|Stara Kornica|Mazovia|1088|
+49.7150|22.0044|Stara Wieś|Subcarpathia|3100|
+50.6642|19.0418|Starcza|Silesia|1232|
+52.2603|20.8340|Stare Babice|Mazovia|1268|
+50.8475|16.1931|Stare Bogaczowice|Lower Silesia|1450|
+53.2786|14.7791|Stare Czarnowo|West Pomerania|520|
+53.9220|22.1737|Stare Juchy|Warmia-Masuria|1800|
+52.8567|15.6775|Stare Kurowo|Lubusz|2100|
+52.1797|18.2150|Stare Miasto|Greater Poland|1500|
+50.2888|22.4293|Stare Miasto|Subcarpathia|1551|
+54.0567|19.2087|Stare Pole|Pomerania|1834|
+53.3367|15.0499|Stargard|West Pomerania|71224|
+53.9640|18.5264|Starogard Gdański|Pomerania|47272|
+50.9486|18.6534|Starokrzepice|Silesia|1319|
+51.6913|19.4837|Starowa Góra|Łódź|1300|
+52.6326|19.9855|Staroźreby|Mazovia|2128|
+49.5636|20.6350|Stary Sącz|Lesser Poland|8959|
+53.9233|19.1700|Stary Targ|Pomerania|1162|
+49.9255|20.4864|Stary Wiśnicz|Lesser Poland|1705|
+50.8200|23.1715|Stary Zamość|Lublin|637|
+50.5631|21.1659|Staszów|Holy Cross|16137|
+53.6572|20.4004|Stawiguda|Warmia-Masuria|1464|
+53.3799|22.1546|Stawiski|Podlaskie|2417|
+51.9179|18.1117|Stawiszyn|Greater Poland|1564|
+54.3268|19.1125|Stegna|Pomerania|1978|
+53.6519|14.6256|Stepnica|West Pomerania|2067|
+52.5803|22.2936|Sterdyń|Mazovia|814|
+52.5433|21.9001|Stoczek|Mazovia|890|
+51.9614|21.9714|Stoczek Łukowski|Lublin|2718|
+50.4402|20.9378|Stopnica|Holy Cross|1545|
+50.5999|16.7390|Stoszowice|Lower Silesia|1100|
+49.6082|22.0884|Strachocina|Subcarpathia|1100|
+51.1049|17.1507|Strachocin-Wojnów|Lower Silesia|4861|
+52.4269|21.6350|Strachówka|Mazovia|390|
+49.9004|21.9812|Straszydle|Subcarpathia|2077|
+54.2721|18.5811|Straszyn|Pomerania|2962|
+50.9418|20.4214|Strawczyn|Holy Cross|1000|
+51.6470|21.0923|Stromiec|Mazovia|909|
+49.8306|19.6750|Stronie|Lesser Poland|1200|
+50.2955|16.8740|Stronie Śląskie|Lower Silesia|6192|
+49.7963|19.9238|Stróża|Lesser Poland|2900|
+49.9210|18.7664|Strumień|Silesia|3419|
+51.9022|19.6054|Stryków|Łódź|3297|
+49.7133|19.5219|Stryszawa|Lesser Poland|5266|
+49.8257|19.6176|Stryszów|Lesser Poland|2101|
+52.3070|17.8181|Strzałkowo|Greater Poland|5140|
+50.6165|18.8979|Strzebiń|Silesia|3951|
+50.9626|16.3501|Strzegom|Lower Silesia|16106|
+52.8939|20.2855|Strzegowo|Mazovia|2000|
+52.3148|19.4070|Strzelce|Łódź|746|
+52.8773|15.5298|Strzelce Krajeńskie|Lubusz|9978|
+50.5107|18.3006|Strzelce Opolskie|Upper Silesia|20241|
+51.1394|19.1454|Strzelce Wielkie|Łódź|1100|
+50.4622|17.8566|Strzeleczki|Upper Silesia|1700|
+50.7816|17.0648|Strzelin|Lower Silesia|12394|
+52.6279|18.1725|Strzelno|Kuyavia-Pomerania|5951|
+54.7856|18.3252|Strzelno|Pomerania|1063|
+49.8707|21.7941|Strzyżów|Subcarpathia|8739|
+51.0483|22.4402|Strzyżowice|Lublin|648|
+50.3873|19.0804|Strzyżowice|Silesia|1783|
+49.8981|22.9560|Stubno|Subcarpathia|1400|
+54.0926|17.5758|Studzienice|Pomerania|816|
+49.9623|18.7728|Studzionka|Silesia|2000|
+53.0226|20.4368|Stupsk|Mazovia|783|
+52.2837|16.7008|Stęszew|Greater Poland|5596|
+51.5819|21.7709|Stężyca|Lublin|1900|
+54.2059|17.9557|Stężyca|Pomerania|2200|
+54.0023|18.7693|Subkowy|Pomerania|1941|
+51.6200|20.9489|Sucha|Mazovia|1170|
+49.7419|19.5943|Sucha Beskidzka|Lesser Poland|9801|
+53.2800|15.3254|Suchań|West Pomerania|1465|
+51.0478|20.8292|Suchedniów|Holy Cross|9184|
+53.5775|23.1060|Suchowola|Podlaskie|2211|
+52.2595|22.2529|Suchożebry|Mazovia|586|
+54.2081|18.7673|Suchy Dąb|Pomerania|832|
+52.4731|16.8774|Suchy Las|Greater Poland|4367|
+51.8732|21.6317|Sulbiny Górne|Mazovia|1014|
+52.0836|15.6251|Sulechów|Lubusz|18055|
+51.3544|19.8854|Sulejów|Łódź|6332|
+52.2522|21.2690|Sulejówek|Mazovia|18414|
+51.0762|15.0679|Sulików|Lower Silesia|2014|
+49.8405|19.8010|Sułkowice|Lesser Poland|6362|
+51.9231|21.0893|Sułkowice|Mazovia|1100|
+51.6059|17.5305|Sulmierzyce|Greater Poland|2829|
+51.1846|19.1959|Sulmierzyce|Łódź|1400|
+50.2679|19.7328|Sułoszowa|Lesser Poland|4200|
+51.4997|17.1681|Sułów|Lower Silesia|1405|
+50.9066|22.3606|Sułów|Lublin|1115|
+52.4443|15.1168|Sulęcin|Lesser Poland|10090|
+54.2330|17.7733|Sulęczyno|Pomerania|1500|
+53.2053|23.3393|Supraśl|Podlaskie|4526|
+52.9491|22.9565|Suraż|Podlaskie|993|
+50.4197|23.1963|Susiec|Lublin|1300|
+53.7174|19.3364|Susz|Warmia-Masuria|5593|
+50.0296|18.7916|Suszec|Silesia|4183|
+54.1027|22.9291|Suwałki|Podlaskie|69222|
+52.4129|17.0850|Swarzędz|Greater Poland|29010|
+54.0015|22.3183|Swiętajno|Warmia-Masuria|1600|
+51.1157|17.1254|Swojczyce|Lower Silesia|1215|
+51.3081|17.7198|Syców|Lower Silesia|10809|
+53.4682|16.6058|Sypniewo|Greater Poland|1300|
+53.3698|17.3269|Sypniewo|Kuyavia-Pomerania|1300|
+53.0058|21.3073|Sypniewo|Mazovia|480|
+50.0200|18.3460|Syrynia|Silesia|3138|
+51.6917|18.9755|Szadek|Łódź|2012|
+49.4265|20.0271|Szaflary|Lesser Poland|2200|
+53.0279|17.1265|Szamocin|Greater Poland|4258|
+52.6120|16.5779|Szamotuły|Greater Poland|18588|
+49.9950|20.2696|Szarów|Lesser Poland|1337|
+50.8553|22.3197|Szastarka|Lublin|983|
+52.2687|15.6817|Szczaniec|Lubusz|1473|
+49.4244|20.4849|Szczawnica|Lesser Poland|6032|
+50.8035|16.2566|Szczawno-Zdrój|Lower Silesia|5586|
+50.6950|22.9795|Szczebrzeszyn|Lublin|5255|
+53.4289|14.5530|Szczecin|West Pomerania|395513|
+53.7079|16.6994|Szczecinek|West Pomerania|38496|
+50.6267|19.8250|Szczekociny|Silesia|3841|
+51.1980|16.6106|Szczepanów|Lower Silesia|1700|
+51.1161|17.0102|Szczepin|Lower Silesia|18488|
+50.0942|18.4490|Szczerbice|Silesia|2142|
+51.3332|19.1098|Szczerców|Łódź|3300|
+50.3096|21.0744|Szczucin|Lesser Poland|4166|
+53.5633|22.2853|Szczuczyn|Podlaskie|3552|
+50.1191|20.6361|Szczurowa|Lesser Poland|1722|
+52.9405|19.5744|Szczutowo|Mazovia|620|
+49.7172|19.0318|Szczyrk|Silesia|5860|
+50.4134|16.4474|Szczytna|Lower Silesia|5234|
+53.5626|20.9875|Szczytno|Warmia-Masuria|26044|
+52.8349|21.2177|Szelków|Mazovia|284|
+54.4871|18.2228|Szemud|Pomerania|1639|
+52.8703|22.5439|Szepietowo|Podlaskie|2335|
+49.8092|21.2467|Szerzyny|Lesser Poland|2235|
+50.8257|15.5227|Szklarska Poręba|Lower Silesia|6970|
+53.7683|18.1137|Szlachta|Pomerania|1200|
+51.7122|16.2443|Szlichtyngowa|Lubusz|1372|
+51.5656|15.5366|Szprotawa|Lubusz|12786|
+53.0128|20.1201|Szreńsk|Mazovia|1200|
+53.9208|19.0307|Sztum|Pomerania|9766|
+54.3268|19.1792|Sztutowo|Pomerania|2988|
+53.0097|17.7400|Szubin|Kuyavia-Pomerania|9206|
+52.9188|22.0845|Szumowo|Podlaskie|1100|
+50.5911|21.0068|Szydłów|Holy Cross|1097|
+51.2282|20.8611|Szydłowiec|Mazovia|12128|
+53.1621|16.6117|Szydłowo|Greater Poland|750|
+53.0806|20.4507|Szydłowo|Mazovia|579|
+49.9677|21.1229|Szynwałd|Lesser Poland|3114|
+51.5068|19.0276|Sędziejowice|Łódź|840|
+50.5659|20.0556|Sędziszów|Holy Cross|6771|
+50.0707|21.7006|Sędziszów Małopolski|Subcarpathia|7096|
+49.6222|21.1977|Sękowa|Lesser Poland|1477|
+51.1099|17.1020|Sępolno|Lower Silesia|7724|
+53.4520|17.5317|Sępólno Krajeńskie|Kuyavia-Pomerania|9223|
+54.2690|21.0145|Sępopol|Warmia-Masuria|2043|
+51.9820|20.8339|Tarczyn|Mazovia|3904|
+49.8058|19.3244|Targanice|Lesser Poland|3860|
+52.2918|21.0484|Targówek|Mazovia|124279|
+49.9847|20.2935|Targowisko|Lesser Poland|1670|
+51.0016|21.7147|Tarłów|Holy Cross|790|
+50.5315|23.3959|Tarnawatka|Lublin|1000|
+50.5730|21.6794|Tarnobrzeg|Subcarpathia|50459|
+50.3609|22.7417|Tarnogród|Lublin|3396|
+50.0138|20.9870|Tarnów|Lesser Poland|117799|
+49.9816|20.9866|Tarnowiec|Lesser Poland|1485|
+49.7311|21.5766|Tarnowiec|Subcarpathia|1200|
+53.3417|16.8527|Tarnówka|Greater Poland|1300|
+52.4664|16.6633|Tarnowo Podgórne|Greater Poland|4235|
+50.5763|18.0837|Tarnów Opolski|Upper Silesia|3800|
+50.4455|18.8615|Tarnowskie Góry|Silesia|60938|
+54.0924|18.7779|Tczew|Pomerania|60133|
+51.3260|21.4468|Tczów|Mazovia|620|
+50.5271|23.8396|Telatyn|Lublin|603|
+50.1199|19.6131|Tenczynek|Lesser Poland|3436|
+52.1989|20.4167|Teresin|Mazovia|2500|
+52.0755|23.6161|Terespol|Lublin|6000|
+50.5837|22.8798|Tereszpol|Lublin|1157|
+52.7471|19.4656|Tłuchowo|Kuyavia-Pomerania|1159|
+52.4306|21.4356|Tłuszcz|Mazovia|7482|
+49.7272|19.8716|Tokarnia|Lesser Poland|3100|
+54.3204|19.5269|Tolkmicko|Warmia-Masuria|2700|
+49.9792|20.0997|Tomaszkowice|Lesser Poland|600|
+50.4477|23.4162|Tomaszów Lubelski|Lublin|20261|
+51.5313|20.0085|Tomaszów Mazowiecki|Łódź|67197|
+49.8977|19.4836|Tomice|Lesser Poland|2185|
+52.5033|18.7125|Topólka|Kuyavia-Pomerania|449|
+49.6249|19.8023|Toporzysko|Lesser Poland|1833|
+53.0138|18.5981|Toruń|Kuyavia-Pomerania|196935|
+52.3133|15.0824|Torzym|Lubusz|2466|
+50.4544|18.5221|Toszek|Silesia|3633|
+49.9623|20.1424|Trąbki|Lesser Poland|1200|
+51.9479|21.5993|Trąbki|Mazovia|2141|
+54.1706|18.5400|Trąbki Wielkie|Pomerania|1407|
+51.3525|21.1288|Trablice|Mazovia|1447|
+51.1363|22.9982|Trawniki|Lublin|2893|
+51.6923|21.8111|Trojanów|Mazovia|686|
+53.0311|21.7308|Troszyn|Mazovia|688|
+52.3012|20.7824|Truskaw|Mazovia|1440|
+50.8669|18.8270|Truskolasy|Silesia|2044|
+50.1609|22.5501|Tryńcza|Subcarpathia|1325|
+49.8449|20.3742|Trzciana|Lesser Poland|1462|
+50.0719|21.8385|Trzciana|Subcarpathia|1300|
+53.0406|16.4563|Trzcianka|Greater Poland|16914|
+52.3650|15.8731|Trzciel|Lubusz|2335|
+51.1671|18.0045|Trzcinica|Greater Poland|1158|
+49.7430|21.4175|Trzcinica|Subcarpathia|2400|
+52.9649|14.6067|Trzcińsko Zdrój|West Pomerania|2466|
+54.0615|15.2647|Trzebiatów|West Pomerania|10322|
+52.0211|15.7362|Trzebiechów|Lubusz|920|
+51.6350|14.8161|Trzebiel|Lubusz|1400|
+54.2000|17.0873|Trzebielino|Pomerania|744|
+51.9901|22.5550|Trzebieszów|Lublin|1651|
+50.1593|19.4697|Trzebinia|Lesser Poland|18828|
+49.6502|19.2226|Trzebinia|Silesia|1721|
+51.3108|17.0633|Trzebnica|Lower Silesia|12212|
+50.0783|22.0371|Trzebownisko|Subcarpathia|3084|
+49.7915|19.8471|Trzebunia|Lesser Poland|2059|
+52.5614|17.8231|Trzemeszno|Greater Poland|7840|
+49.8275|20.0221|Trzemeśnia|Lesser Poland|2200|
+50.8489|22.1336|Trzydnik Duży|Lublin|394|
+53.5879|17.8590|Tuchola|Kuyavia-Pomerania|13686|
+54.1152|17.3363|Tuchomie|Pomerania|1365|
+49.8948|21.0541|Tuchów|Lesser Poland|6680|
+53.1937|16.1537|Tuczno|West Pomerania|1919|
+50.5168|20.9919|Tuczępy|Holy Cross|575|
+52.0766|18.2955|Tuliszków|Greater Poland|3371|
+50.5958|17.6532|Tułowice|Upper Silesia|4290|
+51.6764|14.8291|Tuplice|Lubusz|1500|
+52.0155|18.5006|Turek|Greater Poland|29533|
+50.8237|22.7427|Turobin|Lublin|1036|
+53.0146|23.0553|Turośń Kościelna|Podlaskie|700|
+49.9723|18.4378|Turza Śląska|Silesia|3085|
+49.6633|22.0048|Turze Pole|Subcarpathia|1040|
+51.6095|19.5301|Tuszyn|Łódź|7124|
+50.3435|17.9910|Twardawa|Upper Silesia|1029|
+51.3649|17.4688|Twardogóra|Lower Silesia|6840|
+50.0056|18.2358|Tworków|Silesia|2800|
+50.5310|18.7157|Tworóg|Silesia|3607|
+53.9277|16.2577|Tychowo|West Pomerania|2507|
+50.1372|18.9664|Tychy|Silesia|130000|
+49.9638|22.0340|Tyczyn|Subcarpathia|3393|
+53.2057|22.7746|Tykocin|Podlaskie|1907|
+49.3960|21.0237|Tylicz|Lesser Poland|2000|
+49.7286|20.3254|Tymbark|Lesser Poland|2700|
+51.0195|16.9200|Tyniec Mały|Lower Silesia|1622|
+49.5774|22.3699|Tyrawa Wołoska|Subcarpathia|900|
+50.6170|23.6993|Tyszowce|Lublin|2137|
+50.7549|16.6818|Uciechów|Lower Silesia|1017|
+51.0374|16.4547|Udanin|Lower Silesia|982|
+49.4646|22.3983|Uherce Mineralne|Subcarpathia|1400|
+51.5978|19.9222|Ujazd|Łódź|1700|
+50.3894|18.3493|Ujazd|Upper Silesia|1638|
+54.3244|18.6027|Ujeścisko-Łostowice|Pomerania|29845|
+49.4829|19.1380|Ujsoły|Silesia|2392|
+53.0534|16.7320|Ujście|Greater Poland|3869|
+50.4903|22.2636|Ulanów|Subcarpathia|1520|
+50.4497|23.7996|Ulhówek|Lublin|1262|
+51.5919|22.1074|Ułęż|Lublin|1677|
+51.9743|18.7931|Uniejów|Łódź|2932|
+53.2124|18.3862|Unisław|Kuyavia-Pomerania|3490|
+52.1952|20.8842|Ursus|Mazovia|47285|
+52.1505|21.0504|Ursynów|Mazovia|149775|
+51.3939|23.1948|Urszulin|Lublin|1003|
+50.0118|22.4619|Urzejowice|Subcarpathia|1800|
+50.9932|22.1426|Urzędów|Lublin|898|
+54.5805|16.8619|Ustka|Pomerania|16250|
+54.2152|15.7557|Ustronie Morskie|West Pomerania|2081|
+49.7215|18.8020|Ustroń|Silesia|15637|
+49.4304|22.5938|Ustrzyki Dolne|Subcarpathia|9610|
+49.5219|21.1382|Uście Gorlickie|Lesser Poland|1172|
+51.4696|22.9552|Uścimów Stary|Lublin|346|
+53.2799|18.9477|Wąbrzeźno|Kuyavia-Pomerania|13911|
+51.0739|21.0124|Wąchock|Holy Cross|2747|
+49.8834|19.4929|Wadowice|Lesser Poland|19238|
+50.2631|21.3022|Wadowice Górne|Subcarpathia|1100|
+52.8012|18.8759|Waganiec|Kuyavia-Pomerania|1300|
+52.8084|17.1996|Wągrowiec|Greater Poland|25648|
+49.4821|20.0756|Waksmund|Lesser Poland|2340|
+50.7714|16.2843|Wałbrzych|Lower Silesia|127431|
+50.3732|18.0043|Walce|Upper Silesia|2100|
+53.2779|16.4712|Wałcz|West Pomerania|25971|
+51.2958|18.3807|Walichnowy|Łódź|1100|
+50.6975|16.4448|Walim|Lower Silesia|2763|
+53.1376|19.2779|Wąpielsk|Kuyavia-Pomerania|803|
+52.9080|17.4750|Wapno|Greater Poland|1700|
+51.7843|21.1909|Warka|Mazovia|11048|
+53.5875|18.6344|Warlubie|Kuyavia-Pomerania|2043|
+53.2538|14.9940|Warnice|West Pomerania|695|
+52.2355|21.0419|Warszawa|Mazovia|1702139|Warsaw
+51.7105|18.6248|Warta|Łódź|3400|
+51.9763|19.0018|Wartkowice|Łódź|691|
+53.1991|23.2078|Wasilków|Podlaskie|9440|
+51.5622|16.6906|Wąsosz|Lower Silesia|2789|
+53.5221|22.3192|Wąsosz|Podlaskie|1600|
+52.1966|21.1775|Wawer|Mazovia|77205|
+51.2947|22.1468|Wąwolnica|Lublin|1041|
+50.1101|20.3161|Wawrzeńczyce|Lesser Poland|3000|
+50.8991|21.2230|Waśniów|Holy Cross|460|
+54.6057|18.2356|Wejherowo|Pomerania|46820|
+50.7537|23.7641|Werbkowice|Lublin|3030|
+52.2545|21.2241|Wesoła|Mazovia|20000|
+49.7998|22.1003|Wesoła|Subcarpathia|2048|
+50.8140|17.2021|Wiązów|Lower Silesia|2340|
+50.0807|22.7067|Wiązownica|Subcarpathia|1700|
+51.4385|18.9442|Widawa|Łódź|1300|
+51.1709|17.0216|Widawa-Lipa Piotrowska-Polanowice|Lower Silesia|3982|
+53.1269|14.3907|Widuchowa|West Pomerania|1300|
+53.1953|20.4764|Wieczfnia Kościelna|Mazovia|337|
+53.3986|20.9463|Wielbark|Warmia-Masuria|2943|
+52.8946|16.1714|Wieleń|Greater Poland|6067|
+52.7408|19.2635|Wielgie|Kuyavia-Pomerania|1081|
+52.1157|16.3518|Wielichowo|Greater Poland|1736|
+49.9874|20.0647|Wieliczka|Lesser Poland|18677|
+52.4513|20.9683|Wieliszew|Mazovia|3373|
+52.9962|18.5097|Wielka Nieszawka|Kuyavia-Pomerania|460|
+51.0711|20.9666|Wielka Wieś|Holy Cross|1425|
+49.9363|20.8230|Wielka Wieś|Lesser Poland|1311|
+50.0236|23.1641|Wielkie Oczy|Subcarpathia|880|
+54.4675|18.4881|Wielki Kack|Pomerania|10012|
+49.9456|21.6149|Wielopole Skrzyńskie|Subcarpathia|3982|
+50.5097|18.6161|Wielowieś|Silesia|1811|
+51.2210|18.5696|Wieluń|Łódź|21624|
+51.3617|20.7949|Wieniawa|Mazovia|687|
+49.8909|19.3569|Wieprz|Lesser Poland|5002|
+49.6475|19.1801|Wieprz|Silesia|3535|
+51.2949|18.1555|Wieruszów|Łódź|8692|
+50.2362|22.4509|Wierzawice|Subcarpathia|3408|
+51.2494|21.0826|Wierzbica|Mazovia|3956|
+52.4403|18.5109|Wierzbinek|Greater Poland|380|
+50.0331|22.6013|Wierzbna|Subcarpathia|1201|
+50.9367|17.1796|Wierzbno|Lower Silesia|1047|
+52.3101|21.8590|Wierzbno|Mazovia|358|
+51.2046|18.6654|Wierzchlas|Łódź|2000|
+52.8692|18.3561|Wierzchosławice|Kuyavia-Pomerania|1400|
+50.0248|20.8568|Wierzchosławice|Lesser Poland|3000|
+53.4601|16.0996|Wierzchowo|West Pomerania|1541|
+54.7880|18.0031|Wierzchucino|Pomerania|1536|
+50.3844|18.7592|Wieszowa|Silesia|1860|
+50.1910|20.7650|Wietrzychowice|Lesser Poland|658|
+51.9163|16.1855|Wijewo|Greater Poland|1200|
+49.9170|19.1524|Wilamowice|Silesia|2813|
+52.1631|21.0875|Wilanów|Mazovia|14032|
+50.1890|18.5967|Wilcza|Silesia|2063|
+52.4735|18.1674|Wilczogóra|Greater Poland|1198|
+50.7469|21.6578|Wilczyce|Holy Cross|830|
+51.1294|17.1547|Wilczyce|Lower Silesia|2000|
+52.4882|18.1613|Wilczyn|Greater Poland|1200|
+51.8521|21.3775|Wilga|Mazovia|1000|
+51.0147|22.3501|Wilkołaz|Lublin|2493|
+51.0921|15.9282|Wilków|Lower Silesia|2000|
+51.2622|21.8776|Wilków|Lublin|208|
+51.1016|17.6628|Wilków|Upper Silesia|900|
+51.8851|16.5342|Wilkowice|Greater Poland|1589|
+49.7628|19.0897|Wilkowice|Silesia|6496|
+52.6431|20.9411|Winnica|Mazovia|560|
+52.0883|20.3871|Wiskitki|Mazovia|1420|
+49.6563|18.8591|Wisła|Silesia|11379|
+51.7892|23.2084|Wisznice|Lublin|1559|
+49.9180|19.5258|Witanowice|Lesser Poland|1162|
+51.9415|17.5618|Witaszyce|Greater Poland|3967|
+49.9075|19.2796|Witkowice|Lesser Poland|2136|
+52.4396|17.7726|Witkowo|Greater Poland|7825|
+52.6732|14.8977|Witnica|Lubusz|6821|
+52.1465|19.3005|Witonia|Łódź|1130|
+53.1952|22.3824|Wizna|Podlaskie|1300|
+53.3538|17.4906|Więcbork|Kuyavia-Pomerania|5953|
+50.3366|18.1022|Większyce|Upper Silesia|1055|
+51.4703|16.6139|Wińsko|Lower Silesia|1800|
+50.3489|20.6744|Wiślica|Holy Cross|680|
+52.0727|22.2939|Wiśniew|Mazovia|505|
+53.0647|20.3481|Wiśniewo|Mazovia|473|
+49.7878|20.1150|Wiśniowa|Lesser Poland|1900|
+49.8690|21.6551|Wiśniowa|Subcarpathia|870|
+52.1031|18.4763|Władysławów|Greater Poland|1625|
+54.7909|18.4009|Władysławowo|Pomerania|14889|
+51.0164|15.6747|Wleń|Lower Silesia|1888|
+52.1794|20.9461|Włochy|Mazovia|36276|
+52.6482|19.0678|Włocławek|Kuyavia-Pomerania|120339|
+51.5500|23.5500|Włodawa|Lublin|13142|
+50.5556|19.4516|Włodowice|Silesia|1248|
+50.0182|19.3167|Włosienica|Lesser Poland|1491|
+51.9275|16.3646|Włoszakowice|Greater Poland|3159|
+50.8526|19.9659|Włoszczowa|Holy Cross|10661|
+52.0404|21.9557|Wodynie|Mazovia|630|
+51.7183|19.1512|Wodzierady|Łódź|239|
+50.5205|20.1915|Wodzisław|Holy Cross|1100|
+50.0038|18.4720|Wodzisław Śląski|Silesia|49521|
+51.7564|22.7858|Wohyń|Lublin|2000|
+49.7778|21.6708|Wojaszówka|Subcarpathia|700|
+51.2354|22.2455|Wojciechów|Lublin|920|
+50.8423|21.5894|Wojciechowice|Holy Cross|324|
+51.7692|22.3159|Wojcieszków|Lublin|1100|
+50.9519|15.9218|Wojcieszów|Lower Silesia|3933|
+50.3651|19.0365|Wojkowice|Silesia|8927|
+49.9580|20.8378|Wojnicz|Lesser Poland|3509|
+50.9192|23.5460|Wojsławice|Lublin|1600|
+51.0584|17.0451|Wojszyce|Lower Silesia|7285|
+52.2401|20.9887|Wola|Mazovia|140958|
+50.0174|19.1233|Wola|Silesia|8508|
+50.0526|20.2662|Wola Batorska|Lesser Poland|2520|
+49.9821|20.6878|Wola Dębińska|Lesser Poland|1602|
+50.1343|19.5801|Wola Filipowska|Lesser Poland|2751|
+50.8452|20.8581|Wola Jachowa|Holy Cross|1300|
+51.3442|19.5809|Wola Krzysztoporska|Łódź|2100|
+51.3803|20.9770|Wolanów|Mazovia|701|
+49.9056|19.7883|Wola Radziszowska|Lesser Poland|2300|
+51.9018|21.5582|Wola Rębkowska|Mazovia|1400|
+51.4498|22.6835|Wola Sernicka|Lublin|1118|
+51.3214|23.6263|Wola Uhruska|Lublin|1639|
+50.0726|20.3322|Wola Zabierzowska|Lesser Poland|1177|
+50.2912|22.2502|Wola Żarczycka|Subcarpathia|3793|
+51.5020|19.8305|Wolbórz|Łódź|2594|
+50.3796|19.7583|Wolbrom|Lesser Poland|9146|
+51.0185|18.0499|Wołczyn|Upper Silesia|6221|
+53.8421|14.6146|Wolin|West Pomerania|12438|
+50.2423|22.1883|Wólka Niedźwiedzka|Subcarpathia|1800|
+50.0955|22.6234|Wólka Pełkińska|Subcarpathia|1500|
+50.1178|22.1121|Wólka Podleśna|Subcarpathia|1500|
+50.5001|22.2611|Wólka Tanewska|Subcarpathia|1453|
+52.3401|21.2421|Wołomin|Mazovia|36592|
+51.3366|16.6443|Wołów|Lower Silesia|12276|
+49.9888|19.7263|Wołowice|Lesser Poland|1334|
+52.1155|16.1171|Wolsztyn|Greater Poland|13689|
+49.9377|19.4908|Woźniki|Lesser Poland|1213|
+50.5893|19.0599|Wożniki|Silesia|4488|
+51.6121|18.6149|Wróblew|Łódź|340|
+51.1081|17.0386|Wrocław|Lower Silesia|672545|
+52.7105|16.3804|Wronki|Greater Poland|11462|
+49.9586|19.9465|Wrząsowice|Lesser Poland|1865|
+54.3765|18.6075|Wrzeszcz|Pomerania|65000|
+54.3847|18.6127|Wrzeszcz Dolny|Pomerania|21648|
+54.3798|18.5954|Wrzeszcz Górny|Pomerania|20810|
+52.3251|17.5652|Września|Greater Poland|28703|
+50.8459|18.9209|Wręczyca Wielka|Silesia|2718|
+51.8070|16.3166|Wschowa|Lubusz|14458|
+53.9819|22.0324|Wydminy|Warmia-Masuria|2448|
+51.5111|15.0821|Wymiarki|Lubusz|1300|
+50.1330|18.9005|Wyry|Silesia|3304|
+53.1530|17.2680|Wyrzysk|Greater Poland|5263|
+53.1809|17.0835|Wysoka|Greater Poland|2728|
+49.9071|19.6036|Wysoka|Lesser Poland|1500|
+50.4299|19.3537|Wysoka|Silesia|1246|
+50.0447|22.2600|Wysoka|Subcarpathia|2400|
+50.1602|22.0212|Wysoka Głogowska|Subcarpathia|2213|
+49.8306|21.7407|Wysoka Strzyżowska|Subcarpathia|2199|
+50.9109|22.6660|Wysokie|Lublin|602|
+52.9166|22.5171|Wysokie Mazowieckie|Podlaskie|9203|
+52.8413|22.9812|Wyszki|Podlaskie|0|
+52.5928|21.4584|Wyszków|Mazovia|26500|
+52.3899|20.1908|Wyszogród|Mazovia|2779|
+51.6249|20.8139|Wyśmierzyce|Mazovia|858|
+49.6078|19.1164|Węgierska Górka|Silesia|4233|
+51.2875|15.2289|Węgliniec|Lower Silesia|2992|
+49.7342|20.0858|Węglówka|Lesser Poland|1100|
+54.2157|21.7372|Węgorzewo|Warmia-Masuria|11864|
+53.5410|15.5596|Węgorzyno|West Pomerania|3009|
+52.3995|22.0163|Węgrów|Mazovia|12512|
+50.7432|18.0174|Węgry|Upper Silesia|1010|
+50.0149|20.1108|Węgrzce Wielkie|Lesser Poland|1513|
+50.1142|19.7979|Zabierzów|Lesser Poland|4689|
+50.0682|20.3190|Zabierzów Bocheński|Lesser Poland|1700|
+52.2927|21.1054|Ząbki|Mazovia|23473|
+50.5897|16.8124|Ząbkowice Śląskie|Lower Silesia|15004|
+49.9028|18.7815|Zabłocie|Silesia|1316|
+53.0144|23.3383|Zabłudów|Podlaskie|2452|
+51.9519|15.7168|Zabór|Lubusz|950|
+50.0217|19.2407|Zaborze|Lesser Poland|2489|
+49.8728|18.8037|Zaborze|Silesia|1005|
+50.3249|18.7858|Zabrze|Silesia|192177|
+49.9162|18.9429|Zabrzeg|Silesia|3090|
+51.1230|17.0746|Zacisze|Lower Silesia|1773|
+51.7767|18.8493|Zadzim|Łódź|500|
+50.9804|20.6631|Zagnańsk|Holy Cross|1726|
+49.8371|19.3787|Zagórnik|Lesser Poland|2119|
+52.1683|17.8956|Zagórów|Greater Poland|2974|
+49.5146|22.2671|Zagórz|Subcarpathia|5129|
+50.0945|19.4036|Zagórze|Lesser Poland|2963|
+50.0169|21.6752|Zagórzyce|Subcarpathia|3182|
+51.1913|15.8653|Zagrodno|Lower Silesia|1626|
+49.8559|20.8093|Zakliczyn|Lesser Poland|1534|
+50.7577|22.1023|Zaklików|Subcarpathia|3000|
+49.2990|19.9489|Zakopane|Lesser Poland|27266|
+52.4335|20.6121|Zakroczym|Mazovia|3347|
+50.8900|22.5911|Zakrzew|Lublin|630|
+51.4410|21.0010|Zakrzew|Mazovia|339|
+53.4119|17.1547|Zakrzewo|Greater Poland|1620|
+49.8256|19.6497|Zakrzów|Lesser Poland|1133|
+51.1662|17.1369|Zakrzów|Lower Silesia|10737|
+50.9512|22.3814|Zakrzówek|Lublin|1400|
+50.0803|19.6213|Zalas|Lesser Poland|2240|
+50.0123|22.5326|Zalesie|Subcarpathia|1171|
+52.0277|21.0366|Zalesie Górne|Mazovia|3099|
+51.1197|17.0919|Zalesie i Stadion|Lower Silesia|1301|
+50.6480|21.8907|Zaleszany|Subcarpathia|1000|
+53.8453|19.6052|Zalewo|Warmia-Masuria|2112|
+52.5115|20.5286|Załuski|Mazovia|402|
+49.7825|18.6697|Zamarski|Silesia|1279|
+52.9855|22.2432|Zambrów|Podlaskie|22857|
+50.3171|23.0279|Zamch|Lublin|1500|
+50.7231|23.2520|Zamość|Lublin|66034|
+52.1556|17.1623|Zaniemyśl|Greater Poland|2200|
+51.5432|18.8834|Zapolice|Łódź|1394|
+49.5818|22.0128|Zarszyn|Subcarpathia|1101|
+50.3672|19.6959|Zarzecze|Lesser Poland|1200|
+49.7193|19.1753|Zarzecze|Silesia|1121|
+50.5277|22.1952|Zarzecze|Subcarpathia|2549|
+49.9960|19.4380|Zator|Lesser Poland|4779|
+52.5993|21.1826|Zatory|Mazovia|970|
+50.6050|18.4847|Zawadzkie|Upper Silesia|8439|
+50.8074|21.8541|Zawichost|Holy Cross|1853|
+51.0255|15.0621|Zawidów|Silesia|4180|
+52.8274|19.8737|Zawidz|Mazovia|956|
+50.4877|19.4168|Zawiercie|Silesia|53159|
+49.6440|19.5423|Zawoja|Lesser Poland|6200|
+52.2431|15.8165|Zbąszynek|Lubusz|5073|
+52.2509|15.9252|Zbąszyń|Greater Poland|7185|
+53.9337|18.3226|Zblewo|Pomerania|3263|
+53.2429|21.7881|Zbójna|Podlaskie|1100|
+53.0085|19.1575|Zbójno|Kuyavia-Pomerania|841|
+50.4161|18.7544|Zbrosławice|Silesia|2345|
+52.0897|22.4383|Zbuczyn|Mazovia|1836|
+49.9229|18.7270|Zbytków|Silesia|1236|
+51.6458|17.3769|Zduny|Greater Poland|4498|
+51.5992|18.9397|Zduńska Wola|Łódź|44515|
+50.7848|22.1100|Zdziechowice Drugie|Subcarpathia|1091|
+50.4248|18.1235|Zdzieszowice|Upper Silesia|13401|
+49.8903|19.6729|Zebrzydowice|Lesser Poland|1939|
+49.8779|18.6113|Zebrzydowice|Silesia|3150|
+51.4645|19.2197|Zelów|Łódź|8003|
+49.7752|19.6012|Zembrzyce|Lesser Poland|2900|
+51.8556|19.4062|Zgierz|Łódź|58036|
+50.0127|21.8549|Zgłobień|Subcarpathia|1542|
+51.1494|15.0084|Zgorzelec|Lower Silesia|33247|
+51.1383|17.1336|Zgorzelisko|Lower Silesia|11967|
+51.9377|15.5122|Zielona Góra|Lubusz|118433|
+52.3038|21.1602|Zielonka|Mazovia|17518|
+50.1209|19.9216|Zielonki|Lesser Poland|2936|
+50.6012|17.0406|Ziębice|Lower Silesia|9328|
+53.0956|18.3290|Zławieś Wielka|Kuyavia-Pomerania|682|
+53.5329|16.0113|Złocieniec|West Pomerania|13337|
+51.4172|18.6036|Złoczew|Łódź|3439|
+50.3816|20.5936|Złota|Holy Cross|1200|
+49.8806|20.6933|Złota|Lesser Poland|1368|
+52.4941|16.8450|Złotniki|Greater Poland|1100|
+51.1377|16.8892|Złotniki|Lower Silesia|5373|
+52.8994|18.1456|Złotniki Kujawskie|Kuyavia-Pomerania|2400|
+51.1264|15.9198|Złotoryja|Lower Silesia|15564|
+53.3635|17.0408|Złotów|Greater Poland|18395|
+50.4447|16.8759|Złoty Stok|Lower Silesia|2758|
+49.6765|21.9660|Zmiennica|Subcarpathia|1100|
+49.5269|19.6734|Zubrzyca Dolna|Lesser Poland|1690|
+49.5617|19.6497|Zubrzyca Górna|Lesser Poland|2987|
+50.6140|22.9751|Zwierzyniec|Lublin|3297|
+52.8321|15.5676|Zwierzyń|Lubusz|1300|
+51.3554|21.5877|Zwoleń|Mazovia|8048|
+50.7629|18.3443|Zębowice|Upper Silesia|1500|
+51.4163|16.4251|Ścinawa|Lower Silesia|5863|
+49.7183|19.3673|Ślemień|Silesia|1977|
+52.3704|18.3064|Ślesin|Greater Poland|3182|
+53.1651|17.7026|Ślesin|Kuyavia-Pomerania|1500|
+53.7088|18.1737|Śliwice|Kuyavia-Pomerania|4600|
+52.0134|16.5270|Śmigiel|Greater Poland|5531|
+53.1365|16.9208|Śmiłowo|Greater Poland|1145|
+53.0387|21.9908|Śniadowo|Podlaskie|1500|
+52.0887|17.0151|Śrem|Greater Poland|30404|
+52.2284|17.2762|Środa Wielkopolska|Greater Poland|21757|
+51.1641|16.5951|Środa Śląska|Lower Silesia|8912|
+51.1132|17.0815|Śródmieście|Lower Silesia|99088|
+52.2290|21.0164|Śródmieście|Mazovia|99950|
+54.3505|18.6556|Środmieście|Pomerania|23364|
+49.9343|19.9536|Świątniki Górne|Lesser Poland|2125|
+50.8438|16.4886|Świdnica|Lower Silesia|60351|
+51.8884|15.3901|Świdnica|Lubusz|1400|
+51.2190|22.6962|Świdnik|Lublin|40050|
+53.7746|15.7767|Świdwin|West Pomerania|15725|
+50.8597|16.3197|Świebodzice|Lower Silesia|23228|
+52.2475|15.5335|Świebodzin|Lubusz|21757|
+53.4095|18.4474|Świecie|Kuyavia-Pomerania|25843|
+53.4440|19.1017|Świecie nad Osą|Kuyavia-Pomerania|870|
+53.1521|19.5546|Świedziebnia|Kuyavia-Pomerania|958|
+53.4186|18.0973|Świekatowo|Kuyavia-Pomerania|1077|
+50.9092|15.3431|Świeradów-Zdrój|Lower Silesia|4492|
+52.6705|20.7639|Świercze|Mazovia|672|
+53.4273|14.5130|Świerczewo|West Pomerania|16034|
+50.9602|17.7588|Świerczów|Upper Silesia|492|
+50.4424|18.9373|Świerklaniec|Silesia|3786|
+50.0183|18.5770|Świerklany Dolne|Silesia|3420|
+50.0277|18.5905|Świerklany Górne|Silesia|3912|
+51.0138|15.8952|Świerzawa|Lower Silesia|2469|
+53.9650|14.9654|Świerzno|West Pomerania|670|
+50.0718|21.8980|Świlcza|Subcarpathia|3000|
+52.0407|18.9179|Świnice Warckie|Łódź|1500|
+49.6580|19.2541|Świnna|Silesia|1891|
+53.9105|14.2471|Świnoujście|West Pomerania|40919|
+51.8550|16.4980|Święciechowa|Greater Poland|2640|
+51.0260|17.1146|Święta Katarzyna|Lower Silesia|2000|
+50.2964|18.9173|Świętochłowice|Silesia|55600|
+52.0317|20.6911|Żabia Wola|Mazovia|1256|
+52.0586|21.0482|Żabieniec|Mazovia|1126|
+49.5814|19.1562|Żabnica|Silesia|3120|
+50.1333|20.8862|Żabno|Lesser Poland|4250|
+51.6176|15.3149|Żagań|Lubusz|25731|
+50.0826|19.3520|Żarki|Lesser Poland|3793|
+50.6252|19.3636|Żarki|Silesia|4363|
+50.6230|19.2751|Żarki-Letnisko|Silesia|2344|
+51.2461|20.1748|Żarnów|Łódź|870|
+50.9412|16.4947|Żarów|Lower Silesia|6719|
+51.6420|15.1373|Żary|Lubusz|38779|
+49.8139|20.4196|Żegocina|Lesser Poland|1500|
+51.8542|18.1743|Żelazków|Greater Poland|1250|
+51.7121|20.0346|Żelechlinek|Łódź|474|
+51.8105|21.8972|Żelechów|Mazovia|4087|
+54.6777|18.4174|Żelistrzewo|Pomerania|2340|
+52.0688|17.5635|Żerków|Greater Poland|2127|
+50.2477|18.6155|Żernica|Silesia|3400|
+51.0331|17.0566|Żerniki Wrocławskie|Lower Silesia|1427|
+51.4667|16.9056|Żmigród|Lower Silesia|6542|
+52.8496|17.7199|Żnin|Kuyavia-Pomerania|14008|
+52.2690|20.9864|Żoliborz|Mazovia|50934|
+50.9099|22.8346|Żółkiewka|Lublin|790|
+50.1620|22.3083|Żołynia|Subcarpathia|5145|
+50.9808|17.0367|Żórawina|Lower Silesia|2100|
+50.0452|18.7006|Żory|Silesia|63174|
+54.3422|18.3648|Żukowo|Pomerania|6494|
+49.8235|22.7892|Żurawica|Subcarpathia|4702|
+50.0137|22.4995|Żurawiczki|Subcarpathia|1247|
+53.0661|19.9089|Żuromin|Mazovia|9019|
+49.8264|21.1689|Żurowa|Lesser Poland|2321|
+52.2440|19.6261|Żychlin|Łódź|9009|
+50.0855|21.3962|Żyraków|Subcarpathia|1400|
+52.0488|20.4460|Żyrardów|Mazovia|41179|
+51.4992|22.0917|Żyrzyn|Lublin|1400|
+49.6853|19.1924|Żywiec|Silesia|32132|

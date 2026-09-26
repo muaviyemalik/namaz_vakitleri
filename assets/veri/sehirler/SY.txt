@@ -1,153 +1,153 @@
-37.0728|40.6520|Ad Darbāsīyah
-34.8951|36.1430|Ad Duraykīsh
-36.2125|36.7700|Ad Dānā
-36.5489|36.7929|Afrin
-36.1391|36.8250|Al Atārib
-36.3095|37.5328|Al-Bab
-36.3705|37.5157|Al Bāb
-36.2012|37.1612|Aleppo
-34.8220|36.6961|Al Ghanţū
-35.5969|36.1120|Al-Haffah
-33.3581|36.2419|Al Kiswah
-36.9411|41.9016|Al-Malikiyah
-35.0198|40.4515|Al Mayādīn
-32.7108|36.0275|Al Muzayrīb
-37.1770|42.1401|Al Mālikīyah
-34.2296|37.2407|Al Qaryatayn
-33.1260|35.8246|Al Qunayţirah
-34.5078|36.5803|Al Quşayr
-33.7385|36.6007|Al Quţayfah
-37.0521|41.2314|Al Qāmishlī
-34.8710|36.7724|Al-Rastan
-35.1440|37.5924|Al-Salamiyah
-33.1256|36.2754|Al-Sanamayn
-35.8376|38.5483|Al-Tabqa|Ath Thawrah
-35.7984|38.3455|Al-Thawrah
-33.4699|36.3018|al-Yarmūk
-33.7082|36.1120|Al-Zabadani
-32.7493|36.3099|Al Ḩarāk
-36.5024|40.7477|Al Ḩasakah
-32.7495|36.3058|Al Ḩirāk
-37.1042|40.9300|Amude|‘Āmūdā
-34.0240|36.7285|An Nabk
-36.0836|36.5031|Armanāz
-35.8720|39.0471|Ar-Raqqah
-34.9267|36.7324|Ar Rastan
-35.8137|36.6096|Arīḩā
-32.8294|36.1593|Ash Shaykh Miskīn
-36.0770|37.3725|As Safīrah
-35.0113|37.0532|As Salamīyah
-33.0719|36.1832|Aş Şanamayn
-35.3667|36.3936|As Suqaylibīyah
-32.7090|36.5695|As-Suwayda
-32.7813|36.8650|As-Suwayda District
-33.6103|36.3107|At Tall
-36.4999|37.1838|Azaz
-33.7249|36.1005|Az Zabadānī
-33.4710|36.3308|Babīlā
-36.1345|36.7398|Batabo
-35.9566|36.7138|Binnish
-35.6740|35.8026|Burj Islām
-32.5201|36.4826|Buşrá ash Shām
-35.1819|35.9487|Bāniyās
-33.5102|36.2913|Damascus
-35.9918|36.3936|Darkūsh
-32.6189|36.1021|Dar‘ā
-33.4659|36.4204|Dayr al ‘Aşāfīr
-36.1569|37.7078|Dayr Ḩāfir
-35.3359|40.1408|Deir ez-Zor
-33.5718|36.4027|Douma|Dūmā
-33.4584|36.2326|Dārayyā
-32.7535|36.1308|Dā‘il
-33.1823|36.2253|Ghabāghib
-34.6951|40.8314|Hajīn
-35.2858|37.1263|Hama
-36.1401|36.5654|Harem
-34.4120|36.7587|Hisya
-34.7268|36.7234|Homs
-35.9306|36.6339|Idlib
-33.0181|36.1283|Inkhil
-32.9012|36.1614|Izra
-32.8706|36.2545|Izra‘
-36.5866|37.0463|I‘zāz
-35.3621|35.9276|Jablah
-35.2905|36.0449|Jableh
-33.4862|36.3461|Jaramānā
-36.8175|38.0111|Jarābulus
-33.8071|36.7386|Jayrūd
-35.8776|36.3290|Jisr al-Shughur
-35.8142|36.3198|Jisr ash Shughūr
-32.9923|36.0602|Jāsim
-36.4327|37.5686|Kabbasin
-35.0864|36.2060|Kaff al-Jaa
-35.6138|36.5645|Kafranbel
-34.8947|36.4958|Kafr Lāhā
-36.2926|37.2559|Kafr Şaghīr
-36.1168|36.5152|Kafr Takhārīm
-35.3743|36.6033|Kafr Zaytā
-35.9264|35.9897|Kassab
-35.7816|37.4992|Khanāşir
-35.4421|36.6510|Khān Shaykhūn
-35.5317|35.7901|Latakia
-35.7243|35.9415|Latakia District
-35.5386|36.7919|Maarrat al-Nu'man
-35.2479|36.5725|Maharda
-36.5281|37.9549|Manbij
-36.0669|37.9173|Manbij District
-35.1033|36.3392|Masyaf District
-35.0653|36.3406|Maşyāf
-36.0115|36.6718|Ma‘arratmişrīn
-33.8453|36.5451|Ma‘lūlā
-33.6903|36.1035|Medaya
-35.9996|37.0847|Mount Simeon
-33.4647|36.2017|Muadamiyat al-Sham
-34.8152|37.0868|Mukharram al Fawqānī
-35.3762|36.6897|Mūrak
-32.8904|36.0399|Nawá
-36.3787|36.9929|Nubl
-35.3959|36.0860|Qardaha
-33.4376|36.0789|Qaţanā
-34.1556|36.7428|Qārah
-34.3125|36.9256|Şadad
-34.8042|36.1229|Safita
-32.4920|36.7111|Şalkhad
-32.5178|36.9195|Salkhad District
-36.1386|36.4524|Salqīn
-32.8727|36.5727|Şalākhid
-35.8645|36.8059|Saraqib|Sarāqib
-35.9040|36.7250|Sarmīn
-34.8210|36.1177|Satita|Şāfītā
-33.6947|36.3715|Şaydnāyā
-33.4253|36.2255|Şaḩnāyā
-33.0428|36.7203|Shahba District
-32.8551|36.6290|Shahbā
-32.8267|36.1605|Shaykh Miskīn
-35.5982|36.1877|Şlinfah
-35.2919|36.7485|Souran
-34.8531|40.5999|Subaykhān
-36.5658|37.2127|Şūrān
-34.5624|38.2840|Tadmur
-34.4240|38.6458|Tadmur District
-35.9983|36.7858|Taftanāz
-36.6965|38.9538|Tall Abyaḑ
-34.8407|36.7309|Tallbīsah
-34.6684|36.2600|Tallkalakh
-36.4723|37.0947|Tall Rif‘at
-35.2588|36.3846|Tall Salḩab
-34.8890|35.8866|Tartouss|Ţarţūs
-32.8340|35.9697|Tasīl
-36.4828|39.2136|Tell Abyad
-35.2718|36.5040|Tremseh
-36.3481|37.5309|Tādif
-33.9692|36.6573|Yabrūd
-33.3341|36.1588|Zākīyah
-34.4523|40.9185|Ālbū Kamāl
-32.7371|36.0665|Ţafas
-35.2659|36.7122|Ţayyibat al Imām
-35.2601|36.6058|Ḩalfāyā
-35.1318|36.7578|Ḩamāh
-33.5587|36.3651|Ḩarastā
-36.2118|36.5208|Ḩārim
-36.5119|36.8695|‘Afrīn
-36.8909|38.3535|‘Ayn al ‘Arab
-33.5372|36.3663|‘Irbīn
+37.0728|40.6520|Ad Darbāsīyah|Al-Hasakah|21481|
+34.8951|36.1430|Ad Duraykīsh|Tartus|11918|
+36.2125|36.7700|Ad Dānā|Idlib|21987|
+36.5489|36.7929|Afrin|Aleppo|0|
+36.1391|36.8250|Al Atārib|Aleppo|0|
+36.3095|37.5328|Al-Bab|Aleppo|0|
+36.3705|37.5157|Al Bāb|Aleppo|130745|
+36.2012|37.1612|Aleppo|Aleppo|2098210|
+34.8220|36.6961|Al Ghanţū|Homs|9412|
+35.5969|36.1120|Al-Haffah|Latakia|0|
+33.3581|36.2419|Al Kiswah|Rif Dimashq|23526|
+36.9411|41.9016|Al-Malikiyah|Al-Hasakah|0|
+35.0198|40.4515|Al Mayādīn|Deir ez-Zor|54534|
+32.7108|36.0275|Al Muzayrīb|Daraa|0|
+37.1770|42.1401|Al Mālikīyah|Al-Hasakah|26311|
+34.2296|37.2407|Al Qaryatayn|Homs|31748|
+33.1260|35.8246|Al Qunayţirah|Quneitra|36143|
+34.5078|36.5803|Al Quşayr|Homs|41062|
+33.7385|36.6007|Al Quţayfah|Rif Dimashq|16118|
+37.0521|41.2314|Al Qāmishlī|Al-Hasakah|184231|
+34.8710|36.7724|Al-Rastan|Homs|0|
+35.1440|37.5924|Al-Salamiyah|Hama|0|
+33.1256|36.2754|Al-Sanamayn|Daraa|0|
+35.7984|38.3455|Al-Thawrah|Al-Raqqah|0|
+33.4699|36.3018|al-Yarmūk|Damascus Governorate|99999|
+33.7082|36.1120|Al-Zabadani|Rif Dimashq|0|
+32.7493|36.3099|Al Ḩarāk|Daraa|0|
+36.5024|40.7477|Al Ḩasakah|Al-Hasakah|422445|
+32.7495|36.3058|Al Ḩirāk|Daraa|23784|
+37.1042|40.9300|Amude|Al-Hasakah|26821|‘Āmūdā
+34.0240|36.7285|An Nabk|Rif Dimashq|49372|
+36.0836|36.5031|Armanāz|Idlib|0|
+35.9528|39.0079|Ar Raqqah|Al-Raqqah|531952|
+34.9267|36.7324|Ar Rastan|Homs|53152|
+35.8137|36.6096|Arīḩā|Idlib|0|
+32.8294|36.1593|Ash Shaykh Miskīn|Daraa|0|
+36.0770|37.3725|As Safīrah|Aleppo|63708|
+35.0113|37.0532|As Salamīyah|Hama|94887|
+33.0719|36.1832|Aş Şanamayn|Daraa|25702|
+35.3667|36.3936|As Suqaylibīyah|Hama|0|
+32.7090|36.5695|As-Suwayda|As-Suwayda|59052|
+32.7813|36.8650|As-Suwayda District|As-Suwayda|0|
+35.8376|38.5483|Ath Thawrah|Al-Raqqah|87880|Al-Tabqa
+33.6103|36.3107|At Tall|Rif Dimashq|55561|
+36.4999|37.1838|Azaz|Aleppo|0|
+33.7249|36.1005|Az Zabadānī|Rif Dimashq|29549|
+33.4710|36.3308|Babīlā|Rif-dimashq|50880|
+36.1345|36.7398|Batabo|Aleppo|25560|
+35.9566|36.7138|Binnish|Idlib|30354|
+35.6740|35.8026|Burj Islām|Latakia|30000|
+32.5201|36.4826|Buşrá ash Shām|Daraa|1000|
+35.1819|35.9487|Bāniyās|Tartus|39066|
+33.5102|36.2913|Damascus|Damascus|1569394|
+35.9918|36.3936|Darkūsh|Idlib|0|
+32.6189|36.1021|Dar‘ā|Daraa|97969|
+33.4659|36.4204|Dayr al ‘Aşāfīr|Rif Dimashq|6209|
+36.1569|37.7078|Dayr Ḩāfir|Aleppo|28905|
+35.3359|40.1408|Deir ez-Zor|Deir ez-Zor|271800|
+33.5718|36.4027|Douma|Rif Dimashq|111864|Dūmā
+33.4584|36.2326|Dārayyā|Rif Dimashq|71596|
+32.7535|36.1308|Dā‘il|Daraa|29408|
+33.1823|36.2253|Ghabāghib|Daraa|0|
+34.6951|40.8314|Hajīn|Deir ez-Zor|29237|
+35.2858|37.1263|Hama|Hama|0|
+36.1401|36.5654|Harem|Idlib|0|
+34.4120|36.7587|Hisya|Homs|0|
+34.7268|36.7234|Homs|Homs|775404|
+35.9306|36.6339|Idlib|Idlib|128840|
+33.0181|36.1283|Inkhil|Daraa|29076|
+32.9012|36.1614|Izra|Daraa|0|
+32.8706|36.2545|Izra‘|Daraa|13882|
+36.5866|37.0463|I‘zāz|Aleppo|66138|
+35.3621|35.9276|Jablah|Latakia|65915|
+35.2905|36.0449|Jableh|Latakia|0|
+33.4862|36.3461|Jaramānā|Rif Dimashq|99999|
+36.8175|38.0111|Jarābulus|Aleppo|24997|
+33.8071|36.7386|Jayrūd|Rif Dimashq|32352|
+35.8776|36.3290|Jisr al-Shughur|Idlib|0|
+35.8142|36.3198|Jisr ash Shughūr|Idlib|39311|
+32.9923|36.0602|Jāsim|Daraa|30283|
+36.4327|37.5686|Kabbasin|Aleppo|51230|
+35.0864|36.2060|Kaff al-Jaa|Tartus|3500|
+35.6138|36.5645|Kafranbel|Idlib|45652|
+34.8947|36.4958|Kafr Lāhā|Homs|21819|
+36.2926|37.2559|Kafr Şaghīr|Aleppo|3130|
+36.1168|36.5152|Kafr Takhārīm|Idlib|22436|
+35.3743|36.6033|Kafr Zaytā|Hama|21845|
+35.9264|35.9897|Kassab|Latakia|0|
+35.7816|37.4992|Khanāşir|Aleppo|0|
+35.4421|36.6510|Khān Shaykhūn|Idlib|48975|
+35.5317|35.7901|Latakia|Latakia|709000|
+35.7243|35.9415|Latakia District|Latakia|0|
+35.5386|36.7919|Maarrat al-Nu'man|Idlib|0|
+35.2479|36.5725|Maharda|Hama|17578|
+36.5281|37.9549|Manbij|Aleppo|99497|
+36.0669|37.9173|Manbij District|Aleppo|0|
+35.1033|36.3392|Masyaf District|Hama|0|
+35.0653|36.3406|Maşyāf|Hama|32262|
+36.0115|36.6718|Ma‘arratmişrīn|Idlib|32163|
+33.8453|36.5451|Ma‘lūlā|Rif Dimashq|5000|
+33.6903|36.1035|Medaya|Rif Dimashq|0|
+35.9996|37.0847|Mount Simeon|Aleppo|0|
+33.4647|36.2017|Muadamiyat al-Sham|Rif-dimashq|52738|
+34.8152|37.0868|Mukharram al Fawqānī|Homs|9112|
+35.3762|36.6897|Mūrak|Hama|14307|
+32.8904|36.0399|Nawá|Daraa|47066|
+36.3787|36.9929|Nubl|Aleppo|25546|
+35.3959|36.0860|Qardaha|Latakia|0|
+33.4376|36.0789|Qaţanā|Rif Dimashq|18511|
+34.1556|36.7428|Qārah|Rif Dimashq|20656|
+34.3125|36.9256|Şadad|Homs|0|
+34.8042|36.1229|Safita|Tartus|0|
+32.4920|36.7111|Şalkhad|As-Suwayda|9155|
+32.5178|36.9195|Salkhad District|As-Suwayda|0|
+36.1386|36.4524|Salqīn|Idlib|31608|
+32.8727|36.5727|Şalākhid|As-Suwayda|12842|
+35.9040|36.7250|Sarmīn|Idlib|0|
+35.8645|36.8059|Sarāqib|Idlib|34231|Saraqib
+34.8210|36.1177|Satita|Tartus|27815|Şāfītā
+33.6947|36.3715|Şaydnāyā|Rif Dimashq|0|
+33.4253|36.2255|Şaḩnāyā|Rif-dimashq|30519|
+33.0428|36.7203|Shahba District|As-Suwayda|0|
+32.8551|36.6290|Shahbā|As-Suwayda|14784|
+32.8267|36.1605|Shaykh Miskīn|Daraa|25920|
+35.5982|36.1877|Şlinfah|Latakia|0|
+35.2919|36.7485|Souran|Hama|30716|
+34.8531|40.5999|Subaykhān|Deir ez-Zor|25514|
+36.5658|37.2127|Şūrān|Aleppo|0|
+34.5624|38.2840|Tadmur|Homs|51015|
+34.4240|38.6458|Tadmur District|Homs|0|
+35.9983|36.7858|Taftanāz|Idlib|0|
+36.6965|38.9538|Tall Abyaḑ|Al-Raqqah|0|
+34.8407|36.7309|Tallbīsah|Homs|38491|
+34.6684|36.2600|Tallkalakh|Homs|29754|
+36.4723|37.0947|Tall Rif‘at|Aleppo|25658|
+35.2588|36.3846|Tall Salḩab|Hama|0|
+34.8890|35.8866|Tartouss|Tartus|458327|Ţarţūs
+32.8340|35.9697|Tasīl|Daraa|0|
+36.4828|39.2136|Tell Abyad|Al-Raqqah|0|
+35.2718|36.5040|Tremseh|Hama|6927|
+36.3481|37.5309|Tādif|Aleppo|34670|
+33.9692|36.6573|Yabrūd|Rif Dimashq|40502|
+33.3341|36.1588|Zākīyah|Rif-dimashq|18553|
+34.4523|40.9185|Ālbū Kamāl|Deir ez-Zor|57572|
+32.7371|36.0665|Ţafas|Daraa|31249|
+35.2659|36.7122|Ţayyibat al Imām|Hama|29259|
+35.2601|36.6058|Ḩalfāyā|Hama|23403|
+35.1318|36.7578|Ḩamāh|Hama|460602|
+33.5587|36.3651|Ḩarastā|Rif Dimashq|37348|
+36.2118|36.5208|Ḩārim|Idlib|0|
+36.5119|36.8695|‘Afrīn|Aleppo|48693|
+36.8909|38.3535|‘Ayn al ‘Arab|Aleppo|50000|
+33.5372|36.3663|‘Irbīn|Rif Dimashq|42474|

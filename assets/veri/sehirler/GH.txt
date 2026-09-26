@@ -1,166 +1,166 @@
-5.3607|-1.9486|Aboso
-5.8480|-0.1745|Aburi
-5.5560|-0.1969|Accra
-5.7142|-0.1542|Adenta
-6.1198|1.1901|Aflao
-6.8000|-1.0819|Agogo
-6.7605|-1.5940|Ahwiaa
-6.1316|0.7985|Akatsi
-5.9267|-0.9858|Akim Oda
-5.8938|-1.0164|Akim Swedru
-5.9746|-0.0854|Akropong
-6.0402|-0.8088|Akwatia
-5.5353|-0.3983|Amanfrom
-5.7947|0.8973|Anloga
-6.3816|-0.5493|Anyinam
-5.8214|-2.8236|Aowin
-5.2848|-0.7371|Apam
-5.8601|-0.6635|Asamankese
-5.6995|-0.0348|Ashaiman
-5.7000|-1.6500|Assin Foso
-6.8197|-2.8077|Asunafo North
-6.6821|-2.4400|Asunafo South
-6.9477|-2.7676|Asutifi North
-6.9322|-2.3552|Asutifi South
-7.7554|-0.9808|Atebubu
-7.7024|-1.2198|Atebubu-Amantin
-7.1534|-2.4050|Atronie
-5.6978|-0.3282|Atsiaman
-5.5838|-0.2779|Awoshi
-4.8664|-2.2418|Axim|Esim
-8.1496|-2.3664|Banda
-11.0616|-0.2417|Bawku
-7.0903|-2.0250|Bechem
-6.3871|-0.3774|Begoro
-6.4520|-1.5787|Bekwai
-7.4534|-2.5840|Berekum
-7.4385|-2.6030|Berekum East
-7.4393|-2.6550|Berekum West
-6.8161|-3.0038|Bia East
-7.1170|0.3232|Biakoye
-6.5689|-3.0663|Bia West
-6.4635|-2.3194|Bibiani
-6.3021|-2.3568|Bibiani-Anhwiaso-Bekwai
-8.8549|0.0592|Bimbila
-6.2224|-2.7662|Bodi
-9.0300|-2.5069|Bole
-10.7856|-0.8514|Bolgatanga
-5.5231|-0.4772|Buduburam
-10.4661|-0.2271|Bunkpurugu-Nyakpanduri
-5.1053|-1.2466|Cape Coast
-8.9278|-1.9537|Central Gonja
-10.1383|0.2824|Chereponi
-8.0662|0.1795|Dambai
-9.0830|-1.8188|Damongo
-7.2739|-2.8735|Domaa-Ahenkro
-5.6500|-0.2361|Dome
-7.2775|-2.8783|Dormaa Central
-7.3000|-2.7000|Dormaa East
-7.0167|-3.0500|Dormaa West
-7.1749|-2.0996|Duayaw-Nkwanta
-5.9600|-1.7779|Dunkwa
-6.2367|0.9958|Dzodze
-8.7257|-1.0714|East Gonja
-10.4293|-0.5308|East Mamprusi
-6.8468|-1.3961|Effiduase
-7.3856|-1.3562|Ejura
-5.0847|-1.3509|Elmina
-5.2851|-2.7666|Elubo
-5.7012|-1.2866|Foso
-5.5769|-0.3104|Gbawe
-6.8036|-2.5172|Goaso
-6.6008|0.4713|Ho
-7.1518|0.4736|Hohoe
-7.9883|-2.9686|Jaman North
-7.7084|-3.0750|Jaman South
-7.5758|-2.7852|Japekrom
-7.4094|0.4430|Jasikan
-10.5369|-2.7016|Jirapa
-6.3333|-2.8421|Juaboso
-6.0939|-0.8360|Kade
-7.5263|0.4670|Kadjebi
-5.5345|-0.4168|Kasoa
-5.9179|0.9879|Keta
-7.7939|-0.0498|Kete Krachi
-6.1649|-0.5538|Kibi
-8.0563|-1.7306|Kintampo
-8.3964|-1.8200|Kintampo North
-7.9897|-2.0071|Kintampo South
-6.0941|-0.2591|Koforidua
-6.6167|-1.2167|Konongo
-8.4688|-0.0113|Kpandae
-6.9954|0.2931|Kpandu
-7.7720|-0.0776|Krachi East
-8.1485|-0.1635|Krachi Nchumuru
-7.9828|-0.3489|Krachi West
-6.6885|-1.6244|Kumasi
-5.6848|-0.0401|Lashibi
-7.0627|-1.4001|Mampong
-10.2329|-1.2836|Mamprugu-Moagduri
-5.5522|-0.3391|Mandela
-5.2717|-1.0152|Mankesim
-5.6658|-0.1631|Medina Estates
-6.9041|-2.5611|Mim
-6.5932|-0.7346|Mpraeso
-5.2618|-0.7590|Mumford
-10.5273|-0.3698|Nalerigu
-10.8956|-1.0921|Navrongo
-5.6266|-0.2581|New Achimota
-6.7190|-1.6119|New Tafo
-6.5458|-0.7626|Nkawkaw
-7.5713|-1.7087|Nkoranza
-7.5660|-1.7237|Nkoranza North
-7.6241|-1.7997|Nkoranza South
-8.3518|0.1222|Nkwanta North
-8.2593|0.5019|Nkwanta South
-9.1175|-0.5558|North East Gonja
-9.5413|-1.3977|North Gonja
-5.8089|-0.3503|Nsawam
-7.4035|-2.4663|Nsoatre
-5.6010|-0.0771|Nungua
-6.2023|-1.6680|Obuase
-5.5573|-0.1864|Osu
-5.4338|-2.1429|Prestea
-8.2262|-0.6536|Pru East
-8.0736|-1.2906|Pru West
-5.6213|-0.0519|Sakumona
-8.5508|-0.5188|Salaga
-5.2091|-1.0606|Saltpond
-9.6244|-0.8253|Savelugu
-9.3911|-2.7061|Sawla-Tuna-Kalba
-6.0429|-2.8813|Sefwi-Akontombra
-6.2197|-2.5006|Sefwi-Wiawso
-4.9342|-1.7145|Sekondi
-4.9268|-1.7577|Sekondi-Takoradi
-7.7830|-0.2170|Sene East
-7.7342|-0.6818|Sene West
-5.0181|-1.6644|Shama Junction
-6.1082|-3.0087|Suaman
-6.0409|-0.4500|Suhum
-7.3380|-2.3487|Sunyani
-7.3566|-2.4462|Sunyani West
-5.5371|-0.6998|Swedru
-6.7316|-1.6137|Tafo
-5.6582|-0.2522|Taifa
-8.1811|-2.8649|Tain
-4.8982|-1.7603|Takoradi
-9.4008|-0.8393|Tamale
-7.2260|-2.3046|Tano North
-7.1954|-2.1259|Tano South
-5.3038|-1.9896|Tarkwa
-7.5897|-1.9512|Techiman
-7.7043|-2.0814|Techiman North
-5.6698|-0.0166|Tema
-5.6540|0.0264|Tema New Town
-7.0060|-2.1659|Tepa
-5.5836|-0.1072|Teshi Old Town
-5.6141|-1.5502|Twifu Praso
-10.0607|-2.5019|Wa
-7.7386|-2.1036|Wankyi
-7.7406|-2.1227|Wenchi
-9.5751|-2.2644|West Gonja
-10.2991|-1.3675|West Mamprusi
-5.3511|-0.6231|Winneba
-8.2254|-0.6489|Yegyi
-9.4427|-0.0099|Yendi
-10.4840|-0.0090|Yunyoo-Nasuan
+5.3607|-1.9486|Aboso|Western|8790|
+5.8480|-0.1745|Aburi|Eastern|18399|
+5.5560|-0.1969|Accra|Greater Accra|1963264|
+5.7142|-0.1542|Adenta|Greater Accra|50652|
+6.1198|1.1901|Aflao|Volta|66546|
+6.8000|-1.0819|Agogo|Ashanti|46089|
+6.7605|-1.5940|Ahwiaa|Ashanti|32163|
+6.1316|0.7985|Akatsi|Volta|31981|
+5.9267|-0.9858|Akim Oda|Eastern|60604|
+5.8938|-1.0164|Akim Swedru|Eastern|10000|
+5.9746|-0.0854|Akropong|Eastern|11096|
+6.0402|-0.8088|Akwatia|Eastern|33784|
+5.5353|-0.3983|Amanfrom|Greater Accra|119467|
+5.7947|0.8973|Anloga|Volta|34050|
+6.3816|-0.5493|Anyinam|Eastern|29748|
+5.8214|-2.8236|Aowin|Western North|0|
+5.2848|-0.7371|Apam|Central|20147|
+5.8601|-0.6635|Asamankese|Eastern|46061|
+5.6995|-0.0348|Ashaiman|Greater Accra|190972|
+5.7000|-1.6500|Assin Foso|Central|37230|
+6.8197|-2.8077|Asunafo North|Ahafo|0|
+6.6821|-2.4400|Asunafo South|Ahafo|0|
+6.9477|-2.7676|Asutifi North|Ahafo|0|
+6.9322|-2.3552|Asutifi South|Ahafo|0|
+7.7554|-0.9808|Atebubu|Bono East|32641|
+7.7024|-1.2198|Atebubu-Amantin|Bono East|0|
+7.1534|-2.4050|Atronie|Bono|29748|
+5.6978|-0.3282|Atsiaman|Greater Accra|202932|
+5.5838|-0.2779|Awoshi|Greater Accra|32426|
+4.8664|-2.2418|Axim|Western|35487|Esim
+8.1496|-2.3664|Banda|Bono|0|
+11.0616|-0.2417|Bawku|Upper East|76459|
+7.0903|-2.0250|Bechem|Ahafo|17000|
+6.3871|-0.3774|Begoro|Eastern|29516|
+6.4520|-1.5787|Bekwai|Ashanti|32082|
+7.4534|-2.5840|Berekum|Bono|70536|
+7.4385|-2.6030|Berekum East|Bono|0|
+7.4393|-2.6550|Berekum West|Bono|0|
+6.8161|-3.0038|Bia East|Western North|0|
+7.1170|0.3232|Biakoye|Oti|0|
+6.5689|-3.0663|Bia West|Western North|0|
+6.4635|-2.3194|Bibiani|Western|36487|
+6.3021|-2.3568|Bibiani-Anhwiaso-Bekwai|Western North|0|
+8.8549|0.0592|Bimbila|Northern|34262|
+6.2224|-2.7662|Bodi|Western North|0|
+9.0300|-2.5069|Bole|Savannah|0|
+10.7856|-0.8514|Bolgatanga|Upper East|81958|
+5.5231|-0.4772|Buduburam|Central|63217|
+10.4661|-0.2271|Bunkpurugu-Nyakpanduri|North East|0|
+5.1053|-1.2466|Cape Coast|Central|212426|
+8.9278|-1.9537|Central Gonja|Savannah|0|
+10.1383|0.2824|Chereponi|North East|0|
+8.0662|0.1795|Dambai|Oti|22445|
+9.0830|-1.8188|Damongo|Savannah|23544|
+7.2739|-2.8735|Domaa-Ahenkro|Bono|37354|
+5.6500|-0.2361|Dome|Greater Accra|48285|
+7.2775|-2.8783|Dormaa Central|Bono|0|
+7.3000|-2.7000|Dormaa East|Bono|0|
+7.0167|-3.0500|Dormaa West|Bono|0|
+7.1749|-2.0996|Duayaw-Nkwanta|Ahafo|17000|
+5.9600|-1.7779|Dunkwa|Central|42737|
+6.2367|0.9958|Dzodze|Volta|30905|
+8.7257|-1.0714|East Gonja|Savannah|0|
+10.4293|-0.5308|East Mamprusi|North East|0|
+6.8468|-1.3961|Effiduase|Ashanti|30486|
+7.3856|-1.3562|Ejura|Ashanti|70807|
+5.0847|-1.3509|Elmina|Central|34403|
+5.2851|-2.7666|Elubo|Western|23952|
+5.7012|-1.2866|Foso|Central|20078|
+5.5769|-0.3104|Gbawe|Greater Accra|86718|
+6.8036|-2.5172|Goaso|Ahafo|21798|
+6.6008|0.4713|Ho|Volta|130701|
+7.1518|0.4736|Hohoe|Volta|92076|
+7.9883|-2.9686|Jaman North|Bono|0|
+7.7084|-3.0750|Jaman South|Bono|0|
+7.5758|-2.7852|Japekrom|Bono|96000|
+7.4094|0.4430|Jasikan|Oti|0|
+10.5369|-2.7016|Jirapa|Upper West|91279|
+6.3333|-2.8421|Juaboso|Western North|0|
+6.0939|-0.8360|Kade|Eastern|30233|
+7.5263|0.4670|Kadjebi|Oti|0|
+5.5345|-0.4168|Kasoa|Central|86753|
+5.9179|0.9879|Keta|Volta|18077|
+7.7939|-0.0498|Kete Krachi|Volta|11000|
+6.1649|-0.5538|Kibi|Eastern|9399|
+8.0563|-1.7306|Kintampo|Bono East|53711|
+8.3964|-1.8200|Kintampo North|Bono East|0|
+7.9897|-2.0071|Kintampo South|Bono East|0|
+6.0941|-0.2591|Koforidua|Eastern|151255|
+6.6167|-1.2167|Konongo|Ashanti|43585|
+8.4688|-0.0113|Kpandae|Northern|8652|
+6.9954|0.2931|Kpandu|Volta|28334|
+7.7720|-0.0776|Krachi East|Oti|0|
+8.1485|-0.1635|Krachi Nchumuru|Oti|0|
+7.9828|-0.3489|Krachi West|Oti|0|
+6.6885|-1.6244|Kumasi|Ashanti|2544530|
+5.6848|-0.0401|Lashibi|Greater Accra|49223|
+7.0627|-1.4001|Mampong|Ashanti|51745|
+10.2329|-1.2836|Mamprugu-Moagduri|North East|0|
+5.5522|-0.3391|Mandela|Greater Accra|77371|
+5.2717|-1.0152|Mankesim|Central|41541|
+5.6658|-0.1631|Medina Estates|Greater Accra|101207|
+6.9041|-2.5611|Mim|Ahafo|36211|
+6.5932|-0.7346|Mpraeso|Eastern|9007|
+5.2618|-0.7590|Mumford|Central|13983|
+10.5273|-0.3698|Nalerigu|North East|17440|
+10.8956|-1.0921|Navrongo|Upper East|25470|
+5.6266|-0.2581|New Achimota|Greater Accra|37116|
+6.7190|-1.6119|New Tafo|Ashanti|30380|
+6.5458|-0.7626|Nkawkaw|Eastern|47968|
+7.5713|-1.7087|Nkoranza|Bono East|35401|
+7.5660|-1.7237|Nkoranza North|Bono East|0|
+7.6241|-1.7997|Nkoranza South|Bono East|0|
+8.3518|0.1222|Nkwanta North|Oti|0|
+8.2593|0.5019|Nkwanta South|Oti|0|
+9.1175|-0.5558|North East Gonja|Savannah|0|
+9.5413|-1.3977|North Gonja|Savannah|0|
+5.8089|-0.3503|Nsawam|Eastern|48885|
+7.4035|-2.4663|Nsoatre|Bono|30862|
+5.6010|-0.0771|Nungua|Greater Accra|70483|
+6.2023|-1.6680|Obuase|Ashanti|179604|
+5.5573|-0.1864|Osu|Greater Accra|44000|
+5.4338|-2.1429|Prestea|Western|35611|
+8.2262|-0.6536|Pru East|Bono East|0|
+8.0736|-1.2906|Pru West|Bono East|0|
+5.6213|-0.0519|Sakumona|Greater Accra|32886|
+8.5508|-0.5188|Salaga|Northern|25472|
+5.2091|-1.0606|Saltpond|Central|24689|
+9.6244|-0.8253|Savelugu|Northern|40654|
+9.3911|-2.7061|Sawla-Tuna-Kalba|Savannah|0|
+6.0429|-2.8813|Sefwi-Akontombra|Western North|0|
+6.2197|-2.5006|Sefwi-Wiawso|Western North|0|
+4.9342|-1.7145|Sekondi|Western|285506|
+4.9268|-1.7577|Sekondi-Takoradi|Western|138872|
+7.7830|-0.2170|Sene East|Bono East|0|
+7.7342|-0.6818|Sene West|Bono East|0|
+5.0181|-1.6644|Shama Junction|Western|20946|
+6.1082|-3.0087|Suaman|Western North|0|
+6.0409|-0.4500|Suhum|Eastern|50610|
+7.3380|-2.3487|Sunyani|Bono|92825|
+7.3566|-2.4462|Sunyani West|Bono|0|
+5.5371|-0.6998|Swedru|Central|54417|
+6.7316|-1.6137|Tafo|Ashanti|50457|
+5.6582|-0.2522|Taifa|Greater Accra|42623|
+8.1811|-2.8649|Tain|Bono|0|
+4.8982|-1.7603|Takoradi|Western|389114|
+9.4008|-0.8393|Tamale|Northern|464316|
+7.2260|-2.3046|Tano North|Ahafo|0|
+7.1954|-2.1259|Tano South|Ahafo|0|
+5.3038|-1.9896|Tarkwa|Western|49937|
+7.5897|-1.9512|Techiman|Bono East|84074|
+7.7043|-2.0814|Techiman North|Bono East|0|
+5.6698|-0.0166|Tema|Greater Accra|155782|
+5.6540|0.0264|Tema New Town|Greater Accra|95837|
+7.0060|-2.1659|Tepa|Ashanti|18046|
+5.5836|-0.1072|Teshi Old Town|Greater Accra|144013|
+5.6141|-1.5502|Twifu Praso|Central|100851|
+10.0607|-2.5019|Wa|Upper West|78107|
+7.7386|-2.1036|Wankyi|Bono|45877|
+7.7406|-2.1227|Wenchi|Bono|0|
+9.5751|-2.2644|West Gonja|Savannah|0|
+10.2991|-1.3675|West Mamprusi|North East|0|
+5.3511|-0.6231|Winneba|Central|71288|
+8.2254|-0.6489|Yegyi|Bono East|30311|
+9.4427|-0.0099|Yendi|Northern|64676|
+10.4840|-0.0090|Yunyoo-Nasuan|North East|0|

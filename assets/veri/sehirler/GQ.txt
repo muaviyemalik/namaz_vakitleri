@@ -1,25 +1,26 @@
-1.2968|10.9369|Aconibe
-1.0322|10.6488|Acurenam
-1.8658|10.7689|Añisoc
-1.8559|10.6899|Ayene
-1.8639|9.7658|Bata
-1.5811|10.4672|Bicurga
-1.4261|9.6232|Bitica
-1.5889|10.8225|Ciudad de la Paz
-1.0842|9.6930|Cogo
-2.1511|11.3353|Ebebiyin
-1.4368|10.5512|Evinayong
-3.4568|8.5547|Luba
-1.8826|9.9513|Machinda
-3.7558|8.7817|Malabo
-1.5827|9.6148|Mbini
-1.6800|10.9000|Mengomeyén
-2.1361|10.6132|Mikomeseng
-1.6274|11.3135|Mongomo
-2.0164|10.4707|Ncue
-2.0248|10.9460|Nsang
-1.1299|11.2660|Nsok
-3.7167|8.8333|Rebola
-2.3381|9.8221|Río Campo
--1.4068|5.6318|San Antonio de Palé
-3.6992|8.9084|Santiago de Baney
+1.2968|10.9369|Aconibe|Wele-Nzas|11192|
+1.0322|10.6488|Acurenam|Centro Sur|2736|
+1.8658|10.7689|Añisoc|Wele-Nzas|10191|
+1.8559|10.6899|Ayene|Wele-Nzas|3482|
+1.8639|9.7658|Bata|Litoral|173046|
+1.5811|10.4672|Bicurga|Centro Sur|2318|
+1.4261|9.6232|Bitica|Litoral|1464|
+1.5889|10.8225|Ciudad de la Paz|Djibloho|2000|
+1.0842|9.6930|Cogo|Litoral|4607|
+2.1511|11.3353|Ebebiyin|Kié-Ntem|24831|
+1.4368|10.5512|Evinayong|Centro Sur|8462|
+3.4568|8.5547|Luba|Bioko Sur|8655|
+1.8826|9.9513|Machinda|Litoral|2897|
+3.7558|8.7817|Malabo|Bioko Norte|155963|
+1.5827|9.6148|Mbini|Litoral|4062|
+1.6800|10.9000|Mengomeyén|Djibloho|0|
+1.6944|11.0342|Mengomeyén|Wele-Nzas|0|
+2.1361|10.6132|Mikomeseng|Kié-Ntem|5813|
+1.6274|11.3135|Mongomo|Wele-Nzas|6393|
+2.0164|10.4707|Ncue|Kié-Ntem|1683|
+2.0248|10.9460|Nsang|Kié-Ntem|2122|
+1.1299|11.2660|Nsok|Wele-Nzas|3769|
+3.7167|8.8333|Rebola|Bioko Norte|5450|
+2.3381|9.8221|Río Campo|Litoral|1105|
+-1.4068|5.6318|San Antonio de Palé|Annobón|4433|
+3.6992|8.9084|Santiago de Baney|Bioko Norte|2365|

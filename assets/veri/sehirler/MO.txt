@@ -1,7 +1,6 @@
-22.1197|113.5511|Lai Chi Van
-22.1181|113.5519|Luhuan
-22.1667|113.5500|Macao
-22.2006|113.5461|Macau
-22.1909|113.5473|Sé
-22.1558|113.5569|Taipa
-22.1614|113.5564|Zhuojiacun
+22.1197|113.5511|Lai Chi Van|Saint Francis Xavier|22125|
+22.1181|113.5519|Luhuan|Saint Francis Xavier|36384|
+22.2006|113.5461|Macau||649335|
+22.1909|113.5473|Sé||52200|
+22.1558|113.5569|Taipa|Our Lady of Carmo|112051|
+22.1614|113.5564|Zhuojiacun|Our Lady of Carmo|24000|

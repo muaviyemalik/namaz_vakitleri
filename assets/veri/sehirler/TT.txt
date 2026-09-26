@@ -1,26 +1,26 @@
-10.6374|-61.2823|Arima
-10.6288|-61.3349|Arouca
-10.5167|-61.4167|Chaguanas
-10.4225|-61.4675|Couva
-10.2085|-61.4527|Debe
-10.7208|-61.5662|Diego Martin
-10.6492|-61.4989|Laventille
-10.3062|-61.4467|Marabella
-10.2798|-61.4459|Mon Repos
-10.6625|-61.5370|Mucurapo
-10.6530|-61.3630|Paradise
-10.1667|-61.4667|Peñal
-10.6997|-61.5472|Petit Valley
-10.1741|-61.6841|Point Fortin
-10.6667|-61.5189|Port of Spain
-10.2718|-61.3710|Princes Town
-10.3059|-61.1756|Rio Claro
-10.2797|-61.4684|San Fernando
-10.5870|-61.1301|Sangre Grande
-11.1823|-60.7353|Scarborough
-10.1453|-61.5074|Siparia
-10.3882|-61.2970|Tabaquite
-10.6524|-61.3888|Tunapuna
-10.5000|-61.3833|Ward of Chaguanas
-10.7000|-61.5833|Ward of Diego Martin
-10.1500|-61.4667|Ward of Siparia
+10.6374|-61.2823|Arima|Arima|35000|
+10.6288|-61.3349|Arouca|Tunapuna-Piarco|12054|
+10.5167|-61.4167|Chaguanas|Chaguanas|67433|
+10.4225|-61.4675|Couva|Couva-Tabaquite-Talparo|5178|
+10.2085|-61.4527|Debe|Penal-Debe|3127|
+10.7208|-61.5662|Diego Martin|Diego Martin Regional Corporation|25370|
+10.6492|-61.4989|Laventille|San Juan-Laventille|21000|
+10.3062|-61.4467|Marabella|San Fernando|26700|
+10.2798|-61.4459|Mon Repos|San Fernando|56380|
+10.6625|-61.5370|Mucurapo|Port of Spain|4342|
+10.6530|-61.3630|Paradise|Tunapuna-Piarco|15067|
+10.1667|-61.4667|Peñal|Penal-Debe|12281|
+10.6997|-61.5472|Petit Valley|Diego Martin|8140|
+10.1741|-61.6841|Point Fortin|Point Fortin|19056|
+10.6667|-61.5189|Port of Spain|Port of Spain|49031|
+10.2718|-61.3710|Princes Town|Princes Town|10000|
+10.3059|-61.1756|Rio Claro|Rio Claro-Mayaro|35650|
+10.2797|-61.4684|San Fernando|San Fernando|55419|
+10.5870|-61.1301|Sangre Grande|Sangre Grande|15968|
+11.1823|-60.7353|Scarborough|Tobago|17000|
+10.1453|-61.5074|Siparia|Siparia|8568|
+10.3882|-61.2970|Tabaquite|Couva-Tabaquite-Talparo|3314|
+10.6524|-61.3888|Tunapuna|Tunapuna-Piarco|17758|
+10.5000|-61.3833|Ward of Chaguanas|Chaguanas|0|
+10.7000|-61.5833|Ward of Diego Martin|Diego Martin|0|
+10.1500|-61.4667|Ward of Siparia|Siparia|0|
