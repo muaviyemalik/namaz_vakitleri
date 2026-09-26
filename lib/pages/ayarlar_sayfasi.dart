@@ -5,6 +5,7 @@ import 'package:namaz_vakitleri/main.dart';
 import 'package:namaz_vakitleri/data/ulke_verisi.dart';
 import 'package:namaz_vakitleri/data/dil_katalogu.dart';
 import 'package:namaz_vakitleri/data/hesaplama_yontemleri.dart';
+import 'package:namaz_vakitleri/pages/yasal_notlar_sayfasi.dart';
 import 'package:namaz_vakitleri/widgets/ulke_secici.dart';
 import 'package:namaz_vakitleri/widgets/dil_secici.dart';
 
@@ -315,6 +316,40 @@ class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
                 );
               }
             ),
+            // LİSANS VE ATIF KARTI
+            // ODbL-1.0 kopyalaç lisansı nedeniyle veri kaynaklarının
+            // belirtilmesi zorunludur. Atıf yalnızca README'de değil,
+            // uygulama içinde de görünmelidir.
+            Card(
+              color: Theme.of(context).cardColor,
+              elevation: Theme.of(context).brightness == Brightness.dark ? 1 : 4,
+              child: ListTile(
+                leading: Icon(Icons.description_outlined,
+                    color: Theme.of(context).colorScheme.primary, size: 30),
+                title: Text(
+                  'legal_notices'.tr(),
+                  style: TextStyle(
+                    fontWeight: FontWeight.bold,
+                    fontSize: 16,
+                    color: Theme.of(context).brightness == Brightness.dark
+                        ? Colors.white
+                        : Colors.black87,
+                  ),
+                ),
+                subtitle: Text(
+                  'legal_notices_desc'.tr(),
+                  style: const TextStyle(fontSize: 13),
+                ),
+                trailing: Icon(Icons.arrow_forward_ios,
+                    size: 16, color: Theme.of(context).colorScheme.primary),
+                onTap: () => Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                      builder: (_) => const YasalNotlarSayfasi()),
+                ),
+              ),
+            ),
+
             // İPUCU: İleride AnaSayfa'nın AppBar'ındaki "Tema Seçimi" ikonunu da
             // buraya yeni bir Card olarak taşıyabilirsin!
           ],

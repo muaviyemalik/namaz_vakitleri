@@ -138,9 +138,11 @@ dart run tool/dil_katalogu_uret.dart <countries-json> <iso639-json>
 
 ## 📝 Lisans ve Atıf
 
-**Dil verisi** [mledoze/countries](https://github.com/mledoze/countries) (Unlicense) ve [haliaeetus/iso-639](https://github.com/haliaeetus/iso-639) projelerinden alınmıştır.
+**Dil verisi** [mledoze/countries](https://github.com/mledoze/countries) (**ODbL-1.0**) ve [haliaeetus/iso-639](https://github.com/haliaeetus/iso-639) (MIT) projelerinden alınmıştır.
 
 **Ülke/şehir verisi** [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) projesinden alınmıştır ve **ODbL-1.0** (Open Data Commons Open Database License) lisansıyla dağıtılmaktadır. ODbL kopyalaç bir lisans olduğu için, bu veriyi kullanan ve dağıtan uygulamalar verinin kaynağını belirtmek zorundadır.
+
+Tüm atıflar ayrıca [NOTICE.md](NOTICE.md) dosyasında ve **uyulama içinde** (Ayarlar → Lisans ve Atıf) listelenmiştir.
 
 **Vakit verisi** [Aladhan API](https://aladhan.com/prayer-times-api) tarafından ücretsiz olarak sağlanmaktadır; API anahtarı veya kayıt gerektirmez.
 

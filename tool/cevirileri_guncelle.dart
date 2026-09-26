@@ -28,6 +28,10 @@ const yeniAnahtarlar = <String, Map<String, String>>{
     'all_languages': 'Tüm diller',
     'search_results': 'Sonuçlar',
     'rtl': 'Sağdan sola',
+    'legal_notices': 'Lisans ve Atıf',
+    'legal_notices_desc': 'Kullanılan veri setleri ve servisler',
+    'credits': 'Atıf',
+    'attribution_required': 'ATIF ZORUNLU',
   },
   'eng': {
     'country': 'Country',
@@ -53,6 +57,10 @@ const yeniAnahtarlar = <String, Map<String, String>>{
     'all_languages': 'All languages',
     'search_results': 'Results',
     'rtl': 'Right to left',
+    'legal_notices': 'Licenses & Attribution',
+    'legal_notices_desc': 'Data sets and services used',
+    'credits': 'Attribution',
+    'attribution_required': 'ATTRIBUTION REQUIRED',
   },
   'zho': {
     'country': '国家/地区',
@@ -76,6 +84,10 @@ const yeniAnahtarlar = <String, Map<String, String>>{
     'all_languages': '所有语言',
     'search_results': '结果',
     'rtl': '从右到左',
+    'legal_notices': '许可与致谢',
+    'legal_notices_desc': '使用的数据集与服务',
+    'credits': '致谢',
+    'attribution_required': '必须署名',
   },
 };
 
