@@ -7,6 +7,7 @@ import 'package:timezone/timezone.dart' as tz;
 import 'package:easy_localization/easy_localization.dart';
 import 'package:namaz_vakitleri/data/ulke_verisi.dart';
 import 'package:namaz_vakitleri/data/dil_katalogu.dart';
+import 'package:namaz_vakitleri/utils/iso1_yerellestirme.dart';
 
 // --- SAYFALARIMIZ ---
 import 'pages/anasayfa.dart';
@@ -228,11 +229,17 @@ void main() async {
   final desteklenen = katalog.desteklenenYereller;
 
   // Cevirisi hic olmayan bir katalogda uygulama acilamaz; bu durumda
-  // Turkce'ye duser (her kurulumda tr.json ve en.json mevcuttur).
+  // Turkce'ye duser (her kurulumda tur.json ve eng.json mevcuttur).
+  // DIKKAT: Ceviri dosyalari 3 harfli ISO 639-2/3 kodyla adlandirilir
+  // (tur.json, eng.json, ara.json) ve easy_localization dosya adini
+  // Locale.languageCode'dan turetiyor. Bu yuzden 2 harfli 'tr'/'en' DEGIL,
+  // 3 harfli 'tur'/'eng' kullanilmalidir; aksi halde easy_localization
+  // tr.json diye var olmayan bir dosya arar ve tum metinler anahtar
+  // adi olarak ekranda gorunur.
   final yereller = desteklenen.isEmpty
-      ? const [Locale('tr'), Locale('en')]
+      ? const [Locale('tur'), Locale('eng')]
       : desteklenen;
-  if (!yereller.any((l) => l.languageCode == 'tr')) {
+  if (!yereller.any((l) => l.languageCode == 'tur')) {
     // easy_localization fallback olarak Turkce kullanilacak; yine de
     // listenin icinde bulunmasi guvenli taraftir.
   }
@@ -243,7 +250,7 @@ void main() async {
       path: 'assets/i18n/ceviri',
       // Eksik anahtarlarda Turkceye dusulur. Cevirisi kismi olan yeni
       // diller ekledigimizde arayuzun tamami bos ekran olmaz.
-      fallbackLocale: const Locale('tr'),
+      fallbackLocale: const Locale('tur'),
       child: const NamazVakitleriApp(),
     ),
   );
@@ -265,9 +272,16 @@ class NamazVakitleriApp extends StatelessWidget {
               valueListenable: seciliTemaRengiKaranlik,
               builder: (context, karanlikRenk, child) {
                 
+                // Locale 3 harfli kalir (tur, eng, ara) cunku easy_localization
+                // ceviri dosyasinin adini Locale.languageCode'dan turetir.
+                // Flutter'in global delegeleri ise yalnizca 2 harfli ISO-1
+                // kodlarini tanir; sarmalayici delegeler 3 harfli kodu alip
+                // Material/Widgets/Cupertino tarafina ISO-1 ile gecer.
+                // Ayrinti icin: lib/utils/iso1_yerellestirme.dart
                 return MaterialApp(
                   debugShowCheckedModeBanner: false,
-                  localizationsDelegates: context.localizationDelegates,
+                  localizationsDelegates:
+                      yerellestirmeDelegeleri(context.localizationDelegates),
                   supportedLocales: context.supportedLocales,
                   locale: context.locale,
                   title: 'Namaz Vakitleri',

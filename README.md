@@ -15,7 +15,7 @@ Modern arayüzü, temiz kod mimarisi ve kapsamlı özellikleriyle Flutter kullan
 * 🧮 **Ülkeye Göre Hesaplama Yöntemi:** Hesaplama yöntemi vakitleri kaydırdığı için uygulama `method` parametresini göndermez; Aladhan ülkeye göre resmi yöntemi kendisi seçer (TR→Diyanet, US→ISNA, EG→Mısır, SA→Umm al-Qura, ID→KEMENAG, FR→UOIF, TN→Tunus, MY→JAKIM). Kullanıcı Ayarlar'dan 24 resmi yöntem arasından kendi camiyinin yöntemini seçebilir.
 * 🔔 **Arka Plan Bildirimleri:** Uygulama kapalı olsa dahi ezan vakti girdiğinde `flutter_local_notifications` ile yerel bildirim (alarm) gönderme.
 * 📱 **Ana Ekran Widget'ları (Home Widgets):** Android cihazlar için uygulamanın içine girmeden sıradaki vakti, "Günün Ayeti"ni ve "Günün Hadisi"ni gösteren ana ekran araçları.
-* 🌐 **Çoklu Dil Desteği (i18n):** `easy_localization` ile anlık olarak Türkçe (TR) ve İngilizce (EN) dil geçişi.
+* 🌐 **Çoklu Dil Desteği (i18n) — 25 dil:** `easy_localization` ile **Türkçe, İngilizce, Arapça, Farsça, Almanca, Fransızca, İspanyolca, Portekizce, Rusça, İtalyanca, Hollandaca, Japonca, Korece, Lehçe, Rumence, Amharca, Bengalce, Moğolca, Nepalce, Tamilce, Tayca, Türkmençe, Ukraynaca, Vietnamca, Endonezce ve Çince** arayüz. Arama ile dil seçimi, ülkeye göre öneri, otokton ad (kendi dilinde ad) ve **RTL (sağdan sola) tam yansıma** Arapça ve Farsçada çalışır.
 * 🎨 **Dinamik Tema Motoru:** Kullanıcının seçtiği temanın (Zümrüt Yeşili, Okyanus Mavisi, Gece Moru vb.) `ValueNotifier` ile tüm uygulamaya anında yansıması ve `shared_preferences` ile hafızaya kaydedilmesi.
 * 📅 **Dini Günler Ajandası:** 2026 (1447-1448 Hicri) yılına ait özel dini günlerin listelenmesi ve detaylı açıklamaları.
 * 📤 **Paylaşım Özelliği:** Günün ayet ve hadislerini diğer uygulamalarda (`share_plus`) paylaşabilme.
@@ -65,7 +65,7 @@ Kullanıcı **Ayarlar → Hesaplama Yöntemi** ekranından 24 resmi yöntem aras
 | **Kaynak** | [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) (ODbL-1.0) |
 | **Üretim** | `dart run tool/veri_uretici.dart <kaynak-json>` |
 
-**Dosya düzeni:** `assets/data/ulkeler.json` (ülke listesi, 65 KB) uygulama açılışında yüklenir. Şehirler ülke başına ayrı dosyalarda tutulur (`assets/data/sehirler/TR.txt`) ve **yalnızca seçilen ülke açıldığında** okunup önbelleğe alınır. En kalabalık ülke dosyası (ABD, 12.097 şehir) 334 KB'dir; uygulama açılışında 3.8 MB'lık şehir verisinin tamamı yüklenmez.
+**Dosya düzeni:** `assets/veri/ulkeler.json` (ülke listesi, 65 KB) uygulama açılışında yüklenir. Şehirler ülke başına ayrı dosyalarda tutulur (`assets/veri/sehirler/TR.txt`) ve **yalnızca seçilen ülke açıldığında** okunup önbelleğe alınır. En kalabalık ülke dosyası (ABD, 12.097 şehir) 334 KB'dir; uygulama açılışında 3.8 MB'lık şehir verisinin tamamı yüklenmez.
 
 **Kapsam dışı bırakılanlar:** Kutup bölgeleri (Polar) ve şehir/koordinat verisi bulunmayan iki yerleşim — `United States Minor Outlying Islands` (kalıcı nüfusu yok) ve `Tokelau`.
 
@@ -74,7 +74,7 @@ Kullanıcı **Ayarlar → Hesaplama Yöntemi** ekranından 24 resmi yöntem aras
 | Paket Adı | Kullanım Amacı |
 | :--- | :--- |
 | `http` | Aladhan API istekleri (koordinat tabanlı `/v1/calendar`) |
-| `easy_localization` | Çoklu dil desteği (TR/EN/ZH) |
+| `easy_localization` | Çoklu dil desteği (25 dil, `assets/i18n/ceviri/<3-harfli-kod>.json`) |
 | `flutter_local_notifications` | Arka plan alarmları ve yerel bildirimler |
 | `geolocator` & `geocoding` | GPS ile ülke/şehir tespiti |
 | `timezone` | Alarmların seçilen şehrin saat diliminde zamanlanması |
@@ -121,20 +121,87 @@ dart run tool/dil_katalogu_uret.dart <countries-json> <iso639-json>
 | Katalogdaki resmî dil | 152 |
 | Otokton adı bulunan | 111 |
 | Sağdan sola (RTL) yazan | 7 (Arapça, Farsça, Urduca, İbranice, Aramice, Dhivehi, Peştuca) |
-| Şu an çevirisi hazır | 3 (Türkçe, İngilizce, Çince) |
+| **Çevirisi hazir olan** | **25** |
 
-**Çeviri dosyası adı = dil kodu = `Locale` kodu.** `tur.json` ↔ `tur` ↔ `Locale('tur')`. Bu eşleme bozulursa easy_localization dosyayı bulamaz; `hazirDiller` listesi diskteki dosyalarla karşılaştırılarak testte doğrulanır. Yeni bir çeviri dosyası eklemek yeterlidir — `supportedLocales` katalogdan gelir, kodda güncelleme gerekmez.
+**Çeviri dosyası adı = dil kodu = `Locale` kodu.** `tur.json` ↔ `tur` ↔ `Locale('tur')`. Bu eşleme bozulursa easy_localization dosyayı bulamaz ve arayüzde anahtar adları (`today_times`, `settings`) görünür. Yeni bir çeviri dosyası eklemek için `assets/i18n/ceviri/<kod>.json` yazmak **ve** `assets/i18n/diller.json` içindeki `hazirDiller` listesine kodu eklemek yeterlidir; `supportedLocales` katalogdan geldiği için kodda güncelleme gerekmez.
+
+> ⚠️ **3 harfli kod tuzağı.** Ceviri dosyaları ISO 639-2/3 (3 harfli) kodla adlandırılır (`tur.json`, `eng.json`, `ara.json`) çünkü bu, 152 dilli katalogdaki `kod` alanıyla birebir aynıdır. Ancak Flutter'ın `GlobalMaterialLocalizations` / `GlobalWidgetsLocalizations` / `GlobalCupertinoLocalizations` delegeleri **yalnızca 2 harfli ISO 639-1** kodlarını tanır (`tr` var, `tur` yok). Bu ikisi çatışır:
+>
+> - Locale 3 harfli verilirse → `"No MaterialLocalizations found"` hatası, arayüz kırmızı hata ekranıyla çöker.
+> - Locale 2 harfli verilirse → easy_localization `tr.json` diye **var olmayan** dosyayı arar, tüm anahtarlar `"not found"` olur ve arayüz ham anahtar adlarını gösterir.
+>
+> Çözüm `lib/utils/iso1_yerellestirme.dart` içindedir: Locale 3 harfli kalır (dosya adı doğru çözülsün), sarmalayıcı delegeler 3 harfli kodu alıp Material/Widgets/Cupertino tarafına **ISO-1** ile gider. Flutter'ın 116 Material yerellestirmesi vardır; desteklenmeyen bir kod gelirse (ör. Türkmen `tk`) arayüzün çökmesi yerine İngilizce'ye düşülür.
 
 **Hangi 25 dil?** Ülke sayısı ölçütüyle seçim pratikte yanlıştı (Türkçe'yi 1 ülkeye indirip "Austro-Bavarian German" seçiyordu). Müslüman nüfusuyla ağırlıklandırıldığında **207/245 ülke ve Müslüman nüfusunun %98,8'i** kapsanıyor:
 
 `amh ara ben deu eng fas fra ind ita jpn kor mya nep pol por ron rus spa tam tha tuk tur ukr vie zho`
+
+| | |
+| :--- | :--- |
+| **Çeviri dosyası sayısı** | **25** (`assets/i18n/ceviri/*.json`) |
+| **Anahtar sayısı (dosya başına)** | **83** |
+| RTL çevirisi olan | 2 (Arapça, Farsça) |
 
 **Arayüzde üç ayrıntı:**
 - Kullanıcının seçili ülkesinin resmî dilleri en üstte önerilir.
 - Arama hem otokton adı hem İngilizce adı hem ISO kodunu kapsar ve Türkçe karakterden bağımsızdır.
 - RTL dillerde `MaterialApp.builder` ile `Directionality` uygulanır; aksi hâlde menüler ve listeler okunmaz hâle gelir.
 
-**İçerik çevrileri:** Ayetler için [AlQuran Cloud](https://alquran.cloud) kullanılacaktır (21/25 dilde kaynaklı çeviri mevcut; kalan 4 dilde İngilizceye düşülür). Hadis metinlerinin güvenilir bir çok dilli kaynağı bulunmadığından yalnızca TR/EN/ZH dillerinde gösterilecektir.
+**İçerik çevrileri:** Ayet metinleri şu an uygulama içine gömülü olarak gelir ve yalnızca TR/EN/ZH dillerinde gösterilir. Ayetler için [AlQuran Cloud](https://alquran.cloud) üzerinden çok dilli çeviriye geçilmesi planlanmaktadır (25 dilin 21'inde kaynaklı çeviri mevcut; kalan 4 dilde İngilizceye düşülür). Hadis metinlerinin güvenilir bir çok dilli kaynağı bulunmadığı için yalnızca TR/EN/ZH dillerinde gösterilecektir.
+
+## 📸 Ekran Görüntüleri
+
+`ekran_goruntuleri/` klasöründe Android emülatörde (API 37, 1080×2400) alınmış ekran görüntüleri bulunur.
+
+**Ana ekran — Okyanus Mavisi (açık tema)**
+![Ana ekran](ekran_goruntuleri/18_tema_okyanus_mavisi.png)
+
+**Ana ekran — Zümrüt Ormanı (karanlık tema)**
+![Karanlık tema](ekran_goruntuleri/14_tema_zumrut_ormani.png)
+
+**Ayarlar (25 dil seçimi, hesaplama yöntemi, erken uyarı)**
+![Ayarlar](ekran_goruntuleri/11_ayarlar_tema.png)
+
+**Dil seçici — 25 dil, ülkeye göre öneri, arama**
+![Dil seçici](ekran_goruntuleri/03_dil_secici.png)
+
+**Arapça — RTL (sağdan sola) tam yansıma**
+![Arapça RTL](ekran_goruntuleri/04_arapca_rtl.png)
+
+**Japonca — CJK yazı sistemi**
+![Japonca](ekran_goruntuleri/06_japonca.png)
+
+**Almanca — release (imzalı) APK'dan**
+![Almanca](ekran_goruntuleri/20_release_almanca.png)
+
+**Özel günler (hicri takvim)**
+![Özel günler](ekran_goruntuleri/15_ozel_gunler.png)
+
+| | |
+| :--- | :--- |
+| Tema seçici (karanlık) | ![Karanlık temalar](ekran_goruntuleri/13_tema_secici.png) |
+| Tema seçici (açık) | ![Açık temalar](ekran_goruntuleri/17_tema_acik_secici.png) |
+
+## 📦 Sürüm ve İndirme
+
+| | |
+| :--- | :--- |
+| **Sürüm** | `1.1.0` (build `2`) |
+| **APK** | [Sürüm 1.1.0 — `namaz_vakitleri-1.1.0.apk`](https://github.com/muaviyemalik/namaz_vakitleri/releases/download/v1.1.0/namaz_vakitleri-1.1.0.apk) |
+| **Boyut** | 57,6 MB (universal, tüm ABI'lar) |
+| **Min. Android** | API 21 (Android 5.0) |
+| **Hedef** | API 35+ |
+
+```bash
+# Sürümü okut
+aapt dump badging namaz_vakitleri-1.1.0.apk | head -1
+
+# Kaynaktan derlemek isterseniz
+flutter pub get
+flutter build apk --release
+```
+
+> ⚠️ **İmzalama notu.** Depodaki `android/app/build.gradle.kts` içinde `release` yapılandırması `signingConfigs.getByName("debug")` kullanır; yani **bu APK debug anahtarıyla imzalıdır**. Yan yükleme (sideload) ve test için çalışır, ancak **Google Play'e yüklenemez** ve Android "uygulama Play Store dışından geliyor" uyarısı gösterir. Play'e yüklemek için `android/key.properties` + `*.jks` üretip `signingConfigs`'e bağlanması gerekir. Bu adım bilinçli olarak yapılmadı: imza anahtarı ve şifresi commit edilmemeli, `key.properties` `.gitignore`'a eklenmelidir.
 
 ## 📝 Lisans ve Atıf
 

@@ -1,8 +1,30 @@
 {
   "hazirDiller": [
     "eng",
+    "fra",
+    "ara",
+    "spa",
+    "por",
+    "rus",
+    "zho",
+    "deu",
+    "ita",
+    "tam",
+    "tuk",
+    "ron",
+    "kor",
     "tur",
-    "zho"
+    "amh",
+    "ben",
+    "tha",
+    "ukr",
+    "vie",
+    "pol",
+    "nep",
+    "mya",
+    "fas",
+    "ind",
+    "jpn"
   ],
   "diller": [
     {
