@@ -123,11 +123,14 @@ flutter:
   uses-material-design: true
   assets:
     - assets/icon.png
-    - assets/translations/
     - assets/images/
-    # Ulke listesi (ayarlar sayfasindaki ulke secimi)
-    - assets/data/ulkeler.json
-    # Sehir listeleri + koordinatlar. Dosyalar ulke basina ayridir
-    # (assets/data/sehirler/TR.txt vb.) ve yalnizca secilen ulke icin
-    # yuklendigi icin en kalabalik dosya bile (ABD) 334 KB'dir.
-    - assets/data/sehirler/
+    # Arayüz çevirileri: assets/i18n/ceviri/<dil-kodu>.json
+    - assets/i18n/ceviri/
+    # Dil kataloğu: 245 ülkenin resmî dilleri, yazım yönü, otokton adlar
+    - assets/i18n/diller.json
+    # Ülke listesi (ayarlar sayfasındaki ülke seçimi)
+    - assets/veri/ulkeler.json
+    # Şehir listeleri + koordinatlar. Dosyalar ülke başına ayrıdır
+    # (assets/veri/sehirler/TR.txt vb.) ve yalnızca seçilen ülke için
+    # yüklendiği için en kalabalık dosya bile (ABD) 334 KB'dır.
+    - assets/veri/sehirler/

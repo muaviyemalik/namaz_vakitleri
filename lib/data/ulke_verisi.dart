@@ -154,7 +154,7 @@ class UlkeVerisi {
   /// Tum ulkeler (bolge, sonra Turkce ada gore sirali).
   Future<List<Ulke>> ulkeler() async {
     if (_ulkeler != null) return _ulkeler!;
-    final metin = await rootBundle.loadString('assets/data/ulkeler.json');
+    final metin = await rootBundle.loadString('assets/veri/ulkeler.json');
     final liste = (json.decode(metin) as List).cast<Map<String, dynamic>>();
     _ulkeler = liste.map(Ulke.fromJson).toList(growable: false);
     return _ulkeler!;
@@ -170,7 +170,7 @@ class UlkeVerisi {
       if (varolan != null) return varolan;
     }
     try {
-      final metin = await rootBundle.loadString('assets/data/sehirler/$iso2.txt');
+      final metin = await rootBundle.loadString('assets/veri/sehirler/$iso2.txt');
       final liste = metin
           .split('\n')
           .where((s) => s.trim().isNotEmpty)

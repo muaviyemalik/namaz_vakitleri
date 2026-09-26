@@ -4,7 +4,7 @@ import 'dart:convert';
 import 'dart:io';
 
 const yeniAnahtarlar = <String, Map<String, String>>{
-  'tr': {
+  'tur': {
     'country': 'Ülke',
     'select_country': 'Ülke Seç',
     'search_country': 'Ülke ara (örn. Almanya, Egypt)...',
@@ -22,8 +22,14 @@ const yeniAnahtarlar = <String, Map<String, String>>{
     'method_help':
         'Hesaplama yöntemi vakitleri değiştirir. Emin değilseniz takip ettiğiniz '
         'caminin yöntemini seçin ya da otomatik bırakın.',
+    'select_language': 'Dil Seç',
+    'search_language': 'Dil ara (Türkçe, English, العربية)...',
+    'suggested_languages': 'Ülkenize göre önerilen',
+    'all_languages': 'Tüm diller',
+    'search_results': 'Sonuçlar',
+    'rtl': 'Sağdan sola',
   },
-  'en': {
+  'eng': {
     'country': 'Country',
     'select_country': 'Select Country',
     'search_country': 'Search country (e.g. Germany, Egypt)...',
@@ -41,8 +47,14 @@ const yeniAnahtarlar = <String, Map<String, String>>{
     'method_help':
         'The calculation method changes the times. If unsure, pick the method used '
         'by the mosque you attend, or leave it automatic.',
+    'select_language': 'Select Language',
+    'search_language': 'Search language (Türkçe, English, العربية)...',
+    'suggested_languages': 'Suggested for your country',
+    'all_languages': 'All languages',
+    'search_results': 'Results',
+    'rtl': 'Right to left',
   },
-  'zh': {
+  'zho': {
     'country': '国家/地区',
     'select_country': '选择国家',
     'search_country': '搜索国家（例如 德国、埃及）...',
@@ -58,12 +70,18 @@ const yeniAnahtarlar = <String, Map<String, String>>{
     'method_auto': '自动（推荐适合您所在国家的方法）',
     'method_auto_desc': '已自动选择适合您所在国家的官方方法。',
     'method_help': '计算方法会改变礼拜时间。若不确定，请选择您常去清真寺使用的方法，或保持自动。',
+    'select_language': '选择语言',
+    'search_language': '搜索语言（Türkçe、English、العربية）...',
+    'suggested_languages': '适合您所在国家',
+    'all_languages': '所有语言',
+    'search_results': '结果',
+    'rtl': '从右到左',
   },
 };
 
 void main() {
   for (final dil in yeniAnahtarlar.keys) {
-    final yol = 'assets/translations/$dil.json';
+    final yol = 'assets/i18n/ceviri/$dil.json';
     final mevcut = json.decode(File(yol).readAsStringSync(encoding: utf8))
         as Map<String, dynamic>;
 

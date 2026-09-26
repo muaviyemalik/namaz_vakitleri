@@ -171,7 +171,7 @@ void main() {
 /// Üretilmiş şehir veri dosyasını okur. (rootBundle yerine doğrudan disk:
 /// flutter test asset bundle'ı sağlamaz.)
 List<Sehir> sehirleriDosyadanOku(String iso2) {
-  return File('assets/data/sehirler/$iso2.txt')
+  return File('assets/veri/sehirler/$iso2.txt')
       .readAsLinesSync(encoding: utf8)
       .where((s) => s.trim().isNotEmpty)
       .map(Sehir.satirdan)

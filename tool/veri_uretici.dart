@@ -5,9 +5,9 @@
 //   -> json/countries+states+cities.json  (ulke -> eyalet -> sehir + koordinat)
 //
 // CIKTILAR:
-//   assets/data/ulkeler.json          -> ulke metadata'si (ayarlar sayfasindaki
+//   assets/veri/ulkeler.json          -> ulke metadata'si (ayarlar sayfasindaki
 //                                         ulke secimi icin)
-//   assets/data/sehirler/<ISO2>.txt   -> ulke basina sehir listesi + koordinat
+//   assets/veri/sehirler/<ISO2>.txt   -> ulke basina sehir listesi + koordinat
 //                                         (satir basina: enlem|boylam|sehirAdi)
 //
 // NEDEN KOORDINAT?
@@ -45,8 +45,8 @@ void main(List<String> args) {
     exit(66);
   }
 
-  final veriDir = Directory('assets/data');
-  final sehirDir = Directory('assets/data/sehirler');
+  final veriDir = Directory('assets/veri');
+  final sehirDir = Directory('assets/veri/sehirler');
   if (sehirDir.existsSync()) sehirDir.deleteSync(recursive: true);
   sehirDir.createSync(recursive: true);
 

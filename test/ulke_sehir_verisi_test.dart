@@ -174,7 +174,7 @@ void main() {
 
     setUpAll(() {
       ulkelerJson = {
-        for (final u in (json.decode(File('assets/data/ulkeler.json')
+        for (final u in (json.decode(File('assets/veri/ulkeler.json')
                 .readAsStringSync(encoding: utf8)) as List)
             .cast<Map<String, dynamic>>())
           u['iso2'] as String: u,
@@ -235,7 +235,7 @@ void main() {
       ];
       var toplam = 0;
       for (final iso in ornekUlkeler) {
-        final f = File('assets/data/sehirler/$iso.txt');
+        final f = File('assets/veri/sehirler/$iso.txt');
         expect(f.existsSync(), isTrue, reason: '$iso dosyası yok');
         final satirlar = f.readAsLinesSync(encoding: utf8)
             .where((l) => l.trim().isNotEmpty)
@@ -256,7 +256,7 @@ void main() {
 
     test('şehir dosyaları alfabetik sıralı (arama için)', () {
       for (final iso in ['TR', 'DE', 'JP', 'BR']) {
-        final satirlar = File('assets/data/sehirler/$iso.txt')
+        final satirlar = File('assets/veri/sehirler/$iso.txt')
             .readAsLinesSync(encoding: utf8)
             .where((l) => l.trim().isNotEmpty)
             .map((l) => Sehir.satirdan(l).ad.toLowerCase())

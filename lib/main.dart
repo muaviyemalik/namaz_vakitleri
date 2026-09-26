@@ -6,6 +6,7 @@ import 'package:timezone/data/latest_all.dart' as tz;
 import 'package:timezone/timezone.dart' as tz;
 import 'package:easy_localization/easy_localization.dart';
 import 'package:namaz_vakitleri/data/ulke_verisi.dart';
+import 'package:namaz_vakitleri/data/dil_katalogu.dart';
 
 // --- SAYFALARIMIZ ---
 import 'pages/anasayfa.dart';
@@ -218,10 +219,30 @@ void main() async {
   await erkenUyariYukle();
   await konumYukle();
 
+  // Dil katalogu: 152 resmi dil, otokton adlar, yazım yönü ve cevirisi
+  // hazir olan diller. supportedLocales sabit bir liste degil, bu
+  // katalogdan geliyor; boylece yeni bir ceviri dosyasi eklediginizde
+  // uygulama o dili otomatik tanir.
+  await DilKatalogu.yukle();
+  final katalog = DilKatalogu.ornek;
+  final desteklenen = katalog.desteklenenYereller;
+
+  // Cevirisi hic olmayan bir katalogda uygulama acilamaz; bu durumda
+  // Turkce'ye duser (her kurulumda tr.json ve en.json mevcuttur).
+  final yereller = desteklenen.isEmpty
+      ? const [Locale('tr'), Locale('en')]
+      : desteklenen;
+  if (!yereller.any((l) => l.languageCode == 'tr')) {
+    // easy_localization fallback olarak Turkce kullanilacak; yine de
+    // listenin icinde bulunmasi guvenli taraftir.
+  }
+
   runApp(
     EasyLocalization(
-      supportedLocales: const [Locale('tr'), Locale('en'), Locale('zh')],
-      path: 'assets/translations',
+      supportedLocales: yereller,
+      path: 'assets/i18n/ceviri',
+      // Eksik anahtarlarda Turkceye dusulur. Cevirisi kismi olan yeni
+      // diller ekledigimizde arayuzun tamami bos ekran olmaz.
       fallbackLocale: const Locale('tr'),
       child: const NamazVakitleriApp(),
     ),
@@ -250,8 +271,25 @@ class NamazVakitleriApp extends StatelessWidget {
                   supportedLocales: context.supportedLocales,
                   locale: context.locale,
                   title: 'Namaz Vakitleri',
-                  themeMode: aktifMod, 
-                  
+                  themeMode: aktifMod,
+
+                  // SAGDAN SOLA DIL DESTEGI
+                  // Arapca, Farsca, Urduca, Ibranice, Aramice, Dhivehi ve
+                  // Pestuca sagdan sola yazilir. Flutter varsayilan olarak
+                  // her zaman soldan saga kurar; Directionality verilmezse bu
+                  // dillerde menuler, listeler ve ikon yerlesimleri ters ve
+                  // okunmaz gorunur.
+                  builder: (context, child) {
+                    // Katalog yuklenmediyse yonlendirmeye dokunmuyoruz;
+                    // Flutter'in varsayilani (soldan saga) gecerli.
+                    if (!DilKatalogu.yuklendiMi) return child!;
+                    return Directionality(
+                      textDirection:
+                          DilKatalogu.ornek.yon(Localizations.localeOf(context)),
+                      child: child!,
+                    );
+                  },
+
                   // GÜNDÜZ TEMASI (Aydınlık Renk Besleniyor)
                   theme: ThemeData(
                     colorScheme: ColorScheme.fromSeed(seedColor: aydinlikRenk, brightness: Brightness.light),

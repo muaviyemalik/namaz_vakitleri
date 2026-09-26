@@ -25,7 +25,7 @@ Modern arayüzü, temiz kod mimarisi ve kapsamlı özellikleriyle Flutter kullan
 Proje, Sorumlulukların Ayrılması (Separation of Concerns) prensibine uygun olarak katmanlı bir yapıda geliştirilmiştir. Bu sayede spagetti kod engellenmiş ve sürdürülebilirlik maksimize edilmiştir:
 
 * 📂 **`lib/pages/` (View Katmanı):** Sadece arayüz (UI) çizimlerini barındıran modüler sayfalar (`anasayfa.dart`, `kible_sayfasi.dart`, `ozelGunler_sayfasi.dart`, `ayarlar_sayfasi.dart`).
-* 📂 **`lib/widgets/` (UI Bileşenleri):** Yeniden kullanılabilir seçici diyalogları (`ulke_secici.dart`, `sehir_secici.dart`).
+* 📂 **`lib/widgets/` (UI Bileşenleri):** Yeniden kullanılabilir seçici diyalogları (`ulke_secici.dart`, `sehir_secici.dart`, `dil_secici.dart`).
 * 📂 **`lib/data/` (Repository Katmanı):** Ayetler, Hadisler, Özel Günler veri havuzu (`veri_havuzu.dart`) ve ülke/şehir verisinin yüklenmesi (`ulke_verisi.dart`).
 * 📂 **`lib/utils/` (Business Logic):** Matematiksel kıble hesaplamaları gibi arayüzden bağımsız çalışan yardımcı algoritmalar.
 * 📄 **`lib/main.dart` (Entry Point):** Bağımlılıkları başlatan, temayı ayarlayan, seçili ülke/şehir durumunu yöneten ana iskelet.
@@ -108,7 +108,37 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
    dart run tool/cevirileri_guncelle.dart
    ```
 
+## 🌐 Diller
+
+Uygulama 245 ülkenin **152 resmî dilini** tanır. Dil listesi elle yazılmamıştır; `mledoze/countries` (ulke→dil) ve `haliaeetus/iso-639` (otokton adlar) veri setlerinden üretilir:
+
+```bash
+dart run tool/dil_katalogu_uret.dart <countries-json> <iso639-json>
+```
+
+| Özellik | Durum |
+| :--- | :--- |
+| Katalogdaki resmî dil | 152 |
+| Otokton adı bulunan | 111 |
+| Sağdan sola (RTL) yazan | 7 (Arapça, Farsça, Urduca, İbranice, Aramice, Dhivehi, Peştuca) |
+| Şu an çevirisi hazır | 3 (Türkçe, İngilizce, Çince) |
+
+**Çeviri dosyası adı = dil kodu = `Locale` kodu.** `tur.json` ↔ `tur` ↔ `Locale('tur')`. Bu eşleme bozulursa easy_localization dosyayı bulamaz; `hazirDiller` listesi diskteki dosyalarla karşılaştırılarak testte doğrulanır. Yeni bir çeviri dosyası eklemek yeterlidir — `supportedLocales` katalogdan gelir, kodda güncelleme gerekmez.
+
+**Hangi 25 dil?** Ülke sayısı ölçütüyle seçim pratikte yanlıştı (Türkçe'yi 1 ülkeye indirip "Austro-Bavarian German" seçiyordu). Müslüman nüfusuyla ağırlıklandırıldığında **207/245 ülke ve Müslüman nüfusunun %98,8'i** kapsanıyor:
+
+`amh ara ben deu eng fas fra ind ita jpn kor mya nep pol por ron rus spa tam tha tuk tur ukr vie zho`
+
+**Arayüzde üç ayrıntı:**
+- Kullanıcının seçili ülkesinin resmî dilleri en üstte önerilir.
+- Arama hem otokton adı hem İngilizce adı hem ISO kodunu kapsar ve Türkçe karakterden bağımsızdır.
+- RTL dillerde `MaterialApp.builder` ile `Directionality` uygulanır; aksi hâlde menüler ve listeler okunmaz hâle gelir.
+
+**İçerik çevrileri:** Ayetler için [AlQuran Cloud](https://alquran.cloud) kullanılacaktır (21/25 dilde kaynaklı çeviri mevcut; kalan 4 dilde İngilizceye düşülür). Hadis metinlerinin güvenilir bir çok dilli kaynağı bulunmadığından yalnızca TR/EN/ZH dillerinde gösterilecektir.
+
 ## 📝 Lisans ve Atıf
+
+**Dil verisi** [mledoze/countries](https://github.com/mledoze/countries) (Unlicense) ve [haliaeetus/iso-639](https://github.com/haliaeetus/iso-639) projelerinden alınmıştır.
 
 **Ülke/şehir verisi** [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) projesinden alınmıştır ve **ODbL-1.0** (Open Data Commons Open Database License) lisansıyla dağıtılmaktadır. ODbL kopyalaç bir lisans olduğu için, bu veriyi kullanan ve dağıtan uygulamalar verinin kaynağını belirtmek zorundadır.
 

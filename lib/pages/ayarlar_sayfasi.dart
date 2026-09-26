@@ -3,8 +3,10 @@ import 'package:flutter/material.dart';
 import 'package:easy_localization/easy_localization.dart';
 import 'package:namaz_vakitleri/main.dart';
 import 'package:namaz_vakitleri/data/ulke_verisi.dart';
+import 'package:namaz_vakitleri/data/dil_katalogu.dart';
 import 'package:namaz_vakitleri/data/hesaplama_yontemleri.dart';
 import 'package:namaz_vakitleri/widgets/ulke_secici.dart';
+import 'package:namaz_vakitleri/widgets/dil_secici.dart';
 
 class AyarlarSayfasi extends StatefulWidget {
   const AyarlarSayfasi({super.key});
@@ -73,6 +75,24 @@ class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
         margin: const EdgeInsets.all(10),
       ),
     );
+  }
+
+  /// Etkin dilin okunabilir adı (otokton + İngilizce).
+  String _aktifDilAdi(BuildContext context) {
+    if (!DilKatalogu.yuklendiMi) return context.locale.languageCode;
+    final d = DilKatalogu.ornek.kodaGore(context.locale.languageCode);
+    if (d == null) return context.locale.languageCode;
+    return d.otoktonAd != null && d.otoktonAd != d.ad
+        ? '${d.gorunenAd()} · ${d.ad}'
+        : d.gorunenAd();
+  }
+
+  /// Dili değiştirir. Diyalog kapatılırsa hiçbir şey değişmez.
+  Future<void> _dilSec(BuildContext context) async {
+    final yeniDilKodu = await dilSeciciGoster(context);
+    if (yeniDilKodu == null || !context.mounted) return;
+    if (yeniDilKodu == context.locale.languageCode) return;
+    context.setLocale(Locale(yeniDilKodu));
   }
 
   /// Hesaplama yöntemini seçer. "Otomatik" seçeneği Aladhan'ın ülkeye göre
@@ -203,35 +223,22 @@ class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
               child: ListTile(
                 leading: Icon(Icons.language, color: Theme.of(context).colorScheme.primary, size: 30),
                 title: Text(
-                  'language'.tr(), 
+                  'language'.tr(),
                   style: TextStyle(
-                    fontWeight: FontWeight.bold, 
+                    fontWeight: FontWeight.bold,
                     fontSize: 16,
-                    color: Theme.of(context).brightness == Brightness.dark ? Colors.white : Colors.black87
+                    color: Theme.of(context).brightness == Brightness.dark
+                        ? Colors.white
+                        : Colors.black87
                   )
                 ),
-                trailing: DropdownButton<String>(
-                  // O anki aktif dili seçili olarak gösterir
-                  value: context.locale.languageCode, 
-                  underline: const SizedBox(), // Altındaki klasik çizgiyi gizleyip daha şık yapıyoruz
-                  icon: Icon(Icons.arrow_drop_down, color: Theme.of(context).colorScheme.primary),
-                  dropdownColor: Theme.of(context).cardColor,
-                  style: TextStyle(
-                    fontSize: 16,
-                    color: Theme.of(context).brightness == Brightness.dark ? Colors.white : Colors.black87
-                  ),
-                  onChanged: (String? yeniDilKodu) {
-                    if (yeniDilKodu != null) {
-                      // YENİ: Dili anında değiştirir ve hafızaya kaydeder!
-                      context.setLocale(Locale(yeniDilKodu));
-                    }
-                  },
-                  items: [
-                    DropdownMenuItem(value: 'tr', child: Text('turkish'.tr())),
-                    DropdownMenuItem(value: 'en', child: Text('english'.tr())),
-                    DropdownMenuItem(value: 'zh', child: Text('chinese'.tr())),
-                  ],
+                subtitle: Text(
+                  _aktifDilAdi(context),
+                  style: const TextStyle(fontSize: 13),
                 ),
+                trailing: Icon(Icons.arrow_forward_ios,
+                    size: 16, color: Theme.of(context).colorScheme.primary),
+                onTap: () => _dilSec(context),
               ),
             ),
 
