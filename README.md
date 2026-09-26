@@ -189,12 +189,13 @@ dart run tool/dil_katalogu_uret.dart <countries-json> <iso639-json>
 | **Sürüm** | `1.1.0` (build `2`) |
 | **APK** | [Sürüm 1.1.0 — `namaz_vakitleri-1.1.0.apk`](https://github.com/muaviyemalik/namaz_vakitleri/releases/download/v1.1.0/namaz_vakitleri-1.1.0.apk) |
 | **Boyut** | 57,6 MB (universal, tüm ABI'lar) |
-| **Min. Android** | API 21 (Android 5.0) |
-| **Hedef** | API 35+ |
+| **Min. Android** | API 24 (Android 7.0) |
+| **Hedef** | API 36 (Android 16) |
 
 ```bash
 # Sürümü okut
 aapt dump badging namaz_vakitleri-1.1.0.apk | head -1
+# package: name='com.example.namaz_vakitleri' versionCode='2' versionName='1.1.0'
 
 # Kaynaktan derlemek isterseniz
 flutter pub get
