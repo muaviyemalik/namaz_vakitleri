@@ -12,11 +12,12 @@ import 'package:http/http.dart' as http;
 import 'package:namaz_vakitleri/data/ulke_verisi.dart';
 
 /// Bir şehrin aylık vakitlerini koordinatla çeker (uygulamadakiyle aynı yol).
-Future<Map<String, dynamic>> aylikVakitler(Sehir sehir, {int yil = 2026, int ay = 9}) async {
+Future<Map<String, dynamic>> aylikVakitler(Sehir sehir,
+    {int yil = 2026, int ay = 9, int? method}) async {
   final url = Uri.https(
     'api.aladhan.com',
     '/v1/calendar',
-    sehir.aladhanParametreleri(method: 13, yil: yil, ay: ay),
+    sehir.aladhanParametreleri(yil: yil, ay: ay, method: method),
   );
   final cevap = await http.get(url, headers: const {'Accept': 'application/json'})
       .timeout(const Duration(seconds: 25));
@@ -28,11 +29,18 @@ Future<Map<String, dynamic>> aylikVakitler(Sehir sehir, {int yil = 2026, int ay 
 
 void main() {
   test('Aladhan parametreleri doğru URL oluşturuyor', () {
-    const s = Sehir(ad: 'İstanbul', enlem: 41.0082, boylam: 28.9784);
-    final url = Uri.https('api.aladhan.com', '/v1/calendar',
-        s.aladhanParametreleri(method: 13, yil: 2026, ay: 9));
-    expect(url.toString(),
-        'https://api.aladhan.com/v1/calendar?latitude=41.0082&longitude=28.9784&method=13&month=9&year=2026');
+    // Otomatik mod: method gönderilmez, Aladhan ülkeye göre seçer.
+    const oto = Sehir(ad: 'İstanbul', enlem: 41.0082, boylam: 28.9784);
+    final urlOto = Uri.https('api.aladhan.com', '/v1/calendar',
+        oto.aladhanParametreleri(yil: 2026, ay: 9));
+    expect(urlOto.toString(),
+        'https://api.aladhan.com/v1/calendar?latitude=41.0082&longitude=28.9784&month=9&year=2026');
+    expect(urlOto.query, isNot(contains('method')));
+
+    // Açık yöntem seçildiğinde method eklenir.
+    final urlMwl = Uri.https('api.aladhan.com', '/v1/calendar',
+        oto.aladhanParametreleri(yil: 2026, ay: 9, method: 3));
+    expect(urlMwl.query, contains('method=3'));
   });
 
   test('canlı API aylık 30 gün vakit döndürüyor', () async {

@@ -12,6 +12,7 @@ Modern arayüzü, temiz kod mimarisi ve kapsamlı özellikleriyle Flutter kullan
 * 🗺️ **GPS ile Konum Bulma:** `geolocator` ve `geocoding` ile kullanıcının bulunduğu ülkeyi ve şehri otomatik tespit etme. Vakitler tam GPS koordinatı üzerinden hesaplanır.
 * 🕋 **Kıble Pusulası:** Cihazın donanımsal pusula sensörü (`flutter_compass`) ve özel trigonometrik hesaplamalar ile tam isabetli yön bulma. Hedefe ulaşıldığında titreşimli (`HapticFeedback`) geri bildirim.
 * ⏱️ **Canlı Geri Sayım ve Vakitler:** Aladhan API entegrasyonu ile günlük namaz vakitlerinin çekilmesi ve sıradaki vakte kalan sürenin dinamik hesaplanması.
+* 🧮 **Ülkeye Göre Hesaplama Yöntemi:** Hesaplama yöntemi vakitleri kaydırdığı için uygulama `method` parametresini göndermez; Aladhan ülkeye göre resmi yöntemi kendisi seçer (TR→Diyanet, US→ISNA, EG→Mısır, SA→Umm al-Qura, ID→KEMENAG, FR→UOIF, TN→Tunus, MY→JAKIM). Kullanıcı Ayarlar'dan 24 resmi yöntem arasından kendi camiyinin yöntemini seçebilir.
 * 🔔 **Arka Plan Bildirimleri:** Uygulama kapalı olsa dahi ezan vakti girdiğinde `flutter_local_notifications` ile yerel bildirim (alarm) gönderme.
 * 📱 **Ana Ekran Widget'ları (Home Widgets):** Android cihazlar için uygulamanın içine girmeden sıradaki vakti, "Günün Ayeti"ni ve "Günün Hadisi"ni gösteren ana ekran araçları.
 * 🌐 **Çoklu Dil Desteği (i18n):** `easy_localization` ile anlık olarak Türkçe (TR) ve İngilizce (EN) dil geçişi.
@@ -37,6 +38,25 @@ Uygulama, Aladhan API'nin şartlarından dolayı **koordinat tabanlı** çalış
 Aladhan'in `calendarByCity` uç noktası dahili bir geocoder kullanır ve büyük veri setindeki küçük şehirlerin çoğunu çözemez; bu istekler `503 Geocoding is temporarily unavailable` ile başarısız olur. Bu nedenle uygulama, aynı aylık veriyi (30 gün) koordinatla döndüren `/v1/calendar` uç noktasını kullanır. **141.135 şehir** bu sayede sorunsuz çalışır.
 
 Koordinat yaklaşımının ikinci bir faydası daha var: `meta.timezone` her zaman doğru geldiği için ezan alarmları seçilen şehrin saat diliminde doğru zamanlanır.
+
+## 🧮 Hesaplama Yöntemi
+
+Aladhan'ın `method` parametresi namaz vakitlerini doğrudan etkiler. Uygulama bu parametreyi **göndermez**; böylece Aladhan ülkeye göre resmi yöntemi kendisi seçer.
+
+Neden otomatik? Aynı şehirde yöntem değişince vakitler kayıyor. `method=13` (Türkiye) her ülkede sabit kullanıldığında ölçülen sapmalar (Eylül 2026):
+
+| Şehir | Doğru yöntem | `method=13` sapması |
+| :--- | :--- | ---: |
+| Paris | UOIF (12) | **Fajr 38 dk, İşâ 31 dk** |
+| New York | ISNA (2) | **Fajr 16 dk, İşâ 11 dk** |
+| Kahire | Mısır (5) | Fajr 7 dk |
+| Suudi Arabistan | Umm al-Qura (4) | **İşâ 19 dk** |
+| Endonezya | KEMENAG (20) | Fajr 8 dk |
+| İstanbul | Diyanet (13) | — (zaten doğru) |
+
+Otomatik moda geçildikten sonra Paris'te sapma **38 dakikadan 0'a** indi ve 12 ülke örneğinin tamamı doğru yöntemi aldı.
+
+Kullanıcı **Ayarlar → Hesaplama Yöntemi** ekranından 24 resmi yöntem arasından seçebilir. Bu gereklidir çünkü "doğru" yöntem ülkeye göre değil, kullanıcının takip ettiği camiye ve mezhebe göre değişir. Yöntem listesi `https://api.aladhan.com/v1/methods` uç noktasından alınmıştır; açı değerleriyle birlikte gösterilir.
 
 | | |
 | :--- | :--- |

@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:easy_localization/easy_localization.dart';
 import 'package:namaz_vakitleri/main.dart';
 import 'package:namaz_vakitleri/data/ulke_verisi.dart';
+import 'package:namaz_vakitleri/data/hesaplama_yontemleri.dart';
 import 'package:namaz_vakitleri/widgets/ulke_secici.dart';
 
 class AyarlarSayfasi extends StatefulWidget {
@@ -74,6 +75,22 @@ class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
     );
   }
 
+  /// Hesaplama yöntemini seçer. "Otomatik" seçeneği Aladhan'ın ülkeye göre
+  /// varsayılanını kullanır; geri kalanı resmi 24 yöntemdir.
+  Future<void> _yontemSec() async {
+    final secilenId = await showDialog<int?>(
+      context: context,
+      builder: (context) => _YontemSeciciDialog(
+        seciliId: aktifHesaplamaYontemi.value,
+      ),
+    );
+    if (!mounted) return;
+    // null döndüyse "Otomatik" seçilmiş demektir; iptal de aynı değeri
+    // üretir. Bu yüzden ayrımı dialog'un dönüşünde yapıyoruz.
+    aktifHesaplamaYontemi.value = secilenId;
+    await hesaplamaYontemiKaydet(secilenId);
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -133,6 +150,48 @@ class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
                     size: 16, color: Theme.of(context).colorScheme.primary),
                 onTap: _ulkeSec,
               ),
+            ),
+
+            const SizedBox(height: 10),
+
+            // HESAPLAMA YÖNTEMİ KARTI
+            // Hesaplama yöntemi vakitleri kaydırır (ölçülen fark: method=13
+            // her ülkede sabitken Paris'te Fajr 38 dakika sapıyordu).
+            // Varsayılan: Aladhan'ın ülkeye göre seçtiği yöntem. Kullanıcı
+            // takip ettiği camiyin yöntemini seçebilir.
+            ValueListenableBuilder<int?>(
+              valueListenable: aktifHesaplamaYontemi,
+              builder: (context, seciliYontemId, child) {
+                final seciliYontem =
+                    seciliYontemId == null ? null : yontemBul(seciliYontemId);
+                return Card(
+                  color: Theme.of(context).cardColor,
+                  elevation: Theme.of(context).brightness == Brightness.dark ? 1 : 4,
+                  child: ListTile(
+                    leading: Icon(Icons.calculate_outlined,
+                        color: Theme.of(context).colorScheme.primary, size: 30),
+                    title: Text(
+                      'calculation_method'.tr(),
+                      style: TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 16,
+                        color: Theme.of(context).brightness == Brightness.dark
+                            ? Colors.white
+                            : Colors.black87,
+                      ),
+                    ),
+                    subtitle: Text(
+                      seciliYontem == null
+                          ? 'method_auto_desc'.tr()
+                          : '${seciliYontem.ad} · ${seciliYontem.parametreAciklama}',
+                      style: const TextStyle(fontSize: 12),
+                    ),
+                    trailing: Icon(Icons.arrow_forward_ios,
+                        size: 16, color: Theme.of(context).colorScheme.primary),
+                    onTap: _yontemSec,
+                  ),
+                );
+              },
             ),
 
             const SizedBox(height: 10),
@@ -249,8 +308,94 @@ class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
                 );
               }
             ),
-            // İPUCU: İleride AnaSayfa'nın AppBar'ındaki "Tema Seçimi" ikonunu da 
+            // İPUCU: İleride AnaSayfa'nın AppBar'ındaki "Tema Seçimi" ikonunu da
             // buraya yeni bir Card olarak taşıyabilirsin!
+          ],
+        ),
+      ),
+    );
+  }
+}
+
+/// Hesaplama yöntemi seçim diyaloğu.
+///
+/// null döner: "Otomatik" seçildi (API'ye method gönderilmez, Aladhan
+/// ülkeye göre seçer). Diğer bir değer döner: o yöntemin id'si.
+class _YontemSeciciDialog extends StatelessWidget {
+  final int? seciliId;
+  const _YontemSeciciDialog({required this.seciliId});
+
+  @override
+  Widget build(BuildContext context) {
+    return Dialog(
+      insetPadding: const EdgeInsets.symmetric(horizontal: 12, vertical: 24),
+      child: SizedBox(
+        width: double.infinity,
+        height: MediaQuery.of(context).size.height * 0.85,
+        child: Column(
+          children: [
+            Padding(
+              padding: const EdgeInsets.fromLTRB(16, 16, 8, 4),
+              child: Row(
+                children: [
+                  Icon(Icons.calculate_outlined,
+                      color: Theme.of(context).colorScheme.primary),
+                  const SizedBox(width: 10),
+                  Expanded(
+                    child: Text(
+                      'calculation_method'.tr(),
+                      style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
+                    ),
+                  ),
+                  IconButton(
+                    icon: const Icon(Icons.close),
+                    onPressed: () => Navigator.pop(context, seciliId),
+                  ),
+                ],
+              ),
+            ),
+            Padding(
+              padding: const EdgeInsets.fromLTRB(16, 0, 16, 8),
+              child: Text(
+                'method_help'.tr(),
+                style: TextStyle(fontSize: 12, color: Colors.grey.shade700),
+              ),
+            ),
+            const Divider(height: 1),
+            Expanded(
+              child: ListView(
+                children: [
+                  // Otomatik seçenek
+                  ListTile(
+                    dense: true,
+                    leading: Icon(Icons.auto_awesome,
+                        color: Theme.of(context).colorScheme.primary),
+                    title: Text('method_auto'.tr(),
+                        style: const TextStyle(fontWeight: FontWeight.w600)),
+                    subtitle: Text('method_auto_desc'.tr(),
+                        style: const TextStyle(fontSize: 12)),
+                    trailing: seciliId == null
+                        ? Icon(Icons.check_circle,
+                            color: Theme.of(context).colorScheme.primary)
+                        : null,
+                    onTap: () => Navigator.pop(context, null),
+                  ),
+                  const Divider(height: 1),
+                  // Resmi yöntemler
+                  ...hesaplamaYontemleri.map((y) => ListTile(
+                        dense: true,
+                        title: Text(y.ad, style: const TextStyle(fontSize: 15)),
+                        subtitle: Text(y.parametreAciklama,
+                            style: const TextStyle(fontSize: 12)),
+                        trailing: seciliId == y.id
+                            ? Icon(Icons.check_circle,
+                                color: Theme.of(context).colorScheme.primary)
+                            : null,
+                        onTap: () => Navigator.pop(context, y.id),
+                      )),
+                ],
+              ),
+            ),
           ],
         ),
       ),

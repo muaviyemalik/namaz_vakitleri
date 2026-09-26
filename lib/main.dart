@@ -34,6 +34,32 @@ final ValueNotifier<Sehir?> aktifSehir = ValueNotifier<Sehir?>(null);
 
 const String kayitliUlkeAnahtari = 'secili_ulke_kodu';
 const String kayitliSehirAnahtari = 'secili_sehir_veri';
+const String kayitliYontemAnahtari = 'secili_hesaplama_yontemi';
+
+// Seçilen hesaplama yöntemi (Aladhan "method" parametresi).
+//
+// null = OTOMATİK. Bu durumda parametre API'ye hiç gönderilmez ve Aladhan
+// ülkeye göre doğru varsayılanı kendisi seçer (TR→Diyanet, US→ISNA,
+// EG→Mısır, SA→Umm al-Qura, FR→UOIF, TN→Tunus, ID→KEMENAG, MY→JAKIM).
+//
+// Neden otomatik varsayılan? Hesaplama yöntemi vakitleri kaydırır. Ölçülen
+// fark: method=13 (Türkiye) her ülkede sabit kullanıldığında Paris'te Fajr
+// 38 dakika, New York'ta 16 dakika, Suudi Arabistan'da İşâ 19 dakika kadar
+// sapıyor. 245 ülkeyi elle eşleştirmek hem hataya açık hem sürdürülemezdi.
+//
+// Kullanıcı Ayarlar menüsünden yöntemi değiştirebilir. Bu gereklidir çünkü
+// "doğru" yöntem ülkeye göre değil, kullanıcının takip ettiği camiye ve
+// mezhebe göre değişir; bunu yalnızca kullanıcı bilir.
+final ValueNotifier<int?> aktifHesaplamaYontemi = ValueNotifier<int?>(null);
+
+Future<void> hesaplamaYontemiKaydet(int? yontemId) async {
+  final SharedPreferences hafiza = await SharedPreferences.getInstance();
+  if (yontemId == null) {
+    await hafiza.remove(kayitliYontemAnahtari);
+  } else {
+    await hafiza.setInt(kayitliYontemAnahtari, yontemId);
+  }
+}
 
 // Seçilen şehri cihazda saklar (ad + koordinat).
 Future<void> sehirKaydet(Sehir sehir) async {
@@ -69,6 +95,9 @@ Future<void> konumYukle() async {
 
   final String? ulke = hafiza.getString(kayitliUlkeAnahtari);
   if (ulke != null && ulke.length == 2) aktifUlkeKodu.value = ulke;
+
+  // Hesaplama yöntemi: kayıt yoksa otomatik (null) kullanılır.
+  aktifHesaplamaYontemi.value = hafiza.getInt(kayitliYontemAnahtari);
 
   final String? sehirHam = hafiza.getString(kayitliSehirAnahtari);
   if (sehirHam != null) {

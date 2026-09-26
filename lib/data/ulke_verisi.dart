@@ -111,18 +111,27 @@ class Sehir {
   }
 
   /// Aladhan sorgusu icin gerekli parametreler.
+  ///
+  /// [method] null oldugunda parametre hic gonderilmez; Aladhan bunu
+  /// ulkeye gore dogru varsayilanla doldurur (TR->Diyanet, US->ISNA,
+  /// EG->Misir, SA->Umm al-Qura, ID->KEMENAG, FR->UOIF, TN->Tunus ...).
+  /// 245 ulke icin elle yontem tablosu tutmaktan hem daha dogru hem daha
+  /// surdurulebilirdir. Kullanici Ayarlar'dan yontem secerse [method] dolu
+  /// gider ve o deger kullanilir.
   Map<String, String> aladhanParametreleri({
-    required int method,
     required int yil,
     required int ay,
-  }) =>
-      {
-        'latitude': enlem.toStringAsFixed(4),
-        'longitude': boylam.toStringAsFixed(4),
-        'method': method.toString(),
-        'month': ay.toString(),
-        'year': yil.toString(),
-      };
+    int? method,
+  }) {
+    final p = <String, String>{
+      'latitude': enlem.toStringAsFixed(4),
+      'longitude': boylam.toStringAsFixed(4),
+      'month': ay.toString(),
+      'year': yil.toString(),
+    };
+    if (method != null) p['method'] = method.toString();
+    return p;
+  }
 
   @override
   String toString() => '$ad ($enlem, $boylam)';

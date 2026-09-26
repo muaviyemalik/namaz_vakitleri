@@ -81,6 +81,9 @@ Future<void> _hedefKaydet(int deger) async {
     // için vakitler burada tek noktadan yenilenir.
     aktifSehir.addListener(_aktifSehirDegisti);
 
+    // Hesaplama yöntemi değişirse vakitler değişir; yeniden çek.
+    aktifHesaplamaYontemi.addListener(_yontemDegisti);
+
     // YENİ: Ses tuşlarını dinlemeye başla
     PerfectVolumeControl.stream.listen((value) {
       // Sadece zikirmatik paneli açıkken veya isteğe bağlı olarak her zaman çalıştırabilirsin
@@ -130,6 +133,11 @@ Future<void> _hedefKaydet(int deger) async {
     await vakitleriGetir();
   }
 
+  Future<void> _yontemDegisti() async {
+    if (!mounted) return;
+    await vakitleriGetir();
+  }
+
   /// Aktif şehir değiştiğinde tetiklenir: yeni şehrin vakitlerini çeker.
   ///
   /// Hem ana sayfadaki şehir seçiciden hem de ayarlar sayfasındaki ülke
@@ -159,6 +167,7 @@ Future<void> _hedefKaydet(int deger) async {
     // AnaSayfa çökse bile notifier bu State'i tutmaya devam eder ve
     // bellek sızıntısı oluşur.
     aktifSehir.removeListener(_aktifSehirDegisti);
+    aktifHesaplamaYontemi.removeListener(_yontemDegisti);
     super.dispose();
   }
 
@@ -361,11 +370,18 @@ Future<void> _widgetHadisiniGuncelle() async {
     try {
       final prefs = await SharedPreferences.getInstance();
       final now = DateTime.now();
-      // Önbellek anahtarı koordinatı içerir: aynı isimli iki şehir
-      // (ör. Türkiye'de "Afyon" ile ABD'de "Afyon") birbirine karışmasın.
+      // Önbellek anahtarı koordinatı ve hesaplama yöntemini içerir:
+      //   - koordinat: aynı isimli iki şehir (Türkiye'de "Afyon" ile ABD'de
+      //     "Afyon") birbirine karışmasın.
+      //   - yöntem: kullanıcı yöntemi değiştirdiğinde vakitler değiştiği
+      //     için eski önbellek kullanılmamalı.
+      final yontemAnahtari = aktifHesaplamaYontemi.value?.toString() ?? 'oto';
+      // Süslü parantez şart: '$yontemAnahtari_' yazılırsa Dart değişken adını
+      // "yontemAnahtari_" olarak okur ve derleme hatası verir.
       final String hafizaAnahtari =
           'vakitler_${sehir.enlem.toStringAsFixed(3)}_'
-          '${sehir.boylam.toStringAsFixed(3)}_${now.month}_${now.year}';
+          '${sehir.boylam.toStringAsFixed(3)}_'
+          '${yontemAnahtari}_${now.month}_${now.year}';
 
       String? telefondakiVeri = prefs.getString(hafizaAnahtari);
 
@@ -382,9 +398,9 @@ Future<void> _widgetHadisiniGuncelle() async {
         'api.aladhan.com',
         '/v1/calendar',
         sehir.aladhanParametreleri(
-          method: 13, // Diyanet hesaplama yöntemi
           yil: now.year,
           ay: now.month,
+          method: aktifHesaplamaYontemi.value,
         ),
       );
 

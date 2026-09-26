@@ -16,6 +16,12 @@ const yeniAnahtarlar = <String, Map<String, String>>{
     'no_results': 'Sonuç bulunamadı',
     'no_city_data': 'Bu ülke için şehir verisi bulunmuyor.',
     'data_load_error': 'Veri yüklenemedi',
+    'calculation_method': 'Hesaplama Yöntemi',
+    'method_auto': 'Otomatik (ülkeye göre önerilen)',
+    'method_auto_desc': 'Ülkenize uygun resmi yöntem otomatik seçilir.',
+    'method_help':
+        'Hesaplama yöntemi vakitleri değiştirir. Emin değilseniz takip ettiğiniz '
+        'caminin yöntemini seçin ya da otomatik bırakın.',
   },
   'en': {
     'country': 'Country',
@@ -29,6 +35,12 @@ const yeniAnahtarlar = <String, Map<String, String>>{
     'no_results': 'No results found',
     'no_city_data': 'No city data available for this country.',
     'data_load_error': 'Could not load data',
+    'calculation_method': 'Calculation Method',
+    'method_auto': 'Automatic (recommended for your country)',
+    'method_auto_desc': 'The official method for your country is selected automatically.',
+    'method_help':
+        'The calculation method changes the times. If unsure, pick the method used '
+        'by the mosque you attend, or leave it automatic.',
   },
   'zh': {
     'country': '国家/地区',
@@ -42,6 +54,10 @@ const yeniAnahtarlar = <String, Map<String, String>>{
     'no_results': '未找到结果',
     'no_city_data': '该国家没有城市数据。',
     'data_load_error': '无法加载数据',
+    'calculation_method': '计算方法',
+    'method_auto': '自动（推荐适合您所在国家的方法）',
+    'method_auto_desc': '已自动选择适合您所在国家的官方方法。',
+    'method_help': '计算方法会改变礼拜时间。若不确定，请选择您常去清真寺使用的方法，或保持自动。',
   },
 };
 
