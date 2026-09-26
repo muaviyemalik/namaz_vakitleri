@@ -1,0 +1,135 @@
+33.2919|44.0692|Abu Ghraib
+33.3056|44.1848|Abū Ghurayb
+33.8467|44.2344|Ad Dujayl
+31.9929|44.9255|Ad Dīwānīyah
+33.3692|44.3396|Adamiyah
+33.3591|44.2814|Al Adel
+33.3493|44.4107|Al Baladiyat
+30.5032|47.8151|Al Başrah al Qadīmah
+33.3491|43.7860|Al Fallūjah
+29.9742|48.4731|Al Fāw
+32.5467|44.2276|Al Hindīyah
+30.5848|47.7611|Al Hārithah
+33.3411|44.3406|Al Jamaa
+32.5128|45.8182|Al Kūt
+36.3327|43.1056|Al Mawşil al Jadīdah
+33.9786|44.9369|Al Miqdādīyah
+31.8044|44.4893|Al Mishkhāb
+32.7787|44.2901|Al Musayyib
+33.3248|44.4147|Al Saadoon Park
+33.3225|44.3843|Al Salhiah
+33.3186|44.4869|Al Za'franiya
+32.1742|46.0434|Al Ḩayy
+32.4637|44.4196|Al Ḩillah
+37.0921|43.4877|Al ‘Amādīyah
+31.8356|47.1448|Al ‘Amārah
+32.9094|45.0636|Al ‘Azīzīyah
+36.2709|43.3776|Al-Hamdaniya
+31.4294|47.2035|Al-Mejar Al-Kabi
+33.3204|44.4596|Al-Ubaidi
+33.3112|44.4335|Al-Wahda
+33.2967|44.2708|Ameria
+33.2761|44.3104|Amil
+33.3125|44.4863|Amin
+31.5284|45.2038|Ar Rumaythah
+33.0372|40.2859|Ar Ruţbah
+33.2934|44.4230|Arasat AlHindiya
+36.1907|44.0095|Arbil
+31.3320|45.2944|As Samawah
+35.5650|45.4329|As Sulaymānīyah
+36.6960|43.3520|Ash Shaykhān
+31.4091|46.1727|Ash Shaţrah
+31.9626|44.6007|Ash Shāmīyah
+33.3564|44.3579|At Taifiya
+30.3921|47.7017|Az Zubayr
+32.9256|44.7758|Aş Şuwayrah
+33.3601|44.3651|Bab Al Moatham
+33.3325|44.4141|Bab Al Sharqi
+33.3406|44.4009|Baghdad
+33.3134|44.4716|Baghdad Al Jadeeda
+33.3325|44.3451|Baijai
+34.0149|44.1457|Balad
+33.6963|45.0778|Baladrūz
+33.7540|44.6052|Baqubah
+30.5085|47.7804|Basrah
+33.3211|44.4086|Bataween
+37.1745|43.0123|Batifa
+33.2826|44.3753|Bayaa
+34.9291|43.4888|Bayjī
+35.6205|45.9491|Baynjiwayn
+33.3928|44.4111|Binouk
+33.2419|44.4270|Bo'aitha
+33.3011|44.4447|Camp Sarah
+33.3121|44.3258|Daoudi
+36.8671|42.9885|Dihok
+33.2313|44.3620|Dora
+36.1833|44.0119|Erbil
+33.3375|44.4628|Ghadeer
+33.3414|44.2235|Ghazaliya
+33.3921|44.3044|Gherai'at
+33.3138|44.3590|Green Zone
+33.3392|44.4685|Habibiya
+33.2263|44.3983|Harthiya
+33.3424|44.3066|Hurriya
+33.6366|42.8277|Hīt
+33.7348|42.6823|Hīt District
+32.2980|44.6828|Imam Qasim
+33.3341|44.3230|Iskan
+33.2608|44.4112|Jadriyah
+33.3511|44.4150|Jamila
+35.5336|44.8343|Jamjamāl
+33.2529|44.2923|Jihad
+33.3813|44.3514|Kadhimiya
+33.3501|44.5089|Kamaliyah
+33.2934|44.3964|Karada
+32.6160|44.0249|Karbala
+33.3197|44.2876|Khadra
+33.8081|44.5334|Khāliş
+34.6896|44.9606|Kifrī
+35.4681|44.3922|Kirkuk
+36.0829|44.6287|Koysinceq
+32.0511|44.4402|Kufa
+33.7481|45.5550|Mandalī
+33.3142|44.3363|Mansour
+33.3244|44.4931|Mashtal
+36.3350|43.1189|Mosul
+33.3630|44.3870|Mustansiriya
+31.7431|44.6196|Nahiyat Ghammas
+32.0259|44.3462|Najaf
+31.0580|46.2573|Nasiriyah
+30.9697|46.7228|Nāḩiyat al Fuhūd
+31.5838|44.6467|Nāḩiyat ash Shināfīyah
+32.7156|44.2786|Nāḩīyat Saddat al Hindīyah
+33.3272|44.3162|Qadisiyah
+34.5229|44.8582|Qaḑā’ Kifrī
+33.4206|43.3078|Ramadi
+36.6121|44.5237|Ruwāndiz
+34.4823|41.9190|Rāwah
+33.3769|44.4045|Sadr City
+33.2650|44.3316|Saidiya
+33.4131|44.3861|Sha'ab
+36.4042|44.3256|Shaqlāwah
+33.3390|44.3479|Sheik Maaruf
+33.3461|44.3950|Shorjah
+36.2955|41.8931|Sinjar
+36.6532|44.5441|Soran
+33.3934|44.3614|Suleikh
+34.1959|43.8857|Sāmarrā’
+36.8085|43.0393|Sīnah
+36.3791|42.4481|Tall ‘Afar
+36.4912|43.1211|Tallkayf
+34.6158|43.6786|Tikrīt
+34.8881|44.6326|Tozkhurmato
+30.0362|47.9195|Umm Qaşr
+33.4169|44.3906|Ur
+33.3637|44.3820|Wazireya
+33.3394|44.3221|Yarmouk
+37.1487|42.6859|Zaxo
+33.3248|44.4545|Ziyouna
+34.1366|42.3773|Ḩadīthah
+35.1778|45.9861|Ḩalabjah
+32.0643|45.2474|‘Afak
+32.4619|46.6879|‘Alī al Gharbī
+34.3686|41.9819|‘Anah
+34.4693|41.9422|‘Anat al Qadīmah
+36.7604|43.8943|‘Aqrah

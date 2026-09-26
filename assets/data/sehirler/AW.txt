@@ -1,0 +1,12 @@
+12.5705|-70.0191|Alto Vista
+12.5513|-70.0084|Moco
+12.5660|-70.0320|Noord
+12.5240|-70.0270|Oranjestad
+12.5685|-70.0389|Palm Beach
+12.5351|-70.0069|Paradera
+12.4650|-69.9623|Pos Chiquito
+12.4362|-69.9071|San Nicolas
+12.5095|-69.9809|Santa Cruz
+12.4503|-69.9381|Savaneta
+12.5391|-70.0200|Tanki Leendert
+12.5584|-70.0382|Washington

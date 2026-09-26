@@ -1,0 +1,143 @@
+9.9833|39.9833|Abomsa
+11.2667|37.4833|Addiet Canna
+9.0250|38.7469|Addis Ababa
+8.1470|33.9734|Administrative Zone 1
+13.6851|40.0562|Administrative Zone 2
+10.0090|40.4739|Administrative Zone 3
+5.2500|43.0000|Afder Zone
+7.4535|38.2119|Alaba Special Wereda
+6.0333|37.5500|Arba Minch
+7.5000|39.5000|Arsi Zone
+11.5684|41.4387|Asaita
+10.0000|34.5000|Asosa
+14.1211|38.7234|Axum
+11.5936|37.3908|Bahir Dar
+5.7833|36.5667|Bako
+11.1915|40.0168|Batī
+8.4560|36.3530|Bedelē
+8.9000|40.7833|Bedēsa
+6.4599|35.3055|Bench Maji Zone
+10.4500|38.2000|Bichena
+8.7523|38.9785|Bishoftu
+6.9667|37.8667|Bodītī
+7.2833|36.2333|Bonga
+10.7000|37.0667|Burē
+8.1167|38.3667|Butajīra
+12.9842|37.7650|Dabat
+13.1561|37.8981|Debark’
+9.6795|39.5326|Debre Birhan
+10.3500|37.7333|Debre Mark’os
+9.8475|39.7603|Debre Sīna
+11.8500|38.0167|Debre Tabor
+10.6667|38.1667|Debre Werk’
+9.3117|41.4430|Deder
+8.2500|43.7500|Degehabur Zone
+10.1667|38.1333|Dejen
+8.5333|34.8000|Dembī Dolo
+11.1333|39.6333|Desē
+9.5931|41.8661|Dire Dawa
+6.9833|39.1833|Dodola
+11.7329|41.0820|Dubti
+6.4167|38.3167|Dīla
+8.7011|42.0024|East Harerghe Zone
+8.2135|38.8481|East Shewa Zone
+9.5193|36.7576|East Wellega Zone
+6.3000|36.8833|Felege Neway
+9.8000|38.7333|Fichē
+10.7000|37.2667|Finote Selam
+8.2500|34.5833|Gambēla
+9.8000|38.4000|Gebre Guracha
+6.1273|38.2772|Gedeo Zone
+8.8167|40.5167|Gelemso
+9.0667|38.5000|Genet
+10.1666|40.6469|Gewanē
+9.1703|35.8349|Gimbi
+7.1395|40.7108|Ginir
+7.0167|39.9833|Goba
+6.0000|43.7500|Gode Zone
+12.6000|37.4667|Gondar
+8.1500|35.5333|Gorē
+5.5880|39.0670|Guji Zone
+8.2500|38.0000|Guraghe Zone
+9.0167|37.4500|Gēdo
+5.6500|37.3667|Gīdolē
+7.5000|37.7500|Hadiya Zone
+5.6342|38.2360|Hagere Maryam
+9.3139|42.1181|Harar
+7.0621|38.4763|Hawassa
+7.5498|37.8537|Hosa’ina
+8.1500|39.3500|Huruta
+8.9833|37.8500|Hāgere Hiywet
+6.4833|38.5167|Hāgere Selam
+9.2167|41.1000|Hīrna
+8.2753|35.7560|Illubabor Zone
+14.1031|38.2829|Inda Silasē
+9.3500|42.8000|Jijiga
+7.6734|36.8344|Jimma
+7.6667|37.0000|Jimma Zone
+5.6500|36.6500|Jinka
+7.2704|37.7789|Kembata Alaba Tembaro Zone
+10.7167|39.8700|Kemisē
+5.8833|38.9833|Kibre Mengist
+7.0667|38.7833|Kofelē
+11.0816|39.7434|Kombolcha
+5.2500|37.4833|Konso
+12.5058|39.5228|Korem
+7.3167|38.0833|K’olīto
+12.0322|39.0476|Lalībela
+6.8731|38.4442|Leku
+4.7500|40.5000|Liben zone
+4.8333|36.1000|Lobuni
+12.7875|39.5422|Maych’ew
+13.4967|39.4753|Mek'ele
+9.8000|35.1000|Mendī
+8.9000|39.9167|Metahāra
+10.4267|35.7197|Metekel
+8.3000|35.5833|Metu
+8.5868|39.1211|Mojo
+4.0500|38.3000|Mēga
+6.9986|35.5888|Mīzan Teferī
+8.5500|39.2667|Nazrēt
+9.5000|35.5000|Nejo
+9.7690|39.6680|North Shewa Zone
+11.9200|39.1000|North Wollo Zone
+12.0167|39.6333|Robīt
+8.9167|38.6167|Sebeta
+11.7934|41.0058|Semera
+9.1520|39.0234|Sendafa
+5.7649|38.9101|Shakiso
+9.5667|37.1000|Shambu
+7.2000|38.6000|Shashemenē
+7.5617|35.4017|Sheka Zone
+10.1710|41.8375|Shinile Zone
+6.7180|38.4480|Sidama Zone
+8.3167|39.4833|Sirre
+6.8600|37.7616|Sodo
+11.8385|38.0995|South Gondar Zone
+11.0000|39.2500|South Wollo Zone
+13.2480|39.5316|Southeastern Tigray Zone
+12.9603|39.5283|Southern Tigray Zone
+7.2000|35.4500|Tippi
+8.6667|38.2167|Tulu Bolo
+4.9667|36.4833|Turmi
+12.7650|38.8430|Wag Hemra Zone
+8.5342|37.9652|Waliso
+6.6000|38.4167|Wendo
+8.4500|39.2833|Wenjī
+10.5896|39.4377|Were Īlu
+11.9167|37.7000|Werota
+8.6724|40.8488|West Harerghe Zone
+9.1728|35.0528|West Wellega Zone
+6.8431|37.7005|Wolayita Zone
+4.8833|38.0833|Yabēlo
+7.8333|37.5000|Yem
+6.7500|38.4167|Yirga ‘Alem
+7.9333|38.7167|Ziway
+14.2770|39.4620|Ādīgrat
+12.1167|37.7833|Ādīs Zemen
+9.0333|38.4000|Ādīs ‘Alem
+7.8500|36.6500|Āgaro
+7.0667|37.7000|Āreka
+7.1000|39.2000|Āsasa
+9.0857|40.8671|Āsbe Teferī
+8.9833|40.1667|Āwash

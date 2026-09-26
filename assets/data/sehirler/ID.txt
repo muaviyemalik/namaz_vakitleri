@@ -1,0 +1,796 @@
+-2.5964|140.6324|Abepura
+4.4500|96.1667|Aceh Barat
+3.8333|96.8833|Aceh Barat Daya
+5.3833|95.5167|Aceh Besar
+4.8600|95.6400|Aceh Jaya
+3.1667|97.4167|Aceh Selatan
+2.4167|97.9167|Aceh Singkil
+4.2500|97.9667|Aceh Tamiang
+4.5100|96.8550|Aceh Tengah
+3.3667|97.7000|Aceh Tenggara
+4.6333|97.6333|Aceh Timur
+4.9700|97.1400|Aceh Utara
+-6.9375|109.1325|Adiwerna
+-0.2500|100.1667|Agam
+-8.3000|124.5667|Alor
+-3.3398|128.9197|Amahai
+-7.2633|110.3975|Ambarawa
+2.6814|98.8311|Ambarita
+-3.6958|128.1833|Ambon
+-8.4500|115.6167|Amlapura
+-2.4177|115.2494|Amuntai
+-6.6453|108.4103|Arjawinangun
+2.7833|99.5500|Asahan
+-5.3795|138.4634|Asmat
+-6.8017|108.6311|Astanajapura
+-9.1061|124.8925|Atambua
+-7.1128|112.1635|Babat
+-8.5167|115.2000|Badung
+-6.7674|110.8541|Baekrajan
+-7.6128|110.7839|Baki
+1.0595|101.2905|Balaipungut
+-2.3231|115.6292|Balangan
+-7.0486|109.1006|Balapulang
+-1.2675|116.8289|Balikpapan
+-7.7333|113.9167|Balung
+5.5417|95.3333|Banda Aceh
+2.0500|99.7500|Bandar
+-5.4292|105.2611|Bandar Lampung
+-6.9222|107.6069|Bandung
+-6.8333|107.4833|Bandung Barat
+-0.9114|122.7184|Banggai
+-1.3024|123.0373|Banggai Kepulauan
+-1.6184|123.4939|Banggai Laut
+-7.5994|112.8186|Bangil
+-1.9167|105.9333|Bangka
+-1.9584|105.5374|Bangka Barat
+-2.6680|106.0126|Bangka Selatan
+-2.3399|106.1142|Bangka Tengah
+-7.0455|112.7351|Bangkalan
+-8.2833|115.3500|Bangli
+-8.1900|114.9675|Banjar
+-8.4950|115.4234|Banjar Wangsian
+-7.0453|107.5878|Banjaran
+-3.3199|114.5907|Banjarmasin
+-7.3511|109.5875|Banjarnegara
+-5.4833|119.9833|Bantaeng
+-7.9000|110.3667|Bantul
+-7.5142|109.2942|Banyumas
+-8.2325|114.3576|Banyuwangi
+-2.5833|115.3833|Barabai
+-3.0833|114.6167|Barito Kuala
+-1.8667|114.7333|Barito Selatan
+-1.9333|115.1000|Barito Timur
+-0.9833|115.1000|Barito Utara
+-4.4333|119.6833|Barru
+1.1494|104.0249|Batam
+-6.4846|110.7083|Batang
+-1.7500|103.1167|Batang Hari
+-7.8700|112.5283|Batu
+3.1617|99.5265|Batu Bara
+-7.3000|109.2167|Baturaden
+-4.1289|104.1669|Baturaja
+-8.4504|115.5925|Bedugul
+-1.7923|103.3167|Bejubang Dua
+-6.2349|106.9896|Bekasi
+3.7755|98.6832|Belawan
+-2.8667|107.7000|Belitung
+-2.9627|108.1522|Belitung Timur
+-9.4126|124.9507|Belu
+4.7302|96.8616|Bener Meriah
+0.9838|102.5096|Bengkalis
+1.0691|109.6639|Bengkayang
+-3.8004|102.2655|Bengkulu
+-4.3500|103.0333|Bengkulu Selatan
+-3.2068|102.1262|Bengkulu Tengah
+-3.3333|102.0500|Bengkulu Utara
+3.1947|98.5089|Berastagi
+2.0000|117.3000|Berau
+-7.7338|113.6979|Besuki
+-1.1767|136.0820|Biak
+-1.0333|136.0000|Biak Numfor
+-8.4601|118.7267|Bima
+3.6001|98.4854|Binjai
+0.9500|104.6194|Bintan
+5.0833|96.5833|Bireuen
+5.2030|96.7009|Bireun
+-8.0983|112.1681|Blitar
+-6.9698|111.4186|Blora
+0.6269|122.3568|Boalemo
+-6.5944|106.7892|Bogor
+-7.1502|111.8817|Bojonegoro
+0.7500|124.0833|Bolaang Mongondow
+0.4091|123.7596|Bolaang Mongondow Selatan
+0.7207|124.5026|Bolaang Mongondow Timur
+0.7853|123.4177|Bolaang Mongondow Utara
+-4.6257|121.8164|Bombana
+-7.9135|113.8214|Bondowoso
+-4.7000|120.1333|Bone
+0.5030|123.2750|Bone Bolango
+0.1324|117.4854|Bontang
+-5.7052|140.3635|Boven Digoel
+-7.5331|110.5958|Boyolali
+-8.1181|111.8935|Boyolangu
+-7.0500|108.9000|Brebes
+-7.0500|109.5500|Buaran
+-7.4281|112.7234|Buduran
+-0.3091|100.3705|Bukittinggi
+-6.8748|108.9559|Bulakamba
+-8.2500|114.9667|Buleleng
+-5.4167|120.2333|Bulukumba
+3.0000|117.1667|Bulungan
+-1.5022|101.9600|Bungo
+1.0466|121.3687|Buol
+-3.3277|126.6841|Buru
+-3.5219|126.5927|Buru Selatan
+-5.3167|122.9167|Buton
+-5.5667|122.7000|Buton Selatan
+-5.3167|122.3333|Buton Tengah
+-5.0146|122.9301|Buton Utara
+-7.7500|110.4942|Candi Prambanan
+-6.7061|106.8214|Caringin
+-7.6742|110.6789|Ceper
+-7.1475|111.5906|Cepu
+-7.3257|108.3534|Ciamis
+-6.5547|106.7008|Ciampea
+-6.7725|107.0831|Cianjur
+-6.4817|106.8542|Cibinong
+-6.7814|106.7825|Cicurug
+-6.4197|107.4558|Cikampek
+-6.2611|107.1528|Cikarang
+-6.2364|106.5083|Cikupa
+-7.5742|108.9886|Cilacap
+-6.3947|106.9592|Cileungsir
+-6.9389|107.7528|Cileunyi
+-6.8722|107.5425|Cimahi
+-6.2375|106.6956|Ciputat
+-6.8200|107.2572|Ciranjang-hilir
+-6.7063|108.5570|Cirebon
+-6.4856|106.8819|Citeureup
+-1.2420|116.8942|City of Balikpapan
+-7.5333|110.7500|Colomadu
+-6.9053|109.5347|Comal
+-3.4703|102.5207|Curup
+2.8667|98.2333|Dairi
+-8.2116|112.7493|Dampit
+-3.9474|135.9503|Deiyai
+-7.6167|110.6833|Delanggu
+3.4167|98.6667|Deli Serdang
+3.5078|98.6839|Deli Tua
+-6.8909|110.6396|Demak
+-8.6500|115.2167|Denpasar
+-6.4000|106.8186|Depok
+-1.0500|101.3670|Dharmasraya
+-7.5790|112.2311|Diwek
+-4.0319|135.4394|Dogiyai
+-8.5365|118.4634|Dompu
+-0.5833|119.8500|Donggala
+-7.3659|112.6219|Driyorejo
+-6.9000|109.0833|Dukuhturi
+1.6671|101.4432|Dumai
+1.3352|128.4863|East Halmahera Regency
+3.2267|99.0926|Empat Lawang
+-8.8432|121.6623|Ende
+-3.5000|119.8667|Enrekang
+-2.9264|132.2961|Fakfak
+-8.2422|122.9682|Flores Timur
+-5.3166|119.3661|Galesong
+-8.3939|114.1464|Gambiran Satu
+-7.7667|112.0167|Gampengrejo
+-7.3833|107.7667|Garut
+-7.5908|110.7044|Gatak
+3.9500|97.3900|Gayo Lues
+-6.7350|110.8444|Gebog
+-7.3908|112.7267|Gedangan
+-8.3667|114.1500|Genteng
+-8.4667|115.2833|Gianyar
+-8.3578|116.0824|Gili Air
+-7.6072|109.5142|Gombong
+-8.1753|112.6359|Gongdanglegi Kulon
+0.5375|123.0625|Gorontalo
+0.7700|122.3167|Gorontalo Utara
+-5.3167|119.7500|Gowa
+-7.1539|112.6561|Gresik
+-7.1933|112.5530|Gresik Regency
+-7.1167|110.9167|Grobogan
+-7.6011|110.8186|Grogol
+-7.3317|110.4042|Gunung Kendil
+-7.9833|110.6167|Gunung Kidul
+-0.9500|113.5000|Gunung Mas
+1.2888|97.6143|Gunungsitoli
+1.4171|127.5526|Halmahera Barat
+-0.3955|127.9083|Halmahera Selatan
+0.4806|128.2500|Halmahera Tengah
+1.7319|128.0078|Halmahera Utara
+-2.7500|115.2000|Hulu Sungai Selatan
+-2.6167|115.4167|Hulu Sungai Tengah
+-2.4500|115.1333|Hulu Sungai Utara
+2.2655|98.5038|Humbang Hasundutan
+-0.3333|103.1667|Indragiri Hilir
+-0.5500|102.3167|Indragiri Hulu
+-6.3264|108.3200|Indramayu
+-1.1447|136.0313|Insrom
+-3.4102|136.7084|Intan Jaya
+-6.1600|106.6749|Jakarta Barat
+-6.1822|106.7953|Jakarta Pusat
+-6.2839|106.7197|Jakarta Selatan
+-6.2610|106.8226|Jakarta Timur
+-6.1357|106.7595|Jakarta Utara
+-1.6000|103.6167|Jambi City
+-7.5772|110.8975|Jaten
+-6.4747|108.3153|Jatibarang
+-7.8833|111.1167|Jatiroto
+-6.7336|108.2628|Jatiwangi
+-2.5337|140.7181|Jayapura
+-4.0833|139.0833|Jayawijaya
+-6.8057|110.9262|Jekulo
+-8.1721|113.6995|Jember
+-8.3000|114.6667|Jembrana
+-5.6333|119.7333|Jeneponto
+-6.5833|110.7667|Jepara
+-8.7909|115.1601|Jimbaran
+-7.7036|110.5361|Jogonalan
+-7.5460|112.2331|Jombang
+-6.7150|111.1514|Juwana
+3.1001|98.4908|Kabanjahe
+-7.1000|107.6000|Kabupaten Bandung
+-7.0500|112.9333|Kabupaten Bangkalan
+-7.4500|109.1667|Kabupaten Banyumas
+-8.3333|114.2000|Kabupaten Banyuwangi
+-7.0333|109.8833|Kabupaten Batang
+-6.2467|107.1083|Kabupaten Bekasi
+-8.6000|118.6167|Kabupaten Bima
+-8.1333|112.2500|Kabupaten Blitar
+-7.0667|111.3833|Kabupaten Blora
+-6.5833|106.7167|Kabupaten Bogor
+-7.2500|111.8000|Kabupaten Bojonegoro
+-7.9404|113.9834|Kabupaten Bondowoso
+-7.5000|110.7000|Kabupaten Boyolali
+-7.2833|108.4167|Kabupaten Ciamis
+-6.8000|108.5667|Kabupaten Cirebon
+-6.8993|110.6122|Kabupaten Demak
+-8.5094|118.4816|Kabupaten Dompu
+-8.8406|121.6639|Kabupaten Ende
+0.5728|122.2337|Kabupaten Gorontalo
+-6.4500|108.1667|Kabupaten Indramayu
+-3.0000|139.9500|Kabupaten Jayapura
+-8.2500|113.6500|Kabupaten Jember
+-7.5500|112.2500|Kabupaten Jombang
+-7.8333|112.1667|Kabupaten Kediri
+-7.6833|110.6167|Kabupaten Klaten
+-8.5500|115.4000|Kabupaten Klungkung
+-6.8000|110.8667|Kabupaten Kudus
+-7.0000|108.5500|Kabupaten Kuningan
+-9.9167|123.8333|Kabupaten Kupang
+-7.1333|112.3167|Kabupaten Lamongan
+-8.1167|113.1500|Kabupaten Lumajang
+-7.6167|111.6500|Kabupaten Madiun
+-7.4275|110.1619|Kabupaten Magelang
+-6.8167|108.2833|Kabupaten Majalengka
+-3.1500|118.8667|Kabupaten Majene
+-8.1667|112.6667|Kabupaten Malang
+-2.5000|119.4167|Kabupaten Mamuju
+-0.9000|133.7500|Kabupaten Manokwari
+-5.0500|119.7167|Kabupaten Maros
+-7.5500|112.5000|Kabupaten Mojokerto
+-3.5402|135.5551|Kabupaten Nabire
+-7.6000|111.9333|Kabupaten Nganjuk
+-7.0667|113.5000|Kabupaten Pamekasan
+-7.7333|112.8333|Kabupaten Pasuruan
+-6.7667|111.1000|Kabupaten Pati
+-7.0319|109.6240|Kabupaten Pekalongan
+-7.0333|109.4000|Kabupaten Pemalang
+-7.9333|111.5000|Kabupaten Ponorogo
+-1.6500|120.5000|Kabupaten Poso
+-7.8667|113.3167|Kabupaten Probolinggo
+-7.2842|109.3503|Kabupaten Purbalingga
+-6.5833|107.4500|Kabupaten Purwakarta
+-7.0500|113.2500|Kabupaten Sampang
+-7.2067|110.4414|Kabupaten Semarang
+-7.4500|112.7000|Kabupaten Sidoarjo
+-1.1827|101.6056|Kabupaten Sijunjung
+-5.2167|120.1500|Kabupaten Sinjai
+-7.7167|114.0500|Kabupaten Situbondo
+-0.9667|100.8167|Kabupaten Solok
+-1.1667|131.5000|Kabupaten Sorong
+-7.4128|110.9350|Kabupaten Sragen
+-7.0667|106.7000|Kabupaten Sukabumi
+-6.8167|107.9833|Kabupaten Sumedang
+-7.1167|114.3333|Kabupaten Sumenep
+-8.4333|115.0667|Kabupaten Tabanan
+-7.5000|108.1333|Kabupaten Tasikmalaya
+-7.0333|109.1667|Kabupaten Tegal
+-8.1667|111.6167|Kabupaten Trenggalek
+-6.9667|111.9000|Kabupaten Tuban
+-8.1167|111.9167|Kabupaten Tulungagung
+-7.3614|109.9267|Kabupaten Wonosobo
+-3.6609|133.7745|Kaimana
+-7.0537|113.9424|Kalianget
+-7.1678|112.7192|Kamal
+0.2344|101.2131|Kampar
+-2.0167|114.3833|Kapuas
+0.8333|112.8000|Kapuas Hulu
+-8.3891|115.5393|Karang Asem
+-6.4622|108.4519|Karangampel
+-7.6489|110.6250|Karanganom
+-7.6281|111.0625|Karanganyar
+-6.8487|108.6422|Karangsembung
+-6.2667|107.4167|Karawang
+0.8076|103.4191|Karimun
+3.1167|98.3000|Karo
+-7.5519|110.7378|Kartasura
+-4.9333|122.5167|Katabu
+-2.0667|113.4000|Katingan
+-4.7818|103.3611|Kaur
+-7.3817|108.2082|Kawalu
+-1.0602|110.1040|Kayong Utara
+-7.1667|112.6333|Kebomas
+-7.7003|110.5631|Kebonarun
+-7.6392|109.6606|Kebumen
+-7.8167|112.0167|Kediri
+-8.0667|111.9167|Kedungwaru
+-6.9704|109.6479|Kedungwuni
+-3.3000|140.6167|Keerom
+-9.4467|124.4781|Kefamenanu
+-8.2833|113.3667|Kencong
+-7.0256|110.1685|Kendal
+-3.9778|122.5151|Kendari
+-3.6019|102.5642|Kepahiang
+-8.1303|112.5727|Kepanjen
+3.0000|106.0000|Kepulauan Anambas
+-6.1706|134.4699|Kepulauan Aru
+1.9892|99.5189|Kepulauan Mentawai
+0.9749|102.6954|Kepulauan Meranti
+3.5000|125.5500|Kepulauan Sangihe
+-1.8646|125.6905|Kepulauan Sula
+4.3118|126.7809|Kepulauan Talaud
+-1.7877|136.2772|Kepulauan Yapen
+-2.0333|101.5333|Kerinci
+-7.5833|112.1000|Kertosono
+-6.9383|108.8910|Ketanggungan
+-1.8500|109.9833|Ketapang
+0.9000|104.6333|Kijang
+2.9845|99.6158|Kisaran
+-6.7094|108.4400|Klangenan
+-7.7058|110.6064|Klaten
+-8.5333|115.4000|Klungkung
+-4.0833|121.6667|Kolaka
+-4.0181|121.8617|Kolaka Timur
+-3.1045|121.1243|Kolaka Utara
+-8.5895|119.4913|Komodo
+-3.9172|122.0882|Konawe
+-4.1166|123.1018|Konawe Kepulauan
+-4.1919|122.4485|Konawe Selatan
+-3.4155|121.9908|Konawe Utara
+-3.0000|116.0000|Kota Baru
+-5.9685|105.9214|Kota Cilegon
+-6.1153|106.1542|Kota Serang
+-6.1781|106.6300|Kota Tangerang
+-6.2886|106.7179|Kota Tangerang Selatan
+-4.8251|104.8817|Kotabumi
+-2.4000|111.7333|Kotawaringin Barat
+-2.0833|112.7500|Kotawaringin Timur
+-7.7584|113.3962|Kraksaan
+-6.1314|106.3797|Kresek
+-7.4104|112.5792|Krian
+-7.6331|109.2461|Kroya
+-0.8162|103.4611|Kuala Tungkal
+-3.0091|114.3876|Kualakapuas
+-0.4753|101.4586|Kuantan Singingi
+-0.3192|109.5186|Kubu Raya
+-6.8048|110.8405|Kudus
+-7.6450|110.0269|Kulon Progo
+-6.9758|108.4831|Kuningan
+-10.1708|123.6069|Kupang
+-8.7233|115.1723|Kuta
+-0.5942|115.5157|Kutai Barat
+-0.4402|116.9814|Kutai Kartanegara
+1.0377|117.8311|Kutai Timur
+-7.7169|109.9128|Kutoarjo
+-8.4964|119.8877|Labuan Bajo
+-8.5000|116.6667|Labuan Lombok
+2.2667|100.1000|Labuhan Batu
+1.9830|100.0976|Labuhan Batu Selatan
+2.3335|99.6378|Labuhan Batu Utara
+3.7278|98.6738|Labuhan Deli
+-3.7851|103.5428|Lahat
+-3.7864|103.5428|Lahat Regency
+1.4883|124.9744|Laikit Laikit II (Dimembe)
+-1.8383|111.2869|Lamandau
+-7.1167|112.4167|Lamongan
+-5.1490|104.1931|Lampung Barat
+-5.4531|104.9877|Lampung Selatan
+-4.8667|105.2667|Lampung Tengah
+-5.1027|105.6800|Lampung Timur
+-4.8167|104.8000|Lampung Utara
+0.4237|109.7592|Landak
+3.7167|98.2167|Langkat
+4.4683|97.9683|Langsa
+-3.9124|138.2877|Lanny Jaya
+-6.6922|111.4527|Lasem
+-7.8353|112.6947|Lawang
+-6.6500|106.2167|Lebak
+-7.0496|109.1441|Lebaksiu
+-3.2428|102.3349|Lebong
+-8.7042|115.1703|Legian
+-6.8117|107.6175|Lembang
+-8.7264|116.0744|Lembar
+-8.4140|123.5523|Lembata
+5.1801|97.1507|Lhokseumawe
+-0.0168|100.5872|Lima Puluh Kota
+0.2000|104.6167|Lingga
+-0.5829|117.0950|Loa Janan
+-8.6958|116.1167|Lombok Barat
+-8.7000|116.3000|Lombok Tengah
+-8.5333|116.5333|Lombok Timur
+-8.3521|116.4015|Lombok Utara
+-8.1493|115.0400|Lovina
+-3.2945|102.8614|Lubuklinggau
+-8.1335|113.2248|Lumajang
+-2.5577|121.3242|Luwu
+-2.5096|120.3978|Luwu Timur
+-2.6000|120.2500|Luwu Utara
+-0.9516|122.7875|Luwuk
+-7.6298|111.5239|Madiun
+-7.4706|110.2178|Magelang
+-7.6447|111.3592|Magetan
+0.3782|115.3805|Mahakam Hulu
+-6.8361|108.2278|Majalengka
+-7.2975|108.7642|Majenang
+-3.5403|118.9707|Majene
+-5.1486|119.4319|Makassar
+-9.5632|124.8948|Malaka
+-7.9797|112.6304|Malang
+2.4500|115.6833|Malinau
+-7.8296|126.1739|Maluku Barat Daya
+-3.2917|128.9675|Maluku Tengah
+-5.7500|132.7333|Maluku Tenggara
+-7.6119|131.3800|Maluku Tenggara Barat
+-2.9649|119.3063|Mamasa
+-2.2356|137.7823|Mamberamo Raya
+-2.4606|138.4524|Mamberamo Tengah
+-2.6806|118.8861|Mamuju
+-2.8212|119.2662|Mamuju Tengah
+-1.5164|119.4214|Mamuju Utara
+1.4822|124.8489|Manado
+0.7838|99.2549|Mandailing Natal
+-2.8833|108.2667|Manggar
+-8.5667|120.4167|Manggarai
+-8.6448|119.8828|Manggarai Barat
+-8.5553|120.5976|Manggarai Timur
+-2.4667|111.0333|Manismata
+-0.8629|134.0640|Manokwari
+-1.0798|133.9673|Manokwari Selatan
+-6.4997|139.3444|Mappi
+-6.9708|107.5675|Margahayukencana
+-7.1000|109.0167|Margasari
+-5.0060|119.5727|Maros
+-3.4109|114.8642|Martapura
+-8.5833|116.1167|Mataram
+-8.6199|122.2111|Maumere
+-1.2155|132.3509|Maybrat
+3.5833|98.6667|Medan
+-0.3362|111.6980|Melawi
+0.2500|109.1667|Mempawah
+-1.0163|103.5933|Mendaha
+-2.0693|102.1330|Merangin
+-7.6667|139.6667|Merauke
+-7.5200|110.2264|Mertoyudan
+-4.0439|105.4013|Mesuji
+-5.1131|105.3067|Metro
+4.1440|96.1266|Meulaboh
+-4.5436|136.5656|Mimika
+1.2537|124.8300|Minahasa
+1.2129|124.5971|Minahasa Selatan
+1.0563|124.7925|Minahasa Tenggara
+1.4025|124.9600|Minahasa Utara
+-6.5333|110.7000|Mlonggo
+-7.5667|112.3500|Mojoagung
+-7.4664|112.4338|Mojokerto
+-2.7606|121.9527|Morowali Regency
+-1.7207|121.2465|Morowali Utara
+-7.0268|110.5158|Mranggen
+-4.2327|103.6141|Muara Enim
+-1.5521|103.8216|Muaro Jambi
+-3.0744|101.5477|Mukomuko
+-4.9667|122.6667|Muna
+-4.8333|122.4833|Muna Barat
+-8.4333|114.3333|Muncar
+-8.2687|115.0795|Munduk
+-7.5811|110.2928|Muntilan
+-2.0672|105.1623|Muntok
+-0.0167|114.2667|Murung Raya
+-2.4167|103.7500|Musi Banyuasin
+-3.0833|103.2000|Musi Rawas
+-2.4853|103.2935|Musi Rawas Utara
+-3.3599|135.5007|Nabire
+4.1667|96.5167|Nagan Raya
+-8.8721|121.2096|Nagekeo
+-9.5981|123.7703|Naisano Dua
+4.7142|107.9764|Natuna
+-4.4509|138.1009|Nduga
+-8.3569|114.6169|Negara
+-8.6667|121.0000|Ngada
+-7.6051|111.9035|Nganjuk
+-7.4038|111.4461|Ngawi
+-7.5497|110.7164|Ngemplak
+-7.6839|112.2580|Ngoro
+-8.1058|112.0159|Ngunut
+1.0333|97.7667|Nias
+1.0597|97.5861|Nias Barat
+1.3304|97.3196|Nias Utara
+4.1333|116.7000|Nunukan
+-8.8005|115.2334|Nusa Dua
+-3.4319|104.6273|Ogan Ilir
+-3.3667|105.3667|Ogan Komering Ilir
+-4.1333|104.0333|Ogan Komering Ulu
+-4.6573|104.0066|Ogan Komering Ulu Selatan
+-3.8568|104.7521|Ogan Komering Ulu Timur
+-6.8767|112.3761|Paciran
+-8.1333|111.1667|Pacitan
+-6.8378|107.4728|Padalarang
+-0.9492|100.3543|Padang
+1.4468|99.9921|Padang Lawas
+1.4601|99.6735|Padang Lawas Utara
+-0.6000|100.2833|Padang Pariaman
+1.3795|99.2715|Padangsidempuan
+-4.0251|103.2469|Pagar Alam
+-8.0665|112.5981|Pakisaji
+2.5667|98.2833|Pakpak Bharat
+-2.2083|113.9167|Palangkaraya
+-2.9167|104.7458|Palembang
+-6.7069|108.4242|Palimanan
+-2.9925|120.1969|Palopo
+-0.9083|119.8708|Palu
+-6.2842|107.8106|Pamanukan
+-7.1568|113.4746|Pamekasan
+-7.0183|107.6039|Pameungpeuk
+-6.3428|106.7383|Pamulang
+-7.7018|113.9184|Panarukan
+-7.6527|112.6875|Pandaan
+-6.6333|105.7500|Pandeglang
+-7.6673|108.6404|Pangandaran
+-4.7827|119.5506|Pangkajene Dan Kepulauan
+4.0238|98.2782|Pangkalan Brandan
+-2.6832|111.6259|Pangkalanbuun
+-2.1291|106.1138|Pangkalpinang
+-3.9000|136.6000|Paniai
+-7.7253|114.0995|Panji
+2.6630|98.9349|Parapat
+-7.7679|112.1980|Pare
+-4.0135|119.6255|Parepare
+-0.6190|100.1200|Pariaman
+0.3368|120.1784|Parigi Moutong
+-6.4214|106.7331|Parung
+0.4250|99.9461|Pasaman
+0.2815|99.5196|Pasaman Barat
+-6.1703|106.5303|Pasarkemis
+-7.1026|107.7641|Paseh
+-1.4352|116.2353|Paser
+-7.6453|112.9075|Pasuruan
+-6.7559|111.0380|Pati
+-0.2159|100.6334|Payakumbuh
+-6.6978|110.7107|Pecangaan
+-4.5217|140.2954|Pegunungan Bintang
+-6.8886|109.6753|Pekalongan
+3.1131|99.1735|Pekan Bahapal
+0.5167|101.4417|Pekanbaru
+-6.9875|106.5514|Pelabuhanratu
+0.2082|102.1861|Pelalawan
+-6.8919|109.3826|Pemalang
+1.1768|108.9624|Pemangkat
+2.9595|99.0687|Pematangsiantar
+-8.4040|116.1025|Pemenang
+-1.2500|116.8333|Penajam Paser Utara
+-3.2134|104.0872|Penukal Abab Lematang Ilir
+3.5679|98.9560|Perbaungan
+3.6253|98.8640|Percut
+-5.4298|105.1790|Pesawaran
+-5.1932|103.9398|Pesisir Barat
+-1.5833|100.8500|Pesisir Selatan
+5.0800|96.1100|Pidie
+-3.6167|119.6000|Pinrang
+-6.7050|108.4728|Plumbon
+0.7098|121.5958|Pohuwato
+-3.4324|119.3435|Polewali
+-3.3000|119.1667|Polewali Mandar
+-7.8685|111.4620|Ponorogo
+-0.0206|109.3414|Pontianak
+-1.3959|120.7524|Poso
+-8.4126|117.4811|Pototano
+-3.4345|104.2306|Prabumulih
+-8.7054|116.2704|Praya
+-7.6833|112.6167|Prigen
+-5.4221|104.9345|Pringsewu
+-7.7543|113.2159|Probolinggo
+-3.1186|113.8623|Pulang Pisau
+2.1992|128.4055|Pulau Morotai
+-1.8458|124.7899|Pulau Taliabu
+-3.6724|137.4390|Puncak
+-3.5107|137.8661|Puncak Jaya
+-7.3881|109.3639|Purbalingga
+-6.5569|107.4433|Purwakarta
+-7.0868|110.9158|Purwodadi
+-7.4214|109.2344|Purwokerto
+-7.7000|109.9667|Purworejo
+-0.5000|130.0000|Raja Ampat
+-7.2210|108.1896|Rajapolah
+-7.0981|109.3243|Randudongkal
+2.1000|99.8333|Rantauprapat
+-2.9701|119.8978|Rantepao
+-3.4333|102.7167|Rejang Lebong
+-6.7833|111.4667|Rembang
+-6.7036|111.3416|Rembangan
+-6.1592|107.2981|Rengasdengklok
+5.2167|96.2833|Reuleuet
+2.1660|100.8251|Rokan Hilir
+0.8833|100.4833|Rokan Hulu
+-10.7362|123.1205|Rote Ndao
+-8.6114|120.4644|Ruteng
+5.8897|95.3164|Sabang
+-10.5629|121.7889|Sabu Raijua
+-7.3319|110.4928|Salatiga
+-0.4917|117.1458|Samarinda
+1.4333|109.3500|Sambas
+2.6402|98.7152|Samosir
+-7.1872|113.2394|Sampang
+-2.5315|112.9496|Sampit
+0.1194|110.5889|Sanggau
+-2.4167|139.0833|Sarmi
+-2.3000|102.6500|Sarolangun
+-6.4028|106.7744|Sawangan
+0.0348|110.9507|Sekadau
+-6.8167|120.8000|Selayar Islands Regency
+-7.7833|110.8667|Selogiri
+-3.9664|102.4743|Seluma
+-6.9931|110.4208|Semarang
+-8.4919|116.0424|Senggigi
+-4.1279|120.0297|Sengkang
+-6.1189|106.5750|Sepatan
+-3.1027|128.4300|Seram Bagian Barat
+-3.3985|130.3917|Seram Bagian Timur
+-6.1500|106.0000|Serang
+3.3667|99.0333|Serdang Bedagai
+-8.1928|114.9388|Seririt
+-6.3169|106.6642|Serpong
+-2.3333|112.2500|Seruyan
+0.9745|102.0135|Siak
+2.1173|125.3751|Siau Tagulandang Biaro
+1.7402|98.7812|Sibolga
+-7.4846|108.7923|Sidareja
+-3.8500|119.9667|Sidenreng Rappang
+-7.4478|112.7183|Sidoarjo
+-1.3850|119.9669|Sigi
+5.3848|95.9609|Sigli
+-0.7005|100.9774|Sijunjung
+-8.6667|122.3667|Sikka
+2.9000|99.0000|Simalungun
+2.6167|96.0833|Simeulue
+-1.2642|104.0970|Simpang
+2.4803|96.3801|Sinabang
+-7.3515|108.1110|Singaparna
+-8.1120|115.0882|Singaraja
+0.9000|108.9833|Singkawang
+2.2874|97.7884|Singkil
+-8.3167|114.2333|Singojuruh
+-7.8924|112.6658|Singosari
+-5.1241|120.2530|Sinjai
+0.0681|111.4981|Sintang
+-7.7062|114.0098|Situbondo
+-6.9816|109.1407|Slawi
+-7.6817|110.3233|Sleman
+-9.8607|124.2840|Soe
+0.7373|127.5588|Sofifi
+-7.4581|109.2881|Sokaraja
+-7.4832|112.4270|Soko
+-0.8006|100.6571|Solok
+-1.2333|101.4170|Solok Selatan
+-4.3842|119.8900|Soppeng
+-7.0331|107.5183|Soreang
+-0.8796|131.2610|Sorong
+-1.5050|132.2864|Sorong Selatan
+-7.4264|111.0222|Sragen
+-8.4000|114.2666|Srono
+3.7334|98.4502|Stabat
+-6.5083|107.7025|Subang
+-6.9181|106.9267|Sukabumi
+-2.6267|111.2368|Sukamara
+-7.6833|110.8333|Sukoharjo
+-9.5667|119.4500|Sumba Barat
+-9.5622|119.0891|Sumba Barat Daya
+-9.6294|119.6191|Sumba Tengah
+-9.8833|120.2500|Sumba Timur
+-8.7439|117.3324|Sumbawa
+-8.7516|116.9213|Sumbawa Barat
+-8.4932|117.4202|Sumbawa Besar
+-6.7603|108.4831|Sumber
+-8.1586|112.4829|Sumberpucung
+-6.8586|107.9164|Sumedang
+-6.8500|107.9167|Sumedang Utara
+-7.0167|113.8667|Sumenep
+-2.0561|101.3913|Sungai Penuh
+-1.8544|106.1222|Sungailiat
+3.5765|98.6151|Sunggal
+-0.7388|135.6111|Supiori
+-7.2492|112.7508|Surabaya
+-7.5561|110.8317|Surakarta
+-1.8833|115.5000|Tabalong
+-8.5413|115.1252|Tabanan
+-5.4167|119.5167|Takalar
+-0.6051|132.4896|Tambrauw
+3.5500|117.2500|Tana Tidung
+-3.0024|119.7965|Tana Toraja
+-3.4541|115.7037|Tanah Bumbu
+-0.4555|100.5771|Tanah Datar
+-3.8833|114.8667|Tanah Laut
+-6.2000|106.4667|Tangerang
+-5.3851|104.6235|Tanggamus
+-8.1645|113.4525|Tanggul
+-7.4996|112.6999|Tanggulangin
+-1.1544|103.2440|Tanjung Jabung Barat
+-1.1320|103.6175|Tanjung Jabung Timur
+-2.7335|107.6348|Tanjung Pandan
+0.9167|104.4583|Tanjung Pinang
+2.8375|117.3653|Tanjung Selor
+-3.9373|103.8046|Tanjungagung
+2.9667|99.8000|Tanjungbalai
+4.0613|98.3699|Tanjungtiram
+1.5167|99.2500|Tapanuli Selatan
+1.9000|98.6667|Tapanuli Tengah
+2.0028|99.0707|Tapanuli Utara
+-2.9167|115.0333|Tapin
+3.3133|117.5915|Tarakan
+-6.9333|109.1667|Tarub
+-7.3274|108.2207|Tasikmalaya
+-6.5397|111.0518|Tayu
+3.3285|99.1625|Tebingtinggi
+-1.4558|102.3747|Tebo
+-6.8694|109.1402|Tegal
+-1.8804|133.3311|Teluk Bintuni
+3.0010|99.8164|Teluk Nibung
+-2.7000|134.5000|Teluk Wondama
+-6.0989|106.6381|Teluknaga
+-7.2500|110.1167|Temanggung
+-4.8790|105.2182|Terbanggi Besar
+0.7906|127.3842|Ternate
+-9.8333|124.4000|Timor Tengah Selatan
+-9.3314|124.5190|Timor Tengah Utara
+1.7284|128.0095|Tobelo
+-1.2036|121.4820|Tojo Una-Una Regency
+1.3086|120.8864|Toli-Toli
+-3.4266|137.4170|Tolikara
+1.3168|124.8038|Tomohon
+2.6521|98.8608|Tomok Bolon
+1.3054|124.9126|Tondano
+2.8985|98.5231|Tongging
+-2.9274|119.7922|Toraja Utara
+-8.0764|111.7064|Trenggalek
+-7.7183|110.6589|Trucuk
+-5.6288|132.7523|Tual
+-6.8976|112.0649|Tuban
+2.6689|98.8576|Tuktuk Sonak
+-7.4737|112.6505|Tulangan Utara
+-4.2060|105.5800|Tulangbawang
+-8.0657|111.9025|Tulungagung
+-8.5098|115.2654|Ubud
+-7.1397|110.4050|Ungaran
+-9.6567|120.2641|Waingapu
+-4.0000|120.1667|Wajo
+-5.3193|123.5948|Wakatobi Regency
+-7.1749|107.9808|Wanaraja
+-7.5161|109.0539|Wangon
+-2.2860|137.0184|Waropen
+-4.5386|120.3279|Watampone
+-4.4470|104.5275|Way Kanan
+-7.7431|110.5794|Wedi
+-6.8000|110.7167|Welahan
+-6.9713|110.0666|Weleri
+-6.7110|108.5037|Weru
+-6.8922|109.6190|Wiradesa
+-7.9908|114.4009|Wongsorejo
+-7.9167|111.0000|Wonogiri
+-6.9833|109.6167|Wonopringgo
+-7.3589|109.9031|Wonosobo
+-4.6040|139.5840|Yahukimo
+-3.8604|138.4731|Yalimo
+-7.8014|110.3647|Yogyakarta

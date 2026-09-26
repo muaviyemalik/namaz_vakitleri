@@ -1,0 +1,128 @@
+54.8964|23.8241|Akademija (Kaunas)
+56.2500|22.7500|Akmenė
+54.8804|23.9084|Aleksotas
+54.3963|24.0414|Alytus
+55.5256|25.1026|Anyksciai
+55.2620|23.4770|Ariogala
+54.5795|24.5268|Aukstadvaris
+54.6000|25.1932|Baltoji Vokė
+56.2000|24.7500|Birzai
+54.6167|24.0333|Birštonas
+55.4139|22.6089|Būgai
+54.9153|23.9683|Dainava (Kaunas)
+54.3667|24.3333|Daugai
+54.0157|23.9870|Druskininkai
+55.5220|26.3210|Dūkštas
+54.9313|23.9324|Eiguliai
+54.1741|24.9992|Eišiškės
+54.7854|24.6630|Elektrėnai
+54.8832|23.6040|Ežerėlis
+54.7333|25.2417|Fabijoniškės
+55.7095|21.3944|Gargždai
+54.8214|23.8713|Garliava
+55.0769|22.9770|Gelgaudiškis
+54.6833|25.0833|Grigiškės
+55.3500|26.1667|Ignalina
+54.5994|24.1759|Jieznas
+55.0833|24.2833|Jonava
+56.2333|23.6167|Joniškis
+56.0870|25.6070|Juodupė
+55.1086|22.7989|Jurbarkas
+54.7166|25.2174|Justiniškės
+54.8667|24.4500|Kaišiadorys
+54.4170|23.2230|Kalvarija
+54.4147|23.2248|Kalvarija Municipality
+54.9706|24.0618|Karmėlava
+54.9027|23.9096|Kaunas
+54.7490|23.4900|Kazlų Rūda
+54.7475|23.4927|Kazlų Rūda Municipality
+55.6333|22.9333|Kelmė
+55.7167|21.1167|Klaipėda
+55.8888|21.2445|Kretinga
+54.7735|22.8614|Kudirkos Naumiestis
+54.9421|23.6422|Kulautuva
+55.8403|24.9798|Kupiskis
+56.0032|22.9366|Kuršėnai
+54.6386|22.7632|Kybartai
+55.2833|23.9667|Kėdainiai
+54.2333|23.5167|Lazdijai
+54.6681|25.2068|Lazdynai
+54.6436|25.0516|Lentvaris
+56.0860|23.9706|Linkuva
+54.5599|23.3541|Marijampolė
+54.5667|23.3500|Marijampolė Municipality
+54.8200|23.8446|Mastaiciai
+56.3167|22.3333|Mazeikiai
+55.2333|25.4167|Moletai
+54.6795|25.2686|Naujamiestis
+56.3167|22.9000|Naujoji Akmene
+54.8478|25.4699|Nemenčinė
+55.3667|21.0667|Neringa
+55.3086|20.9965|Nida
+55.9689|25.1565|Obeliai
+54.9810|25.7610|Pabradė
+55.1340|21.9045|Pagėgiai
+55.9667|23.8667|Pakruojis
+55.9175|21.0686|Palanga
+55.7333|24.3500|Panevėžys
+55.7330|24.3761|Panevėžys District Municipality
+56.0667|24.4000|Pasvalys
+54.7343|25.2191|Pašilaičiai
+54.6998|25.1839|Pilaitė
+56.0466|21.8162|Plateliai
+55.9114|21.8442|Plunge
+55.5543|21.3190|Priekulė
+54.6333|23.9500|Prienai
+55.8167|23.5333|Radviliskis
+54.9483|24.0305|Ramučiai
+55.5140|24.3000|Ramygala
+55.3667|23.1167|Raseiniai
+54.6788|25.3117|Rasos
+55.7238|21.9327|Rietavas
+55.9667|25.5833|Rokiškis
+55.2982|21.3712|Rusnė
+54.5161|24.8308|Rūdiškės
+54.9500|23.0500|Sakiai
+56.0565|21.5689|Salantai
+54.9493|23.8832|Sargėnai
+56.1685|22.0907|Seda
+54.6090|24.9800|Senieji Trakai
+55.3489|21.4831|Silute
+54.3820|23.6460|Simnas
+55.0500|24.9500|Sirvintos
+54.6140|25.3957|Skaidiškės
+56.2667|21.5333|Skuodas
+55.1500|26.1667|Svencionys
+55.2522|22.2897|Taurage
+55.9814|22.2472|Telsiai
+54.6378|24.9343|Trakai
+55.6234|23.1716|Tytuvėnėliai
+55.2500|24.7500|Ukmerge
+55.4976|25.5992|Utena
+55.9815|24.7483|Vabalninkas
+55.7443|22.3725|Varniai
+54.2167|24.5667|Varėna
+54.1011|23.6961|Veisiejai
+56.1916|22.6953|Venta
+56.2360|22.5167|Viekšniai
+54.7667|24.8000|Vievis
+54.6517|23.0322|Vilkaviskis
+54.6500|23.0333|Vilkaviškis District Municipality
+55.0461|23.5855|Vilkija
+54.6697|25.2477|Vilkpėdė
+54.6892|25.2798|Vilnius
+54.7333|25.3833|Vilnius District Municipality
+54.6286|22.8227|Virbalis
+55.6000|26.4167|Visaginas
+55.7333|26.2500|Zarasai
+54.3000|25.3833|Šalčininkai
+55.7493|23.7561|Šeduva
+54.7097|25.2505|Šeškinė
+55.9333|23.3167|Šiauliai
+54.9291|23.8860|Šilainiai
+55.4667|22.2000|Šilalė
+56.0261|21.0841|Šventoji
+55.1616|26.0018|Švenčionėliai
+56.3615|23.2509|Žagarė
+55.3594|21.7036|Žemaičių Naumiestis
+54.8073|24.4407|Žiežmariai

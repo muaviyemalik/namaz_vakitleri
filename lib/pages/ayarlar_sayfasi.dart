@@ -2,9 +2,77 @@
 import 'package:flutter/material.dart';
 import 'package:easy_localization/easy_localization.dart';
 import 'package:namaz_vakitleri/main.dart';
+import 'package:namaz_vakitleri/data/ulke_verisi.dart';
+import 'package:namaz_vakitleri/widgets/ulke_secici.dart';
 
-class AyarlarSayfasi extends StatelessWidget {
+class AyarlarSayfasi extends StatefulWidget {
   const AyarlarSayfasi({super.key});
+
+  @override
+  State<AyarlarSayfasi> createState() => _AyarlarSayfasiState();
+}
+
+class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
+  Ulke? _aktifUlke;
+
+  @override
+  void initState() {
+    super.initState();
+    _ulkeyiYukle();
+  }
+
+  Future<void> _ulkeyiYukle() async {
+    try {
+      final liste = await UlkeVerisi.instance.ulkeler();
+      for (final u in liste) {
+        if (u.iso2 == aktifUlkeKodu.value) {
+          if (mounted) setState(() => _aktifUlke = u);
+          return;
+        }
+      }
+    } catch (_) {
+      // Veri okunamazsa kart yine de görünür, sadece isim boş kalır.
+    }
+  }
+
+  /// Yeni ülke seçildiğinde çağrılır. Ülkeyi kaydeder ve o ülkenin
+  /// başkentine (veri yoksa ilk şehre) geçer.
+  Future<void> _ulkeSec() async {
+    final secilen = await ulkeSeciciGoster(context);
+    if (secilen == null) return;
+
+    aktifUlkeKodu.value = secilen.iso2;
+    await ulkeKaydet(secilen.iso2);
+    if (mounted) setState(() => _aktifUlke = secilen);
+    if (!mounted) return;
+
+    final sehirler = await UlkeVerisi.instance.sehirler(secilen.iso2);
+    if (sehirler.isNotEmpty) {
+      Sehir? hedef;
+      final baskent = secilen.baskent;
+      if (baskent != null && baskent.isNotEmpty) {
+        final arama = UlkeVerisi.normalize(baskent);
+        for (final s in sehirler) {
+          if (UlkeVerisi.normalize(s.ad) == arama) {
+            hedef = s;
+            break;
+          }
+        }
+      }
+      hedef ??= sehirler.first;
+      await sehirAyarla(hedef);
+    }
+
+    if (!mounted) return;
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(
+        content: Text('${'country_changed'.tr()}: '
+            '${secilen.gorunenAd(context.locale.languageCode)}'),
+        behavior: SnackBarBehavior.floating,
+        margin: const EdgeInsets.all(10),
+      ),
+    );
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -36,6 +104,39 @@ class AyarlarSayfasi extends StatelessWidget {
         child: ListView(
           padding: const EdgeInsets.all(16),
           children: [
+            // ÜLKE SEÇİM KARTI
+            Card(
+              color: Theme.of(context).cardColor,
+              elevation: Theme.of(context).brightness == Brightness.dark ? 1 : 4,
+              child: ListTile(
+                leading: Icon(Icons.public,
+                    color: Theme.of(context).colorScheme.primary, size: 30),
+                title: Text(
+                  'country'.tr(),
+                  style: TextStyle(
+                    fontWeight: FontWeight.bold,
+                    fontSize: 16,
+                    color: Theme.of(context).brightness == Brightness.dark
+                        ? Colors.white
+                        : Colors.black87,
+                  ),
+                ),
+                subtitle: Text(
+                  _aktifUlke == null
+                      ? 'loading'.tr()
+                      : '${_aktifUlke!.gorunenAd(context.locale.languageCode)}'
+                          '${_aktifUlke!.emoji ?? ''}'
+                          ' • ${_aktifUlke!.sehirSayisi} ${'city_count'.tr()}',
+                  style: const TextStyle(fontSize: 13),
+                ),
+                trailing: Icon(Icons.arrow_forward_ios,
+                    size: 16, color: Theme.of(context).colorScheme.primary),
+                onTap: _ulkeSec,
+              ),
+            ),
+
+            const SizedBox(height: 10),
+
             // DİL SEÇİM KARTI
             Card(
               color: Theme.of(context).cardColor,

@@ -1,0 +1,73 @@
+12.6300|-16.0169|Adéane
+12.8103|-16.2264|Bignona
+14.6937|-17.4441|Dakar
+14.7140|-17.4553|Dakar Department
+15.3484|-15.4799|Dara
+15.0220|-12.5437|Diawara
+14.1833|-16.6667|Diofior
+12.5997|-12.7762|Département de Salémata
+14.2591|-16.4988|Fatick Department
+14.1333|-16.4667|Foundiougne
+14.2333|-16.2667|Gandiaye
+16.2557|-14.1016|Goléré
+12.5778|-15.8722|Goudomp Department
+14.2667|-15.9500|Guinguinéo
+14.7761|-17.3956|Guédiawaye Department
+15.4833|-16.3500|Guéoul
+14.1667|-16.8333|Joal-Fadiout
+14.1059|-15.5508|Kaffrine
+15.4916|-13.1763|Kanel
+14.1520|-16.0726|Kaolack
+14.9189|-17.1198|Kayar
+14.7667|-16.7000|Khombole
+12.8939|-14.9413|Kolda
+12.8830|-14.9500|Kolda Department
+13.9833|-14.8000|Koungheul
+12.5556|-12.1808|Kédougou
+12.8172|-12.1783|Kédougou Department
+15.3590|-15.1580|Linguere Department
+15.6187|-16.2244|Louga
+12.8275|-15.9806|Marsassoum
+15.6559|-13.2554|Matam
+15.7319|-13.6339|Matam Department
+14.8083|-15.8645|Mbacké
+14.7903|-15.9080|Mbaké
+14.4057|-16.8556|Mbour
+14.7065|-17.4758|Mermoz Boabab
+15.1097|-16.6218|Mékhé
+15.3338|-15.4766|Ndibène Dahra
+16.5129|-14.6471|Ndioum
+13.9167|-15.9333|Ndofane
+14.5125|-17.0045|Nguékhokh
+13.7500|-15.8000|Nioro du Rip
+14.7815|-17.3841|N’diareme limamoulaye
+15.6059|-13.3223|Ouro Sogui
+12.4850|-16.5469|Oussouye
+13.9833|-16.2667|Passi
+14.7646|-17.3907|Pikine
+14.7652|-17.3520|Pikine Department
+15.2667|-13.0000|Polel Diaoubé
+14.3500|-16.4167|Pourham
+14.7710|-17.0611|Pout
+15.3000|-13.9667|Ranérou
+16.4625|-15.7008|Richard-Toll
+16.4203|-15.7983|Rosso
+14.7434|-17.1984|Rufisque Department
+16.0179|-16.4896|Saint-Louis
+13.0015|-11.7963|Saraya
+13.8833|-16.3667|Sokone
+12.7081|-15.5569|Sédhiou
+15.1942|-12.9448|Sémé
+13.7707|-13.6673|Tambacounda
+13.6050|-13.6470|Tambacounda Department
+14.7300|-16.8697|Thiès
+14.7833|-16.9667|Thiès Nones
+14.4167|-16.7000|Tiadiaye
+12.7856|-16.5217|Tionk Essil
+15.0852|-16.7106|Tivaouane
+14.6333|-16.2333|Tiébo
+14.8500|-15.8833|Touba
+13.1500|-14.1167|Vélingara
+15.2637|-12.8682|Waoundé
+14.3735|-16.9437|Warang
+12.5680|-16.2733|Ziguinchor

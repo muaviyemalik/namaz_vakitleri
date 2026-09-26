@@ -1,0 +1,109 @@
+42.2049|42.2033|Abasha
+41.6819|42.6987|Adigeni
+41.7167|42.7333|Adigeni Municipality
+42.0376|43.8238|Agara
+41.6540|42.1516|Akhaldaba
+42.1260|44.4833|Akhalgori
+41.4051|43.4863|Akhalk’alak’i
+41.6390|42.9826|Akhaltsikhe
+41.6333|43.0000|Akhaltsikhis Munitsip’alit’et’i
+42.0311|45.2075|Akhmeta
+42.5211|43.1622|Ambrolauri
+42.5667|43.1000|Ambrolauris Munitsip’alit’et’i
+41.5739|43.2483|Aspindza
+41.5000|43.2500|Asp’indzis Munitsip’alit’et’i
+42.0000|42.9000|Baghdatis Munitsip’alit’et’i
+41.7497|43.5325|Bakuriani
+41.6423|41.6339|Batumi
+43.1620|40.3410|Bich’vinta
+41.4479|44.5384|Bolnisi
+41.3667|44.5167|Bolnisis Munitsip’alit’et’i
+41.8527|43.4128|Borjomi
+41.7253|41.7328|Chakvi
+42.2981|43.2989|Chiat’ura
+41.7361|44.9647|Didi Lilo
+41.6293|42.3917|Dioknisi
+41.3500|44.1333|Dmanisis Munitsip’alit’et’i
+42.8717|41.1533|Dranda
+41.8457|44.6010|Dzegvi
+43.2786|40.2712|Gagra
+42.6266|41.7381|Gali
+43.3811|40.0794|Gantiadi
+41.4605|45.0928|Gardabani
+41.6167|45.0000|Gardabnis Munitsip’alit’et’i
+41.9842|44.1158|Gori
+42.0667|44.1167|Goris Munitsip’alit’et’i
+42.4780|44.4762|Gudauri
+43.1055|40.6207|Gudauta
+41.7429|45.8011|Gurjaani
+42.3997|43.9367|Java
+42.7169|42.0520|Jvari
+41.9252|44.4257|Kaspi
+42.9788|41.0707|Kelasuri
+42.0214|43.1977|Kharagauli
+41.9941|43.5999|Khashuri
+41.5856|41.6689|Khelvachauri
+42.3156|41.8987|Khobi
+42.3226|42.4206|Khoni
+41.6435|42.3040|Khulo
+41.8214|41.7792|Kobuleti
+42.2679|42.6946|Kutaisi
+42.4810|42.0966|Kveda Chkhorots’q’u
+42.2833|43.2500|K’alak’i Chiat’ura
+42.2041|42.3429|K’ulashi
+41.8268|46.2767|Lagodekhi
+42.0903|42.0324|Lanchkhuti
+42.7889|42.7223|Lent’ekhi
+41.6739|41.6940|Makhinjauri
+41.6970|44.3845|Manglisi
+41.4759|44.8090|Marneuli
+41.3833|44.8500|Marneulis Munitsip’alit’et’i
+42.4144|42.3792|Mart’vili
+43.0458|42.7278|Mest’ia
+43.0500|42.5500|Mest’iis Munitsip’alit’et’i
+41.8451|44.7188|Mtskheta
+41.3527|44.7618|Naghvarevi
+41.9069|41.9542|Naruja
+41.2646|43.5916|Ninotsminda
+41.8597|41.8531|Ochkhamuri
+42.7123|41.4686|Och’amch’ire
+42.5794|43.4425|Oni
+42.4678|41.6738|Orsant’ia
+41.9244|42.0068|Ozurgeti
+42.3506|44.6891|P’asanauri
+42.1462|41.6720|P’ot’i
+43.0924|40.6965|P’rimorsk’oe
+41.9549|45.8172|Qvareli
+41.5495|44.9932|Rust’avi
+42.3453|43.4194|Sach’khere
+41.7340|45.3315|Sagarejo
+42.1537|42.3352|Samtredia
+42.2704|42.0675|Senak’i
+42.0898|43.0866|Shorapani
+41.6300|42.1908|Shuakhevi
+41.6205|45.9220|Sighnaghi
+43.0070|40.9893|Sokhumi
+43.0806|40.8383|Stantsiya Novyy Afon
+42.6567|44.6433|Step’antsminda
+42.0243|43.5556|Surami
+41.6941|44.8337|Tbilisi
+41.9198|45.4731|Telavi
+41.6000|44.5000|Tetrits’q’alos Munitsip’alit’et’i
+42.3512|42.9987|Tqibuli
+42.8404|41.6801|Tqvarch'eli
+41.8036|43.4819|Tsaghveri
+42.6044|42.0682|Tsalenjikha
+41.5946|44.0891|Tsalka
+41.7666|41.7552|Tsikhisdziri
+41.8931|45.5713|Tsinandali
+41.6209|45.9694|Tsnori
+42.3413|42.5976|Tsqaltubo
+41.6333|43.9667|Ts’alk’is Munitsip’alit’et’i
+42.2276|43.9686|Ts’khinvali
+41.5445|44.4615|T’et’ri Tsqaro
+41.9956|41.7786|Urek’i
+41.6156|42.8722|Vale
+42.0832|42.5216|Vani
+42.1100|43.0525|Zestap’oni
+42.1318|44.7726|Zhinvali
+42.5088|41.8709|Zugdidi

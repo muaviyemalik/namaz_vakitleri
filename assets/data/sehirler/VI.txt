@@ -1,0 +1,18 @@
+18.3357|-64.7947|Central
+18.3413|-64.9484|Charlotte Amalie
+17.7440|-64.7106|Christiansted
+18.3480|-64.7220|Coral Bay
+18.3182|-64.8024|Cruz Bay
+17.7524|-64.6703|East End
+17.7125|-64.8867|Frederiksted
+17.7223|-64.7172|Good Hope
+17.7501|-64.8238|Northcentral
+18.3738|-64.9559|Northside
+17.7383|-64.8906|Northwest
+17.7543|-64.7795|Sion Farm
+17.7065|-64.8145|Southcentral
+18.3053|-64.9172|Southside
+17.6918|-64.9356|Southwest
+18.3388|-64.8953|Tutu
+18.3209|-64.9693|Water Island
+18.3724|-65.0649|West End

@@ -1,0 +1,36 @@
+7.1829|1.9912|Abomey
+6.4485|2.3557|Abomey-Calavi
+6.6655|2.1514|Allada
+11.2985|2.4386|Banikoara
+9.0081|1.6654|Bassila
+10.2283|2.6633|Bembèrèkè
+7.1783|2.0667|Bohicon
+9.1992|2.2586|Bétérou
+7.0760|1.9610|Commune of Agbangnizoun
+6.5692|1.7026|Commune of Athieme
+9.6430|1.8960|Commune of Djougou
+6.4076|1.8820|Comé
+6.3654|2.4183|Cotonou
+7.2210|2.3402|Cové
+7.7500|2.1833|Dassa-Zoumé
+6.9000|1.7167|Djakotomey
+9.7085|1.6660|Djougou
+6.7991|1.7807|Dogbo
+10.5658|1.7244|Guilmaro
+6.7667|2.1667|Hinvi
+6.4167|2.2500|Hévié
+11.1342|2.9386|Kandi
+7.3633|2.5998|Kétou
+6.6387|1.7167|Lokossa
+11.8682|3.3833|Malanville
+10.3042|1.3796|Natitingou
+9.9401|3.2107|Nikki
+6.3631|2.0851|Ouidah
+9.3372|2.6303|Parakou
+6.9801|2.6649|Pobé
+6.4965|2.6036|Porto-Novo
+6.7362|2.6587|Sakété
+7.9281|1.9756|Savalou
+8.0342|2.4866|Savé
+11.0362|1.4176|Tanguieta
+8.8865|2.5975|Tchaourou

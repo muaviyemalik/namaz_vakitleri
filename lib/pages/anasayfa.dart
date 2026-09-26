@@ -16,69 +16,24 @@ import 'package:flutter/services.dart';
 import 'package:perfect_volume_control/perfect_volume_control.dart';
 
 import '../data/veri_havuzu.dart';
+import '../data/ulke_verisi.dart';
 import '../main.dart';
+import '../widgets/sehir_secici.dart';
 
 class _AnaSayfaState extends State<AnaSayfa> {
 
   // --- HAFIZA VE ŞEHİR YÖNETİMİ ---
 
-  // --- GÜNCELLENEN: AÇILIR MENÜLÜ ŞEHİR SEÇİMİ ---
-  Future<String?> _sehirDegistirDialog(BuildContext context) {
-    // 81 ilin alfabetik tam listesi
-    List<String> sehirler = [
-      'Adana', 'Adıyaman', 'Afyonkarahisar', 'Ağrı', 'Aksaray', 'Amasya', 'Ankara', 'Antalya', 'Ardahan', 'Artvin',
-      'Aydın', 'Balıkesir', 'Bartın', 'Batman', 'Bayburt', 'Bilecik', 'Bingöl', 'Bitlis', 'Bolu', 'Burdur',
-      'Bursa', 'Çanakkale', 'Çankırı', 'Çorum', 'Denizli', 'Diyarbakır', 'Düzce', 'Edirne', 'Elazığ', 'Erzincan',
-      'Erzurum', 'Eskişehir', 'Gaziantep', 'Giresun', 'Gümüşhane', 'Hakkari', 'Hatay', 'Iğdır', 'Isparta', 'İstanbul',
-      'İzmir', 'Kahramanmaraş', 'Karabük', 'Karaman', 'Kars', 'Kastamonu', 'Kayseri', 'Kırıkkale', 'Kırklareli', 'Kırşehir',
-      'Kilis', 'Kocaeli', 'Konya', 'Kütahya', 'Malatya', 'Manisa', 'Mardin', 'Mersin', 'Muğla', 'Muş',
-      'Nevşehir', 'Niğde', 'Ordu', 'Osmaniye', 'Rize', 'Sakarya', 'Samsun', 'Siirt', 'Sinop', 'Sivas',
-      'Şanlıurfa', 'Şırnak', 'Tekirdağ', 'Tokat', 'Trabzon', 'Tunceli', 'Uşak', 'Van', 'Yalova', 'Yozgat', 'Zonguldak'
-    ];
-
-    String seciliDeger = sehirler.contains(aktifSehir) ? aktifSehir : 'Ankara';
-
-
-    return showDialog<String>(
-      context: context,
-      builder: (context) => StatefulBuilder(
-        builder: (context, setStateDialog) {
-          return AlertDialog(
-            title: Text('select_city'.tr()),
-            content: DropdownButton<String>(
-              value: seciliDeger,
-              isExpanded: true,
-              // Liste çok uzun olacağı için kaydırma çubuğu otomatik çıkacaktır
-              menuMaxHeight: 400, 
-              icon: const Icon(Icons.location_on, color: Colors.teal),
-              items: sehirler.map((String sehir) {
-                return DropdownMenuItem<String>(
-                  value: sehir,
-                  child: Text(sehir, style: const TextStyle(fontSize: 16)),
-                );
-              }).toList(),
-              onChanged: (String? yeniDeger) {
-                if (yeniDeger != null) {
-                  setStateDialog(() {
-                    seciliDeger = yeniDeger;
-                  });
-                }
-              },
-            ),
-            actions: [
-              TextButton(
-                onPressed: () => Navigator.pop(context), 
-                child: Text('cancel'.tr()),
-              ),
-              ElevatedButton(
-                onPressed: () => Navigator.pop(context, seciliDeger),
-                child: Text('ok'.tr()),
-              ),
-            ],
-          );
-        }
-      ),
-    );
+  // --- GÜNCELLENEN: ARAMA DESTEKLİ ŞEHİR SEÇİMİ ---
+  //
+  // Önceden burada 81 ilin sabit listesi vardı ve yalnızca Türkiye
+  // seçilebiliyordu. Artık seçili ülkenin tüm şehirleri (toplam 136 bin)
+  // arama kutusuyla listeleniyor. Şehir dosyası yalnızca bu diyalog
+  // açıldığında yüklenir.
+  Future<void> _sehirDegistirDialog(BuildContext context) async {
+    final secilen = await sehirSeciciGoster(context, aktifUlkeKodu.value);
+    if (secilen == null) return;
+    await sehirAyarla(secilen);
   }
 
   // --- ZİKİR HAFIZA FONKSİYONLARI ---
@@ -104,10 +59,15 @@ Future<void> _hedefKaydet(int deger) async {
   Timer? _zamanlayici; // Her saniye çalışacak motor.
   String siradakiVakitIsmi = ''; // Ekrana basılacak sıradaki vaktin adı.
   String kalanSureMetni = ''; // Ekrana basılacak 00:00:00 formatındaki süre.
-  String aktifSehir = 'Ankara'; // Varsayılan şehir. GPS bulana kadar bu görünecek.
-  String aktifUlke = 'Turkey'; // Aladhan API'si şehirle birlikte ülkeyi de ister.
   String miladiTarih = ""; //Mevcut miladi tarih
   String hicriTarih = ""; // Mevcut hicri tarih
+
+  // NOT: Aktif şehir artık bu sınıfta değil, main.dart içindeki global
+  // `aktifSehir` notifier'ında tutuluyor. Böylece ayarlar sayfasından
+  // yapılan ülke değişikliği de aynı state'i günceller; iki ayrı kaynak
+  // tutulması gerekmiyor. Erişim için `aktifSehir.value` kullanılır.
+  Sehir? get _sehir => aktifSehir.value;
+  String get _sehirAdi => aktifSehir.value?.ad ?? 'Ankara';
 
   // initState(): Ekran oluşturulmadan hemen ÖNCE BİR KERE çalışır (C# Constructor / Form_Load gibi).
   @override
@@ -115,6 +75,11 @@ Future<void> _hedefKaydet(int deger) async {
     super.initState();
     _uygulamaVerileriniYukle();
     _zikirYukle();
+
+    // Şehir değişikliklerini dinle. Kaynak: ana sayfadaki şehir seçici veya
+    // ayarlar sayfasındaki ülke seçimi. İkisi de aynı notifier'ı güncellediği
+    // için vakitler burada tek noktadan yenilenir.
+    aktifSehir.addListener(_aktifSehirDegisti);
 
     // YENİ: Ses tuşlarını dinlemeye başla
     PerfectVolumeControl.stream.listen((value) {
@@ -160,19 +125,28 @@ Future<void> _hedefKaydet(int deger) async {
     }
     // ------------------------------------------------
 
-    final SharedPreferences hafiza = await SharedPreferences.getInstance();
-    
-    // Kayıtlı şehri al, yoksa Ankara'yı varsayılan yap
-    String kayitliSehir = hafiza.getString('secili_sehir') ?? 'Ankara';
-    String kayitliUlke = hafiza.getString('secili_ulke') ?? 'Turkey';
-    
-    setState(() { 
-      aktifSehir = kayitliSehir; 
-      aktifUlke = kayitliUlke;
-    });
-    
-    // Şehri belirledikten sonra vakitleri getir
+    // Şehir bilgisi artık main.dart içindeki konumYukle() tarafından
+    // yükleniyor (aktifSehir notifier'ı). Burada yalnızca vakitleri çekiyoruz.
     await vakitleriGetir();
+  }
+
+  /// Aktif şehir değiştiğinde tetiklenir: yeni şehrin vakitlerini çeker.
+  ///
+  /// Hem ana sayfadaki şehir seçiciden hem de ayarlar sayfasındaki ülke
+  /// seçiminden gelen değişiklikler bu tek noktadan geçer.
+  Future<void> _aktifSehirDegisti() async {
+    if (!mounted) return;
+    final basariliMi = await vakitleriGetir();
+    if (!basariliMi && mounted) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text('no_internet_city'.tr(args: [_sehirAdi])),
+          backgroundColor: Colors.redAccent,
+          behavior: SnackBarBehavior.floating,
+          margin: const EdgeInsets.all(10),
+        ),
+      );
+    }
   }
 
   // 5. BELLEK YÖNETİMİ (Kritik Edge Case)
@@ -180,7 +154,11 @@ Future<void> _hedefKaydet(int deger) async {
   // İhtimal: Eğer Timer'ı burada iptal etmezsek (cancel), arka planda sonsuza kadar çalışıp RAM'i doldurur (Memory Leak).
   @override
   void dispose() {
-    _zamanlayici?.cancel(); 
+    _zamanlayici?.cancel();
+    // Global notifier'a eklediğimiz dinleyiciyi kaldır. Bu yapılmazsa,
+    // AnaSayfa çökse bile notifier bu State'i tutmaya devam eder ve
+    // bellek sızıntısı oluşur.
+    aktifSehir.removeListener(_aktifSehirDegisti);
     super.dispose();
   }
 
@@ -287,34 +265,43 @@ Future<void> _widgetHadisiniGuncelle() async {
       // Bu işlem 3-5 saniye sürebilir
       Position pozisyon = await Geolocator.getCurrentPosition(desiredAccuracy: LocationAccuracy.medium);
 
+      // Ülkeyi GPS'ten al. Aladhan sorgusu artık koordinatla yapıldığı için
+      // ülke yalnızca veri dosyasını seçmek (hangi şehir listesi açılacak) ve
+      // arayüzde göstermek için gerekiyor.
+      String bulunanUlke = 'TR';
+      String bulunanSehirAdi = '';
+
       List<Placemark> yerIsimleri = await placemarkFromCoordinates(pozisyon.latitude, pozisyon.longitude);
-      
       if (yerIsimleri.isNotEmpty) {
         Placemark yer = yerIsimleri[0];
-        
-        String bulunanSehir = yer.administrativeArea ?? yer.subAdministrativeArea ?? "";
-        bulunanSehir = bulunanSehir.replaceAll(" Province", "").replaceAll(" Province", "");
+        final iso = (yer.isoCountryCode ?? '').toString().trim().toUpperCase();
+        if (iso.length == 2) bulunanUlke = iso;
 
-        // Aladhan API'si "city" ile birlikte "country" parametresini de bekliyor.
-        // Ülkeyi sabit "Turkey" bırakmak, yurt dışındaki kullanıcılara yanlış
-        // vakitleri hesaplıyordu. Artık GPS'ten gelen gerçek ülkeyi kullanıyoruz.
-        String bulunanUlke = (yer.isoCountryCode ?? yer.country ?? 'Turkey').toString();
-        if (bulunanUlke.trim().isEmpty) bulunanUlke = 'Turkey';
-
-        setState(() {
-          aktifSehir = bulunanSehir;
-          aktifUlke = bulunanUlke;
-        });
-
-        final prefs = await SharedPreferences.getInstance();
-        await prefs.setString('secili_sehir', bulunanSehir);
-        await prefs.setString('secili_ulke', bulunanUlke);
-        
-        await vakitleriGetir(); // Yeni şehrin verilerini çek
-        
-      } else {
-        _konumHatasiBildir('city_not_found'.tr());
+        bulunanSehirAdi = (yer.administrativeArea ?? yer.subAdministrativeArea ?? yer.locality ?? '')
+            .toString()
+            .replaceAll(' Province', '')
+            .trim();
       }
+
+      if (bulunanSehirAdi.isEmpty) {
+        // Ad bulunamadıysa en azından koordinatı kullanıp ülkeyi doğru şekilde
+        // güncelleyebiliriz; isim olarak koordinatı göstereceğiz.
+        bulunanSehirAdi = '${pozisyon.latitude.toStringAsFixed(3)}, '
+            '${pozisyon.longitude.toStringAsFixed(3)}';
+      }
+
+      // Ülkeyi güncelle (şehir listesi buna göre değişir)
+      if (aktifUlkeKodu.value != bulunanUlke) {
+        aktifUlkeKodu.value = bulunanUlke;
+        await ulkeKaydet(bulunanUlke);
+      }
+
+      // Vakitler tam GPS koordinatıyla hesaplanır; bu en doğru sonucu verir.
+      await sehirAyarla(Sehir(
+        ad: bulunanSehirAdi,
+        enlem: pozisyon.latitude,
+        boylam: pozisyon.longitude,
+      ));
 
     } catch (e) {
       debugPrint("Konum hatası: $e");
@@ -365,31 +352,40 @@ Future<void> _widgetHadisiniGuncelle() async {
   // async/await: İnternetten cevap gelene kadar uygulamanın arayüzünü kilitlememek (donmamasını sağlamak) için.
   // void yerine bool yaptık
   Future<bool> vakitleriGetir() async {
+    if (!mounted) return false;
+    final sehir = _sehir;
+    if (sehir == null) return false;
+
     setState(() { yukleniyor = true; });
 
     try {
       final prefs = await SharedPreferences.getInstance();
       final now = DateTime.now();
-      final String hafizaAnahtari = 'vakitler_${aktifSehir}_${aktifUlke}_${now.month}_${now.year}';
-      
+      // Önbellek anahtarı koordinatı içerir: aynı isimli iki şehir
+      // (ör. Türkiye'de "Afyon" ile ABD'de "Afyon") birbirine karışmasın.
+      final String hafizaAnahtari =
+          'vakitler_${sehir.enlem.toStringAsFixed(3)}_'
+          '${sehir.boylam.toStringAsFixed(3)}_${now.month}_${now.year}';
+
       String? telefondakiVeri = prefs.getString(hafizaAnahtari);
 
-      // Aladhan API yalnızca HTTPS üzerinden çalışır. HTTP adresi 301 ile
-      // yönlendiriliyor ve Android 9+ (API 28) cleartext trafiği engellediği
-      // için istek hiçbir zaman API'ye ulaşamıyordu.
-      // Uri.https() parametreleri otomatik olarak URL-encode eder; şehir
-      // adlarındaki boşluk ve Türkçe karakterler (ş, ğ, ı, İ, ç, ö, ü)
-      // aksi halde isteği bozuyordu.
+      // Aladhan API yalnızca HTTPS üzerinden çalışır ve /v1/calendar uç
+      // noktası KOORDİNAT kabul eder.
+      //
+      // Neden calendarByCity değil? O uç nokta dahili bir geocoder kullanır
+      // ve 136 bin şehirlik veri setindeki küçük şehirlerin çoğunu
+      // çözemez; bu istekler HTTP 503 "Geocoding is temporarily unavailable"
+      // döner. /v1/calendar aynı aylık veriyi (30 gün) koordinatla verir ve
+      // bu sorunu yaşamaz. Ayrıca meta.timezone doğru döndüğü için vakit
+      // hesabında saat dilimi kayması da oluşmaz.
       final url = Uri.https(
         'api.aladhan.com',
-        '/v1/calendarByCity',
-        {
-          'city': aktifSehir,
-          'country': aktifUlke,
-          'method': '13', // Diyanet (Türkiye) hesaplama yöntemi
-          'month': now.month.toString(),
-          'year': now.year.toString(),
-        },
+        '/v1/calendar',
+        sehir.aladhanParametreleri(
+          method: 13, // Diyanet hesaplama yöntemi
+          yil: now.year,
+          ay: now.month,
+        ),
       );
 
       try {
@@ -429,9 +425,16 @@ Future<void> _widgetHadisiniGuncelle() async {
         }
 
         final gunlukVeri = aylikListe[bugunIndex];
-        
+
         final tarihVerisi = gunlukVeri['date'];
         final vakitlerVerisi = gunlukVeri['timings'];
+
+        // Aladhan, vakitlerin hangi saat dilimine göre olduğunu meta.timezone
+        // ile bildirir. tz paketinin yerel konumunu buna ayarlıyoruz; ezan
+        // alarmlarının doğru anda tetiklenmesi buna bağlı.
+        final meta = gunlukVeri['meta'];
+        final metaTimezone = meta is Map ? (meta['timezone'] as String?) : null;
+        await saatDiliminiUygula(metaTimezone);
 
         setState(() {
           vakitler = {
@@ -784,7 +787,13 @@ Future<void> _widgetHadisiniGuncelle() async {
         ),
       ),
       appBar: AppBar(
-        title: Text(aktifSehir, style: const TextStyle(fontWeight: FontWeight.bold)),
+        title: ValueListenableBuilder<Sehir?>(
+          valueListenable: aktifSehir,
+          builder: (context, sehir, child) => Text(
+            sehir?.ad ?? '...',
+            style: const TextStyle(fontWeight: FontWeight.bold),
+          ),
+        ),
         centerTitle: true,
         // YENİ 1: Aydınlık modda ana renk, Karanlık modda mat ve şık bir koyu gri!
         backgroundColor: Theme.of(context).brightness == Brightness.dark 
@@ -811,45 +820,11 @@ Future<void> _widgetHadisiniGuncelle() async {
           IconButton(
             icon: const Icon(Icons.location_city),
             tooltip: 'select_city'.tr(),
-            onPressed: () async {
-              // Dialog'dan yeni şehri bekle
-              String? yeniSehir = await _sehirDegistirDialog(context);
-              
-              // Eğer kullanıcı iptal demediyse ve farklı bir şehir seçtiyse:
-              if (yeniSehir != null && yeniSehir != aktifSehir) {
-                
-                String eskiSehir = aktifSehir; // Eski şehri yedekle (Örn: Ankara)
-                
-                setState(() {
-                  aktifSehir = yeniSehir; // Yeni şehri ayarla (Örn: İstanbul)
-                });
-                
-                // Verileri çekmeyi dene ve sonucu dinle
-                bool basariliMi = await vakitleriGetir();
-                
-                // Eğer internet yoksa ve o şehrin verisi daha önce inmemişse:
-                if (!basariliMi) {
-                  setState(() {
-                    aktifSehir = eskiSehir; // Sessizce eski şehre geri dön
-                  });
-                  
-                  if (!context.mounted) return;
-                  
-                  ScaffoldMessenger.of(context).showSnackBar(
-                    SnackBar(
-                      content: Text("no_internet_city".tr(args: [yeniSehir])),
-                      backgroundColor: Colors.redAccent,
-                      behavior: SnackBarBehavior.floating,
-                      margin: const EdgeInsets.all(10),
-                    ),
-                  );
-                } else {
-                  // YENİ EKLENEN KISIM BURASI: Veri başarıyla çekildiyse şehri hafızaya kazı!
-                  final prefs = await SharedPreferences.getInstance();
-                  await prefs.setString('secili_sehir', yeniSehir);
-                }
-              }
-            },
+            // Yeni şehir seçimi tek bir yoldan geçer: sehirAyarla() state'i
+            // günceller, dinleyici vakitleri yeniler. Buradaki eski kod aynı
+            // işi üç ayrı yerde yapıyordu (state + hafıza + vakit çekme) ve
+            // internet yoksa geri dönüş mantığı gereksiz yere karmaşıktı.
+            onPressed: () => _sehirDegistirDialog(context),
           ),
 
           PopupMenuButton<Color>(

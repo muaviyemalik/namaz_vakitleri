@@ -1,0 +1,3849 @@
+51.4869|0.1075|Abbey Wood
+52.8171|-1.8769|Abbots Bromley
+51.7057|-0.4176|Abbots Langley
+50.5082|-3.6134|Abbotskerswell
+51.1902|-1.5323|Abbotts Ann
+52.2425|-4.2587|Aberaeron
+51.7236|-3.3661|Abercanaid
+51.6473|-3.1348|Abercarn
+57.5601|-2.6286|Aberchirder
+51.6455|-3.3273|Abercynon
+51.7144|-3.4492|Aberdare
+57.1437|-2.0981|Aberdeen
+57.1667|-2.6667|Aberdeenshire
+56.0542|-3.3006|Aberdour
+51.6889|-3.3418|Aberfan
+56.6220|-3.8669|Aberfeldy
+53.8260|-1.3423|Aberford
+51.8210|-3.0174|Abergavenny
+53.2844|-3.5822|Abergele
+51.5400|-3.5956|Aberkenfig
+56.0088|-2.8585|Aberlady
+56.3325|-3.3123|Abernethy
+52.1325|-4.5417|Aberporth
+51.7298|-3.1343|Abertillery
+51.5958|-3.2683|Abertridwr
+52.4155|-4.0829|Aberystwyth
+51.6711|-1.2828|Abingdon
+57.0755|-2.7802|Aboyne
+53.5085|-2.5927|Abram
+51.6495|0.1203|Abridge
+53.7538|-2.3586|Accrington
+55.3000|-1.6333|Acklington
+52.6368|1.5476|Acle
+52.4500|-1.8167|Acocks Green
+54.9923|-2.1123|Acomb
+51.5090|-0.2762|Acton
+52.0169|-1.3119|Adderbury
+55.8429|-3.6167|Addiebrownhill
+53.9445|-1.8842|Addingham
+51.3713|-0.4935|Addlestone
+53.6132|-2.6068|Adlington
+53.5708|-1.1845|Adwick le Street
+54.8667|-6.3667|Ahoghill
+55.8660|-3.9802|Airdrie
+53.7207|-0.8996|Airmyn
+56.0698|-3.7721|Airth
+52.6364|-2.2797|Albrighton
+52.2167|-1.8667|Alcester
+52.3690|-0.2601|Alconbury
+51.4810|-1.6183|Aldbourne
+53.8289|-0.1147|Aldbrough
+52.1526|1.6012|Aldeburgh
+51.0435|-1.7338|Alderbury
+50.9119|-1.8308|Alderholt
+53.3039|-2.2377|Alderley Edge
+51.2483|-0.7639|Aldershot
+53.1276|-2.8681|Aldford
+52.6055|-1.9171|Aldridge
+55.9938|-4.5864|Alexandria
+57.2326|-2.7030|Alford
+53.0977|-1.3838|Alfreton
+55.7833|-2.2167|Allanton
+51.4687|0.6369|Allhallows
+56.1159|-3.7900|Alloa
+56.4173|-3.5173|Almondbank
+51.5541|-2.5711|Almondsbury
+57.6960|-4.2551|Alness
+55.4132|-1.7056|Alnwick
+51.8539|1.0020|Alresford
+52.7328|-1.7497|Alrewas
+53.0962|-2.3065|Alsager
+54.8090|-2.4393|Alston
+51.6572|0.7609|Althorne
+51.1493|-0.9747|Alton
+53.3875|-2.3485|Altrincham
+56.1528|-3.8051|Alva
+52.3517|-1.9653|Alvechurch
+52.4571|-2.3543|Alveley
+51.5881|-2.5314|Alveston
+56.6221|-3.2300|Alyth
+55.3333|-1.5833|Amble
+54.4326|-2.9617|Ambleside
+51.8709|-1.1213|Ambrosden
+51.6667|-0.6167|Amersham
+51.6747|-0.6074|Amersham on the Hill
+51.1751|-1.7806|Amesbury
+53.4099|-4.3471|Amlwch
+51.7928|-3.9883|Ammanford
+52.0269|-0.4957|Ampthill
+52.9828|-0.5359|Ancaster
+51.2114|-1.4939|Andover
+53.2500|-4.3333|Anglesey
+56.6667|-2.9167|Angus
+51.1932|-1.5072|Anna Valley
+54.4333|-6.0000|Annahilt
+54.1082|-5.8997|Annalong
+54.9884|-3.2565|Annan
+54.8575|-1.7383|Annfield Plain
+52.6737|-1.1884|Anstey
+56.2231|-2.7023|Anstruther
+54.7000|-6.2000|Antrim
+54.7018|-6.1977|Antrim and Newtownabbey
+53.6220|-0.5661|Appleby
+54.5770|-2.4898|Appleby-in-Westmorland
+51.0500|-4.2000|Appledore
+53.3505|-2.5449|Appleton Thorn
+53.5778|-2.7209|Appley Bridge
+56.5632|-2.5874|Arbroath
+51.5673|-0.1341|Archway
+57.5668|-4.0378|Ardersier
+54.2631|-5.6098|Ardglass
+51.0487|-0.0772|Ardingly
+56.0157|-5.4481|Ardrishaig
+55.6502|-4.8066|Ardrossan
+54.5344|-5.6295|Ards and North Down
+56.0369|-5.4368|Argyll and Bute
+52.0071|-0.2656|Arlesey
+55.8833|-3.7000|Armadale
+54.3500|-6.6667|Armagh
+54.3692|-6.4565|Armagh City Banbridge and Craigavon
+52.7419|-1.8827|Armitage
+53.5352|-1.0534|Armthorpe
+53.0000|-1.1333|Arnold
+54.2018|-2.8337|Arnside
+50.8542|-0.5539|Arundel
+51.4108|-0.6748|Ascot
+52.7633|-0.9586|Asfordby
+51.2788|1.2797|Ash
+53.0167|-1.7333|Ashbourne
+50.5156|-3.7557|Ashburton
+52.7463|-1.4732|Ashby de la Zouch
+51.1465|0.8738|Ashford
+55.7312|-3.9302|Ashgill
+52.6043|0.7857|Ashill
+55.1772|-1.5641|Ashington
+51.3087|-0.2997|Ashtead
+53.4833|-2.6500|Ashton in Makerfield
+51.6452|-1.9323|Ashton Keynes
+53.4888|-2.0989|Ashton-under-Lyne
+50.9324|-0.3237|Ashurst
+52.0387|-0.1540|Ashwell
+54.1872|-3.2047|Askam in Furness
+53.6164|-1.1524|Askern
+52.9530|-0.8970|Aslockton
+54.7657|-3.3278|Aspatria
+52.5000|-1.8833|Aston
+51.8002|-0.7254|Aston Clinton
+52.8617|-1.3864|Aston-on-Trent
+52.2599|-1.9375|Astwood Bank
+52.5754|-1.5469|Atherstone
+53.5237|-2.4935|Atherton
+52.5178|1.0157|Attleborough
+51.3923|-2.1930|Atworth
+55.4716|-4.2934|Auchinleck
+56.2961|-3.7069|Auchterarder
+56.2916|-3.2343|Auchtermuchty
+53.5039|-1.0217|Auckley
+52.9896|-2.5071|Audlem
+53.0500|-2.3000|Audley
+51.4999|0.2517|Aveley
+51.6801|-2.1690|Avening
+57.1955|-3.8259|Aviemore
+52.9891|-1.2835|Awsworth
+51.2847|-2.8208|Axbridge
+50.7826|-2.9979|Axminster
+51.8167|-0.8146|Aylesbury
+51.3037|0.4794|Aylesford
+51.2254|1.2016|Aylesham
+52.7967|1.2511|Aylsham
+55.4627|-4.6339|Ayr
+53.3180|-0.9758|Babworth
+55.0423|-1.5278|Backworth
+52.2667|1.0167|Bacton
+53.7034|-2.2007|Bacup
+52.0882|-1.8993|Badsey
+53.6288|-1.3013|Badsworth
+53.2654|-3.1655|Bagillt
+51.3607|-0.6880|Bagshot
+52.6726|-1.3427|Bagworth
+53.8471|-1.7878|Baildon
+53.2134|-1.6748|Bakewell
+52.9111|-3.5972|Bala
+51.0573|-0.1345|Balcombe
+51.9878|-0.1883|Baldock
+55.8844|-3.3397|Balerno
+56.0681|-4.3356|Balfron
+57.7556|-3.9123|Balintore
+57.0501|-3.0380|Ballater
+54.4229|-7.5950|Ballinamallard
+56.1639|-3.3284|Ballingry
+55.2442|-6.3692|Ballintoy Harbour
+56.0000|-4.5833|Balloch
+55.2044|-6.2430|Ballycastle
+54.7509|-5.9994|Ballyclare
+54.5016|-5.7917|Ballygowan
+55.0442|-7.0186|Ballykelly
+54.8636|-6.2763|Ballymena
+55.0708|-6.5101|Ballymoney
+54.4023|-5.8972|Ballynahinch
+55.1811|-6.1502|Ballypatrick
+54.5433|-5.4848|Ballywalter
+57.2505|-2.0616|Balmedie
+56.3769|-2.9294|Balmullo
+52.3919|-1.6504|Balsall Common
+52.1324|0.3159|Balsham
+55.6065|-1.7170|Bamburgh
+51.7263|-1.5455|Bampton
+54.3500|-6.2833|Banbridge
+52.0632|-1.3422|Banbury
+57.0517|-2.4882|Banchory
+57.6648|-2.5296|Banff
+54.6534|-5.6689|Bangor
+52.4524|1.0368|Banham
+56.5006|-3.5171|Bankfoot
+55.9897|-3.9561|Banknock
+53.6833|-2.9167|Banks
+56.0898|-3.9109|Bannockburn
+51.3223|-0.2069|Banstead
+51.3289|-2.8691|Banwell
+52.2490|0.0288|Bar Hill
+51.5199|-0.0945|Barbican
+53.2101|-0.3237|Bardney
+53.8849|-1.4454|Bardsey
+55.8537|-4.0785|Bargeddie
+51.6833|-3.2333|Bargoed
+51.2057|1.1573|Barham
+51.5333|0.0833|Barking
+53.6761|-1.9184|Barkisland
+52.9420|-2.1705|Barlaston
+53.2880|-1.2881|Barlborough
+53.7996|-1.0406|Barlby
+52.6472|-1.3701|Barlestone
+53.7490|-0.9561|Barmby on the Marsh
+52.7238|-4.0575|Barmouth
+52.6318|-0.4082|Barnack
+54.5415|-1.9190|Barnard Castle
+53.5241|-1.2730|Barnburgh
+51.6500|-0.2000|Barnet
+53.5748|-0.4061|Barnetby le Wold
+50.8312|-0.6379|Barnham
+53.9171|-2.1871|Barnoldswick
+51.5407|-0.1168|Barnsbury
+53.5333|-1.5000|Barnsley
+51.0802|-4.0581|Barnstaple
+52.3590|-2.0072|Barnt Green
+51.8639|-2.2009|Barnwood
+56.9804|-7.4573|Barra
+55.7992|-4.3929|Barrhead
+54.1109|-3.2276|Barrow in Furness
+53.6755|-0.3806|Barrow upon Humber
+52.7518|-1.1460|Barrow upon Soar
+52.9164|-0.6909|Barrowby
+53.8465|-2.2184|Barrowford
+51.3998|-3.2838|Barry
+52.4353|-1.9971|Bartley Green
+52.7627|-1.7240|Barton under Needwood
+53.6891|-0.4438|Barton upon Humber
+51.9660|-0.4273|Barton-le-Clay
+52.7885|-2.8528|Baschurch
+52.9667|-1.1833|Basford
+51.5684|0.4578|Basildon
+51.2625|-1.0871|Basingstoke
+51.2587|-1.5471|Basingstoke and Deane
+53.2481|-1.6225|Baslow
+52.0782|-0.0539|Bassingbourn
+53.1288|-0.6377|Bassingham
+52.7131|-0.3517|Baston
+51.3751|-2.3617|Bath
+51.3333|-2.5000|Bath and North East Somerset
+55.9020|-3.6440|Bathgate
+53.7029|-1.6337|Batley
+51.4748|-0.1555|Battersea
+50.9173|0.4842|Battle
+53.4315|-1.0188|Bawtry
+53.9687|-2.7760|Bay Horse
+52.6755|-2.7616|Bayston Hill
+51.5112|-0.1843|Bayswater
+51.6122|-0.6473|Beaconsfield
+55.5567|-1.6325|Beadnell
+50.8090|-2.7391|Beaminster
+55.9154|-4.3328|Bearsden
+57.4834|-4.4614|Beauly
+53.2632|-4.0923|Beaumaris
+53.3500|-3.0167|Bebington
+52.4594|1.5647|Beccles
+51.4088|-0.0253|Beckenham
+53.4000|-0.8333|Beckingham
+51.5529|0.1290|Becontree
+54.2881|-1.5918|Bedale
+51.5540|-3.3581|Beddau
+52.1883|-0.4532|Bedford
+55.1306|-1.5932|Bedlington
+51.7043|-3.3131|Bedlinog
+51.5918|-3.1989|Bedwas
+52.4791|-1.4691|Bedworth
+53.9700|-0.2891|Beeford
+53.3333|-1.3333|Beighton
+55.7492|-4.6368|Beith
+52.3918|-2.1188|Belbroughton
+54.5968|-5.9254|Belfast
+55.6000|-1.8333|Belford
+54.8087|-6.5192|Bellaghy
+55.1446|-2.2538|Bellingham
+55.3131|-4.3987|Bellsbank
+55.8167|-4.0167|Bellshill
+52.0427|-2.7417|Belmont
+53.0233|-1.4812|Belper
+51.5477|-0.1723|Belsize Park
+53.5500|-0.8167|Belton
+51.4911|0.1514|Belvedere
+50.6863|-1.0828|Bembridge
+54.1304|-0.1785|Bempton
+57.4474|-7.3427|Benbecula
+53.3204|-4.2261|Benllech
+51.6207|-1.1098|Benson
+53.5333|-1.1500|Bentley
+54.9730|-1.6693|Benwell
+50.4823|-4.1903|Bere Alston
+50.7537|-2.2155|Bere Regis
+51.6911|-2.4592|Berkeley
+51.7604|-0.5653|Berkhamsted
+55.7654|-2.0119|Berwick-Upon-Tweed
+53.1815|-4.0583|Bethesda
+51.5272|-0.0611|Bethnal Green
+53.0344|-2.3687|Betley
+51.5692|-3.5883|Betws
+53.0938|-3.8067|Betws-y-Coed
+53.8459|-0.4233|Beverley
+51.1033|-0.2231|Bewbush
+52.3757|-2.3183|Bewdley
+50.8502|0.4709|Bexhill-on-Sea
+51.4416|0.1487|Bexley
+51.9000|-1.1536|Bicester
+51.6940|0.5852|Bicknacre
+52.7283|-2.8165|Bicton
+51.1149|0.6382|Biddenden
+51.4608|-2.1983|Biddestone
+53.1172|-2.1758|Biddulph
+51.0168|-4.2083|Bideford
+52.1696|-1.8596|Bidford-on-Avon
+55.6230|-3.5246|Biggar
+51.3133|0.0343|Biggin Hill
+52.0865|-0.2649|Biggleswade
+52.1066|0.9092|Bildeston
+51.6287|0.4196|Billericay
+52.8938|-0.3419|Billingborough
+53.4980|-2.7081|Billinge
+54.5888|-1.2903|Billingham
+53.0796|-0.2769|Billinghay
+51.0231|-0.4536|Billingshurst
+53.8157|-2.4236|Billington
+54.3736|-1.1192|Bilsdale
+53.1402|-1.0339|Bilsthorpe
+55.8703|-3.1781|Bilston
+52.9498|-0.9591|Bingham
+53.8486|-1.8386|Bingley
+51.3757|1.3048|Birchington-on-Sea
+53.4193|-1.0491|Bircotes
+50.7961|-0.8307|Birdham
+53.5140|-1.4793|Birdwell
+53.3934|-3.0148|Birkenhead
+52.4814|-1.8998|Birmingham
+54.6555|-1.6771|Bishop Auckland
+54.6778|-1.4883|Bishop Middleham
+51.3344|-2.5947|Bishop Sutton
+52.4921|-3.0021|Bishop's Castle
+55.9067|-4.2187|Bishopbriggs
+51.9475|-2.0628|Bishops Cleeve
+51.0592|-3.1878|Bishops Lydeard
+51.8711|0.1587|Bishops Stortford
+50.9560|-1.2148|Bishops Waltham
+50.5519|-3.5385|Bishopsteignton
+50.9664|-1.3283|Bishopstoke
+51.5775|-4.0481|Bishopston
+51.5513|-1.6470|Bishopstone
+51.4148|-2.6208|Bishopsworth
+53.9191|-1.0992|Bishopthorpe
+54.5833|-1.4333|Bishopton
+51.4248|-2.4596|Bitton
+52.5758|-1.1640|Blaby
+51.8530|0.5685|Black Notley
+53.7500|-2.4833|Blackburn
+53.6667|-2.4667|Blackburn with Darwen
+51.4647|0.0079|Blackheath
+53.5177|-2.2144|Blackley
+53.6142|-1.8559|Blackmoorfoot
+53.8167|-3.0500|Blackpool
+55.8852|-3.7748|Blackridge
+53.5923|-2.5803|Blackrod
+53.1167|-1.3333|Blackwell
+51.6678|-3.2075|Blackwood
+53.2083|-2.9253|Blacon
+51.7500|-3.1667|Blaenau Gwent
+52.9946|-3.9370|Blaenau-Ffestiniog
+51.7740|-3.0854|Blaenavon
+51.6562|-3.6037|Blaengwynfi
+51.3269|-2.7173|Blagdon
+56.5916|-3.3405|Blairgowrie
+50.8607|-2.1617|Blandford Forum
+55.7963|-4.0949|Blantyre
+54.9646|-1.7139|Blaydon-on-Tyne
+51.3086|-2.9475|Bleadon
+51.3068|1.0430|Blean
+51.2406|-0.1004|Bletchingley
+51.9933|-0.7347|Bletchley
+51.5688|-1.2326|Blewbury
+53.0985|-1.1169|Blidworth
+51.1934|-0.0512|Blindley Heath
+52.1750|-0.9413|Blisworth
+52.0122|-1.7627|Blockley
+52.0204|-1.3732|Bloxham
+52.6181|-2.0043|Bloxwich
+52.1469|-0.3218|Blunham
+52.3548|0.0085|Bluntisham
+55.1271|-1.5086|Blyth
+53.4438|-0.7175|Blyton
+57.4708|-1.7801|Boddam
+53.2923|-4.5030|Bodedern
+53.2683|-3.5008|Bodelwyddan
+50.9130|0.3433|Bodle Street
+50.4715|-4.7243|Bodmin
+50.7821|-0.6798|Bognor Regis
+53.2945|-2.1096|Bollington
+53.2285|-1.2920|Bolsover
+53.5833|-2.4333|Bolton
+54.0963|-2.8002|Bolton le Sands
+53.5167|-1.3167|Bolton upon Dearne
+55.9794|-4.5638|Bonhill
+56.0015|-3.8886|Bonnybridge
+55.8733|-3.1051|Bonnyrigg
+54.5427|-0.9814|Boosbeck
+53.4667|-3.0167|Bootle
+51.1136|-0.8625|Bordon
+51.7595|0.5412|Boreham
+51.6547|-0.2776|Borehamwood
+51.2916|0.3048|Borough Green
+53.5833|-2.5000|Borough of Bolton
+53.5833|-2.3333|Borough of Bury
+50.9233|-1.4937|Borough of Eastleigh
+50.8542|-1.2950|Borough of Fareham
+53.3333|-2.7500|Borough of Halton
+50.8405|-1.1555|Borough of Havant
+55.0333|-1.5000|Borough of North Tyneside
+53.5500|-2.0833|Borough of Oldham
+53.5833|-2.1667|Borough of Rochdale
+53.4167|-2.1667|Borough of Stockport
+51.5833|-1.7500|Borough of Swindon
+53.5000|-2.0833|Borough of Tameside
+51.5000|0.4167|Borough of Thurrock
+50.4516|-3.5579|Borough of Torbay
+53.5000|-2.5833|Borough of Wigan
+54.0895|-1.4011|Boroughbridge
+52.9067|-1.3841|Borrowash
+52.4889|-4.0504|Borth
+50.8309|-0.8538|Bosham
+52.9763|-0.0266|Boston
+53.9042|-1.3452|Boston Spa
+52.3422|1.0041|Botesdale
+55.8027|-4.0683|Bothwell
+50.9143|-1.2698|Botley
+52.9413|-0.8006|Bottesford
+52.2228|0.2588|Bottisham
+53.2000|-0.9833|Boughton
+52.7667|-0.3833|Bourne
+51.5762|-0.7129|Bourne End
+50.7192|-1.8781|Bournemouth
+51.0744|-2.3278|Bourton
+51.8858|-1.7549|Bourton on the Water
+50.5926|-3.6754|Bovey Tracey
+51.7231|-0.5367|Bovingdon
+50.6978|-2.2351|Bovington Camp
+50.8000|-3.8167|Bow
+52.0028|-0.6806|Bow Brickhill
+52.4421|-4.0278|Bow Street
+54.7385|-1.5252|Bowburn
+53.3764|-2.3653|Bowdon
+52.6388|1.2188|Bowthorpe
+51.4147|-2.2456|Box
+50.8588|-0.7136|Boxgrove
+51.9488|0.9100|Boxted
+52.2227|-0.6733|Bozeat
+56.0167|-3.6167|Bo’ness
+53.1965|-0.5342|Bracebridge Heath
+52.0333|-1.1500|Brackley
+51.4136|-0.7505|Bracknell
+51.4167|-0.7500|Bracknell Forest
+51.4491|-1.1308|Bradfield
+53.8333|-1.8333|Bradford
+51.3477|-2.2506|Bradford-on-Avon
+50.6799|-1.1457|Brading
+51.2749|-2.7626|Bradley Cross
+50.8249|-3.4247|Bradninch
+52.0487|-0.7854|Bradwell
+51.8782|0.5529|Braintree
+52.0763|1.0969|Bramford
+53.3580|-2.1654|Bramhall
+53.8812|-1.3545|Bramham
+53.8849|-1.6164|Bramhope
+51.3268|-1.0594|Bramley
+52.3204|-0.2201|Brampton
+53.9111|-0.3012|Brandesburton
+54.7500|-1.6167|Brandon
+50.7815|-1.7377|Bransgore
+53.1954|-0.4748|Branston
+51.2706|-2.1244|Bratton
+52.2898|-1.2027|Braunston
+51.1085|-4.1613|Braunton
+53.7651|-1.0892|Brayton
+51.7482|-2.5775|Bream
+56.7299|-2.6573|Brechin
+51.9461|-3.3889|Brecon
+53.4167|-2.1167|Bredbury
+52.0301|-2.1167|Bredon
+51.1514|0.3982|Brenchley
+51.5531|-0.3023|Brent
+51.2522|-2.9574|Brent Knoll
+51.4862|-0.3083|Brentford
+51.6213|0.3056|Brentwood
+52.6771|-2.1741|Brewood
+51.2451|1.1264|Bridge
+56.1540|-3.9463|Bridge of Allan
+56.3484|-3.4065|Bridge of Earn
+55.8558|-4.5789|Bridge of Weir
+51.5058|-3.5772|Bridgend
+51.5500|-3.5833|Bridgend county borough
+52.5366|-2.4203|Bridgnorth
+51.1284|-3.0036|Bridgwater
+54.0831|-0.1919|Bridlington
+50.7338|-2.7583|Bridport
+53.8247|-2.2342|Brierfield
+52.4817|-2.1214|Brierley Hill
+53.5520|-0.4921|Brigg
+53.7032|-1.7843|Brighouse
+50.6426|-1.3948|Brighstone
+51.8116|1.0234|Brightlingsea
+50.8284|-0.1395|Brighton
+50.8333|-0.1333|Brighton and Hove
+55.9803|-3.7161|Brightons
+52.4577|-0.6083|Brigstock
+51.8167|-1.0500|Brill
+51.7197|-2.1855|Brimscombe
+52.4109|-1.3640|Brinklow
+53.6890|-2.5721|Brinscall
+51.4552|-2.5966|Bristol
+52.8537|1.0590|Briston
+51.6311|-3.8190|Briton Ferry
+50.3943|-3.5158|Brixham
+51.4659|-0.1065|Brixton
+51.4521|-0.1230|Brixton Hill
+52.3291|-0.9035|Brixworth
+51.6134|-1.7787|Broad Blunsdon
+51.0971|-0.2066|Broadfield
+51.3591|1.4394|Broadstairs
+50.7572|-1.9941|Broadstone
+50.8289|-0.3759|Broadwater
+52.0382|-1.8608|Broadway
+50.8194|-1.5730|Brockenhurst
+51.4000|-2.7667|Brockley
+53.3485|-2.9794|Bromborough
+52.1451|-0.5291|Bromham
+54.3601|-1.4242|Brompton
+52.3357|-2.0598|Bromsgrove
+52.1902|-2.5088|Bromyard
+52.5418|1.3708|Brooke
+58.0099|-3.8518|Brora
+52.6132|-2.4827|Broseley
+54.5666|-0.9393|Brotton
+53.7286|-0.5722|Brough
+54.8926|-6.2090|Broughshane
+53.1630|-2.9931|Broughton
+52.5279|-1.2177|Broughton Astley
+52.6333|-1.9333|Brownhills
+51.7471|-0.0192|Broxbourne
+55.9342|-3.4713|Broxburn
+52.6243|1.4351|Brundall
+51.1125|-2.4528|Bruton
+53.0667|-3.0667|Brymbo
+51.6164|-3.7117|Bryn
+51.8000|-3.8667|Brynamman
+51.8000|-3.1833|Brynmawr
+51.5384|-3.4638|Brynna
+53.8190|-0.9197|Bubwith
+52.2942|-0.2491|Buckden
+50.4813|-3.7791|Buckfastleigh
+56.1715|-3.0338|Buckhaven
+51.6241|0.0326|Buckhurst Hill
+57.6757|-2.9624|Buckie
+51.9997|-0.9878|Buckingham
+51.7500|-0.7500|Buckinghamshire
+53.1667|-3.0833|Buckley
+52.3600|-2.9507|Bucknell
+50.8244|-4.5413|Bude
+50.6298|-3.3218|Budleigh Salterton
+52.2101|-1.0130|Bugbrooke
+50.3958|-4.7933|Bugle
+52.1494|-3.4047|Builth Wells
+51.1893|-1.7601|Bulford
+51.3236|-2.0836|Bulkington
+51.5461|0.3607|Bulphan
+53.1156|-2.6515|Bunbury
+52.4543|1.4382|Bungay
+51.9461|-0.0184|Buntingford
+51.3518|-1.6709|Burbage
+51.9724|0.7749|Bures Saint Mary
+51.8092|-1.6363|Burford
+50.9584|-0.1329|Burgess Hill
+53.1616|0.2448|Burgh le Marsh
+57.7011|-3.4899|Burghead
+51.3324|0.4783|Burham
+50.8280|-1.6998|Burley
+53.9102|-1.7580|Burley in Wharfedale
+53.4327|-2.1997|Burnage
+54.3527|-2.7615|Burneside
+53.3930|-1.4579|Burngreave
+51.6327|0.8149|Burnham-on-Crouch
+51.2386|-2.9978|Burnham-on-Sea
+54.3239|-0.4481|Burniston
+53.8000|-2.2333|Burnley
+54.9062|-1.7249|Burnopfield
+56.0625|-3.2318|Burntisland
+52.6808|-1.9276|Burntwood
+53.5740|-0.7396|Burringham
+51.3288|-2.7487|Burrington
+51.6844|-4.2469|Burry Port
+53.5964|-2.8397|Burscough
+50.8866|-1.3160|Bursledon
+53.7321|-0.1396|Burstwick
+53.2667|-0.5667|Burton
+52.9883|-1.0341|Burton Joyce
+52.3637|-0.6785|Burton Latimer
+52.7857|-1.1299|Burton on the Wolds
+53.7633|-0.1070|Burton Pidsea
+53.6491|-0.6845|Burton upon Stather
+52.8073|-1.6426|Burton upon Trent
+53.4295|-2.6585|Burtonwood
+50.9975|0.3850|Burwash
+52.2763|0.3273|Burwell
+53.6000|-2.3000|Bury
+52.2463|0.7111|Bury St Edmunds
+55.7799|-4.2771|Busby
+51.6432|-0.3605|Bushey
+55.2049|-6.5192|Bushmills
+52.9833|0.0667|Butterwick
+50.9900|0.1344|Buxted
+53.2574|-1.9098|Buxton
+52.1755|-1.2457|Byfield
+53.7239|-1.2613|Byram
+51.8662|-0.4568|Caddington
+50.9205|-1.5797|Cadnam
+53.1095|-3.0381|Caergwrle
+51.6095|-2.9538|Caerleon
+53.1413|-4.2702|Caernarfon
+51.5745|-3.2180|Caerphilly
+51.6667|-3.1667|Caerphilly County Borough
+51.6112|-2.7687|Caerwent
+56.0591|-3.5352|Cairneyhill
+54.9710|-5.0198|Cairnryan
+52.6508|1.7238|Caister-on-Sea
+53.4967|-0.3154|Caistor
+51.4406|-1.0509|Calcot
+55.8432|-3.9707|Calderbank
+55.8889|-3.8866|Caldercruix
+53.7000|-2.0000|Calderdale
+51.5866|-2.7574|Caldicot
+56.2441|-4.2164|Callander
+50.5015|-4.3131|Callington
+51.4388|-2.0057|Calne
+53.0373|-1.0826|Calverton
+50.9347|0.7985|Camber
+51.3370|-0.7426|Camberley
+53.7268|-1.0200|Camblesforth
+50.2131|-5.2973|Camborne
+52.2212|-0.0703|Cambourne
+52.2000|0.1167|Cambridge
+52.3333|0.0833|Cambridgeshire
+55.8097|-4.1610|Cambuslang
+51.5406|-0.1433|Camden Town
+51.3162|-2.5608|Cameley
+50.6219|-4.6796|Camelford
+55.4258|-5.6076|Campbeltown
+53.6192|-1.1800|Campsall
+51.5052|-0.0209|Canary Wharf
+51.6176|0.7446|Canewdon
+50.7510|-1.9686|Canford Heath
+52.6904|-2.0309|Cannock
+51.2790|1.0799|Canterbury
+51.5220|0.5809|Canvey Island
+56.8372|-5.1006|Caol
+51.1494|-0.3237|Capel
+51.1034|1.2116|Capel le Ferne
+52.0037|1.0448|Capel Saint Mary
+53.5828|-1.1765|Carcroft
+56.1431|-3.2569|Cardenden
+51.4800|-3.1800|Cardiff
+52.0837|-4.6623|Cardigan
+52.1174|-0.4129|Cardington
+55.9618|-4.6532|Cardross
+55.8050|-3.9608|Carfin
+54.8951|-2.9382|Carlisle
+54.5900|-1.3912|Carlton
+55.7360|-3.8302|Carluke
+51.8555|-4.3053|Carmarthen
+51.8333|-4.1667|Carmarthenshire
+55.7906|-4.2358|Carmunnock
+54.1316|-2.7691|Carnforth
+54.9918|-5.9904|Carnlough
+54.6833|-5.9500|Carnmoney
+56.5026|-2.7053|Carnoustie
+55.7004|-3.6258|Carnwath
+54.7158|-5.8058|Carrickfergus
+56.0261|-3.7925|Carron
+56.0315|-3.7829|Carronshore
+54.5180|-5.8871|Carryduff
+51.3683|-0.1676|Carshalton
+51.7591|-1.5943|Carterton
+51.0900|-2.5142|Castle Cary
+52.8429|-1.3419|Castle Donington
+54.9410|-3.9278|Castle Douglas
+51.9901|0.5988|Castle Hedingham
+52.5188|-1.7968|Castle Vale
+54.7772|-6.5623|Castledawson
+54.7088|-7.5931|Castlederg
+53.7259|-1.3626|Castleford
+54.5735|-5.8847|Castlereagh
+55.1500|-6.7833|Castlerock
+54.8343|-1.8785|Castleside
+54.2569|-5.9445|Castlewellan
+52.5732|-0.3460|Castor
+53.3932|-1.3621|Catcliffe
+51.2823|-0.0789|Caterham
+54.0762|-2.7190|Caton
+55.5042|-4.3303|Catrine
+53.8796|-2.7648|Catterall
+54.3754|-1.6333|Catterick
+54.3775|-1.7223|Catterick Garrison
+55.0601|-6.5908|Causeway Coast and Glens
+53.8330|-1.1296|Cawood
+52.7667|1.1667|Cawston
+53.5669|-1.5726|Cawthorne
+53.0167|-0.6000|Caythorpe
+51.5317|-3.6528|Cefn Cribwr
+53.4121|-4.4519|Cemaes Bay
+51.9975|-0.4215|Central Bedfordshire
+50.2567|-5.1576|Chacewater
+51.5712|0.1327|Chadwell Heath
+51.4814|0.3634|Chadwell St Mary
+51.4892|0.2944|Chafford Hundred
+50.6750|-3.8394|Chagford
+51.6088|-0.5562|Chalfont Saint Peter
+51.6318|-0.5703|Chalfont St Giles
+51.7258|-2.1514|Chalford
+51.6648|-1.0764|Chalgrove
+51.9279|-0.5015|Chalton
+53.8290|-1.5383|Chapel Allerton
+53.3241|-1.9129|Chapel en le Frith
+53.2167|0.3167|Chapel Saint Leonards
+55.8435|-3.9488|Chapelhall
+53.4651|-1.4722|Chapeltown
+51.2292|-2.2489|Chapmanslade
+50.8727|-2.9660|Chard
+51.6272|-2.4067|Charfield
+51.2107|0.7947|Charing
+51.8727|-1.4825|Charlbury
+57.4708|-3.2251|Charlestown of Aberlour
+51.8837|-2.0424|Charlton Kings
+50.8359|-2.1423|Charlton Marshall
+50.7333|-2.4500|Charminster
+50.7389|-2.9005|Charmouth
+51.2562|1.0184|Chartham
+51.4757|-0.8859|Charvil
+52.6723|-1.9253|Chasetown
+53.8923|-2.3550|Chatburn
+51.3789|0.5279|Chatham
+52.4562|0.0524|Chatteris
+52.9833|-1.9833|Cheadle
+53.4019|-2.1909|Cheadle Heath
+53.3761|-2.1897|Cheadle Hulme
+51.3618|-0.2198|Cheam
+51.2754|-2.7766|Cheddar
+51.8478|-0.6643|Cheddington
+53.0691|-2.0423|Cheddleton
+53.4986|-2.2385|Cheetham Hill
+53.2709|-2.2833|Chelford
+51.7358|0.4696|Chelmsford
+52.4781|-1.7381|Chelmsley Wood
+51.4875|-0.1694|Chelsea
+51.9001|-2.0797|Cheltenham
+51.6409|-2.6768|Chepstow
+53.8667|-0.5000|Cherry Burton
+51.3881|-0.5078|Chertsey
+51.7000|-0.6000|Chesham
+53.1670|-2.3624|Cheshire East
+53.1635|-2.7359|Cheshire West and Chester
+51.7002|-0.0303|Cheshunt
+51.3624|-0.3043|Chessington
+53.1905|-2.8919|Chester
+54.8586|-1.5741|Chester-le-Street
+53.2500|-1.4167|Chesterfield
+51.3661|-2.6103|Chew Magna
+50.8367|-0.7800|Chichester
+50.6243|-2.5028|Chickerell
+52.0459|-0.3639|Chicksands
+51.1187|-0.6226|Chiddingfold
+51.6200|0.0760|Chigwell
+51.2639|-2.5050|Chilcompton
+50.9137|-2.2368|Child Okeford
+51.4325|-1.5391|Chilton Foliat
+51.2163|-0.5313|Chilworth
+53.3402|-1.9390|Chinley
+51.7018|-0.9116|Chinnor
+51.4600|-2.1247|Chippenham
+52.0496|-1.7767|Chipping Campden
+51.9411|-1.5453|Chipping Norton
+51.7038|0.2455|Chipping Ongar
+51.5381|-2.3938|Chipping Sodbury
+52.9359|-3.0574|Chirk
+55.8021|-2.2093|Chirnside
+51.5161|-1.7321|Chiseldon
+51.4171|0.0686|Chislehurst
+51.3484|-0.6064|Chobham
+51.5728|-1.1536|Cholsey
+55.1500|-1.6033|Choppington
+54.9180|-1.8201|Chopwell
+53.6500|-2.6167|Chorley
+51.6547|-0.5140|Chorleywood
+53.0503|-2.4054|Chorlton
+53.4350|-2.2631|Chorlton cum Hardy
+50.7358|-1.7813|Christchurch
+55.9028|-4.1076|Chryston
+50.6050|-3.6003|Chudleigh
+50.5851|-3.6319|Chudleigh Knighton
+50.9129|-3.8694|Chulmleigh
+53.7518|-2.3912|Church
+53.8263|-1.2189|Church Fenton
+52.5378|-2.8015|Church Stretton
+51.8774|-2.1709|Churchdown
+51.3429|-2.7834|Churchill
+51.1360|-0.7753|Churt
+51.8242|-2.4987|Cinderford
+51.7193|-1.9714|Cirencester
+52.4805|-1.8982|City and Borough of Birmingham
+53.7964|-1.5477|City and Borough of Leeds
+53.5000|-2.3333|City and Borough of Salford
+53.6808|-1.4990|City and Borough of Wakefield
+51.5833|-4.0000|City and County of Swansea
+54.5833|-5.9167|City of Belfast
+51.4500|-2.6000|City of Bristol
+55.9497|-3.1933|City of Edinburgh
+53.7500|-0.3333|City of Kingston upon Hull
+52.6333|-1.1333|City of Leicester
+51.5128|-0.0918|City of London
+51.4975|-0.1357|City of Westminster
+51.0260|-1.5749|City of Winchester
+53.9640|-1.0914|City of York
+56.1074|-3.7510|Clackmannan
+56.1667|-3.7500|Clackmannanshire
+51.7897|1.1560|Clacton-on-Sea
+52.1609|-0.4953|Clapham
+53.3455|-0.9038|Clarborough
+52.0786|0.5817|Clare
+55.7859|-4.2765|Clarkston
+52.1067|1.1113|Claydon
+53.0314|-0.7341|Claypole
+53.7667|-2.3833|Clayton le Moors
+53.5950|-1.6111|Clayton West
+53.6969|-2.6682|Clayton-le-Woods
+54.5214|-3.5159|Cleator Moor
+53.7240|-1.7129|Cleckheaton
+53.5605|-0.0323|Cleethorpes
+55.8024|-3.9142|Cleland
+52.7560|0.3579|Clenchwarton
+52.3785|-2.4820|Cleobury Mortimer
+51.5244|-0.1102|Clerkenwell
+51.4423|-2.8579|Clevedon
+53.8775|-3.0399|Cleveleys
+51.4622|0.4983|Cliffe
+52.0399|-0.3005|Clifton
+53.8667|-2.4000|Clitheroe
+52.8133|-2.7229|Clive
+52.0273|-0.4238|Clophill
+53.2745|-1.2641|Clowne
+51.3294|-2.5431|Clutton
+51.6833|-3.9000|Clydach
+55.9014|-4.4057|Clydebank
+55.5930|-3.8864|Coalburn
+54.5418|-6.7017|Coalisland
+56.1847|-3.1258|Coaltown of Balgonie
+52.7225|-1.3702|Coalville
+55.8622|-4.0247|Coatbridge
+51.7075|-2.0339|Coates
+51.3300|-0.4113|Cobham
+55.9682|-2.9656|Cockenzie
+54.6621|-3.3609|Cockermouth
+54.6137|-1.8090|Cockfield
+50.4633|-3.5569|Cockington
+51.8505|-0.2367|Codicote
+52.6299|-2.2015|Codsall
+53.0539|-3.0623|Coedpoeth
+52.2376|-0.7838|Cogenhoe
+51.8708|0.6854|Coggeshall
+51.5220|-3.5553|Coity
+51.8892|0.9042|Colchester
+51.4243|-1.2646|Cold Ash
+51.6721|0.6700|Cold Norton
+50.9948|-1.3114|Colden Common
+55.6511|-2.2529|Coldstream
+51.7953|-2.6135|Coleford
+55.1333|-6.6667|Coleraine
+51.4383|-2.2628|Colerne
+55.9074|-3.2561|Colinton
+51.5989|0.1660|Collier Row
+51.3010|-1.6588|Collingbourne Kingston
+53.9117|-1.4117|Collingham
+51.4838|-0.5214|Colnbrook
+53.8571|-2.1685|Colne
+52.8066|-0.6206|Colsterworth
+52.7280|1.3665|Coltishall
+52.7876|-1.9821|Colwich
+53.2948|-3.7267|Colwyn Bay
+50.7401|-3.0702|Colyton
+51.1987|-4.0234|Combe Martin
+54.5494|-5.7438|Comber
+52.1871|0.0191|Comberton
+51.0239|-1.3371|Compton
+51.3106|-2.6553|Compton Martin
+56.3688|-3.9788|Comrie
+53.1631|-2.2125|Congleton
+51.3713|-2.8102|Congresbury
+53.1060|-0.1759|Coningsby
+53.4819|-1.2321|Conisbrough
+54.8000|-6.2000|Connor
+57.5663|-4.4368|Conon Bridge
+54.8540|-1.8316|Consett
+53.0833|-3.7500|Conwy
+51.5594|-0.7081|Cookham
+52.3167|1.4500|Cookley
+54.6431|-6.7459|Cookstown
+52.1234|-0.3893|Cople
+53.9142|-1.1421|Copmanthorpe
+50.8107|-3.7461|Copplestone
+53.6253|-2.6585|Coppull
+51.1393|-0.1174|Copthorne
+54.9736|-2.0180|Corbridge
+52.4964|-0.6894|Corby
+52.8126|-0.5182|Corby Glen
+50.6395|-2.0567|Corfe Castle
+53.7323|-2.1385|Cornholme
+50.4167|-4.7500|Cornwall
+51.9594|-2.3064|Corse
+51.4343|-2.1844|Corsham
+51.3850|-2.4403|Corston
+52.5513|-1.1940|Cosby
+50.8465|-1.0634|Cosham
+52.6591|1.2097|Costessey
+52.9086|-1.0375|Cotgrave
+52.2874|0.1254|Cottenham
+52.7138|-0.6633|Cottesmore
+52.5024|-0.7554|Cottingham
+51.3200|-0.1409|Coulsdon
+54.6628|-1.6269|Coundon
+52.5538|-1.1453|Countesthorpe
+54.7768|-1.5757|County Durham
+52.2500|-4.0000|County of Ceredigion
+53.2500|-3.1667|County of Flintshire
+56.5455|-3.2677|Coupar Angus
+57.1000|-2.0833|Cove
+52.6559|-2.1353|Coven
+52.4066|-1.5122|Coventry
+52.7452|-0.1298|Cowbit
+51.4603|-3.4417|Cowbridge
+56.1119|-3.3443|Cowdenbeath
+50.7631|-1.2977|Cowes
+50.9894|-0.2724|Cowfold
+56.0797|-3.8675|Cowie
+51.7321|-1.2063|Cowley
+50.8941|-1.0182|Cowplain
+54.7148|-1.5036|Coxhoe
+55.4453|-4.5195|Coylton
+52.4721|-2.0821|Cradley Heath
+54.4471|-6.3870|Craigavon
+56.2604|-2.6268|Crail
+55.0865|-1.5860|Cramlington
+51.0966|0.5357|Cranbrook
+52.0687|-0.6088|Cranfield
+51.5656|0.2659|Cranham
+51.1421|-0.4837|Cranleigh
+53.0368|-0.4618|Cranwell
+52.4431|-2.8356|Craven Arms
+51.1130|-0.1831|Crawley
+51.1206|-0.0773|Crawley Down
+52.0835|-2.8080|Credenhill
+50.7833|-3.6500|Crediton
+51.0233|-3.0383|Creech Saint Michael
+53.2629|-1.2199|Creswell
+53.0979|-2.4416|Crewe
+50.8830|-2.7959|Crewkerne
+52.9205|-4.2346|Criccieth
+52.3481|-1.1371|Crick
+51.8599|-3.1377|Crickhowell
+51.6406|-1.8574|Cricklade
+56.3727|-3.8389|Crieff
+52.6048|1.2433|Cringleford
+51.6447|-3.6403|Croeserw
+52.5567|-1.2464|Croft
+53.6564|-1.4297|Crofton
+51.6345|-4.1294|Crofty
+52.9312|1.2989|Cromer
+53.1085|-1.5601|Cromford
+51.2328|-0.8633|Crondall
+54.7125|-1.7497|Crook
+52.9148|-0.9848|Cropwell Bishop
+53.4778|-3.0333|Crosby
+51.7931|-4.0875|Cross Hands
+53.9061|-1.9849|Cross Hills
+56.0630|-3.4967|Crossford
+54.3967|-5.7606|Crossgar
+56.0837|-3.3771|Crossgates
+55.6126|-4.5509|Crosshouse
+54.0833|-6.6000|Crossmaglen
+53.6622|-2.7752|Croston
+51.5797|-0.1237|Crouch End
+51.0610|0.1634|Crowborough
+52.6757|-0.1685|Crowland
+53.6075|-0.8326|Crowle
+51.3703|-0.7922|Crowthorne
+55.9606|-4.0393|Croy
+51.3833|-0.1000|Croydon
+57.4180|-1.8531|Cruden Bay
+54.6205|-6.2141|Crumlin
+53.5183|-2.2445|Crumpsall
+51.9736|-4.6472|Crymych
+51.7289|-3.7481|Crynant
+51.0107|-0.1407|Cuckfield
+53.2449|-2.6188|Cuddington
+53.5713|-1.4160|Cudworth
+51.7080|-0.1121|Cuffley
+53.4511|-2.5210|Culcheth
+57.6904|-2.8182|Cullen
+53.8244|-1.8973|Cullingworth
+57.4870|-4.1415|Culloden
+50.8553|-3.3927|Cullompton
+54.8888|-6.3470|Cullybackey
+55.0500|-7.2667|Culmore
+57.1167|-2.1667|Cults
+51.3409|0.3469|Culverstone Green
+55.9468|-3.9905|Cumbernauld
+54.5833|-2.8333|Cumbria
+55.4545|-4.2664|Cumnock
+56.3188|-3.0120|Cupar
+52.5338|-1.7369|Curdworth
+55.8964|-3.3085|Currie
+51.0231|-2.8675|Curry Rivel
+55.0803|-6.0629|Cushendall
+51.3743|0.4569|Cuxton
+51.7400|-3.1803|Cwm
+51.6167|-3.7620|Cwmafan
+51.7056|-3.4094|Cwmbach
+51.6545|-3.0228|Cwmbran
+51.5500|0.1667|Dagenham
+54.9328|-3.8227|Dalbeattie
+56.0350|-3.3505|Dalgety Bay
+55.8932|-3.0681|Dalkeith
+55.3242|-4.4020|Dalmellington
+55.7096|-4.7217|Dalry
+55.3976|-4.5917|Dalrymple
+55.7333|-3.9167|Dalserf
+54.8421|-2.9846|Dalston
+54.1580|-3.1798|Dalton in Furness
+51.7165|0.5825|Danbury
+54.4661|-0.9107|Danby
+55.9143|-3.1106|Danderhall
+51.4214|0.2578|Darenth
+53.3418|-2.6350|Daresbury
+53.5339|-1.3760|Darfield
+52.5667|-2.0333|Darlaston
+54.5333|-1.5333|Darlington
+55.0356|-1.7643|Darras Hall
+53.6757|-1.2690|Darrington
+51.4466|0.2142|Dartford
+50.3522|-3.5794|Dartmouth
+53.5870|-1.5268|Darton
+55.6098|-4.2814|Darvel
+53.6980|-2.4649|Darwen
+51.4839|-0.5789|Datchet
+51.8513|-0.1596|Datchworth
+52.2569|-1.1607|Daventry
+50.5812|-3.4664|Dawlish
+51.2232|1.4043|Deal
+52.0500|-0.8866|Deanshanger
+54.7118|-3.4436|Dearham
+52.2242|1.1817|Debenham
+51.9806|-1.3205|Deddington
+51.9589|0.9934|Dedham
+53.2005|-3.0384|Deeside
+53.3045|-3.8274|Deganwy
+53.1482|-4.1319|Deiniolen
+50.6235|-4.7319|Delabole
+53.5667|-2.0167|Delph
+53.1833|-3.4167|Denbigh
+53.0833|-3.3333|Denbighshire
+53.5723|-1.6589|Denby Dale
+51.5667|-0.5000|Denham
+53.8019|-1.8950|Denholme
+50.9040|-1.0674|Denmead
+56.0235|-3.9081|Denny
+55.9989|-3.9131|Dennyloanhead
+53.4568|-2.1182|Denton
+54.8850|-2.9410|Denton Holme
+52.9228|-1.4766|Derby
+53.1667|-1.5833|Derbyshire
+51.7081|-3.2631|Deri
+54.9981|-7.3093|Derry
+54.8205|-7.3596|Derry City and Strabane
+52.8455|0.5034|Dersingham
+52.4418|-0.8213|Desborough
+52.6260|-1.2939|Desford
+51.3508|-1.9942|Devizes
+50.7500|-3.7500|Devon
+53.6908|-1.6291|Dewsbury
+52.3857|-1.8394|Dickens Heath
+52.3965|1.1850|Dickleburgh
+51.6093|-1.2421|Didcot
+53.4170|-2.2315|Didsbury
+53.5674|-1.9972|Diggle
+51.4349|-3.2140|Dinas Powys
+57.5953|-4.4272|Dingwall
+53.3667|-1.2000|Dinnington
+51.0833|-1.9833|Dinton
+53.3586|-2.0385|Disley
+52.3768|1.1091|Diss
+54.5973|-3.5388|Distington
+52.6667|-0.6667|District of Rutland
+52.4673|1.4437|Ditchingham
+50.9210|-0.1154|Ditchling
+51.3795|-0.3128|Ditton Hill
+54.7500|-6.0833|Doagh
+50.4577|-4.5174|Dobwalls
+52.4967|0.0602|Doddington
+53.5431|-1.5278|Dodworth
+52.7422|-3.8861|Dolgellau
+56.1624|-3.6713|Dollar
+54.6413|-5.5359|Donaghadee
+53.5000|-1.0833|Doncaster
+52.9046|-0.2051|Donington
+52.7240|-1.5380|Donisthorpe
+51.9513|-1.7214|Donnington
+50.7167|-2.4333|Dorchester
+51.2323|-0.3338|Dorking
+51.1602|0.0062|Dormansland
+57.8805|-4.0288|Dornoch
+52.3726|-1.7532|Dorridge
+50.7500|-2.3333|Dorset
+52.0667|-3.0000|Dorstone
+55.5500|-3.8500|Douglas
+56.1900|-4.0529|Doune
+53.2983|-1.8878|Dove Holes
+51.1260|1.3126|Dover
+51.9365|1.2783|Dovercourt
+52.9053|-1.8248|Doveridge
+52.6071|0.3837|Downham Market
+54.3281|-5.7153|Downpatrick
+50.9937|-1.7513|Downton
+54.8000|-6.7667|Draperstown
+51.2561|-2.7512|Draycott
+55.6081|-4.6223|Dreghorn
+54.0061|-0.4450|Driffield
+52.2667|-2.1500|Droitwich
+54.5133|-7.4589|Dromore
+53.3022|-1.4751|Dronfield
+55.4350|-4.4555|Drongan
+53.4800|-2.1454|Droylsden
+57.3344|-4.4799|Drumnadrochit
+51.8555|-2.5168|Drybrook
+51.7676|-1.4842|Ducklington
+52.5000|-2.1167|Dudley
+52.9863|-1.4887|Duffield
+57.4457|-3.1271|Dufftown
+53.4750|-2.0881|Dukinfield
+51.0401|-3.5503|Dulverton
+55.9443|-4.5706|Dumbarton
+55.0696|-3.6114|Dumfries
+55.0833|-3.8333|Dumfries and Galloway
+56.0006|-2.5142|Dunbar
+56.1884|-3.9642|Dunblane
+52.3376|-1.2914|Dunchurch
+56.4691|-2.9749|Dundee
+54.5920|-5.7980|Dundonald
+54.2575|-5.8445|Dundrum
+51.3988|-2.6396|Dundry
+56.0716|-3.4589|Dunfermline
+54.5034|-6.7672|Dungannon
+54.9333|-6.9167|Dungiven
+53.3007|-0.4654|Dunholme
+56.0270|-3.9147|Dunipace
+50.8630|-3.2229|Dunkeswell
+55.7120|-4.5362|Dunlop
+55.0110|-6.4109|Dunloy
+53.9500|-0.2500|Dunnington
+55.9503|-4.9273|Dunoon
+55.7770|-2.3457|Duns
+51.8857|-0.5229|Dunstable
+53.8011|-0.3714|Dunswell
+55.9244|-4.4154|Duntocher
+54.7768|-1.5757|Durham
+51.6814|-2.3533|Dursley
+52.0939|0.1592|Duxford
+57.2052|-2.1768|Dyce
+52.7775|-4.0647|Dyffryn Ardudwy
+51.0254|0.9939|Dymchurch
+53.3003|-3.4126|Dyserth
+54.5252|-1.3504|Eaglescliffe
+55.7412|-4.2746|Eaglesham
+53.9155|-2.1429|Earby
+52.3542|0.0306|Earith
+52.5768|-1.3154|Earl Shilton
+52.2663|-0.7525|Earls Barton
+51.9274|0.7011|Earls Colne
+51.4439|-0.1854|Earlsfield
+55.6386|-2.6749|Earlston
+54.7853|-1.3592|Easington
+54.1201|-1.1939|Easingwold
+55.5000|-4.2500|East Ayrshire
+54.2548|-0.4748|East Ayton
+51.9778|1.0176|East Bergholt
+54.9445|-1.4282|East Boldon
+52.9795|-0.9656|East Bridgford
+55.8919|-3.4637|East Calder
+55.2833|-1.5833|East Chevington
+50.7577|-1.2881|East Cowes
+51.0398|-1.6094|East Dean
+52.6833|0.9333|East Dereham
+55.9333|-4.2000|East Dunbartonshire
+51.1238|-0.0061|East Grinstead
+51.0400|-1.2679|East Hampshire
+51.6344|-1.3952|East Hanney
+52.4384|0.9335|East Harling
+51.3011|-2.6217|East Harptree
+51.2736|-0.4321|East Horsley
+53.8943|-1.4522|East Keswick
+55.7641|-4.1767|East Kilbride
+52.8302|-1.1810|East Leake
+55.9874|-2.6568|East Linton
+55.9167|-2.7500|East Lothian
+53.2522|-0.8939|East Markham
+51.3987|-0.3492|East Molesey
+51.2123|0.3862|East Peckham
+54.8251|-1.4804|East Rainton
+55.7500|-4.3333|East Renfrewshire
+53.9167|-0.5000|East Riding of Yorkshire
+50.9167|0.3333|East Sussex
+51.4805|0.4171|East Tilbury
+56.1602|-3.0642|East Wemyss
+55.8685|-3.6629|East Whitburn
+50.7697|-0.8744|East Wittering
+50.7687|0.2845|Eastbourne
+51.4067|0.8577|Eastchurch
+51.7472|-2.3264|Eastington
+50.9667|-1.3500|Eastleigh
+53.6362|-0.7849|Eastoft
+50.5333|-2.4500|Easton
+52.6273|-0.5057|Easton on the Hill
+51.4759|-2.6999|Easton-in-Gordano
+54.9860|-3.1805|Eastriggs
+53.7604|-0.7933|Eastrington
+51.2464|1.3078|Eastry
+53.0000|-1.3000|Eastwood
+51.8770|-0.5917|Eaton Bray
+52.2175|-0.2893|Eaton Socon
+52.1333|-1.6000|Eattington
+51.7771|-3.2079|Ebbw Vale
+53.4833|-2.3333|Eccles
+52.8579|-2.2497|Eccleshall
+53.6424|-2.7216|Eccleston
+52.0667|-2.1167|Eckington
+51.1917|0.0673|Edenbridge
+53.6667|-2.3048|Edenfield
+52.7740|-2.4097|Edgmond
+51.6128|-0.2754|Edgware
+53.6464|-2.3940|Edgworth
+55.9521|-3.1965|Edinburgh
+51.2758|-2.1064|Edington
+52.6379|-0.6319|Edith Weston
+53.1945|-1.0644|Edwinstowe
+51.4316|-0.5524|Egham
+55.0167|-7.1833|Eglinton
+54.4794|-3.5276|Egremont
+51.8959|0.8228|Eight Ash Green
+57.6667|-7.1667|Eilean Siar
+55.8333|-4.4860|Elderslie
+57.6495|-3.3184|Elgin
+53.6851|-1.8388|Elland
+53.7532|-0.6042|Ellerker
+53.8500|-0.9333|Ellerton
+52.9084|-2.8981|Ellesmere
+53.2788|-2.9013|Ellesmere Port
+57.3640|-2.0731|Ellon
+51.5497|0.2014|Elm Park
+51.8822|0.9948|Elmstead Market
+52.2362|0.9125|Elmswell
+51.9143|0.2293|Elsenham
+51.1855|-0.7054|Elstead
+51.6403|-0.2969|Elstree
+53.8384|-2.8815|Elswick
+53.9209|-0.9349|Elvington
+54.6846|-1.2956|Elwick
+52.3996|0.2620|Ely
+52.1369|-0.7067|Emberton
+55.4959|-1.6362|Embleton
+53.9766|-1.9928|Embsay
+53.6140|-1.6313|Emley
+52.6424|0.2086|Emneth
+52.6672|-0.5960|Empingham
+50.8478|-0.9370|Emsworth
+52.5878|-1.2062|Enderby
+51.6515|-0.0850|Enfield Town
+54.3449|-7.6389|Enniskillen
+51.6981|0.1105|Epping
+51.3305|-0.2701|Epsom
+53.5260|-0.8240|Epworth
+51.4832|0.1748|Erith
+56.3923|-3.2128|Errol
+55.9005|-4.4503|Erskine
+51.3697|-0.3669|Esher
+52.7019|-0.4525|Essendine
+51.8333|0.5833|Essex
+52.6291|-2.0577|Essington
+51.4883|-0.6090|Eton
+51.4972|-0.6344|Eton Wick
+53.8785|-0.5131|Etton
+52.8835|-1.6002|Etwall
+53.6699|-2.6761|Euxton
+57.6638|-4.3400|Evanton
+54.6221|-1.7613|Evenwood
+51.1481|-2.5056|Evercreech
+51.9870|-0.5598|Eversholt
+51.3539|-0.8889|Eversley
+52.1458|-0.2462|Everton
+52.0924|-1.9489|Evesham
+51.3495|-0.2494|Ewell
+51.1545|-0.4434|Ewhurst
+51.9536|-2.8933|Ewyas Harold
+50.7236|-3.5275|Exeter
+52.4646|-1.4814|Exhall
+50.6808|-3.4971|Exminster
+50.6172|-3.4023|Exmouth
+52.2664|0.3744|Exning
+52.6911|-0.6346|Exton
+52.6080|-0.1921|Eye
+55.8713|-2.0901|Eyemouth
+51.3676|0.2113|Eynsford
+51.7808|-1.3745|Eynsham
+51.1971|1.2662|Eythorne
+55.9285|-4.3851|Faifley
+53.5048|-2.1657|Failsworth
+51.7082|-1.7813|Fairford
+51.2618|-0.6214|Fairlands
+55.7560|-4.8556|Fairlie
+50.8780|0.6567|Fairlight
+52.8300|0.8477|Fakenham
+56.0000|-3.7500|Falkirk
+56.2525|-3.2039|Falkland
+56.1048|-3.8762|Fallin
+53.4398|-2.2157|Fallowfield
+50.1544|-5.0711|Falmouth
+50.8516|-1.1793|Fareham
+51.6564|-1.5868|Faringdon
+51.2942|-0.7557|Farnborough
+53.0500|-0.8500|Farndon
+51.2144|-0.8005|Farnham
+51.5421|-0.6158|Farnham Royal
+53.1022|-1.0332|Farnsfield
+53.5500|-2.4000|Farnworth
+55.8275|-3.7074|Fauldhouse
+51.3148|0.8886|Faversham
+52.6144|-1.6985|Fazeley
+52.6448|-2.0932|Featherstone
+51.9637|1.3511|Felixstowe
+54.9530|-1.5715|Felling
+51.4462|-0.4139|Feltham
+55.2977|-1.7114|Felton
+52.4858|0.5194|Feltwell
+52.2990|-0.0671|Fenstanton
+55.6582|-4.4434|Fenwick
+54.4426|-7.5030|Fermanagh and Omagh
+51.6606|-3.4475|Ferndale
+50.8074|-1.8998|Ferndown
+52.2300|-2.1966|Fernhill Heath
+51.0487|-0.7179|Fernhurst
+53.7106|-1.2795|Ferrybridge
+54.6833|-1.5500|Ferryhill
+56.2500|-3.1667|Fife
+54.2100|-0.2892|Filey
+51.3615|-0.8573|Finchampstead
+52.8704|-1.5441|Findern
+57.6974|-2.9010|Findochty
+50.8682|-0.4073|Findon
+52.3392|-0.6501|Finedon
+53.4870|-0.9908|Finningley
+54.5000|-7.3167|Fintona
+54.6830|-1.4363|Fishburn
+51.9938|-4.9763|Fishguard
+52.9609|0.0270|Fishtoft
+53.6329|-1.3769|Fitzwilliam
+51.1834|0.3552|Five Oak Green
+54.3833|-7.3000|Fivemiletown
+54.1149|-0.1227|Flamborough
+52.5350|-1.0460|Fleckney
+51.2833|-0.8333|Fleet
+53.9253|-3.0109|Fleetwood
+50.8351|-4.5450|Flexbury
+54.6896|-3.5209|Flimby
+51.0550|0.4453|Flimwell
+53.2449|-3.1323|Flint
+52.0034|-0.4947|Flitwick
+53.6303|-1.6395|Flockton
+54.1741|-2.9721|Flookburgh
+52.2365|-1.0573|Flore
+57.6144|-3.0995|Fochabers
+51.7400|-3.2986|Fochriw
+51.0817|1.1673|Folkestone
+50.8552|-0.6483|Fontwell
+52.7169|-2.8688|Ford
+52.3113|0.3906|Fordham
+50.9275|-1.7903|Fordingbridge
+51.0964|0.0326|Forest Row
+56.6438|-2.8900|Forfar
+53.5584|-3.0700|Formby
+57.6100|-3.6212|Forres
+56.8165|-5.1121|Fort William
+55.7650|-3.6887|Forth
+57.5809|-4.1326|Fortrose
+50.5603|-2.4424|Fortuneswell
+53.8758|-2.1686|Foulridge
+52.7818|1.0105|Foulsham
+52.7594|-3.0811|Four Crosses
+50.2016|-5.2401|Four Lanes
+51.1073|-1.0494|Four Marks
+50.3363|-4.6386|Fowey
+52.0934|0.0743|Fowlmere
+52.2212|1.3420|Framlingham
+51.7705|-2.3638|Frampton on Severn
+57.6874|-2.0184|Fraserburgh
+53.7543|-2.8649|Freckleton
+51.0695|-4.1366|Fremington
+50.6837|-1.5262|Freshwater
+56.2469|-3.1586|Freuchie
+51.3167|-0.7454|Frimley
+51.8306|1.2442|Frinton-on-Sea
+56.6369|-2.6681|Friockheim
+50.7640|0.1993|Friston
+54.5418|-3.4946|Frizington
+53.2948|-2.7275|Frodsham
+51.2283|-2.3221|Frome
+52.1828|0.2205|Fulbourn
+53.9887|-0.8676|Full Sutton
+51.1074|-0.1689|Furnace Green
+53.8333|-2.9167|Fylde
+53.2211|-4.2736|Gaerwen
+54.5472|-1.7360|Gainford
+53.3833|-0.7667|Gainsborough
+55.6146|-2.8070|Galashiels
+53.9936|-2.7920|Galgate
+55.6009|-4.3817|Galston
+52.1556|-0.1930|Gamlingay
+56.0820|-4.8291|Garelochhead
+53.7917|-1.3807|Garforth
+53.9835|-2.1046|Gargrave
+51.7162|-1.1613|Garsington
+53.9008|-2.7742|Garstang
+55.8884|-4.0817|Gartcosh
+54.9833|-6.6667|Garvagh
+54.9333|-1.6667|Gateshead
+52.4376|-0.6896|Geddington
+52.6843|-0.0201|Gedney Hill
+51.6644|-3.2561|Gelligaer
+50.1154|-5.3788|Germoe
+51.5861|-0.5554|Gerrards Cross
+55.8037|-4.2949|Giffnock
+53.7530|-0.7389|Gilberdyke
+51.5921|-3.4730|Gilfach Goch
+54.3726|-6.3613|Gilford
+51.3891|0.5486|Gillingham
+51.8248|-3.0936|Gilwern
+52.2333|0.0833|Girton
+55.2426|-4.8555|Girvan
+51.8000|-3.9333|Glanamman
+51.9283|-4.6333|Glandwr
+53.1892|-1.2833|Glapwell
+55.8651|-4.2576|Glasgow
+51.1474|-2.7207|Glastonbury
+53.4708|-2.4982|Glazebury
+52.1035|0.6691|Glemsford
+55.0500|-6.0667|Glenariff
+54.5923|-6.2137|Glenavy
+55.8942|-4.0462|Glenboig
+52.6466|-1.1949|Glenfield
+55.8891|-3.9873|Glenmavis
+56.1951|-3.1732|Glenrothes
+52.6392|-0.2963|Glinton
+53.4432|-1.9490|Glossop
+51.8657|-2.2431|Gloucester
+51.8333|-2.1667|Gloucestershire
+53.9000|-2.0000|Glusburn
+51.7475|-3.6183|Glyn-neath
+51.6794|-3.6281|Glyncorrwg
+52.7856|-2.2548|Gnosall
+52.8961|-3.0369|Gobowen
+51.1858|-0.6149|Godalming
+52.3194|-0.1751|Godmanchester
+50.6331|-1.2548|Godshill
+51.2478|-0.0691|Godstone
+53.4769|-2.5965|Golborne
+57.9727|-3.9780|Golspie
+52.0049|-4.9951|Goodwick
+53.7032|-0.8773|Goole
+53.8220|-2.6702|Goosnargh
+53.2273|-2.3392|Goostrey
+55.8459|-3.0456|Gorebridge
+51.5232|-1.1334|Goring
+50.8124|-0.4219|Goring-by-Sea
+52.5779|1.7273|Gorleston-on-Sea
+51.6693|-4.0416|Gorseinon
+52.8691|-0.1610|Gosberton
+51.9366|0.5920|Gosfield
+55.0000|-1.6167|Gosforth
+50.8068|-1.2330|Gosport
+51.1110|-0.2173|Gossops Green
+52.8680|-1.2056|Gotham
+51.1131|0.4561|Goudhurst
+55.9616|-4.8179|Gourock
+51.8193|-3.0629|Govilon
+53.6763|-0.3376|Goxhill
+51.4559|0.7113|Grain
+51.6118|0.0861|Grange Hill
+54.1851|-2.9249|Grange-over-Sands
+56.0114|-3.7218|Grangemouth
+52.9115|-0.6418|Grantham
+57.3305|-3.6087|Grantown on Spey
+53.3720|-2.5467|Grappenhall
+54.0714|-1.9982|Grassington
+51.4421|0.3711|Gravesend
+51.4757|0.3252|Grays
+53.3730|-3.1233|Greasby
+51.7901|-0.0167|Great Amwell
+54.4915|-1.1362|Great Ayton
+51.9481|0.4365|Great Bardfield
+52.1579|-0.3523|Great Barford
+52.2726|0.7668|Great Barton
+51.3795|-1.6015|Great Bedwyn
+51.8533|1.0638|Great Bentley
+51.2792|-0.3742|Great Bookham
+52.0643|0.1972|Great Chesterford
+51.8723|0.3625|Great Dunmow
+53.8531|-2.8703|Great Eccleston
+52.5755|-1.0349|Great Glen
+52.9351|-0.6669|Great Gonerby
+52.1855|-0.1457|Great Gransden
+52.6833|-2.8167|Great Hanwood
+53.7851|-2.4087|Great Harwood
+52.8079|-2.0002|Great Haywood
+51.9382|0.8755|Great Horkesley
+51.9735|-0.8809|Great Horwood
+53.5535|-1.3495|Great Houghton
+51.8276|0.5064|Great Leighs
+52.1116|-2.3251|Great Malvern
+53.8118|-3.0226|Great Marton
+51.7042|-0.7080|Great Missenden
+52.2606|-0.2282|Great Paxton
+53.3923|-2.6399|Great Sankey
+50.9531|-4.1440|Great Torrington
+51.5524|0.8038|Great Wakering
+52.0555|0.7744|Great Waldingfield
+52.6628|-2.0111|Great Wyrley
+52.6072|1.7315|Great Yarmouth
+52.0135|0.5654|Great Yeldham
+51.5000|-0.1667|Greater London
+54.6418|-1.2381|Greatham
+52.0028|-0.4661|Greenfield
+51.5287|-0.3551|Greenford
+55.9920|-3.8910|Greenhill
+51.4503|0.2854|Greenhithe
+54.7008|-5.8748|Greenisland
+55.9484|-4.7612|Greenock
+52.7206|-0.6307|Greetham
+53.0854|-2.9706|Gresford
+54.9938|-3.0659|Gretna
+54.5348|-5.5603|Greyabbey
+53.5765|-1.3769|Grimethorpe
+53.5654|-0.0755|Grimsby
+52.7731|0.5485|Grimston
+52.5572|0.8644|Griston
+53.3367|-3.3603|Gronant
+51.1154|0.1830|Groombridge
+51.6095|-1.4219|Grove
+51.6847|-4.0383|Grovesend
+52.1122|1.2462|Grundisburgh
+53.2081|-2.8298|Guilden Sutton
+51.2354|-0.5743|Guildford
+52.6963|-3.1571|Guilsfield
+54.5348|-1.0561|Guisborough
+53.8756|-1.7123|Guiseley
+56.0365|-2.8283|Gullane
+53.5908|-0.7283|Gunness
+50.5244|-4.2133|Gunnislake
+52.8333|-3.9167|Gwynedd
+52.1880|-0.8231|Hackleton
+51.7733|-0.9263|Haddenham
+55.9561|-2.7833|Haddington
+51.5527|0.6098|Hadleigh
+52.7000|-2.4833|Hadley
+51.6667|-0.1698|Hadley Wood
+51.2242|0.3391|Hadlow
+55.2943|-1.6039|Hadston
+52.4262|-2.1282|Hagley
+50.8622|0.2577|Hailsham
+51.6084|0.1072|Hainault
+53.3783|-2.3327|Hale
+52.4486|-2.0494|Halesowen
+52.3464|1.5029|Halesworth
+53.7167|-1.8500|Halifax
+58.5123|-3.4916|Halkirk
+55.9857|-3.7854|Hallglen
+51.3514|0.4452|Halling
+52.2234|-2.2547|Hallow
+51.9451|0.6393|Halstead
+53.3167|-2.7000|Halton
+54.9710|-2.4568|Haltwhistle
+50.8597|-1.3243|Hamble-le-Rice
+53.7667|-1.1667|Hambleton
+53.7557|-2.2919|Hameldon Hill
+55.7667|-4.0333|Hamilton
+51.0000|-1.2500|Hampshire
+51.4133|-0.3670|Hampton
+52.4254|-1.7027|Hampton in Arden
+51.0538|-0.2008|Handcross
+51.6333|-1.7500|Hannington
+52.1142|-0.8267|Hanslope
+53.7833|-2.3167|Hapton
+52.2354|-1.4571|Harbury
+52.2136|-0.8858|Hardingstone
+53.2737|-1.0432|Hardwick Village
+51.6033|-0.4855|Harefield
+52.8594|-4.1083|Harlech
+52.4030|1.2966|Harleston
+51.9629|-0.4924|Harlington
+51.7766|0.1116|Harlow
+51.5946|0.2329|Harold Wood
+51.8168|-0.3571|Harpenden
+52.2425|-0.9894|Harpole
+51.2425|0.6706|Harrietsham
+51.5824|-0.0996|Harringay
+53.9908|-1.5373|Harrogate
+52.2013|-0.6104|Harrold
+51.5714|-0.3337|Harrow on the Hill
+52.1369|0.0800|Harston
+51.2763|-1.0474|Hart
+55.8607|-3.7517|Harthill
+52.3333|-2.2333|Hartlebury
+54.6667|-1.2500|Hartlepool
+51.3867|0.3037|Hartley
+51.3038|-0.9002|Hartley Wintney
+52.5483|-1.5222|Hartshill
+52.1462|-0.8538|Hartwell
+52.1409|-1.9231|Harvington
+51.5995|-1.2917|Harwell
+51.9419|1.2844|Harwich
+51.0902|-0.7078|Haslemere
+53.7033|-2.3238|Haslingden
+52.1502|0.0558|Haslingfield
+50.9281|-0.1662|Hassocks
+50.8552|0.5729|Hastings
+54.7833|-1.4167|Haswell
+51.7634|-0.2242|Hatfield
+51.8123|0.2124|Hatfield Heath
+51.7759|0.5949|Hatfield Peverel
+50.8214|-4.0723|Hatherleigh
+52.7955|-1.2564|Hathern
+53.3303|-1.6540|Hathersage
+52.3001|-1.6326|Hatton
+52.2191|0.9680|Haughley
+53.4412|-2.0983|Haughton Green
+50.8567|-0.9856|Havant
+51.8017|-4.9691|Haverfordwest
+52.0823|0.4389|Haverhill
+54.1997|-3.2926|Haverigg
+53.1848|-3.0258|Hawarden
+55.4227|-2.7867|Hawick
+51.0479|0.5110|Hawkhurst
+51.1128|1.1618|Hawkinge
+53.8291|-1.9483|Haworth
+54.8000|-1.3500|Hawthorn
+54.0142|-1.0712|Haxby
+53.4894|-0.8402|Haxey
+52.0705|-3.1274|Hay
+53.4672|-2.6817|Haydock
+54.9749|-2.2468|Haydon Bridge
+51.5158|-0.4234|Hayes
+53.3789|-1.9454|Hayfield
+50.1839|-5.4214|Hayle
+50.7838|-0.9687|Hayling Island
+52.0665|-0.3995|Haynes
+53.9000|-0.7500|Hayton
+50.9977|-0.1031|Haywards Heath
+53.3833|-2.1167|Hazel Grove
+55.0414|-1.6391|Hazlerigg
+52.9078|0.4939|Heacham
+56.0062|-3.9136|Head of Muir
+51.1697|0.6243|Headcorn
+53.0505|-1.4469|Heage
+53.5810|-0.1620|Healing
+53.0137|-1.3538|Heanor
+51.9452|-0.6570|Heath and Reach
+50.9672|0.2561|Heathfield
+53.4301|-2.1754|Heaton Chapel
+50.7204|-3.4965|Heavitree
+54.9730|-1.5155|Hebburn
+53.7409|-2.0134|Hebden Bridge
+52.9818|-0.2990|Heckington
+53.7065|-1.6775|Heckmondwike
+54.9969|-1.7939|Heddon on the Wall
+50.9123|-1.3008|Hedge End
+53.7396|-0.1966|Hedon
+53.2124|-0.4590|Heighington
+56.0061|-4.7265|Helensburgh
+53.4226|-1.2412|Hellaby
+54.0049|-2.2230|Hellifield
+54.2458|-1.0568|Helmsley
+52.6323|-0.3468|Helpston
+53.2740|-2.7691|Helsby
+50.1032|-5.2705|Helston
+51.7537|-0.4497|Hemel Hempstead
+53.7686|-0.9767|Hemingbrough
+52.3176|-0.1003|Hemingford Grey
+52.6940|1.6832|Hemsby
+53.6127|-1.3542|Hemsworth
+50.9123|-3.2281|Hemyock
+50.9299|-0.2707|Henfield
+51.6508|-3.2317|Hengoed
+52.2903|-1.7781|Henley in Arden
+51.5333|-0.9000|Henley-on-Thames
+53.2000|-3.4667|Henllan
+52.0302|-0.2860|Henlow
+50.9772|-2.3950|Henstridge
+52.0568|-2.7148|Hereford
+52.0833|-2.7500|Herefordshire
+51.4554|-1.2682|Hermitage
+51.3730|1.1286|Herne Bay
+50.8896|0.3229|Herstmonceux
+51.7959|-0.0785|Hertford
+51.8333|-0.2500|Hertfordshire
+53.3273|-3.0965|Heswall
+52.5976|1.1736|Hethersett
+54.8167|-1.4500|Hetton-Le-Hole
+54.9699|-2.1040|Hexham
+54.0437|-2.8932|Heysham
+53.5924|-2.2194|Heywood
+53.5113|-0.5208|Hibaldstow
+51.6562|-0.2077|High Barnet
+54.1182|-2.5120|High Bentham
+55.7844|-4.1001|High Blantyre
+54.6539|-1.7436|High Etherley
+51.1033|0.7139|High Halden
+51.4477|0.5556|High Halstow
+53.3514|-2.4538|High Legh
+51.7095|0.2622|High Ongar
+53.3680|-1.8454|High Peak
+56.0636|-3.5991|High Valleyfield
+51.6291|-0.7493|High Wycombe
+52.3060|-0.5934|Higham Ferrers
+51.2167|-2.9833|Highbridge
+51.3386|-1.3757|Highclere
+57.5000|-5.0000|Highland
+52.4487|-2.3825|Highley
+53.5245|-3.0619|Hightown
+51.6305|-1.7110|Highworth
+54.4635|-6.0766|Hillsborough
+56.7448|-2.4740|Hillside
+52.2791|-0.1122|Hilton
+51.3746|-0.3384|Hinchley Wood
+52.5389|-1.3761|Hinckley
+51.1138|-0.7335|Hindhead
+53.5333|-2.5833|Hindley
+51.0922|-2.1258|Hindon
+52.5797|0.9842|Hingham
+52.1680|-1.2184|Hinton
+51.7392|-3.5103|Hirwaun
+52.2517|0.1064|Histon
+51.9492|-0.2850|Hitchin
+52.5000|-1.9167|Hockley
+52.3529|-1.7782|Hockley Heath
+51.9311|-0.5865|Hockliffe
+52.4638|0.5461|Hockwold cum Wilton
+51.7615|-0.0114|Hoddesdon
+52.8040|0.0144|Holbeach
+53.7836|-1.5679|Holbeck
+51.9834|1.1585|Holbrook
+53.4630|-1.9910|Hollingworth
+51.5524|-0.1250|Holloway
+53.7040|0.0401|Hollym
+53.2014|-2.3574|Holmes Chapel
+53.5697|-1.7878|Holmfirth
+51.1805|-0.3218|Holmwood
+50.8120|-4.3538|Holsworthy
+51.3556|-2.1972|Holt
+53.9788|-0.9726|Holtby
+53.5052|-0.0630|Holton le Clay
+53.3062|-4.6321|Holyhead
+55.8201|-3.9727|Holytown
+53.2747|-3.2290|Holywell
+53.6741|-1.8668|Holywell Green
+54.6386|-5.8247|Holywood
+52.0951|-1.8313|Honeybourne
+50.7996|-3.1890|Honiton
+51.4205|0.5630|Hoo
+51.3680|-0.3065|Hook
+51.9956|-1.4828|Hook Norton
+53.1998|-2.8769|Hoole
+53.1167|-3.0333|Hope
+53.3482|-1.7449|Hope Valley
+57.7068|-3.4291|Hopeman
+52.5438|1.7199|Hopton on Sea
+50.9352|0.2444|Horam
+53.6605|-1.5601|Horbury
+51.1742|-0.1592|Horley
+53.2077|-0.1172|Horncastle
+51.5568|0.2166|Hornchurch
+51.5236|0.4049|Horndon on the Hill
+52.7046|1.4629|Horning
+53.9104|-0.1681|Hornsea
+50.5084|-4.1004|Horrabridge
+52.7015|1.2402|Horsford
+53.8426|-1.6375|Horsforth
+51.0631|-0.3276|Horsham
+51.1391|0.4288|Horsmonden
+51.0366|-0.0280|Horsted Keynes
+51.4731|-0.5424|Horton
+51.3948|0.2448|Horton Kirby
+53.6013|-2.5497|Horwich
+53.7958|-0.6425|Hotham
+52.3328|-0.1207|Houghton
+52.0618|-0.4776|Houghton Conquest
+52.6266|-0.9955|Houghton on the Hill
+54.8403|-1.4643|Houghton-Le-Spring
+51.4684|-0.3609|Hounslow
+55.8686|-4.5520|Houston
+50.8309|-0.1672|Hove
+52.7149|1.4105|Hoveton
+53.7463|-0.8699|Howden
+55.8106|-4.5573|Howwood
+53.3905|-3.1807|Hoylake
+53.5000|-1.4500|Hoyland Nether
+53.0333|-1.2000|Hucknall
+53.6490|-1.7842|Huddersfield
+49.9146|-6.3154|Hugh Town
+53.4657|-2.2489|Hulme
+53.5304|-0.0246|Humberston
+51.6669|-4.9492|Hundleton
+51.4151|-1.5156|Hungerford
+54.1796|-0.3201|Hunmanby
+52.9500|0.5000|Hunstanton
+52.3305|-0.1865|Huntingdon
+51.8717|-2.4014|Huntley
+57.4474|-2.7861|Huntly
+51.2056|-2.9874|Huntspill
+54.6879|-1.7054|Hunwick
+51.4579|-0.8520|Hurst
+50.9339|-0.1801|Hurstpierpoint
+52.4523|-1.0556|Husbands Bosworth
+52.0164|-0.6106|Husborne Crawley
+53.4115|-2.8394|Huyton
+53.4513|-2.0794|Hyde
+51.6934|-0.6544|Hyde Heath
+50.8600|-1.4016|Hythe
+52.6855|-1.3997|Ibstock
+51.0059|-2.6798|Ilchester
+51.2093|-4.1134|Ilfracombe
+52.9706|-1.3095|Ilkeston
+53.9245|-1.8233|Ilkley
+50.9268|-2.9101|Ilminster
+53.6124|-0.2222|Immingham
+53.5243|-3.0273|Ince Blundell
+53.5333|-2.6167|Ince-in-Makerfield
+55.8899|-4.4384|Inchinnan
+56.4455|-3.1696|Inchture
+51.6703|0.3836|Ingatestone
+54.4498|-1.1069|Ingleby Greenhow
+54.1539|-2.4685|Ingleton
+53.1941|0.3336|Ingoldmells
+51.6042|0.3406|Ingrave
+52.2128|-1.9809|Inkberrow
+55.6193|-3.0630|Innerleithen
+57.3427|-2.6132|Insch
+56.8446|-2.2800|Inverbervie
+55.9000|-4.7500|Inverclyde
+57.6886|-4.1674|Invergordon
+56.4611|-3.0616|Invergowrie
+56.0330|-3.3956|Inverkeithing
+55.9083|-4.8705|Inverkip
+57.4791|-4.2240|Inverness
+57.2845|-2.3774|Inverurie
+50.4892|-3.6390|Ipplepen
+52.0592|1.1555|Ipswich
+52.2811|-0.6451|Irchester
+53.4425|-2.4232|Irlam
+52.6279|-2.4846|Ironbridge
+52.3267|-0.6113|Irthlingborough
+55.6194|-4.6551|Irvine
+54.4720|-7.6335|Irvinestown
+55.5814|-5.2123|Isle of Arran
+55.8366|-5.0559|Isle of Bute
+55.7693|-4.9191|Isle of Cumbrae
+55.7853|-6.2389|Isle of Islay
+58.2190|-6.3880|Isle of Lewis
+56.4470|-5.7740|Isle Of Mull
+57.6058|-7.3402|Isle of North Uist
+57.2456|-7.3334|Isle of South Uist
+50.6667|-1.3333|Isle of Wight
+52.3429|0.4121|Isleham
+51.4752|-0.3425|Isleworth
+51.5362|-0.1030|Islington
+51.5000|-0.5000|Iver
+51.5364|-0.5179|Iver Heath
+51.8360|-0.6298|Ivinghoe
+50.3904|-3.9191|Ivybridge
+51.3775|0.7294|Iwade
+52.2989|0.8341|Ixworth
+54.9804|-1.4842|Jarrow
+55.4800|-2.5520|Jedburgh
+51.7556|-4.9967|Johnston
+55.8291|-4.5160|Johnstone
+54.6833|-5.9000|Jordanstown
+53.5931|-0.7402|Keadby
+54.2500|-6.7000|Keady
+53.5333|-2.3833|Kearsley
+52.0928|0.4868|Kedington
+53.5758|-0.2470|Keelby
+53.0038|-2.2874|Keele
+52.8348|-1.2804|Kegworth
+53.8679|-1.9066|Keighley
+57.5363|-2.9481|Keith
+54.7189|-1.4749|Kelloe
+53.2077|-2.7124|Kelsall
+55.5981|-2.4338|Kelso
+56.1336|-3.3869|Kelty
+51.8401|0.7057|Kelvedon
+51.6674|0.2681|Kelvedon Hatch
+57.2357|-2.4440|Kemnay
+52.1394|-2.2175|Kempsey
+52.1160|-0.5004|Kempston
+52.0896|-0.4991|Kempston Hardwick
+51.3060|0.2292|Kemsing
+54.3268|-2.7476|Kendal
+52.3496|-1.5828|Kenilworth
+51.1674|0.8849|Kennington
+56.2108|-3.0492|Kennoway
+51.8517|-0.5039|Kensworth
+51.1667|0.6667|Kent
+50.6398|-3.4715|Kenton
+52.4516|-1.5332|Keresley
+52.0624|1.2365|Kesgrave
+52.4197|1.7122|Kessingland
+54.5995|-3.1326|Keswick
+52.3984|-0.7257|Kettering
+52.6280|-0.5546|Ketton
+53.7096|-0.1133|Keyingham
+51.4139|-2.4978|Keynsham
+52.8712|-1.0899|Keyworth
+52.5444|-0.9949|Kibworth Harcourt
+52.3882|-2.2500|Kidderminster
+51.8217|-1.2886|Kidlington
+53.0869|-2.2378|Kidsgrove
+51.7364|-4.3033|Kidwelly
+55.8362|-4.5536|Kilbarchan
+55.7508|-4.6879|Kilbirnie
+53.0058|-1.4387|Kilburn
+55.9846|-4.8210|Kilcreggan
+51.7320|-4.7198|Kilgetty
+54.0641|-0.3806|Kilham
+54.0620|-6.0031|Kilkeel
+53.3240|-1.3169|Killamarsh
+56.0424|-4.3684|Killearn
+54.4014|-5.6480|Killyleagh
+55.8947|-4.6264|Kilmacolm
+55.6117|-4.4958|Kilmarnock
+55.6380|-4.5273|Kilmaurs
+54.9509|-6.5569|Kilrea
+52.3338|-1.1750|Kilsby
+55.9760|-4.0592|Kilsyth
+55.6533|-4.7067|Kilwinning
+52.9833|-1.2667|Kimberley
+52.2970|-0.3892|Kimbolton
+51.8509|-0.2998|Kimpton
+56.0695|-3.7196|Kincardine
+52.1564|-1.5115|Kineton
+53.1769|-1.1013|King's Clipstone
+52.7517|0.3952|King's Lynn
+56.0690|-3.1761|Kinghorn
+56.1737|-3.2424|Kinglassie
+51.2744|0.4024|Kings Hill
+51.7139|-0.4504|Kings Langley
+52.0231|-1.2761|Kings Sutton
+51.0886|-1.2978|Kings Worthy
+50.2845|-3.7764|Kingsbridge
+52.5611|-1.6794|Kingsbury
+51.3249|-1.2434|Kingsclere
+50.4992|-3.5819|Kingskerswell
+56.2621|-3.1169|Kingskettle
+52.2491|-2.8154|Kingsland
+53.2667|-2.6667|Kingsley
+50.5500|-3.5833|Kingsteignton
+51.6815|-1.4204|Kingston Bagpuize
+51.3983|-2.8611|Kingston Seymour
+53.7446|-0.3352|Kingston upon Hull
+51.4126|-0.2974|Kingston upon Thames
+57.1580|-2.2243|Kingswells
+52.4975|-2.1689|Kingswinford
+51.4528|-2.5083|Kingswood
+52.2000|-2.0167|Kington
+57.0800|-4.0523|Kingussie
+57.6349|-3.5701|Kinloss
+56.2047|-3.4214|Kinross
+51.3996|-1.4486|Kintbury
+57.2372|-2.3454|Kintore
+52.4500|-2.2333|Kinvere
+53.7669|-1.3710|Kippax
+56.1267|-4.1708|Kippen
+52.6302|-1.2275|Kirby Muxloe
+54.4874|-5.5339|Kircubbin
+53.5621|-1.0688|Kirk Sandall
+53.6105|-1.7029|Kirkburton
+53.4814|-2.8921|Kirkby
+53.0998|-1.2438|Kirkby in Ashfield
+54.2026|-2.5983|Kirkby Lonsdale
+54.4723|-2.3487|Kirkby Stephen
+54.2701|-0.9322|Kirkbymoorside
+56.1168|-3.1600|Kirkcaldy
+55.3856|-3.9984|Kirkconnel
+54.8383|-4.0491|Kirkcudbright
+53.7824|-2.8719|Kirkham
+55.9393|-4.1526|Kirkintilloch
+53.5833|-1.7500|Kirklees
+55.9536|-3.4029|Kirkliston
+55.8875|-3.4190|Kirknewton
+58.9816|-2.9604|Kirkwall
+56.6740|-3.0034|Kirriemuir
+52.9277|-0.0601|Kirton
+53.4755|-0.5957|Kirton in Lindsey
+52.2298|-0.9791|Kislingbury
+53.3412|-1.2550|Kiveton Park
+51.3201|-0.6158|Knaphill
+54.0091|-1.4685|Knaresborough
+51.8667|-0.1839|Knebworth
+52.3425|-3.0471|Knighton
+53.7078|-1.2564|Knottingley
+52.3833|-1.7333|Knowle
+53.4167|-2.8333|Knowsley
+53.3029|-2.3748|Knutsford
+53.5409|-0.1683|Laceby
+51.4153|-2.1219|Lacock
+56.2742|-3.1239|Ladybank
+52.4175|0.5221|Lakenheath
+51.1005|0.3897|Lamberhurst
+51.4963|-0.1115|Lambeth
+51.5080|-1.5311|Lambourn
+54.9157|-1.6095|Lamesley
+55.5336|-5.1296|Lamlash
+52.1129|-4.0804|Lampeter
+55.6737|-3.7817|Lanark
+53.8333|-2.5000|Lancashire
+54.0465|-2.7999|Lancaster
+54.8211|-1.7426|Lanchester
+50.8288|-0.3225|Lancing
+50.4226|-4.2902|Landrake
+52.0546|-0.2717|Langford
+52.6915|-0.7539|Langham
+53.8022|-2.4508|Langho
+55.1510|-2.9989|Langholm
+51.1282|-0.1983|Langley Green
+54.7998|-1.6701|Langley Park
+51.0378|-2.8281|Langport
+52.6983|-0.3404|Langtoft
+56.0225|-3.8287|Larbert
+55.7963|-4.8634|Largs
+51.2000|-1.8167|Lark Hill
+51.3014|0.4486|Larkfield
+55.7333|-3.9667|Larkhall
+54.8500|-5.8167|Larne
+51.6716|0.7258|Latchingdon and Snoreham
+55.7191|-2.7475|Lauder
+50.6370|-4.3601|Launceston
+56.8334|-2.4654|Laurencekirk
+55.9956|-3.7480|Laurieston
+52.1728|-0.6611|Lavendon
+52.1086|0.7962|Lavenham
+55.7500|-3.8833|Law
+51.8459|0.8575|Layer de la Haye
+53.0257|-0.4261|Leasingham
+51.2965|-0.3338|Leatherhead
+51.6940|-1.6913|Lechlade
+53.8773|-0.4573|Leconfield
+52.0364|-2.4263|Ledbury
+53.7632|-1.3086|Ledsham
+50.8017|-1.2017|Lee-on-the-Solent
+53.7965|-1.5478|Leeds
+53.1043|-2.0221|Leek
+52.3178|-1.5793|Leek Wootton
+53.1335|-3.0947|Leeswood
+52.6386|-1.1317|Leicester
+52.6667|-1.0000|Leicestershire
+53.4964|-2.5197|Leigh
+51.9172|-0.6580|Leighton Buzzard
+52.2061|1.5776|Leiston
+51.2371|0.7189|Lenham
+55.9726|-4.2000|Lennoxtown
+55.9276|-4.1540|Lenzie
+52.2258|-2.7449|Leominster
+60.1531|-1.1427|Lerwick
+55.3983|-1.6283|Lesbury
+56.2000|-3.2167|Leslie
+55.6367|-3.8874|Lesmahagow
+51.9794|-0.2284|Letchworth
+51.9794|-0.2266|Letchworth Garden City
+56.6268|-2.7706|Letham
+51.9276|-4.9914|Letterston
+56.3817|-2.8825|Leuchars
+53.8903|-0.3178|Leven
+50.8740|0.0088|Lewes
+54.3100|-1.8304|Leyburn
+53.6979|-2.6876|Leyland
+51.3973|0.9216|Leysdown-on-Sea
+57.6353|-3.2184|Lhanbryde
+52.6815|-1.8255|Lichfield
+52.0415|-0.5591|Lidlington
+50.6436|-4.2822|Lifton
+51.3485|-0.6715|Lightwater
+55.0504|-6.9507|Limavady
+56.0334|-3.4771|Limekilns
+51.3449|-2.3141|Limpley Stoke
+53.2268|-0.5379|Lincoln
+53.1667|-0.2500|Lincolnshire
+54.5379|-0.9586|Lingdale
+51.1772|-0.0156|Lingfield
+52.6210|1.4862|Lingwood
+55.9764|-3.6036|Linlithgow
+53.6242|-1.8502|Linthwaite
+52.0978|0.2767|Linton
+54.0464|-1.2492|Linton upon Ouse
+55.8483|-4.4934|Linwood
+51.0767|-0.8032|Liphook
+54.5234|-6.0353|Lisburn
+54.5082|-6.0525|Lisburn and Castlereagh
+50.4545|-4.4652|Liskeard
+54.2500|-7.4500|Lisnaskea
+51.0428|-0.8924|Liss
+53.4699|-2.9981|Litherland
+51.7833|-0.0333|Little Amwell
+51.6683|-0.5704|Little Chalfont
+51.8256|1.1421|Little Clacton
+51.8610|0.4148|Little Dunmow
+52.9703|-1.4595|Little Eaton
+51.8332|0.1815|Little Hallingbury
+53.5333|-2.4167|Little Hulton
+53.5635|-2.3780|Little Lever
+52.2505|-0.2580|Little Paxton
+53.7902|-0.5068|Little Weighton
+53.6441|-2.0958|Littleborough
+51.2745|1.1669|Littlebourne
+50.8114|-0.5408|Littlehampton
+52.4578|0.3060|Littleport
+53.4106|-2.9779|Liverpool
+53.7051|-1.6933|Liversedge
+55.9029|-3.5226|Livingston
+52.1942|-4.3081|Llanarth
+52.8167|-4.1000|Llanbedr
+53.1181|-4.1292|Llanberis
+51.6064|-3.2303|Llanbradach
+51.8846|-3.9915|Llandeilo
+51.9941|-3.7964|Llandovery
+52.2416|-3.3787|Llandrindod Wells
+53.3250|-3.8315|Llandudno
+51.8204|-4.0071|Llandybie
+52.0417|-4.3091|Llandysul
+51.6820|-4.1619|Llanelli
+53.3306|-4.3770|Llanerchymedd
+52.6479|-3.3267|Llanfair Caereinion
+53.2578|-3.9742|Llanfairfechan
+53.2214|-4.2033|Llanfairpwllgwyngyll
+52.7657|-3.2719|Llanfyllin
+53.2556|-4.3106|Llangefni
+53.2942|-4.0877|Llangoed
+52.9683|-3.1713|Llangollen
+51.7483|-4.9136|Llangwm
+51.6658|-2.9081|Llangybi
+51.8673|-3.2276|Llangynidr
+51.5380|-3.4391|Llanharan
+51.5142|-3.4324|Llanharry
+52.4498|-3.5400|Llanidloes
+52.3566|-4.0257|Llanilar
+52.8251|-3.3022|Llanrhaeadr-ym-Mochnant
+53.1479|-4.1960|Llanrug
+53.1402|-3.7953|Llanrwst
+53.2667|-3.8000|Llansantffraid Glan Conwy
+51.7722|-4.3914|Llansteffan
+51.5403|-3.3739|Llantrisant
+51.5546|-3.3324|Llantwit Fardre
+51.4107|-3.4863|Llantwit Major
+51.6333|-3.4500|Llwynypia
+55.8794|-3.1587|Loanhead
+55.1034|-3.5844|Locharbriggs
+56.1283|-3.3096|Lochgelly
+56.0380|-5.4321|Lochgilphead
+55.1301|-3.4429|Lochmaben
+55.7952|-4.6303|Lochwinnoch
+55.1230|-3.3563|Lockerbie
+51.3333|-2.9139|Locking
+53.9141|-0.4857|Lockington
+52.5327|1.4818|Loddon
+53.7295|-1.4970|Lofthouse
+54.5554|-0.8946|Loftus
+55.4547|-4.2351|Logan
+51.5085|-0.1257|London
+54.9972|-7.3092|Londonderry County Borough
+51.4300|-2.6610|Long Ashton
+52.9931|-0.7580|Long Bennington
+52.3026|-1.0811|Long Buckby
+52.8372|-0.9288|Long Clawson
+51.7729|-0.9968|Long Crendon
+52.8986|-1.2714|Long Eaton
+52.2840|-1.3924|Long Itchington
+52.3818|-1.3072|Long Lawford
+52.0748|0.7164|Long Melford
+52.4880|1.2348|Long Stratton
+51.2198|-0.9429|Long Sutton
+52.8058|-1.2851|Long Whatton
+53.4667|-2.0000|Longdendale
+51.3969|0.3021|Longfield
+56.4573|-3.1144|Longforgan
+51.8667|-2.4500|Longhope
+55.2459|-1.7691|Longhorsley
+55.4313|-1.6169|Longhoughton
+55.9754|-2.8959|Longniddry
+53.8321|-2.5996|Longridge
+53.4580|-2.2010|Longsight
+52.2808|0.0456|Longstanton
+52.9833|-2.1333|Longton
+51.9500|-2.9833|Longtown
+51.7361|-0.8568|Longwick
+50.3578|-4.4542|Looe
+57.7214|-3.2834|Lossiemouth
+50.4078|-4.6702|Lostwithiel
+52.7667|-1.2000|Loughborough
+53.3666|-0.0044|Louth
+53.6502|-1.3233|Low Ackworth
+53.9322|-1.9965|Low Bradley
+54.6535|-1.7431|Low Etherley
+53.0121|-1.0048|Lowdham
+52.0503|-1.5418|Lower Brailes
+52.2138|-2.2772|Lower Broadheath
+51.4271|-0.9198|Lower Earley
+51.3740|0.6682|Lower Halstow
+51.2697|-0.2123|Lower Kingswood
+52.4766|1.7538|Lowestoft
+55.6504|-1.9781|Lowick
+51.5544|-2.2422|Luckington
+53.7187|-1.9458|Luddenden Foot
+51.2556|-1.6222|Ludgershall
+52.3743|-2.7131|Ludlow
+52.0658|-2.6578|Lugwardine
+56.4531|-3.4701|Luncarty
+53.9192|-0.5221|Lund
+56.2124|-2.9530|Lundin Links
+51.8797|-0.4175|Luton
+52.4563|-1.2022|Lutterworth
+51.8376|-2.5782|Lydbrook
+50.9513|0.9065|Lydd
+51.5712|-1.8635|Lydiard Millicent
+51.7260|-2.5261|Lydney
+50.7265|-2.9348|Lyme Regis
+51.1295|1.0890|Lyminge
+50.7577|-1.5443|Lymington
+53.3811|-2.4776|Lymm
+51.0777|1.0281|Lympne
+50.6475|-3.4316|Lympstone
+50.8726|-1.5766|Lyndhurst
+51.5167|-1.9667|Lyneham
+55.2131|-1.5425|Lynemouth
+51.2297|-3.8413|Lynton
+50.7583|-2.0781|Lytchett Matravers
+53.7426|-2.9970|Lytham St Annes
+53.3409|0.2610|Mablethorpe
+53.2602|-2.1256|Macclesfield
+57.6701|-2.4969|Macduff
+51.5960|-3.1419|Machen
+52.5910|-3.8505|Machynlleth
+55.9404|-2.9050|Macmerry
+55.9736|-3.6990|Maddiston
+53.0000|-2.3333|Madeley
+51.6093|-3.6582|Maesteg
+54.8439|-6.6715|Maghera
+54.7536|-6.6066|Magherafelt
+54.4669|-6.2598|Magheralin
+53.5162|-2.9412|Maghull
+51.5794|-2.8314|Magor
+50.7791|-2.5723|Maiden Newton
+51.1078|-0.1529|Maidenbower
+51.5228|-0.7199|Maidenhead
+51.2667|0.5167|Maidstone
+51.7311|0.6746|Maldon
+51.5817|-2.0971|Malmesbury
+53.0167|-2.7667|Malpas
+53.4167|-1.2000|Maltby
+54.1369|-0.7996|Malton
+53.3629|0.0965|Manby
+53.4167|-2.2500|Manchester
+52.4849|0.1793|Manea
+51.4878|-2.5040|Mangotsfield
+51.9454|1.0611|Manningtree
+53.1333|-1.2000|Mansfield
+53.1649|-1.1938|Mansfield Woodhouse
+50.9500|-2.2667|Manston
+52.6322|-0.7004|Manton
+51.6250|-0.5080|Maple Cross
+50.1256|-5.4751|Marazion
+52.5513|0.0883|March
+51.6675|-1.3430|Marcham
+53.0239|-2.9611|Marchwiel
+50.8897|-1.4544|Marchwood
+51.1748|0.4885|Marden
+51.3813|1.3862|Margate
+52.6243|-1.4017|Market Bosworth
+52.6765|-0.3163|Market Deeping
+52.9054|-2.4901|Market Drayton
+52.4776|-0.9205|Market Harborough
+51.2876|-1.9773|Market Lavington
+52.7381|-0.6863|Market Overton
+53.3876|-0.3378|Market Rasen
+53.2052|-1.1526|Market Warsop
+53.8631|-0.6651|Market Weighton
+52.6875|-1.2748|Markfield
+56.2021|-3.1352|Markinch
+51.8763|0.7642|Marks Tey
+51.8385|-0.4634|Markyate
+51.4203|-1.7295|Marlborough
+50.4551|-3.5968|Marldon
+51.5693|-0.7742|Marlow
+50.9704|-2.3133|Marnhull
+53.3945|-2.0629|Marple
+53.5430|-1.2205|Marr
+53.6000|-1.9167|Marsden
+51.5339|-3.0731|Marshfield
+54.5915|-1.0196|Marske-by-the-Sea
+52.0641|-0.5493|Marston Moretaine
+52.7046|1.6364|Martham
+50.9736|-2.7668|Martock
+57.5742|-4.4418|Maryburgh
+54.7143|-3.4951|Maryport
+54.2227|-1.6572|Masham
+53.1384|-1.5556|Matlock
+52.6591|1.0325|Mattishall
+55.5160|-4.3793|Mauchline
+52.0306|-0.4698|Maulden
+55.5925|-2.4287|Maxwellheugh
+55.3550|-4.6803|Maybole
+53.0000|-1.7667|Mayfield
+51.6803|0.7671|Mayland
+52.7064|-1.5064|Measham
+51.4167|0.5000|Medway
+52.0813|0.0151|Melbourn
+52.8219|-1.4252|Melbourne
+52.0940|0.0081|Meldreth
+51.3728|-2.1400|Melksham
+55.5997|-2.7277|Melrose
+53.5930|-1.8486|Meltham
+53.5939|-1.8399|Meltham Mills
+52.7659|-0.8869|Melton Mowbray
+53.2278|-4.1693|Menai Bridge
+51.2372|-2.6266|Mendip
+53.8904|-1.7439|Menston
+56.1514|-3.8547|Menstrie
+51.3684|0.3601|Meopham
+52.0171|-0.3399|Meppershall
+51.0889|-2.2669|Mere
+52.4377|-1.6437|Meriden
+50.9128|-2.7954|Merriott
+51.7479|-3.3778|Merthyr Tydfil
+51.7500|-3.3333|Merthyr Tydfil County Borough
+53.5283|-0.6539|Messingham
+53.1401|-0.4037|Metheringham
+56.1854|-3.0216|Methil
+53.7289|-1.4032|Methley
+56.4174|-3.5783|Methven
+53.3333|-3.0833|Metropolitan Borough of Wirral
+50.2732|-4.7917|Mevagissey
+53.4939|-1.2924|Mexborough
+53.2215|-2.8323|Mickle Trafford
+52.0915|-1.7662|Mickleton
+54.8744|-6.1014|Mid and East Antrim
+55.8926|-3.4800|Mid Calder
+54.6219|-6.7910|Mid Ulster
+53.3872|-0.3620|Middle Rasen
+51.0935|-1.6545|Middle Winterslow
+54.5762|-1.2348|Middlesbrough
+53.6508|-1.5976|Middlestown
+53.5500|-2.2000|Middleton
+53.1930|-2.4440|Middlewich
+50.9856|-0.7400|Midhurst
+55.8235|-3.0933|Midlothian
+51.2857|-2.4859|Midsomer Norton
+50.9661|-2.4625|Milborne Port
+50.7783|-2.2811|Milborne St Andrew
+52.3445|0.5109|Mildenhall
+51.1727|-0.6504|Milford
+51.7128|-5.0341|Milford Haven
+50.7256|-1.5900|Milford on Sea
+52.0388|-0.5244|Millbrook
+54.6064|-5.5297|Millisle
+54.2107|-3.2720|Millom
+55.7535|-4.9256|Millport
+57.1042|-2.2410|Milltimber
+56.2269|-3.4193|Milnathort
+55.9407|-4.3231|Milngavie
+53.6112|-2.1127|Milnrow
+54.2278|-2.7694|Milnthorpe
+52.0833|-0.7500|Milton Keynes
+55.9612|-4.1651|Milton of Campsie
+57.4513|-4.1759|Milton of Leys
+51.0233|-3.2522|Milverton
+51.7067|-2.1850|Minchinhampton
+51.2045|-3.4828|Minehead
+51.6167|-1.9500|Minety
+51.7927|-1.5483|Minster Lovell
+52.6399|-2.9281|Minsterley
+57.5241|-2.0010|Mintlaw
+53.6734|-1.6964|Mirfield
+53.4449|-0.8503|Misterton
+51.9433|1.0825|Mistley
+51.4032|-0.1683|Mitcham
+51.8644|-2.4895|Mitcheldean
+53.3167|-2.3167|Mobberley
+50.3496|-3.8868|Modbury
+53.3523|-4.2373|Moelfre
+55.3353|-3.4414|Moffat
+52.7370|-1.5350|Moira
+53.1667|-3.1414|Mold
+53.2293|-2.9216|Mollington
+54.6923|-6.6696|Moneymore
+56.4823|-2.8173|Monifieth
+53.7616|-1.2375|Monk Fryston
+51.8126|-2.7136|Monmouth
+51.7500|-2.8333|Monmouthshire
+56.7168|-2.4670|Montrose
+55.9150|-4.0833|Moodiesburn
+57.4167|-3.2500|Moray
+50.8542|-3.7489|Morchard Bishop
+52.5967|-0.6370|Morcott
+51.3982|-0.1984|Morden
+54.0684|-2.8611|Morecambe
+53.4000|-3.1167|Moreton
+51.9896|-1.7030|Moreton in Marsh
+50.6608|-3.7649|Moretonhampstead
+53.7401|-1.5988|Morley
+55.1688|-1.6889|Morpeth
+53.6167|-1.1000|Moss
+55.4894|-4.5279|Mossblown
+53.5145|-2.0346|Mossley
+53.3127|-3.2677|Mostyn
+51.0293|-2.2163|Motcombe
+55.7892|-3.9919|Motherwell
+53.2333|-2.7333|Mouldsworth
+52.7467|-0.0827|Moulton Chapel
+50.2823|-5.2085|Mount Hawke
+51.6836|-3.3801|Mountain Ash
+52.7167|-1.1500|Mountsorrel
+54.4500|-6.6667|Moy
+51.8541|0.0719|Much Hadham
+52.5958|-2.5575|Much Wenlock
+57.5198|-4.4594|Muir of Ord
+56.5000|-3.0667|Muirhead
+55.5227|-4.0655|Muirkirk
+52.5591|1.2333|Mulbarton
+50.0271|-5.2425|Mullion
+52.8784|1.4297|Mundesley
+52.5093|0.6499|Mundford
+54.8181|-1.3904|Murton
+55.9417|-3.0499|Musselburgh
+50.1851|-5.0796|Mylor Bridge
+53.7306|-1.9826|Mytholmroyd
+54.0196|-0.3919|Nafferton
+51.4324|-2.7585|Nailsea
+51.6938|-2.2199|Nailsworth
+57.5809|-3.8797|Nairn
+50.3688|-4.8693|Nanpean
+53.0688|-2.5205|Nantwich
+51.7978|-4.7428|Narberth
+52.5667|-1.2000|Narborough
+53.1068|-0.5249|Navenby
+51.6632|-3.8044|Neath
+51.6667|-3.7500|Neath Port Talbot
+52.6499|0.7754|Necton
+52.1555|1.0516|Needham Market
+52.3305|-0.0312|Needingworth
+52.9354|-4.5225|Nefyn
+55.7857|-4.4264|Neilston
+51.6533|-3.2844|Nelson
+53.2833|-3.0500|Neston
+52.2212|-1.0345|Nether Heyford
+53.9879|-1.1506|Nether Poppleton
+51.1510|-3.1568|Nether Stowey
+51.2361|-1.7908|Netheravon
+55.8016|-4.2732|Netherlee
+52.4833|-2.0833|Netherton
+50.8763|-1.3540|Netley
+53.2660|-0.4887|Nettleham
+51.0862|-1.1701|New Alresford
+52.9734|-1.1656|New Basford
+55.3956|-4.1846|New Cumnock
+53.3605|-2.9938|New Ferry
+50.8576|-1.9589|New Forest
+51.4006|-0.2617|New Malden
+54.5785|-1.0422|New Marske
+53.3659|-1.9999|New Mills
+50.7560|-1.6658|New Milton
+57.5902|-2.1953|New Pitsligo
+52.2152|-4.3589|New Quay
+50.9860|0.9412|New Romney
+55.8167|-3.9736|New Stevenston
+51.7205|-3.2413|New Tredegar
+53.0667|-0.8167|Newark on Trent
+55.8151|-3.9373|Newarthill
+55.1853|-1.5147|Newbiggin-by-the-Sea
+52.6296|-1.3422|Newbold Verdon
+51.6667|-3.1333|Newbridge
+56.3508|-3.2365|Newburgh
+54.9876|-1.7442|Newburn
+51.4015|-1.3247|Newbury
+54.2180|-5.8898|Newcastle
+52.0406|-4.4667|Newcastle Emlyn
+53.0000|-2.2333|Newcastle under Lyme
+55.0000|-1.6667|Newcastle upon Tyne
+50.6674|-1.2083|Newchurch
+51.9337|-2.4082|Newent
+50.7969|0.0554|Newhaven
+50.9752|0.0158|Newick
+51.3522|0.6677|Newington
+57.2667|-2.1833|Newmacher
+55.7851|-3.8746|Newmains
+52.2447|0.4042|Newmarket
+55.6075|-4.3242|Newmilns
+50.7015|-1.2912|Newport
+52.0873|-0.7222|Newport Pagnell
+56.4391|-2.9367|Newport-on-Tay
+50.4156|-5.0732|Newquay
+54.1784|-6.3374|Newry
+54.2362|-6.0669|Newry Mourne and Down
+50.5286|-3.6119|Newton Abbot
+54.6184|-1.5719|Newton Aycliffe
+50.3147|-4.0392|Newton Ferrers
+51.9760|-0.7660|Newton Longville
+55.7733|-4.3334|Newton Mearns
+50.7000|-3.2959|Newton Poppleford
+54.9578|-4.4832|Newton Stewart
+53.4500|-2.6000|Newton-le-Willows
+57.0333|-2.1500|Newtonhill
+57.0657|-4.1210|Newtonmore
+52.5167|-3.3000|Newtown
+55.5789|-2.6687|Newtown St Boswells
+54.6598|-5.9086|Newtownabbey
+54.5924|-5.6909|Newtownards
+54.7178|-7.3789|Newtownstewart
+51.7101|-4.9516|Neyland
+50.8864|0.4253|Ninfield
+50.5870|-1.2849|Niton
+52.6667|1.0000|Norfolk
+51.2575|-0.6747|Normandy
+55.6969|-4.7337|North Ayrshire
+50.9774|-1.4455|North Baddesley
+56.0583|-2.7229|North Berwick
+53.7801|-0.6496|North Cave
+53.1500|-0.7500|North Collingham
+53.8258|-0.9641|North Duffield
+53.5333|-0.0833|North East Lincolnshire
+52.7464|0.9461|North Elmham
+53.7212|-0.5052|North Ferriby
+55.8667|-3.9167|North Lanarkshire
+51.8143|-1.4414|North Leigh
+53.5833|-0.5000|North Lincolnshire
+52.6211|-0.6199|North Luffenham
+53.8167|-0.6167|North Newbald
+51.0924|-3.0155|North Petherton
+56.0090|-3.3913|North Queensferry
+55.0165|-1.4492|North Shields
+53.4457|0.1410|North Somercotes
+51.3333|-2.8333|North Somerset
+55.5769|-1.6644|North Sunderland
+50.7997|-3.8976|North Tawton
+53.4665|-0.0558|North Thoresby
+52.8212|1.3875|North Walsham
+54.1667|-1.5000|North Yorkshire
+54.3390|-1.4324|Northallerton
+51.0333|-4.2167|Northam
+52.2500|-0.8833|Northampton
+52.2500|-0.8333|Northamptonshire
+52.6587|-0.2982|Northborough
+50.9944|0.6003|Northiam
+51.8299|-1.8371|Northleach
+51.5485|-0.3678|Northolt
+53.2069|-3.1328|Northop
+53.4631|-0.6535|Northorpe
+55.2500|-2.0000|Northumberland
+53.2588|-2.5202|Northwich
+53.6333|-1.1833|Norton
+52.6714|-1.9626|Norton Canes
+52.6278|1.2983|Norwich
+52.9536|-1.1505|Nottingham
+53.1667|-1.0000|Nottinghamshire
+53.6127|-1.4723|Notton
+52.5232|-1.4652|Nuneaton
+52.6062|-1.0835|Oadby
+52.6950|-2.4504|Oakengates
+52.6667|-0.7333|Oakham
+52.2604|0.0685|Oakington
+52.1686|-0.5265|Oakley
+56.4153|-5.4718|Oban
+55.4598|-4.3678|Ochiltree
+51.2541|-0.9393|Odiham
+51.6023|-3.5422|Ogmore Vale
+50.7384|-4.0016|Okehampton
+51.2667|-1.0333|Old Basing
+51.7835|0.1338|Old Harlow
+55.9224|-4.4557|Old Kilpatrick
+53.0311|0.0987|Old Leake
+51.4581|-0.5867|Old Windsor
+52.5000|-2.0167|Oldbury
+53.5405|-2.1183|Oldham
+57.3349|-2.3199|Oldmeldrum
+52.1534|-0.7020|Olney
+51.5803|-2.5775|Olveston
+54.6000|-7.3000|Omagh
+58.9418|-3.1297|Orkney
+52.3000|-2.7500|Orleton
+52.6756|1.6894|Ormesby St Margaret
+55.9130|-2.9398|Ormiston
+53.5669|-2.8818|Ormskirk
+51.3746|0.0979|Orpington
+51.5123|0.3675|Orsett
+52.1356|-0.0110|Orwell
+53.6798|-1.5801|Ossett
+52.8620|-3.0550|Oswestry
+51.3128|0.1905|Otford
+53.9055|-1.6938|Otley
+55.2334|-2.1806|Otterburn
+51.3626|-0.5275|Ottershaw
+50.7500|-3.2667|Ottery St Mary
+53.7009|-0.0791|Ottringham
+53.4361|-1.5390|Oughtibridge
+52.4809|-0.4673|Oundle
+52.6095|0.2333|Outwell
+52.3167|0.0167|Over
+50.6351|-2.4321|Overcombe
+52.9162|1.3390|Overstrand
+51.2439|-1.2615|Overton
+55.7572|-3.9165|Overtown
+53.4941|-0.7804|Owston Ferry
+53.8123|-1.9520|Oxenhope
+51.7522|-1.2560|Oxford
+51.8333|-1.2500|Oxfordshire
+51.2569|-0.0060|Oxted
+51.1819|0.3823|Paddock Wood
+53.8019|-2.3151|Padiham
+50.5388|-4.9366|Padstow
+50.4357|-3.5679|Paignton
+51.7857|-2.1955|Painswick
+55.8317|-4.4325|Paisley
+51.4837|-1.0852|Pangbourne
+53.9603|-1.5357|Pannal
+52.7901|-3.0803|Pant
+52.2489|-0.1183|Papworth Everard
+50.3511|-4.7029|Par
+53.5915|-2.7703|Parbold
+50.7299|-1.9449|Parkstone
+53.4188|-2.4282|Partington
+50.9594|-0.3080|Partridge Green
+54.0862|-1.7598|Pateley Bridge
+55.3641|-4.5059|Patna
+53.6840|-0.0133|Patrington
+52.5891|-2.2654|Pattingham
+51.3047|-2.5003|Paulton
+50.7927|-0.0065|Peacehaven
+51.3167|-2.4242|Peasedown Saint John
+51.1916|-0.4466|Peaslake
+51.4740|-0.0697|Peckham
+55.6519|-3.1888|Peebles
+55.1793|-1.6453|Pegswood
+52.6291|-1.9674|Pelsall
+54.8730|-1.6095|Pelton
+51.6746|-4.9129|Pembroke
+51.6916|-4.9404|Pembroke Dock
+51.8333|-4.9167|Pembrokeshire
+51.1430|0.3219|Pembury
+51.6403|-4.0992|Pen-clawdd
+51.6599|-4.7240|Penally
+51.4386|-3.1734|Penarth
+52.0008|-4.2657|Pencader
+55.9073|-2.8949|Pencaitland
+51.5237|-3.5002|Pencoed
+55.8312|-3.2261|Penicuik
+53.5257|-1.6303|Penistone
+52.7256|-2.1156|Penkridge
+53.2667|-3.9333|Penmaenmawr
+52.4033|-4.0742|Penparcau
+52.9333|-4.0667|Penrhyndeudraeth
+54.6658|-2.7576|Penrith
+50.1681|-5.1042|Penryn
+50.5030|-4.4149|Pensilva
+51.6543|-3.4913|Pentre
+51.5289|-3.2950|Pentyrch
+53.1483|-3.0458|Penyffordd
+53.0550|-4.2854|Penygroes
+50.1186|-5.5371|Penzance
+50.3438|-5.1556|Perranporth
+50.2133|-5.1205|Perranwell
+52.1116|-2.0759|Pershore
+56.3952|-3.4314|Perth
+56.5000|-3.7500|Perth and Kinross
+52.5833|-0.2500|Peterborough
+57.0993|-2.2659|Peterculter
+57.5058|-1.7981|Peterhead
+54.7603|-1.3365|Peterlee
+51.0050|-0.9337|Petersfield
+50.9867|-0.6100|Petworth
+50.8197|0.3396|Pevensey
+50.8124|0.3486|Pevensey Bay
+51.3385|-1.7654|Pewsey
+54.2500|-0.7667|Pickering
+51.5634|-2.6426|Pilning
+53.1500|-1.3667|Pilsley
+50.8837|-2.1362|Pimperne
+52.8130|-0.1626|Pinchbeck
+51.5938|-0.3822|Pinner
+53.0906|-1.3177|Pinxton
+51.9712|-0.3339|Pirton
+56.7051|-3.7343|Pitlochry
+57.3369|-2.1802|Pitmedden
+51.5639|0.5086|Pitsea
+51.8283|-0.6399|Pitstone
+56.2141|-2.7284|Pittenweem
+55.8804|-3.9235|Plains
+56.0652|-3.8760|Plean
+50.9342|-0.0612|Plumpton Green
+50.3833|-4.1333|Plymouth
+50.3907|-4.0602|Plympton
+50.3600|-4.0905|Plymstock
+53.9333|-0.7811|Pocklington
+52.2542|-0.6246|Podington
+55.8607|-3.5490|Polbeth
+52.6196|-1.6104|Polesworth
+53.6709|-1.0724|Pollington
+55.9905|-3.7074|Polmont
+50.3313|-4.5222|Polperro
+50.5696|-4.9176|Polzeath
+51.5869|-3.6364|Pont Rhyd-y-cyff
+51.7142|-4.0386|Pontarddulais
+53.6911|-1.3127|Pontefract
+55.0502|-1.7453|Ponteland
+52.6483|-2.8904|Pontesbury
+51.6914|-4.0106|Pontlliw
+51.7518|-4.2172|Pontyates
+51.7783|-4.1689|Pontyberem
+51.5216|-3.3914|Pontyclun
+51.6112|-3.5842|Pontycymer
+51.7011|-3.0444|Pontypool
+51.6021|-3.3421|Pontypridd
+53.9000|-1.6167|Pool
+50.7333|-1.9667|Poole
+52.5676|1.3496|Poringland
+51.2089|-3.5956|Porlock
+55.8566|-5.0650|Port Bannatyne
+57.4143|-1.8460|Port Erroll
+55.9346|-4.6895|Port Glasgow
+51.5924|-3.7802|Port Talbot
+54.4230|-6.4443|Portadown
+54.3809|-5.5457|Portaferry
+54.4592|-5.4430|Portavogie
+54.8715|-6.4715|Portglenone
+51.4790|-3.7036|Porthcawl
+50.0862|-5.3150|Porthleven
+52.9292|-4.1314|Porthmadog
+51.4820|-2.7697|Portishead
+57.7025|-2.8599|Portknockie
+50.5675|-2.4447|Portland
+57.0694|-2.1325|Portlethen
+57.4129|-6.1942|Portree
+55.1959|-6.6493|Portrush
+50.1727|-4.9736|Portscatho
+50.8429|-0.2161|Portslade
+50.8048|-1.1791|Portsmouth
+57.6814|-2.6896|Portsoy
+55.1813|-6.7140|Portstewart
+51.3292|-2.0052|Potterne
+51.6935|-0.1784|Potters Bar
+52.0829|-0.8968|Potterspury
+52.1291|-0.2156|Potton
+53.8333|-2.9833|Poulton-le-Fylde
+53.3500|-2.1167|Poynton
+52.8969|-2.6640|Prees
+53.9182|-2.9663|Preesall
+53.3676|-3.0548|Prenton
+53.4295|-2.8003|Prescot
+53.3375|-3.4078|Prestatyn
+53.2833|-2.1500|Prestbury
+52.2718|-3.0058|Presteigne
+53.7628|-2.7045|Preston
+55.9594|-2.9804|Prestonpans
+53.5333|-2.2833|Prestwich
+55.4833|-4.6167|Prestwick
+51.6183|-3.5366|Price Town
+51.7255|-0.8314|Princes Risborough
+50.5439|-3.9886|Princetown
+51.3431|-2.4392|Priston
+50.2927|-4.9540|Probus
+54.9615|-1.8517|Prudhoe
+51.3788|-2.5435|Publow
+51.8901|0.0131|Puckeridge
+51.4858|-2.4339|Pucklechurch
+50.7500|-2.3500|Puddletown
+53.7954|-1.6613|Pudsey
+50.9575|-0.5128|Pulborough
+51.9949|-0.4532|Pulloxhill
+51.4839|0.2425|Purfleet
+51.1693|-2.9720|Puriton
+51.3368|-0.1120|Purley
+51.5889|-1.8742|Purton
+52.8899|-4.4145|Pwllheli
+51.5167|-3.7000|Pyle
+51.4176|0.7444|Queenborough
+53.7666|-1.8491|Queensbury
+55.9909|-3.3985|Queensferry
+52.7059|-1.0475|Queniborough
+52.7446|-1.1735|Quorndon
+52.6625|1.3803|Rackheath
+53.5618|-2.3245|Radcliffe
+52.9480|-1.0386|Radcliffe on Trent
+51.6859|-0.3187|Radlett
+51.6875|-1.2403|Radley
+51.2886|-2.4600|Radstock
+51.5186|-3.2583|Radyr
+51.7650|-2.8533|Raglan
+53.5022|-2.7884|Rainford
+51.3632|0.6089|Rainham
+53.1188|-1.1185|Rainworth
+53.6479|-2.3168|Ramsbottom
+51.4437|-1.6026|Ramsbury
+52.4506|-0.1093|Ramsey
+51.3357|1.4180|Ramsgate
+54.7500|-6.3000|Randalstown
+53.3828|-1.0140|Ranskill
+53.6921|-1.7883|Rastrick
+52.6499|-1.2414|Ratby
+54.2500|-6.1667|Rathfriland
+55.9216|-3.3803|Ratho
+55.9367|-3.3889|Ratho Station
+52.3443|-0.5366|Raunds
+53.0865|-1.1603|Ravenshead
+52.7211|-1.4058|Ravenstone
+53.6978|-0.9632|Rawcliffe
+53.4606|-1.3444|Rawmarsh
+53.7008|-2.2844|Rawtenstall
+51.5857|0.6046|Rayleigh
+51.8667|0.5833|Rayne
+51.4562|-0.9711|Reading
+51.7990|-0.3959|Redbourn
+53.4873|-0.5357|Redbourne
+54.6166|-1.0600|Redcar
+54.5500|-1.0000|Redcar and Cleveland
+55.9886|-3.7323|Redding
+55.9803|-3.7485|Reddingmuirhead
+52.3065|-1.9457|Redditch
+51.2405|-0.1704|Redhill
+51.0986|-2.4267|Redlynch
+50.2332|-5.2243|Redruth
+52.5605|1.5712|Reedham
+52.7632|1.1110|Reepham
+51.2374|-0.2058|Reigate
+52.1266|1.4154|Rendlesham
+55.8720|-4.3925|Renfrew
+55.8333|-4.5000|Renfrewshire
+55.9720|-4.5840|Renton
+52.8398|-1.5506|Repton
+51.7119|-3.6974|Resolven
+53.3221|-0.9432|Retford
+52.3015|-3.5115|Rhayader
+51.6590|-3.4489|Rhondda
+51.6667|-3.5000|Rhondda Cynon Taf
+51.3882|-3.3543|Rhoose
+53.0097|-3.0581|Rhosllanerchrugog
+53.2319|-4.5148|Rhosneigr
+56.0167|-4.7667|Rhu
+53.2920|-3.4700|Rhuddlan
+53.3193|-3.4923|Rhyl
+51.7600|-3.2855|Rhymney
+53.8333|-1.0573|Riccall
+54.4036|-1.7343|Richmond
+52.3365|0.9927|Rickinghall
+51.6390|-0.4772|Rickmansworth
+52.0153|-0.5787|Ridgmont
+54.1578|-0.6949|Rillington
+50.8926|0.0547|Ringmer
+52.3653|-0.5549|Ringstead
+50.8454|-1.7887|Ringwood
+53.0333|-1.4000|Ripley
+54.1358|-1.5283|Ripon
+53.6745|-1.9418|Ripponden
+51.6080|-3.1008|Risca
+52.2521|-0.4793|Riseley
+53.7681|-2.4144|Rishton
+52.1582|-0.8974|Roade
+50.9857|0.4725|Robertsbridge
+53.6177|-2.1552|Rochdale
+50.4081|-4.8337|Roche
+51.3876|0.5055|Rochester
+51.5820|0.7067|Rochford
+50.5498|-4.9046|Rock
+51.2839|-2.2814|Rode
+53.1139|-2.2919|Rode Heath
+51.5885|-2.7787|Rogiet
+51.5752|0.1858|Romford
+51.0230|0.9150|Romney Marsh
+50.9891|-1.4999|Romsey
+52.4200|-2.0570|Romsley
+53.7529|-0.0446|Roos
+57.6970|-2.1132|Rosehearty
+55.8507|-3.1362|Rosewell
+55.8575|-3.1690|Roslin
+56.0099|-4.8015|Rosneath
+51.9167|-2.5667|Ross on Wye
+53.6846|-2.2769|Rossendale
+53.1092|-2.9448|Rossett
+54.1000|-6.2000|Rostrevor
+56.0369|-3.4380|Rosyth
+55.3106|-1.9084|Rothbury
+51.5306|-0.9785|Rotherfield Peppard
+53.4167|-1.2500|Rotherham
+57.5262|-3.2066|Rothes
+55.8365|-5.0551|Rothesay
+57.4115|-2.4646|Rothienorman
+52.7092|-1.1374|Rothley
+52.4167|-0.8000|Rothwell
+50.8098|-0.0594|Rottingdean
+51.3633|-2.0310|Rowde
+51.8574|0.9453|Rowhedge
+54.9192|-1.7449|Rowlands Gill
+52.4829|-2.0438|Rowley Regis
+52.1776|-0.3159|Roxton
+51.4667|-0.6667|Royal Borough of Windsor and Maidenhead
+52.2852|-1.5200|Royal Leamington Spa
+51.1332|0.2626|Royal Tunbridge Wells
+51.5419|-1.9045|Royal Wootton Bassett
+51.7718|0.0403|Roydon
+52.0483|-0.0244|Royston
+53.5651|-2.1227|Royton
+52.9878|-3.0388|Ruabon
+51.8550|-2.5505|Ruardean
+52.8925|-1.1495|Ruddington
+51.0874|-0.4516|Rudgwick
+53.6337|-2.8166|Rufford
+52.3709|-1.2642|Rugby
+52.7593|-1.9369|Rugeley
+51.5734|-0.4234|Ruislip
+53.3417|-2.7312|Runcorn
+52.2893|-0.6018|Rushden
+51.2753|-0.8508|Rushmoor
+53.0454|-0.3869|Ruskington
+51.1364|0.2293|Rusthall
+50.8103|-0.5067|Rustington
+55.8289|-4.2138|Rutherglen
+53.1137|-3.3178|Ruthin
+52.7955|-2.9032|Ruyton-XI-Towns
+50.7300|-1.1621|Ryde
+50.9511|0.7337|Rye
+52.6859|-0.4685|Ryhall
+53.6220|-1.4107|Ryhill
+54.8714|-1.3700|Ryhope
+52.6167|-2.3500|Ryton
+52.3667|-1.4333|Ryton on Dunsmore
+53.8336|-2.3373|Sabden
+54.8177|-1.6241|Sacriston
+52.0234|0.2423|Saffron Walden
+50.3128|-5.2046|Saint Agnes
+56.3387|-2.7990|Saint Andrews
+53.2582|-3.4452|Saint Asaph
+54.4918|-3.5899|Saint Bees
+55.5730|-2.6441|Saint Boswells
+51.8199|-4.4978|Saint Clears
+50.4316|-4.9434|Saint Columb Major
+56.7750|-2.4155|Saint Cyrus
+51.8809|-5.2655|Saint Davids
+50.3833|-4.8833|Saint Dennis
+50.8556|0.5452|Saint Leonards-on-Sea
+56.2065|-2.7682|Saint Monans
+52.2167|-0.2667|Saint Neots
+51.8000|1.0833|Saint Osyth
+51.3667|1.4167|Saint Peters
+50.3447|-4.8997|Saint Stephen
+54.4605|-5.8307|Saintfield
+50.2374|-3.7687|Salcombe
+53.4252|-2.3244|Sale
+53.4877|-2.2904|Salford
+51.2043|-0.1695|Salfords
+56.1140|-3.5703|Saline
+51.0693|-1.7957|Salisbury
+55.8428|-3.8726|Salsburgh
+50.4096|-4.2251|Saltash
+54.5824|-0.9737|Saltburn-by-the-Sea
+55.6362|-4.7859|Saltcoats
+51.4014|-2.4594|Saltford
+50.9194|-3.3808|Sampford Peverell
+53.1452|-2.3625|Sandbach
+55.9820|-4.9497|Sandbank
+51.3323|-2.8312|Sandford
+50.6516|-1.1610|Sandown
+52.5000|-2.0000|Sandwell
+51.2722|1.3378|Sandwich
+58.7876|-2.9764|Sandwick
+52.1293|-0.2893|Sandy
+55.3653|-3.9216|Sanquhar
+52.5371|-1.2790|Sapcote
+53.2262|-2.9565|Saughall
+51.7094|-4.7021|Saundersfoot
+51.8167|0.1500|Sawbridgeworth
+52.1209|0.1694|Sawston
+52.4398|-0.2842|Sawtry
+53.2675|-0.6625|Saxilby
+52.2150|1.4881|Saxmundham
+53.7667|-0.7167|Scalby
+60.1371|-1.2753|Scalloway
+54.2797|-0.4044|Scarborough
+53.8667|-1.4500|Scarcroft
+53.5379|-0.5409|Scawby
+53.8235|-1.4281|Scholes
+52.3671|1.1567|Scole
+56.4194|-3.4051|Scone
+54.3978|-1.6128|Scorton
+54.8900|-2.8746|Scotby
+53.4965|-0.6743|Scotter
+53.5791|-0.6544|Scunthorpe
+55.8779|-3.5878|Seafield
+50.7714|0.1027|Seaford
+54.8390|-1.3458|Seaham
+55.5806|-1.6550|Seahouses
+54.3983|-3.4796|Seascale
+52.5749|-0.6676|Seaton
+55.0720|-1.5261|Seaton Delaval
+50.7196|-1.1116|Seaview
+54.3212|-2.5251|Sedbergh
+54.6533|-1.4495|Sedgefield
+51.3481|-2.0847|Seend
+51.6180|-0.6059|Seer Green
+53.5000|-3.0000|Sefton
+55.0622|-1.5503|Seghill
+53.7833|-1.0667|Selby
+55.5474|-2.8391|Selkirk
+50.7350|-0.7898|Selsey
+51.2888|-0.5267|Send
+54.0686|-2.2772|Settle
+51.7667|-3.7167|Seven Sisters
+51.2727|0.1888|Sevenoaks
+51.5604|-2.6628|Severn Beach
+51.1080|0.8192|Shadoxhurst
+53.8546|-1.4726|Shadwell
+51.0053|-2.1933|Shaftesbury
+51.3636|-1.5505|Shalbourne
+50.7011|-1.4201|Shalfleet
+50.6261|-1.1785|Shanklin
+54.5315|-2.6755|Shap
+53.6696|-1.4129|Sharlston
+52.2261|-0.5443|Sharnbrook
+51.7197|-2.4775|Sharpness
+53.5667|-2.0833|Shaw
+52.7910|-2.6618|Shawbury
+51.4404|0.7625|Sheerness
+53.3830|-1.4659|Sheffield
+52.0387|-0.3340|Shefford
+53.6000|-1.6833|Shelley
+51.6905|-0.2807|Shenley
+52.6380|-1.8415|Shenstone
+51.1871|1.2305|Shepherdswell
+53.5833|-1.7167|Shepley
+51.3955|-0.4489|Shepperton
+52.7657|-1.2902|Shepshed
+51.1897|-2.5472|Shepton Mallet
+50.9460|-2.5178|Sherborne
+51.2970|-1.1139|Sherborne St John
+54.7761|-1.5047|Sherburn
+54.7727|-1.4799|Sherburn Hill
+53.7952|-1.2466|Sherburn in Elmet
+54.0890|-1.0064|Sheriff Hutton
+52.9408|1.2093|Sheringham
+52.1117|-0.6997|Sherington
+51.5720|-2.2128|Sherston
+60.3333|-1.3333|Shetland Islands
+53.5724|-2.6932|Shevington
+55.9728|-3.7679|Shieldhill
+52.6704|-2.3725|Shifnal
+55.3710|-1.6882|Shilbottle
+54.6300|-1.6429|Shildon
+50.8957|-2.2449|Shillingstone
+51.9934|-0.3601|Shillington
+52.6292|0.8858|Shipdham
+51.3143|-2.8001|Shipham
+53.8333|-1.7667|Shipley
+52.0606|-1.6278|Shipston on Stour
+51.8603|-1.5985|Shipton under Wychwood
+53.2033|-1.2134|Shirebrook
+55.0354|-1.5095|Shiremoor
+53.1215|-1.4046|Shirland
+52.4107|-1.8195|Shirley
+50.8341|-0.2743|Shoreham-by-Sea
+51.3991|0.0044|Shortlands
+51.9579|1.2687|Shotley Gate
+55.8195|-3.7975|Shotts
+52.7101|-2.7521|Shrewsbury
+51.1919|-1.9026|Shrewton
+51.5985|-1.6546|Shrivenham
+52.6667|-2.7500|Shropshire
+51.8626|-2.1206|Shurdington
+51.9777|0.5926|Sible Hedingham
+53.0386|0.0158|Sibsey
+51.4262|0.1036|Sidcup
+50.6909|-3.2397|Sidmouth
+52.7329|-1.1077|Sileby
+53.5481|-1.5638|Silkstone
+54.8687|-3.3845|Silloth
+53.9144|-1.9380|Silsden
+52.0085|-0.4248|Silsoe
+51.8473|0.6240|Silver End
+54.1667|-2.8167|Silverdale
+52.0922|-1.0260|Silverstone
+50.8167|-3.4833|Silverton
+52.8816|-1.4868|Sinfin
+54.7875|-7.4728|Sion Mills
+52.3333|-3.4167|Sir Powys
+51.1091|0.5600|Sissinghurst
+51.3413|0.7328|Sittingbourne
+53.1436|0.3363|Skegness
+53.2353|-0.6190|Skellingthorpe
+53.5502|-2.7735|Skelmersdale
+55.8695|-4.8848|Skelmorlie
+53.7252|-0.8419|Skelton
+53.7892|-0.4613|Skidby
+54.5691|-0.8987|Skinningrove
+53.9767|-0.2208|Skipsea
+53.9614|-2.0168|Skipton
+54.9137|-2.0371|Slaley
+55.9373|-3.8331|Slamannan
+52.9983|-0.4094|Sleaford
+54.4551|-0.6648|Sleights
+51.0721|-0.4066|Slinfold
+51.5095|-0.5954|Slough
+52.4927|-1.9674|Smethwick
+57.4796|-4.1514|Smithton
+53.6911|-1.0286|Snaith
+52.8788|0.5010|Snettisham
+51.3297|0.4430|Snodland
+52.3354|0.3365|Soham
+52.4167|-1.7500|Solihull
+51.0833|-3.0000|Somerset
+52.3833|0.0000|Somersham
+51.9542|-1.2761|Somerton
+51.5187|-0.9775|Sonning Common
+55.2500|-4.6667|South Ayrshire
+51.5530|0.5596|South Benfleet
+50.4265|-3.8343|South Brent
+53.7699|-0.6011|South Cave
+51.6732|-1.9310|South Cerney
+50.9383|-0.0210|South Chailey
+53.1333|-0.7667|South Collingham
+51.3622|-0.0942|South Croydon
+53.5971|-1.2803|South Elmsall
+51.5000|-2.4167|South Gloucestershire
+50.9692|-0.8839|South Harting
+50.7877|-0.9770|South Hayling
+54.7991|-1.4067|South Hetton
+55.5833|-3.8333|South Lanarkshire
+52.1142|-1.8901|South Littleton
+52.6086|-0.6123|South Luffenham
+53.7767|-1.2461|South Milford
+51.0167|-3.8333|South Molton
+51.0167|-0.1333|South Nutfield
+51.5080|0.2833|South Ockendon
+50.9483|-2.8071|South Petherton
+54.9986|-1.4323|South Shields
+54.9500|-1.4167|South Tyneside
+53.0959|-1.4400|South Wingfield
+52.7648|-0.6281|South Witham
+51.5090|-0.3713|Southall
+52.2527|-1.3884|Southam
+50.9167|-1.3833|Southampton
+51.5405|0.7294|Southchurch Village
+51.5378|0.7143|Southend-on-Sea
+52.5271|0.3878|Southery
+51.5694|-4.0897|Southgate
+51.6623|0.8297|Southminster
+53.7099|-1.8318|Southowram
+53.6458|-3.0101|Southport
+50.7921|-1.0859|Southsea
+51.0237|-0.3517|Southwater
+53.0780|-0.9554|Southwell
+51.2969|-2.2325|Southwick
+52.3272|1.6802|Southwold
+53.7090|-1.9093|Sowerby Bridge
+52.7871|-0.1514|Spalding
+51.1508|0.2195|Speldhurst
+54.6988|-1.6023|Spennymoor
+53.1736|0.0937|Spilsby
+51.8689|-4.9425|Spittal
+52.6853|1.3203|Spixworth
+53.9543|-1.4485|Spofforth
+52.3245|-0.9539|Spratton
+55.6151|-4.5906|Springside
+53.7938|-0.1913|Sproatley
+51.7500|-0.3333|St Albans
+50.3425|-4.7744|St Austell
+53.4500|-2.7333|St Helens
+50.2086|-5.4875|St Ives
+50.1238|-5.6806|St Just
+50.8308|-1.8438|St Leonards
+51.0100|0.9771|St Mary's Bay
+49.9203|-6.2929|St Mary's Isles of Scilly
+50.2396|-5.1857|St. Day
+50.6969|-1.1116|St. Helens
+52.8052|-2.1164|Stafford
+52.8333|-2.0000|Staffordshire
+52.1305|-0.5668|Stagsden
+53.9333|-1.6167|Stainburn
+54.5810|-1.8071|Staindrop
+51.4309|-0.5061|Staines
+53.6000|-1.0333|Stainforth
+55.1611|-1.5753|Stakeford
+50.9581|-2.3755|Stalbridge
+52.7708|1.5178|Stalham
+53.5868|-0.1849|Stallingborough
+53.4841|-2.0591|Stalybridge
+52.6500|-0.4833|Stamford
+53.9885|-0.9155|Stamford Bridge
+51.9086|-0.5981|Stanbridge
+51.7269|-1.4244|Standlake
+52.9167|-2.2833|Standon
+51.6397|-1.5065|Stanford in the Vale
+51.5227|0.4342|Stanford-le-Hope
+54.7500|-2.0167|Stanhope
+54.8680|-1.6985|Stanley
+51.6167|-0.3167|Stanmore
+55.1086|-1.6685|Stannington
+51.9000|0.2000|Stansted Mountfitchet
+52.3320|-0.5635|Stanwick
+51.1611|0.5525|Staplehurst
+50.6273|-3.4480|Starcross
+54.5385|-1.9302|Startforth
+53.2667|-1.3500|Staveley
+52.0435|0.4481|Steeple Bumpstead
+51.9364|-0.9833|Steeple Claydon
+53.8833|-1.9500|Steeton
+56.0268|-3.8146|Stenhousemuir
+55.8890|-4.1521|Stepps
+51.9022|-0.2026|Stevenage
+55.6397|-4.7534|Stevenston
+51.6247|-1.3215|Steventon
+52.1685|-0.5552|Stevington
+52.0704|-0.5149|Stewartby
+55.6799|-4.5144|Stewarton
+51.9274|-0.7638|Stewkley
+50.8874|-0.3279|Steyning
+51.7292|-5.0172|Steynton
+53.0895|0.0054|Stickney
+54.6053|-1.4219|Stillington
+52.4879|-0.2889|Stilton
+56.1153|-4.2339|Stirling
+50.1887|-5.1781|Stithians
+51.6635|0.4426|Stock
+53.4098|-2.1576|Stockport
+53.4825|-1.5937|Stocksbridge
+54.9403|-1.9040|Stocksfield
+52.2718|-1.3605|Stockton
+53.3708|-2.5741|Stockton Heath
+54.5500|-1.3333|Stockton-on-Tees
+52.5705|0.5132|Stoke Ferry
+50.4033|-3.6211|Stoke Gabriel
+51.5169|-2.5405|Stoke Gifford
+52.5706|-1.4112|Stoke Golding
+52.1313|-0.7781|Stoke Goldington
+51.5444|-0.5888|Stoke Poges
+52.2998|-2.0803|Stoke Prior
+53.0042|-2.1854|Stoke-on-Trent
+50.9540|-2.7497|Stoke-sub-Hamdon
+51.6583|-0.8974|Stokenchurch
+54.4700|-1.1933|Stokesley
+52.9059|-2.1541|Stone
+56.9637|-2.2118|Stonehaven
+51.7500|-2.2833|Stonehouse
+51.8514|-1.4296|Stonesfield
+52.5484|-1.2793|Stoney Stanton
+55.8437|-3.6386|Stoneyburn
+58.2092|-6.3865|Stornoway
+50.9177|-0.4547|Storrington
+52.0163|-0.2321|Stotfold
+52.4561|-2.1432|Stourbridge
+52.3398|-2.2803|Stourport-on-Severn
+51.9301|-1.7238|Stow on the Wold
+52.1889|0.9977|Stowmarket
+54.8237|-7.4692|Strabane
+52.3182|1.2728|Stradbroke
+54.9023|-5.0273|Stranraer
+51.3734|-1.0350|Stratfield Mortimer
+52.1917|-1.7073|Stratford-upon-Avon
+55.6771|-4.0668|Strathaven
+55.9860|-4.3066|Strathblane
+57.5852|-4.5419|Strathpeffer
+51.7339|-1.9797|Stratton
+51.9463|-0.4437|Streatley
+51.1247|-2.7400|Street
+52.5833|-1.8833|Streetly
+54.0400|-1.0351|Strensall
+53.4500|-2.3167|Stretford
+52.3471|0.2185|Stretham
+58.9614|-3.2994|Stromness
+51.3932|0.4771|Strood
+51.7500|-2.2000|Stroud
+52.2703|-1.8919|Studley
+50.7997|-2.0762|Sturminster Marshall
+50.9268|-2.3051|Sturminster Newton
+51.3013|1.1216|Sturry
+53.2667|-0.4500|Sudbrooke
+52.0389|0.7312|Sudbury
+52.1667|1.0000|Suffolk
+51.4042|-0.4182|Sunbury-on-Thames
+54.9046|-1.3822|Sunderland
+51.2780|0.1223|Sundridge
+51.3915|-0.2983|Surbiton
+51.2500|-0.3333|Surrey
+52.9027|-0.0924|Sutterton
+51.3500|-0.2000|Sutton
+51.5069|-2.0802|Sutton Benger
+52.8214|-1.2497|Sutton Bonington
+52.7700|0.1855|Sutton Bridge
+52.5667|-1.8167|Sutton Coldfield
+51.6413|-1.2768|Sutton Courtenay
+53.1254|-1.2613|Sutton in Ashfield
+53.1844|-0.8109|Sutton on Trent
+53.9131|-0.9246|Sutton upon Derwent
+52.7740|-1.5574|Swadlincote
+52.6477|0.6857|Swaffham
+50.6092|-1.9626|Swanage
+51.3972|0.1732|Swanley
+50.9440|-1.1802|Swanmore
+51.4471|0.3103|Swanscombe
+51.6208|-3.9432|Swansea
+54.1847|-3.1171|Swarthmoor
+52.3015|-0.0048|Swavesey
+50.7869|-1.6029|Sway
+53.7685|-1.4175|Swillington
+51.5580|-1.7812|Swindon
+52.9454|-0.1595|Swineshead
+53.5000|-2.3500|Swinton
+55.5518|-4.5583|Symington
+52.6833|-1.0667|Syston
+52.2986|-0.7973|Sywell
+53.8832|-1.2634|Tadcaster
+51.3505|-1.1285|Tadley
+51.2917|-0.2358|Tadworth
+51.5833|-3.7667|Taibach
+57.8090|-4.0599|Tain
+51.8709|0.2658|Takeley
+52.7747|-4.0922|Tal-y-bont
+51.9959|-3.2321|Talgarth
+53.0536|-4.2577|Talysarn
+52.6340|-1.6959|Tamworth
+54.3549|-6.4140|Tandragee
+54.8929|-1.7132|Tanfield
+50.8513|-0.7163|Tangmere
+51.3637|1.0491|Tankerton
+53.1320|-1.5188|Tansley
+55.8628|-5.4162|Tarbert
+55.5129|-4.4865|Tarbolton
+53.6801|-2.8297|Tarleton
+53.1592|-2.6687|Tarporley
+53.1974|-2.7655|Tarvin
+53.1219|-2.7675|Tattenhall
+51.0149|-3.1029|Taunton
+50.5494|-4.1442|Tavistock
+56.4470|-2.8797|Tayport
+51.4223|-0.3305|Teddington
+50.5477|-3.4964|Teignmouth
+52.6766|-2.4493|Telford
+52.7500|-2.5000|Telford and Wrekin
+50.9991|-2.4158|Templecombe
+54.6833|-6.0833|Templepatrick
+51.7719|-4.7378|Templeton
+52.1705|-0.2959|Tempsford
+52.3108|-2.5962|Tenbury Wells
+51.6728|-4.7045|Tenby
+51.0684|0.6878|Tenterden
+52.7055|0.2739|Terrington Saint John
+52.7581|0.2973|Terrington St Clement
+51.1338|-1.8311|Test Valley
+51.6394|-2.1622|Tetbury
+53.4924|-0.0211|Tetney
+51.9924|-2.1601|Tewkesbury
+51.3304|0.8053|Teynham
+51.7484|-0.9762|Thame
+51.3896|-0.3393|Thames Ditton
+51.4037|-1.2605|Thatcham
+51.9533|0.3448|Thaxted
+54.9426|-1.4535|The Boldons
+55.5833|-2.8333|The Scottish Borders
+51.4369|-1.0770|Theale
+52.4167|0.7500|Thetford
+51.6743|0.0978|Theydon Bois
+54.2330|-1.3441|Thirsk
+54.5333|-1.3000|Thornaby-on-Tees
+51.6089|-2.5203|Thornbury
+53.6112|-0.9631|Thorne
+53.8609|-1.4268|Thorner
+52.6215|-0.1081|Thorney
+53.7210|-0.1718|Thorngumbald
+55.2333|-3.7667|Thornhill
+54.7500|-1.4333|Thornley
+55.8045|-4.3175|Thornliebank
+56.1667|-3.1500|Thornton
+54.2353|-0.7202|Thornton Dale
+51.3988|-0.0987|Thornton Heath
+53.8739|-3.0224|Thornton-Cleveleys
+53.9158|-1.3198|Thorp Arch
+52.6277|1.3117|Thorpe Hamlet
+51.8560|1.1658|Thorpe le Soken
+52.3967|-0.5392|Thrapston
+51.6287|-4.0626|Three Crosses
+50.8500|-1.8833|Three Legged Cross
+52.7388|-0.3787|Thurlby
+52.5288|1.5562|Thurlton
+58.5927|-3.5259|Thurso
+52.2524|0.8075|Thurston
+53.1444|-1.3406|Tibshelf
+51.0465|0.4086|Ticehurst
+53.4319|-1.1086|Tickhill
+53.8623|-0.3833|Tickton
+53.2781|-1.7729|Tideswell
+51.2314|-1.6632|Tidworth
+51.4625|0.3586|Tilbury
+56.1525|-3.7401|Tillicoultry
+53.4000|-2.3333|Timperley
+51.3244|-2.4792|Timsbury
+51.9903|-1.0480|Tingewick
+50.6632|-4.7505|Tintagel
+51.6968|-2.6814|Tintern
+52.5296|-2.0677|Tipton
+51.8123|0.7454|Tiptree
+51.0628|-2.0806|Tisbury
+50.9024|-3.4923|Tiverton
+56.6220|-6.0723|Tobermory
+51.9492|-0.5328|Toddington
+53.7143|-2.0970|Todmorden
+53.3537|-1.2567|Todwick
+51.7591|0.8346|Tollesbury
+51.7987|0.7765|Tolleshunt Knights
+51.1953|0.2736|Tonbridge
+51.6220|-3.4554|Tonypandy
+51.5840|-3.4304|Tonyrefail
+50.6860|-3.4670|Topsham
+51.7015|-3.0514|Torfaen County Borough
+57.1056|-2.6240|Torphins
+50.3751|-4.1957|Torpoint
+50.4620|-3.5252|Torquay
+55.9400|-4.2103|Torrance
+50.4311|-3.6843|Totnes
+51.8856|-0.5734|Totternhoe
+53.6133|-2.3407|Tottington
+50.9188|-1.4904|Totton
+54.7446|-1.8143|Tow Law
+52.1336|-0.9906|Towcester
+51.0530|0.2322|Town Row
+56.0891|-3.4389|Townhill
+53.4167|-2.3333|Trafford
+53.4688|-2.3119|Trafford Park
+55.9444|-2.9541|Tranent
+52.9021|-3.9229|Trawsfynydd
+51.7725|-3.2468|Tredegar
+53.3856|-1.3519|Treeton
+53.2253|-3.4203|Trefnant
+52.2195|-3.9329|Tregaron
+53.1901|-4.0878|Tregarth
+51.6646|-3.3072|Treharris
+51.6596|-3.5059|Treorchy
+53.1148|-3.1200|Treuddyn
+54.6988|-1.4288|Trimdon
+54.7141|-1.4261|Trimdon Grange
+51.7199|-4.2417|Trimsaran
+51.7947|-0.6582|Tring
+55.5436|-4.6634|Troon
+51.3189|-2.2086|Trowbridge
+50.2653|-5.0544|Truro
+56.1336|-3.8384|Tullibody
+51.7836|-4.1097|Tumble
+53.0583|-2.2114|Tunstall
+57.5384|-2.4593|Turriff
+53.2300|-0.8932|Tuxford
+55.9541|-4.0822|Twechar
+55.6045|-2.7669|Tweedbank
+51.4752|-0.8604|Twyford
+51.7781|-4.0200|Tycroes
+53.5139|-2.4675|Tyldesley
+55.0179|-1.4256|Tynemouth
+51.5925|-2.4797|Tytherington
+52.5858|-4.0928|Tywyn
+50.9695|0.0959|Uckfield
+55.8197|-4.0836|Uddingston
+50.9060|-3.3275|Uffculme
+53.6167|-0.3333|Ulceby
+57.8987|-5.1604|Ullapool
+53.9920|-0.2297|Ulrome
+54.1959|-3.0963|Ulverston
+51.5753|-2.8145|Undy
+50.1830|-5.4405|Uny Lelant
+51.3762|0.6479|Upchurch
+51.5559|0.2556|Upminster
+51.4817|-1.1407|Upper Basildon
+53.2292|-1.2069|Upper Langwith
+53.9791|-1.1520|Upper Poppleton
+52.5880|-0.7227|Uppingham
+53.6147|-1.2868|Upton
+51.2300|-2.1933|Upton Scudamore
+52.0626|-2.2180|Upton upon Severn
+52.6025|0.2219|Upwell
+53.4485|-2.3542|Urmston
+54.7780|-1.6472|Ushaw Moor
+51.7035|-2.9033|Usk
+52.8984|-1.8649|Uttoxeter
+51.4167|-3.4167|Vale of Glamorgan
+55.9713|-4.5793|Vale of Leven
+53.2849|-4.5664|Valley
+50.5945|-1.2067|Ventnor
+50.8757|-1.8702|Verwood
+51.7500|-3.2000|Victoria
+55.8274|-4.0573|Viewpark
+51.4034|-0.5665|Virginia Water
+51.8468|-0.9211|Waddesdon
+53.1667|-0.5333|Waddington
+50.5173|-4.8363|Wadebridge
+51.0623|0.3393|Wadhurst
+53.4673|-1.1426|Wadworth
+53.1057|0.2358|Wainfleet All Saints
+53.6833|-1.4977|Wakefield
+50.8447|-0.6201|Walberton
+53.3406|-1.2816|Wales
+53.5167|-2.4000|Walkden
+51.9189|-0.1276|Walkern
+53.8195|-0.4896|Walkington
+53.4232|-3.0650|Wallasey
+51.5998|-1.1248|Wallingford
+54.9911|-1.5340|Wallsend
+52.5833|-2.0000|Walsall
+53.6936|-2.1000|Walsden
+53.5167|-0.1000|Waltham
+51.6870|-0.0042|Waltham Abbey
+51.6860|-0.0357|Waltham Cross
+53.2228|-1.4608|Walton
+51.3868|-0.4132|Walton-on-Thames
+51.8482|1.2674|Walton-on-the-Naze
+51.5426|-1.6984|Wanborough
+52.5785|-0.4200|Wansford
+51.5885|-1.4257|Wantage
+52.4035|-0.0793|Warboys
+53.6500|-2.1333|Wardle
+51.8106|-0.0288|Ware
+50.6879|-2.1106|Wareham
+51.5007|-0.8658|Wargrave
+54.4343|-6.2993|Waringstown
+55.3500|-1.6167|Warkworth
+51.3095|-0.0579|Warlingham
+51.2043|-2.1787|Warminster
+51.0911|-0.3485|Warnham
+54.1015|-6.2573|Warrenpoint
+53.4167|-2.5833|Warrington
+53.2140|-1.1509|Warsop
+54.1472|-2.7643|Warton
+52.2833|-1.5833|Warwick
+52.3333|-1.5833|Warwickshire
+53.2242|-0.4748|Washingborough
+54.9000|-1.5167|Washington
+52.5005|-1.8266|Washwood Heath
+51.1819|-3.3308|Watchet
+51.9870|-0.7219|Water Eaton
+52.5157|-1.7401|Water Orton
+52.2655|0.1912|Waterbeach
+55.7694|-4.2837|Waterfoot
+51.2554|0.4232|Wateringbury
+53.4745|-3.0302|Waterloo
+50.8807|-1.0304|Waterlooville
+51.6553|-0.3960|Watford
+53.5029|-1.3458|Wath upon Dearne
+51.6433|-1.0045|Watlington
+52.1254|0.9386|Wattisham
+52.5667|0.8333|Watton
+51.8584|-0.1138|Watton at Stone
+53.2602|-2.5729|Weaverham
+51.2273|-2.8115|Wedmore
+52.5514|-2.0236|Wednesbury
+52.5963|-2.0851|Wednesfield
+52.2296|-1.0837|Weedon Beck
+52.4644|0.6149|Weeting
+52.4171|-1.0587|Welford
+52.1971|-1.5905|Wellesbourne
+52.1925|-1.6097|Wellesbourne Mountford
+51.4625|0.1076|Welling
+52.3027|-0.6945|Wellingborough
+52.7000|-2.5167|Wellington
+51.3244|-2.3742|Wellow
+51.2079|-2.6490|Wells
+52.9516|0.8511|Wells-next-the-Sea
+52.6597|-3.1471|Welshpool
+51.8331|-0.2136|Welwyn
+51.8017|-0.2069|Welwyn Garden City
+52.8584|-2.7183|Wem
+51.5524|-0.2969|Wembley
+50.3227|-4.0753|Wembury
+55.8761|-4.8895|Wemyss Bay
+51.7619|-0.7399|Wendover
+53.4782|-1.4150|Wentworth
+51.4478|-3.2637|Wenvoe
+52.1596|-2.8750|Weobley
+51.9122|0.8499|West Bergholt
+51.4167|-1.2500|West Berkshire
+52.9298|-1.1254|West Bridgford
+52.5187|-1.9945|West Bromwich
+51.3376|-0.5065|West Byfleet
+55.8519|-3.5698|West Calder
+51.2606|-0.5032|West Clandon
+50.9191|-2.6871|West Coker
+54.7029|-1.5194|West Cornforth
+51.5000|-0.4667|West Drayton
+55.9667|-4.5333|West Dunbartonshire
+50.9274|-1.3328|West End
+51.5141|-0.1551|West End of London
+52.3417|-1.0780|West Haddon
+52.9709|-1.3585|West Hallam
+51.2603|-0.4556|West Horsley
+51.5399|-1.3237|West Ilsley
+55.6900|-4.8577|West Kilbride
+51.3428|0.2613|West Kingsdown
+53.3730|-3.1842|West Kirby
+55.7497|-3.3561|West Linton
+55.9167|-3.5000|West Lothian
+51.2927|0.4091|West Malling
+51.7780|0.9187|West Mersea
+51.3999|-0.3800|West Molesey
+54.8167|-1.5000|West Rainton
+51.0000|-0.4167|West Sussex
+51.4783|0.2767|West Thurrock
+52.6978|0.1741|West Walton
+50.9727|-1.5829|West Wellow
+51.3667|-0.0167|West Wickham
+51.2600|-2.1875|Westbury
+51.5442|0.6918|Westcliff-on-Sea
+51.2244|-0.3720|Westcott
+50.8399|-0.6712|Westergate
+51.2663|0.0689|Westerham
+51.8833|-1.8667|Westfield
+51.3824|1.3367|Westgate on Sea
+57.1526|-2.2797|Westhill
+53.5490|-2.5246|Westhoughton
+53.0667|-2.4000|Weston
+51.7917|-0.7577|Weston Turville
+51.3460|-2.9766|Weston-super-Mare
+51.9814|-0.4970|Westoning
+51.1085|-2.9284|Westonzoyland
+55.9914|-3.7402|Westquarter
+51.3346|-2.2797|Westwood
+54.8840|-2.8333|Wetheral
+53.9284|-1.3867|Wetherby
+54.0175|-0.5774|Wetwang
+51.3718|-0.4597|Weybridge
+50.6145|-2.4599|Weymouth
+53.3303|-1.9826|Whaley Bridge
+53.8221|-2.4071|Whalley
+52.7993|-0.0364|Whaplode
+51.8115|-0.2937|Wheathampstead
+51.7473|-1.1394|Wheatley
+52.7114|-2.2206|Wheaton Aston
+53.8962|-0.9630|Wheldrake
+54.9456|-1.6764|Whickham
+50.7665|-3.3565|Whimple
+54.9533|-1.3686|Whitburn
+54.4877|-0.6150|Whitby
+52.9667|-2.6833|Whitchurch
+51.4922|-0.7724|White Waltham
+55.9194|-3.0423|Whitecraig
+53.5500|-2.3000|Whitefield
+54.5490|-3.5841|Whitehaven
+54.7537|-5.7093|Whitehead
+57.6773|-2.5786|Whitehills
+51.0104|-1.6485|Whiteparish
+51.8189|-4.6153|Whitland
+51.3953|-2.1644|Whitley
+55.0397|-1.4471|Whitley Bay
+51.3607|1.0257|Whitstable
+55.4012|-1.8934|Whittingham
+52.6737|-1.7609|Whittington
+52.5580|-0.1302|Whittlesey
+52.1135|0.1497|Whittlesford
+53.2833|-1.2167|Whitwell
+53.6560|-2.1771|Whitworth
+51.3081|-0.0843|Whyteleafe
+51.4394|-3.5494|Wick
+51.6110|0.5233|Wickford
+50.8992|-1.1882|Wickham
+51.7783|0.6682|Wickham Bishops
+52.1530|1.3630|Wickham Market
+51.5940|-2.3997|Wickwar
+55.0451|-1.6225|Wideopen
+53.3618|-2.7341|Widnes
+53.5430|-2.6371|Wigan
+52.3147|-2.8580|Wigmore
+52.5813|-1.0925|Wigston Magna
+54.8248|-3.1611|Wigton
+53.9485|-0.8894|Wilberfoss
+52.3519|0.1767|Wilburton
+50.8833|-3.3667|Willand
+53.2955|-2.9973|Willaston
+52.5851|-2.0593|Willenhall
+52.3140|0.0578|Willingham
+54.7167|-1.7000|Willington
+51.1624|-3.3221|Williton
+52.2208|-1.7653|Wilmcote
+53.3280|-2.2315|Wilmslow
+53.8208|-1.8596|Wilsden
+52.0809|-0.4489|Wilstead
+51.0793|-1.8621|Wilton
+51.2500|-1.9167|Wiltshire
+52.5093|0.0842|Wimblington
+50.7833|-1.9833|Wimborne Minster
+51.0568|-2.4057|Wincanton
+55.9579|-3.4646|Winchburgh
+51.9536|-1.9640|Winchcombe
+50.9169|0.7216|Winchelsea Beach
+51.0651|-1.3187|Winchester
+54.3809|-2.9071|Windermere
+51.3651|-0.6548|Windlesham
+51.4833|-0.6000|Windsor
+56.1955|-3.0527|Windygates
+51.3833|-2.6611|Winford
+51.8952|-0.7196|Wing
+54.7324|-1.3790|Wingate
+53.2020|-1.4336|Wingerworth
+51.2717|1.2146|Wingham
+51.8649|-0.7424|Wingrave
+50.8558|-3.9430|Winkleigh
+51.3181|-2.8322|Winscombe
+53.1915|-2.5240|Winsford
+51.9428|-0.8813|Winslow
+51.4461|-1.3466|Winterbourne
+53.6550|-0.5988|Winterton
+53.4333|-2.6000|Winwick
+53.0823|-1.5739|Wirksworth
+52.6662|0.1594|Wisbech
+55.7667|-3.9167|Wishaw
+52.3870|0.2060|Witchford
+51.8001|0.6404|Witham
+50.9174|-3.7035|Witheridge
+53.7311|0.0335|Withernsea
+51.1499|-0.6477|Witley
+51.7836|-1.4854|Witney
+52.6070|-0.4405|Wittering
+54.8057|-1.6369|Witton Gilbert
+51.0414|-3.3128|Wiveliscombe
+50.9631|-0.0713|Wivelsfield Green
+51.8555|0.9580|Wivenhoe
+51.9886|-0.6190|Woburn
+52.0158|-0.6498|Woburn Sands
+51.3190|-0.5589|Woking
+51.4167|-0.9167|Wokingham
+54.1428|-0.3999|Wold Newton
+51.2853|-0.0337|Woldingham
+52.2579|-0.6704|Wollaston
+54.7308|-1.8832|Wolsingham
+52.3772|-1.3954|Wolston
+51.7841|-1.2934|Wolvercote
+52.5833|-2.1167|Wolverhampton
+52.5333|-2.1833|Wombourn
+53.5219|-1.3970|Wombwell
+51.2510|-0.6370|Wood Street Village
+51.3385|-1.8398|Woodborough
+52.0933|1.3204|Woodbridge
+50.6766|-3.4016|Woodbury
+51.0761|0.7735|Woodchurch
+52.7333|-2.3333|Woodcote
+52.3823|-0.5810|Woodford
+51.6094|0.0233|Woodford Green
+53.1521|-0.2145|Woodhall Spa
+53.3480|-1.1720|Woodsetts
+51.8485|-1.3513|Woodstock
+50.6797|-2.2189|Wool
+51.1649|-2.9381|Woolavington
+55.5476|-2.0119|Wooler
+53.6134|-1.5146|Woolley
+52.2245|0.8883|Woolpit
+51.1738|1.1794|Wootton
+52.1893|-2.2200|Worcester
+51.3799|-0.2445|Worcester Park
+52.1667|-2.1667|Worcestershire
+54.6425|-3.5441|Workington
+53.3018|-1.1240|Worksop
+53.6113|-0.4668|Worlaby
+51.1362|-0.6467|Wormley
+50.8180|-0.3754|Worthing
+51.3161|-2.0411|Worton
+51.6324|-2.3451|Wotton-under-Edge
+51.3499|0.4582|Wouldham
+53.2833|-0.3000|Wragby
+53.5667|-0.4619|Wrawby
+53.7765|-2.9157|Wrea Green
+53.0000|-3.0000|Wrexham
+51.3617|-2.7632|Wrington
+51.7291|0.4294|Writtle
+51.3086|0.3090|Wrotham
+51.5241|-1.7956|Wroughton
+52.3379|-1.6690|Wroxall
+52.2904|-2.1155|Wychbold
+51.1825|0.9368|Wye
+54.9765|-1.8219|Wylam
+52.8054|-1.1129|Wymeswold
+53.1874|-4.2048|Y Felinheli
+51.2239|0.4292|Yalding
+50.8209|-0.6130|Yapton
+54.5036|-1.3579|Yarm
+50.7053|-1.4993|Yarmouth
+51.8045|-1.3115|Yarnton
+51.5407|-2.4184|Yate
+51.3430|-0.8298|Yateley
+51.3884|-2.8235|Yatton
+52.5177|-0.2585|Yaxley
+53.8644|-1.6874|Yeadon
+50.3486|-3.9988|Yealmpton
+50.4929|-4.0838|Yelverton
+50.9416|-2.6321|Yeovil
+50.8958|-2.5796|Yetminster
+51.6392|-3.3604|Ynysybwl
+53.9576|-1.0827|York
+53.1740|-1.6904|Youlgreave
+52.7666|-1.7907|Yoxall
+51.7672|-3.7808|Ystalyfera

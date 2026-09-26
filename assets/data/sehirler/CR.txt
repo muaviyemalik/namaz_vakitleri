@@ -1,0 +1,149 @@
+10.2167|-85.0000|Abangares
+9.8000|-84.2000|Acosta
+10.0162|-84.2116|Alajuela
+9.9000|-84.1000|Alajuelita
+9.9333|-83.8000|Alvarado
+9.8667|-84.1000|Aserrí
+9.9833|-84.3833|Atenas
+10.5000|-85.2500|Bagaces
+10.0833|-84.1000|Barva
+10.0835|-83.3341|Batán
+10.4079|-85.5884|Belén
+10.7328|-85.0568|Bijagua
+9.1167|-83.2500|Buenos Aires
+9.9500|-84.0667|Calle Blancos
+8.5330|-82.8384|Canoas
+10.4167|-85.5833|Carrillo
+10.0292|-84.2740|Carrillos
+9.8644|-83.9194|Cartago
+10.4801|-85.1135|Cañas
+9.9842|-84.7789|Chacarita
+8.9599|-83.5238|Ciudad Cortés
+9.9509|-84.0850|Colima
+9.9149|-84.2417|Colón
+9.9333|-84.0000|Concepción
+8.6400|-82.9460|Corredor
+8.5833|-82.9167|Corredores
+9.8945|-83.8730|Cot
+8.8833|-82.9667|Coto Brus
+9.9167|-84.0333|Curridabat
+9.3355|-83.6694|Daniel Flores
+9.9473|-84.5063|Desamparados
+9.6500|-83.9500|Dota
+9.7500|-83.9167|El Guarco
+9.9333|-84.1333|Escazú
+10.0000|-84.6667|Esparza
+10.0568|-84.4234|Esquipulas
+10.0000|-84.1500|Flores
+10.6738|-85.1998|Fortuna
+9.6190|-84.6201|Garabito
+9.9485|-84.0636|Goicoechea
+8.6000|-83.1200|Golfito
+9.9349|-84.0169|Granadilla
+10.0689|-84.3146|Grecia
+9.9481|-84.0567|Guadalupe
+10.6667|-84.8333|Guatuso
+10.2000|-83.6667|Guácimo
+10.2168|-83.7848|Guápiles
+10.0024|-84.1165|Heredia
+9.9667|-85.4167|Hojancha
+9.9674|-84.0133|Ipís
+9.6150|-84.6298|Jacó
+9.7500|-83.6833|Jiménez
+10.2809|-84.9595|Juntas
+9.9796|-84.1728|La Asunción
+11.0000|-85.5833|La Cruz
+10.4709|-84.6453|La Fortuna
+9.8506|-83.6169|La Suiza
+9.9167|-83.9833|La Unión
+9.6830|-84.0478|León Cortés
+10.6350|-85.4377|Liberia
+9.9907|-83.0360|Limón
+9.9984|-84.1545|Llorente
+10.8667|-84.6667|Los Chiles
+10.0000|-83.2500|Matina
+10.0069|-84.1340|Mercedes
+10.0925|-84.7298|Miramar
+9.9396|-84.0301|Montes de Oca
+10.1000|-84.7500|Montes de Oro
+9.9167|-84.2500|Mora
+10.0400|-84.0000|Moravia
+9.9167|-85.2833|Nandayure
+10.1167|-84.4000|Naranjo
+10.0833|-85.5000|Nicoya
+10.0000|-83.8333|Oreamuno
+9.7962|-83.8538|Orosí
+9.9000|-84.5667|Orotina
+8.8333|-83.5000|Osa
+9.8071|-84.0476|Pacayas
+10.0333|-84.4333|Palmares
+9.8378|-84.2048|Palmichal
+9.8201|-84.9351|Paquera
+9.7500|-83.8000|Paraíso
+9.5500|-84.3333|Parrita
+9.8807|-84.0350|Patarrá
+9.8113|-83.7034|Pejibaye
+10.4506|-84.2741|Pital
+10.5000|-83.6333|Pococí
+10.1718|-83.6044|Pocora
+10.3667|-84.6167|Pocosol
+10.0833|-84.2333|Poás
+9.9763|-84.8384|Puntarenas
+9.7500|-84.4167|Puriscal
+9.9581|-84.0305|Purral
+9.3547|-83.6348|Pérez Zeledón
+9.4319|-84.1614|Quepos
+10.3238|-84.4271|Quesada
+10.2671|-83.7511|Roxana
+10.2414|-84.2793|Río Segundo
+10.0740|-84.2155|Sabanilla
+9.9116|-84.1783|Salitral
+9.8526|-84.0906|Salitrillos
+9.9833|-84.1833|San Antonio
+10.5833|-84.4167|San Carlos
+9.8990|-84.0029|San Diego
+9.9049|-84.1055|San Felipe
+9.9930|-84.1293|San Francisco
+9.7985|-84.1617|San Ignacio
+10.0333|-84.0333|San Isidro
+10.0167|-84.1000|San Josecito
+10.9517|-85.1361|San José
+10.1025|-84.3169|San Juan
+9.8773|-84.0847|San Juan de Dios
+9.6601|-84.0203|San Marcos
+9.9500|-84.5167|San Mateo
+9.8712|-84.0608|San Miguel
+10.0000|-84.0833|San Pablo
+9.9283|-84.0507|San Pedro
+10.0640|-84.4728|San Rafael
+9.8310|-84.2901|San Rafael Abajo
+9.8756|-84.0766|San Rafael Arriba
+10.0872|-84.4704|San Ramón
+9.9602|-84.0476|San Vicente
+9.9616|-84.0488|San Vicente de Moravia
+8.8208|-82.9709|San Vito
+9.9326|-84.1826|Santa Ana
+10.0833|-84.1500|Santa Bárbara
+10.2500|-85.6667|Santa Cruz
+10.0228|-84.4442|Santiago
+10.0639|-84.1550|Santo Domingo
+10.5000|-84.0000|Sarapiquí
+10.5167|-85.6475|Sardinal
+10.1167|-83.5000|Siquirres
+9.5277|-82.6218|Sixaola
+9.8815|-85.5281|Sámara
+9.5000|-83.0833|Talamanca
+9.6596|-84.0214|Tarrazú
+9.7462|-84.2337|Tejar
+9.9667|-84.0833|Tibás
+10.4588|-84.9751|Tilarán
+9.8384|-83.9839|Tobosi
+9.9064|-83.9876|Tres Ríos
+9.8534|-83.7227|Tucurrique
+9.8000|-83.5333|Turrialba
+9.7500|-84.5000|Turrubares
+10.8500|-85.1667|Upala
+10.1872|-84.3029|Valverde Vega
+10.0600|-84.0000|Vázquez de Coronado
+10.2000|-84.4000|Zarcero
+9.9959|-84.0513|Ángeles

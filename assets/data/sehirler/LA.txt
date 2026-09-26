@@ -1,0 +1,76 @@
+18.8973|103.0927|Anouvong
+14.8107|106.8318|Attapeu
+20.2467|100.4540|Ban Houakhoua
+20.2700|100.4178|Ban Houayxay
+18.2425|104.2128|Ban Nahin
+15.4332|106.3827|Ban Thatèng
+14.8920|105.8779|Champasak
+16.5494|104.8234|Kaysone Phomvihane
+15.4170|106.6946|Lamam
+18.8939|103.1427|Longchaeng
+20.9486|101.4019|Luang Namtha
+19.8860|102.1350|Luang Prabang
+16.7264|105.3933|Muang Alsaphangthong
+16.9474|105.4029|Muang Atsaphan
+15.2443|105.9672|Muang Bachiangchaleunsook
+14.8570|105.7533|Muang Champasak
+16.4936|105.2202|Muang Champhon
+15.3820|107.3185|Muang Dakchung
+20.3876|100.6269|Muang Houayxay
+15.7989|107.0453|Muang Khaleum
+14.1470|105.9594|Muang Không
+15.5463|105.7705|Muang Khôngxédôn
+15.8331|105.5974|Muang Lakhonphéng
+15.4127|106.8171|Muang Laman
+15.4774|106.1411|Muang Laongam
+18.6178|102.8808|Muang Longxan
+21.0042|101.4479|Muang Louang Namtha
+20.6759|100.5264|Muang Meung
+14.2892|105.5683|Muang Mounlapamôk
+16.3846|106.5042|Muang Nong
+16.6667|105.0500|Muang Outhoumphon
+20.0911|100.5994|Muang Paktha
+15.0981|106.4340|Muang Pakxong
+15.1314|105.8161|Muang Pakxé
+14.6845|106.0636|Muang Pathoumphon
+20.1874|100.9260|Muang Pha Oudôm
+16.4432|106.0302|Muang Phin
+14.5682|107.0109|Muang Phouvong
+18.4953|102.4153|Muang Phôn-Hông
+19.4494|103.1917|Muang Phônsavan
+15.1067|105.6489|Muang Phônthong
+14.8054|106.7816|Muang Samakhixai
+16.3587|106.8748|Muang Samouay
+14.7381|106.4133|Muang Sanamxai
+15.0294|107.2316|Muang Sanxai
+15.7159|106.3616|Muang Saravan
+16.1712|105.3073|Muang Songkhon
+14.6256|105.6752|Muang Soukhouma
+16.0776|106.7030|Muang Ta-Ôy
+17.4088|104.8264|Muang Thakhèk
+16.0913|105.8104|Muang Thapangthong
+19.0013|103.6157|Muang Thathôm
+15.4275|106.4815|Muang Thatèng
+16.0224|106.2384|Muang Toumlan
+20.5346|100.2962|Muang Tônpheung
+15.7500|105.9553|Muang Vapi
+16.9407|105.9368|Muang Vilabouli
+16.9443|104.9231|Muang Xaibouli
+14.9059|106.9789|Muang Xaiséttha
+15.3411|105.7370|Muang Xanasômboun
+20.6923|101.9837|Muang Xay
+16.3737|105.0216|Muang Xayphoothong
+16.4004|105.5739|Muang Xônbouli
+15.1202|105.7990|Pakse
+18.3942|103.6611|Pakxan
+15.1815|106.2304|Pakxong
+21.6808|102.1003|Phôngsali
+19.2576|101.7103|Sainyabuli
+15.7165|106.4174|Salavan
+16.5703|104.7622|Savannakhet
+17.4103|104.8307|Thakhèk
+16.7000|105.6000|Thaphalanxay
+18.9235|102.4478|Vangviang
+17.9667|102.6000|Vientiane
+20.4076|104.0656|Xam Neua
+20.4164|104.0450|Xam Nua

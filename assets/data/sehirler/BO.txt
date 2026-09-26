@@ -1,0 +1,223 @@
+-18.8828|-63.3803|Abapó
+-16.0500|-68.6833|Achacachi
+-18.2041|-65.1807|Aiquile
+-15.2368|-68.9846|Amarete
+-17.5685|-65.7688|Arani
+-15.8930|-63.1885|Ascención de Guarayos
+-15.7000|-63.0833|Ascensión
+-20.9352|-66.2214|Atocha
+-16.3000|-68.5333|Batallas
+-22.7321|-64.3372|Bermejo
+-19.5529|-65.4540|Betanzos
+-17.9667|-66.5333|Bolivar
+-20.4323|-63.2815|Boyuibe
+-17.4583|-63.6713|Buena Vista
+-20.6406|-65.2089|Camargo
+-20.0385|-63.5183|Camiri
+-17.7111|-66.2608|Capinota
+-15.8365|-67.5690|Caranavi
+-18.9021|-66.7705|Challapata
+-19.7915|-63.1986|Charagua
+-16.9942|-65.1533|Chimoré
+-16.4086|-67.5294|Chulumani
+-17.5878|-65.9325|Cliza
+-11.0267|-68.7692|Cobija
+-17.3895|-66.1568|Cochabamba
+-17.3167|-66.7167|Colchani
+-17.3500|-65.8667|Colomi
+-18.7003|-66.0040|Colquechaca
+-17.3892|-67.1267|Colquiri
+-17.9154|-64.5316|Comarapa
+-16.4333|-60.9000|Concepción
+-16.3000|-67.6000|Coripata
+-16.1939|-67.7300|Coroico
+-17.8167|-63.0500|Cotoca
+-17.8667|-68.4333|Curahuara de Carangas
+-21.3832|-67.6037|Enrique Baldivieso
+-21.5266|-64.1730|Entre Ríos
+-17.5833|-67.5167|Eucaliptus
+-17.7732|-63.1909|German Busch
+-15.4976|-67.8833|Guanay
+-15.8213|-63.2428|Guarayos
+-10.8258|-65.3581|Guayaramerín
+-18.2890|-66.8358|Huanuni
+-16.2000|-68.6333|Huarina
+-16.2000|-68.6833|Huatajata
+-17.0839|-66.8180|Independencia
+-17.7167|-66.2667|Irpa Irpa
+-18.0551|-63.4282|Jorochito
+-16.1897|-67.7266|José Manuel Pando
+-17.5500|-63.2167|La Bélgica
+-16.5000|-68.1500|La Paz
+-17.3705|-67.6750|Lahuachaca
+-18.0310|-63.4052|Limoncito
+-18.7607|-68.2429|Litoral de Atacama
+-18.4243|-66.5839|Llallagua
+-17.7333|-63.4333|Los Negros
+-18.1725|-67.0210|Machacamarca
+-18.1192|-63.9597|Mairana
+-15.2500|-68.1667|Mapiri
+-17.1188|-63.2310|Mineros
+-17.9410|-65.3402|Mizque
+-19.7999|-63.9546|Monteagudo
+-17.3387|-63.2505|Montero
+-17.8375|-67.9433|Nor Carangas
+-17.2333|-62.8167|Okinawa Número Uno
+-17.9833|-67.1500|Oruro
+-19.3088|-64.3027|Padilla
+-17.6500|-62.7500|Pailón
+-17.2358|-67.9217|Patacamaya
+-17.8833|-62.9667|Paurito
+-18.3803|-66.9669|Poopó
+-17.3517|-63.3928|Portachuelo
+-19.5836|-65.7531|Potosí
+-10.5000|-66.5000|Provincia Abuná
+-18.5000|-66.3333|Provincia Alonzo de Ibáñez
+-17.7500|-63.2500|Provincia Andrés Ibáñez
+-17.5000|-65.5000|Provincia Arani
+-22.1667|-64.3333|Provincia Arce
+-17.5000|-68.0000|Provincia Aroma
+-17.7500|-66.6667|Provincia Arque
+-19.0000|-66.6667|Provincia Avaroa
+-21.6667|-65.0000|Provincia Avilez
+-16.5000|-66.5833|Provincia Ayopaya
+-20.0000|-64.5000|Provincia Azurduy
+-15.0000|-68.9167|Provincia Bautista Saavedra
+-18.9167|-64.3333|Provincia Belisario Boeto
+-15.5000|-69.0000|Provincia Camacho
+-18.3333|-65.0000|Provincia Campero
+-17.8333|-66.1667|Provincia Capinota
+-18.3333|-67.7500|Provincia Carangas
+-17.5000|-65.0000|Provincia Carrasco
+-14.5000|-64.3333|Provincia Cercado
+-16.5000|-65.5000|Provincia Chaparé
+-18.3333|-65.8333|Provincia Charcas
+-18.9167|-66.0000|Provincia Chayanta
+-18.0000|-60.0000|Provincia Chiquitos
+-19.0000|-61.5000|Provincia Cordillera
+-20.2500|-68.2500|Provincia Daniel Campos
+-17.6667|-66.0000|Provincia Esteban Arce
+-18.0000|-63.9167|Provincia Florida
+-14.5000|-68.3333|Provincia Franz Tamayo
+-18.0833|-66.0000|Provincia General Bilbao
+-10.3333|-65.8833|Provincia General Federico Román
+-14.0000|-67.0833|Provincia General José Ballivián
+-17.5833|-65.9167|Provincia Germán Jordán
+-21.6667|-63.0000|Provincia Gran Chaco
+-17.5833|-68.0000|Provincia Gualberto Villarroel
+-20.1667|-64.2500|Provincia Hernando Siles
+-17.0000|-64.0000|Provincia Ichilo
+-16.8333|-68.6667|Provincia Ingavi
+-17.0000|-67.0833|Provincia Inquisivi
+-13.0000|-68.0000|Provincia Iturralde
+-13.4167|-63.5000|Provincia Iténez
+-19.5000|-67.6667|Provincia Ladislao Cabrera
+-15.5000|-68.3333|Provincia Larecaja
+-19.8333|-65.5000|Provincia Linares
+-17.0000|-67.6667|Provincia Loayza
+-16.3333|-68.5000|Provincia Los Andes
+-20.6667|-63.5000|Provincia Luis Calvo
+-11.5833|-67.0000|Provincia Madre de Dios
+-13.0000|-64.9167|Provincia Mamoré
+-16.0000|-69.1667|Provincia Manco Kapac
+-17.8333|-64.4167|Provincia Manuel María Caballero
+-11.3333|-67.5000|Provincia Manuripi
+-15.6667|-64.3333|Provincia Marbán
+-17.9065|-65.3944|Provincia Mizque
+-21.9167|-65.5833|Provincia Modesto Omiste
+-15.1667|-65.5000|Provincia Moxos
+-16.3333|-68.0000|Provincia Murillo
+-15.3333|-68.6667|Provincia Muñecas
+-21.1667|-64.9167|Provincia Méndez
+-11.3333|-68.5000|Provincia Nicolás Suárez
+-20.6667|-66.0000|Provincia Nor Chichas
+-20.3333|-65.0000|Provincia Nor Cinti
+-20.5000|-67.8333|Provincia Nor Lípez
+-16.0000|-67.5000|Provincia Nor Yungas
+-15.9167|-68.8333|Provincia Omasuyos
+-18.6667|-65.1667|Provincia Oropeza
+-21.5833|-64.1667|Provincia O’Connor
+-17.5000|-69.0000|Provincia Pacajes
+-18.3333|-66.9167|Provincia Pantaleón Dalence
+-18.5000|-66.9167|Provincia Poopó
+-17.5000|-65.9167|Provincia Punata
+-20.0000|-66.3333|Provincia Quijarro
+-17.5000|-66.5000|Provincia Quillacollo
+-18.3333|-66.5000|Provincia Rafael Bustillo
+-19.2500|-65.5000|Provincia Saavedra
+-19.0000|-68.5833|Provincia Sabaya
+-18.2000|-68.5500|Provincia Sajama
+-17.8333|-68.2000|Provincia San Pedro de Totora
+-16.5000|-63.5000|Provincia Santiesteban
+-16.8333|-63.9167|Provincia Sara
+-18.2500|-67.4167|Provincia Saucari
+-21.5000|-66.0000|Provincia Sud Chichas
+-20.9167|-64.9167|Provincia Sud Cinti
+-22.0000|-67.5000|Provincia Sud Lípez
+-16.5000|-67.5000|Provincia Sud Yungas
+-17.5115|-66.6196|Provincia Tapacarí
+-19.5000|-64.1667|Provincia Tomina
+-17.8333|-68.2500|Provincia Tomás Barron
+-19.3333|-66.0000|Provincia Tomás Frías
+-11.6667|-66.0000|Provincia Vaca Diez
+-18.5000|-64.1667|Provincia Vallegrande
+-15.5000|-61.0000|Provincia Velasco
+-17.3333|-63.0000|Provincia Warnes
+-13.5000|-66.0000|Provincia Yacuma
+-19.1667|-64.9167|Provincia Yamparáez
+-18.9167|-64.8333|Provincia Zudáñez
+-17.5000|-58.5000|Provincia Ángel Sandoval
+-15.9167|-62.5000|Provincia Ñuflo de Chávez
+-18.9927|-68.6845|Puerto de Mejillones
+-17.7833|-57.7667|Puerto Quijarro
+-17.6500|-62.8000|Puesto de Pailas
+-17.5423|-65.8347|Punata
+-17.3923|-66.2784|Quillacollo
+-16.9833|-67.2167|Quime
+-14.2952|-67.3362|Reyes
+-11.0065|-66.0631|Riberalta
+-18.3347|-59.7614|Roboré
+-14.4413|-67.5278|Rurrenabaque
+-17.3980|-66.0383|Sacaba
+-18.1801|-63.8755|Samaipata
+-14.8167|-66.8500|San Borja
+-17.4000|-63.7500|San Carlos
+-16.3667|-60.9500|San Ignacio de Velasco
+-17.4833|-63.7000|San Juan del Surutú
+-17.7833|-62.8667|San Julian
+-16.3667|-58.4000|San Matías
+-16.2167|-68.8333|San Pablo
+-16.2372|-68.8506|San Pedro
+-13.2833|-64.7167|San Ramón
+-13.7441|-65.4269|Santa Ana de Yacuma
+-20.9167|-66.0500|Santa Bárbara
+-17.7863|-63.1812|Santa Cruz de la Sierra
+-17.9667|-63.3500|Santa Rita
+-14.1667|-66.8833|Santa Rosa
+-17.1092|-63.5951|Santa Rosa del Sara
+-17.9867|-63.3812|Santiago del Torno
+-19.2167|-66.2167|Sebastian Pagador
+-17.4500|-66.3833|Sipe Sipe
+-15.7730|-68.6497|Sorata
+-19.0333|-65.2627|Sucre
+-18.5000|-68.2500|Sud Carangas
+-19.1817|-64.9152|Tarabuco
+-17.6090|-66.0213|Tarata
+-21.5355|-64.7296|Tarija
+-16.5523|-68.6795|Tiahuanaco
+-17.3380|-66.2158|Tiquipaya
+-17.3333|-65.9167|Tiraque
+-17.7266|-65.1932|Totora
+-18.4959|-66.8738|Totoral
+-14.8333|-64.9000|Trinidad
+-21.4434|-65.7188|Tupiza
+-15.3929|-62.9466|Urubichá
+-20.4597|-66.8250|Uyuni
+-18.4892|-64.1061|Vallegrande
+-17.4000|-63.8333|Villa Yapacaní
+-21.2624|-63.4690|Villamontes
+-22.0866|-65.5942|Villazón
+-16.9500|-67.5500|Viloco
+-17.5163|-63.1678|Warnes
+-22.0164|-63.6775|Yacuiba
+-16.0357|-69.1484|Yumani

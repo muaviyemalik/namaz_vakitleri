@@ -1,0 +1,34 @@
+-26.5500|31.0167|Bhunya
+-26.8167|31.9333|Big Bend
+-25.9667|31.1333|Bulembu
+-26.4540|31.7646|Dvokodvweni Inkhundla
+-26.3875|31.5281|Ekukhanyeni
+-26.3197|31.2222|Hhukwini
+-26.9792|31.3244|Hlatikulu
+-27.2167|31.6167|Hluti
+-26.8833|31.4833|Kubuta
+-26.4833|31.3333|Kwaluseni
+-27.3101|31.8920|Lavumisa
+-26.4667|31.2000|Lobamba
+-26.0664|32.0077|Lomashasha
+-26.5667|31.1833|Malkerns
+-26.4988|31.3800|Manzini
+-26.4833|31.3667|Manzini South
+-27.2158|31.7231|Matsanjeni
+-26.3167|31.1333|Mbabane
+-26.4500|31.0167|Mhlambanyatsi
+-26.0333|31.8500|Mhlume
+-27.0358|31.5511|Ngudzeni
+-26.6999|31.2888|Ngwempisi
+-27.1122|31.1983|Nhlangano
+-26.1573|31.1639|Nkhaba
+-26.8978|31.2497|Nkwene
+-27.0333|31.9500|Nsoko
+-26.6350|31.2256|Ntondozi
+-25.9608|31.2467|Piggs Peak
+-26.6282|31.4202|Sidvokodvo
+-27.0582|31.6454|Sigwe Inkhundla
+-26.4525|31.9472|Siteki
+-25.9833|31.7167|Tshaneni
+-26.0743|31.8767|Vuvulane
+-27.2275|31.3380|Zombodze Ikhundla

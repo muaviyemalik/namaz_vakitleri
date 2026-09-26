@@ -1,0 +1,21 @@
+22.3667|-72.9667|Abraham’s Bay
+25.7280|-79.2972|Alice Town
+24.7050|-77.7691|Andros Town
+24.6224|-75.6715|Arthur’s Town
+23.1000|-74.9833|Clarence Town
+24.0518|-74.5314|Cockburn Town
+22.7545|-74.2041|Colonel Hill
+26.8714|-77.5113|Cooper’s Town
+22.1908|-75.7258|Duncan Town
+25.5022|-76.6363|Dunmore Town
+26.5333|-78.7000|Freeport
+23.5162|-75.7866|George Town
+26.6100|-78.2786|High Rock
+26.5333|-78.6667|Lucaya
+26.5412|-77.0636|Marsh Harbour
+20.9498|-73.6735|Matthew Town
+25.0667|-77.3333|Nassau
+23.6497|-74.8416|Port Nelson
+25.0667|-78.0500|San Andros
+25.5472|-76.7640|Spanish Wells
+26.6871|-78.9770|West End

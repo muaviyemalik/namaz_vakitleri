@@ -1,0 +1,147 @@
+7.3650|80.6172|Akurana
+7.4105|80.6092|Alawatugoda
+6.2355|80.0538|Ambalangoda
+7.3525|80.6138|Ambatenna
+7.2975|81.6820|Ampara
+7.0833|81.7500|Ampara District
+8.3122|80.4131|Anuradhapura
+8.3333|80.5000|Anuradhapura District
+6.9802|81.0577|Badulla
+6.9847|81.0564|Badulla District
+6.8964|79.9181|Battaramulla South
+7.7102|81.6924|Batticaloa
+7.7500|81.4997|Batticaloa District
+6.4260|79.9958|Bentota
+6.4788|79.9828|Beruwala
+7.5758|79.7953|Chilaw
+6.9355|79.8487|Colombo
+6.8664|80.0166|Colombo District
+7.8600|80.6517|Dambulla
+7.2090|80.5776|Daskara
+7.2288|80.5776|Daulagala
+6.8402|79.8712|Dehiwala-Mount Lavinia
+7.1849|80.7049|Delthota
+5.9283|80.5888|Devinuwara
+7.1852|80.6057|Doluwa
+6.8756|81.0463|Ella Town
+7.7782|81.6038|Eravur Town
+7.3683|80.5275|Galagedara
+7.4161|80.5688|Galhinna
+6.0461|80.2103|Galle
+6.2500|80.2500|Galle District
+7.0897|79.9925|Gampaha
+7.1333|80.0000|Gampaha District
+7.1643|80.5696|Gampola
+7.1146|80.5145|Ganga Ihala Korale
+6.2544|81.1111|Hambantota
+7.1667|80.7833|Hanguranketa
+6.9012|80.0852|Hanwella Ihala
+7.0587|80.5714|Hapugastalawa
+6.7657|80.9510|Haputale
+7.3302|80.5877|Harispattuwa
+7.3303|80.4788|Hatharaliyadda
+6.8916|80.5955|Hatton
+6.9909|79.8830|Hendala
+6.1407|80.1012|Hikkaduwa
+6.8488|80.0047|Homagama
+6.7159|80.0626|Horana South
+6.4809|80.1271|Horawala Junction
+7.0744|79.8919|Ja Ela
+9.6684|80.0074|Jaffna
+9.7500|80.0833|Jaffna District
+7.2547|80.5242|Kadugannawa
+6.9311|79.9794|Kaduwela
+7.4090|81.8347|Kalmunai
+6.5831|79.9593|Kalutara
+7.0480|79.8937|Kandana
+7.2906|80.6336|Kandy
+7.3044|80.7073|Kandy District
+7.2832|80.6353|Kandy Four Gravets
+6.4134|81.3346|Kataragama
+7.3333|80.6167|Katugastota
+7.1699|79.8884|Katunayaka
+7.2523|80.3436|Kegalle
+7.1167|80.3333|Kegalle District
+6.9553|79.9220|Kelaniya
+6.7843|79.9467|Kesbewa
+9.3961|80.3982|Kilinochchi
+9.3949|80.4089|Kilinochchi District
+5.9886|80.3286|Koggala
+6.9289|79.8950|Kolonnawa
+6.9269|79.9095|Kotikawatta
+6.8893|79.9036|Kotte
+7.4688|80.0401|Kuliyapitiya
+7.3039|80.7123|Kundasale
+7.4839|80.3683|Kurunegala
+7.7500|80.2500|Kurunegala District
+7.3283|80.6736|Madawala
+6.8495|79.9251|Maharagama
+7.4698|80.6217|Matale
+7.6598|80.7073|Matale District
+5.9485|80.5353|Matara
+6.1329|80.5280|Matara District
+7.3043|80.7752|Medadumbara
+7.0833|80.7333|Menikdiwela
+8.3593|80.5103|Mihintale
+7.2264|81.0012|Minipe
+7.1663|79.9533|Minuwangoda
+5.9466|80.4583|Mirissa city
+6.8714|81.3487|Monaragala
+6.6667|81.3333|Moneragala
+6.7815|79.8835|Moratuwa
+6.9330|79.9297|Mulleriyawa
+7.0370|80.5163|Nawalapitiya
+7.2083|79.8358|Negombo
+6.9708|80.7829|Nuwara Eliya
+6.9785|80.7133|Nuwara Eliya District
+6.8479|80.1015|Padukka
+7.2833|80.7000|Pallekele
+6.7132|79.9026|Panadura
+7.4093|80.7397|Panvila
+7.0151|80.5408|Pasbage Korale
+7.3493|80.6630|Pathadumbara
+7.2314|80.7085|Pathahewaheta
+6.9685|79.8836|Peliyagoda
+7.2667|80.6000|Peradeniya
+7.2700|80.5700|Pilimathalawa
+6.8905|79.9015|Pita Kotte
+9.8167|80.2333|Point Pedro
+7.9397|81.0027|Polonnaruwa
+8.0000|81.0000|Polonnaruwa District
+7.3809|80.5891|Poojapitiya
+7.1053|80.6367|Pussellawa
+8.0362|79.8283|Puttalam
+8.0454|79.9319|Puttalam District
+6.8211|79.8802|Ratmalana
+6.6858|80.4036|Ratnapura
+6.5831|80.5833|Ratnapura District
+6.9296|80.1498|Seethawaka
+7.9495|80.7504|Sigiriya
+6.8830|79.9071|Sri Jayewardenepura Kotte
+7.2500|80.6833|Talatuoya
+6.9371|80.6581|Talawakele
+5.9999|80.2787|Talpe
+6.0234|80.7974|Tangalle
+7.3000|80.7667|Teldeniya
+6.9021|79.8696|Thimbirigasyaya
+7.3662|80.5159|Thumpane
+8.5778|81.2289|Trincomalee
+8.5833|81.0833|Trincomalee District
+7.3500|80.8333|Udadumbara
+7.1152|80.6025|Udapalatha
+7.3143|80.8771|Ududumbara
+7.2278|80.5589|Udunuwara
+7.1028|80.5611|Ulapane
+6.0212|80.2503|Unawatuna
+8.1333|81.4333|Vakarai
+9.8167|80.1667|Valvedditturai
+8.7514|80.4971|Vavuniya
+8.8613|80.4758|Vavuniya District
+7.1950|80.5525|Watadeniya
+6.9892|79.8917|Wattala
+7.3503|80.6825|Wattegama
+7.2000|80.5500|Welamboda
+5.9750|80.4297|Weligama
+7.0281|79.9014|Welisara
+6.7369|81.1028|Wellawaya
+7.2858|80.5352|Yatinuwara

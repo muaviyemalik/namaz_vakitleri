@@ -1,0 +1,123 @@
+19.6667|-72.2833|Acul du Nord
+18.4167|-73.5000|Ansavo
+19.6338|-73.0553|Anse Rouge
+18.8345|-72.8664|Anse à Galets
+18.0500|-71.7500|Anse-à-Pitre
+18.5011|-73.3449|Anse-à-Veau
+18.2797|-73.3943|Aquin
+19.8167|-72.9167|Arcahaie
+18.2500|-72.8500|Arrondissement de Bainet
+19.1167|-71.7500|Arrondissement de Cerca La Source
+18.4833|-72.0167|Arrondissement de Croix des Bouquets
+19.5667|-71.8333|Arrondissement de Fort Liberté
+18.3333|-72.5000|Arrondissement de Jacmel
+19.5167|-72.1667|Arrondissement de la Grande Rivière du Nord
+18.4167|-72.7500|Arrondissement de Léogâne
+19.6676|-72.5491|Arrondissement de Plaisance
+18.5000|-72.3667|Arrondissement de Port-au-Prince
+19.8333|-72.8833|Arrondissement de Port-de-Paix
+18.1333|-73.9000|Arrondissement de Port-Salut
+19.8500|-72.6667|Arrondissement de Saint-Louis du Nord
+19.0000|-72.5000|Arrondissement de Saint-Marc
+18.3000|-73.8333|Arrondissement des Cayes
+19.7500|-72.5000|Arrondissement du Borgne
+19.7500|-73.2500|Arrondissement du Môle Saint-Nicolas
+19.5500|-71.9833|Arrondissement du Trou du Nord
+19.4696|-72.1147|Bahon
+19.6631|-73.2094|Baie de Henne
+18.4825|-73.6388|Baradères
+18.2377|-72.0664|Belle-Anse
+19.6914|-73.3377|Bombardopolis
+19.8451|-72.5235|Borgne
+18.7358|-72.4193|Cabaret
+19.6927|-72.0173|Caracol
+19.3779|-71.8303|Carice
+18.5411|-72.3992|Carrefour
+18.2999|-73.6546|Cavaillon
+18.2311|-72.3954|Cayes-Jacmel
+19.1670|-71.7901|Cerca la Source
+18.5504|-74.3132|Chambellan
+18.2017|-73.8896|Chantal
+18.2748|-74.1661|Chardonnière
+18.5677|-73.8894|Corail
+18.6755|-71.9527|Cornillon
+18.5768|-72.2262|Croix-des-Bouquets
+18.5611|-74.4217|Dame-Marie
+18.5447|-72.3028|Delmas 73
+19.2618|-72.5161|Dessalines
+19.5273|-72.2434|Dondon
+19.6548|-71.8145|Dérac
+18.9934|-72.3906|Désarmes
+19.4834|-72.4854|Ennery
+19.6155|-71.7779|Ferrier
+19.7945|-72.7995|Fond Bassin Bleu
+18.2778|-73.1273|Fond des Blancs
+18.5055|-71.9812|Fond Parisien
+18.3957|-71.8563|Fonds Verrettes
+19.6627|-71.8380|Fort Liberté
+19.4475|-72.6893|Gonaïves
+19.5774|-72.1687|Grande Rivière du Nord
+19.2651|-72.7690|Grande Saline
+18.4259|-72.7699|Grangwav
+18.5409|-72.5268|Gressier
+19.6708|-72.6781|Gros Morne
+19.1500|-72.0167|Hinche
+18.2343|-72.5354|Jacmel
+19.8538|-73.1913|Jean-Rabel
+18.5833|-74.2000|Jeremi
+18.6500|-74.1167|Jérémie
+18.4477|-72.2840|Kenscoff
+18.1887|-73.0029|Kotdefè
+18.2060|-74.0401|Koto
+18.8500|-73.0500|Lagonav
+18.8305|-71.9356|Lascahobas
+19.7060|-72.4034|Lenbe
+18.6490|-74.3079|Les Abricots
+18.3054|-74.2197|Les Anglais
+18.1933|-73.7460|Les Cayes
+18.4049|-74.4528|Les Irois
+19.6701|-72.1243|Limonade
+18.5111|-72.6334|Léogâne
+18.2317|-72.3229|Marigot
+19.5174|-72.3613|Marmelade
+19.1761|-72.1396|Mayisad
+19.6084|-72.2132|Milot
+18.4460|-73.0896|Miragoâne
+18.8346|-72.1048|Mirebalais
+19.4081|-71.7813|Montòrganize
+18.5604|-74.2578|Moron
+19.8070|-73.3761|Môle Saint-Nicolas
+19.7594|-72.1981|Okap
+19.5493|-71.7248|Ouanaminthe
+19.5220|-71.9232|Perches
+18.5253|-73.5082|Petit Trou de Nippes
+19.6301|-73.1550|Petite Anse
+18.4761|-73.2349|Petite Rivière de Nippes
+19.6752|-71.8969|Phaëton
+19.3359|-72.1166|Pignon
+19.6674|-72.5523|Pilate
+19.6771|-72.2697|Plaine du Nord
+19.5980|-72.4699|Plaisance
+18.5435|-72.3388|Port-au-Prince
+19.9398|-72.8304|Port-de-Paix
+19.7518|-72.4301|Port-Margot
+18.2496|-74.0971|Port-à-Piment
+18.5125|-72.2853|Pétionville
+19.6970|-72.1571|Quartier Morin
+19.4133|-72.0808|Ranquitte
+18.1818|-74.0035|Roche-à-Bateau
+19.9340|-72.7214|Saint-Louis du Nord
+18.2624|-73.5460|Saint-Louis du Sud
+19.1082|-72.6938|Saint-Marc
+19.4388|-72.1991|Saint-Raphaël
+18.2438|-71.8416|Thiotte
+19.0821|-71.8385|Thomassique
+18.6530|-72.0939|Thomazeau
+19.0173|-71.9624|Thomonde
+19.9333|-72.8333|Ti Port-de-Paix
+18.3259|-74.3960|Tiburon
+18.4312|-72.8652|Tigwav
+18.1634|-73.8095|Torbeck
+19.6167|-72.0244|Trou du Nord
+19.0505|-72.4659|Verrettes
+19.4833|-71.7667|Wanament

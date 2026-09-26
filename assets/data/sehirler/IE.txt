@@ -1,0 +1,369 @@
+52.3814|-9.3025|Abbeyfeale
+52.9133|-7.3446|Abbeyleix
+52.5619|-8.7956|Adare
+51.8392|-8.2122|Aghada
+53.9167|-7.2500|An Cabhán
+52.8333|-9.0000|An Clár
+53.5000|-7.5000|An Iarmhí
+53.6667|-7.7500|An Longfort
+53.6667|-6.6667|An Mhí
+53.5333|-7.3500|An Muileann gCearr
+53.5242|-6.1050|An Ros
+52.6677|-8.5312|Annacotty
+53.8597|-6.5406|Ardee
+52.7091|-8.6143|Ardnacrusha
+52.7931|-6.1414|Arklow
+53.3871|-6.2138|Artane
+53.5116|-6.3982|Ashbourne
+53.0083|-6.1114|Ashford
+52.5997|-8.9756|Askeaton
+53.6233|-6.9143|Athboy
+53.2964|-8.7431|Athenry
+53.1523|-6.7817|Athgarvan
+53.4333|-7.9500|Athlone
+52.9914|-6.9803|Athy
+52.8533|-6.3275|Aughrim
+52.7003|-6.9618|Bagenalstown
+53.9167|-6.9667|Bailieborough
+53.2750|-6.2359|Balally
+53.6085|-6.1831|Balbriggan
+53.3997|-6.1258|Baldoyle
+53.9000|-8.5833|Ballaghaderreen
+54.1167|-9.1667|Ballina
+53.3275|-8.2194|Ballinasloe
+52.5179|-6.4062|Ballinroad
+53.6333|-9.2333|Ballinrobe
+53.2741|-6.2540|Ballinteer
+54.2111|-8.5086|Ballisodare
+53.5317|-6.9611|Ballivor
+53.2806|-6.3164|Ballyboden
+54.8000|-7.7833|Ballybofey
+52.5111|-9.6710|Ballybunnion
+54.1167|-7.5833|Ballyconnell
+53.3428|-6.3548|Ballyfermot
+52.2492|-6.3574|Ballygerry
+53.7667|-8.7667|Ballyhaunis
+53.8653|-7.2028|Ballyjamesduff
+52.9450|-7.0407|Ballylinan
+53.5667|-7.7667|Ballymahon
+54.0833|-8.5167|Ballymote
+53.3981|-6.2669|Ballymun
+52.7889|-7.3303|Ballyragget
+54.5000|-8.1833|Ballyshannon
+53.5883|-6.1873|Balrothery
+52.9372|-6.7092|Baltinglass
+53.1886|-7.9867|Banagher
+51.7469|-8.7425|Bandon
+51.6833|-9.4500|Bantry
+53.3890|-6.1404|Bayside
+53.2519|-9.1497|Bearna
+53.3872|-6.2271|Beaumont
+54.2250|-9.9908|Belmullet
+54.1000|-7.4500|Belturbet
+53.0914|-7.9133|Birr
+53.3015|-6.1778|Blackrock
+53.3881|-6.3756|Blanchardstown
+51.9333|-8.5667|Blarney
+53.1700|-6.5325|Blessington
+53.3984|-6.2075|Bonnybrook
+53.3045|-6.1998|Booterstown
+53.9667|-8.3000|Boyle
+53.2028|-6.0983|Bray
+52.6553|-6.6536|Bunclody
+55.1333|-7.4500|Buncrana
+54.4778|-8.2809|Bundoran
+53.2697|-6.1606|Cabinteely
+53.3669|-6.2944|Cabra
+52.5936|-8.4703|Caherconlish
+51.9486|-10.2222|Cahersiveen
+52.3769|-7.9217|Cahir
+52.5450|-7.3911|Callan
+54.0400|-6.1883|Carlingford
+52.8408|-6.9261|Carlow
+55.2500|-7.2667|Carndonagh
+52.7081|-6.4944|Carnew
+53.9469|-8.0900|Carrick-on-Shannon
+52.3492|-7.4131|Carrick-on-Suir
+53.9728|-6.7189|Carrickmacross
+51.8117|-8.3986|Carrigaline
+51.9083|-8.2633|Carrigtwohill
+52.5158|-7.8856|Cashel
+53.8500|-9.3000|Castlebar
+53.9008|-6.3903|Castlebellingham
+54.1167|-6.7333|Castleblayney
+52.3864|-6.4494|Castlebridge
+52.8061|-7.2106|Castlecomer
+52.7139|-8.4994|Castleconnell
+52.9089|-6.8422|Castledermot
+52.2333|-9.4667|Castleisland
+53.3748|-6.3634|Castleknock
+51.9103|-8.0539|Castlemartyr
+53.6793|-7.2974|Castlepollard
+53.7667|-8.5000|Castlerea
+52.7231|-6.1894|Castletown
+53.9908|-7.3606|Cavan
+53.3417|-6.5442|Celbridge
+53.3485|-6.3430|Chapelizod
+53.1277|-6.0635|Charlesland
+53.3361|-6.3780|Cherry Orchard
+53.1569|-6.9667|Cherryville
+52.1667|-9.7500|Ciarraí
+52.0598|-9.5086|Cill Airne
+53.2914|-6.6892|Clane
+53.3425|-7.6139|Clara
+53.3386|-8.9450|Claregalway
+53.7167|-9.0000|Claremorris
+53.4891|-10.0191|Clifden
+53.7936|-6.2375|Clogherhead
+51.6231|-8.8706|Clonakilty
+53.3244|-6.3972|Clondalkin
+54.1833|-7.2333|Clones
+53.3147|-6.2315|Clonskeagh
+51.8628|-8.1244|Cloyne
+52.3550|-7.7039|Cluain Meala
+51.8505|-8.2948|Cobh
+54.1833|-8.5000|Collooney
+53.3792|-6.4905|Confey
+54.8608|-7.6656|Convoy
+53.3887|-6.2000|Coolock
+54.0725|-7.0819|Cootehill
+51.8980|-8.4706|Cork
+52.6667|-6.8333|County Carlow
+51.9667|-8.5833|County Cork
+54.9167|-8.0000|County Donegal
+53.3333|-9.0000|County Galway
+54.1167|-8.0000|County Leitrim
+54.2500|-7.0000|County Monaghan
+52.6667|-7.8333|County Tipperary
+52.6442|-6.2290|Courtown
+52.5194|-8.7178|Croom
+51.7983|-8.3008|Crosshaven
+54.1000|-9.3167|Crossmolina
+53.3215|-6.3144|Crumlin
+53.2961|-7.2894|Daingean
+53.2783|-6.1003|Dalkey
+53.3995|-6.1889|Darndale
+53.3417|-6.9411|Derrinturn
+51.5867|-9.0503|Derry
+55.0833|-8.2894|Derrybeg
+52.1408|-10.2689|Dingle
+53.3649|-6.1803|Dollymount
+53.4872|-6.1519|Donabate
+53.3984|-6.1618|Donaghmede
+54.6538|-8.1113|Donegal
+53.3137|-6.2227|Donnybrook
+53.3735|-6.2098|Donnycarney
+53.7189|-6.3478|Drogheda
+53.1819|-6.7967|Droichead Nua
+53.9254|-6.4029|Dromiskin
+53.3706|-6.2530|Drumcondra
+53.3331|-6.2489|Dublin
+53.6567|-6.4192|Duleek
+53.4190|-6.4737|Dunboyne
+54.0000|-6.4167|Dundalk
+53.2907|-6.2571|Dundrum
+52.0881|-7.6253|Dungarvan
+54.9511|-8.3592|Dungloe
+53.8350|-6.3961|Dunleer
+55.0167|-8.1000|Dunlewy
+51.7167|-9.1167|Dunmanway
+52.1511|-6.9987|Dunmore East
+53.5125|-6.5400|Dunshaughlin
+53.2940|-6.1359|Dún Laoghaire
+53.2944|-6.1349|Dún Laoghaire-Rathdown
+53.2028|-6.5781|Eadestown
+53.3395|-7.0475|Edenderry
+53.7000|-7.6167|Edgeworthstown
+53.4142|-6.8323|Enfield
+52.8436|-8.9864|Ennis
+52.5008|-6.5578|Enniscorthy
+53.1925|-6.1692|Enniskerry
+53.3660|-6.2398|Fairview
+53.2694|-7.8269|Ferbane
+52.1358|-8.2758|Fermoy
+52.5883|-6.4997|Ferns
+52.4672|-7.6911|Fethard
+53.4591|-6.2194|Fingal
+53.3892|-6.2969|Finglas
+53.2817|-6.3392|Firhouse
+53.9807|-9.1155|Foxford
+53.2667|-6.1742|Foxrock
+53.2719|-9.0489|Gaillimh
+53.2877|-9.0500|Galway City
+53.3785|-6.2803|Glasnevin
+52.6747|-6.2925|Gorey
+53.0664|-8.8167|Gort
+52.5403|-6.9547|Graiguenamanagh
+53.7793|-7.4943|Granard
+53.3347|-6.3030|Greenhills
+53.1408|-6.0631|Greystones
+55.0503|-8.2319|Gweedore
+53.3931|-6.4269|Hartstown
+53.3878|-6.0653|Howth
+54.2159|-9.0920|Inishcrone
+53.2787|-6.4080|Jobstown
+53.2383|-6.6222|Johnstown
+52.1667|-8.9000|Kanturk
+53.7264|-6.8792|Kells
+51.8833|-9.5833|Kenmare
+53.6275|-6.5267|Kentstown
+53.3694|-7.5033|Kilbeggan
+53.4022|-6.6708|Kilcock
+53.1028|-6.0650|Kilcoole
+53.1303|-6.7444|Kilcullen
+53.1667|-6.7500|Kildare
+52.5833|-7.2500|Kilkenny
+53.2514|-6.5917|Kill
+52.8067|-8.4436|Killaloe
+53.3732|-6.2043|Killester
+52.1000|-9.7833|Killorglin
+51.8724|-8.6478|Killumney
+54.6333|-8.4500|Killybegs
+53.1672|-6.1336|Kilmacanoge
+52.4000|-8.5772|Kilmallock
+53.1092|-6.1067|Kilpedder
+53.0974|-6.0841|Kilquade
+52.6397|-9.4833|Kilrush
+53.8500|-9.0000|Kiltamagh
+53.9081|-6.8056|Kingscourt
+54.4500|-8.2833|Kinlough
+53.4522|-7.0997|Kinnegad
+51.7075|-8.5306|Kinsale
+53.4440|-6.2033|Kinsealy-Drinan
+53.2803|-6.3313|Knocklyon
+53.6667|-7.9833|Lanesborough
+53.0000|-7.4000|Laois
+53.6819|-6.2392|Laytown
+54.8319|-7.4836|Leifear
+53.3658|-6.4956|Leixlip
+54.9500|-7.7333|Letterkenny
+52.6647|-8.6231|Limerick
+52.4464|-9.4850|Listowel
+53.2044|-6.1208|Little Bray
+52.5000|-6.6667|Loch Garman
+53.7254|-7.7982|Longford
+53.4539|-6.9219|Longwood
+53.2439|-6.1331|Loughlinstown
+53.1969|-8.5669|Loughrea
+53.3574|-6.4486|Lucan
+53.5274|-6.1642|Lusk
+53.8333|-6.5000|Lú
+51.9066|-8.9697|Macroom
+53.4508|-6.1544|Malahide
+52.1333|-8.6333|Mallow
+54.3064|-8.1761|Manorhamilton
+53.3702|-6.2365|Marino
+53.3850|-6.5936|Maynooth
+53.9000|-9.2500|Mayo
+51.9153|-8.1805|Midleton
+52.0594|-9.0603|Millstreet
+53.3130|-6.2453|Milltown
+52.2658|-8.2681|Mitchelstown
+53.3939|-7.7172|Moate
+54.2500|-6.9667|Monaghan
+53.1406|-7.0664|Monasterevin
+53.2931|-6.1531|Monkstown
+52.2894|-7.2483|Mooncoin
+52.9756|-6.8150|Moone
+52.6511|-8.3961|Moroe
+53.3001|-6.2150|Mount Merrion
+53.1136|-7.3200|Mountmellick
+52.9989|-7.4728|Mountrath
+55.1915|-7.0387|Moville
+53.3378|-9.1800|Moycullen
+52.6820|-8.6395|Moyross
+55.0667|-7.2667|Muff
+53.8131|-6.9514|Mullagh
+53.2158|-6.6669|Naas
+53.6528|-6.6814|Navan
+52.8619|-8.1967|Nenagh
+52.8817|-8.1958|Nenagh Bridge
+52.3967|-6.9367|New Ross
+53.3011|-6.5022|Newcastle
+52.4492|-9.0611|Newcastle West
+52.7600|-8.8956|Newmarket on Fergus
+52.7111|-8.4097|Newport
+54.9964|-7.5192|Newtown Cunningham
+53.5561|-6.7700|Newtown Trim
+53.0905|-6.1115|Newtownmountkennedy
+53.1064|-6.7653|Old Kilcullen
+53.2756|-6.3675|Oldbawn
+53.7665|-7.1628|Oldcastle
+53.2683|-8.9200|Oranmore
+53.4167|-9.3333|Oughterard
+53.3502|-6.3778|Palmerstown
+51.8739|-8.3444|Passage West
+52.3533|-7.3403|Piltown
+53.1622|-7.1911|Portarlington
+53.0344|-7.2998|Portlaoise
+52.2883|-7.3206|Portlaw
+53.4231|-6.1375|Portmarnock
+53.4967|-6.1111|Portraine
+53.0892|-8.2189|Portumna
+53.2903|-6.7539|Prosperous
+53.3868|-6.1807|Raheny
+55.0367|-7.6492|Ramelton
+54.8747|-7.5983|Raphoe
+53.2214|-6.9950|Rathangan
+53.2828|-6.4728|Rathcoole
+52.0769|-8.2819|Rathcormac
+52.8547|-7.5803|Rathdowney
+52.9264|-6.2356|Rathdrum
+53.3146|-6.2750|Rathgar
+52.5244|-8.9381|Rathkeale
+53.3203|-6.2633|Rathmines
+52.9906|-6.0853|Rathnew
+53.5077|-7.1351|Rathwire
+53.5081|-6.4625|Ratoath
+53.3362|-6.2972|Rialto
+53.3419|-6.2264|Ringsend
+53.4142|-7.2961|Rochfortbridge
+53.7500|-8.2500|Roscommon
+52.9511|-7.8017|Roscrea
+52.2758|-6.3844|Rosslare
+52.3500|-8.6833|Ráth Luirc
+53.2803|-6.4444|Saggart
+53.2489|-6.6661|Sallins
+53.2792|-6.1406|Sallynoggin
+53.2747|-6.2253|Sandyford
+53.3282|-6.2222|Sandymount
+53.2261|-6.1244|Shankill
+52.7039|-8.8642|Shannon
+52.7414|-8.7742|Sixmilebridge
+53.5828|-6.1083|Skerries
+51.5500|-9.2667|Skibbereen
+53.7100|-6.5433|Slane
+54.2500|-8.6667|Sligo
+53.2859|-6.3774|South Dublin
+53.6289|-6.2683|Stamullin
+53.0156|-7.1528|Stradbally
+54.2719|-8.5933|Strandhill
+53.3895|-6.1106|Sutton
+53.9500|-8.9500|Swinford
+53.4597|-6.2181|Swords
+53.2859|-6.3734|Tallaght
+52.7947|-7.8339|Templemore
+53.2953|-6.3089|Templeogue
+53.3097|-6.2853|Terenure
+53.7633|-6.2678|Termonfeckin
+52.5267|-7.1372|Thomastown
+52.6819|-7.8022|Thurles
+52.4733|-8.1558|Tipperary
+54.0500|-8.7333|Tobercurry
+51.9260|-8.6075|Tower
+52.2704|-9.7026|Tralee
+53.5550|-6.7917|Trim
+52.1624|-7.1524|Trá Mhór
+53.5167|-8.8500|Tuam
+53.2739|-7.4889|Tullamore
+52.8003|-6.7369|Tullow
+53.7361|-6.4228|Tullyallen
+53.2500|-7.5000|Uíbh Fhailí
+53.1039|-6.5536|Valleymount
+53.8339|-7.0756|Virginia
+52.2583|-7.1119|Waterford
+52.0114|-8.3442|Watergrasshill
+53.8000|-9.5167|Westport
+51.8306|-8.2297|Whitegate
+53.0000|-6.4167|Wicklow
+51.9500|-7.8506|Youghal

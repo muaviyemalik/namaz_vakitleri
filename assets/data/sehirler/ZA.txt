@@ -1,0 +1,313 @@
+-32.7075|26.2956|Adelaide
+-34.2054|21.5800|Albertina
+-26.2679|28.1223|Alberton
+-30.6680|29.1549|Alfred Nzo
+-32.7875|26.8344|Alice
+-30.6937|26.7114|Aliwal North
+-27.7543|26.6438|Allanridge
+-27.7356|30.1354|Amajuba
+-32.5590|27.4592|Amathole
+-34.6674|20.2309|Arniston
+-33.5667|18.4834|Atlantis
+-26.6633|28.5902|Balfour
+-29.5390|31.2144|Ballito
+-25.7884|31.0532|Barberton
+-28.5354|24.5215|Barkly West
+-32.3567|22.5830|Beaufort West
+-25.6899|30.0350|Belfast
+-26.1885|28.3208|Benoni
+-29.8518|30.9934|Berea
+-34.0475|18.4525|Bergvliet
+-26.4579|29.4655|Bethal
+-28.2308|28.3071|Bethlehem
+-32.8472|27.4422|Bhisho
+-29.1211|26.2140|Bloemfontein
+-27.6469|25.6070|Bloemhof
+-23.2861|29.1396|Bochum
+-25.4261|27.2243|Bojanala Platinum
+-26.2120|28.2596|Boksburg
+-27.3887|26.6170|Bothaville
+-29.2674|26.7260|Botshabelo
+-26.2366|28.3694|Brakpan
+-28.7001|26.4597|Brandfort
+-30.4653|20.4866|Brandvlei
+-34.5322|20.0403|Bredasdorp
+-26.3018|29.9870|Breyten
+-25.6347|27.7802|Brits
+-25.8102|28.7425|Bronkhorstspruit
+-32.9514|27.6116|Buffalo City Metropolitan
+-30.9977|26.3286|Burgersdorp
+-32.3308|28.1498|Butterworth
+-33.0658|24.7758|Cacadu
+-34.2300|19.4265|Caledon
+-33.5275|21.6762|Calitzdorp
+-31.4707|19.7760|Calvinia
+-33.9258|18.4232|Cape Town
+-33.3225|19.6900|Cape Winelands
+-23.4816|29.1835|Capricorn
+-26.3609|27.3977|Carletonville
+-30.9683|22.1330|Carnarvon
+-26.0693|30.1149|Carolina
+-32.6281|22.2119|Central Karoo
+-25.8589|28.1858|Centurion
+-33.3689|19.3109|Ceres
+-31.7903|26.4397|Chris Hani
+-27.9140|25.1611|Christiana
+-33.9167|18.4167|City of Cape Town
+-26.1767|27.9635|City of Johannesburg Metropolitan
+-25.6598|28.4434|City of Tshwane Metropolitan
+-32.1817|18.8922|Clanwilliam
+-33.9806|18.4653|Claremont
+-28.9137|27.5656|Clocolan
+-30.7200|25.0972|Colesberg
+-34.0314|18.4183|Constantia
+-32.1642|25.6192|Cradock
+-25.6709|28.5236|Cullinan
+-28.1887|23.5395|Daniëlskuil
+-30.6497|24.0123|De Aar
+-33.4903|22.5352|De Rust
+-26.1466|28.6832|Delmas
+-26.8908|28.0971|Deneysville
+-25.9331|28.0121|Diepsloot
+-31.3720|27.0488|Dordrecht
+-26.8068|26.5693|Dr Kenneth Kaunda
+-26.6377|24.2746|Dr Ruth Segomotsi Mompati
+-27.0177|30.4498|Driefontein
+-23.6934|30.1400|Duiwelskloof
+-28.1668|30.2337|Dundee
+-29.8579|31.0292|Durban
+-33.0153|27.9116|East London
+-26.1297|28.1554|Eastleigh
+-33.8214|22.0126|Eden
+-26.1323|28.1686|Eden Glen
+-26.1259|28.1650|Eden Glen Ext 60
+-26.1410|28.1525|Edenvale
+-25.3510|31.3610|Ehlanzeni
+-25.6962|28.7492|Ekangala
+-26.1989|28.3126|Ekurhuleni Metropolitan
+-28.4675|30.1551|Ekuvukeni
+-31.3333|27.8500|Elliot
+-26.5333|29.0667|eMbalenhle
+-30.2067|30.7978|eMkhomazi
+-28.7620|31.8933|Empangeni
+-26.5333|29.9833|Ermelo
+-28.8865|31.4699|Eshowe
+-28.8710|31.8996|eSikhaleni
+-29.8667|31.0167|eThekwini Metropolitan
+-27.3392|27.7193|Fezile Dabi
+-26.4886|27.4939|Fochville
+-32.7748|26.6338|Fort Beaufort
+-28.3000|24.3819|Frances Baard
+-27.2789|28.4970|Frankfort
+-31.9157|21.5133|Fraserburg
+-23.6438|30.2232|Ga-Kgapane
+-25.6169|27.9947|Ga-Rankuwa
+-33.9630|22.4617|George
+-26.6710|29.9295|Gert Sibande
+-23.3025|30.7187|Giyani
+-28.1783|30.1470|Glencoe
+-32.2522|24.5308|Graaff-Reinet
+-34.1515|19.0151|Grabouw
+-33.3042|26.5328|Grahamstown
+-29.0642|30.5928|Greytown
+-33.9054|20.7169|Hardys Memories of Africa
+-28.2728|29.1295|Harrismith
+-26.5048|28.3592|Heidelberg
+-27.2812|27.9709|Heilbron
+-26.1588|29.7153|Hendrina
+-27.9765|27.0242|Hennenman
+-34.4187|19.2345|Hermanus
+-28.0190|32.2676|Hluhluwe
+-27.8327|25.9083|Hoopstad
+-29.4779|30.2306|Howick
+-29.2733|31.1425|iLembe
+-31.9768|27.0427|Ilinge
+-27.9225|24.8305|Jan Kempdorp
+-30.9418|27.0605|Joe Gqabi
+-26.2023|28.0436|Johannesburg
+-27.0455|23.0471|John Taolo Gaetsewe
+-27.6957|23.0493|Kathu
+-29.3457|21.1579|Kenhardt
+-28.7323|24.7623|Kimberley
+-33.3983|25.4428|Kirkwood
+-26.8521|26.6667|Klerksdorp
+-34.0363|23.0471|Knysna
+-30.5472|29.4241|Kokstad
+-25.4332|31.9548|Komatipoort
+-27.2418|27.5742|Koppies
+-25.8630|26.8976|Koster
+-33.8481|18.7172|Kraaifontein
+-26.2739|29.2253|Kriel
+-27.6504|27.2349|Kroonstad
+-26.0858|27.7752|Krugersdorp
+-34.0033|24.7314|Kruisfontein
+-27.4524|23.4325|Kuruman
+-27.8333|26.7500|Kutloanong
+-29.3282|31.2895|KwaDukuza
+-33.4933|21.2675|Ladismith
+-31.7031|27.2329|Lady Frere
+-29.1945|27.4574|Ladybrand
+-33.9873|18.4975|Lansdowne
+-24.2000|29.5000|Lebowakgomo
+-28.2398|26.1265|Lejweleputswa
+-26.1520|26.1597|Lichtenburg
+-27.8791|27.9135|Lindley
+-23.0438|29.9032|Louis Trichardt
+-25.0960|30.4439|Lydenburg
+-25.4977|28.1007|Mabopane
+-25.8652|25.6442|Mahikeng
+-25.4415|27.2816|Maile
+-33.4608|18.7271|Malmesbury
+-29.1563|26.3512|Mangaung Metropolitan
+-23.9000|29.8167|Mankoeng
+-30.8636|30.3705|Margate
+-28.6645|27.4305|Marquard
+-31.4929|25.0063|Middelburg
+-25.9895|28.1284|Midrand
+-25.9185|28.1988|Midstream
+-25.8500|25.6333|Mmabatho
+-26.0891|28.1653|Modderfontein
+-24.7000|28.4000|Modimolle
+-24.1944|29.0097|Mokopane
+-31.3968|26.3625|Molteno
+-27.9830|30.7177|Mondlo
+-33.7866|20.1211|Montagu
+-29.2082|29.9946|Mooirivier
+-33.1539|18.6603|Moorreesburg
+-23.7666|30.8360|Mopani
+-34.1831|22.1460|Mossel Bay
+-29.5682|30.1862|Mpophomeni
+-29.8129|30.6365|Mpumalanga
+-31.5889|28.7844|Mthatha
+-28.4179|32.1848|Mtubatuba
+-26.0367|27.8380|Muldersdriseloop
+-22.3488|30.0407|Musina
+-30.5356|19.4289|Namakwa
+-29.5169|30.9269|Ndwedwe
+-33.8040|25.4921|Nelson Mandela Bay Metropolitan
+-25.4745|30.9703|Nelspruit
+-27.7580|29.9318|Newcastle
+-33.9785|18.4481|Newlands
+-25.9556|25.8078|Ngaka Modiri Molema
+-26.4314|28.4771|Nigel
+-25.7122|29.4243|Nkangala
+-23.8878|30.2871|Nkowakowa
+-31.1874|24.9499|Noupoort
+-31.4674|29.0525|OR Tambo
+-26.4833|27.8667|Orange Farm
+-29.8138|24.4121|Orania
+-26.9802|26.6727|Orkney
+-33.6005|22.1995|Oudtshoorn
+-34.2613|19.9398|Overberg
+-33.7338|18.9752|Paarl
+-27.7832|24.6877|Pampierstad
+-26.9033|27.4573|Parys
+-23.9430|31.1411|Phalaborwa
+-28.5242|28.8158|Phuthaditjhaba
+-27.0071|30.8132|Piet Retief
+-29.6168|30.3928|Pietermaritzburg
+-32.9032|18.7570|Piketberg
+-30.2892|23.2582|Pixley ka Seme
+-34.0527|23.3716|Plettenberg Bay
+-29.1283|19.3949|Pofadder
+-23.9045|29.4688|Polokwane
+-33.5860|26.8833|Port Alfred
+-33.9611|25.6149|Port Elizabeth
+-31.6229|29.5448|Port Saint John’s
+-30.7414|30.4550|Port Shepstone
+-28.3339|23.0654|Postmasburg
+-26.7167|27.1000|Potchefstroom
+-25.7449|28.1878|Pretoria
+-29.6680|22.7425|Prieska
+-33.2248|22.0267|Prince Albert
+-31.8710|26.9786|Queensdale
+-31.8976|26.8753|Queenstown
+-26.0941|28.0012|Randburg
+-26.1844|27.7020|Randfontein
+-27.8014|28.4273|Reitz
+-34.0551|18.4762|Retreat
+-28.7830|32.0377|Richards Bay
+-29.8720|30.2723|Richmond
+-29.0380|24.6028|Ritchie
+-34.0934|21.2572|Riversdale
+-33.8034|19.8854|Robertson
+-33.9633|18.4764|Rondebosch
+-26.1625|27.8725|Roodepoort
+-33.9556|18.4742|Rosebank
+-25.6676|27.2421|Rustenburg
+-33.0117|17.9442|Saldanha
+-26.8136|27.8169|Sasolburg
+-27.1887|25.3293|Schweizer-Reneke
+-30.2867|30.7532|Scottburgh
+-26.5500|29.1667|Secunda
+-26.5669|28.1828|Sedibeng
+-24.8281|29.8380|Sekhukhune
+-28.3197|27.6208|Senekal
+-30.1108|29.6601|Sisonke
+-25.1132|29.0445|Siyabuswa
+-28.0001|21.1846|Siyanda
+-32.7217|25.5880|Somerset East
+-26.2678|27.8585|Soweto
+-29.6643|17.8865|Springbok
+-26.2500|28.4000|Springs
+-26.9337|29.2415|Standerton
+-33.9346|18.8668|Stellenbosch
+-26.8449|26.7683|Stilfontein
+-32.5708|27.4240|Stutterheim
+-29.1337|31.3975|Sundumbili
+-33.8539|18.4923|Sunset Beach
+-34.0226|20.4417|Swellendam
+-25.9964|28.2268|Tembisa
+-29.2093|26.8390|Thaba Nchu
+-24.5917|27.4115|Thabazimbi
+-28.2438|28.3408|Thabo Mofutsanyana
+-28.4110|26.7011|Theunissen
+-22.9456|30.4850|Thohoyandou
+-24.7246|31.1994|Thulamahashi
+-23.8332|30.1635|Tzaneen
+-30.5436|30.2748|Ugu
+-33.7576|25.3971|Uitenhage
+-28.3352|31.4162|Ulundi
+-29.5093|30.1984|uMgungundlovu
+-27.6224|32.3295|uMkhanyakude
+-28.5857|30.5588|uMzinyathi
+-28.4478|21.2561|Upington
+-28.7192|29.6580|uThukela
+-28.7005|31.5153|uThungulu
+-27.6586|30.3217|Utrecht
+-30.3510|21.8250|Van Wyksvlei
+-26.7117|27.8379|Vanderbijlpark
+-28.0856|27.1381|Ventersburg
+-26.6731|27.9261|Vereeniging
+-22.7547|30.1936|Vhembe
+-27.2084|26.9486|Viljoenskroon
+-27.0303|28.6006|Villiers
+-28.1039|26.8659|Virginia
+-27.3654|29.8818|Volksrust
+-27.4257|29.1658|Vrede
+-27.0081|27.3646|Vredefort
+-32.9072|17.9900|Vredenburg
+-31.6683|18.5012|Vredendal
+-26.9566|24.7284|Vryburg
+-27.7695|30.7917|Vryheid
+-24.8833|28.2833|Warmbaths
+-28.1140|24.8475|Warrenton
+-24.2051|27.9787|Waterberg
+-27.9774|26.7351|Welkom
+-33.6398|19.0112|Wellington
+-27.8549|26.3658|Wesselsbron
+-32.0951|18.6270|West Coast
+-26.2457|27.5554|West Rand
+-26.3191|27.6486|Westonaria
+-25.3318|31.0117|White River
+-32.1759|26.8244|Whittlesea
+-33.2927|23.4895|Willowmore
+-28.5180|27.0093|Winburg
+-25.8713|29.2332|Witbank
+-27.1974|25.9831|Wolmaransstad
+-33.6465|19.4485|Worcester
+-29.8431|25.8329|Xhariep
+-30.3023|27.0840|Zastron
+-25.5370|26.0751|Zeerust
+-33.4956|21.4437|Zoar
+-27.8114|31.2943|Zululand

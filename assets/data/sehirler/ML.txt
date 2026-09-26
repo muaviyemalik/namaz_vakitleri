@@ -1,0 +1,47 @@
+19.1167|1.7500|Abeïbara
+15.6597|0.5022|Ansongo
+18.9048|-3.5265|Araouane
+13.8065|-10.8321|Bafoulabé
+12.6500|-8.0000|Bamako
+13.5477|-7.4481|Banamba
+14.3500|-3.6104|Bandiagara
+13.0749|-6.5717|Baroueli
+11.4177|-7.4832|Bougouni
+17.7119|-0.3428|Cercle de Bourem
+18.6003|-4.9931|Cercle de Goundam
+13.1790|-5.0162|Cercle de San
+19.4888|2.2003|Cercle d’Abeïbara
+16.2802|-3.3130|Dire
+13.9061|-4.5533|Djénné
+15.0015|-2.9498|Douentza
+15.0695|-2.4087|Douentza Cercle
+16.2717|-0.0447|Gao
+16.7224|0.4398|Gao Cercle
+16.4145|-3.6707|Goundam
+16.0798|-1.7698|Gourma-Rharous Cercle
+15.9594|3.1411|Inékar
+11.9333|-8.4167|Kangaba
+12.7441|-8.0726|Kati
+14.4469|-11.4445|Kayes
+18.4411|1.4078|Kidal
+12.8422|-4.9245|Kinmparana
+13.0349|-9.4895|Kita
+12.8833|-9.9500|Kokofata
+13.5728|-8.0339|Kolokani
+11.0894|-6.8929|Kolondiéba
+12.8627|-7.5598|Koulikoro
+12.3917|-5.4642|Koutiala
+12.3531|-5.5839|Koutiala Cercle
+13.9641|-5.3579|Ké-Macina
+13.7021|-6.0659|Markala
+14.4843|-4.1830|Mopti
+15.9322|-3.9906|Niafunké
+12.5304|-5.7700|Ntossoni
+12.2000|-10.7000|Sagalo
+13.3034|-4.8956|San
+11.3176|-5.6665|Sikasso
+14.7328|-6.1219|Sokolo
+13.4317|-6.2157|Ségou
+16.7735|-3.0074|Timbuktu
+14.4572|-4.9169|Ténenkou
+12.3581|-4.7769|Yorosso

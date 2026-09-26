@@ -1,0 +1,143 @@
+42.3573|20.0768|Bajram Curri
+40.5989|19.7347|Ballsh
+40.8249|19.8407|Banaj
+40.7000|19.9498|Bashkia Berat
+41.4715|20.3319|Bashkia Bulqizë
+40.6008|20.9381|Bashkia Devoll
+40.9572|19.5236|Bashkia Divjakë
+41.4274|19.4869|Bashkia Durrës
+40.7294|19.4869|Bashkia Fier
+40.1158|19.8139|Bashkia Himarë
+41.1813|19.5558|Bashkia Kavajë
+40.3620|20.1648|Bashkia Kelcyrë
+41.5083|20.0711|Bashkia Klos
+40.3142|20.6148|Bashkia Kolonjë
+39.7006|20.1335|Bashkia Konispol
+41.5009|19.7257|Bashkia Krujë
+41.6221|19.7073|Bashkia Kurbin
+40.8249|19.9535|Bashkia Kuçovë
+41.8132|19.6412|Bashkia Lezhë
+40.1075|20.2575|Bashkia Libohovë
+40.7551|20.6075|Bashkia Maliq
+40.5567|19.7735|Bashkia Mallakastër
+42.3680|19.5898|Bashkia Malësi e Madhe
+41.6332|20.0123|Bashkia Mat
+40.4152|19.9691|Bashkia Memaliaj
+41.8095|19.9902|Bashkia Mirditë
+40.6779|19.6559|Bashkia Patos
+40.5861|20.0453|Bashkia Poliçan
+42.0300|19.9278|Bashkia Pukë
+40.2325|20.4109|Bashkia Përmet
+40.3950|19.6596|Bashkia Selenicë
+41.3356|19.5898|Bashkia Shijak
+40.5604|20.2548|Bashkia Skrapar
+40.2674|19.9700|Bashkia Tepelenë
+42.0483|19.7000|Bashkia Vau i Dejës
+40.4134|19.4979|Bashkia Vlorë
+41.3980|19.6770|Bashkia Vorë
+40.7058|19.9522|Berat
+40.6275|20.9900|Bilisht
+41.4917|20.2219|Bulqizë
+41.6103|20.0089|Burrel
+39.9511|20.0978|Delvinë
+40.5900|20.7481|Devoll
+41.7310|20.1891|Dibër
+40.9967|19.5294|Divjakë
+39.9858|20.3053|Dropull
+41.3314|19.4252|Durrës
+41.3166|19.4500|Durrës District
+40.3378|20.6789|Ersekë
+40.7239|19.5561|Fier
+40.7167|19.5667|Fier-Çifçi
+39.8439|20.1666|Finiq
+42.0622|20.0167|Fushë-Arrëz
+41.4783|19.7178|Fushë-Krujë
+40.1994|20.4061|Gjinkar
+40.0758|20.1389|Gjirokastër
+40.8661|20.1764|Gramsh
+40.1017|19.7447|Himarë
+41.3817|19.7603|Kamëz
+41.1856|19.5569|Kavajë
+41.5069|20.0867|Klos
+40.2831|20.4565|Kolonjë
+39.6589|20.1814|Konispol
+42.2136|19.4364|Koplik
+40.6186|20.7808|Korçë
+41.2156|19.9714|Krrabë
+41.5092|19.7928|Krujë
+42.1969|20.4133|Krumë
+39.7689|19.9997|Ksamil
+42.0769|20.4219|Kukës
+41.6389|19.6933|Kurbin
+41.7797|20.0836|Kurbnesh
+40.8003|19.9167|Kuçovë
+40.3131|20.1894|Këlcyrë
+40.0467|20.1475|Lazarat
+41.6356|19.7131|Laç
+40.1514|20.5972|Leskovik
+41.7836|19.6436|Lezhë
+40.0311|20.2631|Libohovë
+40.7044|20.7086|Libonik
+41.1832|20.3036|Librazhd
+40.9419|19.7050|Lushnjë
+40.7058|20.6997|Maliq
+40.5434|19.6248|Mallakastër
+42.3902|19.1992|Malësi e Madhe
+41.5775|19.6922|Mamurras
+41.6365|19.8406|Mat
+40.6033|20.8031|Mborje
+40.3517|19.9803|Memaliaj
+41.6839|19.7156|Milot
+41.8607|19.6676|Mirditë
+40.3253|19.4714|Orikum
+40.6833|19.6194|Patos
+40.6428|19.6508|Patos Fshat
+41.0464|19.7405|Peqin
+41.6850|20.4289|Peshkopi
+40.9025|20.6525|Pogradec
+40.6122|20.0981|Poliçan
+42.0444|19.8997|Pukë
+40.8359|20.8941|Pustec
+40.2336|20.3517|Përmet
+40.7375|19.7022|Roskovec
+40.6667|20.0000|Rrethi i Beratit
+41.5000|20.3333|Rrethi i Bulqizës
+39.9167|20.0833|Rrethi i Delvinës
+40.5833|20.9167|Rrethi i Devollit
+41.7500|20.3333|Rrethi i Dibrës
+42.1667|20.3333|Rrethi i Hasit
+41.1667|19.5833|Rrethi i Kavajës
+40.2500|20.6667|Rrethi i Kolonjës
+41.5500|19.7500|Rrethi i Krujës
+42.0000|20.3333|Rrethi i Kukësit
+41.6333|19.7167|Rrethi i Kurbinit
+40.8333|19.9167|Rrethi i Kuçovës
+40.5500|19.7833|Rrethi i Mallakastrës
+42.3333|19.5833|Rrethi i Malësia e Madhe
+41.5833|20.0833|Rrethi i Matit
+42.0692|19.5351|Rrethi i Shkodrës
+40.5500|20.2667|Rrethi i Skraparit
+41.3333|19.9167|Rrethi i Tiranës
+41.0764|19.6653|Rrogozhinë
+41.7675|19.8756|Rrëshen
+41.7744|19.7861|Rubik
+39.8753|20.0048|Sarandë
+40.5306|19.6358|Selenicë
+41.3456|19.5672|Shijak
+42.0683|19.5126|Shkodër
+41.8136|19.5939|Shëngjin
+41.0689|19.6994|Sinaballaj
+40.5407|20.1019|Skrapar
+41.3806|19.5378|Sukth
+40.2958|20.0192|Tepelenë
+41.3275|19.8189|Tirana
+42.3762|19.7454|Tropojë
+41.6828|19.8933|Ulëz
+40.7689|19.8778|Ura Vajgurore
+42.0100|19.6247|Vau i Dejës
+40.9547|20.4622|Velçan
+40.4686|19.4832|Vlorë
+41.3908|19.6550|Vorë
+40.6331|20.5889|Voskopojë
+42.0281|19.5478|Vukatanë
+40.5042|20.2272|Çorovodë

@@ -1,0 +1,207 @@
+19.1507|-69.8007|Agua Santa del Yuna
+19.7000|-70.8333|Altamira
+19.5481|-70.9960|Amina
+19.1873|-69.8592|Arenoso
+19.5000|-69.9000|Arroyo Salado
+18.4532|-70.7349|Azua
+19.3251|-70.7036|Baitoa
+18.4167|-70.0333|Bajos de Haina
+18.2796|-70.3319|Baní
+18.7833|-69.6000|Bayaguana
+18.4554|-69.9454|Bella Vista
+19.5833|-70.8667|Bisonó
+18.4500|-69.6000|Boca Chica
+18.3783|-68.6090|Boca de Yuma
+18.7752|-70.9889|Bohechío
+18.9167|-70.4667|Bonao
+19.7498|-70.4083|Cabarete
+18.1999|-71.2466|Cabral
+19.6426|-69.9049|Cabrera
+18.2483|-71.1891|Cachón
+18.5000|-70.2333|Cambita Garabitos
+19.6070|-71.2573|Cana Chapetón
+18.3550|-71.1585|Canoa
+19.7139|-71.4988|Castañuelas
+19.2500|-70.0000|Castillo
+19.3428|-70.4757|Cayetano Germosén
+18.7268|-71.5174|Cercado Abajo
+19.0045|-69.9790|Cevicos
+18.4671|-69.8934|Ciudad Nueva
+19.2221|-70.5296|Concepción de La Vega
+18.9092|-70.7450|Constanza
+19.0527|-70.1494|Cotuí
+18.5017|-69.9261|Cristo Rey
+18.2940|-71.2930|Cristóbal
+19.5488|-71.7083|Dajabón
+18.8277|-69.9463|Don Juan
+18.3163|-71.5945|Duvergé
+18.5272|-70.2959|El Cacao
+18.4490|-70.0279|El Carril
+18.7000|-71.4667|El Cercado
+19.3183|-69.8883|El Factor
+18.7496|-70.8369|El Guayabal
+18.4114|-71.2456|El Palmar
+18.2964|-71.1841|El Peñón
+19.4354|-71.4754|El Pino
+18.7833|-69.4667|El Puerto
+18.9333|-69.3833|El Valle
+17.9167|-71.2500|Enriquillo
+18.5000|-69.9000|Ensanche Luperón
+18.8151|-70.0356|Esperalvillo
+19.6238|-70.9714|Esperanza
+18.4577|-70.6435|Estebanía
+19.8271|-71.1741|Estero Hondo
+19.1167|-70.3000|Fantino
+18.2867|-71.1815|Fundación
+18.5023|-71.3427|Galván
+19.6275|-70.2777|Gaspar Hernández
+18.9515|-69.7511|Gonzalo
+19.7269|-70.9229|Guananico
+19.5070|-70.9171|Guatapanal
+18.5981|-71.6418|Guayabal
+18.6500|-69.2833|Guayabo Dulce
+18.5879|-68.9787|Guaymate
+19.6167|-71.3333|Guayubín
+19.6626|-71.1941|Hatillo Palma
+18.7628|-69.2568|Hato Mayor del Rey
+18.7000|-68.6667|Higüey
+19.1804|-70.0205|Hostos
+19.7537|-70.8291|Imbert
+19.6117|-71.1485|Jaibón
+19.6355|-70.4466|Jamao al Norte
+18.3117|-71.1615|Jaquimeyes
+19.1168|-70.6359|Jarabacoa
+19.6496|-70.9493|Jicomé
+19.1329|-70.3761|Jima Abajo
+18.4917|-71.8502|Jimaní
+19.5667|-70.2667|Joba Arriba
+18.7636|-70.3373|Juan Adrián
+18.8740|-71.2383|Juan de Herrera
+19.4333|-70.5000|Juan López Abajo
+17.8578|-71.2931|Juancho
+19.2199|-70.8191|Juncalito Abajo
+18.4920|-69.9325|La Agustina
+19.4734|-70.8163|La Canela
+19.6998|-71.1208|La Caya
+18.0686|-71.1065|La Ciénaga
+18.5705|-71.7297|La Descubierta
+19.5537|-69.9076|La Entrada
+18.4667|-69.9333|La Julia
+18.4273|-68.9728|La Romana
+18.3619|-71.2105|La Uvilla
+19.7000|-71.1333|Laguna Salada
+18.4503|-70.6172|Las Charcas
+19.1931|-70.2083|Las Guáranas
+18.9167|-71.5000|Las Matas de Farfán
+19.6712|-71.5047|Las Matas de Santa Cruz
+18.2749|-71.3160|Las Salinas
+19.3110|-69.5428|Las Terrenas
+19.4500|-70.6000|Licey al Medio
+19.4167|-71.5833|Loma de Cabrera
+18.7323|-69.9954|Los Botados
+19.7333|-71.0333|Los Hidalgos
+18.6203|-69.4958|Los Llanos
+18.5213|-71.5911|Los Ríos
+19.8913|-70.9620|Luperón
+18.8833|-70.3000|Maimón
+19.6365|-71.0273|Maizal
+19.0413|-69.8362|Majagual
+19.5519|-71.0781|Mao
+18.2430|-70.4177|Matanzas
+18.8904|-71.5946|Matayaya
+18.3587|-71.4172|Mella
+18.9836|-69.0476|Miches
+19.5000|-70.5000|Moca
+19.4667|-71.1667|Monción
+19.8333|-71.6167|Monte Cristi
+19.7346|-70.5991|Monte Llano
+18.8070|-69.7840|Monte Plata
+19.3832|-69.8474|Nagua
+18.4814|-71.4197|Neiba
+18.2470|-70.2105|Nizao
+18.6502|-68.6628|Otra Banda
+17.8014|-71.4010|Oviedo
+18.7500|-70.8833|Padre Las Casas
+19.5396|-70.7383|Palmar Arriba
+18.2966|-70.5863|Palmar de Ocoa
+18.0265|-71.2089|Paraíso
+19.4840|-71.5473|Partido
+18.2620|-70.2956|Paya
+18.0833|-71.6000|Pedernales
+18.8486|-71.4104|Pedro Corto
+19.5920|-70.6526|Pedro García
+18.8637|-69.1087|Pedro Sánchez
+19.6667|-71.6667|Pepillo Salcedo
+18.5816|-70.7703|Peralta
+18.2677|-71.1661|Pescadería
+18.8443|-70.3169|Piedra Blanca
+19.2167|-70.1667|Pimentel
+18.2994|-70.2265|Pizarrete
+18.0787|-71.2872|Polo
+18.5437|-71.6356|Postrer Río
+18.4000|-70.7677|Pueblo Viejo
+19.7512|-70.7025|Puerto Plata
+18.5818|-68.4043|Punta Cana
+18.5554|-69.4081|Quisqueya
+18.5422|-69.1798|Ramón Santana
+19.3153|-71.6924|Restauración
+19.1194|-70.4063|Rincón
+19.6667|-70.7667|Río Grande
+19.5502|-70.0770|Río San Juan
+19.3158|-70.5664|Río Verde Arriba
+18.2735|-70.5235|Sabana Buey
+19.0333|-69.4167|Sabana de la Mar
+19.0667|-70.4167|Sabana del Puerto
+18.9450|-69.7933|Sabana Grande de Boyá
+18.2626|-70.1482|Sabana Grande de Palenque
+19.3211|-70.7599|Sabana Iglesia
+18.7167|-71.0167|Sabana Yegua
+19.4779|-71.3413|Sabaneta
+19.4167|-70.3833|Salcedo
+19.4055|-70.3799|Salsipuedes
+18.6150|-68.7080|Salvaleón de Higüey
+19.2056|-69.3368|Samaná
+18.4787|-69.8950|San Carlos
+18.4167|-70.1333|San Cristóbal
+19.8483|-71.6460|San Fernando de Monte Cristi
+19.3010|-70.2526|San Francisco de Macorís
+18.3833|-70.0833|San Gregorio de Nigua
+19.3833|-71.3500|San Ignacio de Sabaneta
+19.3392|-70.9382|San José de Las Matas
+18.5466|-70.5063|San José de Ocoa
+18.8059|-71.2299|San Juan de la Maguana
+18.4539|-69.3086|San Pedro de Macorís
+18.4299|-68.6739|San Rafael del Yuma
+19.4774|-70.5358|San Víctor Arriba
+18.2085|-71.1008|Santa Cruz de Barahona
+18.7656|-69.0389|Santa Cruz de El Seibo
+19.4517|-70.6970|Santiago de los Caballeros
+18.4719|-69.8923|Santo Domingo
+18.4885|-69.8571|Santo Domingo Este
+18.5000|-70.0000|Santo Domingo Oeste
+19.2353|-70.7952|Santo Tomás de Jánico
+19.7522|-70.5199|Sosúa
+19.2281|-69.6137|Sánchez
+18.5000|-71.1667|Tamayo
+19.4854|-70.6110|Tamboril
+19.3744|-70.3509|Tenares
+18.9354|-70.6885|Tireo Arriba
+18.5700|-70.8798|Tábara Arriba
+18.6535|-71.3343|Vallejuelo
+19.5833|-70.3333|Veragua Arriba
+18.3844|-71.1801|Vicente Noble
+18.6333|-70.2500|Villa Altagracia
+19.5638|-70.8758|Villa Bisonó
+18.4843|-69.8999|Villa Consuelo
+19.6856|-71.2701|Villa Elisa
+18.4828|-69.8891|Villa Francisca
+19.5406|-70.7885|Villa González
+19.8156|-71.0606|Villa Isabela
+18.4908|-71.4838|Villa Jaragua
+19.1505|-69.8837|Villa Riva
+19.3008|-70.4220|Villa Tapia
+19.8079|-71.4400|Villa Vásquez
+18.6586|-71.0392|Villarpando
+18.3333|-70.1833|Yaguate
+18.7732|-70.0258|Yamasá
+18.6071|-70.9275|Yayas de Viajama

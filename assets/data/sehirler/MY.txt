@@ -1,0 +1,223 @@
+2.3804|102.2089|Alor Gajah
+6.1210|100.3601|Alor Setar
+3.1500|101.7667|Ampang
+3.1500|101.7667|Ampang Jaya
+3.0500|101.6500|Assam Jawa
+6.4206|99.8220|Ayer Hangat
+3.0167|101.2667|Bagan Pulau Ketam
+5.0108|100.5410|Bagan Serai
+2.8079|102.4049|Bahau
+2.0441|102.6527|Bakri
+3.2690|101.6500|Bandar Baru Selayang
+3.2550|101.5470|Bandar Kundang
+5.2888|115.2692|Bandar Labuan
+2.9800|101.7840|Bangi
+2.8136|101.5019|Banting
+3.3833|101.4167|Batang Berjuntai
+3.4587|101.6595|Batang Kali
+3.3167|101.4667|Batu Arang
+2.2487|102.2460|Batu Berendam
+3.2379|101.6840|Batu Caves
+5.4709|100.2453|Batu Feringgi
+4.4692|101.0411|Batu Gajah
+1.8548|102.9325|Batu Pahat
+5.3473|115.7455|Beaufort
+5.7274|100.5088|Bedong
+2.2684|102.3746|Bemban
+3.5223|101.9087|Bentong Town
+2.9840|101.8190|Beranang
+3.3780|101.4062|Bestari Jaya
+4.1167|101.2833|Bidur
+3.1667|113.0333|Bintulu
+2.8400|101.9300|Broga
+5.3630|100.4667|Bukit Mertajam
+2.2594|102.1838|Bukit Rambai
+3.4500|101.2500|Bukit Rotan
+2.5536|102.7640|Buloh Kasap
+5.3991|100.3638|Butterworth
+2.2490|103.0480|Chaah
+4.2500|103.4167|Cukai
+2.9200|101.6500|Cyberjaya
+1.9333|103.0000|Daerah Batu Pahat
+1.6500|103.6000|Daerah Johor Baharu
+2.2000|103.3333|Daerah Keluang
+1.8167|103.9667|Daerah Kota Tinggi
+2.3167|103.7167|Daerah Mersing
+2.2500|102.7500|Daerah Muar
+1.5000|103.5000|Daerah Pontian
+2.6000|102.8167|Daerah Segamat
+2.6547|113.6225|Data Kakus
+5.9070|116.1015|Donggongon
+5.4112|100.3354|George Town
+3.2742|101.5707|Gombak
+4.8844|101.9686|Gua Musang
+5.8172|100.4738|Gurun
+4.5841|101.0829|Ipoh
+2.8300|101.2300|Jenjarom
+2.8724|101.4948|Jenjarum
+3.9360|102.3626|Jerantut
+5.7336|102.4897|Jertih
+6.2681|100.4217|Jitra
+1.4655|103.7578|Johor Bahru
+5.3120|100.4423|Juru
+2.9833|101.7878|Kajang
+4.3000|101.1500|Kampar
+3.0333|101.7500|Kampong Baharu Balakong
+3.2167|101.3167|Kampong Dungun
+6.0000|102.2500|Kampong Kadok
+2.3500|102.1167|Kampong Masjid Tanah
+5.9167|102.2167|Kampong Pangkal Kalong
+2.2654|102.2801|Kampung Ayer Keroh
+2.2139|102.3278|Kampung Ayer Molek
+2.8033|101.7972|Kampung Baharu Nilai
+3.1500|101.5333|Kampung Baru Subang
+5.4695|100.2445|Kampung Batu Feringgi
+2.2152|102.2851|Kampung Bukit Baharu
+3.3494|101.8263|Kampung Bukit Tinggi Bentong
+6.4055|99.8502|Kampung Kilim
+6.3676|99.6825|Kampung Kok
+5.8330|102.5506|Kampung Kuala Besut
+3.3450|101.2500|Kampung Kuantan
+1.4726|103.8780|Kampung Pasir Gudang Baru
+1.8278|103.3000|Kampung Simpang Renggam
+5.3270|100.2735|Kampung Sungai Ara
+3.4242|101.1849|Kampung Tanjung Karang
+2.8147|104.1592|Kampung Tekek
+6.4414|100.1986|Kangar
+3.1000|101.4200|Kapar
+1.9955|112.9325|Kapit
+1.6698|103.5327|Kelapa Sawit
+5.3378|116.1602|Keningau
+5.5171|100.4265|Kepala Batas
+4.5141|103.4483|Kertih
+5.8231|116.0466|Kinarut
+3.0367|101.4433|Klang
+2.2186|102.1995|Klebang Besar
+2.0305|103.3169|Kluang
+6.3510|116.4305|Kota Belud
+6.1236|102.2433|Kota Bharu
+5.9749|116.0724|Kota Kinabalu
+1.7381|103.8999|Kota Tinggi
+6.3265|99.8432|Kuah
+5.8330|102.5551|Kuala Besut
+4.7667|100.9333|Kuala Kangsar
+6.1000|100.3000|Kuala Kedah
+3.5609|101.6585|Kuala Kubu Bharu
+4.1842|102.0468|Kuala Lipis
+3.1412|101.6865|Kuala Lumpur
+6.4000|100.1333|Kuala Perlis
+2.7389|102.2487|Kuala Pilah
+3.3500|101.2500|Kuala Selangor
+2.3594|102.0353|Kuala Sungai Baru
+3.2200|101.5700|Kuala Sungai Buloh
+5.3302|103.1408|Kuala Terengganu
+6.3638|99.7153|Kuala Teriang
+3.2594|101.5541|Kuang
+3.8077|103.3260|Kuantan
+1.5500|110.3333|Kuching
+6.8873|116.8236|Kudat
+1.6561|103.6032|Kulai
+5.3650|100.5618|Kulim
+2.3850|103.0210|Labis
+5.2803|115.2475|Labuan
+3.2856|101.5190|Ladang Seri Kundang
+3.1500|101.4000|Lagong
+5.0230|118.3290|Lahad Datu
+6.3561|99.7837|Langkawi
+4.8604|115.4090|Lawas
+2.6485|114.7865|Lidung Jelo
+4.7500|115.0000|Limbang
+2.6567|114.7368|Long Ampan Aing or Abanang
+4.2323|100.6298|Lumut
+2.1960|102.2405|Malacca
+5.2056|103.2059|Marang
+4.1833|114.3167|Marudi
+3.4854|102.3484|Mentekab
+2.4312|103.8405|Mersing
+3.0800|101.4500|Meru
+4.3993|113.9916|Miri
+2.0442|102.5689|Muar
+2.8944|112.0914|Mukah
+3.1800|101.6200|Mutiara Damansara
+5.1659|100.4779|Nibong Tebal
+3.0300|101.5800|Padang Jawa
+6.3542|99.7340|Padang Mat Sirat
+4.6374|103.4368|Paka
+3.0100|101.4200|Pandamaran
+6.2937|99.7279|Pantai Cenang
+4.4557|100.6288|Pantai Remis
+5.7333|115.9333|Papar
+5.1267|100.4932|Parit Buntar
+1.8681|103.1124|Parit Raja
+6.0493|102.1399|Pasir Mas
+3.1700|101.6100|Paya Jaras
+3.4836|103.3996|Pekan
+1.5100|103.5141|Pekan Nenas
+2.9996|101.3929|Pelabuhan Klang
+5.3833|100.3833|Perai
+6.0333|102.2833|Peringat
+5.4634|100.3814|Permatang Kuching
+3.1073|101.6067|Petaling Jaya
+1.4866|103.3896|Pontian Kechil
+2.5372|101.8057|Port Dickson
+3.0051|101.4089|Port Klang
+3.0327|101.6188|Puchong
+2.4550|102.2329|Pulau Sebang
+5.9258|116.0609|Putatan
+2.9936|101.5726|Putra Heights
+2.9353|101.6911|Putrajaya
+5.9538|116.6641|Ranau
+3.7899|101.8570|Raub
+3.3213|101.5767|Rawang
+3.7700|100.9900|Sabak
+2.7700|101.7000|Salak Tinggi
+5.8402|118.1179|Sandakan
+2.1167|111.5167|Sarikei
+5.3877|100.4260|Seberang Perai
+2.5148|102.8158|Segamat
+3.5040|101.1030|Sekinchan
+3.2500|101.6500|Selayang
+2.9516|101.8430|Semenyih
+4.4818|118.6112|Semporna
+2.7000|101.7000|Sepang
+2.7297|101.9381|Seremban
+3.3646|101.6041|Serendah
+3.0370|101.6950|Seri Kembangan
+3.0851|101.5328|Shah Alam
+2.3000|111.8167|Sibu
+1.2472|111.4528|Simanggang
+4.9500|100.6333|Simpang Empat
+1.5374|103.6578|Skudai
+3.0438|101.5806|Subang Jaya
+3.6800|101.1400|Sungai Air Tawar
+3.6746|100.9867|Sungai Besar
+3.3600|101.6200|Sungai Buaya
+3.4500|101.2300|Sungai Burong
+3.2500|101.6500|Sungai Choh
+2.6500|101.7000|Sungai Pelek
+2.6500|101.7000|Sungai Pelek New Village
+3.4500|101.2000|Sungai Pelong
+5.6470|100.4877|Sungai Petani
+3.2800|101.4700|Sungai Tengi
+2.2690|102.1427|Sungai Udang
+4.8500|100.7333|Taiping
+3.2700|101.7400|Taman Melawati
+5.8948|118.0458|Taman Rajawali
+1.6006|103.6419|Taman Senai
+2.9500|101.8400|Taman Tasik Semenyih
+2.4701|102.2302|Tampin
+4.4636|101.3763|Tanah Rata
+2.2673|102.5453|Tangkak
+2.6579|101.5629|Tanjung Sepat
+5.4606|100.3074|Tanjung Tokong
+4.1667|101.2000|Tapah Road
+5.4803|100.4985|Tasek Glugor
+4.2448|117.8911|Tawau
+5.4667|100.2333|Telaga Batu
+3.0000|101.3900|Teluk Datok
+4.0222|101.0208|Teluk Intan
+3.4506|102.4176|Temerluh
+6.1978|102.1710|Tumpat
+1.6000|103.8167|Ulu Tiram
+3.4000|101.5500|Ulu Yam
+2.0136|103.0659|Yong Peng

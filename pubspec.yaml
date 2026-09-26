@@ -125,3 +125,9 @@ flutter:
     - assets/icon.png
     - assets/translations/
     - assets/images/
+    # Ulke listesi (ayarlar sayfasindaki ulke secimi)
+    - assets/data/ulkeler.json
+    # Sehir listeleri + koordinatlar. Dosyalar ulke basina ayridir
+    # (assets/data/sehirler/TR.txt vb.) ve yalnizca secilen ulke icin
+    # yuklendigi icin en kalabalik dosya bile (ABD) 334 KB'dir.
+    - assets/data/sehirler/

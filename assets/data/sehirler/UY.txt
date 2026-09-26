@@ -1,0 +1,1829 @@
+-33.6830|-53.5522|18 de Julio
+-34.4419|-56.4462|18 de Julio - Pueblo Nuevo
+-34.3648|-54.0683|19 de Abril
+-33.6112|-54.3312|19 de Junio
+-34.4117|-56.4022|25 de Agosto
+-34.1892|-56.3394|25 de Mayo
+-34.7793|-56.2082|Abayuba
+-33.2495|-56.0143|Abella
+-33.7270|-54.1910|Abra de Alferez
+-34.6319|-55.3765|Abra de Castellanos
+-34.7383|-54.9857|Abra de Perdomo
+-34.5144|-55.3317|Abra de Zabaleta
+-31.8081|-55.0301|Abrojal
+-31.8718|-54.1635|Aceguá
+-32.4056|-56.1811|Achar
+-33.2435|-53.8444|Acosta
+-34.8337|-56.0339|Aeropuerto Internacional de Carrasco
+-33.8112|-58.2658|Agraciada
+-34.5127|-55.3892|Aguas Blancas
+-32.8853|-55.8559|Aguas Buenas
+-34.5219|-56.3936|Aguas Corrientes
+-34.2753|-53.7834|Aguas Dulces
+-32.5062|-54.5587|Aguirre
+-33.7498|-56.5074|Ahogados
+-34.2050|-54.7567|Aiguá
+-34.8520|-56.1830|Aires Puros
+-32.3591|-58.0311|Al Sur de Arroyo Sacra
+-31.8175|-54.7453|Alborada
+-33.8625|-55.5426|Alejandro Gallinal
+-34.7632|-54.7522|Alfaro
+-34.3337|-54.4944|Alferez
+-32.4226|-57.3938|Algorta
+-33.4154|-54.3934|Alonso
+-34.7954|-55.9829|Altos de la Tahona
+-33.6784|-57.3446|Altos del Perdido
+-32.5240|-54.0099|Amarillo
+-33.1675|-57.1311|Andresito
+-34.6254|-54.1525|Antoniopolis
+-32.5282|-54.1326|Arachania
+-33.6390|-54.6183|Aramendia
+-34.7795|-55.5530|Araminda
+-31.9966|-57.7437|Araujo
+-32.6114|-54.2110|Arbolito
+-32.2264|-56.4808|Arbolito (Totoral)
+-34.3962|-55.8495|Arenal
+-33.5747|-57.1232|Arenal Chico
+-33.4768|-57.1640|Arenal Grande
+-34.8242|-54.6271|Arenas de Jose Ignacio
+-31.4168|-57.9997|Arenitas Blancas
+-34.2921|-55.2749|Arequita
+-32.6388|-55.0787|Arevalo
+-34.7859|-55.4476|Argentino
+-33.6437|-55.3611|Arrayan
+-33.3438|-54.1106|Arrayanes de Cebollati
+-33.3547|-54.1620|Arrayanes de Corral de Cebollati
+-34.4167|-57.4690|Arrivillaga
+-33.1496|-53.9337|Arrocera Bonomo
+-32.9724|-53.6391|Arrocera el Tigre
+-32.8318|-53.3843|Arrocera la Catumbera
+-32.8626|-53.3734|Arrocera la Querencia
+-33.0992|-53.9912|Arrocera las Palmas
+-32.9533|-53.5641|Arrocera los Ceibos
+-33.1500|-53.9235|Arrocera los Teros
+-32.9585|-53.6350|Arrocera Mini
+-33.2530|-53.9048|Arrocera Procipa
+-32.7896|-53.4932|Arrocera Rincon
+-32.8026|-53.4140|Arrocera San Fernando
+-33.1244|-54.0590|Arrocera Santa Fe
+-32.8632|-53.6172|Arrocera Zapata
+-34.6190|-54.7572|Arroyito de Medina
+-31.6313|-54.7921|Arroyo Blanco
+-34.1753|-55.7285|Arroyo Chamizo
+-34.3000|-56.4465|Arroyo de la Virgen
+-33.6725|-56.1443|Arroyo de los Negros
+-34.3598|-55.5381|Arroyo de los Patos
+-33.0263|-56.1072|Arroyo de los Perros
+-34.1075|-55.1014|Arroyo del Medio
+-33.6230|-57.2090|Arroyo Grande
+-34.1628|-55.6943|Arroyo Latorre
+-34.3659|-56.7680|Arroyo Llano
+-32.6070|-53.7266|Arroyo Malo
+-33.2445|-55.3026|Arroyo Monzon
+-32.4767|-57.5578|Arroyo Negro
+-34.2681|-56.2574|Arroyo Pelado
+-30.9100|-55.5872|Arroyo Sauzal
+-34.8040|-56.2770|Arroyo Seco
+-32.6509|-53.3087|Arrozal Cesarone
+-32.5555|-53.5326|Arrozal Rosales
+-33.0419|-53.6963|Arrozal Treinta y Tres
+-33.7387|-55.5261|Arteaga
+-30.4000|-56.4667|Artigas
+-34.4260|-57.5746|Artilleros
+-33.3225|-58.0625|Asencio
+-32.3628|-53.8792|Asperezas
+-34.8090|-56.2300|Atahualpa
+-31.6609|-56.1137|Ataque
+-31.2047|-55.3597|Ataques
+-34.7719|-55.7584|Atlántida
+-34.7602|-56.4133|Autodromo
+-34.7584|-56.4175|Autodromo Nacional
+-33.0698|-54.6608|Avestruz Chico
+-33.1798|-57.5291|Azotea de Vera
+-33.6902|-54.5258|Azucar
+-34.7790|-55.5129|B.H.U.
+-33.7668|-57.3106|Bajos del Perdido
+-31.3840|-57.8149|Balneario Albisu
+-34.4315|-57.2697|Balneario Britopolis
+-34.8880|-54.7986|Balneario Buenos Aires
+-31.6672|-55.9600|Balneario Ipora
+-34.5058|-54.0178|Balneario Pueblo Nuevo
+-30.7190|-57.3260|Baltasar Brum
+-33.8349|-56.3049|Barcelo - Pintado
+-34.2603|-57.4603|Barker
+-34.2210|-57.4807|Barker Norte
+-31.2221|-55.4593|Barra de Ataques
+-34.8772|-56.0297|Barra de Carrasco
+-34.6014|-55.9204|Barra de la Pedrera
+-34.2238|-55.5073|Barra de los Chanchos
+-34.8823|-55.1971|Barra de Portezuelo
+-34.3367|-53.7942|Barra de Valizas
+-33.7527|-53.3875|Barra del Chuy
+-32.7290|-53.4804|Barra del Sauce
+-32.7499|-53.3389|Barra del Tacuari
+-34.3916|-56.0896|Barra del Tala
+-33.5671|-53.6135|Barra Isla Negra
+-33.5260|-55.9595|Barra Molles del Timote
+-33.5492|-55.6357|Barra Sauce de Mansavillagra
+-34.2226|-55.5865|Barrancas
+-34.6031|-56.4248|Barrancas Coloradas
+-33.8741|-53.4999|Barrancas de la Coronilla
+-34.5941|-54.1297|Barrancas de la Pedrera
+-33.9673|-55.0677|Barriga Negra
+-33.2589|-54.3652|Barrio Abreu
+-33.1208|-58.3269|Barrio Anglo
+-34.7533|-56.0690|Barrio Artigas
+-34.7602|-56.0854|Barrio Benzo
+-34.2125|-53.8439|Barrio Cardozo
+-34.7526|-56.2423|Barrio Copola
+-34.6208|-56.0648|Barrio del Libertador
+-33.3906|-56.5333|Barrio Duran
+-34.8626|-54.9471|Barrio Hipodromo
+-34.9232|-54.9092|Barrio Kennedy
+-34.3948|-55.2992|Barrio la Coronilla - Ancap
+-34.7472|-56.2422|Barrio la Lucha
+-31.7043|-56.0181|Barrio la Matutina
+-32.3502|-54.1555|Barrio la Vinchuca
+-31.7146|-56.0128|Barrio Libertad
+-31.6971|-55.9666|Barrio Lopez
+-32.3627|-54.2103|Barrio Lopez Benitez
+-34.7518|-56.0705|Barrio los Panoramas
+-34.2540|-57.1679|Barrio Mendaña
+-34.8529|-56.0449|Barrio Monterrey
+-34.8485|-56.0283|Barrio Obrero
+-34.3963|-57.1810|Barrio Olimpico
+-33.8861|-53.5215|Barrio Pereira
+-33.7079|-54.1882|Barrio Porvenir
+-34.7692|-56.0811|Barrio Pretti
+-30.8931|-55.5719|Barrio Recreo
+-34.6063|-56.2619|Barrio Remanso
+-34.8141|-55.9813|Barrio San Cristobal
+-34.7418|-56.0624|Barrio Santa Rita
+-31.7325|-56.0269|Barrio Santangelo
+-34.9080|-56.1940|Barrio Sur
+-34.2109|-53.8449|Barrio Torres
+-34.7699|-56.0777|Barrio Traverso
+-34.7447|-56.0541|Barrio Villa Murcia
+-34.7524|-56.0026|Barros Blancos
+-33.4438|-56.5084|Batovi
+-32.8771|-56.8096|Baygorria
+-34.3838|-56.7033|Bañado
+-31.4219|-55.9862|Bañado de Cañas
+-32.5160|-53.5752|Bañado de las Pajas
+-32.4031|-54.3501|Bañado de Medina
+-33.0748|-54.0432|Bañado de Oro
+-31.5839|-55.8581|Bañado de Rocha
+-31.0587|-55.5273|Bañado del Chaja
+-34.8210|-56.0670|Bañados de Carrasco
+-32.3175|-57.0540|Beisso
+-33.8814|-58.3514|Belgrano Norte
+-33.9099|-58.3817|Belgrano Sur
+-34.8560|-56.1550|Bella Italia
+-30.2597|-57.5992|Bella Unión
+-34.8027|-55.3552|Bella Vista
+-32.7650|-57.8808|Bellaco
+-34.7648|-55.6458|Bello Horizonte
+-34.8516|-56.2161|Belvedere
+-30.7872|-57.7758|Belén
+-33.2328|-57.9847|Bequelo
+-32.1451|-53.9570|Berachi
+-30.2984|-56.9701|Bernabe Rivera
+-34.1473|-56.2776|Berrondo
+-31.4078|-55.2419|Berruti
+-34.7915|-55.5158|Biarritz
+-31.2779|-57.1231|Biassini
+-33.4268|-58.1183|Bizcocho
+-34.4349|-57.2948|Blanca Arena
+-34.6408|-56.0688|Blanco
+-34.3328|-55.2496|Blanes Viale
+-32.7667|-55.6333|Blanquillo
+-32.9754|-55.6926|Blanquillo Al Oeste
+-31.5769|-55.2437|Blanquillos
+-34.4438|-57.1475|Boca del Cufre
+-34.4335|-57.3339|Boca del Rosario
+-34.4294|-57.3508|Boca del Rosario Oeste
+-34.2239|-55.7290|Bolivar
+-34.4042|-57.2605|Bonjour
+-31.0884|-56.6939|Bordenave
+-32.5588|-57.3885|Borges
+-34.8057|-55.9434|Bosque de Solymar
+-34.4429|-57.1717|Brisas del Plata
+-34.9000|-56.1331|Buceo
+-34.0774|-58.1316|Buena Hora
+-31.7046|-55.4228|Buena Orden Al Norte
+-31.2467|-55.6602|Buena Union
+-32.1472|-54.1639|Buena Vista
+-34.8883|-54.7993|Buenos Aires
+-33.1481|-56.6884|Caballero
+-34.4009|-53.7899|Cabo Polonio
+-34.4643|-56.5504|Cagancha
+-34.2799|-56.5819|Cagancha Chico
+-30.3866|-57.6142|Cainsa
+-30.4312|-57.7334|Cainza Campo 3
+-32.7203|-54.4355|Calera de Recalde
+-33.5656|-56.3702|Calleri
+-30.3303|-57.6200|Calnu
+-30.5415|-56.8650|Camaño
+-34.7584|-56.0702|Camino Al Paso del Andaluz
+-34.4871|-56.2062|Camino de la Cadena
+-34.6290|-56.2328|Camino Dodera
+-34.6199|-56.3110|Camino Lloveras
+-32.6381|-54.1157|Campamento
+-34.4401|-57.1849|Campamento Artigas
+-34.0324|-57.9014|Campana
+-34.3581|-55.1773|Campanero
+-31.5635|-57.6167|Campo de Todos
+-34.5791|-56.3936|Campo Militar
+-34.0469|-56.2718|Candil
+-34.5694|-56.1752|Canelon Chico
+-34.6282|-56.1742|Canelon Chico Al Centro
+-34.6546|-56.1770|Canelon Chico de Progreso
+-34.4858|-56.0028|Canelon Grande
+-34.4829|-56.2739|Canelon Grande de Pacheco
+-34.4278|-56.2025|Canelon Grande Norte
+-34.5228|-56.2778|Canelones
+-32.3856|-58.0325|Cangue
+-34.8440|-54.9451|Canteras de Marelli
+-34.3680|-55.2869|Canteras del Verdun
+-33.8949|-53.5290|Capacho
+-34.7001|-55.5187|Capilla de Cella
+-33.4664|-55.6297|Capilla del Sauce
+-32.9127|-55.4468|Capilla Farruco
+-34.7612|-55.9964|Capitan J A Artigas
+-31.1940|-55.2847|Capon Alto
+-34.9050|-56.2170|Capurro
+-33.2378|-58.3375|Caracoles
+-31.8362|-54.8160|Caraguata
+-32.1287|-54.8990|Caraguata Al Norte
+-34.5390|-55.0096|Carape
+-34.2906|-56.3889|Cardal
+-33.8705|-57.3695|Cardona
+-32.6438|-56.3258|Cardoso
+-32.4553|-56.3015|Cardozo Chico
+-34.7233|-54.7803|Carlos Cal
+-33.0566|-56.4765|Carlos Reyles
+-34.7874|-55.9802|Carmel
+-34.0002|-58.2840|Carmelo
+-33.4527|-54.6965|Carnales
+-31.7878|-55.2241|Carpinteria
+-34.8833|-56.0667|Carrasco
+-34.6914|-56.1071|Carrasco del Sauce
+-34.8680|-56.0430|Carrasco Norte
+-34.1719|-56.5545|Carreta Quemada
+-31.7450|-57.6055|Carumbe
+-32.3979|-58.1576|Casa Blanca
+-32.4264|-54.3248|Casa de las Cronicas
+-34.8639|-56.3411|Casabó
+-34.7690|-56.0916|Casarino
+-34.8430|-56.2030|Casavalle
+-33.9892|-58.2360|Caserio el Cerro
+-33.4968|-56.1495|Caserio la Fundacion
+-32.3543|-53.8289|Caserio las Cañas
+-34.1987|-53.8592|Castillos
+-34.0675|-55.4694|Casupa
+-34.0588|-55.3124|Casupa Chico
+-34.0999|-55.6481|Casupá
+-30.8412|-56.2323|Catalan Grande
+-30.7838|-56.2552|Catalan Volcan
+-33.6030|-56.9916|Cañada Amilivia
+-34.7111|-54.8171|Cañada Bellaca
+-32.8233|-55.2768|Cañada Brava
+-34.4589|-56.0399|Cañada Cardozo
+-33.3199|-53.9779|Cañada Chica
+-34.6788|-54.5602|Cañada de la Cruz
+-33.1729|-54.3497|Cañada de las Piedras
+-34.5351|-56.3485|Cañada de Montaño
+-32.6350|-53.5865|Cañada de Santos
+-32.5407|-55.8745|Cañada del Estado
+-31.9476|-57.1820|Cañada del Pueblo
+-33.1754|-54.3822|Cañada del Sauce
+-34.6527|-55.8657|Cañada Grande
+-33.5102|-58.0980|Cañada Magallanes
+-33.6986|-58.1093|Cañada Nieto
+-33.5331|-58.0770|Cañada Paraguaya
+-34.3086|-55.9202|Cañada Prudencio
+-32.3515|-54.0904|Cañada Sarandi
+-31.4037|-56.0497|Cañas
+-32.3178|-53.8929|Cañitas
+-33.2670|-53.7942|Cebollatí
+-32.8626|-55.4494|Ceibal
+-32.1380|-53.8286|Cementerio
+-34.9036|-56.1883|Centro
+-32.1450|-53.7883|Centurion
+-34.7075|-56.4968|Ceramicas del Sur
+-32.8217|-55.3831|Cerrezuelo
+-31.4391|-54.7141|Cerrillada
+-31.1385|-57.5169|Cerrilladas de Saucedo
+-34.6236|-56.3884|Cerrillos Al Oeste
+-34.6381|-56.3543|Cerrillos Al Sur
+-30.1070|-56.9254|Cerrito
+-34.8844|-56.2514|Cerro
+-31.3021|-55.6763|Cerro Alegre
+-31.8739|-56.0002|Cerro Batovi
+-31.5048|-55.5219|Cerro Blanco de Cuñapiru
+-30.9083|-55.5127|Cerro Caqueiro
+-33.9808|-58.2296|Cerro Carmelo
+-30.9296|-55.5009|Cerro Chapeu
+-33.1030|-55.1335|Cerro Chato
+-33.7264|-56.7990|Cerro Colorado
+-32.8473|-55.6627|Cerro Convento
+-33.9965|-56.1943|Cerro de la Macana
+-34.0655|-57.7228|Cerro de las Armas
+-32.6234|-54.5925|Cerro de las Cuentas
+-34.1752|-53.8891|Cerro de los Rocha
+-31.6874|-56.1074|Cerro de Pastoreo
+-32.2699|-55.1381|Cerro de Pereira
+-34.3473|-53.7858|Cerro de Pescadores
+-32.0581|-55.9034|Cerro del Arbolito
+-30.4247|-56.4682|Cerro Ejido
+-34.1786|-55.0646|Cerro Pelado
+-31.5344|-55.1375|Cerro Pelado Al Este
+-30.4262|-56.4725|Cerro San Eugenio
+-30.4273|-56.4759|Cerro Signorelli
+-31.1250|-55.5670|Cerro Solito
+-33.1869|-57.4625|Cerro Vera
+-34.7673|-55.3645|Cerros Azules
+-31.7345|-54.7694|Cerros Blancos
+-32.9105|-54.2888|Cerros de Amaro
+-32.1049|-55.8326|Cerros de Clara
+-34.0970|-56.1534|Cerros de Florida
+-31.3919|-55.3908|Cerros de la Calera
+-34.2185|-57.9262|Cerros de San Juan
+-31.6008|-56.8126|Cerros de Vera
+-34.1437|-57.0294|Cerros Negros
+-33.5030|-56.8500|Chacras
+-30.7614|-57.7598|Chacras de Belen
+-33.5397|-56.8548|Chacras de Borghi
+-31.0770|-57.7883|Chacras de Constitucion
+-33.5496|-58.2110|Chacras de Dolores
+-33.3889|-56.5643|Chacras de Durazno
+-34.0637|-56.2366|Chacras de Florida
+-32.3349|-54.1234|Chacras de Melo
+-33.2771|-57.9902|Chacras de Mercedes
+-32.3524|-58.0015|Chacras de Paysandu
+-32.3492|-57.9918|Chacras de Paysandu Norte
+-32.3759|-58.0136|Chacras de Paysandu Sur
+-34.0837|-56.2478|Chacras del Pintado
+-33.9736|-55.3875|Chamame
+-32.6884|-56.4784|Chamberlain
+-34.2426|-55.9170|Chamizo
+-34.2339|-55.8634|Chamizo Chico
+-31.6608|-57.8885|Chapicuy
+-32.3581|-56.0217|Charata
+-34.3681|-57.2634|Chico Torino
+-30.4297|-56.5095|Chiflero
+-34.8741|-55.0922|Chihuahua
+-33.5918|-55.6561|Chilcas
+-32.9153|-55.7650|Chileno
+-33.0350|-55.7856|Chileno Chico
+-32.7099|-55.7497|Chileno Grande (Aguero)
+-33.5991|-55.6395|Chingolas
+-31.7557|-54.8377|Chirca de Caraguata
+-33.6979|-53.4593|Chui
+-32.4977|-56.2243|Churchill
+-32.1205|-55.1859|Cinco Sauces
+-33.3916|-54.1273|Cipa Cebollati
+-33.2326|-53.9050|Cipa Olimar
+-33.2060|-53.8993|Cipa Secador
+-34.7600|-55.7717|City Golf
+-34.8432|-56.0122|Ciudad de la Costa
+-34.7536|-56.4128|Ciudad del Plata
+-34.9080|-56.2040|Ciudad Vieja
+-32.2243|-55.7330|Clara
+-32.2455|-55.0058|Clavijo
+-34.5059|-55.8864|Cochengo
+-32.6122|-54.7330|Coimbra
+-34.7884|-56.0177|Colinas de Carrasco
+-34.8018|-55.9578|Colinas de Solymar
+-32.1622|-56.1029|Colman
+-33.2923|-57.6611|Cololo
+-34.6147|-56.6567|Cololo Tinosa
+-33.8778|-54.7267|Colon
+-31.3578|-57.8745|Colonia 18 de Julio
+-33.4623|-57.0283|Colonia Alemana
+-34.2074|-56.9658|Colonia America
+-31.9291|-58.1003|Colonia Arroyo Malo
+-34.0165|-58.1554|Colonia Arrue
+-32.4253|-58.0281|Colonia Cangue
+-32.4129|-54.1990|Colonia Ceres
+-34.3842|-57.4010|Colonia Cosmopolita
+-34.4626|-57.8398|Colonia del Sacramento
+-34.4394|-57.0207|Colonia Delta
+-33.3352|-58.0096|Colonia Diaz
+-34.4354|-56.4338|Colonia Dr. Bernardo Etchepare
+-32.8574|-57.4550|Colonia el Ombu
+-30.3309|-57.5993|Colonia España
+-34.3450|-57.1619|Colonia Española
+-30.4473|-57.4298|Colonia Estrella
+-34.4894|-56.9296|Colonia Fernandez Crespo
+-33.8719|-54.3040|Colonia Greissing
+-34.6220|-56.6416|Colonia Italia
+-31.3378|-57.4067|Colonia Itapebi
+-34.8578|-55.1906|Colonia J. Suarez
+-32.9389|-57.5951|Colonia John F. Kennedy
+-30.6162|-56.9736|Colonia Jose Artigas
+-34.6518|-56.7674|Colonia Juan Maria Perez
+-32.3616|-57.2214|Colonia Juncal
+-34.8309|-56.0083|Colonia Lamas
+-33.8483|-57.4993|Colonia Larrañaga
+-32.0780|-58.0973|Colonia las Delicias
+-32.1661|-54.2445|Colonia Maria Teresa
+-34.0063|-57.6477|Colonia Miguelete
+-34.8152|-56.0243|Colonia Nicolich
+-32.3008|-54.1210|Colonia Orozco
+-31.3323|-57.9648|Colonia Osimani y Llerena
+-30.5836|-57.6787|Colonia Palma
+-32.4228|-58.1365|Colonia Paysandu
+-34.2040|-57.3452|Colonia Peirano
+-30.4678|-56.4251|Colonia Pintado
+-34.2721|-57.1202|Colonia Quevedo
+-31.2677|-57.7365|Colonia Rubio
+-34.4826|-56.8919|Colonia San Joaquin
+-34.0793|-56.0826|Colonia Sanchez
+-31.7560|-57.7935|Colonia Santa Blanca
+-33.5014|-57.3128|Colonia Santa Clara
+-33.9780|-57.8645|Colonia Sarandi
+-34.2956|-57.2327|Colonia Suiza
+-34.3004|-57.4178|Colonia Talice
+-34.2603|-55.9469|Colonia Treinta y Tres Orientales
+-32.1783|-57.2651|Colonia Uruguaya
+-34.3433|-57.2663|Colonia Valdense
+-30.4753|-57.6208|Colonia Viñar
+-34.7165|-56.5213|Colonia Wilson
+-34.6573|-56.2570|Colorado Chico
+-34.6568|-56.2894|Colorado y Brujas
+-34.8650|-56.1800|Colón
+-34.1618|-58.0328|Conchillas
+-34.8236|-56.2319|Conciliación
+-34.3224|-57.1903|Concordia
+-33.6268|-54.7509|Consejo del Niño
+-32.2064|-58.0056|Constancia
+-31.0771|-57.8214|Constitucion
+-32.3448|-54.2442|Conventos
+-33.3968|-57.7304|Coquimbo
+-34.9000|-56.1786|Cordón
+-30.2908|-57.6005|Coronado
+-34.3781|-54.7925|Coronilla
+-31.5358|-55.3521|Coronilla de Corrales
+-34.0295|-53.5722|Coronilla del Mar
+-32.4711|-53.8100|Corral de Piedra
+-33.4019|-54.5584|Corrales de Cebollati
+-31.4707|-58.0500|Corralito
+-34.6819|-54.8358|Corte de la Leña
+-34.7626|-55.6588|Costa Azul
+-34.1886|-56.0104|Costa de Arias
+-34.2466|-57.4071|Costa de Colla Al Este
+-33.2410|-56.3019|Costa de Cuadra
+-33.4081|-55.6020|Costa de Illescas
+-33.9560|-56.1205|Costa de la Cruz
+-34.5627|-55.9755|Costa de Pando
+-34.6527|-55.9151|Costa de Pando Olmos
+-34.4709|-55.9118|Costa de Pando San Bautista
+-34.5080|-55.9511|Costa de Pando San Jacinto
+-33.7066|-56.2766|Costa de Parana
+-34.1807|-57.1928|Costa de Rosario
+-32.3584|-58.0294|Costa de Sacra
+-34.2582|-57.6271|Costa de Tarariras
+-33.9828|-58.1871|Costa de Vacas
+-33.5899|-58.0226|Costa del Aguila
+-34.2242|-55.4360|Costa del Lenguazo
+-34.6847|-56.6722|Costa del Mauricio
+-34.2457|-57.3430|Costa del Navarro
+-34.5366|-56.0362|Costa del Pantanoso
+-34.6271|-56.0505|Costa del Sauce
+-33.5745|-56.0675|Costa del Tala
+-34.4082|-55.9152|Costa del Tala Este
+-34.3637|-55.8865|Costa del Tala Norte
+-34.7590|-56.2417|Costa y Guillamon
+-34.1557|-56.0228|Costas de Arias
+-32.2103|-55.0361|Costas de Caraguata
+-33.3935|-53.9765|Costas de Cebollati
+-34.2101|-55.8522|Costas de Chamizo
+-34.1890|-55.8082|Costas de Chamizo Grande
+-33.3945|-54.3503|Costas de Corrales
+-31.4548|-55.4684|Costas de Cuñapiru
+-34.7153|-54.6511|Costas de Jose Ignacio
+-34.0383|-58.2394|Costas de Juan Gonzalez
+-33.5979|-56.4719|Costas de Maciel
+-34.3773|-55.7818|Costas de Pedernal
+-34.4602|-56.8995|Costas de Pereira - Rapetti
+-34.1165|-57.2894|Costas de Polonia
+-33.8528|-56.8704|Costas de San Jose
+-34.0060|-57.5834|Costas de San Juan
+-34.2442|-55.6803|Costas de Santa Lucia
+-34.3153|-56.3460|Costas de Santa Lucia Chico
+-34.5164|-55.7475|Costas de Solis
+-32.8197|-53.6009|Costas de Tacuari
+-31.8172|-55.7302|Costas de Tres Cruces
+-34.1038|-55.6801|Costas del Amarillo
+-33.1642|-54.5215|Costas del Arroyo Malo
+-34.3748|-56.0602|Costas del Colorado
+-34.3639|-55.9876|Costas del Colorado Este
+-33.5674|-57.3784|Costas del Perdido
+-34.0284|-56.2916|Costas del Pintado
+-34.2203|-55.7852|Costas del Santa Lucia Grande
+-32.9262|-53.9333|Costas del Sarandi
+-34.1629|-56.8787|Costas del Sauce
+-34.1909|-55.3432|Costas del Soldado
+-34.4220|-56.0634|Costas del Tala
+-31.8823|-55.8754|Coyo Martinez
+-34.6330|-55.9613|Cruz de los Caminos
+-32.0514|-54.1473|Cruz de Piedra
+-31.3762|-54.9429|Cruz de San Pedro
+-30.2341|-57.5683|Cuareim
+-30.6119|-56.9045|Cuaro
+-33.7274|-58.2953|Cuatro Bocas de Buena Vista
+-34.7905|-55.4969|Cuchilla Alta
+-34.7891|-55.4873|Cuchilla Alta y el Galeon
+-34.5893|-55.6043|Cuchilla Cabo de Hornos
+-32.5274|-53.7754|Cuchilla Cambota
+-31.9978|-57.5388|Cuchilla de Buricayupi
+-32.8706|-54.2829|Cuchilla de Dionisio
+-32.0898|-56.9144|Cuchilla de Fuego
+-34.6701|-54.4225|Cuchilla de Garzon
+-31.0345|-56.6339|Cuchilla de Guaviyu
+-31.5161|-56.1926|Cuchilla de la Casa de Piedra
+-31.6730|-55.7317|Cuchilla de la Palma
+-31.3248|-56.0200|Cuchilla de Laureles
+-34.5886|-56.1023|Cuchilla de Machin
+-31.9893|-54.0534|Cuchilla de Melo
+-32.9354|-54.1025|Cuchilla de Olmos
+-32.4926|-56.3554|Cuchilla de Peralta
+-34.3549|-56.8672|Cuchilla de Pereira
+-32.5666|-55.4910|Cuchilla de Ramirez
+-34.6399|-56.0294|Cuchilla de Rocha
+-34.7266|-56.2539|Cuchilla de Sierra
+-31.0282|-55.5887|Cuchilla de Tres Cerros
+-33.4497|-56.7401|Cuchilla de Villasboas
+-31.7454|-55.2692|Cuchilla de Yaguari
+-34.5398|-55.6136|Cuchilla de Zeballos
+-34.0866|-54.4104|Cuchilla del Arbolito
+-32.7231|-55.0320|Cuchilla del Carmen
+-33.6682|-57.7477|Cuchilla del Corralito
+-31.7776|-55.6945|Cuchilla del Ombu
+-32.5414|-53.9588|Cuchilla del Paraiso
+-33.7209|-57.2649|Cuchilla del Perdido
+-32.9887|-55.8306|Cuchilla del Rincon
+-31.4130|-57.5045|Cuchilla del Salto
+-34.4159|-56.5063|Cuchilla del Vichadero
+-31.3379|-55.3949|Cuchilla Mangueras
+-32.2613|-53.8545|Cuchilla Peralta
+-31.8336|-57.4994|Cuchilla San Jose
+-33.7649|-56.2141|Cuchilla Santo Domingo
+-34.1635|-56.4752|Cuchilla Seca
+-34.4575|-56.3606|Cuchilla Verde
+-34.6639|-55.6424|Cueva del Tigre
+-34.1970|-57.1069|Cufre
+-34.7625|-55.9577|Cumbres de Carrasco
+-30.9711|-55.6124|Curticeiras
+-32.1500|-56.1167|Curtina
+-31.7517|-55.1378|Curtume
+-33.9823|-58.2550|Curupi
+-31.7112|-55.4731|Cuñapiru
+-33.3173|-55.5926|De Dios
+-34.7649|-56.3645|Delta del Tigre
+-34.6035|-54.1396|Diamante de la Pedrera
+-33.6822|-53.5532|Dieciocho de Julio
+-30.7554|-57.0546|Diego Lamas
+-33.5301|-58.2170|Dolores
+-32.6187|-57.3605|Don Esteban
+-33.6464|-55.8108|Dr. A. Gallinal
+-32.2132|-53.6968|Duraznero
+-33.6210|-57.4384|Duraznito
+-33.3806|-56.5236|Durazno
+-34.5332|-56.3137|Echevarria
+-34.3578|-57.0488|Ecilda Paullier
+-34.8647|-54.7547|Eden Rock
+-33.6047|-57.6224|Egaña
+-33.2158|-54.3745|Ejido de Treinta y Tres
+-33.0040|-57.9068|El Abrojal
+-33.5877|-57.8337|El Aguila
+-34.2504|-55.2914|El Alto
+-34.1339|-57.9763|El Bañado
+-33.4373|-54.5512|El Bellaco
+-34.8385|-55.9724|El Bosque
+-34.8317|-55.9942|El Bosque de Lagomar
+-34.5971|-54.4179|El Canelon
+-33.1042|-54.9131|El Carmen
+-32.9531|-54.1363|El Catete
+-34.4192|-57.8694|El Caño
+-31.5965|-54.5937|El Ceibo
+-33.9498|-58.2335|El Cerro
+-31.9640|-57.5071|El Chaco
+-33.8665|-58.0826|El Chileno
+-33.8274|-54.1984|El Chimango
+-34.8998|-54.8116|El Chorro
+-34.6814|-56.2863|El Colorado
+-34.5126|-55.6548|El Colorado de Migues
+-34.3951|-55.9927|El Colorado San Bautista
+-33.2586|-57.0783|El Coronilla
+-34.4371|-55.8725|El Cuadro
+-34.7025|-56.2224|El Dorado
+-32.3737|-57.5289|El Duraznal
+-34.6318|-55.0576|El Eden
+-31.8158|-56.2698|El Empalme
+-34.4220|-57.6033|El Ensueño
+-30.9550|-57.8455|El Espinillar
+-31.9040|-57.2612|El Eucaliptus
+-33.9539|-58.3536|El Faro
+-34.7880|-55.4810|El Galeon
+-34.4507|-57.7965|El General
+-31.9858|-57.4835|El Horno
+-31.5851|-57.4007|El Mellado
+-31.8498|-54.5467|El Palmito
+-34.2892|-55.1769|El Perdido
+-34.7936|-55.9104|El Pinar
+-32.7337|-56.9516|El Progreso
+-34.8256|-54.9046|El Quijote
+-34.4306|-57.7378|El Quinton
+-34.3344|-57.6961|El Semillero
+-34.2176|-55.3561|El Soldado
+-32.9464|-57.1320|El Surco
+-33.2034|-57.4125|El Tala
+-31.9802|-57.2566|El Tarugo
+-34.9019|-54.8697|El Tesoro
+-34.2593|-55.5920|El Tigre
+-33.4330|-56.9680|El Totoral
+-33.1843|-55.6751|Elias Regules
+-33.9835|-54.3308|Empalme de Velazquez
+-34.5341|-56.3398|Empalme Dogliotti
+-34.8200|-56.0062|Empalme Nicolich
+-34.6975|-55.8927|Empalme Olmos
+-34.7101|-56.0607|Empalme Sauce
+-34.2572|-56.9796|Escudero
+-32.3559|-54.4422|Escuela de Agronomia
+-32.9214|-54.9787|Esperanza
+-33.6151|-58.2250|Espinillo
+-33.9859|-55.2627|Espuelitas
+-34.5716|-56.3775|Esquina Gonzalez
+-34.4151|-55.5068|Estacion Andreoni
+-34.7427|-55.7638|Estacion Atlantida
+-33.4523|-55.6242|Estacion Capilla del Sauce
+-33.0385|-55.6741|Estacion Chileno
+-34.3396|-57.6896|Estacion Estanzuela
+-32.5438|-56.6218|Estacion Francia
+-34.7341|-55.6835|Estacion la Floresta
+-32.6476|-56.4829|Estacion Menendez
+-34.5243|-55.6251|Estacion Migues
+-34.6099|-55.8154|Estacion Pedrera
+-34.7419|-55.5187|Estacion Piedras de Afilar
+-34.3811|-56.5379|Estacion Rodriguez
+-34.3692|-55.4494|Estacion Solis
+-34.5668|-55.7516|Estacion Tapia
+-32.3708|-57.8537|Estación Porvenir
+-34.2804|-57.9457|Estancia Anchorena
+-32.9682|-57.7165|Estancia Vichadero
+-34.6945|-55.9705|Estanque de Pando
+-30.4835|-56.4156|Estiba
+-32.3611|-57.7040|Etchemendi
+-30.7164|-56.6023|Fagundez
+-34.1748|-56.5550|Fajardo
+-34.1911|-56.8089|Fajina
+-32.1999|-53.8323|Falda de Sierra de los Rios
+-34.8360|-54.6476|Faro Jose Ignacio
+-34.8046|-54.6349|Faro Jose Ignacio Norte
+-34.2835|-55.7354|Feliciano
+-31.1061|-56.9600|Ferreira
+-33.4835|-55.5694|Ferrer
+-33.6991|-56.6064|Ferrizo
+-34.8506|-56.1247|Flor de Maroñas
+-33.8779|-57.3717|Florencio Sánchez
+-34.0956|-56.2142|Florida
+-33.0175|-56.0324|Fonseca
+-33.6868|-53.5411|Fortin de San Miguel
+-34.7716|-55.8006|Fortin de Santa Rosa
+-34.7588|-56.0042|Fracc. Camino Maldonado
+-34.6457|-56.2450|Fraccionamiento Progreso
+-34.7183|-56.0473|Fraccionamiento Sobre Ruta 74
+-32.5140|-54.5278|Fraile Muerto
+-30.2117|-57.6051|Franquia
+-33.1165|-58.3107|Fray Bentos
+-34.1968|-55.7395|Fray Marcos
+-32.3179|-55.3883|Frigorifico Modelo
+-34.1288|-55.4810|Gaetan (Cuchilla de Carbajal)
+-31.8840|-57.4786|Gallinal
+-32.6424|-54.4328|Ganen
+-32.7087|-53.6782|Garao
+-31.3377|-57.8272|Garibaldi
+-33.4326|-57.8749|Garula
+-34.5934|-54.5432|Garzon
+-34.7092|-54.4956|Garzon Abajo
+-34.5661|-54.4490|Garzon Al Medio
+-34.4730|-54.5183|Garzon Arriba
+-33.2029|-53.8063|General Enrique Martinez - La Charqueada
+-34.7658|-55.2557|Gerona
+-33.6766|-55.3402|Godoy
+-34.8750|-56.1920|Goes
+-34.2317|-56.8760|Gonzalez
+-33.5203|-56.4131|Goñi
+-31.8673|-54.1715|Granja de Acegua
+-32.3953|-54.2373|Granja Pallero
+-34.7473|-55.4002|Gregorio Aznarez
+-33.4102|-57.9556|Grito de Asencio
+-31.9335|-57.3276|Gualeguay
+-34.7364|-55.0213|Guardia Vieja
+-31.4418|-54.8383|Guaviyu
+-31.0887|-56.6877|Guaviyu de Arapey
+-31.9152|-57.9578|Guaviyu de Quebracho
+-32.2784|-57.3186|Guayabos
+-34.0593|-57.0360|Guaycuru
+-32.6118|-54.2896|Guazunambi
+-34.7631|-55.6179|Guazuvira
+-34.7673|-55.6369|Guazuvira Nuevo
+-32.3585|-57.1978|Guichón
+-33.5126|-54.5459|Gutierrez
+-30.5061|-56.4117|Guyubira
+-34.8190|-55.9884|Haras del Lago
+-31.8594|-55.5630|Heriberto
+-33.7242|-55.8892|Hernandarias
+-32.9472|-56.0410|Higueras de Carpinteria
+-34.3426|-55.2777|Higueritas
+-32.9484|-54.2854|Higuerones
+-32.3728|-54.1933|Hipodromo
+-31.6536|-54.6205|Hospital
+-33.6109|-55.3325|Illescas
+-34.3539|-56.3989|Independencia
+-34.1487|-54.1772|India Muerta
+-32.5488|-54.2892|Infiernillo
+-34.6271|-56.2544|Instituto Adventista
+-31.9622|-54.1231|Isidoro Noblía
+-32.5929|-56.7953|Isla de Arguelles
+-33.6028|-53.5744|Isla Negra
+-33.9613|-57.0886|Ismael Cortinas
+-31.2877|-57.7045|Itapebi
+-34.4204|-56.4240|Ituzaingo
+-34.8475|-56.1436|Ituzaingó
+-34.8830|-56.1660|Jacinto Vera
+-34.6857|-55.9657|Jardines de Pando
+-34.8810|-56.1530|Jardines del Hipódromo
+-34.7806|-55.4197|Jaureguiberry
+-30.4329|-56.7854|Javier de Viana
+-34.2510|-56.7995|Jesus Maria
+-34.7350|-56.0347|Joaquín Suárez
+-33.4733|-55.1453|Jose Batlle y Ordoñez
+-34.6880|-54.7145|Jose Ignacio
+-33.4667|-55.1167|José Batlle y Ordóñez
+-33.6962|-57.5315|José Enrique Rodó
+-33.4545|-54.5359|José Pedro Varela
+-34.4323|-57.7298|Juan Carlos Caseros
+-34.0584|-58.1927|Juan Gonzalez
+-33.9182|-57.2347|Juan Jackson
+-33.4935|-56.7431|Juan Jose Castro
+-34.4189|-57.4528|Juan L. Lacaze
+-34.3223|-56.8055|Juan Soler
+-34.5945|-56.2533|Juanicó
+-33.1656|-54.1643|Julio Maria Sanz
+-34.0973|-56.1761|Juncal
+-34.5212|-54.2311|Kilometro 18
+-34.6992|-56.7320|Kiyu - Ordeig
+-34.6391|-54.1589|La Aguada
+-34.6373|-54.1580|La Aguada y Costa Azul
+-31.7393|-56.0302|La Aldea
+-32.5499|-55.5767|La Alegria
+-33.7240|-56.9660|La Alianza
+-33.0025|-57.0098|La Arena
+-34.8164|-55.9866|La Asuncion
+-34.9089|-54.8515|La Barra
+-34.8970|-56.1850|La Blanqueada
+-30.8463|-56.3364|La Bolsa
+-31.7372|-55.7411|La Bolsa 01
+-31.2957|-57.2003|La Bolsa 02
+-31.0534|-57.0342|La Bolsa 03
+-34.4080|-56.9874|La Boyada
+-31.4040|-57.9899|La Caballada
+-31.5369|-55.0663|La Caillava
+-32.9450|-54.1813|La Calavera
+-31.4498|-55.4166|La Calera
+-34.8561|-55.1037|La Capuera
+-33.6705|-56.9471|La Casilla
+-34.2083|-54.4145|La Centinela
+-31.7194|-54.8184|La Cerrillada
+-32.0496|-54.6260|La Chilca
+-34.7132|-55.7900|La Chinchilla
+-33.6107|-56.1682|La Cimbra
+-34.8940|-56.1970|La Comercial
+-33.5649|-58.4261|La Concordia
+-33.4068|-56.6376|La Cordobesa
+-32.6043|-53.3298|La Coronilla
+-34.0367|-53.5490|La Coronilla Fishing Club
+-33.9305|-56.2371|La Cruz
+-34.1850|-55.4398|La Cuchilla
+-34.1479|-55.7579|La Escobilla
+-34.1574|-53.6934|La Esmeralda
+-34.3285|-57.7247|La Estanzuela
+-34.8206|-55.3120|La Falda
+-34.8860|-56.2030|La Figurita
+-34.7557|-55.6814|La Floresta
+-32.7527|-57.7949|La Florida
+-33.9953|-53.5729|La Fortaleza de Santa Teresa
+-32.1015|-53.7428|La Gloria
+-33.7507|-57.0032|La Guardia
+-32.0788|-55.6570|La Hilera
+-34.2378|-57.8817|La Horqueta
+-34.8330|-54.6503|La Juanita
+-33.3814|-57.3756|La Laguna
+-32.7499|-54.2353|La Lata
+-32.3697|-58.0438|La Lata Ruta 3 (Km. 375)
+-33.4200|-58.3349|La Loma
+-34.0357|-56.1931|La Macana
+-32.5517|-55.4911|La Mazamorra
+-32.6035|-53.8963|La Micaela
+-31.9438|-54.0225|La Mina
+-34.7198|-55.8807|La Montañesa
+-33.3673|-55.5038|La Palma
+-34.6904|-55.8022|La Palmita
+-34.4909|-56.1468|La Paloma
+-34.7603|-56.2259|La Paz
+-32.5519|-57.9210|La Paz (Ruta 3 Km. 346)
+-32.3872|-54.0832|La Pedrera
+-34.4316|-55.2952|La Plata
+-34.5449|-54.3267|La Ribiera
+-34.0758|-57.1573|La Sierra
+-34.8906|-54.9727|La Sonrisa
+-33.2381|-57.7815|La Tabla
+-34.8620|-56.2360|La Teja
+-32.4883|-57.7450|La Tentacion
+-34.5635|-55.6782|La Totora
+-34.7794|-55.5614|La Tuna
+-32.8441|-57.9106|La Union
+-34.8786|-56.1358|La Unión
+-33.5766|-55.4234|La Victoria
+-31.3282|-57.7254|La Viticola
+-33.7336|-55.2624|Ladrillos
+-34.8456|-55.1105|Lago de los Cisnes
+-34.8303|-55.9909|Lago Jardin del Bosque
+-32.7416|-53.2618|Lago Merin
+-34.8415|-55.9783|Lagomar
+-30.9832|-55.4969|Lagos del Norte
+-34.9053|-54.8397|Laguna Blanca
+-34.4488|-57.7895|Laguna de los Patos
+-32.7372|-54.9042|Laguna del Junco
+-34.7982|-55.0102|Laguna del Sauce
+-30.8798|-55.5817|Lagunon
+-31.5302|-55.9495|Lambare
+-33.8337|-57.7996|Lares
+-32.1708|-55.0161|Larrayos
+-34.8610|-56.1630|Larrañaga
+-33.3827|-55.0831|Larrosa
+-32.9162|-55.6105|Las Acacias
+-33.7269|-54.6219|Las Achiras
+-32.1318|-55.0715|Las Arenas
+-34.6864|-56.3955|Las Brujas
+-32.9775|-55.4704|Las Cañas
+-33.2363|-54.3560|Las Chacras
+-32.3726|-55.0659|Las Chircas
+-33.9592|-57.4596|Las Chispas
+-34.8498|-55.0307|Las Cumbres
+-33.8703|-58.1742|Las Flores
+-34.7903|-55.3249|Las Flores - Estacion
+-33.1591|-58.3330|Las Fracciones
+-34.8164|-55.9902|Las Higueritas
+-32.7092|-54.4990|Las Limas
+-33.2130|-58.2782|Las Margaritas
+-33.3944|-58.2078|Las Maulas
+-32.4653|-55.0674|Las Pajas
+-32.9284|-55.4217|Las Palmas
+-33.1827|-54.9771|Las Pavas
+-30.2620|-57.5817|Las Piedras
+-34.1939|-55.9365|Las Piedritas
+-34.6885|-55.7104|Las Ranas
+-34.7333|-55.7167|Las Toscas
+-32.1800|-55.0113|Las Toscas de Caraguata
+-33.3192|-56.2808|Las Tunas
+-34.7438|-55.7014|Las Vegas
+-34.5794|-56.2940|Las Violetas
+-33.6724|-54.2065|Lascano
+-33.8713|-57.3468|Lata del Perdido
+-32.1753|-54.9216|Laura
+-34.3119|-56.8402|Laurel
+-31.6560|-55.4214|Laureles
+-33.3566|-54.2198|Lechiguana de Corrales
+-30.4253|-57.6342|Lenguazo
+-34.8460|-56.2230|Lezica
+-34.6346|-56.6174|Libertad
+-31.1029|-57.0626|Lluveras
+-34.5511|-54.1951|Lomas
+-34.0266|-58.2700|Lomas de Carmelo
+-34.7849|-55.9720|Lomas de Carrasco
+-34.8135|-55.9401|Lomas de Solymar
+-34.7672|-56.0745|Lomas de Toledo
+-32.0785|-57.9189|Lorenzo Geyres
+-32.7681|-55.9115|Los Agregados
+-33.7851|-54.0797|Los Ajos
+-34.8804|-54.9853|Los Aromos
+-33.2368|-58.0380|Los Arrayanes
+-34.4400|-56.3664|Los Ceibos
+-34.6050|-56.3564|Los Cerrillos
+-32.3837|-54.6004|Los Cerros
+-31.8222|-55.9741|Los Coitinhos
+-34.8806|-55.0282|Los Corchos
+-32.1661|-55.9406|Los Cuadrados
+-32.3908|-55.3090|Los Feos
+-32.2817|-55.8428|Los Furtados
+-32.1490|-54.9581|Los Garcia
+-32.1624|-55.0098|Los Gomez
+-34.7594|-56.0768|Los Hornos
+-33.9214|-53.6760|Los Indios
+-32.4893|-56.0285|Los Laureles
+-32.0478|-55.0405|Los Malavares
+-32.5213|-57.1616|Los Mellizos
+-31.6016|-56.4458|Los Orientales
+-32.1298|-54.9267|Los Ortices
+-34.4342|-57.2422|Los Pinos
+-31.0679|-55.7851|Los Potreros
+-33.1364|-57.1546|Los Puentes
+-33.3120|-58.3122|Los Ranchos
+-31.7454|-56.2190|Los Rodriguez
+-31.8176|-56.1771|Los Rosanos
+-31.9747|-55.1839|Los Rosas
+-31.9291|-55.6042|Los Semper
+-34.0930|-54.4920|Los Talas
+-33.1585|-56.8499|Los Tapes
+-34.7792|-55.5663|Los Titanes
+-31.9009|-55.4005|Los Vazquez
+-31.2208|-55.8863|Lunarejo
+-34.3240|-55.7421|Macana
+-33.7426|-57.9217|Maciel
+-33.3690|-56.2405|Maestre Campo
+-34.0604|-56.8841|Mahoma
+-34.1481|-56.9520|Mal Abrigo
+-33.2957|-55.5555|Malbajar Este
+-33.2887|-55.5982|Malbajar Oeste
+-34.9000|-54.9500|Maldonado
+-34.8935|-56.0999|Malvín
+-34.8780|-56.0830|Malvín Norte
+-34.1536|-57.5236|Manantiales
+-30.9262|-55.5560|Mandubi
+-34.8072|-56.1381|Manga
+-32.0906|-54.0464|Mangrullo
+-33.8034|-55.1484|Manguera Azul
+-33.6315|-55.4995|Mansavillagra
+-31.5446|-55.6641|Manuel Diaz
+-34.5298|-54.0558|Mar del Plata
+-34.3933|-54.9865|Marco de los Reyes
+-34.8620|-56.1470|Marconi
+-34.4756|-56.3414|Margat
+-33.3898|-54.6790|Maria Albina
+-33.1005|-56.1892|Maria Cejas
+-31.9240|-53.9804|Maria Isabel
+-33.2256|-57.1304|Marincho
+-34.7689|-55.8211|Marindia
+-33.2701|-55.9056|Mariscala
+-33.2805|-55.9719|Mariscala del Carmen
+-34.1528|-54.9012|Marmaraja
+-34.8634|-56.1296|Maroñas
+-34.1616|-58.2045|Martin Chico
+-34.1387|-58.0721|Martin Chico de Conchillas
+-31.8787|-55.9685|Martinote
+-31.0839|-56.0010|Masoller
+-34.5823|-56.0574|Mata Siete
+-31.1229|-56.5861|Mataojito
+-34.5193|-56.3200|Mataojo
+-31.1981|-56.5266|Mataojo Grande
+-33.0668|-54.6001|Mate Dulce
+-32.1231|-54.6299|Mazangano
+-34.8103|-55.9229|Medanos de Solymar
+-34.1537|-57.3618|Media Agua
+-34.4923|-56.3291|Melgarejo
+-34.6989|-56.3257|Melilla
+-32.3703|-54.1675|Melo
+-32.5601|-57.4834|Menafra
+-33.0527|-54.1557|Mendizabal
+-34.2414|-56.2167|Mendoza Chico
+-34.2825|-56.2136|Mendoza Grande
+-30.8760|-56.3994|Meneses
+-34.8560|-56.2020|Mercado Modelo
+-33.2524|-58.0305|Mercedes
+-32.3844|-56.9086|Merinos
+-31.0968|-57.0238|Migliaro - Colonia Lavalleja
+-34.1057|-57.8502|Miguelete de Conchillas
+-34.4876|-55.6279|Migues
+-34.3759|-55.2377|Minas
+-31.5738|-55.4708|Minas de Corrales
+-31.5250|-55.5910|Minas de Cuñapiru (Usinas)
+-34.1845|-57.9201|Minas de Narancio
+-31.6652|-55.3381|Minas de Zapucay
+-32.4326|-55.0271|Minuano
+-31.8304|-54.2203|Minuano de Acegua
+-34.3223|-57.4896|Minuano y Sauce
+-34.7753|-55.9649|Mirador de la Tahona
+-34.8786|-54.8654|Miramar
+-31.8581|-54.2285|Misterio
+-31.6041|-54.9832|Moirones
+-32.9586|-56.4230|Molles Chico
+-34.4043|-54.8916|Molles de Aigua
+-33.6211|-54.5415|Molles de Cañada Grande
+-34.5295|-54.5216|Molles de Garzon
+-34.0740|-57.8153|Molles de Miguelete
+-33.3147|-54.5625|Molles de Olimar
+-32.8937|-56.9540|Molles de Porrua
+-32.9570|-56.8195|Molles de Quinteros
+-33.4655|-55.2103|Molles del Pescado
+-33.4361|-54.9069|Molles del Sauce
+-33.6649|-55.8428|Molles del Timote
+-32.0787|-57.1721|Molles Grande
+-34.8705|-56.0197|Monaco de Carrasco
+-30.3744|-57.6634|Mones Quintela
+-34.7409|-56.4130|Monte Grande
+-32.3457|-53.9082|Montecito
+-33.5266|-55.7269|Montecoral
+-34.4934|-55.5622|Montes
+-34.8119|-55.9537|Montes de Solymar
+-34.9033|-56.1882|Montevideo
+-32.2173|-55.5745|Montevideo Chico
+-33.7763|-57.2380|Monzon
+-32.3780|-56.7015|Morato (Tres Arboles)
+-32.9336|-56.0200|Mouriño
+-34.1496|-56.5632|Mundo Azul
+-34.1306|-56.6182|Mundo Azul Aguirre
+-33.1328|-56.1440|Municipio de Durazno
+-34.5261|-56.1423|Murialdo
+-32.1741|-54.0845|Nando
+-34.7622|-56.0678|Nataly
+-34.7813|-55.8760|Neptunia
+-33.4786|-55.1536|Nico Perez
+-33.3305|-54.9092|Noques de Olimar Chico
+-34.7179|-55.2596|Nueva Carrara
+-34.3000|-57.2333|Nueva Helvecia
+-31.4450|-57.9775|Nueva Hesperides
+-33.8703|-58.4118|Nueva Palmira
+-32.9797|-58.0586|Nuevo Berlín
+-34.8333|-56.2500|Nuevo París
+-32.3399|-58.0147|Nuevo Paysandu
+-34.3358|-55.6985|Nutrias
+-34.8705|-55.1125|Ocean Park
+-34.4451|-53.9106|Oceania del Polonio
+-33.3136|-54.3245|Olimar Grande
+-31.1226|-56.8786|Olivera
+-34.6991|-55.9298|Olmos
+-33.1354|-58.1080|Ombucitos
+-34.3544|-55.5582|Ombues de Bentancor
+-33.2960|-56.3557|Ombues de Oribe
+-33.9378|-57.8096|Ombúes de Lavalle
+-32.2026|-55.8524|Once Cerros
+-33.9739|-54.0289|Oratorio
+-32.3819|-57.5172|Orgoroso
+-34.6630|-56.5842|Orillas del Plata
+-34.3408|-55.3881|Ortiz
+-34.3007|-55.3984|Ortiz Castro
+-31.3320|-57.9649|Osimani y Llerena
+-34.2869|-56.7700|Pachina
+-34.7969|-54.8644|Pago de la Paja
+-30.6305|-56.7696|Paguero
+-34.8017|-56.3342|Pajas Blancas
+-33.7804|-55.9612|Palermo
+-30.7125|-57.5407|Palma Sola
+-34.1798|-53.8279|Palmar
+-34.2170|-53.8103|Palmar de Castillos
+-32.9442|-56.9467|Palmar de Porrua
+-31.8982|-57.7354|Palmar del Quebracho
+-32.4207|-57.1572|Palmar Grande
+-33.8470|-53.4812|Palmares de la Coronilla
+-33.5072|-57.8008|Palmitas
+-33.2733|-54.5680|Palo a Pique
+-33.8285|-58.0233|Palo Solo
+-31.0803|-57.6103|Palomas
+-32.2463|-56.2220|Pampa
+-34.7787|-55.2358|Pan de Azúcar
+-34.7172|-55.9584|Pando
+-34.2281|-56.7673|Panta
+-34.5795|-55.9916|Pantanoso
+-33.6797|-56.0153|Pantanoso de Castro
+-34.5948|-56.0104|Pantanoso del Sauce
+-31.9115|-54.1476|Panteon
+-34.6231|-56.2567|Parada Cabrera
+-31.5255|-57.9074|Parada Dayman
+-31.3712|-57.7953|Parada Herreria
+-31.1355|-55.6393|Parada Medina
+-32.3893|-57.4604|Parada Pandule
+-31.8258|-57.8902|Parada Rivas
+-33.7340|-57.4875|Parada Suarez
+-32.8373|-56.5123|Parada Sur
+-34.6108|-56.4609|Parador Tajes
+-34.3687|-57.4703|Paraje Minuano
+-34.2211|-54.3157|Paralle
+-30.6669|-57.7883|Paredon
+-32.9477|-56.5074|Parish
+-34.9000|-56.1800|Parque Batlle
+-34.8568|-56.0109|Parque Carrasco
+-34.8245|-55.9483|Parque de Solymar
+-34.7549|-55.7168|Parque del Plata
+-31.2899|-57.9439|Parque Jose Luis
+-34.7972|-54.8977|Parque Medina
+-34.8660|-56.0350|Parque Miramar
+-34.7596|-56.3930|Parque Postel
+-34.7583|-56.3974|Parque Postel Cnel. Adrian Medina
+-34.9080|-56.1710|Parque Rodó
+-34.7054|-54.9132|Partido Norte
+-34.7202|-54.9627|Partido Oeste
+-33.2507|-57.2594|Paso  de Lugo
+-31.3258|-56.3189|Paso  Valega
+-31.6365|-55.1494|Paso Amarillo
+-33.2139|-54.3419|Paso Ancho
+-34.1982|-57.7866|Paso Antolin
+-34.5736|-55.5118|Paso Arbelo
+-31.2049|-55.3592|Paso Ataques
+-34.5366|-56.4494|Paso Belastiqui
+-34.0136|-57.3282|Paso Birriel
+-31.8079|-55.9772|Paso Bonilla
+-34.0946|-56.2872|Paso Calleros
+-30.7877|-56.7821|Paso Campamento
+-31.8195|-55.1815|Paso Casildo
+-31.4025|-56.7417|Paso Cementerio
+-33.2019|-55.7731|Paso de Aguirre
+-31.9796|-54.5623|Paso de Arriera
+-31.0937|-55.6840|Paso de Ataques
+-33.2200|-54.9696|Paso de Averias
+-32.6868|-57.1592|Paso de Balbuena
+-34.2070|-56.5372|Paso de Cames
+-34.8603|-56.0522|Paso de Carrasco
+-33.2778|-55.8398|Paso de Castro
+-31.5213|-56.0665|Paso de Ceferino
+-34.5978|-56.1360|Paso de Cuello
+-31.5174|-54.5184|Paso de Frontera
+-31.3748|-55.6568|Paso de Gaire
+-34.8610|-56.2390|Paso de la Arena
+-33.1943|-54.8529|Paso de la Atahona
+-34.4414|-56.1512|Paso de la Cadena
+-31.3387|-55.4723|Paso de la Calera
+-34.5352|-54.6759|Paso de la Cantera
+-30.2931|-57.3081|Paso de la Cruz
+-33.2976|-54.1852|Paso de la Laguna
+-34.5055|-56.0998|Paso de la Paloma
+-34.1250|-57.1705|Paso de la Quinta
+-34.3706|-55.8208|Paso de la Salamanca
+-31.5617|-56.0431|Paso de las Carretas
+-31.3967|-56.0900|Paso de las Flores
+-34.4400|-56.9631|Paso de las Piedras
+-31.6584|-56.6167|Paso de las Piedras de Arerungua
+-34.4582|-56.2285|Paso de las Toscas
+-32.3004|-54.1785|Paso de las Tropas
+-31.8307|-54.3236|Paso de las Yeguas
+-30.1299|-57.0867|Paso de Leon
+-32.6948|-57.4359|Paso de Leopoldo
+-33.4390|-53.8373|Paso de Lopez
+-34.4283|-56.3703|Paso de los Alamos
+-32.5332|-54.3869|Paso de los Carros
+-32.9520|-57.5566|Paso de los Cobres
+-34.4593|-55.9958|Paso de los Difuntos
+-34.4511|-56.2717|Paso de los Francos
+-34.1675|-56.4002|Paso de los Novillos
+-34.1113|-54.5248|Paso de los Talas
+-32.8167|-56.5167|Paso de los Toros
+-34.1673|-54.9264|Paso de los Troncos
+-34.0484|-56.4569|Paso de Mas
+-33.9520|-54.9178|Paso de Mesa
+-34.4290|-56.2814|Paso de Pache
+-32.0504|-56.2114|Paso de Perez
+-33.0010|-53.8732|Paso de Piriz
+-30.1542|-56.7868|Paso de Ramos
+-32.6344|-56.7379|Paso de Soca
+-34.1383|-53.8256|Paso del Bañado
+-34.6280|-56.4487|Paso del Bote
+-34.3645|-56.8252|Paso del Carreton
+-31.4781|-55.8329|Paso del Cerro
+-34.7003|-56.2344|Paso del Colorado
+-33.9857|-56.9826|Paso del Guaycuru
+-30.8882|-55.6009|Paso del Lagunon
+-34.6119|-56.1469|Paso del Medio
+-32.9940|-55.3617|Paso del Medio las Palmas
+-33.5944|-53.6075|Paso del Ombu
+-31.7810|-57.0390|Paso del Parque del Dayman
+-31.4428|-56.8382|Paso del Potrero
+-31.8035|-54.7071|Paso del Puerto
+-34.1628|-56.7595|Paso del Rey
+-33.4016|-54.2449|Paso del Sauce
+-34.3692|-56.3197|Paso del Sordo
+-31.2457|-55.3642|Paso del Tapado
+-34.4545|-54.1166|Paso Doña Rosa
+-34.4943|-56.2828|Paso Espinosa
+-30.4764|-57.1255|Paso Farias
+-31.4600|-57.5783|Paso Fialho
+-33.3817|-57.3490|Paso Hondo
+-34.1279|-57.6796|Paso Hospital
+-34.1280|-57.6127|Paso Hospital Manantiales
+-31.4730|-54.9669|Paso Lapuente
+-32.0810|-55.0399|Paso Livindo
+-32.0148|-53.8588|Paso Melo
+-34.8500|-56.2167|Paso Molino
+-34.1890|-57.4252|Paso Morlan
+-31.1313|-56.6650|Paso Nuevo del Arapey
+-34.5176|-56.2602|Paso Palomeque
+-32.4699|-55.2049|Paso Pereira
+-34.3090|-57.3779|Paso Quicho
+-32.5146|-55.5355|Paso Ramirez
+-32.9488|-55.9404|Paso Real de Carpinteria
+-33.7152|-55.4281|Paso Real de Mansavillagra
+-34.3049|-55.7800|Paso Rivero de Vejigas
+-31.0328|-55.5034|Paso Serpa
+-33.3321|-56.4520|Paso Tejera
+-34.1266|-56.4034|Paso Vela
+-31.6489|-56.2600|Paso Victor
+-34.3307|-57.3529|Pastoreo
+-30.9099|-57.1908|Patitas
+-32.7288|-57.0927|Pauru
+-34.3123|-56.9073|Pavon
+-32.3171|-58.0807|Paysandú
+-34.3663|-55.6659|Pedernal
+-34.4012|-55.7190|Pedernal Chico
+-34.4166|-55.6979|Pedernal Grande
+-34.5882|-54.1287|Pedrera Norte
+-33.5510|-57.7934|Pedro Chico
+-34.7548|-56.4246|Penino
+-31.4545|-56.3803|Pepe Nuñez
+-34.8430|-56.2130|Perez Castellanos
+-31.6978|-57.3739|Perico Moreno
+-34.2829|-56.6188|Perico Perez
+-33.8305|-57.7880|Perseverano
+-31.7799|-54.2898|Peñarol
+-34.2738|-57.2685|Picada de Benitez
+-32.0440|-55.3494|Picada de Cuello
+-32.4804|-53.5546|Picada de Maya
+-32.7438|-53.5681|Picada de Salome
+-34.3964|-57.0754|Picada Gambetta
+-34.6412|-54.4976|Picada Tolosa
+-32.5511|-55.1761|Piedra Alta
+-33.9894|-55.6002|Piedra Campana
+-33.9579|-57.3164|Piedra Chata
+-34.3772|-57.8429|Piedra de los Indios
+-34.6970|-55.8948|Piedra del Toro
+-30.5217|-56.3936|Piedra Pintada
+-34.5134|-55.7848|Piedra Sola
+-33.9630|-57.6191|Piedras Blancas
+-33.6626|-56.3384|Piedras Coloradas
+-34.6667|-55.5972|Piedras de Afilar
+-34.3072|-55.6884|Piedritas
+-34.6965|-56.0026|Piedritas de Suarez
+-34.7750|-55.8569|Pinamar
+-34.7743|-55.8567|Pinamar - Pinepark
+-34.9081|-54.9799|Pinares - Las Delicias
+-34.8023|-55.9361|Pinares de Solymar
+-34.7825|-55.8489|Pinepark
+-30.4341|-56.4598|Pintadito
+-30.4428|-56.4319|Pintado
+-30.5142|-56.4319|Pintado Grande
+-33.7389|-54.7646|Piraraja
+-34.8629|-55.2747|Piriápolis
+-32.6242|-54.7742|Piñeiro
+-32.3287|-57.0474|Piñera
+-32.7561|-53.7166|Placido Rosas
+-34.0324|-53.5462|Plano 291
+-30.9937|-55.6878|Platon
+-34.4342|-57.2641|Playa Azul
+-34.4315|-57.2523|Playa Fomento
+-34.8461|-55.2965|Playa Grande
+-34.8275|-55.3023|Playa Hermosa
+-34.4337|-57.2579|Playa Parant
+-34.7423|-56.4540|Playa Pascual
+-34.8237|-55.3161|Playa Verde
+-33.1771|-54.3519|Poblado Alonzo
+-32.5055|-53.5040|Poblado Uruguay
+-34.9083|-56.1500|Pocitos
+-33.8747|-55.1221|Polanco
+-33.4864|-56.1565|Polanco del Yi
+-33.8747|-55.1219|Polanco Norte
+-33.8996|-55.1667|Polanco Sur
+-33.8767|-58.2759|Polancos
+-34.5945|-56.0453|Ponce Mata Siete
+-34.7049|-56.1687|Poquitos
+-34.2054|-54.8543|Pororo
+-30.2727|-57.5714|Port. de Hierro y Campodonico
+-34.8827|-55.0436|Portezuelo
+-33.0657|-58.0408|Porton Haedo
+-32.3937|-57.9696|Porvenir
+-34.8560|-56.2040|Prado
+-32.6793|-53.5487|Presidente Doctor Getulio Vargas
+-34.6674|-56.2176|Progreso
+-33.1112|-58.2439|Pte. San Martin
+-32.3958|-56.7284|Pueblo Alonzo
+-34.3802|-55.9509|Pueblo Castellanos
+-31.2419|-56.7728|Pueblo Cayetano
+-31.3145|-57.1202|Pueblo Celeste
+-32.8283|-56.4986|Pueblo Centenario
+-32.2346|-55.0087|Pueblo Clavijo
+-33.1866|-56.2803|Pueblo de Alvarez
+-31.8622|-55.4369|Pueblo de Arriba
+-33.2360|-55.1785|Pueblo de los Morochos
+-32.0179|-54.5822|Pueblo de los Santos
+-31.9668|-55.4073|Pueblo del Barro
+-32.3503|-57.9545|Pueblo Esperanza
+-31.0754|-57.5229|Pueblo Farias
+-32.0417|-57.3202|Pueblo Federacion
+-31.1814|-56.3664|Pueblo Fernandez
+-34.1525|-58.0291|Pueblo Gil
+-32.8163|-57.0448|Pueblo Grecco
+-34.5076|-54.0198|Pueblo Nuevo
+-33.8862|-56.8391|Pueblo Pintos
+-31.3487|-56.3947|Pueblo Quintana
+-31.5702|-56.6384|Pueblo Ramos
+-31.8043|-54.8360|Pueblo Socorro
+-34.7132|-55.4361|Pueblo Solis
+-34.6495|-56.3111|Puente de Brujas
+-34.2552|-54.9446|Puente de Marmaraja
+-34.3418|-56.2011|Puente de Mendoza
+-32.2528|-54.1074|Puente Negro
+-34.3585|-53.8451|Puente Valizas
+-34.3579|-57.3129|Puerto Concordia
+-34.5452|-54.3183|Puerto de los Botes
+-34.2032|-58.0674|Puerto Ingles
+-34.4368|-57.6418|Puerto Platero
+-34.3680|-57.3184|Puerto Rosario
+-33.1408|-56.3644|Puglia
+-33.7693|-53.4089|Puimayen
+-34.8814|-55.0490|Punta Ballena
+-34.9219|-56.1594|Punta Carretas
+-33.1629|-53.6250|Punta Cebollati
+-34.8931|-55.2507|Punta Colorada
+-32.0831|-55.1849|Punta de Carretera
+-34.8470|-56.2520|Punta de Rieles
+-34.0404|-53.5525|Punta del Diablo
+-34.9475|-54.9338|Punta del Este
+-34.8350|-56.2860|Punta Espinillo
+-34.2457|-58.0235|Punta Francesa
+-34.8865|-56.0898|Punta Gorda
+-34.8914|-55.2290|Punta Negra
+-34.0667|-53.5575|Punta Palmar
+-34.5777|-54.1206|Punta Rubia
+-31.7914|-54.8763|Puntas de Abrojal
+-32.4578|-53.9381|Puntas de Amarillo
+-33.7586|-58.1573|Puntas de Arenales
+-32.4774|-57.5599|Puntas de Arroyo Negro
+-32.4681|-56.8071|Puntas de Averias
+-32.3682|-57.5180|Puntas de Bacacua
+-34.0765|-55.0738|Puntas de Barriga Negra
+-34.5904|-56.3298|Puntas de Brujas
+-31.8678|-57.3376|Puntas de Buricayupi
+-34.3011|-56.5141|Puntas de Cagancha
+-34.0337|-56.2352|Puntas de Calleros
+-34.6729|-56.1414|Puntas de Canelon Chico
+-32.3963|-58.0086|Puntas de Cangue
+-33.0362|-55.9222|Puntas de Carpinteria
+-34.4281|-56.0151|Puntas de Cañada Cardozo
+-34.6263|-55.8492|Puntas de Cañada Grande
+-33.8958|-55.4219|Puntas de Chamame
+-33.7832|-56.6528|Puntas de Chamanga
+-34.0647|-55.7486|Puntas de Chamizo
+-31.9570|-55.0415|Puntas de Cinco Sauces
+-34.4849|-55.8302|Puntas de Cochengo
+-31.2883|-55.1676|Puntas de Corrales
+-30.8651|-55.6155|Puntas de Cuñapiru
+-34.3040|-54.2976|Puntas de Don Carlos
+-33.7113|-57.4441|Puntas de Durazno
+-34.4695|-56.7524|Puntas de Gregorio
+-33.1187|-55.6740|Puntas de Herrera
+-33.5702|-55.2724|Puntas de Illescas
+-34.4204|-54.5866|Puntas de Jose Ignacio
+-34.0973|-57.9334|Puntas de Juan Gonzalez
+-34.1215|-55.7702|Puntas de la Escobilla
+-31.9283|-54.1290|Puntas de la Mina
+-34.7879|-55.2681|Puntas de la Sierra
+-32.3332|-57.7990|Puntas de las Isletas
+-34.4382|-56.0033|Puntas de las Violetas
+-34.3920|-56.8738|Puntas de Laurel
+-32.4762|-56.0706|Puntas de Laureles
+-32.9278|-54.2232|Puntas de Leoncho
+-33.1300|-54.2836|Puntas de los Ceibos
+-34.4507|-55.4285|Puntas de los Chanchos
+-33.6224|-56.3630|Puntas de Maciel
+-33.0690|-55.4480|Puntas de Malbajar
+-33.7915|-55.3507|Puntas de Mansavillagra
+-33.5205|-57.0477|Puntas de Marincho
+-34.5663|-56.0688|Puntas de Mata Siete
+-34.5309|-55.1598|Puntas de Mataojo
+-34.2418|-57.5942|Puntas de Melo
+-32.1232|-54.3167|Puntas de Molles
+-32.2459|-54.3245|Puntas de Palleros
+-34.6010|-55.2492|Puntas de Pan de Azucar
+-34.5420|-56.0565|Puntas de Pantanoso
+-34.5185|-56.0059|Puntas de Pantanoso Este
+-34.5834|-55.7817|Puntas de Pedrera
+-33.9012|-55.3154|Puntas de Polanco
+-32.7994|-54.5206|Puntas de Quebracho
+-34.4899|-55.1455|Puntas de San Francisco
+-33.7006|-56.9077|Puntas de San Jose
+-34.0128|-57.4605|Puntas de San Juan
+-34.3071|-57.7988|Puntas de San Pedro
+-33.8430|-57.4224|Puntas de San Salvador
+-34.1940|-55.1651|Puntas de Santa Lucia
+-33.6040|-56.9269|Puntas de Sarandi
+-33.7761|-56.3099|Puntas de Sauce de Maciel
+-34.3683|-55.5076|Puntas de Solis
+-32.6922|-54.3760|Puntas de Tacuari
+-34.7761|-56.0891|Puntas de Toledo
+-34.6787|-56.5543|Puntas de Tropa Vieja
+-34.5855|-56.7010|Puntas de Valdéz
+-31.5000|-57.1333|Puntas de Valentin
+-34.3414|-55.6225|Puntas de Vejigas
+-34.4464|-55.7641|Puntas del Arenal
+-34.1909|-55.6654|Puntas del Arroyo Latorre
+-34.4358|-54.9836|Puntas del Campanera
+-33.8620|-56.4817|Puntas del Corral de Piedra
+-33.0297|-54.2647|Puntas del Oro
+-32.7255|-54.3785|Puntas del Parao
+-34.2512|-55.0936|Puntas del Perdido
+-34.2837|-57.6048|Puntas del Riachuelo
+-34.4177|-57.3335|Puntas del Rosario
+-32.5954|-53.5627|Puntas del Sauce
+-31.1794|-55.7939|Puntas del Sauzal
+-33.3853|-57.5523|Puntas del Tala
+-31.3154|-55.0516|Puntas del Yaguari
+-32.6238|-54.7521|Quebracho
+-32.1471|-57.4212|Queguay Grande
+-32.0322|-57.8492|Queguayar
+-34.7629|-55.9724|Quinta los Horneros
+-34.8197|-55.9902|Quintas del Bosque
+-34.3537|-57.6497|Quinton
+-32.5288|-57.9679|Rabon
+-34.1209|-58.0077|Radial Hernandez
+-34.3395|-57.3391|Radial Rosario
+-34.5501|-56.7587|Radial Ruta 3
+-34.5234|-56.7971|Rafael Perazza
+-34.3405|-56.6671|Raigon
+-32.3494|-54.6371|Ramon Trigo
+-34.6127|-56.0483|Rancherios de Ponce
+-34.3971|-57.8747|Real de Vera
+-33.9954|-55.6486|Reboledo
+-34.3592|-57.7942|Reducto
+-34.4140|-57.2118|Resguardo Cufre
+-33.5836|-54.7305|Retamosa
+-34.4313|-57.7109|Riachuelo
+-32.8314|-53.8271|Rincon
+-34.4766|-56.4984|Rincon de Albano
+-31.6764|-55.0732|Rincon de Amarillo
+-33.9562|-54.5070|Rincon de Aparicio
+-34.4799|-57.0505|Rincon de Arazati
+-34.2496|-56.5808|Rincon de Arias
+-34.5892|-56.5266|Rincon de Buschental
+-34.7740|-55.9861|Rincon de Carrasco
+-33.7494|-58.0820|Rincon de Cañada Nieto
+-33.6546|-54.4557|Rincon de Cebollati
+-33.0526|-57.8686|Rincon de Cololo
+-32.6867|-54.4284|Rincon de Contreras
+-33.3658|-56.4164|Rincon de Cuadra
+-34.4473|-57.0701|Rincon de Cufre
+-31.3894|-55.7326|Rincon de Diniz
+-31.6171|-56.1726|Rincon de Freitas
+-33.1835|-54.7373|Rincon de Gadea
+-31.8167|-55.7689|Rincon de Giloca
+-33.0375|-54.5327|Rincon de Iguini
+-31.7230|-56.0933|Rincon de la Aldea
+-34.7543|-56.4131|Rincon de la Bolsa
+-31.9362|-55.5195|Rincon de la Laguna
+-34.4596|-56.6142|Rincon de la Torre
+-32.4220|-54.6877|Rincon de la Urbana
+-33.4621|-56.2681|Rincon de los Camilos
+-31.6143|-55.4548|Rincon de los Castillos
+-32.5956|-53.9721|Rincon de los Coroneles
+-33.1751|-54.6143|Rincon de los Francos
+-32.2148|-56.0595|Rincon de los Machado
+-32.5462|-53.7202|Rincon de los Olivera
+-34.8534|-54.7458|Rincon de los Sosa
+-33.0970|-56.9759|Rincon de los Tapes
+-33.9330|-54.5905|Rincon de Mariscala
+-31.1347|-55.7499|Rincon de Moraes
+-34.3103|-56.7054|Rincon de Nazareth
+-30.7027|-56.1640|Rincon de Pacheco
+-32.1647|-53.7484|Rincon de Paiva
+-34.7354|-55.8745|Rincon de Pando
+-32.3960|-55.2929|Rincon de Pereira
+-34.6843|-56.3520|Rincon de Portezuelo
+-32.5605|-54.4036|Rincon de Py
+-33.0608|-54.4305|Rincon de Quintana
+-31.6348|-54.9698|Rincon de Rodriguez
+-31.4794|-55.5631|Rincon de Roland
+-33.5641|-58.3272|Rincon de Ruiz
+-33.8926|-54.9186|Rincon de Silva
+-32.4159|-54.6545|Rincon de Suarez
+-32.6692|-53.9184|Rincon de Tacuari
+-31.7353|-55.5508|Rincon de Tres Cerros
+-33.2757|-54.8496|Rincon de Urtubey
+-31.2830|-57.1991|Rincon de Valentin
+-34.3565|-53.8058|Rincon de Valizas
+-34.3945|-56.3159|Rincon de Velazquez
+-34.3856|-56.3732|Rincon de Vidal
+-34.3054|-56.2815|Rincon de Vignoli
+-31.6917|-55.0466|Rincon de Yaguari
+-32.2853|-55.5923|Rincon de Zamora
+-32.8344|-56.4263|Rincon del Bonete
+-34.6953|-56.3403|Rincon del Colorado
+-34.3197|-56.0681|Rincon del Conde
+-34.5888|-56.1991|Rincon del Gigante
+-34.9119|-54.8980|Rincon del Indio
+-33.2716|-57.1461|Rincon del Palacio
+-34.5029|-56.8353|Rincon del Pino
+-34.4144|-57.3021|Rincon del Rey
+-33.3863|-55.7006|Rincon Sauce del Yi
+-33.6234|-57.5723|Risso
+-30.9053|-55.5508|Rivera
+-31.9801|-55.6343|Rivera Chico
+-34.4833|-54.3333|Rocha
+-34.3352|-56.7341|Rocho
+-32.3709|-53.9293|Rodriguez
+-34.3810|-56.5380|Rodríguez
+-34.2792|-55.5045|Roldan
+-33.1574|-55.9666|Rolon
+-34.3167|-57.3500|Rosario
+-34.2749|-57.3361|Rosario y Colla
+-33.1844|-55.6955|Rossell y Rius
+-31.0718|-56.6634|Russo
+-34.7917|-55.2348|Ruta 37 y 9
+-32.5980|-53.3858|Río Branco
+-33.1197|-57.6304|Sacachispas - Villa Darwin
+-34.7470|-56.4168|Safici
+-34.0901|-54.6239|Salamanca
+-32.4391|-53.7805|Saldañas
+-34.7705|-55.8414|Salinas
+-33.1922|-56.0458|Salinas Chico
+-31.3833|-57.9667|Salto
+-33.7592|-53.3981|Samuel
+-34.4513|-56.0804|San Antonio
+-34.4402|-55.9586|San Bautista
+-32.5074|-56.1188|San Benito
+-34.7912|-54.9182|San Carlos
+-31.9969|-53.9512|San Diego
+-33.0988|-57.7582|San Dios
+-34.7664|-56.3854|San Fernando
+-34.7739|-56.3629|San Fernando Chico
+-32.3092|-57.9952|San Francisco
+-34.8870|-55.2695|San Francisco - Punta Fria
+-34.4150|-55.1973|San Francisco de las Sierras
+-32.3463|-58.1009|San Félix
+-34.0392|-55.8868|San Gabriel
+-33.9035|-56.1075|San Geronimo
+-31.5835|-55.4839|San Gregorio
+-33.8814|-56.7572|San Gregorio de Flores
+-32.6113|-55.8278|San Gregorio de Polanco
+-34.5446|-55.8715|San Jacinto
+-32.6652|-58.1332|San Javier
+-31.9741|-55.7990|San Joaquin
+-32.8440|-55.8956|San Jorge
+-34.8365|-55.9973|San Jose de Carrasco
+-32.8251|-55.5317|San Jose de las Cañas
+-34.3375|-56.7136|San José de Mayo
+-34.2073|-57.7973|San Juan
+-34.8760|-54.7608|San Juan del Este
+-32.8264|-58.0472|San Lorenzo
+-34.7713|-55.5837|San Luis
+-33.6033|-53.7185|San Luis Al Medio
+-34.2373|-57.6663|San Luis de Tarariras
+-34.1706|-57.6764|San Luis Sanchez
+-33.7476|-57.6306|San Martin
+-31.5430|-57.8087|San Mauricio
+-32.4377|-57.9807|San Miguel
+-34.6022|-56.0515|San Pedro
+-34.3097|-57.7840|San Pedro de Arriba
+-33.7889|-55.6708|San Pedro de Timote
+-34.2876|-57.8298|San Pedro Norte
+-34.9203|-54.8982|San Rafael - El Placer
+-34.2916|-55.9557|San Ramón
+-34.0384|-58.0643|San Roque
+-34.6034|-54.1453|San Sebastian
+-34.5979|-54.1341|San Sebastian de la Pedrera
+-32.6300|-53.3475|San Servando
+-34.8787|-54.7719|San Vicente
+-32.5668|-54.3500|Sanchez
+-32.8835|-57.7530|Sanchez Chico
+-33.3905|-56.4888|Sandu Chico
+-33.7654|-57.1557|Santa Adelaida
+-34.7902|-55.4731|Santa Ana
+-33.3536|-56.5250|Santa Bernardina
+-33.2488|-58.0615|Santa Blanca
+-34.8903|-56.2930|Santa Catalina
+-33.6108|-55.7372|Santa Clara
+-32.9225|-54.9445|Santa Clara de Olimar
+-32.4762|-58.1472|Santa Elisa
+-31.5409|-55.5521|Santa Ernestina
+-32.7558|-57.5886|Santa Isabel
+-34.5656|-54.1097|Santa Isabel de la Pedrera
+-31.8349|-57.7445|Santa Kilda
+-34.3029|-55.3484|Santa Lucia
+-34.7887|-55.5365|Santa Lucia del Este
+-34.4533|-56.3906|Santa Lucía
+-34.8518|-54.7084|Santa Monica
+-34.4381|-57.1957|Santa Regina
+-34.4982|-56.0380|Santa Rosa
+-32.4803|-54.2925|Santa Teresa
+-34.0492|-53.5672|Santa Teresa de la Coronilla 1
+-34.0417|-53.5550|Santa Teresa de la Coronilla 2
+-34.8258|-56.0042|Santa Teresita
+-34.7903|-56.3500|Santiago Vázquez
+-34.7396|-56.2602|Santos Lugares
+-33.5097|-56.9306|Sarandi
+-34.0372|-57.9717|Sarandi Campana
+-33.3351|-57.8946|Sarandi Chico
+-32.0493|-54.1967|Sarandi de Acegua
+-34.1516|-54.6306|Sarandi de Aigua
+-30.9886|-56.2162|Sarandi de Arapey
+-32.4958|-53.7029|Sarandi de Barcelo
+-30.8776|-56.6621|Sarandi de Cuaro
+-33.5325|-54.6495|Sarandi de Gutierrez
+-32.8818|-56.4848|Sarandi de la China
+-34.1736|-54.3574|Sarandi de la India Muerta
+-34.4048|-55.5375|Sarandi de Migues
+-32.5449|-56.8666|Sarandi de Navarro
+-32.7929|-55.8825|Sarandi de Rio Negro
+-30.7410|-57.6280|Sarandi de Yacuy
+-32.4396|-53.5962|Sarandi de Yaguaron
+-34.6709|-55.0358|Sarandi del Mataojo
+-33.3500|-55.6333|Sarandí del Yi
+-33.7333|-56.3333|Sarandí Grande
+-34.6519|-56.0643|Sauce
+-31.5447|-57.5731|Sauce Chico
+-32.1264|-57.6425|Sauce de Abajo
+-34.2775|-54.8692|Sauce de Aigua
+-31.1070|-55.4719|Sauce de Batovi
+-32.2287|-54.1683|Sauce de Conventos
+-33.4075|-54.4837|Sauce de Corrales
+-33.1842|-55.8960|Sauce de Herrera
+-33.7570|-56.3746|Sauce de Maciel
+-33.4936|-54.8148|Sauce de Olimar Chico
+-34.8735|-55.1399|Sauce de Portezuelo
+-34.5244|-54.3748|Sauce de Rocha
+-34.5677|-55.5298|Sauce de Solis
+-31.8457|-55.9235|Sauce de Tranqueras
+-33.4135|-56.4165|Sauce de Villanueva
+-31.9975|-57.5387|Sauce del Buricayupi
+-32.0948|-57.6107|Sauce del Queguay
+-33.4098|-56.1388|Sauce del Yi
+-34.4267|-55.6400|Sauce Solo
+-34.4349|-55.5980|Sauce Solo de Migues
+-34.4575|-55.5763|Sauce Solo de Montes
+-32.1005|-54.8343|Sauce Solo del Rio Negro
+-31.1074|-57.5298|Saucedo
+-31.1575|-55.7749|Sauzal
+-34.8358|-56.2125|Sayago
+-34.3695|-57.0479|Scavino
+-31.4733|-55.1490|Segarra
+-34.7130|-56.0692|Seis Hermanos
+-30.9979|-56.8720|Sequeira
+-34.8467|-55.9993|Shangrila
+-34.3962|-54.3999|Sierra de los Rocha
+-32.8692|-54.5108|Sierra del Yerbal
+-34.0064|-55.1342|Sierras Blancas
+-33.0315|-53.7086|Siete Casas
+-34.6843|-55.7020|Soca
+-34.6701|-56.3653|Sofia Santos
+-34.2292|-55.4252|Soldado
+-34.4331|-55.4622|Solis
+-34.4947|-55.6998|Solis Chico
+-34.4449|-55.6639|Solis Chico de Migues
+-34.4787|-55.5266|Solis Grande
+-34.8270|-55.9674|Solymar
+-34.5995|-55.4681|Solís de Mataojo
+-31.5096|-56.5367|Sopas
+-34.7204|-55.8321|Sosa Diaz
+-31.9753|-57.5547|Soto
+-31.9889|-54.1052|Soto Goro
+-34.6925|-55.8988|Soudriers
+-33.3548|-55.5980|Tabare
+-34.0974|-56.5611|Tabarez
+-31.5594|-56.2446|Tacuarembo Chico
+-31.7169|-55.9811|Tacuarembó
+-34.5565|-54.1037|Tajamares de la Pedrera
+-34.3435|-55.7638|Tala
+-33.6261|-55.9931|Tala de Castro
+-33.5995|-56.2991|Tala de Maciel
+-33.3925|-55.9131|Tala de Mariscala
+-34.4501|-56.7827|Tala de Pereira
+-31.2986|-57.5339|Talas de Itapebi
+-33.7453|-56.5647|Talas de Maciel
+-34.5857|-55.8364|Talita
+-30.4653|-56.5088|Tamandua
+-31.8779|-56.2436|Tambores
+-33.9724|-54.8019|Tapes Chico
+-33.9557|-54.9784|Tapes Grande
+-34.2655|-57.6187|Tarariras
+-30.4827|-56.6726|Taruman
+-33.2561|-56.4157|Tejera
+-32.3583|-57.2700|Termas de Almiron
+-31.8396|-57.8903|Termas de Guaviyu
+-30.9475|-57.5222|Termas del Arapey
+-31.4505|-57.9107|Termas del Dayman
+-34.1300|-57.5095|Terminal
+-31.7604|-55.9929|Tierras Coloradas
+-34.7381|-56.0947|Toledo
+-34.7570|-56.1108|Toledo Chico
+-34.3883|-57.5539|Tomas Bell
+-31.6346|-57.6884|Tomas Paz
+-30.4287|-57.4361|Tomás Gomensoro
+-30.2981|-56.8209|Topador
+-33.8874|-55.8978|Tornero
+-31.3391|-56.5892|Toro Negro
+-34.6614|-55.9930|Totoral del Sauce
+-34.3104|-56.5925|Tranquera Colorada
+-31.2000|-55.7500|Tranqueras
+-33.2333|-54.3833|Treinta y Tres
+-31.8533|-57.4450|Tres Bocas
+-32.2819|-54.1628|Tres Boliches
+-31.5629|-55.6434|Tres Cerros
+-34.8958|-56.1681|Tres Cruces
+-34.1166|-57.3806|Tres Esquinas
+-32.2450|-54.9120|Tres Guitarras
+-32.5149|-54.6864|Tres Islas
+-34.7660|-56.3300|Tres Ombues
+-31.3758|-55.2496|Tres Puentes
+-32.7005|-57.9970|Tres Quintas
+-33.5165|-56.8996|Trinidad
+-34.7326|-56.4505|Tropas Viejas
+-31.3774|-57.8668|Tropezon
+-31.4003|-57.7835|Tropiezo
+-32.8351|-54.7613|Tupambae
+-32.8333|-54.7667|Tupambaé
+-32.1730|-55.2702|Turupi
+-32.5890|-57.8398|Uleste
+-33.1487|-57.7998|Unidad Cooperaria No 1
+-34.0260|-56.0459|Urioste
+-32.5068|-53.5002|Uruguay
+-32.4652|-57.8033|Valdez
+-34.5321|-56.6183|Valdez Chico
+-34.2604|-54.5094|Valdivia
+-31.2769|-57.1590|Valentin Grande
+-33.2594|-55.1033|Valentines
+-32.6528|-57.5726|Valle de Soba
+-34.3902|-55.4722|Valle de Solis
+-31.8240|-56.1738|Valle Eden
+-34.3060|-55.6383|Vejigas
+-34.3189|-55.8662|Vejigas de San Ramon
+-34.3304|-55.8281|Vejigas de Tala
+-34.4747|-55.2849|Velazquez
+-34.0363|-54.2805|Velázquez
+-33.1591|-54.4356|Verde Alto
+-32.7679|-55.4427|Verdun
+-32.9442|-53.9381|Vergara
+-34.5235|-56.2832|Viaducto Canelones
+-33.9371|-58.1067|Viboras
+-33.9305|-58.2027|Viboras y Vacas
+-31.7779|-54.6918|Vichadero
+-34.7012|-55.9658|Viejo Molino San Bernardo
+-34.1365|-55.5836|Vignoli
+-34.7920|-55.9959|Villa Aeroparque
+-33.7998|-58.3600|Villa Alejandrina
+-31.8780|-55.4620|Villa Ansina
+-34.5948|-56.1687|Villa Arejo
+-34.7684|-55.7749|Villa Argentina
+-31.0691|-57.8495|Villa Constitución
+-34.7402|-56.1095|Villa Crespo y San Andres
+-33.2394|-56.0094|Villa del Carmen
+-34.3145|-55.4770|Villa del Rosario
+-34.8886|-54.9885|Villa Delia
+-34.7747|-55.9749|Villa el Tato
+-34.6714|-56.3706|Villa Encantada
+-34.8639|-56.1447|Villa Española
+-34.6417|-56.2406|Villa Felicidad
+-34.7074|-56.2317|Villa Foresti
+-34.7479|-56.0726|Villa Fortuna
+-34.7811|-56.0533|Villa García
+-34.7107|-56.0530|Villa Hadita
+-33.7407|-56.3209|Villa Hipica
+-34.7491|-56.0626|Villa Huertos de Toledo
+-31.3361|-55.0639|Villa Indart
+-34.7760|-55.8953|Villa Juana
+-34.7593|-56.0676|Villa Juanita
+-34.7628|-56.0776|Villa los Alpes
+-32.5634|-57.3769|Villa Maria
+-32.3454|-56.5448|Villa Maria (Tiatucura)
+-34.7640|-56.0651|Villa Marina
+-34.7490|-56.0571|Villa Molfino
+-34.8878|-56.1770|Villa Muñoz
+-34.6238|-56.1113|Villa Nueva
+-34.7419|-56.4659|Villa Olimpica
+-34.4050|-57.4515|Villa Pancha
+-33.2920|-53.9013|Villa Passano
+-33.9268|-57.0371|Villa Pastora
+-34.7486|-56.2342|Villa Paz S.A.
+-34.7252|-56.0859|Villa Porvenir
+-34.7739|-56.0887|Villa Prados de Toledo
+-34.7734|-56.3730|Villa Rives
+-34.6712|-56.1676|Villa San Cono
+-34.7097|-56.0575|Villa San Felipe
+-34.7167|-56.0746|Villa San Jose
+-33.2534|-54.4195|Villa Sara
+-34.3214|-54.9869|Villa Serrana
+-33.3981|-58.3218|Villa Soriano
+-34.7637|-56.0614|Villa Valverde
+-34.0604|-56.3677|Villa Vieja
+-32.2046|-54.0111|Villa Viñoles
+-33.1949|-56.4828|Villasboas
+-34.8424|-55.9823|Vina del Mar
+-34.6946|-56.2218|Vista Linda
+-34.1975|-53.7830|Vuelta del Palmar
+-32.5175|-54.5398|Wenceslao Silvera
+-30.7726|-57.7602|Yacuy
+-33.1467|-58.2808|Yaguarete
+-31.4499|-54.9869|Yaguari
+-32.8676|-54.4457|Yerbal Chico
+-32.9037|-54.3844|Yerbalito
+-32.6984|-57.6269|Young
+-33.9629|-58.3322|Zagarzazu
+-32.0266|-55.7854|Zambullon
+-30.4279|-56.5591|Zanja Aruera
+-31.0692|-57.2272|Zanja de Alcain
+-34.5785|-55.0555|Zanja del Tigre
+-31.8928|-54.6673|Zanja Honda
+-31.2265|-55.6950|Zanja Honda de Tranqueras
+-31.6953|-56.0350|Zapara
+-33.5223|-54.9413|Zapican
+-31.8323|-55.4526|Zapucay
+-32.0488|-57.4198|Zeballos
+-33.9977|-57.2542|Zunin
+-32.5156|-54.1309|Ñangapire

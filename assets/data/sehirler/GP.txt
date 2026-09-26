@@ -1,0 +1,32 @@
+16.4668|-61.5522|Anse-Bertrand
+16.2498|-61.6775|Baie-Mahault
+16.0497|-61.7571|Baillif
+15.9992|-61.7500|Basse-Terre
+16.1387|-61.7990|Bouillante
+16.0485|-61.7021|Capesterre-Belle-Eau
+15.9176|-61.2708|Capesterre-de-Marie-Galante
+16.3194|-61.8243|Deshaies
+16.0057|-61.7302|Gourbeyre
+16.1231|-61.6974|Goyave
+15.9085|-61.3341|Grand-Bourg
+16.2585|-61.1490|La Désirade
+16.2443|-61.7519|Lamentin
+16.2273|-61.5573|Le Gosier
+16.3354|-61.4424|Le Moule
+16.2677|-61.5791|Les Abymes
+16.3211|-61.6636|Morne-à-l'Eau
+16.1695|-61.7404|Petit-Bourg
+16.3921|-61.5371|Petit-Canal
+16.2270|-61.8063|Pointe-Noire
+16.2331|-61.5623|Pointe-à-Pitre
+16.4201|-61.5704|Port-Louis
+16.0406|-61.7365|Saint-Claude
+16.2783|-61.3362|Saint-François
+15.9654|-61.3556|Saint-Louis
+16.2565|-61.4720|Sainte-Anne
+16.2937|-61.7660|Sainte-Rose
+15.8554|-61.6533|Terre-de-Bas
+15.8580|-61.6096|Terre-de-Haut
+15.9931|-61.6905|Trois-Rivières
+15.9607|-61.7135|Vieux-Fort
+16.0847|-61.7994|Vieux-Habitants

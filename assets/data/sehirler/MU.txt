@@ -1,0 +1,168 @@
+-20.2081|57.4077|Albion
+-20.1308|57.6592|Amaury
+-20.1069|57.6547|Amitié Gokoola
+-20.1056|57.5353|Arsenal
+-19.6944|63.4083|Baie aux Huîtres
+-20.4866|57.3788|Baie Du Cap
+-20.2567|57.4061|Bambous
+-20.3428|57.7575|Bambous Virieux
+-20.2254|57.4715|Beau Bassin
+-20.2333|57.4661|Beau Bassin-Rose Hill
+-20.4189|57.6953|Beau Vallon
+-20.2585|57.7550|Bel Air
+-20.2578|57.7498|Bel Air Rivière Sèche
+-20.5019|57.4255|Bel Ombre
+-20.1705|57.4862|Bell Village
+-20.2695|57.5166|Belle Terre
+-20.4844|57.5887|Benares
+-20.3205|57.4037|Black River
+-20.4267|57.5343|Bois Cheri
+-20.3631|57.7311|Bois des Amourettes
+-20.1708|57.6564|Bon Accueil
+-20.2130|57.7377|Bramsthan
+-20.1639|57.6467|Brisée Verdière
+-20.4487|57.5634|Britannia
+-20.1117|57.5539|Calebasses
+-20.4618|57.6785|Camp Carol
+-20.2369|57.6633|Camp de Masque
+-20.2501|57.6800|Camp De Masque Pave
+-20.4628|57.5789|Camp Diable
+-20.2857|57.5172|Camp Fouqueraux
+-20.2158|57.7456|Camp Ithier
+-20.2147|57.6161|Camp Thorel
+-19.9842|57.6142|Cap Malheureux
+-16.6033|59.6585|Cargados Carajos
+-20.2869|57.4072|Cascavelle
+-20.4137|57.3691|Case Noyale
+-20.1609|57.4977|Caudan Waterfront
+-20.1897|57.7144|Centre de Flacq
+-20.4252|57.3912|Chamarel
+-20.4822|57.4661|Chamouny
+-20.2137|57.4608|Chebel
+-20.4872|57.4656|Chemin Grenier
+-20.1588|57.5068|China Town
+-20.3669|57.6039|Cluny
+-20.2639|57.7061|Clémencia
+-20.1489|57.5908|Congomah
+-20.1952|57.4457|Coromandel
+-20.0597|57.6292|Cottage
+-20.1911|57.5572|Crève Coeur
+-20.3163|57.5259|Curepipe
+-20.1302|57.5958|D'Epinay
+-20.2448|57.5619|Dagotière
+-20.3013|57.5986|Dubreuil
+-20.3034|57.5278|Eau Coulee
+-20.2449|57.4916|Ebene
+-20.2261|57.7361|Ecroignard
+-20.0697|57.6419|Espérance Trébuchet
+-20.2742|57.3631|Flic en Flac
+-20.3112|57.5073|Floreal
+-20.0473|57.5840|Fond du Sac
+-20.3295|57.5390|Forest Side
+-20.3244|57.4753|Glen Park
+-20.0384|57.6506|Goodlands
+-20.0182|57.5802|Grand Baie
+-20.4091|57.6817|Grand Bel Air
+-20.4189|57.5442|Grand Bois
+-20.0064|57.6608|Grand Gaube
+-20.3142|57.7644|Grand Sable
+-20.1651|57.6946|Grande Retraite
+-20.3603|57.3661|Grande Rivière Noire
+-20.2861|57.7758|Grande Rivière Sud Est
+-20.2072|57.4300|Gros Cailloux
+-20.2720|57.5290|Henrietta
+-20.2769|57.5347|Hermitage
+-20.2783|57.5135|Highlands
+-20.2171|57.5505|L'Avenir
+-20.4733|57.6187|L'Escalier
+-20.2304|57.5953|L'Esperance
+-20.4100|57.5605|La Flora
+-20.4294|57.3588|La Gaulette
+-20.2039|57.5499|La Laura-Malenga
+-20.1897|57.6611|Lalmatie
+-20.1458|57.6767|Laventure
+-20.1350|57.5211|Le Hochet
+-20.4442|57.3303|Le Morne
+-20.1935|57.4896|Les Pailles
+-20.1602|57.4890|Les Salines
+-20.1431|57.5622|Long Mountain
+-20.4081|57.7000|Mahébourg
+-20.0758|57.6014|Mapou
+-20.4202|57.6273|Mare D'Albert
+-20.1981|57.7494|Mare La Chaux
+-20.4404|57.5942|Mare Tabac
+-20.2440|57.6470|Medine Camp De Masque
+-20.2697|57.6319|Melrose
+-20.3191|57.5702|Midlands
+-20.2189|57.4958|Moka
+-20.2859|57.6577|Montagne Blanche
+-20.0720|57.5683|Morcellement Saint André
+-20.4086|57.6136|New Grove
+-20.1406|57.5531|Notre Dame
+-20.1860|57.5908|Nouvelle Découverte
+-20.3706|57.5611|Nouvelle France
+-20.2878|57.7310|Olivia
+-20.1927|57.4883|Pailles
+-20.1039|57.5703|Pamplemousses
+-20.3994|57.6930|Petit Bel Air
+-20.0202|57.6230|Petit Raffray
+-20.3931|57.3650|Petite Case Noyale
+-20.1955|57.4459|Petite Rivière
+-20.2858|57.5029|Phoenix
+-20.0903|57.6303|Piton
+-20.0650|57.5725|Plaine des Papayes
+-20.4297|57.6697|Plaine Magnien
+-20.1584|57.5142|Plaine Verte
+-20.1117|57.6908|Plaines des Roches
+-20.0649|57.5235|Pointe aux Piments
+-20.1717|57.4539|Pointe aux Sables
+-20.1619|57.4989|Port Louis
+-19.6833|63.4167|Port Mathurin
+-20.1631|57.7306|Poste de Flacq
+-20.0616|57.6830|Poudre D'Or
+-20.0810|57.6527|Poudre D'Or Hamlet
+-20.2447|57.6122|Providence
+-20.2479|57.5974|Quartier Militaire
+-20.2638|57.4791|Quatre Bornes
+-20.2015|57.7745|Quatre Cocos
+-20.2992|57.7706|Quatre Soeurs
+-20.2200|57.7075|Queen Victoria
+-20.1908|57.4613|Richelieu
+-20.1947|57.5806|Ripailles
+-20.3908|57.6970|Riviere Des Creoles
+-20.4853|57.5508|Rivière des Anguilles
+-20.4287|57.5737|Rivière Du Poste
+-20.1031|57.6847|Rivière du Rempart
+-20.0186|57.6447|Roche Terre
+-20.1111|57.7122|Roches Noire
+-20.4003|57.5967|Rose Belle
+-20.2435|57.4699|Rose Hill
+-20.4960|57.5500|Saint Aubin
+-20.3642|57.6383|Saint Hubert
+-20.2264|57.6364|Saint Julien
+-20.2307|57.6404|Saint Julien D'Hotman
+-20.2175|57.5208|Saint Pierre
+-20.2907|57.6878|Sebastopol
+-20.3421|57.5492|Seizieme Mille
+-20.2086|57.4864|Soreze
+-20.5167|57.5167|Souillac
+-20.4944|57.5503|St Aubin
+-20.5097|57.5053|Surinam
+-20.3256|57.3706|Tamarin
+-20.1261|57.5244|Terre Rouge
+-20.0302|57.6022|The Vale
+-20.1235|57.5022|Tombeau Bay
+-20.1786|57.4687|Tour Koenig
+-20.1768|57.5113|Tranquebar
+-20.0576|57.5502|Triolet
+-20.4505|57.6468|Trois Boutiques
+-20.0312|57.5519|Trou Aux Biches
+-20.2346|57.7949|Trou D'Eau Douce
+-20.3863|57.5807|Union Park
+-20.2981|57.4783|Vacoas
+-20.1692|57.5200|Vallee Pitot
+-20.1651|57.5340|Vallée des Prêtres
+-20.2342|57.5548|Verdun
+-20.3741|57.7161|Vieux Grand Port
+-20.1460|57.6241|Ville Bague
+-10.3880|56.6180|Vingt Cinq

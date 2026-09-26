@@ -1,0 +1,2626 @@
+51.4565|22.3152|Abramów
+51.7433|22.2641|Adamów
+50.2586|22.6959|Adamówka
+50.0142|22.2241|Albigowa
+50.4663|22.8923|Aleksandrów
+52.8766|18.6934|Aleksandrów Kujawski
+51.8197|19.3038|Aleksandrów Łódzki
+50.0606|19.5395|Alwernia
+51.7278|19.6417|Andrespol
+49.8550|19.3383|Andrychów
+50.8855|21.8568|Annopol
+53.8432|22.9798|Augustów
+52.3453|18.6666|Babiak
+49.9348|21.8703|Babica
+50.0556|19.1995|Babice
+52.1649|15.8277|Babimost
+50.1576|17.9851|Baborów
+52.6807|20.2553|Baboszewo
+49.9581|19.4937|Bachowice
+50.0880|19.7946|Balice
+49.3309|22.2857|Baligród
+50.1680|19.3834|Balin
+53.1003|14.6623|Banie
+54.2466|22.0362|Banie Mazurskie
+54.3922|18.4062|Banino
+52.0165|21.1398|Baniocha
+52.4353|16.7863|Baranowo
+51.2634|18.0047|Baranów
+50.4991|21.5420|Baranów Sandomierski
+54.2199|21.3535|Barciany
+52.8661|17.9462|Barcin
+53.8306|20.6911|Barczewo
+50.5059|16.7399|Bardo
+52.9946|15.2186|Barlinek
+53.2478|19.6043|Bartniczka
+54.2535|20.8082|Bartoszyce
+52.4941|19.2650|Baruchowo
+49.8621|19.6175|Barwałd Górny
+49.8663|19.5936|Barwałd Średni
+53.7449|16.3553|Barwice
+50.8505|22.4931|Batorz
+50.7919|21.2321|Baćkowice
+51.0185|21.5438|Bałtów
+49.7379|18.7035|Bażanowice
+52.2083|19.5759|Bedlno
+50.2390|20.5983|Bejsce
+52.2546|20.9084|Bemowo
+49.5876|21.9529|Besko
+49.8971|19.0578|Bestwina
+49.9327|19.0669|Bestwinka
+51.3688|19.3567|Bełchatów
+50.1305|18.7167|Bełk
+49.9781|18.3631|Bełsznica
+50.3845|23.4384|Bełżec
+51.1741|22.2803|Bełżyce
+52.6052|19.6496|Biała
+53.6119|22.0632|Biała Piska
+52.0324|23.1165|Biała Podlaska
+51.8078|20.4726|Biała Rawska
+51.2981|20.2972|Białaczów
+53.0952|17.9162|Białe Błota
+49.6931|19.6703|Białka
+49.3897|20.1051|Białka Tatrzańska
+51.6469|20.9504|Białobrzegi
+54.0070|15.9875|Białogard
+52.7000|23.8667|Białowieża
+52.3213|20.9720|Białołeka
+53.1046|17.1253|Białośliwie
+53.8967|16.8354|Biały Bór
+49.3738|20.0090|Biały Dunajec
+53.1333|23.1643|Białystok
+49.7360|21.2630|Biecz
+52.2924|20.9353|Bielany
+51.0361|16.9677|Bielany Wrocławskie
+50.6908|16.6230|Bielawa
+52.0754|19.6556|Bielawy
+53.2002|14.7276|Bielice
+50.8495|20.9415|Bieliny
+52.6718|19.8050|Bielsk
+52.7651|23.1865|Bielsk Podlaski
+49.8225|19.0469|Bielsko-Biala
+52.1827|20.5631|Bieniewice
+50.2811|18.2418|Bierawa
+50.8185|18.1581|Bierdzany
+51.1244|17.5461|Bierutów
+50.0900|19.0929|Bieruń
+53.0357|15.6650|Bierzwnik
+49.7760|19.7718|Bieńkówka
+52.9611|19.8898|Bieżuń
+49.7562|21.2282|Binarowa
+49.6917|22.4785|Bircza
+50.1207|20.8594|Biskupice Radłowskie
+53.8647|20.9569|Biskupiec
+51.1010|17.1044|Biskupin
+50.4015|22.6506|Biszcza
+54.0863|20.9019|Bisztynek
+50.5411|22.7220|Biłgoraj
+50.7801|18.9639|Blachownia
+52.5171|15.4138|Bledzew
+51.9037|18.0100|Blizanów
+49.7533|21.9735|Blizne
+51.1078|20.7594|Bliżyn
+53.9551|16.5889|Bobolice
+49.7087|20.9477|Bobowa
+53.8838|18.5568|Bobowo
+51.9485|15.0906|Bobrowice
+52.7809|18.9603|Bobrowniki
+53.2855|19.2705|Bobrowo
+49.9691|20.4303|Bochnia
+52.4999|20.0295|Bodzanów
+50.9412|20.9572|Bodzentyn
+50.9075|14.9563|Bogatynia
+52.6890|15.0713|Bogdaniec
+50.6517|21.2600|Bogoria
+49.9847|21.9453|Boguchwała
+50.7551|16.2049|Boguszów-Gorce
+52.7168|22.4155|Boguty-Pianki
+51.9532|15.8104|Bojadła
+54.4712|18.3841|Bojano
+51.7075|16.7483|Bojanowo
+51.9930|16.5837|Bojanowo Stare
+50.4253|21.9511|Bojanów
+50.0578|19.1014|Bojszowy
+50.0528|19.0501|Bojszowy Nowe
+50.1483|19.7927|Bolechowice
+52.7249|14.5690|Boleszkowice
+50.2973|19.4807|Bolesław
+51.2642|15.5697|Bolesławiec
+52.0767|20.1635|Bolimów
+50.9220|16.1011|Bolków
+54.6180|18.1759|Bolszewo
+50.1175|19.4812|Bolęcin
+52.4653|18.8912|Boniewo
+50.0178|20.5309|Borek
+51.9167|17.2413|Borek Wielkopolski
+51.7216|22.5213|Borki
+51.3203|20.6834|Borkowice
+53.5766|16.5340|Borne Sulinowo
+50.6746|18.9068|Boronów
+50.3855|21.3515|Borowa
+51.9491|21.7658|Borowie
+50.9325|19.2738|Borowno
+50.0076|18.1575|Borucin
+51.0926|22.2841|Borzechów
+54.2002|17.3680|Borzytuchom
+50.0654|20.7110|Borzęcin
+49.8623|19.9792|Borzęta
+50.5132|16.5753|Bozkow
+52.6516|23.0449|Boćki
+51.2858|17.9032|Bralin
+50.0511|17.7940|Branice
+54.3797|19.8196|Braniewo
+52.7444|22.8377|Brańsk
+52.6293|21.5875|Brańszczyk
+52.3539|18.7298|Brdów
+49.7258|18.9025|Brenna
+51.9226|16.2149|Brenno
+52.3195|20.2626|Brochów
+52.1412|16.8910|Brodnica
+51.0247|21.2215|Brody
+52.4780|20.7497|Brody-Parcele
+50.0433|19.5888|Brodła
+53.9571|15.3598|Brojce
+52.6995|21.8570|Brok
+51.9670|17.8165|Broniszewice
+49.8778|18.9210|Bronów
+52.0995|18.6043|Brudzew
+52.6688|19.5040|Brudzeń Duży
+53.8845|17.7179|Brusy
+52.1427|20.7170|Brwinów
+50.8608|17.4674|Brzeg
+51.2730|16.7081|Brzeg Dolny
+49.9691|20.6061|Brzesko
+49.9820|19.1516|Brzeszcze
+50.0424|19.1902|Brzezinka
+50.7727|20.5732|Brzeziny
+50.3544|18.9813|Brzeziny Śląskie
+52.6053|18.9017|Brześć Kujawski
+49.9650|19.6195|Brzeźnica
+51.4940|18.6223|Brzeźnio
+49.8795|21.4110|Brzostek
+53.3255|19.6048|Brzozie
+49.6950|22.0193|Brzozów
+53.0546|19.2619|Brzuze
+49.8223|21.3900|Brzyska
+50.2391|22.3256|Brzóza Królewska
+50.1996|22.2823|Brzóza Stadnicka
+49.8748|20.0371|Brzączowice
+52.3175|15.6741|Brójce
+51.4990|18.4498|Brąszewice
+51.5023|19.1642|Buczek
+49.7286|19.0691|Buczkowice
+51.6674|19.9358|Budziszewice
+52.8895|16.9881|Budzyń
+49.7762|19.6727|Budzów
+49.8518|19.1943|Bujaków
+52.3553|16.5196|Buk
+53.4338|18.2405|Bukowiec
+49.3430|20.1081|Bukowina Tatrzańska
+50.2647|19.4596|Bukowno
+49.4804|22.0633|Bukowsko
+52.5409|20.1189|Bulkowo
+49.8765|19.2887|Bulowice
+51.4608|18.8323|Burzenin
+50.4708|20.7188|Busko-Zdrój
+51.0161|22.5330|Bychawa
+51.1139|18.2141|Byczyna
+53.1235|18.0076|Bydgoszcz
+49.6480|19.7799|Bystra
+50.9605|17.3970|Bystrzyca
+50.3018|16.6423|Bystrzyca Kłodzka
+52.1507|15.1695|Bytnica
+50.3480|18.9328|Bytom
+51.7306|15.8236|Bytom Odrzański
+52.5576|18.5952|Bytoń
+54.1706|17.4919|Bytów
+49.8934|18.7150|Bąków
+50.1805|19.7874|Bębło
+49.8779|19.8672|Bęczarka
+51.5876|19.7496|Będków
+50.3261|19.1257|Będzin
+51.6516|18.4347|Błaszki
+49.8852|22.1004|Błażowa
+52.1985|20.6171|Błonie
+51.7777|20.6980|Błędów
+54.2471|18.8457|Cedry Wielkie
+52.8793|14.2025|Cedynia
+52.1478|21.7374|Cegłów
+53.5729|18.0112|Cekcyn
+52.0609|21.3911|Celestynów
+52.6308|22.2283|Ceranów
+54.0078|15.1090|Cerkwica
+54.4355|17.7349|Cewice
+49.9256|18.3173|Chałupki
+51.1431|23.4716|Chełm
+50.1082|19.1955|Chełm Śląski
+50.1016|19.2480|Chełmek
+49.6305|20.6642|Chełmiec
+53.3486|18.4251|Chełmno
+53.1846|18.6047|Chełmża
+51.2438|20.7687|Chlewiska
+50.6144|20.7521|Chmielnik
+54.3254|18.0986|Chmielno
+50.6496|17.8667|Chmielowice
+52.4862|19.0134|Choceń
+51.4187|15.9017|Chocianów
+53.4670|15.3334|Chociwel
+51.9764|17.8699|Chocz
+54.7399|17.8917|Choczewo
+49.8742|19.4544|Chocznia
+52.4051|19.0276|Chodecz
+51.1118|22.1327|Chodel
+52.9950|16.9198|Chodzież
+52.2496|19.0122|Chodów
+52.9639|14.4280|Chojna
+53.6955|17.5570|Chojnice
+51.2737|15.9366|Chojnów
+49.6467|21.6716|Chorkówka
+53.1433|22.9889|Choroszcz
+50.6818|19.2606|Choroń
+53.2608|20.8973|Chorzele
+50.3058|18.9742|Chorzów
+53.1690|15.4205|Choszczno
+51.2404|21.7766|Chotcza
+52.9438|19.2533|Chrostkowo
+50.6658|17.8176|Chrościna
+50.4147|19.3272|Chruszczobród
+50.1355|19.4020|Chrzanów
+52.6282|16.2285|Chrzypsko Wielkie
+50.6662|18.0729|Chrząstowice
+50.7808|17.8123|Chróścice
+54.4438|18.4187|Chwaszczyno
+50.7666|21.8868|Chwałowice
+49.9025|18.8276|Chybie
+51.9042|21.0821|Chynów
+49.4267|19.6696|Chyżne
+52.1953|19.9426|Chąśno
+50.8002|20.4623|Chęciny
+54.8036|18.3735|Chłapowo
+50.7543|18.6084|Ciasna
+52.6783|22.4981|Ciechanowiec
+52.8814|20.6200|Ciechanów
+53.0558|18.9263|Ciechocin
+52.8791|18.7950|Ciechocinek
+51.1322|16.5677|Ciechów
+50.0883|19.0190|Cielmice
+51.7158|20.3443|Cielądz
+51.2484|21.5748|Ciepielów
+50.8655|15.6837|Cieplice Śląskie Zdrój
+50.6748|16.9087|Ciepłowody
+50.2456|23.1316|Cieszanów
+51.6310|17.3573|Cieszków
+49.7513|18.6321|Cieszyn
+50.2823|18.1999|Cisek
+49.5921|19.1054|Cisiec
+49.2133|22.3280|Cisna
+49.7228|18.7621|Cisownica
+49.6022|19.1410|Cięcina
+49.7858|20.9732|Ciężkowice
+50.2953|21.7442|Cmolas
+52.1945|14.7957|Cybinka
+51.2993|23.1412|Cyców
+50.5620|19.1196|Cynków
+51.4920|18.3273|Czajków
+49.8507|19.2535|Czaniec
+53.5577|16.2333|Czaplinek
+52.3172|16.9127|Czapury
+50.0183|18.9068|Czarków
+50.0672|21.2561|Czarna
+53.3051|23.2815|Czarna Białostocka
+54.3563|17.5646|Czarna Dąbrówka
+49.3766|20.1305|Czarna Góra
+53.8446|18.1001|Czarna Woda
+53.6842|16.9383|Czarne
+53.3561|21.1952|Czarnia
+52.9021|16.5641|Czarnków
+50.0047|20.0679|Czarnochowice
+50.3408|20.5162|Czarnocin
+50.7286|17.8982|Czarnowąsy
+51.2853|18.5611|Czarnożyły
+50.7708|16.1305|Czarny Bór
+49.4366|19.8516|Czarny Dunajec
+51.2587|18.3195|Czastary
+49.4485|22.2165|Czaszyn
+49.8373|20.6806|Czchów
+49.9134|19.0048|Czechowice-Dziedzice
+50.3154|19.0782|Czeladź
+51.6730|22.6389|Czemierniki
+52.1440|16.7641|Czempiń
+52.5167|23.3500|Czeremcha
+51.9501|17.7496|Czermin
+51.0461|17.2451|Czernica
+53.0320|20.7194|Czernice Borowe
+49.9892|19.6811|Czernichów
+52.4264|17.4892|Czerniejewo
+52.5116|19.0869|Czerniewice
+52.9469|18.9380|Czernikowo
+53.7959|17.9765|Czersk
+52.0129|15.4232|Czerwieńsk
+52.9490|21.7584|Czerwin
+50.1501|18.6776|Czerwionka-Leszczyny
+52.3983|20.3096|Czerwińsk Nad Wisłą
+52.4646|16.9817|Czerwonak
+52.8925|21.2149|Czerwonka
+49.9449|21.8413|Czudec
+50.0596|19.7011|Czułów
+52.7977|22.3124|Czyżew
+49.9849|18.4043|Czyżowice
+50.7965|19.1241|Częstochowa
+53.0886|16.1210|Człopa
+53.6672|17.3588|Człuchów
+51.0773|18.5784|Dalachów
+50.8023|20.8079|Daleszyce
+51.8848|19.1190|Dalików
+52.8398|17.5006|Damasławek
+54.5003|17.2715|Damnica
+54.4209|16.4107|Darłowo
+52.3000|16.9572|Daszewice
+52.1550|19.1815|Daszyna
+53.5382|17.2364|Debrzno
+52.6699|15.3198|Deszczno
+51.9244|19.7593|Dmosin
+49.8811|20.0894|Dobczyce
+52.9695|15.7536|Dobiegniew
+50.3970|19.0130|Dobieszowice
+51.9166|18.6156|Dobra
+52.6840|18.5776|Dobre
+53.9867|20.3975|Dobre Miasto
+50.7287|18.4450|Dobrodzień
+51.2678|17.3421|Dobroszyce
+51.6388|19.2454|Dobroń
+53.3591|15.4289|Dobrzany
+50.7684|17.8465|Dobrzeń Wielki
+51.8666|17.6034|Dobrzyca
+53.2002|23.0113|Dobrzyniewo Duże
+52.6381|19.3188|Dobrzyń nad Wisłą
+53.1908|15.2027|Dolice
+51.9818|17.0627|Dolsk
+52.0374|22.1764|Domanice
+52.0062|19.8029|Domaniewice
+49.7867|21.9457|Domaradz
+50.8749|20.6829|Domaszowice
+52.2916|17.3575|Dominowo
+52.3573|16.6756|Dopiewo
+51.1547|23.8032|Dorohusk
+51.4172|18.0770|Doruchów
+50.5859|24.0359|Dołhobyczów
+53.2199|15.7595|Drawno
+52.8542|16.0313|Drawsko
+53.5306|15.8097|Drawsko Pomorskie
+51.9122|22.8716|Drelów
+52.8383|15.8308|Drezdenko
+52.7377|19.9893|Drobin
+49.8696|18.7573|Drogomyśl
+52.4001|22.6585|Drohiczyn
+51.4637|19.3940|Drużbice
+51.4509|20.4770|Drzewica
+53.5052|18.3094|Drzycim
+49.8261|22.3912|Dubiecko
+51.0486|23.8925|Dubienka
+52.3627|21.2905|Duczki
+49.5555|21.6832|Dukla
+52.4469|16.4060|Duszniki
+50.4033|16.3909|Duszniki-Zdrój
+50.7361|21.7886|Dwikozy
+49.6864|22.1720|Dydnia
+54.1303|15.7199|Dygowo
+49.8151|22.2339|Dynów
+53.8376|20.4782|Dywity
+51.2354|17.7092|Dziadowa Kłoda
+53.2396|20.1700|Działdowo
+50.3653|20.3523|Działoszyce
+51.1170|18.8652|Działoszyn
+52.3524|20.8512|Dziekanów Leśny
+54.0064|17.7675|Dziemiany
+50.2425|18.2861|Dziergowice
+53.1528|20.6632|Dzierzgowo
+53.9220|19.3470|Dzierzgoń
+52.6281|20.2336|Dzierzążnia
+50.7282|16.6514|Dzierżoniów
+50.0755|20.4549|Dziewin
+50.7695|16.3521|Dziećmorowice
+50.2729|21.8437|Dzikowiec
+50.2470|22.9298|Dzików Stary
+54.0282|14.7669|Dziwnów
+49.7226|18.7049|Dzięgielów
+50.6966|22.5673|Dzwola
+52.0867|18.8225|Dąbie
+52.7467|17.9434|Dąbrowa
+53.6536|23.3479|Dąbrowa Białostocka
+53.1752|18.3054|Dąbrowa Chełmińska
+50.3339|19.2048|Dąbrowa Górnicza
+50.1746|20.9863|Dąbrowa Tarnowska
+50.8439|19.5565|Dąbrowa Zielona
+52.3114|19.0844|Dąbrowice
+52.4839|21.2979|Dąbrówka
+53.4341|20.0353|Dąbrówno
+52.1996|21.4433|Dębe Wielkie
+50.0515|21.4114|Dębica
+51.5591|21.8483|Dęblin
+54.3783|17.1612|Dębnica Kaszubska
+49.9670|20.7198|Dębno
+51.5945|23.0064|Dębowa Kłoda
+53.2554|19.0959|Dębowa Łąka
+49.8141|18.7206|Dębowiec
+50.0449|22.4361|Dębów
+49.5787|22.0434|Długie
+50.2830|18.1487|Długomiłowice
+52.7600|21.5918|Długosiodło
+51.1790|17.1914|Długołęka
+51.5594|19.3920|Dłutów
+53.7049|20.9604|Dźwierzuty
+54.1522|19.4088|Elbląg
+53.8282|22.3647|Ełk
+52.7193|19.1094|Fabianki
+51.0959|22.9632|Fajsławice
+51.1361|20.1061|Fałków
+50.1557|19.5658|Filipowice
+54.1804|22.6208|Filipów
+51.5588|22.5084|Firlej
+53.1482|18.1704|Fordon
+50.6716|22.6706|Frampol
+49.6958|22.7462|Fredropol
+54.3577|19.6803|Frombork
+49.9963|19.0728|Frydek
+49.4493|20.2296|Frydman
+49.9048|19.4194|Frydrychowice
+49.8416|21.6094|Frysztak
+51.3447|18.2576|Galewice
+51.4832|21.6108|Garbatka-Letnisko
+51.3552|22.3294|Garbów
+54.3476|18.1017|Garcz
+50.1167|18.8000|Gardawice
+53.6112|18.9469|Gardeja
+51.8975|21.6147|Garwolin
+50.1086|18.4304|Gaszowice
+51.6277|15.8820|Gaworzyce
+50.0269|22.3590|Gać
+51.7255|19.7136|Gałków Mały
+54.3520|18.6464|Gdańsk
+54.5189|18.5319|Gdynia
+49.9082|20.1988|Gdów
+50.9620|19.4718|Gidle
+50.1456|19.8786|Giebułtów
+50.2269|22.4059|Giedlarowa
+51.4008|20.4813|Gielniów
+49.9443|19.3907|Gierałtowice
+53.5413|20.0887|Gierzwałd
+54.0813|21.4955|Gierłoż
+53.7462|20.2374|Gietrzwałd
+49.9950|19.0961|Gilowice
+52.0427|17.7694|Gizałki
+54.0381|21.7644|Giżycko
+52.8198|20.2920|Glinojeck
+50.2976|18.6766|Gliwice
+50.5962|19.1113|Gniazdów
+50.9880|16.8336|Gniechowice
+53.8360|18.8231|Gniew
+54.7171|18.0166|Gniewino
+52.8946|18.4078|Gniewkowo
+52.5348|17.5826|Gniezno
+54.7474|18.3794|Gnieżdżewo
+49.8940|20.6086|Gnojnik
+50.6026|20.8491|Gnojno
+49.9445|18.9693|Goczałkowice Zdrój
+51.8969|20.0359|Godzianów
+49.7129|19.0759|Godziszka
+50.7489|22.4979|Godziszów
+50.7575|22.4839|Godziszów Pierwszy
+49.9248|18.4783|Godów
+50.4922|18.0199|Gogolin
+49.7716|22.0250|Golcowa
+53.8243|14.9785|Golczewo
+53.5639|14.8285|Goleniów
+49.7358|18.7368|Goleszów
+52.2431|18.0927|Golina
+53.1109|19.0538|Golub-Dobrzyń
+51.1689|19.4933|Gomunice
+53.4895|22.7358|Goniadz
+50.7218|22.6665|Goraj
+50.2080|19.6204|Gorenice
+49.6556|21.1604|Gorlice
+50.0922|22.4876|Gorliczyna
+51.2153|19.5963|Gorzkowice
+50.9478|23.0127|Gorzków
+49.9594|18.3988|Gorzyce
+51.6373|17.7295|Gorzyce Wielkie
+49.9491|18.4033|Gorzyczki
+52.7368|15.2288|Gorzów Wielkopolski
+51.0287|18.4230|Gorzów Śląski
+53.4901|17.8098|Gostycyn
+52.4294|19.4619|Gostynin
+51.8825|17.0123|Gostyń
+51.7916|18.5057|Goszczanów
+51.7319|20.8515|Goszczyn
+51.2784|20.4383|Gowarczów
+52.9008|21.5558|Goworowo
+51.4363|15.0986|Gozdnica
+52.7246|19.6850|Gozdowo
+52.9433|17.2999|Gołańcz
+54.3063|22.3036|Gołdap
+49.9142|18.5142|Gołkowice
+51.8504|17.9314|Gołuchów
+52.8080|20.8732|Gołymin-Ośrodek
+54.6046|18.1549|Gościcino
+50.8686|22.0054|Gościeradów
+54.0512|15.6526|Gościno
+51.4799|19.5314|Grabica
+51.0937|16.9782|Grabiszyn
+51.0870|16.9863|Grabiszynek
+50.8209|23.5506|Grabowiec
+49.6590|22.0775|Grabownica Starzeńska
+54.1682|18.1469|Grabowo Kościerskie
+52.1272|19.0026|Grabów
+51.5060|18.1193|Grabów nad Prosną
+53.6473|22.4554|Grajewo
+52.1336|20.8031|Granica
+52.2224|16.5286|Granowo
+50.6984|17.3845|Grodków
+52.0386|18.0597|Grodziec
+52.1039|20.6337|Grodzisk Mazowiecki
+52.2276|16.3653|Grodzisk Wielkopolski
+50.1624|22.4629|Grodzisko Dolne
+50.1869|22.4379|Grodzisko Górne
+49.9815|19.2379|Grojec
+51.3606|15.7645|Gromadka
+49.8384|20.9612|Gromnik
+54.0859|19.3060|Gronowo Elbląskie
+54.1386|19.4599|Gronowo Górne
+53.0949|23.6685|Grudki
+53.0585|20.6249|Grudusk
+53.4841|18.7537|Grudziądz
+50.1916|21.0314|Gruszów Wielki
+53.4532|18.9570|Gruta
+49.6244|20.9480|Grybów
+53.9165|15.2003|Gryfice
+53.2524|14.4883|Gryfino
+51.0308|15.4202|Gryfów Śląski
+49.7136|19.6456|Grzechynia
+52.2018|18.7341|Grzegorzew
+53.8373|16.4351|Grzmiąca
+51.1333|20.9617|Grzybowa Góra
+54.1589|15.4856|Grzybowo
+50.0830|22.4540|Grzęska
+51.8625|20.8676|Grójec
+52.2693|21.9097|Grębków
+51.5991|16.1674|Grębocice
+50.2450|20.7767|Gręboszów
+50.5654|21.8740|Grębów
+51.9496|14.7284|Gubin
+52.1163|20.3367|Guzów
+49.8279|21.9977|Gwoźnica Górna
+52.7405|20.9437|Gzy
+51.6664|16.5349|Góra
+51.9765|21.2154|Góra Kalwaria
+52.0571|19.3200|Góra Świętej Małgorzaty
+50.5290|18.0100|Górażdże
+49.6439|22.0430|Górki
+49.7797|18.8312|Górki Wielkie
+50.8477|20.8250|Górno
+54.2856|20.4889|Górowo Iławeckie
+53.1978|19.6432|Górzno
+52.4945|14.6550|Górzyca
+51.3783|21.3791|Gózd
+52.3985|19.7351|Gąbin
+51.1185|16.9860|Gądów Mały
+52.7676|17.7558|Gąsawa
+52.7375|20.7118|Gąsocin
+49.8945|19.8741|Głogoczów
+51.6636|16.0845|Głogów
+50.1512|21.9629|Głogów Małopolski
+50.3535|17.8640|Głogówek
+51.9646|19.7157|Głowno
+50.2009|17.8286|Głubczyce
+50.3150|17.3835|Głuchołazy
+51.7795|20.0767|Głuchów
+50.6874|16.3717|Głuszyca
+50.6661|16.3758|Głuszyca Górna
+54.6193|17.3723|Główczyce
+49.6615|21.8979|Haczów
+52.7433|23.5812|Hajnówka
+52.2288|21.3551|Halinów
+49.9953|22.2231|Handzlówka
+50.4751|22.4729|Harasiuki
+49.8124|19.7804|Harbutowice
+51.4129|23.3994|Hańsk
+49.8071|18.6518|Hażlach
+54.6081|18.8013|Hel
+50.6533|17.0103|Henryków
+50.7532|18.8876|Herby
+52.2864|20.8079|Hornówek
+50.8946|24.0372|Horodło
+50.1915|23.3628|Horyniec-Zdrój
+50.8050|23.8925|Hrubieszów
+49.6751|22.0537|Humniska
+49.9797|22.2864|Husów
+50.7379|19.1330|Huta Stara B
+49.9177|22.1813|Hyżne
+50.1453|19.1860|Imielin
+50.5857|20.4481|Imielno
+52.7989|18.2639|Inowrocław
+51.5272|20.2230|Inowłódz
+49.8635|19.3928|Inwałd
+49.5632|18.9057|Istebna
+50.7315|21.2806|Iwaniska
+50.0296|21.7540|Iwierzyce
+49.8172|20.5902|Iwkowa
+49.5632|21.7899|Iwonicz-Zdrój
+52.2999|20.8173|Izabelin
+50.8873|23.1525|Izbica
+52.4207|18.7627|Izbica Kujawska
+50.5716|18.1559|Izbicko
+49.8722|19.7680|Izdebnik
+53.5960|19.5685|Iława
+51.5006|15.1998|Iłowa
+53.1681|20.2930|Iłowo -Osada
+52.3395|20.0273|Iłów
+51.1631|21.2398|Iłża
+53.4361|15.5502|Ińsko
+49.6978|21.8996|Jabłonica Polska
+49.4797|19.6937|Jabłonka
+52.2060|16.2074|Jabłonna
+52.4766|22.4423|Jabłonna Lacka
+53.3914|19.1551|Jabłonowo Pomorskie
+51.7250|23.0874|Jabłoń
+49.9588|20.6443|Jadowniki
+50.1655|20.7284|Jadowniki Mokre
+52.4785|21.6320|Jadów
+50.0946|22.5726|Jagiełła
+51.2699|22.6342|Jakubowice Murowane
+52.2197|21.6803|Jakubów
+52.7533|18.1133|Janikowo
+50.0009|18.9890|Jankowice
+50.0448|18.5471|Jankowice Rybnickie
+51.5981|17.7882|Janków Przygodzki
+49.8915|20.8608|Janowice
+50.8757|15.9232|Janowice Wielkie
+51.3236|21.8894|Janowiec
+52.7558|17.4898|Janowiec Wielkopolski
+50.3919|18.1368|Januszkowice
+50.7069|22.4104|Janów Lubelski
+52.1940|23.2122|Janów Podlaski
+51.9685|17.2971|Jaraczewo
+50.4244|23.5858|Jarczów
+51.1216|16.8662|Jarnołtów-Jerzmanowo
+51.9727|17.5026|Jarocin
+49.8627|19.5196|Jaroszowice
+50.0162|22.6778|Jarosław
+49.8228|19.8419|Jasienica
+49.7514|21.9418|Jasienica Rosielna
+51.8210|20.9410|Jasieniec
+49.9699|20.5719|Jasień
+49.6584|21.9768|Jasionów
+54.6983|18.6773|Jastarnia
+51.3041|22.4355|Jastków
+53.4205|16.8176|Jastrowie
+51.2473|20.9476|Jastrząb
+49.7973|20.8809|Jastrzębia
+54.8314|18.3130|Jastrzębia Góra
+49.9554|18.5748|Jastrzębie Zdrój
+49.7451|21.4725|Jasło
+51.0513|16.1935|Jawor
+49.8558|19.8931|Jawornik
+49.8908|22.2887|Jawornik Polski
+49.7935|18.9479|Jaworze
+50.2053|19.2750|Jaworzno
+50.9134|16.4324|Jaworzyna Śląska
+49.5402|18.8700|Jaworzynka
+49.4423|21.8080|Jaśliska
+49.7175|21.6489|Jedlicze
+50.7201|16.3465|Jedlina-Zdrój
+51.5140|21.1158|Jedlińsk
+51.4307|21.3354|Jedlnia-Letnisko
+53.1412|21.0516|Jednorożec
+53.2855|22.3035|Jedwabne
+53.5299|20.7266|Jedwabno
+50.1081|18.4677|Jejkowice
+51.0210|17.3209|Jelcz
+51.0213|17.3165|Jelcz Laskowice
+50.8997|15.7290|Jelenia Góra
+49.6425|19.3270|Jeleśnia
+50.5457|18.3781|Jemielnica
+52.6965|15.0980|Jenin
+50.2127|19.7467|Jerzmanowice
+52.5304|18.2680|Jeziora Wielkie
+53.9758|20.7464|Jeziorany
+51.6024|22.2767|Jeziorzany
+53.5106|18.4944|Jeżewo
+50.3749|22.1275|Jeżowe
+51.8138|19.9688|Jeżów
+50.9351|15.7431|Jeżów Sudecki
+49.8723|21.2790|Jodłowa
+49.9930|20.5482|Jodłówka
+50.0499|21.1333|Jodłówka-Wałki
+52.6013|20.5818|Joniec
+53.8282|20.3105|Jonkowo
+49.6493|19.8298|Jordanów
+50.8642|16.8687|Jordanów Śląski
+50.6276|16.5181|Jugów
+49.6929|19.6913|Juszczyn
+49.6298|19.2203|Juszczyna
+51.6501|17.1696|Jutrosin
+52.1005|21.0463|Józefosław
+50.4812|23.0540|Józefów
+51.0418|21.8302|Józefów nad Wisłą
+50.6394|20.3045|Jędrzejów
+52.1301|21.0815|Kabaty
+53.1035|16.8817|Kaczory
+49.8275|18.5916|Kaczyce
+53.2343|21.4645|Kadzidło
+50.8366|18.9843|Kalej
+50.5627|18.8926|Kalety
+53.9053|18.2188|Kaliska
+51.7611|18.0910|Kalisz
+53.2991|15.9063|Kalisz Pomorski
+49.8676|19.6772|Kalwaria Zebrzydowska
+49.5647|19.0212|Kamesznica
+49.5753|20.3451|Kamienica
+50.6709|19.1227|Kamienica Polska
+52.1661|16.4616|Kamieniec
+51.0718|17.1819|Kamieniec Wrocławski
+50.5254|16.8792|Kamieniec Ząbkowicki
+50.7831|16.0304|Kamienna Góra
+50.5703|17.1498|Kamiennik
+50.0121|19.5854|Kamień
+53.5335|17.5202|Kamień Krajeński
+53.9685|14.7726|Kamień Pomorski
+51.2024|19.4966|Kamieńsk
+51.4716|22.4627|Kamionka
+49.5685|20.8236|Kamionka Wielka
+52.2684|20.4631|Kampinos
+50.9018|19.0287|Kamyk
+50.9858|20.6639|Kaniów
+52.0765|21.2496|Karczew
+51.2295|21.9816|Karczmiska
+52.0714|15.8614|Kargowa
+54.0352|15.8774|Karlino
+54.0300|15.0550|Karnice
+52.8370|20.9889|Karniewo
+50.7767|15.7559|Karpacz
+53.9077|17.9209|Karsin
+54.3342|18.1974|Kartuzy
+51.1413|17.0521|Karłowice
+49.7297|20.1355|Kasina Wielka
+50.0388|19.7193|Kaszów
+50.2584|19.0275|Katowice
+51.9092|18.5310|Kawęczyn
+51.8860|20.2470|Kawęczyn Nowy
+51.2759|21.4674|Kazanów
+52.3110|18.1658|Kazimierz Biskupi
+51.3191|21.9550|Kazimierz Dolny
+50.2656|20.4936|Kazimierza Wielka
+52.2067|21.8084|Kałuszyn
+49.9835|22.4117|Kańczuga
+52.5131|16.5840|Kaźmierz
+52.9919|17.4883|Kcynia
+50.0262|21.9291|Kielanówka
+50.8703|20.6275|Kielce
+52.2686|19.8709|Kiernozia
+50.0804|18.0043|Kietrz
+51.1400|17.1780|Kiełczów
+52.3580|20.8621|Kiełpin
+50.6072|20.5712|Kije
+52.9099|19.1202|Kikół
+53.6086|19.2635|Kisielice
+52.5887|17.2663|Kiszkowo
+49.8829|19.5376|Klecza Dolna
+52.3706|18.1771|Kleczew
+52.4065|21.3318|Klembów
+51.9922|15.7839|Klenica
+52.5731|23.3254|Kleszczele
+52.3338|17.1716|Kleszczewo
+51.2236|19.3042|Kleszczów
+49.5193|19.9849|Klikuszowa
+50.6559|21.4559|Klimontów
+51.4193|18.4182|Klonowa
+50.9728|18.2182|Kluczbork
+50.3357|19.5624|Klucze
+51.3419|19.2394|Kluki
+49.4510|20.3018|Kluszkowce
+51.5345|20.6364|Klwów
+50.2197|18.6507|Knurów
+53.3141|22.9196|Knyszyn
+49.8550|19.2165|Kobiernice
+50.9705|16.9351|Kobierzyce
+50.0609|18.9347|Kobiór
+51.3792|17.8381|Kobyla Góra
+49.6689|21.2229|Kobylanka
+51.7165|17.2268|Kobylin
+52.4460|17.0764|Kobylnica
+52.3395|21.1959|Kobyłka
+50.7055|18.7491|Kochanowice
+52.2173|20.0181|Kocierzew Południowy
+51.6400|22.4439|Kock
+53.9045|17.0653|Koczała
+51.9117|23.6030|Kodeń
+50.0125|20.0783|Kokotów
+54.2699|18.4664|Kolbudy
+50.2441|21.7761|Kolbuszowa
+54.4863|18.3437|Koleczkowo
+53.4115|21.9291|Kolno
+50.6534|18.3849|Kolonowskie
+51.9615|15.9599|Kolsko
+51.7387|19.8199|Koluszki
+50.6289|23.4774|Komarów-Osada
+51.8032|22.9439|Komarówka Podlaska
+49.3392|22.0617|Komańcza
+52.3387|16.8106|Komorniki
+52.1456|20.8157|Komorów
+50.6368|17.8264|Komprachcice
+51.6569|17.0419|Konary
+49.5507|18.9491|Koniaków
+50.7747|19.6890|Koniecpol
+49.8421|21.9282|Konieczkowa
+52.2234|18.2512|Konin
+50.7270|19.0078|Konopiska
+51.9316|15.9039|Konotop
+52.0938|21.1176|Konstancin-Jeziorna
+52.2075|23.0853|Konstantynów
+51.7478|19.3256|Konstantynów Łódzki
+50.5934|21.5838|Koprzywnica
+49.5682|19.3500|Korbielów
+52.3533|22.6134|Korczew
+49.7156|21.8094|Korczyna
+50.4889|17.5990|Korfantów
+50.0718|18.3285|Kornowac
+53.3137|17.9370|Koronowo
+54.1700|21.1392|Korsze
+53.7573|20.4562|Kortowo
+52.4144|21.8495|Korytnica
+49.6863|20.8436|Korzenna
+54.5893|18.4848|Kosakowo
+50.0721|22.3290|Kosina
+50.9268|20.5653|Kostomłoty Drugie
+50.9232|20.5949|Kostomłoty Pierwsze
+52.3985|17.2281|Kostrzyn
+52.5871|14.6495|Kostrzyn nad Odrą
+54.1944|16.1722|Koszalin
+49.6446|19.4008|Koszarawa
+49.9723|20.9417|Koszyce
+49.9808|20.9455|Koszyce Wielkie
+50.6341|18.8413|Koszęcin
+52.5954|22.1471|Kosów Lacki
+51.7454|16.0358|Kotla
+51.9191|17.6483|Kotlin
+52.1764|22.0682|Kotuń
+52.5302|19.1477|Kowal
+51.3250|21.0697|Kowala
+54.3098|18.5615|Kowale
+54.1635|22.4167|Kowale Oleckie
+51.1309|17.1017|Kowale-Popiele
+53.1543|18.8987|Kowalewo Pomorskie
+50.7931|15.8356|Kowary
+51.8894|20.4193|Kowiesy
+51.1445|16.9694|Kozanów
+50.6003|19.1630|Koziegłowy
+51.5829|21.5478|Kozienice
+51.2232|22.4275|Kozubszczyzna
+49.8476|19.1489|Kozy
+53.3065|20.2910|Kozłowo
+50.4839|20.0246|Kozłów
+52.2174|17.6241|Kołaczkowo
+49.8074|21.4341|Kołaczyce
+53.3364|14.4383|Kołbaskowo
+52.0643|21.4815|Kołbiel
+54.2390|17.2315|Kołczygłowy
+52.2002|18.6386|Koło
+54.1756|15.5834|Kołobrzeg
+50.4258|22.1538|Kończyce
+49.8582|18.6296|Kończyce Małe
+49.8351|18.6447|Kończyce Wielkie
+51.1917|20.4061|Końskie
+51.4092|22.0517|Końskowola
+52.0883|16.6487|Kościan
+52.1743|18.5707|Kościelec
+49.2907|19.8893|Kościelisko
+54.1223|17.9812|Kościerzyna
+50.3356|18.1433|Koźle
+51.8271|17.4539|Koźmin Wielkopolski
+51.7987|18.3389|Koźminek
+51.7456|15.5949|Kożuchów
+50.0380|22.1680|Kraczkowa
+53.2976|16.9908|Krajenka
+50.0726|19.9325|Kraków
+49.8603|22.5014|Kramarzówka
+52.2647|18.4241|Kramsk
+50.4751|17.9654|Krapkowice
+49.7764|22.6525|Krasiczyn
+52.9240|20.9673|Krasne
+50.5455|23.2131|Krasnobród
+54.1161|23.2048|Krasnopol
+53.0338|21.1574|Krasnosielc
+50.9846|23.1742|Krasnystaw
+50.8887|20.1186|Krasocin
+51.5187|18.2200|Kraszewice
+50.9317|23.3493|Kraśniczyn
+50.9236|22.2271|Kraśnik
+49.5113|21.5004|Krempna
+51.7741|16.9824|Krobia
+50.5618|19.5700|Kroczyce
+54.7792|18.1616|Krokowa
+52.2236|16.8325|Krosno
+52.0549|15.0988|Krosno Odrzańskie
+51.6987|17.4374|Krotoszyn
+49.4408|20.4262|Krościenko nad Dunajcem
+49.6795|21.8290|Krościenko Wyżne
+49.4479|20.3396|Krośnica
+51.4764|17.3592|Krośnice
+52.2559|19.1704|Krośniewice
+54.0885|21.9223|Kruklanki
+50.5734|18.6225|Krupski Młyn
+52.6756|18.3313|Kruszwica
+54.3805|19.4441|Krynica Morska
+49.4222|20.9594|Krynica-Zdrój
+50.5876|23.3816|Krynice
+53.2644|23.7730|Krynki
+50.0167|18.8057|Kryry
+50.0438|19.7982|Kryspinów
+50.0182|18.1225|Krzanowice
+49.7381|19.9182|Krzczonów
+49.9892|22.4638|Krzeczowice
+49.9888|20.4878|Krzeczów
+50.0621|22.1805|Krzemienica
+51.8591|16.8335|Krzemieniewo
+50.9706|18.7289|Krzepice
+50.1425|19.6322|Krzeszowice
+52.5833|15.0071|Krzeszyce
+49.7591|19.4891|Krzeszów
+51.0709|16.9947|Krzyki
+52.1104|17.3741|Krzykosy
+53.1577|20.7858|Krzynowłoga Mała
+49.8835|19.9229|Krzyszkowice
+49.8935|19.8322|Krzywaczka
+49.7989|22.5455|Krzywcza
+51.7952|22.1999|Krzywda
+51.9630|16.8198|Krzywiń
+52.8810|16.0112|Krzyż Wielkopolski
+49.9825|18.2685|Krzyżanowice
+52.1841|19.4562|Krzyżanów
+49.5924|19.3447|Krzyżowa
+49.9853|18.6728|Krzyżowice
+49.9432|19.7416|Krzęcin
+51.6829|19.4028|Ksawerów
+52.0617|17.2395|Książ Wielkopolski
+50.1552|18.5993|Książenice
+51.0729|17.0888|Księże Małe-Księże Wielkie
+50.9085|21.9897|Księżomierz
+50.4232|22.7353|Księżpol
+53.0862|20.0478|Kuczbork-Osada
+50.4430|16.2440|Kudowa-Zdrój
+49.7325|19.4849|Kuków
+51.2223|16.2481|Kunice
+51.5994|15.1649|Kunice Żarskie
+50.9616|21.2806|Kunów
+50.8066|17.8835|Kup
+50.2998|22.4660|Kuryłówka
+53.3986|19.5786|Kurzętnik
+51.3894|22.1864|Kurów
+52.2306|19.3641|Kutno
+52.3639|16.3154|Kuślin
+50.2006|18.3115|Kuźnia Raciborska
+53.5109|23.6495|Kuźnica
+50.0641|19.4921|Kwaczała
+53.7249|18.9311|Kwidzyn
+52.5551|16.0856|Kwilcz
+52.2477|17.0895|Kórnik
+51.0310|16.7677|Kąty Wrocławskie
+50.3498|18.2261|Kędzierzyn-Koźle
+54.2411|16.8897|Kępice
+50.6398|21.8813|Kępie Żaleszańskie
+51.2784|17.9891|Kępno
+53.5587|17.7158|Kęsowo
+54.0768|21.3753|Kętrzyn
+49.8821|19.2233|Kęty
+49.9925|20.2990|Kłaj
+52.6318|17.4307|Kłecko
+50.9008|18.9367|Kłobuck
+51.7213|21.9649|Kłoczew
+52.2545|18.9135|Kłodawa
+50.4349|16.6614|Kłodzko
+50.9216|19.3568|Kłomnice
+49.7156|19.4746|Lachowice
+49.5345|19.0055|Laliki
+49.8450|19.7158|Lanckorona
+49.5088|19.9808|Lasek
+49.7615|20.4505|Laskowa
+50.0202|22.9000|Laszki
+52.0264|21.8083|Latowicz
+49.8786|22.0137|Lecka
+52.4015|20.9266|Legionowo
+51.2101|16.1619|Legnica
+51.1442|16.2421|Legnickie Pole
+54.3246|20.2248|Lelkowo
+50.6833|19.6256|Lelów
+49.4701|22.3304|Lesko
+51.8403|16.5749|Leszno
+52.0909|20.9348|Lesznowola
+50.7487|17.6169|Lewin Brzeski
+50.4056|16.2910|Lewin Kłodzki
+49.8989|19.7354|Leńcze
+51.0243|15.2641|Leśna
+52.1332|23.0279|Leśna Podlaska
+49.4009|20.0600|Leśnica
+51.1423|16.8477|Leśnica-Ratyń-Pustki
+50.2626|22.4193|Leżajsk
+51.1490|19.3273|Lgota Wielka
+49.9724|19.8946|Libertów
+50.1040|19.3157|Libiąż
+52.3123|18.3551|Licheń Stary
+53.2628|19.8266|Lidzbark
+54.1259|20.5795|Lidzbark Warmiński
+49.8986|18.9509|Ligota
+49.7059|20.4220|Limanowa
+54.4514|17.9345|Linia
+54.0766|18.2267|Liniewo
+51.8986|19.9417|Lipce Reymontowskie
+53.0034|14.9692|Lipiany
+51.0126|18.7966|Lipie
+49.6730|21.2929|Lipinki
+51.6395|14.9987|Lipinki Łużyckie
+53.4960|17.2508|Lipka
+53.9962|17.4070|Lipnica
+49.5151|19.6350|Lipnica Mała
+49.7049|20.8684|Lipnica Wielka
+50.7298|21.4939|Lipnik
+51.9172|16.5671|Lipno
+49.6757|19.0940|Lipowa
+53.1046|20.1764|Lipowiec Kościelny
+53.7331|23.4022|Lipsk
+51.1595|21.6493|Lipsko
+54.0981|17.7845|Lipusz
+53.2958|18.6871|Lisewo
+54.0966|18.8293|Lisewo Malborskie
+50.0804|21.0440|Lisia Góra
+51.8331|18.3979|Lisków
+50.0388|19.7684|Liszki
+53.5280|18.2127|Lniano
+50.1570|23.1234|Lubaczów
+52.7469|18.9194|Lubanie
+51.4603|22.6095|Lubartów
+52.8521|16.5234|Lubasz
+53.5043|19.7497|Lubawa
+50.7046|16.0003|Lubawka
+51.1201|15.2877|Lubań
+49.9308|21.9266|Lubenia
+53.8514|18.3990|Lubichowo
+53.0315|18.7456|Lubicz Dolny
+53.0269|18.7710|Lubicz Górny
+53.4654|18.0299|Lubiewo
+49.7192|19.9785|Lubień
+52.4057|19.1644|Lubień Kujawski
+51.4009|16.2015|Lubin
+52.7807|14.9479|Lubiszyn
+54.2846|18.5039|Lublewo Gdańskie
+51.2500|22.5667|Lublin
+50.6690|18.6844|Lubliniec
+52.5164|15.2500|Lubniewice
+51.6079|20.0539|Lubochnia
+50.0397|18.3082|Lubomia
+49.6085|20.2021|Lubomierz
+54.0668|20.2396|Lubomino
+53.1187|19.8459|Lubowidz
+52.3471|16.8927|Luboń
+52.5418|18.8325|Lubraniec
+52.3042|15.4432|Lubrza
+51.7847|14.9720|Lubsko
+50.9159|17.5217|Lubsza
+50.3410|23.5194|Lubycza Królewska
+50.6246|16.4605|Ludwikowice Kłodzkie
+51.3460|22.9058|Ludwin
+49.4666|19.9825|Ludźmierz
+50.1741|19.4043|Luszowice
+52.9815|19.7665|Lutocin
+51.7538|19.2110|Lutomiersk
+49.9671|21.9124|Lutoryż
+49.2532|22.6925|Lutowiska
+51.3703|18.4348|Lututów
+54.5660|18.1091|Luzino
+52.4480|16.1811|Lwówek
+51.1107|15.5858|Lwówek Śląski
+50.1199|18.3915|Lyski
+52.2093|17.9299|Lądek
+50.3437|16.8795|Lądek-Zdrój
+54.5392|17.7501|Lębork
+50.1426|19.1315|Lędziny
+51.6922|21.5534|Maciejowice
+50.3794|21.7462|Majdan Królewski
+51.9470|20.0521|Maków
+52.8649|21.1005|Maków Mazowiecki
+49.7301|19.6771|Maków Podhalański
+51.9536|18.3913|Malanów
+54.0359|19.0266|Malbork
+51.2204|16.4936|Malczyce
+49.9211|19.2453|Malec
+49.9352|22.3460|Manasterz
+49.4598|20.2645|Maniowy
+50.8447|16.0212|Marciszów
+52.9734|17.0946|Margonin
+53.3829|15.2665|Marianowo
+52.3207|21.1047|Marki
+50.0263|22.3316|Markowa
+51.3746|22.2580|Markuszów
+50.0170|18.5210|Markłowice
+51.1720|16.8844|Marszowice
+52.0690|14.9055|Maszewo
+52.5803|19.6290|Maszewo Duże
+49.9892|20.6866|Maszkienice
+50.9006|20.7232|Masłów
+49.8580|18.9771|Mazańcowice
+52.4578|20.1022|Mała Wieś
+53.9198|19.7440|Małdyty
+52.6922|22.0284|Małkinia Górna
+50.8121|20.2641|Małogoszcz
+51.5560|15.4500|Małomice
+53.3038|22.0284|Mały Płock
+51.1494|16.9419|Maślice Małe
+51.1633|16.9284|Maślice Wielkie
+49.8053|22.9223|Medyka
+51.2252|22.7841|Mełgiew
+53.0978|17.0048|Miasteczko Krajeńskie
+50.5026|18.9395|Miasteczko Śląskie
+54.0028|16.9826|Miastko
+51.8841|21.8253|Miastków Kościelny
+50.1590|19.9804|Michałowice
+53.0349|23.6100|Michałowo
+50.4954|20.4618|Michałów
+52.4171|20.9659|Michałów-Reginów
+51.5257|22.3144|Michów
+50.3565|20.0279|Miechów
+50.3960|19.9503|Miechów Charsznica
+50.9368|20.5510|Miedziana Góra
+52.3758|15.9588|Miedzichowo
+52.4678|22.0895|Miedzna
+50.9699|18.9811|Miedzno
+49.9823|19.0488|Miedźna
+49.6344|21.7873|Miejsce Piastowe
+51.6557|16.9583|Miejska Górka
+50.2871|21.4239|Mielec
+52.6687|17.4978|Mieleszyn
+54.2609|16.0621|Mielno
+50.6659|16.1888|Mieroszów
+50.4450|19.1293|Mierzęcice
+52.7873|14.4935|Mieszkowice
+52.7436|17.3321|Mieścisko
+53.8029|21.5701|Mikołajki
+53.8513|19.1657|Mikołajki Pomorskie
+50.1710|18.9041|Mikołów
+51.5324|17.9738|Mikstat
+51.7037|22.8883|Milanów
+52.1188|20.6715|Milanówek
+52.5197|23.1321|Milejczyce
+51.2323|22.9244|Milejów
+51.5277|17.2714|Milicz
+49.5554|19.0907|Milówka
+50.6516|23.8960|Mircze
+51.1611|17.1703|Mirków
+50.0424|22.5560|Mirocin
+53.3407|16.0879|Mirosławiec
+50.9705|15.3857|Mirsk
+51.1347|21.0571|Mirzec
+50.7383|23.5013|Miączyn
+49.7875|19.1974|Międzybrodzie Bialskie
+51.3963|17.6661|Międzybórz
+52.5988|15.8970|Międzychód
+50.1478|16.6671|Międzylesie
+51.9864|22.7825|Międzyrzec Podlaski
+52.4446|15.5780|Międzyrzecz
+53.9292|14.4510|Międzyzdroje
+50.1556|19.6087|Miękinia
+51.9213|21.5746|Miętne
+54.0092|20.0712|Miłakowo
+51.2560|16.0723|Miłkowice
+53.7645|19.8380|Miłomłyn
+54.0139|18.9185|Miłoradz
+52.2032|17.4896|Miłosław
+52.1793|21.5725|Mińsk Mazowiecki
+49.8894|18.8072|Mnich
+50.0604|19.7260|Mników
+51.3702|20.0391|Mniszków
+51.0122|20.4843|Mniów
+52.7657|19.5559|Mochowo
+50.7542|22.3295|Modliborzyce
+50.1296|19.8646|Modlnica
+50.1174|19.8553|Modlniczka
+51.6943|20.7223|Mogielnica
+49.9389|19.8897|Mogilany
+52.6581|17.9558|Mogilno
+52.2652|22.1118|Mokobody
+52.1934|21.0349|Mokotów
+51.1790|18.4888|Mokrsko
+50.7468|20.6176|Morawica
+52.2116|22.5173|Mordy
+52.8577|14.3930|Moryń
+53.9171|19.9260|Morąg
+52.2454|16.8471|Mosina
+54.6120|18.4963|Mosty
+50.3002|17.4911|Moszczanka
+49.7367|21.0924|Moszczenica
+53.4050|22.7979|Mońki
+53.2431|17.6041|Mrocza
+52.0198|20.3670|Mrozy
+51.1882|16.7883|Mrozów
+54.6538|18.4303|Mrzezino
+54.1438|15.2914|Mrzeżyno
+53.8644|21.3051|Mrągowo
+50.8297|19.2855|Mstów
+49.9694|18.5279|Mszana
+49.6743|20.0799|Mszana Dolna
+49.6620|20.0973|Mszana Górna
+51.9742|20.5208|Mszczonów
+50.2004|19.0435|Murcki
+52.5746|17.0093|Murowana Goślina
+50.8631|17.9456|Murów
+49.3566|20.8972|Muszyna
+50.9236|19.2005|Mykanów
+52.1022|21.0186|Mysiadło
+50.5752|19.3246|Myszków
+53.3805|21.3496|Myszyniec
+50.8412|15.7789|Mysłakowice
+50.2075|19.1667|Mysłowice
+50.1851|19.4812|Myślachowice
+49.8338|19.9383|Myślenice
+52.9238|14.8679|Myślibórz
+50.2822|20.9475|Mędrzechów
+50.0525|19.3753|Mętków
+53.1128|20.3841|Mława
+52.2995|20.2002|Młodzieszyn
+54.1869|19.7215|Młynary
+52.9542|21.4114|Młynarze
+52.0944|20.8078|Nadarzyn
+50.6784|20.1066|Nagłowice
+50.4369|18.9106|Nakło
+53.1421|17.6018|Nakło nad Notecią
+51.0759|17.7228|Namysłów
+49.6466|19.8792|Naprawa
+52.9142|23.5198|Narew
+50.3492|23.3268|Narol
+52.5269|20.3516|Naruszewo
+52.5889|20.8055|Nasielsk
+49.5669|20.7393|Nawojowa
+51.2858|22.2154|Nałęczów
+52.3650|17.4133|Nekla
+49.9049|19.3246|Nidek
+53.3605|20.4275|Nidzica
+49.5035|22.1565|Niebieszczany
+49.6777|22.1048|Niebocko
+52.0777|20.0690|Nieborów
+49.8567|21.9035|Niebylec
+52.4653|17.6781|Niechanowo
+49.9947|21.8782|Niechobrz
+50.0654|18.4953|Niedobczyce
+50.1074|20.8955|Niedomice
+51.1146|22.3891|Niedrzwica Duża
+49.4101|20.3027|Niedzica
+51.5441|22.6914|Niedźwiada
+49.6210|20.0779|Niedźwiedź
+50.3891|19.4226|Niegowonice
+50.8007|23.0445|Nielisz
+51.3616|22.6394|Niemce
+50.7201|16.8357|Niemcza
+50.6420|17.6193|Niemodlin
+49.8290|22.4270|Nienadowa
+52.4315|21.0321|Nieporęt
+50.0407|20.2226|Niepołomice
+52.8345|18.8992|Nieszawa
+50.5199|22.1397|Nisko
+50.2249|21.6304|Niwiska
+50.4297|21.7508|Nowa Dęba
+50.1731|19.5912|Nowa Góra
+50.5801|16.5016|Nowa Ruda
+50.3209|22.3446|Nowa Sarzyna
+51.8033|15.7170|Nowa Sól
+50.8643|21.0905|Nowa Słupia
+49.9075|19.2165|Nowa Wieś
+54.5588|17.7276|Nowa Wieś Lęborska
+52.9716|18.0904|Nowa Wieś Wielka
+53.6491|18.7272|Nowe
+50.1322|20.3766|Nowe Brzesko
+52.1592|20.9111|Nowe Grocholice
+52.3579|21.2712|Nowe Lipiny
+51.6910|15.7317|Nowe Miasteczko
+52.6569|20.6284|Nowe Miasto
+53.4208|19.5952|Nowe Miasto Lubawskie
+51.6181|20.5762|Nowe Miasto nad Pilicą
+52.0901|17.4111|Nowe Miasto nad Wartą
+52.3032|19.1922|Nowe Ostrowy
+50.2319|23.1588|Nowe Sioło
+51.7104|17.9934|Nowe Skalmierzyce
+53.7226|14.2896|Nowe Warpno
+51.6390|22.1018|Nowodwór
+53.6744|15.1163|Nowogard
+51.1954|15.3985|Nowogrodziec
+53.2270|21.8821|Nowogród
+51.7986|15.2352|Nowogród Bobrzański
+52.9115|15.0295|Nowogródek Pomorski
+50.0575|22.4106|Nowosielce
+49.5684|22.0695|Nowosielce-Gniewosz
+52.5827|19.4800|Nowy Duninów
+54.2131|19.1177|Nowy Dwór Gdański
+52.4302|20.7165|Nowy Dwór Mazowiecki
+50.3012|20.8076|Nowy Korczyn
+54.1361|19.0091|Nowy Staw
+49.6218|20.6971|Nowy Sącz
+49.4778|20.0323|Nowy Targ
+52.3195|16.1284|Nowy Tomyśl
+49.9147|20.4611|Nowy Wiśnicz
+49.6035|21.5238|Nowy Żmigród
+49.7732|22.1987|Nozdrzec
+52.6683|22.3221|Nur
+52.4625|23.0857|Nurzec-Stacja
+50.4738|17.3344|Nysa
+50.1611|18.3110|Nędza
+52.6474|16.8141|Oborniki
+51.3014|16.9147|Oborniki Śląskie
+50.6928|21.6504|Obrazów
+52.9715|18.8786|Obrowo
+52.7163|21.2494|Obryte
+52.7034|16.5281|Obrzycko
+50.3152|22.9569|Obsza
+49.8425|18.7689|Ochaby
+51.8790|15.4713|Ochla
+49.9526|19.9745|Ochojno
+52.2210|20.9853|Ochota
+49.5268|20.3426|Ochotnica Dolna
+51.5742|17.6743|Odolanów
+49.7406|21.7407|Odrzykoń
+51.5195|20.5556|Odrzywół
+50.4518|19.5199|Ogrodzieniec
+52.7657|20.5432|Ojrzeń
+49.9489|20.6016|Okocim
+53.5362|16.8516|Okonek
+50.7287|20.1009|Oksa
+54.0337|22.5070|Olecko
+50.2015|20.9258|Olesno
+50.1675|23.0348|Oleszyce
+50.4536|21.0646|Oleśnica
+50.2813|19.5650|Olkusz
+49.5675|20.5213|Olszana
+51.2067|15.8004|Olszanica
+50.7951|17.4789|Olszanka
+50.7518|19.2674|Olsztyn
+53.5837|20.2847|Olsztynek
+51.0671|15.3723|Olszyna
+52.1903|18.8626|Olszówka
+49.9539|18.3391|Olza
+52.3089|16.4128|Opalenica
+50.2431|20.7235|Opatowiec
+51.2146|18.1461|Opatów
+51.7399|18.2165|Opatówek
+52.9055|20.7178|Opinogóra Górna
+51.3757|20.2783|Opoczno
+50.6721|17.9253|Opole
+51.1478|21.9690|Opole Lubelskie
+52.2645|19.5642|Oporów
+52.5094|18.0158|Orchowo
+52.7055|23.3321|Orla
+54.6402|18.1706|Orle
+54.1148|20.1333|Orneta
+50.1938|18.7543|Ornontowice
+51.3134|20.9907|Orońsko
+50.4274|18.9228|Orzech
+49.7308|21.9452|Orzechówka
+50.1559|18.7792|Orzesze
+53.8097|21.9481|Orzysz
+49.8711|22.8030|Orły
+53.5992|18.3437|Osie
+51.9665|21.4191|Osieck
+49.8425|19.9821|Osieczany
+51.9042|16.6786|Osieczna
+51.0900|17.0529|Osiedle Henrykowskie
+51.1275|16.9619|Osiedle Kosmonautów
+50.8177|20.5412|Osiedle-Nowiny
+50.5200|21.4419|Osiek
+49.6378|21.4884|Osiek Jasielski
+52.2763|18.6023|Osiek Mały
+53.1203|17.2910|Osiek nad Notecią
+49.6808|19.7824|Osielec
+53.1850|18.0842|Osielsko
+53.6047|15.0123|Osina
+52.6293|18.7221|Osięciny
+51.2895|18.7915|Osjaków
+54.2126|18.9514|Ostaszewo
+52.6265|16.4499|Ostroróg
+50.6458|16.6396|Ostroszowice
+50.9294|21.3852|Ostrowiec Świętokrzyski
+52.3820|18.0447|Ostrowite
+49.4762|20.1005|Ostrowsko
+52.3044|19.1656|Ostrowy
+50.9780|19.0536|Ostrowy nad Okszą
+53.0862|21.5757|Ostrołęka
+51.4264|17.9336|Ostrzeszów
+53.6967|19.9649|Ostróda
+49.9681|22.7871|Ostrów
+51.4942|22.8529|Ostrów Lubelski
+52.8025|21.8951|Ostrów Mazowiecka
+51.6550|17.8069|Ostrów Wielkopolski
+51.5815|22.6123|Ostrówek
+50.1926|19.5708|Ostrężnica
+50.4663|17.1735|Otmuchów
+52.1284|20.7607|Otrębusy
+52.1058|21.2613|Otwock
+51.8477|15.7111|Otyń
+52.1111|20.7047|Owczarnia
+50.6794|18.2137|Ozimek
+51.9634|19.2914|Ozorków
+50.9466|17.2926|Oława
+49.8069|21.2046|Ołpiny
+52.4536|14.8755|Ośno Lubuskie
+50.0344|19.2104|Oświęcim
+50.4618|19.0432|Ożarowice
+50.8880|21.6666|Ożarów
+52.2104|20.7972|Ożarów Mazowiecki
+51.6645|19.3547|Pabianice
+50.4003|21.0415|Pacanów
+52.3028|19.7098|Pacyna
+50.4639|17.0066|Paczków
+50.4395|21.5006|Padew Narodowa
+51.1445|18.9961|Pajęczno
+51.6144|17.0579|Pakosław
+50.5447|17.3658|Pakosławice
+52.8018|18.0853|Pakość
+49.8045|19.7439|Palcza
+52.5533|16.6809|Pamiątkowo
+50.2314|18.7810|Paniówki
+50.8833|18.7516|Panki
+49.9521|22.4356|Pantalowice
+52.2051|20.4232|Paprotnia
+51.3060|20.1137|Paradyż
+54.2066|17.6682|Parchowo
+51.6402|22.9006|Parczew
+51.0680|17.0139|Partynice
+51.9758|21.6801|Parysów
+51.9485|19.2061|Parzęczew
+53.6507|20.7919|Pasym
+51.0108|16.1527|Paszowice
+54.0616|19.6593|Pasłęk
+49.9531|20.0549|Pawlikowice
+50.6950|18.5815|Pawonków
+49.9953|22.6476|Pawłosiów
+49.9613|18.7178|Pawłowice
+51.1649|17.0982|Pawłowice-Kłokoczyce
+50.2466|18.0486|Pawłowiczki
+50.9622|21.1206|Pawłów
+49.7517|19.9711|Pcim
+52.1833|16.8000|Pecna
+53.9283|18.6977|Pelplin
+51.2762|17.8097|Perzów
+49.6746|19.3748|Pewel Wielka
+49.6897|19.3343|Pewel Ślemieńska
+53.0435|15.3045|Pełczyce
+52.0814|21.0240|Piaseczno
+50.0106|18.9481|Piasek
+51.8850|17.0729|Piaski
+52.1844|20.8395|Piastów
+50.8496|15.5989|Piechowice
+53.7576|21.3391|Piecki
+50.0249|19.7962|Piekary
+50.3802|18.9265|Piekary Śląskie
+49.4769|19.7681|Piekielnik
+50.8803|20.4642|Piekoszów
+49.9055|18.6489|Pielgrzymowice
+54.2365|20.1283|Pieniężno
+50.6975|20.7549|Pierzchnica
+49.8334|18.8141|Pierściec
+50.7129|16.5823|Pieszyce
+50.0845|18.0915|Pietrowice Wielkie
+49.6963|19.1599|Pietrzykowice
+51.2490|15.0468|Pieńsk
+51.9594|21.5309|Pilawa
+50.2167|18.5613|Pilchowice
+51.1370|16.9575|Pilczyce
+50.4680|19.6573|Pilica
+49.9788|21.2923|Pilzno
+51.4760|21.4500|Pionki
+52.5511|18.4991|Piotrków Kujawski
+51.4055|19.7032|Piotrków Trybunalski
+51.1448|15.2306|Pisarzowice
+50.2358|22.5287|Piskorowice
+53.6274|21.8125|Pisz
+51.9812|23.3772|Piszczac
+49.4406|20.7142|Piwniczna-Zdrój
+52.0689|19.4797|Piątek
+53.1966|22.0959|Piątnica
+53.1514|16.7378|Piła
+50.6836|16.7436|Piława Górna
+50.5205|20.5265|Pińczów
+51.8964|17.7855|Pleszew
+52.3671|16.8099|Plewiska
+49.9264|20.9453|Pleśna
+52.5094|16.2567|Pniewy
+52.4775|17.2877|Pobiedziska
+54.0610|14.9328|Pobierowo
+51.8934|18.9573|Poddębice
+51.6402|21.7442|Podebłocie
+51.6882|23.1996|Podedwórze
+49.5769|20.5886|Podegrodzie
+50.8326|15.6816|Podgórzyn
+52.1224|20.7266|Podkowa Leśna
+49.5476|19.7387|Podwilk
+50.0146|20.1678|Podłęże
+51.8222|17.2302|Pogorzela
+50.1019|19.4223|Pogorzyce
+50.0672|18.2988|Pogrzebień
+49.8038|18.6011|Pogwizdów
+50.0185|21.1579|Pogórska Wola
+54.5644|18.4821|Pogórze
+52.6207|21.0192|Pokrzywnica
+51.0948|23.4635|Pokrówka
+50.9027|17.8375|Pokój
+50.4037|16.5127|Polanica-Zdrój
+49.9850|19.3261|Polanka Wielka
+54.1193|16.6851|Polanów
+49.3697|22.4211|Polańczyk
+53.5521|14.5718|Police
+51.4554|21.6268|Policzna
+51.5039|16.0726|Polkowice
+50.2283|18.1268|Polska Cerekiew
+52.4714|20.7292|Pomiechówek
+51.1798|22.1309|Poniatowa
+51.7634|16.8087|Poniec
+49.8331|19.4657|Ponikiew
+50.8263|17.7438|Popielów
+50.6780|19.2151|Poraj
+49.4860|22.2250|Poraż
+49.3378|20.0029|Poronin
+49.8172|19.2184|Porąbka
+49.9426|20.6905|Porąbka Uszewska
+49.7965|20.0172|Poręba
+49.9400|20.5541|Poręba Spytkowska
+50.0112|19.2838|Poręba Wielka
+50.3848|22.5619|Potok Górny
+50.7915|22.2164|Potok Wielki
+50.7068|19.4309|Potok Złoty
+51.5087|20.7218|Potworów
+54.4828|17.4862|Potęgowo
+52.4136|17.9193|Powidz
+51.0916|17.0247|Powstańców Śląskich Wschód
+51.0961|17.0177|Powstańców Śląskich Zachód-Centrum Południow
+54.1415|21.8597|Pozezdrze
+52.4069|16.9299|Poznań
+52.7992|16.7335|Połajewo
+50.4332|21.2812|Połaniec
+53.7642|16.0957|Połczyn-Zdrój
+49.9918|18.5510|Połomia
+51.1570|17.0290|Poświętne
+53.7550|19.2055|Prabuty
+51.1878|16.9082|Pracze Odrzańskie-Janówek
+52.2442|21.0855|Praga Południe
+52.2544|21.0347|Praga Północ
+51.0538|18.4532|Praszka
+51.9404|20.9548|Prażmów
+51.2731|16.3653|Prochowice
+51.6801|20.9592|Promna
+53.6990|22.4318|Prostki
+50.1927|20.2891|Proszowice
+49.8653|18.6819|Pruchna
+49.9062|22.5155|Pruchnik
+50.3212|17.5746|Prudnik
+51.3712|16.9602|Prusice
+53.3302|18.1989|Pruszcz
+54.2622|18.6363|Pruszcz Gdański
+52.1707|20.8121|Pruszków
+53.0191|20.8803|Przasnysz
+53.7985|17.2521|Przechlewo
+49.9784|19.1705|Przecieszyn
+50.0065|19.3758|Przeciszów
+50.1934|21.4801|Przecław
+51.0879|19.8738|Przedbórz
+52.3344|18.8991|Przedecz
+49.8371|22.3718|Przedmieście Dubieckie
+50.2383|19.6885|Przeginia
+53.1041|15.0762|Przelewice
+51.5253|15.7944|Przemków
+49.7850|22.7673|Przemyśl
+52.0081|16.3011|Przemęt
+52.2682|22.5839|Przesmyki
+50.6863|17.1659|Przeworno
+50.0591|22.4941|Przeworsk
+51.4805|14.9519|Przewóz
+54.3799|18.2876|Przodkowo
+53.7578|14.7853|Przybiernów
+50.0303|20.6628|Przyborów
+50.0479|21.9258|Przybyszówka
+51.5919|17.8241|Przygodzice
+51.9817|18.6125|Przykona
+50.8005|19.5279|Przyrów
+50.8850|18.6917|Przystajń
+51.3586|20.6289|Przysucha
+50.2484|18.7459|Przyszowice
+49.9179|19.6857|Przytkowice
+52.5776|15.6788|Przytoczna
+51.6195|22.2714|Przytoczno
+51.4657|20.9059|Przytyk
+54.1952|18.3212|Przywidz
+51.3086|21.7474|Przyłęk
+50.4947|22.2192|Przędzel
+50.5767|17.8714|Prószków
+50.1724|19.5295|Psary
+51.1478|17.1274|Psie Pole Południe-Kiełczów
+52.4772|15.7816|Pszczew
+49.9804|18.9538|Pszczyna
+54.1730|18.6979|Pszczółki
+50.0399|18.3947|Pszów
+51.3105|22.9737|Puchaczów
+54.7179|18.4084|Puck
+53.7084|20.7068|Purda
+51.9790|20.3504|Puszcza Mariańska
+52.2857|16.8493|Puszczykowo
+51.4166|21.9694|Puławy
+52.7025|21.0828|Pułtusk
+49.7184|18.6616|Puńców
+54.2511|23.1812|Puńsk
+53.1462|14.8926|Pyrzyce
+50.4000|18.6333|Pyskowice
+50.5700|22.1291|Pysznica
+52.1706|17.6900|Pyzdry
+51.1440|18.6166|Pątnów
+51.8038|18.7231|Pęczniew
+51.7657|17.1266|Pępowo
+50.9777|19.4552|Pławno
+50.0999|19.4645|Płaza
+52.5468|19.7064|Płock
+52.9778|21.0718|Płoniawy-Bramura
+53.8018|15.2667|Płoty
+52.6235|20.3755|Płońsk
+53.2967|18.7769|Płużnica
+49.5668|19.8797|Raba Wyżna
+49.6089|19.9665|Rabka-Zdrój
+50.5384|23.5469|Rachanie
+50.0919|18.2193|Racibórz
+52.7815|20.1177|Raciąż
+52.8565|18.8133|Raciążek
+53.9875|22.7849|Raczki
+50.1934|19.6769|Racławice
+50.3120|17.7753|Racławice Śląskie
+50.7516|22.8298|Radecznica
+50.2058|21.1132|Radgoszcz
+50.5043|16.4006|Radków
+50.0502|18.4763|Radlin
+49.9177|19.4750|Radocza
+51.4025|21.1471|Radom
+53.0867|19.1942|Radomin
+51.0671|19.4448|Radomsko
+50.6810|21.9437|Radomyśl
+50.1969|21.2769|Radomyśl Wielki
+50.0031|18.8810|Radostowice
+51.0739|20.2584|Radoszyce
+53.6658|15.4479|Radowo Małe
+51.0541|17.1093|Radwanice
+49.9472|22.8238|Radymno
+52.5731|19.8911|Radzanowo
+52.9424|20.0922|Radzanów
+49.6465|19.1312|Radziechowy
+52.0083|20.5477|Radziejowice
+52.6248|18.5277|Radziejów
+50.4003|18.9023|Radzionków
+49.9353|19.8152|Radziszów
+53.4099|22.4099|Radziłów
+52.4159|21.1841|Radzymin
+53.3851|18.9372|Radzyń Chełmiński
+51.7833|22.6167|Radzyń Podlaski
+50.0842|20.8497|Radłów
+49.5093|19.1128|Rajcza
+53.7310|22.7051|Rajgród
+50.0119|19.1929|Rajsko
+52.1391|16.2735|Rakoniewice
+50.1605|22.2391|Rakszawa
+50.6743|21.0452|Raków
+50.2587|21.9714|Raniżów
+50.1219|18.2996|Raszczyce
+51.7183|17.7257|Raszków
+50.3978|18.1772|Raszowa
+52.1560|20.9226|Raszyn
+51.0331|17.2721|Ratowice
+51.7644|20.2549|Rawa Mazowiecka
+51.6095|16.8585|Rawicz
+53.2599|15.5471|Recz
+54.6053|18.3472|Reda
+52.9417|20.5532|Regimin
+51.7485|20.3871|Regnów
+50.0831|19.5279|Regulice
+51.1337|17.0711|Rejon alei Kromera
+51.1167|17.0613|Rejon placu Grunwaldzkiego
+51.1206|17.0376|Rejon placu Świętego Macieja
+51.0766|17.0258|Rejon ulicy Borowskiej-Południe
+51.1297|17.0338|Rejon ulicy Klęczkowskiej
+51.0915|17.0021|Rejon ulicy Mieleckiej
+51.0861|17.0005|Rejon ulicy Saperów
+51.1025|17.0483|Rejon ulicy Traugutta
+51.0913|23.2819|Rejowiec
+51.1141|23.2472|Rejowiec Fabryczny
+54.6313|18.3628|Rekowo Dolne
+52.2606|21.1636|Rembertów
+52.3856|22.3912|Repki
+53.7731|15.4061|Resko
+54.0504|21.1458|Reszel
+54.0812|15.0147|Rewal
+50.3159|18.1261|Reńska Wieś
+49.8537|19.3157|Roczyny
+52.2495|16.8999|Rogalinek
+52.7245|17.6512|Rogowo
+50.3911|19.0378|Rogoźnik
+52.7523|16.9905|Rogoźno
+51.2041|20.4348|Rogów
+53.5359|18.9286|Rogóźno
+49.5724|19.9230|Rokiciny
+51.6647|19.7831|Rokiciny-Kolonia
+52.5125|16.7457|Rokietnica
+52.1214|23.2951|Rokitno
+50.4320|19.4329|Rokitno Szlacheckie
+49.5915|21.0443|Ropa
+50.0523|21.6089|Ropczyce
+54.2743|18.6038|Rotmanka
+50.0562|22.5469|Rozbórz
+51.7822|17.5049|Rozdrażew
+53.4855|21.3622|Rozogi
+51.3027|19.6457|Rozprza
+50.4349|18.0998|Rozwadza
+52.9033|19.7742|Rościszewo
+53.6416|21.5396|Ruciane-Nida
+51.1459|20.2238|Ruda Maleniecka
+50.2584|18.8563|Ruda Śląska
+51.2367|23.5949|Ruda-Huta
+50.1215|19.7124|Rudawa
+52.7244|22.7268|Rudka
+51.5098|16.2636|Rudna
+50.0989|21.9602|Rudna Mała
+50.0880|21.9476|Rudna Wielka
+49.8524|19.8474|Rudnik
+50.4415|22.2486|Rudnik nad Sanem
+50.5213|19.4313|Rudniki
+50.1900|18.4533|Rudy
+50.0361|18.7623|Rudziczka
+50.3532|18.4091|Rudziniec
+54.5709|18.3880|Rumia
+51.3244|18.9851|Rusiec
+51.4368|20.5870|Rusinów
+49.9960|19.6065|Rusocice
+53.0893|22.4401|Rutki-Kossaki
+49.7296|19.1016|Rybarzowice
+51.0288|22.8505|Rybczewice
+52.1523|20.9366|Rybie
+50.0971|18.5418|Rybnik
+52.2428|20.1030|Rybno
+49.4781|19.0616|Rycerka Dolna
+49.4444|19.0160|Rycerka Górna
+51.1453|17.8513|Rychtal
+52.0715|18.1651|Rychwał
+52.8132|16.8311|Ryczywół
+49.9810|19.5502|Ryczów
+50.0586|18.4170|Rydułtowy
+51.7865|16.6676|Rydzyna
+49.8789|21.1375|Ryglice
+53.8446|18.9608|Ryjewo
+51.6257|21.9327|Ryki
+49.5765|21.8681|Rymanów
+53.9439|15.5287|Rymań
+53.9377|21.5464|Ryn
+53.0660|19.4094|Rypin
+49.4890|20.6663|Rytro
+50.5292|21.2064|Rytwiany
+53.7579|17.1075|Rzeczenica
+51.1280|21.4401|Rzeczniów
+51.9622|22.7494|Rzeczyca
+53.0476|21.6207|Rzekuń
+49.3700|22.1117|Rzepedź
+49.8054|21.0360|Rzepiennik Strzyżewski
+52.3464|14.8323|Rzepin
+49.9462|19.9728|Rzeszotary
+50.0055|21.9885|Rzeszów
+52.8351|21.3368|Rzewnie
+49.9900|20.5151|Rzezawa
+51.6634|19.4918|Rzgów
+52.1513|18.0498|Rzgów Pierwszy
+49.9540|19.7967|Rzozów
+49.8113|19.3962|Rzyki
+50.0971|19.8451|Rząska
+52.7133|21.3677|Rząśnik
+52.8876|21.3910|Różan
+51.1434|17.0199|Różanka-Polanka
+53.8663|15.9449|Rąbino
+50.0098|19.7678|Rączna
+51.1903|19.8538|Ręczno
+50.8592|19.2162|Rędziny
+52.5010|22.3070|Sabnie
+53.1604|17.4491|Sadki
+51.7252|20.5146|Sadkowice
+53.6654|18.8681|Sadlinki
+50.8526|21.3688|Sadowie
+52.6412|21.8456|Sadowne
+50.6466|21.6482|Samborzec
+50.6827|21.7490|Sandomierz
+50.0687|19.6460|Sanka
+52.3305|19.8677|Sanniki
+49.5557|22.2056|Sanok
+52.7379|15.4102|Santok
+52.3150|22.8904|Sarnaki
+50.3738|19.1506|Sarnów
+51.2744|23.4337|Sawin
+50.7668|19.8360|Secemin
+54.1080|23.3470|Sejny
+51.4372|22.6585|Serniki
+52.5104|21.0691|Serock
+51.7007|22.3324|Serokomla
+54.2265|16.2913|Sianów
+53.2039|17.8005|Sicienko
+49.5915|19.7112|Sidzina
+51.0338|17.1474|Siechnice
+52.1677|22.2901|Siedlce
+52.1378|16.0028|Siedlec
+49.9606|22.3795|Siedleczka
+49.8716|20.9962|Siedliska
+51.7686|15.8140|Siedlisko
+51.1222|15.1937|Siekierczyn
+50.3274|19.0290|Siemianowice Śląskie
+52.4272|22.8623|Siemiatycze
+49.8536|20.9060|Siemiechów
+51.6288|22.7724|Siemień
+52.8811|20.0289|Siemiątkowo
+51.2019|18.8988|Siemkowice
+49.5395|19.9301|Sieniawa
+51.6401|15.0604|Sieniawa Żarska
+52.0916|21.6192|Siennica
+51.0012|23.3226|Siennica Różana
+51.0877|21.4833|Sienno
+49.9144|19.9586|Siepraw
+51.5958|18.7302|Sieradz
+50.1350|20.9295|Sieradza
+54.3461|17.8925|Sierakowice
+52.6513|16.0805|Sieraków
+50.8029|18.5755|Sieraków Śląski
+51.6335|17.9720|Sieroszewice
+52.8568|19.6691|Sierpc
+49.9862|22.3467|Sietesz
+50.4666|19.2303|Siewierz
+50.7494|23.3626|Sitno
+50.3199|20.3993|Skalbmierz
+51.7010|17.9633|Skalmierzyce
+50.8458|17.4186|Skarbimierz Osiedle
+54.0691|18.4442|Skarszewy
+51.3107|21.2523|Skaryszew
+51.1382|20.9120|Skarżysko Kościelne
+51.1131|20.8716|Skarżysko-Kamienna
+49.6772|19.6232|Skawica
+49.9752|19.8287|Skawina
+49.8228|19.7126|Skawinki
+50.2305|19.8536|Skała
+50.8516|23.3592|Skierbieszów
+51.9549|20.1584|Skierniewice
+49.8009|18.7877|Skoczów
+52.6722|17.1611|Skoki
+49.7271|19.8363|Skomielna Czarna
+51.1709|18.3870|Skomlin
+50.7592|17.6820|Skorogoszcz
+50.5965|17.3824|Skoroszyce
+49.7495|21.3366|Skołyszyn
+53.0161|19.6236|Skrwilno
+49.7534|20.1862|Skrzydlna
+49.9937|21.0614|Skrzyszów
+52.4820|18.3311|Skulsk
+52.5991|15.5065|Skwierzyna
+53.7944|18.5256|Skórcz
+52.1073|22.1305|Skórzec
+52.1529|15.4584|Skąpe
+52.8680|19.3560|Skępe
+51.0732|16.8822|Smolec
+54.6632|17.2137|Smołdzino
+51.0444|20.4003|Smyków
+50.2284|21.0041|Smęgorzów
+53.7464|18.6859|Smętowo Graniczne
+51.9327|21.3033|Sobienie Jeziory
+50.7000|20.4506|Sobków
+51.7366|21.6635|Sobolew
+50.8999|16.7444|Sobótka
+52.2294|20.2384|Sochaczew
+52.6872|20.4726|Sochocin
+51.3074|18.3328|Sokolniki
+52.9931|22.7005|Sokoły
+50.2291|22.1197|Sokołów Małopolski
+52.4068|22.2531|Sokołów Podlaski
+53.4072|23.5023|Sokółka
+53.0837|18.2257|Solec Kujawski
+51.1363|21.7656|Solec Nad Wisłą
+50.3659|20.8896|Solec-Zdrój
+54.2756|18.1989|Somonino
+52.3883|18.5028|Sompolno
+50.0609|22.2655|Sonina
+54.4418|18.5600|Sopot
+49.5685|19.2829|Sopotnia Wielka
+51.5207|23.0922|Sosnowica
+49.9400|19.7151|Sosnowice
+50.2712|19.1946|Sosnowiec
+50.8183|15.7232|Sosnówka
+51.1528|17.0710|Sołtysowice
+52.7816|20.6990|Sońsk
+49.9008|22.8747|Sośnica
+50.2721|18.5298|Sośnicowice
+51.4731|17.6338|Sośnie
+53.3892|17.6871|Sośno
+51.3413|22.7535|Spiczyn
+49.9967|19.5110|Spytkowice
+54.2142|21.5228|Srokowo
+51.1538|16.9002|Stabłowice
+50.5829|22.0533|Stalowa Wola
+49.9047|19.6533|Stanisław Dolny
+49.9115|19.6293|Stanisław Górny
+49.9855|20.3512|Stanisławice
+52.2894|21.5485|Stanisławów
+52.3749|21.0518|Stanisławów Pierwszy
+50.9311|16.3743|Stanowice
+51.5468|20.9748|Stara Błotnica
+53.4219|15.1441|Stara Dąbrowa
+50.9160|15.5729|Stara Kamienica
+53.9901|18.1696|Stara Kiszewa
+52.1818|22.9375|Stara Kornica
+49.7150|22.0044|Stara Wieś
+51.0374|21.0713|Starachowice
+50.6642|19.0418|Starcza
+52.2603|20.8340|Stare Babice
+50.8475|16.1931|Stare Bogaczowice
+53.2786|14.7791|Stare Czarnowo
+53.9220|22.1737|Stare Juchy
+52.8567|15.6775|Stare Kurowo
+52.1797|18.2150|Stare Miasto
+54.0567|19.2087|Stare Pole
+53.3367|15.0499|Stargard
+53.9640|18.5264|Starogard Gdański
+50.9486|18.6534|Starokrzepice
+51.6913|19.4837|Starowa Góra
+52.6326|19.9855|Staroźreby
+49.5636|20.6350|Stary Sącz
+53.9233|19.1700|Stary Targ
+49.9255|20.4864|Stary Wiśnicz
+50.8200|23.1715|Stary Zamość
+50.5631|21.1659|Staszów
+53.6572|20.4004|Stawiguda
+53.3799|22.1546|Stawiski
+51.9179|18.1117|Stawiszyn
+54.3268|19.1125|Stegna
+53.6519|14.6256|Stepnica
+52.5803|22.2936|Sterdyń
+52.5433|21.9001|Stoczek
+51.9614|21.9714|Stoczek Łukowski
+50.4402|20.9378|Stopnica
+50.5999|16.7390|Stoszowice
+51.1049|17.1507|Strachocin-Wojnów
+49.6082|22.0884|Strachocina
+52.4269|21.6350|Strachówka
+49.9004|21.9812|Straszydle
+54.2721|18.5811|Straszyn
+50.9418|20.4214|Strawczyn
+51.6470|21.0923|Stromiec
+49.8306|19.6750|Stronie
+50.2955|16.8740|Stronie Śląskie
+49.9210|18.7664|Strumień
+51.9022|19.6054|Stryków
+49.7133|19.5219|Stryszawa
+49.8257|19.6176|Stryszów
+52.3070|17.8181|Strzałkowo
+50.6165|18.8979|Strzebiń
+50.9626|16.3501|Strzegom
+52.8939|20.2855|Strzegowo
+52.3148|19.4070|Strzelce
+52.8773|15.5298|Strzelce Krajeńskie
+50.5107|18.3006|Strzelce Opolskie
+51.1394|19.1454|Strzelce Wielkie
+50.4622|17.8566|Strzeleczki
+50.7816|17.0648|Strzelin
+52.6279|18.1725|Strzelno
+51.0483|22.4402|Strzyżowice
+49.8707|21.7941|Strzyżów
+49.7963|19.9238|Stróża
+49.8981|22.9560|Stubno
+54.0926|17.5758|Studzienice
+49.9623|18.7728|Studzionka
+53.0226|20.4368|Stupsk
+51.1376|20.5717|Stąporków
+52.2837|16.7008|Stęszew
+51.5819|21.7709|Stężyca
+54.0023|18.7693|Subkowy
+51.6200|20.9489|Sucha
+49.7419|19.5943|Sucha Beskidzka
+53.2800|15.3254|Suchań
+51.0478|20.8292|Suchedniów
+53.5775|23.1060|Suchowola
+52.2595|22.2529|Suchożebry
+54.2081|18.7673|Suchy Dąb
+52.4731|16.8774|Suchy Las
+51.8732|21.6317|Sulbiny Górne
+52.0836|15.6251|Sulechów
+51.3544|19.8854|Sulejów
+52.2522|21.2690|Sulejówek
+51.0762|15.0679|Sulików
+51.6059|17.5305|Sulmierzyce
+52.4443|15.1168|Sulęcin
+54.2330|17.7733|Sulęczyno
+53.2053|23.3393|Supraśl
+52.9491|22.9565|Suraż
+50.4197|23.1963|Susiec
+53.7174|19.3364|Susz
+50.0296|18.7916|Suszec
+54.1027|22.9291|Suwałki
+49.8405|19.8010|Sułkowice
+50.2679|19.7328|Sułoszowa
+51.4997|17.1681|Sułów
+52.4129|17.0850|Swarzędz
+54.0015|22.3183|Swiętajno
+51.1157|17.1254|Swojczyce
+51.3081|17.7198|Syców
+53.4682|16.6058|Sypniewo
+50.0200|18.3460|Syrynia
+51.6917|18.9755|Szadek
+49.4265|20.0271|Szaflary
+53.0279|17.1265|Szamocin
+52.6120|16.5779|Szamotuły
+49.9950|20.2696|Szarów
+50.8553|22.3197|Szastarka
+52.2687|15.6817|Szczaniec
+49.4244|20.4849|Szczawnica
+50.8035|16.2566|Szczawno-Zdrój
+50.6950|22.9795|Szczebrzeszyn
+53.4289|14.5530|Szczecin
+53.7079|16.6994|Szczecinek
+50.6267|19.8250|Szczekociny
+51.1980|16.6106|Szczepanów
+50.0942|18.4490|Szczerbice
+51.3332|19.1098|Szczerców
+50.3096|21.0744|Szczucin
+53.5633|22.2853|Szczuczyn
+50.1191|20.6361|Szczurowa
+52.9405|19.5744|Szczutowo
+49.7172|19.0318|Szczyrk
+50.4134|16.4474|Szczytna
+53.5626|20.9875|Szczytno
+52.8349|21.2177|Szelków
+54.4871|18.2228|Szemud
+52.8703|22.5439|Szepietowo
+49.8092|21.2467|Szerzyny
+50.8257|15.5227|Szklarska Poręba
+53.7683|18.1137|Szlachta
+51.7122|16.2443|Szlichtyngowa
+51.5656|15.5366|Szprotawa
+53.0128|20.1201|Szreńsk
+53.9208|19.0307|Sztum
+54.3268|19.1792|Sztutowo
+53.0097|17.7400|Szubin
+52.9188|22.0845|Szumowo
+51.2282|20.8611|Szydłowiec
+53.1621|16.6117|Szydłowo
+50.5911|21.0068|Szydłów
+49.9677|21.1229|Szynwałd
+49.4876|19.0417|Sól
+50.4352|19.0304|Sączów
+50.2289|19.7701|Sąspów
+51.5068|19.0276|Sędziejowice
+50.5659|20.0556|Sędziszów
+50.0707|21.7006|Sędziszów Małopolski
+49.6222|21.1977|Sękowa
+51.1099|17.1020|Sępolno
+54.2690|21.0145|Sępopol
+53.4520|17.5317|Sępólno Krajeńskie
+51.8762|16.0721|Sława
+51.7634|23.5546|Sławatycze
+50.3721|18.3218|Sławięcice
+50.2994|19.3897|Sławków
+51.3927|20.1404|Sławno
+53.8899|15.7067|Sławoborze
+50.2401|20.0822|Słomniki
+49.6850|20.3433|Słopnice
+49.9460|21.2943|Słotowa
+52.5635|14.8053|Słońsk
+52.3509|14.5607|Słubice
+52.2873|17.8719|Słupca
+50.6007|19.9744|Słupia
+51.2392|18.0425|Słupia pod Kępnem
+50.3279|21.1937|Słupiec
+52.3841|21.1557|Słupno
+54.4641|17.0287|Słupsk
+51.9820|20.8339|Tarczyn
+49.8058|19.3244|Targanice
+49.9847|20.2935|Targowisko
+52.2918|21.0484|Targówek
+50.5315|23.3959|Tarnawatka
+50.5730|21.6794|Tarnobrzeg
+50.3609|22.7417|Tarnogród
+49.9816|20.9866|Tarnowiec
+52.4664|16.6633|Tarnowo Podgórne
+50.4455|18.8615|Tarnowskie Góry
+50.0138|20.9870|Tarnów
+50.5763|18.0837|Tarnów Opolski
+53.3417|16.8527|Tarnówka
+51.0016|21.7147|Tarłów
+54.0924|18.7779|Tczew
+51.3260|21.4468|Tczów
+50.5271|23.8396|Telatyn
+50.1199|19.6131|Tenczynek
+52.1989|20.4167|Teresin
+52.0755|23.6161|Terespol
+50.5837|22.8798|Tereszpol
+49.7272|19.8716|Tokarnia
+54.3204|19.5269|Tolkmicko
+49.9792|20.0997|Tomaszkowice
+50.4477|23.4162|Tomaszów Lubelski
+51.5313|20.0085|Tomaszów Mazowiecki
+49.8977|19.4836|Tomice
+49.6249|19.8023|Toporzysko
+52.5033|18.7125|Topólka
+53.0138|18.5981|Toruń
+52.3133|15.0824|Torzym
+50.4544|18.5221|Toszek
+51.3525|21.1288|Trablice
+51.1363|22.9982|Trawniki
+51.6923|21.8111|Trojanów
+53.0311|21.7308|Troszyn
+52.3012|20.7824|Truskaw
+50.8669|18.8270|Truskolasy
+50.1609|22.5501|Tryńcza
+49.8449|20.3742|Trzciana
+53.0406|16.4563|Trzcianka
+52.3650|15.8731|Trzciel
+51.1671|18.0045|Trzcinica
+52.9649|14.6067|Trzcińsko Zdrój
+54.0615|15.2647|Trzebiatów
+52.0211|15.7362|Trzebiechów
+51.6350|14.8161|Trzebiel
+54.2000|17.0873|Trzebielino
+51.9901|22.5550|Trzebieszów
+50.1593|19.4697|Trzebinia
+51.3108|17.0633|Trzebnica
+50.0783|22.0371|Trzebownisko
+49.7915|19.8471|Trzebunia
+52.5614|17.8231|Trzemeszno
+49.8275|20.0221|Trzemeśnia
+50.8489|22.1336|Trzydnik Duży
+49.9623|20.1424|Trąbki
+54.1706|18.5400|Trąbki Wielkie
+53.5879|17.8590|Tuchola
+54.1152|17.3363|Tuchomie
+49.8948|21.0541|Tuchów
+53.1937|16.1537|Tuczno
+50.5168|20.9919|Tuczępy
+52.0766|18.2955|Tuliszków
+51.6764|14.8291|Tuplice
+52.0155|18.5006|Turek
+50.8237|22.7427|Turobin
+53.0146|23.0553|Turośń Kościelna
+49.9723|18.4378|Turza Śląska
+49.6633|22.0048|Turze Pole
+51.6095|19.5301|Tuszyn
+50.5958|17.6532|Tułowice
+50.3435|17.9910|Twardawa
+51.3649|17.4688|Twardogóra
+50.0056|18.2358|Tworków
+50.5310|18.7157|Tworóg
+53.9277|16.2577|Tychowo
+50.1372|18.9664|Tychy
+49.9638|22.0340|Tyczyn
+53.2057|22.7746|Tykocin
+49.3960|21.0237|Tylicz
+49.7286|20.3254|Tymbark
+51.0195|16.9200|Tyniec Mały
+49.5774|22.3699|Tyrawa Wołoska
+50.6170|23.6993|Tyszowce
+52.7471|19.4656|Tłuchowo
+52.4306|21.4356|Tłuszcz
+50.7549|16.6818|Uciechów
+51.0374|16.4547|Udanin
+49.4646|22.3983|Uherce Mineralne
+51.5978|19.9222|Ujazd
+49.4829|19.1380|Ujsoły
+53.0534|16.7320|Ujście
+50.4903|22.2636|Ulanów
+50.4497|23.7996|Ulhówek
+51.9743|18.7931|Uniejów
+53.2124|18.3862|Unisław
+52.1952|20.8842|Ursus
+52.1505|21.0504|Ursynów
+51.3939|23.1948|Urszulin
+50.0118|22.4619|Urzejowice
+50.9932|22.1426|Urzędów
+54.5805|16.8619|Ustka
+54.2152|15.7557|Ustronie Morskie
+49.7215|18.8020|Ustroń
+49.4304|22.5938|Ustrzyki Dolne
+51.5919|22.1074|Ułęż
+49.5219|21.1382|Uście Gorlickie
+51.4696|22.9552|Uścimów Stary
+49.8834|19.4929|Wadowice
+50.2631|21.3022|Wadowice Górne
+52.8012|18.8759|Waganiec
+49.4821|20.0756|Waksmund
+50.3732|18.0043|Walce
+51.2958|18.3807|Walichnowy
+50.6975|16.4448|Walim
+52.9080|17.4750|Wapno
+51.7843|21.1909|Warka
+53.5875|18.6344|Warlubie
+53.2538|14.9940|Warnice
+52.2298|21.0118|Warsaw
+52.2355|21.0419|Warszawa
+51.7105|18.6248|Warta
+51.9763|19.0018|Wartkowice
+53.1991|23.2078|Wasilków
+52.1966|21.1775|Wawer
+50.1101|20.3161|Wawrzeńczyce
+50.7714|16.2843|Wałbrzych
+53.2779|16.4712|Wałcz
+50.8991|21.2230|Waśniów
+54.6057|18.2356|Wejherowo
+50.7537|23.7641|Werbkowice
+52.2545|21.2241|Wesoła
+51.4385|18.9442|Widawa
+51.1709|17.0216|Widawa-Lipa Piotrowska-Polanowice
+53.1269|14.3907|Widuchowa
+53.1953|20.4764|Wieczfnia Kościelna
+53.3986|20.9463|Wielbark
+52.8946|16.1714|Wieleń
+52.7408|19.2635|Wielgie
+52.1157|16.3518|Wielichowo
+49.9874|20.0647|Wieliczka
+52.4513|20.9683|Wieliszew
+52.9962|18.5097|Wielka Nieszawka
+51.0711|20.9666|Wielka Wieś
+54.4675|18.4881|Wielki Kack
+50.0236|23.1641|Wielkie Oczy
+49.9456|21.6149|Wielopole Skrzyńskie
+50.5097|18.6161|Wielowieś
+51.2210|18.5696|Wieluń
+51.3617|20.7949|Wieniawa
+49.8909|19.3569|Wieprz
+51.2949|18.1555|Wieruszów
+50.2362|22.4509|Wierzawice
+51.2494|21.0826|Wierzbica
+52.4403|18.5109|Wierzbinek
+50.0331|22.6013|Wierzbna
+50.9367|17.1796|Wierzbno
+51.2046|18.6654|Wierzchlas
+52.8692|18.3561|Wierzchosławice
+53.4601|16.0996|Wierzchowo
+54.7880|18.0031|Wierzchucino
+50.3844|18.7592|Wieszowa
+50.1910|20.7650|Wietrzychowice
+51.9163|16.1855|Wijewo
+49.9170|19.1524|Wilamowice
+52.1631|21.0875|Wilanów
+50.1890|18.5967|Wilcza
+52.4735|18.1674|Wilczogóra
+50.7469|21.6578|Wilczyce
+52.4882|18.1613|Wilczyn
+51.8521|21.3775|Wilga
+51.8851|16.5342|Wilkowice
+51.0147|22.3501|Wilkołaz
+51.0921|15.9282|Wilków
+52.6431|20.9411|Winnica
+52.0883|20.3871|Wiskitki
+51.7892|23.2084|Wisznice
+49.6563|18.8591|Wisła
+49.9180|19.5258|Witanowice
+51.9415|17.5618|Witaszyce
+49.9075|19.2796|Witkowice
+52.4396|17.7726|Witkowo
+52.6732|14.8977|Witnica
+52.1465|19.3005|Witonia
+53.1952|22.3824|Wizna
+50.0807|22.7067|Wiązownica
+50.8140|17.2021|Wiązów
+53.3538|17.4906|Więcbork
+50.3366|18.1022|Większyce
+51.4703|16.6139|Wińsko
+50.3489|20.6744|Wiślica
+52.0727|22.2939|Wiśniew
+53.0647|20.3481|Wiśniewo
+49.7878|20.1150|Wiśniowa
+51.0164|15.6747|Wleń
+52.0404|21.9557|Wodynie
+51.7183|19.1512|Wodzierady
+50.5205|20.1915|Wodzisław
+50.0038|18.4720|Wodzisław Śląski
+51.7564|22.7858|Wohyń
+49.7778|21.6708|Wojaszówka
+50.8423|21.5894|Wojciechowice
+51.2354|22.2455|Wojciechów
+51.7692|22.3159|Wojcieszków
+50.9519|15.9218|Wojcieszów
+50.3651|19.0365|Wojkowice
+49.9580|20.8378|Wojnicz
+51.0584|17.0451|Wojszyce
+50.9192|23.5460|Wojsławice
+52.2401|20.9887|Wola
+50.0526|20.2662|Wola Batorska
+49.9821|20.6878|Wola Dębińska
+50.1343|19.5801|Wola Filipowska
+50.8452|20.8581|Wola Jachowa
+51.3442|19.5809|Wola Krzysztoporska
+49.9056|19.7883|Wola Radziszowska
+51.9018|21.5582|Wola Rębkowska
+51.4498|22.6835|Wola Sernicka
+51.3214|23.6263|Wola Uhruska
+50.0726|20.3322|Wola Zabierzowska
+50.2912|22.2502|Wola Żarczycka
+51.3803|20.9770|Wolanów
+50.3796|19.7583|Wolbrom
+51.5020|19.8305|Wolbórz
+53.8421|14.6146|Wolin
+52.1155|16.1171|Wolsztyn
+51.0185|18.0499|Wołczyn
+52.3401|21.2421|Wołomin
+49.9888|19.7263|Wołowice
+51.3366|16.6443|Wołów
+49.9377|19.4908|Woźniki
+50.5893|19.0599|Wożniki
+51.1081|17.0386|Wrocław
+52.7105|16.3804|Wronki
+52.3251|17.5652|Września
+49.9586|19.9465|Wrząsowice
+51.6121|18.6149|Wróblew
+50.8459|18.9209|Wręczyca Wielka
+51.8070|16.3166|Wschowa
+53.9819|22.0324|Wydminy
+51.5111|15.0821|Wymiarki
+50.1330|18.9005|Wyry
+53.1530|17.2680|Wyrzysk
+53.1809|17.0835|Wysoka
+50.1602|22.0212|Wysoka Głogowska
+49.8306|21.7407|Wysoka Strzyżowska
+50.9109|22.6660|Wysokie
+52.9166|22.5171|Wysokie Mazowieckie
+52.8413|22.9812|Wyszki
+52.5928|21.4584|Wyszków
+52.3899|20.1908|Wyszogród
+51.6249|20.8139|Wyśmierzyce
+50.2423|22.1883|Wólka Niedźwiedzka
+50.0955|22.6234|Wólka Pełkińska
+50.1178|22.1121|Wólka Podleśna
+50.5001|22.2611|Wólka Tanewska
+53.2799|18.9477|Wąbrzeźno
+51.0739|21.0124|Wąchock
+52.8084|17.1996|Wągrowiec
+53.1376|19.2779|Wąpielsk
+51.5622|16.6906|Wąsosz
+51.2947|22.1468|Wąwolnica
+49.6078|19.1164|Węgierska Górka
+51.2875|15.2289|Węgliniec
+49.7342|20.0858|Węglówka
+54.2157|21.7372|Węgorzewo
+53.5410|15.5596|Węgorzyno
+50.7432|18.0174|Węgry
+50.0149|20.1108|Węgrzce Wielkie
+52.3995|22.0163|Węgrów
+54.7909|18.4009|Władysławowo
+52.1031|18.4763|Władysławów
+52.1794|20.9461|Włochy
+52.6482|19.0678|Włocławek
+51.5500|23.5500|Włodawa
+50.5556|19.4516|Włodowice
+50.0182|19.3167|Włosienica
+51.9275|16.3646|Włoszakowice
+50.8526|19.9659|Włoszczowa
+50.1142|19.7979|Zabierzów
+50.0682|20.3190|Zabierzów Bocheński
+50.0217|19.2407|Zaborze
+50.3249|18.7858|Zabrze
+49.9162|18.9429|Zabrzeg
+51.9519|15.7168|Zabór
+49.9028|18.7815|Zabłocie
+53.0144|23.3383|Zabłudów
+51.1230|17.0746|Zacisze
+51.7767|18.8493|Zadzim
+50.9804|20.6631|Zagnańsk
+51.1913|15.8653|Zagrodno
+49.8371|19.3787|Zagórnik
+49.5146|22.2671|Zagórz
+50.0945|19.4036|Zagórze
+50.0169|21.6752|Zagórzyce
+52.1683|17.8956|Zagórów
+49.8559|20.8093|Zakliczyn
+50.7577|22.1023|Zaklików
+49.2990|19.9489|Zakopane
+52.4335|20.6121|Zakroczym
+50.8900|22.5911|Zakrzew
+53.4119|17.1547|Zakrzewo
+49.8256|19.6497|Zakrzów
+50.9512|22.3814|Zakrzówek
+50.0803|19.6213|Zalas
+50.0123|22.5326|Zalesie
+52.0277|21.0366|Zalesie Górne
+51.1197|17.0919|Zalesie i Stadion
+50.6480|21.8907|Zaleszany
+53.8453|19.6052|Zalewo
+49.7825|18.6697|Zamarski
+52.9855|22.2432|Zambrów
+50.3171|23.0279|Zamch
+50.7231|23.2520|Zamość
+52.1556|17.1623|Zaniemyśl
+51.5432|18.8834|Zapolice
+49.5818|22.0128|Zarszyn
+50.3672|19.6959|Zarzecze
+49.9960|19.4380|Zator
+52.5993|21.1826|Zatory
+50.6050|18.4847|Zawadzkie
+50.8074|21.8541|Zawichost
+52.8274|19.8737|Zawidz
+51.0255|15.0621|Zawidów
+50.4877|19.4168|Zawiercie
+49.6440|19.5423|Zawoja
+52.5115|20.5286|Załuski
+53.9337|18.3226|Zblewo
+50.4161|18.7544|Zbrosławice
+52.0897|22.4383|Zbuczyn
+49.9229|18.7270|Zbytków
+53.2429|21.7881|Zbójna
+53.0085|19.1575|Zbójno
+52.2431|15.8165|Zbąszynek
+52.2509|15.9252|Zbąszyń
+51.6458|17.3769|Zduny
+51.5992|18.9397|Zduńska Wola
+50.7848|22.1100|Zdziechowice Drugie
+50.4248|18.1235|Zdzieszowice
+49.8903|19.6729|Zebrzydowice
+51.4645|19.2197|Zelów
+49.7752|19.6012|Zembrzyce
+51.8556|19.4062|Zgierz
+51.1494|15.0084|Zgorzelec
+51.1383|17.1336|Zgorzelisko
+50.0127|21.8549|Zgłobień
+51.9377|15.5122|Zielona Góra
+52.3038|21.1602|Zielonka
+50.1209|19.9216|Zielonki
+50.6012|17.0406|Ziębice
+49.6765|21.9660|Zmiennica
+49.5269|19.6734|Zubrzyca Dolna
+49.5617|19.6497|Zubrzyca Górna
+50.6140|22.9751|Zwierzyniec
+52.8321|15.5676|Zwierzyń
+51.3554|21.5877|Zwoleń
+52.2927|21.1054|Ząbki
+50.5897|16.8124|Ząbkowice Śląskie
+50.7629|18.3443|Zębowice
+53.0956|18.3290|Zławieś Wielka
+53.5329|16.0113|Złocieniec
+51.4172|18.6036|Złoczew
+50.3816|20.5936|Złota
+52.4941|16.8450|Złotniki
+52.8994|18.1456|Złotniki Kujawskie
+51.1264|15.9198|Złotoryja
+50.4447|16.8759|Złoty Stok
+53.3635|17.0408|Złotów
+50.8903|21.5143|Ćmielów
+52.9521|17.9197|Łabiszyn
+49.5277|20.8550|Łabowa
+50.6552|23.3662|Łabunie
+50.7909|16.8446|Łagiewniki
+50.7752|21.0843|Łagów
+52.4287|20.9495|Łajski
+50.5387|17.5610|Łambinowice
+52.3620|19.2803|Łanięta
+49.8654|20.2915|Łapanów
+49.9599|20.3845|Łapczyca
+49.3981|20.2434|Łapsze Niżne
+52.9911|22.8842|Łapy
+53.5179|19.0883|Łasin
+51.5906|19.1328|Łask
+51.7899|21.5912|Łaskarzew
+50.5333|23.7256|Łaszczów
+51.1423|21.8792|Łaziska
+50.1495|18.8422|Łaziska Górne
+50.4277|19.3946|Łazy
+50.0687|22.2291|Łańcut
+54.7610|17.5555|Łeba
+53.6392|15.6213|Łobez
+50.9308|18.9909|Łobodno
+53.2624|17.2557|Łobżenica
+52.5308|21.6816|Łochów
+49.7299|19.1394|Łodygowice
+51.9044|23.1766|Łomazy
+52.3341|20.8860|Łomianki
+53.1781|22.0593|Łomża
+50.5644|21.5260|Łoniów
+51.0408|23.0183|Łopiennik Górny
+49.9345|22.3930|Łopuszka Wielka
+49.4728|20.1302|Łopuszna
+50.9486|20.2508|Łopuszno
+52.2113|22.7180|Łosice
+50.7910|17.5659|Łosiów
+49.7498|20.6313|Łososina Dolna
+52.1071|19.9453|Łowicz
+53.1386|18.4811|Łubianka
+50.7860|18.0011|Łubniany
+50.4116|21.1501|Łubnice
+52.5117|17.4533|Łubowo
+50.0930|20.9755|Łukowa
+49.6111|20.4829|Łukowica
+51.9290|22.3796|Łuków
+49.7129|21.0464|Łużna
+53.3644|21.5649|Łyse
+53.0863|18.6200|Łysomice
+51.9855|19.9065|Łyszkowice
+51.7706|19.4739|Łódź
+52.4662|19.6114|Łąck
+49.5576|20.4359|Łącko
+49.9841|19.5787|Łączany
+51.0023|20.7971|Łączna
+50.3106|17.5281|Łąka Prudnicka
+51.3012|22.8814|Łęczna
+52.0596|19.1997|Łęczyca
+54.5941|17.8593|Łęczyce
+54.2264|18.6428|Łęgowo
+51.2123|18.1071|Łęka Opatowska
+49.7221|19.2650|Łękawica
+49.8100|21.6602|Łęki
+49.9739|21.2474|Łęki Dolne
+49.9739|21.1743|Łęki Górne
+51.1877|19.7980|Łęki Szlacheckie
+51.5415|14.7358|Łęknica
+49.6975|19.8711|Łętownia
+51.4163|16.4251|Ścinawa
+49.7183|19.3673|Ślemień
+52.3704|18.3064|Ślesin
+53.7088|18.1737|Śliwice
+52.0134|16.5270|Śmigiel
+53.1365|16.9208|Śmiłowo
+53.0387|21.9908|Śniadowo
+52.0887|17.0151|Śrem
+52.2284|17.2762|Środa Wielkopolska
+51.1641|16.5951|Środa Śląska
+52.2290|21.0164|Śródmieście
+50.8438|16.4886|Świdnica
+51.2190|22.6962|Świdnik
+53.7746|15.7767|Świdwin
+50.8597|16.3197|Świebodzice
+52.2475|15.5335|Świebodzin
+53.4095|18.4474|Świecie
+53.4440|19.1017|Świecie nad Osą
+53.1521|19.5546|Świedziebnia
+53.4186|18.0973|Świekatowo
+50.9092|15.3431|Świeradów-Zdrój
+52.6705|20.7639|Świercze
+50.9602|17.7588|Świerczów
+50.4424|18.9373|Świerklaniec
+50.0183|18.5770|Świerklany Dolne
+50.0277|18.5905|Świerklany Górne
+51.0138|15.8952|Świerzawa
+53.9650|14.9654|Świerzno
+50.0718|21.8980|Świlcza
+52.0407|18.9179|Świnice Warckie
+49.6580|19.2541|Świnna
+53.9105|14.2471|Świnoujście
+49.9343|19.9536|Świątniki Górne
+51.8550|16.4980|Święciechowa
+51.0260|17.1146|Święta Katarzyna
+50.2964|18.9173|Świętochłowice
+52.0317|20.6911|Żabia Wola
+52.0586|21.0482|Żabieniec
+49.5814|19.1562|Żabnica
+50.1333|20.8862|Żabno
+51.6176|15.3149|Żagań
+50.0826|19.3520|Żarki
+50.6230|19.2751|Żarki-Letnisko
+51.2461|20.1748|Żarnów
+51.6420|15.1373|Żary
+50.9412|16.4947|Żarów
+49.8139|20.4196|Żegocina
+51.8542|18.1743|Żelazków
+51.7121|20.0346|Żelechlinek
+51.8105|21.8972|Żelechów
+54.6777|18.4174|Żelistrzewo
+52.0688|17.5635|Żerków
+50.2477|18.6155|Żernica
+51.0331|17.0566|Żerniki Wrocławskie
+51.4667|16.9056|Żmigród
+52.8496|17.7199|Żnin
+52.2690|20.9864|Żoliborz
+50.0452|18.7006|Żory
+50.1620|22.3083|Żołynia
+54.3422|18.3648|Żukowo
+49.8235|22.7892|Żurawica
+50.0137|22.4995|Żurawiczki
+53.0661|19.9089|Żuromin
+49.8264|21.1689|Żurowa
+52.2440|19.6261|Żychlin
+50.0855|21.3962|Żyraków
+52.0488|20.4460|Żyrardów
+51.4992|22.0917|Żyrzyn
+49.6853|19.1924|Żywiec
+50.9808|17.0367|Żórawina
+50.9099|22.8346|Żółkiewka

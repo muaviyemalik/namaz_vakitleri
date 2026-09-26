@@ -1,0 +1,1738 @@
+50.6369|27.9075|Abramok
+45.1076|35.1014|Abrikosovka
+45.6924|34.1016|Abrikosovo
+50.3769|27.9153|Adamivka
+50.8311|27.4831|Adamove
+48.5425|32.5354|Adzhamka
+45.0182|33.9996|Aeroflotskiy
+49.9861|28.6050|Agativka
+45.0160|34.0573|Agrarnoye
+45.5198|34.8244|Akimovka
+48.4689|38.8167|Alchevs’k
+48.4803|38.7969|Alchevs’ka Mis’krada
+45.5765|34.0995|Aleksandrovka
+45.5819|33.6298|Alekseyevka
+44.4181|34.0453|Alupka
+44.6773|34.4097|Alushta
+45.2782|34.1282|Amurskoye
+47.7500|38.5000|Amvrosiivka
+47.7935|38.4777|Amvrosiyivka
+44.8166|33.5631|Andreyevka
+49.7629|34.3004|Andriyivka
+50.0167|29.0167|Andrushivka
+50.0171|29.0322|Andrushivs’kyy Rayon
+49.8097|26.8771|Antoniny
+48.1150|39.0913|Antratsyt
+48.1245|39.0568|Antratsytivs’kyy Rayon
+47.6600|33.7137|Apostolove
+47.9097|31.3196|Arbuzynka
+46.1092|33.6921|Armyansk
+45.0368|34.3992|Aromatnoye
+48.4406|38.7320|Artemivs’k
+45.9919|29.4182|Artsyz
+46.4513|33.8689|Askaniya-Nova
+48.5666|34.4611|Auly
+49.0717|33.4155|Autozavodskoy
+51.7766|32.7999|Avdiyivka
+48.3671|35.0813|Aviatorske
+49.8761|27.8264|Avratin
+45.5860|34.5668|Azovskoye
+48.7097|30.4483|Babanka
+45.3742|36.2970|Baherove
+49.7204|34.3738|Bairak
+44.7552|33.8578|Bakhchysarai
+44.7500|33.8633|Bakhchysarai Raion
+51.1814|32.8346|Bakhmach
+48.5956|37.9999|Bakhmut
+48.5833|38.0000|Bakhmut Raion
+44.5112|33.5994|Balaklava
+44.5058|33.6703|Balaklava District
+49.4627|36.8595|Balakliya
+49.8212|34.3388|Baliasne
+47.3834|34.9440|Balky
+47.9355|29.6198|Balta
+47.9983|29.6484|Balts’kyy Rayon
+48.3661|25.3455|Banyliv
+49.0772|27.6826|Bar
+50.2969|27.6622|Baranivka
+50.7156|28.0308|Barashi
+49.0667|27.6833|Barskiy Rayon
+48.9097|37.0205|Barvinkove
+50.3610|31.3217|Baryshivka
+50.3692|31.3490|Baryshivs’kyy Rayon
+47.4072|32.4387|Bashtanka
+45.1940|35.6158|Batal’noye
+48.3617|22.3997|Batiovo
+51.3457|32.8779|Baturyn
+48.3920|38.6017|Bayrachky
+49.7127|26.4733|Bazaliya
+51.0439|29.2936|Bazar
+51.0197|28.6933|Bekhi
+46.2479|32.2912|Bekhtery
+49.0290|25.7706|Belaya
+45.3747|36.0821|Belinskoye
+44.9949|34.0417|Beloglinka
+45.0630|34.5568|Belogorskiy rayon
+50.3823|24.0064|Belz
+46.8333|36.7500|Berdiansk
+46.7664|36.7987|Berdyansk
+46.8156|36.7705|Berdyans’ka Mis’krada
+49.8919|28.6000|Berdychiv
+49.9167|28.5833|Berdychivskyy Rayon
+45.0947|35.4338|Beregovoye
+48.2126|22.6554|Berehivs’ka Mis’krada
+48.1788|25.3485|Berehomet
+48.2056|22.6442|Berehove
+48.1667|22.6667|Berehove Raion
+50.3605|25.1107|Berestechko
+50.3406|27.4761|Berestivka
+51.0200|28.8703|Berestovets
+46.8526|31.3880|Berezanka
+49.6919|29.4531|Berezianka
+49.4393|35.7074|Berezivka
+51.5716|31.7846|Berezna
+47.3078|32.8499|Bereznehuvate
+48.5141|23.2198|Bereznyky
+50.9967|28.3589|Berezovii Grud
+45.5747|33.3440|Berezovka
+48.3094|23.4740|Berezovo
+50.5056|29.3175|Bereztsi
+46.2297|29.2044|Berezyne
+48.3678|29.5173|Bershad
+46.8415|33.4284|Beryslav
+47.1072|37.9382|Bezimenne
+49.8755|36.2654|Bezlyudivka
+49.6409|24.2887|Bibrka
+49.7506|27.7778|Bicheva
+51.4019|28.2828|Bigun
+50.1783|29.2964|Bikiv
+50.6364|29.4636|Bila Krynytsia
+50.6398|29.4704|Bila Krynytsya
+49.8094|30.1121|Bila Tserkva
+49.7500|30.0833|Bila Tserkva Raion
+48.4952|39.0505|Bile
+46.1952|30.3494|Bilhorod-Dnistrovskyi
+48.4872|24.7008|Bili Oslavy
+50.7564|29.4789|Bilii Bereg
+50.8186|28.1878|Bilka
+48.3150|23.1325|Bilky
+45.0546|34.6018|Bilohirsk
+48.9250|38.2482|Bilohorivka
+49.5341|38.7307|Bilokurakyne
+51.1502|34.3129|Bilopillya
+49.2085|39.5898|Bilovods'k
+46.6248|32.4425|Bilozerka
+49.1833|24.7500|Bilshivtsi
+46.4832|30.2168|Bilyayivka
+49.6800|29.0300|Bilylivka
+48.4064|37.1811|Bilyts’ke
+47.9563|39.7384|Biryukove
+49.8564|28.5664|Bistrik
+50.4778|29.1647|Bistriyivka
+47.8793|38.4849|Blahodatne
+48.2500|30.2500|Blahovishchenske
+45.0569|35.3306|Blizhneye
+48.8578|36.5551|Blyznyuky
+48.0717|22.8958|Bobovo
+50.7469|31.3948|Bobrovytsya
+48.0590|32.1664|Bobrynets
+45.0293|34.7673|Bogatoye
+48.0412|24.3522|Bohdan
+50.1647|35.5277|Bohodukhiv
+48.7228|24.3804|Bohorodchans’kyy Rayon
+48.8070|24.5383|Bohorodchany
+49.5494|30.8744|Bohuslav
+49.0661|23.8644|Bolekhiv
+49.0626|23.8434|Bolekhivs’ka Mis’krada
+45.6826|28.6149|Bolhrad
+49.7693|34.3384|Borisivka
+50.3345|31.0247|Borispol’skiy Rayon
+50.6448|29.9201|Borodianka
+46.3025|29.2417|Borodino
+50.6589|29.8856|Borodyans’kyy Rayon
+50.6184|34.9704|Boromlya
+49.3777|37.6214|Borova
+48.7500|26.0000|Borshchevskiy Rayon
+48.8033|26.0435|Borshchiv
+49.2867|23.4324|Boryslav
+50.3527|30.9550|Boryspil’
+51.2546|32.4269|Borzna
+45.7866|33.5486|Botanicheskoye
+48.2708|26.1262|Boyany
+50.3191|30.2973|Boyarka
+47.4099|38.0248|Boykivske
+47.4167|38.0000|Boykivske Raion
+49.1099|28.1746|Brailiv
+45.8317|33.9215|Bratskoye
+48.8226|28.9407|Bratslav
+50.0879|25.1503|Brody
+50.5536|27.8078|Broniki
+50.9467|27.3453|Bronitsia
+50.9314|27.3139|Bronitska Guta
+48.9962|24.1975|Broshniv-Osada
+45.3733|28.7830|Broska
+50.5181|30.8067|Brovary
+50.5833|31.0000|Brovary Raion
+49.9319|29.1975|Brovki Pershi
+50.2833|29.5333|Brusyliv
+50.2564|29.4874|Brusylivs’kyy Rayon
+48.5110|38.6722|Bryanka
+46.4248|33.1472|Brylivka
+49.9047|23.9597|Bryukhovychi
+50.5434|30.2120|Bucha
+49.0625|25.3880|Buchach
+51.0700|28.0425|Buchmany
+49.8913|36.0210|Budy
+50.1964|28.3250|Buki
+49.0925|30.4035|Buky
+50.1136|27.7967|Buldichiv
+48.3000|39.6153|Buran
+49.8189|28.2836|Buriaki
+49.8789|28.0444|Burkivtsi
+49.2587|24.6278|Burshtyn
+49.2522|24.6332|Burshtyns’ka Mis’krada
+51.1991|33.8352|Buryn’
+48.0512|23.4858|Bushtyno
+50.2928|27.9831|Bykivka
+48.4593|24.2455|Bystrytsya
+48.6297|24.4740|Bytkiv
+50.3407|30.4236|Chabany
+49.3663|35.8749|Chapayeve
+45.2812|34.8943|Chapayevka
+46.3651|33.5403|Chaplynka
+48.5935|37.8572|Chasiv Yar
+45.0822|34.0867|Chaykino
+48.2151|29.3673|Chechelnyk
+45.2073|36.3762|Chelyadinovo
+49.4285|32.0621|Cherkasy
+49.8354|34.5917|Chernechii Iar
+48.8121|25.4248|Chernelytsya
+50.4550|28.6653|Cherniakhiv
+51.5055|31.2849|Chernihiv
+51.5833|31.3333|Chernihiv Raion
+47.1667|36.2500|Chernihivka
+51.4992|31.2880|Chernihivs’ka Mis’krada
+48.5111|28.1419|Chernivets’kyy Rayon
+48.2915|25.9403|Chernivtsi
+48.3193|25.9410|Chernivtsi Municipality
+48.8566|24.7139|Cherniyiv
+45.4880|32.9261|Chernomorskiy rayon
+45.5066|32.6978|Chernomorskoye
+45.0440|34.6392|Chernopolye
+45.5083|33.9340|Chernovo
+45.4081|34.8199|Chernozemnoye
+50.2188|31.9308|Chernyakhivka
+50.4167|28.6667|Chernyakhivskyy Rayon
+48.6603|25.4483|Chernyatyn
+45.7820|33.4282|Chernyshevo
+49.3728|32.1574|Chervona Sloboda
+49.9497|28.8686|Chervone
+50.3910|24.2351|Chervonohrad
+47.6230|34.5389|Chervonohryhorivka
+48.0761|39.7962|Chervonopartyzans’k
+45.1229|33.6866|Chervonoye
+49.1791|37.4259|Chervonyy Oskil
+44.8815|34.0472|Chisten’koye
+45.3654|36.1831|Chistopolye
+45.6047|34.8340|Chkalovo
+48.4320|22.2055|Chop
+50.8333|28.9525|Chopovychi
+49.6664|32.3293|Chornobay
+46.6941|32.5537|Chornobayivka
+48.8303|24.8958|Chornoliztsi
+46.3049|30.6548|Chornomors’k
+49.8464|29.0606|Chornorudka
+50.2699|32.9476|Chornukhy
+48.3234|38.5227|Chornukhyne
+46.6522|33.3590|Chornyanka
+49.0171|25.7980|Chortkiv
+47.6232|34.1420|Chortomlyk
+48.0525|25.6221|Chudey
+50.0528|28.0969|Chudniv
+50.0000|28.1667|Chudniv Raion
+49.8359|36.6880|Chuhuyiv
+46.3576|32.3514|Chulakivka
+49.7169|35.1746|Chutove
+49.0838|32.6555|Chyhyryn
+48.4818|22.8217|Chynadiyovo
+48.0388|38.5969|Chystyakove
+44.8845|34.9833|Dachnoye
+45.6601|33.0806|Dalekoye
+50.4133|30.6930|Darnytsia
+49.0045|29.4256|Dashiv
+50.6494|28.3950|Dashynka
+50.5269|28.4100|Davidivka
+48.1210|25.5646|Davydivka
+50.9489|28.4386|Davydky
+48.3407|38.4049|Debal’tseve
+48.5235|24.6247|Delyatyn
+49.5674|23.9461|Demnya
+50.4430|25.2906|Demydivs’kyy Rayon
+50.2153|28.4078|Denyshi
+49.2692|27.4338|Derazhnya
+49.2268|27.4660|Derazhnyans’kyy Rayon
+50.1066|36.1211|Derhachi
+49.6922|29.0633|Derhanivka
+50.9273|30.7605|Desna
+50.5355|30.6088|Desnyans’kyy Rayon
+51.1603|27.9728|Dibrova
+51.0997|28.8319|Didkovichi
+50.6092|27.3558|Didovichi
+50.5826|32.7701|Dihtyari
+50.4469|28.7497|Divochki
+45.4841|35.0588|Dmitrovka
+47.9361|38.9366|Dmytrivka
+45.7137|34.3626|Dneprovka
+48.4593|35.0386|Dnipro
+48.4561|35.0217|Dnipro Raion
+47.3817|34.9765|Dniprorudne
+47.4295|34.6180|Dniprovka
+48.4673|34.9990|Dniprovs’ka Mis’ka Rada
+46.7463|33.2729|Dnipryany
+49.5719|22.7863|Dobromyl’
+48.4167|37.1667|Dobropillia
+48.4615|37.0852|Dobropillya
+48.3878|31.1803|Dobrovelychkivka
+48.3693|31.1635|Dobrovelychkivs’kyy Rayon
+44.8663|34.2266|Dobroye
+45.3744|33.3655|Dobrushino
+52.0631|31.1857|Dobryanka
+47.7505|37.6794|Dokuchayevs’k
+44.7532|33.7777|Dolinnoye
+48.9733|24.0094|Dolyna
+48.1104|32.7645|Dolyns'ka
+48.8915|23.8434|Dolyns’kyy Rayon
+47.6319|30.9885|Domanivka
+48.0230|37.8022|Donetsk
+45.0451|34.2141|Donskoye
+50.3722|27.9895|Dovbysh
+48.3653|23.2790|Dovhe
+48.0000|39.6667|Dovzhanskyy Rayon
+49.9603|32.1407|Drabiv
+48.2357|23.5491|Drahovo
+45.2863|34.6159|Drofino
+49.3499|23.5056|Drohobych
+51.1861|27.9661|Druzhba
+48.6301|37.5526|Druzhkivka
+49.9086|28.7844|Dubivka
+44.9358|34.0236|Dubki
+49.9041|24.0864|Dublyany
+50.4169|25.7343|Dubno
+50.8742|27.3489|Dubnyki
+48.1720|23.8895|Dubove
+50.2853|29.5933|Dubrivka
+51.5744|26.5650|Dubrovytsya
+47.1856|33.7639|Dudchany
+49.2313|23.8153|Duliby
+48.8891|26.8564|Dunaivtsi
+49.8502|37.6826|Dvorichna
+50.5619|28.3978|Dvorishche
+49.8222|34.5341|Dykanka
+50.7865|30.3026|Dymer
+45.7117|34.3927|Dzhankoy
+45.7871|34.3920|Dzhankoyskiy rayon
+49.7333|24.2500|Dzvinogrud
+50.7272|29.1839|Elivka
+47.4986|34.6574|Energodar
+49.7961|36.5905|Eskhar
+50.0767|29.9177|Fastiv
+50.0833|30.0000|Fastiv Raion
+49.7762|34.4394|Fedorivka
+45.0368|35.3779|Feodosiya
+46.0819|33.7851|Filatovka
+49.8356|35.0030|Filenkove
+46.5665|30.8596|Fontanka
+44.8972|34.0730|Fontany
+44.3921|33.7880|Foros
+44.6674|33.7384|Frontovoye
+45.0269|33.6296|Frunze
+44.4336|34.1030|Gaspra
+45.1386|33.7467|Geroyskoye
+45.3879|36.5797|Glazovka
+50.0461|28.8042|Glinivtsi
+50.1903|28.2219|Godikha
+50.1536|28.5439|Golovenka
+50.8397|29.1333|Golovki
+44.5938|33.9152|Golubinka
+49.8550|29.5136|Golubyatin
+50.5375|28.9233|Gorbuliv
+50.0544|27.8750|Gordiyivka
+49.9119|34.4582|Gorianshchina
+45.2782|36.1860|Gornostayevka
+49.9097|28.9942|Gorodkivka
+49.6003|29.1950|Gorodok
+50.3775|29.1689|Gorodske
+44.6726|34.4147|Gorodskoy okrug Alushta
+46.1087|33.6910|Gorodskoy okrug Armyansk
+45.7081|34.3941|Gorodskoy okrug Dzhankoy
+45.0461|35.3729|Gorodskoy okrug Feodosiya
+45.9533|33.7967|Gorodskoy okrug Krasnoperekopsk
+45.1278|33.6013|Gorodskoy okrug Saki
+44.9480|34.1091|Gorodskoy okrug Simferopol
+44.9167|35.0020|Gorodskoy okrug Sudak
+44.4964|34.1634|Gorodskoy okrug Yalta
+45.1956|33.3634|Gorodskoy okrug Yevpatoriya
+50.0139|27.8339|Goropayi
+51.2392|28.7139|Goshiv
+45.0080|34.0266|Gresovskiy
+45.6422|33.8310|Grishino
+49.9464|27.7622|Gromada
+50.9589|28.7306|Grozyne
+45.0228|34.9730|Grushevka
+50.4928|28.4550|Grushki
+50.0995|32.8312|Gubske
+50.5192|27.7211|Gulsk
+50.3969|28.9267|Gumenniki
+44.5462|34.2784|Gurzuf
+50.6911|28.8742|Guta-Potiyivka
+51.0300|29.4167|Guto-Mariatin
+50.3667|34.0000|Hadiach
+44.5922|33.4393|Haharinskyi
+48.8114|29.3898|Haisyn
+49.1218|24.7258|Halych
+49.1617|24.7180|Halyts’kyy Rayon
+48.3396|29.8679|Hayvoron
+46.1759|34.8034|Heniches’k
+46.2645|34.7449|Heniches’kyy Rayon
+48.7347|38.4954|Hirs’ke
+50.2742|30.3271|Hlevakha
+49.3886|33.2632|Hlobyne
+51.6782|33.9162|Hlukhiv
+48.0897|25.9293|Hlyboka
+50.0603|23.8996|Hlyns'k
+50.3290|30.7106|Hnidyn
+46.5272|32.5242|Hola Prystan’
+50.3275|30.5674|Holosiiv
+50.4725|28.8281|Holovyne
+49.6810|29.1606|Holubivka
+50.5573|30.3322|Horenka
+48.2708|23.4348|Horinchovo
+49.0107|33.6562|Horishni Plavni
+48.3358|38.0532|Horlivka
+47.0078|33.7290|Hornostayivka
+48.6727|25.5016|Horodenka
+48.7062|25.4201|Horodenkivs’kyy Rayon
+51.3700|28.2414|Horodets
+51.8909|31.5974|Horodnya
+45.8908|28.8483|Horodnye
+50.8094|27.3183|Horodnytsia
+50.8070|27.3168|Horodnytsya
+49.1637|26.5839|Horodok
+49.2849|31.4451|Horodyshche
+50.5019|24.7615|Horokhiv
+50.6003|26.6744|Hoshcha
+50.5684|30.2651|Hostomel
+51.0865|25.0077|Hołoby
+49.2331|33.1320|Hradyzk
+50.7428|29.3522|Hranitne
+50.1180|32.4396|Hrebinka
+49.3321|26.0111|Hrymayliv
+49.9356|28.6017|Hryshkivtsi
+48.8098|35.2560|Hubynykha
+47.6639|36.2563|Hulyaypole
+49.1114|34.7356|Hupalivka
+49.0729|26.1848|Husiatyn
+50.1332|35.3439|Huty
+45.1169|34.0219|Hvardiiske
+48.6852|24.5506|Hvizd
+50.8626|32.3942|Ichnya
+50.6878|28.7281|Iemilivka
+50.6383|27.9983|Ievgenivka
+49.1048|29.2177|Illintsi
+47.9250|38.2024|Ilovays’k
+45.2835|35.7386|Ilychyovo
+45.2452|35.0713|Ilyichevo
+45.8178|33.7948|Ilyinka
+44.6139|33.6098|Inkerman
+50.5217|30.2506|Irpin
+50.5159|30.2410|Irpins’ka Mis’krada
+50.7167|28.7167|Irshansk
+48.3167|23.0385|Irshava
+48.3333|23.0833|Irshava Raion
+45.9240|33.8236|Ishun’
+48.2973|25.2741|Ispas
+46.7208|34.5530|Ivanivka
+50.9387|29.8943|Ivankiv
+51.0000|29.9167|Ivankiv Raion
+48.9215|24.7097|Ivano-Frankivsk
+48.9118|24.7283|Ivano-Frankivs’ka Mis’krada
+49.9198|23.7291|Ivano-Frankove
+49.8586|28.2156|Ivanopil
+45.0720|33.6613|Ivanovka
+48.2152|23.3287|Iza
+45.3493|28.8408|Izmayil
+44.7028|34.3536|Izobil’noye
+45.7370|34.4130|Izumrudnoye
+50.1195|26.8212|Izyaslav
+49.2088|37.2485|Izyum
+45.0444|35.1372|Izyumovka
+44.7764|33.5439|Kacha
+48.5682|38.6435|Kadiyivka
+48.5834|25.7687|Kadubivtsi
+49.8623|30.8282|Kaharlyk
+49.9167|30.7500|Kaharlyk Raion
+46.8137|33.4870|Kakhovka
+46.2562|33.2907|Kalanchak
+45.7375|28.8144|Kalcheva
+45.5952|34.2203|Kalinino
+45.3166|35.7464|Kalinovka
+49.0119|24.3731|Kalush
+49.0609|24.3877|Kalus’kyy Rayon
+49.4539|28.5261|Kalynivka
+49.3818|30.4514|Kalynove
+48.1408|23.8738|Kalyny
+45.2480|33.4177|Kamenolomnya
+48.6845|26.5856|Kamianets-Podilskyi
+48.9859|33.5186|Kamiani Potoky
+49.0318|32.1040|Kamianka
+48.5113|34.6021|Kamianske
+48.6934|22.3957|Kamianytsia
+51.6241|24.9586|Kamin-Kashyrskyi
+46.2333|29.8333|Kamyshevka Vtoraya
+49.7518|31.4600|Kaniv
+48.9172|31.7167|Kapitanivka
+49.6424|30.7900|Karapyshi
+49.8838|34.6404|Kardashivka
+49.4547|35.1308|Karlivka
+46.1449|30.5261|Karolino-Buhaz
+44.8321|34.0591|Kashtanovoye
+44.8676|33.7899|Kashtany
+50.8060|30.1376|Katyuzhanka
+48.3768|35.1240|Kaydaki
+46.9454|33.7059|Kayiry
+47.8462|32.8218|Kazanka
+49.2866|35.7615|Kehychivka
+45.3531|36.4743|Kerch
+45.3531|36.4741|Kerchens'ka Mis'ka Rada
+49.9808|36.2527|Kharkiv
+48.0424|38.1473|Khartsyz’k
+46.6558|32.6178|Kherson
+49.4216|26.9965|Khmelnytskyi
+49.4451|26.9327|Khmel’nyts’kyy Rayon
+49.5598|27.9575|Khmilnyk
+50.9781|28.8067|Khodaky
+49.4099|24.3047|Khodoriv
+44.6583|33.7546|Kholmovka
+51.8710|32.6006|Kholmy
+49.7840|33.2589|Khorol
+49.8541|36.2170|Khorosheve
+50.6000|28.4500|Khoroshiv
+49.2111|25.9216|Khorostkiv
+50.3307|30.4684|Khotiv
+48.5069|26.4912|Khotyn
+48.8158|29.9770|Khrystynivka
+48.1793|23.2991|Khust
+48.2500|23.4167|Khust Raion
+48.1906|23.3032|Khusts’ka Mis’krada
+48.3864|25.1480|Khymchyn
+49.5342|22.8554|Khyriv
+45.4552|29.2637|Kiliya
+50.3689|31.1207|Kirove
+45.2211|35.8423|Kirovo
+48.5219|32.2437|Kirovohrads’ka Mis’krada
+45.1552|35.1770|Kirovske
+45.2297|35.1999|Kirovskoye
+48.6375|38.6428|Kirovs’k
+48.6349|38.6475|Kirovs’ka Mis’krada
+50.8342|25.4582|Kivertsi
+49.6310|37.6882|Kivsharivka
+50.5842|30.0113|Klavdiyevo-Tarasove
+48.3904|28.4109|Klembivka
+48.1193|39.4588|Klenovyy
+45.5280|34.1831|Klepinino
+50.7430|25.9763|Klevan
+48.4316|26.2623|Klishkivtsi
+50.4627|30.7837|Knyazhichi
+49.1474|34.1993|Kobeliaky
+46.6650|31.2080|Kobleve
+50.8285|31.5044|Kobyzhcha
+49.8800|36.7372|Kochetok
+50.5949|29.5587|Kodra
+48.0988|29.1246|Kodyma
+48.0228|29.1401|Kodyms’kyy Rayon
+44.9616|35.2466|Koktebel
+48.4285|23.6959|Kolochava
+50.5856|26.3160|Kolodenka
+45.2268|34.3370|Kolodeznoye
+49.8399|35.3044|Kolomak
+48.5311|25.0365|Kolomyia
+48.5859|24.9930|Kolomyys’kyy Rayon
+50.8167|27.0333|Koloniya Zastav’ye
+45.2694|33.2939|Koloski
+44.9437|33.7886|Kol’chugino
+45.3281|33.4499|Kol’tsovo
+49.6274|23.6995|Komarno
+48.2512|32.2079|Kompaniyivka
+45.0190|34.0305|Komsomol’skoye
+47.3276|36.6930|Komysh-Zorya
+46.6372|32.5072|Komyshany
+47.7160|35.5298|Komyshuvakha
+45.6313|34.4739|Kondratyevo
+49.9114|34.5117|Kononenki
+51.2403|33.2026|Konotop
+44.8551|34.1207|Konstantinovka
+48.2197|23.4846|Kopashnovo
+48.8592|27.7969|Kopayhorod
+49.1044|25.9103|Kopychyntsi
+50.2125|28.4764|Korchak
+44.4337|34.0852|Koreiz
+50.6165|27.1606|Korets
+45.5000|33.6119|Kormovoye
+50.4166|31.4626|Korniyivka
+50.0953|29.5358|Kornyn
+48.1525|23.1366|Korolevo
+51.5664|32.9586|Korop
+50.9500|28.6500|Korosten
+50.9594|28.6385|Korosten’
+50.3186|29.0592|Korostyshiv
+50.3333|29.0833|Korostyshiv Raion
+49.9474|36.0374|Korotych
+49.4189|31.2586|Korsun-Shevchenkivskyi
+51.7688|32.2481|Koryukivka
+48.3107|25.0957|Kosiv
+48.3257|24.9864|Kosivs’kyy Rayon
+48.7509|24.3673|Kosmach
+48.2550|22.4560|Koson’
+48.5000|37.7500|Kostiantynivka
+45.3175|34.6742|Kostochkovka
+50.8784|26.4519|Kostopil’
+48.6546|25.7132|Kostryzhivka
+48.5277|37.7069|Kostyantynivka
+50.0683|34.7592|Kotelva
+45.3658|34.0258|Kotel’nikovo
+50.4884|30.3296|Kotsyubyns’ke
+51.2153|24.7087|Kovel
+51.2120|24.7016|Kovel’s’ka Mis’krada
+45.6903|33.5277|Kovyl’noye
+46.7037|32.9776|Kozachi Laheri
+50.9133|31.1214|Kozelets’
+49.2155|33.8518|Kozelshchyna
+49.9723|29.7642|Kozhanka
+49.4354|25.1509|Kozova
+49.7143|28.8339|Kozyatyn
+48.7231|37.5563|Kramators’k
+48.5757|24.7003|Krasna
+45.1343|34.0401|Krasna Zor'ka
+45.4824|32.9379|Krasnaya Polyana
+46.1309|32.7691|Krasne
+45.9910|34.0304|Krasnoarmeyskoye
+45.3157|34.9476|Krasnoflotskoye
+45.2451|35.8074|Krasnogorka
+45.5027|34.3013|Krasnogvardeyskoye
+49.3801|35.4419|Krasnohrad
+45.4023|34.2546|Krasnohvardiiske
+44.5638|34.2888|Krasnokamenka
+50.0660|35.1628|Krasnokuts’k
+44.8326|34.2309|Krasnolesye
+49.1364|36.3191|Krasnopavlivka
+45.9699|33.8799|Krasnoperekopsk
+45.9572|33.7965|Krasnoperekops’k
+50.7746|35.2597|Krasnopillya
+46.6226|30.7742|Krasnosilka
+48.6820|37.5327|Krasnotorka
+45.5066|33.2664|Krasnoyarskoye
+45.1400|34.0945|Krasnoye
+45.2868|34.0004|Krasnoznamenka
+44.6422|33.7813|Krasnyi Mak
+48.2014|38.7976|Krasnyy Kut
+48.1395|38.9372|Krasnyy Luch
+51.0764|29.6490|Krasyatychi
+49.6519|26.9725|Krasyliv
+49.8736|34.5081|Kratova Govtva
+45.2299|33.8324|Krayneye
+49.0775|33.4239|Kremenchuk
+50.0969|25.7246|Kremenets
+46.7335|30.7847|Kremidivka
+49.0495|38.2179|Kreminna
+45.7227|33.9394|Krest’yanovka
+48.1290|38.0260|Krinichnaya
+45.0243|34.6120|Krinichnoye
+48.0771|39.0580|Kripens’kyy
+50.3715|30.3686|Kriukivschina
+51.5478|33.3847|Krolevets’
+48.5132|32.2597|Kropyvnytskyi
+49.0667|33.4532|Krukovskiy
+51.0597|32.1063|Kruty
+45.7045|34.1878|Krymka
+45.0578|34.3563|Krymskaya Roza
+45.1884|33.8011|Krymskoye
+48.3755|34.4670|Krynychky
+48.1723|23.2365|Kryva
+51.3850|30.1998|Kryva Hora
+47.9524|30.3493|Kryve Ozero
+47.9473|33.4249|Kryvoriz’ka Mis’krada
+47.9097|33.3804|Kryvyi Rih
+46.5617|30.7949|Kryzhanivka
+48.3829|28.8662|Kryzhopil’
+49.7480|34.2907|Kucherivka
+47.1630|29.7894|Kuchurhan
+44.6290|33.8689|Kuibyshevo
+45.7192|33.3903|Kukushkino
+46.0303|29.9361|Kulevcha
+49.9795|24.0782|Kulykiv
+51.3734|31.6466|Kulykivka
+49.9818|36.3828|Kulynychi
+50.9961|28.7847|Kupech
+49.7105|37.6152|Kupjansk
+47.9852|37.2821|Kurakhovo
+46.9695|30.9591|Kurisove
+45.0291|34.9362|Kurskoye
+48.4399|23.2582|Kushnytsya
+47.7128|35.2092|Kushuhum
+47.8123|38.2882|Kuteynykove
+48.2587|25.1795|Kuty
+47.3580|36.6491|Kuybysheve
+48.1497|24.2799|Kvasy
+49.9847|29.5158|Kvitneve
+50.4547|30.5238|Kyiv
+50.3641|35.1149|Kyrykivka
+46.3759|35.3675|Kyrylivka
+50.3853|30.2313|Kyyevo-Svyatoshyns’kyy Rayon
+50.5196|32.5818|Ladan
+48.6850|29.2368|Ladyzhyn
+48.5578|24.7562|Lanchyn
+49.7830|34.3882|Landari
+49.7128|34.4343|Lani
+49.8633|26.0908|Lanivtsi
+51.2656|28.9564|Lasky
+50.3125|29.5858|Lazarivka
+48.2685|24.4201|Lazeshchyna
+48.0667|24.2333|Lazi
+46.0840|32.5296|Lazurne
+48.9624|31.5270|Lebedyn
+44.9419|33.8223|Lekarstvennoye
+44.6000|33.5333|Lenin
+48.4294|39.1456|Lenina
+45.2469|36.0054|Lenine
+45.2986|35.7771|Lenino
+45.2684|34.0502|Leninskoye
+45.1535|33.6189|Lesnovka
+49.3826|27.6305|Letychiv
+44.8708|34.0428|Levadki
+49.7592|27.9031|Lisogirka
+50.6892|32.3292|Lisovi Sorochyntsi
+45.4809|34.8109|Listvennoye
+45.0865|34.3111|Litvinenkovo
+49.3251|28.0809|Lityn
+49.3714|28.0703|Lityns’kyy Rayon
+49.9214|27.7583|Liubar
+51.2260|24.0373|Liuboml
+50.6835|30.3932|Liutizh
+44.4702|34.1427|Livadia
+45.7755|34.2424|Lobanovo
+50.7370|24.6494|Lokachi
+50.3610|33.2652|Lokhvytsia
+50.2202|24.8483|Lopatyn
+48.3653|23.9638|Lopukhiv
+49.8391|38.7410|Lozno-Oleksandrivka
+48.8894|36.3175|Lozova
+44.9060|34.1641|Lozovoye
+48.0571|33.2858|Lozuvatka
+50.0186|32.9869|Lubny
+44.7365|34.4006|Luchistoye
+45.8019|34.2379|Luganskoye
+45.2347|35.7220|Lugovoye
+48.5671|39.3171|Luhansk
+48.5808|39.3548|Luhans’ka Mis’krada
+48.4457|38.2615|Luhans’ke
+51.0667|28.3833|Luhyny
+51.0833|28.3333|Luhyny Raion
+51.0521|25.4006|Lukiv
+49.2372|33.9050|Lutovynivka
+50.7593|25.3424|Lutsk
+48.4051|39.2268|Lutuhyne
+48.3851|39.2121|Lutuhyns’kyy Rayon
+48.3649|25.7717|Luzhany
+49.8383|24.0232|Lviv
+48.6874|33.9228|Lykhivka
+48.9884|37.8023|Lyman
+49.0000|37.8333|Lyman Raion
+46.6557|29.9672|Lymanske
+48.2611|23.3834|Lypcha
+48.4469|31.0761|Lypnyazhka
+50.5643|33.7979|Lypova Dolyna
+49.2801|28.9321|Lypovets’kyy Rayon
+48.1706|31.1099|Lysa Hora
+49.2523|30.8295|Lysianka
+48.9049|38.4421|Lysychans’k
+48.4968|23.2899|Lysychovo
+47.8372|30.2598|Lyubashivka
+51.7026|30.6569|Lyubech
+51.7964|25.3313|Lyubeshivs’kyy Rayon
+51.2506|24.0116|Lyuboml’s’kyy Rayon
+49.9469|35.9291|Lyubotyn
+46.8106|33.5686|Lyubymivka
+45.0980|34.9577|L’govskoye
+45.8631|34.0497|Magazinka
+48.9211|34.9149|Mahdalynivka
+48.9761|34.9676|Mahdalynivs’kyy Rayon
+50.4641|29.8113|Makariv
+50.5000|29.7500|Makariv Raion
+48.5777|39.7194|Makariv Yar
+48.7949|26.6919|Makiv
+48.0478|37.9258|Makiyivka
+48.0629|38.0307|Makiyivs’ka Mis’krada
+47.2474|34.9346|Mala Bilozerka
+50.0635|36.1656|Mala Danylivka
+49.7399|34.4465|Mala Rudka
+47.5356|35.8929|Mala Tokmachka
+48.6431|31.6366|Mala Vyska
+45.0759|33.9994|Malen’koye
+46.7814|33.4479|Malokakhovka
+47.6555|35.2565|Malokaterynivka
+44.7589|34.5579|Malorechenskoye
+48.5768|31.5759|Malovyskivs’kyy Rayon
+44.6136|34.3647|Maly Mayak
+50.7689|29.2700|Malyn
+50.8308|29.1993|Malyn Raion
+49.8167|36.7333|Malynivka
+49.9798|35.8584|Manchenky
+51.2940|25.5344|Manevychi
+51.2451|25.6094|Manevyts’kyy Rayon
+47.0558|37.3107|Manhush
+48.9635|30.3337|Mankivka
+48.6554|24.3754|Manyava
+47.9453|37.5054|Mar'yinka
+49.8431|34.3829|Marchenki
+45.1985|36.0914|Marfovka
+47.6354|34.6277|Marhanets’
+47.0951|37.5413|Mariupol
+49.5229|39.5705|Markivka
+48.6758|24.4138|Markova
+48.2175|26.2913|Marshintsy
+45.1133|36.2399|Maryevka
+45.4463|34.2947|Mar’yanovka
+49.4449|34.8758|Maschiwka
+45.7920|34.3630|Maslovo
+44.5096|34.1882|Massandra
+47.0747|35.1444|Matviyivka
+46.4175|30.2741|Mayaky
+45.5956|34.5521|Mayskoye
+45.0055|34.2558|Mazanka
+49.4305|23.7507|Medenychi
+45.8839|34.5556|Medvedevka
+45.3860|33.0040|Medvedevo
+49.4375|27.4049|Medzhybizh
+46.9596|37.3998|Melekyne
+48.6301|35.4156|Melioratyvne
+46.8489|35.3653|Melitopol
+46.9033|35.3462|Melitopol’s’kyy Rayon
+45.1989|34.4201|Mel’nichnoye
+51.5217|32.2157|Mena
+51.5215|32.0217|Mens’kyy Rayon
+49.8230|36.0507|Merefa
+50.6349|35.3134|Mezenivka
+48.2532|36.7347|Mezhova
+45.5875|32.8450|Mezhvodnoye
+45.0743|34.7067|Michurinskoye
+45.1133|33.6107|Mikhaylovka
+49.3960|25.6052|Mikulintsy
+48.1683|39.1654|Millerovo
+49.3753|40.1322|Milove
+45.6908|34.3097|Mirnovka
+44.9833|34.0616|Mirnoye
+45.3079|33.0350|Mirny
+49.9313|30.6231|Mirovka
+45.4511|34.6788|Mitrofanovka
+45.2342|33.7015|Mityayevo
+48.0775|38.9036|Miusyns’k
+48.5246|23.5056|Mizhhirya
+48.5833|23.5000|Mizhhirya Raion
+50.4000|26.1500|Mizoch
+49.3369|31.5170|Mliiv
+50.5090|25.6167|Mlyniv
+50.5573|25.5771|Mlynivs’kyy Rayon
+48.4460|27.7982|Mohyliv-Podilskyi
+45.1996|33.2223|Molochnoye
+48.2233|26.0214|Molodiya
+48.1773|32.6602|Molodizhne
+48.3451|39.6524|Molodohvardiys’k
+45.0035|34.0563|Molodyozhnoye
+48.9909|29.8047|Monastyryshche
+50.6714|27.4517|Morozivka
+49.1565|23.8723|Morshyn
+44.8259|34.8031|Morskoye
+49.5275|31.7371|Moshny
+47.8908|38.0639|Mospyne
+49.7947|23.1508|Mostys'ka
+50.1582|30.0742|Motovylivka
+48.4392|22.7178|Mukacheve
+48.4167|22.6667|Mukachevo
+48.7676|28.2157|Murafa
+45.0905|34.8490|Muromskoye
+49.5214|22.9367|Murovane
+48.7235|27.5189|Murovani Kurylivtsi
+45.4659|34.5432|Muskatnoye
+48.1796|22.6994|Muzhiyevo
+48.0372|30.9515|Myhiya
+48.1575|25.3790|Myhove
+47.2724|35.2223|Mykhaylivka
+47.2211|35.2658|Mykhaylivs’kyy Rayon
+49.5237|23.9852|Mykolaiv
+46.9659|31.9974|Mykolayiv
+47.5414|30.7562|Mykolayivka
+47.4672|30.6028|Mykolayivs’kyy Rayon
+48.5888|22.2750|Mynay
+49.9640|33.6124|Myrhorod
+48.3052|37.2609|Myrnohrad
+49.6601|30.9823|Myronivka
+50.1075|27.7058|Myropil
+45.4479|35.8353|Mysovoe
+48.6348|24.5694|Nadvirna
+48.5539|24.5038|Nadvirnyans’kyy Rayon
+44.6950|33.5809|Nakhimovskiy rayon
+49.5172|26.6418|Narkevychi
+51.2023|29.0814|Narodychi
+51.2500|29.0833|Narodychi Raion
+45.0528|35.2942|Nasypnoe
+49.7495|23.9275|Navaria
+45.2709|34.4490|Naydenovka
+48.8153|24.2166|Nebyliv
+49.1692|33.2550|Nedoharky
+50.8340|33.8763|Nedryhayliv
+45.4408|34.9858|Nekrasovka
+45.4245|34.2854|Nekrasovo
+48.5610|23.0315|Nelipyno
+48.9708|28.8378|Nemyriv
+49.6200|29.0500|Nemyryntsi
+48.1181|23.7659|Neresnytsya
+50.3400|26.6417|Netishyn
+48.6747|22.3881|Nevyts’ke
+44.5156|34.2384|Nikita
+44.9621|33.6106|Nikolayevka
+47.2500|37.2500|Nikolske
+47.5712|34.3964|Nikopol
+45.4479|34.7384|Nizhnegorskiy
+45.4843|34.7680|Nizhnegorskiy rayon
+51.0480|31.8869|Nizhyn
+50.9315|31.5828|Nosivka
+50.6922|28.6367|Nova Borova
+50.0283|27.7081|Nova Chortoriia
+46.7545|33.3486|Nova Kakhovka
+46.6000|33.2271|Nova Mayachka
+47.3078|31.7851|Nova Odesa
+48.5682|32.9027|Nova Praha
+49.3749|28.6995|Nova Pryluka
+48.8372|27.2743|Nova Ushytsya
+49.7190|35.8658|Nova Vodolaha
+48.4413|22.6216|Nove Davydkovo
+48.9811|29.8281|Nove-Misto
+52.0058|33.2615|Novhorod-Sivers’kyy
+48.3651|32.6579|Novhorodka
+51.0475|28.0519|Novi Bilokorovychi
+50.6275|30.4431|Novi Petrivtsi
+49.3354|34.3162|Novi Sanzhary
+45.9427|28.8563|Novi Troyany
+50.8697|29.3433|Novi Vorobyi
+45.1990|34.0938|Novoandreyevka
+48.6580|30.8182|Novoarkhanhel’s’k
+47.1139|38.0860|Novoazovs'k
+47.0852|35.3295|Novobohdanivka
+48.5830|27.4407|Novodnistrovs’k
+48.6353|36.9848|Novodonets’ke
+45.4996|34.2430|Novoestoniya
+46.1713|32.3178|Novofedorivka
+45.0947|33.5721|Novofedorovka
+45.4520|34.6038|Novogrigoryevka
+50.5833|27.6333|Novohrad-Volynskyi
+45.4491|33.0983|Novoivanovka
+45.7801|34.1554|Novokrymskoye
+48.6667|35.4167|Novomoskovsk
+48.6380|35.2455|Novomoskovs’k
+48.5562|34.3740|Novomykolayivka
+48.7811|31.6420|Novomyrhorod
+45.3085|36.0575|Novonikolayevka
+46.2247|34.6403|Novooleksiyivka
+51.2133|28.0019|Novoozerianka
+45.3831|33.1172|Novoozyornoye
+45.8663|33.8902|Novopavlovka
+45.1652|35.2530|Novopokrovka
+49.5464|39.0899|Novopskov
+45.4428|33.5979|Novoselovskoye
+48.2193|26.2653|Novoselytsya
+45.5036|32.7225|Novosel’skoye
+45.6621|34.3870|Novostepnoye
+44.9938|33.8353|Novosyolovka
+48.3263|31.5285|Novoukrayinka
+46.8302|35.7514|Novovasylivka
+50.7258|24.1626|Novovolyns’k
+47.5003|33.9175|Novovorontsovka
+49.9302|23.5736|Novoyavorivs'k
+45.1596|34.2327|Novozhilovka
+44.8309|34.9137|Novy Svet
+49.9044|24.3052|Novyi Yarychiv
+48.9635|24.3354|Novytsya
+47.6931|32.5216|Novyy Buh
+48.5158|33.1733|Novyy Starodub
+47.8059|38.0211|Novyy Svit
+51.5463|24.9102|Nuyno
+48.8149|25.5999|Nyrkiv
+51.3500|29.1167|Nyvky
+48.0285|25.7233|Nyzhni Petrivtsi
+46.8484|34.3804|Nyzhni Sirohozy
+49.5846|38.1743|Nyzhnya Duvanka
+48.1135|38.1606|Nyzhnya Krynka
+48.1991|23.4476|Nyzhnye Selyshche
+50.7828|34.7844|Nyzy
+48.7003|25.1701|Obertyn
+48.4051|29.2477|Obodivka
+49.7833|23.8667|Obroshyne
+50.1069|30.6185|Obukhiv
+50.1667|30.6667|Obukhiv Raion
+50.1142|30.6329|Obukhivs’ka Mis’krada
+46.6128|31.5498|Ochakiv
+49.7397|34.3591|Odariukivka
+46.4775|30.7326|Odesa
+45.2398|33.5941|Okhotnikovo
+45.4861|34.8640|Okhotskoye
+50.3104|34.8988|Okhtyrka
+47.5404|29.4600|Okny
+45.3621|36.3680|Oktyabr'skoye
+45.2887|34.1352|Oktyabr’skoye
+45.3685|32.7636|Okunevka
+47.1841|31.7937|Ol'shanskoye
+49.8860|34.5857|Olefirshchina
+48.9634|32.2349|Oleksandrivka
+48.6696|33.1159|Oleksandriya
+48.6077|32.9835|Oleksandriys’ke
+45.3833|32.5333|Olenevka
+48.1641|22.9617|Oleshnyk
+49.9623|24.8934|Olesko
+51.2278|27.6481|Olevsk
+51.2248|27.6523|Olevs’k
+50.7186|25.8125|Olyka
+51.2227|31.3331|Olyshivka
+49.8868|34.4600|Onatski
+48.6576|22.3418|Onokivtsi
+48.9072|33.4487|Onufriyivka
+49.9564|34.6120|Opishnia
+49.1889|29.5270|Orativ
+44.9640|35.3558|Ordzhonikidze
+45.1294|33.6318|Orekhovo
+47.5673|35.7858|Orikhiv
+44.4468|33.7759|Orlinoye
+45.8107|33.9731|Orlovskoye
+50.8000|26.1200|Orzhiv
+49.7910|32.7015|Orzhytsia
+45.3273|35.9130|Ostanino
+50.9506|30.8823|Oster
+50.3294|26.5143|Ostroh
+45.7423|34.0661|Ostrovskoye
+50.3273|26.5176|Ostroz’ka Mis’krada
+46.9136|36.8253|Osypenko
+48.7377|24.8611|Otyniya
+46.2500|30.4413|Ovidiopol
+51.3244|28.8081|Ovruch
+51.3333|28.8333|Ovruch Raion
+49.6289|25.3289|Ozerna
+45.4030|28.6755|Ozerne
+48.0159|38.0998|P'yatypill'ya
+45.8347|34.1613|Pakharevka
+48.6740|32.8841|Pantayivka
+48.9369|36.2756|Panyutyne
+44.5780|34.3446|Partenit
+44.8338|34.0847|Partizanskoye
+45.1437|35.1551|Partizany
+48.5868|34.8095|Partyzans’ke
+46.3338|34.7531|Partyzany
+46.7054|31.8971|Parutyne
+48.5715|24.4300|Pasichna
+49.6086|38.7092|Pavlivka
+48.5343|35.8710|Pavlohrad
+48.9176|33.3569|Pavlysh
+49.8692|29.4492|Pavoloch
+48.5155|24.8942|Pechenizhyn
+50.4190|30.5660|Pechersk
+48.7362|22.4820|Perechyn
+48.7500|22.6667|Perechyn Raion
+48.5355|30.5192|Perehonivka
+50.0674|31.4497|Pereiaslav-Khmelnytskyi
+50.0833|31.5000|Pereiaslav-Khmelnytskyi Raion
+49.6652|24.5585|Peremyshlyany
+50.0245|35.9787|Peresichna
+44.8484|34.3127|Pereval'noye
+48.4378|38.8438|Pereval’s’k
+44.9251|34.0575|Perovo
+50.2011|27.6339|Pershotravensk
+51.3892|28.8625|Pershotravneve
+49.4167|36.3333|Pervomaiskyi
+45.5983|33.8325|Pervomayskiy rayon
+45.7174|33.8560|Pervomayskoye
+48.6299|38.5481|Pervomays’k
+49.3874|36.2147|Pervomays’kyy
+48.1292|29.7309|Peschana
+44.8434|33.6092|Peschanoye
+48.9025|24.3035|Petranka
+49.7316|34.3376|Petrenki
+49.5312|25.5790|Petrikov
+49.1769|36.9000|Petrivs’ke
+48.4564|36.4367|Petropavlivka
+48.3247|33.2562|Petrove
+45.4978|34.2882|Petrovka
+48.7293|34.6336|Petrykivka
+48.6891|34.6110|Petrykivs’kyy Rayon
+48.4133|33.7106|Piatykhatky
+49.3348|23.2489|Pidbuzh
+49.2685|25.1334|Pidhaytsi
+49.9461|24.9795|Pidhirtsi
+48.1070|30.8895|Pidhorodna
+48.5753|35.1068|Pidhorodne
+49.9460|25.3167|Pidkamin’
+49.5347|26.1458|Pidvolochysk
+48.1395|22.9719|Pidvynohradiv
+44.8808|34.2019|Pionerskoye
+49.8553|34.6320|Pisarivshchina
+51.6093|23.8208|Pishcha
+50.6056|27.3169|Pishchiv
+50.6938|29.6193|Piskivka
+49.8832|36.0678|Pivdenne
+46.1006|29.7217|Plakhtiyivka
+44.8716|33.8561|Plodovoye
+49.7110|23.1383|Pnikut
+48.6178|24.5287|Pniv
+45.7011|34.4481|Pobednoye
+48.1658|30.5927|Pobugskoye
+50.0051|25.5118|Pochaiv
+45.9950|33.7659|Pochetnoye
+47.7164|29.5451|Podilsk
+47.7531|29.5321|Podil’s’k
+50.4500|30.5333|Podil’s’kyy Rayon
+50.5545|30.6445|Pohreby
+49.4864|29.2636|Pohrebyshche
+49.4813|29.2595|Pohrebyshchens’kyy Rayon
+49.9134|36.1751|Pokotylivka
+48.2820|37.1758|Pokrovsk
+48.2500|37.1667|Pokrovsk Raion
+50.2562|27.6952|Polianka
+47.4844|36.2536|Polohy
+50.1242|27.5109|Polonne
+49.5744|34.5686|Poltava
+45.3513|34.1837|Poltavka
+50.2584|27.6881|Polyanka
+44.7422|33.5891|Polyushko
+48.2422|31.4158|Pomichna
+49.6409|24.9307|Pomoriany
+50.1849|27.5363|Poninka
+48.6333|38.3780|Popasna
+49.9458|29.4594|Popilnia
+49.9167|29.5000|Popilnia Raion
+49.8228|34.3684|Popivka
+48.6876|24.2632|Porohy
+48.6683|22.7533|Poroshkovo
+44.8354|33.9616|Poshtove
+50.2080|23.5467|Potelych
+50.6197|28.9644|Potiivka
+44.9355|33.8711|Pozharskoye
+45.7790|33.8465|Pravda
+47.5719|35.8167|Preobrazhenka
+45.1190|35.4802|Primorskiy
+45.2699|36.3340|Priozyornoye
+45.1197|35.0596|Privetnoye
+50.3912|30.7800|Prolisky
+49.7863|34.5443|Proni
+45.6560|34.6984|Prostornoye
+44.9042|33.7811|Prudovoye
+45.2392|34.7022|Prudy
+50.2361|36.1683|Prudyanka
+46.6667|35.6667|Pryazovske
+50.1627|37.3452|Prykolotne
+50.5932|32.3876|Pryluky
+46.8333|36.2500|Prymorsk
+46.7348|36.3443|Prymors’k
+47.2593|35.3195|Pryshyb
+49.0150|38.3046|Pryvillya
+48.7209|33.0708|Pryyutivka
+45.6463|34.8377|Pshenichnoye
+50.6097|30.7177|Pukhivka
+50.5000|28.2500|Pulyny
+45.2037|34.9764|Pushkino
+49.7153|23.9129|Pustomyty
+48.0000|25.0000|Putyla
+51.3374|33.8707|Putyvl’
+45.3235|34.2552|Pyatikhatka
+48.6590|23.2835|Pylypets
+50.2406|32.5093|Pyriatyn
+48.8502|24.6550|Radcha
+46.5486|32.9279|Radens’k
+50.4947|29.2333|Radomyshl
+50.5000|29.2500|Radomyshl Raion
+50.1299|25.2558|Radyvyliv
+48.0526|24.2009|Rakhiv
+48.0833|24.3333|Rakhiv Raion
+51.6217|24.9243|Rakiv Lis
+48.4671|22.5969|Rakoshyno
+49.4998|23.2374|Ralivka
+51.6683|24.5303|Ratne
+51.7171|24.5196|Ratnivs’kyy Rayon
+50.2308|23.6283|Rava-Rus’ka
+45.6709|33.4408|Razdol’nenskiy rayon
+45.7708|33.4878|Razdol’noye
+48.2803|24.9333|Rechka
+45.4562|28.2791|Reni
+49.5636|34.0763|Reshetylivka
+50.2771|23.6462|Richky
+51.8010|31.0838|Ripky
+48.2474|31.7543|Rivne
+50.6130|26.2459|Rivnens’ka Mis’krada
+49.7986|23.5334|Rodatychi
+45.0430|33.9541|Rodnikovo
+48.3520|37.2060|Rodyns’ke
+49.6441|29.3608|Rohachi
+49.4090|24.6093|Rohatyn
+49.3802|24.5711|Rohatyns’kyy Rayon
+48.2102|23.1762|Rokosovo
+49.6867|30.4738|Rokytne
+49.7500|30.5000|Rokytne Raion
+50.1517|27.9392|Romaniv
+45.2565|33.2552|Romashkino
+50.7431|33.4828|Romens’ka Mis’krada
+50.7510|33.4747|Romny
+49.9949|33.3307|Romodan
+48.1199|25.7742|Ropcha
+45.6092|34.3799|Roshchino
+45.6519|34.1155|Roskoshnoye
+49.3709|30.1847|Roskoshnyy
+48.0833|39.3776|Roven’ky
+45.3513|34.3523|Rovnoye
+49.4614|24.0623|Rozdil
+46.8433|30.0792|Rozdil’na
+48.9358|24.1638|Rozhniativ
+48.3660|25.2258|Rozhniv
+48.7589|24.0759|Rozhnyativs’kyy Rayon
+50.9154|25.2691|Rozhyshche
+47.3848|37.0679|Rozivka
+47.4696|36.9719|Rozivs’kyy Rayon
+48.4896|39.2788|Rozkishne
+48.1497|38.5762|Rozsypne
+49.5032|23.9620|Rozvadiv
+49.0146|38.3891|Rubizhans’ka Mis’krada
+49.0123|38.3797|Rubizhne
+45.7856|33.6609|Ruch’i
+49.6531|23.4870|Rudky
+49.8333|23.9000|Rudne
+45.1237|34.4746|Rusakovka
+49.4170|31.9201|Ruska Poliana
+49.7228|29.2046|Ruzhyn
+49.7233|29.2214|Ruzhyn (settlement)
+44.7733|34.5961|Rybach'e
+46.6171|31.3499|Rybakivka
+49.3851|23.5566|Rykhtychi
+49.9689|31.0463|Rzhyshchiv
+45.3104|34.6526|Sadovoye
+48.5660|24.7882|Sadzhavka
+44.5836|33.6438|Sakharnaya Golovka
+49.1517|35.8720|Sakhnovshchyna
+45.1342|33.6000|Saki
+45.2780|33.5291|Sakskiy rayon
+46.1488|30.3460|Salhany
+49.5183|23.1975|Sambir
+46.0197|29.6657|Sarata
+51.3379|26.6019|Sarny
+47.1744|37.6927|Sartana
+45.5714|33.7873|Sary-Bash
+48.1322|30.0825|Savran
+49.4026|37.0627|Savyntsi
+49.8769|34.0071|Schyschaky
+51.6447|31.5650|Sedniv
+48.1453|37.2996|Selydivs’ka Mis’krada
+48.1471|37.3003|Selydove
+52.1783|32.5818|Semenivka
+45.2468|35.5650|Semisotka
+50.7263|30.9344|Semypolky
+50.2541|33.3525|Sencha
+45.7328|33.5155|Senokosnoye
+48.4559|27.7192|Serebriya
+45.6394|33.4963|Serebryanka
+48.5404|22.5070|Serednye
+47.9816|23.9104|Serednye Vodyane
+52.1890|34.0364|Seredyna-Buda
+46.0272|30.3768|Serhiyivka
+46.3009|29.0196|Serpneve
+44.5888|33.5224|Sevastopol
+46.1326|30.3860|Shabo
+48.0566|38.4383|Shakhtars’k
+51.5717|34.1217|Shalyhyne
+48.7559|28.0751|Sharhorod
+51.5021|23.9381|Shats’k
+51.5224|23.8652|Shats’kyy Rayon
+48.7396|39.2323|Shchastya
+44.9382|35.1580|Shchebetovka
+48.3949|37.7910|Shcherbynivka
+51.8186|31.9450|Shchors
+45.4299|35.8225|Shchyolkino
+49.6510|23.8743|Shchyrets
+45.1875|33.6881|Shelkovichnoye
+50.1855|27.0636|Shepetivka
+48.3320|24.9833|Sheshory
+50.4333|30.5167|Shevchenkivs’kyy Rayon
+49.6959|37.1735|Shevchenkove
+45.2003|34.0507|Shirokoye
+49.9567|23.5441|Shklo
+45.0576|33.8974|Shkol’noye
+47.6945|34.0312|Sholokhove
+51.8630|33.4698|Shostka
+49.0069|31.3947|Shpola
+45.2672|33.0869|Shtormovoye
+44.5677|33.6225|Shturmovoye
+50.1194|26.1167|Shumsk
+48.3768|25.7466|Shypyntsi
+47.6917|33.2572|Shyroke
+47.6667|33.3333|Shyroke Raion
+47.3805|30.1964|Shyryayeve
+50.2971|24.2046|Silets’
+44.4065|34.0070|Simeiz
+48.3264|39.5337|Simeykyne
+44.9572|34.1108|Simferopol
+44.9569|34.1022|Simferopol Raion
+45.2386|35.2466|Sinitsyno
+48.8670|38.1001|Sivers’k
+45.3489|33.8767|Sizovka
+46.1161|32.9112|Skadovs’k
+48.8515|26.1991|Skala-Podil’s’ka
+49.4273|25.9787|Skalat
+44.8169|33.9779|Skalistoye
+49.5373|22.9647|Skelivka
+49.2283|23.3502|Skhidnytsya
+49.0372|23.5135|Skole
+45.0754|33.8208|Skvortsovo
+49.7318|29.6657|Skvyra
+49.7418|29.7004|Skvyrs’kyy Rayon
+50.2104|36.1538|Slatyne
+45.7218|33.2369|Slavnoye
+48.8473|23.4459|Slavske
+50.3015|26.8651|Slavuta
+51.5225|30.7181|Slavutych
+45.7277|33.3216|Slavyanskoye
+47.8869|29.3461|Slobidka
+51.1981|33.6069|Sloboda
+49.5970|36.5262|Slobozhans’ke
+48.6978|38.9813|Slov`yanoserbsk
+51.3811|28.3544|Slovechne
+48.8667|37.6167|Sloviansk
+48.9167|37.5000|Sloviansk Raion
+49.2224|31.8871|Smila
+49.0681|34.4380|Smolovivshchina
+48.6615|26.5603|Smotrych
+50.2391|25.7658|Smyga
+48.4469|25.5694|Sniatyn
+47.0758|32.8052|Snihurivka
+48.0261|38.7722|Snizhne
+51.8333|32.0000|Snovs'kyy Rayon
+48.4767|25.4115|Snyatyns’kyy Rayon
+49.3360|28.6510|Sobolivka
+45.0898|33.9989|Sofiivka
+48.0487|33.8762|Sofiyivka
+50.4100|30.3672|Sofiyivska Borschagivka
+50.4744|24.2829|Sokal’
+49.7995|34.3625|Sokhatska Balka
+44.5504|33.9590|Sokolinoye
+48.4475|27.4168|Sokyryany
+48.6793|38.0890|Soledar
+44.8719|35.1062|Solnechnaya Dolina
+44.7868|33.6179|Solnechniy
+44.7472|34.5400|Solnechnogorskoye
+45.0477|34.0838|Solnechnoye
+50.4289|30.4514|Solomianka Rayon
+48.2081|34.8721|Solone
+48.1667|35.0000|Solone Raion
+49.7562|24.0103|Solonka
+49.9968|36.0346|Solonytsivka
+48.7021|24.4221|Solotvyn
+47.9460|23.8703|Solotvyno
+48.2923|39.7392|Sorokyne
+48.3333|39.7500|Sorokyns'kyi Rayon
+51.5239|32.4999|Sosnytsya
+45.3427|34.9246|Sovetskiy
+45.3152|34.9291|Sovietskyi
+45.9601|33.7715|Sovkhoznoye
+48.8899|24.0629|Spas
+48.6667|35.0538|Spas’ke
+50.6638|32.9187|Sribne
+45.3706|33.9488|Stakhanovka
+45.7081|34.5624|Stal’noye
+46.5691|32.1478|Stanislav
+48.6543|39.4794|Stanytsya Luhans’ka
+49.6032|27.6191|Stara Syniava
+51.4376|24.4400|Stara Vyzhivka
+48.8336|24.5243|Stari Bohorodchany
+48.2709|25.1729|Stari Kuty
+47.7504|38.0305|Starobesheve
+49.2783|38.9107|Starobil’s’k
+49.7576|27.2034|Starokostiantyniv
+46.3372|29.9853|Starokozache
+49.7104|24.1895|Staroye Selo
+45.0289|35.0917|Stary Krym
+49.9800|23.5585|Starychi
+50.2315|24.3770|Staryy Dobrotvir
+47.1615|37.4893|Staryy Krym
+49.9815|35.7590|Staryy Merchyk
+50.0762|36.7885|Staryy Saltiv
+49.4386|23.0006|Staryy Sambir
+49.3912|30.1902|Stavyshche
+50.0782|30.9038|Stayki
+49.4019|31.0976|Stebliv
+49.2942|23.5636|Stebnyk
+46.7949|29.9868|Stepanivka
+45.6521|33.7744|Stepnoye
+46.7039|30.0792|Stepove
+48.5277|25.5757|Stetseva
+48.1133|38.4925|Stizhkivs’ke
+45.3627|33.4958|Stolbovoye
+48.6040|22.2327|Storozhnytsya
+48.3925|22.5431|Strabychovo
+44.9497|34.1792|Strogonovka
+49.2622|23.8561|Stryi
+49.0911|37.4870|Studenok
+48.6555|32.5209|Subottsi
+44.8492|34.9747|Sudak
+49.7555|34.4916|Sudivka
+49.7889|23.3722|Sudova Vyshnya
+49.8243|23.8377|Sukhovolya
+50.9216|34.8003|Sumy
+48.2720|34.7276|Surs’ko-Mykhaylivka
+45.4990|33.6985|Susanino
+49.0425|28.4173|Sutysky
+46.0887|33.6880|Suvorovo
+45.2517|33.3719|Suvorovskoye
+48.5500|23.0000|Svaliava
+48.5485|22.9958|Svalyava
+48.9622|24.1966|Svarychiv
+49.4103|38.1504|Svatove
+48.0896|39.6524|Sverdlovs’k
+48.0685|39.5806|Sverdlovs’ka Mis’krada
+48.4337|38.2233|Svetlodarsk
+45.6332|34.6626|Svetloye
+49.0489|33.2411|Svitlovods’k
+51.4821|23.8590|Svityaz’
+49.0333|37.5667|Svyatogorsk
+50.4853|30.3805|Svyatoshyns’kyy Rayon
+47.0768|38.1560|Syedove
+48.9483|38.4917|Syevyerodonets’k
+48.3204|35.5179|Synel’nykove
+48.4875|23.6258|Synevyr
+48.5848|23.6891|Synevyrska Poliana
+44.9017|33.6764|Tabachnoye
+50.2783|27.5975|Tabory
+48.8888|30.6948|Talne
+44.6583|33.8093|Tankovoye
+50.3796|25.7084|Tarakaniv
+50.6458|27.5150|Taraschanka
+49.5583|30.4926|Tarashcha
+46.1864|29.1520|Tarutyne
+45.8373|29.6142|Tatarbunary
+48.3456|24.5784|Tatariv
+46.3631|30.6489|Tayirove
+47.2686|36.9811|Temriuk
+44.7430|33.6681|Tenistoye
+48.3124|39.5628|Teple
+46.5059|30.3252|Teplodar
+45.0324|33.6959|Teplovka
+48.6657|29.7450|Teplyk
+49.3019|25.7100|Terebovlya
+49.5534|25.5892|Ternopil
+44.5792|33.7510|Ternovka
+47.8305|36.1276|Ternuvate
+50.9892|33.9707|Terny
+46.9694|35.4210|Terpinnya
+49.3767|29.6647|Tetiiv
+48.0833|23.5833|Tiachiv
+48.8640|25.0033|Tlumach
+48.8292|25.0906|Tlumats’kyy Rayon
+45.2837|35.1524|Tokarevo
+47.2552|35.7124|Tokmak
+47.2500|35.7500|Tokmak Raion
+47.8157|34.7414|Tomakivka
+48.5426|28.5168|Tomashpil’
+49.6536|29.3133|Topory
+48.3987|37.8479|Toretsk
+48.3246|29.1475|Torkanivka
+48.7791|38.5790|Toshkivka
+48.8466|25.7262|Tovste
+50.4261|29.0800|Travneve
+50.4843|30.9030|Trebukhiv
+49.8414|34.4681|Troiany
+50.4848|34.9657|Trostyanets’
+44.9913|34.2031|Trudovoye
+49.2784|23.5062|Truskavets’
+50.1180|30.7814|Trypillia
+48.7575|38.9633|Tr’okhizbenka
+48.9370|34.4786|Tsarychanka
+48.9333|34.5304|Tsarychans’kyy Rayon
+45.9063|34.1806|Tselinnoye
+49.0791|29.8473|Tsibulev
+45.0866|34.3852|Tsvetochnoye
+49.1523|31.5374|Tsvitkove
+49.9948|31.5628|Tsybli
+48.3872|29.1029|Tsybulevka
+46.6184|32.7189|Tsyurupyns’k
+48.9122|23.4730|Tukhlia
+48.6745|28.8464|Tulchyn
+49.3479|28.7212|Turbiv
+44.6975|33.8301|Turgenevka
+49.1541|23.0297|Turka
+48.0118|23.5706|Tyachiv
+47.1841|35.1163|Tymoshivka
+50.6014|26.1849|Tynne
+48.4967|30.9423|Tyshkivka
+48.7717|24.6663|Tysmenychany
+48.9022|24.8448|Tysmenytsya
+48.9225|24.7449|Tysmenyts’kyy Rayon
+49.0140|28.5085|Tyvriv
+44.8215|33.6045|Uglovoye
+50.3681|23.7490|Uhniv
+48.9552|24.6929|Uhryniv
+44.8873|34.1397|Ukrainka
+45.0427|34.0031|Ukromnoye
+49.6951|28.1330|Ulaniv
+49.2338|23.6511|Ulychne
+48.7484|30.2218|Uman
+48.3211|39.8030|Uralo-Kavkaz
+45.0452|34.1351|Urozhaynoye
+46.9156|37.0996|Urzuf
+46.5330|30.6596|Usatove
+48.3908|39.1628|Uspenka
+47.9551|32.5367|Ustynivka
+49.7858|36.0753|Utkivka
+45.4511|34.7881|Uvarovka
+45.2626|35.6651|Uvarovo
+45.1977|33.2980|Uyutnoye
+48.6167|22.3000|Uzhgorod
+48.5833|22.3333|Uzhhorod
+49.8262|30.4149|Uzyn
+49.8360|35.6122|Valky
+48.5348|28.7436|Vapnyarka
+51.3509|25.8474|Varash
+50.4950|32.7197|Varva
+48.1221|22.7128|Vary
+48.3849|25.5102|Vashkivtsi
+49.8296|34.4520|Vasilivka
+45.1394|34.7229|Vasilyevka
+47.4369|35.2742|Vasylivka
+50.1869|30.3135|Vasylkiv
+50.1667|30.3333|Vasylkiv Raion
+49.8285|36.3269|Vasyshcheve
+49.0150|31.0621|Vatutine
+49.7481|34.4653|Velika Rudka
+49.8561|34.5831|Veliki Budishcha
+49.5236|25.7575|Velikiye Borki
+49.7944|33.7207|Velyka Bahachka
+47.2776|34.7062|Velyka Bilozerka
+50.5933|30.9031|Velyka Dymerka
+47.1757|33.9436|Velyka Lepetykha
+47.0797|29.8575|Velyka Mykhaylivka
+47.3197|33.3037|Velyka Oleksandrivka
+50.4243|35.4799|Velyka Pysarivka
+48.2319|22.7459|Velyki Berehy
+46.4868|32.9750|Velyki Kopani
+49.9714|28.2947|Velyki Korovyntsi
+50.6543|26.8663|Velyki Mezhyrichi
+50.0253|33.9477|Velyki Sorochyntsi
+47.2434|34.6614|Velykobilozers’kyy Rayon
+47.0125|29.6717|Velykoploske
+48.8883|22.4605|Velykyi Bereznyi
+48.9167|22.5833|Velykyi Bereznyi Raion
+50.0617|37.3837|Velykyy Burluk
+48.4709|24.9468|Velykyy Klyuchiv
+48.6118|27.7932|Vendychany
+49.4167|35.5333|Verbivka
+50.0475|23.4219|Verblyany
+48.7805|23.5155|Verchnia Rozhanka
+48.5465|25.7453|Verenchanka
+45.3055|33.5000|Veresayevo
+50.3822|27.3075|Veresna
+44.6893|33.7021|Verkhnesadovoye
+48.8285|30.0396|Verkhniachka
+49.1031|23.5910|Verkhnie Synevydne
+47.2505|34.3380|Verkhniy Rohachyk
+48.1616|24.9453|Verkhniy Yasenov
+50.8290|34.9586|Verkhnya Syrovatka
+49.8158|24.3033|Verkhnyaya Belka
+48.6524|34.3346|Verkhn’odniprovs’k
+44.6974|33.9870|Verkhorechye
+48.1557|24.7911|Verkhovyna
+44.8581|34.8795|Vesele
+49.7358|34.4973|Veselivka
+45.3773|33.2139|Veselovka
+47.3567|31.2349|Veselynove
+44.8456|33.6716|Vilino
+48.0000|35.4167|Vilniansk
+47.6365|34.8139|Vil’ne
+49.2353|28.4759|Vinnitskiy Rayon
+44.9813|33.7392|Vinnitskoye
+49.2328|28.4810|Vinnytsia
+44.4815|34.1297|Vinogradnoye
+45.3926|33.6467|Vinogradovo
+50.3411|27.7008|Virlya
+45.1451|34.5969|Vishennoye
+45.9597|33.9529|Vishnyovka
+48.4260|29.5429|Viytivka
+45.1476|33.5758|Vladimirovka
+45.1683|35.3766|Vladislavovka
+49.9025|34.4807|Vodiana Balka
+47.4875|34.4924|Vodyane
+45.8699|33.9914|Voinka
+47.6010|37.4967|Volnovakha
+49.5248|29.9122|Volodarka
+50.8525|24.3236|Volodymyr-Volynskyi
+51.4213|26.1447|Volodymyrets’
+48.1923|25.9307|Voloka
+48.7109|23.1851|Volovets
+48.7500|23.0833|Volovets Raion
+45.5657|34.3036|Vol’noye
+45.3289|33.2465|Vorobyovo
+48.2846|24.5654|Vorokhta
+50.2223|30.8997|Voronkov
+49.1095|28.6808|Voronovytsya
+51.1733|34.2192|Vorozhba
+50.5444|30.1531|Vorzel’
+45.5100|34.3935|Voskhod
+50.2908|36.9411|Vovchans’k
+45.3833|36.4374|Voykovo
+49.5513|23.1058|Voyutychi
+46.8717|35.4646|Voznesenka
+47.5649|31.3308|Voznesensk
+47.8620|30.5920|Vradiyivka
+48.3147|38.2742|Vuhlehirs’k
+49.8237|36.5026|Vvedenka
+45.4021|29.5860|Vylkove
+48.1091|22.8387|Vylok
+48.1414|23.0267|Vynohradiv
+48.1667|23.0000|Vynohradiv Raion
+45.6812|28.5714|Vynohradivka
+46.3696|32.9398|Vynohradove
+47.5685|34.8810|Vyshchetarasivka
+50.5833|30.5000|Vyshgorodskiy Rayon
+50.5848|30.4898|Vyshhorod
+48.0491|23.4211|Vyshkovo
+48.4361|33.9156|Vyshneve
+47.4919|33.5306|Vysokopillya
+49.8916|36.1217|Vysokyy
+48.2480|25.1945|Vyzhnytsya
+50.8000|28.0667|Yablunets
+48.4042|24.9387|Yabluniv
+48.3174|24.4845|Yablunytsya
+48.9425|25.7437|Yahil’nytsya
+50.2797|31.7625|Yahotyn
+50.2572|31.8946|Yahotyns’kyy Rayon
+46.6997|35.1592|Yakymivka
+46.5833|35.0000|Yakymivka Raion
+44.5022|34.1662|Yalta
+48.9897|24.7075|Yamnytsya
+51.9477|33.7876|Yampil’
+45.4347|34.2213|Yantarnoye
+48.3323|24.5743|Yaremchans’ks Mis’krada
+48.4516|24.5544|Yaremche
+45.6912|34.2632|Yarkoye
+45.2058|35.1985|Yarkoye Pole
+49.1924|26.8373|Yarmolyntsi
+50.5433|27.4661|Yarun
+48.2794|24.3604|Yasinya
+45.9410|34.3526|Yasnopolyanskoye
+48.1298|37.8594|Yasynuvata
+48.1667|37.8333|Yasynuvata Raion
+49.9386|23.3825|Yavoriv
+48.8038|32.4046|Yelyzavethradka
+45.5329|34.8962|Yemelyanovka
+50.8708|27.8028|Yemilchyne
+50.8735|27.8060|Yemil’chyne
+48.2333|38.2114|Yenakiyeve
+48.9906|30.9882|Yerky
+45.8536|34.4864|Yermakovo
+51.7701|34.0673|Yesman’
+45.2009|33.3665|Yevpatoriya
+48.0396|25.6623|Yizhivtsi
+49.0108|31.0880|Yurkivka
+48.8074|35.9132|Yur”yivs’kyy Rayon
+46.6221|31.1013|Yuzhne
+47.8178|31.1826|Yuzhnoukrains'k
+50.9703|27.4531|Zabaro-Davidivka
+48.4705|25.2857|Zabolotiv
+49.1938|35.2394|Zachepylivka
+49.2788|33.9114|Zadovga
+48.0488|28.8923|Zagnitkiv
+48.9184|24.6528|Zahvizdya
+47.3323|29.7590|Zakharivka
+50.4000|27.2842|Zakrinichchia
+49.1194|26.3376|Zakupne
+48.0310|38.8093|Zalesnoye
+44.8869|34.1017|Zalesye
+48.6433|25.7379|Zalishchyky
+51.2644|29.1981|Zalissia
+50.1500|28.5222|Zaliznia
+45.7489|28.6147|Zaliznychne
+46.1234|32.2989|Zaliznyy Port
+49.7919|25.3730|Zaliztsi
+50.2383|27.9681|Zaluzhne
+45.1582|33.2787|Zaozyornoye
+50.1906|29.3292|Zapadnia
+47.8229|35.1903|Zaporizhia
+47.8463|35.1682|Zaporiz’ka Mis’krada
+44.8505|34.2643|Zarechnoye
+49.7111|29.2289|Zarichchia
+48.5214|24.6486|Zarichchya
+51.8126|26.1290|Zarichne
+49.6533|29.1922|Zarudintsi
+48.5231|25.8437|Zastavna
+46.0725|30.4654|Zatoka
+47.3335|29.8733|Zatyshshya
+48.2135|30.0156|Zavallya
+45.8626|34.3916|Zavet-Leninskiy
+45.3270|34.8084|Zavetnoye
+50.4002|33.3908|Zavodske
+49.6636|25.7762|Zbarazh
+49.6648|25.1410|Zboriv
+51.2983|28.6458|Zbranki
+50.5206|26.2425|Zdolbuniv
+50.9069|27.8861|Zdorovets
+50.4961|26.2411|Zdovbytsya
+45.0125|34.4685|Zelenogorskoye
+44.5958|34.0092|Zelyonoye
+44.9744|34.8355|Zemlyanichnoye
+45.3236|34.4810|Zernovoye
+50.5028|31.7849|Zgurovka
+49.2454|30.1102|Zhashkiv
+44.7171|33.8042|Zheleznodorozhnoye
+45.3988|34.7578|Zhelyabovka
+45.2747|34.6578|Zhemchuzhina
+49.8989|28.9700|Zherdeli
+49.9139|27.5719|Zhitintsi
+49.0371|28.1120|Zhmerynka
+50.0583|23.9726|Zhovkva
+50.4044|27.8217|Zhovte
+48.3449|33.5037|Zhovti Vody
+50.2836|28.1064|Zhovtii Brid
+50.9275|28.3550|Zhupanivka
+50.4811|32.5949|Zhuravka
+45.1263|35.2151|Zhuravki
+45.2525|33.6410|Zhuravli
+45.1768|33.9968|Zhuravlyovka
+49.9794|28.7158|Zhurbintsi
+48.5497|26.4874|Zhvanets
+49.3847|24.1425|Zhydachiv
+50.2544|28.6578|Zhytomyr
+50.2500|28.5833|Zhytomyr Raion
+45.5080|33.5143|Zimino
+50.2081|34.3668|Zinkiv
+50.8561|28.6911|Zlobichi
+48.4852|31.5391|Zlynka
+49.6745|36.3477|Zmiyiv
+48.7128|32.6647|Znomenka
+50.2799|35.9818|Zolochiv
+49.6683|32.0405|Zolotonosha
+45.1277|34.9915|Zolotoye Pole
+48.9095|25.3393|Zolotyy Potik
+49.6492|29.2444|Zoriane
+45.5476|34.7103|Zorkino
+50.3942|28.6239|Zorokiv
+45.9908|29.6967|Zorya
+48.4119|38.6236|Zoryns’k
+50.7389|27.6489|Zosimivka
+50.9594|28.8172|Zubivshchina
+48.0114|38.2644|Zuhres
+45.0542|34.3215|Zuya
+49.0787|30.9675|Zvenihorodka
+51.1739|29.2465|Zvizdal
+45.2367|34.6499|Zybiny
+48.5853|38.9375|Zymohiria
+50.4719|31.7942|Z·hurivs’kyy Rayon
+49.4500|24.9333|Бережани

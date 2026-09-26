@@ -1,0 +1,12 @@
+-2.5967|29.7394|Butare
+-1.5763|30.0675|Byumba
+-2.4846|28.9075|Cyangugu
+-1.9365|29.8061|Eglise Catholique Centrale GIKO
+-1.7028|29.2564|Gisenyi
+-2.0744|29.7567|Gitarama
+-2.1597|30.5427|Kibungo
+-2.0603|29.3478|Kibuye
+-1.9500|30.0588|Kigali
+-1.4998|29.6350|Musanze
+-2.4790|29.5564|Nzega
+-1.9487|30.4347|Rwamagana

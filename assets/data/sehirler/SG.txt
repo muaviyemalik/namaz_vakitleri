@@ -1,0 +1,26 @@
+1.3698|103.8461|Ang Mo Kio
+1.3236|103.9273|Bedok
+1.3496|103.7528|Bukit Batok
+1.3786|103.7626|Bukit Panjang
+1.3294|103.8021|Bukit Timah
+1.2780|103.8520|Downtown Core
+1.3182|103.8871|Geylang
+1.3736|103.8867|Hougang
+1.3396|103.7073|Jurong West
+1.3106|103.8660|Kallang
+1.3030|103.9072|Marine Parade
+1.3201|103.8439|Novena
+1.3036|103.8318|Orchard Road
+1.2819|103.8390|Outram
+1.3739|103.9493|Pasir Ris
+1.4051|103.9023|Punggol
+1.3049|103.8520|Rochor
+1.4491|103.8201|Sembawang
+1.3901|103.8952|Sengkang
+1.3496|103.8737|Serangoon
+1.2897|103.8501|Singapore
+1.3547|103.9437|Tampines
+1.2764|103.8434|Tanjong Pagar
+1.3354|103.8497|Toa Payoh
+1.4380|103.7888|Woodlands
+1.4293|103.8355|Yishun

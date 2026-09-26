@@ -1,0 +1,13 @@
+17.3500|-62.7333|Cayon
+17.1333|-62.6167|Charlestown
+17.1667|-62.6167|Cotton Ground
+17.4147|-62.8139|Dieppe Bay Town
+17.1262|-62.6026|Fig Tree
+17.1322|-62.5727|Market Shop
+17.3259|-62.8105|Middle Island
+17.3233|-62.7291|Monkey Hill
+17.2000|-62.5833|Newcastle
+17.3796|-62.7532|Nicola Town
+17.4061|-62.8356|Saint Paul’s
+17.3591|-62.8486|Sandy Point Town
+17.3004|-62.7758|Trinity

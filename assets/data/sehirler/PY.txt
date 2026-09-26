@@ -1,0 +1,151 @@
+-26.0333|-55.9333|Abaí
+-25.9167|-57.1500|Acahay
+-19.9838|-59.7584|Agua Dulce de Santa María
+-25.2626|-57.2544|Altos
+-24.0853|-57.2022|Antequera
+-25.3125|-57.3847|Areguá
+-26.4833|-55.2500|Arquitecto Tomás Romero Pereira
+-25.0548|-57.0987|Arroyos y Esteros
+-25.2788|-57.1719|Atyrá
+-20.2286|-58.1678|Bahía Negra
+-22.1333|-56.5167|Bella Vista
+-23.4661|-57.2619|Belén
+-24.9667|-57.5667|Benjamín Aceval
+-26.1839|-56.0817|Buena Vista
+-25.3858|-57.1422|Caacupé
+-25.4710|-56.0160|Caaguazú
+-26.2352|-57.1821|Caapucú
+-26.1958|-56.3681|Caazapá
+-25.3552|-57.4455|Capiatá
+-23.2667|-55.5333|Capitán Bado
+-21.6783|-57.9146|Capitán Carmelo Peralta
+-27.2000|-55.8000|Capitán Miranda
+-19.9167|-60.7833|Capitán Pablo Lagerenza
+-24.8000|-56.0333|Capiíbary
+-25.2384|-56.8269|Caraguatay
+-25.8000|-57.2333|Carapeguá
+-25.1975|-56.3988|Carayaó
+-27.2223|-56.1524|Carmen del Paraná
+-25.0716|-56.2439|Cecilio Baez
+-25.6567|-54.7227|Cedrales
+-27.3422|-57.6412|Cerrito
+-25.5097|-54.6111|Ciudad del Este
+-26.3985|-54.7569|Colonia Carlos Antonio López
+-24.1333|-54.6167|Colonia Catuete
+-25.3639|-55.7069|Colonia General Alfredo Stroessner
+-25.5667|-56.2833|Colonia Mauricio José Troche
+-22.3667|-59.8167|Colonia Menno
+-24.8667|-54.9000|Colonia Minga Porá
+-22.6667|-60.1167|Colonia Neuland
+-23.9114|-56.7009|Colonia Nueva Germania
+-26.4932|-54.7999|Colonia San Lorenzo
+-23.3999|-57.4324|Concepción
+-25.7586|-56.6168|Coronel Martínez
+-25.4444|-56.4403|Coronel Oviedo
+-24.0804|-54.9393|Corpus Christi
+-25.4305|-55.2541|Doctor Juan León Mallorquín
+-25.3838|-55.8321|Doctor Juan Manuel Frutos
+-26.7673|-55.2787|Edelira
+-25.1500|-57.3500|Emboscada
+-27.3306|-55.8667|Encarnación
+-25.3828|-56.9609|Eusebio Ayala
+-25.3386|-57.5217|Fernando de la Mora
+-22.3394|-60.0316|Filadelfia
+-22.7833|-59.9500|Fortín Boquerón
+-20.5167|-62.1333|Fortín General Eugenio Garay
+-26.9833|-55.8833|Fram
+-21.0415|-57.8738|Fuerte Olimpo
+-26.9352|-56.2217|General Artigas
+-27.0905|-56.5247|General Delgado
+-24.4442|-56.9006|General Elizardo Aquino
+-25.9500|-55.9167|General Higinio Morínigo
+-27.2014|-58.3674|General José Eduvigis Díaz
+-25.4910|-57.4557|Guarambaré
+-24.5333|-56.4333|Guayaybi
+-27.0731|-55.6425|Hohenau
+-23.3428|-57.0597|Horqueta
+-25.6910|-56.2678|Independencia
+-25.3085|-56.8999|Isla Pucú
+-25.4616|-56.8533|Itacurubí de la Cordillera
+-24.5354|-56.8235|Itacurubí del Rosario
+-24.9861|-55.1496|Itakyry
+-25.8517|-56.6138|Itapé
+-25.3926|-57.3542|Itauguá
+-26.0551|-56.4846|Iturbe
+-25.5005|-57.3672|Itá
+-27.0560|-55.7413|Jesús
+-27.3866|-56.8472|Juan de Ayolas
+-25.4439|-57.4430|Julián Augusto Saldívar
+-25.8863|-56.8408|La Colmena
+-24.1296|-54.6138|La Paloma
+-25.3468|-57.6065|Lambaré
+-23.8833|-56.4822|Lima
+-25.1661|-57.4856|Limpio
+-25.2665|-57.4927|Luque
+-25.2079|-57.5320|Mariano Roque Alonso
+-22.0306|-60.6111|Mariscal José Félix Estigarribia
+-25.7194|-56.4218|Mbocayaty
+-24.9752|-56.3093|Mbutuý
+-26.2192|-56.7578|Mbuyapey
+-25.2793|-57.7031|Nanawua
+-25.9667|-55.1833|Naranjal
+-25.6333|-56.3000|Natalicio Talavera
+-26.7570|-55.1378|Natalio
+-25.3949|-57.5357|Nemby
+-24.5076|-54.8551|Nueva Esperanza
+-25.6108|-57.4656|Nueva Italia
+-27.0333|-55.6333|Obligado
+-25.6208|-57.1472|Paraguarí
+-22.5472|-55.7333|Pedro Juan Caballero
+-26.8587|-58.3064|Pilar
+-26.8601|-55.5436|Pirapó
+-25.4841|-57.2349|Pirayú
+-25.4650|-57.0418|Piribebuy
+-25.5638|-54.6110|Presidente Franco
+-22.2900|-57.9400|Puerto Casado
+-26.4000|-54.7000|Puerto Mayor Otaño
+-24.4413|-57.1427|Puerto Rosario
+-25.9761|-57.2335|Quiindy
+-25.5333|-55.9500|Repatriación
+-24.0625|-54.3069|Salto del Guairá
+-24.9667|-54.9000|San Alberto
+-25.4213|-57.5472|San Antonio
+-25.3107|-57.2963|San Bernardino
+-27.3174|-56.3309|San Cosme y Damián
+-24.4718|-55.6923|San Isidro de Curuguaty
+-25.0285|-56.0428|San Joaquín
+-25.5333|-56.7333|San José
+-26.6694|-57.1458|San Juan Bautista
+-27.3017|-55.9651|San Juan del Paraná
+-26.1123|-55.9386|San Juan Nepomuceno
+-25.3397|-57.5088|San Lorenzo
+-26.5000|-57.0500|San Miguel
+-26.9667|-56.8167|San Patricio
+-24.0853|-57.0874|San Pedro de Ycuamandiyú
+-26.8327|-56.2058|San Pedro del Paraná
+-25.4133|-56.7971|Santa Elena
+-26.7833|-56.9333|Santa María
+-25.7833|-55.0667|Santa Rita
+-26.8873|-56.8490|Santa Rosa Misiones
+-27.1431|-56.7680|Santiago
+-25.6665|-56.9522|Sapucaí
+-23.4500|-56.5833|Tacuatí
+-25.2611|-57.0833|Tobatí
+-27.1167|-55.7833|Trinidad
+-24.8079|-56.5215|Unión
+-25.3676|-57.5927|Villa Elisa
+-26.3833|-57.1500|Villa Florida
+-25.0931|-57.5236|Villa Hayes
+-26.0200|-57.8700|Villa Oliva
+-25.7495|-56.4352|Villarrica
+-25.5045|-57.5694|Villeta
+-25.5614|-57.2834|Yaguarón
+-24.8333|-56.3500|Yataity del Norte
+-26.0167|-57.0500|Ybycuí
+-26.4500|-56.4000|Yegros
+-24.1237|-55.6442|Ygatimi
+-25.4619|-55.0001|Yguazú
+-25.0578|-55.9227|Yhú
+-25.4078|-57.2889|Ypacarai
+-25.4574|-57.5093|Ypané
+-26.6147|-56.2461|Yuty

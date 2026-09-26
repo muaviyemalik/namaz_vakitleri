@@ -1,0 +1,100 @@
+13.5928|-89.8275|Acajutla
+13.9572|-89.1897|Aguilares
+13.9214|-89.8450|Ahuachapán
+13.7406|-87.8736|Anamorós
+13.6649|-89.2532|Antiguo Cuscatlán
+13.6667|-88.7833|Apastepeque
+13.8072|-89.1792|Apopa
+13.7436|-89.4989|Armenia
+13.9769|-89.7525|Atiquizaya
+13.7456|-89.2064|Ayutuxtepeque
+13.5000|-88.5333|Berlín
+13.7667|-88.0833|Cacaopera
+14.1167|-89.6500|Candelaria de La Frontera
+14.0333|-88.9333|Chalatenango
+13.9867|-89.6811|Chalchuapa
+13.6333|-88.2667|Chapeltique
+13.5000|-88.3500|Chinameca
+13.2203|-88.1386|Chirilagua
+13.8403|-89.4472|Ciudad Arce
+13.7667|-88.2667|Ciudad Barrios
+13.9286|-89.5042|Coatepeque
+13.7167|-88.9333|Cojutepeque
+13.3500|-88.3667|Concepción Batres
+13.8703|-89.8486|Concepción de Ataco
+13.3078|-87.8647|Conchagua
+13.8108|-87.9714|Corinto
+13.7361|-89.1814|Cuscatancingo
+13.7242|-89.1703|Delgado
+13.9089|-89.4958|El Congo
+13.9736|-89.2186|El Paisnal
+13.4978|-89.0297|El Rosario
+13.3500|-88.3500|El Tránsito
+13.6667|-88.2000|Guatajiagua
+13.7503|-89.8422|Guaymango
+13.8769|-89.1731|Guazapa
+13.7017|-89.1094|Ilopango
+13.1969|-88.0544|Intipucá
+13.7447|-89.6731|Izalco
+13.3167|-88.5833|Jiquilisco
+13.6167|-88.0167|Jocoro
+13.8414|-89.7456|Juayúa
+13.5167|-88.3833|Jucuapa
+13.2539|-88.2478|Jucuarán
+13.7869|-89.8572|Jujutla
+13.4883|-89.3222|La Libertad
+13.3369|-87.8439|La Unión
+13.5500|-88.3500|Lolotique
+13.7403|-89.2131|Mejicanos
+14.3333|-89.4500|Metapán
+13.5333|-88.2500|Moncagua
+13.7775|-89.7367|Nahuizalco
+14.1333|-89.3000|Nueva Concepción
+13.7836|-87.8386|Nueva Esparta
+13.5333|-88.3500|Nueva Guadalupe
+13.6486|-89.2653|Nuevo Cuscatlán
+13.5697|-89.1172|Olocuilta
+13.3833|-88.5000|Ozatlán
+13.6128|-89.1800|Panchimalco
+13.5844|-87.8411|Pasaquina
+13.2833|-88.5500|Puerto El Triunfo
+13.8312|-89.2722|Quezaltepeque
+13.5753|-89.2089|Rosario de Mora
+13.4333|-88.6000|San Agustín
+13.4314|-87.9631|San Alejo
+13.7164|-89.7383|San Antonio del Monte
+13.7000|-88.1000|San Francisco
+13.8431|-90.0158|San Francisco Menéndez
+13.8761|-89.3597|San Juan Opico
+13.6589|-89.1831|San Marcos
+13.7833|-88.9167|San Martín
+13.4833|-88.1833|San Miguel
+13.9756|-89.3400|San Pablo Tacachico
+13.5436|-89.0386|San Pedro Masahuat
+13.3833|-88.3500|San Rafael Oriente
+13.6893|-89.1872|San Salvador
+13.7333|-88.8333|San Sebastián
+13.6333|-88.8000|San Vicente
+13.9942|-89.5597|Santa Ana
+13.3833|-88.4167|Santa Elena
+13.6247|-87.8936|Santa Rosa de Lima
+13.6769|-89.2797|Santa Tecla
+13.4833|-88.4667|Santiago de María
+13.5167|-88.9500|Santiago Nonualco
+13.6408|-89.1333|Santo Tomás
+13.8667|-88.6333|Sensuntepeque
+13.7167|-88.3667|Sesori
+13.7000|-88.0167|Sociedad
+13.7189|-89.7242|Sonsonate
+13.7342|-89.7147|Sonzacate
+13.7102|-89.1399|Soyapango
+13.9381|-89.0278|Suchitoto
+13.9011|-89.9297|Tacuba
+13.7892|-89.0053|Tecoluca
+13.8333|-88.9833|Tenancingo
+14.1333|-89.5000|Texistepeque
+13.7811|-89.1186|Tonacatepeque
+13.3500|-88.4500|Usulután
+13.9500|-88.6333|Victoria
+13.5000|-88.8667|Zacatecoluca
+13.5894|-89.2889|Zaragoza

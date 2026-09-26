@@ -1,0 +1,135 @@
+9.5545|-69.1956|Acarigua
+9.8600|-66.3814|Altagracia de Orituco
+8.5931|-70.2261|Alto Barinas
+9.4296|-64.4643|Anaco
+9.4559|-64.8293|Aragua de Barcelona
+9.5814|-69.2385|Araure
+10.1363|-64.6862|Barcelona
+8.6226|-70.2075|Barinas
+8.7617|-70.4120|Barinitas
+10.0647|-69.3570|Barquisimeto
+10.4342|-66.8756|Baruta
+9.2538|-70.2511|Boconó
+10.3991|-71.4521|Cabimas
+10.0266|-69.2620|Cabudare
+10.1863|-67.4594|Cagua
+8.9242|-67.4293|Calabozo
+9.3057|-64.3584|Cantaura
+10.6122|-66.8519|Caraballeda
+10.5000|-66.9333|Caracas
+10.1113|-63.0999|Caripito
+10.1728|-70.0810|Carora
+10.3498|-66.9863|Carrizal
+10.6652|-63.2539|Carúpano
+10.6054|-67.0324|Catia La Mar
+10.3578|-66.8025|Caucaguita
+10.4867|-66.7380|Caucagüito
+10.4958|-66.8537|Chacao
+10.2425|-66.8572|Charallave
+10.9287|-68.2728|Chichiriviche
+10.1595|-68.8945|Chivacoa
+8.1292|-63.5409|Ciudad Bolívar
+8.3512|-62.6410|Ciudad Guayana
+10.2016|-71.3148|Ciudad Ojeda
+8.0313|-72.2605|Colón
+11.4045|-69.6734|Coro
+10.4540|-64.1826|Cumaná
+10.1624|-66.8825|Cúa
+8.5466|-71.2409|Ejido
+10.4654|-66.8295|El Cafetal
+10.4241|-66.8258|El Hatillo
+10.3059|-67.6321|El Limón
+8.8890|-64.2527|El Tigre
+9.7871|-69.7929|El Tocuyo
+8.6135|-71.6570|El Vigía
+10.2261|-67.8770|Guacara
+9.0418|-69.7421|Guanare
+10.4703|-66.6193|Guarenas
+10.4740|-66.5424|Guatire
+10.0834|-67.7780|Güigüe
+10.5772|-62.2984|Güiria
+11.0817|-63.9655|Juan Griego
+11.0333|-63.8628|La Asunción
+10.4883|-66.7861|La Dolorita
+8.2152|-72.2489|La Fría
+8.1332|-71.9839|La Grita
+10.6016|-66.9329|La Guaira
+10.2268|-67.3312|La Victoria
+10.3258|-72.3134|La Villa del Rosario
+10.1301|-71.2595|Lagunillas
+10.2542|-67.1733|Las Tejerías
+10.4939|-66.8286|Los Dos Caminos
+10.1893|-67.9383|Los Guayos
+10.0259|-69.2417|Los Rastrojos
+10.3445|-67.0433|Los Teques
+10.0608|-72.5521|Machiques
+10.5945|-66.9562|Maiquetía
+10.6666|-71.6124|Maracaibo
+10.2354|-67.5911|Maracay
+10.2953|-67.7177|Mariara
+2.7188|-67.5605|Maroa
+9.7457|-63.1832|Maturín
+10.4871|-68.2008|Morón
+8.4167|-71.1333|Mucumpiz
+2.7346|-64.8303|Municipio Autónomo Alto Orinoco
+8.6150|-70.1985|Municipio Barinas
+10.3347|-68.7555|Municipio Independencia
+7.7387|-64.7188|Municipio José Gregorio Monagas
+8.0351|-72.0567|Municipio José María Vargas
+8.3333|-71.1167|Municipio Libertador
+11.8231|-70.2535|Municipio Los Taques
+9.4000|-63.0333|Municipio Maturín
+11.3167|-69.8667|Municipio Miranda
+8.0245|-61.8819|Municipio Padre Pedro Chien
+9.4115|-70.4959|Municipio Pampanito
+9.3076|-70.5897|Municipio San Rafael de Carvajal
+8.9996|-62.3516|Municipio Uracoa
+10.5794|-62.3003|Municipio Valdez
+8.5897|-71.1561|Mérida
+10.1504|-68.5648|Nirgua
+10.1182|-66.7751|Ocumare del Tuy
+9.5971|-65.1935|Onoto
+10.1739|-67.5419|Palo Negro
+10.4768|-66.8079|Petare
+10.9577|-63.8697|Porlamar
+5.6605|-67.5834|Puerto Ayacucho
+10.4731|-68.0125|Puerto Cabello
+10.2138|-64.6328|Puerto La Cruz
+10.0590|-65.0370|Puerto Píritu
+11.6581|-70.2150|Punta Cardón
+11.6915|-70.1992|Punto Fijo
+9.9287|-69.6201|Quíbor
+7.7013|-72.3557|Rubio
+10.3885|-66.9518|San Antonio de Los Altos
+7.8145|-72.4431|San Antonio del Táchira
+9.6612|-68.5827|San Carlos
+1.9203|-67.0609|San Carlos de Río Negro
+9.0010|-71.9268|San Carlos del Zulia
+7.7669|-72.2250|San Cristóbal
+10.3399|-68.7425|San Felipe
+7.8727|-67.4819|San Fernando de Apure
+4.0456|-67.6993|San Fernando de Atabapo
+10.2606|-67.7935|San Joaquín
+8.8872|-64.1651|San José de Guanipa
+9.9115|-67.3538|San Juan de los Morros
+5.3266|-66.0540|San Juan de Manapiare
+10.2130|-67.4236|San Mateo
+4.6023|-61.1103|Santa Elena de Uairén
+10.2054|-67.5595|Santa Rita
+10.2329|-66.6647|Santa Teresa del Tuy
+10.0862|-67.9198|Tacarigua
+9.9186|-68.3047|Tinaquillo
+10.1135|-68.0678|Tocuyito
+9.3658|-70.4369|Trujillo
+10.7901|-68.3256|Tucacas
+9.0581|-62.0500|Tucupita
+10.2286|-67.4742|Turmero
+7.8188|-72.2243|Táriba
+8.0162|-62.4056|Upata
+10.1620|-68.0076|Valencia
+9.3178|-70.6036|Valera
+9.2155|-66.0073|Valle de La Pascua
+9.3319|-69.1197|Villa Bruzual
+10.0386|-67.4894|Villa de Cura
+10.0808|-69.1242|Yaritagua
+9.3503|-65.3245|Zaraza

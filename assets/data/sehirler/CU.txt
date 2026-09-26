@@ -1,0 +1,185 @@
+22.2780|-80.5693|Abreus
+22.3852|-80.8479|Aguada de Pasajeros
+22.7672|-81.5680|Alacranes
+23.1579|-82.2784|Alamar
+22.8052|-82.5839|Alquízar
+20.8191|-77.5796|Amancio
+23.0368|-82.3694|Arroyo Naranjo
+22.8167|-82.7594|Artemisa
+22.9033|-83.1599|Bahía Honda
+20.9612|-75.7220|Banes
+20.3471|-74.4962|Baracoa
+21.6822|-78.6257|Baraguá
+20.1664|-76.9429|Bartolomé Masó
+22.7179|-82.2896|Batabanó
+22.9823|-82.5472|Bauta
+20.3742|-76.6436|Bayamo
+22.9286|-82.3886|Bejucal
+22.7631|-81.4478|Bolondrón
+23.0072|-82.4017|Boyeros
+22.0787|-79.4973|Cabaiguán
+22.9794|-82.9221|Cabañas
+20.7377|-76.3257|Cacocum
+22.5200|-79.4660|Caibarién
+22.6452|-79.8951|Calabazar de Sagua
+22.5342|-80.9111|Calimete
+21.3808|-77.9169|Camagüey
+22.4833|-79.7500|Camajuaní
+20.2333|-77.2799|Campechuela
+22.7406|-82.9591|Candelaria
+20.5571|-76.4727|Cauto Cristo
+23.1383|-82.3642|Centro Habana
+23.1086|-82.3778|Cerro
+22.1953|-78.9123|Chambas
+21.8400|-78.7619|Ciego de Ávila
+22.1496|-80.4466|Cienfuegos
+22.6493|-80.0494|Cifuentes
+22.0192|-78.7036|Ciro Redondo
+20.9881|-77.4260|Colombia
+22.7206|-80.9049|Colón
+21.8767|-79.8401|Condado
+22.5042|-83.5144|Consolación del Sur
+20.2988|-76.2451|Contramaestre
+22.9821|-80.5856|Corralillo
+22.3420|-80.2702|Cruces
+20.6486|-75.9297|Cueto
+22.1525|-80.2035|Cumanayagua
+23.0366|-81.2060|Cárdenas
+23.0881|-82.3597|Diez de Octubre
+21.3000|-78.4833|El Caney
+20.0485|-75.9458|El Cobre
+22.6180|-79.8660|Encrucijada
+21.8514|-78.1172|Esmeralda
+22.4468|-80.0971|Esperanza
+22.1461|-78.9733|Florencia
+21.5254|-78.2258|Florida
+22.1047|-79.7214|Fomento
+21.1099|-76.1315|Gibara
+23.1236|-82.3008|Guanabacoa
+22.9264|-82.6875|Guanajay
+22.2018|-84.0848|Guane
+20.1444|-75.2092|Guantánamo
+22.0496|-79.4611|Guayos
+20.2549|-76.5393|Guisa
+21.0522|-77.3499|Guáimaro
+22.8373|-82.0264|Güines
+22.7961|-82.5067|Güira de Melena
+23.1592|-82.3306|Habana del Este
+23.1330|-82.3830|Havana
+20.8872|-76.2631|Holguín
+22.9392|-80.0118|Isabela de Sagua
+22.5269|-81.1286|Jagüey Grande
+22.9756|-82.1685|Jamaica
+23.0442|-82.0092|Jaruco
+21.9433|-79.1691|Jatibonico
+21.1614|-76.4792|Jesús Menéndez
+20.3679|-76.4274|Jiguaní
+21.2422|-77.8263|Jimaguayú
+20.9692|-76.2994|Jobabo
+22.8038|-81.1913|Jovellanos
+23.1303|-82.3531|La Habana Vieja
+22.8720|-82.4233|La Salud
+21.7724|-79.2683|La Sierpe
+22.4148|-80.2931|Lajas
+20.9617|-76.9511|Las Tunas
+22.9504|-81.4106|Limonar
+22.7297|-80.7208|Los Arabos
+22.5888|-83.2467|Los Palacios
+22.9100|-81.8564|Madruga
+20.2467|-74.1518|Maisí
+21.3107|-76.9340|Manatí
+22.5873|-80.9145|Manguito
+22.1502|-79.9787|Manicaragua
+22.2906|-84.2860|Mantua
+20.3417|-77.1213|Manzanillo
+22.9893|-82.7538|Mariel
+22.9471|-80.9190|Martí
+23.0411|-81.5775|Matanzas
+20.1430|-77.4353|Media Luna
+21.4880|-77.6103|Minas
+22.5869|-83.9455|Minas de Matahambre
+20.6578|-74.9507|Moa
+22.1077|-78.6267|Morón
+22.1923|-80.7147|Municipio de Abreus
+22.7738|-82.8042|Municipio de Artemisa
+20.9801|-75.7493|Municipio de Banes
+22.9696|-82.5000|Municipio de Bauta
+20.4251|-76.6861|Municipio de Bayamo
+22.0833|-79.5000|Municipio de Cabaiguán
+21.8500|-78.7667|Municipio de Ciego de Ávila
+22.1500|-80.4500|Municipio de Cienfuegos
+22.4410|-83.4198|Municipio de Consolación del Sur
+22.9898|-81.2352|Municipio de Cárdenas
+21.4658|-78.3485|Municipio de Florida
+22.8922|-82.7087|Municipio de Guanajay
+22.2459|-84.0366|Municipio de Guane
+20.2672|-75.1555|Municipio de Guantánamo
+22.7871|-82.0160|Municipio de Güines
+20.9119|-76.2706|Municipio de Holguín
+21.9333|-79.1667|Municipio de Jatibonico
+22.7500|-83.5500|Municipio de La Palma
+22.5833|-83.2500|Municipio de Los Palacios
+20.2473|-77.1027|Municipio de Manzanillo
+22.9652|-82.8032|Municipio de Mariel
+23.0500|-81.5833|Municipio de Matanzas
+22.7882|-82.1511|Municipio de Melena del Sur
+22.2998|-78.5687|Municipio de Morón
+19.9391|-77.5708|Municipio de Niquero
+21.5500|-77.2667|Municipio de Nuevitas
+20.2090|-76.0578|Municipio de Palma Soriano
+22.2225|-79.7427|Municipio de Placetas
+22.7145|-83.0456|Municipio de San Cristóbal
+21.8218|-79.5104|Municipio de Sancti Spíritus
+22.4000|-79.9667|Municipio de Santa Clara
+20.0062|-75.7082|Municipio de Santiago de Cuba
+21.8319|-79.8836|Municipio de Trinidad
+20.0470|-77.5809|Niquero
+21.8867|-82.8056|Nueva Gerona
+21.5459|-77.2650|Nuevitas
+20.2113|-75.9936|Palma Soriano
+22.2413|-80.3911|Palmira
+22.7271|-81.2896|Pedro Betancourt
+22.7699|-81.0183|Perico
+22.4167|-83.6967|Pinar del Río
+22.3118|-79.6544|Placetas
+21.9450|-78.4313|Primero de Enero
+22.7704|-83.7314|Puerto Esperanza
+21.1952|-76.6036|Puerto Padre
+22.7882|-80.2523|Quemado de Güines
+22.8231|-82.3556|Quivicán
+22.8804|-80.3910|Rancho Veloz
+22.3727|-80.1505|Ranchuelo
+23.1250|-82.3319|Regla
+22.3418|-80.5560|Rodas
+20.5597|-76.9167|Río Cauto
+20.3667|-75.0167|Río Guayabal de Yateras
+20.5827|-75.2412|Sagua de Tánamo
+22.8067|-80.0756|Sagua la Grande
+22.8902|-82.5010|San Antonio de los Baños
+20.0556|-74.8075|San Antonio del Sur
+22.7166|-83.0565|San Cristobal
+22.6467|-83.3697|San Diego de Los Baños
+20.6001|-76.1336|San Germán
+22.9614|-82.1511|San José de las Lajas
+22.2790|-83.7596|San Luis
+23.0664|-82.2947|San Miguel del Padrón
+22.7844|-81.9133|San Nicolás de Bari
+21.9297|-79.4425|Sancti Spíritus
+22.4069|-79.9647|Santa Clara
+23.1542|-81.9256|Santa Cruz del Norte
+20.7163|-77.9982|Santa Cruz del Sur
+20.0208|-75.8267|Santiago de Cuba
+22.9700|-82.3869|Santiago de las Vegas
+22.5868|-80.2426|Santo Domingo
+21.2363|-77.5256|Sibanicú
+22.8000|-83.0167|Soroa
+21.9152|-80.0193|Topes de Collantes
+21.8022|-79.9847|Trinidad
+22.7950|-81.5362|Unión de Reyes
+23.1568|-81.2444|Varadero
+21.7375|-78.7934|Venezuela
+21.2582|-78.1498|Vertientes
+22.6189|-83.7069|Viñales
+22.3269|-79.2357|Yaguajay
+20.2747|-76.9513|Yara
+21.9971|-79.3668|Zaza del Medio

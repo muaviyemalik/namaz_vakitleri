@@ -1,0 +1,1067 @@
+49.0580|-122.2526|Abbotsford
+48.1002|-77.7828|Abitibi-Témiscamingue
+45.6501|-72.5658|Acton Vale
+46.0501|-71.0824|Adstock
+49.2330|-121.7693|Agassiz
+51.3001|-114.0353|Airdrie
+43.8501|-79.0329|Ajax
+48.8832|-72.4487|Albanel
+46.8169|-64.0654|Alberton
+49.0580|-122.4709|Aldergrove
+49.0559|-122.4230|Aldergrove East
+47.8836|-84.4241|Algoma
+44.1501|-79.8663|Alliston
+48.5501|-71.6491|Alma
+49.1047|-97.5596|Altona
+45.8334|-64.1987|Amherst
+42.1001|-83.0999|Amherstburg
+44.7001|-79.3996|Amigo Beach
+48.5669|-78.1162|Amos
+48.4638|-67.4313|Amqui
+43.2181|-79.9872|Ancaster
+45.3501|-72.9324|Ange-Gardien
+44.3168|-79.8829|Angus
+49.3164|-122.8526|Anmore
+44.5834|-65.1655|Annapolis
+45.6168|-61.9986|Antigonish
+49.2497|-123.1693|Arbutus Ridge
+50.4498|-119.2023|Armstrong
+45.4334|-76.3494|Arnprior
+45.7668|-71.9324|Asbestos
+50.7237|-121.2821|Ashcroft
+49.6334|-105.9845|Assiniboia
+54.7169|-113.2854|Athabasca
+48.7567|-91.6241|Atikokan
+52.9277|-82.4167|Attawapiskat
+43.9997|-79.4675|Aurora
+42.7668|-80.9830|Aylmer
+46.5501|-81.0998|Azilda
+47.0523|-64.9536|Baie Ste. Anne
+49.2168|-68.1489|Baie-Comeau
+45.4140|-73.9159|Baie-D'Urfé
+47.4411|-70.4986|Baie-Saint-Paul
+44.0334|-79.2996|Ballantrae
+45.0575|-77.8570|Bancroft
+51.1762|-115.5698|Banff
+48.4335|-77.6328|Barraute
+54.1335|-114.4021|Barrhead
+44.4001|-79.6663|Barrie
+51.1831|-120.1192|Barrière
+48.0503|-68.0227|Bas-Saint-Laurent
+50.7834|-112.4685|Bassano
+44.1834|-76.7827|Bath
+47.6181|-65.6511|Bathurst
+47.5999|-53.2648|Bay Roberts
+48.2278|-58.8416|Bay St. George South
+45.4334|-73.8659|Beaconsfield
+46.2178|-70.7787|Beauceville
+45.3134|-73.8725|Beauharnois
+53.3501|-113.4187|Beaumont
+47.0443|-70.8953|Beaupré
+50.0622|-96.5167|Beausejour
+55.2166|-119.4360|Beaverlodge
+45.1168|-72.9824|Bedford
+62.8025|-116.0464|Behchokǫ̀
+46.0834|-62.8820|Belfast
+44.1668|-77.3828|Belleville
+45.3159|-75.8301|Bells Corners
+42.8834|-81.0830|Belmont
+45.5684|-73.2057|Beloeil
+46.0834|-73.1825|Berthierville
+45.0502|-64.7321|Berwick
+52.0668|-108.0014|Biggar
+43.1213|-79.8110|Binbrook
+50.7001|-114.2353|Black Diamond
+52.3834|-113.7853|Blackfalds
+45.6668|-73.8825|Blainville
+43.4668|-81.5998|Bluewater
+45.6668|-73.7492|Bois-des-Filion
+45.6168|-73.8325|Boisbriand
+49.2306|-100.0559|Boissevain
+53.8334|-113.4187|Bon Accord
+48.0457|-65.4926|Bonaventure
+48.6499|-53.1147|Bonavista
+54.2668|-110.7351|Bonnyville
+49.1499|-55.3482|Botwood
+45.5910|-73.4360|Boucherville
+46.4684|-64.7391|Bouctouche
+45.4334|-75.1493|Bourget
+49.8668|-111.3684|Bow Island
+49.3847|-123.3362|Bowen Island
+45.0334|-79.3163|Bracebridge
+43.6834|-79.7663|Brampton
+49.8469|-99.9531|Brandon
+43.1334|-80.3497|Brant
+43.1334|-80.2664|Brantford
+46.6804|-71.2233|Breakeyville
+44.3786|-64.5188|Bridgewater
+44.5913|-75.6870|Brockville
+45.3168|-72.6491|Bromont
+50.5834|-111.8851|Brooks
+45.4501|-73.4658|Brossard
+45.6834|-74.4159|Brownsburg-Chatham
+43.7334|-81.2498|Brussels
+45.5856|-75.4208|Buckingham
+43.1029|-80.4287|Burford
+47.6167|-57.6152|Burgeo
+43.3862|-79.8371|Burlington
+49.2664|-122.9526|Burnaby
+54.2297|-125.7608|Burns Lake
+46.3411|-72.4322|Bécancour
+47.6806|-68.8781|Cabano
+50.8101|-121.3246|Cache Creek
+47.9166|-69.5005|Cacouna
+51.0501|-114.0853|Calgary
+53.2668|-113.8187|Calmar
+43.3601|-80.3127|Cambridge
+43.0360|-82.1616|Camlachie
+50.0163|-125.2446|Campbell River
+48.0075|-66.6727|Campbellton
+53.0168|-112.8353|Camrose
+45.3834|-73.5159|Candiac
+51.0834|-115.3521|Canmore
+51.6333|-102.4343|Canora
+45.5668|-75.7827|Cantley
+49.1001|-66.6821|Cap-Chat
+46.6716|-71.7881|Cap-Santé
+46.0001|-60.3152|Cape Breton
+47.3760|-71.1234|Capitale-Nationale
+46.7063|-80.9211|Capreol
+49.8689|-99.3602|Carberry
+47.7332|-53.2148|Carbonear
+49.2000|-113.3019|Cardston
+45.4501|-73.2992|Carignan
+48.0984|-66.1004|Carleton
+45.1334|-76.1494|Carleton Place
+48.1075|-66.1280|Carleton-sur-Mer
+49.6333|-102.2677|Carlyle
+49.4992|-98.0016|Carman
+51.5668|-114.1020|Carstairs
+45.3168|-75.0826|Casselman
+49.3232|-117.6583|Castlegar
+48.5166|-53.0814|Catalina
+49.1163|-123.8527|Cedar
+52.1664|-127.0032|Central Coast Regional
+46.0198|-71.9824|Centre-du-Québec
+45.4501|-73.2825|Chambly
+48.4334|-72.0658|Chambord
+48.3494|-64.6793|Chandler
+47.5729|-59.1381|Channel-Port aux Basques
+49.7834|-74.8492|Chapais
+45.7168|-73.4825|Charlemagne
+46.2390|-63.1341|Charlottetown
+50.8165|-119.6857|Chase
+42.4122|-82.1849|Chatham
+42.4001|-82.1831|Chatham-Kent
+46.5550|-70.8308|Chaudière-Appalaches
+48.9163|-123.7194|Chemainus
+46.0711|-73.8910|Chertsey
+44.5423|-64.2389|Chester
+51.0334|-113.8187|Chestermere
+55.6999|-121.6363|Chetwynd
+49.9168|-74.3659|Chibougamau
+49.1664|-121.9526|Chilliwack
+49.1168|-68.3990|Chute-aux-Outardes
+46.9603|-71.0322|Château-Richer
+45.3834|-73.7492|Châteauguay
+45.5501|-75.2910|Clarence-Rockland
+48.1805|-53.9698|Clarenville-Shoal Harbour
+50.0333|-113.5852|Claresholm
+70.4723|-68.5899|Clyde River
+49.7167|-112.6185|Coaldale
+49.7464|-112.9325|Coalhurst
+45.1334|-71.7991|Coaticook
+43.9598|-78.1651|Cobourg
+51.1834|-114.4687|Cochrane
+45.3334|-63.2487|Colchester
+54.4652|-110.1815|Cold Lake
+44.6724|-63.4751|Cole Harbour
+44.4834|-80.2164|Collingwood
+48.4329|-123.4859|Colwood
+47.4999|-52.9981|Conception Bay South
+43.8001|-79.4829|Concord
+45.5001|-76.0827|Constance Bay
+45.8501|-73.2325|Contrecoeur
+45.4154|-71.6296|Cookshire
+45.4168|-71.6324|Cookshire-Eaton
+44.1834|-79.6996|Cookstown
+49.2996|-124.4195|Coombs
+49.2846|-122.7822|Coquitlam
+48.9500|-57.9520|Corner Brook
+45.0181|-74.7281|Cornwall
+42.8834|-82.4331|Corunna
+45.3001|-74.1825|Coteau-du-Lac
+49.6866|-124.9936|Courtenay
+44.6314|-63.4322|Cow Bay
+45.2001|-72.7491|Cowansville
+48.7337|-123.6174|Cowichan Bay
+45.9668|-73.4659|Crabtree
+49.4999|-115.7688|Cranbrook
+49.0999|-116.5021|Creston
+54.6514|-97.7685|Cross Lake 19A
+51.4334|-114.0353|Crossfield
+49.6163|-125.0361|Cumberland
+50.8668|-65.8154|Côte-Nord
+45.4654|-73.6659|Côte-Saint-Luc
+52.3334|-106.7679|Dalmeny
+45.7834|-72.0158|Danville
+44.6713|-63.5772|Dartmouth
+51.1494|-100.0502|Dauphin
+46.2001|-72.1324|Daveluyville
+64.0601|-139.4333|Dawson City
+55.7598|-120.2403|Dawson Creek
+49.4000|-97.0089|De Salaberry
+46.1001|-77.4995|Deep River
+49.1667|-57.4316|Deer Lake
+42.9168|-81.4165|Delaware
+49.1908|-100.4948|Deloraine
+45.3668|-73.5492|Delson
+49.1440|-122.9068|Delta
+49.5329|-124.8195|Denman Island
+49.5519|-124.7988|Denman Island Trust Area
+44.2001|-77.0494|Deseronto
+45.5346|-73.9017|Deux-Montagnes
+53.3668|-113.7353|Devon
+50.6720|-114.2330|Diamond Valley
+51.6668|-114.1353|Didsbury
+46.0784|-64.6873|Dieppe
+44.6219|-65.7586|Digby
+44.3668|-65.6988|Digby County
+45.9001|-71.3491|Disraeli
+48.8786|-72.2314|Dolbeau-Mistassini
+45.4945|-73.8242|Dollard-Des Ormeaux
+46.6804|-71.7239|Donnacona
+42.9834|-81.0664|Dorchester
+45.4473|-73.7533|Dorval
+46.5911|-81.3392|Dowling
+53.2168|-114.9854|Drayton Valley
+45.8834|-72.4824|Drummondville
+49.7833|-92.7503|Dryden
+50.0088|-119.3967|Duck Lake
+48.7829|-123.7027|Duncan
+45.1334|-72.7991|Dunham
+44.2001|-78.9996|Durham
+50.6395|-93.2353|Ear Falls
+45.4834|-71.6658|East Angus
+46.2136|-71.0767|East Broughton
+44.1009|-79.4378|East Gwillimbury
+49.1739|-124.0174|East Wellington
+43.6905|-79.3279|East York
+53.5501|-113.4687|Edmonton
+47.3737|-68.3251|Edmundston
+53.5834|-116.4356|Edson
+53.9002|-110.9017|Elk Point
+50.0501|-114.8854|Elkford
+46.3834|-82.6332|Elliot Lake
+49.9331|-119.3691|Ellison
+44.5834|-79.8664|Elmvale
+50.5498|-119.1523|Enderby
+47.8169|-79.8664|Englehart
+44.7334|-63.7820|English Corner
+45.9452|-60.6162|Eskasoni 3
+46.2584|-81.7665|Espanola
+42.1751|-82.8248|Essex
+50.6500|-102.0843|Esterhazy
+49.1334|-102.9842|Estevan
+43.6542|-79.5671|Etobicoke
+43.3436|-81.4973|Exeter
+56.0667|-118.3861|Fairview
+49.2759|-124.1278|Fairwinds
+55.7334|-117.2026|Falher
+44.8169|-63.6154|Fall River
+45.4756|-75.4840|Fallingbrook
+45.2834|-72.9824|Farnham
+46.7001|-75.4493|Ferme-Neuve
+52.7835|-67.0820|Fermont
+49.5000|-115.0687|Fernie
+54.7670|-101.8743|Flin Flon
+46.4435|-67.6154|Florenceville-Bristol
+51.6500|-103.5343|Foam Lake
+49.7165|-54.1698|Fogo Island
+48.7381|-69.0848|Forestville
+42.9001|-78.9329|Fort Erie
+48.6167|-93.4003|Fort Frances
+49.7167|-113.4186|Fort Macleod
+56.7268|-111.3810|Fort McMurray
+67.4386|-134.8854|Fort McPherson
+58.8053|-122.7002|Fort Nelson
+53.7168|-113.2187|Fort Saskatchewan
+60.0044|-111.8887|Fort Smith
+56.2499|-120.8529|Fort St. John
+45.8501|-76.7327|Fort-Coulonge
+46.8766|-71.6154|Fossambault-sur-le-Lac
+54.4001|-116.8024|Fox Creek
+45.0334|-73.9159|Franklin
+49.5830|-121.8359|Fraser Valley Regional
+45.9454|-66.6656|Fredericton
+49.3412|-124.3554|French Creek
+49.1165|-117.5522|Fruitvale
+44.7410|-66.7604|Fundy Bay
+48.7832|-54.2148|Gambo
+44.3334|-76.1661|Gananoque
+48.8334|-64.4819|Gaspé
+48.8755|-65.4071|Gaspésie-Îles-de-la-Madeleine
+45.4772|-75.7016|Gatineau
+53.8334|-113.3353|Gibbons
+49.3954|-123.5055|Gibsons
+50.6336|-96.9907|Gimli
+68.6260|-95.8784|Gjoa Haven
+46.1970|-59.9570|Glace Bay
+42.7501|-81.7165|Glencoe
+51.7501|-68.0821|Godefroy
+43.7417|-81.7134|Goderich
+51.3000|-116.9689|Golden
+47.4553|-52.7755|Goulds
+45.4001|-72.7324|Granby
+47.0999|-55.7650|Grand Bank
+54.4163|-110.2130|Grand Centre
+48.9332|-55.6649|Grand Falls-Windsor
+49.0331|-118.4356|Grand Forks
+53.8834|-119.1359|Grande Cache
+55.1667|-118.8027|Grande Prairie
+46.3001|-64.5655|Grande-Digue
+49.8834|-106.5512|Gravelbourg
+44.9168|-79.3663|Gravenhurst
+46.0765|-64.6682|Greater Lakeburn
+44.2474|-76.9506|Greater Napanee
+46.4900|-80.9900|Greater Sudbury
+49.7334|-87.1667|Greenstone
+44.9741|-64.9317|Greenwood
+56.1834|-117.6027|Grimshaw
+49.4067|-96.8587|Grunthal
+43.5459|-80.2560|Guelph
+60.7522|-137.5108|Haines Junction
+42.9834|-79.8663|Haldimand
+45.0515|-78.5225|Haliburton Village
+44.6453|-63.5724|Halifax
+43.5001|-79.8829|Halton
+43.2501|-79.8496|Hamilton
+45.4806|-73.6631|Hampstead
+45.5288|-65.8535|Hampton
+51.9192|-123.0446|Hanceville
+51.6334|-111.9018|Hanna
+44.1501|-81.0330|Hanover
+45.0669|-64.1654|Hantsport
+53.3038|-60.3258|Happy Valley-Goose Bay
+47.4832|-55.7983|Harbour Breton
+47.2130|-67.9285|Harrison Brook
+43.9001|-80.8830|Harriston
+49.1957|-68.2581|Hauterive
+50.2434|-63.6026|Havre-Saint-Pierre
+45.6001|-74.6159|Hawkesbury
+60.8156|-115.7999|Hay River
+45.0552|-64.5880|Hayes Subdivision
+49.8753|-97.4090|Headingley
+49.6835|-83.6665|Hearst
+50.8421|-114.0049|Heritage Pointe
+58.5169|-117.1360|High Level
+55.4334|-116.4858|High Prairie
+50.5834|-113.8687|High River
+53.4001|-117.5857|Hinton
+49.3830|-121.4414|Hope
+49.5345|-124.6692|Hornby Island
+49.2145|-84.7762|Hornepayne
+54.3998|-126.6701|Houston
+45.4501|-74.1492|Hudson
+52.8500|-102.3842|Hudson Bay
+52.2000|-105.1255|Humboldt
+45.0834|-74.1659|Huntingdon
+45.3334|-79.2163|Huntsville
+43.6168|-81.2998|Huron East
+46.6662|-72.6251|Hérouxville
+49.7106|-96.9889|Ile des Chênes
+50.5334|-103.6677|Indian Head
+43.0334|-80.8830|Ingersoll
+44.3001|-79.6496|Innisfil
+68.3499|-133.7218|Inuvik
+50.5167|-116.0354|Invermere
+63.7470|-68.5173|Iqaluit
+48.7669|-80.6831|Iroquois Falls
+51.3237|-113.6047|Irricana
+42.8834|-80.0996|Jarvis
+52.8863|-118.0563|Jasper Park Lodge
+46.0164|-73.4236|Joliette
+48.4165|-71.2488|Jonquière
+50.6665|-120.3192|Kamloops
+51.5667|-101.9009|Kamsack
+45.3001|-75.9161|Kanata
+49.4169|-82.4331|Kapuskasing
+44.5834|-78.8329|Kawartha Lakes
+49.8831|-119.4857|Kelowna
+49.7674|-94.4899|Kenora
+46.4334|-63.6487|Kensington
+45.0771|-64.4960|Kentville
+51.9168|-109.1348|Kerrobert
+44.2501|-79.4663|Keswick
+46.0001|-66.8822|Keswick Ridge
+52.7834|-111.8517|Killam
+49.1833|-99.6636|Killarney
+49.6707|-115.9776|Kimberley
+44.1834|-81.6331|Kincardine
+51.4668|-109.1682|Kindersley
+43.9651|-79.5901|King
+45.8501|-72.0658|Kingsey Falls
+44.2298|-76.4810|Kingston
+45.4501|-73.8659|Kirkland
+48.1446|-80.0377|Kirkland Lake
+43.4254|-80.5112|Kitchener
+54.0524|-128.6534|Kitimat
+67.8274|-115.0965|Kugluktuk
+46.7939|-71.3519|L'Ancienne-Lorette
+46.9198|-71.0825|L'Ange-Gardien
+48.6834|-71.6658|L'Ascension-de-Notre-Seigneur
+45.8232|-73.4294|L'Assomption
+45.6198|-74.6915|L'Orignal
+45.8501|-73.4825|L'Épiphanie
+45.3834|-73.9492|L'Île-Perrot
+49.5169|-96.5003|La Broquerie
+46.1501|-74.6993|La Conception
+46.8903|-71.3722|La Haute-Saint-Charles
+47.6540|-70.1527|La Malbaie
+46.2501|-74.9326|La Minerve
+47.3673|-70.0348|La Pocatière
+45.4168|-73.4992|La Prairie
+55.1001|-105.2842|La Ronge
+48.8002|-79.1996|La Sarre
+47.4334|-72.7824|La Tuque
+46.2834|-74.7326|Labelle
+52.9463|-66.9114|Labrador City
+50.2536|-96.0612|Lac du Bonnet
+54.7669|-111.9686|Lac La Biche
+45.8170|-73.9592|Lac-Alouette
+45.2168|-72.5158|Lac-Brome
+45.8979|-73.9723|Lac-Connelly
+45.8984|-73.7731|Lac-Lapierre
+45.5834|-70.8823|Lac-Mégantic
+46.1570|-74.7413|Lac-Simon
+45.6501|-74.3325|Lachute
+45.0834|-73.3658|Lacolle
+52.4668|-113.7353|Lacombe
+49.0894|-123.0824|Ladner
+48.9902|-123.8170|Ladysmith
+48.8250|-124.0546|Lake Cowichan
+44.7334|-63.3820|Lake Echo
+44.4334|-78.2662|Lakefield
+43.1668|-81.9331|Lambton Shores
+53.7669|-112.8020|Lamont
+49.6717|-96.8223|Landmark
+50.8500|-101.7176|Langenburg
+48.4496|-123.5026|Langford
+52.3668|-106.9679|Langham
+49.1011|-122.6588|Langley
+51.8501|-105.0344|Lanigan
+45.9668|-73.2159|Lanoraie
+44.9834|-63.4820|Lantz
+48.5668|-89.3501|Lappe
+53.4794|-113.3814|Larkspur
+53.4467|-113.3820|Laurel
+45.5699|-73.6920|Laval
+45.8834|-73.2824|Lavaltrie
+48.3755|-68.6941|Le Bic
+45.4351|-75.7803|le Plateau
+42.0501|-82.5998|Leamington
+49.0502|-76.9827|Lebel-sur-Quévillon
+48.2668|-74.3491|Leblanc
+53.2668|-113.5520|Leduc
+45.2834|-74.2325|Les Coteaux
+45.3001|-74.0492|Les Cèdres
+48.3519|-69.4072|Les Escoumins
+49.7000|-112.8186|Lethbridge
+49.2499|-55.0482|Lewisporte
+50.6856|-121.9420|Lillooet
+45.3334|-75.2493|Limoges
+45.9001|-66.5822|Lincoln
+44.3501|-78.7329|Lindsay
+46.0001|-70.4157|Linière
+49.4522|-123.2376|Lions Bay
+43.7334|-80.9497|Listowel
+45.9793|-81.9248|Little Current
+46.4334|-81.1497|Lively
+53.2724|-110.0226|Lloydminster
+50.4998|-120.8025|Logan Lake
+42.9834|-81.2330|London
+45.5312|-73.5181|Longueuil
+49.7392|-96.8723|Lorette
+45.6834|-73.7825|Lorraine
+46.2559|-72.9415|Louiseville
+44.7760|-63.6786|Lower Sackville
+43.1834|-81.3998|Lucan
+48.5450|-68.3966|Luceville
+50.2498|-118.9690|Lumby
+50.6501|-104.8678|Lumsden
+44.3785|-64.3166|Lunenburg
+46.1354|-64.9050|Lutes Mountain
+46.8033|-71.1779|Lévis
+48.7502|-78.9996|Macamic
+55.3364|-123.0937|Mackenzie
+52.3334|-109.9348|Macklin
+44.5084|-77.4745|Madoc
+45.2668|-72.1491|Magog
+49.4167|-112.8686|Magrath
+48.1335|-78.1328|Malartic
+50.2112|-66.1816|Maliotenam
+47.2203|-74.3861|Manawan
+46.3668|-73.3491|Mandeville
+45.7501|-82.4998|Manitoulin
+49.1215|-85.8403|Manitouwadge
+46.3834|-75.9660|Maniwaki
+56.9168|-117.6195|Manning
+53.3376|-111.1775|Mannville
+49.9168|-109.4848|Maple Creek
+53.5017|-113.3627|Maple Ridge
+48.7501|-86.4332|Marathon
+48.1749|-65.9860|Maria
+45.4334|-73.1659|Marieville
+44.3168|-80.6497|Markdale
+43.8668|-79.2663|Markham
+52.2834|-106.6679|Martensville
+47.1666|-55.1483|Marystown
+45.7497|-73.5996|Mascouche
+46.2286|-73.0192|Maskinongé
+49.7502|-77.6328|Matagami
+48.8286|-67.5220|Matane
+46.3168|-78.6996|Mattawa
+47.5501|-73.4158|Mauricie
+53.9502|-115.1355|Mayerthorpe
+46.1452|-64.7862|McEwen
+54.1335|-108.4347|Meadow Lake
+44.6073|-80.6108|Meaford
+50.0393|-110.6766|Medicine Hat
+52.8667|-104.6177|Melfort
+49.2681|-100.9967|Melita
+45.3173|-73.9371|Melocheville
+50.9167|-102.8010|Melville
+45.3168|-73.7492|Mercier
+50.1123|-120.7942|Merritt
+48.4100|-71.7800|Metabetchouan-Lac-a-la-Croix
+45.2334|-75.4660|Metcalfe
+48.3829|-123.5359|Metchosin
+49.3330|-123.0026|Metro Vancouver Regional
+44.9428|-65.0702|Middleton
+44.7501|-79.8830|Midland
+44.0501|-81.1164|Mildmay
+53.4564|-113.4275|Mill Woods Town Centre
+44.1501|-78.4495|Millbrook
+53.1001|-113.4687|Millet
+43.5168|-79.8829|Milton
+50.2453|-99.8436|Minnedosa
+45.6501|-74.0825|Mirabel
+47.0290|-65.5019|Miramichi
+49.1330|-122.3026|Mission
+43.5789|-79.6583|Mississauga
+43.2668|-79.0829|Mississauga Beach
+50.4167|-73.8833|Mistissini
+46.0945|-64.7965|Moncton
+48.5839|-68.1921|Mont-Joli
+46.5501|-75.4993|Mont-Laurier
+45.5168|-73.6492|Mont-Royal
+45.3334|-73.1659|Mont-Saint-Grégoire
+45.5652|-73.1868|Mont-Saint-Hilaire
+46.2127|-74.5844|Mont-Tremblant
+46.1668|-62.6487|Montague
+46.9804|-70.5549|Montmagny
+45.5001|-73.6825|Montréal
+45.6320|-73.5075|Montréal-Est
+45.4529|-73.6492|Montréal-Ouest
+51.2669|-80.6162|Moose Factory
+50.4001|-105.5345|Moose Jaw
+49.2056|-95.3063|Moose Lake
+50.1333|-101.6677|Moosomin
+51.2793|-80.6345|Moosonee
+49.1919|-98.1014|Morden
+45.9001|-74.2492|Morin-Heights
+53.8001|-113.6520|Morinville
+49.3550|-97.3657|Morris
+44.9001|-75.1826|Morrisburg
+44.1334|-79.3163|Mount Albert
+42.9001|-81.4831|Mount Brydges
+47.5166|-52.7814|Mount Pearl
+48.3668|-72.0158|Métabetchouan
+45.9967|-67.2403|Nackawic
+50.2499|-117.8023|Nakusp
+49.1664|-123.9400|Nanaimo
+50.3501|-113.7687|Nanton
+44.2483|-76.9507|Napanee Downtown
+45.1865|-73.4047|Napierville
+48.1668|-89.4168|Neebing
+50.2289|-99.4664|Neepawa
+49.4999|-117.2855|Nelson
+45.3522|-75.7398|Nepean
+46.6982|-71.5828|Neuville
+48.0096|-65.3362|New Carlisle
+45.5834|-62.6486|New Glasgow
+43.3834|-80.6997|New Hamburg
+45.8793|-66.6683|New Maryland
+49.2068|-122.9109|New Westminster
+48.1606|-65.8582|New-Richmond
+44.0501|-79.4663|Newmarket
+43.1001|-79.0663|Niagara Falls
+46.2168|-72.6158|Nicolet
+53.3668|-104.0009|Nipawin
+46.0001|-78.9996|Nipissing
+49.6056|-97.0423|Niverville
+45.9668|-66.5322|Noonan
+51.9620|-74.8961|Nord-du-Québec
+42.8334|-80.3830|Norfolk County
+65.2820|-126.8329|Norman Wells
+48.8333|-72.5321|Normandin
+52.7797|-108.2967|North Battleford
+46.3168|-79.4663|North Bay
+48.8413|-123.6860|North Cowichan
+49.0481|-123.8340|North Oyster/Yellow Point
+43.7251|-80.9672|North Perth
+48.6663|-123.4193|North Saanich
+49.3164|-123.0693|North Vancouver
+43.7668|-79.4163|North York
+44.3834|-77.9828|Norwood
+45.4768|-73.6143|Notre-Dame-de-Grâce
+45.3668|-73.9325|Notre-Dame-de-l'Île-Perrot
+46.0501|-73.4325|Notre-Dame-des-Prairies
+46.7501|-79.0496|Notre-Dame-du-Lac
+46.0168|-75.0826|Notre-Dame-du-Mont-Carmel
+48.4496|-123.3026|Oak Bay
+43.4501|-79.6829|Oakville
+45.4649|-74.0889|Oka
+50.3639|-119.3500|Okanagan
+49.3500|-119.5667|Okanagan Falls
+50.7289|-113.9828|Okotoks
+51.7834|-114.1020|Olds
+49.1831|-119.5524|Oliver
+44.2990|-78.5599|Omemee
+43.9168|-80.0997|Orangeville
+44.6087|-79.4207|Orillia
+45.1334|-73.9992|Ormstown
+45.8351|-66.4792|Oromocto
+45.1489|-75.5978|Osgoode
+43.9001|-78.8496|Oshawa
+49.0331|-119.4524|Osoyoos
+45.4112|-75.6981|Ottawa
+45.5334|-73.2159|Otterburn Park
+46.2668|-76.3161|Outaouais
+51.5001|-107.0513|Outlook
+44.5672|-80.9435|Owen Sound
+49.2334|-102.1676|Oxbow
+45.7334|-63.8654|Oxford
+44.3064|-81.2726|Paisley
+66.1464|-65.7000|Pangnirtung
+45.6168|-75.0160|Papineauville
+45.2921|-73.2615|Parc-Boutin
+43.2000|-80.3833|Paris
+43.1599|-81.6846|Parkhill
+49.3195|-124.3157|Parksville
+45.4057|-64.3259|Parrsboro
+45.3473|-80.0353|Parry Sound
+45.7501|-79.8330|Parry Sound District
+49.0167|-57.5984|Pasadena
+56.2371|-117.2918|Peace River
+56.6665|-122.7530|Peace River Regional
+49.7665|-119.7357|Peachland
+43.7501|-79.7829|Peel
+55.1668|-102.9341|Pelican Narrows
+50.3164|-122.8027|Pemberton
+45.8168|-77.1162|Pembroke
+52.1334|-113.8687|Penhold
+49.4806|-119.5858|Penticton
+44.9001|-76.2494|Perth
+45.8945|-77.2801|Petawawa
+44.3001|-78.3162|Peterborough
+42.8668|-82.1498|Petrolia
+43.9001|-79.1329|Pickering
+44.0001|-77.1328|Picton
+45.6788|-62.7094|Pictou
+45.5001|-62.5819|Pictou County
+49.8833|-112.7852|Picture Butte
+45.9001|-74.1325|Piedmont
+46.0703|-72.8113|Pierreville
+50.4668|-104.4178|Pilot Butte
+49.4833|-113.9519|Pincher Creek
+45.3834|-73.9825|Pincourt
+49.2212|-122.6897|Pitt Meadows
+45.5326|-74.9937|Plantagenet
+43.3001|-80.6164|Plattsville
+46.2186|-71.7620|Plessisville
+47.4631|-69.2267|Pohénégamook
+45.5001|-73.9659|Pointe-Calumet
+45.4487|-73.8167|Pointe-Claire
+48.5001|-71.7824|Pointe-du-Lac
+52.6768|-113.5815|Ponoka
+48.8833|-72.0825|Pont Rouge
+49.2413|-124.8028|Port Alberni
+42.9001|-79.2329|Port Colborne
+49.2664|-122.7693|Port Coquitlam
+45.6168|-61.3485|Port Hawkesbury
+44.0168|-78.3995|Port Hope
+50.5872|-127.0805|Port McNeill
+49.2812|-122.8246|Port Moody
+42.6168|-80.4664|Port Rowan
+42.6668|-81.2164|Port Stanley
+45.1001|-64.4155|Port Williams
+50.0334|-66.8654|Port-Cartier
+49.9728|-98.2926|Portage la Prairie
+46.6906|-71.8901|Portneuf
+46.0334|-79.3496|Powassan
+49.8328|-124.5237|Powell River
+51.9500|-102.6677|Preeceville
+44.7168|-75.5160|Prescott
+53.2001|-105.7677|Prince Albert
+44.0001|-77.2495|Prince Edward
+53.9166|-122.7530|Prince George
+54.3151|-130.3210|Prince Rupert
+49.4580|-120.5108|Princeton
+45.7668|-61.2985|Princeville
+52.3501|-110.2683|Provost
+45.8668|-74.0825|Prévost
+49.6617|-125.0569|Puntledge
+45.4708|-75.5056|Queenswood Heights
+52.9784|-122.4931|Quesnel
+44.1834|-77.5662|Quinte West
+46.8123|-71.2145|Québec
+48.4998|-92.5003|Rainy River
+62.8091|-92.0853|Rankin Inlet
+46.0501|-73.7159|Rawdon
+49.4500|-112.6518|Raymond
+46.6087|-81.2076|Rayside-Balfour
+52.2668|-113.8020|Red Deer
+51.0168|-93.8274|Red Lake
+50.4501|-104.6178|Regina
+50.7834|-105.0011|Regina Beach
+49.2496|-125.3362|Regional District of Alberni-Clayoquot
+49.9998|-119.4191|Regional District of Central Okanagan
+43.5001|-80.4997|Regional Municipality of Waterloo
+45.4668|-76.6827|Renfrew
+45.7422|-73.4501|Repentigny
+50.9971|-118.1953|Revelstoke
+45.4434|-73.2460|Richelieu
+46.6807|-64.8804|Richibucto
+49.1700|-123.1368|Richmond
+43.8711|-79.4373|Richmond Hill
+53.4790|-113.5047|Rideau Park
+42.4334|-81.8998|Ridgetown
+45.4793|-74.3024|Rigaud
+52.6334|-114.2353|Rimbey
+48.4488|-68.5240|Rimouski
+50.0308|-100.2403|Rivers
+47.8270|-69.5424|Rivière-du-Loup
+46.4168|-74.8660|Rivière-Rouge
+48.5168|-72.2324|Roberval
+51.2300|-101.3565|Roblin
+45.3570|-71.9968|Rock Forest
+43.6190|-80.1444|Rockwood
+52.3668|-114.9188|Rocky Mountain House
+45.6334|-73.7992|Rosemère
+51.5501|-108.0014|Rosetown
+49.0831|-117.8022|Rossland
+52.6668|-106.3345|Rosthern
+45.4334|-73.0491|Rougemont
+48.2366|-79.0231|Rouyn-Noranda
+49.6470|-124.9467|Royston
+45.2501|-75.3660|Russell
+45.9188|-64.3846|Sackville
+48.2297|-69.8006|Sacré-Coeur
+48.4168|-71.0657|Saguenay
+45.0737|-67.0531|Saint Andrews
+45.2727|-66.0677|Saint John
+45.9668|-74.3325|Saint-Adolphe-d'Howard
+45.5001|-75.7494|Saint-Alexandre
+45.6501|-73.2992|Saint-Amable
+48.5501|-71.3324|Saint-Ambroise
+45.7168|-75.0660|Saint-André-Avellin
+46.6292|-70.9734|Saint-Anselme
+46.3629|-64.7498|Saint-Antoine
+46.6635|-71.5734|Saint-Antoine-de-Tilly
+51.2260|-58.6502|Saint-Augustin
+46.7406|-71.4513|Saint-Augustin-de-Desmaures
+45.7298|-72.9224|Saint-Barnabé-Sud
+45.5334|-73.2825|Saint-Basile-le-Grand
+46.5001|-75.9826|Saint-Boniface
+48.4668|-71.6491|Saint-Bruno
+47.4669|-79.4330|Saint-Bruno-de-Guigues
+45.5334|-73.3492|Saint-Bruno-de-Montarville
+45.7150|-74.0838|Saint-Canut
+45.7029|-73.5542|Saint-Charles
+45.3668|-73.5659|Saint-Constant
+45.9334|-72.4324|Saint-Cyrille-de-Wendover
+45.4168|-72.9991|Saint-Césaire
+46.0668|-70.5157|Saint-Côme-Linière
+45.5334|-72.9991|Saint-Damase
+45.7834|-73.1492|Saint-Denis-sur-Richelieu
+46.3187|-74.2217|Saint-Donat-de-Montcalm
+45.6034|-73.7270|Saint-Elzéar
+45.5650|-73.9055|Saint-Eustache
+48.6501|-72.4491|Saint-Félicien
+46.1698|-73.4253|Saint-Félix-de-Valois
+46.3001|-73.3825|Saint-Gabriel
+46.1135|-70.6653|Saint-Georges
+45.8334|-72.5658|Saint-Germain-de-Grantham
+48.5001|-71.7658|Saint-Gédéon
+46.6931|-71.0693|Saint-Henri
+45.9334|-74.0159|Saint-Hippolyte
+48.5334|-71.0824|Saint-Honoré
+45.6308|-72.9570|Saint-Hyacinthe
+47.4335|-79.2996|Saint-Isidore
+45.2834|-73.4159|Saint-Jacques-le-Mineur
+45.3806|-74.0121|Saint-Jean-Baptiste
+45.3071|-73.2626|Saint-Jean-sur-Richelieu
+45.9582|-73.2202|Saint-Joseph
+46.3000|-70.8667|Saint-Joseph-de-Beauce
+45.9668|-71.3658|Saint-Joseph-de-Coleraine
+45.5334|-73.9992|Saint-Joseph-du-Lac
+45.7804|-74.0036|Saint-Jérôme
+46.5862|-71.2089|Saint-Lambert-de-Lauzon
+45.5001|-73.6659|Saint-Laurent
+45.4001|-74.1326|Saint-Lazare
+45.6507|-72.7635|Saint-Liboire
+45.8501|-73.7659|Saint-Lin-Laurentides
+47.1632|-67.9246|Saint-Léonard
+46.1001|-72.3658|Saint-Léonard-d'Aston
+46.6833|-72.0491|Saint-Marc-des-Carrières
+45.3168|-73.5159|Saint-Mathieu
+45.5676|-73.6217|Saint-Michel
+46.6770|-73.9188|Saint-Michel-des-Saints
+48.5894|-71.5525|Saint-Nazaire
+46.1695|-73.3149|Saint-Norbert
+47.4046|-69.9502|Saint-Pacôme
+47.5181|-69.8030|Saint-Pascal
+45.3572|-73.4771|Saint-Philippe-de-La Prairie
+45.5028|-72.9089|Saint-Pie
+46.5001|-72.1991|Saint-Pierre-les-Becquets
+48.5834|-72.3324|Saint-Prime
+46.2501|-76.0161|Saint-Raphaël
+45.4670|-73.6095|Saint-Raymond
+45.2668|-73.6159|Saint-Rémi
+45.8668|-71.8158|Saint-Rémi-de-Tingwick
+45.8869|-74.1794|Saint-Sauveur
+45.9001|-74.1659|Saint-Sauveur-des-Monts
+47.8443|-69.8784|Saint-Siméon
+46.0168|-73.3491|Saint-Thomas
+46.7334|-72.5658|Saint-Tite
+45.6112|-73.5153|Saint-Victor
+45.2501|-74.2492|Saint-Zotique
+45.2334|-73.5159|Saint-Édouard
+46.0668|-70.9490|Saint-Éphrem-de-Beauce
+46.8524|-71.6206|Sainte Catherine de la Jacques Cartier
+45.9501|-74.1325|Sainte-Adèle
+46.0501|-74.2825|Sainte-Agathe-des-Monts
+45.4062|-73.9456|Sainte-Anne-de-Bellevue
+49.1240|-66.4924|Sainte-Anne-des-Monts
+45.7647|-73.8116|Sainte-Anne-des-Plaines
+46.2001|-73.6159|Sainte-Béatrix
+45.4001|-73.5825|Sainte-Catherine
+45.1337|-72.8008|Sainte-Croix
+45.5834|-73.3325|Sainte-Julie
+45.9668|-73.7159|Sainte-Julienne
+45.6001|-73.0991|Sainte-Madeleine
+46.4340|-71.0117|Sainte-Marie
+45.5334|-73.9325|Sainte-Marthe-sur-le-Lac
+45.2501|-73.7992|Sainte-Martine
+45.8168|-73.8992|Sainte-Sophie
+46.8168|-72.4991|Sainte-Thècle
+45.6392|-73.8276|Sainte-Thérèse
+46.0950|-73.3518|Sainte-Élisabeth
+45.2501|-74.1325|Salaberry-de-Valleyfield
+46.0391|-65.0463|Salisbury
+62.2041|-75.6434|Salluit
+49.1999|-117.2689|Salmo
+50.6998|-119.3024|Salmon Arm
+48.8185|-123.4906|Salt Spring Island
+48.9496|-123.7694|Saltair
+42.9787|-82.4041|Sarnia
+52.1324|-106.6689|Saskatoon
+46.5168|-84.3333|Sault Ste. Marie
+43.7722|-79.2567|Scarborough
+43.5501|-81.3998|Seaforth
+49.4751|-123.7590|Sechelt
+50.1436|-96.8845|Selkirk
+48.3930|-77.2395|Senneterre
+50.2001|-66.3821|Sept-Îles
+55.3500|-118.7860|Sexsmith
+46.8803|-71.5146|Shannon
+49.6501|-108.4181|Shaunavon
+46.5667|-72.7491|Shawinigan
+45.6001|-76.4827|Shawville
+46.2198|-64.5411|Shediac
+46.2689|-64.6005|Shediac Bridge-Shediac River
+43.7632|-65.3235|Shelburne
+53.2168|-106.4011|Shellbrook
+45.4001|-71.8991|Sherbrooke
+53.5168|-113.3187|Sherwood Park
+49.8051|-99.6317|Shilo
+47.7442|-64.7080|Shippagan
+50.8331|-118.9857|Sicamous
+53.4579|-113.3817|Silver Berry
+42.8334|-80.2997|Simcoe
+50.0668|-91.9836|Sioux Lookout
+48.4577|-123.4609|Six Mile
+44.2512|-76.9442|Skatepark
+55.2834|-114.7690|Slave Lake
+54.7804|-127.1743|Smithers
+44.9045|-76.0233|Smiths Falls
+54.1169|-112.4686|Smoky Lake
+48.3746|-123.7276|Sooke
+46.0418|-73.1136|Sorel-Tracy
+49.6172|-100.2612|Souris
+43.3168|-81.5165|South Huron
+49.6220|-124.0248|South Pender Harbour
+45.8334|-79.3829|South River
+49.7333|-114.8853|Sparwood
+55.7833|-118.8361|Spirit River
+52.1792|-113.8798|Springbrook
+49.4999|-56.0649|Springdale
+45.6501|-64.0487|Springhill
+53.5334|-113.9187|Spruce Grove
+47.2142|-70.2697|St-Jean-Port-Joli
+49.6744|-97.1112|St. Adolphe
+53.6334|-113.6353|St. Albert
+51.3704|-55.5974|St. Anthony
+43.1713|-79.2427|St. Catharines
+43.2450|-80.2514|St. George
+47.5649|-52.7093|St. John's
+42.7736|-81.1804|St. Thomas
+45.8831|-66.7690|Starlight Village
+49.5258|-96.6845|Steinbach
+48.5500|-58.5818|Stephenville
+48.5000|-58.4318|Stephenville Crossing
+52.3168|-112.7186|Stettler
+44.3001|-77.5495|Stirling
+50.1344|-97.3268|Stonewall
+44.2668|-79.5329|Stoney Point
+53.5334|-114.0020|Stony Plain
+43.3668|-80.9497|Stratford
+51.0501|-113.3852|Strathmore
+47.1668|-81.9998|Sudbury
+49.5998|-119.6691|Summerland
+46.3959|-63.7876|Summerside
+51.8001|-114.6353|Sundre
+49.1063|-122.8251|Surrey
+45.7227|-65.5066|Sussex
+45.1001|-72.6158|Sutton
+54.7168|-115.4023|Swan Hills
+52.1058|-101.2676|Swan River
+50.2834|-107.8013|Swift Current
+46.1351|-60.1831|Sydney
+46.2367|-60.2177|Sydney Mines
+52.3110|-114.0837|Sylvan Lake
+49.7870|-112.1460|Taber
+53.4644|-113.3624|Tamarack
+43.3168|-80.8330|Tavistock
+47.4938|-79.7153|Temiskaming Shores
+54.5163|-128.6035|Terrace
+45.8645|-74.0663|Terrasse-des-Pins
+45.7000|-73.6473|Terrebonne
+53.8251|-101.2541|The Pas
+46.2501|-83.5666|Thessalon
+46.0937|-71.3054|Thetford-Mines
+55.7435|-97.8558|Thompson
+43.8171|-79.4501|Thornhill
+43.1168|-79.1996|Thorold
+51.7001|-113.2686|Three Hills
+48.3820|-89.2502|Thunder Bay
+49.5001|-88.5000|Thunder Bay District
+45.6001|-75.2493|Thurso
+47.7502|-80.3330|Timiskaming
+48.4669|-81.3331|Timmins
+52.8500|-104.0510|Tisdale
+45.2501|-81.6665|Tobermory
+53.3668|-112.6686|Tofield
+49.1531|-125.9074|Tofino
+47.6666|-52.7313|Torbay
+43.7001|-79.4163|Toronto
+43.6966|-79.4291|Toronto county
+44.0244|-79.8055|Tottenham
+47.5144|-64.9181|Tracadie-Sheila
+49.0998|-117.7022|Trail
+46.3451|-72.5477|Trois-Rivières
+45.3668|-63.2654|Truro
+49.0167|-123.0833|Tsawwassen
+55.1303|-120.9942|Tumbler Ridge
+44.4751|-77.3162|Tweed
+53.7169|-111.7518|Two Hills
+46.7212|-79.0971|Témiscaming
+48.9415|-125.5464|Ucluelet
+52.4501|-109.1682|Unity
+47.6499|-53.2148|Upper Island Cove
+44.1001|-79.1163|Uxbridge
+48.0974|-77.7974|Val-d'Or
+46.0334|-74.2159|Val-David
+45.6501|-75.6660|Val-des-Monts
+46.0001|-74.1825|Val-Morin
+45.5001|-72.3158|Valcourt
+46.6677|-81.0003|Valley East
+55.0667|-117.2858|Valleyview
+46.3744|-70.9188|Vallée-Jonction
+49.2497|-123.1193|Vancouver
+54.0166|-124.0198|Vanderhoof
+45.4399|-75.6650|Vanier
+45.6834|-73.4325|Varennes
+45.4001|-74.0325|Vaudreuil-Dorion
+43.8361|-79.4983|Vaughan
+53.5001|-112.0518|Vegreville
+45.0834|-73.1325|Venise-en-Québec
+45.7834|-73.3492|Verchères
+53.3541|-110.8585|Vermilion
+50.2673|-119.2734|Vernon
+48.4359|-123.3516|Victoria
+46.0501|-71.9658|Victoriaville
+53.1001|-111.7684|Viking
+47.3334|-79.4330|Ville-Marie
+43.1501|-79.3996|Vineland
+49.8508|-100.9326|Virden
+43.2168|-79.1329|Virgil
+50.4001|-113.2519|Vulcan
+47.6332|-52.9481|Wabana
+51.9500|-103.8010|Wadena
+52.8348|-110.8534|Wainwright
+45.6668|-75.8327|Wakefield
+49.1647|-122.6404|Walnut Grove
+42.6152|-82.5140|Walpole Island
+52.3168|-106.5679|Warman
+45.9501|-71.9824|Warwick
+44.5168|-80.0164|Wasaga Beach
+51.4833|-78.7500|Waskaganish
+49.7335|-76.1660|Waswanipi
+42.9334|-80.2830|Waterford
+43.4668|-80.5164|Waterloo
+42.9501|-81.8831|Watford
+51.6668|-105.4679|Watrous
+60.0635|-128.7089|Watson Lake
+47.9888|-84.7741|Wawa
+45.7080|-71.4599|Weedon Centre
+49.4796|-123.8924|Welcome Beach
+42.9834|-79.2496|Welland
+43.4769|-80.7621|Wellesley
+45.3927|-65.9231|Wells
+55.1499|-119.1360|Wembley
+45.5727|-75.1276|Wendover
+49.2833|-123.1333|West End
+49.8625|-119.5833|West Kelowna
+42.6001|-81.5998|West Lorne
+49.9994|-97.1628|West St. Paul
+49.3667|-123.1665|West Vancouver
+55.2223|-118.8042|Westlake
+54.1502|-113.8688|Westlock
+45.4834|-73.5992|Westmount
+52.9668|-113.3687|Wetaskiwin
+49.6668|-103.8511|Weyburn
+47.8994|-73.7772|Weymontachie
+50.1182|-122.9540|Whistler
+50.4334|-104.3678|White City
+49.0164|-122.8026|White Rock
+54.1501|-115.6855|Whitecourt
+60.7161|-135.0538|Whitehorse
+53.4708|-113.3812|Wild Rose
+52.4168|-108.7014|Wilkie
+52.1415|-122.1445|Williams Lake
+43.7667|-79.3991|Willowdale
+45.0834|-75.3493|Winchester
+44.9834|-64.1320|Windsor
+43.8879|-81.3114|Wingham
+49.1817|-97.9410|Winkler
+49.8844|-97.1470|Winnipeg
+45.0834|-64.3655|Wolfville
+43.1334|-80.7497|Woodstock
+51.7667|-104.1844|Wynyard
+46.2668|-72.8324|Yamachiche
+43.8334|-66.1156|Yarmouth
+62.4541|-114.3725|Yellowknife
+44.0008|-79.4372|York
+51.2167|-102.4677|Yorkton

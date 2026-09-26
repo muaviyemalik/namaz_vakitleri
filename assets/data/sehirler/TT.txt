@@ -1,0 +1,25 @@
+10.6374|-61.2823|Arima
+10.6288|-61.3349|Arouca
+10.5167|-61.4167|Chaguanas
+10.4225|-61.4675|Couva
+10.2085|-61.4527|Debe
+10.6492|-61.4989|Laventille
+10.3062|-61.4467|Marabella
+10.2798|-61.4459|Mon Repos
+10.6625|-61.5370|Mucurapo
+10.6530|-61.3630|Paradise
+10.6997|-61.5472|Petit Valley
+10.1667|-61.4667|Peñal
+10.1741|-61.6841|Point Fortin
+10.6667|-61.5189|Port of Spain
+10.2718|-61.3710|Princes Town
+10.3059|-61.1756|Rio Claro
+10.2797|-61.4684|San Fernando
+10.5870|-61.1301|Sangre Grande
+11.1823|-60.7353|Scarborough
+10.1453|-61.5074|Siparia
+10.3882|-61.2970|Tabaquite
+10.6524|-61.3888|Tunapuna
+10.5000|-61.3833|Ward of Chaguanas
+10.7000|-61.5833|Ward of Diego Martin
+10.1500|-61.4667|Ward of Siparia

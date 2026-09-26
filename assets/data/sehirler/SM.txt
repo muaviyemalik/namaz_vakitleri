@@ -1,0 +1,9 @@
+43.9459|12.4185|Acquaviva
+43.9419|12.4474|Borgo Maggiore
+43.9496|12.4683|Domagnano
+43.9283|12.4980|Faetano
+43.9100|12.4574|Fiorentino
+43.9088|12.4820|Monte Giardino
+43.9045|12.4214|Poggio di Chiesanuova
+43.9367|12.4464|San Marino
+43.9690|12.4817|Serravalle

@@ -1,0 +1,155 @@
+13.0537|-86.5900|Achuapa
+11.9703|-85.1711|Acoyapa
+11.5662|-85.5784|Altagracia
+11.5030|-85.8893|Belén
+12.0137|-83.7635|Bluefields
+12.4722|-85.6586|Boaco
+12.7857|-85.1227|Bocana de Paiwas
+14.0289|-84.5910|Bonanza
+11.4692|-85.8166|Buenos Aires
+12.3838|-85.5128|Camoapa
+11.9120|-86.0738|Catarina
+12.5776|-87.0271|Chichigalpa
+12.6294|-87.1311|Chinandega
+13.2296|-86.8681|Cinco Pinos
+13.6393|-86.3119|Ciudad Antigua
+12.7314|-86.1240|Ciudad Darío
+12.1589|-86.3442|Ciudad Sandino
+12.2835|-85.5108|Comalapa
+13.3650|-86.3985|Condega
+12.4825|-87.1730|Corinto
+12.1758|-83.0614|Corn Island
+12.2688|-85.3821|Cuapa
+11.1964|-85.5089|Cárdenas
+13.7223|-86.5137|Dipilto
+11.8581|-86.2392|Diriamba
+11.8763|-86.0518|Diriomo
+11.8842|-86.0551|Diriá
+11.8567|-86.2155|Dolores
+11.6786|-84.7027|El Almendro
+12.1905|-85.2874|El Ayote
+11.9901|-86.3095|El Crucero
+13.4167|-85.7500|El Cuá
+12.7268|-86.3806|El Jicaral
+13.7222|-86.1412|El Jícaro
+12.1596|-84.2195|El Rama
+12.5433|-87.1652|El Realejo
+11.7776|-86.3737|El Rosario
+12.8869|-86.5390|El Sauce
+12.8225|-84.1963|El Tortuguero
+12.6635|-87.1666|El Viejo
+13.0919|-86.3538|Estelí
+11.9299|-85.9560|Granada
+10.9468|-83.7347|Greytown
+13.9207|-86.1421|Jalapa
+13.0910|-86.0023|Jinotega
+11.8496|-86.1990|Jinotepe
+12.7459|-87.4516|Jiquilillo
+12.1063|-85.3645|Juigalpa
+12.2410|-83.7452|Kukrahill
+11.9371|-86.1898|La Concepción
+13.1953|-86.1666|La Concordia
+11.7343|-86.1928|La Conquista
+13.1129|-84.1859|La Cruz de Río Grande
+12.2164|-85.1659|La Libertad
+12.3400|-86.6753|La Paz Centro
+11.8231|-86.1278|La Paz de Carazo
+12.9688|-86.2353|La Trinidad
+12.3429|-83.6712|Laguna de Perlas
+12.6769|-86.5719|Larreynaga
+13.1700|-85.8500|Las Praderas
+13.3430|-86.6218|Las Sabanas
+12.4379|-86.8780|León
+13.1245|-86.0083|LLano de La Cruz
+13.6519|-86.6143|Macuelizo
+12.1328|-86.2504|Managua
+11.7869|-86.5142|Masachapa
+11.9145|-86.1446|Masatepe
+11.9744|-86.0942|Masaya
+12.9256|-85.9175|Matagalpa
+12.8373|-85.4622|Matiguás
+11.6212|-85.0805|Morrito
+11.5401|-85.6980|Moyogalpa
+13.6596|-86.4454|Mozonte
+12.0700|-84.5350|Muelle de los Bueyes
+11.4798|-85.5417|Municipio de Altagracia
+11.5719|-85.9632|Municipio de Belén
+11.5176|-85.7833|Municipio de Buenos Aires
+11.1491|-85.4232|Municipio de Cárdenas
+11.9057|-86.1495|Municipio de Masatepe
+11.5263|-85.6733|Municipio de Moyogalpa
+11.9333|-86.1167|Municipio de Nandasmo
+11.8823|-86.1004|Municipio de Niquinohomo
+11.5785|-85.8776|Municipio de Potosí
+11.4393|-85.8270|Municipio de Rivas
+13.2119|-86.7711|Municipio de San Francisco del Norte
+11.4270|-85.7890|Municipio de San Jorge
+11.9052|-86.0746|Municipio de San Juan de Oriente
+11.2237|-85.7829|Municipio de San Juan del Sur
+11.9178|-86.2747|Municipio de San Marcos
+11.4601|-86.0079|Municipio de Tola
+13.7593|-86.0220|Murra
+12.7622|-85.6291|Muy Muy
+12.2659|-86.5647|Nagarote
+11.7570|-86.0529|Nandaime
+11.9241|-86.1207|Nandasmo
+12.0039|-86.1213|Nindirí
+11.9052|-86.0945|Niquinohomo
+11.6876|-84.4562|Nueva Guinea
+13.6341|-86.5011|Ocotal
+13.4557|-86.4062|Palacagüina
+12.5442|-86.9798|Posoltega
+11.4942|-85.8568|Potosí
+13.4071|-83.5645|Prinzapolka
+13.3798|-86.4808|Pueblo Nuevo
+14.0351|-83.3888|Puerto Cabezas
+12.8504|-87.1717|Puerto Morazán
+12.5068|-86.9029|Quezalguaque
+13.5649|-86.0292|Quilalí
+11.4372|-85.8263|Rivas
+12.9344|-85.2235|Río Blanco
+11.1236|-84.7780|San Carlos
+12.7602|-85.8502|San Dionisio
+13.6787|-86.3208|San Fernando
+11.4558|-85.8031|San Jorge
+13.5420|-85.5394|San José de Bocay
+13.2884|-86.6554|San José de Cusmapa
+12.5975|-85.7617|San José de los Remates
+13.1760|-86.6123|San Juan de Limay
+11.9062|-86.0734|San Juan de Oriente
+13.5448|-86.1650|San Juan de Río Coco
+11.2529|-85.8705|San Juan del Sur
+12.3783|-85.6665|San Lorenzo
+13.4138|-86.6111|San Lucas
+11.9095|-86.2035|San Marcos
+11.4025|-84.8999|San Miguelito
+13.2125|-86.1109|San Rafael del Norte
+11.8485|-86.4384|San Rafael del Sur
+12.9234|-85.8390|San Ramón
+13.3054|-86.1864|San Sebastián de Yalí
+12.5326|-85.7107|Santa Lucía
+13.7467|-86.7112|Santa María
+12.8012|-86.3699|Santa Rosa del Peñón
+11.7432|-86.2141|Santa Teresa
+12.2644|-85.0824|Santo Domingo
+12.0694|-85.0906|Santo Tomás
+13.1861|-86.9227|Santo Tomás del Norte
+13.7332|-84.7772|Siuna
+13.0439|-86.9051|Somotillo
+13.4808|-86.5821|Somoto
+12.5220|-86.8594|Telica
+13.5315|-86.2871|Telpaneca
+12.7303|-85.9647|Terrabona
+12.4203|-85.7980|Teustepe
+12.0226|-86.2049|Ticuantepe
+12.1973|-86.0971|Tipitapa
+12.0819|-86.0174|Tisma
+11.4393|-85.9389|Tola
+13.5628|-86.4925|Totogalpa
+12.5167|-86.2833|Valle San Francisco
+11.9801|-86.5057|Villa El Carmen
+12.0483|-84.9936|Villa Sandino
+13.2333|-85.3833|Waslala
+14.7419|-83.9717|Waspán
+13.6208|-85.8317|Wiwilí
+13.4838|-86.4930|Yalagüina

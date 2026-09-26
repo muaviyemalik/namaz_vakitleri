@@ -5,6 +5,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'package:timezone/data/latest_all.dart' as tz;
 import 'package:timezone/timezone.dart' as tz;
 import 'package:easy_localization/easy_localization.dart';
+import 'package:namaz_vakitleri/data/ulke_verisi.dart';
 
 // --- SAYFALARIMIZ ---
 import 'pages/anasayfa.dart';
@@ -19,6 +20,107 @@ final ValueNotifier<ThemeMode> aktifTemaModu = ValueNotifier<ThemeMode>(ThemeMod
 final FlutterLocalNotificationsPlugin bildirimServisi = FlutterLocalNotificationsPlugin();
 //Erken Uyarı Sistemi için
 final ValueNotifier<int> erkenUyariSuresi = ValueNotifier<int>(0);
+
+// --- KONUM (ÜLKE / ŞEHİR) DURUMU ---
+// Seçilen ülkenin ISO 3166-1 alpha-2 kodu (örn. "TR"). Varsayılan Türkiye.
+final ValueNotifier<String> aktifUlkeKodu = ValueNotifier<String>('TR');
+
+// Seçilen şehir. Aladhan sorgusu bu koordinatlarla yapılır; şehir adıyla
+// sorgulayan calendarByCity uç noktası küçük şehirleri çözemediği için
+// (HTTP 503 "Geocoding is temporarily unavailable") koordinat tercih
+// edilmiştir. Ayrıca meta.timezone doğru geldiği için saat dilimi
+// kaymaları da önlenir.
+final ValueNotifier<Sehir?> aktifSehir = ValueNotifier<Sehir?>(null);
+
+const String kayitliUlkeAnahtari = 'secili_ulke_kodu';
+const String kayitliSehirAnahtari = 'secili_sehir_veri';
+
+// Seçilen şehri cihazda saklar (ad + koordinat).
+Future<void> sehirKaydet(Sehir sehir) async {
+  final SharedPreferences hafiza = await SharedPreferences.getInstance();
+  await hafiza.setString(
+      kayitliSehirAnahtari, '${sehir.ad}|${sehir.enlem}|${sehir.boylam}');
+}
+
+Future<void> ulkeKaydet(String iso2) async {
+  final SharedPreferences hafiza = await SharedPreferences.getInstance();
+  await hafiza.setString(kayitliUlkeAnahtari, iso2);
+}
+
+/// Yeni şehir seçildiğinde çağrılır: state'i günceller ve cihaza kaydeder.
+///
+/// Vakitlerin yenilenmesi burada yapılmaz; ana sayfa `aktifSehir`
+/// notifier'ını dinlediği için tetiklenir. Böylece hem ayarlar sayfasından
+/// hem ana sayfadaki şehir seçiciden yapılan değişiklikler aynı yoldan geçer
+/// ve vakit çekme mantığı tek yerde kalır.
+Future<void> sehirAyarla(Sehir sehir) async {
+  final mevcut = aktifSehir.value;
+  if (mevcut != null && mevcut.ad == sehir.ad && mevcut.enlem == sehir.enlem) {
+    return; // Değişiklik yok, gereksiz istek atma.
+  }
+  aktifSehir.value = sehir;
+  await sehirKaydet(sehir);
+}
+
+// Kayıtlı ülke ve şehri cihazdan okur. Konum bulunamazsa Türkiye/Ankara
+// varsayılanına düşer.
+Future<void> konumYukle() async {
+  final SharedPreferences hafiza = await SharedPreferences.getInstance();
+
+  final String? ulke = hafiza.getString(kayitliUlkeAnahtari);
+  if (ulke != null && ulke.length == 2) aktifUlkeKodu.value = ulke;
+
+  final String? sehirHam = hafiza.getString(kayitliSehirAnahtari);
+  if (sehirHam != null) {
+    final parca = sehirHam.split('|');
+    if (parca.length == 3) {
+      final enlem = double.tryParse(parca[1]);
+      final boylam = double.tryParse(parca[2]);
+      if (enlem != null && boylam != null && parca[0].isNotEmpty) {
+        aktifSehir.value = Sehir(ad: parca[0], enlem: enlem, boylam: boylam);
+      }
+    }
+  }
+
+  if (aktifSehir.value == null) {
+    // Ankara'nın koordinatları: Türkiye'de makul bir başlangıç noktası.
+    aktifSehir.value = const Sehir(ad: 'Ankara', enlem: 39.9334, boylam: 32.8597);
+  }
+  await saatDiliminiUygula();
+}
+
+// Aladhan'ın meta.timezone değeri, vakitlerin hangi saat dilimine göre
+// olduğunu tam olarak bildirir. tz paketinin yerel konumunu buna göre
+// ayarlıyoruz.
+//
+// ÖNEMLİ: Daha önce burada sabit kodlanmış 'Europe/Istanbul' vardı. Bu,
+// uygulamanın başka ülkelerde kullanılması halinde saat dilimi
+// kaymalarına yol açıyordu. Şimdi cihazın kendi saat dilimi kullanılıyor
+// ve API'den gelen meta.timezone ile de doğrulanıp kesinleştiriliyor.
+Future<void> saatDiliminiUygula([String? metaTimezone]) async {
+  if (metaTimezone != null && metaTimezone.isNotEmpty) {
+    try {
+      tz.setLocalLocation(tz.getLocation(metaTimezone));
+      return;
+    } catch (_) {
+      // Geçersiz/geçersiz yazılmış saat dilimi adı; aşağıda varsayılana düş.
+    }
+  }
+  // Cihazın kendi saat dilimini kullan. timezone paketi varsayılan olarak
+  // UTC'dir, o yüzden açıkça ayarlamamız gerekir.
+  try {
+    final int ofsetSaniye = DateTime.now().timeZoneOffset.inSeconds;
+    final int saat = ofsetSaniye.abs() ~/ 3600;
+    // Etc/GMT dilimlerinde işaret ters yazılır: UTC+3 -> Etc/GMT-3
+    final String etiket = ofsetSaniye >= 0
+        ? 'Etc/GMT-${saat.toString().padLeft(2, '0')}'
+        : 'Etc/GMT+${saat.toString().padLeft(2, '0')}';
+    tz.setLocalLocation(tz.getLocation(etiket));
+  } catch (_) {
+    // Son çare: tüm saat dilimleri yüklenemediyse Türkiye'ye sabitle.
+    tz.setLocalLocation(tz.getLocation('Europe/Istanbul'));
+  }
+}
 
 // YENİ: Erken Uyarı Süresini Kaydetme
 Future<void> erkenUyariKaydet(int dakika) async {
@@ -74,7 +176,8 @@ void main() async {
   await EasyLocalization.ensureInitialized();
 
   tz.initializeTimeZones();
-  tz.setLocalLocation(tz.getLocation('Europe/Istanbul'));
+  // Saat dilimi artık sabit kodlanmıyor; konumYukle() cihaz saat dilimini
+  // uygular ve API'den gelen meta.timezone ile doğrular.
 
   const AndroidInitializationSettings androidAyarlari = AndroidInitializationSettings('@mipmap/ic_launcher');
   const LinuxInitializationSettings linuxAyarlari = LinuxInitializationSettings(defaultActionName: 'Uygulamayı Aç');
@@ -84,6 +187,7 @@ void main() async {
   await temaRenginiYukle();
   await temaModunuYukle();
   await erkenUyariYukle();
+  await konumYukle();
 
   runApp(
     EasyLocalization(
