@@ -17,6 +17,18 @@
 //   Aladhan API                              -> ucretsiz, anahtar gerekmez
 
 /// Tek bir atif girdisi.
+///
+/// ALANLARIN IKI KATMANLI OLUŞU:
+///  - [baslik] / [aciklama] / [lisans]: Türkçe metin. Hem yasal testlerinin
+///    ölçtüğü kaynak metin hem de çeviri dosyası yüklenemezse yedek.
+///  - [ceviriEki] / [lisansAnahtari]: 25 dildeki karşılıkların anahtarları.
+///    `assets/i18n/ceviri/<3-harfli>.json` içinde `<ceviriEki>_title`,
+///    `<ceviriEki>_desc` (ve varsa `<lisansAnahtari>`) olarak dururlar.
+///
+/// NEDEN AYRI TUTUYORUZ?
+/// ODbL-1.0 kopyalaç bir lisans; atıf metninin Türkçe hâli hukuki metindir
+/// ve `test/lisans_test.dart` onun üzerinden ölçüm yapıyor. Modeli sadece
+/// anahtarlarla değiştirmek o testi ve Türkçe yedeği ortadan kaldırırdı.
 class LisansGirdisi {
   final String baslik;
   final String aciklama;
@@ -25,6 +37,15 @@ class LisansGirdisi {
   final String? url;
   final bool kopyalac;
 
+  /// Çeviri anahtarı öneki. `'<ceviriEki>_title'` ve `'<ceviriEki>_desc'`
+  /// her 25 dil dosyasında tanımlıdır.
+  final String ceviriEki;
+
+  /// Lisans metni dil bağımsız değilse tam anahtarı (örn.
+  /// `license_aladhan_terms`). Proper noun ise (ODbL-1.0, CC BY 4.0, MIT)
+  /// null bırakılır ve [lisans] olduğu gibi gösterilir.
+  final String? lisansAnahtari;
+
   const LisansGirdisi({
     required this.baslik,
     required this.aciklama,
@@ -32,6 +53,8 @@ class LisansGirdisi {
     this.kaynak,
     this.url,
     this.kopyalac = false,
+    required this.ceviriEki,
+    this.lisansAnahtari,
   });
 }
 
@@ -46,6 +69,7 @@ const List<LisansGirdisi> lisansGirdileri = [
     kaynak: 'dr5hn/countries-states-cities-database',
     url: 'https://github.com/dr5hn/countries-states-cities-database',
     kopyalac: true,
+    ceviriEki: 'license_city_db',
   ),
   LisansGirdisi(
     baslik: 'Ülke-Dil İlişkisi',
@@ -55,6 +79,7 @@ const List<LisansGirdisi> lisansGirdileri = [
     kaynak: 'mledoze/countries',
     url: 'https://github.com/mledoze/countries',
     kopyalac: true,
+    ceviriEki: 'license_country_lang',
   ),
 
   // --- Serbest lisanslı veri ---
@@ -66,6 +91,7 @@ const List<LisansGirdisi> lisansGirdileri = [
     lisans: 'CC BY 4.0 (Creative Commons Attribution)',
     kaynak: 'GeoNames cities15000',
     url: 'https://www.geonames.org/webservices/',
+    ceviriEki: 'license_geonames',
   ),
   LisansGirdisi(
     baslik: 'Dil Adları (otokton adlar)',
@@ -74,6 +100,7 @@ const List<LisansGirdisi> lisansGirdileri = [
     lisans: 'MIT',
     kaynak: 'haliaeetus/iso-639',
     url: 'https://github.com/haliaeetus/iso-639',
+    ceviriEki: 'license_iso639',
   ),
 
   // --- Servisler ---
@@ -84,6 +111,8 @@ const List<LisansGirdisi> lisansGirdileri = [
     lisans: 'Ücretsiz kullanım',
     kaynak: 'Aladhan Prayer Times API',
     url: 'https://aladhan.com/prayer-times-api',
+    ceviriEki: 'license_aladhan',
+    lisansAnahtari: 'license_aladhan_terms',
   ),
   LisansGirdisi(
     baslik: 'Kur’an Çevirileri',
@@ -92,6 +121,8 @@ const List<LisansGirdisi> lisansGirdileri = [
     lisans: 'Çeviri başına kaynaklı',
     kaynak: 'AlQuran Cloud',
     url: 'https://alquran.cloud',
+    ceviriEki: 'license_quran',
+    lisansAnahtari: 'license_quran_terms',
   ),
 ];
 
@@ -100,6 +131,11 @@ const List<LisansGirdisi> lisansGirdileri = [
 /// ODbL, veritabanı türevlerinin kaynağını belirtmeyi zorunlu kılar. Bu
 /// metin uygulama içinde de görünmelidir; README'deki atıf tek başına
 /// yeterli değildir.
+///
+/// NOT: Bu sabit Türkçe kaynak metindir ve `test/lisans_test.dart` bunun
+/// üzerinden ölçüm yapar. Ekranda 25 dilde gösterilen hâli
+/// `license_odbl_notice` çeviri anahtarından gelir; çeviri dosyası
+/// yüklenemezse bu sabit yedek olarak kalır.
 const String odblAciklamasi =
     'Bu uygulama, Open Database Commons Open Database License (ODbL-1.0) '
     'lisanslı veri setlerinden alınan verileri içerir. ODbL-1.0 kopyalaç bir '
@@ -111,6 +147,9 @@ const String odblAciklamasi =
 ///
 /// CC BY 4.0 da atıf zorunludur; kaynak, lisans ve değişiklik (blendirilen
 /// veri) belirtilmelidir.
+///
+/// NOT: Ekranda 25 dilde gösterilen hâli `license_geonames_notice` çeviri
+/// anahtarından gelir; bu sabit Türkçe kaynak metindir.
 const String geoNamesAciklamasi =
     'Bu uygulama, GeoNames cities15000 veri setini kullanır '
     '(© GeoNames, CC BY 4.0). GeoNames verisi, uygulamanın kendi şehir '

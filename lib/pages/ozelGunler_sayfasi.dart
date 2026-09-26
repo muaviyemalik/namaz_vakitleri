@@ -8,19 +8,41 @@ import '../data/ozel_gunler.dart';
 class OzelGunlerSayfasi extends StatelessWidget {
   const OzelGunlerSayfasi({super.key});
 
-  Future<List<DiniGun>> _ozelGunleriGetirAPI(String aktifDil) async {
-    // API hissi vermek için 1 saniye bekletiyoruz
-    await Future.delayed(const Duration(seconds: 1));
-
-    // Veri havuzundan o anki dile uygun veriyi çekiyoruz
-    final List<Map<String, dynamic>> hamVeriler = OzelGunler.ozelGunleriGetir(aktifDil);
-    
-    return hamVeriler.map((eleman) => DiniGun.fromJson(eleman)).toList();
-  }
-
   @override
   Widget build(BuildContext context) {
-    String aktifDil = context.locale.languageCode;
+    final String aktifDil = context.locale.languageCode;
+
+    // Veri gömülü bir statik map'ten geliyor; ağ isteği ve bekleme yok.
+    //
+    // ÖNCE: 1 saniyelik sahte bir gecikme ("API hissi") ekleniyordu ve liste
+    // `build()` içinde `FutureBuilder(future: _ozelGunleriGetirAPI(...))`
+    // ile çiziliyordu. Future her build'de YENİDEN oluşturulduğu için
+    // FutureBuilder her yeniden çizimde sıfırlanıyor ve
+    // `connectionState` yeniden "waiting"e dönüyordu: tema rengi, karanlık
+    // mod veya dil değişiminde liste 1 saniye boyunca yerine çark gösterip
+    // kayboluyordu. Ana menü `IndexedStack` kullandığı için bu, kullanıcı
+    // başka sekmede olsa bile oluşuyordu.
+    //
+    // Aşağıdaki üç metin, veride karşılığı eksik alanlar için YEDEK'tir.
+    // `ozel_gunler.dart` 25 dilin her biri için 9 kaydı eksiksiz tanımladığı
+    // için normalde hiç görünmezler. Yine de çeviri dosyasından geliyorlar:
+    // önceden burada Türkçe sabitler yazılıydı ("Bilinmeyen Gün", "Tarih Yok",
+    // "Açıklama bulunamadı."), yani bir dil bloğu eksik kaldığında (örn. yeni
+    // bir çeviri dosyası eklenip `ozel_gunler.dart`'e karşılığı unutulursa)
+    // o dilde Türkçe metin çıkardı.
+    //
+    // Sıralama önemli: önce yedekler, üstüne gerçek veri yazılıyor. Dart'ta
+    // map yayılımında sağdaki kazanır, dolayısıyla `eleman` o anahtarı taşıdığı
+    // sürece yedek ezilmez ve `DiniGun.fromJson` imzası değişmeden kalır.
+    final Map<String, String> yedekler = <String, String>{
+      'isim': 'special_day_unknown'.tr(),
+      'tarih': 'special_day_no_date'.tr(),
+      'aciklama': 'special_day_no_description'.tr(),
+    };
+
+    final List<DiniGun> gunler = OzelGunler.ozelGunleriGetir(aktifDil)
+        .map((eleman) => DiniGun.fromJson(<String, String>{...yedekler, ...eleman}))
+        .toList(growable: false);
 
     return Scaffold(
       appBar: AppBar(
@@ -47,47 +69,19 @@ class OzelGunlerSayfasi extends StatelessWidget {
             ],
           ),
         ),
-        child: FutureBuilder<List<DiniGun>>(
-          future: _ozelGunleriGetirAPI(aktifDil), 
-          builder: (context, snapshot) {
-            if (snapshot.connectionState == ConnectionState.waiting) {
-              return Center(
-                child: Column(
-                  mainAxisAlignment: MainAxisAlignment.center,
-                  children: [
-                    const CircularProgressIndicator(),
-                    const SizedBox(height: 16),
-                    Text('loading'.tr(), style: TextStyle(color: Theme.of(context).colorScheme.primary)),
-                  ],
-                ),
-              );
-            }
-            
-            if (snapshot.hasError) {
-              return Center(child: Text('Hata / Error: ${snapshot.error}', style: const TextStyle(color: Colors.red)));
-            }
-            
-            if (snapshot.hasData) {
-              List<DiniGun> gelenListe = snapshot.data!; 
-              
-              return ListView.builder(
-                padding: const EdgeInsets.all(16.0),
-                itemCount: gelenListe.length, 
-                itemBuilder: (context, index) {
-                  DiniGun oAnkiGun = gelenListe[index]; 
-                  return _gunKarti(context, oAnkiGun.isim, oAnkiGun.tarih, oAnkiGun.hicriTarih, oAnkiGun.ikon, oAnkiGun.aciklama, aktifDil);
-                },
-              );
-            }
-            
-            return const Center(child: Text('No data found.'));
+        child: ListView.builder(
+          padding: const EdgeInsets.all(16.0),
+          itemCount: gunler.length,
+          itemBuilder: (context, index) {
+            final DiniGun oAnkiGun = gunler[index];
+            return _gunKarti(context, oAnkiGun.isim, oAnkiGun.tarih, oAnkiGun.hicriTarih, oAnkiGun.ikon, oAnkiGun.aciklama);
           },
         ),
       ),
     );
   }
 
-  Widget _gunKarti(BuildContext context, String isim, String tarih, String hicriTarih, IconData ikon, String aciklama, String aktifDil) {
+  Widget _gunKarti(BuildContext context, String isim, String tarih, String hicriTarih, IconData ikon, String aciklama) {
     bool karanlikMi = Theme.of(context).brightness == Brightness.dark;
 
     return Card(
@@ -106,13 +100,16 @@ class OzelGunlerSayfasi extends StatelessWidget {
           ],
         ),
         trailing: Icon(Icons.arrow_forward_ios, size: 16, color: karanlikMi ? Colors.grey.shade500 : Colors.grey),
-        onTap: () => _altPanelAc(context, isim, tarih, hicriTarih, aciklama, ikon, aktifDil),
+        onTap: () => _altPanelAc(context, isim, tarih, hicriTarih, aciklama, ikon),
       ),
     );
   }
 
-  void _altPanelAc(BuildContext context, String isim, String tarih, String hicriTarih, String aciklama, IconData ikon, String aktifDil) {
-    String kapatYazisi = (aktifDil == 'en') ? 'Close' : 'Kapat';
+  void _altPanelAc(BuildContext context, String isim, String tarih, String hicriTarih, String aciklama, IconData ikon) {
+    // ÖNCE: `aktifDil == 'en' ? 'Close' : 'Kapat'` — uygulama 25 dilde çalışmasına
+    // rağmen bu düğme yalnızca İngilizce/Türkçe ayrımı yapıyordu, yani diğer
+    // 23 dilde Türkçe "Kapat" görünüyordu. Artık çeviri dosyasından geliyor.
+    String kapatYazisi = 'close'.tr();
 
     showModalBottomSheet(
       context: context,

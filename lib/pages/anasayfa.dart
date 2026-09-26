@@ -18,6 +18,8 @@ import 'package:perfect_volume_control/perfect_volume_control.dart';
 import '../data/veri_havuzu.dart';
 import '../data/ulke_verisi.dart';
 import '../main.dart';
+import '../utils/erken_uyari_zamani.dart';
+import '../utils/vakit_widget_verisi.dart';
 import '../widgets/sehir_secici.dart';
 
 class _AnaSayfaState extends State<AnaSayfa> {
@@ -62,6 +64,11 @@ Future<void> _hedefKaydet(int deger) async {
   String miladiTarih = ""; //Mevcut miladi tarih
   String hicriTarih = ""; // Mevcut hicri tarih
 
+  // VakitWidget'a yazılan son içerik. Yazma kararı bu sınıfın içinde:
+  // saniye saniye aynı gelen ad+saat için gereksiz yazma (ve Android'de
+  // her saniye widget uyanması) böylece engelleniyor.
+  final VakitWidgetVerisi _vakitWidgetVerisi = VakitWidgetVerisi();
+
   // NOT: Aktif şehir artık bu sınıfta değil, main.dart içindeki global
   // `aktifSehir` notifier'ında tutuluyor. Böylece ayarlar sayfasından
   // yapılan ülke değişikliği de aynı state'i günceller; iki ayrı kaynak
@@ -83,6 +90,9 @@ Future<void> _hedefKaydet(int deger) async {
 
     // Hesaplama yöntemi değişirse vakitler değişir; yeniden çek.
     aktifHesaplamaYontemi.addListener(_yontemDegisti);
+
+    // Erken uyarı süresi değişirse PLANLANMIŞ alarmlar yeniden kurulmalı.
+    erkenUyariSuresi.addListener(_erkenUyariDegisti);
 
     // YENİ: Ses tuşlarını dinlemeye başla
     PerfectVolumeControl.stream.listen((value) {
@@ -138,6 +148,21 @@ Future<void> _hedefKaydet(int deger) async {
     await vakitleriGetir();
   }
 
+  /// Erken uyarı süresi değiştiğinde tetiklenir.
+  ///
+  /// ÖNCE bu dinleyici yoktu. Erken uyarı bildirimleri artık sistemde
+  /// PLANLANDIĞI için (uygulama kapalıyken de çalışsın diye) bu değişiklik
+  /// yalnızca kaydedilmekle kalmamalı, alarmlar da yeniden kurulmalı.
+  /// Aksi hâlde kullanıcı 15 dakikayı seçtiğinde alarmlar hâlâ eski
+  /// ayarla (30 veya 45) planlanmış olarak kalırdı.
+  Future<void> _erkenUyariDegisti() async {
+    if (!mounted) return;
+    // Vakitler yoksa planlanacak bir şey de yoktur; vakitler gelince
+    // `_gunlukBildirimleriZamanla` zaten güncel ayarla kuracak.
+    if (vakitler == null) return;
+    await _gunlukBildirimleriZamanla();
+  }
+
   /// Aktif şehir değiştiğinde tetiklenir: yeni şehrin vakitlerini çeker.
   ///
   /// Hem ana sayfadaki şehir seçiciden hem de ayarlar sayfasındaki ülke
@@ -168,40 +193,51 @@ Future<void> _hedefKaydet(int deger) async {
     // bellek sızıntısı oluşur.
     aktifSehir.removeListener(_aktifSehirDegisti);
     aktifHesaplamaYontemi.removeListener(_yontemDegisti);
+    erkenUyariSuresi.removeListener(_erkenUyariDegisti);
     super.dispose();
   }
 
-  // --- YENİ EKLENEN: BİLDİRİM GÖNDERME FONKSİYONU ---
-  Future<void> _vakitBildirimiGonder({bool erkenUyariMi = false}) async {
-    // Hafızadaki erken uyarı dakikasını çekiyoruz (15, 30 veya 45)
-    int erkenDakika = erkenUyariSuresi.value;
-    
-    // YENİ: Başlık ve içerik, erken uyarı olup olmadığına göre değişiyor
-    String baslik = erkenUyariMi ? 'early_warning'.tr() : 'Vakit Geldi!';
-    String icerik = erkenUyariMi 
-        ? '${siradakiVakitIsmi.tr()} vaktine $erkenDakika dakika kaldı. Hazırlanma vakti!' 
-        : '${siradakiVakitIsmi.tr()} vakti girdi. Haydi namaza!';
-
-    const AndroidNotificationDetails androidDetay = AndroidNotificationDetails(
-      'ezan_kanali', 
-      'Ezan Vakitleri',
-      channelDescription: 'Vakit girdiğinde veya yaklaşırken haber verir',
-      importance: Importance.max,
-      priority: Priority.high,
-    );
-    const LinuxNotificationDetails linuxDetay = LinuxNotificationDetails();
-
-    final NotificationDetails bildirimDetaylari = NotificationDetails(
-      android: androidDetay, 
-      linux: linuxDetay
-    );
-
-    await bildirimServisi.show(
-      // Erken uyarıların ID'sini 1 yapıyoruz ki, asıl ezan bildirimi geldiğinde onu ezmesin, ayrı düşsün
-      id: erkenUyariMi ? 1 : 0, 
-      title: baslik, 
-      body: icerik, 
-      notificationDetails: bildirimDetaylari,
+  // --- BİLDİRİM GÖNDERME ---
+  //
+  // Tüm bildirim metinleri çeviri dosyasından gelir. Önceden "Vakit Geldi!",
+  // "Ezan Vakitleri", "Uygulamayı Aç" gibi metinler Türkçe sabit yazılmıştı;
+  // uygulama 25 dilde çalışmasına rağmen bildirimler Türkçe gidiyordu.
+  //
+  // Vakit bildiriminin başlık ve içeriğini üretir.
+  //
+  // Metinlerdeki {vakit} / {dakika} yer tutucuları `namedArgs` ile doldurulur.
+  //
+  // Neden `args` değil: easy_localization 3.x'te `args: [...]` YALNIZCA "{}"
+  // desenini değiştirir ve her seferinde ilk "{}"ı doldurur; sıralı "@0/@1"
+  // desenini tanımaz. `namedArgs` ise ad eşlemesi kullanır ve her değerin
+  // metinde nerede duracağını DİLİN KENDİSİ belirler. Bu 25 dil için şart:
+  // Arapçada "بقي {dakika} دقيقة على وقت {vakit}" (kalan {dakika} dakika,
+  // {vakit} vaktine) ile Türkçede "{vakit} vaktine {dakika} dakika kaldı"
+  // sıralaması tamamen farklıdır. Sıralı desen kullanılsaydı bu iki dilden
+  // biri (ya da ikisi) anlamsız metin üretirdi.
+  ///
+  /// [erkenUyariMi] true ise erken uyarı başlığı ve dakika sayısı içerir.
+  (String, String) _bildirimMetinleri({
+    required String vakitAdi,
+    required bool erkenUyariMi,
+    required int erkenDakika,
+  }) {
+    if (erkenUyariMi) {
+      return (
+        'early_warning'.tr(),
+        'notif_early_body'.tr(
+          namedArgs: <String, String>{
+            'vakit': vakitAdi,
+            'dakika': '$erkenDakika',
+          },
+        ),
+      );
+    }
+    return (
+      'notif_time_reached'.tr(),
+      'notif_time_reached_body'.tr(
+        namedArgs: <String, String>{'vakit': vakitAdi},
+      ),
     );
   }
 
@@ -363,7 +399,16 @@ Future<void> _widgetHadisiniGuncelle() async {
   Future<bool> vakitleriGetir() async {
     if (!mounted) return false;
     final sehir = _sehir;
-    if (sehir == null) return false;
+    if (sehir == null) {
+      // Ana menü açılışta `konumYukle()` ile her zaman bir şehir yüklüyor
+      // (bulunamazsa Ankara). Yine de bu yola düşülürse sonsuza dek dönen
+      // çark yerine hata ekranı gösteriyoruz.
+      setState(() {
+        yukleniyor = false;
+        hataMesaji = 'data_load_error'.tr();
+      });
+      return false;
+    }
 
     setState(() { yukleniyor = true; });
 
@@ -436,7 +481,10 @@ Future<void> _widgetHadisiniGuncelle() async {
         // tarih) doğrudan indekslemek RangeError verip uygulamayı düşürüyordu.
         if (bugunIndex < 0 || bugunIndex >= aylikListe.length) {
           debugPrint("API cevabında $bugunIndex. gün bulunamadı, liste uzunluğu: ${aylikListe.length}");
-          setState(() { yukleniyor = false; });
+          setState(() {
+            yukleniyor = false;
+            hataMesaji = 'data_load_error'.tr();
+          });
           return false;
         }
 
@@ -470,6 +518,9 @@ Future<void> _widgetHadisiniGuncelle() async {
           hicriTarih = "$hGun $hAy $hYil";
           
           yukleniyor = false;
+          // Yükleme başarılı: önceki hata mesajını temizle ki "Tekrar dene"
+          // sonrasında ekranda kalıntı kalmasın.
+          hataMesaji = '';
         });
 
         // Sayacı da başlattık
@@ -484,25 +535,37 @@ Future<void> _widgetHadisiniGuncelle() async {
         
         return true; // <--- İŞLEM BAŞARILI, TRUE DÖNDÜR
       } else {
+        // Ne internet ne de önbellek: hata ekranı gösterilecek. Mesajı burada
+        // doldurmuyoruz; `_hataEkrani` boş bırakıldığında şehir adını içeren
+        // yerelleştirilmiş `no_internet_city` metnini kendisi kullanıyor.
         setState(() { yukleniyor = false; });
         return false; // <--- İŞLEM BAŞARISIZ (İnternet ve veri yok), FALSE DÖNDÜR
       }
     } catch (e) {
       debugPrint("Kritik Hata: $e");
-      setState(() { yukleniyor = false; });
+      setState(() {
+        yukleniyor = false;
+        hataMesaji = 'data_load_error'.tr();
+      });
       return false; // <--- HATA OLDU, FALSE DÖNDÜR
     }
   }
 
   // 7. SAYAÇ MANTIĞI
   void sayaciBaslat() {
-    // Timer.periodic: İçindeki kodu 1 saniyede bir sonsuza kadar tekrar eder.
+    // ÖNEMLİ: Bu metot vakitler her yenilendiğinde yeniden çağrılıyor
+    // (şehir değişimi, hesaplama yöntemi değişimi, GPS ile konum bulma).
+    // Timer.periodic iptal edilmeden üstüne yeni bir tane kurulursa eskisi
+    // çalışmaya devam eder ve her saniye N kez setState, N kez bildirim
+    // tetiği ve N kez widget yazımı olur. Kullanıcı 5 şehir denediğinde
+    // saniyede 5 katı iş yapan 5 timer birikmiş olur.
+    _zamanlayici?.cancel();
     _zamanlayici = Timer.periodic(const Duration(seconds: 1), (timer) {
       kalanSureyiHesapla();
     });
     kalanSureyiHesapla(); // İlk saniyeyi beklemeden hemen ilk hesaplamayı yap.
   }
-// --- EKSİK OLAN ARKA PLAN BİLDİRİM DÖNGÜSÜ ---
+// --- ARKA PLAN BİLDİRİM DÖNGÜSÜ ---
   Future<void> _gunlukBildirimleriZamanla() async {
     if (Platform.isAndroid || Platform.isIOS) {
     if (vakitler == null) return;
@@ -515,7 +578,13 @@ Future<void> _widgetHadisiniGuncelle() async {
         'asr': vakitler!['Asr'], 'maghrib': vakitler!['Maghrib'], 'isha': vakitler!['Isha'],
       };
 
-    int id = 0;
+    // Alarm kimlikleri çakışmamalı. Vakit bildirimi 100-105, erken uyarı
+    // 200-205 bandında. Önceden erken uyarı hiç planlanmıyordu, bu yüzden
+    // çakışma sorunu yoktu; artık iki tür bildirim bir arada var.
+    const int vakitIdBasi = 100;
+    const int erkenUyariIdBasi = 200;
+    int sira = 0;
+
     // forEach içindeki async geri çağrılarını beklenmediği için alarmlar
     // yarış koşuluyla kuruluyor, üstelik id değişkeni her seferinde artıyordu.
     // Sıralı bir döngüyle hepsinin tamamlanmasını bekliyoruz.
@@ -527,22 +596,107 @@ Future<void> _widgetHadisiniGuncelle() async {
       DateTime vakitZamani = DateTime(suAn.year, suAn.month, suAn.day, int.parse(saatDakika[0]), int.parse(saatDakika[1]));
 
       if (vakitZamani.isAfter(suAn)) {
-        await _tekilAlarmKur(id, vakitAdi.tr(), vakitZamani);
+        // Vakit adı, alarm KURULURKEN çeviriye bağlanır. Çünkü alarm
+        // bildirimi uygulama kapalıyken gösterilecek ve o an hafızada
+        // hangi dilin seçili olduğunu bilmenin güvenilir yolu yok.
+        //
+        // Bu yüzden bildirim metinleri de çeviri dosyasından gelmelidir:
+        // "Vakit Geldi!" gibi Türkçe sabitler, Türkçe seçili bir kullanıcının
+        // İngilizce alarmıyla Türkçe bildirim almasına yol açardı.
+        await _tekilAlarmKur(vakitIdBasi + sira, vakitAdi.tr(), vakitZamani);
+
+        // Erken uyarı da AYNI şekilde sisteme planlanır. Önceden yalnızca
+        // `kalanSureyiHesapla` içindeki saniyelik sayaçla tetikleniyordu; yani
+        // uygulama kapalıyken hiç çalışmıyor, uygulama açıkken de o tek
+        // saniyeyi kaçırırsa kalıcı olarak kayboluyordu.
+        final DateTime? erkenUyari =
+            erkenUyariZamani(vakitZamani, erkenUyariSuresi.value);
+        if (erkenUyari != null && erkenUyari.isAfter(suAn)) {
+          await _erkenUyariAlarmiKur(
+              erkenUyariIdBasi + sira, vakitAdi.tr(), erkenUyari, erkenUyariSuresi.value);
+        }
       }
-      id++;
+      sira++;
     }
   }
   }
 
-  Future<void> _tekilAlarmKur(int id, String vakitAdi, DateTime zaman) async {
-    const AndroidNotificationDetails androidDetay = AndroidNotificationDetails(
-      'ezan_kanali_arka_plan', 
-      'Arka Plan Ezan Vakitleri',
-      channelDescription: 'Uygulama kapalıyken vakit girdiğinde haber verir',
+  /// Erken uyarı alarmını kurar.
+  ///
+  /// Vakit alarmından AYRI bir kanal kullanır: kullanıcı erken uyarıyı kapatıp
+  /// vakit bildirimini açık bırakabilmeli. Aynı kanal kullanılsaydı iki
+  /// bildirim birbirinin yerine geçerdi.
+  Future<void> _erkenUyariAlarmiKur(
+      int id, String vakitAdi, DateTime zaman, int erkenDakika) async {
+    final AndroidNotificationDetails androidDetay = AndroidNotificationDetails(
+      'erken_uyari_kanali',
+      'notif_channel_early_name'.tr(),
+      channelDescription: 'notif_channel_early_desc'.tr(),
       importance: Importance.max,
       priority: Priority.high,
     );
-    const NotificationDetails bildirimDetaylari = NotificationDetails(android: androidDetay);
+    final NotificationDetails bildirimDetaylari =
+        NotificationDetails(android: androidDetay);
+
+    final (String baslik, String icerik) = _bildirimMetinleri(
+      vakitAdi: vakitAdi,
+      erkenUyariMi: true,
+      erkenDakika: erkenDakika,
+    );
+
+    try {
+      await bildirimServisi.zonedSchedule(
+        id: id,
+        title: baslik,
+        body: icerik,
+        scheduledDate: tz.TZDateTime.from(zaman, tz.local),
+        notificationDetails: bildirimDetaylari,
+        androidScheduleMode: AndroidScheduleMode.exactAllowWhileIdle,
+      );
+    } on PlatformException catch (e) {
+      debugPrint("Erken uyarı alarmı tam zamanlı kurulamadı ($e), yaklaşık moda geçiliyor.");
+      try {
+        await bildirimServisi.zonedSchedule(
+          id: id,
+          title: baslik,
+          body: icerik,
+          scheduledDate: tz.TZDateTime.from(zaman, tz.local),
+          notificationDetails: bildirimDetaylari,
+          androidScheduleMode: AndroidScheduleMode.inexactAllowWhileIdle,
+        );
+      } catch (e2) {
+        debugPrint("Erken uyarı alarmı kurulamadı: $e2");
+      }
+    }
+  }
+
+  Future<void> _tekilAlarmKur(int id, String vakitAdi, DateTime zaman) async {
+    // Kanal adı ve açıklaması da çevrilir. `AndroidNotificationDetails` daha
+    // önce `const` idi; çeviri çalışma zamanında geldiği için burada sabit
+    // olamaz. Bu, `zonedSchedule` çağrısını etkilemez.
+    //
+    // DİKKAT (Android): Kanal adı/açıklaması sistemde bir kez oluşturulur.
+    // Kullanıcı alarmı ilk kez Türkçe kurduysa, sonra dili değiştirdiğinde
+    // kanalin ADI eski dilde kalır (Android kanalı yeniden adlandırmayı
+    // desteklemez). Bildirimin başlığı ve içeriği ise her seferinde güncel
+    // dilden üretildiği için her zaman doğru dilde görünür.
+    final AndroidNotificationDetails androidDetay = AndroidNotificationDetails(
+      'ezan_kanali_arka_plan', 
+      'notif_channel_bg_name'.tr(),
+      channelDescription: 'notif_channel_bg_desc'.tr(),
+      importance: Importance.max,
+      priority: Priority.high,
+    );
+    final NotificationDetails bildirimDetaylari =
+        NotificationDetails(android: androidDetay);
+
+    // Alarm başlığı/İçeriği de güncel dilden. `vakitAdi` zaten çevrilmiş
+    // geliyor (bkz. _gunlukBildirimleriZamanla -> vakitAdi.tr()).
+    final (String baslik, String icerik) = _bildirimMetinleri(
+      vakitAdi: vakitAdi,
+      erkenUyariMi: false,
+      erkenDakika: 0,
+    );
 
     // YENİ SÜRÜM KURALLARI: Bütün parametreler isimlendirildi (named arguments) 
     // ve kaldırılan uiLocalNotificationDateInterpretation ayarı silindi.
@@ -552,8 +706,8 @@ Future<void> _widgetHadisiniGuncelle() async {
     try {
       await bildirimServisi.zonedSchedule(
         id: id,
-        title: 'Vakit Geldi!',
-        body: '$vakitAdi vakti girdi. Haydi namaza!',
+        title: baslik,
+        body: icerik,
         scheduledDate: tz.TZDateTime.from(zaman, tz.local),
         notificationDetails: bildirimDetaylari,
         androidScheduleMode: AndroidScheduleMode.exactAllowWhileIdle, // Uykuda bile uyandırır
@@ -563,8 +717,8 @@ Future<void> _widgetHadisiniGuncelle() async {
       try {
         await bildirimServisi.zonedSchedule(
           id: id,
-          title: 'Vakit Geldi!',
-          body: '$vakitAdi vakti girdi. Haydi namaza!',
+          title: baslik,
+          body: icerik,
           scheduledDate: tz.TZDateTime.from(zaman, tz.local),
           notificationDetails: bildirimDetaylari,
           androidScheduleMode: AndroidScheduleMode.inexactAllowWhileIdle,
@@ -615,34 +769,48 @@ Future<void> _widgetHadisiniGuncelle() async {
     Duration fark = siradakiVakitZamani.difference(suAn);
     String formatliFark = '${fark.inHours.toString().padLeft(2, '0')}:${(fark.inMinutes % 60).toString().padLeft(2, '0')}:${(fark.inSeconds % 60).toString().padLeft(2, '0')}';
     
-    // --- 1. NORMAL BİLDİRİM TETİĞİ (Tam Vakit Girdiğinde) ---
-    if (formatliFark == "00:00:00") {
-      _vakitBildirimiGonder();
-    }
-
-    // --- 2. YENİ: ERKEN UYARI TETİĞİ (Zaman Makinesi) ---
-    int erkenDakika = erkenUyariSuresi.value;
-    if (erkenDakika > 0) {
-      int erkenUyariSaniyesi = erkenDakika * 60; // Seçilen dakikayı saniyeye çevir (Örn: 15 * 60 = 900)
-      
-      // Kalan toplam saniye (fark.inSeconds), tam olarak erken uyarı saniyesine eşitse bildirim gönder.
-      if (fark.inSeconds == erkenUyariSaniyesi) {
-         _vakitBildirimiGonder(erkenUyariMi: true); 
-      }
-    }
+    // Burada BİLDİRİM GÖNDERİLMİYOR. Vakit ve erken uyarı bildirimleri
+    // `_gunlukBildirimleriZamanla` tarafından SİSTEME planlanır; yukarıdaki
+    // açıklamaya bakınız. Sayaç yalnızca ekrandaki geri sayımı günceller.
+    //
+    // ÖNCE burada iki koşul vardı ve bildirimler buradan gönderiliyordu:
+    //   1) geri sayım metninin tam sıfır olması → vakit bildirimi
+    //   2) kalan saniyenin seçilen dakikaya eşit olması → erken uyarı
+    // İkisi de (a) uygulama kapalıyken hiç çalışmıyordu, (b) tam eşitlik
+    // gerektirdiği için o tek saniye kaçırılırsa bildirim kalıcı olarak
+    // kayboluyordu. Üstelik planlanan alarm da olduğu için bildirim ÇİFT
+    // geliyordu.
 
     // Ekranda değişen sadece bu iki değişken olduğu için sadece bunları setState içine alıyoruz.
     setState(() { siradakiVakitIsmi = siradakiVakitAd; kalanSureMetni = formatliFark; });
 
     // Widget Güncellemesi
-    if (Platform.isAndroid || Platform.isIOS) {
-      // DÜZELTİLEN KISIM: siradakiVakitAd değişkeninin sonuna .tr() eklendi
-      HomeWidget.saveWidgetData<String>('kayitli_vakit_ad', siradakiVakitAd.tr()); 
-      
-      String siradakiVakitSaati = vakitListesi[siradakiVakitAd] ?? vakitler!['Fajr'];
-      HomeWidget.saveWidgetData<String>('kayitli_vakit_saat', siradakiVakitSaati);
-      HomeWidget.updateWidget(name: 'VakitWidget');
-    }
+    _widgetVakitleriniGuncelle(
+      siradakiVakitAd,
+      vakitListesi[siradakiVakitAd] ?? vakitler!['Fajr'],
+    );
+  }
+
+  /// VakitWidget'ın verisini yazar, ama yalnızca değiştiğinde.
+  ///
+  /// ÖNEMLİ: Bu veri önceden `kalanSureyiHesapla` içinde, saniye saniye
+  /// yazılıyordu. `saveWidgetData` her çağrıda paylaşılan tercihleri
+  /// yazdığı, `updateWidget` ise Android'e "aracı yenile" sinyali gönderdiği
+  /// için widget her saniye uyanıyordu: pil düşüyor, araç gözle görülür
+  /// şekilde titriyordu — üstelik yazılan içerik (ad + saat) saniye başına
+  /// değişmediği için her yazma boşuna iş yapmaktı.
+  ///
+  /// Karşılaştırma çevrilmiş adı tutar; böylece kullanıcı dili değiştirdiğinde
+  /// widget yeni dildeki adı da alır.
+  void _widgetVakitleriniGuncelle(String vakitAdi, String vakitSaati) {
+    if (!Platform.isAndroid && !Platform.isIOS) return;
+
+    final String cevrilmisAd = vakitAdi.tr();
+    if (!_vakitWidgetVerisi.yazmaliMi(cevrilmisAd, vakitSaati)) return;
+
+    HomeWidget.saveWidgetData<String>('kayitli_vakit_ad', cevrilmisAd);
+    HomeWidget.saveWidgetData<String>('kayitli_vakit_saat', vakitSaati);
+    HomeWidget.updateWidget(name: 'VakitWidget');
   }
 
   void _zikirmatikPaneliniAc(BuildContext context) {
@@ -897,8 +1065,16 @@ Future<void> _widgetHadisiniGuncelle() async {
         child: Center(
           child: yukleniyor
               ? const CircularProgressIndicator() // Yükleniyorsa dönen çark
-              : hataMesaji.isNotEmpty
-                  ? Padding(padding: const EdgeInsets.all(20), child: Text(hataMesaji, textAlign: TextAlign.center)) // Hata varsa metni bas
+              // Vakitler hiç yüklenemedi (internet yok ve önbellekte bu şehir
+              // için kayıt bulunmuyor).
+              //
+              // ÖNCE: burada yalnızca `hataMesaji` doluysa hata metni
+              // basılıyordu; o değişken hiçbir yerde doldurulmadığı için
+              // liste çizilmeye çalışılıyor ve `vakitler!['Fajr']` null check
+              // hatası verip uygulama kırmızı ekranla ÇÖKÜYORDU. İlk açılışta
+              // internetsiz cihazda yani uygulamayı hiç kullanamama durumu.
+              : vakitler == null
+                  ? _hataEkrani(context)
                   : // Column ve Expanded yerine tüm sayfayı tek bir ListView yapıyoruz:
                    ListView(
                       padding: const EdgeInsets.only(bottom: 20), // En alta biraz boşluk
@@ -935,7 +1111,70 @@ Future<void> _widgetHadisiniGuncelle() async {
     );
   }
 
- Widget _anaSayacKarti() {
+  /// Vakitler yüklenemediğinde gösterilen ekran.
+  ///
+  /// Önceden bu durum hiç işlenmiyordu: `build` yüklenme bittiğinde doğrudan
+  /// vakit kartlarını çizmeye geçiyordu ve `vakitler` null olduğu için
+  /// uygulama çöküyordu. Kullanıcı internetsiz ilk açılışta uygulamayı hiç
+  /// kullanamıyordu.
+  ///
+  /// Burada iki şey önemli: kullanıcıya ne olduğu söyleniyor ve elinde tek bir
+  /// işlem olduğu için "Tekrar dene" sunuluyor. İnternet gelince tek
+  /// dokunuşla vakitler yeniden çekilir.
+  Widget _hataEkrani(BuildContext context) {
+    final bool karanlikMi = Theme.of(context).brightness == Brightness.dark;
+
+    return Padding(
+      padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 24),
+      child: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          Icon(
+            Icons.cloud_off,
+            size: 64,
+            color: karanlikMi ? Colors.white38 : Colors.black26,
+          ),
+          const SizedBox(height: 20),
+          Text(
+            'data_load_error'.tr(),
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              fontSize: 18,
+              fontWeight: FontWeight.bold,
+              color: karanlikMi ? Colors.white : Colors.black87,
+            ),
+          ),
+          const SizedBox(height: 10),
+          Text(
+            hataMesaji.isNotEmpty
+                ? hataMesaji
+                : 'no_internet_city'.tr(args: [_sehirAdi]),
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              fontSize: 14,
+              color: karanlikMi ? Colors.white60 : Colors.black54,
+            ),
+          ),
+          const SizedBox(height: 28),
+          FilledButton.icon(
+            onPressed: _yenidenDene,
+            icon: const Icon(Icons.refresh),
+            label: Text('retry'.tr()),
+          ),
+        ],
+      ),
+    );
+  }
+
+  /// "Tekrar dene" düğmesi: önceki hata mesajını temizleyip vakitleri yeniden
+  /// çeker. `vakitleriGetir` yüklenme durumunu kendi yönetir.
+  Future<void> _yenidenDene() async {
+    if (!mounted) return;
+    setState(() { hataMesaji = ''; });
+    await vakitleriGetir();
+  }
+
+  Widget _anaSayacKarti() {
     // O anki temanın karanlık olup olmadığını tespit ediyoruz
     bool karanlikMi = Theme.of(context).brightness == Brightness.dark;
     

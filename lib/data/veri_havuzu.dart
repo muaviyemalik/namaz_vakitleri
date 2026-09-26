@@ -1,4 +1,5 @@
 // lib/data/veri_havuzu.dart
+import '../utils/icerik_dili.dart';
 
 class VeriHavuzu {
   // --- AYETLER ---
@@ -627,12 +628,18 @@ class VeriHavuzu {
   // --- VERİ ÇAĞIRMA FONKSİYONLARI ---
   // Uygulama dili neyse onu göndeririz, o dildeki listeyi bize anında teslim eder.
   // Eğer istenen dil listede yoksa (örn: Fransızca açıldıysa), varsayılan olarak İngilizce veya Türkçe döner.
-  
+  //
+  // DİKKAT: Veri anahtarları 2 harfli ISO 639-1'dir ('tr', 'en', 'zh') ama
+  // uygulamanın locale'i 3 harfli ISO 639-2/3'tür ('tur', 'eng', 'zho').
+  // `icerikDilKodu` bu ikisini eşleştirir; eşleme olmazsa 'tur' araması null
+  // döner ve Türkçe seçili kullanıcı İngilizce ayet/hadis görürdü.
+  // Ayrıntı: lib/utils/icerik_dili.dart
+
   static List<Map<String, String>> ayetleriGetir(String dilKodu) {
-    return ayetler[dilKodu] ?? ayetler['en']!; 
+    return ayetler[icerikDilKodu(dilKodu)] ?? ayetler['en']!;
   }
 
   static List<Map<String, String>> hadisleriGetir(String dilKodu) {
-    return hadisler[dilKodu] ?? hadisler['en']!;
+    return hadisler[icerikDilKodu(dilKodu)] ?? hadisler['en']!;
   }
 }

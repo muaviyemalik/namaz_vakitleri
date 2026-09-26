@@ -46,7 +46,9 @@ class YasalNotlarSayfasi extends StatelessWidget {
                       const SizedBox(width: 10),
                       Expanded(
                         child: Text(
-                          uygulamaAdi,
+                          // Sabit `uygulamaAdi` yerine ceviri dosyasindaki
+                          // `app_name`: uygulama adi da dile gore degisir.
+                          'app_name'.tr(),
                           style: const TextStyle(
                               fontWeight: FontWeight.bold, fontSize: 18),
                         ),
@@ -78,7 +80,8 @@ class YasalNotlarSayfasi extends StatelessWidget {
                 const SizedBox(width: 10),
                 Expanded(
                   child: Text(
-                    odblAciklamasi,
+                    // Turkce sabit yerine 25 dildeki karsiligi.
+                    'license_odbl_notice'.tr(),
                     style: const TextStyle(fontSize: 12.5, height: 1.4),
                   ),
                 ),
@@ -105,7 +108,7 @@ class YasalNotlarSayfasi extends StatelessWidget {
                 const SizedBox(width: 10),
                 Expanded(
                   child: Text(
-                    geoNamesAciklamasi,
+                    'license_geonames_notice'.tr(),
                     style: const TextStyle(fontSize: 12.5, height: 1.4),
                   ),
                 ),
@@ -144,7 +147,7 @@ class YasalNotlarSayfasi extends StatelessWidget {
                 children: [
                   Expanded(
                     child: Text(
-                      g.baslik,
+                      '${g.ceviriEki}_title'.tr(),
                       style: const TextStyle(
                           fontWeight: FontWeight.bold, fontSize: 15),
                     ),
@@ -166,7 +169,7 @@ class YasalNotlarSayfasi extends StatelessWidget {
                 ],
               ),
               const SizedBox(height: 6),
-              Text(g.aciklama,
+              Text('${g.ceviriEki}_desc'.tr(),
                   style: TextStyle(
                       fontSize: 12.5,
                       height: 1.4,
@@ -195,7 +198,12 @@ class YasalNotlarSayfasi extends StatelessWidget {
                   const SizedBox(width: 6),
                   Expanded(
                     child: Text(
-                      g.lisans,
+                      // Lisans adi cogu zaman proper noun (ODbL-1.0, CC BY 4.0,
+                      // MIT) ve dile cevrilmez; yalniz "UCRETSIZ KULLANIM" gibi
+                      // Turkce metinler icin `lisansAnahtari` doludur.
+                      g.lisansAnahtari != null
+                          ? g.lisansAnahtari!.tr()
+                          : g.lisans,
                       style: TextStyle(
                           fontSize: 11.5,
                           fontWeight: FontWeight.w500,

@@ -5,6 +5,7 @@
   "attribution_required": "出典の明記が必要です",
   "ayah_of_the_day": "今日のアーヤ",
   "calculation_method": "計算方法",
+  "calculation_source_note": "礼拝時刻は天文算法で計算されるため、公式に発表されている時刻と1〜2分異なる場合があります。",
   "cancel": "キャンセル",
   "chinese": "中国語",
   "cities_found": "見つかった",

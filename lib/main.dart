@@ -211,7 +211,16 @@ void main() async {
   // uygular ve API'den gelen meta.timezone ile doğrular.
 
   const AndroidInitializationSettings androidAyarlari = AndroidInitializationSettings('@mipmap/ic_launcher');
-  const LinuxInitializationSettings linuxAyarlari = LinuxInitializationSettings(defaultActionName: 'Uygulamayı Aç');
+  // Linux bildirimindeki eylem düğmesi adı.
+  //
+  // BİLEREK TÜRKÇE SABİT: bildirim eklentisi `runApp`'den ÖNCE
+  // başlatılmak zorunda (AnaSayfa'nın initState'i içinde bildirim izni
+  // isteniyor), ama easy_localization çevirileri EasyLocalization widget'ı
+  // kurulurken yükleniyor. Yani burada `.tr()` çağırsak çeviri henüz
+  // yüklenmemiş olur ve düğmede anahtar adı ("open_app") görünürdü.
+  // Yanlış görünen bir çeviriden iyi olan: düz ve okunur bir etiket.
+  // (Uygulamanın hedeflediği platform Android; bu yalnızca Linux.)
+  const LinuxInitializationSettings linuxAyarlari = LinuxInitializationSettings(defaultActionName: 'Open App');
   const InitializationSettings baslangicAyarlari = InitializationSettings(android: androidAyarlari, linux: linuxAyarlari);
   
   await bildirimServisi.initialize(settings: baslangicAyarlari);
@@ -329,6 +338,18 @@ class NamazVakitleriApp extends StatelessWidget {
 }
 
 // --- ALT MENÜ YÖNETİCİSİ ---
+
+/// Alt menüde açık olan sekmenin indeksi.
+///
+/// Kıble gibi donanım kullanan sayfalar yalnızca GÖRÜNÜR olduklarında çalışsın
+/// diye bunu dinler. Nedeni: sayfa bir kez kurulduktan sonra `IndexedStack`
+/// içinde yaşamaya devam eder; görünmezken de pusula sensörü açık tutulursa
+/// pil boşuna harcanır.
+final ValueNotifier<int> aktifSekmeIndeksi = ValueNotifier<int>(0);
+
+/// Kıble sekmesinin `AnaMenu` içindeki sırası.
+const int kibleSekmeIndeksi = 2;
+
 class AnaMenu extends StatefulWidget {
   const AnaMenu({super.key});
 
@@ -346,19 +367,42 @@ class _AnaMenuState extends State<AnaMenu> {
     const AyarlarSayfasi()
   ];
 
+  /// Kullanıcının en az bir kez dokunduğu sekmeler.
+  ///
+  /// `IndexedStack`, TÜM çocuklarını uygulama açılışında kurar; yani her
+  /// sayfanın `initState`'i açılışta çalışır. Kıble sayfası burada konum
+  /// istiyor ve kıble açısı bulununca pusula sensörüne abone oluyordu:
+  /// kullanıcı kıble sekmesini hiç açmasa bile GPS açılışta çalışıyor, sensör
+  /// uygulamanın ömrü boyunca açık kalıyordu.
+  ///
+  /// Çözüm: henüz açılmamış sekmelerin yerine boş bir kutu konur. Böylece o
+  /// sayfa hiç kurulmaz (`initState` çalışmaz, sensör açılmaz); kullanıcı
+  /// sekmeye dokunduğunda kurulur ve o andan sonra `IndexedStack` içinde kalır,
+  /// yani sekmeler arasında geçince durumu korunur.
+  final Set<int> _acilanSekmeler = <int>{0};
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       body: IndexedStack(
         index: _seciliSayfaIndeksi,
-        children: _sayfalar,
+        children: List<Widget>.generate(
+          _sayfalar.length,
+          (int i) => _acilanSekmeler.contains(i)
+              ? _sayfalar[i]
+              : const SizedBox.shrink(),
+        ),
       ),
       bottomNavigationBar: BottomNavigationBar(
         currentIndex: _seciliSayfaIndeksi,
         onTap: (index) {
           setState(() {
             _seciliSayfaIndeksi = index; 
+            _acilanSekmeler.add(index);
           });
+          // Sayfalar görünürlüğünü bu bildirimle takip ediyor (bkz.
+          // ValueNotifier<int> aktifSekmeIndeksi).
+          aktifSekmeIndeksi.value = index;
         },
         selectedItemColor: Theme.of(context).colorScheme.primary,
         unselectedItemColor: Colors.grey,

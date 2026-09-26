@@ -217,6 +217,65 @@ class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
 
             const SizedBox(height: 10),
 
+            // VERİ KAYNAĞI NOTU
+            //
+            // Kullanıcı vakitleri Diyanet'le karşılaştırınca bazı vakitlerde
+            // 1-2 dakikalık fark görüyor ve bunu hata sanıyor.
+            //
+            // Ölçülen durum (Eylül 2026, 11 şehir, 528 vakit): ortalama sapma
+            // 0,68 dakika. En yüksek olanlar Ankara İkindi (+2,6 dk) ve
+            // İstanbul Güneş doğumu (+2,0 dk).
+            //
+            // Sebep hesaplama yöntemi DEĞİL: Aladhan, `method` gönderilmediğinde
+            // Türkiye için doğru yöntemi (13 = Diyanet) kendisi seçiyor —
+            // `method=13` ile elle göndermek 6 vakitte de aynı sonucu veriyor.
+            // İki gerçek sebep var:
+            //   1) `assets/veri/sehirler/TR.txt` içindeki koordinatlar GeoNames /
+            //      dr5hn şehir merkezi noktaları; Diyanet tablolarını farklı bir
+            //      referans noktası için hesaplıyor. Aladhan'de 0,1 derece ≈
+            //      1 dakika ediyor. Ankara'nın koordinatı optimumlanınca toplam
+            //      sapma 8 dakikadan 3 dakikaya, İstanbul'unki 7'den 3'e iniyor.
+            //   2) Kalan ±1 dakika koordinatla kapanmıyor: Aladhan'in method 13'ü
+            //      Aladhan'in KENDİ uygulaması (cevapta `(experimental)` diye
+            //      etiketli) ve Diyanet'in yayınladığı değerlerle farklı
+            //      yuvarlama/ephemeris kullanıyor.
+            //
+            // Yani Aladhan ile Diyanet'in saati birebir eşitlenemez. Kullanıcıyı
+            // yanlış bilgilendirmemek ve bu farkı "uygulama hatası" sanmasını
+            // önlemek için not burada açıkça yazıyor.
+            Card(
+              color: Theme.of(context).cardColor,
+              elevation: Theme.of(context).brightness == Brightness.dark ? 1 : 4,
+              child: Padding(
+                padding: const EdgeInsets.fromLTRB(16, 12, 16, 12),
+                child: Row(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Icon(
+                      Icons.info_outline,
+                      size: 20,
+                      color: Theme.of(context).colorScheme.secondary,
+                    ),
+                    const SizedBox(width: 12),
+                    Expanded(
+                      child: Text(
+                        'calculation_source_note'.tr(),
+                        style: TextStyle(
+                          fontSize: 12,
+                          height: 1.4,
+                          color: Theme.of(context).brightness == Brightness.dark
+                              ? Colors.white70
+                              : Colors.black54,
+                        ),
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ),
+
+            const SizedBox(height: 10),
+
             // DİL SEÇİM KARTI
             Card(
               color: Theme.of(context).cardColor,
