@@ -43,3 +43,13 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Diyanet resmi vakit verisinin HAM indirme onbellegi (~312 MB HTML).
+# Uretilen veri `assets/veri/diyanet/` altindadir ve COMMIT EDILIR; buradaki
+# onbellek yalnizca yeniden uretimi saglar ve depoda tutulmamalidir.
+# Silinmez; yalnizca takip edilmez.
+#
+# BASLIK SART: ondeki `/` ZORUNLUDUR. Desen `veri/` (basliksiz) her
+# derinlikte `veri` adiyla eslesir ve `assets/veri/` dizinini de yanlis
+# olarak ignore ederdi; boylece resmî vakit paketi commit edilemezdi.
+/veri/

@@ -1,10 +1,15 @@
 // lib/main.dart
+import 'dart:io' show Platform;
+
 import 'package:flutter/material.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:timezone/data/latest_all.dart' as tz;
-import 'package:timezone/timezone.dart' as tz;
 import 'package:easy_localization/easy_localization.dart';
+import 'package:namaz_vakitleri/core/bildirim_motoru.dart' show PlanSirasi;
+import 'package:namaz_vakitleri/core/diyanet_verisi.dart';
+import 'package:namaz_vakitleri/core/saat.dart';
+import 'package:namaz_vakitleri/core/vakit_verisi.dart';
 import 'package:namaz_vakitleri/data/ulke_verisi.dart';
 import 'package:namaz_vakitleri/data/dil_katalogu.dart';
 import 'package:namaz_vakitleri/utils/iso1_yerellestirme.dart';
@@ -16,27 +21,135 @@ import 'pages/kible_sayfasi.dart';
 import 'pages/ayarlar_sayfasi.dart';
 
 // --- GLOBAL DEĞİŞKENLER (Tema ve Bildirim Motoru) ---
+
+/// Resmî Diyanet veri deposu. Tek örnek; tüm ekranlar ve widget bu
+/// örneği kullanır, böylece ana ekran / geri sayım / bildirim / widget
+/// AYNI kaynaktan beslenir.
+final DiyanetDepo diyanetDepo = DiyanetDepo();
+
+/// Türkiye'de resmî Diyanet verisi kullanılsın mı?
+///
+/// Varsayılan `true`: hedef budur. Kullanıcı kapatırsa mevcut Aladhan
+/// hesaplama akışı DEVAM EDER — bu akış korunur, yalnız varsayılan değildir.
+///
+/// Bu tercih [Konum.resmiDiyanetKullanilirMi]'ne DIŞARIDAN verilir; konum
+/// modeli kullanıcı tercihini bilmez.
+final ValueNotifier<bool> aktifResmiDiyanet = ValueNotifier<bool>(true);
+
+Future<void> resmiDiyanetKaydet(bool acik) async {
+  aktifResmiDiyanet.value = acik;
+  final SharedPreferences hafiza = await SharedPreferences.getInstance();
+  await hafiza.setBool(kayitliResmiDiyanetAnahtari, acik);
+}
+
 final ValueNotifier<Color> seciliTemaRengiAydinlik = ValueNotifier<Color>(Colors.teal); // Gündüz rengi
 final ValueNotifier<Color> seciliTemaRengiKaranlik = ValueNotifier<Color>(Colors.indigo); // Gece rengi
 final ValueNotifier<ThemeMode> aktifTemaModu = ValueNotifier<ThemeMode>(ThemeMode.light);
-final FlutterLocalNotificationsPlugin bildirimServisi = FlutterLocalNotificationsPlugin();
+// Bildirim eklentisi.
+//
+// Üretimde her zaman gerçek eklentidir. Testte değiştirilebilmesi için
+// `final` DEĞİLDİR: AnaSayfa'nın bildirim yolu (izin → plan → motor →
+// kalıcı kimlik dizini) ancak GERÇEK çağıran ve GERÇEK motor ile
+// ölçülebilir. Testler bu değişkeni kayıt tutan sahte bir eklentiye bağlar;
+// sahte olan yalnız taşımadır (sistem yazma/iptal), karar kodu üretimdeki
+// ile birebir aynıdır.
+FlutterLocalNotificationsPlugin bildirimServisi = FlutterLocalNotificationsPlugin();
+
+/// Bildirim eklentisini değiştirir (yalnız testler için).
+///
+/// Üretimde çağrılmaz. Testler `tearDown`'de `bildirimServisiDegistir`
+/// ile kullandıkları sahte eklentiyi temizler.
+void bildirimServisiDegistir(FlutterLocalNotificationsPlugin yeni) {
+  bildirimServisi = yeni;
+}
+
+/// Zamanlanmış bildirim yolunun açık olup olmadığı.
+///
+/// `null` (üretim) = platform kuralı: yalnız Android ve iOS'ta
+/// `flutter_local_notifications` alarm kurabildiği için masaüstünde bu yol
+/// çalıştırılmaz.
+///
+/// NEDEN `Platform` DEĞİL DE BU? AnaSayfa'nın planlama kapısı üretimde
+/// `Platform.isAndroid/isIOS` idi. Bu koşul Windows'ta `false` olduğu için
+/// `flutter test` sayfa → bildirim motoru bağlantısına HİÇ giremiyordu:
+/// entegrasyon yalnız gözle doğrulanabiliyordu. Aynı kararın tek yerden,
+/// üretimde aynı sonucu veren ve testte ölçülebilen bir yerden okunması,
+/// davranışı değiştirmeden kapıyı açar.
+bool? _bildirimYoluTasarimi;
+
+/// Testte platform kuralının yerine geçer. Üretimde çağrılmaz.
+void bildirimYoluTasarimiAyarla(bool? deger) {
+  _bildirimYoluTasarimi = deger;
+}
+
+/// [bildirimYoluTasarimi] varsa onu, yoksa platform kuralını döndürür.
+bool bildirimYoluCalisir() =>
+    _bildirimYoluTasarimi ?? (Platform.isAndroid || Platform.isIOS);
+
+/// Bildirim planına yazma hakkının sırası: UYGULAMA GENELİNDE TEK ÖRNEK.
+///
+/// Neden tek? Bildirim eklentisindeki bekleyen bildirimler ve kalıcı kimlik
+/// dizini uygulama genelinde tek kopyadır. `AnaSayfa` her açılışta kendi
+/// `BildirimMotoru` örneğini kurar; iki ekran aynı anda varsa iki motor ama
+/// tek eklenti ve tek kalıcı dizin vardır. Sıra motor örneğinde kalsaydı
+/// KALDIRILMIŞ ekranın geç kalan planı "daha yeni seçim yok" diye kendini
+/// geçerli sayar, ekranda Paris yarken cihazda Ankara alarmları kalırdı.
+/// Ölçüm: `test/ana_sayfa_bildirim_test.dart`.
+///
+/// `final` DEĞİLDİR: her test kendi temiz sırasıyla başlamalıdır. Testler
+/// `tearDown`'de üretimdeki tek örneği geri koyar.
+PlanSirasi bildirimPlanSirasi = PlanSirasi();
+
+/// Bildirim plan sırasını değiştirir (yalnız testler için).
+void bildirimPlanSirasiDegistir(PlanSirasi yeni) {
+  bildirimPlanSirasi = yeni;
+}
+
 //Erken Uyarı Sistemi için
 final ValueNotifier<int> erkenUyariSuresi = ValueNotifier<int>(0);
+
+// Güneş doğuşu bilgi bildirimi. Varsayılan KAPALI: güneş doğuşu bir
+// namaz vakti değildir ve "vakit geldi" diye bildirilmemelidir. Kullanıcı
+// ayarlardan açabilir.
+final ValueNotifier<bool> gunesDogumuBildirimiAcik = ValueNotifier<bool>(false);
+
+// Uygulamanın kullandığı tek saat kaynağı. Üretimde duvar saati okunur.
+//
+// Testte [SabitSaat] ile değiştirilir (bkz. [saatKaynagiDegistir]). Bu yüzden
+// `final` DEĞİLDİR: "gece yarısı geçti", "ay değişti", "iki şehir farklı
+// takvim gününde" gibi senaryolar gerçek sistem saatine bağlı olmadan
+// ölçülebilmelidir. Testler bunu `tearDown`'de [GercekSaat]'e döndürür.
+Saat uygulamaSaati = const GercekSaat();
+
+/// Uygulamanın saat kaynağını değiştirir (yalnız testler için).
+///
+/// Üretimde değiştirilmez: [main] her zaman [GercekSaat] ile başlar.
+void saatKaynagiDegistir(Saat kaynak) {
+  uygulamaSaati = kaynak;
+}
 
 // --- KONUM (ÜLKE / ŞEHİR) DURUMU ---
 // Seçilen ülkenin ISO 3166-1 alpha-2 kodu (örn. "TR"). Varsayılan Türkiye.
 final ValueNotifier<String> aktifUlkeKodu = ValueNotifier<String>('TR');
 
-// Seçilen şehir. Aladhan sorgusu bu koordinatlarla yapılır; şehir adıyla
-// sorgulayan calendarByCity uç noktası küçük şehirleri çözemediği için
-// (HTTP 503 "Geocoding is temporarily unavailable") koordinat tercih
-// edilmiştir. Ayrıca meta.timezone doğru geldiği için saat dilimi
-// kaymaları da önlenir.
-final ValueNotifier<Sehir?> aktifSehir = ValueNotifier<Sehir?>(null);
+// Seçilen KONUM. Şehir adı + ülke + koordinat + IANA saat dilimi +
+// hesaplama yöntemi + Asr/yüksek enlem ayarları TEK modelde tutulur.
+//
+// Bu tek model önceden ikiye bölünmüştü: `aktifSehir` yalnız ad ve
+// koordinat tutuyordu, saat dilimi `tz.local` içinde gizliydi. Bu ayrılık
+// yüzünden cihaz saatiyle şehir saati karışıyordu.
+final ValueNotifier<Konum?> aktifKonum = ValueNotifier<Konum?>(null);
 
 const String kayitliUlkeAnahtari = 'secili_ulke_kodu';
-const String kayitliSehirAnahtari = 'secili_sehir_veri';
+const String kayitliKonumAnahtari = 'secili_konum_veri';
+
+// Resmî Diyanet modu açık mı? Kayıt yoksa VARSAYILAN açıktır: hedef,
+// Türkiye'de Diyanet'in yayımladığı vakitlerin gösterilmesidir.
+const String kayitliResmiDiyanetAnahtari = 'resmi_diyanet_acik';
 const String kayitliYontemAnahtari = 'secili_hesaplama_yontemi';
+const String kayitliAsrAnahtari = 'secili_asr_yontemi';
+const String kayitliYuksekEnlemAnahtari = 'secili_yuksek_enlem';
+const String kayitliGunesDogumuAnahtari = 'secili_gunes_dogumu_bildirimi';
 
 // Seçilen hesaplama yöntemi (Aladhan "method" parametresi).
 //
@@ -54,6 +167,14 @@ const String kayitliYontemAnahtari = 'secili_hesaplama_yontemi';
 // mezhebe göre değişir; bunu yalnızca kullanıcı bilir.
 final ValueNotifier<int?> aktifHesaplamaYontemi = ValueNotifier<int?>(null);
 
+// Asr ve yüksek enlem ayarları. Bu ikisi vakitleri değiştirir, bu yüzden
+// gizli varsayılan olarak bırakılmaz: hem modelde hem önbellek anahtarında
+// bulunur ve kullanıcıya gösterilir.
+final ValueNotifier<AsrYontemi> aktifAsrYontemi =
+    ValueNotifier<AsrYontemi>(AsrYontemi.standart);
+final ValueNotifier<YuksekEnlemAyaru> aktifYuksekEnlemAyaru =
+    ValueNotifier<YuksekEnlemAyaru>(YuksekEnlemAyaru.orta);
+
 Future<void> hesaplamaYontemiKaydet(int? yontemId) async {
   final SharedPreferences hafiza = await SharedPreferences.getInstance();
   if (yontemId == null) {
@@ -63,11 +184,19 @@ Future<void> hesaplamaYontemiKaydet(int? yontemId) async {
   }
 }
 
-// Seçilen şehri cihazda saklar (ad + koordinat).
-Future<void> sehirKaydet(Sehir sehir) async {
+// Seçilen konumu cihazda saklar. Saat dilimi biliniyorsa o da yazılır;
+// bilinmiyorsa boş bırakılır ve ilk cevaptan sonra kesinleştirilir.
+//
+// Altıncı ve yedinci alan resmî Diyanet kimliğidir (il adı ve CityID).
+// ESKİ KAYITLARDA YOKTUR; okunduğunda boş gelirler ve konum yeniden
+// eşlenir (bkz. konumYukle). Kullanıcının mevcut verisi SİLİNMEZ.
+Future<void> konumKaydet(Konum konum) async {
   final SharedPreferences hafiza = await SharedPreferences.getInstance();
   await hafiza.setString(
-      kayitliSehirAnahtari, '${sehir.ad}|${sehir.enlem}|${sehir.boylam}');
+    kayitliKonumAnahtari,
+    '${konum.ad}|${konum.ulkeIso2}|${konum.enlem}|${konum.boylam}|${konum.saatDilimi}'
+    '|${konum.il}|${konum.diyanetCityId ?? ''}',
+  );
 }
 
 Future<void> ulkeKaydet(String iso2) async {
@@ -75,23 +204,109 @@ Future<void> ulkeKaydet(String iso2) async {
   await hafiza.setString(kayitliUlkeAnahtari, iso2);
 }
 
-/// Yeni şehir seçildiğinde çağrılır: state'i günceller ve cihaza kaydeder.
+/// Seçili konumu TEMİZLER.
 ///
-/// Vakitlerin yenilenmesi burada yapılmaz; ana sayfa `aktifSehir`
-/// notifier'ını dinlediği için tetiklenir. Böylece hem ayarlar sayfasından
-/// hem ana sayfadaki şehir seçiciden yapılan değişiklikler aynı yoldan geçer
-/// ve vakit çekme mantığı tek yerde kalır.
-Future<void> sehirAyarla(Sehir sehir) async {
-  final mevcut = aktifSehir.value;
-  if (mevcut != null && mevcut.ad == sehir.ad && mevcut.enlem == sehir.enlem) {
-    return; // Değişiklik yok, gereksiz istek atma.
-  }
-  aktifSehir.value = sehir;
-  await sehirKaydet(sehir);
+/// Şehir verisi olmayan bir ülke seçildiğinde çağrılır. Kayıtlı konum
+/// silinmezse uygulama bir sonraki açılışta eski şehri geri getirir ve
+/// kullanıcı yine yanlış yerde sanar. Bu yüzden hem state hem kayıt
+/// temizlenir; ekranda "veri yok" hatası ve GPS/geri dönüş yolu sunulur.
+Future<void> konumKaydetTemizle() async {
+  final SharedPreferences hafiza = await SharedPreferences.getInstance();
+  await hafiza.remove(kayitliKonumAnahtari);
 }
 
-// Kayıtlı ülke ve şehri cihazdan okur. Konum bulunamazsa Türkiye/Ankara
-// varsayılanına düşer.
+/// Yeni konum seçildiğinde çağrılır.
+///
+/// [sehir] veri setinden gelen kayıttır. Saat dilimi daha önce bu
+/// koordinat için doğrulanmışsa ([VakitDepo.kayitliSaatDilimi]) hemen
+/// bilinir; bilinmiyorsa boş bırakılır ve `KonumTakvimi` boylama dayalı
+/// tahminle hangi ayın isteneceğini belirler. Cevap gelince
+/// [konumSaatDilimiKesinlestir] ile kesinleştirilir.
+Future<void> konumAyarla(Sehir sehir) async {
+  final depo = VakitDepo(saat: uygulamaSaati);
+  final kimlik = await diyanetKimligiCoz(sehir);
+  final kayitliTz = await depo.kayitliSaatDilimi(Konum(
+    ad: sehir.ad,
+    ulkeIso2: aktifUlkeKodu.value,
+    enlem: sehir.enlem,
+    boylam: sehir.boylam,
+    // Bu çağrı yalnız anahtar üretmek içindir; saat dilimi burada
+    // BİLEREK boş bırakılıyor, çünkü aranan değer de tam olarak budur.
+    saatDilimi: '',
+    yontemId: aktifHesaplamaYontemi.value,
+  ));
+
+  final konum = Konum(
+    ad: sehir.ad,
+    ulkeIso2: aktifUlkeKodu.value,
+    enlem: sehir.enlem,
+    boylam: sehir.boylam,
+    saatDilimi: kayitliTz ?? '',
+    yontemId: aktifHesaplamaYontemi.value,
+    asrYontemi: AsrYontemi.values.byName(
+        aktifAsrYontemi.value.name),
+    yuksekEnlemAyaru: aktifYuksekEnlemAyaru.value,
+    il: sehir.il.isEmpty ? kimlik.il : sehir.il,
+    diyanetCityId: kimlik.cityId,
+    diyanetParca: kimlik.parca,
+  );
+
+  if (aktifKonum.value == konum) return; // Değişiklik yok.
+  aktifKonum.value = konum;
+  await konumKaydet(konum);
+}
+
+/// Bir şehir kaydının resmî Diyanet kimliği.
+class DiyanetKimlik {
+  final int? cityId;
+  final String? parca;
+  final String il;
+
+  const DiyanetKimlik({this.cityId, this.parca, this.il = ''});
+
+  static const DiyanetKimlik yok = DiyanetKimlik();
+}
+
+/// [sehir] kaydının resmî Diyanet kimliğini çözer.
+///
+/// Bu bir İSİM EŞLEŞMESİDİR ama çalışma anında değil, paket üretiminde
+/// (`tool/diyanet_verisi_uret.py`) yapılmıştır; burada yalnız hazır anahtar
+/// tablosu okunur. Anahtar KESİNTİR: normalize edilmiş il + ad. Birden çok
+/// aday varsa veya aday yoksa `cityId` boş kalır; uygulama o yerleşim için
+/// il merkezinin vakitlerini KOPYALAMAZ, "resmî veri yok" der.
+Future<DiyanetKimlik> diyanetKimligiCoz(Sehir sehir) async {
+  if (aktifUlkeKodu.value != 'TR') return DiyanetKimlik.yok;
+  if (sehir.il.isEmpty) return DiyanetKimlik.yok;
+  final e = await diyanetDepo.eslemeBul(il: sehir.il, ad: sehir.ad);
+  // Parça adı eşleme dosyasından gelir; burada yeniden hesaplanmaz.
+  if (e == null || e.parca.isEmpty) return DiyanetKimlik(il: sehir.il);
+  return DiyanetKimlik(cityId: e.cityId, parca: e.parca, il: sehir.il);
+}
+
+/// API'den `meta.timezone` geldiğinde konumun saat dilimini kesinleştirir.
+///
+/// Önceden burada `tz.setLocalLocation()` çağrılıyordu, yani GLOBAL
+/// `tz.local` değiştiriliyordu. Bunun iki sakıncası vardı:
+///   1) Uygulamanın geri kalanı o global duruma bağımlı hale geliyordu;
+///      iki şehrin aynı anda doğru hesaplanması imkânsızlaşıyordu.
+///   2) Cihazın saat dilimi bilinmiyorsa Türkiye'ye sessizce düşülüyordu.
+///
+/// Artık `tz.local` HİÇ DEĞİŞTİRİLMEZ. Saat dilimi konumun kendi
+/// alanıdır ve fonksiyonlara açıkça geçirilir.
+Future<void> konumSaatDilimiKesinlestir(String iana) async {
+  if (iana.trim().isEmpty) return;
+  if (uygulamaSaati.konumBul(iana) == null) {
+    debugEkle('bilinmeyen saat dilimi, yoksayıldı: $iana');
+    return;
+  }
+  final mevcut = aktifKonum.value;
+  if (mevcut == null || mevcut.saatDilimi == iana) return;
+  final yeni = mevcut.kopyala(saatDilimi: iana);
+  aktifKonum.value = yeni;
+  await konumKaydet(yeni);
+}
+
+// Kayıtlı ülke, konum, yöntem ve ayarları cihazdan okur.
 Future<void> konumYukle() async {
   final SharedPreferences hafiza = await SharedPreferences.getInstance();
 
@@ -101,56 +316,100 @@ Future<void> konumYukle() async {
   // Hesaplama yöntemi: kayıt yoksa otomatik (null) kullanılır.
   aktifHesaplamaYontemi.value = hafiza.getInt(kayitliYontemAnahtari);
 
-  final String? sehirHam = hafiza.getString(kayitliSehirAnahtari);
-  if (sehirHam != null) {
-    final parca = sehirHam.split('|');
-    if (parca.length == 3) {
-      final enlem = double.tryParse(parca[1]);
-      final boylam = double.tryParse(parca[2]);
+  aktifAsrYontemi.value = _asrOku(hafiza.getString(kayitliAsrAnahtari));
+  aktifYuksekEnlemAyaru.value =
+      _yuksekEnlemOku(hafiza.getString(kayitliYuksekEnlemAnahtari));
+  gunesDogumuBildirimiAcik.value =
+      hafiza.getBool(kayitliGunesDogumuAnahtari) ?? false;
+
+  // Resmî Diyanet modu: kayıt yoksa AÇIK (varsayılan).
+  aktifResmiDiyanet.value = hafiza.getBool(kayitliResmiDiyanetAnahtari) ?? true;
+
+  final String? ham = hafiza.getString(kayitliKonumAnahtari);
+  if (ham != null) {
+    final parca = ham.split('|');
+    if (parca.length >= 4) {
+      final enlem = double.tryParse(parca[2]);
+      final boylam = double.tryParse(parca[3]);
       if (enlem != null && boylam != null && parca[0].isNotEmpty) {
-        aktifSehir.value = Sehir(ad: parca[0], enlem: enlem, boylam: boylam);
+        // Altıncı alan il, yedinci alan resmî CityID'dir. ESKİ KAYITLARDA
+        // YOKTUR. Bu durumda konum yine de yüklenir (kullanıcının verisi
+        // silinmez) ama resmî kimlik boş kalır; aşağıda il bilgisi elde
+        // edilirse kimlik yeniden çözülür.
+        final il = parca.length >= 6 ? parca[5] : '';
+        final kayitliId =
+            parca.length >= 7 ? int.tryParse(parca[6]) : null;
+        aktifKonum.value = Konum(
+          ad: parca[0],
+          ulkeIso2: parca[1].isEmpty ? aktifUlkeKodu.value : parca[1],
+          enlem: enlem,
+          boylam: boylam,
+          // Beşinci alan saat dilimidir. Eski kayıtlarda yoktur; o
+          // durumda boş bırakılır ve tahmin devreye girer.
+          saatDilimi: parca.length >= 5 ? parca[4] : '',
+          yontemId: aktifHesaplamaYontemi.value,
+          asrYontemi: aktifAsrYontemi.value,
+          yuksekEnlemAyaru: aktifYuksekEnlemAyaru.value,
+          il: il,
+          diyanetCityId: kayitliId,
+        );
+        // Resmî kimlik kayıtlı değilse (eski kurulum) burada sessizce
+        // vazgeçilmez: kimlik çözülebilirse çözülür.
+        if (kayitliId == null && il.isNotEmpty) {
+          final e = await diyanetDepo.eslemeBul(il: il, ad: parca[0]);
+          if (e != null && e.parca.isNotEmpty) {
+            aktifKonum.value = aktifKonum.value!
+                .kopyala(diyanetCityId: e.cityId, diyanetParca: e.parca);
+            await konumKaydet(aktifKonum.value!);
+          }
+        }
       }
     }
   }
 
-  if (aktifSehir.value == null) {
+  if (aktifKonum.value == null) {
     // Ankara'nın koordinatları: Türkiye'de makul bir başlangıç noktası.
-    aktifSehir.value = const Sehir(ad: 'Ankara', enlem: 39.9334, boylam: 32.8597);
-  }
-  await saatDiliminiUygula();
-}
-
-// Aladhan'ın meta.timezone değeri, vakitlerin hangi saat dilimine göre
-// olduğunu tam olarak bildirir. tz paketinin yerel konumunu buna göre
-// ayarlıyoruz.
-//
-// ÖNEMLİ: Daha önce burada sabit kodlanmış 'Europe/Istanbul' vardı. Bu,
-// uygulamanın başka ülkelerde kullanılması halinde saat dilimi
-// kaymalarına yol açıyordu. Şimdi cihazın kendi saat dilimi kullanılıyor
-// ve API'den gelen meta.timezone ile de doğrulanıp kesinleştiriliyor.
-Future<void> saatDiliminiUygula([String? metaTimezone]) async {
-  if (metaTimezone != null && metaTimezone.isNotEmpty) {
-    try {
-      tz.setLocalLocation(tz.getLocation(metaTimezone));
-      return;
-    } catch (_) {
-      // Geçersiz/geçersiz yazılmış saat dilimi adı; aşağıda varsayılana düş.
+    // Saat dilimi BİLİNÇLİ OLARAK boş bırakılır: ilk cevap gelene kadar
+    // tahmin kullanılır, cihaz saatine sessizce düşülmez.
+    aktifKonum.value = Konum(
+      ad: 'Ankara',
+      ulkeIso2: 'TR',
+      enlem: 39.9334,
+      boylam: 32.8597,
+      saatDilimi: '',
+      yontemId: aktifHesaplamaYontemi.value,
+      asrYontemi: aktifAsrYontemi.value,
+      yuksekEnlemAyaru: aktifYuksekEnlemAyaru.value,
+      il: 'Ankara',
+    );
+    // Ankara resmî katalogda vardır; kimlik ilk açılışta çözülür.
+    final e = await diyanetDepo.eslemeBul(il: 'Ankara', ad: 'Ankara');
+    if (e != null && e.parca.isNotEmpty) {
+      aktifKonum.value =
+          aktifKonum.value!.kopyala(diyanetCityId: e.cityId, diyanetParca: e.parca);
     }
   }
-  // Cihazın kendi saat dilimini kullan. timezone paketi varsayılan olarak
-  // UTC'dir, o yüzden açıkça ayarlamamız gerekir.
-  try {
-    final int ofsetSaniye = DateTime.now().timeZoneOffset.inSeconds;
-    final int saat = ofsetSaniye.abs() ~/ 3600;
-    // Etc/GMT dilimlerinde işaret ters yazılır: UTC+3 -> Etc/GMT-3
-    final String etiket = ofsetSaniye >= 0
-        ? 'Etc/GMT-${saat.toString().padLeft(2, '0')}'
-        : 'Etc/GMT+${saat.toString().padLeft(2, '0')}';
-    tz.setLocalLocation(tz.getLocation(etiket));
-  } catch (_) {
-    // Son çare: tüm saat dilimleri yüklenemediyse Türkiye'ye sabitle.
-    tz.setLocalLocation(tz.getLocation('Europe/Istanbul'));
-  }
+}
+
+AsrYontemi _asrOku(String? kod) => AsrYontemi.values
+    .firstWhere((a) => a.kod == kod, orElse: () => AsrYontemi.standart);
+
+YuksekEnlemAyaru _yuksekEnlemOku(String? kod) => YuksekEnlemAyaru.values
+    .firstWhere((a) => a.kod == kod, orElse: () => YuksekEnlemAyaru.orta);
+
+Future<void> asrYontemiKaydet(AsrYontemi a) async {
+  final h = await SharedPreferences.getInstance();
+  await h.setString(kayitliAsrAnahtari, a.kod);
+}
+
+Future<void> yuksekEnlemKaydet(YuksekEnlemAyaru a) async {
+  final h = await SharedPreferences.getInstance();
+  await h.setString(kayitliYuksekEnlemAnahtari, a.kod);
+}
+
+Future<void> gunesDogumuBildirimiKaydet(bool acik) async {
+  final h = await SharedPreferences.getInstance();
+  await h.setBool(kayitliGunesDogumuAnahtari, acik);
 }
 
 // YENİ: Erken Uyarı Süresini Kaydetme
@@ -221,9 +480,39 @@ void main() async {
   // Yanlış görünen bir çeviriden iyi olan: düz ve okunur bir etiket.
   // (Uygulamanın hedeflediği platform Android; bu yalnızca Linux.)
   const LinuxInitializationSettings linuxAyarlari = LinuxInitializationSettings(defaultActionName: 'Open App');
-  const InitializationSettings baslangicAyarlari = InitializationSettings(android: androidAyarlari, linux: linuxAyarlari);
-  
-  await bildirimServisi.initialize(settings: baslangicAyarlari);
+
+  // iOS/Darwin ayarları.
+  //
+  // ÖNCE YOKTU. flutter_local_notifications 20.x, `settings.iOS` null ise
+  // `initialize()` çağrısında ArgumentError fırlatır. Bu çağrı
+  // `runApp`'den ÖNCE ve try/catch olmadan yapıldığı için iOS'ta uygulama
+  // arayüze hiç ulaşamadan çöküyordu.
+  //
+  // NOT: Bu ayar iOS'ta bildirim PLANLAMAYI etkinleştirmez. iOS'ta
+  // planlı bildirim için ek background mode/provisioning gerekir ve
+  // fiziksel iPhone'da doğrulanmamıştır. iOS yayın desteği iddiası
+  // README'den kaldırılmıştır; buradaki düzeltme yalnız "açılışta
+  // ArgumentError" yolunu kapatır.
+  const DarwinInitializationSettings iOSAyarlari = DarwinInitializationSettings();
+
+  const InitializationSettings baslangicAyarlari = InitializationSettings(
+    android: androidAyarlari,
+    iOS: iOSAyarlari,
+    linux: linuxAyarlari,
+  );
+
+  // Başlangıç hatalarının uygulamayı boş ekranla öldürmesini engelle.
+  //
+  // `main()` içinde try/catch olmaması, `DilKatalogu.yukle()` gibi
+  // dosya okuyan bir adımın patlaması halinde uygulamanın ilk kareden
+  // önce ölmesine yol açıyordu. Bildirim eklentisi başlatılamazsa
+  // uygulama çalışmaya devam eder; vakitler yine gösterilir, yalnız
+  // planlı bildirimler kurulamaz.
+  try {
+    await bildirimServisi.initialize(settings: baslangicAyarlari);
+  } catch (e) {
+    debugEkle('bildirim eklentisi başlatılamadı: $e');
+  }
   await temaRenginiYukle();
   await temaModunuYukle();
   await erkenUyariYukle();

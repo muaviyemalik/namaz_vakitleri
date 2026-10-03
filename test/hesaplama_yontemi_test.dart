@@ -54,7 +54,25 @@ class Ornek {
       this.lat, this.lon);
 }
 
+// ============================================================================
+// CANLI API TESTI - NORMAL TEST PAKETININ DISINDA
+// ============================================================================
+//
+// Bu dosya INTERNETE BAGLANIR. Normal `flutter test` calistirilirken
+// ATLANIR; yalnizca su bayrakla calisir:
+//
+//     flutter test test/hesaplama_yontemi_test.dart --dart-define=ALADHAN_CANLI=1
+//
+// Bu testler "Aladhan otomatik modda ulkeye gore dogru yontemi seciyor"
+// iddiasini CANLI API ile dogrular. Iddianin kendisi bir garanti degildir:
+// Aladhan'in ulke->yontem eslemesi kendi kararidir ve degisebilir.
+// Turkce'de "resmi yontem" denmez; otomatik secim ayrica gorunur.
+// ============================================================================
+
+const bool canliTestlerAcik = bool.fromEnvironment('ALADHAN_CANLI');
+
 void main() {
+  group('CANLI API', () {
   // method gonderilmediginde Aladhan'in ulkeye gore sectigi resmi yontemler.
   // Bunlar ulkenin kamu/mesleki kurumunun belirledigi yontemlerdir.
   const ornekler = [
@@ -164,4 +182,8 @@ void main() {
     expect(dIsha.abs(), greaterThan(2),
         reason: 'Farklı yöntemler İşâ saatini değiştirmeli');
   });
+  }, skip: canliTestlerAcik
+      ? false
+      : 'Canlı API testi. Çalıştırmak için: '
+          '--dart-define=ALADHAN_CANLI=1');
 }

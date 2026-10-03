@@ -1,0 +1,161 @@
+﻿FINAL
+
+== FINAL VERI KAPSAMI (3 Ekim 2026, gercek dosyalardan olculdu) ==
+
+- katalog toplami          : 865 resmi kayit (81 il)
+- indirilen                : 862
+- paketlenen               : 862  -> 81 il parcasi, 341.352 veri satiri
+- kalici HTTP hatasi       : 3   -> 17876 Cukurova, 17898 Akkoy, 9394 Kale
+- katalog disi / klasorde yok : 0
+- MATEMATIKSEL TAMAMLIK    : 862 + 3 + 0 = 865  TAMAM
+- esleme sayisi            : 802  (uygulama kaydi -> resmi CityID)
+- eslesmeyen               : 265  (Diyanet bu koyleri yayimlamiyor)
+- tarih araligi            : 2026-10-03 .. 2027-12-31
+- gun sayisi               : 396 / yerlesim  (455 aralik - 59 gun bosluk)
+- ic bosluk                : 2026-11-03 .. 2026-12-31  (59 gun)
+- paket butunluk (sha256)  : 8407312752cf85d092d0f1e712d2c807
+
+== EKSIK / SORUNLU YERLESIMLER ==
+
+Kimlik catismasi olan 4 kayit. Katalog adi ile Diyanet sayfasinin KENDI adi
+celisiyor. Ucunden ikisi etkisiz, biri etkili. Hicbiri baska yerlesime
+tahminle baglanmadi; hepsi guvenle reddedildi.
+
+  CityID=16730  HATAY     katalog=YAYLADAG  sayfa=Yayladagi
+      YAZIM farki. Ayni ilce. esleme.txt ETKILENMEZ (katla() Latin harfleri
+      indirger). Envanter olarak tutuldu.
+
+  CityID=9381   DENIZLI   katalog=ACIPAYAM  sayfa=Gunes
+      GERCEK celiski. Katalog YANLIS yaziyor: bu CityID Guney'in vakitlerini
+      veriyor. Bu yuzden Denizli/Acipayam resmi veriye BAGLANMADI. Uygulama
+      o yerlesimde acikca etiketlenmis hesaplanmis saati gosterir.
+      ==> Acipayam resmi veriye baglanamaz.
+
+  CityID=9515   HATAY     katalog=HATAY     sayfa=Arsuz
+      GERCEK celiski. Katalog "HATAY" diyor, sayfa "Arsuz" diyor; Hatay
+      merkez baska bir CityID'de. ==> Hatay/Arsuz resmi veriye BAGLANMADI.
+
+  CityID=17909  USAK     katalog=USAK      sayfa=Ulubey
+      GERCEK celiski. ==> Usak/Ulubey resmi veriye BAGLANMADI.
+      Diger yonden dogrulandigi icin guvenle cozuldu: ayni "Ulubey" adi
+      Ordu'da da vardir (Ordu/Ulubey). Il anahtari ayirdigi icin
+      usak|ulubey -> 17909 dogru, ordu|ulubey -> ESLESME YOK.
+      Bu ayrim test/diyanet_verisi_test.dart icinde sabitlenmistir.
+
+Uclu de HTTP 500 donen kayit (hicbir slug ile calismiyor):
+  17876 ADANA/CUKUROVA, 17898 DENIZLI/AKKOY, 9394 DENIZLI/KALE
+      Sunucu tarafi kalici hata. 2 deneme yapildi, birakildi.
+      Bu kayitlar pakete GIRMEZ. Kullanici bu yerlesimleri secse "Diyanet
+      veri yok" gorur. Kale'nin baska bir kaydi (17899) CANLI ve pakette
+      vardir; yani Kale kaybi YOKTUR, yalniz 9394 numarali eski kayit olu.
+
+UYGULAMANIN DAVRANISI (hepsi icin ayni):
+  - baska ilcenin vakitleri KOPYALANMAZ
+  - il merkezi verisi sessizce ilceye ATANMAZ
+  - hesaplanmis saat "Diyanet" etiketiyle GOSTERILMEZ
+  - kullaniciya durum acikca yazilir
+
+== BOYUT (projeksiyon degil, GERCEK olcum) ==
+
+- ham veri (TR/ 81 dosya)   : 18,38 MB  (19.274.384 bayt)
+- paket.json               : 20,0 KB
+- esleme.txt               : 27,8 KB
+- TOPLAM HAM               : 18,43 MB  (19.323.309 bayt)
+- APK icinde sikistirilmis : 3,12 MB  (3.271.737 bayt, 83 girdi)
+  oran: %16,9
+- en buyuk il dosyasi       : 698,5 KB  (zonguldak.txt)
+- en kucuk il dosyasi       : 65,6 KB
+- ortalama il dosyasi       : 232,4 KB
+- medyan                   : 196,5 KB
+- tum assets/ (sikistirilmis): 7,76 MB -> Diyanet payi %40,2
+
+APK:
+- onceki release APK       : 59,32 MB  (26.09.2026, Diyanet paketi YOK)
+- final release APK       : 62,65 MB  (bu calisma ile uretildi)
+- GERCEK fark              : +3,33 MB  (+3.493.914 bayt, %5,6)
+
+== DOGRULAMA ==
+
+- Diyanet veri testleri     : 29/29 gecti  (diyanet_verisi_test.dart)
+- Diyanet kimlik/kayit      : 14/14 gecti  (diyanet_kimlik_kayit_test.dart)
+- offline testleri          :  3/3 gecti   (diyanet_cevrimdisi_test.dart)
+- bellek testi              :  3/3 gecti   (diyanet_bellek_test.dart)
+- TAM TEST PAKETI           : 528 gecti, 11 atlandi, 0 BASARISIZ
+- onceki taban              : 479 gecti, 11 atlandi
+  -> 49 yeni test, 0 regresyon
+- flutter analyze lib test  : 40 bulgu, 0 HATA, 0 UYARI
+  (Diyanet dosyalarinda 0 bulgu. 40 bulgunun tamami onceden var olan info
+   seviyesi; sifirlamak icin temizlik YAPILMADI.)
+- offline HTTP-block testi  : GECTI. HttpOverrides ile TUM ag kapalıyken
+  ekran resmi Diyanet saatini gosteriyor. Aladhan'a ulasilamiyor, dolayisiyla
+  gosterilen saatin tek kaynagi paket.
+- butunluk denetimi         : 20/20 kontrol gecti
+  (tool/diyanet_kapsam_denetim.py — uretim aracindan BAGIMSIZ okuyor)
+  kontrol edilenler: 865 kayit, 81 il, eksik gun, tekrar eden tarih,
+  yinelenen CityID, bozuk saat, eksik vakit alani, CIFT KODLAMA (mojibake)
+  izi, coklu anahtar->CityID, olmayan CityID'ye esleme, bos il parcasi,
+  eksik parca dosyasi, tarih araligi, 396 gun/yerlesim, butunluk damgasi.
+
+CIFT KODLAMA KONTROLU: paket.json + esleme.txt + 81 TR dosyasinin TAMAMI
+hicri tarih alaninda taranmisti. "Ã", "Â", "â€", U+FFFD isaretlerinden
+0 adet bulundu. Erken asamada gorulen UTF-8 bozulmasi (katalog dosyasinda
+"CINE" yerine "ÃINE") DUZELTILDI: katalog dogrudan indirildi.
+
+== BELLEK DAVRANISI (kod uzerinden dogrulandi) ==
+
+- paket.json    : 20 KB, acilista TEK okuma
+- esleme.txt    : 27,8 KB, ilk sehir seciminde okunur
+- TR/<il>.txt   : yalniz secilen ilin parcasi okunur
+- ONBELLEK SINIRLANDIRILDI: en fazla 2 il parcasi tutulur (LRU).
+  BU TURDA EKLENDI. Sinirsiz onbellek "18 MB'i acilista yuklemiyoruz"
+  avantajini kullanim sirasinda geri alirdi: 81 il gezilince bellekte
+  onlarca MB birikirdi. Iki parcalik tavan gunluk kullanimda fark
+  yaratmaz; test/diyanet_bellek_test.dart bunu olcer.
+- 18,4 MB veriyi tek seferde bellege alan bir yol YOK.
+
+== ACIK YAYIN KONULARI ==
+
+1. YENIDEN DAGITIM IZNI — HENUZ ALINMADI
+   862 yerlesimin resmi Diyanet verisi APK icinde dagitiliyor. Diyanet'in
+   yeniden dagitim kosullari yazili olarak dogrulanmadi. Bu teknik gorevi
+   engellememis, veri silinmemistir, ancak:
+   - "yayina hazir" DENMEZ
+   - "dagitim hukuken onayli" DENMEZ
+   - yayindan once Diyanet'ten yazili izin alinmalidir
+   Bkz. NOTICE.md.
+
+2. POCO C65 CIHAZ TESTI — YAPILMADI
+   Bu oturumda cihaza erisim saglanamadi. Cevrimdisi acilis, sehir degisimi
+   ve bildirim tutarliligi cihazda denenmedi. Otomatik testler HTTP
+   engelleyerek ayni yollari dener ama GERCEK CIHAZ davranisi (bildirim
+   teslimi, alarm izni, widget guncellemesi) DOGRULANMAMISTIR.
+
+3. YUKSEK ENLEM HATASI — AYRI GOREV
+   Dogrulandi, duzeltilmedi. Iki ayri hata var:
+     (a) parametre adi yanlis: uygulama `adjustmentMethod` gonderiyor,
+         saglayici `latitudeAdjustmentMethod` kullaniyor.
+     (b) degerler de yanlis: gonderilen 7 degerin HEPSi reddedilip
+         meta `ANGLE_BASED` donuyor.
+   Sonuc: 4 secenekten HICBIRI Aladhan istegini etkilemiyor. Bu turun
+   kapsami disi birakildi (Türkiye disi mimari degistirmemek yasakti).
+   Not: resmî Diyanet modunda bu ayar zaten OKUNMUYOR, yani bu hata
+   Türkiye'yi ETKILEMIYOR.
+
+4. DIYANET BOSLUGU KALICI
+   2026-11-03..2026-12-31 (59 gun) ve 2028 tamami Diyanet'te YOK.
+   Uygulama bu tarihlerde saat GOSTERMEZ. Diyanet 2028'i yayimladiginda
+   `tool/diyanet_verisi_indir.py` + `diyanet_verisi_uret.py` yeniden
+   calistirilmali; paketi elle genisletmek gereksiz.
+
+5. GPS -> DIYANET ILCE COZUMLEME YAPILMADI (bu turun yasagi)
+   Bir sonraki gorev. Bu pakette tum il/ilce resmi veri HAZIR; eksik olan
+   yalnizca "GPS konumu hangi resmi yerlesime karsilik gelir" cozumlemesi.
+
+== TEKRAR URETILEBILIRLIK ==
+
+Uc komut, sirayla:
+    python tool/diyanet_verisi_indir.py --hiz 1.2
+    python tool/diyanet_verisi_uret.py
+    python tool/diyanet_kapsam_denetim.py
+
+Ucuncu komut 20 kontrolu calistirir ve HATAYI YAZIP CIKAR.

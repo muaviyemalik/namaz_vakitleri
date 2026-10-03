@@ -1,0 +1,658 @@
+{
+  "surum": "diyanet-2026-10-03.1",
+  "kaynak": {
+    "kurum": "T.C. Diyanet Isleri Baskanligi",
+    "siteAdi": "Diyanet Namaz Vakitleri",
+    "katalogUrl": "https://namazvakitleri.diyanet.gov.tr/assets/locations/TURKEY.json",
+    "sayfaUrlKalibi": "https://namazvakitleri.diyanet.gov.tr/tr-TR/{cityId}/{slug}",
+    "not": "Sayfa `og:description` metni bu vakitlerin Diyanet resmi hesaplamalarina dayandigini belirtir."
+  },
+  "edinmeTarihi": "2026-10-03",
+  "kapsam": {
+    "ilkTarih": "2026-10-03",
+    "sonTarih": "2027-12-31",
+    "gunSayisi": 455,
+    "verilenGunSayisi": 396,
+    "iceridekiBosluklar": [
+      {
+        "baslangic": "2026-11-03",
+        "bitis": "2027-01-01",
+        "eksikGun": 59
+      }
+    ],
+    "ilSayisi": 81,
+    "yerlesimSayisi": 862,
+    "katalogKaydi": 865,
+    "veriSizmayanKayit": 3
+  },
+  "butunluk": {
+    "yontem": "sha256",
+    "paket": "8407312752cf85d092d0f1e712d2c807008823ddd9af9a74ca7a6901cf92fe9e",
+    "parcalar": {
+      "ADANA": {
+        "dosya": "TR/adana.txt",
+        "yerlesim": 12,
+        "gun": 4752,
+        "bayt": 268287,
+        "sha256": "33b9909f475ca972abbd6de32e213ba60009c8131dcb17ddd73e49f932374593"
+      },
+      "ADIYAMAN": {
+        "dosya": "TR/adiyaman.txt",
+        "yerlesim": 9,
+        "gun": 3564,
+        "bayt": 201255,
+        "sha256": "d561332d7860835ee9894ed999e99474a0291fe22e8a71ff1adf9e6f0f1a4114"
+      },
+      "AFYONKARAHISAR": {
+        "dosya": "TR/afyonkarahisar.txt",
+        "yerlesim": 18,
+        "gun": 7128,
+        "bayt": 402572,
+        "sha256": "ba29f4538f403cb38c824ec7bd285f095facfde37b684803340113467ef7b9bd"
+      },
+      "AGRI": {
+        "dosya": "TR/agri.txt",
+        "yerlesim": 7,
+        "gun": 2772,
+        "bayt": 156531,
+        "sha256": "376298bf2bb9588041dca98a78994fb79fef5ddc08f431d88008c3eaddbc3ba4"
+      },
+      "AKSARAY": {
+        "dosya": "TR/aksaray.txt",
+        "yerlesim": 7,
+        "gun": 2772,
+        "bayt": 156561,
+        "sha256": "ec6170226d695cd5037f203891f4418072eb901cace91119ada117e7c4b5911c"
+      },
+      "AMASYA": {
+        "dosya": "TR/amasya.txt",
+        "yerlesim": 7,
+        "gun": 2772,
+        "bayt": 156555,
+        "sha256": "b303f167b93c22202c10ced9f67694d5bc4a893dbde43f4bcff4182541ed79d0"
+      },
+      "ANKARA": {
+        "dosya": "TR/ankara.txt",
+        "yerlesim": 17,
+        "gun": 6732,
+        "bayt": 380063,
+        "sha256": "26e4a805911183a2a10dbd2305d5eea7bdc77045390a8fb0f33d8aee12b29cf2"
+      },
+      "ANTALYA": {
+        "dosya": "TR/antalya.txt",
+        "yerlesim": 16,
+        "gun": 6336,
+        "bayt": 357703,
+        "sha256": "feaed5288c9e25cf2ca5e1d80e1362eff64a974bc5561f04c4632aa98c6b0d63"
+      },
+      "ARDAHAN": {
+        "dosya": "TR/ardahan.txt",
+        "yerlesim": 6,
+        "gun": 2376,
+        "bayt": 134190,
+        "sha256": "74825b3af7a4ffeab6fbafcbdecec5ea03afa1a5181993d398dedd6cb708782e"
+      },
+      "ARTVIN": {
+        "dosya": "TR/artvin.txt",
+        "yerlesim": 8,
+        "gun": 3168,
+        "bayt": 178886,
+        "sha256": "5f218774be4521fd1c5ef0c09cab1f23c149448e0e343ae3b55bcc85df20b69c"
+      },
+      "AYDIN": {
+        "dosya": "TR/aydin.txt",
+        "yerlesim": 17,
+        "gun": 6732,
+        "bayt": 380041,
+        "sha256": "0e0f6f6fef09c756a9d96398310bff090b65a0aee813b3859caeb39f5bf368d9"
+      },
+      "BALIKESIR": {
+        "dosya": "TR/balikesir.txt",
+        "yerlesim": 19,
+        "gun": 7524,
+        "bayt": 424815,
+        "sha256": "b72d7650e988348ae0bf2c1e943077873cfdae744f67cc4b8d3ce30ede029698"
+      },
+      "BARTIN": {
+        "dosya": "TR/bartin.txt",
+        "yerlesim": 3,
+        "gun": 1188,
+        "bayt": 67140,
+        "sha256": "fb612c6035a065d0e4110882c0362bbc729edb19845aa2b5ff43c5dc03bfa206"
+      },
+      "BATMAN": {
+        "dosya": "TR/batman.txt",
+        "yerlesim": 6,
+        "gun": 2376,
+        "bayt": 134188,
+        "sha256": "b94052bccba76f333e6ccd60cf6ddb00d4ea9bf613ebc2f13f1c351b4956f3fd"
+      },
+      "BAYBURT": {
+        "dosya": "TR/bayburt.txt",
+        "yerlesim": 3,
+        "gun": 1188,
+        "bayt": 67149,
+        "sha256": "dbe2bc75f57bfaaa880e36934bd095c49c5f05170ef433650f594cc60ed71b38"
+      },
+      "BILECIK": {
+        "dosya": "TR/bilecik.txt",
+        "yerlesim": 8,
+        "gun": 3168,
+        "bayt": 178913,
+        "sha256": "5ad01b56a3a4c0c2edb02c4af773fd0783452562c3b19ed06e7bec87bbd2c11c"
+      },
+      "BINGOL": {
+        "dosya": "TR/bingol.txt",
+        "yerlesim": 7,
+        "gun": 2772,
+        "bayt": 156540,
+        "sha256": "4ff816744e4618ae2ec13df77e85ad260eda35f2e0073f89b19d53eaf69700b4"
+      },
+      "BITLIS": {
+        "dosya": "TR/bitlis.txt",
+        "yerlesim": 7,
+        "gun": 2772,
+        "bayt": 156536,
+        "sha256": "36ee9d8adf3e01d6a6fc81544f1b9db004f54301929cd59786c98743acfa05e2"
+      },
+      "BOLU": {
+        "dosya": "TR/bolu.txt",
+        "yerlesim": 9,
+        "gun": 3564,
+        "bayt": 201224,
+        "sha256": "81da87c0ba0f0df762adc6317980a8626097e2cca47e2680bcce1ed045773a45"
+      },
+      "BURDUR": {
+        "dosya": "TR/burdur.txt",
+        "yerlesim": 11,
+        "gun": 4356,
+        "bayt": 245954,
+        "sha256": "dc708b54465db7c57dc5fccb796c52d7fc3fa8981df57641d803faa73bd99d87"
+      },
+      "BURSA": {
+        "dosya": "TR/bursa.txt",
+        "yerlesim": 14,
+        "gun": 5544,
+        "bayt": 312999,
+        "sha256": "998be138e4296ac41bd892070eb025808c15299d89fbfeed235d7e83fd260776"
+      },
+      "CANAKKALE": {
+        "dosya": "TR/canakkale.txt",
+        "yerlesim": 11,
+        "gun": 4356,
+        "bayt": 245979,
+        "sha256": "3bf09dd31c4d002694d20efedf55b8ab5a9610d63ec22421f9ffee15d79e26ab"
+      },
+      "CANKIRI": {
+        "dosya": "TR/cankiri.txt",
+        "yerlesim": 10,
+        "gun": 3960,
+        "bayt": 223621,
+        "sha256": "ebf54ee7487ac8c4b1f8cbe9b47fc12aa967a432143cd3e780cca7e8137b07c8"
+      },
+      "CORUM": {
+        "dosya": "TR/corum.txt",
+        "yerlesim": 14,
+        "gun": 5544,
+        "bayt": 312984,
+        "sha256": "c465fd515f9da94c2aa6e3abdecd52e52720850b354bfb78deb7cb87210aa090"
+      },
+      "DENIZLI": {
+        "dosya": "TR/denizli.txt",
+        "yerlesim": 17,
+        "gun": 6732,
+        "bayt": 380055,
+        "sha256": "b88429c5c22582935b2e3ad2138064ed517faf2b75af415cb31a804e70f72394"
+      },
+      "DIYARBAKIR": {
+        "dosya": "TR/diyarbakir.txt",
+        "yerlesim": 14,
+        "gun": 5544,
+        "bayt": 313040,
+        "sha256": "b223f29d18b2b072cc223d937db61611da07726d37513f6669ea021bff27b512"
+      },
+      "DUZCE": {
+        "dosya": "TR/duzce.txt",
+        "yerlesim": 8,
+        "gun": 3168,
+        "bayt": 178894,
+        "sha256": "39cc34377e488654ac9feeba51ad726f5480be8fe57984cbbefc0d42fc2d514f"
+      },
+      "EDIRNE": {
+        "dosya": "TR/edirne.txt",
+        "yerlesim": 9,
+        "gun": 3564,
+        "bayt": 201239,
+        "sha256": "f2aecb540e597805690c3b0261ac20eea9c9763c9bf574085cf8ac5de342ce43"
+      },
+      "ELAZIG": {
+        "dosya": "TR/elazig.txt",
+        "yerlesim": 11,
+        "gun": 4356,
+        "bayt": 245941,
+        "sha256": "5b0ff34d6ff85bdf3a2a8eb4c6b776dc9dc68b54062258f5eb823a69c8791d69"
+      },
+      "ERZINCAN": {
+        "dosya": "TR/erzincan.txt",
+        "yerlesim": 9,
+        "gun": 3564,
+        "bayt": 201265,
+        "sha256": "3986b627e212ef867add7c9e889d455bd276c400000abe2c5884706c53210bbc"
+      },
+      "ERZURUM": {
+        "dosya": "TR/erzurum.txt",
+        "yerlesim": 19,
+        "gun": 7524,
+        "bayt": 424761,
+        "sha256": "894a1a17d5de8bc5a8e3ea26ee047eba6a70b1b871fc4466e1150d977215bbd1"
+      },
+      "ESKISEHIR": {
+        "dosya": "TR/eskisehir.txt",
+        "yerlesim": 12,
+        "gun": 4752,
+        "bayt": 268352,
+        "sha256": "e634a7b0b7618c98712b2ce6044b62849c51606d7b9f0a38a64f3a781771242a"
+      },
+      "GAZIANTEP": {
+        "dosya": "TR/gaziantep.txt",
+        "yerlesim": 8,
+        "gun": 3168,
+        "bayt": 178924,
+        "sha256": "76588fce6d3f316bf7694e0c246037f5818a427d210242eba62487c5cb8a4014"
+      },
+      "GIRESUN": {
+        "dosya": "TR/giresun.txt",
+        "yerlesim": 16,
+        "gun": 6336,
+        "bayt": 357723,
+        "sha256": "92263bd73cc3657b9ef3dcd093cf9880274e3f4fee55a443dbe4963197334f31"
+      },
+      "GUMUSHANE": {
+        "dosya": "TR/gumushane.txt",
+        "yerlesim": 6,
+        "gun": 2376,
+        "bayt": 134211,
+        "sha256": "0235b59565013b366392a26b28ece89d948e1c79fc7789c752b204b65ad22c45"
+      },
+      "HAKKARI": {
+        "dosya": "TR/hakkari.txt",
+        "yerlesim": 4,
+        "gun": 1584,
+        "bayt": 89500,
+        "sha256": "e245a834a0969377c3f8b5db2334fc1d3ac7c7b214a2ab7c4e274dc294ae0f31"
+      },
+      "HATAY": {
+        "dosya": "TR/hatay.txt",
+        "yerlesim": 13,
+        "gun": 5148,
+        "bayt": 290636,
+        "sha256": "b0cb62958a6feb66b71c159598ffa828f97d5b64dc7100c7836f797feb2d8ad3"
+      },
+      "IGDIR": {
+        "dosya": "TR/igdir.txt",
+        "yerlesim": 4,
+        "gun": 1584,
+        "bayt": 89488,
+        "sha256": "db10a0830914a18cce5d6bc847432d1377fb4e5df69b1524f6b24c5e777ae77e"
+      },
+      "ISPARTA": {
+        "dosya": "TR/isparta.txt",
+        "yerlesim": 13,
+        "gun": 5148,
+        "bayt": 290687,
+        "sha256": "2958c1ceb621439d0ea721b79a96ba998a0f9abebed9100e62cff3a460bcb09d"
+      },
+      "ISTANBUL": {
+        "dosya": "TR/istanbul.txt",
+        "yerlesim": 19,
+        "gun": 7524,
+        "bayt": 424824,
+        "sha256": "e394972c7e6018a6688c027dcb75c334c38a83e07399c598891bbb725378575c"
+      },
+      "IZMIR": {
+        "dosya": "TR/izmir.txt",
+        "yerlesim": 21,
+        "gun": 8316,
+        "bayt": 469428,
+        "sha256": "d7b339bc78713520999ef0f5f0d513e0c8744c3324f774d8a1b585a2a5c1d314"
+      },
+      "KAHRAMANMARAS": {
+        "dosya": "TR/kahramanmaras.txt",
+        "yerlesim": 10,
+        "gun": 3960,
+        "bayt": 223691,
+        "sha256": "cfe1a12d9ac30d7c671bd36dc87f4a49c300ea59d9911fabca390c70d23fcd08"
+      },
+      "KARABUK": {
+        "dosya": "TR/karabuk.txt",
+        "yerlesim": 5,
+        "gun": 1980,
+        "bayt": 111855,
+        "sha256": "68d462c683ba2da4d5e79e77f25e066f31775d2dfc62b114e8f08e82adc60730"
+      },
+      "KARAMAN": {
+        "dosya": "TR/karaman.txt",
+        "yerlesim": 6,
+        "gun": 2376,
+        "bayt": 134212,
+        "sha256": "f05d3d98388f25ecb2d29fb75fcc976828ee03290b23b3a2125f6f584ac2fc2d"
+      },
+      "KARS": {
+        "dosya": "TR/kars.txt",
+        "yerlesim": 8,
+        "gun": 3168,
+        "bayt": 178871,
+        "sha256": "7c4658df3873c7ac1b0940243f8f485414f6ff042de89bf590d54bfd7a00b62d"
+      },
+      "KASTAMONU": {
+        "dosya": "TR/kastamonu.txt",
+        "yerlesim": 20,
+        "gun": 7920,
+        "bayt": 447178,
+        "sha256": "34575b71a0da08718efa59a4d47a0d292278507460b819f800922dddce619b25"
+      },
+      "KAYSERI": {
+        "dosya": "TR/kayseri.txt",
+        "yerlesim": 13,
+        "gun": 5148,
+        "bayt": 290670,
+        "sha256": "adc55383c43a93e968da5fefef56b6c5c68151a0fe7d8bef3c11b93e849db050"
+      },
+      "KILIS": {
+        "dosya": "TR/kilis.txt",
+        "yerlesim": 4,
+        "gun": 1584,
+        "bayt": 89486,
+        "sha256": "f0ee49d7889f2d89625326745df1f1db2b603220ca37af0cd6b89780322fe5db"
+      },
+      "KIRIKKALE": {
+        "dosya": "TR/kirikkale.txt",
+        "yerlesim": 7,
+        "gun": 2772,
+        "bayt": 156576,
+        "sha256": "d5227108e6f05dea08db7b2d88397da697e0dda327e82f5759c91b1f1ae1cfa1"
+      },
+      "KIRKLARELI": {
+        "dosya": "TR/kirklareli.txt",
+        "yerlesim": 7,
+        "gun": 2772,
+        "bayt": 156590,
+        "sha256": "6df5d04f8f0b570ab18abfe1879ff9a8e5afb1cb9872973a90e9ef068d3686ab"
+      },
+      "KIRSEHIR": {
+        "dosya": "TR/kirsehir.txt",
+        "yerlesim": 5,
+        "gun": 1980,
+        "bayt": 111855,
+        "sha256": "51f8098c95007d7859a9415a19d096df5f16b73aac38a5e4e01ecbdc7caf1943"
+      },
+      "KOCAELI": {
+        "dosya": "TR/kocaeli.txt",
+        "yerlesim": 9,
+        "gun": 3564,
+        "bayt": 201258,
+        "sha256": "fce823e2840092e587b48b3caaf6f35002fe5208979fd22239a328d4a64776f4"
+      },
+      "KONYA": {
+        "dosya": "TR/konya.txt",
+        "yerlesim": 32,
+        "gun": 12672,
+        "bayt": 715301,
+        "sha256": "40bb4d6b637e8ccfa93113ec5cbc55d93253ed917c097892f6f2068b5361b711"
+      },
+      "KUTAHYA": {
+        "dosya": "TR/kutahya.txt",
+        "yerlesim": 13,
+        "gun": 5148,
+        "bayt": 290670,
+        "sha256": "17829d70f89e2082d214cbf61336089eb77f8d298d15830726d7d3181af05766"
+      },
+      "MALATYA": {
+        "dosya": "TR/malatya.txt",
+        "yerlesim": 13,
+        "gun": 5148,
+        "bayt": 290672,
+        "sha256": "046bf3e9dc6e207f8f6f036732832025aeeb25aef65ab3fea056439f1c899336"
+      },
+      "MANISA": {
+        "dosya": "TR/manisa.txt",
+        "yerlesim": 16,
+        "gun": 6336,
+        "bayt": 357705,
+        "sha256": "0dde1a52bfcaf024a371dd27c99481f35a2ffd0c8a13c7c6f2b240de35ca8251"
+      },
+      "MARDIN": {
+        "dosya": "TR/mardin.txt",
+        "yerlesim": 9,
+        "gun": 3564,
+        "bayt": 201244,
+        "sha256": "0448c6cd26ff512299f5b25d14babac5b9cb1bed5d469cd1d14861062779f323"
+      },
+      "MERSIN": {
+        "dosya": "TR/mersin.txt",
+        "yerlesim": 10,
+        "gun": 3960,
+        "bayt": 223592,
+        "sha256": "f47622d8e6611df812123e45b9808709eedc38673253af9f0be1416e35160ea1"
+      },
+      "MUGLA": {
+        "dosya": "TR/mugla.txt",
+        "yerlesim": 12,
+        "gun": 4752,
+        "bayt": 268277,
+        "sha256": "28e5294cf02a2c4ea5f79dc5bb268850ba4a690f2a0768deb9195df1c74286c5"
+      },
+      "MUS": {
+        "dosya": "TR/mus.txt",
+        "yerlesim": 6,
+        "gun": 2376,
+        "bayt": 134165,
+        "sha256": "0aca35b1da3ed736d6bca5861faf3f6d134026ae6763c43f9fe33444181276e3"
+      },
+      "NEVSEHIR": {
+        "dosya": "TR/nevsehir.txt",
+        "yerlesim": 6,
+        "gun": 2376,
+        "bayt": 134212,
+        "sha256": "822e4fbcda6ee062405d7ab1a2c390659d893c61e5fb6d578c410e1176ee9ba9"
+      },
+      "NIGDE": {
+        "dosya": "TR/nigde.txt",
+        "yerlesim": 6,
+        "gun": 2376,
+        "bayt": 134186,
+        "sha256": "5b2d4fab4b57910447480127912deb28f759863292074a70939a9fd936095a41"
+      },
+      "ORDU": {
+        "dosya": "TR/ordu.txt",
+        "yerlesim": 16,
+        "gun": 6336,
+        "bayt": 357663,
+        "sha256": "f72637b542385f0e1bd3299ed8a330083fc1909d4bcde0fa6d3c2a40bf6409b8"
+      },
+      "OSMANIYE": {
+        "dosya": "TR/osmaniye.txt",
+        "yerlesim": 7,
+        "gun": 2772,
+        "bayt": 156561,
+        "sha256": "72be4863250f03eb5af984b04f6ca1efb76b4d94a259990fe7b181a9b9bd0c91"
+      },
+      "RIZE": {
+        "dosya": "TR/rize.txt",
+        "yerlesim": 9,
+        "gun": 3564,
+        "bayt": 201229,
+        "sha256": "b4961d279632313c6e6260bdffae77bce55bfa555fb6096b407894b8568a8dbd"
+      },
+      "SAKARYA": {
+        "dosya": "TR/sakarya.txt",
+        "yerlesim": 9,
+        "gun": 3564,
+        "bayt": 201248,
+        "sha256": "5f0a519e524b355a4e68212b88a3e72e766826a9b6e168ccf720bc33f4d06500"
+      },
+      "SAMSUN": {
+        "dosya": "TR/samsun.txt",
+        "yerlesim": 16,
+        "gun": 6336,
+        "bayt": 357703,
+        "sha256": "7503751acde75d0bda870bd78e242689c9696c44799c0be9f6790da712ec77e8"
+      },
+      "SANLIURFA": {
+        "dosya": "TR/sanliurfa.txt",
+        "yerlesim": 11,
+        "gun": 4356,
+        "bayt": 245987,
+        "sha256": "82b0fa55ab25dd3ecb54664b246551510f19dfc2b12da1a530e800193a049b6b"
+      },
+      "SIIRT": {
+        "dosya": "TR/siirt.txt",
+        "yerlesim": 6,
+        "gun": 2376,
+        "bayt": 134179,
+        "sha256": "01ae7ee745afbebf260a1cab4a3b8196086241f327238b5a2520ecfbb01fd040"
+      },
+      "SINOP": {
+        "dosya": "TR/sinop.txt",
+        "yerlesim": 9,
+        "gun": 3564,
+        "bayt": 201231,
+        "sha256": "f60dbf0a3365c7d4b294003c87d1a8b627cb329286a7aa2ea23cde5aa7e19368"
+      },
+      "SIRNAK": {
+        "dosya": "TR/sirnak.txt",
+        "yerlesim": 7,
+        "gun": 2772,
+        "bayt": 156548,
+        "sha256": "5f24c75cb24c56ed0ec3547360e998258fb9928a36149d7efbe5e3a84f15ab20"
+      },
+      "SIVAS": {
+        "dosya": "TR/sivas.txt",
+        "yerlesim": 17,
+        "gun": 6732,
+        "bayt": 380042,
+        "sha256": "664b32250d03d58bac5e6661fe5403de2dabc402f4408bd7b558b81ca2a148d9"
+      },
+      "TEKIRDAG": {
+        "dosya": "TR/tekirdag.txt",
+        "yerlesim": 10,
+        "gun": 3960,
+        "bayt": 223624,
+        "sha256": "f1c3cc74975e1c54e4ac35ba7f54bc13ad6f40152840e99ab41c0584476330af"
+      },
+      "TOKAT": {
+        "dosya": "TR/tokat.txt",
+        "yerlesim": 12,
+        "gun": 4752,
+        "bayt": 268280,
+        "sha256": "1a660e82cd4443cb42ff8d4b5979a8ba226fe58d3b9b7e7320d0bb3d387c907d"
+      },
+      "TRABZON": {
+        "dosya": "TR/trabzon.txt",
+        "yerlesim": 17,
+        "gun": 6732,
+        "bayt": 380087,
+        "sha256": "17724d16537ad62c1685946c7023d0c09d7e184c9699f7102e2611309a68d461"
+      },
+      "TUNCELI": {
+        "dosya": "TR/tunceli.txt",
+        "yerlesim": 7,
+        "gun": 2772,
+        "bayt": 156553,
+        "sha256": "0e75fa0b22fec251d8285488fa2f124eb97fe687031ff287bcc207b8a705f156"
+      },
+      "USAK": {
+        "dosya": "TR/usak.txt",
+        "yerlesim": 6,
+        "gun": 2376,
+        "bayt": 134172,
+        "sha256": "5e6d70e9e225b46919976c8374c5657b8437ad5fa99e6823771f86c6f17a8eb3"
+      },
+      "VAN": {
+        "dosya": "TR/van.txt",
+        "yerlesim": 12,
+        "gun": 4752,
+        "bayt": 268262,
+        "sha256": "deb7d3dcc8e83e654dd202c39529148253230a9a305bf6ebfacdd58c0f7908f5"
+      },
+      "YALOVA": {
+        "dosya": "TR/yalova.txt",
+        "yerlesim": 5,
+        "gun": 1980,
+        "bayt": 111843,
+        "sha256": "66dd069c6cad5a332a46b10a7d6bd15508e7b34f11acf5e4c56731f576f71355"
+      },
+      "YOZGAT": {
+        "dosya": "TR/yozgat.txt",
+        "yerlesim": 14,
+        "gun": 5544,
+        "bayt": 313027,
+        "sha256": "7fe78c316ef0418a7ee3912493e247581774181633adf31dd985a942bbfc61fa"
+      },
+      "ZONGULDAK": {
+        "dosya": "TR/zonguldak.txt",
+        "yerlesim": 6,
+        "gun": 2376,
+        "bayt": 134225,
+        "sha256": "ca047674c51d9c49e178846735315ccdd3d7edcb1731f561ac12c1eda32c33f9"
+      }
+    }
+  },
+  "eslestirme": {
+    "dosya": "esleme.txt",
+    "eslesen": 802,
+    "eslesmeyen": 265,
+    "kural": "normalize(il)|normalize(ad) kesin eslesme; coklu aday veya aday yoksa eslesme YOK. Il merkezi verisi hicbir ilceye kopyalanmaz."
+  },
+  "bilinenSorunlar": {
+    "katalogAdiAsciiFarki": [],
+    "katalogAdiGercekFarki": [
+      {
+        "cityId": 9381,
+        "il": "DENIZLI",
+        "katalogAdi": "ACIPAYAM",
+        "sayfaAdi": "Güney"
+      },
+      {
+        "cityId": 9515,
+        "il": "HATAY",
+        "katalogAdi": "HATAY",
+        "sayfaAdi": "Arsuz"
+      },
+      {
+        "cityId": 16730,
+        "il": "HATAY",
+        "katalogAdi": "YAYLADAG",
+        "sayfaAdi": "Yayladağı"
+      },
+      {
+        "cityId": 17909,
+        "il": "USAK",
+        "katalogAdi": "USAK",
+        "sayfaAdi": "Ulubey"
+      }
+    ],
+    "veriCozulemeyen": [],
+    "olduKayit": [
+      {
+        "cityId": 17876,
+        "il": "ADANA",
+        "katalogAdi": "ÃUKUROVA",
+        "sebep": "HTTP 500 (olu kayit)"
+      },
+      {
+        "cityId": 17898,
+        "il": "DENIZLI",
+        "katalogAdi": "AKKÃY",
+        "sebep": "HTTP 500 (olu kayit)"
+      },
+      {
+        "cityId": 9394,
+        "il": "DENIZLI",
+        "katalogAdi": "KALE",
+        "sebep": "HTTP 500 (olu kayit)"
+      }
+    ]
+  },
+  "toplamSatir": 341352
+}

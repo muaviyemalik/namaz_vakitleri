@@ -105,9 +105,24 @@ const List<LisansGirdisi> lisansGirdileri = [
 
   // --- Servisler ---
   LisansGirdisi(
-    baslik: 'Namaz Vakti Verisi',
-    aciklama: 'Namaz vakitleri, hicri takvim ve hesaplama yöntemleri bu '
-        'servisten alınır. API anahtarı veya üyelik gerektirmez.',
+    baslik: 'Resmî Diyanet Vakit Verisi (Türkiye)',
+    aciklama: 'Türkiye\'de gösterilen vakitler Diyanet İşleri Başkanlığı\'nın '
+        'kendi yayımladığı tablolardan alınmıştır ve uygulamanın içine '
+        'gömülüdür; internet gerekmez. Diyanet bu vakitlerin kendi resmî '
+        'hesaplamalarına dayandığını belirtir.',
+    lisans: 'Resmî devlet verisi',
+    kaynak: 'T.C. Diyanet İşleri Başkanlığı — Namaz Vakitleri',
+    url: 'https://namazvakitleri.diyanet.gov.tr/',
+    ceviriEki: 'license_diyanet',
+    lisansAnahtari: 'license_diyanet_terms',
+  ),
+  LisansGirdisi(
+    baslik: 'Namaz Vakti Verisi (Türkiye dışı)',
+    aciklama: 'Türkiye dışındaki ülkelerin vakitleri, hicri takvimi ve '
+        'hesaplama yöntemleri bu servisten alınır. Türkiye\'de yalnızca resmî '
+        'Diyanet verisi bulunmayan yerleşimlerde, açıkça etiketlenmiş '
+        'hesaplanmış saatler için kullanılır. API anahtarı veya üyelik '
+        'gerektirmez.',
     lisans: 'Ücretsiz kullanım',
     kaynak: 'Aladhan Prayer Times API',
     url: 'https://aladhan.com/prayer-times-api',

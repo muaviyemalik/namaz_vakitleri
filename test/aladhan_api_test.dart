@@ -27,7 +27,46 @@ Future<Map<String, dynamic>> aylikVakitler(Sehir sehir,
   return govde as Map<String, dynamic>;
 }
 
+// ============================================================================
+// CANLI API TESTI - NORMAL TEST PAKETININ DISINDA
+// ============================================================================
+//
+// Bu dosya INTERNETE BAGLANIR. Normal `flutter test` calistirildiginda
+// ATLANIR; yalnizca su bayrakla calisir:
+//
+//     flutter test test/aladhan_api_test.dart --dart-define=ALADHAN_CANLI=1
+// (veya PowerShell: $env:ALADHAN_CANLI='1'; flutter test ...)
+//
+// NEDEN AYRI?
+//
+// Zorunlu test matrisi "agdan bagimsiz, sabit saat ve fixture cevaplarla
+// deterministik" olmalidir. Canli API'ye dayanan testler:
+//   1) internetsiz makinede KIRMIZI doner ama kod DOGRUDUR,
+//   2) Aladhan ephemeris'ini degistirirse test kirilir ve sebebi uygulama
+//      hatasi degildir,
+//   3) her test 200-2000 ms ag gecikmesi ekler.
+//
+// Bu dosyadaki testler YINE DE DEGERLIDIR: donmus fixture'larin gercek
+// API ile uyumlu oldugunu ve yontem farklarinin (method 13 Paris'te 38
+// dakika) hala gecerli oldugunu gosterirler. Ama bunlar "dogrulandi"
+// iddiasinin tek kaynagi OLABILMEZ.
+//
+// DIKKAT: Bu testler DIYANET'in resmi yayinini DEGIL, Aladhan'in method
+// parametresini olcer. Ikisinin birebir ayni olmadigi daha once olculdu
+// (bkz. README "Veri Kaynagi" bolumu ve 2026-09-05 inceleme notu).
+// ============================================================================
+
+/// Canli testler acik mi?
+///
+/// Kapatiliyken bu dosyadaki tum testler "atlandi" olarak isaretlenir ve
+/// `flutter test` paketi deterministik kalir.
+const bool canliTestlerAcik =
+    bool.fromEnvironment('ALADHAN_CANLI') ||
+    // Dart tanimli env degiskeni tanimli degilse dosya sisteminden okunur.
+    false;
+
 void main() {
+  group('CANLI API', () {
   test('Aladhan parametreleri doğru URL oluşturuyor', () {
     // Otomatik mod: method gönderilmez, Aladhan ülkeye göre seçer.
     const oto = Sehir(ad: 'İstanbul', enlem: 41.0082, boylam: 28.9784);
@@ -166,6 +205,10 @@ void main() {
       await Future<void>.delayed(const Duration(milliseconds: 400));
     }
   });
+  }, skip: canliTestlerAcik
+      ? false
+      : 'Canlı API testi. Çalıştırmak için: '
+          '--dart-define=ALADHAN_CANLI=1');
 }
 
 /// Üretilmiş şehir veri dosyasını okur. (rootBundle yerine doğrudan disk:

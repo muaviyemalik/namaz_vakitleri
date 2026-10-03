@@ -14,7 +14,7 @@
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:namaz_vakitleri/data/ulke_verisi.dart';
+import 'package:namaz_vakitleri/core/saat.dart';
 import 'package:namaz_vakitleri/main.dart';
 import 'package:namaz_vakitleri/pages/anasayfa.dart';
 import 'package:shared_preferences/shared_preferences.dart';
@@ -31,7 +31,18 @@ Future<void> sayfayiYukle(WidgetTester tester) async {
 
   // main.dart'deki konumYukle() bunu yapiyor; testte de yapmamiz gerekir,
   // yoksa "sehir yok" yoluna dusulur ve yanlis senaryo olculmus olur.
-  aktifSehir.value = const Sehir(ad: 'Ankara', enlem: 39.9334, boylam: 32.8597);
+  // Konum artik TEK modelde: ad + ulke + koordinat + IANA saat dilimi.
+  // Saat dilimi bilinmiyor (`''`) ise KonumTakvimi yalnizca hangi ayin
+  // istencegini secebilmek icin boylamdan tahmin yapar; ekranda hicbir
+  // deger gosterilmez.
+  aktifKonum.value = const Konum(
+    ad: 'Ankara',
+    ulkeIso2: 'TR',
+    enlem: 39.9334,
+    boylam: 32.8597,
+    saatDilimi: '',
+  );
+  addTearDown(() => aktifKonum.value = null);
 
   await internetYokken(() async {
     await tester.pumpWidget(

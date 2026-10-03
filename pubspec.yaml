@@ -138,3 +138,15 @@ flutter:
     # (assets/veri/sehirler/TR.txt vb.) ve yalnızca seçilen ülke için
     # yüklendiği için en kalabalık dosya bile (ABD) 334 KB'dır.
     - assets/veri/sehirler/
+    # Resmî Diyanet vakit paketi (yalnız TÜRKİYE).
+    #   paket.json  → kaynak, edinme tarihi, kapsam, bütünlük (20 KB)
+    #   esleme.txt  → uygulama (il,ad) kaydı → resmî CityID (28 KB)
+    #   TR/*.txt    → il başına vakit parçası (81 dosya, 18,4 MB ham)
+    #
+    # AÇILIŞTA TÜMÜ YÜKLENMEZ. Açılışta yalnız paket.json okunur; kullanıcının
+    # ilindeki tek parça seçildiğinde okunur (ortalama 232 KB). Bellekte en
+    # fazla 2 il parçası tutulur. Bu yüzden 18,4 MB'lık paket belleğe
+    # alınmıyor.
+    - assets/veri/diyanet/paket.json
+    - assets/veri/diyanet/esleme.txt
+    - assets/veri/diyanet/TR/

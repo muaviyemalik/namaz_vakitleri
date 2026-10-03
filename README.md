@@ -8,11 +8,12 @@ Modern arayüzü, temiz kod mimarisi ve kapsamlı özellikleriyle Flutter kullan
 
 ## ✨ Öne Çıkan Özellikler
 
-* 🌍 **245 Ülke, 141.135 Şehir:** Avrupa, Amerika, Asya, Afrika ve Okyanusya kıtalarındaki 245 ülkenin **tüm şehirleri** uygulamada dahildir. Ülke seçimi **Ayarlar** menüsünden yapılır (kıta gruplarına ayrılmış, aramalı liste); şehir seçimi ana ekrandaki şehir düğmesiyle yapılır. Şehirler Türkçe karakterden bağımsız aranır ("suleyman" yazan kullanıcı "Süleyman" bulur).
+* 🌍 **245 Ülke, 160.869 Yerleşim:** Avrupa, Amerika, Asya, Afrika ve Okyanusya kıtalarındaki 245 ülkenin **tüm kayıtlı yerleşimleri** uygulamada dahildir (34.229 şehir + 126.640 köy/yerleşim; nüfus eşiği 15.000). Ülke seçimi **Ayarlar** menüsünden yapılır (kıta gruplarına ayrılmış, aramalı liste); şehir seçimi ana ekrandaki şehir düğmesiyle yapılır. Şehirler Türkçe karakterden bağımsız aranır ("suleyman" yazan kullanıcı "Süleyman" bulur).
 * 🗺️ **GPS ile Konum Bulma:** `geolocator` ve `geocoding` ile kullanıcının bulunduğu ülkeyi ve şehri otomatik tespit etme. Vakitler tam GPS koordinatı üzerinden hesaplanır.
+* 🕌 **Türkiye'de resmî Diyanet vakitleri (varsayılan):** T.C. Diyanet İşleri Başkanlığı'nın yayımladığı vakit tabloları uygulamaya gömülür — **dakika düzeyinde birebir**, internet gerekmez. 81 il, 865 resmî yerleşim kaydı, 3 Ekim 2026 – 31 Aralık 2027 arası 396 gün. Kapsam dışı tarihler hesaplanmaz, kopyalanmaz, uydurulmaz; açıkça bildirilir.
 * 🕋 **Kıble Pusulası:** Cihazın donanımsal pusula sensörü (`flutter_compass`) ve özel trigonometrik hesaplamalar ile tam isabetli yön bulma. Hedefe ulaşıldığında titreşimli (`HapticFeedback`) geri bildirim.
-* ⏱️ **Canlı Geri Sayım ve Vakitler:** Aladhan API entegrasyonu ile günlük namaz vakitlerinin çekilmesi ve sıradaki vakte kalan sürenin dinamik hesaplanması.
-* 🧮 **Ülkeye Göre Hesaplama Yöntemi:** Hesaplama yöntemi vakitleri kaydırdığı için uygulama `method` parametresini göndermez; Aladhan ülkeye göre resmi yöntemi kendisi seçer (TR→Diyanet, US→ISNA, EG→Mısır, SA→Umm al-Qura, ID→KEMENAG, FR→UOIF, TN→Tunus, MY→JAKIM). Kullanıcı Ayarlar'dan 24 resmi yöntem arasından kendi camiyinin yöntemini seçebilir.
+* ⏱️ **Canlı Geri Sayım ve Vakitler:** Türkiye'de resmî Diyanet tablosundan, diğer ülkelerde Aladhan API'sinden günlük vakitler alınır ve sıradaki vakte kalan süre dinamik hesaplanır.
+* 🧮 **Ülkeye Göre Hesaplama Yöntemi:** Hesaplama yöntemi vakitleri kaydırdığı için uygulama `method` parametresini göndermez; Aladhan ülkeye göre resmi yöntemi kendisi seçer (US→ISNA, EG→Mısır, SA→Umm al-Qura, ID→KEMENAG, FR→UOIF, TN→Tunus, MY→JAKIM). Kullanıcı Ayarlar'dan 24 resmi yöntem arasından kendi camiyinin yöntemini seçebilir. **Türkiye'de bu ayarlar resmî Diyanet saatlerini değiştirmez** — resmî tabloda karşılıkları yoktur.
 * 🔔 **Arka Plan Bildirimleri:** Uygulama kapalı olsa dahi ezan vakti girdiğinde `flutter_local_notifications` ile yerel bildirim (alarm) gönderme.
 * 📱 **Ana Ekran Widget'ları (Home Widgets):** Android cihazlar için uygulamanın içine girmeden sıradaki vakti, "Günün Ayeti"ni ve "Günün Hadisi"ni gösteren ana ekran araçları.
 * 🌐 **Çoklu Dil Desteği (i18n) — 25 dil:** `easy_localization` ile **Türkçe, İngilizce, Arapça, Farsça, Almanca, Fransızca, İspanyolca, Portekizce, Rusça, İtalyanca, Hollandaca, Japonca, Korece, Lehçe, Rumence, Amharca, Bengalce, Moğolca, Nepalce, Tamilce, Tayca, Türkmençe, Ukraynaca, Vietnamca, Endonezce ve Çince** arayüz. Arama ile dil seçimi, ülkeye göre öneri, otokton ad (kendi dilinde ad) ve **RTL (sağdan sola) tam yansıma** Arapça ve Farsçada çalışır.
@@ -35,11 +36,116 @@ Proje, Sorumlulukların Ayrılması (Separation of Concerns) prensibine uygun ol
 
 Uygulama, Aladhan API'nin şartlarından dolayı **koordinat tabanlı** çalışır:
 
-Aladhan'in `calendarByCity` uç noktası dahili bir geocoder kullanır ve büyük veri setindeki küçük şehirlerin çoğunu çözemez; bu istekler `503 Geocoding is temporarily unavailable` ile başarısız olur. Bu nedenle uygulama, aynı aylık veriyi (30 gün) koordinatla döndüren `/v1/calendar` uç noktasını kullanır. **141.135 şehir** bu sayede sorunsuz çalışır.
+Aladhan'in `calendarByCity` uç noktası dahili bir geocoder kullanır ve büyük veri setindeki küçük şehirlerin çoğunu çözemez; bu istekler `503 Geocoding is temporarily unavailable` ile başarısız olur. Bu nedenle uygulama, aynı aylık veriyi (30 gün) koordinatla döndüren `/v1/calendar` uç noktasını kullanır. **160.869 yerleşim** bu sayede sorunsuz çalışır.
 
 Koordinat yaklaşımının ikinci bir faydası daha var: `meta.timezone` her zaman doğru geldiği için ezan alarmları seçilen şehrin saat diliminde doğru zamanlanır.
 
+### Türkiye'de vakitler Diyanet'in resmî tablosundan gelir
+
+Bu, doğruluğa en çok dikkat edilmesi gereken noktadır ve artık iki ayrı
+kaynak vardır.
+
+**Türkiye → resmî Diyanet verisi (varsayılan).** Uygulama, T.C. Diyanet İşleri
+Başkanlığı'nın `namazvakitleri.diyanet.gov.tr` sitesinden yayımladığı vakit
+tablolarını indirir ve **paketin içine gömer**. Ekrandaki saat bu tablodan
+okunur; Aladhan'a hiç gidilmez. Diyanet, bu tabloların kendi resmî
+hesaplamalarına dayandığını sayfa metninde belirtir.
+
+**Türkiye dışı → Aladhan (değişiklik yok).** 244 ülke için mevcut hesaplama
+akışı aynen korunur.
+
+**Neden bu ayrım şart?** Aladhan'da `method=13` seçmek resmî veri kullanmak
+DEĞİLDİR. Aladhan kendi hesabını yapar ve cevabı `(experimental)` etiketiyle
+döner. Ankara'da 3 Ekim 2026'da ölçülen fark:
+
+| Vakit | Diyanet (resmî) | Aladhan (`method=13`) | fark |
+| :--- | :--- | :--- | ---: |
+| İmsak | 05:17 | 05:17 | 0 |
+| Güneş | 06:39 | 06:40 | +1 |
+| Öğle | 12:43 | 12:43 | 0 |
+| İkindi | 15:59 | 16:00 | +1 |
+| Akşam | 18:36 | 18:35 | −1 |
+| Yatsı | 19:54 | 19:53 | −1 |
+
+6 vaktin **4'ü** bir dakika yanlış. "Dakika düzeyinde birebir" hedefi yalnız
+Diyanet'in kendi tablosuyla gerçekleşir. Bu yüzden şehir koordinatları
+**hiçbir nedenle kaydırılmaz** — kaydırmak, resmî saati başka bir yerde
+durduğu yanıltıcı bir saatle değiştirmek olurdu.
+
+**Kapsam.** Bugünkü ölçüm:
+
+| | |
+| :--- | :--- |
+| **Katalog kaydı** | **865** resmî yerleşim (81 il) |
+| **İndirilen** | **862** |
+| **Paketlenen** | **862** (81 il, 341.352 satır) |
+| **Kalıcı HTTP hatası** | **3** — Çukurova, Akköy, Kale (`9394`) |
+| **Eşleme** | **802** uygulama kaydı → `CityID` |
+| **Eşleşmeyen** | **265** (Diyanet bu köyleri yayımlamıyor) |
+| **Kapsanan tarihler** | **3 Ekim 2026 – 31 Aralık 2027** (396 gün) |
+| **İçinde boşluk** | 3 Kasım – 31 Aralık 2026 arası **59 gün** Diyanet'te yok |
+| **2028** | **yok** — Diyanet bugün yalnız 2027'yi yayımlıyor |
+| **Paket bütünlüğü** | SHA-256 `8407312752cf85d092d0f1e712d2c807` |
+
+Veri **18,4 MB ham**, APK içinde sıkıştırılmış **3,12 MB** (oran %16,9).
+En büyük il parçası Zonguldak (698 KB), ortalama 232 KB.
+
+**Eksik tarihler hesaplanmıyor, kopyalanmıyor veya uydurulmuyor.** Aralık
+dışındaki günlerde uygulama "resmî veri yok" der ve **saat göstermez**;
+başka kaynağa sessizce geçmez. Boşluktaki günler için de aynı davranış
+geçerlidir. Bu yüzden 2027'nin sonundan sonrası için kullanıcı resmî veri
+beklerken hesaplanmış saati görmek isterse Ayarlar → *Diyanet resmî vakitleri*
+kapatabilir; bu seçim **açık** bir karardır, sessizce olmaz.
+
+**Yerleşimler isimle değil, resmî kimlikle eşleştirilir.** Resmî katalogdaki
+`City` alanı **güvenilmezdir**. 862 sayfanın denetiminde **4 gerçek çelişki**
+bulundu:
+
+| CityID | Katalog yazıyor | Diyanet sayfası gerçekte |
+| ---: | :--- | :--- |
+| 9381 | `ACIPAYAM` | **Güney** |
+| 9515 | `HATAY` | **Arsuz** |
+| 16730 | `YAYLADAG` | **Yayladağı** |
+| 17909 | `USAK` | **Ulubey** |
+
+`16730` yalnızca yazım farkıdır ve `esleme.txt`'i etkilemez. Diğer üçü gerçek
+çelişkidir: katalog yanlış yazmıştır. Bu yüzden eşleme **sayfanın kendi
+bildirdiği adla** kurulur (`og:title`) ve uygulama çalışırken yalnız `CityID`
+kullanır.
+
+Sonuç: **Denizli/Acıpayam, Hatay/Arsuz ve Uşak/Uşak resmî veriye bağlanmaz.**
+Bu yerleşimler için uygulama, açıkça etiketlenmiş **hesaplanmış** saati
+gösterir. Bir ilçeye başka ilçenin ya da il merkezinin saatleri
+**kopyalanmaz** — yanlış resmî veri göstermek, birkaç yerleşimin eksik
+kalmasından daha kötüdür. Ayrıntı ve tüm liste için
+bkz. `geri_donus/diyanet_resmi_veri_20261003/SONUCLAR.md`.
+
+**Ayarlar resmî saatleri değiştirmez.** Asr, yüksek enlem ve hesaplama yöntemi
+birer *hesaplama* ayarıdır; resmî tabloda karşılıkları yoktur. Bu modda
+**uygulanmazlar** ve ana ekranda nedeni yazılıdır. Ana ekran, geri sayım,
+bildirimler ve widget **aynı** resmî kaynaktan beslenir.
+
+Veri paketi **çevrimdışı çalışır** ve açılışta belleğe yüklenmez: açılışta
+yalnız 20 KB'lık `paket.json` okunur, kullanıcının iline ait ~230 KB'lık
+tek parça seçildiğinde okunur. Bellekte **en fazla 2 il parçası** tutulur
+(eski olan atılır), böylece kullanıcı onlarca il arasında dolaşsa bile
+bellek sınırsız büyümez. Bu davranış `test/diyanet_bellek_test.dart` ile
+ölçülür.
+
+Verinin bütünlüğü `tool/diyanet_kapsam_denetim.py` ile **20 kontrol** üzerinden
+doğrulanır (eksik gün, tekrar eden tarih, yinelenen kimlik, bozuk saat,
+çift kodlama izi vb.):
+
+```bash
+python tool/diyanet_verisi_indir.py --hiz 1.2   # veriyi indir
+python tool/diyanet_verisi_uret.py               # paketi üret
+python tool/diyanet_kapsam_denetim.py            # 20 kontrolü çalıştır
+```
+
 ## 🧮 Hesaplama Yöntemi
+
+> **Bu bölüm Türkiye dışındaki 244 ülke içindir.** Türkiye'de vakitler resmî
+> Diyanet tablosundan gelir ve `method` parametresi **hiç gönderilmez**.
 
 Aladhan'ın `method` parametresi namaz vakitlerini doğrudan etkiler. Uygulama bu parametreyi **göndermez**; böylece Aladhan ülkeye göre resmi yöntemi kendisi seçer.
 
@@ -52,7 +158,6 @@ Neden otomatik? Aynı şehirde yöntem değişince vakitler kayıyor. `method=13
 | Kahire | Mısır (5) | Fajr 7 dk |
 | Suudi Arabistan | Umm al-Qura (4) | **İşâ 19 dk** |
 | Endonezya | KEMENAG (20) | Fajr 8 dk |
-| İstanbul | Diyanet (13) | — (zaten doğru) |
 
 Otomatik moda geçildikten sonra Paris'te sapma **38 dakikadan 0'a** indi ve 12 ülke örneğinin tamamı doğru yöntemi aldı.
 
@@ -65,7 +170,7 @@ Kullanıcı **Ayarlar → Hesaplama Yöntemi** ekranından 24 resmi yöntem aras
 | **Kaynak** | [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) (ODbL-1.0) + [GeoNames](https://www.geonames.org/webservices/) cities500/1000/5000/15000 ve admin1CodesASCII (CC BY 4.0) |
 | **Üretim** | `dart run tool/sehir_verisi_uret.dart` |
 
-**Dosya düzeni:** `assets/veri/ulkeler.json` (ülke listesi, 65 KB) uygulama açılışında yüklenir. Şehirler ülke başına ayrı dosyalarda tutulur (`assets/veri/sehirler/TR.txt`) ve **yalnızca seçilen ülke açıldığında** okunup önbelleğe alınır. En kalabalık ülke dosyası (ABD, 16.867 kayıt) 717 KB'dır; uygulama açılışında 4.5 MB'lık şehir verisinin tamamı yüklenmez.
+**Dosya düzeni:** `assets/veri/ulkeler.json` (ülke listesi, 65 KB) uygulama açılışında yüklenir. Şehirler ülke başına ayrı dosyalarda tutulur (`assets/veri/sehirler/TR.txt`) ve **yalnızca seçilen ülke açıldığında** okunup önbelleğe alınır. En kalabalık ülke dosyası (ABD, 16.894 kayıt) 717 KB'dır; uygulama açılışında 4.5 MB'lık şehir verisinin tamamı yüklenmez.
 
 **Kapsam dışı bırakılanlar:** Kutup bölgeleri (Polar) ve şehir/koordinat verisi bulunmayan iki yerleşim — `United States Minor Outlying Islands` (kalıcı nüfusu yok) ve `Tokelau`.
 
@@ -210,7 +315,16 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 3. Uygulamayı derleyin ve çalıştırın:
    ```bash
    flutter run
-(Not: Widget ve arka plan bildirim özelliklerinin tam çalışması için gerçek bir Android/iOS cihazda test edilmesi önerilir.)
+> ### ⚠️ iOS durumu: **doğrulanmadı**
+>
+> Bu depo **Android** için geliştirilmiştir. iOS tarafında yalnızca bildirim eklentisinin
+> `DarwinInitializationSettings` başlangıç kurulumu tamamlandı — bu olmadan uygulama
+> `runApp`'den önce `ArgumentError` ile çöküyordu.
+>
+> **Fiziksel iPhone'da test YAPILMAMIŞTIR.** iOS ana ekran widget'ı, planlı bildirim
+> teslimi, arka plan modu ve mağaza yapılandırması doğrulanmamıştır. Bu nedenle iOS
+> için **yayın desteği iddiası yapılmaz**. Android cihazda widget ve arka plan
+> bildirimleri de gerçek cihazda ayrıca doğrulanmalıdır.
 
 4. Ülke/şehir verisini yeniden üretmek isterseniz (isteğe bağlı — veriler depoda gelir):
    ```bash
@@ -258,7 +372,7 @@ dart run tool/dil_katalogu_uret.dart <countries-json> <iso639-json>
 | | |
 | :--- | :--- |
 | **Çeviri dosyası sayısı** | **25** (`assets/i18n/ceviri/*.json`) |
-| **Anahtar sayısı (dosya başına)** | **83** |
+| **Anahtar sayısı (dosya başına)** | **151** |
 | RTL çevirisi olan | 2 (Arapça, Farsça) |
 
 **Arayüzde üç ayrıntı:**
@@ -309,9 +423,14 @@ dart run tool/dil_katalogu_uret.dart <countries-json> <iso639-json>
 | :--- | :--- |
 | **Sürüm** | `1.1.0` (build `2`) |
 | **APK** | [Sürüm 1.1.0 — `namaz_vakitleri-1.1.0.apk`](https://github.com/muaviyemalik/namaz_vakitleri/releases/download/v1.1.0/namaz_vakitleri-1.1.0.apk) |
-| **Boyut** | 57,6 MB (universal, tüm ABI'lar) |
+| **Boyut (1.1.0)** | 57,6 MB (universal, tüm ABI'lar) |
+| **Boyut (Diyanet paketi ile)** | **62,7 MB** — universal APK; Diyanet verisi **+3,33 MB (%5,6)** ekliyor (ham 18,4 MB, APK içinde sıkıştırılmış 3,12 MB) |
 | **Min. Android** | API 24 (Android 7.0) |
 | **Hedef** | API 36 (Android 16) |
+
+> **Yayın engeli:** Diyanet verisinin APK içinde yeniden dağıtımı için yazılı
+> izin **alınmamıştır**. Bu derleme teknik olarak çalışır, ancak dağıtım öncesi
+> Diyanet'ten izin alınması gerekir. Bkz. `NOTICE.md`.
 
 ```bash
 # Sürümü okut
@@ -333,6 +452,8 @@ flutter build apk --release
 
 Tüm atıflar ayrıca [NOTICE.md](NOTICE.md) dosyasında ve **uyulama içinde** (Ayarlar → Lisans ve Atıf) listelenmiştir.
 
-**Vakit verisi** [Aladhan API](https://aladhan.com/prayer-times-api) tarafından ücretsiz olarak sağlanmaktadır; API anahtarı veya kayıt gerektirmez.
+**Vakit verisi (Türkiye)** [T.C. Diyanet İşleri Başkanlığı — Namaz Vakitleri](https://namazvakitleri.diyanet.gov.tr/) sitesinden alınmıştır. Diyanet bu vakitlerin kendi resmî hesaplamalarına dayandığını belirtir. Veri kamuya açıktır; **yeniden dağıtım koşulları için Diyanet ile iletişime geçilmelidir.**
+
+**Vakit verisi (Türkiye dışı)** [Aladhan API](https://aladhan.com/prayer-times-api) tarafından ücretsiz olarak sağlanmaktadır; API anahtarı veya kayıt gerektirmez. Türkiye'de yalnızca resmî Diyanet verisi bulunmayan yerleşimlerde, açıkça etiketlenmiş hesaplanmış saatler için kullanılır.
 
 **Derleme yolundaki yamalar:** `perfect_volume_control` paketi (zikir sayacı için) pub.dev'de terk edilmiş durumdadır ve AGP 8+ ile derlenemiyordu. Kaynak kodu değiştirilmeden `third_party/perfect_volume_control` altına alınıp yalnızca derlenebilir hale getirilmiştir. `home_widget` paketi ise dinamik sürüm (`androidx.glance:glance-appwidget:1.+`) kullandığı için derleme sırasında sabitlenmiştir.

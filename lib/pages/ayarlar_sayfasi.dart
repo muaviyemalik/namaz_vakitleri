@@ -1,6 +1,7 @@
 // lib/pages/ayarlar_sayfasi.dart
 import 'package:flutter/material.dart';
 import 'package:easy_localization/easy_localization.dart';
+import 'package:namaz_vakitleri/core/saat.dart';
 import 'package:namaz_vakitleri/main.dart';
 import 'package:namaz_vakitleri/data/ulke_verisi.dart';
 import 'package:namaz_vakitleri/data/dil_katalogu.dart';
@@ -51,21 +52,55 @@ class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
     if (!mounted) return;
 
     final sehirler = await UlkeVerisi.instance.sehirler(secilen.iso2);
-    if (sehirler.isNotEmpty) {
-      Sehir? hedef;
-      final baskent = secilen.baskent;
-      if (baskent != null && baskent.isNotEmpty) {
-        final arama = UlkeVerisi.normalize(baskent);
-        for (final s in sehirler) {
-          if (UlkeVerisi.normalize(s.ad) == arama) {
-            hedef = s;
-            break;
-          }
+
+    // ŞEHİR VERİSİ OLMAYAN ÜLKE
+    //
+    // 245 ülkenin 16'sının (Anguilla, Vatikan, Cocos, Pitcairn, Svalbard,
+    // Norfolk, Saint Helena, Sint Maarten, Britanya Virjin Adaları,
+    // Montserrat, Cook, Falkland, Güney Georgia, BIOT, Niue, Christmas)
+    // şehir dosyası BOŞTUR.
+    //
+    // ÖNCE: `sehirler.isNotEmpty` false ise hiçbir şey yapılmıyordu.
+    // Sonuç: ülke değişmiş görünürken başlıkta ve vakitlerde ÖNCEKİ
+    // ÜLKENİN ŞEHRİ kalıyordu. Kullanıcı "Britanya Virjin Adaları"nı
+    // seçiyor, ekranda Türkiye'nin vakitlerini görüyordu. Bu, bu uygulamanın
+    // en tehlikeli hatalarından biridir: yanlış ülkeye ait vakitler
+    // namaz vakti gibi gösteriliyor.
+    //
+    // ŞİMDİ: aktif konum BOŞALTILIR. Böylece ana sayfa "veri yok" hata
+    // ekranını gösterir ve kullanıcıya GPS ya da güvenli bir geri dönüş
+    // yolu sunar. Önceki ülkenin şehri ASLA bu ülkenin adıyla gösterilmez.
+    if (sehirler.isEmpty) {
+      aktifKonum.value = null;
+      await konumKaydetTemizle();
+      if (!mounted) return;
+      setState(() {});
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text('no_city_data_action'.tr(
+              args: [secilen.gorunenAd(context.locale.languageCode)])),
+          backgroundColor: Colors.orange.shade800,
+          behavior: SnackBarBehavior.floating,
+          margin: const EdgeInsets.all(10),
+          duration: const Duration(seconds: 6),
+        ),
+      );
+      return;
+    }
+
+    Sehir? hedef;
+    final baskent = secilen.baskent;
+    if (baskent != null && baskent.isNotEmpty) {
+      final arama = UlkeVerisi.normalize(baskent);
+      for (final s in sehirler) {
+        if (UlkeVerisi.normalize(s.ad) == arama) {
+          hedef = s;
+          break;
         }
       }
-      hedef ??= sehirler.first;
-      await sehirAyarla(hedef);
     }
+    hedef ??= sehirler.first;
+    await konumAyarla(hedef);
 
     if (!mounted) return;
     ScaffoldMessenger.of(context).showSnackBar(
@@ -96,20 +131,36 @@ class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
     context.setLocale(Locale(yeniDilKodu));
   }
 
-  /// Hesaplama yöntemini seçer. "Otomatik" seçeneği Aladhan'ın ülkeye göre
-  /// varsayılanını kullanır; geri kalanı resmi 24 yöntemdir.
+  /// Hesaplama yöntemini seçer.
+  ///
+  /// İPTAL SORUNU DÜZELTİLDİ
+  ///
+  /// Önceden `showDialog<int?>` kullanılıyordu ve metot `null` olduğunda
+  /// hem "Otomatik" seçilmiş hem de diyalog kapatılmış anlamına geliyordu.
+  /// Geri tuşu, dışarı dokunma ve kapatma düğmesi `null` döndürdüğü için
+  /// kullanıcı yöntemi görmeden DİYALOĞU KAPATTIĞINDA mevcut yöntemi
+  /// "Otomatik"a çeviriyordu. Kullanıcının bilinçli bir seçim yapmadan
+  /// hesaplama yöntemi değişiyordu.
+  ///
+  /// Çözüm: [_YontemSecimi] sarmalayıcısı kullanılır. `null` yalnız İPTAL
+  /// demektir; "Otomatik" seçimi ayrı bir değerle (`-1`) temsil edilir.
   Future<void> _yontemSec() async {
-    final secilenId = await showDialog<int?>(
+    final secim = await showDialog<_YontemSecimi>(
       context: context,
       builder: (context) => _YontemSeciciDialog(
         seciliId: aktifHesaplamaYontemi.value,
       ),
     );
+
+    // İptal: kullanıcı bir şey SEÇMEDİ. Mevcut yöntem AYNEN korunur.
+    if (secim == null) return;
     if (!mounted) return;
-    // null döndüyse "Otomatik" seçilmiş demektir; iptal de aynı değeri
-    // üretir. Bu yüzden ayrımı dialog'un dönüşünde yapıyoruz.
-    aktifHesaplamaYontemi.value = secilenId;
-    await hesaplamaYontemiKaydet(secilenId);
+
+    final yeniId = secim.otomatikMi ? null : secim.yontemId;
+    if (yeniId == aktifHesaplamaYontemi.value) return; // Değişiklik yok.
+
+    aktifHesaplamaYontemi.value = yeniId;
+    await hesaplamaYontemiKaydet(yeniId);
   }
 
   @override
@@ -210,6 +261,200 @@ class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
                     trailing: Icon(Icons.arrow_forward_ios,
                         size: 16, color: Theme.of(context).colorScheme.primary),
                     onTap: _yontemSec,
+                  ),
+                );
+              },
+            ),
+
+            const SizedBox(height: 10),
+
+            // RESMÎ DİYANET VERİSİ (Türkiye)
+            //
+            // Varsayılan AÇIK. Kapalıyken mevcut Aladhan hesaplama akışı
+            // çalışır — bu akış korunur, yalnız varsayılan olmaktan çıkar.
+            //
+            // Neden bir anahtar? Resmî veri paketi yalnız Türkiye'yi kapsar
+            // ve yalnız resmî yayımladığı tarihleri içerir. Kullanıcı bu
+            // aralık dışında hesaplanmış saatleri görmek isteyebilir; bu
+            // seçim AÇIK olmalıdır, "sessizce" yapılamaz.
+            ValueListenableBuilder<bool>(
+              valueListenable: aktifResmiDiyanet,
+              builder: (context, acikMi, child) {
+                final konum = aktifKonum.value;
+                final kimlikVar = konum != null && konum.diyanetCityId != null;
+                final turkiyeMi = konum?.ulkeIso2 == 'TR';
+                return Card(
+                  color: Theme.of(context).cardColor,
+                  elevation:
+                      Theme.of(context).brightness == Brightness.dark ? 1 : 4,
+                  child: SwitchListTile(
+                    value: acikMi,
+                    onChanged: (v) async {
+                      // Navigator await ÖNCESinde alınır: async aradan sonra
+                      // BuildContext kullanmak güvenli değildir.
+                      final navigator = Navigator.of(context);
+                      await resmiDiyanetKaydet(v);
+                      // Ana ekran `aktifResmiDiyanet` dinleyicisiyle
+                      // yeniden yüklenir; burada ekranı kapatmak yeterli.
+                      navigator.pop();
+                    },
+                    secondary: Icon(Icons.verified_outlined,
+                        color: Theme.of(context).colorScheme.primary, size: 30),
+                    title: Text(
+                      'Diyanet resmî vakitleri',
+                      style: TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 16,
+                        color: Theme.of(context).brightness == Brightness.dark
+                            ? Colors.white
+                            : Colors.black87,
+                      ),
+                    ),
+                    subtitle: Text(
+                      !turkiyeMi
+                          ? 'Yalnız Türkiye için. Seçili ülke: ${konum?.ulkeIso2 ?? '-'}'
+                          : acikMi
+                              ? kimlikVar
+                                  ? 'Açık — Diyanet\'in yayımladığı saatler '
+                                      'gösterilir. Asr ve yüksek enlem ayarı '
+                                      'bu tabloda yer almaz, vakitleri '
+                                      'değiştirmez.'
+                                  : 'Açık — ancak bu yerleşim için Diyanet '
+                                      'resmî vakit yayımlamıyor; hesaplanmış '
+                                      'saatler gösterilir.'
+                              : 'Kapalı — vakitler hesaplanır '
+                                  '(Diyanet hesaplama yöntemi).',
+                      style: const TextStyle(fontSize: 12),
+                    ),
+                  ),
+                );
+              },
+            ),
+
+            const SizedBox(height: 10),
+
+            // ASR (ÖĞLE SONRASI) YÖNTEMİ
+            //
+            // Bu ayar vakitleri değiştirir. Önceden gizli bir varsayılandı:
+            // kullanıcı "Asr'im şu anki şekilde hesaplanıyor" bilgisine
+            // sahip değildi. Şimdi açıkça seçilebilir ve hangi değerin
+            // kullanıldığı hesap özetinde yazar.
+            ValueListenableBuilder<AsrYontemi>(
+              valueListenable: aktifAsrYontemi,
+              builder: (context, aktifAsr, child) {
+                return Card(
+                  color: Theme.of(context).cardColor,
+                  elevation: Theme.of(context).brightness == Brightness.dark ? 1 : 4,
+                  child: ListTile(
+                    leading: Icon(Icons.wb_twilight,
+                        color: Theme.of(context).colorScheme.primary, size: 30),
+                    title: Text(
+                      'asr_method'.tr(),
+                      style: TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 16,
+                        color: Theme.of(context).brightness == Brightness.dark
+                            ? Colors.white
+                            : Colors.black87,
+                      ),
+                    ),
+                    subtitle: Text(aktifAsr.ad, style: const TextStyle(fontSize: 12)),
+                    trailing: DropdownButton<AsrYontemi>(
+                      value: aktifAsr,
+                      underline: const SizedBox(),
+                      dropdownColor: Theme.of(context).cardColor,
+                      onChanged: (AsrYontemi? yeni) {
+                        if (yeni == null) return;
+                        aktifAsrYontemi.value = yeni;
+                        asrYontemiKaydet(yeni);
+                      },
+                      items: AsrYontemi.values
+                          .map((a) => DropdownMenuItem(
+                                value: a,
+                                child: Text(a.kod,
+                                    style: const TextStyle(fontSize: 14)),
+                              ))
+                          .toList(),
+                    ),
+                  ),
+                );
+              },
+            ),
+
+            const SizedBox(height: 10),
+
+            // YÜKSEK ENLEM AYARI
+            //
+            // 48° üzeri enlemlerde (Norveç, İsveç, Finlandiya, Grönland,
+            // bazı Rusya bölgeleri) farklı mezhepler farklı düzeltmeler
+            // uygular. Bu ayar gizli bir varsayılan olarak bırakılmaz.
+            ValueListenableBuilder<YuksekEnlemAyaru>(
+              valueListenable: aktifYuksekEnlemAyaru,
+              builder: (context, aktifAyar, child) {
+                return Card(
+                  color: Theme.of(context).cardColor,
+                  elevation: Theme.of(context).brightness == Brightness.dark ? 1 : 4,
+                  child: ListTile(
+                    leading: Icon(Icons.terrain,
+                        color: Theme.of(context).colorScheme.primary, size: 30),
+                    title: Text(
+                      'high_latency'.tr(),
+                      style: TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 16,
+                        color: Theme.of(context).brightness == Brightness.dark
+                            ? Colors.white
+                            : Colors.black87,
+                      ),
+                    ),
+                    subtitle: Text(aktifAyar.ad, style: const TextStyle(fontSize: 12)),
+                    trailing: DropdownButton<YuksekEnlemAyaru>(
+                      value: aktifAyar,
+                      underline: const SizedBox(),
+                      dropdownColor: Theme.of(context).cardColor,
+                      onChanged: (YuksekEnlemAyaru? yeni) {
+                        if (yeni == null) return;
+                        aktifYuksekEnlemAyaru.value = yeni;
+                        yuksekEnlemKaydet(yeni);
+                      },
+                      items: YuksekEnlemAyaru.values
+                          .map((a) => DropdownMenuItem(
+                                value: a,
+                                child: Text(a.kod,
+                                    style: const TextStyle(fontSize: 14)),
+                              ))
+                          .toList(),
+                    ),
+                  ),
+                );
+              },
+            ),
+
+            const SizedBox(height: 10),
+
+            // GÜNEŞ DOĞUŞU BİLGİ BİLDİRİMİ
+            //
+            // Güneş doğuşu bir namaz vakti DEĞİLDİR. Önceden aynı kanalı
+            // ve aynı "Vakit Geldi!" metnini kullanıyordu. Artık ayrı bir
+            // tür, ayrı bir kanal ve varsayılan olarak KAPALI.
+            ValueListenableBuilder<bool>(
+              valueListenable: gunesDogumuBildirimiAcik,
+              builder: (context, acik, child) {
+                return Card(
+                  color: Theme.of(context).cardColor,
+                  elevation: Theme.of(context).brightness == Brightness.dark ? 1 : 4,
+                  child: SwitchListTile(
+                    secondary: Icon(Icons.wb_sunny_outlined,
+                        color: Theme.of(context).colorScheme.primary, size: 30),
+                    title: Text('sunrise_notification'.tr(),
+                        style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 16)),
+                    subtitle: Text('sunrise_notification_desc'.tr(),
+                        style: const TextStyle(fontSize: 12)),
+                    value: acik,
+                    onChanged: (bool yeni) {
+                      gunesDogumuBildirimiAcik.value = yeni;
+                      gunesDogumuBildirimiKaydet(yeni);
+                    },
                   ),
                 );
               },
@@ -418,10 +663,23 @@ class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
   }
 }
 
-/// Hesaplama yöntemi seçim diyaloğu.
+/// Diyaloğun döndürdüğü seçim.
 ///
-/// null döner: "Otomatik" seçildi (API'ye method gönderilmez, Aladhan
-/// ülkeye göre seçer). Diğer bir değer döner: o yöntemin id'si.
+/// `null` dönmesi yalnız İPTAL demektir. "Otomatik" seçimi ayrı bir
+/// değerle temsil edilir; bu ayrım olmadan geri tuşu mevcut yöntemi
+/// sessizce sıfırlıyordu.
+class _YontemSecimi {
+  /// `true` ise kullanıcı "Otomatik"i seçti (API'ye `method` gönderilmez).
+  final bool otomatikMi;
+
+  /// Seçilen yöntemin id'si. `otomatikMi` true ise `null`.
+  final int? yontemId;
+
+  const _YontemSecimi.otomatik() : otomatikMi = true, yontemId = null;
+  const _YontemSecimi.yontem(this.yontemId) : otomatikMi = false;
+}
+
+/// Hesaplama yöntemi seçim diyaloğu.
 class _YontemSeciciDialog extends StatelessWidget {
   final int? seciliId;
   const _YontemSeciciDialog({required this.seciliId});
@@ -450,7 +708,12 @@ class _YontemSeciciDialog extends StatelessWidget {
                   ),
                   IconButton(
                     icon: const Icon(Icons.close),
-                    onPressed: () => Navigator.pop(context, seciliId),
+                    // Kapatma düğmesi İPTAL'dir. Önceden `Navigator.pop(context,
+                    // seciliId)` çağrılıyordu; bu, "Otomatik" seçiliyse
+                    // (seciliId null) kullanıcı kapatınca yöntemi zaten
+                    // otomatik yapıyordu, seçili değilse de aynı değeri
+                    // geri yazıyordu. Artık hiçbir şey değişmiyor.
+                    onPressed: () => Navigator.pop(context),
                   ),
                 ],
               ),
@@ -466,7 +729,11 @@ class _YontemSeciciDialog extends StatelessWidget {
             Expanded(
               child: ListView(
                 children: [
-                  // Otomatik seçenek
+                  // Otomatik seçenek.
+                  //
+                  // ÖNEMLİ: "Otomatik", Aladhan'ın ÜLKEYE GÖRE SEÇTİĞİ
+                  // yöntemdir; "ülkenin resmî yöntemi" DEĞİLDİR. 245 ülke
+                  // için kanıtsız bir "resmî yöntem" tablosu uydurulmamıştır.
                   ListTile(
                     dense: true,
                     leading: Icon(Icons.auto_awesome,
@@ -479,10 +746,10 @@ class _YontemSeciciDialog extends StatelessWidget {
                         ? Icon(Icons.check_circle,
                             color: Theme.of(context).colorScheme.primary)
                         : null,
-                    onTap: () => Navigator.pop(context, null),
+                    onTap: () => Navigator.pop(context, const _YontemSecimi.otomatik()),
                   ),
                   const Divider(height: 1),
-                  // Resmi yöntemler
+                  // Sağlayıcının desteklediği hesaplama yöntemleri
                   ...hesaplamaYontemleri.map((y) => ListTile(
                         dense: true,
                         title: Text(y.ad, style: const TextStyle(fontSize: 15)),
@@ -492,7 +759,7 @@ class _YontemSeciciDialog extends StatelessWidget {
                             ? Icon(Icons.check_circle,
                                 color: Theme.of(context).colorScheme.primary)
                             : null,
-                        onTap: () => Navigator.pop(context, y.id),
+                        onTap: () => Navigator.pop(context, _YontemSecimi.yontem(y.id)),
                       )),
                 ],
               ),

@@ -142,6 +142,72 @@ void main() {
         reason: 'Zorunlu anahtarlar eksik:\n${sorunlar.entries.map((e) => '  ${e.key} -> ${e.value.join(', ')}').join('\n')}');
   });
 
+  group('Bildirim sonucu uyari metinleri', () {
+    // Bu uyarilar motorun `uyari` ALANININ degerleridir ve AnaSayfa'da
+    // ekrana cizilir. Uc durum AYRI ayri anlatilir: kurulum basarisiz,
+    // iptal basarisiz, basarili yaklasik mod.
+    const uyariAnahtarlari = <String>[
+      'exact_alarm_yok',
+      'bildirim_kurulamadi',
+      'bildirim_iptal_edilemedi',
+    ];
+
+    test('uyari anahtarlari Turkce dosyasinda mevcut', () {
+      final Map<String, dynamic> tur = dosyaOku(referansDil);
+      final List<String> eksikler = uyariAnahtarlari
+          .where((a) => !tur.containsKey(a))
+          .toList();
+      expect(eksikler, isEmpty, reason: 'Eksik uyari anahtari: $eksikler');
+    });
+
+    test('uyari metinleri 25 dilin TAMAMINDA dolu', () {
+      // Anahtar kumesi tutarliligi ayrica yukarida sinnanir; burada ozel
+      // olarak bu uc anahtarin her dilde var ve BOS olmadigi kontrol edilir.
+      final Map<String, List<String>> sorunlar = <String, List<String>>{};
+      for (final dil in tumDiller()) {
+        final Map<String, dynamic> d = dosyaOku(dil);
+        final List<String> eksikler = <String>[];
+        for (final a in uyariAnahtarlari) {
+          final Object? v = d[a];
+          if (v is! String || v.trim().isEmpty) eksikler.add(a);
+        }
+        if (eksikler.isNotEmpty) sorunlar[dil] = eksikler;
+      }
+      expect(sorunlar, isEmpty,
+          reason: '25 dilin tamaminda dolu metin olmali:\n'
+              '${sorunlar.entries.map((e) => '  ${e.key} -> ${e.value.join(', ')}').join('\n')}');
+    });
+
+    test('metinler TESLIM GARANTISI VERMEZ', () {
+      // Uyari metni, bildirimin GECECE'GI vaadinde bulunmamalidir:
+      // yaklasik modda cihaz kisitlari (Doze, pil optimizasyonu)
+      // bildirimi geciktirebilir, kurulamadiginda hic gelmez. Vaat
+      // dogrudan ifadelerle verilirse kullanici yaniltilir.
+      final Map<String, dynamic> tur = dosyaOku(referansDil);
+      const vaatler = <String>[
+        'gelir', 'gelecek', 'gönderilecek', 'bildirilecek', 'garanti',
+      ];
+      final List<String> supheliler = <String>[];
+      for (final a in uyariAnahtarlari) {
+        final String m = (tur[a]! as String).toLowerCase();
+        for (final v in vaatler) {
+          if (m.contains(v)) supheliler.add('$a -> "$v"');
+        }
+      }
+      expect(supheliler, isEmpty,
+          reason: 'Uyari metinleri teslim vaadi icermemeli: $supheliler');
+    });
+
+    test('kurulum hatasi, iptal hatasi ve yaklasik mod AYRI metin', () {
+      final Map<String, dynamic> tur = dosyaOku(referansDil);
+      // Uc farkli sorundur; ayni metni gostermek kullaniciyi yaniltir.
+      expect(tur['bildirim_kurulamadi'],
+          isNot(tur['bildirim_iptal_edilemedi']));
+      expect(tur['bildirim_kurulamadi'], isNot(tur['exact_alarm_yok']));
+      expect(tur['bildirim_iptal_edilemedi'], isNot(tur['exact_alarm_yok']));
+    });
+  });
+
   test('hicbir deger bos degil', () {
     final Map<String, String> boslar = <String, String>{};
     for (final dil in tumDiller()) {

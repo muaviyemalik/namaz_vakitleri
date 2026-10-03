@@ -1,7 +1,6 @@
 // lib/pages/ana_sayfa.dart
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-import 'dart:convert';
 import 'dart:async';
 import 'dart:io' show Platform;
 import 'package:geolocator/geolocator.dart';
@@ -15,12 +14,39 @@ import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/services.dart';
 import 'package:perfect_volume_control/perfect_volume_control.dart';
 
+import '../core/aladhan_cevap.dart';
+import '../core/bildirim_motoru.dart'
+    show BildirimMotoru, BildirimPlanlayici;
+import '../core/diyanet_verisi.dart';
+import '../core/saat.dart';
+import '../core/vakit_verisi.dart'
+    show VakitDepo, VakitDurumu, VakitKaynagi, OnbellekOzeti, debugEkle;
 import '../data/veri_havuzu.dart';
 import '../data/ulke_verisi.dart';
+import '../data/hesaplama_yontemleri.dart';
 import '../main.dart';
-import '../utils/erken_uyari_zamani.dart';
 import '../utils/vakit_widget_verisi.dart';
 import '../widgets/sehir_secici.dart';
+
+/// Bir yüklemenin sonucu.
+///
+/// NEDEN `bool` DEĞİL? `false` iki farklı olayı birleştiriyordu:
+///
+///   1) Gerçek hata (ağ yok, cevap reddedildi) → kullanıcı bilmeli,
+///   2) Kullanıcı arada başka bir şehir seçtiği için bu yükleme
+///      GEÇERSİZLEŞTİ → bu bir hata DEĞİLDİR, ekranda Tokyo'nun verisi
+///      varken "internet yok" uyarısı çıkarmak yanlıştı.
+enum _YuklemeSonucu {
+  /// Veri ekrana uygulandı (ağdan ya da önbellekten).
+  basarili,
+
+  /// Gerçek hata: gösterecek taze veri yok.
+  hata,
+
+  /// Başka bir yükleme bu yüklemeyi geçersiz kıldı (veya ekran kapandı).
+  /// Kullanıcıya hiçbir şey gösterilmez.
+  iptal,
+}
 
 class _AnaSayfaState extends State<AnaSayfa> {
 
@@ -35,7 +61,7 @@ class _AnaSayfaState extends State<AnaSayfa> {
   Future<void> _sehirDegistirDialog(BuildContext context) async {
     final secilen = await sehirSeciciGoster(context, aktifUlkeKodu.value);
     if (secilen == null) return;
-    await sehirAyarla(secilen);
+    await konumAyarla(secilen);
   }
 
   // --- ZİKİR HAFIZA FONKSİYONLARI ---
@@ -54,123 +80,391 @@ Future<void> _hedefKaydet(int deger) async {
 
   // --- DEĞİŞKENLER (STATE) ---
 
-  Map<String, dynamic>? vakitler; // JSON'dan gelecek vakitleri tutacak. Başlangıçta null.
+  // --- GÖSTERİLEN VAKİTLER (DOĞRULANMIŞ) ---
+  //
+  // ÖNCE: `Map<String, dynamic>? vakitler` idi ve JSON'dan dolduruluyordu.
+  // Artık yalnız DOĞRULANMIŞ bir [VakitGunu] gösterilir. Doğrulanmamış bir
+  // cevap bu değişkene hiçbir yoldan giremez; giriyorsa bu bir hatadır.
+  VakitGunu? _bugun;
+  List<VakitGunu> _gelecekGunler = const [];
+
+  // Verinin nereden geldiği ve ne zaman tazelendiği. Arayüzde küçük bir
+  // satırda gösterilir: kullanıcı "bu veri ne zaman güncellendi?" sorusunu
+  // cevapsız bırakmaz.
+  VakitKaynagi _kaynak = VakitKaynagi.yok;
+  OnbellekOzeti? _ozet;
+  CevapReddedildi? _sonHata;
+
   bool yukleniyor = true; // Ekranda yüklenme çarkını gösterme kontrolü.
   String hataMesaji = ''; // İnternet/API hatalarını tutacak metin.
-  
+
+  // --- RESMÎ DİYANET ---
+  //
+  // `_diyanet` son denenen resmî sorgunun sonucudur; ekran etiketi ve
+  // uyarı metni bundan türetilir.
+  //
+  // `diyanetUyarisi` dolu olduğunda ekranda gösterilir. İki AYRI durumu
+  // anlatır ve ikisi de "Diyanet" etiketi YOKKEN görünür:
+  //   * resmî veri vardı ama kapsam dışı/bosluk → vakit GÖSTERİLMEZ,
+  //   * resmî kimlik yok → hesaplanmış vakitler gösterilir, etiket dürüst
+  //     kalır ("hesaplanmış").
+  DiyanetSonuc? _diyanet;
+  String diyanetUyarisi = '';
+
+  /// Resmî veri deposu. `main.dart` içindeki TEK örnek kullanılır; böylece
+  /// ana ekran, geri sayım, bildirimler ve widget aynı pakete bakar.
+  DiyanetDepo get _diyanetDepo => diyanetDepo;
+
   Timer? _zamanlayici; // Her saniye çalışacak motor.
   String siradakiVakitIsmi = ''; // Ekrana basılacak sıradaki vaktin adı.
   String kalanSureMetni = ''; // Ekrana basılacak 00:00:00 formatındaki süre.
   String miladiTarih = ""; //Mevcut miladi tarih
   String hicriTarih = ""; // Mevcut hicri tarih
 
+  // Ekranda gösterilecek BİLDİRİM UYARISI: motorun `uyari` alanı.
+  //
+  // NEDEN AYRI ALAN? Motor üç durumu AYRI ayrı bildirir ve kullanıcıya
+  // farklı düzeltmeler gerekir:
+  //
+  //   * `exact_alarm_yok`          → alarmlar kuruldu, YAKLAŞIK zamanlı.
+  //   * `bildirim_kurulamadi`      → bazı alarmlar kurulamadı.
+  //   * `bildirim_iptal_edilemedi` → eski bir alarm silinemedi.
+  //
+  // Önceden `bool _tamZamanliAlarm` tutuluyor ve ekranda TEK sabit metin
+  // ("... bildirimler yaklaşık zamanlı gelir") gösteriliyordu. Kurulum TAMAMEN
+  // başarısız olduğunda bile bu metin çıkıyordu: kullanıcı vakit
+  // bildirimlerinin geleceğini sanıyordu, gelmeyecekti. `uyari` okunmuyordu.
+  //
+  // `null` = uyarı yok. Yeni başarılı plan eski uyarıyı TEMİZLER; geç
+  // kalan ya da kaldırılmış ekranın planı ise güncel uyarıya DOKUNMAZ.
+  //
+  // NOT: `tamZamanli` ayrıca tutulmaz. "Yaklaşık mod" durumu zaten
+  // `exact_alarm_yok` uyarısıyla bildirilir; ayrı bir bool aynı bilgiyi
+  // ikinci kez taşır ve tutarsız kalmaya açıktır (bool `false`, uyarı
+  // `null` olduğunda ekran hiçbir şey söylemezdi).
+  String? _bildirimUyarisi;
+
+  /// Ekranda gösterilecek uyarı metni (çeviri çözülmüş).
+  String? get _bildirimUyarisiMetni => _bildirimUyarisi?.tr();
+
+  // Alarm planı SEÇİM sayacı "son geçerli seçim kazanır" kuralının
+  // sayfa tarafındaki yarısıdır; diğer yarısı motorun uygulama kilididir
+  // (bkz. `BildirimMotoru.uygula`).
+  //
+  // SAYAC BURADA DEĞİL, MOTORDA: numara motorun paylaşılan
+  // `PlanSirasi`'ndan gelir. Sayfa-yerel bir sayaç olsaydı yeni açılan
+  // ekran 1'den başlardı ve KALDIRILMIŞ ekranın geç kalan planıyla aynı
+  // numarayı alırdı; "hangisi yeni?" sorusu cevapsız kalırdı. Ölçüm:
+  // `test/ana_sayfa_bildirim_test.dart`.
+
+  // -- İSTEK YARIŞI YÖNETİMİ --
+  //
+  // Hızlı şehir/yöntem değişikliklerinde (Ankara → Paris → Tokyo) eski
+  // ağ cevabı yeni seçimin üzerine yazabilirdi. Her yükleme bir "jeton"
+  // alır; cevap geldiğinde jeton hâlâ güncel mi diye bakılır. Değilse
+  // cevap SESSİZCE BIRAKILIR. Kullanıcının son seçimi her zaman kazanır.
+  //
+  // Jetonu YALNIZCA gerçek bir yükleme artırır: kullanıcının yeni bir
+  // konum/yöntem seçmesi. Yüklemenin kendi yan etkisi olan saat dilimi
+  // kesinleşmesi jetonu artırmaz; bkz. [_saatDilimiKesinlesiyor].
+  int _istekJetonu = 0;
+  int? _yuklenenJeton;
+  DateTime? _denenenTarih;
+  final Map<String, Future<void>> _onIndirmeler = {};
+
+  // Saat dilimi şu anda KENDİMİZCE işleniyor.
+  //
+  // `konumSaatDilimiKesinlestir` global `aktifKonum`'u günceller; normalde
+  // bu, `_aktifKonumDegisti` dinleyicisini tetikleyip YENİ bir yükleme
+  // başlatır. Oysa bu değişiklik aynı konumun, aynı ayın verisi
+  // yüklenirken yapılır: tek fark saat dilimi. Önceden dinleyici yeniden
+  // yükleme başlatıyordu; sonucu üç hata birden doğuyordu:
+  //   1) aynı konum/ay için gereksiz ikinci ağ isteği,
+  //   2) az önce alınan DOĞRULANMIŞ cevabın "eski" sayılıp ekrana
+  //      uygulanmaması,
+  //   3) `false` dönen yükleme yüzünden yanlış "internet yok" uyarısı.
+  //
+  // Yan etki sırasında "bu değişiklik benim" sinyali. Bastırma YALNIZCA
+  // gerçekten aynı yeri gösteren VE yalnız saat dilimi değişen konum için
+  // geçerlidir ([_sadeceSaatDilimiDegisti]); kullanıcı bu arada başka bir
+  // şehir seçtiyse ya da gerçek bir hesap ayarı değiştirdiyse onun isteği
+  // atlanmaz.
+  bool _saatDilimiKesinlesiyor = false;
+  Konum? _onaylananKonum;
+
+  // Abonelik: dispose içinde kapatılır. Önceden tutulmuyordu, bu yüzden
+  // iptal edilemiyor ve ekran kapansa bile ses olayları gelmeye devam
+  // ediyordu.
+  StreamSubscription<num>? _sesAboneligi;
+
+  final VakitDepo _depo = VakitDepo(saat: uygulamaSaati);
+  late final BildirimMotoru _bildirimMotoru = BildirimMotoru(
+    eklenti: bildirimServisi,
+    planlayici: const BildirimPlanlayici(),
+    // Uygulama genelindeki TEK sıra: bu State'in motoru, önceki ekranın
+    // motoruyla AYNI kaynağa (eklenti + kalıcı kimlik dizini) yazdığı için
+    // sözü sırayla söylemelidir.
+    sira: bildirimPlanSirasi,
+  );
+
   // VakitWidget'a yazılan son içerik. Yazma kararı bu sınıfın içinde:
   // saniye saniye aynı gelen ad+saat için gereksiz yazma (ve Android'de
   // her saniye widget uyanması) böylece engelleniyor.
   final VakitWidgetVerisi _vakitWidgetVerisi = VakitWidgetVerisi();
 
-  // NOT: Aktif şehir artık bu sınıfta değil, main.dart içindeki global
-  // `aktifSehir` notifier'ında tutuluyor. Böylece ayarlar sayfasından
+  // NOT: Aktif konum artık bu sınıfta değil, main.dart içindeki global
+  // `aktifKonum` notifier'ında tutuluyor. Böylece ayarlar sayfasından
   // yapılan ülke değişikliği de aynı state'i günceller; iki ayrı kaynak
-  // tutulması gerekmiyor. Erişim için `aktifSehir.value` kullanılır.
-  Sehir? get _sehir => aktifSehir.value;
-  String get _sehirAdi => aktifSehir.value?.ad ?? 'Ankara';
+  // tutulması gerekmiyor.
+  Konum? get _konum => aktifKonum.value;
+  String get _sehirAdi => aktifKonum.value?.ad ?? 'Ankara';
+
+  /// Seçili şehrin saat takvimi. Gün ve duvar saati üretiminin tek yolu.
+  SehirSaati? _sehirSaati(Konum? konum) =>
+      konum == null ? null : SehirSaati(konum: konum, saat: uygulamaSaati);
+
+  /// Ekranda gösterilen vakitler (doğrulanmış).
+  Map<String, String>? get _vakitSaatleri => _bugun?.saatler;
+
+  /// Önbellek/ağ özeti (arayüzde gösterilir).
+  OnbellekOzeti? get _ozetVeri => _ozet;
+
+  /// Sağlayıcının gerçekte kullandığı yöntem (`meta.method.id`).
+  ///
+  /// Otomatik modda kullanıcı bunu GÖRMELİDİR: "hangi hesapla
+  /// hesaplandı" sorusunun cevabı budur. `_sonHata` varsa gösterilmez.
+  int? get _donenYontemId => _ozet?.cevapYontemId;
+
+  /// Yöntem id'sini okunabilir adı çevirir.
+  String? yontemAdi(int? id) {
+    if (id == null) return null;
+    for (final y in hesaplamaYontemleri) {
+      if (y.id == id) return y.ad;
+    }
+    return null;
+  }
 
   // initState(): Ekran oluşturulmadan hemen ÖNCE BİR KERE çalışır (C# Constructor / Form_Load gibi).
   @override
   void initState() {
     super.initState();
-    _uygulamaVerileriniYukle();
     _zikirYukle();
 
-    // Şehir değişikliklerini dinle. Kaynak: ana sayfadaki şehir seçici veya
-    // ayarlar sayfasındaki ülke seçimi. İkisi de aynı notifier'ı güncellediği
-    // için vakitler burada tek noktadan yenilenir.
-    aktifSehir.addListener(_aktifSehirDegisti);
+    // Konum değişikliklerini dinle. Kaynak: ana sayfadaki şehir seçici,
+    // GPS butonu veya ayarlar sayfasındaki ülke seçimi. Hepsi aynı
+    // notifier'ı güncellediği için vakitler tek noktadan yenilenir.
+    aktifKonum.addListener(_aktifKonumDegisti);
 
     // Hesaplama yöntemi değişirse vakitler değişir; yeniden çek.
     aktifHesaplamaYontemi.addListener(_yontemDegisti);
+    aktifAsrYontemi.addListener(_hesapAyariDegisti);
+    aktifYuksekEnlemAyaru.addListener(_hesapAyariDegisti);
 
-    // Erken uyarı süresi değişirse PLANLANMIŞ alarmlar yeniden kurulmalı.
-    erkenUyariSuresi.addListener(_erkenUyariDegisti);
+    // Resmî Diyanet modu açılıp kapandığında vakit KAYNAĞI değişir:
+    // paketten okunan resmî saatler ile hesaplanmış saatler birbirinin
+    // yerine geçmez. Bu yüzden ayar "yalnız hesap ayarı" gibi ele
+    // alınamaz; yeniden yükleme tetikler.
+    aktifResmiDiyanet.addListener(_yontemDegisti);
 
-    // YENİ: Ses tuşlarını dinlemeye başla
-    PerfectVolumeControl.stream.listen((value) {
-      // Sadece zikirmatik paneli açıkken veya isteğe bağlı olarak her zaman çalıştırabilirsin
-      // Biz burada her ses tuşuna basıldığında sayacı artıralım:
-      setState(() {
-        PerfectVolumeControl.hideUI = true;
-        zikirSayaci++;
+    // Erken uyarı ve güneş doğuşu ayarları yalnız PLANLANMIŞ alarmları
+    // etkiler; veriyi yeniden çekmeye gerek yok, planı yeniden kurmak yeter.
+    erkenUyariSuresi.addListener(_alarmAyariDegisti);
+    gunesDogumuBildirimiAcik.addListener(_alarmAyariDegisti);
+
+    // Ses seviyesi aboneliği. Önceden `PerfectVolumeControl.stream.listen`
+    // dönen abonelik TUTULMUYORDU; bu yüzden dispose içinde iptal
+    // edilemiyor ve ekran kapansa bile sayaç artmaya devam ediyordu.
+    try {
+      _sesAboneligi = PerfectVolumeControl.stream.listen((value) {
+        if (!mounted) return;
+        setState(() {
+          PerfectVolumeControl.hideUI = true;
+          zikirSayaci++;
+        });
+        _zikirKaydet(zikirSayaci);
+
+        if (zikirHedefi > 0 && zikirSayaci % zikirHedefi == 0 && zikirSayaci > 0) {
+          HapticFeedback.heavyImpact();
+        } else {
+          HapticFeedback.lightImpact();
+        }
       });
-      _zikirKaydet(zikirSayaci);
-      
-      // Hedef kontrolü ve titreşim
-      if (zikirSayaci % zikirHedefi == 0 && zikirSayaci > 0) {
-        HapticFeedback.heavyImpact();
-      } else {
-        HapticFeedback.lightImpact();
-      }
+    } catch (e) {
+      // Masaüstü platformlarda bu eklenti olmayabilir; zikirmatik
+      // çalışmaz ama uygulama çökmez.
+      debugPrint('Ses aboneliği kurulamadı: $e');
+    }
+
+    // Yaşam döngüsü: uygulama arka plandan öne geldiğinde gün değişmiş
+    // olabilir. Veri ve sayaç yeniden değerlendirilir.
+    WidgetsBinding.instance.addObserver(_yasamDongusuGozcusu);
+    sayaciBaslat();
+
+    // İlk yükleme. Vakitler önce açılır; bildirim izni ayrı bir adımda
+    // ve ASLA vakit yüklemesini engellemez şekilde istenir.
+    //
+    // Sıralamanın sebebi: önceden `await bildirimServisi.initialize()` ve
+    // izin isteği `vakitleriGetir`'den ÖNCE çalışıyordu. Kullanıcı bildirim
+    // iznini reddederse vakitler hiç yüklenmiyor ve uygulama kullanılamaz
+    // hale geliyordu. Namaz vakitleri bildirimlerden DAHA önemlidir.
+    WidgetsBinding.instance.addPostFrameCallback((_) async {
+      await _verileriYukle();
+      if (mounted) await _bildirimIzinleriniIste();
     });
   }
 
-  Future<void> _uygulamaVerileriniYukle() async {
-    // --- UYGULAMA AÇILIŞINDA BİLDİRİM İZNİ İSTEME ---
-    if (Platform.isAndroid) {
-      await bildirimServisi
-          .resolvePlatformSpecificImplementation<AndroidFlutterLocalNotificationsPlugin>()
-          ?.requestNotificationsPermission();
+  /// Uygulama arka plana girip öne geldiğinde çağrılır.
+  ///
+  /// Gece yarısını geçmiş, ay değiştirmiş ya da cihaz saat dilimini
+  /// değiştirmiş olabiliriz. Üçü de sessizce yanlış veriye yol açar.
+  Future<void> _onYasamDongusuDurumuDegisti(AppLifecycleState durum) async {
+    if (durum != AppLifecycleState.resumed) return;
+    if (!mounted) return;
 
-      // Android 12 (API 31) ve üzeri, "exact" alarm kurulmasını ayrı bir izinle
-      // kısıtlar. Bu izin verilmeden zonedSchedule(exactAllowWhileIdle) çağrısı
-      // PlatformException(exact_alarms_not_permitted) fırlatır ve ezan alarmları
-      // hiç kurulmaz. Kullanıcıya sistem ayarlarına yönlendirme sunuyoruz.
-      final androidEklenti = bildirimServisi
-          .resolvePlatformSpecificImplementation<AndroidFlutterLocalNotificationsPlugin>();
-      final bool alarmIzniVar = await androidEklenti?.canScheduleExactNotifications() ?? true;
-      if (!alarmIzniVar) {
-        await androidEklenti?.requestExactAlarmsPermission();
+    // 1) Cihazın saat dilimi değişti mi? Değişmişse konumun günü
+    //    yeniden hesaplanmalı.
+    // 2) Seçili şehrin günü değişti mi?
+    final konum = _konum;
+    if (konum == null) return;
+
+    _gunuDenetle(yenidenDene: true);
+    kalanSureyiHesapla();
+    // Sistem ayarlarından dönüşte aynı günün izinleri de değişmiş olabilir.
+    // Gün yükleniyorsa onun sonucu zaten plan kurar; ikinci plan başlatma.
+    if (_bugun != null && _yuklenenJeton == null) {
+      await _alarmlariKur();
+    }
+  }
+
+  // Timer ve resumed aynı kapıdan geçer. Başarısız bir gün devri her
+  // saniye tekrarlanmaz; resumed veya kullanıcının tekrar denemesi beklenir.
+  void _gunuDenetle({bool yenidenDene = false}) {
+    final konum = _konum;
+    if (!mounted || konum == null || _denenenTarih == null) return;
+    final tarih = KonumTakvimi.tarih(konum, uygulamaSaati);
+    if (_bugun != null && _bugun!.tarih != tarih) {
+      setState(_gunuTemizle);
+    }
+    if (_yuklenenJeton != null) return;
+    if (_denenenTarih != tarih || (yenidenDene && _bugun == null)) {
+      unawaited(_verileriYukle(onbellekYeterli: true));
+    }
+  }
+
+  void _gunuTemizle() {
+    if (_bugun != null && bildirimYoluCalisir()) {
+      unawaited(_gununBildirimleriniTemizle());
+    }
+    _bildirimUyarisi = null;
+    _bugun = null;
+    _gelecekGunler = const [];
+    _kaynak = VakitKaynagi.yok;
+    _ozet = null;
+    _sonHata = null;
+    diyanetUyarisi = '';
+    miladiTarih = '';
+    hicriTarih = '';
+    siradakiVakitIsmi = '';
+    kalanSureMetni = '--:--:--';
+    hataMesaji = '';
+    yukleniyor = true;
+  }
+
+  Future<void> _gununBildirimleriniTemizle() async {
+    // İzin bekleyen çağrı hemen eskir. Başlamış sistem yazması ise motorun
+    // kuyruğunda tamamlanıp temizlenir; yeni günün planı bunun arkasına girer.
+    final secim = _bildirimMotoru.yeniSecim();
+    final sonuc = await _bildirimMotoru.planiTemizle(secimNo: secim);
+    if (!mounted || _bildirimMotoru.gecmisSecimMi(secim)) return;
+    setState(() => _bildirimUyarisi = sonuc.uyari);
+  }
+
+  /// Bildirim izinlerini ister.
+  ///
+  /// ÖNCE bu, `initState` içinde `await` ediliyordu; yani uygulama açılışta
+  /// kullanıcıyı karşılıyordu ve bildirim izni reddedilse bile vakitler
+  /// yüklenmiyordu. Artık izinler ayrı bir adımda ve vakit yüklemesinden
+  /// BAĞIMSIZ olarak istenir: kullanıcı bildirimleri reddederse bile
+  /// vakitler görünür.
+  Future<void> _bildirimIzinleriniIste() async {
+    if (Platform.isAndroid) {
+      try {
+        await bildirimServisi
+            .resolvePlatformSpecificImplementation<
+                AndroidFlutterLocalNotificationsPlugin>()
+            ?.requestNotificationsPermission();
+      } catch (e) {
+        debugPrint('Bildirim izni istenemedi: $e');
       }
     } else if (Platform.isIOS) {
-      // iOS için
-      await bildirimServisi
-          .resolvePlatformSpecificImplementation<IOSFlutterLocalNotificationsPlugin>()
-          ?.requestPermissions(alert: true, badge: true, sound: true);
+      try {
+        await bildirimServisi
+            .resolvePlatformSpecificImplementation<
+                IOSFlutterLocalNotificationsPlugin>()
+            ?.requestPermissions(alert: true, badge: true, sound: true);
+      } catch (e) {
+        debugPrint('iOS bildirim izni istenemedi: $e');
+      }
     }
-    // ------------------------------------------------
-
-    // Şehir bilgisi artık main.dart içindeki konumYukle() tarafından
-    // yükleniyor (aktifSehir notifier'ı). Burada yalnızca vakitleri çekiyoruz.
-    await vakitleriGetir();
   }
 
+  /// Hesaplama yöntemi değişti: vakitler değişir, yeniden çekilir.
   Future<void> _yontemDegisti() async {
     if (!mounted) return;
-    await vakitleriGetir();
+    // Yöntem değiştiğinde KONUMUN KENDİSİ de değişir (yöntem konumun
+    // alanıdır ve önbellek anahtarına girer).
+    final konum = _konum;
+    if (konum == null) return;
+    aktifKonum.value = konum.kopyala(yontemId: aktifHesaplamaYontemi.value);
+    await konumKaydet(aktifKonum.value!);
+    // Not: aktifKonum değişimi zaten _aktifKonumDegisti'ni tetikler; veri
+    // orada çekilir. Burada ek istek atmıyoruz (çift ağ isteği olurdu).
   }
 
-  /// Erken uyarı süresi değiştiğinde tetiklenir.
-  ///
-  /// ÖNCE bu dinleyici yoktu. Erken uyarı bildirimleri artık sistemde
-  /// PLANLANDIĞI için (uygulama kapalıyken de çalışsın diye) bu değişiklik
-  /// yalnızca kaydedilmekle kalmamalı, alarmlar da yeniden kurulmalı.
-  /// Aksi hâlde kullanıcı 15 dakikayı seçtiğinde alarmlar hâlâ eski
-  /// ayarla (30 veya 45) planlanmış olarak kalırdı.
-  Future<void> _erkenUyariDegisti() async {
+  /// Asr ya da yüksek enlem ayarı değişti: vakitler değişir.
+  Future<void> _hesapAyariDegisti() async {
     if (!mounted) return;
-    // Vakitler yoksa planlanacak bir şey de yoktur; vakitler gelince
-    // `_gunlukBildirimleriZamanla` zaten güncel ayarla kuracak.
-    if (vakitler == null) return;
-    await _gunlukBildirimleriZamanla();
+    final konum = _konum;
+    if (konum == null) return;
+    aktifKonum.value = konum.kopyala(
+      asrYontemi: aktifAsrYontemi.value,
+      yuksekEnlemAyaru: aktifYuksekEnlemAyaru.value,
+    );
+    await konumKaydet(aktifKonum.value!);
   }
 
-  /// Aktif şehir değiştiğinde tetiklenir: yeni şehrin vakitlerini çeker.
-  ///
-  /// Hem ana sayfadaki şehir seçiciden hem de ayarlar sayfasındaki ülke
-  /// seçiminden gelen değişiklikler bu tek noktadan geçer.
-  Future<void> _aktifSehirDegisti() async {
+  /// Erken uyarı ya da güneş doğuşü ayarı değişti: yalnız alarm planı
+  /// yeniden kurulur, veri çekilmez.
+  Future<void> _alarmAyariDegisti() async {
     if (!mounted) return;
-    final basariliMi = await vakitleriGetir();
-    if (!basariliMi && mounted) {
+    if (_bugun == null) return;
+    await _alarmlariKur();
+  }
+
+  /// Aktif konum değiştiğinde tetiklenir: yeni konumun vakitlerini çeker.
+  ///
+  /// Hem ana sayfadaki şehir seçiciden, GPS'ten hem de ayarlar sayfasındaki
+  /// ülke seçiminden gelen değişiklikler bu tek noktadan geçer.
+  ///
+  /// TEK İSTİSNA: [_saatDilimiKesinlesiyor] sırasındaki ve YALNIZCA saat
+  /// dilimiyle değişen konum. O değişiklik KENDİ kaynaklıdır ve yükleme
+  /// zaten sürüyordur; bkz. [_saatDiliminiIsle].
+  Future<void> _aktifKonumDegisti() async {
+    if (!mounted) return;
+    final onaylanan = _onaylananKonum;
+    if (_saatDilimiKesinlesiyor &&
+        onaylanan != null &&
+        _konum != null &&
+        _sadeceSaatDilimiDegisti(onaylanan, _konum!)) {
+      debugEkle('saat dilimi kesinleşti: aynı konum için tekrar yükleme yok');
+      return;
+    }
+    final sonuc = await _verileriYukle();
+    // Yalnız GERÇEK hatada uyarı gösterilir. `iptal` (bu yükleme
+    // arada geçersizleşti) bir hata değildir: sonucu daha yeni bir
+    // yükleme belirliyor ve o kendi durumunu zaten bildirdi. Buradaki
+    // hatanın sebebi "internet yok"u.
+    if (sonuc == _YuklemeSonucu.hata && mounted) {
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
           content: Text('no_internet_city'.tr(args: [_sehirAdi])),
@@ -183,19 +477,63 @@ Future<void> _hedefKaydet(int deger) async {
   }
 
   // 5. BELLEK YÖNETİMİ (Kritik Edge Case)
-  // dispose(): Ekran veya uygulama kapatıldığında çalışır.
-  // İhtimal: Eğer Timer'ı burada iptal etmezsek (cancel), arka planda sonsuza kadar çalışıp RAM'i doldurur (Memory Leak).
   @override
   void dispose() {
     _zamanlayici?.cancel();
-    // Global notifier'a eklediğimiz dinleyiciyi kaldır. Bu yapılmazsa,
+    WidgetsBinding.instance.removeObserver(_yasamDongusuGozcusu);
+    // Abonelik kapatılır. Bu yapılmazsa ekran kapansa bile ses olayları
+    // gelmeye devam eder ve sayaç arka planda artar.
+    _sesAboneligi?.cancel();
+    _sesAboneligi = null;
+    // Global notifier'a eklediğimiz dinleyicileri kaldır. Bu yapılmazsa,
     // AnaSayfa çökse bile notifier bu State'i tutmaya devam eder ve
     // bellek sızıntısı oluşur.
-    aktifSehir.removeListener(_aktifSehirDegisti);
+    aktifKonum.removeListener(_aktifKonumDegisti);
     aktifHesaplamaYontemi.removeListener(_yontemDegisti);
-    erkenUyariSuresi.removeListener(_erkenUyariDegisti);
+    aktifAsrYontemi.removeListener(_hesapAyariDegisti);
+    aktifYuksekEnlemAyaru.removeListener(_hesapAyariDegisti);
+    aktifResmiDiyanet.removeListener(_yontemDegisti);
+    erkenUyariSuresi.removeListener(_alarmAyariDegisti);
+    gunesDogumuBildirimiAcik.removeListener(_alarmAyariDegisti);
     super.dispose();
   }
+
+  /// Yaşam döngüsü gözlemcisi.
+  ///
+  /// `didChangeAppLifecycleState` ile uygulamanın arka plandan öne
+  /// gelmesini dinler. Gece yarısını geçirmiş, ay değiştirmiş ya da
+  /// cihazın saat dilimini değiştirmiş olabiliriz; üçü de sessizce
+  /// yanlış vakite yol açardı.
+  late final WidgetsBindingObserver _yasamDongusuGozcusu = _Gozlemci(this);
+
+  void yasamDongusuDurumuDegisti(AppLifecycleState durum) {
+    _onYasamDongusuDurumuDegisti(durum);
+  }
+
+  @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    // DİL DEĞİŞTİĞİNDE planlanmış bildirim metinleri eski dilde kalmasın.
+    //
+    // Bildirim metinleri ALARM KURULURKEN çeviriye bağlanır; çünkü alarm
+    // uygulama kapalıyken gösterilir ve o an hangi dilin seçili olduğu
+    // bellekten bilinmez. Bu yüzden dil değişince plan yeniden kurulmalı.
+    final yeniDil = context.locale.languageCode;
+    if (_sonDil != null && _sonDil != yeniDil) {
+      _sonDil = yeniDil;
+      if (_bugun != null) {
+        // Bu, planı yeniden kurar; `context` bağımlılığı değiştiği için
+        // bir sonraki karede çalışır.
+        WidgetsBinding.instance.addPostFrameCallback((_) {
+          if (mounted) _alarmlariKur();
+        });
+      }
+    } else {
+      _sonDil = yeniDil;
+    }
+  }
+
+  String? _sonDil;
 
   // --- BİLDİRİM GÖNDERME ---
   //
@@ -342,7 +680,7 @@ Future<void> _widgetHadisiniGuncelle() async {
       }
 
       // Vakitler tam GPS koordinatıyla hesaplanır; bu en doğru sonucu verir.
-      await sehirAyarla(Sehir(
+      await konumAyarla(Sehir(
         ad: bulunanSehirAdi,
         enlem: pozisyon.latitude,
         boylam: pozisyon.longitude,
@@ -373,192 +711,577 @@ Future<void> _widgetHadisiniGuncelle() async {
     );
   }
 
-  // Aladhan vakit saatlerini "04:52 (EEST)" gibi bir zaman dilimi etiketiyle
-  // birlikte döndürebiliyor. Önceden substring(0, 5) ile kırpılıyordu; bu
-  // alan null ya da beklenenden kısa geldiğinde RangeError ile uygulamayı
-  // çökertiyordu. Artık her zaman geçerli bir "SS:DD" üretiyoruz.
-  String _saatiTemizle(dynamic hamDeger) {
-    if (hamDeger == null) return '00:00';
-    String metin = hamDeger.toString().trim();
-    // "04:52 (EEST)" -> "04:52"
-    int bosluk = metin.indexOf(' ');
-    if (bosluk > 0) metin = metin.substring(0, bosluk);
-    // Saniye varsa at: "04:52:11" -> "04:52"
-    List<String> parcalar = metin.split(':');
-    if (parcalar.length >= 2) {
-      String saat = parcalar[0].padLeft(2, '0');
-      String dakika = parcalar[1].length >= 2 ? parcalar[1].substring(0, 2) : parcalar[1].padLeft(2, '0');
-      return '$saat:$dakika';
+  // 6. VERİ YÜKLEME — offline-first
+  //
+  // SIRALAMA ÖNEMLİ:
+  //   1) Önce ÖNBELLEK okunur ve ekran ANINDA açılır. Kullanıcı her
+  //      açılışta 10 saniye ağ beklemez.
+  //   2) Sonra arka planda ağ denenir.
+  //   3) Ağdan gelen cevap DOĞRULANIRSA ekran tazelenir ve önbelleğe
+  //      yazılır. Doğrulanmazsa önbelleğe DOKUNULMAZ; ekranda önbellekteki
+  //      sağlam veri kalır ve hata bilgilendirme amaçlı gösterilir.
+  //
+  // Gün devrinde doğrulanmış yeni gün yeterlidir; saniyelik ağ tazelemesi yok.
+  Future<_YuklemeSonucu> _verileriYukle({bool onbellekYeterli = false}) async {
+    if (!mounted) return _YuklemeSonucu.iptal;
+    final konum = _konum;
+    if (konum == null) {
+      setState(() {
+        yukleniyor = false;
+        hataMesaji = 'data_load_error'.tr();
+      });
+      return _YuklemeSonucu.hata;
     }
-    return '00:00';
+
+    // İSTEK JETONU: her yükleme artan bir jeton alır. Ağ cevabı
+    // geldiğinde bu jeton hâlâ güncel mi diye bakılır; değilse cevap
+    // yok sayılır. Bu, "Ankara → Paris → Tokyo" hızlı seçiminde Tokyo'nun
+    // cevabının ekranda kalmasını garanti eder.
+    final jeton = ++_istekJetonu;
+    final sehirTarihi = KonumTakvimi.tarih(konum, uygulamaSaati);
+    _yuklenenJeton = jeton;
+    _denenenTarih = sehirTarihi;
+    setState(_gunuTemizle);
+    try {
+      return await _verileriYukleIstek(konum, sehirTarihi, jeton,
+          onbellekYeterli: onbellekYeterli);
+    } finally {
+      if (_yuklenenJeton == jeton) {
+        _yuklenenJeton = null;
+        // Yükleme sürerken gece yarısı geçmiş olabilir (ağ hatasında da).
+        _gunuDenetle();
+      }
+    }
   }
 
-  // 6. API'DEN VERİ ÇEKME (Asenkron - Future)
-  // async/await: İnternetten cevap gelene kadar uygulamanın arayüzünü kilitlememek (donmamasını sağlamak) için.
-  // void yerine bool yaptık
-  Future<bool> vakitleriGetir() async {
-    if (!mounted) return false;
-    final sehir = _sehir;
-    if (sehir == null) {
-      // Ana menü açılışta `konumYukle()` ile her zaman bir şehir yüklüyor
-      // (bulunamazsa Ankara). Yine de bu yola düşülürse sonsuza dek dönen
-      // çark yerine hata ekranı gösteriyoruz.
-      setState(() {
-        yukleniyor = false;
-        hataMesaji = 'data_load_error'.tr();
-      });
-      return false;
+  // 6b. RESMÎ DİYANET VERİSİ
+  //
+  // Bu yolun ÖZELLİĞİ: AĞ YOKTUR. Veri uygulama paketindedir, bu yüzden
+  // çevrimdışı da çalışır ve `VakitDepo`'ya hiçbir şey yazılmaz.
+  //
+  // Asr / yüksek enlem / hesaplama yöntemi BİLEREK okunmaz. Resmî tabloda
+  // bu ayarların karşılığı yoktur; uygularsak ekranda gösterdiğimiz saat
+  // "Diyanet'in vakti" olmaktan çıkar. Kullanıcıya bunun nedeni Ayarlar'da
+  // ve ana ekranda açıkça söylenir.
+  Future<_YuklemeSonucu> _resmiDiyanetYukle(
+      Konum konum, DateTime sehirTarihi, int jeton) async {
+    final sonuc = await _diyanetDepo.vakitler(
+      cityId: konum.diyanetCityId!,
+      ilDosya: konum.diyanetParca!,
+      tarih: sehirTarihi,
+    );
+
+    if (jeton != _istekJetonu || !mounted) return _YuklemeSonucu.iptal;
+    if (KonumTakvimi.tarih(_konum ?? konum, uygulamaSaati) != sehirTarihi) {
+      return _verileriYukle(onbellekYeterli: true);
     }
 
-    setState(() { yukleniyor = true; });
+    _diyanet = sonuc;
+    diyanetUyarisi = '';
 
+    if (!sonuc.basariliMi) {
+      // RESMÎ VERİ YOK. Burada BİLEREK hesaplanmış vakitlere düşülmez:
+      // "Diyanet" etiketi kullanılmayacak, ekran boş bırakılacak ve
+      // kullanıcı nedenini görecek. Hesaplanmış veriyi kullanmak isteyen
+      // kullanıcı Ayarlar'dan resmî modu kapatır — bu AÇIK bir karardır.
+      setState(() {
+        _bugun = null;
+        _gelecekGunler = const [];
+        _kaynak = VakitKaynagi.yok;
+        yukleniyor = false;
+        _sonHata = null;
+        hataMesaji = '';
+        diyanetUyarisi = _diyanetUyarisiMetni(sonuc);
+      });
+      _alarmlariTemizle();
+      return _YuklemeSonucu.hata;
+    }
+
+    final durum = VakitDurumu(
+      konum: konum,
+      kaynak: VakitKaynagi.resmiDiyanet,
+      bugun: sonuc.gun,
+      gelecekGunler: sonuc.siradakiGunler,
+    );
+    setState(() => diyanetUyarisi = '');
+    _durumuUygula(durum);
+    return _YuklemeSonucu.basarili;
+  }
+
+  /// Resmî mod açıkken bu konumun resmî verisi var mı, yoksa neden yok?
+  Future<DiyanetSonuc> _diyanetDurumBul(Konum konum, DateTime tarih) async {
+    final kimlik = konum.diyanetCityId;
+    if (konum.ulkeIso2 != 'TR') {
+      return DiyanetSonuc(durum: DiyanetDurum.yerlesimYok);
+    }
+    if (kimlik == null || konum.diyanetParca == null) {
+      return DiyanetSonuc(durum: DiyanetDurum.yerlesimYok);
+    }
+    return _diyanetDepo.vakitler(
+        cityId: kimlik, ilDosya: konum.diyanetParca!, tarih: tarih);
+  }
+
+  /// Resmî veri kullanılmadığında ekranda gösterilecek DÜRÜST not.
+  void _diyanetNotuDurumu(Konum konum, DiyanetSonuc durum) {
+    final metin = switch (durum.durum) {
+      DiyanetDurum.yerlesimYok =>
+        'Diyanet ${konum.ad} için resmî vakit yayımlamıyor; hesaplanmış '
+            'saatler gösteriliyor.',
+      DiyanetDurum.paketBosluk => durum.ayrinti == null
+          ? 'Bu tarihler için Diyanet verisi henüz yok.'
+          : '${durum.ayrinti}. Hesaplanmış saatler gösteriliyor.',
+      DiyanetDurum.kapsamBitti => durum.ayrinti == null
+          ? 'Diyanet veri paketi bu tarihi kapsamıyor.'
+          : '${durum.ayrinti}. Hesaplanmış saatler gösteriliyor.',
+      DiyanetDurum.paketYok =>
+        'Resmî Diyanet veri paketi okunamadı; hesaplanmış saatler gösteriliyor.',
+      DiyanetDurum.veriVar => '',
+    };
+    if (!mounted) return;
+    setState(() {
+      diyanetUyarisi = metin;
+      _diyanet = durum;
+    });
+  }
+
+  /// Resmî veri yokken KURULU ALARMLARI KALDIRIR.
+  ///
+  /// Aksi hâlde ekranda vakit yokken cihazda eski vakit alarmları çalar ve
+  /// kullanıcı "uygulama vakit göstermiyor ama bildirim geliyor" durumuna
+  /// düşer. Yalnız bu motorun kendi kimlikleri iptal edilir; kullanıcının
+  /// diğer uygulamalara ait bildirimlerine dokunulmaz.
+  Future<void> _alarmlariTemizle() async {
+    if (!bildirimYoluCalisir()) return;
+    final secim = _bildirimMotoru.yeniSecim();
+    await _bildirimMotoru.kendiPlaniniIptalEt();
+    if (!mounted || _bildirimMotoru.gecmisSecimMi(secim)) return;
+    setState(() => _bildirimUyarisi = null);
+  }
+
+  static String _diyanetUyarisiMetni(DiyanetSonuc sonuc) => switch (sonuc.durum) {
+        DiyanetDurum.kapsamBitti =>
+          'Diyanet veri paketi bu tarihi kapsamıyor. '
+              '${sonuc.ayrinti ?? ''}'.trim(),
+        DiyanetDurum.paketBosluk =>
+          'Bu tarihler için Diyanet henüz veri yayımlamadı. '
+              '${sonuc.ayrinti ?? ''}'.trim(),
+        DiyanetDurum.yerlesimYok =>
+          'Bu yerleşim için Diyanet resmî vakit yayımlamıyor.',
+        DiyanetDurum.paketYok =>
+          'Resmî Diyanet veri paketi okunamadı.',
+        DiyanetDurum.veriVar => '',
+      };
+
+  Future<_YuklemeSonucu> _verileriYukleIstek(
+      Konum konum, DateTime sehirTarihi, int jeton,
+      {required bool onbellekYeterli}) async {
+    if (!mounted) return _YuklemeSonucu.iptal;
+
+    // --- ADIM 1: ÖNBELLEKten aç ---
+    // Ay sınırında aynı ayı indiren ön yükleme varsa ona katıl.
+    await _onIndirmeler[konum.onbellekAnahtari(
+        yil: sehirTarihi.year, ay: sehirTarihi.month)];
+    if (jeton != _istekJetonu || !mounted) return _YuklemeSonucu.iptal;
+    VakitDurumu? onbellekDurumu;
     try {
-      final prefs = await SharedPreferences.getInstance();
-      final now = DateTime.now();
-      // Önbellek anahtarı koordinatı ve hesaplama yöntemini içerir:
-      //   - koordinat: aynı isimli iki şehir (Türkiye'de "Afyon" ile ABD'de
-      //     "Afyon") birbirine karışmasın.
-      //   - yöntem: kullanıcı yöntemi değiştirdiğinde vakitler değiştiği
-      //     için eski önbellek kullanılmamalı.
-      final yontemAnahtari = aktifHesaplamaYontemi.value?.toString() ?? 'oto';
-      // Süslü parantez şart: '$yontemAnahtari_' yazılırsa Dart değişken adını
-      // "yontemAnahtari_" olarak okur ve derleme hatası verir.
-      final String hafizaAnahtari =
-          'vakitler_${sehir.enlem.toStringAsFixed(3)}_'
-          '${sehir.boylam.toStringAsFixed(3)}_'
-          '${yontemAnahtari}_${now.month}_${now.year}';
-
-      String? telefondakiVeri = prefs.getString(hafizaAnahtari);
-
-      // Aladhan API yalnızca HTTPS üzerinden çalışır ve /v1/calendar uç
-      // noktası KOORDİNAT kabul eder.
-      //
-      // Neden calendarByCity değil? O uç nokta dahili bir geocoder kullanır
-      // ve 136 bin şehirlik veri setindeki küçük şehirlerin çoğunu
-      // çözemez; bu istekler HTTP 503 "Geocoding is temporarily unavailable"
-      // döner. /v1/calendar aynı aylık veriyi (30 gün) koordinatla verir ve
-      // bu sorunu yaşamaz. Ayrıca meta.timezone doğru döndüğü için vakit
-      // hesabında saat dilimi kayması da oluşmaz.
-      final url = Uri.https(
-        'api.aladhan.com',
-        '/v1/calendar',
-        sehir.aladhanParametreleri(
-          yil: now.year,
-          ay: now.month,
-          method: aktifHesaplamaYontemi.value,
-        ),
-      );
-
-      try {
-        final cevap = await http.get(
-          url,
-          headers: const {'Accept': 'application/json'},
-        ).timeout(const Duration(seconds: 10));
-
-        if (cevap.statusCode == 200) {
-          // Aladhan hata durumunda da HTTP 200 dönebilir; gerçek durum
-          // cevabın içindeki "code" alanında taşınır. Onu da doğruluyoruz.
-          final kontrol = json.decode(cevap.body);
-          if (kontrol is Map && kontrol['code'] == 200 && kontrol['data'] is List) {
-            telefondakiVeri = cevap.body;
-            await prefs.setString(hafizaAnahtari, telefondakiVeri);
-          } else {
-            debugPrint("Aladhan API mantıksal hata döndü: ${kontrol['status']}");
-          }
-        } else {
-          debugPrint("Aladhan API HTTP hatası: ${cevap.statusCode}");
-        }
-      } catch (e) {
-        debugPrint("İnternet yok, hafızaya bakılıyor: $e");
-      }
-
-      if (telefondakiVeri != null) {
-        final jsonVeri = json.decode(telefondakiVeri);
-        final aylikListe = jsonVeri['data'] as List;
-        final bugunIndex = now.day - 1;
-
-        // API beklenenden kısa bir liste döndürürse (ör. ay başında geçersiz
-        // tarih) doğrudan indekslemek RangeError verip uygulamayı düşürüyordu.
-        if (bugunIndex < 0 || bugunIndex >= aylikListe.length) {
-          debugPrint("API cevabında $bugunIndex. gün bulunamadı, liste uzunluğu: ${aylikListe.length}");
-          setState(() {
-            yukleniyor = false;
-            hataMesaji = 'data_load_error'.tr();
-          });
-          return false;
-        }
-
-        final gunlukVeri = aylikListe[bugunIndex];
-
-        final tarihVerisi = gunlukVeri['date'];
-        final vakitlerVerisi = gunlukVeri['timings'];
-
-        // Aladhan, vakitlerin hangi saat dilimine göre olduğunu meta.timezone
-        // ile bildirir. tz paketinin yerel konumunu buna ayarlıyoruz; ezan
-        // alarmlarının doğru anda tetiklenmesi buna bağlı.
-        final meta = gunlukVeri['meta'];
-        final metaTimezone = meta is Map ? (meta['timezone'] as String?) : null;
-        await saatDiliminiUygula(metaTimezone);
-
-        setState(() {
-          vakitler = {
-            'Fajr': _saatiTemizle(vakitlerVerisi['Fajr']),
-            'Sunrise': _saatiTemizle(vakitlerVerisi['Sunrise']),
-            'Dhuhr': _saatiTemizle(vakitlerVerisi['Dhuhr']),
-            'Asr': _saatiTemizle(vakitlerVerisi['Asr']),
-            'Maghrib': _saatiTemizle(vakitlerVerisi['Maghrib']),
-            'Isha': _saatiTemizle(vakitlerVerisi['Isha']),
-          };
-
-          miladiTarih = tarihVerisi['gregorian']['date'];
-          
-          String hGun = tarihVerisi['hijri']['day'];
-          String hAy = tarihVerisi['hijri']['month']['en'];
-          String hYil = tarihVerisi['hijri']['year'];
-          hicriTarih = "$hGun $hAy $hYil";
-          
-          yukleniyor = false;
-          // Yükleme başarılı: önceki hata mesajını temizle ki "Tekrar dene"
-          // sonrasında ekranda kalıntı kalmasın.
-          hataMesaji = '';
-        });
-
-        // Sayacı da başlattık
-        sayaciBaslat(); 
-
-        // YENİ: Alarmları sisteme kur!
-        _gunlukBildirimleriZamanla();
-
-        //Widget için
-        _widgetAyetiniGuncelle();
-        _widgetHadisiniGuncelle();
-        
-        return true; // <--- İŞLEM BAŞARILI, TRUE DÖNDÜR
-      } else {
-        // Ne internet ne de önbellek: hata ekranı gösterilecek. Mesajı burada
-        // doldurmuyoruz; `_hataEkrani` boş bırakıldığında şehir adını içeren
-        // yerelleştirilmiş `no_internet_city` metnini kendisi kullanıyor.
-        setState(() { yukleniyor = false; });
-        return false; // <--- İŞLEM BAŞARISIZ (İnternet ve veri yok), FALSE DÖNDÜR
+      final kayitli = await _depo.kayitOku(konum,
+          yil: sehirTarihi.year, ay: sehirTarihi.month);
+      if (kayitli != null) {
+        final ozet = await _depo.ozetOku(konum,
+            yil: sehirTarihi.year, ay: sehirTarihi.month);
+        onbellekDurumu = VakitDurumu(
+          konum: konum,
+          kaynak: VakitKaynagi.onbellek,
+          bugun: kayitli.gun(sehirTarihi),
+          gelecekGunler: await _gelecekGunleriTamamla(
+              konum, sehirTarihi, _gelecekleriSirala(kayitli, sehirTarihi)),
+          ozet: ozet,
+        );
       }
     } catch (e) {
-      debugPrint("Kritik Hata: $e");
+      // Bozuk önbellek uygulamayı düşürmez; katman kendi karantinaya
+      // alma işlemini yaptı.
+      debugPrint('Önbellek okunamadı: $e');
+    }
+
+    // Önbelleği okurken arada başka bir yükleme başladıysa bu yükleme
+    // geçersizdir: sunucuya gider bile olmayacak. Hata değil (bkz.
+    // [_YuklemeSonucu]).
+    if (jeton != _istekJetonu || !mounted) return _YuklemeSonucu.iptal;
+    if (KonumTakvimi.tarih(_konum ?? konum, uygulamaSaati) != sehirTarihi) {
+      return _YuklemeSonucu.iptal;
+    }
+
+    // --- RESMÎ DİYANET YOLU ---
+    //
+    // Buraya, önbellekten ÖNCE girilir. Resmî veri uygulamanın kendi
+    // paketindedir: ağ gerekmez, hesaplanmış önbellekle KARIŞMAZ ve
+    // önbelleğe YAZILMAZ. İki kaynak birbirinden ayrıdır; kullanıcının
+    // eski Aladhan önbelleği silinmez.
+    if (konum.resmiDiyanetKullanilirMi(
+        resmiModAcik: aktifResmiDiyanet.value)) {
+      return _resmiDiyanetYukle(konum, sehirTarihi, jeton);
+    }
+
+    // Resmî mod AÇIK ama bu yerleşim resmî katalogda yok (ya da mod kullanıcı
+    // tarafından kapatıldı). Hesaplanmış akış çalışır; ekrana DÜRÜST bir
+    // etiket ve resmî verinin neden kullanılmadığını açıklayan not basılır.
+    // Böylece kullanıcı "Diyanet" gördüğü halde hesaplanmış saatlere bakmaz.
+    _diyanetNotuDurumu(konum, await _diyanetDurumBul(konum, sehirTarihi));
+
+    // Önbellekte bugün varsa EKRANI HEMEN AÇ. Arayüz donmaz.
+    if (onbellekDurumu?.bugun != null) {
+      _durumuUygula(onbellekDurumu!);
+      if (onbellekYeterli) return _YuklemeSonucu.basarili;
+    } else {
+      setState(() => yukleniyor = true);
+    }
+
+    // --- ADIM 2: Arka planda ağdan tazele ---
+    // Jeton `_agiDene`'ye de verilir: cevabın YAN ETKİSİ olan tek adım
+    // orada (saat dilimi yazımı) ve güncellik denetimi ondan önce
+    // yapılmalıdır. Aşağıdaki denetim yalnız EKRAN durumunu korur.
+    final cevap = await _agiDene(konum, sehirTarihi, jeton);
+    final gelecekGunler = cevap == null
+        ? null
+        : await _gelecekGunleriTamamla(
+            konum, sehirTarihi, cevap.gelecekGunler);
+
+    // Geçerli jeton değilse: kullanıcı arada başka bir şehir/yöntem
+    // seçti. Bu cevap EKRANA UYGULANMAZ ve seçili konumun saat dilimine
+    // dokunmaz.
+    //
+    // ÖNCEKİ YORUM YANLIŞTI ("önbelleğe de yazılmaz" deniyordu): veri
+    // katmanı bu cevabı ZATEN yazdı. `agCevabiniIsle` cevabı
+    // `konum.onbellekAnahtari(...)` ile, yani O KONUMUN KENDİ anahtarına
+    // yazar (koordinat + yöntem + Asr/yüksek enlem + yıl-ay). Bu güvenli ve
+    // istenen davranıştır: geç gelen DOĞRULANMIŞ bir cevap, kullanıcının
+    // artık seçmediği bir şehrin önbelleğini doldurur — başka bir şehrin
+    // başlığı altına veri SIzdıramaz, çünkü anahtarda koordinat vardır.
+    //
+    // Sonuç `iptal`dir, HATA DEĞİLDİR: bu yüklemenin sonucunu belirleyen
+    // başka bir yükleme vardır ve o zaten kendi sonucunu bildirecektir.
+    if (jeton != _istekJetonu) {
+      debugPrint('eski cevap yok sayıldı (jeton $jeton != $_istekJetonu)');
+      return _YuklemeSonucu.iptal;
+    }
+    if (!mounted) return _YuklemeSonucu.iptal;
+
+    // Geç gelen başarısız cevap da eski günü ekrana geri getiremez.
+    if (KonumTakvimi.tarih(konum, uygulamaSaati) != sehirTarihi) {
+      return _verileriYukle(onbellekYeterli: true);
+    }
+
+    if (cevap == null) {
+      // Ağ yok ya da hata verdi. Önbellek varsa ekran açık kalır.
+      if (onbellekDurumu?.bugun != null) {
+        return _YuklemeSonucu.basarili;
+      }
       setState(() {
         yukleniyor = false;
-        hataMesaji = 'data_load_error'.tr();
+        _kaynak = VakitKaynagi.yok;
       });
-      return false; // <--- HATA OLDU, FALSE DÖNDÜR
+      return _YuklemeSonucu.hata;
+    }
+
+    // --- ADIM 3: Kesinleşen saat dilimi "bugün"ü değiştirdi mi? ---
+    //
+    // Saat dilimi bilinmediğinde gün, boylama dayalı bir TAHMİNLE bulunur
+    // (bkz. KonumTakvimi). Cevap geldi ve doğrulanan dilim bu tahmini
+    // DOĞRULAMADIYSA (yarım saatlik dilimlerde, tahmin ile gerçek ofset
+    // arasındaki fark kadar bir pencerede) ekranda yanlış günün vakitleri
+    // gösterilirdi. O durumda aynı konum için DOĞRU günün isteği atılır.
+    //
+    // Gün değişmediyse — normalde böyledir — HİÇBİR ek istek atılmaz.
+    if (cevap.basariliMi) {
+      final kesinKonum = _konum ?? konum;
+      final kesinTarih = KonumTakvimi.tarih(kesinKonum, uygulamaSaati);
+      if (kesinTarih != sehirTarihi) {
+        debugEkle('saat dilimi kesinleşti, gün düzeltiliyor: '
+            '$sehirTarihi -> $kesinTarih');
+        // Aynı ayın kaydı zaten önbellekte; bu yükleme ekranı yine ANINDA
+        // açar, yalnızca ağ tarafından tazelenir.
+        return _verileriYukle();
+      }
+    }
+
+    // --- ADIM 4: Doğrulanmış cevabı uygula ---
+    _durumuUygula(cevap, gelecekGunler: gelecekGunler);
+
+    // Ay sonuna yaklaşınca sonraki ayı da önceden indir.
+    _sonrakiAyiOndenIndir(konum, sehirTarihi);
+
+    // Cevap doğrulanmadıysa gerçek bir yükleme hatasıdır (HTTP hatası,
+    // bozuk gövde, eksik gün). `_durumuUygula` bunu ekran hatası olarak
+    // gösterdi; çağıran da "veri yenilenemedi" uyarısını verir.
+    return cevap.basariliMi ? _YuklemeSonucu.basarili : _YuklemeSonucu.hata;
+  }
+
+  /// Doğrulanmış `meta.timezone` değerini konuma işler.
+  ///
+  /// [konumSaatDilimiKesinlestir] global konumu günceller; bu, normalde
+  /// `_aktifKonumDegisti` dinleyicisini tetikler ve yeni bir yükleme
+  /// başlatır. Buradaki değişiklik KENDİ kaynaklı olduğu için dinleyiciye
+  /// "yeni bir konum seçilmedi" sinyali verilir: aynı konum/ay için ikinci
+  /// bir ağ isteği atılmaz ve az önce alınan doğrulanmış cevap "eski"
+  /// sayılmaz. Yüklemenin devamı, cevabı doğruladığı saat dilimiyle ekrana
+  /// uygular (bkz. [KonumTakvimi] ile gün düzeltmesi).
+  Future<void> _saatDiliminiIsle(Konum istenenKonum, String iana) async {
+    _onaylananKonum = istenenKonum;
+    _saatDilimiKesinlesiyor = true;
+    try {
+      await konumSaatDilimiKesinlestir(iana);
+    } finally {
+      _saatDilimiKesinlesiyor = false;
+      _onaylananKonum = null;
+    }
+  }
+
+  /// [yeni], [eski]'den YALNIZCA saat dilimiyle mi farklı?
+  ///
+  /// Bu, bastırmanın tam olarak neyi kapsadığını tanımlar:
+  ///
+  ///   * Saat dilimi değişikliği → aynı ayın verisi zaten yükleniyor,
+  ///     yeni istek gereksizdir ( bastırılır).
+  ///   * Yöntem / Asr / yüksek enlem değişikliği → hesap ayarıdır,
+  ///     ÖNBELLEK ANAHTARINA GİRER ve vakitleri gerçekten değiştirir;
+  ///     bastırılırsa kullanıcının ayarı sessizce hiç uygulanmaz.
+  ///     Bu yüzden `false` döner (bastırılmaz).
+  ///
+  /// Koordinat/ad/ülke farkı da kapsam dışıdır: başka bir yerdir.
+  static bool _sadeceSaatDilimiDegisti(Konum eski, Konum yeni) {
+    if (eski.saatDilimi == yeni.saatDilimi) return false;
+    return eski.ad == yeni.ad &&
+        eski.ulkeIso2 == yeni.ulkeIso2 &&
+        eski.enlem == yeni.enlem &&
+        eski.boylam == yeni.boylam &&
+        eski.yontemId == yeni.yontemId &&
+        eski.asrYontemi == yeni.asrYontemi &&
+        eski.yuksekEnlemAyaru == yeni.yuksekEnlemAyaru;
+  }
+
+  /// Ağ isteğini yapar ve DOĞRULANMIŞ cevap ya da `null` döner.
+  ///
+  /// `null` dönmesi "ağ yok/istek başarısız" demektir; geçersiz cevap
+  /// `null` DEĞİLDİR, [VakitDurumu.hata] dolu döner.
+  ///
+  /// [jeton] bu isteğin güncellik damgasıdır. YAN ETKİSİ OLAN TEK ADIM
+  /// burada olduğu için (saat diliminin konuma yazılması) güncellik
+  /// denetimi de yan etkinin hemen önünde, burada yapılır.
+  Future<VakitDurumu?> _agiDene(
+      Konum konum, DateTime sehirTarihi, int jeton) async {
+    // Aladhan `/v1/calendar` uç noktası KOORDİNAT kabul eder ve
+    // `calendarByCity`'nin aksine dahili geocoder kullanmaz; 160 bin
+    // kayıtlık veri setindeki küçük şehirlerde HTTP 503 vermez.
+    final p = <String, String>{
+      'latitude': konum.enlem.toStringAsFixed(4),
+      'longitude': konum.boylam.toStringAsFixed(4),
+      'month': sehirTarihi.month.toString(),
+      'year': sehirTarihi.year.toString(),
+    };
+    if (konum.yontemId != null) p['method'] = konum.yontemId.toString();
+    p['school'] = konum.asrYontemi.apiParametresi;
+    p['adjustmentMethod'] = konum.yuksekEnlemAyaru.apiParametresi;
+
+    final url = Uri.https('api.aladhan.com', '/v1/calendar', p);
+    String govde;
+    int durum;
+
+    try {
+      final c = await http
+          .get(url, headers: const {'Accept': 'application/json'})
+          .timeout(const Duration(seconds: 10));
+      govde = c.body;
+      durum = c.statusCode;
+    } catch (e) {
+      debugPrint('ağ yok: $e');
+      return null;
+    }
+
+    // Cevabı doğrula. Geçersizse burada REDDEDİLİR ve önbelleğe yazılmaz.
+    final sonuc = await _depo.agCevabiniIsle(
+      konum: konum,
+      govde: govde,
+      httpDurumKodu: durum,
+      istenenGun: sehirTarihi,
+    );
+
+    // Saat dilimi doğrulandı: konumun kalıcı alanına yazılır. Bundan
+    // sonra açılışlarda cihaz saatine düşülmeden doğru gün bulunur.
+    //
+    // ANCAK bu bir YAN ETKİDİR: GLOBAL `aktifKonum` değişir ve cihaza
+    // yazılır. Bu yüzden yan etki yapılmadan ÖNCE cevabın hâlâ RELEVANT
+    // olduğu İKİ koşulla denetlenir:
+    //
+    //   1) JETON: kullanıcı arada başka bir konum/yöntem seçtiyse cevap
+    //      geçersizdir. "Ankara sürerken Tokyo seçildi" senaryosunda
+    //      Ankara'nın geç cevabı Tokyo'nun konumunu kendi saat dilimiyle
+    //      değiştirip cihaza yanlış değeri yazardı.
+    //   2) EKRAN HENÜZ AYAKTA: `dispose` jetonu sıfırlamaz ve
+    //      `_istekJetonu` bu State'e AİT olduğu için, ekran kalktıktan
+    //      sonra gelen cevap "geçerli" görünür. Oysa yan etki global
+    //      duruma yazıyor: ekranı kalkmış bir sayfanın yanıtı, o sırada
+    //      başka bir konum seçilmiş (ya da yeni bir ekranda açılmış) olan
+    //      KULLANICIYI etkilememeli.
+    //
+    // Veri katmanının yazdığı önbellek KALIR: cevap kendi konum anahtarına
+    // (koordinat + yöntem + Asr/yüksek enlem + yıl-ay) yazılır, hiçbir
+    // başka şehrin başlığını zedelemez. Yalnız GLOBAL/KALICI konum ve
+    // ekran durumu korunur.
+    //
+    // Yazılacak değer `_konum`'dan değil, isteğin yapıldığı [konum]'dan
+    // okunur: yanlış olan hangisi olursa olsun istenen konuma yazılmalıdır.
+    if (!sonuc.basariliMi) return sonuc;
+    if (!mounted || jeton != _istekJetonu) {
+      debugEkle('geç cevap: saat dilimi güncellenmedi '
+          '(jeton $jeton != $_istekJetonu, ekrandaki=$mounted)');
+      return sonuc;
+    }
+    await _saatDiliminiIsle(
+      konum,
+      konum.saatDilimi.isEmpty
+          ? (sonuc.ozet?.saatDilimi ?? '')
+          : konum.saatDilimi,
+    );
+    return sonuc;
+  }
+
+  /// Gelen doğrulanmış durumu arayüze uygular.
+  void _durumuUygula(VakitDurumu d, {List<VakitGunu>? gelecekGunler}) {
+    if (!mounted) return;
+    final bugun = d.bugun;
+    if (bugun == null) {
+      setState(() {
+        _bugun = null;
+        _kaynak = d.kaynak;
+        _sonHata = d.hata;
+        yukleniyor = false;
+      });
+      return;
+    }
+
+    setState(() {
+      _bugun = bugun;
+      _gelecekGunler = gelecekGunler ?? d.gelecekGunler;
+      _kaynak = d.kaynak;
+      _ozet = d.ozet;
+      _sonHata = null;
+      miladiTarih = '${bugun.gun.toString().padLeft(2, '0')}.'
+          '${bugun.ay.toString().padLeft(2, '0')}.${bugun.yil}';
+      hicriTarih = bugun.hicriTarih;
+      yukleniyor = false;
+      hataMesaji = '';
+    });
+
+    sayaciBaslat();
+    _alarmlariKur();
+    _widgetAyetiniGuncelle();
+    _widgetHadisiniGuncelle();
+  }
+
+  /// Aylık cevaptan bugünden sonraki günleri sıralar.
+  List<VakitGunu> _gelecekleriSirala(CevapGecerli cevp, DateTime bugun) {
+    final s = [...cevp.gunler]..sort((a, b) => a.tarih.compareTo(b.tarih));
+    final baslangic = DateTime(bugun.year, bugun.month, bugun.day);
+    return s
+        .where((g) =>
+            g.tarih.difference(baslangic).inDays >= 0 &&
+            g.tarih.difference(baslangic).inDays <= 7)
+        .toList(growable: false);
+  }
+
+  /// Yedi günlük pencere ay/yıl sınırını aşarsa doğrulanmış kaydı ekler.
+  /// Yalnız yükleme sırasında okunur; saniyelik sayaç disk/ağ kullanmaz.
+  Future<List<VakitGunu>> _gelecekGunleriTamamla(
+      Konum konum, DateTime tarih, List<VakitGunu> gunler) async {
+    final sonGun = DateTime(tarih.year, tarih.month, tarih.day + 7);
+    if (sonGun.month == tarih.month && sonGun.year == tarih.year) return gunler;
+    final sonraki = await _depo.kayitOku(konum,
+        yil: sonGun.year, ay: sonGun.month);
+    if (sonraki == null) return gunler;
+    final birlesik = {for (final gun in gunler) gun.tarih: gun};
+    for (final gun in _gelecekleriSirala(sonraki, tarih)) {
+      birlesik[gun.tarih] = gun;
+    }
+    return birlesik.values.toList()
+      ..sort((a, b) => a.tarih.compareTo(b.tarih));
+  }
+
+  /// Ay sonuna yaklaşınca sonraki ayı da önceden indirir.
+  ///
+  /// Ayın 25'inden sonrası için yapılır. Böylece gece yarısını aşan
+  /// kullanıcı ertesi günün vakitlerini çevrimdışı da bulur. Hata olursa
+  /// sessizce geçilir: bu bir optimizasyondur, kritik yol değildir.
+  Future<void> _sonrakiAyiOndenIndir(Konum konum, DateTime suAn) async {
+    // Resmî modda AĞ GEREKMEZ: veri zaten pakette, üstelik gelecek yılın
+    // tamamı mevcut. Bir aylık ön indirme hem boşuna ağ yorar hem de
+    // hesaplanmış önbelleği resmî veriyle karıştırma riskini doğurur.
+    if (konum.resmiDiyanetKullanilirMi(resmiModAcik: aktifResmiDiyanet.value)) {
+      return;
+    }
+    final ayinGunu = suAn.day;
+    if (ayinGunu < 25) return;
+    final jeton = _istekJetonu;
+    final sonraki = DateTime(suAn.year, suAn.month + 1, 1);
+    final anahtar = konum.onbellekAnahtari(yil: sonraki.year, ay: sonraki.month);
+    final islem = _onIndirmeler[anahtar] ?? _sonrakiAyiIndir(konum, sonraki);
+    _onIndirmeler[anahtar] = islem;
+    try {
+      await islem;
+    } finally {
+      if (identical(_onIndirmeler[anahtar], islem)) {
+        _onIndirmeler.remove(anahtar);
+      }
+    }
+    // İndirme eski konumun önbelleğini doldurabilir; ekranı değiştiremez.
+    if (!mounted || jeton != _istekJetonu || _bugun?.tarih != suAn) return;
+    final gunler = await _gelecekGunleriTamamla(konum, suAn, _gelecekGunler);
+    if (!mounted || jeton != _istekJetonu || _bugun?.tarih != suAn ||
+        KonumTakvimi.tarih(_konum ?? konum, uygulamaSaati) != suAn) {
+      return;
+    }
+    if (gunler.length == _gelecekGunler.length) return;
+    _gelecekGunler = gunler;
+    kalanSureyiHesapla();
+    _alarmlariKur();
+  }
+
+  Future<void> _sonrakiAyiIndir(Konum konum, DateTime sonraki) async {
+    try {
+      if (await _depo.kayitOku(konum, yil: sonraki.year, ay: sonraki.month) !=
+          null) {
+        return; // Zaten var.
+      }
+      final p = <String, String>{
+        'latitude': konum.enlem.toStringAsFixed(4),
+        'longitude': konum.boylam.toStringAsFixed(4),
+        'month': sonraki.month.toString(),
+        'year': sonraki.year.toString(),
+      };
+      if (konum.yontemId != null) p['method'] = konum.yontemId.toString();
+      p['school'] = konum.asrYontemi.apiParametresi;
+      p['adjustmentMethod'] = konum.yuksekEnlemAyaru.apiParametresi;
+      final c = await http
+          .get(Uri.https('api.aladhan.com', '/v1/calendar', p),
+              headers: const {'Accept': 'application/json'})
+          .timeout(const Duration(seconds: 10));
+      if (c.statusCode != 200) return;
+      await _depo.agCevabiniIsle(
+        konum: konum,
+        govde: c.body,
+        httpDurumKodu: c.statusCode,
+        istenenGun: sonraki,
+      );
+    } catch (_) {
+      // Önden indirme başarısız olabilir; kritik değil.
     }
   }
 
   // 7. SAYAÇ MANTIĞI
   void sayaciBaslat() {
-    // ÖNEMLİ: Bu metot vakitler her yenilendiğinde yeniden çağrılıyor
-    // (şehir değişimi, hesaplama yöntemi değişimi, GPS ile konum bulma).
+    // ÖNEMLİ: Bu metot vakitler her yenilendiğinde yeniden çağrılıyor.
     // Timer.periodic iptal edilmeden üstüne yeni bir tane kurulursa eskisi
-    // çalışmaya devam eder ve her saniye N kez setState, N kez bildirim
-    // tetiği ve N kez widget yazımı olur. Kullanıcı 5 şehir denediğinde
-    // saniyede 5 katı iş yapan 5 timer birikmiş olur.
+    // çalışmaya devam eder.
     _zamanlayici?.cancel();
     _zamanlayici = Timer.periodic(const Duration(seconds: 1), (timer) {
       kalanSureyiHesapla();
@@ -566,229 +1289,217 @@ Future<void> _widgetHadisiniGuncelle() async {
     kalanSureyiHesapla(); // İlk saniyeyi beklemeden hemen ilk hesaplamayı yap.
   }
 // --- ARKA PLAN BİLDİRİM DÖNGÜSÜ ---
-  Future<void> _gunlukBildirimleriZamanla() async {
-    if (Platform.isAndroid || Platform.isIOS) {
-    if (vakitler == null) return;
+  //
+  // ÖNCE (kötü): `cancelAll()` + yalnız bugünün 6 vakti + sabit ID'ler
+  // (100+sıra, 200+sıra) + cıhaz saatine göre kurulum.
+  //
+  // ŞİMDİ:
+  //   - `cancelAll()` YOK. Yalnız bu motorun yönettiği kimlikler güncellenir.
+  //   - Kimlikler `tarih|vakit|tür` ücücüsünden türetilir (çakışmasız).
+  //   - En az 7 gün planlanır (yalnız bugün değil) ki uygulama ertesi gün
+  //     açılmasa da bildirimler gelsin.
+  //   - Zamanlar SEÇİLİ ŞEHİRİNİ saat diliminde, duvar saati olarak kurulur.
+  //   - Güneş doğuşu ayrı türdür ve varsayılan kapalıdır.
+  Future<void> _alarmlariKur() async {
+    if (!bildirimYoluCalisir()) return;
+    final konum = _konum;
+    if (konum == null || _bugun == null) return;
 
-    await bildirimServisi.cancelAll(); // Eski alarmları temizle
-    final suAn = DateTime.now();
-
-    Map<String, String> vakitListesi = {
-        'fajr': vakitler!['Fajr'], 'sunrise': vakitler!['Sunrise'], 'dhuhr': vakitler!['Dhuhr'],
-        'asr': vakitler!['Asr'], 'maghrib': vakitler!['Maghrib'], 'isha': vakitler!['Isha'],
-      };
-
-    // Alarm kimlikleri çakışmamalı. Vakit bildirimi 100-105, erken uyarı
-    // 200-205 bandında. Önceden erken uyarı hiç planlanmıyordu, bu yüzden
-    // çakışma sorunu yoktu; artık iki tür bildirim bir arada var.
-    const int vakitIdBasi = 100;
-    const int erkenUyariIdBasi = 200;
-    int sira = 0;
-
-    // forEach içindeki async geri çağrılarını beklenmediği için alarmlar
-    // yarış koşuluyla kuruluyor, üstelik id değişkeni her seferinde artıyordu.
-    // Sıralı bir döngüyle hepsinin tamamlanmasını bekliyoruz.
-    for (final MapEntry<String, String> vakit in vakitListesi.entries) {
-      final String vakitAdi = vakit.key;
-      final String saatMetni = vakit.value;
-      List<String> saatDakika = saatMetni.split(':');
-      if (saatDakika.length < 2) continue;
-      DateTime vakitZamani = DateTime(suAn.year, suAn.month, suAn.day, int.parse(saatDakika[0]), int.parse(saatDakika[1]));
-
-      if (vakitZamani.isAfter(suAn)) {
-        // Vakit adı, alarm KURULURKEN çeviriye bağlanır. Çünkü alarm
-        // bildirimi uygulama kapalıyken gösterilecek ve o an hafızada
-        // hangi dilin seçili olduğunu bilmenin güvenilir yolu yok.
-        //
-        // Bu yüzden bildirim metinleri de çeviri dosyasından gelmelidir:
-        // "Vakit Geldi!" gibi Türkçe sabitler, Türkçe seçili bir kullanıcının
-        // İngilizce alarmıyla Türkçe bildirim almasına yol açardı.
-        await _tekilAlarmKur(vakitIdBasi + sira, vakitAdi.tr(), vakitZamani);
-
-        // Erken uyarı da AYNI şekilde sisteme planlanır. Önceden yalnızca
-        // `kalanSureyiHesapla` içindeki saniyelik sayaçla tetikleniyordu; yani
-        // uygulama kapalıyken hiç çalışmıyor, uygulama açıkken de o tek
-        // saniyeyi kaçırırsa kalıcı olarak kayboluyordu.
-        final DateTime? erkenUyari =
-            erkenUyariZamani(vakitZamani, erkenUyariSuresi.value);
-        if (erkenUyari != null && erkenUyari.isAfter(suAn)) {
-          await _erkenUyariAlarmiKur(
-              erkenUyariIdBasi + sira, vakitAdi.tr(), erkenUyari, erkenUyariSuresi.value);
-        }
-      }
-      sira++;
+    final sehirSaati = _sehirSaati(konum);
+    if (sehirSaati == null || sehirSaati.saatDilimiCozulemedi) {
+      debugEkle('saat dilimi çözülemedi, alarm kurulmadı');
+      return;
     }
-  }
-  }
 
-  /// Erken uyarı alarmını kurar.
-  ///
-  /// Vakit alarmından AYRI bir kanal kullanır: kullanıcı erken uyarıyı kapatıp
-  /// vakit bildirimini açık bırakabilmeli. Aynı kanal kullanılsaydı iki
-  /// bildirim birbirinin yerine geçerdi.
-  Future<void> _erkenUyariAlarmiKur(
-      int id, String vakitAdi, DateTime zaman, int erkenDakika) async {
-    final AndroidNotificationDetails androidDetay = AndroidNotificationDetails(
-      'erken_uyari_kanali',
-      'notif_channel_early_name'.tr(),
-      channelDescription: 'notif_channel_early_desc'.tr(),
-      importance: Importance.max,
-      priority: Priority.high,
-    );
-    final NotificationDetails bildirimDetaylari =
-        NotificationDetails(android: androidDetay);
+    // Bu çağrının SEÇİM numarası, bekleme başlamadan ÖNCE alınır: numara
+    // "hangi seçim bu planı istedi" bilgisidir, "hangi çağrı ne zaman
+    // döndü" bilgisi değildir. İzin sorgusu bir eklenti çağrısıdır ve
+    // gecikir; geciken çağrı artarızaman eskimiştir ve planı UYGULANMAZ —
+    // aksi hâlde eski şehrin alarmları yeni seçimin üzerine yazılır.
+    final secim = _bildirimMotoru.yeniSecim();
 
-    final (String baslik, String icerik) = _bildirimMetinleri(
-      vakitAdi: vakitAdi,
-      erkenUyariMi: true,
-      erkenDakika: erkenDakika,
+    final tamZamanliVar = await _bildirimMotoru.tamZamanliIzinVar();
+    if (!mounted || _bildirimMotoru.gecmisSecimMi(secim)) {
+      debugEkle('geciken alarm planı atlandı: daha yeni bir seçim var');
+      return;
+    }
+
+    final ozet = const BildirimPlanlayici().planla(
+      konum: konum,
+      sehirSaati: sehirSaati,
+      gunler: _gelecekGunler.isEmpty ? [_bugun!] : _gelecekGunler,
+      erkenUyariDakika: erkenUyariSuresi.value,
+      gunesDogumuBildirimiAcik: gunesDogumuBildirimiAcik.value,
+      cevir: _cevir,
+      vakitAdiCevir: _vakitAdi,
+      erkenUyariMetni: _erkenUyariMetni,
+      vakitMetni: _vakitMetni,
+      tamZamanli: tamZamanliVar,
     );
 
-    try {
-      await bildirimServisi.zonedSchedule(
-        id: id,
-        title: baslik,
-        body: icerik,
-        scheduledDate: tz.TZDateTime.from(zaman, tz.local),
-        notificationDetails: bildirimDetaylari,
-        androidScheduleMode: AndroidScheduleMode.exactAllowWhileIdle,
-      );
-    } on PlatformException catch (e) {
-      debugPrint("Erken uyarı alarmı tam zamanlı kurulamadı ($e), yaklaşık moda geçiliyor.");
-      try {
-        await bildirimServisi.zonedSchedule(
-          id: id,
-          title: baslik,
-          body: icerik,
-          scheduledDate: tz.TZDateTime.from(zaman, tz.local),
-          notificationDetails: bildirimDetaylari,
-          androidScheduleMode: AndroidScheduleMode.inexactAllowWhileIdle,
-        );
-      } catch (e2) {
-        debugPrint("Erken uyarı alarmı kurulamadı: $e2");
-      }
-    }
-  }
+    final sonuc = await _bildirimMotoru.uygula(ozet, secimNo: secim);
 
-  Future<void> _tekilAlarmKur(int id, String vakitAdi, DateTime zaman) async {
-    // Kanal adı ve açıklaması da çevrilir. `AndroidNotificationDetails` daha
-    // önce `const` idi; çeviri çalışma zamanında geldiği için burada sabit
-    // olamaz. Bu, `zonedSchedule` çağrısını etkilemez.
+    // Uygulama sırasında daha yeni bir seçim başladıysa bu plan zaten
+    // uygulanmadı; ekranda da eski "tam zamanlı" bilgisini değiştirmeyiz.
     //
-    // DİKKAT (Android): Kanal adı/açıklaması sistemde bir kez oluşturulur.
-    // Kullanıcı alarmı ilk kez Türkçe kurduysa, sonra dili değiştirdiğinde
-    // kanalin ADI eski dilde kalır (Android kanalı yeniden adlandırmayı
-    // desteklemez). Bildirimin başlığı ve içeriği ise her seferinde güncel
-    // dilden üretildiği için her zaman doğru dilde görünür.
-    final AndroidNotificationDetails androidDetay = AndroidNotificationDetails(
-      'ezan_kanali_arka_plan', 
-      'notif_channel_bg_name'.tr(),
-      channelDescription: 'notif_channel_bg_desc'.tr(),
-      importance: Importance.max,
-      priority: Priority.high,
-    );
-    final NotificationDetails bildirimDetaylari =
-        NotificationDetails(android: androidDetay);
+    // AYNI KURAL UYARI İÇİN DE GEÇERLİ: geç kalan ya da kaldırılmış ekranın
+    // planı güncel uyarıyı DEĞİŞTİRMEZ. Aksi halde "Ankara'da kurulum
+    // başarısız" uyarısı, ekran kalkıp Paris'e geçtikten sonra da görünür ve
+    // artık doğruyu anlatmaz.
+    if (!mounted || _bildirimMotoru.gecmisSecimMi(secim)) return;
 
-    // Alarm başlığı/İçeriği de güncel dilden. `vakitAdi` zaten çevrilmiş
-    // geliyor (bkz. _gunlukBildirimleriZamanla -> vakitAdi.tr()).
-    final (String baslik, String icerik) = _bildirimMetinleri(
-      vakitAdi: vakitAdi,
-      erkenUyariMi: false,
-      erkenDakika: 0,
-    );
+    setState(() {
+      // Başarılı bir plan eski hata uyarısını TEMİZLER (`uyari == null`).
+      // Uyarı motorun kendi kararıdır; burada yeniden yorumlanmaz.
+      _bildirimUyarisi = sonuc.uyari;
+    });
 
-    // YENİ SÜRÜM KURALLARI: Bütün parametreler isimlendirildi (named arguments) 
-    // ve kaldırılan uiLocalNotificationDateInterpretation ayarı silindi.
-    // Kullanıcı "exact alarms" iznini reddettiyse tam zamanlı mod PlatformException
-    // fırlatıyordu; bu durumda yaklaşık zamanlı moda düşüyoruz ki en azından
-    // bildirim yine de gelsin.
-    try {
-      await bildirimServisi.zonedSchedule(
-        id: id,
-        title: baslik,
-        body: icerik,
-        scheduledDate: tz.TZDateTime.from(zaman, tz.local),
-        notificationDetails: bildirimDetaylari,
-        androidScheduleMode: AndroidScheduleMode.exactAllowWhileIdle, // Uykuda bile uyandırır
-      );
-    } on PlatformException catch (e) {
-      debugPrint("Tam zamanlı alarm kurulamadı ($e), yaklaşık moda geçiliyor.");
-      try {
-        await bildirimServisi.zonedSchedule(
-          id: id,
-          title: baslik,
-          body: icerik,
-          scheduledDate: tz.TZDateTime.from(zaman, tz.local),
-          notificationDetails: bildirimDetaylari,
-          androidScheduleMode: AndroidScheduleMode.inexactAllowWhileIdle,
-        );
-      } catch (e2) {
-        debugPrint("Alarm kurulamadı: $e2");
-      }
+    // Tam zamanlı alarm kurulamadıysa bunu GİZLEMEYİZ. Yaklaşık alarm
+    // "tam zamanlı" gibi sunulmamalıdır; kullanıcı ayarlarda uyarılır.
+    if (!sonuc.tamZamanli) {
+      debugEkle('tam zamanlı alarm izni yok, yaklaşık moda düşüldü');
     }
   }
+
+  /// Çeviri metnini döndürür. Anahtar eksikse anahtar adını döner;
+  /// böylece eksik çeviri sessizce boş metin olmaz.
+  String _cevir(String anahtar) {
+    final d = anahtar.tr();
+    return d == anahtar ? anahtar : d;
+  }
+
+  /// Vakit adını çevirir (`fajr` -> "İmsak").
+  String _vakitAdi(String vakitAnahtari, int _) => _cevir(vakitAnahtari);
+
+  String _vakitMetni(String vakitAdi) => _bildirimMetinleri(
+        vakitAdi: vakitAdi,
+        erkenUyariMi: false,
+        erkenDakika: 0,
+      ).$2;
+
+  String _erkenUyariMetni(int dakika, String vakitAdi) => _bildirimMetinleri(
+        vakitAdi: vakitAdi,
+        erkenUyariMi: true,
+        erkenDakika: dakika,
+      ).$2;
 
   
 
   // 8. ZAMAN HESAPLAMASI (İşin Beyni)
+  //
+  // ÖNCEKİ HÂLİ ÜÇ HATA İÇERİYORDU:
+  //
+  //   1) `DateTime.now()` CİHAZ saatini kullanıyordu. Cihaz İstanbul'da,
+  //      seçili şehir New York'ta ise sayaç yanlış şehri gösteriyordu.
+  //   2) Yatsıdan sonra "sıradaki vakit" için `Fajr + 1 gün` yapılıyordu.
+  //      Bu UYDURMA bir saattir: gerçek yarının imsak saati farklıdır ve
+  //      API'de/cache'te zaten vardır.
+  //   3) Vakitler `int.parse(saatDakika[0])` ile okunuyordu; bozuk bir
+  //      saatte RangeError/FormatException ile çöküşe yol açardı.
+  //
+  // ŞİMDİ: hepsi doğrulanmış [VakitGunu] kayıtlarından ve seçili şehrin
+  // saat diliminden hesaplanır. Yatsıdan sonra GERÇEK yarının Fajr'ı
+  // kullanılır; o gün cache'te yoksa geri sayım gösterilmez, hata verilir.
   void kalanSureyiHesapla() {
-    if (vakitler == null) return; // Veri yoksa boşa hesaplama yapma.
+    _gunuDenetle();
+    final konum = _konum;
+    if (konum == null || _bugun == null) return; // Veri yoksa boşa hesap yapma.
 
-    final suAn = DateTime.now();
-    
-    // API'den gelen "05:30" gibi String saatleri DateTime ile kıyaslamak için bir sözlük oluşturduk.
-    Map<String, String> vakitListesi = {
-      'fajr': vakitler!['Fajr'], 'sunrise': vakitler!['Sunrise'], 'dhuhr': vakitler!['Dhuhr'],
-      'asr': vakitler!['Asr'], 'maghrib': vakitler!['Maghrib'], 'isha': vakitler!['Isha'],
-    };
+    final sehirSaati = _sehirSaati(konum);
+    if (sehirSaati == null || sehirSaati.saatDilimiCozulemedi) return;
+    final simdi = sehirSaati.simdi();
+    if (simdi == null) return;
 
-    DateTime? siradakiVakitZamani; 
+    tz.TZDateTime? siradakiVakitZamani;
     String siradakiVakitAd = '';
 
-    // Döngü: Vakitleri sırayla gezip şu anki saatten İLERİDE olan İLK vakti buluyoruz.
-    for (var entry in vakitListesi.entries) {
-      List<String> saatDakika = entry.value.split(':'); // "15:30" -> ["15", "30"]
-      DateTime vakitZamani = DateTime(suAn.year, suAn.month, suAn.day, int.parse(saatDakika[0]), int.parse(saatDakika[1]));
-      
-      if (vakitZamani.isAfter(suAn)) { 
-        siradakiVakitZamani = vakitZamani; 
-        siradakiVakitAd = entry.key; 
-        break; // İlk ileri vakti bulduk, döngüyü kır.
+    // Bugünün vakitlerini seçili şehrin saat diliminde sırayla gez.
+    for (final alan in VakitAlani.sirali) {
+      final saatMetni = _bugun!.saatler[alan.anahtar];
+      if (saatMetni == null) continue;
+      final z = sehirSaati.duvarSaati(
+        saatMetni,
+        tarih: _bugun!.tarih,
+      );
+      if (z == null) continue; // geçersizse atla (veri zaten doğrulandı)
+      if (z.isAfter(simdi)) {
+        siradakiVakitZamani = z;
+        siradakiVakitAd = alan.anahtar;
+        break;
       }
     }
 
-    // EDGE CASE (Uç İhtimal): Saat 23:00 ve Yatsı okundu. İleride vakit yok.
+    // Yatsı geçti: sıradaki vakit GERÇEK yarının imsağıdır.
+    //
+    // ÖNCE: bugünün Fajr'ına bir gün ekleniyordu. Bu, yarının imsağı
+    // DEĞİLDİR; yılın 365 günü içinde imsak saati günde 1-2 dakika
+    // değişir. Gerçek değer `_gelecekGunler` içinde, ertesi günün
+    // kaydı olarak bulunur.
     if (siradakiVakitZamani == null) {
-      siradakiVakitAd = 'İmsak';
-      List<String> imsakSaat = vakitler!['Fajr'].split(':');
-      siradakiVakitZamani = DateTime(suAn.year, suAn.month, suAn.day, int.parse(imsakSaat[0]), int.parse(imsakSaat[1])).add(const Duration(days: 1));
+      final yarin = _gunIcindeTarih(sehirSaati, simdi, 1);
+      final yarinGunu = _gunBul(yarin);
+      if (yarinGunu == null) {
+        // Gerçek yarının verisi yok (cache yetersiz ya da yeni ay).
+        // UYDURMA YAPMIYORUZ: geri sayımı dondurup kullanıcıya
+        // anlaşılır bir durum bildiriyoruz.
+        if (!mounted) return;
+        setState(() {
+          siradakiVakitIsmi = '';
+          kalanSureMetni = '--:--:--';
+          hataMesaji = 'data_load_error'.tr();
+        });
+        return;
+      }
+      final z = sehirSaati.duvarSaati(
+        yarinGunu.saatler['fajr']!,
+        tarih: yarin,
+      );
+      if (z == null) return;
+      siradakiVakitZamani = z;
+      siradakiVakitAd = 'fajr';
     }
 
-    // İki zaman arasındaki farkı bul ve formatla
-    Duration fark = siradakiVakitZamani.difference(suAn);
-    String formatliFark = '${fark.inHours.toString().padLeft(2, '0')}:${(fark.inMinutes % 60).toString().padLeft(2, '0')}:${(fark.inSeconds % 60).toString().padLeft(2, '0')}';
-    
-    // Burada BİLDİRİM GÖNDERİLMİYOR. Vakit ve erken uyarı bildirimleri
-    // `_gunlukBildirimleriZamanla` tarafından SİSTEME planlanır; yukarıdaki
-    // açıklamaya bakınız. Sayaç yalnızca ekrandaki geri sayımı günceller.
-    //
-    // ÖNCE burada iki koşul vardı ve bildirimler buradan gönderiliyordu:
-    //   1) geri sayım metninin tam sıfır olması → vakit bildirimi
-    //   2) kalan saniyenin seçilen dakikaya eşit olması → erken uyarı
-    // İkisi de (a) uygulama kapalıyken hiç çalışmıyordu, (b) tam eşitlik
-    // gerektirdiği için o tek saniye kaçırılırsa bildirim kalıcı olarak
-    // kayboluyordu. Üstelik planlanan alarm da olduğu için bildirim ÇİFT
-    // geliyordu.
+    final fark = siradakiVakitZamani.difference(simdi);
+    final formatliFark =
+        '${fark.inHours.toString().padLeft(2, '0')}:'
+        '${(fark.inMinutes % 60).toString().padLeft(2, '0')}:'
+        '${(fark.inSeconds % 60).toString().padLeft(2, '0')}';
 
-    // Ekranda değişen sadece bu iki değişken olduğu için sadece bunları setState içine alıyoruz.
-    setState(() { siradakiVakitIsmi = siradakiVakitAd; kalanSureMetni = formatliFark; });
+    if (!mounted) return;
+    // Saniyede iki ayrı setState YAPILMAZ. `setState` bir karede bir kez
+    // çağrılır; ikinci çağrı gereksiz yeniden çizimdir.
+    setState(() {
+      siradakiVakitIsmi = siradakiVakitAd;
+      kalanSureMetni = formatliFark;
+      hataMesaji = '';
+    });
 
     // Widget Güncellemesi
-    _widgetVakitleriniGuncelle(
-      siradakiVakitAd,
-      vakitListesi[siradakiVakitAd] ?? vakitler!['Fajr'],
-    );
+    if (siradakiVakitAd.isNotEmpty) {
+      final saat = _gunBul(siradakiVakitZamani.year == simdi.year
+                  ? DateTime(simdi.year, simdi.month, simdi.day)
+                  : _gunIcindeTarih(sehirSaati, simdi, 1))
+              ?.saatler[siradakiVakitAd];
+      if (saat != null) _widgetVakitleriniGuncelle(siradakiVakitAd, saat);
+    }
+  }
+
+  /// [simdi]nın üzerine [gun] gün ekleyerek YEREL gün tarihini döner.
+  DateTime _gunIcindeTarih(SehirSaati s, tz.TZDateTime simdi, int gun) {
+    final d = simdi.add(Duration(days: gun));
+    return DateTime(d.year, d.month, d.day);
+  }
+
+  /// Verilen günün vakit kaydını bulur: bugün ya da `_gelecekGunler`
+  /// içinde. Bulunamazsa `null` döner — UYDURMA YAPILMAZ.
+  VakitGunu? _gunBul(DateTime tarih) {
+    if (_bugun?.tarih == tarih) return _bugun;
+    for (final g in _gelecekGunler) {
+      if (g.ay == tarih.month && g.gun == tarih.day && g.yil == tarih.year) {
+        return g;
+      }
+    }
+    return null;
   }
 
   /// VakitWidget'ın verisini yazar, ama yalnızca değiştiğinde.
@@ -824,14 +1535,20 @@ Future<void> _widgetHadisiniGuncelle() async {
             bool karanlikMi = Theme.of(context).brightness == Brightness.dark;
             
             return Container(
-              height: MediaQuery.of(context).size.height * 0.45, // Ekranın %45'ini kaplasın
+              constraints: BoxConstraints(
+                maxHeight: MediaQuery.sizeOf(context).height * 0.85,
+              ),
               decoration: BoxDecoration(
                 color: Theme.of(context).cardColor,
                 borderRadius: const BorderRadius.only(topLeft: Radius.circular(30), topRight: Radius.circular(30)),
                 boxShadow: [BoxShadow(color: Colors.black26, blurRadius: 10, spreadRadius: 0)],
               ),
-              child: Column(
-                mainAxisAlignment: MainAxisAlignment.center,
+              child: SafeArea(
+                top: false,
+                child: SingleChildScrollView(
+                  padding: const EdgeInsets.symmetric(horizontal: 16),
+                  child: Column(
+                mainAxisSize: MainAxisSize.min,
                 children: [
                   // Üstteki küçük tutma çubuğu (Görsel detay)
                   Container(
@@ -840,7 +1557,7 @@ Future<void> _widgetHadisiniGuncelle() async {
                     decoration: BoxDecoration(color: Colors.grey.shade400, borderRadius: BorderRadius.circular(10)),
                   ),
                   Text('tasbih'.tr(), style: const TextStyle(fontSize: 22, fontWeight: FontWeight.bold)),
-                  const Spacer(),
+                  const SizedBox(height: 16),
                   
                   // DEV ZİKİR BUTONU
                   GestureDetector(
@@ -876,11 +1593,13 @@ Future<void> _widgetHadisiniGuncelle() async {
     ),
   ),
 ),
-                  const Spacer(),
+                  const SizedBox(height: 16),
                   
                   // ALT BUTONLAR (Sıfırla ve Hedef)
-                  Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                  Wrap(
+                    alignment: WrapAlignment.center,
+                    spacing: 24,
+                    runSpacing: 8,
                     children: [
                       // SIFIRLA BUTONU
                       TextButton.icon(
@@ -918,6 +1637,7 @@ Future<void> _widgetHadisiniGuncelle() async {
                             borderRadius: BorderRadius.circular(20),
                           ),
                           child: Row(
+                            mainAxisSize: MainAxisSize.min,
                             children: [
                               Icon(Icons.flag, color: Theme.of(context).colorScheme.primary, size: 20),
                               const SizedBox(width: 8),
@@ -933,6 +1653,8 @@ Future<void> _widgetHadisiniGuncelle() async {
                   ),
                   const SizedBox(height: 20),
                 ],
+                  ),
+                ),
               ),
             );
           }
@@ -971,10 +1693,10 @@ Future<void> _widgetHadisiniGuncelle() async {
         ),
       ),
       appBar: AppBar(
-        title: ValueListenableBuilder<Sehir?>(
-          valueListenable: aktifSehir,
-          builder: (context, sehir, child) => Text(
-            sehir?.ad ?? '...',
+        title: ValueListenableBuilder<Konum?>(
+          valueListenable: aktifKonum,
+          builder: (context, konum, child) => Text(
+            konum?.ad ?? '...',
             style: const TextStyle(fontWeight: FontWeight.bold),
           ),
         ),
@@ -1073,41 +1795,260 @@ Future<void> _widgetHadisiniGuncelle() async {
               // liste çizilmeye çalışılıyor ve `vakitler!['Fajr']` null check
               // hatası verip uygulama kırmızı ekranla ÇÖKÜYORDU. İlk açılışta
               // internetsiz cihazda yani uygulamayı hiç kullanamama durumu.
-              : vakitler == null
+              : _bugun == null
                   ? _hataEkrani(context)
                   : // Column ve Expanded yerine tüm sayfayı tek bir ListView yapıyoruz:
                    ListView(
                       padding: const EdgeInsets.only(bottom: 20), // En alta biraz boşluk
                       children: [
                         const SizedBox(height: 20),
-                        
+
                         _anaSayacKarti(), // Ana Sayaç
+                        _veriKaynagiSeridi(), // Önbellek/ağ + güncelleme zamanı
+                        _diyanetUyarisiSeridi() ?? const SizedBox.shrink(),
+                        _hesapYontemiSeridi(), // Görünür ve doğrulanmış yöntem
                         _gununAyetiKarti(), // Günün Ayeti
                         _gununHadisiKarti(), // Günün Hadisi
-                        
-                        const SizedBox(height: 10), 
-                        
+
+                        const SizedBox(height: 10),
+
                         Padding(
                           padding: const EdgeInsets.only(left: 20, bottom: 10),
                           child: Align(
-                            alignment: Alignment.centerLeft, 
+                            alignment: Alignment.centerLeft,
                             // YENİ: "Bugünün Vakitleri" yazısını çevirdik
                             child: Text("today_times".tr(), style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold, color: Theme.of(context).colorScheme.primary))
                           ),
                         ),
-                        
+
                         // YENİ: Kart isimlerini .tr() ile çeviriyoruz.
                         // siradakiVakitIsmi artık "fajr" gibi döneceği için kıyaslamayı da ona göre yapıyoruz:
-                        _vakitKarti('fajr'.tr(), vakitler!['Fajr'], Icons.nights_stay, siradakiVakitIsmi == 'fajr'),
-                        _vakitKarti('sunrise'.tr(), vakitler!['Sunrise'], Icons.wb_sunny_outlined, siradakiVakitIsmi == 'sunrise'),
-                        _vakitKarti('dhuhr'.tr(), vakitler!['Dhuhr'], Icons.wb_sunny, siradakiVakitIsmi == 'dhuhr'),
-                        _vakitKarti('asr'.tr(), vakitler!['Asr'], Icons.wb_twilight, siradakiVakitIsmi == 'asr'),
-                        _vakitKarti('maghrib'.tr(), vakitler!['Maghrib'], Icons.nightlight_round, siradakiVakitIsmi == 'maghrib'),
-                        _vakitKarti('isha'.tr(), vakitler!['Isha'], Icons.bedtime, siradakiVakitIsmi == 'isha'),
+                        _vakitKarti(_cevir('fajr'), _vakitSaatleri!['fajr'], Icons.nights_stay, siradakiVakitIsmi == 'fajr'),
+                        _vakitKarti(_cevir('sunrise'), _vakitSaatleri!['sunrise'], Icons.wb_sunny_outlined, siradakiVakitIsmi == 'sunrise'),
+                        _vakitKarti(_cevir('dhuhr'), _vakitSaatleri!['dhuhr'], Icons.wb_sunny, siradakiVakitIsmi == 'dhuhr'),
+                        _vakitKarti(_cevir('asr'), _vakitSaatleri!['asr'], Icons.wb_twilight, siradakiVakitIsmi == 'asr'),
+                        _vakitKarti(_cevir('maghrib'), _vakitSaatleri!['maghrib'], Icons.nightlight_round, siradakiVakitIsmi == 'maghrib'),
+                        _vakitKarti(_cevir('isha'), _vakitSaatleri!['isha'], Icons.bedtime, siradakiVakitIsmi == 'isha'),
                       ],
                     ),
                     ),
         ),
+    );
+  }
+
+  /// Verinin nereden geldiğini ve ne zaman tazelendiğini gösteren ince şerit.
+  ///
+  /// Kullanıcı "bu vakitler ne zaman güncellendi?" ve "internetsiz mi
+  /// gösteriyorum?" sorularını cevapsız bırakmamalı. Önceden hiçbir
+  /// göstergesi yoktu: kullanıcı ekranın açılmasının nedenini bilmiyordu.
+  Widget _veriKaynagiSeridi() {
+    final karanlikMi = Theme.of(context).brightness == Brightness.dark;
+    final renk = karanlikMi ? Colors.white38 : Colors.black38;
+
+    // --- RESMÎ DİYANET: etiket kaynağa göre dürüst kalır ---
+    //
+    // "Diyanet" yazısı YALNIZCA gerçekten Diyanet tablosundan bir satır
+    // geldiğinde görünür. Hesaplanmış veride görünmez; onun yerine
+    // hesaplanmış kaynak yazılır. Bu ayrım, kullanıcının ekranda gördüğü
+    // saatin Diyanet'in saatı olup olmadığını bilmesini sağlar.
+    final resmiMi = _kaynak == VakitKaynagi.resmiDiyanet;
+    final paket = _diyanet?.paket;
+    final kaynakEtiketi = resmiMi
+        ? 'Diyanet resmî vakitleri'
+            '${paket == null ? '' : ' (${paket.ilkTarih} – ${paket.sonTarih})'}'
+        : _kaynak == VakitKaynagi.ag
+            ? 'data_source_live'.tr()
+            : 'data_source_cache'.tr();
+
+    final String zamanMetni;
+    if (resmiMi) {
+      // Resmî veri uygulamanın içindedir; "şimdi güncellendi" gibi bir
+      // zaman damgası YANLIŞ olur. Paket sürümü dürüst bilgidir.
+      zamanMetni = paket == null
+          ? 'data_source_unknown'.tr()
+          : 'sürüm ${paket.surum} · alındı ${paket.edinmeTarihi}';
+    } else {
+      final ozet = _ozetVeri;
+      if (ozet == null) {
+        zamanMetni = 'data_source_unknown'.tr();
+      } else {
+        final fark = DateTime.now().difference(ozet.indirildi);
+        zamanMetni = fark.inMinutes < 1
+            ? 'data_updated_now'.tr()
+            : fark.inHours < 1
+                ? 'data_updated_minutes'.tr(args: ['${fark.inMinutes}'])
+                : fark.inDays < 1
+                    ? 'data_updated_hours'.tr(args: ['${fark.inHours}'])
+                    : 'data_updated_days'.tr(args: ['${fark.inDays}']);
+      }
+    }
+
+    return Padding(
+      padding: const EdgeInsets.fromLTRB(20, 6, 20, 0),
+      child: Row(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          Icon(
+            resmiMi
+                ? Icons.verified_outlined
+                : _kaynak == VakitKaynagi.ag
+                    ? Icons.cloud_done_outlined
+                    : Icons.offline_bolt_outlined,
+            size: 14,
+            color: resmiMi
+                ? (karanlikMi ? Colors.tealAccent : Colors.teal.shade700)
+                : renk,
+          ),
+          const SizedBox(width: 6),
+          Flexible(
+            child: Text(
+              '$kaynakEtiketi · $zamanMetni',
+              style: TextStyle(fontSize: 11, color: resmiMi ? renk : renk),
+              textAlign: TextAlign.center,
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  /// Resmî veri neden kullanılmadı? Kullanıcıya AÇIKÇA söyler.
+  ///
+  /// Bu şerit "Diyanet" etiketi taşımaz. Kapsam dışı ya da paketteki
+  /// boşlukta vakitler GÖSTERİLMEZ; yerleşimin resmî kaydı yoksa
+  /// hesaplanmış saatler gösterilir ama kaynak "hesaplanmış" olarak yazılır.
+  Widget? _diyanetUyarisiSeridi() {
+    if (diyanetUyarisi.isEmpty) return null;
+    final karanlikMi = Theme.of(context).brightness == Brightness.dark;
+    return Container(
+      margin: const EdgeInsets.fromLTRB(20, 8, 20, 0),
+      padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 10),
+      decoration: BoxDecoration(
+        color: Colors.orange.withValues(alpha: karanlikMi ? 0.18 : 0.12),
+        borderRadius: BorderRadius.circular(10),
+        border: Border.all(color: Colors.orange.withValues(alpha: 0.5)),
+      ),
+      child: Row(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          const Icon(Icons.info_outline, size: 16, color: Colors.orange),
+          const SizedBox(width: 8),
+          Expanded(
+            child: Text(
+              diyanetUyarisi,
+              style: TextStyle(fontSize: 11.5, color: karanlikMi
+                  ? Colors.orange.shade100
+                  : Colors.orange.shade900),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  /// Hesaplama yöntemini AÇIKÇA gösterir.
+  ///
+  /// Otomatik modda sağlayıcının gerçekte neyi seçtiği (`meta.method.id`)
+  /// gösterilir. Bu, "resmî yöntem" iddiasında bulunmadan kullanıcının
+  /// hangi hesapla vakitlerin geldiğini bilmesini sağlar.
+  ///
+  /// Yüksek enlem ve Asr ayarları da gizli varsayılan olarak bırakılmaz.
+  Widget _hesapYontemiSeridi() {
+    final karanlikMi = Theme.of(context).brightness == Brightness.dark;
+    final renk = karanlikMi ? Colors.white38 : Colors.black38;
+    final konum = _konum;
+    if (konum == null) return const SizedBox.shrink();
+
+    final yontemMetni = konum.yontemId == null
+        // Otomatik mod: Aladhan'ın seçtiği yöntem gösterilir.
+        ? 'method_auto_with_result'.tr(
+            args: [yontemAdi(_donenYontemId) ?? 'method_auto'.tr()])
+        : (yontemAdi(konum.yontemId) ?? '${konum.yontemId}');
+
+    return Padding(
+      padding: const EdgeInsets.fromLTRB(20, 4, 20, 0),
+      child: Column(
+        children: [
+          Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              Icon(Icons.calculate_outlined, size: 14, color: renk),
+              const SizedBox(width: 6),
+              Flexible(
+                child: Text(
+                  yontemMetni,
+                  style: TextStyle(fontSize: 11, color: renk),
+                  textAlign: TextAlign.center,
+                ),
+              ),
+            ],
+          ),
+          // Yüksek enlem ayarı sessiz varsayım olarak kalmasın.
+          if (konum.enlem.abs() >= 48)
+            Padding(
+              padding: const EdgeInsets.only(top: 2),
+              child: Text(
+                'high_latency_setting'.tr(args: [konum.yuksekEnlemAyaru.ad]),
+                style: TextStyle(fontSize: 10, color: renk),
+                textAlign: TextAlign.center,
+              ),
+            ),
+          // RESMÎ MODDA HESAPLAMA AYARLARI UYGULANMAZ — nedeni yazılır.
+          //
+          // Kullanıcı Asr ya da yüksek enlem ayarını değiştirdiğinde
+          // vakitlerin DEĞİŞMEDİĞINI görecektir. Bu bir hata gibi görünür;
+          // o yüzden nedeni ekranda açıkça söylenir: resmî tabloda bu
+          // ayarların karşılığı yoktur, Diyanet tek tablo yayımlar.
+          if (_kaynak == VakitKaynagi.resmiDiyanet)
+            Padding(
+              padding: const EdgeInsets.only(top: 2),
+              child: Text(
+                'Resmî Diyanet tablosu Asr ve yüksek enlem ayarını içermez; '
+                'bu ayarlar bu ekranda vakitleri değiştirmez.',
+                style: TextStyle(fontSize: 10, color: renk),
+                textAlign: TextAlign.center,
+              ),
+            ),
+          // Bildirim durumu uyarısı. HANGİ durumun olduğu motorun kararıdır
+          // (`_bildirimUyarisi`); burada yalnız metni çizilir.
+          //
+          // Önceden yalnız `_tamZamanliAlarm` denetleniyordu ve TEK sabit metin
+          // çiziliyordu: "tam zamanlı alarm izni yok — bildirimler yaklaşık
+          // zamanlı gelir". Kurulum tamamen başarısız olduğunda HİÇBİR alarm
+          // kurulmaz ama aynı metin çıkardı; kullanıcı bildirimlerin geleceğini
+          // sanıyordu. Artık kurulum hatası ile iptal hatası AYRI gösterilir
+          // ve hiçbiri teslim vaadi vermez.
+          if (_bildirimUyarisi != null)
+            Padding(
+              padding: const EdgeInsets.only(top: 4),
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  // Kurulum/iptal hatası "sadece bir kısıt" değil, kullanıcının
+                  // vakit bildirimlerini kaçırabileceği gerçek bir sorundur.
+                  Icon(Icons.warning_amber_rounded,
+                      size: 14,
+                      color: _bildirimUyarisi == 'exact_alarm_yok'
+                          ? Colors.orange.shade700
+                          : Colors.redAccent.shade700),
+                  const SizedBox(width: 6),
+                  Flexible(
+                    child: Text(
+                      _bildirimUyarisiMetni ?? '',
+                      style: TextStyle(
+                          fontSize: 11,
+                          color: _bildirimUyarisi == 'exact_alarm_yok'
+                              ? Colors.orange.shade800
+                              : Colors.red.shade800,
+                          fontWeight: FontWeight.w600),
+                      textAlign: TextAlign.center,
+                    ),
+                  ),
+                ],
+              ),
+            ),
+        ],
+      ),
     );
   }
 
@@ -1155,6 +2096,45 @@ Future<void> _widgetHadisiniGuncelle() async {
               color: karanlikMi ? Colors.white60 : Colors.black54,
             ),
           ),
+          // REDDEDİLEN CEVABIN GEREKÇESİ
+          //
+          // Önceden reddedilen cevap sessizce kayboluyordu: ekranda
+          // yalnız "veri yüklenemedi" yazıyordu, kullanıcı nedenini
+          // bilmiyordu. Burada gerekçe ve varsa teknik ayrıntı gösterilir.
+          if (_sonHata != null) ...[
+            const SizedBox(height: 14),
+            Container(
+              padding: const EdgeInsets.all(12),
+              decoration: BoxDecoration(
+                color: karanlikMi ? Colors.white10 : Colors.black12,
+                borderRadius: BorderRadius.circular(8),
+              ),
+              child: Column(
+                children: [
+                  Text(
+                    _sonHataSebebiMetni(),
+                    textAlign: TextAlign.center,
+                    style: TextStyle(
+                      fontSize: 12,
+                      fontWeight: FontWeight.w600,
+                      color: karanlikMi ? Colors.white70 : Colors.black87,
+                    ),
+                  ),
+                  if (_sonHata!.ayrinti != null) ...[
+                    const SizedBox(height: 4),
+                    Text(
+                      _sonHata!.ayrinti!,
+                      textAlign: TextAlign.center,
+                      style: TextStyle(
+                        fontSize: 10,
+                        color: karanlikMi ? Colors.white38 : Colors.black45,
+                      ),
+                    ),
+                  ],
+                ],
+              ),
+            ),
+          ],
           const SizedBox(height: 28),
           FilledButton.icon(
             onPressed: _yenidenDene,
@@ -1166,12 +2146,39 @@ Future<void> _widgetHadisiniGuncelle() async {
     );
   }
 
+  /// Reddedilen cevabin gerekcesini kullanici diline cevirir.
+  ///
+  /// Kullanici "veri neden yuklenmedi" sorusunun cevabini gormelidir;
+  /// aksi halde uygulama sebebi gizliyor olur.
+  String _sonHataSebebiMetni() {
+    return switch (_sonHata!.sebep) {
+      RedSebebi.httpHatasi => 'reject_http'.tr(),
+      RedSebebi.mantiksalHata => 'reject_logic'.tr(),
+      RedSebebi.veriYok => 'reject_empty'.tr(),
+      RedSebebi.tarihAyligiBozuk => 'reject_date_broken'.tr(),
+      RedSebebi.ayYilBesiIlMi => 'reject_month_mismatch'.tr(),
+      RedSebebi.koordinatBesiIlMi => 'reject_coords_mismatch'.tr(),
+      RedSebebi.saatDilimiYok => 'reject_tz_missing'.tr(),
+      RedSebebi.saatDilimiCozulemedi => 'reject_tz_unknown'.tr(),
+      RedSebebi.yontemBesiIlMi => 'reject_method_mismatch'.tr(),
+      RedSebebi.vakitAlaniEksik => 'reject_field_missing'.tr(),
+      RedSebebi.saatBicimiBozuk => 'reject_time_format'.tr(),
+      RedSebebi.saatAralikBozuk => 'reject_time_range'.tr(),
+      RedSebebi.sifirSaat => 'reject_zero_time'.tr(),
+      RedSebebi.gunBulunamadi => 'reject_day_missing'.tr(),
+    };
+  }
+
   /// "Tekrar dene" düğmesi: önceki hata mesajını temizleyip vakitleri yeniden
   /// çeker. `vakitleriGetir` yüklenme durumunu kendi yönetir.
   Future<void> _yenidenDene() async {
     if (!mounted) return;
-    setState(() { hataMesaji = ''; });
-    await vakitleriGetir();
+    setState(() {
+      hataMesaji = '';
+      _sonHata = null;
+    });
+    if (_yuklenenJeton != null) return;
+    await _verileriYukle();
   }
 
   Widget _anaSayacKarti() {
@@ -1390,4 +2397,18 @@ class AnaSayfa extends StatefulWidget {
 
   @override
   State<AnaSayfa> createState() => _AnaSayfaState();
+}
+/// Yasam dongusu gozlemcisi.
+///
+/// `didChangeAppLifecycleState` uygulamanin arka plandan one
+/// gelmesini bildirir. Bu State'e baglanir ve `dispose` icinde
+/// kaldirilir; birakildigi surece State sizdirir.
+class _Gozlemci extends WidgetsBindingObserver {
+  _Gozlemci(this._durum);
+  final _AnaSayfaState _durum;
+
+  @override
+  void didChangeAppLifecycleState(AppLifecycleState durum) {
+    _durum.yasamDongusuDurumuDegisti(durum);
+  }
 }
