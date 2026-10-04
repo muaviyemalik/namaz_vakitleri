@@ -96,9 +96,8 @@ class DiyanetPaketi {
 
   /// Paketin İÇİNDEKİ boşluklar (başlangıç..bitiş, gün sayısıyla).
   ///
-  /// 2026-10-03 alındığında 2026-11-03..2026-12-31 arası resmî kaynakta
-  /// YOKTUR. Bu aralık "ileride" değil, paketin ortasındadır; bu yüzden
-  /// ayrıca tutulur ve `kapsar` yalnız geniş aralığa bakar.
+  /// İlk paketteki 2026 boşluğu 4 Ekim arşiv aktarımıyla kapatıldı.
+  /// Gelecek paketlerde boşluk varsa geniş tarih aralığından ayrı tutulur.
   final List<DiyanetBosluk> bosluklar;
 
   final int ilSayisi;

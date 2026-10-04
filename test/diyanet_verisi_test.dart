@@ -5,7 +5,7 @@
 // "aynı yanlış veriyi hem beklenen hem gerçek kabul eden" test yoktur.
 //
 // RİSK 1 — EKSİK/TEKRAR
-//   Paket 396 gün iddia ediyor. Her yerleşimde aynı aralık olmalı, hiçbir
+//   Paket 730 gün iddia ediyor. Her yerleşimde aynı aralık olmalı, hiçbir
 //   tarih TEKRARlanmamalı ve kayıtlı boşluklar gerçekten boşluk olmalı.
 //
 // RİSK 2 — YERLEŞİM EŞLEŞMESİ
@@ -22,9 +22,8 @@
 //   tutarlı" diye bir şeyi kanıtlamaz — kaynakla birebirliği kanıtlar.
 //
 // KAPSAM DIŞI TARİHLER
-//   Paketin dışındaki günler (2028) ve paketteki boşluk (2026-11-03…
-//   2026-12-31) için sonuç `null` DEĞİLDİR: durum ayrı bildirilir. Test,
-//   bu iki durumun da "veriVar" OLMADIĞINI doğrular.
+//   2026 arşiviyle eski boşluk kapandı. 2025 ve 2028 kapsam dışında
+//   kalır; tarihler hesaplanarak veya başka yıldan kopyalanarak doldurulmaz.
 
 import 'dart:convert';
 import 'dart:io';
@@ -303,17 +302,23 @@ void main() {
       expect(sonuc.durum.resmiVeriMi, isFalse);
     });
 
-    test('2026-11-15 paketteki boşluktur: veriVar OLMAMALI', () async {
-      // 2026-11-03..2026-12-31 arası resmî kaynakta YOK. Boşluğu
-      // hesaplayarak/kopyalayarak doldurmak yasak; sonuç açıkça bildirilir.
-      final sonuc = await sor(9206, 'TR/ankara.txt', DateTime(2026, 11, 15));
-      expect(sonuc.durum, DiyanetDurum.paketBosluk);
-      expect(sonuc.gun, isNull, reason: 'boşluk hesaplanarak doldurulmamalı');
-      expect(sonuc.durum.resmiVeriMi, isFalse);
+    test('2026 arşivi eski boşluğu ve yıl sınırlarını kapsar', () async {
+      for (final gun in [
+        DateTime(2026, 1, 1),
+        DateTime(2026, 10, 2),
+        DateTime(2026, 11, 3),
+        DateTime(2026, 11, 15),
+        DateTime(2026, 12, 31),
+      ]) {
+        final sonuc = await sor(9206, 'TR/ankara.txt', gun);
+        expect(sonuc.durum, DiyanetDurum.veriVar);
+        expect(sonuc.gun, isNotNull);
+      }
+      expect(paketi().bosluklar, isEmpty);
     });
 
     test('paketin ilk gününden öncesi kapsam dışıdır', () async {
-      final sonuc = await sor(9206, 'TR/ankara.txt', DateTime(2026, 10, 2));
+      final sonuc = await sor(9206, 'TR/ankara.txt', DateTime(2025, 12, 31));
       expect(sonuc.durum, DiyanetDurum.kapsamBitti);
       expect(sonuc.gun, isNull);
     });
