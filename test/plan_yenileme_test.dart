@@ -89,14 +89,29 @@ void main() {
   setUpAll(tzdata.initializeTimeZones);
   setUp(() => SharedPreferences.setMockInitialValues({}));
   test('last hour of a 25-hour DST day still schedules its actual prayer', () {
-    final d = VakitGunu(yil: 2026, ay: 11, gun: 1, hicriTarih: '',
-      saatler: {...times, 'isha': '23:30'}, saatDilimi: ny.saatDilimi, cevapYontemId: 2);
+    final d = VakitGunu(
+      yil: 2026,
+      ay: 11,
+      gun: 1,
+      hicriTarih: '',
+      saatler: {...times, 'isha': '23:30'},
+      saatDilimi: ny.saatDilimi,
+      cevapYontemId: 2,
+    );
     final s = SabitSaat(DateTime.utc(2026, 11, 2, 4, 15));
-    final p = const BildirimPlanlayici(gunSiniri: 30).planla(konum: ny,
-      sehirSaati: SehirSaati(konum: ny, saat: s), gunler: [d],
-      erkenUyariDakika: 0, gunesDogumuBildirimiAcik: false, cevir: (s) => s);
+    final p = const BildirimPlanlayici(gunSiniri: 30).planla(
+      konum: ny,
+      sehirSaati: SehirSaati(konum: ny, saat: s),
+      gunler: [d],
+      erkenUyariDakika: 0,
+      gunesDogumuBildirimiAcik: false,
+      cevir: (s) => s,
+    );
     expect(p.bildirimler.single.vakitAnahtari, 'isha');
-    expect(p.bildirimler.single.zaman.toUtc(), DateTime.utc(2026, 11, 2, 4, 30));
+    expect(
+      p.bildirimler.single.zaman.toUtc(),
+      DateTime.utc(2026, 11, 2, 4, 30),
+    );
   });
   KayanVakitKaynak kaynak(Saat s, http.Client client) => KayanVakitKaynak(
     saat: s,
@@ -137,6 +152,49 @@ void main() {
         );
     expect(d.gelecekGunler.last.saatler, canonical.gun!.saatler);
   });
+
+  test(
+    'Turkey renewal repairs foreign zone before selecting the civil day',
+    () async {
+      const k = Konum(
+        ad: 'Ankara',
+        ulkeIso2: 'TR',
+        enlem: 39.9,
+        boylam: 32.8,
+        saatDilimi: 'Asia/Shanghai',
+        diyanetCityId: 9206,
+        diyanetParca: 'TR/ankara.txt',
+      );
+      final client = MockClient(
+        (_) async => throw const SocketException('offline'),
+      );
+      final s = SabitSaat(DateTime.utc(2026, 10, 31, 20));
+      final d = await kaynak(s, client).oku(k, resmi: true);
+      expect(d.konum.saatDilimi, 'Europe/Istanbul');
+      expect(d.bugun!.tarih, DateTime(2026, 10, 31));
+      final plan = const BildirimPlanlayici().planla(
+        konum: d.konum,
+        sehirSaati: SehirSaati(konum: d.konum, saat: s),
+        gunler: d.gelecekGunler,
+        erkenUyariDakika: 30,
+        gunesDogumuBildirimiAcik: false,
+        cevir: (a) => a,
+      );
+      final fajr = plan.bildirimler.firstWhere(
+        (b) => b.vakitAnahtari == 'fajr' && b.tur == BildirimTuru.vakit,
+      );
+      final g = d.gelecekGunler.firstWhere(
+        (g) => g.tarih == DateTime(2026, 11, 1),
+      );
+      expect(
+        fajr.zaman.toUtc(),
+        SehirSaati(
+          konum: d.konum,
+          saat: s,
+        ).duvarSaati(g.saatler['fajr']!, tarih: g.tarih)!.toUtc(),
+      );
+    },
+  );
 
   test(
     'international window spans three months and keeps selected calculation settings',

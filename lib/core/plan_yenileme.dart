@@ -36,6 +36,9 @@ class KayanVakitKaynak {
   static const gunSayisi = 30;
 
   Future<VakitDurumu> oku(Konum konum, {required bool resmi}) async {
+    if (resmi && konum.ulkeIso2 == 'TR' && konum.diyanetCityId != null) {
+      konum = konum.kopyala(saatDilimi: kTurkiyeSaatDilimi);
+    }
     final tarih = SehirSaati(konum: konum, saat: saat).bugun();
     if (tarih == null) {
       throw const FormatException('Unknown selected-city timezone');
@@ -198,7 +201,9 @@ Future<void> arkaPlanYenile() async {
     final raw = await planYenilemeKanali.invokeMethod<String>('context');
     final p = jsonDecode(raw!) as Map<String, dynamic>;
     final config = p['renewal'] as Map<String, dynamic>;
-    final k = yenilemeKonumu(config['location'] as Map<String, dynamic>);
+    final istenenKonum = yenilemeKonumu(
+      config['location'] as Map<String, dynamic>,
+    );
     final h = await SharedPreferences.getInstance();
     await h.reload();
     await DilKatalogu.yukle();
@@ -209,10 +214,11 @@ Future<void> arkaPlanYenile() async {
       diyanet: DiyanetDepo(),
       resmiAg: DiyanetGuncelDepo(istemci: istemci),
       istemci: istemci,
-    ).oku(k, resmi: config['official'] == true);
+    ).oku(istenenKonum, resmi: config['official'] == true);
     if (!veri.basariliMi) {
       throw const FormatException('No valid current-day coverage');
     }
+    final k = veri.konum;
     final dil = p['language'] as String;
     final metin =
         jsonDecode(await rootBundle.loadString('assets/i18n/ceviri/$dil.json'))

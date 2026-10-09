@@ -847,9 +847,9 @@ Future<void> _hedefKaydet(int deger) async {
       Konum konum, DateTime tarih, int jeton) async {
     _sonResmiDeneme = uygulamaSaati.simdi();
     _resmiAg = null;
-    // Resmî TR tablosunun dilimi bilinir. Ağ yolu bunu kesinleştiriyordu;
-    // gömülü yolda boş/bozuk dilim sayaç ve widget UTC akışını durduruyordu.
-    if (uygulamaSaati.konumBul(konum.saatDilimi) == null) {
+    // Resmî TR tablosunun dilimi bilinir. Önceki şehirden kalabilen
+    // geçerli ama yanlış dilim de sayaç/widget/alarmlar için düzeltilir.
+    if (konum.saatDilimi != kTurkiyeSaatDilimi) {
       await _saatDiliminiIsle(konum, kTurkiyeSaatDilimi);
       if (!mounted || jeton != _istekJetonu) return _YuklemeSonucu.iptal;
       konum = _konum!;

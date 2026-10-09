@@ -166,7 +166,13 @@ void main() {
     });
   });
 
-  for (final dilim in ['', 'Invalid/Zone', 'gece-yarisi', 'Europe/Istanbul']) {
+  for (final dilim in [
+    '',
+    'Invalid/Zone',
+    'gece-yarisi',
+    'Europe/Istanbul',
+    'Asia/Shanghai',
+  ]) {
     testWidgets(
       'gömülü kaynak dilimi kesinleştirir; sayaç, widget ve bildirim işler: $dilim',
       (tester) async {

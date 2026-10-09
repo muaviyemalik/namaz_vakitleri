@@ -147,10 +147,14 @@ Son güncelleme: 9 Ekim 2026. Asıl mimari ARCHITECTURE.md; ayrıntı görev rap
   `cmd jobscheduler run` denemeleri cihazın "Restricted due to: thermal" (Thermal
   Status 2) kısıtı nedeniyle başlatılmadı; bu cihaz kararı, kod kusuru değil.
 - Zorla durdur (force-stop) işleri de temizler; kullanıcı bilgilendirildi. Commit/push yok.
-## 9 Ekim açık GPS hatası ve checkpoint
-- Çin → Türkiye → Konumu kullan: tablo doğru, sayaç yaklaşık 5 saat erken; 10:45 civarı yanlış ikindi erken uyarısı. Yeniden açılış çözmedi, elle Ankara çözdü.
-- Önceki UTC+8 diliminin GPS yolunda kalması şüphe; kök neden doğrulanmadı. Eski alarm iptali ayrıca kontrol edilecek. Bu checkpoint hatayı çözmez.
-- Bu tur yalnız Git kaydı/belgeleme; mevcut 8 Ekim test/cihaz kanıtları kullanıldı, testler yeniden çalıştırılmadı.
+## 9 Ekim GPS saat dilimi — düzeltildi, AVD doğrulandı
+- GPS düzeltmesi 9 Ekim Git checkpoint kapsamında; dal fix/diyanet-2026-archive. Güncel HEAD için git rev-parse HEAD kullan; önceki checkpoint db5c053.
+- v2 dilim anahtarı ülke/koordinat/hesap; eski ortak dilim taşınmaz, aylık cache korunur.
+- Resmî TR seçim/ekran/kayan plan Europe/Istanbul; headless tüketiciler kanonik dönen konumu kullanır.
+- 43 hedefli PASS; analiz 0 hata/uyarı, main'de 2 mevcut info. Debug APK emulator-5554'e kuruldu.
+- Çin→gerçek GPS Ankara ve kalıcı yanlış Ankara dilimi→yeniden açılış geçti. Widget İstanbul;
+  31 native alarm ve 31 erken uyarı kanonik UTC/vakit−30dk ile birebir. POCO'ya dokunulmadı.
+- Ayrıntı docs/2026-10-09-gps-saat-dilimi.md; fiziksel POCO/Doze/reboot/sesli teslim sonraki kapsam.
 ## Önceki işler ve açık sınırlar
 - Türkiye varsayılan gömülü resmî → aynı CityID güncel resmî HTTPS → doğrulanmış
   Aladhan ağ/cache; hesaplanmış etiketli. Resmî dönünce açık/resumed ekranda geri dönüş.

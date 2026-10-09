@@ -263,7 +263,9 @@ Future<void> konumAyarla(Sehir sehir, {int? secimSurumu, String? ulke,
     ulkeIso2: ulkeKodu,
     enlem: sehir.enlem,
     boylam: sehir.boylam,
-    saatDilimi: kayitliTz ?? '',
+    saatDilimi: ulkeKodu == 'TR' && aktifResmiDiyanet.value && kimlik.cityId != null
+        ? kTurkiyeSaatDilimi
+        : kayitliTz ?? '',
     yontemId: aktifHesaplamaYontemi.value,
     asrYontemi: AsrYontemi.values.byName(
         aktifAsrYontemi.value.name),
