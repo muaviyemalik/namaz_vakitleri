@@ -156,7 +156,8 @@ void main() {
     );
     await internetYokken(() async {
       await ac(tester, saat, resmi, yil: 2026);
-      expect(find.textContaining('Diyanet resmî vakitleri'), findsOneWidget);
+      expect(find.textContaining('Diyanet resmî vakitleri ('), findsOneWidget);
+      expect(find.text('Diyanet resmî vakitleri'), findsOneWidget);
       expect(find.textContaining('{surum}'), findsNothing);
       expect(find.textContaining('{tarih}'), findsNothing);
       expect(find.textContaining('00:00:00.000'), findsNothing);

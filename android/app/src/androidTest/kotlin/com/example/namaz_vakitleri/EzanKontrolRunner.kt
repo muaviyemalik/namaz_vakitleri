@@ -16,7 +16,8 @@ class EzanKontrolRunner : Instrumentation() {
     private var widgetTest = false
     private var widgetHost = false
     private var renewalTest = false
-    override fun onCreate(arguments: Bundle?) { super.onCreate(arguments); renewalTest = arguments?.getString("renewal") == "true"; widgetTest = arguments?.getString("widget") in listOf("true", "host"); widgetHost = arguments?.getString("widget") == "host"; start() }
+    private var emulatorArgs: Bundle? = null
+    override fun onCreate(arguments: Bundle?) { super.onCreate(arguments); emulatorArgs = arguments?.takeIf { it.containsKey("emulator") }; renewalTest = arguments?.getString("renewal") == "true"; widgetTest = arguments?.getString("widget") in listOf("true", "host"); widgetHost = arguments?.getString("widget") == "host"; start() }
     private fun shell(command: String) {
         uiAutomation.executeShellCommand(command).use { fd ->
             java.io.FileInputStream(fd.fileDescriptor).readBytes()
@@ -42,6 +43,11 @@ class EzanKontrolRunner : Instrumentation() {
         failure?.let { throw it }
     }
     override fun onStart() {
+        emulatorArgs?.let { args ->
+            try { finish(-1, Bundle().apply { putString("stream", "\n" + EmulatorKontrol.run(this@EzanKontrolRunner, args)) }) }
+            catch(e: Throwable) { finish(0, Bundle().apply { putString("stream", "FAIL " + android.util.Log.getStackTraceString(e)) }) }
+            return
+        }
         if (renewalTest) {
             try { finish(-1, Bundle().apply { putString("stream", "\n" + PlanKontrol.run(this@EzanKontrolRunner)) }) }
             catch(e: Throwable) { finish(0, Bundle().apply { putString("stream", "FAIL " + android.util.Log.getStackTraceString(e)) }) }

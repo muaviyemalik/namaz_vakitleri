@@ -1,5 +1,12 @@
 # AI devir — güncel çalışma belleği
 Son güncelleme: 9 Ekim 2026. Asıl mimari ARCHITECTURE.md; ayrıntı görev raporlarında.
+- Son çeviri/AVD test araçları önce doğrulandı; kullanıcı talimatıyla fix/diyanet-2026-archive → main birleştirme kapsamındadır. Tarihsel commit/push yok kayıtları önceki oturumlara aittir.
+## 9 Ekim AVD arka plan/UI doğrulaması
+- HEAD4c839f7, Medium_Phone Android17: ekran kapalı ezan PLAYING/FGS; deep Doze bildirim; gerçek reboot sonrası Activity açmadan alarm teslimi PASS.
+- Altı ses decode PASS. Eski runner ringer silent FAIL; sonraki DND/ses kısma koşulları bu tur doğrulanmadı.
+- Font180% Türkçe/İngilizce ana ekran ve Arapça RTL zikir/ayar/bildirim ayarlarında görünür taşma yok; tüm dil/ekran matrisi değil. İngilizce sabit Türkçe başlık kaynak_diyanet çevirisine bağlandı; 7 kaynak+10 çeviri PASS, yeni APK AVD EN başlığı doğrulandı.
+- Tercihler/şehir/sayaç/ezan ayarları korundu, font1.0/idle normal, test APK kaldırıldı; POCO kullanılmadı.
+- Yalnız androidTest runner genişletildi; commit/push yok. Doze sesli ezan/plugin erken uyarı teslimi ve doğal uzun idle/OEM/iOS açık. Kanıt docs/2026-10-09-avd-arka-plan.md.
 ## 9 Ekim zikirmatik hedef düzeltmesi
 - Hedef menüsünde {sayi} namedArgs ile doldurulur; altı sayı ve seçili hedef çevrilir.
 - Dokunma/ses düğmesi aynı artış yolunda; yalnız açık panelde sayar ve panel anında güncellenir.

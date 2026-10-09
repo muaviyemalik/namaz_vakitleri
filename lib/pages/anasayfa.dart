@@ -2026,7 +2026,7 @@ Future<void> _hedefKaydet(int deger) async {
     final konum = _konum;
     if (konum == null) return const SizedBox.shrink();
 
-    final yontemMetni = _resmiKaynak ? 'Resmî Diyanet tablosu' : konum.yontemId == null
+    final yontemMetni = _resmiKaynak ? 'kaynak_diyanet'.tr() : konum.yontemId == null
         // Otomatik mod: Aladhan'ın seçtiği yöntem gösterilir.
         ? 'method_auto_with_result'.tr(
             args: [yontemAdi(_donenYontemId) ?? 'method_auto'.tr()])
