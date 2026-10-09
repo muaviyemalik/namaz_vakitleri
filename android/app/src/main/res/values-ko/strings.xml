@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- UYGULAMA ADI, WIDGET BASLIKLARI VE YEDEK METERI. -->
+<!-- Es zamanli: assets/i18n/ceviri/<dil>.json icindeki ayni
+     anahtarlardan uretilir. Iki taraf ayri ayri degistirilirse
+     widget metni ile ceviri dosyasi uyusmaz. -->
+<resources>
+    <string name="app_name">기도 시간</string>
+    <string name="widget_ayet_acilis">구절을 갱신하려면 앱을 한 번 열어 주세요.</string>
+    <string name="widget_ayet_baslik">오늘의 아야</string>
+    <string name="widget_ayet_bulunamadi">구절을 찾을 수 없습니다. 앱을 열어 주세요.</string>
+    <string name="widget_hadis_acilis">하디스를 갱신하려면 앱을 한 번 열어 주세요.</string>
+    <string name="widget_hadis_baslik">오늘의 하디스</string>
+    <string name="widget_hadis_bulunamadi">하디스를 찾을 수 없습니다. 앱을 열어 주세요.</string>
+    <string name="widget_vakit_acilis">앱을 열어 주세요</string>
+    <string name="widget_vakit_baslik">다음 기도</string>
+    <string name="widget_vakit_bekleniyor">예배 시간을 기다리는 중</string>
+    <string name="ezan_stop">아잔 중지</string>
+    <string name="widget_gunluk_baslik">오늘의 시간</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- UYGULAMA ADI, WIDGET BASLIKLARI VE YEDEK METERI. -->
+<!-- Es zamanli: assets/i18n/ceviri/<dil>.json icindeki ayni
+     anahtarlardan uretilir. Iki taraf ayri ayri degistirilirse
+     widget metni ile ceviri dosyasi uyusmaz. -->
+<resources>
+    <string name="app_name">Ora rugăciunii</string>
+    <string name="widget_ayet_acilis">Deschide aplicația o dată pentru a actualiza versetul.</string>
+    <string name="widget_ayet_baslik">Ayahul zilei</string>
+    <string name="widget_ayet_bulunamadi">Versetul nu a fost găsit. Deschide aplicația.</string>
+    <string name="widget_hadis_acilis">Deschide aplicația o dată pentru a actualiza hadisul.</string>
+    <string name="widget_hadis_baslik">Hadithul zilei</string>
+    <string name="widget_hadis_bulunamadi">Hadisul nu a fost găsit. Deschide aplicația.</string>
+    <string name="widget_vakit_acilis">Deschide aplicația</string>
+    <string name="widget_vakit_baslik">Următoarea rugăciune</string>
+    <string name="widget_vakit_bekleniyor">Se așteaptă ora rugăciunii</string>
+    <string name="ezan_stop">Oprește adhan</string>
+    <string name="widget_gunluk_baslik">Orele de Astăzi</string>
+</resources>

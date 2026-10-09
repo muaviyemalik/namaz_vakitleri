@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- UYGULAMA ADI, WIDGET BASLIKLARI VE YEDEK METERI. -->
+<!-- Es zamanli: assets/i18n/ceviri/<dil>.json icindeki ayni
+     anahtarlardan uretilir. Iki taraf ayri ayri degistirilirse
+     widget metni ile ceviri dosyasi uyusmaz. -->
+<resources>
+    <string name="app_name">Thời gian cầu nguyện</string>
+    <string name="widget_ayet_acilis">Mở ứng dụng một lần để cập nhật câu kinh.</string>
+    <string name="widget_ayet_baslik">Câu Kinh trong ngày</string>
+    <string name="widget_ayet_bulunamadi">Không tìm thấy câu kinh. Vui lòng mở ứng dụng.</string>
+    <string name="widget_hadis_acilis">Mở ứng dụng một lần để cập nhật câu đại.</string>
+    <string name="widget_hadis_baslik">Câu truyện trong ngày</string>
+    <string name="widget_hadis_bulunamadi">Không tìm thấy câu đại. Vui lòng mở ứng dụng.</string>
+    <string name="widget_vakit_acilis">Vui lòng mở ứng dụng</string>
+    <string name="widget_vakit_baslik">Lần cầu nguyện tiếp theo</string>
+    <string name="widget_vakit_bekleniyor">Đang chờ giờ cầu</string>
+    <string name="ezan_stop">Dừng azan</string>
+    <string name="widget_gunluk_baslik">Thời gian hôm nay</string>
+</resources>

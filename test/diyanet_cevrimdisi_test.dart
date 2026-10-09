@@ -12,8 +12,8 @@
 //      aynıdır (kendi kendine karşılaştırma değil; paket ayrıştırıcısının
 //      çıktısı ekrandaki metinle karşılaştırılır).
 //
-//   3) Resmî kapsam dışıysa ekran SAAT GÖSTERMEZ. Yani kapsam bitince
-//      hesaplanmış saate sessizce düşülmez; kullanıcıya durum bildirilir.
+//   3) Kapsam dışında resmî web ve doğrulanmış hesaplanmış kaynaklar
+//      denenir. Kaynak zincirinin fallback/geri dönüşü kaynak_zinciri_test'te.
 
 import 'dart:convert';
 import 'dart:io';
@@ -131,7 +131,7 @@ void main() {
       expect(find.text(beklenen), findsWidgets,
           reason: 'resmî İmsak saati ($beklenen) ekranda olmalı');
     } else {
-      // Kapsam dışı / boşluk: saat GÖSTERİLMEZ. Hesaplanmış saate düşülmez.
+      // Bu testte ağ engelli ve hesaplanmış önbellek boş: saat bulunamaz.
       expect(resmiImsak(9206, bugun), isEmpty,
           reason: 'bu gün pakette olmamalı');
       expect(find.textContaining('Diyanet'), findsWidgets,

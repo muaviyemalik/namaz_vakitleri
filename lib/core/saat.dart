@@ -20,6 +20,7 @@
 // yarısı", "yıl sonu", "yaz saati geçişi" senaryoları gerçek saate
 // bağlı olmadan test edilir.
 
+import 'package:easy_localization/easy_localization.dart';
 import 'package:timezone/timezone.dart' as tz;
 
 /// Zaman sağlayıcı.
@@ -318,7 +319,7 @@ class Konum {
     required this.saatDilimi,
     this.yontemId,
     this.asrYontemi = AsrYontemi.standart,
-    this.yuksekEnlemAyaru = YuksekEnlemAyaru.orta,
+    this.yuksekEnlemAyaru = YuksekEnlemAyaru.geceninYarisi,
     this.il = '',
     this.diyanetCityId,
     this.diyanetParca,
@@ -418,12 +419,24 @@ class Konum {
 /// Aladhan'ın `school` parametresine karşılık gelir. Sessiz bir
 /// varsayılan bırakılmaz; modelde ve önbellek anahtarında durur.
 enum AsrYontemi {
-  standart('standart', 'Standard (Hanefi olmayan)'),
-  hanafi('hanafi', 'Hanefi');
+  standart('standart', 'Standard (Hanefi olmayan)', 'asr_standart_ad'),
+  hanafi('hanafi', 'Hanefi', 'asr_hanafi_ad');
 
-  const AsrYontemi(this.kod, this.ad);
+  const AsrYontemi(this.kod, this.ad, this.ceviriAnahtari);
   final String kod;
+
+  /// Türkçe kaynak ad. Model ve testler bu alanı kullanır.
   final String ad;
+
+  /// 25 dil dosyasında tanımlı çeviri anahtarı.
+  final String ceviriAnahtari;
+
+  /// Kullanıcı diline çevrilmiş ad. Çeviri çözülemezse Türkçe `ad`
+  /// döner, böylece arayüzde ham anahtar adı görünmez.
+  String get ceviriAdi {
+    final String c = ceviriAnahtari.tr();
+    return c == ceviriAnahtari ? ad : c;
+  }
 
   // İstek sayısaldır; STANDARD/HANAFI yalnız cevabın meta.school alanıdır.
   String get apiParametresi => this == AsrYontemi.hanafi ? '1' : '0';
@@ -435,24 +448,29 @@ enum AsrYontemi {
 
 /// Yüksek enlemlerde uygulanan düzeltme ayarı.
 ///
-/// Aladhan'ın `adjustmentMethod` parametresine karşılık gelir. 48°
+/// Aladhan'ın `latitudeAdjustmentMethod` parametresine karşılık gelir. 48°
 /// üzeri enlemlerde (Norveç, İsveç, Finlandiya, Grönland, bazı Rusya
 /// bölgeleri) farklı mezhepler farklı düzeltmeler uygular; bu yüzden
 /// ayar gizli tutulamaz.
 enum YuksekEnlemAyaru {
-  yok('yok', 'Düzeltme yok'),
-  orta('orta', 'Orta (1/7 gölge)'),
-  ceyrek('ceyrek', 'Çeyrek (1/4 gölge)'),
-  yarim('yarim', 'Yarım');
+  geceninYarisi('middle_v2', 'Gecenin yarısı', '1', 'yuksek_enlem_yarisi_ad'),
+  yedideBir('seventh_v2', 'Gecenin yedide biri', '2', 'yuksek_enlem_yedide_bir_ad'),
+  aciTabanli('angle_v2', 'Açı tabanlı', '3', 'yuksek_enlem_aci_ad');
 
-  const YuksekEnlemAyaru(this.kod, this.ad);
+  const YuksekEnlemAyaru(
+      this.kod, this.ad, this.apiParametresi, this.ceviriAnahtari);
   final String kod;
-  final String ad;
 
-  String get apiParametresi => switch (this) {
-        YuksekEnlemAyaru.yok => 'NONE',
-        YuksekEnlemAyaru.orta => 'MIDDLE',
-        YuksekEnlemAyaru.ceyrek => 'QUARTER',
-        YuksekEnlemAyaru.yarim => 'HALF',
-      };
+  /// Türkçe kaynak ad. Model, testler ve önbellek karşılaştırmaları kullanır.
+  final String ad;
+  final String apiParametresi;
+
+  /// 25 dil dosyasında tanımlı çeviri anahtarı.
+  final String ceviriAnahtari;
+
+  /// Kullanıcı diline çevrilmiş ad; çeviri çözülemezse Türkçe `ad` döner.
+  String get ceviriAdi {
+    final String c = ceviriAnahtari.tr();
+    return c == ceviriAnahtari ? ad : c;
+  }
 }

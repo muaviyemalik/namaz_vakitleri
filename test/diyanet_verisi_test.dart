@@ -101,10 +101,11 @@ void main() {
       expect(p.yerlesimSayisi, greaterThan(800));
     });
 
-    test('paket yalnız ileri tarihlere yayılır; geçmiş veri yok', () {
-      // Bugün 3 Ekim 2026. Paket bugünden başlar, iki yıl geçmişle doldurulmaz.
-      expect(p.ilkTarih, DateTime(2026, 10, 3));
+    test('paket 2026 ve 2027 yıllarını kesintisiz kapsar', () {
+      expect(p.ilkTarih, DateTime(2026, 1, 1));
       expect(p.sonTarih, DateTime(2027, 12, 31));
+      expect(p.bosluklar, isEmpty);
+      expect(p.verilenGunSayisi, 730);
     });
 
     test('kapsanan gün sayısı ilan edilenle aynı', () {

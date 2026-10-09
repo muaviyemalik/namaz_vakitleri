@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- UYGULAMA ADI, WIDGET BASLIKLARI VE YEDEK METERI. -->
+<!-- Es zamanli: assets/i18n/ceviri/<dil>.json icindeki ayni
+     anahtarlardan uretilir. Iki taraf ayri ayri degistirilirse
+     widget metni ile ceviri dosyasi uyusmaz. -->
+<resources>
+    <string name="app_name">Horários de Oração</string>
+    <string name="widget_ayet_acilis">Abra a aplicação uma vez para atualizar o versículo.</string>
+    <string name="widget_ayet_baslik">Versículo do Dia</string>
+    <string name="widget_ayet_bulunamadi">Versículo não encontrado. Abra a aplicação.</string>
+    <string name="widget_hadis_acilis">Abra a aplicação uma vez para atualizar o hadith.</string>
+    <string name="widget_hadis_baslik">Hadith do Dia</string>
+    <string name="widget_hadis_bulunamadi">Hadith não encontrado. Abra a aplicação.</string>
+    <string name="widget_vakit_acilis">Abra a aplicação</string>
+    <string name="widget_vakit_baslik">Próxima Oração</string>
+    <string name="widget_vakit_bekleniyor">A aguardar a hora da oração</string>
+    <string name="ezan_stop">Parar adhan</string>
+    <string name="widget_gunluk_baslik">Horários de Hoje</string>
+</resources>

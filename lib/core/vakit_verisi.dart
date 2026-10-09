@@ -69,6 +69,9 @@ enum VakitKaynagi {
   /// bu etiket yeniden kullanılmaz.
   resmiDiyanet,
 
+  /// Aynı CityID için Diyanet HTTPS tablosundan doğrulanmış güncel veri.
+  resmiDiyanetGuncel,
+
   /// Hiçbir kaynak yok; kullanıcıya hata gösterilecek.
   yok,
 }

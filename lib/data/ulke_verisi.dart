@@ -62,7 +62,7 @@ class Ulke {
   /// Ara yuzde Turkce gosterilecek ad. Ceviri yoksa Turkceye yakin bir
   /// yedek ad uretir.
   String gorunenAd(String dilKodu) {
-    if (dilKodu == 'tr') return adTr;
+    if (dilKodu == 'tr' || dilKodu == 'tur') return adTr;
     return ad;
   }
 
@@ -89,7 +89,7 @@ class Ulke {
 
   /// Bölge adını dile göre çevirir (statik kullanım için).
   static String bolgeAdiStatik(String bolge, String dilKodu) =>
-      dilKodu == 'tr' ? bolgeAdiTr(bolge) : bolgeAdiEn(bolge);
+      dilKodu == 'tr' || dilKodu == 'tur' ? bolgeAdiTr(bolge) : bolgeAdiEn(bolge);
 }
 
 /// Bir sehir. Aladhan'a sorgu yaparken KOORDINAT kullanilir.

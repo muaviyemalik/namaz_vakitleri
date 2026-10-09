@@ -1,0 +1,55 @@
+{
+  "adhan": [
+    {
+      "prayer": "fajr",
+      "file": "ezan_sabah.mp3",
+      "source": "https://konyacami.com/ses_dosya/saba-makamindasabah-ezan-abdulkadir-sehitoglu.mp3",
+      "maqam": "Sabâ",
+      "license_verified": false,
+      "approval_date": "2026-10-07",
+      "sha256": "8ddd7251aa2702dc5bcc5c48a4d10e7b8cd8e2b93230481781ad05d8550aaa9b"
+    },
+    {
+      "prayer": "dhuhr",
+      "file": "ezan_ogle.mp3",
+      "source": "https://konyacami.com/ses_dosya/Ogle_ezani.mp3",
+      "maqam": "Uşşak",
+      "license_verified": false,
+      "approval_date": "2026-10-07",
+      "sha256": "09b6077c9ec6acaa3de1721de4a1f558c9e7ec0044c916d29ba6ea19b53ea77f"
+    },
+    {
+      "prayer": "asr",
+      "file": "ezan_ikindi.mp3",
+      "source": "https://konyacami.com/ses_dosya/hicaz-makamindaikindi-ezan-abdulkadir-sehitoglu.mp3",
+      "maqam": "Hicaz",
+      "license_verified": false,
+      "approval_date": "2026-10-07",
+      "sha256": "fd28cd4a06910939f656bee10b4f26a31e18fd57b5a6153453985348bbf718d7"
+    },
+    {
+      "prayer": "maghrib",
+      "file": "ezan_aksam.mp3",
+      "source": "https://konyacami.com/ses_dosya/segah-makamindaaksam-ezan-abdulkadir-sehitoglu.mp3",
+      "maqam": "Segâh",
+      "license_verified": false,
+      "approval_date": "2026-10-07",
+      "sha256": "8aa7b8bb80c83d6393a487a8ab4d38fd17ffefdeb3efab52246b71ba478b4640"
+    },
+    {
+      "prayer": "isha",
+      "file": "ezan_yatsi.mp3",
+      "source": "https://konyacami.com/ses_dosya/rast-makaminda-yatsi-ezani.mp3",
+      "maqam": "Rast",
+      "license_verified": false,
+      "approval_date": "2026-10-07",
+      "sha256": "0bd49397c64c149d8ced67579439b06128c73d27c23d31fc0b30cfbb645e01a7"
+    }
+  ],
+  "reminder": {
+    "file": "hatirlatici.wav",
+    "name": "Sıcak yükseliş",
+    "source": "Original sine-wave synthesis; no samples or third-party recordings",
+    "approval_date": "2026-10-07"
+  }
+}

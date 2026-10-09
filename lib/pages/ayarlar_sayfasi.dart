@@ -2,11 +2,13 @@
 import 'package:flutter/material.dart';
 import 'package:easy_localization/easy_localization.dart';
 import 'package:namaz_vakitleri/core/saat.dart';
+import 'package:namaz_vakitleri/core/vakit_verisi.dart';
 import 'package:namaz_vakitleri/main.dart';
 import 'package:namaz_vakitleri/data/ulke_verisi.dart';
 import 'package:namaz_vakitleri/data/dil_katalogu.dart';
 import 'package:namaz_vakitleri/data/hesaplama_yontemleri.dart';
 import 'package:namaz_vakitleri/pages/yasal_notlar_sayfasi.dart';
+import 'bildirim_ayarlari_sayfasi.dart';
 import 'package:namaz_vakitleri/widgets/ulke_secici.dart';
 import 'package:namaz_vakitleri/widgets/dil_secici.dart';
 
@@ -19,6 +21,16 @@ class AyarlarSayfasi extends StatefulWidget {
 
 class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
   Ulke? _aktifUlke;
+
+  bool get _resmiTabloAktifMi {
+    final durum = aktifVakitDurumu.value;
+    final konum = aktifKonum.value;
+    return aktifResmiDiyanet.value && konum?.ulkeIso2 == 'TR' &&
+        konum?.diyanetCityId != null &&
+        konum?.diyanetCityId == durum?.konum.diyanetCityId &&
+        (durum?.kaynak == VakitKaynagi.resmiDiyanet ||
+         durum?.kaynak == VakitKaynagi.resmiDiyanetGuncel);
+  }
 
   @override
   void initState() {
@@ -46,12 +58,15 @@ class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
     final secilen = await ulkeSeciciGoster(context);
     if (secilen == null) return;
 
+    final surum = konumSecimiBaslat();
     aktifUlkeKodu.value = secilen.iso2;
     await ulkeKaydet(secilen.iso2);
     if (mounted) setState(() => _aktifUlke = secilen);
     if (!mounted) return;
 
     final sehirler = await UlkeVerisi.instance.sehirler(secilen.iso2);
+
+    if (!mounted || surum != konumSecimSurumu) return;
 
     // ŞEHİR VERİSİ OLMAYAN ÜLKE
     //
@@ -77,8 +92,11 @@ class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
       setState(() {});
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
-          content: Text('no_city_data_action'.tr(
-              args: [secilen.gorunenAd(context.locale.languageCode)])),
+          content: Text(
+            'no_city_data_action'.tr(
+              args: [secilen.gorunenAd(context.locale.languageCode)],
+            ),
+          ),
           backgroundColor: Colors.orange.shade800,
           behavior: SnackBarBehavior.floating,
           margin: const EdgeInsets.all(10),
@@ -100,13 +118,15 @@ class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
       }
     }
     hedef ??= sehirler.first;
-    await konumAyarla(hedef);
+    await konumAyarla(hedef, secimSurumu: surum, ulke: secilen.iso2);
 
     if (!mounted) return;
     ScaffoldMessenger.of(context).showSnackBar(
       SnackBar(
-        content: Text('${'country_changed'.tr()}: '
-            '${secilen.gorunenAd(context.locale.languageCode)}'),
+        content: Text(
+          '${'country_changed'.tr()}: '
+          '${secilen.gorunenAd(context.locale.languageCode)}',
+        ),
         behavior: SnackBarBehavior.floating,
         margin: const EdgeInsets.all(10),
       ),
@@ -147,9 +167,8 @@ class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
   Future<void> _yontemSec() async {
     final secim = await showDialog<_YontemSecimi>(
       context: context,
-      builder: (context) => _YontemSeciciDialog(
-        seciliId: aktifHesaplamaYontemi.value,
-      ),
+      builder: (context) =>
+          _YontemSeciciDialog(seciliId: aktifHesaplamaYontemi.value),
     );
 
     // İptal: kullanıcı bir şey SEÇMEDİ. Mevcut yöntem AYNEN korunur.
@@ -167,26 +186,32 @@ class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('settings'.tr(), style: const TextStyle(fontWeight: FontWeight.bold)),
+        title: Text(
+          'settings'.tr(),
+          style: const TextStyle(fontWeight: FontWeight.bold),
+        ),
         centerTitle: true,
         // YENİ 1: Aydınlık modda ana renk, Karanlık modda mat ve şık bir koyu gri!
-        backgroundColor: Theme.of(context).brightness == Brightness.dark 
-            ? Colors.grey.shade900 
-            : Theme.of(context).colorScheme.primary, 
-            
+        backgroundColor: Theme.of(context).brightness == Brightness.dark
+            ? Colors.grey.shade900
+            : Theme.of(context).colorScheme.primary,
+
         foregroundColor: Colors.white,
-        
+
         // YENİ 2: Karanlık modda barın altındaki gölgeyi sıfırlıyoruz ki arka planla tam birleşsin
         elevation: Theme.of(context).brightness == Brightness.dark ? 0 : 10,
       ),
       body: Container(
         decoration: BoxDecoration(
           gradient: LinearGradient(
-            begin: Alignment.topCenter, end: Alignment.bottomCenter,
+            begin: Alignment.topCenter,
+            end: Alignment.bottomCenter,
             colors: [
-              Theme.of(context).colorScheme.primaryContainer.withOpacity(0.3), 
+              Theme.of(context).colorScheme.primaryContainer.withOpacity(0.3),
               // YENİ ALT RENK
-              Theme.of(context).brightness == Brightness.dark ? Colors.grey.shade900 : Colors.white
+              Theme.of(context).brightness == Brightness.dark
+                  ? Colors.grey.shade900
+                  : Colors.white,
             ],
           ),
         ),
@@ -196,10 +221,15 @@ class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
             // ÜLKE SEÇİM KARTI
             Card(
               color: Theme.of(context).cardColor,
-              elevation: Theme.of(context).brightness == Brightness.dark ? 1 : 4,
+              elevation: Theme.of(context).brightness == Brightness.dark
+                  ? 1
+                  : 4,
               child: ListTile(
-                leading: Icon(Icons.public,
-                    color: Theme.of(context).colorScheme.primary, size: 30),
+                leading: Icon(
+                  Icons.public,
+                  color: Theme.of(context).colorScheme.primary,
+                  size: 30,
+                ),
                 title: Text(
                   'country'.tr(),
                   style: TextStyle(
@@ -214,12 +244,15 @@ class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
                   _aktifUlke == null
                       ? 'loading'.tr()
                       : '${_aktifUlke!.gorunenAd(context.locale.languageCode)}'
-                          '${_aktifUlke!.emoji ?? ''}'
-                          ' • ${_aktifUlke!.sehirSayisi} ${'city_count'.tr()}',
+                            '${_aktifUlke!.emoji ?? ''}'
+                            ' • ${_aktifUlke!.sehirSayisi} ${'city_count'.tr()}',
                   style: const TextStyle(fontSize: 13),
                 ),
-                trailing: Icon(Icons.arrow_forward_ios,
-                    size: 16, color: Theme.of(context).colorScheme.primary),
+                trailing: Icon(
+                  Icons.arrow_forward_ios,
+                  size: 16,
+                  color: Theme.of(context).colorScheme.primary,
+                ),
                 onTap: _ulkeSec,
               ),
             ),
@@ -234,14 +267,20 @@ class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
             ValueListenableBuilder<int?>(
               valueListenable: aktifHesaplamaYontemi,
               builder: (context, seciliYontemId, child) {
-                final seciliYontem =
-                    seciliYontemId == null ? null : yontemBul(seciliYontemId);
+                final seciliYontem = seciliYontemId == null
+                    ? null
+                    : yontemBul(seciliYontemId);
                 return Card(
                   color: Theme.of(context).cardColor,
-                  elevation: Theme.of(context).brightness == Brightness.dark ? 1 : 4,
+                  elevation: Theme.of(context).brightness == Brightness.dark
+                      ? 1
+                      : 4,
                   child: ListTile(
-                    leading: Icon(Icons.calculate_outlined,
-                        color: Theme.of(context).colorScheme.primary, size: 30),
+                    leading: Icon(
+                      Icons.calculate_outlined,
+                      color: Theme.of(context).colorScheme.primary,
+                      size: 30,
+                    ),
                     title: Text(
                       'calculation_method'.tr(),
                       style: TextStyle(
@@ -255,11 +294,14 @@ class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
                     subtitle: Text(
                       seciliYontem == null
                           ? 'method_auto_desc'.tr()
-                          : '${seciliYontem.ad} · ${seciliYontem.parametreAciklama}',
+                          : '${seciliYontem.ceviriAdi} · ${seciliYontem.parametreAciklama}',
                       style: const TextStyle(fontSize: 12),
                     ),
-                    trailing: Icon(Icons.arrow_forward_ios,
-                        size: 16, color: Theme.of(context).colorScheme.primary),
+                    trailing: Icon(
+                      Icons.arrow_forward_ios,
+                      size: 16,
+                      color: Theme.of(context).colorScheme.primary,
+                    ),
                     onTap: _yontemSec,
                   ),
                 );
@@ -285,23 +327,23 @@ class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
                 final turkiyeMi = konum?.ulkeIso2 == 'TR';
                 return Card(
                   color: Theme.of(context).cardColor,
-                  elevation:
-                      Theme.of(context).brightness == Brightness.dark ? 1 : 4,
+                  elevation: Theme.of(context).brightness == Brightness.dark
+                      ? 1
+                      : 4,
                   child: SwitchListTile(
                     value: acikMi,
                     onChanged: (v) async {
-                      // Navigator await ÖNCESinde alınır: async aradan sonra
-                      // BuildContext kullanmak güvenli değildir.
-                      final navigator = Navigator.of(context);
+                      // Ayarlar ana sekmedir; Navigator.pop ana route'u kapatır.
+                      // Kaynak değişimini AnaSayfa dinleyicisi uygular.
                       await resmiDiyanetKaydet(v);
-                      // Ana ekran `aktifResmiDiyanet` dinleyicisiyle
-                      // yeniden yüklenir; burada ekranı kapatmak yeterli.
-                      navigator.pop();
                     },
-                    secondary: Icon(Icons.verified_outlined,
-                        color: Theme.of(context).colorScheme.primary, size: 30),
+                    secondary: Icon(
+                      Icons.verified_outlined,
+                      color: Theme.of(context).colorScheme.primary,
+                      size: 30,
+                    ),
                     title: Text(
-                      'Diyanet resmî vakitleri',
+                      'kaynak_diyanet'.tr(),
                       style: TextStyle(
                         fontWeight: FontWeight.bold,
                         fontSize: 16,
@@ -312,18 +354,13 @@ class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
                     ),
                     subtitle: Text(
                       !turkiyeMi
-                          ? 'Yalnız Türkiye için. Seçili ülke: ${konum?.ulkeIso2 ?? '-'}'
+                          ? 'diyanet_yalniz_turkiye'
+                              .tr(args: [konum?.ulkeIso2 ?? '-'])
                           : acikMi
-                              ? kimlikVar
-                                  ? 'Açık — Diyanet\'in yayımladığı saatler '
-                                      'gösterilir. Asr ve yüksek enlem ayarı '
-                                      'bu tabloda yer almaz, vakitleri '
-                                      'değiştirmez.'
-                                  : 'Açık — ancak bu yerleşim için Diyanet '
-                                      'resmî vakit yayımlamıyor; hesaplanmış '
-                                      'saatler gösterilir.'
-                              : 'Kapalı — vakitler hesaplanır '
-                                  '(Diyanet hesaplama yöntemi).',
+                          ? kimlikVar
+                                ? 'diyanet_acik_desc'.tr()
+                                : 'diyanet_acik_veri_yok_desc'.tr()
+                          : 'diyanet_kapali_desc'.tr(),
                       style: const TextStyle(fontSize: 12),
                     ),
                   ),
@@ -339,43 +376,40 @@ class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
             // kullanıcı "Asr'im şu anki şekilde hesaplanıyor" bilgisine
             // sahip değildi. Şimdi açıkça seçilebilir ve hangi değerin
             // kullanıldığı hesap özetinde yazar.
-            ValueListenableBuilder<AsrYontemi>(
-              valueListenable: aktifAsrYontemi,
-              builder: (context, aktifAsr, child) {
+            ListenableBuilder(
+              listenable: Listenable.merge([aktifAsrYontemi, aktifVakitDurumu,
+                aktifKonum, aktifResmiDiyanet]),
+              builder: (context, child) {
+                final aktifAsr = aktifAsrYontemi.value;
+                final resmi = _resmiTabloAktifMi;
                 return Card(
                   color: Theme.of(context).cardColor,
-                  elevation: Theme.of(context).brightness == Brightness.dark ? 1 : 4,
-                  child: ListTile(
-                    leading: Icon(Icons.wb_twilight,
-                        color: Theme.of(context).colorScheme.primary, size: 30),
-                    title: Text(
-                      'asr_method'.tr(),
-                      style: TextStyle(
-                        fontWeight: FontWeight.bold,
-                        fontSize: 16,
-                        color: Theme.of(context).brightness == Brightness.dark
-                            ? Colors.white
-                            : Colors.black87,
+                  child: Padding(padding: const EdgeInsets.all(16),
+                    child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                      Row(children: [
+                        Icon(Icons.wb_twilight, color: Theme.of(context).colorScheme.primary),
+                        const SizedBox(width: 12),
+                        Expanded(child: Text('asr_method'.tr(),
+                          style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 16))),
+                      ]),
+                      DropdownButton<AsrYontemi>(
+                        isExpanded: true,
+                        value: resmi ? null : aktifAsr,
+                        disabledHint: Text('ayar_kapali_resmi_not'.tr()),
+                        onChanged: resmi ? null : (yeni) {
+                          if (yeni == null) return;
+                          aktifAsrYontemi.value = yeni;
+                          asrYontemiKaydet(yeni);
+                        },
+                        items: AsrYontemi.values.map((a) => DropdownMenuItem(
+                            value: a, child: Text(a.ceviriAdi))).toList(),
                       ),
-                    ),
-                    subtitle: Text(aktifAsr.ad, style: const TextStyle(fontSize: 12)),
-                    trailing: DropdownButton<AsrYontemi>(
-                      value: aktifAsr,
-                      underline: const SizedBox(),
-                      dropdownColor: Theme.of(context).cardColor,
-                      onChanged: (AsrYontemi? yeni) {
-                        if (yeni == null) return;
-                        aktifAsrYontemi.value = yeni;
-                        asrYontemiKaydet(yeni);
-                      },
-                      items: AsrYontemi.values
-                          .map((a) => DropdownMenuItem(
-                                value: a,
-                                child: Text(a.kod,
-                                    style: const TextStyle(fontSize: 14)),
-                              ))
-                          .toList(),
-                    ),
+                      Text(
+                          resmi
+                              ? 'asr_resmi_not'.tr()
+                              : aktifAsr.ceviriAdi,
+                          style: const TextStyle(fontSize: 12)),
+                    ]),
                   ),
                 );
               },
@@ -388,78 +422,76 @@ class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
             // 48° üzeri enlemlerde (Norveç, İsveç, Finlandiya, Grönland,
             // bazı Rusya bölgeleri) farklı mezhepler farklı düzeltmeler
             // uygular. Bu ayar gizli bir varsayılan olarak bırakılmaz.
-            ValueListenableBuilder<YuksekEnlemAyaru>(
-              valueListenable: aktifYuksekEnlemAyaru,
-              builder: (context, aktifAyar, child) {
+            ListenableBuilder(
+              listenable: Listenable.merge([aktifYuksekEnlemAyaru, aktifVakitDurumu,
+                aktifKonum, aktifResmiDiyanet]),
+              builder: (context, child) {
+                final aktifAyar = aktifYuksekEnlemAyaru.value;
+                final resmi = _resmiTabloAktifMi;
                 return Card(
-                  color: Theme.of(context).cardColor,
-                  elevation: Theme.of(context).brightness == Brightness.dark ? 1 : 4,
-                  child: ListTile(
-                    leading: Icon(Icons.terrain,
-                        color: Theme.of(context).colorScheme.primary, size: 30),
-                    title: Text(
-                      'high_latency'.tr(),
-                      style: TextStyle(
-                        fontWeight: FontWeight.bold,
-                        fontSize: 16,
-                        color: Theme.of(context).brightness == Brightness.dark
-                            ? Colors.white
-                            : Colors.black87,
+                color: Theme.of(context).cardColor,
+                child: Padding(
+                  padding: const EdgeInsets.all(16),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Row(
+                        children: [
+                          Icon(
+                            Icons.terrain,
+                            color: Theme.of(context).colorScheme.primary,
+                          ),
+                          const SizedBox(width: 12),
+                          Expanded(
+                            child: Text(
+                              'high_latency'.tr(),
+                              style: const TextStyle(
+                                fontWeight: FontWeight.bold,
+                                fontSize: 16,
+                              ),
+                            ),
+                          ),
+                        ],
                       ),
-                    ),
-                    subtitle: Text(aktifAyar.ad, style: const TextStyle(fontSize: 12)),
-                    trailing: DropdownButton<YuksekEnlemAyaru>(
-                      value: aktifAyar,
-                      underline: const SizedBox(),
-                      dropdownColor: Theme.of(context).cardColor,
-                      onChanged: (YuksekEnlemAyaru? yeni) {
-                        if (yeni == null) return;
-                        aktifYuksekEnlemAyaru.value = yeni;
-                        yuksekEnlemKaydet(yeni);
-                      },
-                      items: YuksekEnlemAyaru.values
-                          .map((a) => DropdownMenuItem(
-                                value: a,
-                                child: Text(a.kod,
-                                    style: const TextStyle(fontSize: 14)),
-                              ))
-                          .toList(),
-                    ),
+                      DropdownButton<YuksekEnlemAyaru>(
+                        isExpanded: true,
+                        value: resmi ? null : aktifAyar,
+                        disabledHint: Text('ayar_kapali_resmi_not'.tr()),
+                        onChanged: resmi ? null : (yeni) {
+                          if (yeni == null) return;
+                          aktifYuksekEnlemAyaru.value = yeni;
+                          yuksekEnlemKaydet(yeni);
+                        },
+                        items: YuksekEnlemAyaru.values
+                            .map(
+                              (a) => DropdownMenuItem(
+                                  value: a, child: Text(a.ceviriAdi)),
+                            )
+                            .toList(),
+                      ),
+                      Text(
+                        resmi
+                            ? 'yuksek_enlem_resmi_not'.tr()
+                            : 'yuksek_enlem_hesaplanmis_not'.tr(),
+                        style: const TextStyle(fontSize: 12),
+                      ),
+                    ],
                   ),
-                );
+                ),
+              );
               },
             ),
 
             const SizedBox(height: 10),
 
-            // GÜNEŞ DOĞUŞU BİLGİ BİLDİRİMİ
-            //
-            // Güneş doğuşu bir namaz vakti DEĞİLDİR. Önceden aynı kanalı
-            // ve aynı "Vakit Geldi!" metnini kullanıyordu. Artık ayrı bir
-            // tür, ayrı bir kanal ve varsayılan olarak KAPALI.
-            ValueListenableBuilder<bool>(
-              valueListenable: gunesDogumuBildirimiAcik,
-              builder: (context, acik, child) {
-                return Card(
-                  color: Theme.of(context).cardColor,
-                  elevation: Theme.of(context).brightness == Brightness.dark ? 1 : 4,
-                  child: SwitchListTile(
-                    secondary: Icon(Icons.wb_sunny_outlined,
-                        color: Theme.of(context).colorScheme.primary, size: 30),
-                    title: Text('sunrise_notification'.tr(),
-                        style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 16)),
-                    subtitle: Text('sunrise_notification_desc'.tr(),
-                        style: const TextStyle(fontSize: 12)),
-                    value: acik,
-                    onChanged: (bool yeni) {
-                      gunesDogumuBildirimiAcik.value = yeni;
-                      gunesDogumuBildirimiKaydet(yeni);
-                    },
-                  ),
-                );
-              },
-            ),
-
+            Card(child: ListTile(
+              leading: const Icon(Icons.notifications_outlined),
+              title: Text('notification_settings'.tr()),
+              subtitle: Text('notification_settings_desc'.tr()),
+              trailing: const Icon(Icons.chevron_right),
+              onTap: () => Navigator.push(context, MaterialPageRoute(
+                builder: (_) => const BildirimAyarlariSayfasi())),
+            )),
             const SizedBox(height: 10),
 
             // VERİ KAYNAĞI NOTU
@@ -487,10 +519,17 @@ class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
             //
             // Yani Aladhan ile Diyanet'in saati birebir eşitlenemez. Kullanıcıyı
             // yanlış bilgilendirmemek ve bu farkı "uygulama hatası" sanmasını
-            // önlemek için not burada açıkça yazıyor.
-            Card(
+            // önlemek için not burada açıkça yazıyor. Resmî tabloya uygulanmaz.
+            AnimatedBuilder(
+              animation: Listenable.merge([aktifVakitDurumu, aktifKonum,
+                aktifResmiDiyanet]),
+              builder: (context, child) => _resmiTabloAktifMi
+                  ? const SizedBox.shrink() : child!,
+              child: Card(
               color: Theme.of(context).cardColor,
-              elevation: Theme.of(context).brightness == Brightness.dark ? 1 : 4,
+              elevation: Theme.of(context).brightness == Brightness.dark
+                  ? 1
+                  : 4,
               child: Padding(
                 padding: const EdgeInsets.fromLTRB(16, 12, 16, 12),
                 child: Row(
@@ -519,14 +558,21 @@ class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
               ),
             ),
 
+            ),
             const SizedBox(height: 10),
 
             // DİL SEÇİM KARTI
             Card(
               color: Theme.of(context).cardColor,
-              elevation: Theme.of(context).brightness == Brightness.dark ? 1 : 4,
+              elevation: Theme.of(context).brightness == Brightness.dark
+                  ? 1
+                  : 4,
               child: ListTile(
-                leading: Icon(Icons.language, color: Theme.of(context).colorScheme.primary, size: 30),
+                leading: Icon(
+                  Icons.language,
+                  color: Theme.of(context).colorScheme.primary,
+                  size: 30,
+                ),
                 title: Text(
                   'language'.tr(),
                   style: TextStyle(
@@ -534,102 +580,72 @@ class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
                     fontSize: 16,
                     color: Theme.of(context).brightness == Brightness.dark
                         ? Colors.white
-                        : Colors.black87
-                  )
+                        : Colors.black87,
+                  ),
                 ),
                 subtitle: Text(
                   _aktifDilAdi(context),
                   style: const TextStyle(fontSize: 13),
                 ),
-                trailing: Icon(Icons.arrow_forward_ios,
-                    size: 16, color: Theme.of(context).colorScheme.primary),
+                trailing: Icon(
+                  Icons.arrow_forward_ios,
+                  size: 16,
+                  color: Theme.of(context).colorScheme.primary,
+                ),
                 onTap: () => _dilSec(context),
               ),
             ),
 
             const SizedBox(height: 10), // Araya ufak bir boşluk
-
             // KARANLIK MOD KARTI
             ValueListenableBuilder<ThemeMode>(
               valueListenable: aktifTemaModu,
               builder: (context, aktifMod, child) {
                 bool karanlikMi = aktifMod == ThemeMode.dark;
-                
+
                 return Card(
                   color: Theme.of(context).cardColor,
                   child: SwitchListTile(
                     activeColor: Theme.of(context).colorScheme.primary,
                     secondary: Icon(
-                      karanlikMi ? Icons.nightlight_round : Icons.wb_sunny, 
-                      color: karanlikMi ? Colors.amber.shade300 : Colors.orange, 
-                      size: 30
+                      karanlikMi ? Icons.nightlight_round : Icons.wb_sunny,
+                      color: karanlikMi ? Colors.amber.shade300 : Colors.orange,
+                      size: 30,
                     ),
-                    title: Text('dark_mode'.tr(), style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 16)),
+                    title: Text(
+                      'dark_mode'.tr(),
+                      style: const TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 16,
+                      ),
+                    ),
                     value: karanlikMi,
                     onChanged: (bool isDark) {
-                      aktifTemaModu.value = isDark ? ThemeMode.dark : ThemeMode.light;
+                      aktifTemaModu.value = isDark
+                          ? ThemeMode.dark
+                          : ThemeMode.light;
                       temaModunuKaydet(isDark); // Hafızaya yaz
                     },
                   ),
                 );
-              }
+              },
             ),
             const SizedBox(height: 10), // Araya ufak bir boşluk
-
-            // ERKEN UYARI KARTI
-            ValueListenableBuilder<int>(
-              valueListenable: erkenUyariSuresi,
-              builder: (context, aktifSure, child) {
-                return Card(
-                  color: Theme.of(context).cardColor,
-                  elevation: Theme.of(context).brightness == Brightness.dark ? 1 : 4,
-                  child: ListTile(
-                    leading: Icon(Icons.alarm_on, color: Theme.of(context).colorScheme.primary, size: 30),
-                    title: Text(
-                      'early_warning'.tr(),
-                      style: TextStyle(
-                        fontWeight: FontWeight.bold, 
-                        fontSize: 16,
-                        color: Theme.of(context).brightness == Brightness.dark ? Colors.white : Colors.black87
-                      ),
-                    ),
-                    trailing: DropdownButton<int>(
-                      value: aktifSure,
-                      underline: const SizedBox(), 
-                      icon: Icon(Icons.arrow_drop_down, color: Theme.of(context).colorScheme.primary),
-                      dropdownColor: Theme.of(context).cardColor, 
-                      style: TextStyle(
-                        fontSize: 16,
-                        color: Theme.of(context).brightness == Brightness.dark ? Colors.white : Colors.black87
-                      ),
-                      onChanged: (int? yeniSure) {
-                        if (yeniSure != null) {
-                          // Seçilen dakikayı değişkene ata ve telefona kaydet
-                          erkenUyariSuresi.value = yeniSure;
-                          erkenUyariKaydet(yeniSure);
-                        }
-                      },
-                      items: [
-                        DropdownMenuItem(value: 0, child: Text('off'.tr())),
-                        DropdownMenuItem(value: 15, child: Text('min_before_15'.tr())),
-                        DropdownMenuItem(value: 30, child: Text('min_before_30'.tr())),
-                        DropdownMenuItem(value: 45, child: Text('min_before_45'.tr())),
-                      ],
-                    ),
-                  ),
-                );
-              }
-            ),
             // LİSANS VE ATIF KARTI
             // ODbL-1.0 kopyalaç lisansı nedeniyle veri kaynaklarının
             // belirtilmesi zorunludur. Atıf yalnızca README'de değil,
             // uygulama içinde de görünmelidir.
             Card(
               color: Theme.of(context).cardColor,
-              elevation: Theme.of(context).brightness == Brightness.dark ? 1 : 4,
+              elevation: Theme.of(context).brightness == Brightness.dark
+                  ? 1
+                  : 4,
               child: ListTile(
-                leading: Icon(Icons.description_outlined,
-                    color: Theme.of(context).colorScheme.primary, size: 30),
+                leading: Icon(
+                  Icons.description_outlined,
+                  color: Theme.of(context).colorScheme.primary,
+                  size: 30,
+                ),
                 title: Text(
                   'legal_notices'.tr(),
                   style: TextStyle(
@@ -644,12 +660,14 @@ class _AyarlarSayfasiState extends State<AyarlarSayfasi> {
                   'legal_notices_desc'.tr(),
                   style: const TextStyle(fontSize: 13),
                 ),
-                trailing: Icon(Icons.arrow_forward_ios,
-                    size: 16, color: Theme.of(context).colorScheme.primary),
+                trailing: Icon(
+                  Icons.arrow_forward_ios,
+                  size: 16,
+                  color: Theme.of(context).colorScheme.primary,
+                ),
                 onTap: () => Navigator.push(
                   context,
-                  MaterialPageRoute(
-                      builder: (_) => const YasalNotlarSayfasi()),
+                  MaterialPageRoute(builder: (_) => const YasalNotlarSayfasi()),
                 ),
               ),
             ),
@@ -697,13 +715,18 @@ class _YontemSeciciDialog extends StatelessWidget {
               padding: const EdgeInsets.fromLTRB(16, 16, 8, 4),
               child: Row(
                 children: [
-                  Icon(Icons.calculate_outlined,
-                      color: Theme.of(context).colorScheme.primary),
+                  Icon(
+                    Icons.calculate_outlined,
+                    color: Theme.of(context).colorScheme.primary,
+                  ),
                   const SizedBox(width: 10),
                   Expanded(
                     child: Text(
                       'calculation_method'.tr(),
-                      style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
+                      style: const TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 18,
+                      ),
                     ),
                   ),
                   IconButton(
@@ -736,31 +759,48 @@ class _YontemSeciciDialog extends StatelessWidget {
                   // için kanıtsız bir "resmî yöntem" tablosu uydurulmamıştır.
                   ListTile(
                     dense: true,
-                    leading: Icon(Icons.auto_awesome,
-                        color: Theme.of(context).colorScheme.primary),
-                    title: Text('method_auto'.tr(),
-                        style: const TextStyle(fontWeight: FontWeight.w600)),
-                    subtitle: Text('method_auto_desc'.tr(),
-                        style: const TextStyle(fontSize: 12)),
+                    leading: Icon(
+                      Icons.auto_awesome,
+                      color: Theme.of(context).colorScheme.primary,
+                    ),
+                    title: Text(
+                      'method_auto'.tr(),
+                      style: const TextStyle(fontWeight: FontWeight.w600),
+                    ),
+                    subtitle: Text(
+                      'method_auto_desc'.tr(),
+                      style: const TextStyle(fontSize: 12),
+                    ),
                     trailing: seciliId == null
-                        ? Icon(Icons.check_circle,
-                            color: Theme.of(context).colorScheme.primary)
+                        ? Icon(
+                            Icons.check_circle,
+                            color: Theme.of(context).colorScheme.primary,
+                          )
                         : null,
-                    onTap: () => Navigator.pop(context, const _YontemSecimi.otomatik()),
+                    onTap: () =>
+                        Navigator.pop(context, const _YontemSecimi.otomatik()),
                   ),
                   const Divider(height: 1),
                   // Sağlayıcının desteklediği hesaplama yöntemleri
-                  ...hesaplamaYontemleri.map((y) => ListTile(
-                        dense: true,
-                        title: Text(y.ad, style: const TextStyle(fontSize: 15)),
-                        subtitle: Text(y.parametreAciklama,
-                            style: const TextStyle(fontSize: 12)),
-                        trailing: seciliId == y.id
-                            ? Icon(Icons.check_circle,
-                                color: Theme.of(context).colorScheme.primary)
-                            : null,
-                        onTap: () => Navigator.pop(context, _YontemSecimi.yontem(y.id)),
-                      )),
+                  ...hesaplamaYontemleri.map(
+                    (y) => ListTile(
+                      dense: true,
+                      title: Text(y.ceviriAdi,
+                          style: const TextStyle(fontSize: 15)),
+                      subtitle: Text(
+                        y.parametreAciklama,
+                        style: const TextStyle(fontSize: 12),
+                      ),
+                      trailing: seciliId == y.id
+                          ? Icon(
+                              Icons.check_circle,
+                              color: Theme.of(context).colorScheme.primary,
+                            )
+                          : null,
+                      onTap: () =>
+                          Navigator.pop(context, _YontemSecimi.yontem(y.id)),
+                    ),
+                  ),
                 ],
               ),
             ),

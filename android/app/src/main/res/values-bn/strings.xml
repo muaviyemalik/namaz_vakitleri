@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- UYGULAMA ADI, WIDGET BASLIKLARI VE YEDEK METERI. -->
+<!-- Es zamanli: assets/i18n/ceviri/<dil>.json icindeki ayni
+     anahtarlardan uretilir. Iki taraf ayri ayri degistirilirse
+     widget metni ile ceviri dosyasi uyusmaz. -->
+<resources>
+    <string name="app_name">নামাজের সময়সূচি</string>
+    <string name="widget_ayet_acilis">আয়াত আপডেট করতে অ্যাপটি একবার খুলুন।</string>
+    <string name="widget_ayet_baslik">আজকের আয়াত</string>
+    <string name="widget_ayet_bulunamadi">আয়াত পাওয়া যায়নি। অ্যাপটি খুলুন।</string>
+    <string name="widget_hadis_acilis">হাদীস আপডেট করতে অ্যাপটি একবার খুলুন।</string>
+    <string name="widget_hadis_baslik">আজকের হাদীস</string>
+    <string name="widget_hadis_bulunamadi">হাদীস পাওয়া যায়নি। অ্যাপটি খুলুন।</string>
+    <string name="widget_vakit_acilis">অ্যাপটি খুলুন</string>
+    <string name="widget_vakit_baslik">পরবর্তী নামাজ</string>
+    <string name="widget_vakit_bekleniyor">নামাজের সময়ের অপেক্ষায়</string>
+    <string name="ezan_stop">আজান থামান</string>
+    <string name="widget_gunluk_baslik">আজকের সময়সূচি</string>
+</resources>

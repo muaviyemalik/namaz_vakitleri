@@ -7,8 +7,8 @@
 //
 //   1) GERIYE UYUM. Uygulamayi kullanan mevcut kullanicinin kaydi 5 alanlidir
 //      (`ad|ulke|enlem|boylam|saatDilimi`). Bu kayit okundugunda kullanici
-//      Konumu KAYBOLMAMALI; yalnizca resmî kimlik bos kalmali ve
-//      yeniden cozulebilmeli. Kullanici verisi SILINMEZ.
+//      Konumu KAYBOLMAMALI; güvenilir isim+koordinat varsa resmî kimlik
+//      tamamlanmalı. Kullanici verisi SILINMEZ.
 //
 //   2) KIMLIK KAYBI. Kayit 7 alanliysa kimlik AYNEN geri gelmeli. Kimlik
 //      geri gelmezse kullanici sessizce hesaplanmış moda duser ve
@@ -79,7 +79,7 @@ void main() {
     test('Asr ve yüksek enlem değişimi resmî modu ETKİLEMEZ', () {
       final taban = yap();
       final hanefi = taban.kopyala(asrYontemi: AsrYontemi.hanafi);
-      final ceyrek = taban.kopyala(yuksekEnlemAyaru: YuksekEnlemAyaru.ceyrek);
+      final ceyrek = taban.kopyala(yuksekEnlemAyaru: YuksekEnlemAyaru.yedideBir);
       final yontem = taban.kopyala(yontemId: 3);
 
       for (final k in [taban, hanefi, ceyrek, yontem]) {
@@ -104,6 +104,7 @@ void main() {
         diyanetParca: 'TR/ankara.txt',
       );
       await konumKaydet(konum);
+      aktifKonum.value = null; // Gerçek süreç yeniden açılışını temsil eder.
       await konumYukle();
 
       final y = aktifKonum.value!;
@@ -114,6 +115,12 @@ void main() {
       expect(y.il, 'Ankara');
       expect(y.diyanetCityId, 9206,
           reason: 'kimlik kaybolursa kullanıcı sessizce hesaplanmış moda düşer');
+      expect(y.diyanetParca, 'TR/ankara.txt');
+      final sonuc = await diyanetDepo.vakitler(
+        cityId: y.diyanetCityId!, ilDosya: y.diyanetParca!,
+        tarih: DateTime(2026, 11, 15),
+      );
+      expect(sonuc.durum, DiyanetDurum.veriVar);
       expect(y.resmiDiyanetKullanilirMi(resmiModAcik: true), isTrue);
     });
   });
@@ -124,7 +131,7 @@ void main() {
           kayitliUlkeAnahtari: 'TR',
         }));
 
-    test('konum yüklenir; resmî kimlik boştur ama veri bozulmaz', () async {
+    test('konum korunur; isim ve koordinatla resmî kimlik tamamlanır', () async {
       await konumYukle();
 
       final y = aktifKonum.value!;
@@ -134,10 +141,11 @@ void main() {
       expect(y.boylam, 32.8597);
       expect(y.saatDilimi, 'Europe/Istanbul');
       // Eski kayıtta `il` ve `CityID` alanları yoktur.
-      expect(y.il, isEmpty);
-      expect(y.diyanetCityId, isNull);
-      // Kimliksiz konum resmî moda GİRMEZ — il merkezi verisi uydurulmaz.
-      expect(y.resmiDiyanetKullanilirMi(resmiModAcik: true), isFalse);
+      expect(y.il, 'Ankara');
+      expect(y.diyanetCityId, 9206);
+      expect(y.diyanetParca, 'TR/ankara.txt');
+      // Aynı Ankara kaydı doğrulanır; başka ilçenin verisi uydurulmaz.
+      expect(y.resmiDiyanetKullanilirMi(resmiModAcik: true), isTrue);
     });
   });
 
@@ -178,6 +186,24 @@ void main() {
   });
 
   group('Eşleme tablosu gerçek paketten okunur', () {
+    for (final satirSonu in ['\n', '\r\n']) {
+      test('satır sonu ${satirSonu.codeUnits} dosya yoluna karışmaz', () async {
+        final depo = DiyanetDepo(paketMetni: (yol) async {
+          final metin = File(yol).readAsStringSync();
+          return metin.replaceAll('\r\n', '\n').replaceAll('\n', satirSonu);
+        });
+        final e = (await depo.eslemeBul(il: 'Ankara', ad: 'Ankara'))!;
+        expect(e.parca, 'TR/ankara.txt');
+        final sonuc = await depo.vakitler(
+          cityId: e.cityId,
+          ilDosya: e.parca,
+          tarih: DateTime(2026, 11, 15),
+        );
+        expect(sonuc.durum, DiyanetDurum.veriVar);
+        expect(sonuc.gun!.hicriTarih, isNot(contains('\r')));
+      });
+    }
+
     test('eslemeBul gerçek CityID ve il parçası döndürür', () async {
       final depo = DiyanetDepo();
       final e = await depo.eslemeBul(il: 'Ankara', ad: 'Ankara');

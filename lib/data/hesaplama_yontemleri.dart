@@ -11,6 +11,24 @@
 // Isha'daki 20-30 dakikalik sapma, camiye gidip namaz kilan kullanici icin
 // ciddi sonuc degistirir.
 //
+import 'package:easy_localization/easy_localization.dart';
+
+// NEDEN `ad` DEGIL DE `ceviriAdi`?
+// Onceden yontem adi dogrudan `ad` alanindan gosteriliyordu; bu sabit bir
+// Turkce metin oldugu icin 24 dilde Turkce kaliyordu. Artik her yontemin
+// `yontem_<id>` anahtari 25 dil dosyasinda tanimlidir. `ad` alani KORUNUR:
+// testler ve karsilastirmalar Turkce kaynak metni uzerinden calisir.
+//
+// Ayni sorun `parametreAciklama` icin de gecerliydi ("Fajr 18° · Isa 17°").
+// O da artik ceviri anahtarlarindan kurulur.
+//
+// DIKKAT: Bu dosya veri KATMANIDIR; `easy_localization` bagimliligi
+// eklendi. Ceviri dosyalari yuklenemedigi ortamda (unit test) `.tr()` ham
+// anahtar adini dondurur. Bu yuzden `ad` ve `parametreAciklama` TRUNCATE
+// edilmis Turkce yedek olarak durur ve ceviri cozulemedigi yerlerde
+// gorunur; arayuzde ceviri COZULEMEDIGI icin anahtar adini gostermemek icin
+// `ad` yedegi kullanilir.
+//
 // Bu yuzden uygulama iki sey yapar:
 //   1) Varsayilan olarak method parametresini HIC GONDERMEZ. Aladhan
 //      parametreyi almayinca ulkeye gore dogru varsayilani kendisi secer
@@ -38,14 +56,28 @@ class HesaplamaYontemi {
     this.ishaAralik,
   });
 
+  /// Kullanıcı diline çevrilmiş yöntem adı.
+  ///
+  /// `yontem_<id>` anahtarı 25 dil dosyasının tamamında tanımlıdır. Çeviri
+  /// çözülemezse (birim testi, asset yüklenmemiş ortam) Türkçe `ad`
+  /// döner; arayüzde ham anahtar adı gösterilmez.
+  String get ceviriAdi {
+    final String c = 'yontem_$id'.tr();
+    return c == 'yontem_$id' ? ad : c;
+  }
+
   /// Menüde gösterilen açıklama: "Fajr 18° · İşâ 17°"
+  ///
+  /// Açı/aralık değerleri dil bağımsızdır (sayı ve derece), ancak "Fajr"
+  /// ve "İşâ" kelimeleri çevrilir. Aralık zamanı (örn. "90 dk") `adEn`
+  /// kalıbını izleyerek dakika olarak okunur.
   String get parametreAciklama {
     final parcalar = <String>[];
-    if (fajrAci != null) parcalar.add('Fajr $fajrAci°');
+    if (fajrAci != null) parcalar.add('parametre_fajr'.tr(args: [fajrAci!]));
     if (ishaAci != null) {
-      parcalar.add('İşâ $ishaAci°');
+      parcalar.add('parametre_isha'.tr(args: [ishaAci!]));
     } else if (ishaAralik != null) {
-      parcalar.add('İşâ $ishaAralik');
+      parcalar.add('parametre_isha_aralik'.tr(args: [ishaAralik!]));
     }
     return parcalar.join(' · ');
   }

@@ -171,10 +171,10 @@ class DiniGun {
 
   factory DiniGun.fromJson(Map<String, dynamic> json) {
     return DiniGun(
-      isim: json['isim'] ?? "Bilinmeyen Gün",
-      tarih: json['tarih'] ?? "Tarih Yok",
-      hicriTarih: json['hicriTarih'] ?? "",
-      aciklama: json['aciklama'] ?? "Açıklama bulunamadı.",
+      isim: json['isim'] ?? 'special_day_unknown'.tr(),
+      tarih: json['tarih'] ?? 'special_day_no_date'.tr(),
+      hicriTarih: json['hicriTarih'] ?? '',
+      aciklama: json['aciklama'] ?? 'special_day_no_description'.tr(),
       ikon: _ikonBelirle(json['ikon']), 
     );
   }

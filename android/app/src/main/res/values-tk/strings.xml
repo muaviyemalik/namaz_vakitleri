@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- UYGULAMA ADI, WIDGET BASLIKLARI VE YEDEK METERI. -->
+<!-- Es zamanli: assets/i18n/ceviri/<dil>.json icindeki ayni
+     anahtarlardan uretilir. Iki taraf ayri ayri degistirilirse
+     widget metni ile ceviri dosyasi uyusmaz. -->
+<resources>
+    <string name="app_name">Namaz wagtlary</string>
+    <string name="widget_ayet_acilis">Aýetini täzelemek üçin programmany bir gezek açyň.</string>
+    <string name="widget_ayet_baslik">Günüň aýet</string>
+    <string name="widget_ayet_bulunamadi">Aýet tapylmady. Programmany açyň.</string>
+    <string name="widget_hadis_acilis">Hadyny täzelemek üçin programmany bir gezek açyň.</string>
+    <string name="widget_hadis_baslik">Günüň hadysy</string>
+    <string name="widget_hadis_bulunamadi">Hadys tapylmady. Programmany açyň.</string>
+    <string name="widget_vakit_acilis">Programmany açyň</string>
+    <string name="widget_vakit_baslik">Indiki wagtyňyz</string>
+    <string name="widget_vakit_bekleniyor">Namaaz wagty garaşylýar</string>
+    <string name="ezan_stop">Azany duruz</string>
+    <string name="widget_gunluk_baslik">Günüň wagtlary</string>
+</resources>

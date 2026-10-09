@@ -226,7 +226,7 @@ void main() {
       final yeniUrl = kuyruk.istekler[siralar.last].url;
       expect(yeniUrl.queryParameters['method'], '4');
       expect(yeniUrl.queryParameters['school'], '0');
-      expect(yeniUrl.queryParameters['adjustmentMethod'], 'MIDDLE');
+      expect(yeniUrl.queryParameters['latitudeAdjustmentMethod'], '1');
 
       kuyruk.cevapVer(siralar.last);
       await akisIlerlet(tester);
@@ -246,13 +246,13 @@ void main() {
       kuyruk.cevapVer(asrSirasi);
       await akisIlerlet(tester);
 
-      // Yüksek enlem (adjustmentMethod) değişimi de kendi parametresini taşır.
-      aktifYuksekEnlemAyaru.value = YuksekEnlemAyaru.ceyrek;
+      // Yüksek enlem (latitudeAdjustmentMethod) değişimi de kendi parametresini taşır.
+      aktifYuksekEnlemAyaru.value = YuksekEnlemAyaru.yedideBir;
       await akisIlerlet(tester);
       final yukSirasi =
           kuyruk.siralari(konumTokyo, yil: testYili, ay: testAyi).last;
-      expect(kuyruk.istekler[yukSirasi].url.queryParameters['adjustmentMethod'],
-          'QUARTER');
+      expect(kuyruk.istekler[yukSirasi].url.queryParameters['latitudeAdjustmentMethod'],
+          '2');
       kuyruk.cevapVer(yukSirasi);
       await akisIlerlet(tester);
 

@@ -36,6 +36,7 @@
 
 import 'dart:convert';
 
+import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/services.dart' show rootBundle;
 
 import 'aladhan_cevap.dart';
@@ -311,7 +312,7 @@ class DiyanetDepo {
     try {
       final metin = await _oku(eslemeYolu);
       final sonuc = <String, DiyanetEsleme>{};
-      for (final satir in metin.split('\n')) {
+      for (final satir in const LineSplitter().convert(metin)) {
         if (satir.isEmpty || satir.startsWith('#')) continue;
         final p = satir.split('|');
         // 3 alanlı (eski) satırlar da okunur: parça bilgisi yoksa il
@@ -351,7 +352,7 @@ class DiyanetDepo {
       final metin = await _oku('$parcaDizini$ilDosya');
       final liste = <Map<String, dynamic>>[];
       String? cityId;
-      for (final satir in metin.split('\n')) {
+      for (final satir in const LineSplitter().convert(metin)) {
         if (satir.isEmpty) continue;
         if (satir.startsWith('#@')) {
           cityId = satir.substring(2).split('|').first;
@@ -389,6 +390,7 @@ class DiyanetDepo {
     required int cityId,
     required String ilDosya,
     required DateTime tarih,
+    int ileriGun = 7,
   }) async {
     final p = await paket();
     if (p == null) {
@@ -398,7 +400,8 @@ class DiyanetDepo {
       return DiyanetSonuc(
         durum: DiyanetDurum.kapsamBitti,
         paket: p,
-        ayrinti: '${p.ilkTarih} .. ${p.sonTarih} arası resmî veri var',
+        ayrinti: 'diyanet_aralik_var'.tr(
+            args: ['${p.ilkTarih}', '${p.sonTarih}']),
       );
     }
     for (final b in p.bosluklar) {
@@ -406,8 +409,8 @@ class DiyanetDepo {
         return DiyanetSonuc(
           durum: DiyanetDurum.paketBosluk,
           paket: p,
-          ayrinti: '${b.baslangic} .. ${b.bitis} arası Diyanet '
-              'henüz yayımlamadı (${b.eksikGun} gün)',
+          ayrinti: 'diyanet_aralik_yayimlanmadi'.tr(
+              args: ['${b.baslangic}', '${b.bitis}', '${b.eksikGun}']),
         );
       }
     }
@@ -440,7 +443,7 @@ class DiyanetDepo {
       } else {
         final f = gun.tarih.difference(
             DateTime(tarih.year, tarih.month, tarih.day)).inDays;
-        if (f > 0 && f <= 7) siradaki.add(gun);
+        if (f > 0 && f <= ileriGun) siradaki.add(gun);
       }
     }
 
@@ -448,7 +451,7 @@ class DiyanetDepo {
       return DiyanetSonuc(
         durum: DiyanetDurum.yerlesimYok,
         paket: p,
-        ayrinti: 'CityID $cityId için $ilDosya içinde gün yok',
+        ayrinti: 'diyanet_gun_yok'.tr(args: ['$cityId', ilDosya]),
       );
     }
     siradaki.sort((x, y2) => x.tarih.compareTo(y2.tarih));
