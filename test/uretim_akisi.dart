@@ -411,6 +411,52 @@ class BellekCevirici extends AssetLoader {
     'data_load_error': 'Vakitler yüklenemedi.',
     'no_internet_city': 'İnternet yok, veri alınamadı.',
     'tasbih': 'Tesbih',
+    // Ayarlar sayfasında resmî mod açıkken görünen metinler. Bunlar
+    // `ayar_kapali_resmi_not` / `asr_resmi_not` gibi ZORUNLU anahtarlardır:
+    // bellekte gerçek metinle dönmezse test "yok" sanıp yeşil geçer.
+    'kaynak_diyanet': 'Diyanet resmî vakitleri',
+    'ayar_kapali_resmi_not': 'Kapalı — resmî Diyanet verisi',
+    'asr_resmi_not':
+        'İkindi vakti resmî tablodan alınır. Asr hesabı uygulanmaz.',
+    'yuksek_enlem_resmi_not': 'Diyanet’in yayımladığı vakitler aynen '
+        'kullanılır. Ek yüksek enlem hesabı kapalıdır.',
+    'yuksek_enlem_hesaplanmis_not': 'Yalnız hesaplanmış vakitlere uygulanır. '
+        'Türkiye’de varsayılan kaynak resmî Diyanet’tir.',
+    'high_latency': 'Yüksek enlem ayarı',
+    'asr_method': 'Asr hesaplama yöntemi',
+    'calculation_method': 'Hesaplama Yöntemi',
+    'method_auto_desc': 'Ülkenize uygun resmi yöntem otomatik seçilir.',
+    // Enum adları: menüler `ceviriAdi` getter'ı üzerinden bunları okur.
+    'asr_standart_ad': 'Standart (Hanefi olmayan)',
+    'asr_hanafi_ad': 'Hanefi',
+    'yuksek_enlem_yarisi_ad': 'Gecenin yarısı',
+    'yuksek_enlem_yedide_bir_ad': 'Gecenin yedide biri',
+    'yuksek_enlem_aci_ad': 'Açı tabanlı',
+    // AnaSayfa kaynak şeridi. Bu metinler kaynağın dürüstlüğünü ölçer:
+    // "Diyanet" yazısı yalnız gerçekten Diyanet tablosundan bir satır
+    // geldiğinde görünür, hesaplanmış veride görünmez. Testler bu ayrımı
+    // ekran metni üzerinden ölçtüğü için kaynak metinler ZORUNLUDUR.
+    'kaynak_diyanet_guncel': 'Diyanet resmî vakitleri · güncel tablo',
+    'kaynak_hesaplanmis': 'Hesaplanmış',
+    'kaynak_resmi_onbellek': 'resmî önbellek',
+    'kaynak_resmi_web': 'resmî web',
+    'kaynak_alindi': 'alındı {tarih}',
+    'kaynak_surum_ve_tarih': 'sürüm {surum} · alındı {tarih}',
+    'data_source_live': 'Canlı veri',
+    'data_source_cache': 'Önbellekten',
+    'data_source_unknown': 'Güncelleme bilgisi yok',
+    'data_updated_now': 'az önce güncellendi',
+    'data_updated_minutes': '{} dakika önce güncellendi',
+    'data_updated_hours': '{} saat önce güncellendi',
+    'data_updated_days': '{} gün önce güncellendi',
+    'resmi_not_asr_enlem': 'Resmî Diyanet tablosu Asr ve yüksek enlem ayarını '
+        'içermez; bu ayarlar bu ekranda vakitleri değiştirmez.',
+    // Konum uyarıları (SnackBar metinleri).
+    'konum_eski_korundu': 'Mevcut konum korundu.',
+    'loc_service_off': 'Konum servisleri kapalı.',
+    'loc_perm_denied': 'Konum izni reddedildi.',
+    'loc_perm_forever': 'Konum izinleri kalıcı olarak reddedildi.',
+    'loc_error': 'Konum bulunamadı.',
     // Bildirim durumu uyarıları. Sıralama motorun `uyariAgirlikSirasi`
     // ile aynıdır: en ağırı sonuç olarak bildirilir.
     'exact_alarm_yok': 'Tam zamanlı alarm izni yok — bildirimler yaklaşık '
@@ -531,7 +577,7 @@ void testOrtaminiSifirla() {
   aktifUlkeKodu.value = 'TR';
   aktifHesaplamaYontemi.value = null;
   aktifAsrYontemi.value = AsrYontemi.standart;
-  aktifYuksekEnlemAyaru.value = YuksekEnlemAyaru.orta;
+  aktifYuksekEnlemAyaru.value = YuksekEnlemAyaru.geceninYarisi;
   erkenUyariSuresi.value = 0;
   gunesDogumuBildirimiAcik.value = false;
 }

@@ -32,13 +32,17 @@
 // çağırır.
 
 import 'dart:async';
+import 'dart:io' show Platform;
 
+import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:timezone/timezone.dart' as tz;
 
 import 'aladhan_cevap.dart';
+import 'ezan_platformu.dart';
+import 'bildirim_ayarlari.dart';
 import 'saat.dart';
 
 /// Bildirimin türü. Kimlik ve metin bu değerden türetilir.
@@ -73,7 +77,8 @@ int bildirimKimligi(String anahtar) {
 
 /// Bir bildirimin kimlik anahtarı. Tarih + vakit + tür.
 String kimlikAnahtari(DateTime tarih, String vakit, BildirimTuru tur) {
-  final t = '${tarih.year.toString().padLeft(4, '0')}-'
+  final t =
+      '${tarih.year.toString().padLeft(4, '0')}-'
       '${tarih.month.toString().padLeft(2, '0')}-'
       '${tarih.day.toString().padLeft(2, '0')}';
   // "namaz_vakitleri" öneki bu motorun kimliklerini diğer olası
@@ -121,7 +126,8 @@ class PlanOzeti {
 
 /// Alarm planını hesaplar. SAF fonksiyon.
 class BildirimPlanlayici {
-  const BildirimPlanlayici();
+  const BildirimPlanlayici({this.gunSiniri = enAzGun});
+  final int gunSiniri;
 
   /// En az kaç gün ileri planlanır.
   static const int enAzGun = 7;
@@ -139,11 +145,13 @@ class BildirimPlanlayici {
     required int erkenUyariDakika,
     required bool gunesDogumuBildirimiAcik,
     required String Function(String anahtar) cevir,
-    String Function(String vakitAnahtari, int dakika) vakitAdiCevir = _varsayilanVakitAdi,
+    String Function(String vakitAnahtari, int dakika) vakitAdiCevir =
+        _varsayilanVakitAdi,
     String Function(int dakika, String vakitAdi)? erkenUyariMetni,
     String Function(String vakitAdi)? vakitMetni,
     String Function()? gunesDogumuMetni,
     bool tamZamanli = true,
+    BildirimAyarlari ayarlar = const BildirimAyarlari(),
   }) {
     final simdi = sehirSaati.simdi();
     if (simdi == null) {
@@ -164,19 +172,17 @@ class BildirimPlanlayici {
     for (final gun in sirali) {
       if (sehirSaati.saatDilimiCozulemedi) break;
 
-      // Gün başlangıcı: seçili şehrin o günü, gece yarısı.
-      final gunBaslangic = tz.TZDateTime(
-          sehirSaati.location!, gun.yil, gun.ay, gun.gun);
-
       // Bu gün artık geçtiyse (şehirde şimdi bu günden sonraysa) atla.
       //
       // DİKKAT: `kapsananGun` sayacı BURADA artırılmaz. Sayaç yalnız
       // planlanan günleri sayar. Önceden kontrol `continue`'dan sonra
       // geldiği için geçmiş günler sayacı tüketiyor ve 7 güne ulaşılamıyordu.
-      if (!simdi.isBefore(gunBaslangic.add(const Duration(days: 1)))) {
+      final gunBitis = tz.TZDateTime(sehirSaati.location!,
+        gun.yil, gun.ay, gun.gun + 1);
+      if (!simdi.isBefore(gunBitis)) {
         continue;
       }
-      if (kapsananGun >= enAzGun) break;
+      if (kapsananGun >= gunSiniri) break;
       kapsananGun++;
 
       for (final alan in VakitAlani.sirali) {
@@ -202,39 +208,55 @@ class BildirimPlanlayici {
 
         final vakitAdi = vakitAdiCevir(alan.anahtar, erkenUyariDakika);
         final a = kimlikAnahtari(gun.tarih, alan.anahtar, tur);
-        sonuc.add(PlanlananBildirim(
-          kimlik: bildirimKimligi(a),
-          kimlikAnahtari: a,
-          zaman: vakitZamani,
-          baslik: cevir(tur == BildirimTuru.gunesDogumu
-              ? 'notif_sunrise_title'
-              : 'notif_time_reached'),
-          icerik: tur == BildirimTuru.gunesDogumu
-              ? (gunesDogumuMetni?.call() ?? cevir('notif_sunrise_body'))
-              : (vakitMetni?.call(vakitAdi) ??
-                  cevir('notif_time_reached_body')),
-          tur: tur,
-          tarih: gun.tarih,
-          vakitAnahtari: alan.anahtar,
-        ));
+        if (tur != BildirimTuru.vakit ||
+            ayarlar.modu(alan.anahtar) != VakitBildirimModu.kapali) {
+          sonuc.add(
+            PlanlananBildirim(
+              kimlik: bildirimKimligi(a),
+              kimlikAnahtari: a,
+              zaman: vakitZamani,
+              baslik: cevir(
+                tur == BildirimTuru.gunesDogumu
+                    ? 'notif_sunrise_title'
+                    : 'notif_time_reached',
+              ),
+              icerik: tur == BildirimTuru.gunesDogumu
+                  ? (gunesDogumuMetni?.call() ?? cevir('notif_sunrise_body'))
+                  : (vakitMetni?.call(vakitAdi) ??
+                        cevir('notif_time_reached_body')),
+              tur: tur,
+              tarih: gun.tarih,
+              vakitAnahtari: alan.anahtar,
+            ),
+          );
+        }
 
         // Erken uyarı: AYRI bir tür ve ayrı bir kanal. Kullanıcı erken
         // uyarıyı kapatıp vakit bildirimini açık bırakabilmeli.
         if (tur == BildirimTuru.vakit && erkenUyariDakika > 0) {
-          final erkenZaman = vakitZamani.subtract(Duration(minutes: erkenUyariDakika));
+          final erkenZaman = vakitZamani.subtract(
+            Duration(minutes: erkenUyariDakika),
+          );
           if (erkenZaman.isAfter(simdi)) {
-            final ea = kimlikAnahtari(gun.tarih, alan.anahtar, BildirimTuru.erkenUyari);
-            sonuc.add(PlanlananBildirim(
-              kimlik: bildirimKimligi(ea),
-              kimlikAnahtari: ea,
-              zaman: erkenZaman,
-              baslik: cevir('early_warning'),
-              icerik: erkenUyariMetni?.call(erkenUyariDakika, vakitAdi) ??
-                  '$erkenUyariDakika $vakitAdi',
-              tur: BildirimTuru.erkenUyari,
-              tarih: gun.tarih,
-              vakitAnahtari: alan.anahtar,
-            ));
+            final ea = kimlikAnahtari(
+              gun.tarih,
+              alan.anahtar,
+              BildirimTuru.erkenUyari,
+            );
+            sonuc.add(
+              PlanlananBildirim(
+                kimlik: bildirimKimligi(ea),
+                kimlikAnahtari: ea,
+                zaman: erkenZaman,
+                baslik: cevir('early_warning'),
+                icerik:
+                    erkenUyariMetni?.call(erkenUyariDakika, vakitAdi) ??
+                    '$erkenUyariDakika $vakitAdi',
+                tur: BildirimTuru.erkenUyari,
+                tarih: gun.tarih,
+                vakitAnahtari: alan.anahtar,
+              ),
+            );
           }
         }
       }
@@ -247,7 +269,8 @@ class BildirimPlanlayici {
     );
   }
 
-  static String _varsayilanVakitAdi(String vakitAnahtari, int _) => vakitAnahtari;
+  static String _varsayilanVakitAdi(String vakitAnahtari, int _) =>
+      vakitAnahtari;
 }
 
 /// Bildirim planına yazma hakkının SIRASINI ve son seçim numarasını tutar.
@@ -352,11 +375,18 @@ class BildirimMotoru {
     required this.eklenti,
     required this.planlayici,
     required PlanSirasi sira,
+    this.ezan,
+    this.cevir,
+    this.arkaPlan = false,
     Future<SharedPreferences> Function()? tercih,
-  })  : _tercih = tercih ?? SharedPreferences.getInstance,
-        _sira = sira;
+  }) : _tercih = tercih ?? SharedPreferences.getInstance,
+       _sira = sira;
 
   final FlutterLocalNotificationsPlugin eklenti;
+  final EzanPlatformu? ezan;
+  final String Function(String)? cevir;
+  final bool arkaPlan;
+  String _cevir(String key) => cevir?.call(key) ?? key.tr();
   final BildirimPlanlayici planlayici;
   final Future<SharedPreferences> Function() _tercih;
 
@@ -368,7 +398,7 @@ class BildirimMotoru {
   static const String _kimlikDiziniAnahtari = 'bildirim_motoru_kimlikleri';
 
   static const String vakitKanal = 'ezan_kanali_arka_plan';
-  static const String erkenUyariKanal = 'erken_uyari_kanali';
+  static const String erkenUyariKanal = 'erken_uyari_sicak_v1';
   static const String gunesDogumuKanal = 'gunes_dogumu_kanali';
 
   // -- UYGULAMA SIRASI --
@@ -420,8 +450,10 @@ class BildirimMotoru {
       if (_sira.gecmisMi(secimNo)) {
         // Daha yeni bir seçim var: bu plan sözü söylemez. Uygulansaydı
         // yeni planın bildirimlerini üzerine yazardı.
-        debugEkle('geç kalan plan uygulanmadı '
-            '(seçim $secimNo < ${_sira.sonSecim})');
+        debugEkle(
+          'geç kalan plan uygulanmadı '
+          '(seçim $secimNo < ${_sira.sonSecim})',
+        );
         return ozet;
       }
 
@@ -435,11 +467,15 @@ class BildirimMotoru {
   /// kaydı normal uygulama yoluyla korunur.
   Future<PlanOzeti> planiTemizle({required int secimNo}) {
     _sira.secimiKaydet(secimNo);
-    return _sira.sirala(() => _uygulaKilitli(const PlanOzeti(
-      bildirimler: [],
-      kapsananGunSayisi: 0,
-      tamZamanli: true,
-    )));
+    return _sira.sirala(
+      () => _uygulaKilitli(
+        const PlanOzeti(
+          bildirimler: [],
+          kapsananGunSayisi: 0,
+          tamZamanli: true,
+        ),
+      ),
+    );
   }
 
   /// Tam zamanlı alarm izni var mı?
@@ -454,8 +490,10 @@ class BildirimMotoru {
   /// sorgudan sonra kendi seçim numarasını yeniden denetlemelidir.
   Future<bool> tamZamanliIzinVar() async {
     try {
-      final e = eklenti.resolvePlatformSpecificImplementation<
-          AndroidFlutterLocalNotificationsPlugin>();
+      final e = eklenti
+          .resolvePlatformSpecificImplementation<
+            AndroidFlutterLocalNotificationsPlugin
+          >();
       if (e == null) return true; // iOS/desktop: kısıt yok
       return await e.canScheduleExactNotifications() ?? false;
     } catch (_) {
@@ -471,8 +509,10 @@ class BildirimMotoru {
   /// kullanımı Play tarafından reddedilme riski taşır.
   Future<bool> tamZamanliIzinIste() async {
     try {
-      final e = eklenti.resolvePlatformSpecificImplementation<
-          AndroidFlutterLocalNotificationsPlugin>();
+      final e = eklenti
+          .resolvePlatformSpecificImplementation<
+            AndroidFlutterLocalNotificationsPlugin
+          >();
       if (e == null) return true;
       await e.requestExactAlarmsPermission();
       return await e.canScheduleExactNotifications() ?? false;
@@ -519,6 +559,21 @@ class BildirimMotoru {
   ///     reddedilirse sistemde ESKİ değerler durur; yeni değerleri başarı
   ///     diye raporlamak sonucu gerçeğin tersine çevirirdi.
   Future<PlanOzeti> _uygulaKilitli(PlanOzeti ozet) async {
+    const kanal = MethodChannel('namaz_vakitleri/renewal');
+    int? lease;
+    if (Platform.isAndroid && !arkaPlan) {
+      lease = await kanal.invokeMethod<int>('foregroundBegin');
+    }
+    try {
+      final h = await _tercih();
+      if (Platform.isAndroid) await h.reload();
+      return await _uygulaVeri(ozet);
+    } finally {
+      if (lease != null) await kanal.invokeMethod<void>('foregroundEnd', lease);
+    }
+  }
+
+  Future<PlanOzeti> _uygulaVeri(PlanOzeti ozet) async {
     final h = await _tercih();
     final eski = (h.getStringList(_kimlikDiziniAnahtari) ?? <String>[])
         .map(int.tryParse)
@@ -533,7 +588,8 @@ class BildirimMotoru {
     for (final e in yeniKumeler.keys) {
       await eklenti
           .resolvePlatformSpecificImplementation<
-              AndroidFlutterLocalNotificationsPlugin>()
+            AndroidFlutterLocalNotificationsPlugin
+          >()
           ?.createNotificationChannel(
             AndroidNotificationChannel(
               e,
@@ -541,11 +597,14 @@ class BildirimMotoru {
               // değiştirilemez; Android bunu desteklemez. Başlık ve
               // içerik ise her planda güncel dilden üretilir.
               e == vakitKanal
-                  ? 'Vakit'
+                  ? _cevir('kanal_vakit')
                   : e == erkenUyariKanal
-                      ? 'Erken uyarı'
-                      : 'Güneş doğuşu',
+                  ? _cevir('kanal_erken_uyari')
+                  : _cevir('kanal_gunes_dogumu'),
               importance: Importance.max,
+              sound: e == erkenUyariKanal
+                  ? const RawResourceAndroidNotificationSound('hatirlatici')
+                  : null,
             ),
           );
     }
@@ -553,6 +612,12 @@ class BildirimMotoru {
     // Bu planın İSTEDİĞİ kimlikler: ne olursa olsun artık gerekmeyen
     // bildirimlerin iptal listesi bundan türetilir.
     final hedef = <int>{for (final b in ozet.bildirimler) b.kimlik};
+    // Reserve ownership before a headless engine can be interrupted by a
+    // foreground selection. The next plan can cancel even partial writes.
+    if (arkaPlan) {
+      await h.setStringList(_kimlikDiziniAnahtari,
+        {...eski, ...hedef}.map((id) => '$id').toList());
+    }
 
     // Gerçekten kurulanlar.
     final kurulan = <int>{};
@@ -562,47 +627,23 @@ class BildirimMotoru {
     for (final b in ozet.bildirimler) {
       final detay = _detay(b);
       var kuruldu = false;
-
       if (tamZamanliBasarili) {
         try {
-          await eklenti.zonedSchedule(
-            id: b.kimlik,
-            title: b.baslik,
-            body: b.icerik,
-            scheduledDate: b.zaman,
-            notificationDetails: detay,
-            androidScheduleMode: AndroidScheduleMode.exactAllowWhileIdle,
-            payload: '${b.tur.name}|${b.vakitAnahtari}|${b.kimlikAnahtari}',
-          );
+          await _planla(b, detay, exact: true);
           kuruldu = true;
         } on PlatformException {
-          // İzin yok ya da cihaz reddetti. Yaklaşık moda düşüyoruz.
-          // Uyarının KENDİSİ döngüden sonra, sonuca bağlı olarak üretilir
-          // (bkz. "YAKLAŞIK MOD BİLDİRİMİ"): buradaki tek iş yola çıkmak.
           tamZamanliBasarili = false;
         }
       }
-
       if (!kuruldu) {
         try {
-          await eklenti.zonedSchedule(
-            id: b.kimlik,
-            title: b.baslik,
-            body: b.icerik,
-            scheduledDate: b.zaman,
-            notificationDetails: detay,
-            androidScheduleMode: AndroidScheduleMode.inexactAllowWhileIdle,
-            payload: '${b.tur.name}|${b.vakitAnahtari}|${b.kimlikAnahtari}',
-          );
+          await _planla(b, detay, exact: false);
           kuruldu = true;
         } catch (e) {
-          // Yaklaşık kurulum da reddedildi: bu bildirim KURULMADI. Kimliği
-          // kayıt altına alınmaz; sonuç da onu başarı saymaz.
           uyari = agirUari(uyari, 'bildirim_kurulamadi');
           debugEkle('bildirim planlanamadı ${b.kimlik}: $e');
         }
       }
-
       if (kuruldu) kurulan.add(b.kimlik);
     }
 
@@ -641,6 +682,7 @@ class BildirimMotoru {
     final iptalEdilemeyenler = <int>{};
     for (final kimlik in eski.difference(hedef)) {
       try {
+        await ezan?.iptal(kimlik);
         await eklenti.cancel(id: kimlik);
       } catch (e) {
         // Hâlâ sistemde duruyor: izi silmek onu bir daha hiç aranamaz
@@ -655,19 +697,52 @@ class BildirimMotoru {
     // burada, sonraki uygulamada tekrar denebilsin diye.
     final sahiplenilen = <int>{...izlenen, ...iptalEdilemeyenler};
     await h.setStringList(
-        _kimlikDiziniAnahtari, sahiplenilen.map((e) => e.toString()).toList());
+      _kimlikDiziniAnahtari,
+      sahiplenilen.map((e) => e.toString()).toList(),
+    );
 
     return PlanOzeti(
       // Yalnız bu uygulamanın DEĞERLERİNİ sistemde yazdığı bildirimler.
       // `hedef ∩ eski` kümesi bilinçli olarak DIŞARIDA: o kimlik sistemde
       // ESKİ zaman/metinlerle duruyor, yenisi reddedildi.
-      bildirimler:
-          ozet.bildirimler.where((b) => kurulan.contains(b.kimlik)).toList(
-              growable: false),
+      bildirimler: ozet.bildirimler
+          .where((b) => kurulan.contains(b.kimlik))
+          .toList(growable: false),
       kapsananGunSayisi: ozet.kapsananGunSayisi,
       tamZamanli: tamZamanliBasarili,
       uyari: uyari,
     );
+  }
+
+  Future<void> _planla(
+    PlanlananBildirim b,
+    NotificationDetails detay, {
+    required bool exact,
+  }) async {
+    if (ezan != null && b.tur == BildirimTuru.vakit) {
+      await eklenti.cancel(id: b.kimlik);
+      await ezan!.planla({
+        'id': b.kimlik,
+        'time': b.zaman.millisecondsSinceEpoch,
+        'title': b.baslik,
+        'body': b.icerik,
+        'prayer': b.vakitAnahtari,
+        'channel': _cevir('kanal_vakit'),
+        'stop': _cevir('ezan_stop'),
+      }, exact: exact);
+    } else {
+      await eklenti.zonedSchedule(
+        id: b.kimlik,
+        title: b.baslik,
+        body: b.icerik,
+        scheduledDate: b.zaman,
+        notificationDetails: detay,
+        androidScheduleMode: exact
+            ? AndroidScheduleMode.exactAllowWhileIdle
+            : AndroidScheduleMode.inexactAllowWhileIdle,
+        payload: '${b.tur.name}|${b.vakitAnahtari}|${b.kimlikAnahtari}',
+      );
+    }
   }
 
   /// Uygulama güncellendiğinde/cihaz yeniden başladığında planın geri
@@ -695,6 +770,7 @@ class BildirimMotoru {
         .toList();
     for (final id in ids) {
       try {
+        await ezan?.iptal(id);
         await eklenti.cancel(id: id);
       } catch (_) {}
     }
@@ -718,6 +794,9 @@ class BildirimMotoru {
         priority: b.tur == BildirimTuru.gunesDogumu
             ? Priority.defaultPriority
             : Priority.high,
+        sound: b.tur == BildirimTuru.erkenUyari
+            ? const RawResourceAndroidNotificationSound('hatirlatici')
+            : null,
         // Ayrı kanallar kullanıcıya ayrı kapatma imkânı verir.
         // Güneş doğuşu varsayılan olarak kapalıdır.
       ),

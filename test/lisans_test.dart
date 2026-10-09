@@ -1,9 +1,20 @@
 // Lisans/atif bilgilerinin dogrulugu. ODbL-1.0 kopyalaç bir lisans oldugu
 // icin kaynak gosterimi ZORUNLUDUR; bu test eksik kalan bir atfi yakalar.
+import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:namaz_vakitleri/data/lisans_bilgileri.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 void main() {
+  setUpAll(() async {
+    // `lisansGirdileri` artik `final` ve `kaynak` alani ceviri anahtarindan
+    // gelir; bu yuzden ceviri ortamini kuruyoruz. easy_localization
+    // SharedPreferences kullandigi icin mock degerler gerekli.
+    TestWidgetsFlutterBinding.ensureInitialized();
+    SharedPreferences.setMockInitialValues(<String, Object>{});
+    await EasyLocalization.ensureInitialized();
+  });
+
   group('Lisans girdileri', () {
     test('en az bir veri seti atfi var', () {
       expect(lisansGirdileri, isNotEmpty);

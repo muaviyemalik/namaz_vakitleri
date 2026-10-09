@@ -159,3 +159,14 @@ Bu maddeler tamamlanana kadar AlQuran Cloud **"kullanılan servis" olarak sunulm
 Flutter/Dart uygulama kodu bu depoda bulunur. Kullanılan Flutter
 paketlerinin lisansları `pubspec.lock` dosyasındaki paketlerin kendi
 depolarında listelenmiştir.
+
+## Ezan ve hatırlatma sesleri (7 Ekim 2026)
+
+Android raw kaynakları: Sabah Sabâ, Öğle Uşşak, İkindi Hicaz, Akşam Segâh, Yatsı Rast.
+Kaynak: https://konyacami.com/cami-musikisi ; tekil URL/hash dökümü: assets/audio_sources.json.
+Kullanıcı bu kayıtları indirme ve uygulamaya ekleme talimatı verdi. Dağıtım lisansı
+bağımsız doğrulanmadı; bu kayıtlar CC0 veya telifsiz diye etiketlenmez. Yayın için
+kullanım izni konusu açık tutulur.
+
+Hatırlatıcı Sıcak yükseliş: bu proje için matematiksel sinüs dalgalarından sentezlenen
+özgün 1,44 saniyelik ton. Üçüncü taraf kayıt/sample kullanılmadı.

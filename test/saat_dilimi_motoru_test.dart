@@ -444,13 +444,13 @@ void main() {
 
     test('yuksek enlem ayari modelde ve onbellek anahtarinda AYRILIR', () {
       final a = _konum(tromsoBilgi)
-          .kopyala(yuksekEnlemAyaru: YuksekEnlemAyaru.orta);
+          .kopyala(yuksekEnlemAyaru: YuksekEnlemAyaru.geceninYarisi);
       final b = _konum(tromsoBilgi)
-          .kopyala(yuksekEnlemAyaru: YuksekEnlemAyaru.ceyrek);
+          .kopyala(yuksekEnlemAyaru: YuksekEnlemAyaru.yedideBir);
       expect(a.onbellekAnahtari(yil: 2026, ay: 12),
           isNot(b.onbellekAnahtari(yil: 2026, ay: 12)));
-      expect(a.yuksekEnlemAyaru.apiParametresi, 'MIDDLE');
-      expect(b.yuksekEnlemAyaru.apiParametresi, 'QUARTER');
+      expect(a.yuksekEnlemAyaru.apiParametresi, '1');
+      expect(b.yuksekEnlemAyaru.apiParametresi, '2');
     });
 
     test('asr yontemi onbellek anahtarini degistirir', () {

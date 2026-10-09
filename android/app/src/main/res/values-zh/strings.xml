@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- UYGULAMA ADI, WIDGET BASLIKLARI VE YEDEK METERI. -->
+<!-- Es zamanli: assets/i18n/ceviri/<dil>.json icindeki ayni
+     anahtarlardan uretilir. Iki taraf ayri ayri degistirilirse
+     widget metni ile ceviri dosyasi uyusmaz. -->
+<resources>
+    <string name="app_name">祈祷时间</string>
+    <string name="widget_ayet_acilis">请打开一次应用以更新经文。</string>
+    <string name="widget_ayet_baslik">今日经文</string>
+    <string name="widget_ayet_bulunamadi">未找到经文。请打开应用。</string>
+    <string name="widget_hadis_acilis">请打开一次应用以更新圣训。</string>
+    <string name="widget_hadis_baslik">今日圣训</string>
+    <string name="widget_hadis_bulunamadi">未找到圣训。请打开应用。</string>
+    <string name="widget_vakit_acilis">请打开应用</string>
+    <string name="widget_vakit_baslik">下一次祈祷</string>
+    <string name="widget_vakit_bekleniyor">等待礼拜时间</string>
+    <string name="ezan_stop">停止宣礼</string>
+    <string name="widget_gunluk_baslik">今日时间</string>
+</resources>

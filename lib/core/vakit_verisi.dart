@@ -69,6 +69,9 @@ enum VakitKaynagi {
   /// bu etiket yeniden kullanılmaz.
   resmiDiyanet,
 
+  /// Aynı CityID için Diyanet HTTPS tablosundan doğrulanmış güncel veri.
+  resmiDiyanetGuncel,
+
   /// Hiçbir kaynak yok; kullanıcıya hata gösterilecek.
   yok,
 }
@@ -112,7 +115,11 @@ class VakitDepo {
   static const String onek = 'vakitler_';
   static const String _ozetOnek = 'vakit_ozet_';
   static const String _bozukOnek = 'vakit_bozuk_';
-  static const String _dilimOnek = 'vakit_dilim_';
+  static const String _dilimOnek = 'vakit_dilim_v2_';
+
+  String _dilimAnahtari(Konum konum) =>
+      '$_dilimOnek${konum.ulkeIso2}_${konum.enlem.toStringAsFixed(4)}_'
+      '${konum.boylam.toStringAsFixed(4)}_${konum.hesapAnahtari}';
 
   static const int _enFazlaBozukKayit = 8;
 
@@ -254,7 +261,7 @@ class VakitDepo {
         'gunSayisi': sirali.length,
         'konumAdi': konum.ad,
       }));
-      await h.setString('$_dilimOnek${konum.hesapAnahtari}',
+      await h.setString(_dilimAnahtari(konum),
           cevp.saatDilimi);
       return true;
     } catch (e) {
@@ -273,7 +280,8 @@ class VakitDepo {
   /// yokken de doğru günü bulabilmeliyiz.
   Future<String?> kayitliSaatDilimi(Konum konum) async {
     final h = await _tercih();
-    return h.getString('$_dilimOnek${konum.hesapAnahtari}');
+    // Konumsuz eski kayıt başka şehrin dilimi olabilir; yeni anahtara taşınmaz.
+    return h.getString(_dilimAnahtari(konum));
   }
 
   // -- AĞ CEVABINI DEĞERLENDİRME ----------------------------------------

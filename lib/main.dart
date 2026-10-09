@@ -1,5 +1,11 @@
 // lib/main.dart
 import 'dart:io' show Platform;
+// Keeps the annotated headless entrypoint in the AOT application.
+import 'core/plan_yenileme.dart' as renewal;
+import 'core/diyanet_konum.dart';
+import 'core/bildirim_ayarlari.dart';
+import 'core/ilk_kurulum.dart';
+import 'pages/ilk_kurulum_sayfasi.dart';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
@@ -26,6 +32,14 @@ import 'pages/ayarlar_sayfasi.dart';
 /// örneği kullanır, böylece ana ekran / geri sayım / bildirim / widget
 /// AYNI kaynaktan beslenir.
 final DiyanetDepo diyanetDepo = DiyanetDepo();
+// Ayarlar da ekranın kullandığı doğrulanmış kaynağı görür.
+final aktifVakitDurumu = ValueNotifier<VakitDurumu?>(null);
+final diyanetKonumCozucu = DiyanetKonumCozucu(diyanetDepo);
+bool ilkKurulumBekliyor = false;
+
+// Manuel seçim, yeni GPS isteği ve ülke seçimi önceki işlemi iptal eder.
+int konumSecimSurumu = 0;
+int konumSecimiBaslat() => ++konumSecimSurumu;
 
 /// Türkiye'de resmî Diyanet verisi kullanılsın mı?
 ///
@@ -149,6 +163,7 @@ const String kayitliResmiDiyanetAnahtari = 'resmi_diyanet_acik';
 const String kayitliYontemAnahtari = 'secili_hesaplama_yontemi';
 const String kayitliAsrAnahtari = 'secili_asr_yontemi';
 const String kayitliYuksekEnlemAnahtari = 'secili_yuksek_enlem';
+String? yuksekEnlemGecisBilgisi;
 const String kayitliGunesDogumuAnahtari = 'secili_gunes_dogumu_bildirimi';
 
 // Seçilen hesaplama yöntemi (Aladhan "method" parametresi).
@@ -173,7 +188,7 @@ final ValueNotifier<int?> aktifHesaplamaYontemi = ValueNotifier<int?>(null);
 final ValueNotifier<AsrYontemi> aktifAsrYontemi =
     ValueNotifier<AsrYontemi>(AsrYontemi.standart);
 final ValueNotifier<YuksekEnlemAyaru> aktifYuksekEnlemAyaru =
-    ValueNotifier<YuksekEnlemAyaru>(YuksekEnlemAyaru.orta);
+    ValueNotifier<YuksekEnlemAyaru>(YuksekEnlemAyaru.geceninYarisi);
 
 Future<void> hesaplamaYontemiKaydet(int? yontemId) async {
   final SharedPreferences hafiza = await SharedPreferences.getInstance();
@@ -190,8 +205,9 @@ Future<void> hesaplamaYontemiKaydet(int? yontemId) async {
 // Altıncı ve yedinci alan resmî Diyanet kimliğidir (il adı ve CityID).
 // ESKİ KAYITLARDA YOKTUR; okunduğunda boş gelirler ve konum yeniden
 // eşlenir (bkz. konumYukle). Kullanıcının mevcut verisi SİLİNMEZ.
-Future<void> konumKaydet(Konum konum) async {
+Future<void> konumKaydet(Konum konum, {bool Function()? guncelMi}) async {
   final SharedPreferences hafiza = await SharedPreferences.getInstance();
+  if (!(guncelMi?.call() ?? true)) return;
   await hafiza.setString(
     kayitliKonumAnahtari,
     '${konum.ad}|${konum.ulkeIso2}|${konum.enlem}|${konum.boylam}|${konum.saatDilimi}'
@@ -199,8 +215,9 @@ Future<void> konumKaydet(Konum konum) async {
   );
 }
 
-Future<void> ulkeKaydet(String iso2) async {
+Future<void> ulkeKaydet(String iso2, {bool Function()? guncelMi}) async {
   final SharedPreferences hafiza = await SharedPreferences.getInstance();
+  if (!(guncelMi?.call() ?? true)) return;
   await hafiza.setString(kayitliUlkeAnahtari, iso2);
 }
 
@@ -222,12 +239,17 @@ Future<void> konumKaydetTemizle() async {
 /// bilinir; bilinmiyorsa boş bırakılır ve `KonumTakvimi` boylama dayalı
 /// tahminle hangi ayın isteneceğini belirler. Cevap gelince
 /// [konumSaatDilimiKesinlestir] ile kesinleştirilir.
-Future<void> konumAyarla(Sehir sehir) async {
+Future<void> konumAyarla(Sehir sehir, {int? secimSurumu, String? ulke,
+    bool Function()? guncelMi}) async {
+  final surum = secimSurumu ?? konumSecimiBaslat();
+  final ulkeKodu = ulke ?? aktifUlkeKodu.value;
+  bool gecerli() => surum == konumSecimSurumu && (guncelMi?.call() ?? true);
+  if (!gecerli()) return;
   final depo = VakitDepo(saat: uygulamaSaati);
-  final kimlik = await diyanetKimligiCoz(sehir);
+  final kimlik = await diyanetKimligiCoz(sehir, ulke: ulkeKodu);
   final kayitliTz = await depo.kayitliSaatDilimi(Konum(
     ad: sehir.ad,
-    ulkeIso2: aktifUlkeKodu.value,
+    ulkeIso2: ulkeKodu,
     enlem: sehir.enlem,
     boylam: sehir.boylam,
     // Bu çağrı yalnız anahtar üretmek içindir; saat dilimi burada
@@ -238,10 +260,12 @@ Future<void> konumAyarla(Sehir sehir) async {
 
   final konum = Konum(
     ad: sehir.ad,
-    ulkeIso2: aktifUlkeKodu.value,
+    ulkeIso2: ulkeKodu,
     enlem: sehir.enlem,
     boylam: sehir.boylam,
-    saatDilimi: kayitliTz ?? '',
+    saatDilimi: ulkeKodu == 'TR' && aktifResmiDiyanet.value && kimlik.cityId != null
+        ? kTurkiyeSaatDilimi
+        : kayitliTz ?? '',
     yontemId: aktifHesaplamaYontemi.value,
     asrYontemi: AsrYontemi.values.byName(
         aktifAsrYontemi.value.name),
@@ -251,9 +275,15 @@ Future<void> konumAyarla(Sehir sehir) async {
     diyanetParca: kimlik.parca,
   );
 
+  if (!gecerli()) return;
+  if (aktifUlkeKodu.value != ulkeKodu) {
+    aktifUlkeKodu.value = ulkeKodu;
+    await ulkeKaydet(ulkeKodu, guncelMi: gecerli);
+    if (!gecerli()) return;
+  }
   if (aktifKonum.value == konum) return; // Değişiklik yok.
   aktifKonum.value = konum;
-  await konumKaydet(konum);
+  await konumKaydet(konum, guncelMi: gecerli);
 }
 
 /// Bir şehir kaydının resmî Diyanet kimliği.
@@ -274,8 +304,8 @@ class DiyanetKimlik {
 /// tablosu okunur. Anahtar KESİNTİR: normalize edilmiş il + ad. Birden çok
 /// aday varsa veya aday yoksa `cityId` boş kalır; uygulama o yerleşim için
 /// il merkezinin vakitlerini KOPYALAMAZ, "resmî veri yok" der.
-Future<DiyanetKimlik> diyanetKimligiCoz(Sehir sehir) async {
-  if (aktifUlkeKodu.value != 'TR') return DiyanetKimlik.yok;
+Future<DiyanetKimlik> diyanetKimligiCoz(Sehir sehir, {String? ulke}) async {
+  if ((ulke ?? aktifUlkeKodu.value) != 'TR') return DiyanetKimlik.yok;
   if (sehir.il.isEmpty) return DiyanetKimlik.yok;
   final e = await diyanetDepo.eslemeBul(il: sehir.il, ad: sehir.ad);
   // Parça adı eşleme dosyasından gelir; burada yeniden hesaplanmaz.
@@ -317,8 +347,14 @@ Future<void> konumYukle() async {
   aktifHesaplamaYontemi.value = hafiza.getInt(kayitliYontemAnahtari);
 
   aktifAsrYontemi.value = _asrOku(hafiza.getString(kayitliAsrAnahtari));
-  aktifYuksekEnlemAyaru.value =
-      _yuksekEnlemOku(hafiza.getString(kayitliYuksekEnlemAnahtari));
+  final eskiEnlem = hafiza.getString(kayitliYuksekEnlemAnahtari);
+  final yeniEnlem = _yuksekEnlemOku(eskiEnlem);
+  aktifYuksekEnlemAyaru.value = yeniEnlem;
+  if (eskiEnlem != null && eskiEnlem != yeniEnlem.kod) {
+    await hafiza.setString(kayitliYuksekEnlemAnahtari, yeniEnlem.kod);
+    yuksekEnlemGecisBilgisi = 'Eski yüksek enlem seçeneği desteklenmiyordu. '
+        'Gecenin yarısı seçildi; hesaplanmış vakitler bu ayarla yenilenecek.';
+  }
   gunesDogumuBildirimiAcik.value =
       hafiza.getBool(kayitliGunesDogumuAnahtari) ?? false;
 
@@ -336,7 +372,11 @@ Future<void> konumYukle() async {
         // YOKTUR. Bu durumda konum yine de yüklenir (kullanıcının verisi
         // silinmez) ama resmî kimlik boş kalır; aşağıda il bilgisi elde
         // edilirse kimlik yeniden çözülür.
-        final il = parca.length >= 6 ? parca[5] : '';
+        var il = parca.length >= 6 ? parca[5] : '';
+        if (il.isEmpty && parca[1] == 'TR') {
+          final eski = await diyanetKonumCozucu.eskiKayit(parca[0], enlem, boylam);
+          if (eski != null) il = eski.il;
+        }
         final kayitliId =
             parca.length >= 7 ? int.tryParse(parca[6]) : null;
         aktifKonum.value = Konum(
@@ -353,11 +393,12 @@ Future<void> konumYukle() async {
           il: il,
           diyanetCityId: kayitliId,
         );
-        // Resmî kimlik kayıtlı değilse (eski kurulum) burada sessizce
-        // vazgeçilmez: kimlik çözülebilirse çözülür.
-        if (kayitliId == null && il.isNotEmpty) {
+        // Parça yolu kayıtta tutulmaz; her açılışta paket eşlemesinden
+        // geri bağlanır. Kayıtlı CityID başka bir kimlikle değiştirilmez.
+        if (aktifKonum.value!.ulkeIso2 == 'TR' && il.isNotEmpty) {
           final e = await diyanetDepo.eslemeBul(il: il, ad: parca[0]);
-          if (e != null && e.parca.isNotEmpty) {
+          if (e != null && e.parca.isNotEmpty &&
+              (kayitliId == null || kayitliId == e.cityId)) {
             aktifKonum.value = aktifKonum.value!
                 .kopyala(diyanetCityId: e.cityId, diyanetParca: e.parca);
             await konumKaydet(aktifKonum.value!);
@@ -367,35 +408,13 @@ Future<void> konumYukle() async {
     }
   }
 
-  if (aktifKonum.value == null) {
-    // Ankara'nın koordinatları: Türkiye'de makul bir başlangıç noktası.
-    // Saat dilimi BİLİNÇLİ OLARAK boş bırakılır: ilk cevap gelene kadar
-    // tahmin kullanılır, cihaz saatine sessizce düşülmez.
-    aktifKonum.value = Konum(
-      ad: 'Ankara',
-      ulkeIso2: 'TR',
-      enlem: 39.9334,
-      boylam: 32.8597,
-      saatDilimi: '',
-      yontemId: aktifHesaplamaYontemi.value,
-      asrYontemi: aktifAsrYontemi.value,
-      yuksekEnlemAyaru: aktifYuksekEnlemAyaru.value,
-      il: 'Ankara',
-    );
-    // Ankara resmî katalogda vardır; kimlik ilk açılışta çözülür.
-    final e = await diyanetDepo.eslemeBul(il: 'Ankara', ad: 'Ankara');
-    if (e != null && e.parca.isNotEmpty) {
-      aktifKonum.value =
-          aktifKonum.value!.kopyala(diyanetCityId: e.cityId, diyanetParca: e.parca);
-    }
-  }
 }
 
 AsrYontemi _asrOku(String? kod) => AsrYontemi.values
     .firstWhere((a) => a.kod == kod, orElse: () => AsrYontemi.standart);
 
 YuksekEnlemAyaru _yuksekEnlemOku(String? kod) => YuksekEnlemAyaru.values
-    .firstWhere((a) => a.kod == kod, orElse: () => YuksekEnlemAyaru.orta);
+    .firstWhere((a) => a.kod == kod, orElse: () => YuksekEnlemAyaru.geceninYarisi);
 
 Future<void> asrYontemiKaydet(AsrYontemi a) async {
   final h = await SharedPreferences.getInstance();
@@ -423,7 +442,7 @@ Future<void> erkenUyariYukle() async {
   final SharedPreferences hafiza = await SharedPreferences.getInstance();
   final int? kayitliDakika = hafiza.getInt('kayitli_erken_uyari');
   if (kayitliDakika != null) {
-    erkenUyariSuresi.value = kayitliDakika;
+    erkenUyariSuresi.value = [0, 15, 30, 45, 60].contains(kayitliDakika) ? kayitliDakika : 0;
   }
 }
 
@@ -461,6 +480,9 @@ Future<void> temaRenginiYukle() async {
 }
 
 // --- BAŞLANGIÇ NOKTASI ---
+@pragma('vm:entry-point')
+Future<void> arkaPlanYenile() => renewal.arkaPlanYenile();
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await EasyLocalization.ensureInitialized();
@@ -493,7 +515,11 @@ void main() async {
   // fiziksel iPhone'da doğrulanmamıştır. iOS yayın desteği iddiası
   // README'den kaldırılmıştır; buradaki düzeltme yalnız "açılışta
   // ArgumentError" yolunu kapatır.
-  const DarwinInitializationSettings iOSAyarlari = DarwinInitializationSettings();
+  const DarwinInitializationSettings iOSAyarlari = DarwinInitializationSettings(
+    requestAlertPermission: false,
+    requestBadgePermission: false,
+    requestSoundPermission: false,
+  );
 
   const InitializationSettings baslangicAyarlari = InitializationSettings(
     android: androidAyarlari,
@@ -516,7 +542,10 @@ void main() async {
   await temaRenginiYukle();
   await temaModunuYukle();
   await erkenUyariYukle();
+  await bildirimAyarlariYukle();
   await konumYukle();
+  ilkKurulumBekliyor = await ilkKurulumGerekir(
+      await SharedPreferences.getInstance(), kayitliKonumGecerli: aktifKonum.value != null);
 
   // Dil katalogu: 152 resmi dil, otokton adlar, yazım yönü ve cevirisi
   // hazir olan diller. supportedLocales sabit bir liste degil, bu
@@ -582,7 +611,7 @@ class NamazVakitleriApp extends StatelessWidget {
                       yerellestirmeDelegeleri(context.localizationDelegates),
                   supportedLocales: context.supportedLocales,
                   locale: context.locale,
-                  title: 'Namaz Vakitleri',
+                  title: 'app_name'.tr(),
                   themeMode: aktifMod,
 
                   // SAGDAN SOLA DIL DESTEGI
@@ -615,7 +644,8 @@ class NamazVakitleriApp extends StatelessWidget {
                     useMaterial3: true,
                     cardTheme: CardThemeData(elevation: 4, margin: const EdgeInsets.symmetric(vertical: 6, horizontal: 16), shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12))),
                   ),
-                  home: const AnaMenu(), 
+                  home: BaslangicSayfasi(kurulumGerekli: ilkKurulumBekliyor,
+                    anaMenu: const AnaMenu()),
                 );
               }
             );

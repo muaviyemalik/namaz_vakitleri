@@ -1,7 +1,5 @@
 <appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
-    android:minWidth="200dp"
-    android:minHeight="100dp"
-    android:updatePeriodMillis="0"
-    android:initialLayout="@layout/widget_ayet"
-    android:resizeMode="horizontal|vertical"
-    android:widgetCategory="home_screen" />
+    android:minWidth="200dp" android:minHeight="140dp" android:minResizeWidth="200dp" android:minResizeHeight="140dp"
+    android:targetCellWidth="4" android:targetCellHeight="2"
+    android:updatePeriodMillis="1800000" android:initialLayout="@layout/widget_ayet" android:previewLayout="@layout/widget_ayet"
+    android:resizeMode="horizontal|vertical" android:widgetCategory="home_screen" />

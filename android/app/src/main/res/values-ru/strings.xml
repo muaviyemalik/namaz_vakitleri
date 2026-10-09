@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- UYGULAMA ADI, WIDGET BASLIKLARI VE YEDEK METERI. -->
+<!-- Es zamanli: assets/i18n/ceviri/<dil>.json icindeki ayni
+     anahtarlardan uretilir. Iki taraf ayri ayri degistirilirse
+     widget metni ile ceviri dosyasi uyusmaz. -->
+<resources>
+    <string name="app_name">Время намаза</string>
+    <string name="widget_ayet_acilis">Откройте приложение один раз, чтобы обновить аят.</string>
+    <string name="widget_ayet_baslik">Аят дня</string>
+    <string name="widget_ayet_bulunamadi">Аят не найден. Откройте приложение.</string>
+    <string name="widget_hadis_acilis">Откройте приложение один раз, чтобы обновить хадис.</string>
+    <string name="widget_hadis_baslik">Хадис дня</string>
+    <string name="widget_hadis_bulunamadi">Хадис не найден. Откройте приложение.</string>
+    <string name="widget_vakit_acilis">Откройте приложение</string>
+    <string name="widget_vakit_baslik">Следующий намаз</string>
+    <string name="widget_vakit_bekleniyor">Ожидание времени намаза</string>
+    <string name="ezan_stop">Остановить азан</string>
+    <string name="widget_gunluk_baslik">Времена на сегодня</string>
+</resources>

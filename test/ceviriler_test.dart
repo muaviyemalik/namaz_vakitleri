@@ -22,8 +22,117 @@ const String referansDil = 'tur';
 /// Arayuzde `.tr()` ile kullanilan ve HER dilde bulunmasi gereken anahtarlar.
 /// Yeni bir arayuz metni eklerken buraya da eklenmeli.
 const List<String> zorunluAnahtarlar = <String>[
+  'setup_title', 'setup_city', 'setup_alert', 'setup_permissions',
+  'setup_location_off', 'setup_location_denied', 'setup_location_error',
+  'setup_city_desc', 'setup_alert_desc', 'setup_silent_desc',
+  'setup_permissions_desc', 'setup_notification_desc', 'setup_alarm_desc',
+  'setup_location_desc', 'setup_granted', 'setup_missing', 'setup_not_checked',
+  'setup_request', 'setup_missing_desc', 'setup_permission_error',
+  'setup_back', 'setup_next', 'setup_finish',
   'all_languages',
+  'notification_settings',
+  'notification_settings_desc',
+  'prayer_notifications',
+  'adhan_mode',
+  'notification_only',
+  'adhan_silent',
+  'adhan_volume_desc',
+  'adhan_dnd',
+  'adhan_dnd_desc',
+  'adhan_controls_desc',
+  'reminder_common_desc',
+  'reminder_sound',
+  'warm_rise',
+  'sound_preview',
+  'ezan_stop',
+  'alarm_access',
+  'alarm_access_desc',
+  'system_notifications',
+  'notification_save_failed',
+  'notification_preview_failed',
+  'min_before_60',
+
   'app_name',
+  // --- Kaynak gostergesi (AnaSayfa) ---
+  'kaynak_diyanet',
+  'kaynak_diyanet_guncel',
+  'kaynak_hesaplanmis',
+  'kaynak_resmi_onbellek',
+  'kaynak_resmi_web',
+  'kaynak_alindi',
+  'kaynak_surum_ve_tarih',
+  'resmi_not_asr_enlem',
+  // --- Konum uyarilari ---
+  'konum_bulundu',
+  'konum_eski_korundu',
+  'konum_ilce_kesinlesmedi',
+  'konum_yerlesim_kesinlesmedi',
+  // --- Ayarlar: resmi Diyanet tercihi ve hesaplama ayarlari ---
+  'ayar_kapali_resmi_not',
+  'diyanet_acik_desc',
+  'diyanet_acik_veri_yok_desc',
+  'diyanet_kapali_desc',
+  'diyanet_yalniz_turkiye',
+  'yuksek_enlem_desc',
+  'asr_resmi_not',
+  'yuksek_enlem_resmi_not',
+  'yuksek_enlem_hesaplanmis_not',
+  // --- Zikirmatik hedefi ---
+  'hedef_sayisi',
+  'zikir_hedef_tamamlandi',
+  'zikir_hedef_bildirim',
+  // --- Diyanet veri ayrintilari (kullaniciya gosterilir) ---
+  'diyanet_aralik_var',
+  'diyanet_aralik_yayimlanmadi',
+  'diyanet_gun_yok',
+  // --- Bildirim ---
+  'kanal_vakit',
+  'kanal_erken_uyari',
+  'kanal_gunes_dogumu',
+  'saat_dilimi_cozulemedi',
+  // --- Lisans: Diyanet girdisi ceviriEki ile URETILEN iki anahtar ---
+  'license_diyanet_title',
+  'license_diyanet_desc',
+  'lisans_diyanet_kaynak',
+  // --- Hesaplama yontemleri (22 yontem) ---
+  'yontem_0',
+  'yontem_1',
+  'yontem_2',
+  'yontem_3',
+  'yontem_4',
+  'yontem_5',
+  'yontem_7',
+  'yontem_8',
+  'yontem_9',
+  'yontem_10',
+  'yontem_11',
+  'yontem_12',
+  'yontem_13',
+  'yontem_14',
+  'yontem_16',
+  'yontem_17',
+  'yontem_18',
+  'yontem_19',
+  'yontem_20',
+  'yontem_21',
+  'yontem_22',
+  'yontem_23',
+  'parametre_fajr',
+  'parametre_isha',
+  'parametre_isha_aralik',
+  // --- Asr / yuksek enlem enum adlari ---
+  'asr_standart_ad',
+  'asr_hanafi_ad',
+  'yuksek_enlem_yarisi_ad',
+  'yuksek_enlem_yedide_bir_ad',
+  'yuksek_enlem_aci_ad',
+  // --- Widget (Android kaynak dosyalariyla ayni icerik) ---
+  'widget_vakit_bekleniyor',
+  'widget_ayet_acilis',
+  'widget_hadis_acilis',
+  'widget_ayet_bulunamadi',
+  'widget_hadis_bulunamadi',
+  'widget_vakit_acilis',
   'asr',
   'ayah_of_the_day',
   'calculation_method',
@@ -206,6 +315,138 @@ void main() {
       expect(tur['bildirim_kurulamadi'], isNot(tur['exact_alarm_yok']));
       expect(tur['bildirim_iptal_edilemedi'], isNot(tur['exact_alarm_yok']));
     });
+  });
+
+  test('DINAMIK uretilen tum anahtarlar 25 dosyada da var', () {
+    // Bu anahtarlar kodda DIZGI olarak yazili degil; birlestirme ile
+    // uretiliyor. Statik arama onlari gormez, bu yuzden ayrica denetlenir:
+    //
+    //   - Lisans basligi/aciklamasi: `'${g.ceviriEki}_title'.tr()`
+    //     `lisans_bilgileri.dart` icindeki her `ceviriEki` degerinden
+    //     uretilir. (Once `license_diyanet_title/desc` HICbir dilde
+    //     yoktu; yasal notlar sayfasi ham anahtar adi gosteriyordu.)
+    //   - Bildirim uyarilari: motor bir ANAHTAR dizesi uretip
+    //     `uyari` alaninda doner, ekran `.tr()` ile cozer.
+    const ceviriEkiDegerleri = <String>[
+      'license_city_db',
+      'license_country_lang',
+      'license_geonames',
+      'license_iso639',
+      'license_diyanet',
+      'license_aladhan',
+      'license_quran',
+    ];
+    const uyariAnahtarlari = <String>[
+      'exact_alarm_yok',
+      'bildirim_kurulamadi',
+      'bildirim_iptal_edilemedi',
+      'saat_dilimi_cozulemedi',
+    ];
+
+    final Map<String, List<String>> sorunlar = <String, List<String>>{};
+    for (final dil in tumDiller()) {
+      final Set<String> kume = anahtarlar(dil);
+      final List<String> eksikler = <String>[
+        for (final e in ceviriEkiDegerleri) ...<String>[
+          '${e}_title',
+          '${e}_desc',
+        ],
+        ...uyariAnahtarlari,
+      ].where((a) => !kume.contains(a)).toList();
+      if (eksikler.isNotEmpty) sorunlar[dil] = eksikler;
+    }
+
+    expect(sorunlar, isEmpty,
+        reason: 'Kodda birlestirmeyle uretilen anahtarlar eksik. Eksik '
+            'anahtar, o dilde ham anahtar adi olarak gorunur:\n'
+            '${sorunlar.entries.map((e) => '  ${e.key} -> ${e.value.join(', ')}').join('\n')}');
+  });
+
+  test('Android values-<xx>/strings.xml ceviri dosyalariyla ayni icerigi tasiyor', () {
+    // Widget ve launcher etiketi uygulama acilmadan once gorunur; bu
+    // yuzden Android tarafinda AYRI bir ceviri katmani vardir. Iki katman
+    // birbirinden ayriysa widget basligi ile uygulama metni uyusmaz.
+    //
+    // Android string kaynak adi -> ceviri anahtari eslesmesi.
+    const eslesme = <String, String>{
+      'app_name': 'app_name',
+      'widget_vakit_baslik': 'next_time',
+      'widget_gunluk_baslik': 'today_times',
+      'widget_vakit_bekleniyor': 'widget_vakit_bekleniyor',
+      'widget_ayet_baslik': 'ayah_of_the_day',
+      'widget_ayet_acilis': 'widget_ayet_acilis',
+      'widget_hadis_baslik': 'hadith_of_the_day',
+      'widget_hadis_acilis': 'widget_hadis_acilis',
+      'widget_ayet_bulunamadi': 'widget_ayet_bulunamadi',
+      'widget_hadis_bulunamadi': 'widget_hadis_bulunamadi',
+      'widget_vakit_acilis': 'widget_vakit_acilis',
+    };
+
+    // 3 harfli uygulama kodu -> Android values-<xx> kodu.
+    const kodEsleme = <String, String>{
+      'tur': 'tr', 'eng': 'en', 'deu': 'de', 'fra': 'fr', 'spa': 'es',
+      'ita': 'it', 'por': 'pt', 'pol': 'pl', 'ron': 'ro', 'ind': 'id',
+      'tuk': 'tk', 'vie': 'vi', 'rus': 'ru', 'ukr': 'uk', 'ara': 'ar',
+      'fas': 'fa', 'zho': 'zh', 'jpn': 'ja', 'kor': 'ko', 'tha': 'th',
+      'ben': 'bn', 'tam': 'ta', 'nep': 'ne', 'mya': 'my', 'amh': 'am',
+    };
+
+    String kacir(String metin) => metin
+        .replaceAll('&amp;', '&')
+        .replaceAll('&lt;', '<')
+        .replaceAll('&gt;', '>')
+        .replaceAll("\\'", "'")
+        .trim();
+
+    final Map<String, List<String>> sorunlar = <String, List<String>>{};
+    for (final dil in tumDiller()) {
+      final xx = kodEsleme[dil];
+      if (xx == null) {
+        sorunlar[dil] = <String>['Android values kodu tanimsiz'];
+        continue;
+      }
+      final yol = dil == 'tur'
+          ? 'android/app/src/main/res/values/strings.xml'
+          : 'android/app/src/main/res/values-$xx/strings.xml';
+
+      final File f = File(yol);
+      if (!f.existsSync()) {
+        sorunlar[dil] = <String>['dosya yok: $yol'];
+        continue;
+      }
+      final String icerik = f.readAsStringSync(encoding: utf8);
+      // Her kaynagi tek tek eslestirmek icin tum eslesmeleri aliyoruz.
+      final Map<String, String> androidMetin = <String, String>{};
+      for (final sat in icerik.split('\n')) {
+        final RegExpMatch? s = RegExp(r'<string name="([^"]+)">(.*)</string>')
+            .firstMatch(sat);
+        if (s != null) androidMetin[s.group(1)!] = kacir(s.group(2)!);
+      }
+      if (androidMetin.isEmpty) {
+        sorunlar[dil] = <String>['string kaynagi cozulemedi: $yol'];
+        continue;
+      }
+
+      final Map<String, dynamic> ceviriVerisi = dosyaOku(dil);
+      final List<String> farkli = <String>[];
+      eslesme.forEach((kaynakAdi, anahtar) {
+        final String? android = androidMetin[kaynakAdi];
+        if (android == null) {
+          farkli.add('$kaynakAdi -> kaynak eksik');
+          return;
+        }
+        // `dosyaOku` Map<String, dynamic> doner; deger String olmalidir.
+        if (ceviriVerisi[anahtar] != android) {
+          farkli.add('$kaynakAdi != $anahtar');
+        }
+      });
+      if (farkli.isNotEmpty) sorunlar[dil] = farkli;
+    }
+
+    expect(sorunlar, isEmpty,
+        reason: 'Android widget metinleri ceviri dosyalariyla uyusmuyor. '
+            'Widget, uygulama acilmadan once bu kaynaklardan okur:\n'
+            '${sorunlar.entries.map((e) => '  ${e.key} -> ${e.value.join(', ')}').join('\n')}');
   });
 
   test('hicbir deger bos degil', () {

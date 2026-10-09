@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- UYGULAMA ADI, WIDGET BASLIKLARI VE YEDEK METERI. -->
+<!-- Es zamanli: assets/i18n/ceviri/<dil>.json icindeki ayni
+     anahtarlardan uretilir. Iki taraf ayri ayri degistirilirse
+     widget metni ile ceviri dosyasi uyusmaz. -->
+<resources>
+    <string name="app_name">ဝတ်ပြုအချိန်များ</string>
+    <string name="widget_ayet_acilis">အာယ်ဝင်ကို မွမ်းမံရန် အက်ပ်ကို တစ်ကြိမ်တက်ဆွင်းပါ။</string>
+    <string name="widget_ayet_baslik">ယနေ့တို့၏အာယုတ်</string>
+    <string name="widget_ayet_bulunamadi">အာယ်ဝင်ကို မတွေ့နိုင်ပါ။ အက်ပ်ကို တက်ဆွင်းပါ။</string>
+    <string name="widget_hadis_acilis">ဟဒီစ်ကို မွမ်းမံရန် အက်ပ်ကို တစ်ကြိမ်တက်ဆွင်းပါ။</string>
+    <string name="widget_hadis_baslik">ယနေ့တို့၏ဟဒီသည်</string>
+    <string name="widget_hadis_bulunamadi">ဟဒီစ်ကို မတွေ့နိုင်ပါ။ အက်ပ်ကို တက်ဆွင်းပါ။</string>
+    <string name="widget_vakit_acilis">အက်ပ်ကို တက်ဆွင်းပါ</string>
+    <string name="widget_vakit_baslik">နောက်အချိန်</string>
+    <string name="widget_vakit_bekleniyor">ဝတ်ပြုချက်အချိန် စောင့်ဆိုင်းနေသည်</string>
+    <string name="ezan_stop">အဇန် ရပ်ရန်</string>
+    <string name="widget_gunluk_baslik">ယနေ့၏ အချိန်များ</string>
+</resources>

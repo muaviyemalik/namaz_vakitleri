@@ -1,4 +1,4 @@
-# diyanet | surum=diyanet-2026-10-03.1 | eslesme=802 | katalog kaydi=862 | eslesmeyen=265
+# diyanet | surum=diyanet-2026-10-04.1 | eslesme=802 | katalog kaydi=862 | eslesmeyen=265
 adana|adana|9146|TR/adana.txt
 adana|aladag|9147|TR/adana.txt
 adana|ceyhan|9148|TR/adana.txt

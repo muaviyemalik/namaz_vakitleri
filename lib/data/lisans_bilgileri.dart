@@ -1,5 +1,13 @@
 // lib/data/lisans_bilgileri.dart
 //
+// DIYANET KAYNAGI NEDEN `final`?
+// `kaynak` alani baska girdilerde proper noun (veri seti adi, API adi) ve
+// cevrilmez; Diyanet girdisinde ise Turkce bir cumledir. Once sabit metin
+// idi ve 24 dilde Turkce kaliyordu; artik `lisans_diyanet_kaynak` ceviri
+// anahtarindan gelir. Bu bir calisma zamani cagrisi oldugu icin liste
+// `const` olamaz. `test/lisans_test.dart` yalnizca alanlarin DOLU oldugunu
+// olcer, `const` oldugunu degil; bu yuzden test degismez.
+//
 // Uygulama icinde gosterilen lisans ve atif bilgileri.
 //
 // NEDEN BU KADAR KAPSAMLI?
@@ -10,6 +18,8 @@
 // gorunmelidir.
 //
 // Lisanslar (GitHub API ile dogrulandi):
+import 'package:easy_localization/easy_localization.dart';
+
 //   dr5hn/countries-states-cities-database -> ODbL-1.0   (kopyalaç)
 //   mledoze/countries                       -> ODbL-1.0   (kopyalaç)
 //   haliaeetus/iso-639                       -> MIT         (serbest)
@@ -33,6 +43,18 @@ class LisansGirdisi {
   final String baslik;
   final String aciklama;
   final String lisans;
+
+  /// Ekranda gösterilen kaynak adı.
+  ///
+  /// Diyanet satırı dışındaki kaynaklar kural olarak proper noun'dur
+  /// (GeoNames cities15000, Aladhan Prayer Times API, AlQuran Cloud) ve
+  /// çevrilmez. Diyanet satırı ise Türkçe bir cümledir, bu yüzden
+  /// `lisans_diyanet_kaynak` anahtarından çevrilir.
+  ///
+  /// ÇEVİRİ ÇÖZÜLEMEZSE TÜRKÇE YEDEK DÖNER, ham anahtar adı DEĞİL.
+  /// Çünkü bu sınıf veri katmanıdır; birim testlerde `rootBundle` yoktur ve
+  /// çeviri dosyaları yüklenmez. Bu durumda arayüzde `lisans_diyanet_kaynak`
+  /// yazmak, Türkçe metni göstermekten çok daha kötüdür.
   final String? kaynak;
   final String? url;
   final bool kopyalac;
@@ -58,8 +80,24 @@ class LisansGirdisi {
   });
 }
 
+/// Diyanet kaynağının kullanıcı diline çevrilmiş hâli.
+///
+/// Çeviri çözülemezse Türkçe kaynak metin döner; arayüzde asla ham anahtar
+/// adı (`lisans_diyanet_kaynak`) görünmez.
+String _diyanetKaynagi() {
+  const String anahtar = 'lisans_diyanet_kaynak';
+  final String c = anahtar.tr();
+  return c == anahtar
+      ? 'T.C. Diyanet İşleri Başkanlığı — Namaz Vakitleri'
+      : c;
+}
+
 /// Uygulamanin kullandigi tum ucuncu taraf veri ve servisler.
-const List<LisansGirdisi> lisansGirdileri = [
+///
+/// `final` (const degil) cunku Diyanet girdisinin `kaynak` alani
+/// `lisans_diyanet_kaynak` anahtarindan cevrilir; bu bir calisma zamani
+/// cagrisidir ve const liste icinde yer alamaz.
+final List<LisansGirdisi> lisansGirdileri = [
   // --- Kopyalaç lisanslı veri setleri (atıf zorunlu) ---
   LisansGirdisi(
     baslik: 'Ülke ve Şehir Veritabanı',
@@ -111,7 +149,7 @@ const List<LisansGirdisi> lisansGirdileri = [
         'gömülüdür; internet gerekmez. Diyanet bu vakitlerin kendi resmî '
         'hesaplamalarına dayandığını belirtir.',
     lisans: 'Resmî devlet verisi',
-    kaynak: 'T.C. Diyanet İşleri Başkanlığı — Namaz Vakitleri',
+    kaynak: _diyanetKaynagi(),
     url: 'https://namazvakitleri.diyanet.gov.tr/',
     ceviriEki: 'license_diyanet',
     lisansAnahtari: 'license_diyanet_terms',

@@ -273,10 +273,10 @@ def main():
         ('olmayan CityID\'ye eşleme yok', not olmayan_cid),
         ('boş il parçası yok', not parcasiz),
         ('eksik il parçası dosyası yok', not eksik_parca),
-        ('tarih aralığı 2026-10-03..2027-12-31',
-         kapsam['ilkTarih'] == '2026-10-03'
+        ('tarih aralığı 2026-01-01..2027-12-31',
+         kapsam['ilkTarih'] == '2026-01-01'
          and kapsam['sonTarih'] == '2027-12-31'),
-        ('gün/yerleşim 396', kapsam['verilenGunSayisi'] == 396),
+        ('gün/yerleşim 730', kapsam['verilenGunSayisi'] == 730),
         ('paket bütünlük damgası var', bool(paket['butunluk']['paket'])),
         ('paket bütünlük: 81 parça', len(paket['butunluk']['parcalar']) == 81),
     ]

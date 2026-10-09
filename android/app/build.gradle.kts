@@ -23,9 +23,12 @@ android {
         applicationId = "com.example.namaz_vakitleri"
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
+        testInstrumentationRunner = "com.example.namaz_vakitleri.EzanKontrolRunner"
         versionCode = flutter.versionCode
         versionName = flutter.versionName
     }
+
+    testBuildType = "debug"
 
     buildTypes {
         release {
@@ -70,5 +73,6 @@ flutter {
 }
 
 dependencies {
+    implementation("androidx.work:work-runtime:2.11.2")
     coreLibraryDesugaring("com.android.tools:desugar_jdk_libs:2.1.4")
 }

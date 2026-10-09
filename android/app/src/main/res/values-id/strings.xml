@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- UYGULAMA ADI, WIDGET BASLIKLARI VE YEDEK METERI. -->
+<!-- Es zamanli: assets/i18n/ceviri/<dil>.json icindeki ayni
+     anahtarlardan uretilir. Iki taraf ayri ayri degistirilirse
+     widget metni ile ceviri dosyasi uyusmaz. -->
+<resources>
+    <string name="app_name">Waktu Salat</string>
+    <string name="widget_ayet_acilis">Buka aplikasi sekali untuk memperbarui ayat.</string>
+    <string name="widget_ayet_baslik">Ayat Hari Ini</string>
+    <string name="widget_ayet_bulunamadi">Ayat tidak ditemukan. Silakan buka aplikasi.</string>
+    <string name="widget_hadis_acilis">Buka aplikasi sekali untuk memperbarui hadis.</string>
+    <string name="widget_hadis_baslik">Hadits Hari Ini</string>
+    <string name="widget_hadis_bulunamadi">Hadis tidak ditemukan. Silakan buka aplikasi.</string>
+    <string name="widget_vakit_acilis">Silakan buka aplikasi</string>
+    <string name="widget_vakit_baslik">Salat Berikutnya</string>
+    <string name="widget_vakit_bekleniyor">Menunggu waktu salat</string>
+    <string name="ezan_stop">Hentikan azan</string>
+    <string name="widget_gunluk_baslik">Waktu Salat Hari Ini</string>
+</resources>
