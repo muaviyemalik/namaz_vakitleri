@@ -6,7 +6,7 @@ Son güncelleme: 9 Ekim 2026. Asıl mimari ARCHITECTURE.md; ayrıntı görev rap
 - Son AVD turu: sessiz/DND/ses kısma/ekran geçişi+bildirim koruma20PASS; widget14+gerçek host4PASS. Önceki ringer silent başarısızlığı test sırası/API kaynaklıydı.
 - Font180% Türkçe/İngilizce ana ekran ve Arapça RTL zikir/ayar/bildirim ayarlarında görünür taşma yok; tüm dil/ekran matrisi değil. İngilizce sabit Türkçe başlık kaynak_diyanet çevirisine bağlandı; 7 kaynak+10 çeviri PASS, yeni APK AVD EN başlığı doğrulandı.
 - Tercihler/şehir/sayaç/ezan ayarları korundu, font1.0/idle normal, test APK kaldırıldı; POCO kullanılmadı.
-- EzanServisi stop→500ms bildirim düzeltmesi e53226b/main ile GitHub üzerinde. POCO Android15 matrisi20/widget18PASS; gerçek ezan sesi Malik tarafından duyuldu. Test runner hold OEM instrumentation force-stop kaynaklı test alarmı iptalini önler. Fiziksel uzun idle/titreşim/iOS, tüm dil-boyut ve yayın izinleri açık; kanıt docs/2026-10-09-avd-arka-plan.md.
+- EzanServisi stop→500ms bildirim düzeltmesi e53226b/main ile GitHub üzerinde. POCO Android15 matrisi20/widget18PASS; gerçek ezan sesi Malik tarafından duyuldu. Test runner hold OEM instrumentation force-stop kaynaklı test alarmı iptalini önler. POCO zikirmatik33 hedef bildirimi ve dokunma titreşimi Malik tarafından doğrulandı. Fiziksel uzun idle/iOS, tüm dil-boyut ve yayın izinleri açık; kanıt docs/2026-10-09-avd-arka-plan.md.
 ## 9 Ekim zikirmatik hedef düzeltmesi
 - Hedef menüsünde {sayi} namedArgs ile doldurulur; altı sayı ve seçili hedef çevrilir.
 - Dokunma/ses düğmesi aynı artış yolunda; yalnız açık panelde sayar ve panel anında güncellenir.
