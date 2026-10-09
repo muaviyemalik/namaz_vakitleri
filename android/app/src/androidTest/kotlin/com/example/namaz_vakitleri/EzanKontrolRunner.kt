@@ -6,27 +6,42 @@ import android.content.Context
 import android.media.AudioManager
 import android.os.Bundle
 import android.os.SystemClock
-import android.view.KeyEvent
 import org.json.JSONObject
 
 /** Device test runner, never packaged in the user's app. Preserves real plans/settings. */
 class EzanKontrolRunner : Instrumentation() {
     private val log = mutableListOf<String>()
-    private val id = 2147483645
+    private var id = 2147483600
+    private val testIds = mutableListOf<Int>()
     private var widgetTest = false
     private var widgetHost = false
     private var renewalTest = false
     private var emulatorArgs: Bundle? = null
     override fun onCreate(arguments: Bundle?) { super.onCreate(arguments); emulatorArgs = arguments?.takeIf { it.containsKey("emulator") }; renewalTest = arguments?.getString("renewal") == "true"; widgetTest = arguments?.getString("widget") in listOf("true", "host"); widgetHost = arguments?.getString("widget") == "host"; start() }
-    private fun shell(command: String) {
-        uiAutomation.executeShellCommand(command).use { fd ->
-            java.io.FileInputStream(fd.fileDescriptor).readBytes()
+    private fun shell(command: String): String {
+        return uiAutomation.executeShellCommand(command).use { fd ->
+            java.io.FileInputStream(fd.fileDescriptor).readBytes().toString(Charsets.UTF_8)
         }
+    }
+    private fun hasNotification(c: Context): Boolean {
+        // NotificationManager publishes asynchronously after foreground removal.
+        val deadline = SystemClock.elapsedRealtime() + 5000
+        do {
+            if (shell("cmd notification list").lineSequence().any { it.contains("|${c.packageName}|$id|") }) return true
+            SystemClock.sleep(100)
+        } while (SystemClock.elapsedRealtime() < deadline)
+        return false
     }
     private fun verify(condition: Boolean, name: String) {
         check(condition) { name }; log.add("PASS $name")
     }
     private fun schedule(c: Context, prayer: String = "maghrib") {
+        // Real prayers have distinct IDs; do not race asynchronous FGS removal
+        // against a new alarm reusing the same notification ID in this matrix.
+        id++
+        check(!EzanAlarmlari.prefs(c).contains("alarm_$id")) { "Test ID collides with a real plan" }
+        check(!shell("cmd notification list").contains("|${c.packageName}|$id|")) { "Test ID collides with an existing notification" }
+        testIds.add(id)
         val args = mapOf("id" to id, "time" to System.currentTimeMillis() + 3500,
             "prayer" to prayer, "title" to "Ezan testi", "body" to "Etiketli cihaz testi",
             "stop" to "Testi durdur", "exact" to true)
@@ -78,8 +93,9 @@ class EzanKontrolRunner : Instrumentation() {
             shell("cmd notification allow_dnd " + c.packageName)
             shell("cmd notification set_dnd off")
             uiAutomation.adoptShellPermissionIdentity("android.permission.MODIFY_AUDIO_SETTINGS", "android.permission.ACCESS_NOTIFICATION_POLICY")
-            main { audio.ringerMode = AudioManager.RINGER_MODE_SILENT }
-            shell("cmd notification set_dnd off")
+            // Set the device state as a user would. App API calls on newer SDKs
+            // can create an automatic Zen rule and conflate silent mode with DND.
+            shell("cmd audio set-ringer-mode SILENT")
             SystemClock.sleep(700)
             main {
                 EzanAlarmlari.handle(c, "configure", mapOf("silent" to true, "dnd" to false))
@@ -87,14 +103,19 @@ class EzanKontrolRunner : Instrumentation() {
             }
             uiAutomation.dropShellPermissionIdentity()
             verify(audio.ringerMode != AudioManager.RINGER_MODE_NORMAL, "ringer silent")
+            log.add("STATE notifications=${nm.areNotificationsEnabled()} filter=${nm.currentInterruptionFilter} channel=${nm.getNotificationChannel(EzanAlarmlari.CHANNEL)?.importance} mode=${EzanAlarmlari.mode(c, "maghrib")}")
             verify(EzanAlarmlari.mayPlay(c, "maghrib"), "silent enabled gate")
             schedule(c)
             verify(EzanServisi.caliyor, "exact alarm background playback in silent mode")
-            uiAutomation.injectInputEvent(KeyEvent(KeyEvent.ACTION_DOWN, KeyEvent.KEYCODE_VOLUME_DOWN), true)
-            uiAutomation.injectInputEvent(KeyEvent(KeyEvent.ACTION_UP, KeyEvent.KEYCODE_VOLUME_DOWN), true)
+            shell("input keyevent 25")
             SystemClock.sleep(1500)
-            verify(!EzanServisi.caliyor, "volume down stops current ezan")
-            verify(nm.activeNotifications.any { it.id == id }, "prayer notification retained")
+            if (EzanServisi.caliyor) {
+                log.add("FAIL emulator volume key did not stop playback")
+                main { EzanServisi.stop(c) }
+                SystemClock.sleep(500)
+            } else verify(true, "volume down stops current ezan")
+            if (hasNotification(c)) verify(true, "prayer notification retained")
+            else log.add("FAIL prayer notification not retained after stop")
 
             main { EzanAlarmlari.handle(c, "configure", mapOf("silent" to false, "dnd" to false)) }
             verify(!EzanAlarmlari.mayPlay(c, "maghrib"), "silent setting off gate")
@@ -104,7 +125,13 @@ class EzanKontrolRunner : Instrumentation() {
             verify(!EzanAlarmlari.mayPlay(c, "maghrib"), "DND suppresses audio")
             schedule(c)
             verify(!EzanServisi.caliyor, "DND alarm delivered without playback")
-            verify(nm.activeNotifications.any { it.id == id }, "DND time notification retained")
+            verify(hasNotification(c), "DND time notification retained")
+            main { EzanAlarmlari.handle(c, "configure", mapOf("silent" to true, "dnd" to true)) }
+            verify(EzanAlarmlari.mayPlay(c, "maghrib"), "DND explicitly allowed gate with policy access")
+            schedule(c)
+            verify(EzanServisi.caliyor, "DND explicitly allowed alarm plays")
+            main { EzanServisi.stop(c) }
+            SystemClock.sleep(500)
             shell("cmd notification set_dnd off")
             SystemClock.sleep(700)
             schedule(c, "isha")
@@ -113,13 +140,15 @@ class EzanKontrolRunner : Instrumentation() {
             shell(if (power.isInteractive) "input keyevent 223" else "input keyevent 224")
             SystemClock.sleep(1500)
             verify(!EzanServisi.caliyor, "screen transition stops ezan")
-            verify(nm.activeNotifications.any { it.id == id }, "screen dismiss retains notification")
+            verify(hasNotification(c), "screen dismiss retains notification")
         } catch (e: Throwable) { error = e; log.add("FAIL ${e.message}") }
         finally {
             main {
                 EzanServisi.stop(c)
-                EzanAlarmlari.handle(c, "cancel", mapOf("id" to id))
-                nm.cancel(id)
+                for (testId in testIds) {
+                    EzanAlarmlari.handle(c, "cancel", mapOf("id" to testId))
+                    nm.cancel(testId)
+                }
                 val edit = prefs.edit()
                 if (saved == null) edit.remove("settings") else edit.putString("settings", saved)
                 edit.commit()
@@ -136,6 +165,6 @@ class EzanKontrolRunner : Instrumentation() {
             uiAutomation.dropShellPermissionIdentity()
         }
         val result = Bundle().apply { putString("stream", "\n" + log.joinToString("\n")) }
-        finish(if (error == null) -1 else 0, result)
+        finish(if (error == null && log.none { it.startsWith("FAIL") }) -1 else 0, result)
     }
 }

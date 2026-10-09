@@ -146,7 +146,14 @@ class EzanServisi : Service() {
         val id = activeId; activeId = -1
         if (Build.VERSION.SDK_INT >= 24) stopForeground(STOP_FOREGROUND_REMOVE) else stopForeground(true)
         if (!preview && id >= 0) event?.let {
-            EzanAlarmlari.notificationManager(this).notify(id, EzanAlarmlari.notification(this, it, false))
+            val retained = EzanAlarmlari.notification(this, it, false)
+            // FGS removal is asynchronous in system_server. Updating the same
+            // ID immediately can lose the replacement. Use a separate handler
+            // so onDestroy's audio cleanup cannot cancel this final update.
+            Handler(Looper.getMainLooper()).postDelayed({
+                try { EzanAlarmlari.notificationManager(this).notify(id, retained) }
+                catch (e: Exception) { android.util.Log.w("Ezan", "Retained notification unavailable", e) }
+            }, 500)
         }
         stopSelf()
     }
