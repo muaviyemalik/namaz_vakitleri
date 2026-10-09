@@ -50,6 +50,8 @@
   "found_qible": "أنت متجه نحو القبلة!",
   "hadith_of_the_day": "حديث اليوم",
   "hedef_sayisi": "الهدف: {sayi}",
+  "zikir_hedef_tamamlandi": "اكتمل الهدف",
+  "zikir_hedef_bildirim": "وصلت إلى هدفك وهو {sayi} ذكرًا.",
   "high_latency": "إعداد خطوط العرض العالية",
   "high_latency_setting": "إعداد خطوط العرض العالية: {}",
   "isha": "العشاء",

@@ -50,6 +50,8 @@
   "found_qible": "您已面向克尔白方向！",
   "hadith_of_the_day": "今日圣训",
   "hedef_sayisi": "目标：{sayi}",
+  "zikir_hedef_tamamlandi": "目标已完成",
+  "zikir_hedef_bildirim": "你已完成 {sayi} 次赞念的目标。",
   "high_latency": "high_latency",
   "high_latency_setting": "high_latency_setting",
   "isha": "宵礼 (Isha)",

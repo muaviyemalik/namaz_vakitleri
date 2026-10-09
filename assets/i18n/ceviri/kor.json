@@ -50,6 +50,8 @@
   "found_qible": "키블라를 향하고 있습니다",
   "hadith_of_the_day": "오늘의 하디스",
   "hedef_sayisi": "목표: {sayi}",
+  "zikir_hedef_tamamlandi": "목표 달성",
+  "zikir_hedef_bildirim": "디크르 {sayi}회 목표를 달성했습니다.",
   "high_latency": "high_latency",
   "high_latency_setting": "high_latency_setting",
   "isha": "이샤",

@@ -50,6 +50,8 @@
   "found_qible": "キブラの方向を向いています",
   "hadith_of_the_day": "今日のハディース",
   "hedef_sayisi": "目標：{sayi}",
+  "zikir_hedef_tamamlandi": "目標達成",
+  "zikir_hedef_bildirim": "ズィクル {sayi} 回の目標を達成しました。",
   "high_latency": "high_latency",
   "high_latency_setting": "high_latency_setting",
   "isha": "イシャー",

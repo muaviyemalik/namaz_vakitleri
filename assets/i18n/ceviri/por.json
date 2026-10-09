@@ -50,6 +50,8 @@
   "found_qible": "Está virado para a Qibla!",
   "hadith_of_the_day": "Hadith do Dia",
   "hedef_sayisi": "Objetivo: {sayi}",
+  "zikir_hedef_tamamlandi": "Meta alcançada",
+  "zikir_hedef_bildirim": "Você alcançou sua meta de {sayi} dhikr.",
   "high_latency": "high_latency",
   "high_latency_setting": "high_latency_setting",
   "isha": "Isha",

@@ -50,6 +50,8 @@
   "found_qible": "Anda menghadap Kiblat!",
   "hadith_of_the_day": "Hadits Hari Ini",
   "hedef_sayisi": "Target: {sayi}",
+  "zikir_hedef_tamamlandi": "Target tercapai",
+  "zikir_hedef_bildirim": "Anda mencapai target {sayi} zikir.",
   "high_latency": "Pengaturan lintang tinggi",
   "high_latency_setting": "Pengaturan lintang tinggi: {}",
   "isha": "Isya",

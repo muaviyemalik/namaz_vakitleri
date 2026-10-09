@@ -50,6 +50,8 @@
   "found_qible": "Ви повернуті до Кібли!",
   "hadith_of_the_day": "Хадис дня",
   "hedef_sayisi": "Ціль: {sayi}",
+  "zikir_hedef_tamamlandi": "Мету досягнуто",
+  "zikir_hedef_bildirim": "Ви досягли мети: {sayi} зікрів.",
   "high_latency": "high_latency",
   "high_latency_setting": "high_latency_setting",
   "isha": "Іша",

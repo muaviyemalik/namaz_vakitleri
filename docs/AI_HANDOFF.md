@@ -1,5 +1,11 @@
 # AI devir — güncel çalışma belleği
 Son güncelleme: 9 Ekim 2026. Asıl mimari ARCHITECTURE.md; ayrıntı görev raporlarında.
+## 9 Ekim zikirmatik hedef düzeltmesi
+- Hedef menüsünde {sayi} namedArgs ile doldurulur; altı sayı ve seçili hedef çevrilir.
+- Dokunma/ses düğmesi aynı artış yolunda; yalnız açık panelde sayar ve panel anında güncellenir.
+- Hedef geçişinde bir haptic + sessiz bildirim; devam sayımı tekrarlamaz, sıfırlama yeniden hazırlar. İzin ret sayacı engellemez.
+- 25 dilde tamamlanma metinleri, dört widget regresyonu + 10 çeviri kontrolü. AVD altı hedef, 32→33 bildirim/haptic, 34 tekrar yok doğrulandı.
+- Debug AVD güncellendi; önceki tercihler geri yüklendi. POCO kullanılmadı; 9 Ekim kullanıcı talimatıyla düzenleme fix/diyanet-2026-archive dalında commit/push kapsamındadır.
 ## 8 Ekim telefonda temiz kurulum — son doğrulama
 - Aynı kaynak, haricî Gradle init/manifest ile ayrı kurulumtest paketinde debug
   derlendi. Ana uygulama/verileri korunarak POCO Android 15'te fiziksel test yapıldı.

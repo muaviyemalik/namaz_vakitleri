@@ -50,6 +50,8 @@
   "found_qible": "Ești orientat spre Qibla!",
   "hadith_of_the_day": "Hadithul zilei",
   "hedef_sayisi": "Obiectiv: {sayi}",
+  "zikir_hedef_tamamlandi": "Obiectiv atins",
+  "zikir_hedef_bildirim": "Ai atins obiectivul de {sayi} dhikr.",
   "high_latency": "high_latency",
   "high_latency_setting": "high_latency_setting",
   "isha": "Isha",

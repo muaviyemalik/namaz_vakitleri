@@ -92,7 +92,9 @@ Akış: konum/tercihler → `lib/pages/anasayfa.dart` kaynak seçimi → VakitDu
 - `anasayfa.dart`: sayaciBaslat saniyelik Timer'ı yönetir; hedef vakit seçili
   şehir saatinden gelir. Gün devri/resumed akışı kaynak ve planı günceller.
 - Zikirmatik aynı sayfada ayrı sayaçtır: kayitli_zikir/kayitli_hedef tercihleri,
-  ses düğmesi aboneliği ve hedef titreşimi; vakit geri sayımıyla karıştırma.
+  yalnız açık panelde dokunma/ses düğmesi ortak artış yolu. Hedef eşiği geçişinde
+  tek haptic + sessiz yerel bildirim (-33001/zikir_hedef_v1); sıfırlama yeniden
+  hazırlar. Vakit geri sayımıyla karıştırma.
 - `lib/core/bildirim_motoru.dart`: BildirimPlanlayici saf plan üretir;
   BildirimMotoru platforma zonedSchedule ile uygular. PlanSirasi, seçim numarası
   ve kalıcı kimlik dizini eski seçimlerin alarmı ezmesini engeller.

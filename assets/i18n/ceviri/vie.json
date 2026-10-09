@@ -50,6 +50,8 @@
   "found_qible": "Bạn đang hướng về Qibla",
   "hadith_of_the_day": "Câu truyện trong ngày",
   "hedef_sayisi": "Mục tiêu: {sayi}",
+  "zikir_hedef_tamamlandi": "Đã đạt mục tiêu",
+  "zikir_hedef_bildirim": "Bạn đã đạt mục tiêu {sayi} lần dhikr.",
   "high_latency": "high_latency",
   "high_latency_setting": "high_latency_setting",
   "isha": "Isha",

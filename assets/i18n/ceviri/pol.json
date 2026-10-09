@@ -50,6 +50,8 @@
   "found_qible": "Zwrócony jesteś w stronę Kibli!",
   "hadith_of_the_day": "Hadis dnia",
   "hedef_sayisi": "Cel: {sayi}",
+  "zikir_hedef_tamamlandi": "Cel osiągnięty",
+  "zikir_hedef_bildirim": "Osiągnięto cel: {sayi} zikr.",
   "high_latency": "high_latency",
   "high_latency_setting": "high_latency_setting",
   "isha": "Isza",

@@ -50,6 +50,8 @@
   "found_qible": "You are facing the Qibla!",
   "hadith_of_the_day": "Hadith of the Day",
   "hedef_sayisi": "Target: {sayi}",
+  "zikir_hedef_tamamlandi": "Target completed",
+  "zikir_hedef_bildirim": "You reached your target of {sayi} dhikr.",
   "high_latency": "High-latitude setting",
   "high_latency_setting": "High-latitude setting: {}",
   "isha": "Isha",

@@ -50,6 +50,8 @@
   "found_qible": "ኩብላውን ቀርበዋል!",
   "hadith_of_the_day": "የዛሬ ሐዲስ",
   "hedef_sayisi": "ግብ: {sayi}",
+  "zikir_hedef_tamamlandi": "ግቡ ተሟልቷል",
+  "zikir_hedef_bildirim": "የ{sayi} ዚክር ግብዎን አሳክተዋል።",
   "high_latency": "high_latency",
   "high_latency_setting": "high_latency_setting",
   "isha": "ኢሻ",

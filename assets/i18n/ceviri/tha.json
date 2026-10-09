@@ -50,6 +50,8 @@
   "found_qible": "คุณกำลังหันหน้าสู่กิบลัต",
   "hadith_of_the_day": "หะดีษประจำวัน",
   "hedef_sayisi": "เป้าหมาย: {sayi}",
+  "zikir_hedef_tamamlandi": "บรรลุเป้าหมายแล้ว",
+  "zikir_hedef_bildirim": "คุณบรรลุเป้าหมายซิกรฺ {sayi} ครั้งแล้ว",
   "high_latency": "high_latency",
   "high_latency_setting": "high_latency_setting",
   "isha": "อีชา",

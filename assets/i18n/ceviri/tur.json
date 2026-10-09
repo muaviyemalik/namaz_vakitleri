@@ -50,6 +50,8 @@
   "found_qible": "Kıbledesiniz !",
   "hadith_of_the_day": "Günün Hadisi",
   "hedef_sayisi": "Hedef: {sayi}",
+  "zikir_hedef_tamamlandi": "Hedef tamamlandı",
+  "zikir_hedef_bildirim": "{sayi} zikir hedefine ulaştın.",
   "high_latency": "Yüksek enlem ayarı",
   "high_latency_setting": "Yüksek enlem ayarı: {}",
   "isha": "Yatsı",

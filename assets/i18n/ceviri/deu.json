@@ -50,6 +50,8 @@
   "found_qible": "Sie blicken zur Kibla!",
   "hadith_of_the_day": "Hadith des Tages",
   "hedef_sayisi": "Ziel: {sayi}",
+  "zikir_hedef_tamamlandi": "Ziel erreicht",
+  "zikir_hedef_bildirim": "Du hast dein Ziel von {sayi} Dhikr erreicht.",
   "high_latency": "Einstellung für hohe Breitengrade",
   "high_latency_setting": "Einstellung für hohe Breitengrade: {}",
   "isha": "Ischa",

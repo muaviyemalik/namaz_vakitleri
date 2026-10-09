@@ -50,6 +50,8 @@
   "found_qible": "तपाईं किब्ला तर्फ हुनुहुन्छ!",
   "hadith_of_the_day": "आजको हदीस",
   "hedef_sayisi": "लक्ष्य: {sayi}",
+  "zikir_hedef_tamamlandi": "लक्ष्य पूरा भयो",
+  "zikir_hedef_bildirim": "तपाईंले {sayi} जिक्रको लक्ष्य पूरा गर्नुभयो।",
   "high_latency": "high_latency",
   "high_latency_setting": "high_latency_setting",
   "isha": "इशा",

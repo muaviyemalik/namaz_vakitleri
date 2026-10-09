@@ -84,6 +84,51 @@ Future<void> _hedefKaydet(int deger) async {
   await prefs.setInt('kayitli_hedef', deger);
 }
 
+  StateSetter? _zikirPanelState;
+
+  void _zikirArtir() {
+    if (!mounted || _zikirPanelState == null) return;
+    final onceki = zikirSayaci;
+    setState(() => zikirSayaci++);
+    _zikirPanelState?.call(() {});
+    unawaited(_zikirKaydet(zikirSayaci));
+    if (zikirHedefi > 0 && onceki < zikirHedefi && zikirSayaci >= zikirHedefi) {
+      unawaited(_zikirHedefBildir(zikirHedefi));
+    } else {
+      unawaited(HapticFeedback.lightImpact());
+    }
+  }
+
+  Future<void> _zikirHedefBildir(int hedef) async {
+    try {
+      await HapticFeedback.vibrate();
+    } catch (e) {
+      debugPrint('Zikir hedef titreşimi kullanılamadı: $e');
+    }
+    if (!bildirimYoluCalisir()) return;
+    try {
+      await bildirimServisi.show(
+        id: -33001, // Vakit motorunun pozitif kimliklerinden ayrı.
+        title: 'zikir_hedef_tamamlandi'.tr(),
+        body: 'zikir_hedef_bildirim'.tr(namedArgs: {'sayi': '$hedef'}),
+        notificationDetails: NotificationDetails(
+          android: AndroidNotificationDetails(
+            'zikir_hedef_v1', 'tasbih'.tr(),
+            importance: Importance.high, priority: Priority.high,
+            playSound: false, enableVibration: false,
+          ),
+          iOS: const DarwinNotificationDetails(
+            presentAlert: true, presentSound: false, presentBadge: false,
+          ),
+        ),
+        payload: 'zikir_hedef|$hedef',
+      );
+    } catch (e) {
+      // Bildirim izni/eklenti sorunu saymayı veya titreşimi engellemez.
+      debugPrint('Zikir hedef bildirimi gösterilemedi: $e');
+    }
+  }
+
   // --- DEĞİŞKENLER (STATE) ---
 
   // --- GÖSTERİLEN VAKİTLER (DOĞRULANMIŞ) ---
@@ -294,18 +339,9 @@ Future<void> _hedefKaydet(int deger) async {
     // edilemiyor ve ekran kapansa bile sayaç artmaya devam ediyordu.
     try {
       _sesAboneligi = PerfectVolumeControl.stream.listen((value) {
-        if (!mounted) return;
-        setState(() {
-          PerfectVolumeControl.hideUI = true;
-          zikirSayaci++;
-        });
-        _zikirKaydet(zikirSayaci);
-
-        if (zikirHedefi > 0 && zikirSayaci % zikirHedefi == 0 && zikirSayaci > 0) {
-          HapticFeedback.heavyImpact();
-        } else {
-          HapticFeedback.lightImpact();
-        }
+        if (!mounted || _zikirPanelState == null) return;
+        PerfectVolumeControl.hideUI = true;
+        _zikirArtir();
       });
     } catch (e) {
       // Masaüstü platformlarda bu eklenti olmayabilir; zikirmatik
@@ -547,6 +583,7 @@ Future<void> _hedefKaydet(int deger) async {
   // 5. BELLEK YÖNETİMİ (Kritik Edge Case)
   @override
   void dispose() {
+    _zikirPanelState = null;
     _zamanlayici?.cancel();
     WidgetsBinding.instance.removeObserver(_yasamDongusuGozcusu);
     // Abonelik kapatılır. Bu yapılmazsa ekran kapansa bile ses olayları
@@ -1531,6 +1568,7 @@ Future<void> _hedefKaydet(int deger) async {
       builder: (BuildContext context) {
         return StatefulBuilder(
           builder: (BuildContext context, StateSetter setModalState) {
+            _zikirPanelState = setModalState;
             bool karanlikMi = Theme.of(context).brightness == Brightness.dark;
             
             return Container(
@@ -1560,11 +1598,8 @@ Future<void> _hedefKaydet(int deger) async {
                   
                   // DEV ZİKİR BUTONU
                   GestureDetector(
-  onTap: () {
-    setModalState(() { zikirSayaci++; });
-    _zikirKaydet(zikirSayaci);
-    // ... titreşim kodların ...
-  },
+  key: const Key('zikir_artir'),
+  onTap: _zikirArtir,
   // ÇÖZÜM BURADA:
   child: Container(
     width: 250, // Genişliği artırdık
@@ -1593,7 +1628,14 @@ Future<void> _hedefKaydet(int deger) async {
   ),
 ),
                   const SizedBox(height: 16),
-                  
+                  if (zikirHedefi > 0 && zikirSayaci >= zikirHedefi)
+                    Padding(
+                      padding: const EdgeInsets.only(bottom: 8),
+                      child: Text('zikir_hedef_tamamlandi'.tr(),
+                          textAlign: TextAlign.center,
+                          style: TextStyle(color: Theme.of(context).colorScheme.primary,
+                              fontWeight: FontWeight.bold)),
+                    ),
                   // ALT BUTONLAR (Sıfırla ve Hedef)
                   Wrap(
                     alignment: WrapAlignment.center,
@@ -1613,6 +1655,7 @@ Future<void> _hedefKaydet(int deger) async {
 
                       // YENİ: HEDEF BELİRLEME BUTONU (Açılır Menü)
                       PopupMenuButton<int>(
+                        key: const Key('zikir_hedef_sec'),
                         initialValue: zikirHedefi,
                         onSelected: (int yeniHedef) {
                           setModalState(() { zikirHedefi = yeniHedef; });
@@ -1623,22 +1666,22 @@ Future<void> _hedefKaydet(int deger) async {
                         itemBuilder: (BuildContext context) => <PopupMenuEntry<int>>[
                           PopupMenuItem<int>(
                               value: 33,
-                              child: Text('hedef_sayisi'.tr(args: ['33']))),
+                              child: Text('hedef_sayisi'.tr(namedArgs: {'sayi': '33'}))),
                           PopupMenuItem<int>(
                               value: 66,
-                              child: Text('hedef_sayisi'.tr(args: ['66']))),
+                              child: Text('hedef_sayisi'.tr(namedArgs: {'sayi': '66'}))),
                           PopupMenuItem<int>(
                               value: 99,
-                              child: Text('hedef_sayisi'.tr(args: ['99']))),
+                              child: Text('hedef_sayisi'.tr(namedArgs: {'sayi': '99'}))),
                           PopupMenuItem<int>(
                               value: 100,
-                              child: Text('hedef_sayisi'.tr(args: ['100']))),
+                              child: Text('hedef_sayisi'.tr(namedArgs: {'sayi': '100'}))),
                           PopupMenuItem<int>(
                               value: 500,
-                              child: Text('hedef_sayisi'.tr(args: ['500']))),
+                              child: Text('hedef_sayisi'.tr(namedArgs: {'sayi': '500'}))),
                           PopupMenuItem<int>(
                               value: 1000,
-                              child: Text('hedef_sayisi'.tr(args: ['1000']))),
+                              child: Text('hedef_sayisi'.tr(namedArgs: {'sayi': '1000'}))),
                         ],
                         // Butonun Görünümü
                         child: Container(
@@ -1653,7 +1696,7 @@ Future<void> _hedefKaydet(int deger) async {
                               Icon(Icons.flag, color: Theme.of(context).colorScheme.primary, size: 20),
                               const SizedBox(width: 8),
                               Text(
-                                'Hedef: $zikirHedefi', 
+                                'hedef_sayisi'.tr(namedArgs: {'sayi': '$zikirHedefi'}),
                                 style: TextStyle(fontWeight: FontWeight.bold, color: Theme.of(context).colorScheme.primary)
                               ),
                             ],
@@ -1671,7 +1714,10 @@ Future<void> _hedefKaydet(int deger) async {
           }
         );
       }
-    );
+    ).whenComplete(() {
+      _zikirPanelState = null;
+      if (Platform.isAndroid || Platform.isIOS) PerfectVolumeControl.hideUI = false;
+    });
   }
 
   // 9. EKRAN ÇİZİMİ (UI)
@@ -2404,10 +2450,12 @@ Future<void> _hedefKaydet(int deger) async {
   // Mevcut _zikirYukle fonksiyonunu şu şekilde güncelle:
   Future<void> _zikirYukle() async {
     final prefs = await SharedPreferences.getInstance();
+    if (!mounted) return;
     setState(() {
       zikirSayaci = prefs.getInt('kayitli_zikir') ?? 0;
       zikirHedefi = prefs.getInt('kayitli_hedef') ?? 33; // Hedefi de hafızadan çek
     });
+    _zikirPanelState?.call(() {});
   }
 }
 // 4. DURUMU DEĞİŞEBİLEN EKRAN (StatefulWidget)

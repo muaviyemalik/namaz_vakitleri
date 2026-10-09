@@ -79,6 +79,8 @@ const List<String> zorunluAnahtarlar = <String>[
   'yuksek_enlem_hesaplanmis_not',
   // --- Zikirmatik hedefi ---
   'hedef_sayisi',
+  'zikir_hedef_tamamlandi',
+  'zikir_hedef_bildirim',
   // --- Diyanet veri ayrintilari (kullaniciya gosterilir) ---
   'diyanet_aralik_var',
   'diyanet_aralik_yayimlanmadi',

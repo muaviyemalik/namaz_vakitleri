@@ -50,6 +50,8 @@
   "found_qible": "شما رو به قبله هستید!",
   "hadith_of_the_day": "حدیث امروز",
   "hedef_sayisi": "هدف: {sayi}",
+  "zikir_hedef_tamamlandi": "هدف تکمیل شد",
+  "zikir_hedef_bildirim": "به هدف {sayi} ذکر رسیدید.",
   "high_latency": "تنظیم عرض جغرافیایی بالا",
   "high_latency_setting": "تنظیم عرض جغرافیایی بالا: {}",
   "isha": "عشاء",
