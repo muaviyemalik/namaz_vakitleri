@@ -1,6 +1,6 @@
 # AI devir — güncel çalışma belleği
 Son güncelleme: 9 Ekim 2026. Asıl mimari ARCHITECTURE.md; ayrıntı görev raporlarında.
-- Son çeviri/AVD test araçları önce doğrulandı; kullanıcı talimatıyla fix/diyanet-2026-archive → main birleştirme kapsamındadır. Tarihsel commit/push yok kayıtları önceki oturumlara aittir.
+- 9 Ekim: fix/diyanet-2026-archive main ile 672df24 merge commit üzerinden birleştirildi; GitHub main SHA doğrulandı. Aktif dal main; eski commit/push yok kayıtları tarihseldir.
 ## 9 Ekim AVD arka plan/UI doğrulaması
 - HEAD4c839f7, Medium_Phone Android17: ekran kapalı ezan PLAYING/FGS; deep Doze bildirim; gerçek reboot sonrası Activity açmadan alarm teslimi PASS.
 - Altı ses decode PASS. Eski runner ringer silent FAIL; sonraki DND/ses kısma koşulları bu tur doğrulanmadı.
@@ -92,7 +92,7 @@ Son güncelleme: 9 Ekim 2026. Asıl mimari ARCHITECTURE.md; ayrıntı görev rap
   (3 regresyon ve test timezone başlangıcı), bu handoff. Commit/push/merge yok.
 ## Çalışma durumu
 - Aktif kopya C:/Users/malik/Desktop/namaz_vakitleri_kod; Documents kopyası geride.
-- Repo muaviyemalik/namaz_vakitleri, dal fix/diyanet-2026-archive.
+- Repo muaviyemalik/namaz_vakitleri, aktif dal main; kaynak dal fix/diyanet-2026-archive.
 - Checkpoint öncesi HEAD 0f05a9b17531f05c13e382acd736f041860a1328; sürüm 1.1.0+2. Güncel commit için git rev-parse HEAD kullan.
 - 9 Ekim checkpoint: mevcut kaynak/asset/test/belgeler bu dalda commit ve push kapsamındadır; main birleşmesi yok. Yerel geri_donus kanıtları yükleme dışıdır.
 - 81 il/862 veri bulunan CityID/865 katalog, 2026–2027 kesintisiz 730 gün.
