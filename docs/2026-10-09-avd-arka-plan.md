@@ -33,3 +33,10 @@ Sabit Türkçe yöntem başlığı kaynak_diyanet.tr() ile mevcut 25 dil çeviri
 - Final debug ve androidTest APK build/install PASS; yalnız AVD güncellendi. DND0/ringerNORMAL/forceIdlefalse/battery reset, native settings XML eşitliği doğrulandı. Test alarmları/bildirimleri ve test APK kaldırıldı; uygulama yeniden açıldı. POCO kullanılmadı.
 - Son kanıt: C:/Users/malik/Documents/ChatGPT/second_brain_v2/.codex/outputs/avd-final-20261009/; silent-dnd-fixed-final.log20PASS, widget.log14PASS, widget-host.log4PASS, doze-notifications/media, direct-volume ve screen kayıtları, build-fix.log.
 - Yeni native bildirim koruma düzeltmesi ve test araçları henüz commit/push değil. Doze/sessiz/DND alarm testleri bu ortamda tamamlandı. Doğal saatler/günler idle, OEM/fiziksel ses-titreşim/iOS ve tüm dil-boyut görsel matrisi ayrı sınırdır.
+
+## POCO C65 doğrulaması — 9 Ekim 2026
+- Android15 NJKBA6CIOZXOLVDY: mevcut APK yedeklendi, veri silinmeden güncel debug APK kuruldu. Sessiz/DND/ses tuşu/ekran geçişi/bildirim koruma matrisi20 PASS; widget14 + gerçek host4 PASS.
+- İlk tekli ses tekrarlarında instrumentation bitişi ActivityManager tarafından target force-stop yaptı; plan kaydı kaldığı halde test alarmı sistemden silindi. Bu test yaşam döngüsü sorunudur; üretim alarmı hatası olarak raporlanmaz. androidTest runner isteğe bağlı hold(ms, en çok300000) ile teslim penceresinde açık kalır. Sadece test APK derlendi.
+- Hold40000/delay8000 koşusunda NamazEzan gerçek MediaSession doğrulandı. Malik son denemede ezan sesini duyduğunu açıkça bildirdi. Test sesi geçici8/15; sonunda önceki1/15 geri alındı. Test alarm/bildirim ve APK kaldırıldı, native ayarlar geri yüklendi.
+- Telefon interneti/hotspot kapatılmadı. Fiziksel forceDoze/reboot/offline denenmedi: PC telefon internetine bağlı. Doğal uzun idle, zikirmatik titreşiminin fiziksel hissi, bütün dil-boyut matrisi ve yayın izinleri ayrı açık.
+- Kanıt: C:/Users/malik/Documents/ChatGPT/second_brain_v2/.codex/outputs/poco-final-20261009/; silent-dnd.log, widget.log, widget-host.log, held-media.txt. Önceki AVD düzeltmesi e53226b ile main üzerinden GitHub'a gönderildi; uzak SHA doğrulandı.

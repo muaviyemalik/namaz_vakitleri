@@ -59,7 +59,14 @@ class EzanKontrolRunner : Instrumentation() {
     }
     override fun onStart() {
         emulatorArgs?.let { args ->
-            try { finish(-1, Bundle().apply { putString("stream", "\n" + EmulatorKontrol.run(this@EzanKontrolRunner, args)) }) }
+            try {
+                val report = EmulatorKontrol.run(this@EzanKontrolRunner, args)
+                // Some OEMs force-stop the target when instrumentation finishes,
+                // cancelling its alarms. Keep this test process alive for delivery.
+                val hold = args.getString("hold")?.toLongOrNull()?.coerceIn(0, 300000) ?: 0
+                SystemClock.sleep(hold)
+                finish(-1, Bundle().apply { putString("stream", "\n" + report) })
+            }
             catch(e: Throwable) { finish(0, Bundle().apply { putString("stream", "FAIL " + android.util.Log.getStackTraceString(e)) }) }
             return
         }
