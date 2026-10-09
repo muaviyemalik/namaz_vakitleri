@@ -2,13 +2,13 @@
 Son güncelleme: 9 Ekim 2026. Asıl mimari ARCHITECTURE.md; ayrıntı görev raporlarında.
 - 9 Ekim: fix/diyanet-2026-archive main ile 672df24 merge commit üzerinden birleştirildi; GitHub main SHA doğrulandı. Aktif dal main; eski commit/push yok kayıtları tarihseldir.
 ## 9 Ekim dinamik görünüm
-- Main/444ebdf üzerinde yerel dinamik başlık/hedef/sayaç/hata ekranı ve widget ölçü düzeltmeleri; doğrulama docs/2026-10-09-gorunum-kontrolu.md. 25 dil ×3 ekran/yazı koşulu, widget min/orta/geniş ve font1/2 kontrolü. Uzun bekleme Malik tarafından kapsamdan çıkarıldı; bugünkü gerçek kullanım doğru saatlerde çalıştı.
+- Dinamik başlık/hedef/sayaç/hata ekranı ve widget ölçü düzeltmeleri fd2724c ile GitHub main üzerinde; 79 Flutter+52 native kontrol PASS; doğrulama docs/2026-10-09-gorunum-kontrolu.md. 25 dil ×3 ekran/yazı koşulu, widget min/orta/geniş ve font1/2 kontrolü. Uzun bekleme Malik tarafından kapsamdan çıkarıldı; bugünkü gerçek kullanım doğru saatlerde çalıştı.
 ## 9 Ekim AVD arka plan/UI doğrulaması
 - HEAD4c839f7, Medium_Phone Android17: ekran kapalı ezan PLAYING/FGS; deep Doze bildirim; gerçek reboot sonrası Activity açmadan alarm teslimi PASS.
 - Son AVD turu: sessiz/DND/ses kısma/ekran geçişi+bildirim koruma20PASS; widget14+gerçek host4PASS. Önceki ringer silent başarısızlığı test sırası/API kaynaklıydı.
 - Font180% Türkçe/İngilizce ana ekran ve Arapça RTL zikir/ayar/bildirim ayarlarında görünür taşma yok; tüm dil/ekran matrisi değil. İngilizce sabit Türkçe başlık kaynak_diyanet çevirisine bağlandı; 7 kaynak+10 çeviri PASS, yeni APK AVD EN başlığı doğrulandı.
 - Tercihler/şehir/sayaç/ezan ayarları korundu, font1.0/idle normal, test APK kaldırıldı; POCO kullanılmadı.
-- EzanServisi stop→500ms bildirim düzeltmesi e53226b/main ile GitHub üzerinde. POCO Android15 matrisi20/widget18PASS; gerçek ezan sesi Malik tarafından duyuldu. Test runner hold OEM instrumentation force-stop kaynaklı test alarmı iptalini önler. POCO zikirmatik33 hedef bildirimi ve dokunma titreşimi Malik tarafından doğrulandı. Fiziksel uzun idle/iOS, tüm dil-boyut ve yayın izinleri açık; kanıt docs/2026-10-09-avd-arka-plan.md.
+- EzanServisi stop→500ms bildirim düzeltmesi e53226b/main ile GitHub üzerinde. POCO Android15 matrisi20/widget18PASS; gerçek ezan sesi Malik tarafından duyuldu. Test runner hold OEM instrumentation force-stop kaynaklı test alarmı iptalini önler. POCO zikirmatik33 hedef bildirimi ve dokunma titreşimi Malik tarafından doğrulandı. iOS cihaz doğrulaması ve yayın izinleri ayrı açık; dil-boyut kontrolü tamamlandı, uzun bekleme kullanıcı isteğiyle kapsam dışı; kanıt docs/2026-10-09-avd-arka-plan.md.
 ## 9 Ekim zikirmatik hedef düzeltmesi
 - Hedef menüsünde {sayi} namedArgs ile doldurulur; altı sayı ve seçili hedef çevrilir.
 - Dokunma/ses düğmesi aynı artış yolunda; yalnız açık panelde sayar ve panel anında güncellenir.
