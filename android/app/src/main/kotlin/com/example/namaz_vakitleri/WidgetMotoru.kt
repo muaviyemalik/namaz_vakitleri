@@ -84,6 +84,14 @@ object WidgetMotoru {
     fun render(c: Context, kind: String, p: JSONObject = snapshot(c), now: Long = System.currentTimeMillis(), width: Int = 320, height: Int = 240): RemoteViews {
         val layout = when (kind) { "daily" -> R.layout.widget_gunluk; "ayah" -> R.layout.widget_ayet; "hadith" -> R.layout.widget_hadis; else -> R.layout.widget_vakit }
         val v = RemoteViews(c.packageName, layout)
+        if (kind in listOf("ayah", "hadith")) {
+            val compactText = height < 180 && c.resources.configuration.fontScale > 1.3f
+            val padding = ((if (compactText) 6 else 14) * c.resources.displayMetrics.density).toInt()
+            v.setViewPadding(R.id.widget_body, padding, padding, padding, padding)
+            // Preserve content and attribution in a short widget with large text.
+            v.setViewVisibility(R.id.widget_city, if (compactText) View.GONE else View.VISIBLE)
+            v.setViewVisibility(R.id.widget_date, if (compactText) View.GONE else View.VISIBLE)
+        }
         v.setInt(R.id.widget_root, "setLayoutDirection", if(p.optString("language") in listOf("ara","fas")) View.LAYOUT_DIRECTION_RTL else View.LAYOUT_DIRECTION_LTR)
         v.setImageViewBitmap(R.id.widget_background, background(c, width, height, color(p,"surface"), color(p,"card"), color(p,"outline")))
         val launch = PendingIntent.getActivity(c, 40, Intent(c, MainActivity::class.java), PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE)
@@ -122,6 +130,16 @@ object WidgetMotoru {
         v.setTextViewText(R.id.widget_source, if (today == null) unavailable else if (!exact) label(p,"approximate", unavailable) else p.optString("source"))
         v.setTextColor(R.id.widget_source, color(p,"muted"))
         if (kind == "daily") {
+            val shortGrid = height < 280 * c.resources.configuration.fontScale.coerceAtLeast(1f)
+            val largeText = c.resources.configuration.fontScale > 1.3f
+            if (shortGrid) {
+                v.setViewVisibility(R.id.widget_title, View.GONE)
+                v.setViewVisibility(R.id.widget_countdown, View.GONE)
+                if (largeText) {
+                    v.setViewVisibility(R.id.widget_next, View.GONE)
+                    v.setViewVisibility(R.id.widget_next_time, View.GONE)
+                }
+            }
             val names = intArrayOf(R.id.widget_name_0,R.id.widget_name_1,R.id.widget_name_2,R.id.widget_name_3,R.id.widget_name_4,R.id.widget_name_5)
             val times = intArrayOf(R.id.widget_time_0,R.id.widget_time_1,R.id.widget_time_2,R.id.widget_time_3,R.id.widget_time_4,R.id.widget_time_5)
             val backgrounds = intArrayOf(R.id.widget_tile_0,R.id.widget_tile_1,R.id.widget_tile_2,R.id.widget_tile_3,R.id.widget_tile_4,R.id.widget_tile_5)

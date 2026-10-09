@@ -1,6 +1,8 @@
 # AI devir — güncel çalışma belleği
 Son güncelleme: 9 Ekim 2026. Asıl mimari ARCHITECTURE.md; ayrıntı görev raporlarında.
 - 9 Ekim: fix/diyanet-2026-archive main ile 672df24 merge commit üzerinden birleştirildi; GitHub main SHA doğrulandı. Aktif dal main; eski commit/push yok kayıtları tarihseldir.
+## 9 Ekim dinamik görünüm
+- Main/444ebdf üzerinde yerel dinamik başlık/hedef/sayaç/hata ekranı ve widget ölçü düzeltmeleri; doğrulama docs/2026-10-09-gorunum-kontrolu.md. 25 dil ×3 ekran/yazı koşulu, widget min/orta/geniş ve font1/2 kontrolü. Uzun bekleme Malik tarafından kapsamdan çıkarıldı; bugünkü gerçek kullanım doğru saatlerde çalıştı.
 ## 9 Ekim AVD arka plan/UI doğrulaması
 - HEAD4c839f7, Medium_Phone Android17: ekran kapalı ezan PLAYING/FGS; deep Doze bildirim; gerçek reboot sonrası Activity açmadan alarm teslimi PASS.
 - Son AVD turu: sessiz/DND/ses kısma/ekran geçişi+bildirim koruma20PASS; widget14+gerçek host4PASS. Önceki ringer silent başarısızlığı test sırası/API kaynaklıydı.

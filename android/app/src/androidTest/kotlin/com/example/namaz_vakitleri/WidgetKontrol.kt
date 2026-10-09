@@ -80,8 +80,11 @@ object WidgetKontrol {
                     val rv = WidgetMotoru.render(c,kind,source,early,width,height)
                     val view = rv.apply(c,null)
                     val w=(width*density).toInt(); val h=(height*density).toInt()
-                    view.measure(View.MeasureSpec.makeMeasureSpec(w,View.MeasureSpec.EXACTLY),View.MeasureSpec.makeMeasureSpec(h,View.MeasureSpec.EXACTLY))
-                    view.layout(0,0,w,h)
+                    // Auto-size can request a second layout, as a real widget host performs.
+                    repeat(2) {
+                        view.measure(View.MeasureSpec.makeMeasureSpec(w,View.MeasureSpec.EXACTLY),View.MeasureSpec.makeMeasureSpec(h,View.MeasureSpec.EXACTLY))
+                        view.layout(0,0,w,h)
+                    }
                     val bitmap=Bitmap.createBitmap(w,h,Bitmap.Config.ARGB_8888)
                     view.draw(Canvas(bitmap))
                     File(c.getExternalFilesDir(null),"widget-$name.png").outputStream().use { bitmap.compress(Bitmap.CompressFormat.PNG,100,it) }
@@ -101,6 +104,30 @@ object WidgetKontrol {
                 capture("hadith",320,200,p,"hadith")
                 val stale=capture("daily",320,250,JSONObject(p.toString()).put("days",JSONArray()),"expired")
                 verify(stale.findViewById<Chronometer>(R.id.widget_countdown).visibility == View.GONE,"expired data hides countdown")
+                for ((kind, sizes) in mapOf(
+                    "daily" to listOf(250 to 220, 320 to 250, 500 to 320),
+                    "compact" to listOf(150 to 150, 240 to 200, 400 to 260),
+                    "ayah" to listOf(200 to 140, 320 to 200, 500 to 320),
+                    "hadith" to listOf(200 to 140, 320 to 200, 500 to 320))) {
+                    for ((w,h) in sizes) {
+                        val view = capture(kind,w,h,p,"matrix-$kind-$w-$h")
+                        val id = if (kind in listOf("ayah","hadith")) R.id.widget_reference
+                            else if (kind == "daily") R.id.widget_source else R.id.widget_countdown
+                        val text = view.findViewById<TextView>(id)
+                        val rect = android.graphics.Rect()
+                        verify(text.getGlobalVisibleRect(rect) && rect.height() >= text.height,
+                            "$kind ${w}x$h footer fully visible font=${c.resources.configuration.fontScale}")
+                        if (kind == "daily") {
+                            for (timeId in intArrayOf(R.id.widget_time_0,R.id.widget_time_1,R.id.widget_time_2,R.id.widget_time_3,R.id.widget_time_4,R.id.widget_time_5)) {
+                                val clock = view.findViewById<TextView>(timeId)
+                                val clockRect = android.graphics.Rect()
+                                check(clock.getGlobalVisibleRect(clockRect) && clockRect.height() >= clock.height &&
+                                    clock.layout.height <= clock.height - clock.compoundPaddingTop - clock.compoundPaddingBottom &&
+                                    clock.layout.getEllipsisCount(0) == 0) { "daily ${w}x$h prayer time clipped font=${c.resources.configuration.fontScale} view=${clock.height} visible=${clockRect.height()} layout=${clock.layout.height} padding=${clock.compoundPaddingTop + clock.compoundPaddingBottom} ellipsis=${clock.layout.getEllipsisCount(0)}" }
+                            }
+                        }
+                    }
+                }
             } catch (e: Throwable) { problem=e }
         }
         problem?.let { throw it }

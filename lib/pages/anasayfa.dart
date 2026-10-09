@@ -1611,7 +1611,7 @@ Future<void> _hedefKaydet(int deger) async {
       border: Border.all(color: Theme.of(context).colorScheme.primary.withOpacity(0.2), width: 2),
     ),
     child: Center(
-      child: AnimatedSwitcher(
+      child: FittedBox(fit: BoxFit.scaleDown, child: AnimatedSwitcher(
         duration: const Duration(milliseconds: 150),
         transitionBuilder: (child, animation) => ScaleTransition(scale: animation, child: child),
         child: Text(
@@ -1623,7 +1623,7 @@ Future<void> _hedefKaydet(int deger) async {
             color: Theme.of(context).colorScheme.primary
           ),
         ),
-      ),
+      )),
     ),
   ),
 ),
@@ -1695,10 +1695,10 @@ Future<void> _hedefKaydet(int deger) async {
                             children: [
                               Icon(Icons.flag, color: Theme.of(context).colorScheme.primary, size: 20),
                               const SizedBox(width: 8),
-                              Text(
+                              Flexible(child: Text(
                                 'hedef_sayisi'.tr(namedArgs: {'sayi': '$zikirHedefi'}),
                                 style: TextStyle(fontWeight: FontWeight.bold, color: Theme.of(context).colorScheme.primary)
-                              ),
+                              )),
                             ],
                           ),
                         ),
@@ -2131,7 +2131,7 @@ Future<void> _hedefKaydet(int deger) async {
   Widget _hataEkrani(BuildContext context) {
     final bool karanlikMi = Theme.of(context).brightness == Brightness.dark;
 
-    return Padding(
+    return SingleChildScrollView(child: Padding(
       padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 24),
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
@@ -2209,7 +2209,7 @@ Future<void> _hedefKaydet(int deger) async {
           ),
         ],
       ),
-    );
+    ));
   }
 
   /// Reddedilen cevabin gerekcesini kullanici diline cevirir.
@@ -2267,17 +2267,18 @@ Future<void> _hedefKaydet(int deger) async {
           child: Column(
             children: [
               Text('$miladiTarih', style: TextStyle(fontSize: 16, color: altMetinRengi)),
-              Text('${siradakiVakitIsmi.tr()} ${"time_remaining".tr()}', style: TextStyle(fontSize: 16, color: altMetinRengi)),
+              Text('${siradakiVakitIsmi.tr()} ${"time_remaining".tr()}', textAlign: TextAlign.center, style: TextStyle(fontSize: 16, color: altMetinRengi)),
               const SizedBox(height: 10),
-              Text(
+              FittedBox(fit: BoxFit.scaleDown, child: Text(
                 kalanSureMetni, 
+                maxLines: 1,
                 style: TextStyle(
                   fontSize: 50, 
                   fontWeight: FontWeight.bold, 
                   color: anaMetinRengi, // Parlamayan, yumuşatılmış ana renk
                   letterSpacing: 2
                 )
-              ),
+              )),
             ],
           ),
         ),
@@ -2338,14 +2339,12 @@ Future<void> _hedefKaydet(int deger) async {
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  const Spacer(), 
                   Icon(Icons.format_quote, color: Theme.of(context).colorScheme.primary),
                   const SizedBox(width: 8),
                   // JSON'DAN BAŞLIĞI ÇEKİYORUZ
-                  Text("ayah_of_the_day".tr(), style: TextStyle(fontWeight: FontWeight.bold, color: Theme.of(context).colorScheme.primary, fontSize: 16)),
+                  Expanded(child: Text("ayah_of_the_day".tr(), textAlign: TextAlign.center, style: TextStyle(fontWeight: FontWeight.bold, color: Theme.of(context).colorScheme.primary, fontSize: 16))),
                   const SizedBox(width: 8),
                   Icon(Icons.format_quote, color: Theme.of(context).colorScheme.primary),
-                  const Spacer(), 
                   
                   IconButton(
                     icon: Icon(Icons.share, color: Theme.of(context).colorScheme.primary, size: 20),
@@ -2406,14 +2405,12 @@ Future<void> _hedefKaydet(int deger) async {
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  const Spacer(),
                   Icon(Icons.menu_book, color: Theme.of(context).colorScheme.secondary),
                   const SizedBox(width: 8),
                   // JSON'DAN BAŞLIĞI ÇEKİYORUZ
-                  Text("hadith_of_the_day".tr(), style: TextStyle(fontWeight: FontWeight.bold, color: Theme.of(context).colorScheme.secondary, fontSize: 16)),
+                  Expanded(child: Text("hadith_of_the_day".tr(), textAlign: TextAlign.center, style: TextStyle(fontWeight: FontWeight.bold, color: Theme.of(context).colorScheme.secondary, fontSize: 16))),
                   const SizedBox(width: 8),
                   Icon(Icons.menu_book, color: Theme.of(context).colorScheme.secondary),
-                  const Spacer(),
                   
                   IconButton(
                     icon: Icon(Icons.share, color: Theme.of(context).colorScheme.secondary, size: 20),
